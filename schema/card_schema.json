@@ -1,0 +1,126 @@
+{
+    "additionalProperties": false,
+    "properties": {
+        "advancementcost": {
+            "minimum": 0,
+            "type": "integer"
+        },
+        "agendapoints": {
+            "minimum": 0,
+            "type": "integer"
+        },
+        "baselink": {
+            "minimum": 0,
+            "type": "integer"
+        },
+        "code": {
+            "pattern": "^[0-9]{5}$",
+            "type": "string"
+        },
+        "cost": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "cycle_code": {
+            "type": "string"
+        },
+        "faction_code": {
+            "enum": [
+                "adam",
+                "anarch",
+                "apex",
+                "criminal",
+                "shaper",
+                "sunny-lebeau",
+                "haas-bioroid",
+                "jinteki",
+                "nbn",
+                "weyland-consortium",
+                "neutral"
+            ]
+        },
+        "factioncost": {
+            "type": "integer"
+        },
+        "flavor": {
+            "type": "string"
+        },
+        "illustrator": {
+            "type": "string"
+        },
+        "influencelimit": {
+            "type": "integer"
+        },
+        "keywords": {
+            "type": "string"
+        },
+        "limited": {
+            "type": "integer"
+        },
+        "memoryunits": {
+            "type": "integer"
+        },
+        "minimumdecksize": {
+            "type": "integer"
+        },
+        "number": {
+            "type": "integer"
+        },
+        "pack_code": {
+            "type": "string"
+        },
+        "quantity": {
+            "type": "number"
+        },
+        "side_code": {
+            "type": "string"
+        },
+        "strength": {
+            "oneOf": [
+                {
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "text": {
+            "type": "string"
+        },
+        "title": {
+            "type": "string"
+        },
+        "trashcost": {
+            "minimum": 0,
+            "type": "integer"
+        },
+        "type_code": {
+            "type": "string"
+        },
+        "uniqueness": {
+            "type": "boolean"
+        }
+    },
+    "required": [
+        "code",
+        "cycle_code",
+        "faction_code",
+        "limited",
+        "number",
+        "pack_code",
+        "side_code",
+        "quantity",
+        "title",
+        "type_code",
+        "uniqueness"
+    ],
+    "type": "object"
+}

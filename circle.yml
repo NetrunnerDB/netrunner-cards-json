@@ -1,0 +1,12 @@
+machine:
+  python:
+    version: 2.7.10
+
+dependencies:
+  override:
+    - pip install -U functools32
+    - pip install -U jsonschema
+
+test:
+  override:
+    - python ./validate.py -v
