@@ -5,7 +5,7 @@ Netrunner cards JSON data [![Build status](https://circleci.com/gh/zaroth/netrun
 
 Using python >=2.6, type in command line:
 
-  ./validate.py --verbose --fix_formatting
+    ./validate.py --verbose --fix_formatting
 
 Or just try to follow the style existing files (formatted by the above command) use when editing entries.
 
