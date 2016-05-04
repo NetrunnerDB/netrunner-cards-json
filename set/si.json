@@ -90,7 +90,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 3,
-        "text": "1[Credits]: Break up to 2 ice subroutines.\n2[Credits]: +1 strength.\nWhenever an encounter with a piece of ice in which you used Brahman to break a subroutine ends, add 1 installed non-<strong>virus</strong> program to the top of your deck.",
+        "text": "1[Credits]: Break up to 2 ice subroutines.\n2[Credits]: +1 strength.\nWhenever an encounter with a piece of ice in which you used Brahman to break a subroutine ends, add 1 installed non-<strong>virus</strong> program to the top of your stack.",
         "title": "Brahman",
         "type_code": "program",
         "uniqueness": false
@@ -145,7 +145,7 @@
         "pack_code": "si",
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you install a piece of hardware from your grip, you may install another piece of hardware from your grip (paying all costs).",
+        "text": "Whenever you install a piece of hardware from your grip, you may install another copy of that hardware from your grip (paying all costs).",
         "title": "Bazaar",
         "type_code": "resource",
         "uniqueness": false
