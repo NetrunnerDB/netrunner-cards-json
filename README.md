@@ -11,7 +11,9 @@ Using python >=2.6, type in command line:
 ./validate.py --verbose --fix_formatting
 ```
 
-Or just try to follow the style existing files (formatted by the above command) use when editing entries.
+The above script requires python package `jsonschema` which can be installed using `pip` via `pip install -U jsonschema`.
+
+You can also just try to follow the style existing files use when editing entries. They are all formatted and checked using the script above.
 
 ### JSON text editing tips
 
