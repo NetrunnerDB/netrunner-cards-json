@@ -2,7 +2,14 @@
     "additionalProperties": false,
     "properties": {
         "available": {
-            "type": "string"
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "string"
+                }
+            ]
         },
         "code": {
             "type": "string"
