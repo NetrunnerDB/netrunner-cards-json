@@ -43,6 +43,11 @@ def check_mwl(args):
     mwl_path = os.path.join(args.base_path, "mwl.json")
     load_json_file(args, mwl_path)
 
+def custom_card_check(args, card, set_code):
+    "Performs more in-depth sanity checks than jsonschema validator is capable of. Assumes that the basic schema validation has already completed successfully."
+    if card["pack_code"] != set_code:
+        raise jsonschema.ValidationError("Pack code '%s' of the card '%s' doesn't match the set code '%s' of the file it appears in." % (card["pack_code"], card["code"], set_code))
+
 def format_json(json_data):
     formatted_data = json.dumps(json_data, sort_keys=True, indent=4, separators=(',', ': '))
     formatted_data += "\n"
@@ -116,12 +121,13 @@ def parse_commandline():
 
     return args
 
-def validate_card(args, card, card_schema):
+def validate_card(args, card, card_schema, set_code):
     global validation_errors
 
     try:
         verbose_print(args, "Validating card %s... " % card["title"], 2)
         jsonschema.validate(card, card_schema)
+        custom_card_check(args, card, set_code)
         verbose_print(args, "OK\n", 2)
     except jsonschema.ValidationError as e:
         verbose_print(args, "ERROR\n",2)
@@ -149,7 +155,7 @@ def validate_cards(args, sets_data):
             continue
 
         for card in set_data:
-            validate_card(args, card, CARD_SCHEMA)
+            validate_card(args, card, CARD_SCHEMA, s["code"])
 
 def validate_sets(args, sets_data):
     global validation_errors

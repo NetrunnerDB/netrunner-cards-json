@@ -29,7 +29,19 @@
             ]
         },
         "cycle_code": {
-            "type": "string"
+            "enum": [
+                "draft",
+                "core",
+                "genesis",
+                "creation-and-control",
+                "spin",
+                "honor-and-profit",
+                "lunar",
+                "order-and-chaos",
+                "sansan",
+                "data-and-destiny",
+                "mumbad"
+            ]
         },
         "faction_code": {
             "enum": [
@@ -47,6 +59,7 @@
             ]
         },
         "factioncost": {
+            "minimum": 0,
             "type": "integer"
         },
         "flavor": {
@@ -56,31 +69,40 @@
             "type": "string"
         },
         "influencelimit": {
+            "minimum": 0,
             "type": "integer"
         },
         "keywords": {
             "type": "string"
         },
         "limited": {
+            "minimum": 1,
             "type": "integer"
         },
         "memoryunits": {
+            "minimum": 0,
             "type": "integer"
         },
         "minimumdecksize": {
+            "minimum": 0,
             "type": "integer"
         },
         "number": {
+            "minimum": 1,
             "type": "integer"
         },
         "pack_code": {
             "type": "string"
         },
         "quantity": {
-            "type": "number"
+            "minimum": 1,
+            "type": "integer"
         },
         "side_code": {
-            "type": "string"
+            "enum": [
+                "corp",
+                "runner"
+            ]
         },
         "strength": {
             "oneOf": [
@@ -103,7 +125,18 @@
             "type": "integer"
         },
         "type_code": {
-            "type": "string"
+            "enum": [
+                "agenda",
+                "asset",
+                "event",
+                "hardware",
+                "ice",
+                "identity",
+                "operation",
+                "program",
+                "resource",
+                "upgrade"
+            ]
         },
         "uniqueness": {
             "type": "boolean"
