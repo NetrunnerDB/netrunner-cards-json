@@ -63,9 +63,11 @@
             "type": "integer"
         },
         "flavor": {
+            "minLength": 0,
             "type": "string"
         },
         "illustrator": {
+            "pattern": ".+",
             "type": "string"
         },
         "influencelimit": {
@@ -73,6 +75,7 @@
             "type": "integer"
         },
         "keywords": {
+            "minLength": 0,
             "type": "string"
         },
         "limited": {
@@ -92,6 +95,8 @@
             "type": "integer"
         },
         "pack_code": {
+            "maxLength": 5,
+            "minLength": 2,
             "type": "string"
         },
         "quantity": {
@@ -115,9 +120,11 @@
             ]
         },
         "text": {
+            "minLength": 1,
             "type": "string"
         },
         "title": {
+            "minLength": 1,
             "type": "string"
         },
         "trashcost": {

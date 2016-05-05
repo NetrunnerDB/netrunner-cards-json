@@ -131,7 +131,7 @@ def validate_card(args, card, card_schema, set_code):
         verbose_print(args, "OK\n", 2)
     except jsonschema.ValidationError as e:
         verbose_print(args, "ERROR\n",2)
-        verbose_print(args, "Validation error in card (code: %s title: %s)!\n" % (card.get("code"), card.get("title")), 0)
+        verbose_print(args, "Validation error in card: (set code: '%s' card code: '%s' title: '%s')\n" % (set_code, card.get("code"), card.get("title")), 0)
         validation_errors += 1
         print(e)
 
@@ -179,7 +179,7 @@ def validate_sets(args, sets_data):
             verbose_print(args, "OK\n", 2)
         except jsonschema.ValidationError as e:
             verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in set (code: %s name: %s)!\n" % (s.get("code"), s.get("name")), 0)
+            verbose_print(args, "Validation error in set: (code: '%s' name: '%s')\n" % (s.get("code"), s.get("name")), 0)
             validation_errors += 1
             print(e)
             retval = False
