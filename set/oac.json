@@ -204,7 +204,7 @@
         "pack_code": "oac",
         "quantity": 3,
         "side_code": "corp",
-        "text": "Each agenda in the Runner's score area is worth 1 fewer agenda point.\nIf the Board is trashed while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points.",
+        "text": "Each agenda in the Runner's score area is worth 1 fewer agenda point.\nIf The Board is trashed while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points.",
         "title": "The Board",
         "trashcost": 7,
         "type_code": "asset",
@@ -648,7 +648,7 @@
         "pack_code": "oac",
         "quantity": 3,
         "side_code": "runner",
-        "text": "Make a run on R&D. If successful, instead of accessing cards from the top of R&D, access cards from the bottom of R&D (starting with the bottom card and work your way up).",
+        "text": "Make a run on R&D. If successful, instead of accessing cards from the top of R&D, access cards from the bottom of R&D (starting with the bottom card and working your way up).",
         "title": "Showing Off",
         "type_code": "event",
         "uniqueness": false
@@ -1024,7 +1024,7 @@
         "pack_code": "oac",
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, you may lose [Click]. If you do, avoid the first tag you would take until the start of your next turn.",
+        "text": "When your turn begins, you may lose [Click]. If you do, avoid the first tag you take until the beginning of your next turn.",
         "title": "Qianju PT",
         "type_code": "hardware",
         "uniqueness": false

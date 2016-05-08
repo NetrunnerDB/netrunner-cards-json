@@ -13,7 +13,7 @@
         "pack_code": "up",
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click][Click][Click]: Place 1 agenda counter on Domestic Sleepers. Domestic Sleepers is worth 1 agenda point while it has at least 1 agenda counter on it.",
+        "text": "[Click],[Click],[Click]: Place 1 agenda counter on Domestic Sleepers.\nDomestic Sleepers is worth 1 agenda point while it has at least 1 agenda counter on it.",
         "title": "Domestic Sleepers",
         "type_code": "agenda",
         "uniqueness": false
@@ -130,7 +130,7 @@
         "pack_code": "up",
         "quantity": 3,
         "side_code": "corp",
-        "text": "The Runner must pay 1[Credits] as an additional cost each time he or she uses an icebreaker to break a subroutine during a run on this server.\nLimit 1 <strong>region</strong> per server.",
+        "text": "The Runner must pay 1[Credits] as an additional cost each time he or she uses an <strong>icebreaker</strong> to break at least 1 subroutine during a run on this server.\nLimit 1 <strong>region</strong> per server.",
         "title": "Midway Station Grid",
         "trashcost": 4,
         "type_code": "upgrade",
@@ -211,7 +211,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 1,
-        "text": "When the Runner encounters Galahad, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of the run, Galahad gains the subroutines of the revealed ice in the order of your choice.\n[Subroutine] End the run.",
+        "text": "When the Runner encounters Galahad, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Galahad gains the subroutines of the revealed ice in the order of your choice.\n[Subroutine] End the run.",
         "title": "Galahad",
         "type_code": "ice",
         "uniqueness": false
@@ -248,7 +248,7 @@
         "pack_code": "up",
         "quantity": 3,
         "side_code": "runner",
-        "text": "Play only as your first [Click].\nChoose a server. The Corp may rez a piece of ice protecting this server. If he or she does not, make a run on this server during which the Corp cannot rez ice.",
+        "text": "Play only as your first [Click].\nChoose a server. The Corp can rez a piece of ice protecting this server. If he or she does not, make a run on that server, during which the Corp cannot rez ice.",
         "title": "Cyber Threat",
         "type_code": "event",
         "uniqueness": false
