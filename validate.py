@@ -58,7 +58,8 @@ def load_json_file(args, path):
     global validation_errors
     try:
         with open(path, "rb") as data_file:
-            raw_data = data_file.read()
+            bin_data = data_file.read()
+        raw_data = bin_data.decode("ascii")
         json_data = json.loads(raw_data)
     except ValueError as e:
         verbose_print(args, "%s: File is not valid JSON.\n" % path, 0)
