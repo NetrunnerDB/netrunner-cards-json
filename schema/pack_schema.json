@@ -1,0 +1,51 @@
+{
+    "additionalProperties": false,
+    "properties": {
+        "available": {
+            "oneOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "code": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "cycle_code": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "name": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "position": {
+            "minimum": 1,
+            "type": "integer"
+        },
+        "size": {
+            "oneOf": [
+                {
+                    "minimum": 1,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        }
+    },
+    "required": [
+        "available",
+        "code",
+        "cycle_code",
+        "name",
+        "position",
+        "size"
+    ],
+    "type": "object"
+}
