@@ -75,14 +75,14 @@
             "minimum": 0,
             "type": "integer"
         },
-        "number": {
-            "minimum": 1,
-            "type": "integer"
-        },
         "pack_code": {
             "maxLength": 5,
             "minLength": 2,
             "type": "string"
+        },
+        "position": {
+            "minimum": 1,
+            "type": "integer"
         },
         "quantity": {
             "minimum": 1,

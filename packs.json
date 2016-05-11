@@ -1,6 +1,6 @@
 [
     {
-        "available": null,
+        "released": null,
         "code": "draft",
         "cycle_code": "draft",
         "name": "Draft",
@@ -8,7 +8,7 @@
         "size": null
     },
     {
-        "available": "2012-09-06",
+        "released": "2012-09-06",
         "code": "core",
         "cycle_code": "core",
         "name": "Core Set",
@@ -16,7 +16,7 @@
         "size": 113
     },
     {
-        "available": "2012-12-14",
+        "released": "2012-12-14",
         "code": "wla",
         "cycle_code": "genesis",
         "name": "What Lies Ahead",
@@ -24,7 +24,7 @@
         "size": 20
     },
     {
-        "available": "2013-01-09",
+        "released": "2013-01-09",
         "code": "ta",
         "cycle_code": "genesis",
         "name": "Trace Amount",
@@ -32,7 +32,7 @@
         "size": 20
     },
     {
-        "available": "2013-02-14",
+        "released": "2013-02-14",
         "code": "ce",
         "cycle_code": "genesis",
         "name": "Cyber Exodus",
@@ -40,7 +40,7 @@
         "size": 20
     },
     {
-        "available": "2013-03-21",
+        "released": "2013-03-21",
         "code": "asis",
         "cycle_code": "genesis",
         "name": "A Study in Static",
@@ -48,7 +48,7 @@
         "size": 20
     },
     {
-        "available": "2013-05-02",
+        "released": "2013-05-02",
         "code": "hs",
         "cycle_code": "genesis",
         "name": "Humanity's Shadow",
@@ -56,7 +56,7 @@
         "size": 20
     },
     {
-        "available": "2013-05-30",
+        "released": "2013-05-30",
         "code": "fp",
         "cycle_code": "genesis",
         "name": "Future Proof",
@@ -64,7 +64,7 @@
         "size": 20
     },
     {
-        "available": "2013-07-29",
+        "released": "2013-07-29",
         "code": "cac",
         "cycle_code": "creation-and-control",
         "name": "Creation and Control",
@@ -72,7 +72,7 @@
         "size": 55
     },
     {
-        "available": "2013-09-27",
+        "released": "2013-09-27",
         "code": "om",
         "cycle_code": "spin",
         "name": "Opening Moves",
@@ -80,7 +80,7 @@
         "size": 20
     },
     {
-        "available": "2013-11-07",
+        "released": "2013-11-07",
         "code": "st",
         "cycle_code": "spin",
         "name": "Second Thoughts",
@@ -88,7 +88,7 @@
         "size": 20
     },
     {
-        "available": "2013-12-13",
+        "released": "2013-12-13",
         "code": "mt",
         "cycle_code": "spin",
         "name": "Mala Tempora",
@@ -96,7 +96,7 @@
         "size": 20
     },
     {
-        "available": "2014-01-17",
+        "released": "2014-01-17",
         "code": "tc",
         "cycle_code": "spin",
         "name": "True Colors",
@@ -104,7 +104,7 @@
         "size": 20
     },
     {
-        "available": "2014-02-21",
+        "released": "2014-02-21",
         "code": "fal",
         "cycle_code": "spin",
         "name": "Fear and Loathing",
@@ -112,7 +112,7 @@
         "size": 20
     },
     {
-        "available": "2014-03-28",
+        "released": "2014-03-28",
         "code": "dt",
         "cycle_code": "spin",
         "name": "Double Time",
@@ -120,7 +120,7 @@
         "size": 20
     },
     {
-        "available": "2014-05-02",
+        "released": "2014-05-02",
         "code": "hap",
         "cycle_code": "honor-and-profit",
         "name": "Honor and Profit",
@@ -128,7 +128,7 @@
         "size": 55
     },
     {
-        "available": "2014-07-25",
+        "released": "2014-07-25",
         "code": "up",
         "cycle_code": "lunar",
         "name": "Upstalk",
@@ -136,7 +136,7 @@
         "size": 20
     },
     {
-        "available": "2014-08-15",
+        "released": "2014-08-15",
         "code": "tsb",
         "cycle_code": "lunar",
         "name": "The Spaces Between",
@@ -144,7 +144,7 @@
         "size": 20
     },
     {
-        "available": "2014-09-15",
+        "released": "2014-09-15",
         "code": "fc",
         "cycle_code": "lunar",
         "name": "First Contact",
@@ -152,7 +152,7 @@
         "size": 20
     },
     {
-        "available": "2014-10-16",
+        "released": "2014-10-16",
         "code": "uao",
         "cycle_code": "lunar",
         "name": "Up and Over",
@@ -160,7 +160,7 @@
         "size": 20
     },
     {
-        "available": "2014-11-13",
+        "released": "2014-11-13",
         "code": "atr",
         "cycle_code": "lunar",
         "name": "All That Remains",
@@ -168,7 +168,7 @@
         "size": 20
     },
     {
-        "available": "2014-12-18",
+        "released": "2014-12-18",
         "code": "ts",
         "cycle_code": "lunar",
         "name": "The Source",
@@ -176,7 +176,7 @@
         "size": 20
     },
     {
-        "available": "2015-01-28",
+        "released": "2015-01-28",
         "code": "oac",
         "cycle_code": "order-and-chaos",
         "name": "Order and Chaos",
@@ -184,7 +184,7 @@
         "size": 55
     },
     {
-        "available": "2015-04-03",
+        "released": "2015-04-03",
         "code": "val",
         "cycle_code": "sansan",
         "name": "The Valley",
@@ -192,7 +192,7 @@
         "size": 20
     },
     {
-        "available": "2015-04-24",
+        "released": "2015-04-24",
         "code": "bb",
         "cycle_code": "sansan",
         "name": "Breaker Bay",
@@ -200,7 +200,7 @@
         "size": 20
     },
     {
-        "available": "2015-05-29",
+        "released": "2015-05-29",
         "code": "cc",
         "cycle_code": "sansan",
         "name": "Chrome City",
@@ -208,7 +208,7 @@
         "size": 20
     },
     {
-        "available": "2015-07-02",
+        "released": "2015-07-02",
         "code": "uw",
         "cycle_code": "sansan",
         "name": "The Underway",
@@ -216,7 +216,7 @@
         "size": 20
     },
     {
-        "available": "2015-08-06",
+        "released": "2015-08-06",
         "code": "oh",
         "cycle_code": "sansan",
         "name": "Old Hollywood",
@@ -224,7 +224,7 @@
         "size": 20
     },
     {
-        "available": "2015-09-03",
+        "released": "2015-09-03",
         "code": "uot",
         "cycle_code": "sansan",
         "name": "The Universe of Tomorrow",
@@ -232,7 +232,7 @@
         "size": 20
     },
     {
-        "available": "2015-10-29",
+        "released": "2015-10-29",
         "code": "dad",
         "cycle_code": "data-and-destiny",
         "name": "Data and Destiny",
@@ -240,7 +240,7 @@
         "size": 55
     },
     {
-        "available": "2016-01-29",
+        "released": "2016-01-29",
         "code": "kg",
         "cycle_code": "mumbad",
         "name": "Kala Ghoda",
@@ -248,7 +248,7 @@
         "size": 19
     },
     {
-        "available": "2016-03-11",
+        "released": "2016-03-11",
         "code": "bf",
         "cycle_code": "mumbad",
         "name": "Business First",
@@ -256,7 +256,7 @@
         "size": 19
     },
     {
-        "available": "2016-04-01",
+        "released": "2016-04-01",
         "code": "dag",
         "cycle_code": "mumbad",
         "name": "Democracy and Dogma",
@@ -264,7 +264,7 @@
         "size": 19
     },
     {
-        "available": "2016-04-28",
+        "released": "2016-04-28",
         "code": "si",
         "cycle_code": "mumbad",
         "name": "Salsette Island",
@@ -272,7 +272,7 @@
         "size": 19
     },
     {
-        "available": null,
+        "released": null,
         "code": "tlm",
         "cycle_code": "mumbad",
         "name": "The Liberated Mind",
@@ -280,7 +280,7 @@
         "size": 19
     },
     {
-        "available": null,
+        "released": null,
         "code": "ftm",
         "cycle_code": "mumbad",
         "name": "Fear the Masses",
@@ -288,7 +288,7 @@
         "size": 19
     },
     {
-        "available": null,
+        "released": null,
         "code": "23s",
         "cycle_code": "flashpoint",
         "name": "23 Seconds",

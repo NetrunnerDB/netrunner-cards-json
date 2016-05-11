@@ -1,7 +1,7 @@
 {
     "additionalProperties": false,
     "properties": {
-        "available": {
+        "released": {
             "oneOf": [
                 {
                     "type": "string"
@@ -40,7 +40,7 @@
         }
     },
     "required": [
-        "available",
+        "released",
         "code",
         "cycle_code",
         "name",
