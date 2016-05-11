@@ -48,7 +48,7 @@
             "type": "integer"
         },
         "flavor": {
-            "minLength": 0,
+            "minLength": 1,
             "type": "string"
         },
         "illustrator": {
