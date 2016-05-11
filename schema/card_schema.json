@@ -28,22 +28,6 @@
                 }
             ]
         },
-        "cycle_code": {
-            "enum": [
-                "draft",
-                "core",
-                "genesis",
-                "creation-and-control",
-                "spin",
-                "honor-and-profit",
-                "lunar",
-                "order-and-chaos",
-                "sansan",
-                "data-and-destiny",
-                "mumbad",
-                "flashpoint"
-            ]
-        },
         "faction_code": {
             "enum": [
                 "adam",
@@ -152,7 +136,6 @@
     },
     "required": [
         "code",
-        "cycle_code",
         "faction_code",
         "limited",
         "number",
