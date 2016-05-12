@@ -32,7 +32,7 @@ Required properties are in **bold**.
 * **cycle_code** - identifier of the cycle the pack belongs to. Must refer to one of the values from cycles' `"code"`. Examples: `"core"` for Core Set, `"sansan"` for The Valley, `"order-and-chaos"` for Order and Chaos.
 * **name** - properly formatted name of the pack. Examples: `"Core Set"`, `"The Valley"`, `"Order and Chaos"`.
 * **position** - number of the pack within the cycle. Examples: `1` for Core Set, `1` for The Valley from SanSan Cycle, `5` for Old Hollywood from SanSan Cycle.
-* **released** - date when the pack was officially released by FFG. When in doubt, look at the date of the pack release news on FFG's news page. Format of the date is YYYY-MM-DD. May be `null` - this value is used when the date is unknown. Examples: `"2012-09-06"` for Core Set, `"2016-04-28"` for Salsette Island, `null` for unreleased spoiled packs.
+* **released** - date when the pack was officially released by FFG. When in doubt, look at the date of the pack release news on FFG's news page. Format of the date is YYYY-MM-DD. May be `null` - this value is used when the date is unknown. Examples: `"2012-09-06"` for Core Set, `"2016-04-28"` for Salsette Island, `null` for unreleased previewed packs.
 * **size** - number of different cards in the pack. May be `null` - this value is used when the pack is just an organizational entity, not a physical pack.  Examples: `120` for Core Set, `55` for most deluxe expansions, `20` for most datapacks, `null` for assorted draft cards.
 
 #### Card schema
