@@ -40,11 +40,11 @@
         }
     },
     "required": [
-        "released",
         "code",
         "cycle_code",
         "name",
         "position",
+        "released",
         "size"
     ],
     "type": "object"
