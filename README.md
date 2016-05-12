@@ -60,7 +60,7 @@ Required properties are in **bold**.
 * **title**
 * trashcost
 * **type_code** - Type of the card. Possible values: `"agenda"`, `"asset"`, `"event"`, `"hardware"`, `"ice"`, `"identity"`, `"operation"`, `"program"`, `"resource"`, `"upgrade"`.
-* **uniqueness** - True if the card is unique (black diamond printed next to the title), false otherwise. Possible values: `"true"`, `"false"`.
+* **uniqueness** - True if the card is unique (black diamond printed next to the title), false otherwise. Possible values: `true`, `false`.
 
 ## JSON text editing tips
 
