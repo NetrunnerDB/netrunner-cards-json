@@ -35,7 +35,7 @@ def check_json_schema(args, data, path):
     except jsonschema.exceptions.SchemaError as e:
         verbose_print(args, "%s: Schema file is not valid Draft 4 JSON schema.\n" % path, 0)
         validation_errors += 1
-        print(e)
+        verbose_print(args, "%s\n" % e.message, 0)
         return False
 
 def check_mwl(args):
@@ -68,7 +68,7 @@ def load_json_file(args, path):
     except ValueError as e:
         verbose_print(args, "%s: File is not valid JSON.\n" % path, 0)
         validation_errors += 1
-        print(e)
+        verbose_print(args, "%s\n" % e.message, 0)
         return None
 
     verbose_print(args, "%s: Checking JSON formatting...\n" % path, 1)
@@ -145,7 +145,7 @@ def validate_card(args, card, card_schema, pack_code):
         verbose_print(args, "ERROR\n",2)
         verbose_print(args, "Validation error in card: (pack code: '%s' card code: '%s' title: '%s')\n" % (pack_code, card.get("code"), card.get("title")), 0)
         validation_errors += 1
-        print(e)
+        verbose_print(args, "%s\n" % e.message, 0)
 
 def validate_cards(args, packs_data):
     global validation_errors
@@ -193,7 +193,7 @@ def validate_cycles(args, cycles_data):
             verbose_print(args, "ERROR\n",2)
             verbose_print(args, "Validation error in cycle: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
             validation_errors += 1
-            print(e)
+            verbose_print(args, "%s\n" % e.message, 0)
             retval = False
 
     return retval
@@ -223,7 +223,7 @@ def validate_packs(args, packs_data, cycles_data):
             verbose_print(args, "ERROR\n",2)
             verbose_print(args, "Validation error in pack: (code: '%s' name: '%s')\n" % (p.get("code"), p.get("name")), 0)
             validation_errors += 1
-            print(e)
+            verbose_print(args, "%s\n" % e.message, 0)
             retval = False
 
     return retval
