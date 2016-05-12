@@ -1,16 +1,6 @@
 {
     "additionalProperties": false,
     "properties": {
-        "released": {
-            "oneOf": [
-                {
-                    "type": "string"
-                },
-                {
-                    "type": "null"
-                }
-            ]
-        },
         "code": {
             "minLength": 1,
             "type": "string"
@@ -26,6 +16,16 @@
         "position": {
             "minimum": 1,
             "type": "integer"
+        },
+        "released": {
+            "oneOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "size": {
             "oneOf": [
