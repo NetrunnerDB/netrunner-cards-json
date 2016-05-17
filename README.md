@@ -42,23 +42,24 @@ Required properties are in **bold**.
 * baselink - base link strength number of the card. Relevant for Runner identities. Examples: `0` for Noise, `2` for Sunny Lebeau.
 * **code** - 5 digit card identifier. Consists of two zero-padded numbers: first two digits are the cycle position, last three are position of the card within the cycle (printed on the card). Examples: `"01048"` for Sacrificial Construct (48th card in cycle) from Core Set (1st cycle), `"10100"` for The Price of Freedom (100th card in cycle) from Mumbad (10th cycle).
 * cost - Play/rez cost of the card. Relevant for all cards except identities and agendas. May be `null` - this value is used when the card has a special, possibly variable, cost. Examples: `5` for Hedge Fund, `3` for Desperado, `null` for Psychographics.
-* **faction_code**
-* factioncost
-* flavor
-* illustrator
-* influencelimit
-* keywords
-* **limited**
-* memoryunits
-* minimumdecksize
-* **pack_code**
-* **position**
-* **quantity**
+* **faction_code** - Faction this cards belongs to. Possible values: `"adam"`, `"anarch"`,
+`"apex"`, `"criminal"`, `"shaper"`, `"sunny-lebeau"`, `"haas-bioroid"`, `"jinteki"`, `"nbn"`, `"weyland-consortium"`, `"neutral"` 
+* factioncost - Influence cost of this card. Relevant for all cards except identities. Examples: `0` for Sure Gamble, `5` for Escher. 
+* flavor - Flavor text of the card. May be empty.
+* illustrator - Illutrator's name.
+* influencelimit - Maximum number of influence points. Relevant for identities.
+* keywords - also known as 'Subtypes'. Examples: `"Code Gate - Deflector - Psi"` for Bullfrog, `"Security"` for False Lead. Multiple subtypes are separated by the string `" - "` (blank, minus, blank).
+* **limited** - Maximum number of copies allowed in a deck. Examples: `3` for Deep Red, `1` for Government Takeover, `6` for NetChip.
+* memoryunits - MU usage of the card. Relevant for programs.
+* minimumdecksize - Minmum Deck size. Relevant for identities.
+* **pack_code** - Code of the pack this card is in.
+* **position** - Card number within that pack.
+* **quantity** - How many copies of this card are in the pack.
 * **side_code** - Side the card belongs to. Possible values: `"corp"`, `"runner"`.
-* strength
-* text
-* **title**
-* trashcost
+* strength - Relevant for programs and ICE. May be `null` - this value is used when the card has a special, possibly variable, strength. Examples: `1` for Ice Wall, `0` for Crypsis, `null` for Darwin.
+* text - Text of the card.
+* **title** - Name of the card.
+* trashcost - Trash cost of the card. Relevant for assets, upgrades and ICE.
 * **type_code** - Type of the card. Possible values: `"agenda"`, `"asset"`, `"event"`, `"hardware"`, `"ice"`, `"identity"`, `"operation"`, `"program"`, `"resource"`, `"upgrade"`.
 * **uniqueness** - True if the card is unique (black diamond printed next to the title), false otherwise. Possible values: `true`, `false`.
 
@@ -77,6 +78,7 @@ To get the 4-letter hexcode of a UTF-8 symbol (or look up what a particular hexc
 To have text spanning multiple lines, use `\n` to separate them. To have quotes as part of the text, use `\"`.  For example, `"flavor": "\"I'm overpowered.\"\n-Whizzard"` results in following flavor text:
 
 > *"I'm overpowered."*
+> 
 > *-Whizzard*
 
 #### Netrunner symbols
