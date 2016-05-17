@@ -77,8 +77,7 @@ To get the 4-letter hexcode of a UTF-8 symbol (or look up what a particular hexc
 
 To have text spanning multiple lines, use `\n` to separate them. To have quotes as part of the text, use `\"`.  For example, `"flavor": "\"I'm overpowered.\"\n-Whizzard"` results in following flavor text:
 
-> *"I'm overpowered."*
-> 
+> *"I'm overpowered."*  
 > *-Whizzard*
 
 #### Netrunner symbols
