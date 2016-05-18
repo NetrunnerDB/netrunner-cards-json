@@ -118,7 +118,7 @@
         "position": 7,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 1 agenda counter on High-Risk Investment when you score it.\n[Click], <strong>hosted agenda counter</strong>: Gain 1[Credits] for each credit in the Runner's credit pool.",
+        "text": "Place 1 agenda counter on High-Risk Investment when you score it.\n[Click], <strong>hosted agenda counter:</strong> Gain 1[Credits] for each credit in the Runner's credit pool.",
         "title": "High-Risk Investment",
         "type_code": "agenda",
         "uniqueness": false
@@ -154,7 +154,7 @@
         "position": 9,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Whenever you spend an agenda counter, gain 1[Credits].\n[Trash] or <strong>any agenda counter</strong>: Gain 2[Credits].",
+        "text": "Whenever you spend an agenda counter, gain 1[Credits].\n[Trash] or <strong>any agenda counter:</strong> Gain 2[Credits].",
         "title": "Mark Yale",
         "trashcost": 3,
         "type_code": "asset",
@@ -735,7 +735,7 @@
         "position": 41,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger.\n[Click], <strong>hosted virus counter</strong>: The Corp trashes the top card of R&D.",
+        "text": "Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger.\n[Click], <strong>hosted virus counter:</strong> The Corp trashes the top card of R&D.",
         "title": "Gravedigger",
         "type_code": "program",
         "uniqueness": false
