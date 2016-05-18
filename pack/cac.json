@@ -81,7 +81,7 @@
         "position": 5,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 3 agenda counters on Efficiency Committee when you score it.\n[Click], <strong>hosted agenda counter</strong>: Gain [Click][Click]. You cannot advance cards for the remainder of this turn.",
+        "text": "Place 3 agenda counters on Efficiency Committee when you score it.\n[Click], <strong>hosted agenda counter:</strong> Gain [Click][Click]. You cannot advance cards for the remainder of this turn.",
         "title": "Efficiency Committee",
         "type_code": "agenda",
         "uniqueness": false
@@ -98,7 +98,7 @@
         "position": 6,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 3 agenda counters on Project Wotan when you score it.\n<strong>Hosted agenda counter</strong>: Choose a rezzed piece of <strong>bioroid</strong> ice currently being approached. For the remainder of this run, that ice gains \"[Subroutine] End the run.\" after all its other subroutines.",
+        "text": "Place 3 agenda counters on Project Wotan when you score it.\n<strong>Hosted agenda counter:</strong> Choose a rezzed piece of <strong>bioroid</strong> ice currently being approached. For the remainder of this run, that ice gains \"[Subroutine] End the run.\" after all its other subroutines.",
         "title": "Project Wotan",
         "type_code": "agenda",
         "uniqueness": false
@@ -187,7 +187,7 @@
         "position": 11,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Haas Arcology AI can be advanced only while unrezzed.\n[Click], <strong>hosted advancement token</strong>: Gain [Click][Click]. Use this ability only once per turn.",
+        "text": "Haas Arcology AI can be advanced only while unrezzed.\n[Click], <strong>hosted advancement token:</strong> Gain [Click][Click]. Use this ability only once per turn.",
         "title": "Haas Arcology AI",
         "trashcost": 1,
         "type_code": "asset",
@@ -336,7 +336,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "The Runner can spend [Click][Click] to break up to 2 subroutines on Viktor 2.0.\n<strong>Hosted power counter</strong>: Do 1 brain damage.\n[Subroutine] <strong>Trace<sup>2</sup></strong>\u2013 If successful, place 1 power counter on Viktor 2.0.\n[Subroutine] End the run.",
+        "text": "The Runner can spend [Click][Click] to break up to 2 subroutines on Viktor 2.0.\n<strong>Hosted power counter:</strong> Do 1 brain damage.\n[Subroutine] <strong>Trace<sup>2</sup></strong>\u2013 If successful, place 1 power counter on Viktor 2.0.\n[Subroutine] End the run.",
         "title": "Viktor 2.0",
         "type_code": "ice",
         "uniqueness": false
@@ -645,7 +645,7 @@
         "position": 36,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+3[Memory Unit]\nWhen you install Monolith, install up to 3 programs from your grip, lowering the install cost of each by 4[Credits].\n<strong>Trash a program from your grip</strong>: Prevent 1 brain or net damage.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+3[Memory Unit]\nWhen you install Monolith, install up to 3 programs from your grip, lowering the install cost of each by 4[Credits].\n<strong>Trash a program from your grip:</strong> Prevent 1 brain or net damage.\nLimit 1 <strong>console</strong> per player.",
         "title": "Monolith",
         "type_code": "hardware",
         "uniqueness": true

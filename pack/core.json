@@ -140,7 +140,7 @@
         "position": 8,
         "quantity": 2,
         "side_code": "runner",
-        "text": "Whenever you make a successful run on a central server, place 1 virus counter on Datasucker.\n<strong>Hosted virus counter</strong>: Rezzed piece of ice currently being encountered has \u22121 strength until the end of the encounter.",
+        "text": "Whenever you make a successful run on a central server, place 1 virus counter on Datasucker.\n<strong>Hosted virus counter:</strong> Rezzed piece of ice currently being encountered has \u22121 strength until the end of the encounter.",
         "title": "Datasucker",
         "type_code": "program",
         "uniqueness": false
@@ -1746,7 +1746,7 @@
         "position": 96,
         "quantity": 1,
         "side_code": "corp",
-        "text": "[Click], <strong>trash a rezzed piece of ice</strong>: Gain 4[Credits].",
+        "text": "[Click], <strong>trash a rezzed piece of ice:</strong> Gain 4[Credits].",
         "title": "Security Subcontract",
         "trashcost": 3,
         "type_code": "asset",
