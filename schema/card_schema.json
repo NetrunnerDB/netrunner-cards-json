@@ -1,15 +1,15 @@
 {
     "additionalProperties": false,
     "properties": {
-        "advancementcost": {
+        "advancement_cost": {
             "minimum": 0,
             "type": "integer"
         },
-        "agendapoints": {
+        "agenda_points": {
             "minimum": 0,
             "type": "integer"
         },
-        "baselink": {
+        "base_link": {
             "minimum": 0,
             "type": "integer"
         },
@@ -43,7 +43,7 @@
                 "neutral"
             ]
         },
-        "factioncost": {
+        "faction_cost": {
             "minimum": 0,
             "type": "integer"
         },
@@ -55,7 +55,7 @@
             "pattern": ".+",
             "type": "string"
         },
-        "influencelimit": {
+        "influence_limit": {
             "minimum": 0,
             "type": "integer"
         },
@@ -71,7 +71,7 @@
             "minimum": 0,
             "type": "integer"
         },
-        "minimumdecksize": {
+        "minimum_deck_size": {
             "minimum": 0,
             "type": "integer"
         },
@@ -112,7 +112,7 @@
             "minLength": 1,
             "type": "string"
         },
-        "trashcost": {
+        "trash_cost": {
             "minimum": 0,
             "type": "integer"
         },

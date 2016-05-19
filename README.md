@@ -37,21 +37,21 @@ Required properties are in **bold**.
 
 #### Card schema
 
-* advancementcost - number of advancement tokens required to score the card. Relevant for agendas. Examples: `5` for Priority Requisition, `3` for AstroScript Pilot Program, `2` for Domestic Sleepers.
-* agendapoints - number of agenda points the card gives after scoring. Relevant for agendas. Examples: `3` for Priority Requisition, `2` for AstroScript Pilot Program, `0` for Domestic Sleepers.
-* baselink - base link strength number of the card. Relevant for Runner identities. Examples: `0` for Noise, `2` for Sunny Lebeau.
+* advancement_cost - number of advancement tokens required to score the card. Relevant for agendas. Examples: `5` for Priority Requisition, `3` for AstroScript Pilot Program, `2` for Domestic Sleepers.
+* agenda_points - number of agenda points the card gives after scoring. Relevant for agendas. Examples: `3` for Priority Requisition, `2` for AstroScript Pilot Program, `0` for Domestic Sleepers.
+* base_link - base link strength number of the card. Relevant for Runner identities. Examples: `0` for Noise, `2` for Sunny Lebeau.
 * **code** - 5 digit card identifier. Consists of two zero-padded numbers: first two digits are the cycle position, last three are position of the card within the cycle (printed on the card). Examples: `"01048"` for Sacrificial Construct (48th card in cycle) from Core Set (1st cycle), `"10100"` for The Price of Freedom (100th card in cycle) from Mumbad (10th cycle).
 * cost - Play/rez cost of the card. Relevant for all cards except identities and agendas. May be `null` - this value is used when the card has a special, possibly variable, cost. Examples: `5` for Hedge Fund, `3` for Desperado, `null` for Psychographics.
 * **faction_code** - Faction this cards belongs to. Possible values: `"adam"`, `"anarch"`,
 `"apex"`, `"criminal"`, `"shaper"`, `"sunny-lebeau"`, `"haas-bioroid"`, `"jinteki"`, `"nbn"`, `"weyland-consortium"`, `"neutral"` 
-* factioncost - Influence cost of this card. Relevant for all cards except identities. Examples: `0` for Sure Gamble, `5` for Escher. 
+* faction_cost - Influence cost of this card. Relevant for all cards except identities. Examples: `0` for Sure Gamble, `5` for Escher. 
 * flavor - Flavor text of the card. May be empty.
 * illustrator - Illutrator's name.
-* influencelimit - Maximum number of influence points. Relevant for identities.
+* influence_limit - Maximum number of influence points. Relevant for identities.
 * keywords - also known as 'Subtypes'. Examples: `"Code Gate - Deflector - Psi"` for Bullfrog, `"Security"` for False Lead. Multiple subtypes are separated by the string `" - "` (blank, minus, blank).
 * **limited** - Maximum number of copies allowed in a deck. Examples: `3` for Deep Red, `1` for Government Takeover, `6` for NetChip.
 * memoryunits - MU usage of the card. Relevant for programs.
-* minimumdecksize - Minmum Deck size. Relevant for identities.
+* minimum_deck_size - Minmum Deck size. Relevant for identities.
 * **pack_code** - Code of the pack this card is in.
 * **position** - Card number within that pack.
 * **quantity** - How many copies of this card are in the pack.
@@ -59,7 +59,7 @@ Required properties are in **bold**.
 * strength - Relevant for programs and ICE. May be `null` - this value is used when the card has a special, possibly variable, strength. Examples: `1` for Ice Wall, `0` for Crypsis, `null` for Darwin.
 * text - Text of the card.
 * **title** - Name of the card.
-* trashcost - Trash cost of the card. Relevant for assets, upgrades and ICE.
+* trash_cost - Trash cost of the card. Relevant for assets, upgrades and ICE.
 * **type_code** - Type of the card. Possible values: `"agenda"`, `"asset"`, `"event"`, `"hardware"`, `"ice"`, `"identity"`, `"operation"`, `"program"`, `"resource"`, `"upgrade"`.
 * **uniqueness** - True if the card is unique (black diamond printed next to the title), false otherwise. Possible values: `true`, `false`.
 
