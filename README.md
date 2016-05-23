@@ -50,7 +50,7 @@ Required properties are in **bold**.
 * influence_limit - Maximum number of influence points. Relevant for identities.
 * keywords - also known as 'Subtypes'. Examples: `"Code Gate - Deflector - Psi"` for Bullfrog, `"Security"` for False Lead. Multiple subtypes are separated by the string `" - "` (blank, minus, blank).
 * **deck_limit** - Maximum number of copies allowed in a deck. Examples: `3` for Deep Red, `1` for Government Takeover, `6` for NetChip.
-* memoryunits - MU usage of the card. Relevant for programs.
+* memory_cost - MU usage of the card. Relevant for programs.
 * minimum_deck_size - Minmum Deck size. Relevant for identities.
 * **pack_code** - Code of the pack this card is in.
 * **position** - Card number within that pack.
