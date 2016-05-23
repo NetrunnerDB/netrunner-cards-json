@@ -28,6 +28,10 @@
                 }
             ]
         },
+        "deck_limit": {
+            "minimum": 1,
+            "type": "integer"
+        },
         "faction_code": {
             "enum": [
                 "adam",
@@ -63,11 +67,7 @@
             "minLength": 0,
             "type": "string"
         },
-        "limited": {
-            "minimum": 1,
-            "type": "integer"
-        },
-        "memoryunits": {
+        "memory_cost": {
             "minimum": 0,
             "type": "integer"
         },
@@ -137,7 +137,7 @@
     "required": [
         "code",
         "faction_code",
-        "limited",
+        "deck_limit",
         "pack_code",
         "position",
         "quantity",
