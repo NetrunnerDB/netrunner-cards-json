@@ -17,7 +17,7 @@
             "minimum": 1,
             "type": "integer"
         },
-        "released": {
+        "date_release": {
             "oneOf": [
                 {
                     "type": "string"
@@ -44,7 +44,7 @@
         "cycle_code",
         "name",
         "position",
-        "released",
+        "date_release",
         "size"
     ],
     "type": "object"
