@@ -9,14 +9,6 @@
             "minLength": 1,
             "type": "string"
         },
-        "name": {
-            "minLength": 1,
-            "type": "string"
-        },
-        "position": {
-            "minimum": 1,
-            "type": "integer"
-        },
         "date_release": {
             "oneOf": [
                 {
@@ -26,6 +18,14 @@
                     "type": "null"
                 }
             ]
+        },
+        "name": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "position": {
+            "minimum": 1,
+            "type": "integer"
         },
         "size": {
             "oneOf": [
