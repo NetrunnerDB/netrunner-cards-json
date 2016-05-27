@@ -1,0 +1,6596 @@
+[
+    {
+        "code": "00005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "01001",
+        "title": "Noise: Hacker Straordinario",
+        "keywords": "Identita'",
+        "text": "Ogni volta che installi un programma <strong>virus<\/strong>, la Corp elimina la carta in cima a R&S.",
+        "flavor": "\"Sta' a guardare. Sara' divertente.\""
+    },
+    {
+        "code": "01002",
+        "title": "Déjà Vu",
+        "keywords": null,
+        "text": "Aggiungi 1 carta (o fino a 2 carte <strong>virus<\/strong>) al tuo grip dal tuo heap.",
+        "flavor": "Se vale la pena di farlo, vale la pena di farlo due volte."
+    },
+    {
+        "code": "01003",
+        "title": "Incursione demolitrice",
+        "keywords": "Incursione - Sabotaggio",
+        "text": "Effettua un'incursione nel QG o in R&S. Puoi eliminare, senza nessun costo, qualsiasi carta a cui accedi (anche le carte che normalmente non potrebbero essere mai eliminate).",
+        "flavor": "Hai mai dato fuoco a qualcosa soltanto per vederla bruciare?"
+    },
+    {
+        "code": "01004",
+        "title": "Stimhack",
+        "keywords": "Incursione",
+        "text": "Effettua un'incursione e ottieni 9[Credits], che puoi usare solo durante questa incursione. Dopo aver completato l'incursione, subisci 1 danno cerebrale (che non puo' essere impedito) e restituisci alla banca ciò dei 9[Credits] che non hai speso.",
+        "flavor": null
+    },
+    {
+        "code": "01005",
+        "title": "Cyberalimentatore",
+        "keywords": "Chip",
+        "text": "1[Recurring Credits]\nUsa questo credito per pagare l'uso dei <strong>rompighiaccio<\/strong> o per installare dei programmi <strong>virus<\/strong>.",
+        "flavor": "Senza, mi sento quasi nudo."
+    },
+    {
+        "code": "01006",
+        "title": "Grimorio",
+        "keywords": "Console",
+        "text": "+2[Memory Unit]\nOgni volta che installi un programma <strong>virus<\/strong>, colloca 1 segnalino virus su quel programma.\nLimite di 1 <strong>console<\/strong> per giocatore.",
+        "flavor": "\"il mio piccolo libro degli incantesimi.\" -The Whizzard"
+    },
+    {
+        "code": "01007",
+        "title": "Corrosivo",
+        "keywords": "Rompighiaccio - Frantumatore",
+        "text": "1[Credits]: Infrangi subroutine <strong>barriera<\/strong>.\n1[Credits]: forza +1.",
+        "flavor": "\"Se la prima volta non ci riesci, potenzialo e poi riprovaci.\" -g00ru"
+    },
+    {
+        "code": "01008",
+        "title": "Risucchio Dati",
+        "keywords": "Virus",
+        "text": "Ogni volta che effettui un'incursione riuscita su un server centrale, colloca 1 segnalino virus su Risucchio Dati.\n<strong>Segnalino virus ospitato<\/strong>: Il pezzo di ghiaccio materializzato attualmente incontrato ha forza -1 fino alla fine dell'incontro.",
+        "flavor": null
+    },
+    {
+        "code": "01009",
+        "title": "Djinn",
+        "keywords": "Daemon",
+        "text": "Djinn può ospitare fino a 3[Memory Unit] programmi che non siamo <strong>rompighiaccio<\/strong>.\nI costi di memoria dei programmi ospitati non vanno conteggiati al fine di determinare il tuo limite di memoria.\n[Click], 1[Credits]: Cerca nel tuo stack un programma <strong>virus<\/strong>, rivelalo e aggiungilo al tuo grip. Rimescola il tuo mazzo.",
+        "flavor": null
+    },
+    {
+        "code": "01010",
+        "title": "Medium",
+        "keywords": "Virus",
+        "text": "Ogni volta che effettui un'incursione riuscita in R&S, colloca 1 segnalino virus sul Medium.\nOgni segnalino virus dopo il primo presente sul Medium ti consente di accedere a 1 carta aggiuntiva da R&S ogni volta che accedi a delle carte di R&S.",
+        "flavor": "Sembrava una perdita di pacchetti casuali. E invece..."
+    },
+    {
+        "code": "01011",
+        "title": "Simulacro",
+        "keywords": "Rompighiaccio - Killer",
+        "text": "1[Credits]: Infrangi subroutine <strong>sentinella<\/strong>.",
+        "flavor": "Il 5 novembre: il giorno in cui tutti vedranno le corrotte macchinazioni dell'oligarchia corporativa."
+    },
+    {
+        "code": "01012",
+        "title": "Parassita",
+        "keywords": "Virus",
+        "text": "Installa Parassita solo su un pezzo di ghiaccio materializzato.\nIl ghiaccio ospitante ha forza -1 per ogni segnalino virus presente su Parassita, e viene eliminato se la sua forza è pari o inferiore a 0.\nQuando il tuo turno ha inizio, colloca 1 segnalino virus su Parassita.",
+        "flavor": null
+    },
+    {
+        "code": "01013",
+        "title": "Dragone",
+        "keywords": "Rompighiaccio - IA",
+        "text": "3[Credits]: Infrangi subroutine del ghiaccio su un pezzo di ghiaccio con forza pari o inferiore a 0.\n1[Credits]: Il ghiaccio ha forza −1.\n1[Credits]: Forza +1.",
+        "flavor": "Fuoco e icore..."
+    },
+    {
+        "code": "01014",
+        "title": "Yog.0",
+        "keywords": "Rompighiaccio - decodificatore",
+        "text": "0[Credits]: Infrangi subroutine <strong>Portale codificato<\/strong>.",
+        "flavor": "Il database Yog.0 è una raccolta da più fonti di chiavi d'accesso carpite, trapelate e registrate. Se il codice del portale si trova nel database, sei dentro. Altrimenti, cambia portale!"
+    },
+    {
+        "code": "01015",
+        "title": "Incisore di ghiaccio",
+        "keywords": "Virtuale",
+        "text": "Tutti i pezzi di ghiaccio incontrati hanno la forza ridotta di 1.",
+        "flavor": "Nell'immaginario collettivo c'è un confine invalicabile tra le corp e i runner. Nel mondo reale, le cose sono meno nette. Le corp hanno bisogno degli hacker migliori per gestire i loro network, e alcuni dei migliori hacker sono ex-runner a cui non dispiaceva l'idea di una busta paga regolare. Ma a volte la ruota gira in senso inverso, e qualcuno che faceva parte di una corp fabbrica una cosa del genere."
+    },
+    {
+        "code": "01016",
+        "title": "Wyldside",
+        "keywords": "Luogo - Malfamato",
+        "text": "Quando il tuo turno ha inizio, pesca 2 carte e perdi [Click].",
+        "flavor": "\"Il posto migliore dove andare quando vuoi portare fuori il tuo cervello dalle fogne e portare le fogne nel cervello.\" -Ji \"Noise\" Reilly"
+    },
+    {
+        "code": "01017",
+        "title": "Gabriel Santiago: Professionista Consumato",
+        "keywords": "Cyborg",
+        "text": "La prima volta in un turno in cui effettui un'incursione riuscita nel QG, ottieni 2[Credits].",
+        "flavor": "\"Ma è ovvio che rubo ai ricchi. Sono loro che hanno tutti i soldi\"."
+    },
+    {
+        "code": "01018",
+        "title": "Conto prosciugato",
+        "keywords": "Incursione - Sabotaggio",
+        "text": "Effettua un'incursione nel QG. Se l'incursione è riuscita, invece di accedere alle carte puoi costringere la Corp a perdere fino a 5[Credits], poi ottieni 2[Credits] per ogni credito perduto e ricevi 2 tag.",
+        "flavor": null
+    },
+    {
+        "code": "01019",
+        "title": "Bersaglio facile",
+        "keywords": "Colpo",
+        "text": "Ottieni 3[Credits].",
+        "flavor": "\"Ehi, ragazzino, se fai partire quell'affare adesso finirai per restare bruciato, e di brutto. Qui in giro ci sono dei soggetti davvero patetici. Ma fortunatamente ho il biglietto giusto per te...\""
+    },
+    {
+        "code": "01020",
+        "title": "Ordini di attivazione falsificati",
+        "keywords": "sabotaggio",
+        "text": "Scegli un pezzo di ghiaccio smaterializzato. La Corporazione deve materializzare quel pezzo di ghiaccio o scartarlo.",
+        "flavor": "L'isterismo dilagante nella stanza si diffuse lungo tutta la catena di comando corporativa, e i ranghi inferiori furono colti da un brutto presentimento di licenziamento imminente."
+    },
+    {
+        "code": "01021",
+        "title": "Colpo dell'interno",
+        "keywords": "Incursione",
+        "text": "Effettua un'incursione. Oltrepassa il primo pezzo di ghiaccio incontrato durante questa incursione.",
+        "flavor": "\"Ehi, senti, non ti chiedo di fare niente di pericoloso. Solo di farmi entrare nell'edificio. E di dirmi qual è la stanza dove la sicurezza è più debole. E per favore, non dirmi di nuovo 'i bagni'\"."
+    },
+    {
+        "code": "01022",
+        "title": "Ordine speciale",
+        "keywords": null,
+        "text": "Cerca un <strong>rompighiaccio<\/strong>, nel tuo stack, rivelalo e aggiungilo al tuo grip. Rimescola il tuo mazzo.",
+        "flavor": "Dopo aver monitorato febbrilmente la sua traversata del Pacifico, lenta a livelli frustranti, il pacco finalmente giunse a destinazione nelle ore successive..."
+    },
+    {
+        "code": "01023",
+        "title": "Frangicodice Lemuria",
+        "keywords": null,
+        "text": "[Click], 1[Credits]: Scopri 1 carta. Usa questa capacità solo se hai effettuato un'incursione riuscita nel QG in questo turno.",
+        "flavor": "\"Un pizzico di preparazione può portarti molto lontato\"."
+    },
+    {
+        "code": "01024",
+        "title": "Desperado",
+        "keywords": "Console",
+        "text": "+1[Memory Unit]\nOttieni 1[Credits] ogni volta che effettui un'incursione riuscita.\nLimite di 1 <strong>console<\/strong> per giocatore.",
+        "flavor": null
+    },
+    {
+        "code": "01025",
+        "title": "Aurora",
+        "keywords": "Rompighiaccio - Frantumatore",
+        "text": "2[Credits]: Infrangi subroutine <strong>barriera<\/strong>.\n2[Credits]: Forza +3.",
+        "flavor": null
+    },
+    {
+        "code": "01026",
+        "title": "Femme fatale",
+        "keywords": "Rompighiaccio - Killer",
+        "text": "1[Credits]: Infrangi subroutine <strong>sentinella<\/strong>.\n2[Credits]: Forza +1.\nQuando installi Femme Fatale, scegli un pezzo di ghiaccio installato. Quando incontri quel ghiaccio, puoi pagare 1[Credits] per subroutine su quel ghiaccio al fine di oltrepassarlo.",
+        "flavor": null
+    },
+    {
+        "code": "01027",
+        "title": "Ninja",
+        "keywords": "Rompighiaccio - Killer",
+        "text": "1[Credits]: Infrangi subroutine <strong>sentinella<\/strong>.\n3[Credits]: Forza +5.",
+        "flavor": "Il Ninja lo senti prima di vederlo... e a volte non lo vedi affatto."
+    },
+    {
+        "code": "01028",
+        "title": "Accesso nascosto beta",
+        "keywords": null,
+        "text": "[Click]: Effettua un'incursione negli Archivi. Se riuscita, considerala invece un'incursione riuscita nel QG.",
+        "flavor": "\"Il codice non è importante. E' dove ti porta il codice che è importante.\" -g00ru"
+    },
+    {
+        "code": "01029",
+        "title": "Colpo in banca",
+        "keywords": "Colpo",
+        "text": "Colloca 8[Credits] dalla banca al Colpo in Banca quando questo viene installato. Quando non rimane più nessun credito su Colpo in Banca, eliminalo.\nOgni volta che effettui un'incursione riuscita in un server remoto, invece di accedere alle carte, puoi prendere un numero qualsiasi di crediti da Colpo in Banca.",
+        "flavor": null
+    },
+    {
+        "code": "01030",
+        "title": "Rifugio abusivo",
+        "keywords": "Luogo",
+        "text": "2[Recurring Credits]\nUsa questi crediti per pagare la rimozione dei tag.\n[Trash]: Impedisci fino a 3 danno corpo.",
+        "flavor": "\"Il mio compagno di stanza aveva un cugino con una fidanzata al college il cui migliore amico del fratello era una assuefatto, e la mamma di quell'assuefatto una volta viveva qui. Quindi, no, non siamo degli estranei.\""
+    },
+    {
+        "code": "01031",
+        "title": "Spacciatore di dati",
+        "keywords": "Contatto - Malfamato",
+        "text": "<strong>Sacrifica un obiettivo,<\/strong> [Click]: Ottieni 9[Credits].",
+        "flavor": "Più torbido è lo spacciatore, migliore è il prezzo. Ma occhio che non sia troppo torbido. Potresti scoprire che c'è un prezzo nascosto dopo che hanno incassato il tuo pagamento."
+    },
+    {
+        "code": "01032",
+        "title": "Falsa pista",
+        "keywords": "Contatto",
+        "text": "[Trash]: Evita di ricevere 1 tag.",
+        "flavor": "\"Ho l'impressione che questo sia il posto sbagliato, Frank.\"\n\"Cosa te lo fa credere, D?\"\n\"I bigodini.\""
+    },
+    {
+        "code": "01033",
+        "title": "Kate \"Mac\" McCaffrey:Pioniere Digitale",
+        "keywords": "Naturale",
+        "text": "Abbassa di 1 il costo di installazione del primo programma o hardware che installi a ogni turno.",
+        "flavor": "\"Mi stai ascoltando?\""
+    },
+    {
+        "code": "01034",
+        "title": "Diesel",
+        "keywords": null,
+        "text": "Pesca 3 carte.",
+        "flavor": "Con diesel prendi fuoco."
+    },
+    {
+        "code": "01035",
+        "title": "Modificato",
+        "keywords": "Mod",
+        "text": "Installa un programma o un hardware, riducendo il costo di installazione di 3.",
+        "flavor": "Non c'è niente come un programma fatto in casa. Frutto di ore piccole, barrette di cereali e cocciutaggine. E anche più economico."
+    },
+    {
+        "code": "01036",
+        "title": "L'occhio del creatore",
+        "keywords": "Run",
+        "text": "Effettua un'incursione in R&S. Se riuscita, accedi a 2 carte aggiuntive di R&S.",
+        "flavor": "\"Alcuni professionisti hanno un buon intuito, ma non riescono a vedere oltre i dati. Non riescono a vedere la matrice.\" -Ele \"Smoke\" Scovak"
+    },
+    {
+        "code": "01037",
+        "title": "Modifiche Anticonvenzionali",
+        "keywords": "Mod",
+        "text": "Scegli un pezzo di ghiaccio. Quel pezzo di ghiaccio ottiene <strong>sentinella<\/strong>, <strong>portale codificato<\/strong> e <strong>barriera<\/strong> fino alla fine del turno.",
+        "flavor": "\"Sai, c'è quel momento in cui tutto il mondo sembra cadere a pezzi, rimani solo tu e il tuo mod, e il mod è il mondo.\""
+    },
+    {
+        "code": "01038",
+        "title": "Chip di memoria Akamatsu",
+        "keywords": "Chip",
+        "text": "+1[Memory Unit]",
+        "flavor": "La compagnia Akamatsu si fondava su tre principi: primo, fabbricare i chip di memoria più veloci sul mercato, secondo, trarne profitto, e terzo, fungere da facciata per la produzione di neuro-stimolanti illegali, E' quest'ultimo principio che forse spiega la loro fanatica fedeltà al marchio."
+    },
+    {
+        "code": "01039",
+        "title": "Tana del coniglio",
+        "keywords": "Link",
+        "text": "+1[Link]\nQuando la Tana del Coniglio viene installata, puoi cercare nel tuo stack un'altra copia di Tana del Coniglio e installarla pagandone il costo di installazione. Rimescola il tuo mazzo.",
+        "flavor": "Non è infinita, dà solo questa impressione."
+    },
+    {
+        "code": "01040",
+        "title": "Il tocco personale",
+        "keywords": "Mod",
+        "text": "Installa Il Tocco Personale solo su un <strong>rompighiaccio.<\/strong>\nIl <strong>rompighiaccio<\/strong> ospitante ha forza +1.",
+        "flavor": "Uno z-loop qui, un'onda corticale lì..."
+    },
+    {
+        "code": "01041",
+        "title": "La scatola degli attrezzi",
+        "keywords": "Console",
+        "text": "+2[Memory Unit] +2[Link]\n2[Recurring Credits]\nUsa questi crediti per pagare l'uso dei <strong>rompighiaccio.<\/strong>\nLimite di 1 <strong>console<\/strong> per giocatore.",
+        "flavor": null
+    },
+    {
+        "code": "01042",
+        "title": "Ariete di sfondamento",
+        "keywords": "Rompighiaccio - Frantumatore",
+        "text": "2[Credits]: Infrangi fino a  2 subroutine <strong>barriera<\/strong>.\n1[Credits]: Forza +1 per il resto di questa incursione.",
+        "flavor": "\"Si chiama 'forza bruta', ed è efficace oggi quanto lo era cento anni fa\". - Kate \"Mac\" McCaffrey"
+    },
+    {
+        "code": "01043",
+        "title": "Lama Gordiana",
+        "keywords": "Rompighiaccio - decodificatore",
+        "text": "1[Credits]: Infrangi subroutine <strong>portale codificato<\/strong>.\n1[Credits]: Forza +1 per il resto di questa incursione.",
+        "flavor": "Può sciogliere anche il nodo di dati più complicato."
+    },
+    {
+        "code": "01044",
+        "title": "Magnum Opus",
+        "keywords": null,
+        "text": "[Click]: Ottieni 2[Credits].",
+        "flavor": "La Grande Opera fu completata in un piovoso giovedi pomeriggio. Non ci furoso scosse sismiche, lampi solari, o altri segni dalla terra o dal cielo a simboleggiare che il mondo era cambiato. Ma in cima al fagiolo, su Heinlein, in un singolo datacore artificiale della Cybsoft, il flusso dati tremolante di un conto iniziò a riempirsi di crediti. Crediti sani, onesti, reali, certificati dalle NU."
+    },
+    {
+        "code": "01045",
+        "title": "Scudo Net",
+        "keywords": null,
+        "text": "1[Credits]: Impedisci il primo danno net di questo turno.",
+        "flavor": "Consuma energia come un terra-bot marziano, ma ti tiene concentrato."
+    },
+    {
+        "code": "01046",
+        "title": "Tubatura",
+        "keywords": "Rompighiaccio - Killer",
+        "text": "1[Credits]: Infrangi subroutine <strong>sentinella<\/strong>.\n2[Credits]: Forza +1 per il resto di questa incursione.",
+        "flavor": null
+    },
+    {
+        "code": "01047",
+        "title": "Banco dei pegni di Esopo",
+        "keywords": "Luogo - Contatto",
+        "text": "Quando il tuo turno ha inizio, puoi eliminare un'altra delle tue carte installate per ottenere 3[Credits].",
+        "flavor": "Non ti conviene chiedere a Esopo del suo braccio, a meno che tu non voglia essere sommerso da un fiume di chiacchiere. E, da come ne parla, viene da chiederti perchè non si sia rimosso con il laser anche l'altro."
+    },
+    {
+        "code": "01048",
+        "title": "Costrutto sacrificale",
+        "keywords": "Remoto",
+        "text": "[Trash]: Impedisci l'eliminazione di un programma o di un hardware installato.",
+        "flavor": "Le aspettative di vita di un costrutto connesso sono più o meno quelle di un moscerino. In altre parole, brevissime."
+    },
+    {
+        "code": "01049",
+        "title": "Infiltrazione",
+        "keywords": null,
+        "text": "Ottieni 2[Credits] o scopri 1 carta.",
+        "flavor": "\"Ti ricorda qualcosa, Monica?\" -John \"Animal\" McEvoy"
+    },
+    {
+        "code": "01050",
+        "title": "Azzardo sicuro",
+        "keywords": null,
+        "text": "Ottieni 9[Credits].",
+        "flavor": "Nel suo caso, Madama Fortuna aveva la forma di un anello di manipolazione quantistica hifi che portava al dito medio."
+    },
+    {
+        "code": "01051",
+        "title": "Crypsis",
+        "keywords": "Rompighiaccio - IA - Virus",
+        "text": "1[Credits]: Infrangi subroutine del ghiaccio.\n1[Credits]: Forza +1.\n[Click]: Colloca un segnalino virus su Crypsis.\nQuando termina un incontro con un pezzo di ghiaccio in cui hai usato Crypsis per infrangere una subroutine, rimuovi 1 segnalino virus ospitato o elimina Crypsis.",
+        "flavor": null
+    },
+    {
+        "code": "01052",
+        "title": "Accesso to Globalsec",
+        "keywords": "Link",
+        "text": "+1[Link]",
+        "flavor": "Regolò la diffusione dei display a un livello elevato e fu circondato da un cerchio di ologrammi fluttuanti. Il ping-back era solido, il livello di autorizzazione blu. Ora doveva solo trovare il luogo perfetto per un relé..."
+    },
+    {
+        "code": "01053",
+        "title": "Frangicodice Armitage",
+        "keywords": "Colpo",
+        "text": "Colloca 12[Credits] dalla banca sul Frangicodice Armitage quando viene installato. Quando non rimane più nessun credito sul Frangicodice Armitage, eliminalo.\n[Click]: Prendi 2[Credits] dal Frangicodice Armitage.",
+        "flavor": "Lavoro noioso, ma per pagare i conti va bene."
+    },
+    {
+        "code": "01054",
+        "title": "Haas-Bioroid: Progettiamo il futuro",
+        "keywords": "Megacorporazione",
+        "text": "A ogni turno, la prima volta che installi una carta ottieni 1[Credits].",
+        "flavor": "Efficaci. Affidabili. Umani."
+    },
+    {
+        "code": "01055",
+        "title": "Test Beta Accellerato",
+        "keywords": "Ricerca",
+        "text": "Quando riscuoti il punteggio di Test Beta Accellerato, puoi esaminare le prime tre carte di R&S. Se tra quelle carte ci sono dei pezzi di ghiaccio, puoi installarli e materializzarli ignorando tutti i costi. Elimina le carte rimanenti che hai esaminato.",
+        "flavor": null
+    },
+    {
+        "code": "01056",
+        "title": "Campagna Adonis",
+        "keywords": "Pubblicità",
+        "text": "Colloca 12[Credits] dalla banca su Campagna Adonis quando viene materializzata. Quando non rimane più nessun credito su Campagna Adonis, eliminala.\nPrendi 3[Credits] da Campagna Adonis quando il tuo turno ha inizio.",
+        "flavor": null
+    },
+    {
+        "code": "01057",
+        "title": "Segreteria Aggressiva",
+        "keywords": "Imboscata",
+        "text": "E' possibile far progredire Segreteria Aggressiva.\nSe paghi 2[Credits] quando il Runner accede a Segreteria Aggressiva, elimina 1 programma per ogni segnalino progresso su Segreteria Aggressiva.",
+        "flavor": null
+    },
+    {
+        "code": "01058",
+        "title": "Memorie Archiviate",
+        "keywords": null,
+        "text": "Aggiungi 1 carta degli Archivi al QG.",
+        "flavor": "\"Pensi che... provino emozioni?\""
+    },
+    {
+        "code": "01059",
+        "title": "Forza lavoro biotica",
+        "keywords": null,
+        "text": "Ottieni [Click][Click].",
+        "flavor": "\"Ma certamente, abbiamo sei diversi modelli Haas-Bioroide in servizio in varie posizioni soltanto in questo distaccamento. Qui alla Haas-Bioroide non esitiamo a mettere in pratica quanto raccomandiamo, e trasferiamo ciò' che viene risparmiato grazie a questa superiore efficienza ai nostri stimati clienti.\""
+    },
+    {
+        "code": "01060",
+        "title": "Spedizione dalla Mirrormorph",
+        "keywords": null,
+        "text": "Installa immediatamente fino a 3 carte (senza spendere nessun click, ma pagando tutti costi di installazione).",
+        "flavor": "Le nuove teste erano arrivate. Seguivano i tuoi movimenti con lo sguardo non appena sbloccavi il contenitore pressurizzato e sollevavi il coperchio."
+    },
+    {
+        "code": "01061",
+        "title": "Heimdall 1.0",
+        "keywords": "Barriere - Bioroide - AP",
+        "text": "Il Runner può spendere [Click] per infrangere una qualsiasi subroutine su Heimdall 1.0.\n[Subroutine] Infligge 1 danno cerebrale.\n[Subroutine] L'incursione termina.\n[Subroutine] L'incursione termina.",
+        "flavor": "Sento il fruscio di ogni bit che scorre nel flusso dati. Sento i sussurri delle mie madri, e i loro ordini sono legge. Al reame oltrestante è vietato accedere."
+    },
+    {
+        "code": "01062",
+        "title": "Ichi 1.0",
+        "keywords": "Sentinella - Bioroide - Tracciatore - Distruttore",
+        "text": "Il Runner può spendere [Click] per infrangere una qualsiasi subroutine su Ichi 1.0.\n[Subroutine] Elimina 1 programma.\n[Subroutine] Elimina 1 programma.\n[Subroutine] <strong>Tracciamento<sup>1<\/sup><\/strong>-Se riuscito, assegna al runner 1 tag e infliggigli 1 danno cerebrale.",
+        "flavor": "La mia reputazione mi precederebbe, se qualcuno potesse parlarne."
+    },
+    {
+        "code": "01063",
+        "title": "Viktor 1.0",
+        "keywords": "Portale Codificato - Bioroide - AP",
+        "text": "Il Runner può spendere [Click] per infrangere una qualsiasi subroutine su Viktor 1.0.\n[Subroutine] Infligge 1 danno cerebrale.\n[Subroutine] L'incursione termina.",
+        "flavor": "Mi chiamo Viktor. Felice di conoscerti. Ti piacerebbe giocare con me ?"
+    },
+    {
+        "code": "01064",
+        "title": "Rototorretta",
+        "keywords": "Sentinella - Distruttore",
+        "text": "[Subroutine] Elimina 1 programma.\n[Subroutine] L'incursione termina.",
+        "flavor": "Whrrrrr!"
+    },
+    {
+        "code": "01065",
+        "title": "Esperto Emergenze Corporativo",
+        "keywords": "Contatto",
+        "text": "X[Credits], [Trash]: Scegli un pezzo di ghiaccio materializzato a protezione di questo server. Quel ghiaccio ha forza +X fino alla fine del turno.",
+        "flavor": "\"Risolvo problemi.\""
+    },
+    {
+        "code": "01066",
+        "title": "Dati empirici",
+        "keywords": null,
+        "text": "Tutto il ghiaccio a protezione di questo server ha forza +1.",
+        "flavor": "Floyd percepì la rabbia nell'uomo davanti a lui, che protestava furioso contro i simulanti. La sua programmazione spinse un banale concetto con cui ribattergli in cima ai suoi pensieri, e l'impulso di dargli voce fu soverchiante. Così peggiorerai soltanto le cose, pensò."
+    },
+    {
+        "code": "01067",
+        "title": "Jinteki: Evoluzione Personale",
+        "keywords": "Megacorporazione",
+        "text": "Ogni volta che un obiettivo viene rubato o ne viene riscosso il punteggio, infliggi 1 danno net.",
+        "flavor": "Quando il tocco umano è importante."
+    },
+    {
+        "code": "01068",
+        "title": "Nisei MK II",
+        "keywords": "Iniziativa",
+        "text": "Colloca 1 segnalino obiettivo su Nisei MK II quando ne riscuoti il punteggio.\n<strong>Segnalino obiettivo ospitato:<\/strong> L'incursione termina.",
+        "flavor": null
+    },
+    {
+        "code": "01069",
+        "title": "Progetto Junebug",
+        "keywords": "Imboscata - Ricerca",
+        "text": "E' possibile far progredire il Progetto Junebug.\nSe paghi 1[Credits] quando il Runner accede al Progetto Junebug, infliggi 2 danni net per ogni segnalino progresso sul Progetto Junebug.",
+        "flavor": null
+    },
+    {
+        "code": "01070",
+        "title": "Tagliola!",
+        "keywords": "Imboscata",
+        "text": "Se accede a Tagliola! da R&S, il Runner deve rivelarla.\nSe paghi 4[Credits] quando il Runner accede a Tagliola!, infliggi 3 danni net e assegna 1 tag al Runner. Ignora questa capacità se il Runner accede a Tagliola! dagli Archivi.",
+        "flavor": null
+    },
+    {
+        "code": "01071",
+        "title": "Fedelta' alla Zaibatsu",
+        "keywords": null,
+        "text": "Se il Runner sta per scoprire una carta, puoi materializzare Fedeltà alla Zaibatsu.\n1[Credits] o [Trash]: Impedisci che 1 carta venga scoperta.",
+        "flavor": null
+    },
+    {
+        "code": "01072",
+        "title": "IEM Neurale",
+        "keywords": "Operazioni Grigie",
+        "text": "Giocabile solo se il Runner ha effettuato un'incursione durante il suo ultimo turno.\nInfliggi 1 danno net.",
+        "flavor": "Il difficile non è colpire la persona a cui stavi mirando. E' colpire <strong>solo<\/strong> la persona a cui stavi mirando."
+    },
+    {
+        "code": "01073",
+        "title": "Precognizione",
+        "keywords": null,
+        "text": "Esamina le prime 5 carte di R&S e ridisponile in qualsiasi ordine.",
+        "flavor": "C'era una nuova texture nella sua corteccia fantasma. Ma si rese conto che era lì da sempre. Era tutto e niente allo stesso tempo."
+    },
+    {
+        "code": "01074",
+        "title": "Porta della cella",
+        "keywords": "Portale Codificato - Deflettore",
+        "text": "[Subroutine] Il Runner approccia il pezzo di ghiaccio più esterno a protezione del server attaccato. Smaterializza il Portale della Cella.",
+        "flavor": "\"Chissà dove conduce?\""
+    },
+    {
+        "code": "01075",
+        "title": "Olio su ghiaccio",
+        "keywords": "Portale Codificato",
+        "text": "[Subroutine] Il prossimo pezzo di ghiaccio incontrato dal Runner durante questa incursione ha forza +2. Infliggi 3 danni net a meno che il Runner non infranga tutte le subroutine di quel pezzo di ghiaccio.",
+        "flavor": "\"Hai mai avuto l'impressione di essere cibo per squali? Non ignorare quell'impressione.\" -Ji \"Noise\" Reilly"
+    },
+    {
+        "code": "01076",
+        "title": "Mina di dati",
+        "keywords": "Trappola - AP",
+        "text": "[Subroutine] Infliggi 1 danno net. Elimina la Mina di Dati.",
+        "flavor": "Accedi a FileInnocuo.datZ -> Sei sicuro? s\/n"
+    },
+    {
+        "code": "01077",
+        "title": "Katana Neurale",
+        "keywords": "Sentinella - AP",
+        "text": "[Subroutine] Infliggi 3 danni net.",
+        "flavor": "Forgiata da Ak.wa il 23.11.79-23, Archiviata il 23.11.79-23.2 con #34k-lw3-21HH-4i.\/\/Samurai incluso."
+    },
+    {
+        "code": "01078",
+        "title": "Muro di Spine",
+        "keywords": "Barriera - AP",
+        "text": "[Subroutine] Infliggi 2 danni net.\n[Subroutine] L'incursione termina.",
+        "flavor": "La maggior parte dei runner lavora in simulazione completa, con il rig collegato direttamente al cervello. Questo allestimento ha numerosi vantaggi, in quanto consente al runner di elaborare dati e impartire comandi assai più rapidamente di un sistema a interfaccia tattile. Ma comporta anche rischi più grandi."
+    },
+    {
+        "code": "01079",
+        "title": "Akitaro Watanabe",
+        "keywords": "Sysop - Eterodosso",
+        "text": "Il costo di materializzazione del ghiaccio a protezione di questo server è ridotto di 2.",
+        "flavor": "Però non chiedermi come ci riesce."
+    },
+    {
+        "code": "01080",
+        "title": "NBN: Creatori di notizie",
+        "keywords": "Megacorporazione",
+        "text": "2[Recurring Credits]\nUsa questi crediti durante i tracciamenti.",
+        "flavor": "C'è sempre qualcuno che osserva."
+    },
+    {
+        "code": "01081",
+        "title": "Programma Pilota AstroScript",
+        "keywords": "Iniziativa",
+        "text": "Colloca 1 segnalino obiettivo sul Programma Pilota Astroscript quando ne riscuoti il punteggio.\n<strong>Segnalino progresso ospitato:<\/strong> Colloca 1 segnalino progresso su una carta che è possibile far progredire.",
+        "flavor": null
+    },
+    {
+        "code": "01082",
+        "title": "Ultime Notizie",
+        "keywords": null,
+        "text": "Quando riscuoti il punteggio di Ultime Notizie, assegna al Runner 2 tag.\nQuando il turno in cui hai riscosso il punteggio di Ultime Notizie ha termine, il Runner perde 2 tag.",
+        "flavor": null
+    },
+    {
+        "code": "01083",
+        "title": "Segnalazione Anonima",
+        "keywords": null,
+        "text": "Pesca 3 carte.",
+        "flavor": "\"Si prega di rimanere collegati. Trasferimento proritario in corso. Un operatore verificherà pres-\""
+    },
+    {
+        "code": "01084",
+        "title": "Conto chiuso",
+        "keywords": "Operazioni Grigie",
+        "text": "Giocabile solo se il Runner è taggato.\nIl Runner perde tutti i crediti della sua riserva di crediti.",
+        "flavor": null
+    },
+    {
+        "code": "01085",
+        "title": "Statistiche Psicografiche",
+        "keywords": null,
+        "text": "X è pari o inferiore al numero di tag posseduti dal Runner.\nColloca X segnalini progresso su una carta che puoi far progredire.",
+        "flavor": "Poter accedere al più grande database di consumatori della galassia ha i suoi vantaggi."
+    },
+    {
+        "code": "01086",
+        "title": "Fonte SEA",
+        "keywords": null,
+        "text": "Giocabile solo se il Runner ha effettuato un'incursione riuscita nel suo ultimo turno.\n<strong>Tracciamento<sup>3<\/sup><\/strong>- Se riuscito, assegna al Runner 1 tag.",
+        "flavor": "\"La SEA ci ha fatto notare alcuni picchi di dati, su al Castello.\" -Jerome Lock, tecnico di servizio"
+    },
+    {
+        "code": "01087",
+        "title": "Dipartimento Fantasma",
+        "keywords": "Imboscata - Struttura",
+        "text": "E' possibile far progredire il Dipartimento Fantasma.\nQuando il Runner accede al Dipartimento Fantasma, puoi assegnare al Runner 1 tag per ogni segnalino progresso presente sul Dipartimento Fantasma.",
+        "flavor": null
+    },
+    {
+        "code": "01088",
+        "title": "Corvo di Dati",
+        "keywords": "Sentinella - Tracciatore - Osservatore",
+        "text": "Quando il Runner incontra il Corvo di Dati, deve scegliere se ricevere un tag o terminare l'incursione.\n<strong>Segnalino potenza ospitato:<\/strong> Assegna al Runner 1 tag.\n[Subroutine] <strong>Tracciamento<sup>3<\/sup><\/strong>- Se riuscito, colloca 1 segnalino potenza sul Corvo di Dati.",
+        "flavor": null
+    },
+    {
+        "code": "01089",
+        "title": "Analizzatore di Matrice",
+        "keywords": "Sentinella - Tracciatore - Osservatore",
+        "text": "Quando il Runner incontra l'Analizzatore di Matrice, puoi pagare 1 per collocare 1 segnalino progresso su una carta che è possibile far progredire.\n[Subroutine] <strong>Tracciamento<sup>2<\/sup><\/strong>- Se riuscito, assegna al Runner 1 tag.",
+        "flavor": "Analizzare era fantastico. Delegare i comandi si rivelò perfino migliore."
+    },
+    {
+        "code": "01090",
+        "title": "Casello di Pedaggio",
+        "keywords": "Portale Codificato",
+        "text": "Quando il Runner incontra il Casello di Pedaggio, deve pagare 3[Credits], se può farlo. Se non può pagare 3[Credits], l'incursione termina.\n[Subroutine] L'incursione termina.",
+        "flavor": "\"Mai sentito parlare di comma 22?\"\n\"Ricordami di dimenticarmene.\""
+    },
+    {
+        "code": "01091",
+        "title": "Specchietto per le Allodole",
+        "keywords": null,
+        "text": "Ogni volta che il Runner accede a un obiettivo di questo server, deve pagare 5[Credits] come costo aggiuntivo al fine di rubarlo. Questo vale anche durante l'incursione in cui il Runner elimina lo Specchietto per le Allodole.",
+        "flavor": null
+    },
+    {
+        "code": "01092",
+        "title": "Griglia Cittadina SanSan",
+        "keywords": "Regione",
+        "text": "Il requisito di progresso degli obiettivi installati su questo server è ridotto di 1.\nLimite di 1 <strong>regione<\/strong> per server.",
+        "flavor": "\"Ho sentito dire che la costa è bella in questo periodo dell'anno.\"\n\"Se sei nel giro giusto, è bella tutto l'anno.\""
+    },
+    {
+        "code": "01093",
+        "title": "Consorzio Weyland: Costruiamo un mondo migliore",
+        "keywords": "Megacorporazione",
+        "text": "Ottieni 1[Credits] ogni volta che giochi un' operazione <strong>transazione<\/strong>.",
+        "flavor": "La via per il cielo."
+    },
+    {
+        "code": "01094",
+        "title": "Accorpamento Ostile",
+        "keywords": "Espansione",
+        "text": "Quando riscuoti il punteggio di Accorpamento Ostile, ottieni 7[Credits] e ricevi 1 cattiva pubblicità.",
+        "flavor": "Ci sarà qualche cambiamento da queste parti."
+    },
+    {
+        "code": "01095",
+        "title": "Avviso di Taglia",
+        "keywords": "Sicurezza",
+        "text": "Quando riscuoti il punteggio di Avviso di Taglia, puoi sacrificarlo per assegnare al Runner 1 Tag e ricevere 1 cattiva pubblicità.",
+        "flavor": "\"Se qualche agenzia di notizie da due crediti lo trasmette, tanto meglio. Quella feccia potrebbe essersi rintanata nei vicoli di Guayaquil o nei bassifondi di BosWash. O addirittura fuori pianeta.\""
+    },
+    {
+        "code": "01096",
+        "title": "Subappalto di Sicurezza",
+        "keywords": "Transazione",
+        "text": "[Click],elimina un pezzo di <strong>ghiaccio<\/strong> materializzato: Ottieni 4[Credits].",
+        "flavor": "\"Getta in pasto ai Federali i nostri scarti, e torneranno implorando di averne ancora.\" -Richard Polasco, VP della Cyber-Sicurezza."
+    },
+    {
+        "code": "01097",
+        "title": "Negoziati Aggressivi",
+        "keywords": null,
+        "text": "Giocabile solo se hai riscosso il punteggio di un obiettivo in questo turno.\nCerca 1 carta in R&S e aggiungila al QG. Rimescola R&S.",
+        "flavor": "\"Credo che troverà i termini alquanto favorevoli.\""
+    },
+    {
+        "code": "01098",
+        "title": "Proventi del fagiolo magico",
+        "keywords": "Transazione",
+        "text": "Ottieni 3[Credits].",
+        "flavor": "L'Ascensore spaziale di New Angeles, meglio noto come il Fagiolo Magico, è il più grande trionfo dell'ingegneria e dell'ingegno umano nella storia. Il Fagiolo Magico rende l'orbita terrestre accessibile a tutti... a una tariffa ragionevole."
+    },
+    {
+        "code": "01099",
+        "title": "Terra Bruciata",
+        "keywords": "Operazioni Nere",
+        "text": "Giocabile solo se il Runner è taggato.\nInfliggi 4 danni corpo.",
+        "flavor": "\"Vorrei ricordare alle signore e ai signori della stampa che vari edifici rimasti danneggiati nell'esplosione erano di proprietà di compagnie sussidiarie del Consorzio Weyland...\""
+    },
+    {
+        "code": "01100",
+        "title": "Spedizione da Kaguya",
+        "keywords": null,
+        "text": "Colloca 1 segnalino progresso su ogni carta installata diversa che è possibile far progredire (fino a un massimo di 2 carte).",
+        "flavor": "\"E poi ci sono queste due casse. Ma sono senza eID.\"\n\"Quelle lasciale a me e scordati di averle mai viste.\""
+    },
+    {
+        "code": "01101",
+        "title": "Arciere",
+        "keywords": "Sentinella - Distruttore",
+        "text": "Come costo aggiuntivo per materializzare l'Arciere, la Corp deve sacrificare un obiettivo.\n[Subroutine] La Corp ottiene 2[Credits].\n[Subroutine] Elimina 1 programma.\n[Subroutine] Elimina 1 programma.\n[Subroutine] L'incursione termina.",
+        "flavor": "La prossima volta, leggi le Condizioni del Servizio con più attenzione. O potresti ritrovarti nella zona del pericolo."
+    },
+    {
+        "code": "01102",
+        "title": "Vallo di Adriano",
+        "keywords": "Barriera",
+        "text": "E' possibile far progredire il Vallo di Adriano, che avrà forza +1 per ogni segnalino progresso presente su di esso.\n[Subroutine] L'incursione termina.\n[Subroutine] L'incursione termina.",
+        "flavor": "\"Era un po' megalomane, il vecchio Adriano. Però i suoi costrutti gli danno ragione.\" -g00ru"
+    },
+    {
+        "code": "01103",
+        "title": "Muro di Ghiaccio",
+        "keywords": "Barriera",
+        "text": "E' possibile far progredire il Muro di Ghiaccio, che avrà forza +1 per ogni segnalino progresso presente su di esso.",
+        "flavor": "\"Avevo chiesto del ghiaccio impenetrabile quanto un muro. Non ho capito se qualcuno giù a R&S ha un senso dell'umorismo deviato o soltanto una mente molto lineare.\" -Liz Campbell, VP Progetti Sicurezza"
+    },
+    {
+        "code": "01104",
+        "title": "Ombra",
+        "keywords": "Sentinella - Tracciatore",
+        "text": "E' possibile far progredire l'Ombra, che avrà forza +1 per ogni segnalino progresso presente su di essa.\n[Subroutine] La Corp ottiene 2[Credits].\n[Subroutine] <strong>Tracciamento<sup>3<\/sup><\/strong>- Se riuscito, assegna al Runner 1 tag.",
+        "flavor": "Chissà quali malvagità si annidano nella memoria adamantina degli uomini? La Weyland lo sa. -cyber-graffito anonimo"
+    },
+    {
+        "code": "01105",
+        "title": "Stazione di Ricerca",
+        "keywords": "Struttura",
+        "text": "Installabile soltanto sulla radice del QG.\n+2 al limite massimo della tua mano.",
+        "flavor": "\"Jack Weyland ha costruito il Fagiolo Magico e ha cambiato la storia della razza umana per sempre. Non vedo l'ora di scoprire cosa faranno adesso.\""
+    },
+    {
+        "code": "01106",
+        "title": "Istanza Prioritaria",
+        "keywords": "Sicurezza",
+        "text": "Quando riscuoti il punteggio di Istanza Prioritaria, puoi materializzare un pezzo di ghiaccio ignorando tutti i costi.",
+        "flavor": "\"Se non lo vedo sul mio terminale entro le 18:00, parecchie teste cadranno!\""
+    },
+    {
+        "code": "01107",
+        "title": "Forze di sicurezza private",
+        "keywords": "Sicurezza",
+        "text": "Se il Runner è taggato, Forze di Sicurezza Private ottiene \"[Click]:Infliggi 1 danno corpo.\"",
+        "flavor": "\"Costose? Non quando c'è da proteggere una fortuna vasta quanto la nostra.\""
+    },
+    {
+        "code": "01108",
+        "title": "Corp. Mineraria Melange",
+        "keywords": null,
+        "text": "[Click], [Click], [Click]: Ottieni 7[Credits].",
+        "flavor": "\"I boss minerari sono peggiori di qualsiasi signore del crimine giù dal fagiolo. Tri-Maf, 4K, Yak, non mi importa quali organizzazioni avete laggiù. A Heinlein esiste solo una legge l' He3 deve girare.\"- Rick Henry \"il Vecchio\", clone evaso"
+    },
+    {
+        "code": "01109",
+        "title": "Campagna Pubblicitaria Pad",
+        "keywords": "Pubblicità",
+        "text": "Ottieni 1[Credits] quando il tuo turno ha inizio.",
+        "flavor": "E' come quello che hai appena comprato, ma migliore."
+    },
+    {
+        "code": "01110",
+        "title": "Fondi Speculativi",
+        "keywords": "Transazione",
+        "text": "Ottieni 9[Credits].",
+        "flavor": "Fondi Speculativi. Sostantivo. Un ingegnoso meccanismo per cui i ricchi diventano ancora più ricchi mentre ogni altro povero Cristo perde anche la camicia. -Dizionario degli Anarchici, Volume Chi è Che Conta ?"
+    },
+    {
+        "code": "01111",
+        "title": "Enigma",
+        "keywords": "Portale Codificato",
+        "text": "[Subroutine] Il Runner perde [Click], se possibile.\n[Subroutine] L'Incursione termina.",
+        "flavor": "\"Ehi, ehi! Svegliati, amico. Sei stato giù per un bel pò di tempo. Che cosa hai visto?\"\n\"Io... non ricordo.\""
+    },
+    {
+        "code": "01112",
+        "title": "Cacciatore",
+        "keywords": "Sentinella - Tracciatore - Osservatore",
+        "text": "[Subroutine] <strong>Tracciamento<sup>3<\/sup><\/strong>– Se riuscito, assegna al Runner 1 tag.",
+        "flavor": ".\/\/run\/hunter-tr\/return=true\nclient\/sec256IPv7->conferma? \/y\n3926:0HB7:1001:2NB1:1601:7784:ERRORE"
+    },
+    {
+        "code": "01113",
+        "title": "Muro Elettrostatico",
+        "keywords": "Barriera",
+        "text": "[Subroutine] L'Incursione termina.",
+        "flavor": "\"Non c'è niente di peggio che vedere quella splendida sfera blu di dati che fluttua oltre la tua portata mentre il tuo collegamento si smaterializza. Secondo me lo fanno solo per prenderci in giro.\" -Ele \"Smoke\" Scovak"
+    },
+    {
+        "code": "02001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02056",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02057",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02058",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02059",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02060",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02061",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02062",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02063",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02064",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02065",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02066",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02067",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02068",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02069",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02070",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02071",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02072",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02073",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02074",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02075",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02076",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02077",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02078",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02079",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02080",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02081",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02082",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02083",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02084",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02085",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02086",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02087",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02088",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02089",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02090",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02091",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02092",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02093",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02094",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02095",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02096",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02097",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02098",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02099",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02100",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02101",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02102",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02103",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02104",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02105",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02106",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02107",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02108",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02109",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02110",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02111",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02112",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02113",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02114",
+        "title": "NBN: Il mondo è tuo*",
+        "keywords": "Megacorporazione",
+        "text": "Il limite massimo della tua mano è aumentato di 1.",
+        "flavor": "*Possibili limitazioni applicabili. Scansiona questa carta per scoprire di più."
+    },
+    {
+        "code": "02115",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02116",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02117",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02118",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02119",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02120",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03001",
+        "title": "Imaging Cerebrale: Frontiere infinite",
+        "keywords": "Divisione",
+        "text": "Il limite massimo della tua mano è pari al numero di crediti nella tua riserva di crediti.",
+        "flavor": "Il più denso nucleo di informazioni di tutta la galassia."
+    },
+    {
+        "code": "03002",
+        "title": "Biotica Personalizzata: Ingegneria di Successo",
+        "keywords": "Divisione",
+        "text": "Non puoi includere carte Jinteki in questo mazzo.",
+        "flavor": "Androide in Eterno."
+    },
+    {
+        "code": "03003",
+        "title": "Modello NEXT: A Guardia della Rete",
+        "keywords": "Divisione",
+        "text": "Prima di svolgere il tuo primo turno, puoi installare fino a 3 pezzi di ghiaccio, ma non più di un singolo pezzo di ghiaccio per server. Pesca finché non hai 5 carte nel QG.",
+        "flavor": null
+    },
+    {
+        "code": "03004",
+        "title": "Progetto Personale della Direttrice Haas",
+        "keywords": "Iniziativa",
+        "text": "Quando riscuoti il punteggio del Progetto Personale della Direttrice Haas, puoi creare un nuovo server remoto installando fino a 3 carte dal QG e\/o dagli Archivi su quel server e\/o a protezione del server (uno alla volta), ignorando tutti i costi di installazione.\nLimite di 1 Progetto Personale della Direttrice Haas per mazzo.",
+        "flavor": null
+    },
+    {
+        "code": "03005",
+        "title": "Comitato di Efficienza",
+        "keywords": "Iniziativa",
+        "text": "Colloca 3 segnalini obiettivo su Comitato di Efficienza quando ne riscuoti il punteggio.\n[Click], <strong>segnalino obiettivo ospitato<\/strong>: Ottieni [Click][Click]. Non puoi far progredire carte per il resto di questo turno.",
+        "flavor": null
+    },
+    {
+        "code": "03006",
+        "title": "Progetto Wotan",
+        "keywords": "Ricerca",
+        "text": "Colloca 3 segnalini obiettivo su Progetto Wotan quando ne riscuoti il punteggio.\n<strong>Segnalino obiettivo ospitato<\/strong>: Scegli un pezzo di ghiaccio <strong>bioroide<\/strong> materializzato e attualmente approcciato. Per il resto di questa incursione quel ghiaccio ottiene \"[Subroutine] L'incursione termina.\" dopo tutte le sue altre subroutine.",
+        "flavor": null
+    },
+    {
+        "code": "03007",
+        "title": "Programma Difensivo Sentinella",
+        "keywords": "Sicurezza",
+        "text": "Ogni volta che il Runner subisce almeno 1 danno cerebrale, infliggi 1 danno net.",
+        "flavor": "\"Perché limitare i nostri migliori asset ai nostri stessi server? Il nemico non se ne sta passivamente a casa sua, in attesa che noi andiamo da lui. Perché non fare altrettanto?\" -Direttrice Haas"
+    },
+    {
+        "code": "03008",
+        "title": "Alix T4LB07",
+        "keywords": "Bioroide",
+        "text": "Colloca 1 segnalino di potenza su Alix T4LB07 ogni volta che installi una carta.\n[Click],[Trash]: Ottieni 2[Credits] per ogni segnalino di potenza su Alix T4LB07.",
+        "flavor": "Il modello Alix era basato su un programma gestionale di fondi speculativi di grande successo, ma tendeva a esaurirsi facilmente. In senso letterale."
+    },
+    {
+        "code": "03009",
+        "title": "Sovrascrittura Cerebrale",
+        "keywords": "Imboscata",
+        "text": "Sovrascrittura Cerebrale può essere fatta progredire.\nSe paghi 3[Credits] quando il Runner accede a Sovrascrittura Cerebrale, infliggi 1 danno cerebrale per ogni segnalino progresso presente su Sovrascrittura Cerebrale.",
+        "flavor": null
+    },
+    {
+        "code": "03010",
+        "title": "Direttrice Haas",
+        "keywords": "Dirigente",
+        "text": "Ogni turno hai 1[Click] aggiuntivo da spendere.\nSe la Direttrice Haas viene eliminata durante un accesso, aggiungila all'area punteggio del Runner come obiettivo del valore di 2 punti obiettivo.",
+        "flavor": null
+    },
+    {
+        "code": "03011",
+        "title": "Ia dell'Arcologia Haas",
+        "keywords": null,
+        "text": "L'IA dell'Arcologia Haas può essere fatta progredire solo mentre è smaterializzata.\n[Click], <strong>segnalino progresso ospitato<\/strong>: Ottieni [Click][Click]. Puoi usare questa capacità solo una volta per turno.",
+        "flavor": null
+    },
+    {
+        "code": "03012",
+        "title": "Thomas Haas",
+        "keywords": "Dirigente",
+        "text": "Thomas Haas può essere fatto progredire.\n[Trash]: Ottieni 2[Credits] per ogni segnalino progresso presente su Thomas Haas.",
+        "flavor": "Thomas, il figlio della direttrice, è stato meticolosamente preparato per ereditare la corporazione fin da prima della sua nascita. Il suo passatempo preferito sembra essere deludere sua madre."
+    },
+    {
+        "code": "03013",
+        "title": "Collaudo Efficienza Bioroidi",
+        "keywords": "Condizione",
+        "text": "Materializza un pezzo di ghiaccio <strong>bioroide<\/strong>, ignorando tutti i costi, e installa Collaudo Efficienza Bioroidi su quel ghiaccio come segnalino condizione ospitato con il testo \"Elimina Collaudo Efficienza Bioroidi e smaterializza il ghiaccio ospitante se tutte le sue subroutine vengono infrante durante un singolo incontro.\"",
+        "flavor": null
+    },
+    {
+        "code": "03014",
+        "title": "Dimostrazione Riuscita",
+        "keywords": "Transazione",
+        "text": "Giocabile solo se il Runner ha effettuato un' incursione fallita durante il suo ultimo turno.\nOttieni 7[Credits].",
+        "flavor": "E' la sicurezza dei dati a definire il successo, non l'incolumità dei potenziali intrusi."
+    },
+    {
+        "code": "03015",
+        "title": "Heimdall 2.0",
+        "keywords": "Barriere - Bioroide - AP",
+        "text": "Il Runner può spendere [Click][Click] per infrangere fino a 2 subroutine su Heimdall 2.0.\n[Subroutine] Infliggi 1 danno cerebrale.\n[Subroutine] Infliggi 1 danno cerebrale e l'incursione termina.\n[Subroutine] L'incursione termina.",
+        "flavor": "Al reame oltrestante è ancora vietato accedere."
+    },
+    {
+        "code": "03016",
+        "title": "Howler",
+        "keywords": "Trappola",
+        "text": "[Subroutine] Puoi installare e materializzare un pezzo di ghiaccio <strong>bioroide<\/strong> dal QG o dagli Archivi, ignorando tutti i costi e collocarlo direttamente sotto Howler. Se lo fai, smaterializza quel pezzo di ghiaccio ed elimina Howler dopo che l'incursione è stata completata.",
+        "flavor": "\"Già. Ha fatto un  rumore forte, mi sono spaventato e mi sono disconneso. Penso ancora di avere preso la decisione giusta.\" -g00ru"
+    },
+    {
+        "code": "03017",
+        "title": "Ichi 2.0",
+        "keywords": "Sentinella - Bioroide - Distruttore - Tracciatore",
+        "text": "Il Runner può spendere [Click][Click] per infrangere fino a 2 subroutine su Ichi 2.0.\n[Subroutine] Elimina 1 programma.\n[Subroutine] Elimina 1 programma.\n[Subroutine] <strong>Tracciamento<sup>3<\/sup><\/strong> - Se riuscito, assegna al Runner 1 tag e infliggigli 1 danno cerebrale.",
+        "flavor": "Il gioco è cambiato."
+    },
+    {
+        "code": "03018",
+        "title": "Posamine",
+        "keywords": "Portale Codificato",
+        "text": "[Subroutine] Puoi installare un pezzo di ghiaccio dal QG come pezzo di ghiaccio più esterno a protezione di questo server, ignorando tutti i costi di installazione.",
+        "flavor": "A volte devi solo tirare a indovinare."
+    },
+    {
+        "code": "03019",
+        "title": "Viktor 2.0",
+        "keywords": "Portale Codificato - Bioroide - Tracciatore - AP",
+        "text": "Il Runner può spendere [Click][Click] per infrangere fino a 2 subroutine su Viktor 2.0.\n<strong>Segnalino potenza ospitato<\/strong>: Infliggi 1 danno cerebrale.\n[Subroutine] <strong>Tracciamento<sup>2<\/sup><\/strong> - Se riuscito, colloca un segnalino di potenza su Viktor 2.0.\n[Subroutine] L'incursione termina.",
+        "flavor": null
+    },
+    {
+        "code": "03020",
+        "title": "Zed 1.0",
+        "keywords": "Sentinella - Bioroide - AP",
+        "text": "Il Runner può spendere [Click] per infrangere una qualsiasi subroutine su Zed 1.0.\n[Subroutine] Se il Runner ha speso almeno 1 [Click] per infrangere una subroutine durante questa incursione, infliggigli 1 danno cerebrale.\n[Subroutine] Se il Runner ha speso almeno 1 [Click] per infrangere una subroutine durante questa incursione, infliggigli 1 danno cerebrale.",
+        "flavor": "Una mente di carne! Come funziona?"
+    },
+    {
+        "code": "03021",
+        "title": "Centro di Risveglio",
+        "keywords": null,
+        "text": "Il Centro di Risveglio può ospitare il ghiaccio <strong>bioroide<\/strong> (ogni pezzo viene installato a faccia in giù, ignorando tutti i costi di installazione).\nOgni volta che il Runner supera tutto il ghiaccio a protezione di questo server, puoi materializzare un pezzo di ghiaccio su Centro di Risveglio, abbassando il costo di materializzazione di 7[Credits] per costringere il Runner a incontrarlo. Elimina quel ghiaccio dopo che l'incursione è stata completata.",
+        "flavor": null
+    },
+    {
+        "code": "03022",
+        "title": "Mano di Tyr",
+        "keywords": "Ostile",
+        "text": "Se il Runner sta per infrangere una subroutine su un pezzo di ghiaccio <strong>bioroide<\/strong> a protezione di questo server, puoi materializzare la Mano di Tyr.\n[Trash]: Impedisci a una subroutine su un pezzo di ghiaccio <strong>bioroide<\/strong> a protezione di questo server di essere infranta.",
+        "flavor": null
+    },
+    {
+        "code": "03023",
+        "title": "Arcologia di Gila Hands",
+        "keywords": "Espansione",
+        "text": "[Click], [Click]: Ottieni 3[Credits].",
+        "flavor": "Vendi il sogno: mostra loro quanto vogliono essere ricchi, e si convinceranno che un giorno o l'altro, lo diventeranno. Come possono rivoltarsi contro il loro io futuro? - Il Nuovo Vangelo della Ricchezza"
+    },
+    {
+        "code": "03024",
+        "title": "Università Levy",
+        "keywords": "Prestigio",
+        "text": "[Click], 1[Credits]: Cerca un pezzo di ghiaccio in R&S, rivelalo e aggiungilo al QG. Mescola R&S.",
+        "flavor": "\"Soltanto un'altra fabbrica che sforna droni corporativi per la macchina. Il loro dipartimento di informatica è il migliore del mondo, però\". -g00ru"
+    },
+    {
+        "code": "03025",
+        "title": "Diagnostica del Server",
+        "keywords": null,
+        "text": "Ottieni 2[Credits] quando il tuo turno ha inizio.\nElimina Diagnostica del Server quando installi un pezzo di ghiaccio.",
+        "flavor": "\"C'è solo una probabilità del 5% che questo possa provocare un cedimento generale.\""
+    },
+    {
+        "code": "03026",
+        "title": "Bastione",
+        "keywords": "Barriera",
+        "text": "[Subroutine] L'incursione termina.",
+        "flavor": "Il principio alla base del ghiaccio non è tenere fuori chiunque, ma lasciare entrare solo qualcuno. Questo ghiaccio nega l'accesso a tutti tranne che ad alcune porte selezionate che potrebbero cambiare nel giro di una giornata o di un picosecondo di connessione. Se non sai quale porta usare, non entri. Punto."
+    },
+    {
+        "code": "03027",
+        "title": "Picca di Dati",
+        "keywords": "Portale Codificato",
+        "text": "[Subroutine] Il Runner deve pagare 2[Credits], se possibile. Se il Runner non può pagare 2[Credits], l'incursione termina.\n[Subroutine] L'incursione termina.",
+        "flavor": "\"Protezione a buon mercato, roba da discount. A buon mercato per loro, ovviamente. Non per noi.\" -Ele \"Smoke\" Scovak"
+    },
+    {
+        "code": "03028",
+        "title": "Rielle \"Kit\" Peddler: Transumana",
+        "keywords": "Cyborg",
+        "text": "Il primo pezzo di ghiaccio che incontri a ogni turno ottiene <strong>portale codificato<\/strong> fino alla fine dell'incursione.",
+        "flavor": "\"Non ero; ero; non sono; sono tutto.\""
+    },
+    {
+        "code": "03029",
+        "title": "Il Professore: Custode della Conoscenza",
+        "keywords": "Naturale",
+        "text": "La prima copia di ogni programma in questo mazzo non va conteggiata al fine di determinare il tuo limite di influenza.",
+        "flavor": "\"La nuova tecnologia distrugge quella vecchia.\""
+    },
+    {
+        "code": "03030",
+        "title": "Esule: Falco della Strada",
+        "keywords": "Naturale",
+        "text": "Ogni volta che installi un programma dal tuo heap, pesca 1 carta.",
+        "flavor": "\"posso farlo funzionare.\""
+    },
+    {
+        "code": "03031",
+        "title": "Escher",
+        "keywords": "Incursione",
+        "text": "Effettua un'incursione nel QG. Se l'incursione è riuscita, invece di accedere alle carte ridisponi un qualsiasi numero di pezzi di ghiaccio a protezione di tutti i server (senza materializzarli o smaterializzarli). Dopo la nuova disposizione, ogni server deve essere protetto dallo stesso numero di pezzi di ghiaccio di prima.",
+        "flavor": null
+    },
+    {
+        "code": "03032",
+        "title": "Cavalcata esplorativa",
+        "keywords": "Incursione",
+        "text": "Effettua un'incursione. Se l'incursione è riuscita, invece di accedere alle carte rimuovi fino a 3 segnalini progresso da una singola carta sul server attaccato o a sua protezione.",
+        "flavor": "Yuppiiiiiiii!"
+    },
+    {
+        "code": "03033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03034",
+        "title": "Riciclaggio",
+        "keywords": null,
+        "text": "Come costo aggiuntivo per giocare questa carta, elimina un programma installato.\nInstalla un programma dal tuo grip o dal tuo heap, abbassando il costo di quel programma del costo del programma eliminato.",
+        "flavor": "La spazzatura di un uomo..."
+    },
+    {
+        "code": "03035",
+        "title": "Accesso ai Laboratori RA Levy",
+        "keywords": null,
+        "text": "Mescola il tuo grip e il tuo heap nel tuo stack. Pesca 5 carte. Rimuovi Accesso ai Laboratori RA Levy dal gioco invece di eliminarlo.",
+        "flavor": "Se passi troppo tempo nei Laboratori RA, qualcuno potrebbe notarlo. A meno che tu non ne sia il direttore, naturalmente."
+    },
+    {
+        "code": "03036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03045",
+        "title": "Paricia",
+        "keywords": null,
+        "text": "2[Recurring Credits]\nUsa questi crediti per eliminare gli asset.",
+        "flavor": "Perfetto per inondare i server."
+    },
+    {
+        "code": "03046",
+        "title": "Codice Automodificante",
+        "keywords": null,
+        "text": "2[Credits], [Trash]: Cerca un programma nel tuo stack e installalo (paga il costo di installazione). Mescola il tuo stack.",
+        "flavor": "\"Ricordati di dire al codice di origine in quale eseguibile vuoi che si riversi. Una volta mi sono allontanato dal mio rig per un paio di minuti, e quando sono tornato, tutti i miei file erano stati sostituiti con filmati di gatti.\" -Il Professore"
+    },
+    {
+        "code": "03047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03053",
+        "title": "Notizie del Giorno",
+        "keywords": null,
+        "text": "Colloca 8[Credits] dalla banca su Notizie del Giorno quando viene installato. Quando non rimangono più crediti su Notizie del Giorno, eliminalo.\nPrendi 2[Credits] da Notizie del Giorno quando il tuo turno ha inizio.",
+        "flavor": "Noi diciamo 'cyber-terrorista'; loro sentono 'celebrità clandestina'.\" -Michael Muhama, esperto professionale"
+    },
+    {
+        "code": "03054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04056",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04057",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04058",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04059",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04060",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04061",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04062",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04063",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04064",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04065",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04066",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04067",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04068",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04069",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04070",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04071",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04072",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04073",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04074",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04075",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04076",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04077",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04078",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04079",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04080",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04081",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04082",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04083",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04084",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04085",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04086",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04087",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04088",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04089",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04090",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04091",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04092",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04093",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04094",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04095",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04096",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04097",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04098",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04099",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04100",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04101",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04102",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04103",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04104",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04105",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04106",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04107",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04108",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04109",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04110",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04111",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04112",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04113",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04114",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04115",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04116",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04117",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04118",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04119",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04120",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "05055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06056",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06057",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06058",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06059",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06060",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06061",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06062",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06063",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06064",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06065",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06066",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06067",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06068",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06069",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06070",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06071",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06072",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06073",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06074",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06075",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06076",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06077",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06078",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06079",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06080",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06081",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06082",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06083",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06084",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06085",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06086",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06087",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06088",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06089",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06090",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06091",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06092",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06093",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06094",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06095",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06096",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06097",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06098",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06099",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06100",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06101",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06102",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06103",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06104",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06105",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06106",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06107",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06108",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06109",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06110",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06111",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06112",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06113",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06114",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06115",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06116",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06117",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06118",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06119",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06120",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08056",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08057",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08058",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08059",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08060",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08061",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08062",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08063",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08064",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08065",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08066",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08067",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08068",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08069",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08070",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08071",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08072",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08073",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08074",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08075",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08076",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08077",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08078",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08079",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08080",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08081",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08082",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08083",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08084",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08085",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08086",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08087",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08088",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08089",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08090",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08091",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08092",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08093",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08094",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08095",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08096",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08097",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08098",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08099",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08100",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08101",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08102",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08103",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08104",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08105",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08106",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08107",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08108",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08109",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08110",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08111",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08112",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08113",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08114",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08115",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08116",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08117",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08118",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08119",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08120",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10056",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10057",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10058",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10059",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10060",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10061",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10062",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10063",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10064",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10065",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10066",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10067",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10068",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10069",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10070",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10071",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10072",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10073",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10074",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10075",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10076",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10077",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10078",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10079",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10080",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10081",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10082",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10083",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10084",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10085",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10086",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10087",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10088",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10089",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10090",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10091",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10092",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10093",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10094",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10095",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10096",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10097",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10098",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10099",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10100",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10101",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10102",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10103",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10104",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10105",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10106",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10107",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10108",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10109",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10110",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10111",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10112",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10113",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10114",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "11001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "11002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "11007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "11013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "11014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "11016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    }
+]

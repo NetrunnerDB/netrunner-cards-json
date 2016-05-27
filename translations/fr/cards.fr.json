@@ -1,0 +1,6596 @@
+[
+    {
+        "code": "00005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "00013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "01001",
+        "title": "Noise: Pirate d’Exception",
+        "keywords": "G-Mod",
+        "text": "À chaque fois que vous installez un programme <strong>virus<\/strong>, la corpo efface la première carte de R&D (face cachée).",
+        "flavor": "\"Regarde ça. Tu va rire.\""
+    },
+    {
+        "code": "01002",
+        "title": "Déjà Vu",
+        "keywords": "",
+        "text": "Ajoutez 1 carte (ou jusqu'à 2 cartes <strong>virus<\/strong>) de votre tas à votre main.",
+        "flavor": ""
+    },
+    {
+        "code": "01003",
+        "title": "Opération Démolition",
+        "keywords": "Piratage - Sabotage",
+        "text": "Lancez un piratage sur le QG ou sur R&D. Vous pouvez effacer gratuitement toutes les cartes auquelles vous accédez (même si les cartes ne peuvent normalement pas être effacées)",
+        "flavor": ""
+    },
+    {
+        "code": "01004",
+        "title": "PiraStim",
+        "keywords": "Piratage",
+        "text": "Lancez un piratage et gagnez 9 [Credits], que vous ne pouvez utiliser que pendant ce piratage. Une fois ce piratage terminé, subissez 1 dégât Neuro (qui ne peut pas être prévenu) et remettez à la banque ceux des 9 [Credits] qui n'ont pas été dépensés.",
+        "flavor": ""
+    },
+    {
+        "code": "01005",
+        "title": "Cyberchargeur",
+        "keywords": "Puce",
+        "text": "1 [Recurring Credits]\nN'utilisez ce crédit que pour payer l'utilisation de brise-glace ou l'installation de programmes <strong>virus<\/strong>.",
+        "flavor": ""
+    },
+    {
+        "code": "01006",
+        "title": "Grimoire",
+        "keywords": "Console",
+        "text": "+2 [Memory Unit]\nA chaque fois que vous installez un programme <strong>virus<\/strong>, placez un pion virus sur ce programme. Maximum 1 console en jeu.",
+        "flavor": ""
+    },
+    {
+        "code": "01007",
+        "title": "Corrosif",
+        "keywords": "Brise-glace - Fragmenteur",
+        "text": "1 [Credits] : Neutralisez une routine barrière.\n1 [Credits] : force +1.",
+        "flavor": "\" Si ça ne marche pas du premier coup, booste sa force et remets ça \" - g00ru"
+    },
+    {
+        "code": "01008",
+        "title": "Aspirateur de Données",
+        "keywords": "Virus",
+        "text": "A chaque fois que vous réussissez un piratage sur un serveur central, mettez un pion Virus sur l'Aspirateur de Données.\n<strong>Pion Virus hébergé<\/strong> : La glace que vous êtes en train de rencontrer a -1 en force jusqu'à la fin de la rencontre.",
+        "flavor": ""
+    },
+    {
+        "code": "01009",
+        "title": "Djinn",
+        "keywords": "Démon",
+        "text": "Le Djinn peut héberger jusqu'à 3 [Memory Unit] de programmes non brise-glace.\nLe coût en mémoire des programmes hébergés ne compte pas dans votre limite de mémoire.\n[Click], 1 [Credits] : Cherchez un programme <strong>virus<\/strong> dans votre pile. révélez-le et ajoutez-le à votre main. Mélangez votre pile.",
+        "flavor": ""
+    },
+    {
+        "code": "01010",
+        "title": "Médium",
+        "keywords": "Virus",
+        "text": "A chaque fois que vous réussissez un piratage sur R&D, mettez un pion Virus sur le Médium.\nChaque pion virus après le premier sur le Médium vous permet d'accéder à 1 carte supplémentaire de R&D lorsque vous accédez à des cartes de R&D.",
+        "flavor": "Cela ressemblait à une perte de paquet aléatoire. Ce n'en était pas une."
+    },
+    {
+        "code": "01011",
+        "title": "Imitateur",
+        "keywords": "Brise-glace - Tueur",
+        "text": "1 [Credits] : Neutralisez une routine sentinelle.",
+        "flavor": "5 novembre : jour où le monde allait découvrir les machinations de l'oligarchie corporatiste."
+    },
+    {
+        "code": "01012",
+        "title": "Parasite",
+        "keywords": "Virus",
+        "text": "Installez le Parasite sur une glace activée.\nLa glace hôte a -1 en force pour chaque pion virus sur le Parasite, et est effacée si la force est de 0 ou moins.\nAu début de votre tour, mettez 1 pion virus sur le Parasite.",
+        "flavor": ""
+    },
+    {
+        "code": "01013",
+        "title": "Guivre",
+        "keywords": "Brise-glace - IA",
+        "text": "3 [Credits] : Neutralisez une routine d'une glace avec 0 en force ou moins.\n1 [Credits] : La glace a -1 en force.\n1 [Credits] : Force +1.",
+        "flavor": "Feu et sang..."
+    },
+    {
+        "code": "01014",
+        "title": "Yog.0",
+        "keywords": "Brise-glace - Décrypteur",
+        "text": "0 [Credits] : Neutralisez une routine verrou.",
+        "flavor": "La base de données du Yog.0 est une compilation collaborative de mots de passe renflés, débusqués et collectés. Si la clé de la porte est dans la base de données, vous êtes entrés. Sinon, changez de porte !"
+    },
+    {
+        "code": "01015",
+        "title": "Sculpteur sur Glace",
+        "keywords": "Virtuelle",
+        "text": "Toutes les glaces que vous rencontrez ont leur force réduite de 1.",
+        "flavor": "Dans l'inconscient collectif, il y a une frontière nette entre les corpos et les runners. Dans la réalité, les choses sont un peu moins tranchées. Les corpos ont besoin des meilleurs pirates pour diriger les réseaux, et certains des meilleurs pirates sont d'anciens runners qui apprécient un salaire fixe. Mais la situation inverse se produit aussi quelque fois, et quelqu'un de l'intérieur fait quelque chose comme ça."
+    },
+    {
+        "code": "01016",
+        "title": "Wyldside",
+        "keywords": "Lieu - Marginal",
+        "text": "Au début de votre tour, piochez 2 cartes et perdez [Click].",
+        "flavor": ""
+    },
+    {
+        "code": "01017",
+        "title": "Gabriel Santiago: Professionnel Accompli",
+        "keywords": "Cyborg",
+        "text": "Pour votre premier piratage réussi sur le QG à chaque tour, gagnez 2 [Credits].",
+        "flavor": "\"Bien sûr que je vole aux riches. Ce sont eux qui ont l'argent.\""
+    },
+    {
+        "code": "01018",
+        "title": "Détournement de Compte",
+        "keywords": "Piratage - Sabotage",
+        "text": "Lancez un piratage sur le QG. S'il est réussi, au lieu d'accéder à des cartes, vous pouvez prendre 2 tags, puis obliger la Corpo à perdre jusqu'à 5 [Credits], pour gagner 2 [Credits] par crédit perdu.",
+        "flavor": ""
+    },
+    {
+        "code": "01019",
+        "title": "Pigeon",
+        "keywords": "Crime",
+        "text": "Gagnez 3 [Credits].",
+        "flavor": "\"Hé, p'tit, allume-moi ça, ça va être méchamment plein. Il y a des mecs vachement louches, ici. Heureusement pour toi, il m'reste des tickets...\""
+    },
+    {
+        "code": "01020",
+        "title": "Ordre d’Activation Falsifié",
+        "keywords": "Sabotage",
+        "text": "Choisissez une glace désactivée. La Corpo doit soit l'activer, soit l'effacer.",
+        "flavor": ""
+    },
+    {
+        "code": "01021",
+        "title": "Informateur",
+        "keywords": "Piratage",
+        "text": "Lancez un piratage. Ignorez la première glace rencontrée lors de ce piratage.",
+        "flavor": ""
+    },
+    {
+        "code": "01022",
+        "title": "Commande Spéciale",
+        "keywords": "",
+        "text": "Cherchez un brise-glace dans botre ple, révélez-le et ajoutez-le à votre main. Mélangez votre pile.",
+        "flavor": ""
+    },
+    {
+        "code": "01023",
+        "title": "Craqueur de code Lemuria",
+        "keywords": null,
+        "text": "[Click], 1 [Credits] : Exposez 1 carte. N'utilisez cette capacité que si vous avez réussi un piratage sur le QG ce tour-ci.",
+        "flavor": "\"Un peu de préparation facilite bien des choses.\" -Gabriel Santiago"
+    },
+    {
+        "code": "01024",
+        "title": "Desperado",
+        "keywords": "Console",
+        "text": "+1 [Memory Unit]\nGagnez 1 [Credits] à chaque fois que vous réussissez un piratage.\nMaximum 1 console en jeu.",
+        "flavor": null
+    },
+    {
+        "code": "01025",
+        "title": "Aurora",
+        "keywords": "Brise-glace - Fragmenteur",
+        "text": "2 [Credits] : Neutralisez une routine barrière.\n2 [Credits] : Force +3.",
+        "flavor": ""
+    },
+    {
+        "code": "01026",
+        "title": "Femme Fatale",
+        "keywords": "Brise-glace - Tueur",
+        "text": "1 [Credits] : Neutralisez une routine sentinelle.\n2 [Credits] : Force +1.\nLorsque vous installez Femme Fatale, choisissez une glace installée. Lorsque vous rencontrez cette glace, vous pouvez payer 1 [Credits] par routine sur cette glace pour l'ignorer.",
+        "flavor": ""
+    },
+    {
+        "code": "01027",
+        "title": "Ninja",
+        "keywords": "Brise-glace - Tueur",
+        "text": "1 [Credits] : Neutralisez une routine sentinelle.\n3 [Credits] : Force +5.",
+        "flavor": "On sent la présence du Ninja avant de le voir, quand on parvient à le voir."
+    },
+    {
+        "code": "01028",
+        "title": "Porte Dérobée Bêta",
+        "keywords": "",
+        "text": "[Click] : Lancez un piratage sur les Archives. S'il est réussi, traitez le comme un piratage réussi sur le QG.",
+        "flavor": "\" L'important, c'est pas le code. L'important, c'est là ou le code t'emmène \" - g00ru"
+    },
+    {
+        "code": "01029",
+        "title": "Casse",
+        "keywords": "Crime",
+        "text": "Placez 8 [Credits] de la banque sur Casse lorsqu'il est installé. Lorsqu'il n'y a plus de crédits sur Casse, effacez-le.\nA chaque fois que vous réussissez un piratage sur une serveur distant, vous pouvez prendre n'importe quel nombre de crédits de Casse au lieu d'accéder à des cartes. ",
+        "flavor": ""
+    },
+    {
+        "code": "01030",
+        "title": "Planque",
+        "keywords": "Lieu",
+        "text": "2 [Recurring Credits]\nN'utilisez ces crédits que pour retirer des tags.\n[Trash]: Prévenez jusqu'à 3 dégâts hémo.",
+        "flavor": "\"Mon coloc, il a un cousin qui a une copine étudiante dont le meilleur ami du frère était un camé, et la mère du camé habitait ici. Alors, ouais, il y a un rapport.\" -Lez \"Rockfist\" S."
+    },
+    {
+        "code": "01031",
+        "title": "Dealer de Données",
+        "keywords": "Relation - Marginal",
+        "text": "Renoncez à un Projet, [Click] : Gagnez 9 [Credits].",
+        "flavor": ""
+    },
+    {
+        "code": "01032",
+        "title": "Leurre",
+        "keywords": "Relation",
+        "text": "[Trash] : prévenez l'effacement d'un programme installé ou d'un matériel installé.",
+        "flavor": "\"J'ai l'impression que ce n'est pas le bon endroit, Frank.\"\n\"Qu'est-ce qui te fais dire ça, D. ?\"\n\"Les bigoudis.\""
+    },
+    {
+        "code": "01033",
+        "title": "Kate «Mac» McCaffrey: Bricoleuse Digitale",
+        "keywords": "Naturel",
+        "text": "Chaque tour, réduisez de 1 le coût du premier programme ou du premier matériel que vous installez.",
+        "flavor": "\"Vous m'écoutez ?\""
+    },
+    {
+        "code": "01034",
+        "title": "Diesel",
+        "keywords": "",
+        "text": "Piochez 3 cartes.",
+        "flavor": ""
+    },
+    {
+        "code": "01035",
+        "title": "Tunning",
+        "keywords": "Mod",
+        "text": "Installez un programme ou un matériel en réduisant son coût d'installation de 3.",
+        "flavor": ""
+    },
+    {
+        "code": "01036",
+        "title": "L’Œil du Créateur",
+        "keywords": "Piratage",
+        "text": "Lancez un piratage sur R&D. S'il est réussi, accédez à 2 cartes supplémentaires de R&D.",
+        "flavor": ""
+    },
+    {
+        "code": "01037",
+        "title": "Bidouille",
+        "keywords": "Mod",
+        "text": "Choisssez une glace. Cette glace gagne sentinelle, vérrou et barrière jusqu'à la fin du tour.",
+        "flavor": ""
+    },
+    {
+        "code": "01038",
+        "title": "Puce Mémoire Akamatsu",
+        "keywords": "Puce",
+        "text": "+1 [Memory Unit].",
+        "flavor": ""
+    },
+    {
+        "code": "01039",
+        "title": "Terrier",
+        "keywords": "Relais",
+        "text": "+1 [Link]\nQuand le Terrier est installé, vous pouvez chercher dans votre pile un autre exemplaire du Terrier et l'installer en payant son coût d'installation. Mélangez votre pile.",
+        "flavor": ""
+    },
+    {
+        "code": "01040",
+        "title": "Touche Perso",
+        "keywords": "Mod",
+        "text": "Installez la Touche Perso uniquement sur un brise-glace.\nLe brise-glace hôte a +1 en force.",
+        "flavor": ""
+    },
+    {
+        "code": "01041",
+        "title": "La Boîte à Outils",
+        "keywords": "Console",
+        "text": "+2 [Memory Unit] +2 [Link]\n2 [Recurring Credits]\nN'utilisez ces crédits que pour payer l'utilisation de brise-glace.\nMaximum 1 console en jeu.",
+        "flavor": ""
+    },
+    {
+        "code": "01042",
+        "title": "Bélier",
+        "keywords": "Brise-glace - Fragmenteur",
+        "text": "2 [Credits] : Neutralisez jusqu'à 2 routines barrière.\n1 [Credits] : Force +1 pour le reste de ce piratage.",
+        "flavor": "\" On appelle ça passer en force' et c'est aussi efficace qu'il y a cent ans. Kate \" Mac \" McCaffrey"
+    },
+    {
+        "code": "01043",
+        "title": "Lame Gordienne",
+        "keywords": "Brise-glace - Décrypteur",
+        "text": "1 [Credits] : Neutralisez 1 routine verrou.\n1 [Credits] : Force +1 pour le reste de ce piratage.",
+        "flavor": "Elle peut découper les noeuds de données les plus épais."
+    },
+    {
+        "code": "01044",
+        "title": "Magnum Opus",
+        "keywords": "",
+        "text": "[Click]: Gagnez 2 [Credits].",
+        "flavor": "Le Grand Projet fût achevé un jeudi après-midi pluvieux. Il n'y eut pas de tremblement sismique, pas d'éruption solaire, pas de signe de la terre ou des cieux pour indiquer que le monde venait de changer. Mais là-haut à Heinlein, sur un simple coeur de données manufacturé de Cybsoft, les données quantiques clignotantes d'un compte commencèrent à se remplir de crédits. De véritables crédits de l'UN certifiés authentiques."
+    },
+    {
+        "code": "01045",
+        "title": "Bouclier Réseau",
+        "keywords": "",
+        "text": "1 [Credits] : prévenez le premier dégât réseau de ce tour.",
+        "flavor": ""
+    },
+    {
+        "code": "01046",
+        "title": "Pipeline",
+        "keywords": "Brise-glace - Tueur",
+        "text": "1 [Credits] : Neutralisez 1 routine sentinelle.\n2 [Credits] : Force +1 pour le reste de ce piratage.",
+        "flavor": ""
+    },
+    {
+        "code": "01047",
+        "title": "Ésope le Receleur",
+        "keywords": "Lieu - Relation",
+        "text": "Au début de votre tour, vous pouvez effacer une autre de vos cartes installées pour gagner 3 [Credits].",
+        "flavor": ""
+    },
+    {
+        "code": "01048",
+        "title": "Construct Sacrificiel",
+        "keywords": "Distant",
+        "text": "[Trash]: prévenez l'effacement d'un programme installé ou d'un matériel installé",
+        "flavor": ""
+    },
+    {
+        "code": "01049",
+        "title": "Infiltration",
+        "keywords": null,
+        "text": "Gagnez 2 [Credits] ou exposez 1 carte.",
+        "flavor": "\"Ça te rappelle des souvenirs, Monica ?\" - John \"Animal\" McEvoy"
+    },
+    {
+        "code": "01050",
+        "title": "Pari Truqué",
+        "keywords": "",
+        "text": "Gagnez 9 [Credits].",
+        "flavor": ""
+    },
+    {
+        "code": "01051",
+        "title": "Crypsis",
+        "keywords": "IA - Virus",
+        "text": "1 [Credits] : Neutralisez 1 routine de glace.\n1 [Credits] : Force +1.\n[Click]: Placez un pion virus sur Crypsis.\nLorsqu'une rencontre avec une glace prend fin lors de laquelle vous avez utilisé Crypsis pour neutraliser au moins une routine, retirez 1 pion virus hébergé ou effacez Crypsis.",
+        "flavor": ""
+    },
+    {
+        "code": "01052",
+        "title": "Accès au Globalsec",
+        "keywords": "Relais",
+        "text": "+1 [Link]",
+        "flavor": ""
+    },
+    {
+        "code": "01053",
+        "title": "Heures Sup’ pour Armitage",
+        "keywords": "Crime",
+        "text": "Placez 12 [Credits] de la banque sur Heures Sup' pour Armitage lorsqu'elle est installée. Lorsqu'il n'y a plus de crédits sur Heures Sup' pour Armitage, effacez-la.\n[Click] : Prenez 2 [Credits] d'Heures Sup' pour Armitage. ",
+        "flavor": ""
+    },
+    {
+        "code": "01054",
+        "title": "Haas-Bioroid: Construire le Futur",
+        "keywords": "Mégacorpo",
+        "text": "La première fois que vous installez une carte à chaque tour, gagnez 1[Credits].",
+        "flavor": "Efficace. Fiable. Humain."
+    },
+    {
+        "code": "01055",
+        "title": "Bêta Tests Accélérés",
+        "keywords": "Recherche",
+        "text": "Lorsque vous finalisez Bêta Tests Accélérés, vous pouver regarder les 3 premières cartes de R&D. S'il y a des glaces parmi ces cartes, vous pouvez installer et activer ces glaces en ignorant tous les coûts. Effacer les autres cartes que vous avez regardées.",
+        "flavor": ""
+    },
+    {
+        "code": "01056",
+        "title": "Campagne Adonis",
+        "keywords": "Publicité",
+        "text": "Placez 12 [Credits] de la banque sur Campagne Adonis lorsqu'elle est activée. Lorsqu'il n'y a plus de crédits sur Campagne Adonis, effacez-la.Prenez 3 [Credits] de Campagne Adonis au début de votre tour.",
+        "flavor": null
+    },
+    {
+        "code": "01057",
+        "title": "Secrétaire Agressive",
+        "keywords": "Embuscade",
+        "text": "Vous pouvez avancer la Secrétaire Agressive.\nSi vous payez 2 [Credits] lorsque le Runner accède à la Secrétaire Agressive, choisissez 1 programme par pion avancement sur la Secrétaire Agressive. Ces programmes sont effacés.",
+        "flavor": ""
+    },
+    {
+        "code": "01058",
+        "title": "Souvenirs Archivés",
+        "keywords": "",
+        "text": "Ajoutez 1 carte des Archives au QG.",
+        "flavor": "Vous croyez qu'ils... le sentent ?"
+    },
+    {
+        "code": "01059",
+        "title": "Main d’Œuvre Biotique",
+        "keywords": null,
+        "text": "Gagnez [Click] [Click].",
+        "flavor": "Mais bien sûr, nous avons six modèles Haas-Bioroid différents à divers postes rien que dans cette filiale. Ici, chez Haas-Bioroid, nous appliquons notre devise, et nous faisons profiter nos clients de nos gains de productivité."
+    },
+    {
+        "code": "01060",
+        "title": "Livraison de MirrorMorph",
+        "keywords": "",
+        "text": "Installez immédiatement jusqu'a 3 cartes (sans dépenser de clic, mais en payant tous les coûts d'installation).",
+        "flavor": "Les nouvelles têtes étaient là. Leurs yeux suivaient toujours vos mouvements lorsque vous ouvriez le couvercle du container pressurisé."
+    },
+    {
+        "code": "01061",
+        "title": "Heimdall 1.0",
+        "keywords": "Barrière - Bioroïde - AP",
+        "text": "Le runner peut dépenser [Click] pour neutraliser n'importe quelle routine de Heimdall 1.0.\n[Subroutine] Infligez 1 déjât Neuro.\n[Subroutine] Arrêtez le piratage.\n[Subroutine] Arrêtez le piratage.",
+        "flavor": "J'entends le glissement de chaque bit du coeur du flot de données. J'entends les murmures de mes mères, et leurs ordres sont la loi. Le royaume au-delà est interdit."
+    },
+    {
+        "code": "01062",
+        "title": "Ichi 1.0",
+        "keywords": "Sentinelle - Bioroïde - Traqueur - Destructeur",
+        "text": "Le runner peut dépenser [Click] pour neutraliser n'importe quelle routine de Ichi 1.0.\n[Subroutine] Effacez 1 programme.\n[Subroutine] Effacez 1 programme.\n[Subroutine] <strong>Traque<sup>1<\/sup><\/strong> &ndash Si la traque est réussie, donnez 1 tag au Runner et infligez 1 dégât Neuro.",
+        "flavor": "Ma réputation me précéderait, s'il restait quelqu'un pour en parler."
+    },
+    {
+        "code": "01063",
+        "title": "Viktor 1.0",
+        "keywords": "Verrou - Bioroïde - AP",
+        "text": "Le runner peut dépenser [Click] pour neutraliser n'importe quelle routine de Viktor 1.0.\n[Subroutine] Infligez 1 déjât Neuro.\n[Subroutine] Arrêtez le piratage. ",
+        "flavor": "Je m'appelle Viktor. Ravi de vous rencontrer. Voulez-vous jouer avec moi ?"
+    },
+    {
+        "code": "01064",
+        "title": "Rototourelle",
+        "keywords": "Sentinelle - Destructeur",
+        "text": "[Subroutine] Effacez 1 Programme.\n[Subroutine] Arrêtez le piratage.",
+        "flavor": "Whrrrrr !"
+    },
+    {
+        "code": "01065",
+        "title": "Négociateur Corporatiste",
+        "keywords": "Relation",
+        "text": "X [Credits], [Trash] : Choissisez une glace activée protégeant ce serveur. Cette glace gagne +X en force jusqu'à la fin du tour",
+        "flavor": "\" Je résous les problèmes. \""
+    },
+    {
+        "code": "01066",
+        "title": "Données Empiriques",
+        "keywords": "",
+        "text": "Toutes les glaces protégeant ce serveur ont +1 en force.",
+        "flavor": "Floyd ressentit la colère de l'homme devant lui, qui fulminait contre les stimulants. Sa programmation fit surgir une routine de réfutation sur le devant de ses pensées, et le besoin d'en parler se fit irrépréssible. Cela ne va faire qu'empirer les choses, pensa-t-il."
+    },
+    {
+        "code": "01067",
+        "title": "Jinteki: L’Évolution Personnelle",
+        "keywords": "Mégacorpo",
+        "text": "À chaque fois qu'un Projet est finalisé ou volé, infligez 1 dégât Réseau.",
+        "flavor": "Quand vous avez besoin d'une approche humaine."
+    },
+    {
+        "code": "01068",
+        "title": "Nisei MK II",
+        "keywords": "Initiative",
+        "text": "Placez 1 pion Projet sur Nisei MK II lorsque vous le finalisez.\n<strong>Pion Projet hébergé<\/strong> : Arrêtez le piratage.",
+        "flavor": ""
+    },
+    {
+        "code": "01069",
+        "title": "Projet Coccinelle",
+        "keywords": "Embuscade - Recherche",
+        "text": "Vous pouvez avancer le Projet Coccinelle.\nSi vous payez 1 [Credits] lorsque le Runner accède au Projet Coccinelle, infligez X dégâts Réseau, où X est le double du nombre de pions avancement sur le Projet Coccinelle.",
+        "flavor": ""
+    },
+    {
+        "code": "01070",
+        "title": "Traquenard !",
+        "keywords": "Embuscade",
+        "text": "Si le Runner accède au Traquenard ! depuis R&D, il doit le révéler.\nSi vous payez 4 [Credits] lorsque le Runner accède au Traquenard !, infligez 3 dégâts Réseau et donnez 1 tag au Runner. Ignorez cette capacité si le Runner accède au Traquenard ! depuis les Archives.",
+        "flavor": ""
+    },
+    {
+        "code": "01071",
+        "title": "Loyauté au Zaibatsu",
+        "keywords": "",
+        "text": "Vous pouvez activer Loyauté au Zaibatsu lorsque le Runner est sur le point d'exposer une carte.\n1 [Credits] ou [Trash] : Prévenez l'exposition d'une carte.",
+        "flavor": ""
+    },
+    {
+        "code": "01072",
+        "title": "IEM Neurale",
+        "keywords": "Douteuse",
+        "text": "Jouable uniquement si le Runner a lancé un piratage lors de son dernier tour.\nInfligez 1 dégât Réseau.",
+        "flavor": "Le truc n'est pas de toucher la personne que vous visez. Le truc est de toucher seulement la personne que vous visez."
+    },
+    {
+        "code": "01073",
+        "title": "Préscience",
+        "keywords": "",
+        "text": "Regardez les 5 premières cartes de R&D et remettez-les dans l'ordre de votre choix.",
+        "flavor": "Il y avait une nouvelle texture dans son cortex fantôme. Elle réalisa qu'elle avait toujours été là. Elle et tout, et rien du tout."
+    },
+    {
+        "code": "01074",
+        "title": "Portail Cellulaire",
+        "keywords": "Verrou - Déflecteur",
+        "text": "[Subroutine] Le Runner approche la glace périphérique de ce serveur. Désactivez le portail cellulaire.",
+        "flavor": "\" Où est-ce que ça mène ? \""
+    },
+    {
+        "code": "01075",
+        "title": "Boëtte",
+        "keywords": "Verrou",
+        "text": "La prochaine glace que le Runner rencontre lors de ce piratage a +2 en force. Si le Runner ne neutralise pas toutes les routines de la prochaine glace rencontrée lors de ce piratage, infligez 3 dégâts Réseau.",
+        "flavor": "\"Ca t'es déjà arrivé de te sentir comme de la bouffe pour requin? Méfie-toi quand tu ressens ça.\" Ji \"Noise\" Reilly"
+    },
+    {
+        "code": "01076",
+        "title": "Données Minées",
+        "keywords": "Piège - AP",
+        "text": "[Subroutine] Infligez 1 dégât Réseau. Effacez Données Minées.",
+        "flavor": "Accéder SansDanger.datZ -> Etes-vous sûr ? o\/n"
+    },
+    {
+        "code": "01077",
+        "title": "Katana Neural",
+        "keywords": "Sentinelle",
+        "text": "[Subroutine] Infligez 3 dégâts Réseau.",
+        "flavor": "Forgé par Ak.wa le 23.11.79-23. Classé 23.11.79-23.2 avec #34k-lw3-21HH-4i. \/\/ Samouraï Inclus."
+    },
+    {
+        "code": "01078",
+        "title": "Mur d’Épines",
+        "keywords": "Barrière - AP",
+        "text": "[Subroutine] Infligez 2 dégâts Réseau.\n[Subroutine] Arrêtez le piratage.",
+        "flavor": "La plupart des runners opèrent en simulation intégrale, avec leur station directement branchée sur le cerveau. Cette configuration a beacoup d'avantages, car le runner peut traiter les données et saisir les commandes beaucoups plus vite qu'avec une interface physique. Mais il comporte aussi de plus grands risques."
+    },
+    {
+        "code": "01079",
+        "title": "Akitaro Watanabe",
+        "keywords": "Sysop - Marginal",
+        "text": "Le coût d'activation des glaces protégeant ce serveur est réduit de 2.",
+        "flavor": "Ne cherche pas à savoir comment il fait."
+    },
+    {
+        "code": "01080",
+        "title": "NBN: Faire l’Info",
+        "keywords": "Mégacorpo",
+        "text": "2 [Recurring Credits]\nN'utilisez ces crédits que pour les Traques.",
+        "flavor": "Il y a toujours un spectateur."
+    },
+    {
+        "code": "01081",
+        "title": "Programme Pilote Astroscript",
+        "keywords": "Initiative",
+        "text": "Placez 1 pion Projet sur Programme Pilote Astroscript lorsque vous le finalisez.\n<strong>Pion Projet hébergé<\/strong> : placez 1 pion avancement sur une carte qui peut être avancée.",
+        "flavor": ""
+    },
+    {
+        "code": "01082",
+        "title": "Scoop",
+        "keywords": "",
+        "text": "Lorsque vous finalisez Scoop, donnez 2 tags au Runner.\nLorsque le tour durant lequel vous finalisé Scoop prend fin, le Runner perd 2 tags. ",
+        "flavor": ""
+    },
+    {
+        "code": "01083",
+        "title": "Tuyau Anonyme",
+        "keywords": null,
+        "text": "Piochez 3 cartes.",
+        "flavor": "\"Merci de rester connecté. Transfert prioritaire en cours. Un opérateur va bientôt vérif-\""
+    },
+    {
+        "code": "01084",
+        "title": "Comptes Clôturés",
+        "keywords": "Douteuse",
+        "text": "Jouable uniquement si le Runner est tagué.\nLe Runner perd tous les crédits de sa Réserve de Crédits.",
+        "flavor": ""
+    },
+    {
+        "code": "01085",
+        "title": "Psychographes",
+        "keywords": "",
+        "text": "X est égal ou inférieur au nombre de tags du Runner.\nPlacez X pionts d'Avancement sur une carte qui peut être avancée.",
+        "flavor": "L'accès à la plus grande base de données de consommateurs de la galaxie a ses avantages."
+    },
+    {
+        "code": "01086",
+        "title": "Source à l’ADAO",
+        "keywords": "",
+        "text": "Jouable uniquement si le Runner a réussi un piratage lors de son dernier tour.\n<strong>Traque<sup>3<\/sup><\/strong> &ndash\nSi la traque est réussie, donnez un tag au Runner.",
+        "flavor": "\"L'ADAO nous a informé de pics de données suspects là-haut, près du Chatêau.\" - Jérôme Lock, tech de service."
+    },
+    {
+        "code": "01087",
+        "title": "Succursale Fantôme",
+        "keywords": "Embuscade - Infrastructure",
+        "text": "La Succursale Fantôme peut être avancée.\nLorsque le Runner accède à la Succursale Fantôme, vous pouvez donner au Runner autant de tags que de pions Avancement sur la Succursale Fantôme.",
+        "flavor": ""
+    },
+    {
+        "code": "01088",
+        "title": "Cyber Corbeau",
+        "keywords": "Sentinelle - Traqueur - Veilleur",
+        "text": "Lorsque le Runner rencontre le Cyber Corbeau, il doit prendre 1 tag, soit arrêter le piratage.\n<strong>Pion Pouvoir hébergé<\/strong> : Donnez 1 tag au Runner.\n[Subroutine] <strong>Traque<sup>3<\/sup><\/strong> &ndash Si la traque est réussie, placez 1 pion Pouvoir sur le Cyber Corbeau.",
+        "flavor": ""
+    },
+    {
+        "code": "01089",
+        "title": "Analyste Matriciel",
+        "keywords": "Sentinelle - Traqueur, Veilleur",
+        "text": "Lorsque le Runner rencontre l'Analyste Matriciel, vous pouvez payer 1 [Credits] pour mettre 1 pion Avancement sur une carte qui peut être avancée.\n[Subroutine] <strong>Traque<sup>2<\/sup><\/strong> &ndash Si la traque est réussie, donnez 1 tag au Runner.",
+        "flavor": "Analyser était plaisant. Déléguer des commandes s'avéra l'être encore plus."
+    },
+    {
+        "code": "01090",
+        "title": "Péage",
+        "keywords": "Verrou",
+        "text": "Lorsque le Runner rencontre le Péage, il doit payer 3 [Credits] s'il le peut. Si le Runner ne peut pas payer 3 [Credits], arrêtez le piratage.\n[Subroutine] Arrêtez le piratage.",
+        "flavor": "\" Tu sais ce que c'est qu'un cercle vicieux ? \" \" Fais-moi penser à l'oublier \""
+    },
+    {
+        "code": "01091",
+        "title": "Diversions",
+        "keywords": "",
+        "text": "A chaque fois que le Runner accède à une Projet de ce serveur, il doit payer un coût supplémentaire de 5 [Credits] pour le voler. Ceci s'applique même lors du piratage durant lequel le Runner efface les Diversions.",
+        "flavor": ""
+    },
+    {
+        "code": "01092",
+        "title": "Grille de SanSan",
+        "keywords": "Région",
+        "text": "Le coût d'avancement des Projets installés dans ce serveur est réduit de 1.\nMaximum 1 région par serveur.",
+        "flavor": "\" J'ai entendu dire que la côte est agréable, en cette saison. \"  \" Si tu as le bon boulot, c'est agréable toute l'année. \""
+    },
+    {
+        "code": "01093",
+        "title": "Consortium Weyland: Construire un Monde Meilleur",
+        "keywords": "Mégacorpo",
+        "text": "Gagnez 1[Credits] à chaque fois que vous jouez une Opération transaction.",
+        "flavor": "Aller plus haut."
+    },
+    {
+        "code": "01094",
+        "title": "OPA Hostile",
+        "keywords": "Extension",
+        "text": "Lorsque vous finalisez l'OPA Hostile, gagnez 7 [Credits] et prenez 1 pion Mauvaise Presse",
+        "flavor": "Les choses vont changer, par ici"
+    },
+    {
+        "code": "01095",
+        "title": "Avis de Recherche",
+        "keywords": "Securité",
+        "text": "Lorsque vous finalisez l'Avis de Recherche, vous pouvez y renoncer pour donner au Runner 1 tag et prendre 1 pion Mauvaise Presse.",
+        "flavor": "\" Si une bleusaille à deux creds s'en occupe, c'est encore mieux. Cette racaille peut se planquer dans les ruelles de Guayaquil ou les bidonvilles de BosWash. Et il n'est peut-être même pas sur la planète. \""
+    },
+    {
+        "code": "01096",
+        "title": "Sous-traitance de la Sécurité",
+        "keywords": "Transaction",
+        "text": "[Click], <strong>effacez une glace activée<\/strong> : Gagnez 4 [Credits].",
+        "flavor": "\" Donne tes miettes aux Fédéraux, et ils viendront mendier pour en avoir plus. \" - Richard Polasco, VP de Cyber-Security"
+    },
+    {
+        "code": "01097",
+        "title": "Négociation Agressive",
+        "keywords": "",
+        "text": "Jouable uniquement si vous avez finalisé un Projet ce tour.\nCherchez 1 carte dans R&D et ajoutez-la au QG.",
+        "flavor": "\" Où est-ce qu'il a appris à négocier ?\""
+    },
+    {
+        "code": "01098",
+        "title": "Dividendes du Haricot Magique",
+        "keywords": "Transaction",
+        "text": "Gagnez 3 [Credits].",
+        "flavor": "L'ascenseur Orbital de New Angeles, plus connu sous le nom de Haricot Magique, est simplement le plus grand triomphe de l'histoire de l'humanité en matière d'ingéniosité et d'ingénierie. Le Haricot Magique rend l'orbite terrestre accessible à tout le monde... pour un prix modique."
+    },
+    {
+        "code": "01099",
+        "title": "Terre Brûlée",
+        "keywords": "Illégale",
+        "text": "Jouable uniquement si le Runner est tagué.\nInfligez 4 dégâts Hémo.",
+        "flavor": "\" J'aimerais rappeler à ces messieurs-dames de la presse que plusieurs des bâtiments endommagés par l'explosion appartenaient à des filiales du Consortium Weyland... \""
+    },
+    {
+        "code": "01100",
+        "title": "Livraison de Kaguya",
+        "keywords": null,
+        "text": "Choisissez jusqu'à 2 cartes installées qui peuvent être avancées. Placez 1 pion Avancement sur chaque carte choisie.",
+        "flavor": "\"Et il y a aussi ces deux caisses. Pas d'électro-étiquette.\"\n\"Laisse-les moi et oublie que tu les a vues.\""
+    },
+    {
+        "code": "01101",
+        "title": "Archer",
+        "keywords": "Sentinelle - Destructeur",
+        "text": "La Corpo doit renoncer à un projet comme coût supplémentaire pour activer l'Archer.\n[Subroutine] La Corpo gagne 2 [Credits].\n[Subroutine] Effacez 1 Programme.\n[Subroutine] Effacez 1 Programme.\n[Subroutine] Arrêtez le piratage.",
+        "flavor": "La prochaine fois, lisez attentivement les Conditions d'Utilisation. Ou bien vous pourriez vous retrouver en danger."
+    },
+    {
+        "code": "01102",
+        "title": "Mur d’Hadrien",
+        "keywords": "Barrière",
+        "text": "Le Mur d'Hadrien peut être avancé et a +1 en force pour chaqun de ses pions d'Avancement.\n[Subroutine] Arrêtez le piratage.\n[Subroutine] Arrêtez le piratage.",
+        "flavor": "\" Un peu imbu de lui même, ce bon vieux Hadrien. Cela dit, ses constructs sont à la hauteur. \" - g00ru "
+    },
+    {
+        "code": "01103",
+        "title": "Mur de Glace",
+        "keywords": "Barrière",
+        "text": "Le Mur de Glace peut être avancé et a +1 en force pour chaqun de ses pions d'Avancement.\n[Subroutine] Arrêtez le piratage.",
+        "flavor": "\" J'ai demandé une glace aussi impénétrable qu'un mur. Je n'arrive pas à me décider : soit quelqu'un de R&D à soit un sens de l'humour particulièrement tordu, soit vraiment aucune imagination. \" - Liz Cambell, VP des Projets de Sécurité"
+    },
+    {
+        "code": "01104",
+        "title": "Ombre",
+        "keywords": "Sentinelle - Trace",
+        "text": "L'Ombre peut être avancée et a +1 en force pour chaqun de ses pions d'Avancement.\n[Subroutine] La Corpo gagne 2 [Credits].\n[Subroutine] <strong>Traque<sup>3<\/sup><\/strong> &ndash Si la traque est réussi, donnez 1 tag au Runner.",
+        "flavor": "Qui sait quel mal rôde dans les diamants mémoriels des hommes ? Weyland le sait. - Cyber-graffiti anonyme"
+    },
+    {
+        "code": "01105",
+        "title": "Station de Recherche",
+        "keywords": "Infrastructure",
+        "text": "Installable uniquement à la racine du QG.\nLa taille maximale de votre main est augmentée de 2.",
+        "flavor": "\" Jack Weyland a construit le Haricot Magique et changé l'espèce humaine à tout jamais. J'ai hâte de voir la prochaine chose qu'on va faire \""
+    },
+    {
+        "code": "01106",
+        "title": "Requête Prioritaire",
+        "keywords": "Securité",
+        "text": "Lorsque vous finalisez Requête Prioritaire, vous pouvez activer une glace en ignorant tous ses coûts.",
+        "flavor": "\" Si ce n'est pas sur mon terminal à six heure, des têtes vont tomber ! \""
+    },
+    {
+        "code": "01107",
+        "title": "Sécurité Privée",
+        "keywords": "Securité",
+        "text": "Si le Runner est taggué, la Sécurité Privée gagne \" [Click] : Infligez 1 dégât Hémo. \"",
+        "flavor": "\" Trop chers ? Pas quand on protège une fortune aussi grande que la nôtre \""
+    },
+    {
+        "code": "01108",
+        "title": "Corpo Minière Melange",
+        "keywords": null,
+        "text": "[Click] [Click] [Click] : gagnez 7 [Credits].",
+        "flavor": "\" Les patrons miniers sont pire que n'importe quel boss criminel terrien? Tri-Maf, 4K, Yak, j'me fiche des gangs que vous avez en dessous. A Heinlein, il n'y a qu'une seule loi : ³He doit couler à flots. \" - Rick Henry, dit \" Le Vieux \", clone évadé"
+    },
+    {
+        "code": "01109",
+        "title": "Campagne PAD",
+        "keywords": "Publicité",
+        "text": "Gagnez 1 [Credits] au début de votre tour.",
+        "flavor": "Comme celui que vous venez d'acheter, mais encore meilleur."
+    },
+    {
+        "code": "01110",
+        "title": "Fonds d’Investissement",
+        "keywords": "Transaction",
+        "text": "Gagnez 9 [Credits].",
+        "flavor": "Fonds d’Investissement. Nom. Outil ingénieux grâce auquel le riche devient plus riche pendant que tous les autres types perdent leur chemise. Dictionnaire Anarch Volume n°: On s'en fout ?"
+    },
+    {
+        "code": "01111",
+        "title": "Enigma",
+        "keywords": "Verrou",
+        "text": "[Subroutine] Le Runner perd [Click], s'il le peut.\n[Subroutine] Arrêtez le piratage.",
+        "flavor": "\" Hé ! Hé ! Debout mec. T'as dormi longtemps. T'as vu quoi ? \" \" Je... j'me souviens plus. \" "
+    },
+    {
+        "code": "01112",
+        "title": "Chasseur",
+        "keywords": "Sentinelle - Traqueur",
+        "text": "[Subroutine] <strong>Traque<sup>3<\/sup><\/strong> &ndash Si la traque est réussi, donnez 1 tag au Runner.",
+        "flavor": ".\/\/piratage\/chasseur-tr\/retour=vrai client\/secIPv7->confirmer? \/o 3926:0HB7:1001:2NB1:1601:7784:ERREUR"
+    },
+    {
+        "code": "01113",
+        "title": "Mur de Statique",
+        "keywords": "Barrière",
+        "text": "[Subroutine] Arrêtez le piratage.",
+        "flavor": "\" Il n'y a rien de pire que voir cette magnifique boule de données bleues juste à portée de main quand votre connexion se désactive. Je suis sûr qu'il le font juste pour nous narguer. \" - Ele \"Smoke\" Scovak"
+    },
+    {
+        "code": "02001",
+        "title": "Prodigicien: Joueur Pro",
+        "keywords": "Naturel",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02002",
+        "title": "Modem Spinal",
+        "keywords": "Console",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02003",
+        "title": "Diablotin",
+        "keywords": "Virus",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02004",
+        "title": "Étoile de l'Aube",
+        "keywords": "Brise-glace - Fragmenteur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02005",
+        "title": "Puce Cortez",
+        "keywords": "Puce",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02006",
+        "title": "Paon",
+        "keywords": "Brise-glace - Décrypteur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02007",
+        "title": "Maître des Clés ZU.13",
+        "keywords": "Brise-glace - Décrypteur - Brouilleur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02008",
+        "title": "Assistant IA",
+        "keywords": "Relation - Relais - Virtuelle",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02009",
+        "title": "Carapace de Plastobéton",
+        "keywords": "Équipement",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02010",
+        "title": "Haas-Bioroid: Plus Forts Ensemble",
+        "keywords": "Mégacorpo",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02011",
+        "title": "Améliorations Obligatoires",
+        "keywords": "Initiative",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02012",
+        "title": "Janus 1.0",
+        "keywords": "Sentinelle - Bioroïde - AP",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02013",
+        "title": "Ash 2X3ZB9CY",
+        "keywords": "Bioroïde",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02014",
+        "title": "Groupe d'Experts",
+        "keywords": "Recherche",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02015",
+        "title": "Flocon de Neige",
+        "keywords": "Barrière - Psi",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02016",
+        "title": "Restructuration de la BDD Centrale",
+        "keywords": "Initiative",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02017",
+        "title": "TDD",
+        "keywords": "Barrière",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02018",
+        "title": "Projet Atlas",
+        "keywords": "Recherche",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02019",
+        "title": "Caducée",
+        "keywords": "Sentinelle - Traqueur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02020",
+        "title": "Dracō",
+        "keywords": "Sentinelle - Traqueur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02021",
+        "title": "Vampirisme",
+        "keywords": "Piratage - Sabotage",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02022",
+        "title": "Déblocage de Compte",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02023",
+        "title": "Liaison Satellite",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02024",
+        "title": "Implants de Retour e3",
+        "keywords": "Mod",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02025",
+        "title": "Employé Compromis",
+        "keywords": "Relation - Relais",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02026",
+        "title": "Notoriété",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02027",
+        "title": "Boule de Neige",
+        "keywords": "Brise-glace - Fragmenteur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02028",
+        "title": "Puce Mémoire Dyson",
+        "keywords": "Puce - Relais",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02029",
+        "title": "Protocole de Cryptage",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02030",
+        "title": "Sherlock 1.0",
+        "keywords": "Sentinelle - Bioroïde - Traqueur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02031",
+        "title": "Jinteki: La Perfection Reproduite",
+        "keywords": "Mégacorpo",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02032",
+        "title": "IA Fœtale",
+        "keywords": "Embuscade",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02033",
+        "title": "Effet d'Optique",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02034",
+        "title": "Sensei",
+        "keywords": "Verrou",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02035",
+        "title": "Big Brother",
+        "keywords": "Douteuse",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02036",
+        "title": "Grille de ChiLo",
+        "keywords": "Région",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02037",
+        "title": "Surcharge du Réseau Électrique",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02038",
+        "title": "Zone Industrielle d'Amazonie",
+        "keywords": "Région",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02039",
+        "title": "Séminaire pour Cadres",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02040",
+        "title": "Indépendant",
+        "keywords": "Douteuse",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02041",
+        "title": "Neurotoxique",
+        "keywords": "Virus",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02042",
+        "title": "Joshua B.",
+        "keywords": "Relation",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02043",
+        "title": "Arrêt d'Urgence",
+        "keywords": "Sabotage",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02044",
+        "title": "Armure Muresh",
+        "keywords": "Équipement",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02045",
+        "title": "Mouchard",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02046",
+        "title": "Chaos Theory: Surdouée",
+        "keywords": "G-mod",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02047",
+        "title": "Version de Démo",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02048",
+        "title": "Dinosaure",
+        "keywords": "Console",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02049",
+        "title": "Atelier Privé",
+        "keywords": "Lieu",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02050",
+        "title": "Soutien du Public",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02051",
+        "title": "Projet Vitruve",
+        "keywords": "Recherche",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02052",
+        "title": "Vipère",
+        "keywords": "Verrou - Traqueur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02053",
+        "title": "Au Bord du Monde",
+        "keywords": "Embuscade",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02054",
+        "title": "Coucher de Soleil",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02055",
+        "title": "Comptes Marqués",
+        "keywords": "Transaction",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02056",
+        "title": "Pop-up",
+        "keywords": "Verrou - Publicité",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02057",
+        "title": "Bûcheron",
+        "keywords": "Sentinelle - AP",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02058",
+        "title": "Commercialisation",
+        "keywords": "Transaction",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02059",
+        "title": "Contrats Privés",
+        "keywords": "Transaction",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02060",
+        "title": "Chimère",
+        "keywords": "Mythique",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02061",
+        "title": "Perturbateur",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02062",
+        "title": "Force de la Nature",
+        "keywords": "Brise-glace - Décrypteur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02063",
+        "title": "Nettoyeur",
+        "keywords": "Relation - Marginal",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02064",
+        "title": "Doppelgänger",
+        "keywords": "Console",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02065",
+        "title": "Crescentus",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02066",
+        "title": "Deus X",
+        "keywords": "Brise-glace",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02067",
+        "title": "Nuit Blanche",
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02068",
+        "title": "Taupe",
+        "keywords": "Relation",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02069",
+        "title": "Contact dans la Pègre",
+        "keywords": "Relation",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02070",
+        "title": "Accès au Niveau Vert",
+        "keywords": "Transaction",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02071",
+        "title": "Sablier",
+        "keywords": "Verrou",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02072",
+        "title": "Serveur Dédié",
+        "keywords": "Infrastructure",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02073",
+        "title": "Ouaouaron",
+        "keywords": "Verrou - Déflecteur - Psi",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02074",
+        "title": "Ouroboros",
+        "keywords": "Sentinelle - Traqueur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02075",
+        "title": "Police du Réseau",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02076",
+        "title": "Consortium Weyland: Parce que nous le construisons bien",
+        "keywords": "Mégacorpo",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02077",
+        "title": "Contrats Publics",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02078",
+        "title": "Tyran",
+        "keywords": "Barrière",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02079",
+        "title": "IA de Supervision",
+        "keywords": "Condition",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02080",
+        "title": "Fausse Piste",
+        "keywords": "Securité",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02081",
+        "title": "Éruption",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02082",
+        "title": "Xanadu",
+        "keywords": "Virtuelle",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02083",
+        "title": "Andromède",
+        "keywords": "Naturel",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02084",
+        "title": "Réseaux",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02085",
+        "title": "Interface QG",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02086",
+        "title": "Phéromones",
+        "keywords": "Virus",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02087",
+        "title": "Bon Moment",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02088",
+        "title": "Duplicateur",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02089",
+        "title": "Rampant",
+        "keywords": "Brise-glace - Tueur - Brouilleur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02090",
+        "title": "Kraken",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02091",
+        "title": "Kati Jones",
+        "keywords": "Relation",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02092",
+        "title": "Campagne Ève",
+        "keywords": "Publicité",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02093",
+        "title": "Retouches",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02094",
+        "title": "Tourbillon",
+        "keywords": "Piège",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02095",
+        "title": "Grille de Hokusai",
+        "keywords": "Région",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02096",
+        "title": "Molosse",
+        "keywords": "Sentinelle - Traqueur - Veilleur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02097",
+        "title": "Bernice Mai",
+        "keywords": "Sysop",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02098",
+        "title": "Récupération",
+        "keywords": "Verrou - Traqueur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02099",
+        "title": "Simone Diego",
+        "keywords": "Sysop",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02100",
+        "title": "Foxfire",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02101",
+        "title": "Piratage de Récup'",
+        "keywords": "Piratage",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02102",
+        "title": "Darwin",
+        "keywords": "Brise-glace - IA - Virus",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02103",
+        "title": "Fuite de Données Inversée",
+        "keywords": "Virtuelle - Sabotage",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02104",
+        "title": "Fée",
+        "keywords": "Brise-glace - Tueur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02105",
+        "title": "M. Li",
+        "keywords": "Relation",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02106",
+        "title": "Classement",
+        "keywords": "Piratage",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02107",
+        "title": "Interface R&D",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02108",
+        "title": "Méditation",
+        "keywords": "Virus",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02109",
+        "title": "Mairie de New Angeles",
+        "keywords": "Lieu - Government",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02110",
+        "title": "Eli 1.0",
+        "keywords": "Barrière - Bioroïde",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02111",
+        "title": "Vallée de la Ruhr",
+        "keywords": "Région",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02112",
+        "title": "Ronin",
+        "keywords": "Hostile",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02113",
+        "title": "Midori",
+        "keywords": "Sysop",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02114",
+        "title": "NBN : Le Monde vous appartient*",
+        "keywords": "Mégacorpo",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02115",
+        "title": "Projet Beale",
+        "keywords": "Recherche",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02116",
+        "title": "Remplacements de Mi-Saison",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02117",
+        "title": "Flamboiement",
+        "keywords": "Sentinelle - Traqueur - AP",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02118",
+        "title": "Groupe d'Intervention Spécialisé",
+        "keywords": "Hostile",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02119",
+        "title": "Cafards de Burke",
+        "keywords": "Sentinelle - Destructeur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "02120",
+        "title": "Guerre Corporatiste",
+        "keywords": "Extension",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03001",
+        "title": "Imagerie Cérebrale - Aux Frontières de L'Infini",
+        "keywords": "Division",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03002",
+        "title": "Biotique Personnalisée - Conçu pour le Succès",
+        "keywords": "Division",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03003",
+        "title": "Conception NEXT - Les Gardiens du Réseau",
+        "keywords": "Division",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03004",
+        "title": "Projet Personnel de la Directrice Haas",
+        "keywords": "Initiative",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03005",
+        "title": "Commission d'Efficacité",
+        "keywords": "Initiative",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03006",
+        "title": "Projet Wotan",
+        "keywords": "Recherche",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03007",
+        "title": "Programme de Défense Sentinelle",
+        "keywords": "Securité",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03008",
+        "title": "Alix T4LB07",
+        "keywords": "Bioroïde",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03009",
+        "title": "Écraseur Cérébral",
+        "keywords": "Embuscade",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03010",
+        "title": "Directrice Haas",
+        "keywords": "Cadre",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03011",
+        "title": "IA de l'Arcologie Haas",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03012",
+        "title": "Thomas Haas",
+        "keywords": "Cadre",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03013",
+        "title": "Expérience d'Optimisation Des Bioroïdes",
+        "keywords": "Condition",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03014",
+        "title": "Présentation Réussie",
+        "keywords": "Transaction",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03015",
+        "title": "Heimdall 2.0",
+        "keywords": "Barrière - Bioroïde - AP",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03016",
+        "title": "Hurleur",
+        "keywords": "Piège",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03017",
+        "title": "Ichi 2.0",
+        "keywords": "Sentinelle - Bioroïde - Destructeur - Traqueur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03018",
+        "title": "Enfouisseur de Mines",
+        "keywords": "Verrou",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03019",
+        "title": "Viktor 2.0",
+        "keywords": "Verrou - Bioroïde - Traqueur - AP",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03020",
+        "title": "Zed 1.0",
+        "keywords": "Sentinelle - Bioroïde - AP",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03021",
+        "title": "Centre d'Éveil",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03022",
+        "title": "Main de Tyr",
+        "keywords": "Hostile",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03023",
+        "title": "Arcologie Gila Hand's",
+        "keywords": "Extension",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03024",
+        "title": "Université Levy",
+        "keywords": "Luxueux",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03025",
+        "title": "Diagnostic des Serveurs",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03026",
+        "title": "Bastion",
+        "keywords": "Barrière",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03027",
+        "title": "Pic de Données",
+        "keywords": "Verrou",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03028",
+        "title": "Rielle \"Kit\" Peddler : Transhumaine",
+        "keywords": "Cyborg",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03029",
+        "title": "Le Professeur : Gardien du Savoir",
+        "keywords": "Naturel",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03030",
+        "title": "Exil : As de la Rue",
+        "keywords": "Naturel",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03031",
+        "title": "Escher",
+        "keywords": "Piratage",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03032",
+        "title": "Galop d'Exploration",
+        "keywords": "Piratage",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03033",
+        "title": "Contrat de Piratage Indépendant",
+        "keywords": "Crime",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03034",
+        "title": "Récup'",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03035",
+        "title": "Accès au Labo RA de Levy",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03036",
+        "title": "Monolithe",
+        "keywords": "Console",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03037",
+        "title": "Filtre de Retour",
+        "keywords": "Équipement",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03038",
+        "title": "Puce Clonée",
+        "keywords": "Puce",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03039",
+        "title": "Omni-Disque",
+        "keywords": "Puce",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03040",
+        "title": "Ȃtman",
+        "keywords": "Brise-glace - IA",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03041",
+        "title": "La Cape",
+        "keywords": "Furtif",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03042",
+        "title": "L'Épée",
+        "keywords": "Brise-glace - Tueur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03043",
+        "title": "Chacana",
+        "keywords": "Virus",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03044",
+        "title": "Cybercode",
+        "keywords": "Brise-glace - Décrypteur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03045",
+        "title": "Paricia",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03046",
+        "title": "Code Auto-modifiable",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03047",
+        "title": "Sahasrara",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03048",
+        "title": "Inti",
+        "keywords": "Brise-glace - Fragmenteur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03049",
+        "title": "Contacts Professionnels",
+        "keywords": "Relation",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03050",
+        "title": "Satellite d'Emprunt",
+        "keywords": "Relais",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03051",
+        "title": "Analyseur de Glace",
+        "keywords": "Virtuelle",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03052",
+        "title": "Linge Sale",
+        "keywords": "Piratage",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03053",
+        "title": "Flux Quotidiens",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03054",
+        "title": "Toujours la Même Chanson",
+        "keywords": "",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "03055",
+        "title": "Équipement La Source",
+        "keywords": "Relation",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04001",
+        "title": "Coup Monté",
+        "keywords": "Double",
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\nRenoncez à un projet. Si vous le faites, donnez 1 pion Mauvaise Presse à la Corpo.",
+        "flavor": "\"Prendre le contrôle de bioroïdes n'est pas impossible, contrairement à ce que prétend Haas-Bioroïd. Mais c'est dangereux.\" - Noise"
+    },
+    {
+        "code": "04002",
+        "title": "Pion",
+        "keywords": "Caïssa",
+        "text": "[Click]: Hébergez le Pion sur la glace périphérique d'un serveur central.\nÀ chaque fois que vous réussissez un piratage, si le Pion est hébergé sur une glace, déplacez le sur la glace directement après celle qui l'héberge actuellement, si possible; sinon, effacez le Pion et installez un programme <strong>Caïssa<\/strong> de votre main ou de votre tas, en ignorant tous les coûts.",
+        "flavor": null
+    },
+    {
+        "code": "04003",
+        "title": "Tour",
+        "keywords": "Caïssa",
+        "text": "[Click]: Hébergez la Tour sur une glace qui n'héberge pas de <strong>Caïssa<\/strong>. Si elle est déjà hébergée, la Tour ne peut-être hébergée que sur un glace qui protège ce serveur ou sur une glace à la même position (en comptant à partir de la glace centrale) protégeant ce serveur.\nLe coût d'activation de chaque glace protégeant ce serveur est augmenté de 2.",
+        "flavor": ""
+    },
+    {
+        "code": "04004",
+        "title": "Otage",
+        "keywords": "Double",
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\nCherchez une <strong>relation<\/strong> dans votre pile, révélez-la et ajoutez la à votre main. Vous pouvez installer cette <strong>relation<\/strong> (en payant son coût d'installation).\nMélangez votre pile.",
+        "flavor": ""
+    },
+    {
+        "code": "04005",
+        "title": "Perfusion Gorman V1",
+        "keywords": "Virus",
+        "text": "À chaque fois que la corpo dépense [Click] pour piocher une carte ou gagner 1[Credits] (hors capacité d'une carte), placez 1 pion Virus sur la Perfusion Gorman V1.\n[Click], [Trash]: Gagnez 1[Credits] pour chaque pion Virus sur la Perfusion Gorman V1.",
+        "flavor": "Le principe est simple : le virus de perfusion draine des fractions de crédits de leurs comptes vers les vôtres."
+    },
+    {
+        "code": "04006",
+        "title": "Rossignol",
+        "keywords": "Puce - Furtif",
+        "text": "1[Recurring Credits]\nN'utilisez ce crédit que pour payer l'utilisation de <strong>décrypteurs<\/strong>.",
+        "flavor": "\"Au départ, je l'ai conçu pour quelqu'un d'autre, mais c'était tellement utile que j'ai décidé de le garder pour moi.\" - Kate \"Mac\" McCaffrey"
+    },
+    {
+        "code": "04007",
+        "title": "Écho Fantôme",
+        "keywords": "",
+        "text": "À chaque fois que vous passez une glace désactivée, vous pouvez effacer l'Écho Fantôme. Si vous le faites, la corpo doit activer cette glace ou la mettre dans son QG.",
+        "flavor": "\"Et si cette glace voulait être libre ?\" - Rielle \"Kit\" Peddler"
+    },
+    {
+        "code": "04008",
+        "title": "Motivation",
+        "keywords": null,
+        "text": "Au début de votre tour, vous pouvez regarder la première carte de votre pile.",
+        "flavor": "Les gens normaux &ndash; Les gens sains d'esprit &ndash; ne s'engagent pas dans la voie du cyber-crime. Qui peut dire ce qui motive un esprit dérangé ? Une impression de manque de respect, en échec personnel reproché à des forces extérieures, ou la toujours très populaire avarice ? - Michael Muhama, Réflexions sur le Cyber-crime"
+    },
+    {
+        "code": "04009",
+        "title": "John Masanori",
+        "keywords": "Relation",
+        "text": "Au premier piratage réussi de chaque tour, piochez une carte.\nAu premier piratage raté de chaque tour, recevez 1 tag.",
+        "flavor": "\"Je me suis connecté en ligne avec des poupées toute la journée. T'en fais pas, les connexions sont cleans. Je te le garantis\""
+    },
+    {
+        "code": "04010",
+        "title": "Projet Arès",
+        "keywords": "Sécurité",
+        "text": "Lorsque vous finalisez le Projet Arès, le Runner efface immédiatement 1 de ses cartes installées pour chaque pion Avancement au delà de 4 sur le Projet Arès.\nSi le Runner efface au moins 1 carte, prenez 1 pion Mauvaise Presse.",
+        "flavor": "Qui voudrait déclencher une guerre ?"
+    },
+    {
+        "code": "04011",
+        "title": "Bronze NEXT",
+        "keywords": "Verrou - NEXT",
+        "text": "Le Bronze NEXT a  +1 en force pour chaque glace <strong>NEXT<\/strong> activée.\n[Subroutine] Arrêtez le piratage.",
+        "flavor": "Les conceptions NEXT offrent aux entreprises prévoyantes un ensemble de glaces qui créent une présence sécuritaire redoutable pour les intrus."
+    },
+    {
+        "code": "04012",
+        "title": "Cadeau à une Célébrité",
+        "keywords": "Double",
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\nRévélez jusqu'à 5 carte de votre QG au Runner. Gagnez 2[Credits] pour chaque carte révélée de cette façon.",
+        "flavor": "Lorsque Miranda Rhapsody a fait son apparition avec une girafe miniature, tout le monde en a immédiatement voulu une."
+    },
+    {
+        "code": "04013",
+        "title": "Himitsu-Bako",
+        "keywords": "Barrière",
+        "text": "1[Credits]: Mettez Himitsu-Bako dans votre QG.\n[Subroutine] Arrêtez le piratage.",
+        "flavor": "Himitsu-Bako est une simple barrière de glace qui ressemble à une boîte à puzzle digitale. Ce qui la rend spéciale est la facilité avec laquelle elle peut être installée et désinstallée dans différents serveurs, mettant des barrières à des endroits inattendus et donnant aux intrus une curieuse sensation de déjà-vu."
+    },
+    {
+        "code": "04014",
+        "title": "Diffamation",
+        "keywords": "Sécurité",
+        "text": "Lorsque vous finalisez Diffamation, effacez 1 ressource (cet effet ne peut pas être prévenu).",
+        "flavor": "\"Ce qu'il faut savoir sur le journalisme, c'est qu'il y a toujours une meilleure histoire au coin de la rue. Bientôt, ils sentent l'odeur du sang ailleurs et le monde m'oublie. Mais moi, je n'oublie pas\" - Le Professeur"
+    },
+    {
+        "code": "04015",
+        "title": "Jackson Howard",
+        "keywords": "Cadre",
+        "text": "[Click]: Piochez 2 cartes.\n<strong>Retirez Jackson Howard du jeu<\/strong> : Mélangez jusqu'à 3 cartes des Archives dans R&D.",
+        "flavor": "\"C'est mon devoir de m'assurer que nos créations sont de parfaits compagnons d'édumusement pour les consommateurs de demain.\""
+    },
+    {
+        "code": "04016",
+        "title": "Atteinte à la Vie Privée",
+        "keywords": "Double - Douteuse",
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\n<strong>Traque<sup>2<\/sup><\/strong>&ndash; Si la traque est réussie, révélez la main du Runner et effacez-en autant de ressources et\/ou d'événements que la différence entre votre force et la force d'évasion du Runner. Si la traque est ratée, prenez 1 pion Mauvaise Presse.",
+        "flavor": ""
+    },
+    {
+        "code": "04017",
+        "title": "Fracturation Géothermique",
+        "keywords": "Expansion",
+        "text": "Lorsque vous finalisez la Fracturation Géothermique, placez 2 pions projet dessus.\n[Click], <strong>pion projet hébergé<\/strong> : Gagnez 7[Credits] et prenez 1 pion Mauvaise Presse.",
+        "flavor": "Envoyer de l'air dans les cheminées hydrothermales des abysses produisait d'énormes quantités d'énergie. Ce qui était un effet secondaire très rentable"
+    },
+    {
+        "code": "04018",
+        "title": "Essaim",
+        "keywords": "Sentinelle - Destructeur - Illicite",
+        "text": "Lorsque vous activez l'Essaim, prenez 1 pion Mauvaise Presse.\nL'Essaim peut être avancé et gagne \"[Subroutine] Effacez 1 programme sauf si le Runner paye 3[Credits].\" pour chaque pion Avancement sur lui.",
+        "flavor": ""
+    },
+    {
+        "code": "04019",
+        "title": "Période d'Essai Cyberdex",
+        "keywords": null,
+        "text": "Nettoyez tous les pions Virus.",
+        "flavor": "Votre version d'essai gratuite vient d'expirer. Voulez-vous passer à la version complète ?"
+    },
+    {
+        "code": "04020",
+        "title": "Sinistros",
+        "keywords": "Sentinelle - Destructeur - Illicite",
+        "text": "Lorsque vous activez Sinistros, prenez 1 pion Mauvaise Presse.\n[Subroutine] Effacez 1 programme.",
+        "flavor": "\"Le Sinistros des legendes est l'un des nombreux mythes du 'chien noir' que l'on trouve habituellement dans les communautés de langue anglaise ou gaélique. Ce qui est fascinant, c'est qu'il s'est propagé sur le réseau, où il continue à vivre sous forme de programme qui, comme le veut la légende, chasse les imprudents.\" - Le Professeur"
+    },
+    {
+        "code": "04021",
+        "title": "Bishop",
+        "keywords": "Caïssa",
+        "text": "[Click]: Hébergez le Fou sur une glace qui n'héberge pas de <strong>Caïssa<\/strong>. S'il est déjà hébergé, le Fou ne peut être hébergé que sur une glace qui protège un serveur central si le Fou est sur une glace qui protège un serveur distant, ou sur une glace protégeant un serveur distant si le Fou est sur une glace protégeant un serveur central.\nLa glace hôte à -2 en force.",
+        "flavor": ""
+    },
+    {
+        "code": "04022",
+        "title": "Scheherazade",
+        "keywords": "Démon",
+        "text": "Schéhérazade peut héberger n'importe quel nombre de programmes. (le coût en mémoire des programmes hébergés comptre dans votre limite de mémoire.)\nÀ chaque fois que vous installez un programme sur Schéhérazade, gagnez 1[Credits].",
+        "flavor": "Installer 1001 programmes vous ferait entrer au Panthéon des Pirates… si une telle institution existait."
+    },
+    {
+        "code": "04023",
+        "title": "En Plein Boulot",
+        "keywords": null,
+        "text": "Au début de votre tour, gagnez 2[Credits] et perdez 1[Click].",
+        "flavor": "Noise avait décidé de retourner à l'école. Il avait postulé à des bourses de recherche dans quinze des plus prestigieuses universités. Qu'il avait ensuite piratées pour approuver ses candidatures. C'était l'heure du petit déjeuner."
+    },
+    {
+        "code": "04024",
+        "title": "Reconnaissance",
+        "keywords": "Piratage",
+        "text": "Lancez un piratage. Vous pouvez débrancher lorsque vous rencontrez la première glace.",
+        "flavor": "Comme dans le monde réel, il vaut parfois mieux envoyer un clone faire le sale boulot."
+    },
+    {
+        "code": "04025",
+        "title": "Copieur",
+        "keywords": "",
+        "text": "À chaque fois que vous passez une glace, vous pouvez effacer le Copieur. Si vous le faites, choisissez un autre exemplaire activé de cette glace qui protège n'importe quel serveur. Le piratage continue comme si vous veniez de passer la glace choisie (votre piratage continue depuis cette nouvelle position).",
+        "flavor": "La fonction du copieur devrait être utilisée avec beaucoup de précautions, sous peine de se retrouver à l'autre bout du cyberspace."
+    },
+    {
+        "code": "04026",
+        "title": "Leviathan",
+        "keywords": "Brise-glace - Décrypteur",
+        "text": "3[Credits]: Neutralisez jusqu'à 3 routines <strong>verrou<\/strong>.\n3[Credits]: force +5.",
+        "flavor": "C'est très efficace, pour certaines grandes valeurs d'«efficace». L'avatar de baleine est soit bien pensé, soit une regrettable interprétation des heures de programmation, selon la personne à qui vous posez la question - Comment briser la glace, par BT"
+    },
+    {
+        "code": "04027",
+        "title": "Eurêka!",
+        "keywords": "Double",
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\nRévélez la première carte de votre pile. Vous pouvez installer cette carte en diminuant son coût d'installation de 10[Credits], si possible; sinon, effacez-la.",
+        "flavor": "\"J'ai une surprise pour toi.\""
+    },
+    {
+        "code": "04028",
+        "title": "Reconstructeur d'Enregistrement",
+        "keywords": "",
+        "text": "À chaque fois que vous réussissez un piratage sur les Archives, au lieu d'accéder à des cartes, vous pouvez choisir une carte face visible des  Archives et la mettre sur R&D.",
+        "flavor": "\"Pourquoi ces données sont-elles effacées ? Peut-être qu'ils ne veulent pas qu'on les trouve. Ou peut-être qu'elles sont inutiles. Ce sont des données inutiles que tu cherches.\" - Le Professeur"
+    },
+    {
+        "code": "04029",
+        "title": "Vocopad Prépayé",
+        "keywords": "Equipement",
+        "text": "1[Recurring Credits]\nN'utilisez ce crédit que pour payer des événements.",
+        "flavor": "Un VocoPAD est un appareil de connexion personnel dont on a enlevé la plupart des fonctions. Il sert surtout à faire des appels vocaux et à gérer vos contacts. La seule raison d'en avoir un est de vouloir rester anonyme, ce qui pour certaines personnes, est une raison bien suffisante."
+    },
+    {
+        "code": "04030",
+        "title": "Wotan",
+        "keywords": "Barrière - Bioroïde",
+        "text": "[Subroutine] Arrêtez le piratage, sauf si le Runner dépense [Click][Click].\n[Subroutine] Arrêtez le piratage, sauf si le Runner paye 3[Credits].\n[Subroutine] Arrêtez le piratage, sauf si le Runner efface 1 programme installé.\n[Subroutine] Arrêtez le piratage, sauf si le Runner prend 1 dégât Neuro.",
+        "flavor": ""
+    },
+    {
+        "code": "04031",
+        "title": "Test Hellion Alpha",
+        "keywords": "Illégale",
+        "text": "Jouable uniquement si le Runner a installé une ressource lors de son dernier tour.\n<strong>Traque<sup>2<\/sup><\/strong>&ndash; Si la traque est réussie, mettez 1 ressource installée au sommet de la pile du Runner. Si la traque est ratée, prenez 1 pion Mauvaise Presse.",
+        "flavor": ""
+    },
+    {
+        "code": "04032",
+        "title": "Retraite de Clone",
+        "keywords": "Initiative",
+        "text": "Lorsque vous finalisez Retraite de Clone, vous pouvez retirer 1 pion Mauvaise Presse.\nSi le Runner vole Retraite de Clone, prenez 1 pion Mauvaise Presse.",
+        "flavor": "\"Ils appellent ça 'la retraite'. J'appelle ça 'une euthanasie'.\" - Ken \"Express\" Tenma"
+    },
+    {
+        "code": "04033",
+        "title": "Épéiste",
+        "keywords": "Sentinelle - Destructeur - AP",
+        "text": "Le Runner ne peut pas utiliser de programme <strong>IA<\/strong> pour neutraliser les routine de l'Épéiste.\n[Subroutine] Effacez 1 programme <strong>IA<\/strong>.\n[Subroutine] Infligez 1 dégât Réseau.",
+        "flavor": "Écrire un programme capable de passer le test de Turing est facile. Le test Gibson-Akamatsu est un peu plus relevé, et les seules IA à le réussir, pour le moment, sont celles des androïdes. Il parait que même certains humains l'ont raté."
+    },
+    {
+        "code": "04034",
+        "title": "Livraison de SanSan",
+        "keywords": "Double",
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\nMettez jusqu'à 2 pions Avancement sur une carte qui peut être avancée.",
+        "flavor": "Il signa le reçu, les mains tremblantes d'impatience."
+    },
+    {
+        "code": "04035",
+        "title": "Fouineur",
+        "keywords": "Sentinelle - Traqueur - Illicite",
+        "text": "Lorsque vous activez le Fouineur, prenez 1 pion Mauvaise Presse.\n[Subroutine] <strong>Traque<sup>1<\/sup><\/strong>&ndash; Si la traque est réussie, donnez 1 Tag au Runner.\n[Subroutine] <strong>Traque<sup>2<\/sup><\/strong>&ndash; Si la traque est réussie, donnez 1 Tag au Runner.\n[Subroutine] <strong>Traque<sup>3<\/sup><\/strong>&ndash; Si la traque est réussie, donnez 1 Tag au Runner.\n[Subroutine] Arrêtez le piratage si le Runner est tagué.",
+        "flavor": ""
+    },
+    {
+        "code": "04036",
+        "title": "Les Nettoyeurs",
+        "keywords": "Securité",
+        "text": "À chaque fois que vous faites des dégâts Hémo, faites 1 dégât Hémo supplémentaire.",
+        "flavor": "\"J'utilise des bioroïdes parce que je peux effacer leur mémoire, ou tout simplement leur exploser la cervelle une fois le boulot terminé. Quand je dis 'pas de témoin', ça veut dire 'pas de témoin'.\""
+    },
+    {
+        "code": "04037",
+        "title": "Elizabeth Mills",
+        "keywords": "Cadre",
+        "text": "Lorsque vous activez Elizabeth Mills, retirez 1 pion Mauvaise Presse.\n[Click], [Trash]: Effacez 1 <strong>lieu<\/strong>. Prenez 1 pion Mauvaise Presse.",
+        "flavor": "\"Ça n'a rien de personnel. La réhabilitation urbaine est une nécessité du monde moderne. C'est toujours la maison de quelqu'un, la vôtre ne fait pas exception.\""
+    },
+    {
+        "code": "04038",
+        "title": "Hors-Réseau",
+        "keywords": "",
+        "text": "À installer uniquement sur un serveur distant.\nLe Runner ne peut pas lancer de piratage sur ce serveur. \nLorsque le Runner réussi un piratage sur le QG, effacez Hors-réseau.",
+        "flavor": ""
+    },
+    {
+        "code": "04039",
+        "title": "Affairisme",
+        "keywords": "",
+        "text": "Lorsque vous finalisez Affairisme, prenez jusqu'à 3 pions Mauvaise Presse. Gagnez 5[Credits] pour chaque pion Mauvaise Presse pris.",
+        "flavor": "C'était étonnament facile de faire des créds… si vous ne vous souciiez pas de la facon dont vous les faisiez."
+    },
+    {
+        "code": "04040",
+        "title": "Restructuration",
+        "keywords": "Transaction",
+        "text": "Gagnez 15[Credits].",
+        "flavor": "Il y a pas mal de noms pour ceux qui travaillent dans le Département de la Direction. Mais, si tu aimes ton boulot, tu les appelles simplement \"monsieur\" ou \"m'dame\"."
+    },
+    {
+        "code": "04041",
+        "title": "Reina Roja: Insurgée",
+        "keywords": "Cyborg - G-mod",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04042",
+        "title": "Carmin",
+        "keywords": "Console",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04043",
+        "title": "Cavalier",
+        "keywords": "Brise-glace - AI - Caïssa",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04044",
+        "title": "Détournement d'Attention",
+        "keywords": "Double - Piratage",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04045",
+        "title": "Analyse Expert en Organisation",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04046",
+        "title": "Escroc",
+        "keywords": "Virtuelle",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04047",
+        "title": "Torche",
+        "keywords": "Brise-glace - Décrypteur",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04048",
+        "title": "La Femme en Robe Rouge",
+        "keywords": "Relation - Virtuelle",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04049",
+        "title": "Raymond Flint",
+        "keywords": "Relation",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04050",
+        "title": "Isabel McGuire",
+        "keywords": "Cadre",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04051",
+        "title": "Hudson 1.0",
+        "keywords": "Verrou - Bioroïde",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04052",
+        "title": "Diagnostics Accélérés",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04053",
+        "title": "Prédictions Peu Orthodoxes",
+        "keywords": "Securité",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04054",
+        "title": "Droséra",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04055",
+        "title": "Surveillance Urbaine",
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04056",
+        "title": "Fureteur",
+        "keywords": "Sentinelle - Traqueur",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04057",
+        "title": "Fissque",
+        "keywords": "Verrou",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04058",
+        "title": "Coupure de Courant",
+        "keywords": "Douteuse",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04059",
+        "title": "Mur de Papier",
+        "keywords": "Barrière",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04060",
+        "title": "Stagiaires",
+        "keywords": "Double",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04061",
+        "title": "Serrure",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04062",
+        "title": "Soutien aux Activistes",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04063",
+        "title": "Appel à son Avocat",
+        "keywords": "Double",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04064",
+        "title": "Influence",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04065",
+        "title": "Garrot",
+        "keywords": "Brise-glace - Tueur",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04066",
+        "title": "Processeur LLDS",
+        "keywords": "Puce",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04067",
+        "title": "Tireur d'Elite",
+        "keywords": "Brise-glace",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04068",
+        "title": "Apogée",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04069",
+        "title": "Financement de la Croisade Starlight",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04070",
+        "title": "Campagne Rex",
+        "keywords": "Publicité",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04071",
+        "title": "Fenrir",
+        "keywords": "Sentinelle - AP - Illicite",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04072",
+        "title": "Bouton d'Alarme",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04073",
+        "title": "Choc!",
+        "keywords": "Ambuscade",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04074",
+        "title": "Tsurugi",
+        "keywords": "Sentinelle - AP",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04075",
+        "title": "TBPEV",
+        "keywords": "Ambuscade",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04076",
+        "title": "Mesure des Parts d'Audience",
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04077",
+        "title": "RSVP",
+        "keywords": "Verrou",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04078",
+        "title": "Mur-Rideau",
+        "keywords": "Barrière",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04079",
+        "title": "Contre-Attaque Punitive",
+        "keywords": "Illégale",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04080",
+        "title": "Programme d'Aide aux Vétérans",
+        "keywords": "Initiative",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04081",
+        "title": "Quête Achevée",
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04082",
+        "title": "Hémorragie",
+        "keywords": "Virus",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04083",
+        "title": "Tallie Perrault",
+        "keywords": "Relation",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04084",
+        "title": "Cadres sur Ecoute",
+        "keywords": "Double",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04085",
+        "title": "Garde Noir",
+        "keywords": "Console",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04086",
+        "title": "Puce Mémoire CyberSolutions",
+        "keywords": "Pune",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04087",
+        "title": "Alpha",
+        "keywords": "Brise-glace - AI",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04088",
+        "title": "Omega",
+        "keywords": "Brise-glace - AI",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04089",
+        "title": "Chantage",
+        "keywords": "Piratage",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04090",
+        "title": "Accès au Niveau Bleu",
+        "keywords": "Double - Transaction",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04091",
+        "title": "Coffre-Fort",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04092",
+        "title": "Toshiyuki Sakai",
+        "keywords": "Cadre",
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "04093",
+        "title": "Yagura",
+        "keywords": "Verrou - AP",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04094",
+        "title": "Sauver la Face",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04095",
+        "title": "Etude de Marché",
+        "keywords": "Recherche",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04096",
+        "title": "Entrelacement",
+        "keywords": "Barrière",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04097",
+        "title": "LDNRG: la Puissance Libérée",
+        "keywords": "Division",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04098",
+        "title": "Etouffement de l'Affaire Vulcain",
+        "keywords": "Securité",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04099",
+        "title": "Raffinerie LDNRG",
+        "keywords": "Infrastructure",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04100",
+        "title": "Message Subliminal",
+        "keywords": "Douteuse",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04101",
+        "title": "Singularité",
+        "keywords": "Double - Piratage",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04102",
+        "title": "Gambit de la Reine",
+        "keywords": "Double",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04103",
+        "title": "Générateur de Fractale Dyson",
+        "keywords": "Puce - Furtive",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04104",
+        "title": "Silencieux",
+        "keywords": "Puce - Furtive",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04105",
+        "title": "Savoir-faire",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04106",
+        "title": "Bouc-émissaire",
+        "keywords": "Relation",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04107",
+        "title": "Sieste Réparatrice",
+        "keywords": "Double",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04108",
+        "title": "Pinceau",
+        "keywords": "",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04109",
+        "title": "Trouvaille",
+        "keywords": "Double",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04110",
+        "title": "Labyrinthe de Gyrus",
+        "keywords": "Verrou",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04111",
+        "title": "Ordre de Récupération",
+        "keywords": "Double",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04112",
+        "title": "Broadcast Square",
+        "keywords": "Infrastructure",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04113",
+        "title": "Restructuration Corporatiste",
+        "keywords": "Double",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04114",
+        "title": "Caprice Nisei",
+        "keywords": "Clone - Psi",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04115",
+        "title": "Shinobi",
+        "keywords": "Sentinelle - Traqueur - AP - Illicite",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04116",
+        "title": "Marqueur",
+        "keywords": "Verrou",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04117",
+        "title": "La Ruche",
+        "keywords": "Barrière",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04118",
+        "title": "Subornation de Témoin",
+        "keywords": "Double",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04119",
+        "title": "Contrat avec le DPNA",
+        "keywords": "Securité",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "04120",
+        "title": "Dilemme",
+        "keywords": "Verrou",
+        "text": "",
+        "flavor": ""
+    },
+    {
+        "code": "05001",
+        "title": "Centre Médical Harmony Medtech : Précuseur Biomedical",
+        "keywords": "Division",
+        "text": "Chaque joueur a besoin de 1 point de projet de moins pour gagner la partie.",
+        "flavor": "Nous faisons évoluer le Meilleur de Vous-Même."
+    },
+    {
+        "code": "05002",
+        "title": "Division Nisei : La Prochaine Génération",
+        "keywords": "Division",
+        "text": "Lorsque le Runner et vous révélez des crédits dépensés secrètement, gagnez 1[Credits].",
+        "flavor": "Parfaire l'Imperfection."
+    },
+    {
+        "code": "05003",
+        "title": "Institut Tennin : Les Secrets Cachés",
+        "keywords": "Division",
+        "text": "Au début de votre tour, vous pouvez placer 1 pion Avancement sure un carte si le Runner n'a pas réussi de piratage durant son dernier tour.",
+        "flavor": ""
+    },
+    {
+        "code": "05004",
+        "title": "Maison Des Lames",
+        "keywords": "Sécurité",
+        "text": "Lorsque vous finalisez la Maison des Lames, placez 3 pions projet dessus.\n<strong>Pion projet hébergé<\/strong> : Infligez 1 dégât Réseau. N'utilisez cette capacité que pendant un piratage et une seule fois par piratage.",
+        "flavor": ""
+    },
+    {
+        "code": "05005",
+        "title": "Percée Médicale",
+        "keywords": "Recherche",
+        "text": "La valeur d'avancement de chaque Percée Médicale est réduite de 1. Cette capacité est active même si la Percée Médicale est dans la zone de score du Runner.",
+        "flavor": "\"Vous ne sentirez pas cette piqûre. Ni quoi que ce soit d'autre, d'ailleurs\""
+    },
+    {
+        "code": "05006",
+        "title": "Enchevêtrement Philotique",
+        "keywords": "Sécurité",
+        "text": "Lorsque vous finalisez l'Enchevêtrement Philotique, infligez au Runner 1 dégât Réseau pour chaque projet dans sa zone de score.\nMaximum 1 Enchevêtrement Philotique par deck.",
+        "flavor": ""
+    },
+    {
+        "code": "05007",
+        "title": "La Perfection Future",
+        "keywords": "Initiative - Psi",
+        "text": "Lorsque le Runner accède à La Perfection Future, le Runner et vous dépensez secrètement 0[Credits], 1[Credits], ou 2[Credits]. Révélez les crédits dépensés. Si le Runner et vous avez dépensé un nombre de crédits différent, prévenez le vol de La Perfection Future. Ignorez cet effet si le Runner accède à La Perfection Future alors qu'elle est installée.",
+        "flavor": ""
+    },
+    {
+        "code": "05008",
+        "title": "Président Hiro",
+        "keywords": "Cadre",
+        "text": "La taille maximale de la main du Runner est réduite de 2.\nSi le président Hiro est effacé lorsqu'on y accède, ajoutez-le à la zone de score du Runner comme un projet valant 2 points de projet.",
+        "flavor": ""
+    },
+    {
+        "code": "05009",
+        "title": "Clinique Psychiatrique",
+        "keywords": "Infrastructure",
+        "text": "Gagnez 1[Credits] au début de votre tour.\nLa taille maximale de la main du Runner est augmentée de 1.",
+        "flavor": "Les murs blanchis à la chaux s'évannouirent tandis qu'un magnifique jardin zen apparaissait. Ce n'était qu'une illusion, mais une illusion réconfortante."
+    },
+    {
+        "code": "05010",
+        "title": "Champ Psychique",
+        "keywords": "Embuscade - Psi",
+        "text": "Si le Champ Psychique est installé et que le Runner l'expose ou y accède, le Runner et vous dépensez secrètement 0[Credits], 1[Credits], or 2[Credits]. Révélez les crédits dépensés. Si le Runner et vous avez dépensez un nombre de crédits différent, infligez au Runner un nombre de dégâts Réseau égal au nombre de cartes dans sa main.",
+        "flavor": ""
+    },
+    {
+        "code": "05011",
+        "title": "Shi.Kyū",
+        "keywords": "Embuscade",
+        "text": "Lorsque le Runner accède à Shi.Kyū, vous pouvez payer X[Credits]. Le Runner choisit entre subir X dégâts Réseau ou ajouter Shi.Kyū à sa zone de score comme un projet valant &minus;1 point de projet. Ignorez cette capacité si le Runner accède à Shi.Kyū depuis R&D.",
+        "flavor": ""
+    },
+    {
+        "code": "05012",
+        "title": "Série Tenma",
+        "keywords": "Clone",
+        "text": "[Click]: Échangez les positions de 2 glaces installées.",
+        "flavor": "Les clones Tenma sont aujourd'hui la troisième série la plus lucrative de Jinteki, suite à l'expansion urbaine rapide ayant suivi la guerre. Leur temps de réaction, leur fiabilité et leur ponctualité font deux un choix de prédilection pour l'expédition et les services de transport."
+    },
+    {
+        "code": "05013",
+        "title": "Entrave Cérébrale",
+        "keywords": "Douteuse - Psi",
+        "text": "Jouable uniquement si le Runner a réussi un piratage lors de son dernier tour.\nLe Runner et vous dépensez secrètement 0[Credits], 1[Credits], or 2[Credits]. Révélez les crédits dépensés. Si le Runner et vous avez dépensé un nombre de crédits différent, il choisit entre subir 1 dégât Neuro ou prendre 1 tag.",
+        "flavor": ""
+    },
+    {
+        "code": "05014",
+        "title": "Gala de Charité Médicale",
+        "keywords": "Transaction",
+        "text": "Gagnez 8[Credits]. Le Runner gagne 3[Credits].",
+        "flavor": "\"Ensemble, nous avons éradiqué toutes les maladies naturelles de la surface de la planète. Le nouveau spectre de la maladie synthétique - du bioterrorisme - exige que nous continuions nos efforts.\""
+    },
+    {
+        "code": "05015",
+        "title": "Mushin No Shin",
+        "keywords": "Double",
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\nInstallez un Avoir, un Projet ou une Extension depuis le QG dans un nouveau serveur distant. Placez 3 pions Avancement sur cette carte. Vous ne pouvez pas finaliser ou activer cette carte avant votre prochain tour.",
+        "flavor": ""
+    },
+    {
+        "code": "05016",
+        "title": "Inazuma",
+        "keywords": "Verrou",
+        "text": "[Subroutine] Le Runner ne peut neutraliser aucune routine de la prochaine glace qu'il rencontre durant ce piratage.\n[Subroutine] Le Runner ne peut pas débrancher avant d'avoir rencontré la prochaine glace durant ce piratage.",
+        "flavor": "Piégé dans sa propre réalité, un runner paralysé ne peut même pas débrancher."
+    },
+    {
+        "code": "05017",
+        "title": "Komainu",
+        "keywords": "Sentinelle - AP",
+        "text": "Lorsque le Runner le rencontre, Komainu gagne jusqu'à la fin du piratage \"[Subroutine] Infligez 1 dégât Réseau.\" pour chaque carte dans la main du Runner.",
+        "flavor": ""
+    },
+    {
+        "code": "05018",
+        "title": "Chiot",
+        "keywords": "Sentinelle - AP",
+        "text": "[Subroutine] Infligez un dégât Réseau sauf si le Runner paye 1[Credits].\n[Subroutine] Infligez un dégât Réseau sauf si le Runner paye 1[Credits].",
+        "flavor": "ouaf ouaf !"
+    },
+    {
+        "code": "05019",
+        "title": "Shiro",
+        "keywords": "Verrou",
+        "text": "[Subroutine] Regardez les 3 premières cartes de R&D et replacez-les dans l'ordre de votre choix.\n[Subroutine] Le Runner accède à la première carte de R&D sauf si la Corpo paye 1[Credits].",
+        "flavor": "Lorsque vous êtes enfermé dans la forteresse de votre propre esprit, prenez garde aux portes que vous ouvrez."
+    },
+    {
+        "code": "05020",
+        "title": "Susanoo-No-Mikoto",
+        "keywords": "Sentinelle - Déflecteur",
+        "text": "[Subroutine] Si ce piratage n'est pas mené sur les Archives, le Runner mène désormais un piratage sur les Archives au lieu de passer Susanoo-No-Mikoto. Le Runner ne peut débrancher qu'après avoir rencontré une glace.",
+        "flavor": "Certaines zones du cyberespace sont dominées par une entité digitale unique. Les Runners les nomment 'dieux', et seul un miracle peut sauver les fous osant s'aventurer sur leur domaine."
+    },
+    {
+        "code": "05021",
+        "title": "Grille de NéoTokyo",
+        "keywords": "Région",
+        "text": "À chaque tour, la première fois qu'un pion avancement est placé sur une carte dans ce serveur, gagnez 1[Credits].\nMaximum 1 <strong>région<\/strong> par serveur.",
+        "flavor": "Il est difficile d'aller au Japon sans se retrouver dans les méandres de NéoTokyo."
+    },
+    {
+        "code": "05022",
+        "title": "Tori Hanzō",
+        "keywords": "Sysop",
+        "text": "La première fois que vous devriez infliger un ou plusieurs dégâts Réseau lors de chaque piratage sur ce serveur, vous pouvez à la place payer 2[Credits] pour infliger 1 dégât Neuro.",
+        "flavor": "Connue sous le surnom de La Femme Rouge, Hanzō est réputée pour ses méthodes impitoyable de protection des serveurs."
+    },
+    {
+        "code": "05023",
+        "title": "Plan B",
+        "keywords": "Embuscade",
+        "text": "Plan B peut être avancé.\nSi le Runner accède au Plan B, Vous pouvez révéler et finaliser un projet du QG avec une valeur d'avancement inférieure ou égale au nombre de pions Avancement sur le Plan B.",
+        "flavor": ""
+    },
+    {
+        "code": "05024",
+        "title": "Garde",
+        "keywords": "Sentinelle",
+        "text": "Le Garde ne peut pas être ignoré.\n[Subroutine] Arrêtez le piratage.",
+        "flavor": "À l'extrémité de son champ de vision, un éclair de lumière. Il ressentit un bruit sourd tandis que son emprise sur le cyberespace faiblissait. Spider n'aimait pas ça. Il aurait dû traverser la couche de glace externe en se connectant depuis le serveur interne. Un autre bruit sourd et son ossaturefût secouée par la résonnance de l'onde de choc. Il porta désespérément la main vers son shuriken…"
+    },
+    {
+        "code": "05025",
+        "title": "Arc-en-ciel",
+        "keywords": "Sentinelle - Verrou - Barrière",
+        "text": "[Subroutine] Arrêtez le piratage.",
+        "flavor": "Le rapport annuel de la FCSN met régulièrement en avant les glaces ayant le plus d'impact par rapport à leur taille et leur coût d'entretien. Les critiques de la FCSN considèrent que le taux de répulsion est le premier critère pour évaluer une glace."
+    },
+    {
+        "code": "05026",
+        "title": "Portefeuille Diversifié",
+        "keywords": "Transaction",
+        "text": "Gagnez 1[Credits] pour chaque serveur distant contenant une carte installée.",
+        "flavor": "YuCafé a fait montre d'une croissance époustouflante, y compris dans les marchés les plus reculés."
+    },
+    {
+        "code": "05027",
+        "title": "Recherche Accélérée",
+        "keywords": "",
+        "text": "Cherchez un projet dans votre R&D, révélez-le et ajoutez le à votre QG. Mélangez votre R&D.",
+        "flavor": "Moins les employés regardaient l'horloge de l'apocalypse, plus elle les obsédait. Un coup d'œil rapide ne faisait que confirmer ce qu'ils savaient déjà : ils manquaient de temps"
+    },
+    {
+        "code": "05028",
+        "title": "Iain Stirling : Espion à la Retraite",
+        "keywords": "Naturel",
+        "text": "Au début de votre tour, gagnez 2[Credits] si la Corpo a plus de points de projet dans sa zone de score que vous.",
+        "flavor": "\"La vérité est une maîtresse capricieuse.\""
+    },
+    {
+        "code": "05029",
+        "title": "Ken \"Express\" Tenma : Clone Disparu",
+        "keywords": "Clone",
+        "text": "La première fois que vous jouez un évènement <strong>piratage<\/strong> à chaque tour, gagnez 1[Credits].",
+        "flavor": "\"Essaye de suivre le rythme.\""
+    },
+    {
+        "code": "05030",
+        "title": "Silhouette : Agent Furtif",
+        "keywords": "Naturel",
+        "text": "À chaque tour, la première fois que vous réussissez un piratage sur le QG, vous pouvez exposer une carte.",
+        "flavor": "\"Ne me faites pas perdre mon temps.\""
+    },
+    {
+        "code": "05031",
+        "title": "Renvoi d'Ascenseur",
+        "keywords": "",
+        "text": "Gagnez 1[Credits] pour chaque ressource <strong>relation<\/strong> installée.",
+        "flavor": "La réussite d'un crime dépend toujours du membre le plus faible. Heureusement, Miss Jones est très ponctuelle."
+    },
+    {
+        "code": "05032",
+        "title": "Lève-Tôt",
+        "keywords": "Priorité - Piratage",
+        "text": "Jouable uniquement à votre premier click.\nLancez un piratage et gagnez [Click].",
+        "flavor": "Leur cerveau étant conçu pour le traitement en parallèle, les Tenma excellent dans l'art de faire plusieurs choses à la fois."
+    },
+    {
+        "code": "05033",
+        "title": "Livraison \"Express\"",
+        "keywords": null,
+        "text": "Regardez les 4 premières cartes de votre pile et ajoutez 1 de ces cartes à votre main. Mélangez votre pile.",
+        "flavor": "Le clone fut surpris de voir l'homme à la veste rouge. C'était comme se regarder dans un mirroir, sauf que le mirroir lui renvoyait une image… cool. Confiante. Unique."
+    },
+    {
+        "code": "05034",
+        "title": "Feinte",
+        "keywords": "Piratage",
+        "text": "Lancez un piratage sur le QG. Ignorez les deux premières glaces que vous rencontrez lors de ce piratage. S'il est réussi, vous ne pouvez accéder à aucune carte.",
+        "flavor": "Stirling entra dans le serveur, s'approchant d'une glace qui se mit à grogner. Il était désarmé… du moins en apparence"
+    },
+    {
+        "code": "05035",
+        "title": "Collecte d'Informations",
+        "keywords": "Piratage",
+        "text": "Lancez un piratage sur le QG. S'il est réussi, accédez à 2 cartes supplémentaires du QG.",
+        "flavor": "\"Je travaille sur références uniquement, et je demande une avance. Le tarif est raisonnable si vous accordez de l'importance aux résultats.\" - Silhouette"
+    },
+    {
+        "code": "05036",
+        "title": "Attaque Planifiée",
+        "keywords": "Double",
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cet évéement.\nCherchez un événement <strong>piratage<\/strong> dans votre pile et jouez cet événement (en payant son coût), enignorant les coûts additionnels. Mélangez votre pile.",
+        "flavor": ""
+    },
+    {
+        "code": "05037",
+        "title": "Logos",
+        "keywords": "Console",
+        "text": "+1[Memory Unit]\nVotre taille de main est augmenté de 1.\nÀ chaque fois que la Corpo finalise un projet, vous pouvez chercher une carte dans votre pile et l'ajouter à votre main. Mélangez votre pile.\nMaximum 1 <strong>console<\/strong> en jeu.",
+        "flavor": ""
+    },
+    {
+        "code": "05038",
+        "title": "Terminal Public",
+        "keywords": null,
+        "text": "1[Recurring Credits]\nN'utilisez ce crédit que pour jouer les événements <strong>piratage<\/strong>.",
+        "flavor": "Express adorait les bibliothèques. Les consoles y étaient de mauvaise qualité, mais la sécurité encore pire. Il téléchargea son code à distance et commença à cloner le disque dur. Dans quelques minutes, un nouveau zombie émergerait à la surface du cyberespace."
+    },
+    {
+        "code": "05039",
+        "title": "Smith & Wesson 35 de Contrebande",
+        "keywords": "Arme",
+        "text": "N'utilez le Smith & Wesson 35 de Contrebande que si vous avez réussi un piratage sur le QG ce tour-ci.\n[Click], [Click]: Effacez un <strong>bioroïde<\/strong>, un <strong>clone<\/strong>, un<strong>cadre<\/strong> or un <strong>sysop<\/strong> activé dans un serveur sans payer son coût d'effacement.",
+        "flavor": ""
+    },
+    {
+        "code": "05040",
+        "title": "Fenêtre",
+        "keywords": "",
+        "text": "[Click]: Piochez 1 carte du dessous de votre pile.",
+        "flavor": "L'herbe semblait plus verte de l'autre coté de la faille. Comme toujours, et il y avait toujours une autre faille."
+    },
+    {
+        "code": "05041",
+        "title": "Alias",
+        "keywords": "Brise-glace - Tueur",
+        "text": "1[Credits]: Neutralisez une routine <strong>sentinelle<\/strong>.\n2[Credits]: Force +3.\nAlias ne peut pas être utilisé sur une glace protégeant un serveur distant.",
+        "flavor": "Il est facile de modifier son apparence dans le cyberespace, mais un rendu de bonne qualité n'est pas aisé à obtenir."
+    },
+    {
+        "code": "05042",
+        "title": "Brèche",
+        "keywords": "Brise-glace - Fragmenteur",
+        "text": "2[Credits]: Neutralisez jusqu'à 3 routines <strong>barrière<\/strong>.\n2[Credits]: Force +4.\nBrèche ne peut pas être utilisé sur une glace protégeant un serveur distant.",
+        "flavor": ""
+    },
+    {
+        "code": "05043",
+        "title": "Punaise",
+        "keywords": "",
+        "text": "Jouable uniquement si vous avez réussi un piratage sur le QG ce tour-ci.\nÀ chaque fois que la Corpo pioche une carte, vous pouvez payer 2[Credits] pour révéler cette carte.",
+        "flavor": "L'équivalent digital d'une mouche sur un mur."
+    },
+    {
+        "code": "05044",
+        "title": "Bonhomme de Pain d'Épices",
+        "keywords": "Brise-glace",
+        "text": "1[Credits]: Neutralisez une routine <strong>traqueur<\/strong>.\n2[Credits]: Force +3.",
+        "flavor": "Attrape-moi si tu peux !"
+    },
+    {
+        "code": "05045",
+        "title": "Grappin",
+        "keywords": null,
+        "text": "[Trash]: Neutralisez toutes les routines d'une glace sauf 1.",
+        "flavor": "Si la rapidité est essentielle, l'approche indirecte d'une glace est en général la meilleure méthode."
+    },
+    {
+        "code": "05046",
+        "title": "Passeport",
+        "keywords": "Brise-glace - Décrypteur",
+        "text": "1[Credits]: Neutralisez une routine <strong>verrou<\/strong>.\n2[Credits]: Force +2.\nPasseport ne peut pas être utilisé sur une glace protégeant un serveur distant.",
+        "flavor": "Rien n'est suffisamment protégé si vous avez la bonne documentation."
+    },
+    {
+        "code": "05047",
+        "title": "Pari Risqué",
+        "keywords": "",
+        "text": "Dépensez secrètement n'importe quel nombre de crédits. La Corpo doit deviner si vous avez dépensé un nombre pair ou impair de crédits. Révélez les crédits dépensés. Si la Corpo s'est trompée, gagnez le double des crédits dépensés.",
+        "flavor": ""
+    },
+    {
+        "code": "05048",
+        "title": "Test de Sécurité",
+        "keywords": "Crime",
+        "text": "Au début de votre tour, choisissez un serveur. La première fois que vous réussissez un piratage sur ce serveur ce tour-ci, au lieu d'accéder à des cartes, gagnez 2[Credits].",
+        "flavor": "Elle a été aussi efficace que Mr. Li le disait. La machine source a été infectée en moins de 24 heures. Si un agent indépendant pouvait faire ça, le serveur n'était manifestement pas prêt à endurer les assauts des légions des runners corporatistes de Gagarin"
+    },
+    {
+        "code": "05049",
+        "title": "Théophilius Bagbiter",
+        "keywords": "Relation",
+        "text": "Lorsque vous installez Théophilius Bagbiter, perdez tous les crédits de votre réserve.\nVotre taille maximale de main est égale au nombre de crédits dans votre réserve.",
+        "flavor": "\"Quelle différence y a-t-il entre un pigeon?\""
+    },
+    {
+        "code": "05050",
+        "title": "Contact Tri-Maf",
+        "keywords": "Relation",
+        "text": "Vous ne pouvez utiliser Contact Tri-Maf qu'une fois par tour.\n[Click]: Gagnez 2[Credits].\nLorsque Contact Tri-Maf est éffacé, subissez 3 dégâts Hémos.",
+        "flavor": "Elle remonta sur son hopper. \"Je fais partie de ta famille, maintenant, alors ne me déçois pas, dǒng ma ?\"\nIl retira son e-clope de sa bouche et hocha de la tête. Dans quoi s'était-il embarqué ?"
+    },
+    {
+        "code": "05051",
+        "title": "Installation Massive",
+        "keywords": null,
+        "text": "Installez jusqu'à 3 programmes de votre mai (en payant les coûts d'installation).",
+        "flavor": "\"Bienvenue dans l'assistant d'installation massive ! Cet assistant va vous guider tout au long de l'installation d'un tas de programmes dans votre station probablement inadéquate. Lorsque vous êtes prêt, dites - oups, trop tard, ça a commencé !\""
+    },
+    {
+        "code": "05052",
+        "title": "Puce de Q-Cohérence",
+        "keywords": "Puce",
+        "text": "+1[Memory Unit]\nEffacez la Puce de Q-Cohérence lorsqu'un programme est effacé.",
+        "flavor": "L'un des problèmes principaux du calcul quantique est d'isoler le système des facteurs externes pour éviter la décohérence. La puce de Q-Cohérence est l'une des solutions, imparfaite, à ce problème."
+    },
+    {
+        "code": "05053",
+        "title": "Maître-Esprit",
+        "keywords": "Brise-glace - AI",
+        "text": "Lors de son installation, placez un pion Pouvoir sur Maître-esprit pour chaque UM inutilisée.\n<strong>Pion Pouvoir hébergé<\/strong> : Neutralisez une routine de glace.\n1[Credits]: Force +1.",
+        "flavor": ""
+    },
+    {
+        "code": "05054",
+        "title": "Oracle May",
+        "keywords": "Relation",
+        "text": "Vous ne pouvez utiliser Oracle May qu'une fois par tour.\n[Click]: Énoncez un type de carte. Révélez la première carte de votre deck. Si elle est du type énoncé, piochez-la et gagnez 2[Credits]. Sinon, effacez-la.",
+        "flavor": "\"Le meilleur endroit pour se cacher est au vu et au su de tout le monde, tu ne crois pas ?\""
+    },
+    {
+        "code": "05055",
+        "title": "Donut Taganes",
+        "keywords": "Relation",
+        "text": "Le coût des opérations et des événements est augmenté de 1.",
+        "flavor": "On peut trouver Donut dans le parc les jeudis après-midi, en train de jouer au backgammon. Pour attirer son attention, un seul moyen : une tasse de café et un donut. Vous pouvez alors vous asseoir à sa table, et vous pouvez discuter affaires et tarifs jusqu'à ce qu'il gagne."
+    },
+    {
+        "code": "06001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06056",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06057",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06058",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06059",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06060",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06061",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06062",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06063",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06064",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06065",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06066",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06067",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06068",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06069",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06070",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06071",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06072",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06073",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06074",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06075",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06076",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06077",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06078",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06079",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06080",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06081",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06082",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06083",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06084",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06085",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06086",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06087",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06088",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06089",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06090",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06091",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06092",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06093",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06094",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06095",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06096",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06097",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06098",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06099",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06100",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06101",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06102",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06103",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06104",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06105",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06106",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06107",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06108",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06109",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06110",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06111",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06112",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06113",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06114",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06115",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06116",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06117",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06118",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06119",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "06120",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "07055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08056",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08057",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08058",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08059",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08060",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08061",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08062",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08063",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08064",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08065",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08066",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08067",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08068",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08069",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08070",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08071",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08072",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08073",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08074",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08075",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08076",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08077",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08078",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08079",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08080",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08081",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08082",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08083",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08084",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08085",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08086",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08087",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08088",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08089",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08090",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08091",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08092",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08093",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08094",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08095",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08096",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08097",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08098",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08099",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08100",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08101",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08102",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08103",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08104",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08105",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08106",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08107",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08108",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08109",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08110",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08111",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08112",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08113",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08114",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08115",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08116",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08117",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08118",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08119",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "08120",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "09055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10003",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10004",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10005",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10006",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10008",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10009",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10010",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10011",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10012",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10015",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10017",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10018",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10019",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10020",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10021",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10022",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10023",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10024",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10025",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10026",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10027",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10028",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10029",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10030",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10031",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10032",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10033",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10034",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10035",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10036",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10037",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10038",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10039",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10040",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10041",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10042",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10043",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10044",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10045",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10046",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10047",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10048",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10049",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10050",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10051",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10052",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10053",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10054",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10055",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10056",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10057",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10058",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10059",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10060",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10061",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10062",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10063",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10064",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10065",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10066",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10067",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10068",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10069",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10070",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10071",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10072",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10073",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10074",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10075",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10076",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10077",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10078",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10079",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10080",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10081",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10082",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10083",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10084",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10085",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10086",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10087",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10088",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10089",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10090",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10091",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10092",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10093",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10094",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10095",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10096",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10097",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10098",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10099",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10100",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10101",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10102",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10103",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10104",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10105",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10106",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10107",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10108",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10109",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10110",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10111",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10112",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10113",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "10114",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "11001",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "11002",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "11007",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "11013",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "11014",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    },
+    {
+        "code": "11016",
+        "title": null,
+        "keywords": null,
+        "text": null,
+        "flavor": null
+    }
+]
