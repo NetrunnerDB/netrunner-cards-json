@@ -178,7 +178,7 @@
         "code": "01017",
         "title": "Gabriel Santiago: Vollprofi",
         "keywords": "Cyborg",
-        "text": "Wenn du zum ersten Mal in deinem Zug einen erfolgreichen Run auf HQ durchführst, erhältst du 2[Credits].",
+        "text": "Wenn du zum ersten Mal in einem Zug einen erfolgreichen Run auf HQ durchführst, erhältst du 2[Credits].",
         "flavor": "\"Natürlich stehle ich von den Reichen. Die haben ja schließlich das ganze Geld\""
     },
     {
@@ -437,7 +437,7 @@
         "code": "01054",
         "title": "Haas-Bioroid: Wir bauen die Zukunft",
         "keywords": "Megakon",
-        "text": "Jede Runde, wenn du zum ersten Mal eine Karte installierst, erhältst du 1[Credits].",
+        "text": "Wenn du zum ersten Mal in jedem Zug eine Karte installierst, erhältst du 1[Credits].",
         "flavor": "Effektiv. Verlässlich. Menschlich."
     },
     {
@@ -3076,7 +3076,7 @@
         "code": "05023",
         "title": "Plan B",
         "keywords": "Hinterhalt",
-        "text": "Plan B kann entwickelt werden.\nFalls der Runner auf Plan B zugreift,kannst du ihn aufdecken und die Punkte für eine Agenda im HQ mit benötigten Entwicklungen kleiner oder gleich der Anzahl der Entwicklungsmarker auf Plan B erzielen.",
+        "text": "Plan B kann entwickelt werden.\nFalls der Runner auf Plan B zugreift, kannst du eine Agenda im HQ aufdecken und die Punkte für sie erzielen, solange ihre Entwicklungskosten kleiner oder gleich der Anzahl an Entwicklungsmarkern auf Plan B sind.",
         "flavor": ""
     },
     {
@@ -3902,7 +3902,7 @@
         "code": "06086",
         "title": "Tägliche Wirtschafts-Sendung ",
         "keywords": "Sendung",
-        "text": "Ziehst du in einem Zug zum ersten Mal eine Karte, ziehe eine Karte zusätzlich. Lege 1 der gezogenen Karten unter F&E. ",
+        "text": "Wenn du zum ersten Mal in einem Zug eine Karte ziehst, ziehe 1 Karte zusätzlich. Lege 1 der gezogenen Karten unter F&E.",
         "flavor": "\"Eine neue Investition jeden Morgen! Ergreifen Sie den Stier bei den Hörnern und steuern Sie selbst Ihre Zukunft.\""
     },
     {
@@ -4630,7 +4630,7 @@
         "code": "08015",
         "title": "Valley Netz",
         "keywords": "Region",
-        "text": "Sobald der Runner alle Subroutinen auf einem ICE ausschaltet, das dieses System schützt, wird sein Handkartenlimit bis zum Beginn deines nächsten Zuges um 1 gesenkt.\nMaximal 1 <strong>Region<\/strong> pro System.",
+        "text": "Sobald der Runner alle Subroutinen auf einem Ice ausschaltet, das dieses System schützt, wird sein Handkartenlimit bis zum Beginn deines nächsten Zuges um 1 gesenkt.\nMaximal 1 <strong>Region<\/strong> pro System.",
         "flavor": null
     },
     {
@@ -5562,7 +5562,7 @@
         "title": "Assassine",
         "keywords": "Wächter - Zerstörer - AP - Spürhund",
         "text": "[Subroutine] <strong>Aufspüren<sup>5<\/sup><\/strong>– Bei Erfolg verursache 3 Netz-Schaden.[Subroutine] <strong>Aufspüren<sup>4<\/sup><\/strong>– Bei Erfolg zerstöre 1 Programm.",
-        "flavor": "Die Abprallrate ist ein allgemein verständliches Maß für die Stärke eines ICE. Aber es gibt auch andere Möglichkeiten sie zu messen."
+        "flavor": "Die Abprallrate ist ein allgemein verständliches Maß für die Stärke eines Ice. Aber es gibt auch andere Möglichkeiten sie zu messen."
     },
     {
         "code": "09029",
