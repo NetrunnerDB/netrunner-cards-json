@@ -64,7 +64,7 @@
             "type": "integer"
         },
         "keywords": {
-            "minLength": 0,
+            "minLength": 1,
             "type": "string"
         },
         "memory_cost": {
