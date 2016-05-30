@@ -1,95 +1,128 @@
 [
     {
         "code": "02021",
-        "title": "Vampirisme",
-        "keywords": "Piratage - Sabotage"
+        "title": "Wamp",
+        "keywords": "Skok - Sabotaż",
+        "text": "Przeprowadź skok na HQ. Jeśli jest udany, zamiast uzyskać dostęp do kart, możesz zapłacić X[Credits], aby korp stracił do X[Credits], następnie otrzymujesz 1 tag.",
+        "flavor": "W wyrzucaniu kredytów była pewna schadenfreude."
     },
     {
         "code": "02022",
-        "title": "Déblocage de Compte"
+        "title": "Uwolnione konto",
+        "text": "Gdy instalujesz Uwolnione konto, połóż na nim 16[Credits]. Skasuj Uwolnione konto, gdy nie ma na nim kredytów.\r\n[Click]: Weź 4[Credits] z Uwolnionego konta.",
+        "flavor": "Łatwiej wydawać cudze pieniądze."
     },
     {
         "code": "02023",
-        "title": "Liaison Satellite"
+        "title": "Połączenie z satelitą",
+        "text": "Ujawnij do 2 kart.",
+        "flavor": "T minus 13 sekund. Leela musiała się spieszyć. Podłączyła przewód i włączyła ekran. 7 sekund. Wewnętrzne SLD nadal startowało. 4 sekundy. Interfejs zaiskrzył pomarańczową poświatą. 2 sekundy. Jedno dotknięcie i była w środku."
     },
     {
         "code": "02024",
-        "title": "Implants de Retour e3",
-        "keywords": "Mod"
+        "title": "Implanty dotykowe e3",
+        "keywords": "Mod",
+        "text": "Zawsze gdy złamiesz podprogram lodu, możesz zapłacić 1[Credits], aby złamać 1 dodatkowy podprogram tego lodu.",
+        "flavor": "Linia implantów CyberSolutions e3 jest dedykowana pamięci mięśniowej i odpowiedzi autonomicznej, co pozwala mózgowi skupić się na procesach intelektualnych."
     },
     {
         "code": "02025",
-        "title": "Employé Compromis",
-        "keywords": "Relation - Relais"
+        "title": "Szantażowany pracownik",
+        "keywords": "Kontakt - Połączenie",
+        "text": "1[Recurring Credits]\r\nUżyj tego kredytu podczas namierzania.\r\nPobierasz 1[Credits] zawsze gdy korp rezuje lód."
     },
     {
         "code": "02026",
-        "title": "Notoriété"
+        "title": "Rozgłos",
+        "text": "Zagraj tylko, jeśli przeprowadziłeś w tej turze udany skok na R&D, HQ, i Archiwa.\r\nDodaj Rozgłos do swojego obszaru punktowania jako projekt warty 1 punkt projektu.",
+        "flavor": "Gdy jesteś aż tak dobry, ciężko nie przyciągać grona fanów."
     },
     {
         "code": "02027",
-        "title": "Boule de Neige",
-        "keywords": "Brise-glace - Fragmenteur"
+        "title": "Śnieżka",
+        "keywords": "Lodołamacz - Młot",
+        "text": "1[Credits]: Złam podprogram <strong>bariery<\/strong>.\r\n1[Credits]: +1 siły.\r\nZawsze gdy użyjesz Śnieżki do złamania podprogramu, do końca skoku ma ona +1 siły.",
+        "flavor": "\"Jeśli śnieżka stanie się duża, możesz z niej zrobić bałwana!\" - Teoria Chaosu"
     },
     {
         "code": "02028",
-        "title": "Puce Mémoire Dyson",
-        "keywords": "Puce - Relais"
+        "title": "Kość pamięci Dysona",
+        "keywords": "Chip - Połączenie",
+        "text": "+1[Memory Unit], +1[Link]",
+        "flavor": "Archaiczna, ale niezawodna."
     },
     {
         "code": "02029",
-        "title": "Protocole de Cryptage"
+        "title": "Protokół szyfrowania",
+        "text": "Koszt skasowania wszystkich zainstalowanych kart jest większy o 1.",
+        "flavor": "Klucz do przyszłości leży w przeszłości."
     },
     {
         "code": "02030",
         "title": "Sherlock 1.0",
-        "keywords": "Sentinelle - Bioroïde - Traqueur"
+        "keywords": "Strażnik - Bioroid - Tropiciel",
+        "text": "Runner może wydać [Click], aby złamać dowolny podprogram Sherlocka 1.0.\r\n[Subroutine] <strong>Trace<sup>4<\/sup><\/strong>&ndash; Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.\r\n[Subroutine] <strong>Trace<sup>4<\/sup><\/strong>&ndash; Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera."
     },
     {
         "code": "02031",
-        "title": "Jinteki: La Perfection Reproduite",
-        "keywords": "Mégacorpo"
+        "title": "Jinteki: Replika ideału",
+        "keywords": "Megakorp",
+        "text": "Runner nie może przeprowadzać skoków na zdalne serwery. Zignoruj tę zdolność do końca tury zawsze, gdy runner przeprowadzi skok na serwer centralny."
     },
     {
         "code": "02032",
-        "title": "IA Fœtale",
-        "keywords": "Embuscade"
+        "title": "Embrionalna AI",
+        "keywords": "Zasadzka",
+        "text": "Runner musi odsłonić Embrionalną AI, jeśli uzyska do niej dostęp z R&D.\r\nGdy runner uzyska dostęp do Embrionalnej AI, zadaj 2 obrażenia sprzętu. Zignoruj tę zdolność, jeśli runner uzyska dostęp do Embrionalnej AI z Archiwów.\r\nAby wykraść Embrionalną AI, runner musi zapłacić dodatkowy koszt wynoszący 2[Credits]."
     },
     {
         "code": "02033",
-        "title": "Effet d'Optique"
+        "title": "Złudzenie optyczne",
+        "text": "Przesuń do 2 żetonów zaawansowania z jednej karty na inną zainstalowaną kartę, którą można awansować.",
+        "flavor": "Pic na wodę."
     },
     {
         "code": "02034",
         "title": "Sensei",
-        "keywords": "Verrou"
+        "keywords": "Brama kodowa",
+        "text": "[Subroutine] Do końca tego skoku każdy napotkany lód oprócz Senseia otrzymuje \"[Subroutine] Zakończ skok\" po wszystkich swoich podprogramach.",
+        "flavor": "Pokój i przemoc. Obydwa muszą prowadzić do tego samego."
     },
     {
         "code": "02035",
-        "title": "Big Brother",
-        "keywords": "Douteuse"
+        "title": "Wielki brat",
+        "keywords": "Szara operacja",
+        "text": "Zagraj tylko, jeśli runner jest otagowany.\r\nDaj runnerowi 2 tagi.",
+        "flavor": "Dba o twoje interesy od roku 1984."
     },
     {
         "code": "02036",
-        "title": "Grille de ChiLo",
-        "keywords": "Région"
+        "title": "Sieć miejska ChiLo",
+        "keywords": "Region",
+        "text": "Zawsze gdy namierzanie podczas skoku na ten serwer jest udane, daj runnerowi 1 tag.\r\nLimit 1 <strong>regionu<\/strong> na serwer.",
+        "flavor": "Klony szepczą, że ChiLo to wolna ziemia obiecana."
     },
     {
         "code": "02037",
-        "title": "Surcharge du Réseau Électrique"
+        "title": "Przeciążenie sieci energetycznej",
+        "text": "Zagraj tylko jeśli w swojej ostatniej turze runner przeprowadził udany skok.\r\n<strong>Trace<sup>2<\/sup><\/strong>&ndash; Jeśli udane, skasuj 1 sprzęt o koszcie instalacji mniejszym bądź równym różnicy siły namierzania i siły połączenia."
     },
     {
         "code": "02038",
-        "title": "Zone Industrielle d'Amazonie",
-        "keywords": "Région"
+        "title": "Amazońska strefa przemysłowa",
+        "keywords": "Region",
+        "text": "Zawsze gdy instalujesz lód chroniący ten serwer, możesz go natychmiast zrezować, obniżając jego koszt zrezowania o 3.\r\nLimit 1 <strong>regionu<\/strong> na serwer."
     },
     {
         "code": "02039",
-        "title": "Séminaire pour Cadres"
+        "title": "Wypoczynek dla kierownictwa",
+        "text": "Gdy zapunktujesz Wypoczynek dla kierownictwa, połóż na nim 1 znacznik projektu i wtasuj HQ do R&D.\r\n[Click], <strong>hostowany znacznik projektu<\/strong>: Dobierz 5 kart."
     },
     {
         "code": "02040",
-        "title": "Indépendant",
-        "keywords": "Douteuse"
+        "title": "Wolny strzelec",
+        "keywords": "Szara operacja",
+        "text": "Zagraj tylko, jeśli runner jest otagowany.\r\nSkasuj do 2 zasobów.",
+        "flavor": "Bez kontraktu. Tylko uścisk dłoni i garść budowlanego C-6."
     }
 ]

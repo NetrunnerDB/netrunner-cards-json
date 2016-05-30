@@ -1,134 +1,134 @@
 [
     {
         "code": "04001",
-        "title": "Coup Monté",
-        "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\r\nRenoncez à un projet. Si vous le faites, donnez 1 pion Mauvaise Presse à la Corpo.",
-        "flavor": "\"Prendre le contrôle de bioroïdes n'est pas impossible, contrairement à ce que prétend Haas-Bioroïd. Mais c'est dangereux.\" - Noise"
+        "title": "조작극",
+        "keywords": "이중",
+        "text": "이 운영을 플레이하는 추가 비용으로 [Click]을 쓴다.\r\n아젠다 하나를 포기한다. 그렇게 하면 기업에게 악평 1개를 준다.",
+        "flavor": "\"하스-바이오로이드 사에서 큰소리 치고 있긴 하지만, 바이오로이드로 인한 사생활 침해는 언제 일어나도 이상하지 않은 일이야. 게다가 위험하기까지 해.\" - 노이즈"
     },
     {
         "code": "04002",
-        "title": "Pion",
-        "keywords": "Caïssa",
-        "text": "[Click]: Hébergez le Pion sur la glace périphérique d'un serveur central.\r\nÀ chaque fois que vous réussissez un piratage, si le Pion est hébergé sur une glace, déplacez le sur la glace directement après celle qui l'héberge actuellement, si possible; sinon, effacez le Pion et installez un programme <strong>Caïssa<\/strong> de votre main ou de votre tas, en ignorant tous les coûts."
+        "title": "폰",
+        "keywords": "카이사",
+        "text": "[Click]: 중앙 서버를 보호하는 가장 바깥쪽 아이스 하나에 폰을 호스트 시킨다.\r\n폰이 아이스에 호스트됐을 때, 당신이 성공적인 런을 수행할 때마다, 가능하다면 폰을 현재 호스팅된 아이스의 바로 다음 아이스로 이동시킨다. 만약 그것이 불가능하다면, 대신 폰을 폐기하고 그립 혹은 힙으로부터 <strong>카이사<\/strong> 프로그램 하나를 모든 비용을 무시하고 설치한다."
     },
     {
         "code": "04003",
-        "title": "Tour",
-        "keywords": "Caïssa",
-        "text": "[Click]: Hébergez la Tour sur une glace qui n'héberge pas de <strong>Caïssa<\/strong>. Si elle est déjà hébergée, la Tour ne peut-être hébergée que sur un glace qui protège ce serveur ou sur une glace à la même position (en comptant à partir de la glace centrale) protégeant ce serveur.\r\nLe coût d'activation de chaque glace protégeant ce serveur est augmenté de 2."
+        "title": "룩",
+        "keywords": "카이사",
+        "text": "[Click]: <strong>카이사<\/strong>를 호스트하지 않은 아이스 하나에 룩을 호스트한다. 이미 호스트됐다면, 룩은 이 서버를 보호하는 아이스 혹은 다른 서버를 보호하는 같은 위치(가장 안쪽 아이스로부터 센다)의 아이스에만 호스트 될 수 있다.\r\n이 서버를 보호하는 각각의 아이스는 레즈 비용이 2만큼 증가한다."
     },
     {
         "code": "04004",
-        "title": "Otage",
-        "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\r\nCherchez une <strong>relation<\/strong> dans votre pile, révélez-la et ajoutez la à votre main. Vous pouvez installer cette <strong>relation<\/strong> (en payant son coût d'installation).\r\nMélangez votre pile."
+        "title": "인질극",
+        "keywords": "이중",
+        "text": "이 이벤트를 플레이하기 위한 추가 비용으로 [Click]을 쓴다.\r\n스택에서 <strong>연결<\/strong> 하나를 찾고, 그것을 공개한 다음, 당신의 그립에 더한다. 당신은 이 <strong>연결<\/strong>을 설치할 수 있다(설치 비용을 지불한다). 당신의 스택을 섞는다."
     },
     {
         "code": "04005",
-        "title": "Perfusion Gorman V1",
-        "keywords": "Virus",
-        "text": "À chaque fois que la corpo dépense [Click] pour piocher une carte ou gagner 1[Credits] (hors capacité d'une carte), placez 1 pion Virus sur la Perfusion Gorman V1.\r\n[Click], [Trash]: Gagnez 1[Credits] pour chaque pion Virus sur la Perfusion Gorman V1.",
-        "flavor": "Le principe est simple : le virus de perfusion draine des fractions de crédits de leurs comptes vers les vôtres."
+        "title": "고르만 드립 v1",
+        "keywords": "바이러스",
+        "text": "기업이 [Click]을 사용하여 카드 1장을 뽑거나,  1[Credits]을 얻을 때마다 (카드 능력을 통하지 않을 때), 고르만 드립 v1에 바이러스 카운터 1개를 놓는다.\r\n[Click], [Trash]: 고르만 드립 v1에 놓인 바이러스 카운터 마다 1[Credits]을 얻는다.",
+        "flavor": "이론상으로는, 드립 바이러스가 아주 조금씩 그들의 계좌에서 당신의 계좌로 금액을 빨아들입니다."
     },
     {
         "code": "04006",
-        "title": "Rossignol",
-        "keywords": "Puce - Furtif",
-        "text": "1[Recurring Credits]\r\nN'utilisez ce crédit que pour payer l'utilisation de <strong>décrypteurs<\/strong>.",
-        "flavor": "\"Au départ, je l'ai conçu pour quelqu'un d'autre, mais c'était tellement utile que j'ai décidé de le garder pour moi.\" - Kate \"Mac\" McCaffrey"
+        "title": "자물쇠따개",
+        "keywords": "칩 - 스텔스",
+        "text": "1[Recurring Credits]\r\n<strong>디코더<\/strong>를 사용할 때만 이 크레딧을 사용한다.",
+        "flavor": "\"처음에는 다른 누군가를 위해 디자인했었어, 그런데 너무 쓸만하길래 쭉 갖고 있기로 했지.\" - 케이트 \"맥\" 맥카프리"
     },
     {
         "code": "04007",
-        "title": "Écho Fantôme",
-        "text": "À chaque fois que vous passez une glace désactivée, vous pouvez effacer l'Écho Fantôme. Si vous le faites, la corpo doit activer cette glace ou la mettre dans son QG.",
-        "flavor": "\"Et si cette glace voulait être libre ?\" - Rielle \"Kit\" Peddler"
+        "title": "거짓 반향",
+        "text": "당신이 레즈되지 않은 아이스를 통과할 때마다, 당신은 거짓 반향을 폐기할 수 있다. 그렇게 하면 기업은 그 아이스를 레즈하거나 HQ에 더해야만 한다.",
+        "flavor": "\"이 아이스가 자유를 원하고 있다면 어떻겠어?\" - 리엘 \"킷\" 페들러"
     },
     {
         "code": "04008",
-        "title": "Motivation",
-        "text": "Au début de votre tour, vous pouvez regarder la première carte de votre pile.",
-        "flavor": "Les gens normaux &ndash; Les gens sains d'esprit &ndash; ne s'engagent pas dans la voie du cyber-crime. Qui peut dire ce qui motive un esprit dérangé ? Une impression de manque de respect, en échec personnel reproché à des forces extérieures, ou la toujours très populaire avarice ? - Michael Muhama, Réflexions sur le Cyber-crime"
+        "title": "동기 부여",
+        "text": "당신의 차례가 시작될 때, 당신의 스택 맨 위 장을 볼 수 있다.",
+        "flavor": "지극히 보통의 사람들이라면 사이버 범죄의 세계에 발을 들이진 않는다. 위태로운 정신 상태를 부추기는 건 무엇일까? 모욕감을 주는 이미지, 외부의 압력으로 인해 실패한 개인적 경험, 아니면 흔하게 볼 수 있는 금전에 대한 집착? - 마이클 무하마, 사이버 범죄에 대한 묵상 중"
     },
     {
         "code": "04009",
-        "title": "John Masanori",
-        "keywords": "Relation",
-        "text": "Au premier piratage réussi de chaque tour, piochez une carte.\r\nAu premier piratage raté de chaque tour, recevez 1 tag.",
-        "flavor": "\"Je me suis connecté en ligne avec des poupées toute la journée. T'en fais pas, les connexions sont cleans. Je te le garantis\""
+        "title": "존 마사노리",
+        "keywords": "연결",
+        "text": "당신의 차례에 처음으로 성공적인 런을 수행하면, 카드 1장을 뽑는다.\r\n당신의 차례에 처음으로 런을 실패하면, 태그 1개를 받는다.",
+        "flavor": "\"우리 이쁜이랑 오늘 하루 종일 접속해 있었는 걸. 걱정 마, 회선은 깨끗해. 내가 보장할 수 있어.\""
     },
     {
         "code": "04010",
-        "title": "Projet Arès",
-        "keywords": "Sécurité",
-        "text": "Lorsque vous finalisez le Projet Arès, le Runner efface immédiatement 1 de ses cartes installées pour chaque pion Avancement au delà de 4 sur le Projet Arès.\r\nSi le Runner efface au moins 1 carte, prenez 1 pion Mauvaise Presse.",
-        "flavor": "Qui voudrait déclencher une guerre ?"
+        "title": "아레스 프로젝트",
+        "keywords": "보안",
+        "text": "당신이 아레스 프로젝트를 득점할 때, 아레스 프로젝트 위에 놓인 4개를 초과한 발전 토큰마다 러너는 설치된 카드 1개를 폐기한다. 러너가 최소 1개 이상의 카드를 폐기했다면, 악평 1개를 갖는다.",
+        "flavor": "전쟁을 원하는가?"
     },
     {
         "code": "04011",
-        "title": "Bronze NEXT",
-        "keywords": "Verrou - NEXT",
-        "text": "Le Bronze NEXT a  +1 en force pour chaque glace <strong>NEXT<\/strong> activée.\r\n[Subroutine] Arrêtez le piratage.",
-        "flavor": "Les conceptions NEXT offrent aux entreprises prévoyantes un ensemble de glaces qui créent une présence sécuritaire redoutable pour les intrus."
+        "title": "NEXT 브론즈",
+        "keywords": "코드 게이트 - NEXT",
+        "text": "NEXT 브론즈 는 레즈된 각각의 <strong>NEXT<\/strong> 아이스마다 +1 힘을 가진다.\r\n[Subroutine] 런을 종료한다.",
+        "flavor": "NEXT 가 디자인한 아이스들은 침입자들을 막기위한 고도의 보안 구축을 통해 통찰력 있는 비즈니스를 제공합니다."
     },
     {
         "code": "04012",
-        "title": "Cadeau à une Célébrité",
-        "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\r\nRévélez jusqu'à 5 carte de votre QG au Runner. Gagnez 2[Credits] pour chaque carte révélée de cette façon.",
-        "flavor": "Lorsque Miranda Rhapsody a fait son apparition avec une girafe miniature, tout le monde en a immédiatement voulu une."
+        "title": "유명인의 애장품",
+        "keywords": "이중",
+        "text": "이 운영을 플레이하는 추가 비용으로 [Click]을 쓴다.\r\n본부(HQ)로부터 카드를 최대 5장까지 러너에게 공개한다. 공개한 카드당 2[Credits]을 얻는다.",
+        "flavor": "미란다 랩소디가 티컵 기린을 안고 들어서자, 갑자기 모두가 그것을 간절히 원하게 되었다."
     },
     {
         "code": "04013",
-        "title": "Himitsu-Bako",
-        "keywords": "Barrière",
-        "text": "1[Credits]: Mettez Himitsu-Bako dans votre QG.\r\n[Subroutine] Arrêtez le piratage.",
-        "flavor": "Himitsu-Bako est une simple barrière de glace qui ressemble à une boîte à puzzle digitale. Ce qui la rend spéciale est la facilité avec laquelle elle peut être installée et désinstallée dans différents serveurs, mettant des barrières à des endroits inattendus et donnant aux intrus une curieuse sensation de déjà-vu."
+        "title": "비밀 상자",
+        "keywords": "방벽",
+        "text": "1[Credits]: 비밀 상자를 본부(HQ)에 더한다.\r\n[Subroutine] 런을 종료한다.",
+        "flavor": "비밀 상자는 디지털 퍼즐 박스의 형상으로 구현되는 단순한 방벽 아이스이다. 특징이라면, 간편하게 설치를 취소하고 다른 서버에 설치하여 예상치 못한 장소에서 방벽이 튀어나오게 만들기에, 침입자로 하여금 묘한 기시감을 느끼게 만든다는 것일까."
     },
     {
         "code": "04014",
-        "title": "Diffamation",
-        "keywords": "Sécurité",
-        "text": "Lorsque vous finalisez Diffamation, effacez 1 ressource (cet effet ne peut pas être prévenu).",
-        "flavor": "\"Ce qu'il faut savoir sur le journalisme, c'est qu'il y a toujours une meilleure histoire au coin de la rue. Bientôt, ils sentent l'odeur du sang ailleurs et le monde m'oublie. Mais moi, je n'oublie pas\" - Le Professeur"
+        "title": "중상모략",
+        "keywords": "보안",
+        "text": "당신이 중상모략을 득점할 때, 리소스 1개를 폐기한다. (방지될 수 없다.)",
+        "flavor": "\"늘 조금만 더 발품팔면 더 좋은 이야깃거리가 있는 게 언론의 본성이라네. 조만간, 그들은 피냄새를 맡고 다른 곳으로 몰려갈 거야, 그러면 세상은 나에 대해 까맣게 잊어버릴 걸세. 물론 난 잊어버리지 않겠지만 말일세.\" - 교수"
     },
     {
         "code": "04015",
-        "title": "Jackson Howard",
-        "keywords": "Cadre",
-        "text": "[Click]: Piochez 2 cartes.\r\n<strong>Retirez Jackson Howard du jeu<\/strong> : Mélangez jusqu'à 3 cartes des Archives dans R&D.",
-        "flavor": "\"C'est mon devoir de m'assurer que nos créations sont de parfaits compagnons d'édumusement pour les consommateurs de demain.\""
+        "title": "잭슨 하워드",
+        "keywords": "경영진",
+        "text": "[Click]: 카드 2장을 뽑는다.\r\n<strong>잭슨 하워드를 게임에서 제거<\/strong>: 기록보관소로부터 카드를 최대 3장까지 연구개발부(R&D)로 섞어 넣는다.",
+        "flavor": "\"우리의 제품이 미래 고객들에게 최고의 친구이자 에듀테인먼트로 자리잡을 수 있도록 하는 것이 제 일입니다.\""
     },
     {
         "code": "04016",
-        "title": "Atteinte à la Vie Privée",
-        "keywords": "Double - Douteuse",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\r\n<strong>Traque<sup>2<\/sup><\/strong>&ndash; Si la traque est réussie, révélez la main du Runner et effacez-en autant de ressources et\/ou d'événements que la différence entre votre force et la force d'évasion du Runner. Si la traque est ratée, prenez 1 pion Mauvaise Presse."
+        "title": "사생활 침해",
+        "keywords": "이중 - 준비밀 작전",
+        "text": "이 운영을 플레이하기 위한 추가 비용으로 [Click]을 쓴다.\r\n<strong>추적<sup>2<\/sup><\/strong> - 성공하면, 러너의 그립을 공개하고 당신의 추적 힘에서 러너의 링크 힘을 뺀 수 만큼의 리소스와 이벤트를 폐기한다. 추적에 실패하면, 악평 1개를 갖는다."
     },
     {
         "code": "04017",
-        "title": "Fracturation Géothermique",
-        "keywords": "Expansion",
-        "text": "Lorsque vous finalisez la Fracturation Géothermique, placez 2 pions projet dessus.\r\n[Click], <strong>pion projet hébergé<\/strong> : Gagnez 7[Credits] et prenez 1 pion Mauvaise Presse.",
-        "flavor": "Envoyer de l'air dans les cheminées hydrothermales des abysses produisait d'énormes quantités d'énergie. Ce qui était un effet secondaire très rentable"
+        "title": "지열 파쇄",
+        "keywords": "확장",
+        "text": "당신이 지열 파쇄를 득점할 때, 이 위에 아젠다 카운터 2개를 놓는다.\r\n[Click], <strong>호스트된 아젠다 카운터<\/strong>: 7[Credits]을 얻고 악평 1을 갖는다.",
+        "flavor": "심해 지열 구간에 강제로 물을 주입하는 방법은 엄청난 양의 에너지를 생산해낸다. 수익성이 보장되는 부작용인 셈이다."
     },
     {
         "code": "04018",
-        "title": "Essaim",
-        "keywords": "Sentinelle - Destructeur - Illicite",
-        "text": "Lorsque vous activez l'Essaim, prenez 1 pion Mauvaise Presse.\r\nL'Essaim peut être avancé et gagne \"[Subroutine] Effacez 1 programme sauf si le Runner paye 3[Credits].\" pour chaque pion Avancement sur lui."
+        "title": "벌떼",
+        "keywords": "파수 - 파괴자 - 불법",
+        "text": "당신이 벌떼를 레즈할 때, 악평 1개를 갖는다.\r\n벌떼는 발전될 수 있으며, 각각의 발전 토큰마다 \"[Subroutine] 러너가 3[Credits]을 지불하지 않으면 프로그램 1개를 폐기한다.\" 를 얻는다."
     },
     {
         "code": "04019",
-        "title": "Période d'Essai Cyberdex",
-        "text": "Nettoyez tous les pions Virus.",
-        "flavor": "Votre version d'essai gratuite vient d'expirer. Voulez-vous passer à la version complète ?"
+        "title": "사이버덱스 시연",
+        "text": "바이러스 카운터를 퇴치한다.",
+        "flavor": "무료 시험판의 유효기간이 만료되었습니다. 풀 버전으로 업그레이드 하시겠습니까?"
     },
     {
         "code": "04020",
-        "title": "Sinistros",
-        "keywords": "Sentinelle - Destructeur - Illicite",
-        "text": "Lorsque vous activez Sinistros, prenez 1 pion Mauvaise Presse.\r\n[Subroutine] Effacez 1 programme.",
-        "flavor": "\"Le Sinistros des legendes est l'un des nombreux mythes du 'chien noir' que l'on trouve habituellement dans les communautés de langue anglaise ou gaélique. Ce qui est fascinant, c'est qu'il s'est propagé sur le réseau, où il continue à vivre sous forme de programme qui, comme le veut la légende, chasse les imprudents.\" - Le Professeur"
+        "title": "그림",
+        "keywords": "파수 - 파괴자 - 불법",
+        "text": "당신이 그림을 레즈할 때, 악평 1개를 갖는다.\r\n[Subroutine] 프로그램 1개를 폐기한다.",
+        "flavor": "\"그림 전설은 스코틀랜드 켈트어와 영어 문화권에서 이른바 '검은 개'로 알려진 신화들 중 하나일세. 흥미로운 점은 이 녀석이 마치 프로그램과도 같이 네트워크를 통해 전파되어 아직까지도 그 명맥을 이어왔다는 것일까, 소문에 따르면 부주의한 자들을 사냥한다고 알려져 있네.\" - 교수"
     }
 ]

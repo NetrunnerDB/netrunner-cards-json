@@ -1,82 +1,129 @@
 [
     {
         "code": "08081",
-        "title": null
+        "title": "Klischee",
+        "text": "Wenn dein Zug beginnt, lege 1 Wirkungszähler auf Klischee.\n[Click], <strong>entferne Klischee aus dem Spiel<\/strong>: Mische für jeden Wirkungszähler auf Klischee 1 Karte aus deiner Ablage in deinen Stapel.",
+        "flavor": "\"Ist dir schon mal aufgefallen, dass alles immer wieder kommt? Was heute cool ist, war es bereits früher schon mal. Darum behalte ich Kopien von allem!\" -Prinzessin Space Kitten"
     },
     {
         "code": "08082",
-        "title": null
+        "title": "Spoiler",
+        "keywords": "Virtuell",
+        "text": "Sobald der Kon die Punkte für eine Agenda erzielt, zerstört er die oberste Karte von F&E.",
+        "flavor": "Hasst du es nicht auch, alles schon zu kennen, bevor es überhaupt rausgekommen ist?"
     },
     {
         "code": "08083",
-        "title": null
+        "title": "Drogendealer",
+        "keywords": "Kontakt",
+        "text": "Sobald dein Zug beginnt, verlierst du 1[Credits].\nSobald der Zug des Kons beginnt, ziehe 1 Karte.",
+        "flavor": "\"Nur ein billiges Imitat für die Touristos. Echte Designerware wird nicht auf der Straße angeboten.\""
     },
     {
         "code": "08084",
-        "title": null
+        "title": "Rolodex",
+        "keywords": "Virtuell",
+        "text": "Wenn du Rolodex installierst, sieh dir die obersten 5 Karten deines Stapels an und lege sie in beliebiger Reihenfolge zurück.\nWenn Rolodex zerstört wird, zerstöre die obersten 3 Karten deines Stapels",
+        "flavor": "\"Ich hab dir gesagt, du sollst meine Nummer vergessen.\""
     },
     {
         "code": "08085",
-        "title": null
+        "title": "Fanseite",
+        "keywords": "Virtuell",
+        "text": "Sobald der Kon die Punkte für eine Agenda erzielt, füge Fanseite deinem Punktebereich als Agenda mit dem Wert von 0 Agendapunkten hinzu.",
+        "flavor": "Dein Leben gehört dir nicht mehr, sobald du im Netz berühmt bist."
     },
     {
         "code": "08086",
-        "title": null
+        "title": "Filmkritikerin",
+        "keywords": "Kontakt",
+        "text": "Filmkritikerin kann eine Agenda hosten. Sobald du auf eine Agenda zugreifst, kannst du diese Agenda auf Filmkritikerin hosten (auf die Agenda wird nicht länger zugegriffen und sie ist nicht installiert)\n[Click],[Click]: Füge eine auf Filmkritikerin gehostete Agenda deiner Punktezone hinzu.",
+        "flavor": "\"Selbst meine Wüstenmaus könnte ein besseres Drehbuch schreiben.\""
     },
     {
         "code": "08087",
-        "title": null
+        "title": "Paparazzi",
+        "text": "Du bist markiert.\nVerhindere allen Körper-Schaden.",
+        "flavor": "\"Ja, wir wissen schon, wo sie ist. Ruf einfach Sizzler auf!\""
     },
     {
         "code": "08088",
-        "title": null
+        "title": "Ronald Five",
+        "keywords": "Bioroid",
+        "text": "\nSobald der Runner eine Karte des Kons zerstört (Ronald Five eingeschlossen), verliert er [Click].",
+        "flavor": "\"Das ist unser am meisten raubkopiertes Produkt bisher. Gute Arbeit, Leute.\""
     },
     {
         "code": "08089",
-        "title": null
+        "title": "Vollstrecker 1.0",
+        "keywords": "Wächter - Bioroid - Zerstörer - AP",
+        "text": "Als zusätzliche Kosten, um Vollstrecker 1.0 zu laden, muss der Kon eine Agenda aufgeben.\nDer Runner kann [Click] ausgeben, um eine beliebige Subroutine auf Vollstrecker 1.0 auszuschalten.\n[Subroutine] Zerstöre 1 Programm.\n[Subroutine] Verursache 1 Hirn-Schaden.\n[Subroutine] Zerstöre 1 <strong>Konsole<\/strong>. \n[Subroutine] Zerstöre alle <strong>Virtuell<\/strong>-Ressourcen."
     },
     {
         "code": "08090",
-        "title": null
+        "title": "Das ist eine Falle!",
+        "keywords": "Falle",
+        "text": "Sobald Das ist eine Falle! enthüllt wird, verursache 2 Netz-Schaden\n[Subroutine] Der Runner zerstört 1 seiner installierten Karten. Zerstöre Das ist eine Falle!.",
+        "flavor": "Ich habe dich gewarnt."
     },
     {
         "code": "08091",
-        "title": null
+        "title": "Ein Angebot, das man nicht ablehnen kann",
+        "text": "Wähle ein zentrales System. Der Runner kann einen Run auf dieses System starten, während dem er sich nicht ausstöpseln kann. Wenn er dies nicht tut, füge Ein Angebot, das man nicht ablehnen kann als Agenda mit dem Wert 1 Agendapunkt in deiner Punktezone zu"
     },
     {
         "code": "08092",
-        "title": null
+        "title": "Haarpsichord Studios: Ungezügelte Unterhaltung",
+        "keywords": "Abteilung",
+        "text": "Der Runner kann nicht mehr als eine Agenda pro Zug stehlen.",
+        "flavor": "Wo deine Phantasie zu Hause ist."
     },
     {
         "code": "08093",
-        "title": null
+        "title": "Preisköder",
+        "keywords": "Simsinn",
+        "text": "Falls von F&E auf Preisköder zugegriffen wird, muss der Runner sie aufdecken.\nWenn der Runner auf Preisköder zugreift, kannst du bis zu 2 Entwicklungsmarker auf eine Karte legen, die entwickelt werden kann."
     },
     {
         "code": "08094",
-        "title": null
+        "title": "Explosionsorgie",
+        "keywords": "Simsinn",
+        "text": "Falls von F&E auf Explosionsorgie zugegriffen wird, muss der Runner ihn aufdecken.\nWenn der Runner auf Explosionsorgie zugreift, kannst du 5[Credits] erhalten.",
+        "flavor": "Es ist wie Lethal Action 3, nur mit mehr Explosionen."
     },
     {
         "code": "08095",
-        "title": null
+        "title": "Vorpremiere",
+        "text": "Wenn dein Zug beginnt, kannst du 1[Credits] zahlen. Falls du das tust, lege 1 Entwicklungsmarker auf eine Karte in einem System, die entwickelt werden kann."
     },
     {
         "code": "08096",
-        "title": null
+        "title": "Castingaufruf",
+        "keywords": "Bedingung",
+        "text": "Installiere eine Agenda offen vom HQ und installiere Castingaufruf auf diese Agenda als gehosteten Bedingungsmarker mit dem Text: \"Sobald der Runner auf diese Agenda zugreift, bekommt er 2 Markierungen verpasst.\""
     },
     {
         "code": "08097",
-        "title": null
+        "title": "Netz von Old Hollywood",
+        "keywords": "Region",
+        "text": "Agendas, auf die in diesem System zugegriffen wird, können nicht gestohlen werden, falls der Runner nicht bereits eine Kopie dieser Agenda in seiner Punktezone hat. Dies gilt auch in dem Run, in dem der Runner Netz von Old Hollywood zerstört.\nMaximal 1 <strong>Region<\/strong> pro System."
     },
     {
         "code": "08098",
-        "title": null
+        "title": "Sanierung von Hollywood",
+        "keywords": "Initiative - Öffentlich",
+        "text": "Installiere Sanierung von Hollywood offen.\nSobald du Sanierung von Hollywood entwickelst, kannst du 1 Entwicklungsmarker auf eine andere Karte legen, die entwickelt werden kann (oder 2 Entwicklungsmarker, falls sich 6 oder mehr Entwicklungsmarker auf Sanierung von Hollywood befinden)."
     },
     {
         "code": "08099",
-        "title": null
+        "title": "Hintertürgeschäfte",
+        "keywords": "Transaktion",
+        "text": "Zerstöre eine in einem System installierte Karte und du erhältst 3[Credits] für jeden Entwicklungsmarker auf dieser Karte.",
+        "flavor": "Manchmal müssen Kons Projekte einstellen. Aber das heißt nicht, dass sie ans ihnen nichts mehr verdienen können."
     },
     {
         "code": "08100",
-        "title": null
+        "title": "Projekt der Eitelkeiten",
+        "flavor": "DRAUSSEN. KANSAS - Tag\nDOROTHY (Miranda)  blickt zum Horizont. Eine plötzliche Windböe spielt mit ihrem Haar. Der Wind fegt über die Prärie, darüber hängen drohend STURMWOLKEN.\nDOROTHY: Wenn ich doch nur nicht mehr in Kansas wäre. \nSie fängt an, eine eindringliche Melodie zu summen."
     }
 ]

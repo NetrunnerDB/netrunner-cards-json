@@ -1,97 +1,135 @@
 [
     {
         "code": "02061",
-        "title": "Perturbateur"
+        "title": "Zakłócacz",
+        "text": "[Trash]: Zablokuj namierzanie. To namierzanie rozpoczyna się ponownie z bazową siłą namierzania równą 0.",
+        "flavor": "\"Uratował mi skórę nie raz, ale zostawia paskudne uczucie déjà vu.\" - Magik"
     },
     {
         "code": "02062",
-        "title": "Force de la Nature",
-        "keywords": "Brise-glace - Décrypteur"
+        "title": "Siła natury",
+        "keywords": "Lodołamacz - Dekoder",
+        "text": "2[Credits]: Złam do 2 podprogramów <strong>bramy kodowej<\/strong>.\r\n1[Credits]: +1 siły.",
+        "flavor": "Zawsze uderza dwa razy."
     },
     {
         "code": "02063",
-        "title": "Nettoyeur",
-        "keywords": "Relation - Marginal"
+        "title": "Drapacz",
+        "keywords": "Kontakt - Podejrzany",
+        "text": "2[Recurring Credits]\r\nUżyj tych kredytów do kasowania kart.",
+        "flavor": "\"Bezmyślne narzędzia zniszczenia i nic ponadto. Za to całkiem mili faceci. Mam drapaczy wśród najlepszych kumpli.\" - Ji \"Jazgot\" Reilly"
     },
     {
         "code": "02064",
         "title": "Doppelgänger",
-        "keywords": "Console"
+        "keywords": "Konsola",
+        "text": "+1[Memory Unit]\r\nRaz na turę, gdy skończysz udany skok, możesz natychmiast przeprowadzić następny skok.\r\nLimit 1 <strong>konsoli<\/strong> na gracza.",
+        "flavor": "Podwójny ubaw."
     },
     {
         "code": "02065",
-        "title": "Crescentus"
+        "title": "Crescentus",
+        "text": "[Trash]: Odrezuj jeden lód. Użyj tej zdolności tylko, jeśli złamałeś wszystkie podprogramy tego lodu podczas jednego spotkania.",
+        "flavor": "Najsilniejszy klej w cyberprzestrzeni."
     },
     {
         "code": "02066",
         "title": "Deus X",
-        "keywords": "Brise-glace"
+        "keywords": "Lodołamacz",
+        "text": "[Trash]: Złam dowolną liczbę podprogramów <strong>AP<\/strong>.\r\n[Trash]: Zablokuj dowolną liczbę obrażeń sprzętu.",
+        "flavor": "To było niespodziewane."
     },
     {
         "code": "02067",
-        "title": "Nuit Blanche"
+        "title": "Zarwana noc",
+        "text": "[Click], [Trash]: Otrzymujesz [Click] [Click].",
+        "flavor": "\"Nie obchodzą mnie badania. Z własnego doświadczenia wiem, że mogę wypijać trzy puszki Diesela na godzinę przez dwanaście godzin, zanim dostanę zawału.\" -zasłyszane za pięć dwunasta"
     },
     {
         "code": "02068",
-        "title": "Taupe",
-        "keywords": "Relation"
+        "title": "Kontakt wewnątrz",
+        "keywords": "Kontakt",
+        "text": "2[Recurring Credits]\r\nUżyj tych kredytów do instalacji sprzętu.",
+        "flavor": "Niewielu pracowników korporacji ma tak szeroki dostęp, jak dozorcy. Większość korpów głupio uważa, że są oni zbyt bezmyślni, by z niego skorzystać."
     },
     {
         "code": "02069",
-        "title": "Contact dans la Pègre",
-        "keywords": "Relation"
+        "title": "Kontakt w półświatku",
+        "keywords": "Kontakt",
+        "text": "Gdy zaczynasz turę, pobierz 1[Credits] jeśli masz przynajmniej 2[Link].",
+        "flavor": "\"Mój szef szczodrze nagradza dobrze wykonaną pracę. Radzę kontynuować, jeśli nie chcesz kłopotów.\""
     },
     {
         "code": "02070",
-        "title": "Accès au Niveau Vert",
-        "keywords": "Transaction"
+        "title": "Zielony poziom dostępu",
+        "keywords": "Transakcja",
+        "text": "Pobierz 3[Credits] i dobierz 1 kartę.",
+        "flavor": "Zielony-dwa to najwyższy poziom bezpieczeństwa, do którego może uzyskać dostęp korp. Legalnie, w każdym razie."
     },
     {
         "code": "02071",
-        "title": "Sablier",
-        "keywords": "Verrou"
+        "title": "Klepsydra",
+        "keywords": "Brama kodowa",
+        "text": "[Subroutine] Runner traci [Click], jeśli może.\r\n[Subroutine] Runner traci [Click], jeśli może.\r\n[Subroutine] Runner traci [Click], jeśli może.",
+        "flavor": "Czas po prostu ucieka."
     },
     {
         "code": "02072",
-        "title": "Serveur Dédié",
-        "keywords": "Infrastructure"
+        "title": "Serwer dedykowany",
+        "keywords": "Placówka",
+        "text": "2[Recurring Credits]\r\nUżyj tych kredytów do rezowania lodu.",
+        "flavor": "tak cicho, nawet\r\nkwiaty wiśni nie drgną,\r\ngdy brzmi dzwon świątyni\r\n - Fuhaku"
     },
     {
         "code": "02073",
-        "title": "Ouaouaron",
-        "keywords": "Verrou - Déflecteur - Psi"
+        "title": "Ropucha",
+        "keywords": "Brama kodowa - Deflektor - Psi",
+        "text": "[Subroutine] Ty i runner w tajemnicy wydajecie 0[Credits], 1[Credits] lub 2[Credits]. Ujawnijcie wydane kredyty. Jeśli ty i runner wydaliście różną liczbę kredytów, przesuń Ropuchę tak, aby stała się najdalszym lodem chroniącym inny serwer (runner kontynuuje skok od tej nowej pozycji, i przeprowadza teraz skok na ten nowy serwer)."
     },
     {
         "code": "02074",
-        "title": "Ouroboros",
-        "keywords": "Sentinelle - Traqueur"
+        "title": "Uroboros",
+        "keywords": "Strażnik - Tropiciel",
+        "text": "[Subroutine] <strong>Trace<sup>4<\/sup><\/strong>&ndash; Jeśli udane, runner nie może w tej turze wykonywać skoków.\r\n[Subroutine] <strong>Trace<sup>4<\/sup><\/strong>&ndash; Jeśli udane, zakończ skok.",
+        "flavor": "Gdzie jedno się kończy, drugie się zaczyna."
     },
     {
         "code": "02075",
-        "title": "Police du Réseau"
+        "title": "Policja sieciowa",
+        "text": "X[Recurring Credits]\r\nUżyj tych kredytów podczas namierzania. X to liczba połączeń runnera.",
+        "flavor": "To jest sieć. My tu pracujemy. Jesteśmy gliniarzami."
     },
     {
         "code": "02076",
-        "title": "Consortium Weyland: Parce que nous le construisons bien",
-        "keywords": "Mégacorpo"
+        "title": "Weyland Consortium: Bo to my ją zbudowaliśmy",
+        "keywords": "Megakorp",
+        "text": "1[Recurring Credits]\r\nUżyj tego kredytu do awansowania lodu.",
+        "flavor": "Tworzymy cyberprzestrzeń."
     },
     {
         "code": "02077",
-        "title": "Contrats Publics"
+        "title": "Kontrakty rządowe",
+        "text": "[Click], [Click]: Pobierz 4[Credits].",
+        "flavor": "Kontrakt rządowy naprawdę ciężko stracić."
     },
     {
         "code": "02078",
         "title": "Tyran",
-        "keywords": "Barrière"
+        "keywords": "Bariera",
+        "text": "Zrezowany Tyran może być awansowany i otrzymuje \"[Subroutine] Zakończ skok.\" za każdy leżący na nim żeton zaawansowania.",
+        "flavor": "Nie przejdziesz."
     },
     {
         "code": "02079",
-        "title": "IA de Supervision",
-        "keywords": "Condition"
+        "title": "Nadzorcza AI",
+        "keywords": "Warunek",
+        "text": "Zrezuj lód, ignorując wszelkie koszty i zainstaluj na nim Nadzorczą AI jako hostowany znacznik warunku z tekstem \"Skasuj hostujący lód, jeśli wszystkie jego podprogramy zostaną złamane w trakcie jednego spotkania.\""
     },
     {
         "code": "02080",
-        "title": "Fausse Piste",
-        "keywords": "Securité"
+        "title": "Fałszywy trop",
+        "keywords": "Ochrona",
+        "text": "<strong>Poświęć Fałszywy trop<\/strong>: Runner traci [Click][Click], jeśli może.",
+        "flavor": "Budynek nie wyglądał na główną siedzibę wielomiliardowej firmy. Pewnie dlatego, że nią nie był."
     }
 ]

@@ -1,95 +1,128 @@
 [
     {
         "code": "02021",
-        "title": "Vampirisme",
-        "keywords": "Piratage - Sabotage"
+        "title": "吸血",
+        "keywords": "潜袭 - 破坏",
+        "text": "对总部进行一次潜袭。如果成功，你可以支付X[Credits]，以迫使公司失去最多X[Credits]然后拿取1枚锁定标记，代替读取卡牌。",
+        "flavor": "扔掉你的信用点有一种幸灾乐祸的感觉。"
     },
     {
         "code": "02022",
-        "title": "Déblocage de Compte"
+        "title": "盗用账户",
+        "text": "当盗用账户被安装时，从银行中放置16[Credits]到本卡牌上。当盗用账户上没有信用点时，销毁本卡牌。\r\n[Click]：从盗用账户上拿取4[Credits]。",
+        "flavor": "不属于你的钱更容易花掉。"
     },
     {
         "code": "02023",
-        "title": "Liaison Satellite"
+        "title": "卫星上行传输",
+        "text": "揭示最多两张卡牌。",
+        "flavor": "倒计时13秒。莉拉必须快点。她接入门萨线并激活屏幕。7秒。内部SLD还在启动。4秒。接口闪烁着橙光开启。2秒。她手指轻点着登入。"
     },
     {
         "code": "02024",
-        "title": "Implants de Retour e3",
-        "keywords": "Mod"
+        "title": "e3反馈式植入体",
+        "keywords": "改造",
+        "text": "每当你破解防火墙上的一个子进程时，你可以支付1[Credits]，以破解该防火墙上的一个子进程。",
+        "flavor": "赛博方案公司的e3系列植入体，可以准确地代替肌肉记忆和自律反应，解放大脑以完全专注于思考任务。"
     },
     {
         "code": "02025",
-        "title": "Employé Compromis",
-        "keywords": "Relation - Relais"
+        "title": "妥协的职员",
+        "keywords": "人脉 - 中转器",
+        "text": "1[Recurring Credits]\r\n本信用点用于追踪。\r\n每当公司激活一层防火墙时，获得1[Credits]。"
     },
     {
         "code": "02026",
-        "title": "Notoriété"
+        "title": "威名显赫",
+        "text": "如果你本回合已对研发中心、总部和档案库均进行过成功的潜袭，才能打出。\r\n将威名显赫加入你的分数区，作为一个价值1点议案分数的议案。",
+        "flavor": "当你如此出色，就不难建立一个粉丝群。"
     },
     {
         "code": "02027",
-        "title": "Boule de Neige",
-        "keywords": "Brise-glace - Fragmenteur"
+        "title": "雪球",
+        "keywords": "破解器 - 分解模块",
+        "text": "1[Credits]：破解<strong>屏障<\/strong>子进程。\r\n1[Credits]：强度+1。\r\n每当你使用雪球来破解一个子进程时，其在本次潜袭剩余时间内的强度+1。",
+        "flavor": "“如果你的雪球够大，你可以把它做成雪人！”——混沌希尔瑞"
     },
     {
         "code": "02028",
-        "title": "Puce Mémoire Dyson",
-        "keywords": "Puce - Relais"
+        "title": "戴森内存芯片",
+        "keywords": "芯片 - 中转器",
+        "text": "+1[Memory Unit]，+1[Link]",
+        "flavor": "陈旧但可靠。"
     },
     {
         "code": "02029",
-        "title": "Protocole de Cryptage"
+        "title": "加密协议",
+        "text": "所有已安装卡牌的销毁费用+1。",
+        "flavor": "通向未来的钥匙藏于过去。"
     },
     {
         "code": "02030",
-        "title": "Sherlock 1.0",
-        "keywords": "Sentinelle - Bioroïde - Traqueur"
+        "title": "夏洛克1.0",
+        "keywords": "警报 - 生化人 - 追踪者",
+        "text": "潜袭者能花费[Click]，以破解夏洛克1.0上的任一子进程。\r\n[Subroutine] <strong>追踪<sup>4<\/sup><\/strong> – 如果成功，将一个已安装的程序加入潜袭者的存储栈顶端。\r\n[Subroutine] <strong>追踪<sup>4<\/sup><\/strong> – 如果成功，将一个已安装的程序加入潜袭者的存储栈顶端。"
     },
     {
         "code": "02031",
-        "title": "Jinteki: La Perfection Reproduite",
-        "keywords": "Mégacorpo"
+        "title": "人间会社：复制完美",
+        "keywords": "巨型企业",
+        "text": "潜袭者不能对远程服务器潜袭。每当潜袭者对一台中央服务器潜袭时，忽略本能力直到本回合结束。"
     },
     {
         "code": "02032",
-        "title": "IA Fœtale",
-        "keywords": "Embuscade"
+        "title": "胎型人工智能",
+        "keywords": "伏击",
+        "text": "如果胎型人工智能从研发中心被读取，潜袭者必须展示它。\r\n当潜袭者读取胎型人工智能时，造成2点网域伤害。如果潜袭者从档案库读取胎型人工智能，则忽略本能力。\r\n作为窃取胎型人工智能的额外费用，潜袭者必须支付2[Credits]。"
     },
     {
         "code": "02033",
-        "title": "Effet d'Optique"
+        "title": "光影诡计",
+        "text": "从一张卡牌上转移最多2枚推进标记到另一张已安装并且能被推进的卡牌上。",
+        "flavor": "可选用烟雾和镜子。"
     },
     {
         "code": "02034",
-        "title": "Sensei",
-        "keywords": "Verrou"
+        "title": "师范",
+        "keywords": "门禁",
+        "text": "[Subroutine] 本次潜袭的剩余时间内，除师范外遭遇的每层防火墙，在其它所有子进程后获得“[Subroutine] 终止本次潜袭。”",
+        "flavor": "和平与暴力。必然殊途同归。"
     },
     {
         "code": "02035",
-        "title": "Big Brother",
-        "keywords": "Douteuse"
+        "title": "老大哥",
+        "keywords": "灰色行动",
+        "text": "如果潜袭者被锁定，才能打出。\r\n给予潜袭者2枚锁定标记。",
+        "flavor": "自1984年起就留意着你的兴趣。"
     },
     {
         "code": "02036",
-        "title": "Grille de ChiLo",
-        "keywords": "Région"
+        "title": "芝路易斯城际网阵",
+        "keywords": "区域",
+        "text": "每当在对本服务器的潜袭中有一次成功的追踪时，给予潜袭者1枚锁定标记。\r\n每台服务器限制1个<strong>区域<\/strong>。",
+        "flavor": "克隆体们私下说芝路易斯是一片自由的乐土。"
     },
     {
         "code": "02037",
-        "title": "Surcharge du Réseau Électrique"
+        "title": "电网过载",
+        "text": "如果潜袭者在他\/她的上回合进行过成功的潜袭，才能打出。\r\n<strong>追踪<sup>2<\/sup><\/strong> – 如果成功，销毁一个硬件，该硬件的安装费用等于或小于你追踪强度超过潜袭者中转强度的差值。"
     },
     {
         "code": "02038",
-        "title": "Zone Industrielle d'Amazonie",
-        "keywords": "Région"
+        "title": "亚马逊工业区",
+        "keywords": "区域",
+        "text": "每当你安装一层保护本服务器的防火墙时，你可以立即激活它，其激活费用减3。\r\n每台服务器限制1个<strong>区域<\/strong>。"
     },
     {
         "code": "02039",
-        "title": "Séminaire pour Cadres"
+        "title": "高级行政会所",
+        "text": "当你用高级行政会所计分时，放置1枚议案指示物到本卡牌上，并将总部洗回研发中心。\r\n[Click]，<strong>所附载的议案指示物<\/strong>：补五张卡牌。"
     },
     {
         "code": "02040",
-        "title": "Indépendant",
-        "keywords": "Douteuse"
+        "title": "自由职业者",
+        "keywords": "灰色行动",
+        "text": "如果潜袭者被锁定，才能打出。\r\n销毁最多两个资源。",
+        "flavor": "无需合同。只要一次握手和一把C-6高爆炸药。"
     }
 ]

@@ -1,82 +1,135 @@
 [
     {
         "code": "08001",
-        "title": null
+        "title": "Blutgerinnsel",
+        "keywords": "Virus",
+        "text": "Der Kon kann die Punkte für eine Agenda nicht in dem Zug erzielen, in dem er sie installiert hat.\nZerstöre Blutgerinnsel, falls der Kon Viruszähler löscht."
     },
     {
         "code": "08002",
-        "title": null
+        "title": "Paige Piper",
+        "keywords": "Connection",
+        "text": "Sobald du zum ersten Mal in einem Zug eine Karte installierst (Paige Piper eingeschlossen), kannst du deinen Stapel nach einer beliebigen Anzahl Kopien dieser Karte durchsuchen und sie deiner Ablage hinzufügen. Mische deinen Stapel.",
+        "flavor": "\"Im Valley liegen gute Ideen auf der Straße. Wenn du dich in meinem Inkubator halten willst, musst du die Disziplin haben, um sie auch durchzuführen\""
     },
     {
         "code": "08003",
-        "title": null
+        "title": "Angepasster Chronotyp",
+        "keywords": "Genetik",
+        "text": "Sobald du zum ersten Mal in einem Zug [Click] verlierst, erhältst du [Click].",
+        "flavor": "Macht aus einem Nachtschwärmer einen Frühaufsteher."
     },
     {
         "code": "08004",
-        "title": null
+        "title": "Spitze",
+        "keywords": "Ice-Brecher - Fracter - Cloud",
+        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von Spitze 0, selbst wenn es nicht installiert ist.\nSpitze hat +1 Stärke für jeden installierten <strong>Ice-Brecher<\/strong>.\n[Trash]: Schalte bis zu 3 Subroutinen einer <strong>Barriere<\/strong> aus."
     },
     {
         "code": "08005",
-        "title": null
+        "title": "Verbesserte Sicht",
+        "keywords": "Genetik",
+        "text": "Beim ersten erfolgreichen Run in einem Zug muss der Kon 1 zufällige Karte vom HQ aufdecken.",
+        "flavor": "Passt auf, Kumpels, diese kleine Lady ist auf der Pirsch!"
     },
     {
         "code": "08006",
-        "title": null
+        "title": "Gen-Veredelungs-Salon",
+        "keywords": "Ort",
+        "text": "<strong>Genetik<\/strong>-Karten werden auch ausgelöst, wenn ihre Auslösebedingung zum zweiten Mal in einem Zug erfüllt ist.",
+        "flavor": "\"Diese G-Mods sind noch nicht auf dem Markt, aber ich kann sie für dich organisieren.\""
     },
     {
         "code": "08007",
-        "title": null
+        "title": "Synthetisches Blut",
+        "keywords": "Genetik",
+        "text": "Wenn du das erste Mal in einem Zug Schaden nimmst, ziehe 1 Karte.",
+        "flavor": "Dein Herz verdient das Beste!"
     },
     {
         "code": "08008",
-        "title": null
+        "title": "Verkehrsstau",
+        "keywords": "Aktuell",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell<\/strong>-Karte gespielt wird oder die Punkte für eine Agenda erziehlt werden.\nDie Anzahl benötigter Entwicklungen jeder Agenda wird pro Kopie der jeweiligen Agenda in der Punktezone des Kons um 1 erhöht."
     },
     {
         "code": "08009",
-        "title": null
+        "title": "Symmetrisches Gesicht",
+        "keywords": "Genetik",
+        "text": "Wenn du zum ersten Mal in einem Zug [Click] zahlst, um 1 Karte zu ziehen (nicht durch die Fähigkeit einer Karte), erhältst du 1[Credits].",
+        "flavor": "Für den Erfolg geboren!"
     },
     {
         "code": "08010",
-        "title": null
+        "title": "Lagerhaus für Hirnprotokolle",
+        "keywords": "Anlage",
+        "text": "Die Ladekosten von <strong>Bioroid<\/strong>-Ice werden um jeden nicht ausgegebenen Klick des Runners um 1 gesenkt.",
+        "flavor": "In den Weiten des Erinnerungsuniversums schlummert das Bewusstsein …"
     },
     {
         "code": "08011",
-        "title": null
+        "title": "NEXT:Gold",
+        "keywords": "Wächter - NEXT - AP - Zerstörer",
+        "text": "X ist die Anzahl aller geladenen<strong>NEXT<\/strong> -Ice.\n[Subroutine] Verursache X Netz-Schaden.\n[Subroutine] Zerstöre X Programme.",
+        "flavor": "\"Bei Gott in Heinlein. Und was kommt als nächstes, NEXT:Platinum?\" -John Masanori"
     },
     {
         "code": "08012",
-        "title": null
+        "title": "Jinteki Biotech: So wie das Leben",
+        "keywords": "Division",
+        "text": "Bevor du deinen ersten Zug beginnst, kannst du diese Karte mit einer beliebigen Kopie von Jinteki Biotech austauschen.\n[Click],[Click],[Click]: Drehe diese Identität um.\nDie Brauerei: Wenn du diese Identität umdrehst, verursache 2 Netz-Schaden.\nDer Tank: Wenn du diese Identität umdrehst, mische das Archiv in F&E.\nDas Treibhaus: Wenn du diese Identität umdrehst, lege 4 Entwicklungsmarker auf eine Karte, die entwickelt werden kann.",
+        "flavor": "Die Brauerei: Die Bottiche in Gebäude C können das Leben selbst erschaffen - und auch zerstören.\nDer Tank: Die besten und intelligentesten Geningeneure verbringen ihre Tage im Tank und träumen von einer besseren Welt.\nDas Treibhaus: Das Treibhaus wurde gebaut, um die Schönheit der Natur zu verbessern."
     },
     {
         "code": "08013",
-        "title": null
+        "title": "Genetische Resequenzierung",
+        "keywords": "Forschung",
+        "text": "Wenn du die Punkte für Genetische Resequenzierung erzielst, kannst du 1 Agendazähler auf eine Agenda in deinem Punktebereich legen.",
+        "flavor": "\"Das Beste an unserer Arbeit ist, dass nichts vergeblich ist. Ein Gen, das einmal von Nutzen ist, wird es sicher wieder sein.\" - Wong Ya Ching"
     },
     {
         "code": "08014",
-        "title": null
+        "title": "Cortex-Blockade",
+        "keywords": "Wächter - AP",
+        "text": "[Subroutine] Verursache 1 Netz-Schaden für jede nicht verwendete SE des Runners.",
+        "flavor": "Je mehr Rechenkraft ein Spitz-Prozess verwenden kann, um so härter kann er zuschlagen. Die wirklich cleveren Versionen nutzen die Speicher des Runners, um lokal zu iterieren."
     },
     {
         "code": "08015",
-        "title": null
+        "title": "Valley Netz",
+        "keywords": "Region",
+        "text": "Sobald der Runner alle Subroutinen auf einem Ice ausschaltet, das dieses System schützt, wird sein Handkartenlimit bis zum Beginn deines nächsten Zuges um 1 gesenkt.\nMaximal 1 <strong>Region<\/strong> pro System."
     },
     {
         "code": "08016",
-        "title": null
+        "title": "Bandbreite",
+        "keywords": "Code-Zugang",
+        "text": "[Subroutine] Verpasse dem Runner 1 Markierung. Falls dieser Run erfolgreich ist, entfernt der Runner 1 Markierung.",
+        "flavor": "\"Es spürt dich auf und zeichnet deine Aktivitäten auf. Falls du reinkommst, kannst du die Aufzeichnungen löschen. Aber du musst eben erst reinkommen.\" -Gabriel Santiago"
     },
     {
         "code": "08017",
-        "title": null
+        "title": "Prognose-Algorithmus",
+        "keywords": "Aktuell",
+        "text": "Diese Karte wird nicht zerstört bis eine andere <strong>Aktuell<\/strong>-Karte gespielt wird oder eine Agenda gestohlen wird.\nAls zusätzliche Kosten für das Stehlen einer Agenda muss der Runner 2[Credits] bezahlen."
     },
     {
         "code": "08018",
-        "title": null
+        "title": "Kapitalinvestoren",
+        "text": "[Click]: Du erhältst 2[Credits].",
+        "flavor": "Gib einem Mann Geld, und er ist für einen Tag reich. Bring einem man bei, wie man investiert, und er ist für den Rest seines Lebens reich."
     },
     {
         "code": "08019",
-        "title": null
+        "title": "Unterhändler",
+        "keywords": "Wächter - Zerstörer",
+        "text": "Der Runner kann 2[Credits] zahlen, um eine beliebige Subroutine auf Unterhändler auszuschalten.\n[Subroutine] Der Kon erhält 2[Credits].\n[Subroutine] Zerstöre 1 Programm.",
+        "flavor": "\"Verhandeln ist eine Kunstform, also verhandle nie, wenn Einschüchterung auch funktioniert.\" -Thiago Reyes, VP Strategisch Operationen"
     },
     {
         "code": "08020",
-        "title": null
+        "title": "Tech-Startup",
+        "text": "Wenn dein Zug beginnt, kannst du Tech-Startup zerstören. Falls du dies tust, durchsuche F&E nach einem Aktivposten, decke ihn auf und installiere ihn. Mische F&E.",
+        "flavor": "\"Mach dir keine Sorgen. Wenn das hier ein Fehlschlag wird, können wir morgen ein neues Startup hochziehen.\""
     }
 ]

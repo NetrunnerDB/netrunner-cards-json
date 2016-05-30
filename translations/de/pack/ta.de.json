@@ -1,95 +1,128 @@
 [
     {
         "code": "02021",
-        "title": "Vampirisme",
-        "keywords": "Piratage - Sabotage"
+        "title": "Vamp",
+        "keywords": "Run - Sabotage",
+        "text": "Führe einen Run auf HQ durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen X[Credits] zahlen, um den Kon zu zwingen X[Credits] zu verlieren. Danach bekommst du 1 Markierung verpasst.",
+        "flavor": "Ich verspüre schon eine gewisse Schadenfreude dabei, deine Credits zu verbrennen."
     },
     {
         "code": "02022",
-        "title": "Déblocage de Compte"
+        "title": "Befreites Konto",
+        "text": "Lege 16[Credits] aus der Credit-Bank auf Befreites Konto, wenn es installiert wird. Wenn keine Credits mehr auf Befreites Konto sind, zerstöre es.\n[Click]: Nimm 4[Credits] von Befreites Konto.",
+        "flavor": "Ausgeben ist einfacher, wenn es sich nicht um dein eigenes Geld handelt."
     },
     {
         "code": "02023",
-        "title": "Liaison Satellite"
+        "title": "Satelliten-Uplink",
+        "text": "Enthülle bis zu 2 Karten.",
+        "flavor": "T-minus 13 Sekunden. Leela musste schnell arbeiten. Sie stöpselte das Mesa-Kabel ein und aktivierte den Bildschirm. 7 Sekunden. Die interne SLD bootete immer noch. 4 Sekunden. Das Interface erwachte zum Leben. 2 Sekunden. Einmal Antippen und sie war drin."
     },
     {
         "code": "02024",
-        "title": "Implants de Retour e3",
-        "keywords": "Mod"
+        "title": "Feedback-Implantate Typ E3",
+        "keywords": "Mod",
+        "text": "Immer, wenn du eine Subroutine auf einem Ice ausschaltest, darfst du 1[Credits] zahlen, um 1  Subroutine auf dem Ice auszuschalten.",
+        "flavor": "Die Implantat-Produktlinie Typ e3 von Cyber-Solutions verbessert das Muskelgedächtnis und die autonomen Reflexe immens, so dass das Hirn seine ganze Kapazität für zerebrale Prozesse frei hat."
     },
     {
         "code": "02025",
-        "title": "Employé Compromis",
-        "keywords": "Relation - Relais"
+        "title": "Kompromittierter Mitarbeiter",
+        "keywords": "Kontakt - Verbindung",
+        "text": "1[Recurring Credits]\nVerwende diesen Credit während des Aufspürens.\nErhalte immer 1[Credits], wenn der Kon ein Ice lädt."
     },
     {
         "code": "02026",
-        "title": "Notoriété"
+        "title": "Berüchtigt",
+        "text": "Kann nur gespielt werden, falls du in diesem Zug je einen erfolgreichen Run auf F&E, HQ und Archiv durchgeführt hast.\nLege Berüchtigt als Agenda mit dem Wert 1 Agendapunkt in deiner Punktezone ab.",
+        "flavor": "Wenn du so gut bist, ist es schwer, keine Fangemeinde zu haben."
     },
     {
         "code": "02027",
-        "title": "Boule de Neige",
-        "keywords": "Brise-glace - Fragmenteur"
+        "title": "Schneeball",
+        "keywords": "Ice-Brecher - Fracter",
+        "text": "1[Credits]: Schalte eine Subroutine einer <strong>Barriere<\/strong> aus.\n1[Credits]: +1 Stärke.\nImmer, wenn du Schneeball verwendest, um eine Subroutine auszuschalten, hat es für den Rest des Runs +1 Stärke.",
+        "flavor": "\"Wenn der Schneeball nur groß genug wird, kannst du einen Schneemann daraus machen!\" - Chaostheorie"
     },
     {
         "code": "02028",
-        "title": "Puce Mémoire Dyson",
-        "keywords": "Puce - Relais"
+        "title": "Dyson-Speicherchip",
+        "keywords": "Chip - Verbindung",
+        "text": "+1[Memory Unit], +1[Link]",
+        "flavor": "Altertümlich, aber verlässlich."
     },
     {
         "code": "02029",
-        "title": "Protocole de Cryptage"
+        "title": "Verschlüsselungsprotokoll",
+        "text": "Die Zerstörungskosten für alle installierten Karten werden um 1 erhöht.",
+        "flavor": "Der Schlüssel zur Zukunft liegt in der Vergangenheit."
     },
     {
         "code": "02030",
         "title": "Sherlock 1.0",
-        "keywords": "Sentinelle - Bioroïde - Traqueur"
+        "keywords": "Wächter - Bioroid - Spürhund",
+        "text": "Der Runner darf [Click] ausgeben, um eine beliebige Subroutine auf Sherlock 1.0 auszuschalten.\n[Subroutine] <strong>Aufspüren<sup>4<\/sup><\/strong> - Bei Erfolg lege 1 installiertes Programm oben auf den Stapel des Runners.\n[Subroutine] <strong>Aufspüren<sup>4<\/sup><\/strong> - Bei Erfolg lege 1 installiertes Programm oben auf den Stapel des Runners"
     },
     {
         "code": "02031",
-        "title": "Jinteki: La Perfection Reproduite",
-        "keywords": "Mégacorpo"
+        "title": "Jinteki: Wir replizieren Perfektion",
+        "keywords": "Megakon",
+        "text": "Der Runner kann keine Runs auf ausgelagerte Systeme durchführen. Ignoriere diese Fähigkeit bis zum Ende des Zugs immer, wenn der Runner einen Run auf ein zentrales System durchführt."
     },
     {
         "code": "02032",
-        "title": "IA Fœtale",
-        "keywords": "Embuscade"
+        "title": "Fötale KI",
+        "keywords": "Hinterhalt",
+        "text": "Falls von F&E auf Fötale KI zugegriffen wird, muss der Runner sie aufdecken.\nWenn der Runner auf Fötale KI zugreift, füge 2 Netz-Schaden zu. Ignoriere diese Fähigkeit falls der Runner im Archiv auf Fötale KI zugreift.\nDer Runner muss 2[Credits] als zusätzliche kosten zahlen, um Fötale KI zu stehlen."
     },
     {
         "code": "02033",
-        "title": "Effet d'Optique"
+        "title": "Optischer Trick",
+        "text": "Verschiebe bis zu 2 Entwicklungsmarker von einer Karte auf eine andere installierte Karte, die entwickelt werden kann.",
+        "flavor": "Optional auch mit Blendwerk."
     },
     {
         "code": "02034",
         "title": "Sensei",
-        "keywords": "Verrou"
+        "keywords": "Code-Zugang",
+        "text": "[Subroutine]Für den Rest des Runs erhält jedes Ice außer Sensei, auf das der Runner trifft: \"[Subroutine] Beende den Run\" hinter all seinen anderen Subroutinen.",
+        "flavor": "Frieden und Gewalt. Beide müssen zum selben Ort hinführen."
     },
     {
         "code": "02035",
         "title": "Big Brother",
-        "keywords": "Douteuse"
+        "keywords": "Graue Ops",
+        "text": "Kann nur gespielt werden, falls der Runner markiert ist.\nVerpasse dem Runner 2 Markierungen.",
+        "flavor": "Verfolgt deine Interessen seit 1984."
     },
     {
         "code": "02036",
-        "title": "Grille de ChiLo",
-        "keywords": "Région"
+        "title": "Stadtnetz von ChiLo",
+        "keywords": "Region",
+        "text": "Immer, wenn während eines Runs auf dieses System eine Aufspür-Aktion erfolgreich ist, verpasse dem Runner 1 Markierung.\nMaximal 1 <strong>Region<\/strong> pro System.",
+        "flavor": "Die Klone sprechen im Flüsterton von ChiLo als dem gelobten Land der Freiheit."
     },
     {
         "code": "02037",
-        "title": "Surcharge du Réseau Électrique"
+        "title": "Gezielter Blackout",
+        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\n<strong>Aufspüren<sup>2<\/sup><\/strong> - Bei Erfolg zerstöre 1 Hardware mit Installationskosten, die höchstens der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entsprechen."
     },
     {
         "code": "02038",
-        "title": "Zone Industrielle d'Amazonie",
-        "keywords": "Région"
+        "title": "Amazonas-Industriegebiet",
+        "keywords": "Region",
+        "text": "Immer, wenn du ein Ice installierst, das dieses System schützt, darfst du es sofort laden, seine Ladekosten sind dabei um 3 reduziert.\nMaximal 1 <strong>Region<\/strong> pro System."
     },
     {
         "code": "02039",
-        "title": "Séminaire pour Cadres"
+        "title": "Vorstands-Klausurtagung",
+        "text": "Wenn du die Punkte für Vorstands-Klausurtagung erzielst, lege 1 Agendazähler darauf und mische HQ in F&E.\n[Click] und <strong>gehosteter Agendazähler:<\/strong> Ziehe 5 Karten."
     },
     {
         "code": "02040",
-        "title": "Indépendant",
-        "keywords": "Douteuse"
+        "title": "Freelancer",
+        "keywords": "Graue Ops",
+        "text": "Kann nur gespielt werden, falls der Runner markiert ist.\nZerstöre bis zu 2 Ressourcen.",
+        "flavor": "Kein Vertrag. Nur ein Handschlag und eine Handvoll hochexplosiver C6-Sprengstoff."
     }
 ]

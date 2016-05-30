@@ -1,132 +1,132 @@
 [
     {
         "code": "04021",
-        "title": "Bishop",
-        "keywords": "Caïssa",
-        "text": "[Click]: Hébergez le Fou sur une glace qui n'héberge pas de <strong>Caïssa<\/strong>. S'il est déjà hébergé, le Fou ne peut être hébergé que sur une glace qui protège un serveur central si le Fou est sur une glace qui protège un serveur distant, ou sur une glace protégeant un serveur distant si le Fou est sur une glace protégeant un serveur central.\r\nLa glace hôte à -2 en force."
+        "title": "비숍",
+        "keywords": "카이사",
+        "text": "[Click]: <strong>카이사<\/strong>를 호스트하지 않은 아이스 하나에 비숍을 호스트한다. 이미 비숍이 원격 서버를 보호하는 아이스에 호스트됐다면 중앙 서버를 보호하는 아이스에만 호스트될 수 있고, 이미 비숍이 중앙 서버를 보호하는 아이스에 호스트됐다면 원격 서버를 보호하는 아이스에만 호스트될 수 있다.\r\n호스트 아이스의 힘을 -2 한다."
     },
     {
         "code": "04022",
-        "title": "Scheherazade",
-        "keywords": "Démon",
-        "text": "Schéhérazade peut héberger n'importe quel nombre de programmes. (le coût en mémoire des programmes hébergés comptre dans votre limite de mémoire.)\r\nÀ chaque fois que vous installez un programme sur Schéhérazade, gagnez 1[Credits].",
-        "flavor": "Installer 1001 programmes vous ferait entrer au Panthéon des Pirates… si une telle institution existait."
+        "title": "셰헤라자드",
+        "keywords": "데몬",
+        "text": "셰헤라자드는 원하는 수만큼의 프로그램을 호스트할 수 있다.\r\n당신이 셰헤라자드에 프로그램을 설치할 때마다, 1[Credits]을 얻는다.",
+        "flavor": "1001 개의 프로그램을 설치하는 것은 그런 짓을 시키는 교육기관이 실제로 존재하지 않고서야 당신을 해커들의 명예의 전당에 올려놓을 것이다."
     },
     {
         "code": "04023",
-        "title": "En Plein Boulot",
-        "text": "Au début de votre tour, gagnez 2[Credits] et perdez 1[Click].",
-        "flavor": "Noise avait décidé de retourner à l'école. Il avait postulé à des bourses de recherche dans quinze des plus prestigieuses universités. Qu'il avait ensuite piratées pour approuver ses candidatures. C'était l'heure du petit déjeuner."
+        "title": "집중 학습",
+        "text": "당신의 차례가 시작될 때, 2[Credits]를 얻고 클릭을 잃는다.",
+        "flavor": "노이즈는 학업에 복귀하기로 결정했다. 그는 최고의 명문대 열다섯 곳에 연구 보조금을 신청했다. 그리고 해킹을 통해 그가 만든 어플리케이션들을 입증해보였다.\r\n아침 식사 시간이다."
     },
     {
         "code": "04024",
-        "title": "Reconnaissance",
-        "keywords": "Piratage",
-        "text": "Lancez un piratage. Vous pouvez débrancher lorsque vous rencontrez la première glace.",
-        "flavor": "Comme dans le monde réel, il vaut parfois mieux envoyer un clone faire le sale boulot."
+        "title": "정찰",
+        "keywords": "런",
+        "text": "런을 수행한다. 첫 번째 아이스와 대치할 때 잭 아웃할 수 있다.",
+        "flavor": "현실 세계와 마찬가지로, 가끔은 위험한 일을 수행하기 위해 클론을 보내는 것이 최선의 선택일 수 있다."
     },
     {
         "code": "04025",
-        "title": "Copieur",
-        "text": "À chaque fois que vous passez une glace, vous pouvez effacer le Copieur. Si vous le faites, choisissez un autre exemplaire activé de cette glace qui protège n'importe quel serveur. Le piratage continue comme si vous veniez de passer la glace choisie (votre piratage continue depuis cette nouvelle position).",
-        "flavor": "La fonction du copieur devrait être utilisée avec beaucoup de précautions, sous peine de se retrouver à l'autre bout du cyberspace."
+        "title": "카피캣",
+        "text": "당신이 아이스를 통과할 때마다, 당신은 카피캣을 폐기할 수 있다. 그렇게 하면, 원하는 서버를 보호하는 또 다른 동일 아이스를 선택한다. 선택한 아이스를 방금 통과한 것처럼 런을 지속한다. (당신은 이렇게 이동한 새로운 위치에서 런을 수행하는 중이다.)",
+        "flavor": "카피캣 함수는 사용에 극도의 주의를 요한다. 그렇지 않았을 시 당신은 사이버스페이스의 엉뚱한 곳에서 생을 마감할 수도 있다."
     },
     {
         "code": "04026",
-        "title": "Leviathan",
-        "keywords": "Brise-glace - Décrypteur",
-        "text": "3[Credits]: Neutralisez jusqu'à 3 routines <strong>verrou<\/strong>.\r\n3[Credits]: force +5.",
-        "flavor": "C'est très efficace, pour certaines grandes valeurs d'«efficace». L'avatar de baleine est soit bien pensé, soit une regrettable interprétation des heures de programmation, selon la personne à qui vous posez la question - Comment briser la glace, par BT"
+        "title": "레비아탄",
+        "keywords": "아이스브레이커 - 디코더",
+        "text": "3[Credits]: <strong>코드 게이트<\/strong> 서브루틴을 3개까지 깬다.\r\n3[Credits]: 힘을 +5 한다.",
+        "flavor": "확실히 \"효율성\" 수치만 보자면, 그것의 효율은 정말 엄청나다. 누구한테 물어보느냐에 따라 다르겠지만, 누군가는 고래형 아바타는 촉감이 좋다 말할 것이고, 혹자는 프로그래머의 노동력을 쓸 데 없는데 낭비한 비극적 오용 사례라 말할 것이다."
     },
     {
         "code": "04027",
-        "title": "Eurêka!",
-        "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\r\nRévélez la première carte de votre pile. Vous pouvez installer cette carte en diminuant son coût d'installation de 10[Credits], si possible; sinon, effacez-la.",
-        "flavor": "\"J'ai une surprise pour toi.\""
+        "title": "유레카!",
+        "keywords": "이중",
+        "text": "이 이벤트를 플레이하기 위한 추가 비용으로 [Click]을 쓴다.\r\n당신의 스택 맨 위 장을 공개한다. 당신은 가능하다면 설치 비용을 최대 10[Credits]까지 낮춰 그 카드를 설치할 수 있다. 그렇지 않다면, 그것을 폐기한다.",
+        "flavor": "\"너를 위한 깜짝 선물이 있어.\""
     },
     {
         "code": "04028",
-        "title": "Reconstructeur d'Enregistrement",
-        "text": "À chaque fois que vous réussissez un piratage sur les Archives, au lieu d'accéder à des cartes, vous pouvez choisir une carte face visible des  Archives et la mettre sur R&D.",
-        "flavor": "\"Pourquoi ces données sont-elles effacées ? Peut-être qu'ils ne veulent pas qu'on les trouve. Ou peut-être qu'elles sont inutiles. Ce sont des données inutiles que tu cherches.\" - Le Professeur"
+        "title": "기록 재구축기",
+        "text": "당신이 기록보관소에 성공적인 런을 수행할 때마다, 카드를 액세스하는 대신 기록보관소에서 앞면으로 된 카드 1장을 선택하여 연구개발부(R&D)의 맨 위에 더한다.",
+        "flavor": "\"데이터가 왜 지워진 거지? 그들이 이 데이터가 발견되는 걸 원치 않는 모양이군. 아니면 본디 쓸모없는 것들이었거나. 쓸모없는 데이터는 자네가 원하는 것이잖나.\" - 교수"
     },
     {
         "code": "04029",
-        "title": "Vocopad Prépayé",
-        "keywords": "Equipement",
-        "text": "1[Recurring Credits]\r\nN'utilisez ce crédit que pour payer des événements.",
-        "flavor": "Un VocoPAD est un appareil de connexion personnel dont on a enlevé la plupart des fonctions. Il sert surtout à faire des appels vocaux et à gérer vos contacts. La seule raison d'en avoir un est de vouloir rester anonyme, ce qui pour certaines personnes, est une raison bien suffisante."
+        "title": "선불 보이스패드",
+        "keywords": "착용장비",
+        "text": "1[Recurring Credits]\r\n이벤트를 플레이할 때만 이 크레딧을 사용한다.",
+        "flavor": "보이스패드는 이미 그 기능이 상당 부분 열화된 개인 액세스 장비이다. 유일하게 쓸모있는 부분은 음성 통화를 통한 인맥 관리 정도라 해도 과언이 아니다. 그럼에도 불구하고 익명성이 보장된다는 이유 하나로 특정한 종류의 사람들이 마련하곤 한다."
     },
     {
         "code": "04030",
-        "title": "Wotan",
-        "keywords": "Barrière - Bioroïde",
-        "text": "[Subroutine] Arrêtez le piratage, sauf si le Runner dépense [Click][Click].\r\n[Subroutine] Arrêtez le piratage, sauf si le Runner paye 3[Credits].\r\n[Subroutine] Arrêtez le piratage, sauf si le Runner efface 1 programme installé.\r\n[Subroutine] Arrêtez le piratage, sauf si le Runner prend 1 dégât Neuro."
+        "title": "보탄",
+        "keywords": "방벽 - 바이오로이드",
+        "text": "[Subroutine] 러너가 [Click][Click]을 쓰지 않으면 런을 종료한다.\r\n[Subroutine] 러너가 3[Credits]를 지불하지 않으면 런을 종료한다.\r\n[Subroutine] 러너가 설치된 프로그램 1개를 폐기하지 않으면 런을 종료한다.\r\n[Subroutine] 러너가 두뇌 피해 1점을 입지 않으면 런을 종료한다."
     },
     {
         "code": "04031",
-        "title": "Test Hellion Alpha",
-        "keywords": "Illégale",
-        "text": "Jouable uniquement si le Runner a installé une ressource lors de son dernier tour.\r\n<strong>Traque<sup>2<\/sup><\/strong>&ndash; Si la traque est réussie, mettez 1 ressource installée au sommet de la pile du Runner. Si la traque est ratée, prenez 1 pion Mauvaise Presse."
+        "title": "무법자 알파 테스트",
+        "keywords": "비밀 작전",
+        "text": "지난 러너의 차례에 러너가 리소스를 설치했어야만 플레이할 수 있다.\r\n<strong>추적<sup>2<\/sup><\/strong> - 성공하면, 설치된 리소스 1개를 러너의 스택 맨 위에 더한다. 실패하면, 악평 1개를 갖는다."
     },
     {
         "code": "04032",
-        "title": "Retraite de Clone",
-        "keywords": "Initiative",
-        "text": "Lorsque vous finalisez Retraite de Clone, vous pouvez retirer 1 pion Mauvaise Presse.\r\nSi le Runner vole Retraite de Clone, prenez 1 pion Mauvaise Presse.",
-        "flavor": "\"Ils appellent ça 'la retraite'. J'appelle ça 'une euthanasie'.\" - Ken \"Express\" Tenma"
+        "title": "클론 은퇴",
+        "keywords": "계획",
+        "text": "당신이 클론 은퇴를 득점할 때, 당신은 악평 1개를 제거할 수 있다.\r\n러너가 클론 은퇴를 훔칠 때, 기업은 악평 1개를 갖는다.",
+        "flavor": "\"그들은 그걸 '은퇴'라 불러. 난 그걸 '안락사'라 부르지.\" - 켄 \"익스프레스\" 텐마"
     },
     {
         "code": "04033",
-        "title": "Épéiste",
-        "keywords": "Sentinelle - Destructeur - AP",
-        "text": "Le Runner ne peut pas utiliser de programme <strong>IA<\/strong> pour neutraliser les routine de l'Épéiste.\r\n[Subroutine] Effacez 1 programme <strong>IA<\/strong>.\r\n[Subroutine] Infligez 1 dégât Réseau.",
-        "flavor": "Écrire un programme capable de passer le test de Turing est facile. Le test Gibson-Akamatsu est un peu plus relevé, et les seules IA à le réussir, pour le moment, sont celles des androïdes. Il parait que même certains humains l'ont raté."
+        "title": "검객",
+        "keywords": "파수 - 파괴자 - AP",
+        "text": "러너는 검객의 서브루틴을 깨는데 <strong>AI<\/strong> 프로그램을 사용할 수 없다.\r\n[Subroutine] <strong>AI<\/strong> 프로그램 1개를 폐기한다.\r\n[Subroutine] 넷 피해 1점을 입힌다.",
+        "flavor": "튜링 테스트를 통과하는 프로그램을 짜는 것은 쉽다. 깁슨-아카마츠 테스트가 이보다 더 높은 장벽인데, 아직까지 이를 통과한 것은 오직 안드로이드 뿐이었다. 몇몇 인간들조차 실패한 것으로 알려졌는데도 말이다."
     },
     {
         "code": "04034",
-        "title": "Livraison de SanSan",
-        "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\r\nMettez jusqu'à 2 pions Avancement sur une carte qui peut être avancée.",
-        "flavor": "Il signa le reçu, les mains tremblantes d'impatience."
+        "title": "샌샌으로부터의 수송품",
+        "keywords": "이중",
+        "text": "이 운영을 플레이하기 위한 추가 비용으로 [Click]을 쓴다.\r\n발전될 수 있는 카드 하나에 발전 토큰을 2개까지 놓는다.",
+        "flavor": "그가 기대감에 찬 악수와 함께 거기에 서명했습니다."
     },
     {
         "code": "04035",
-        "title": "Fouineur",
-        "keywords": "Sentinelle - Traqueur - Illicite",
-        "text": "Lorsque vous activez le Fouineur, prenez 1 pion Mauvaise Presse.\r\n[Subroutine] <strong>Traque<sup>1<\/sup><\/strong>&ndash; Si la traque est réussie, donnez 1 Tag au Runner.\r\n[Subroutine] <strong>Traque<sup>2<\/sup><\/strong>&ndash; Si la traque est réussie, donnez 1 Tag au Runner.\r\n[Subroutine] <strong>Traque<sup>3<\/sup><\/strong>&ndash; Si la traque est réussie, donnez 1 Tag au Runner.\r\n[Subroutine] Arrêtez le piratage si le Runner est tagué."
+        "title": "추문 폭로자",
+        "keywords": "파수 - 추적자 - 불법",
+        "text": "당신이 추문 폭로자를 레즈할 때, 악평 1개를 갖는다.\r\n[Subroutine] <strong>추적<sup>1<\/sup><\/strong> - 성공하면, 러너에게 태그 1개를 준다.\r\n[Subroutine] <strong>추적<sup>2<\/sup><\/strong> - 성공하면, 러너에게 태그 1개를 준다.\r\n[Subroutine] <strong>추적<sup>3<\/sup><\/strong> - 성공하면, 러너에게 태그 1개를 준다.\r\n[Subroutine] 러너가 태그되었다면 런을 종료한다."
     },
     {
         "code": "04036",
-        "title": "Les Nettoyeurs",
-        "keywords": "Securité",
-        "text": "À chaque fois que vous faites des dégâts Hémo, faites 1 dégât Hémo supplémentaire.",
-        "flavor": "\"J'utilise des bioroïdes parce que je peux effacer leur mémoire, ou tout simplement leur exploser la cervelle une fois le boulot terminé. Quand je dis 'pas de témoin', ça veut dire 'pas de témoin'.\""
+        "title": "뒷처리꾼",
+        "keywords": "보안",
+        "text": "당신이 육체 피해를 입힐 때마다, 1점의 육체피해를 추가로 입힙니다.",
+        "flavor": "\"나는 작업을 마친 후 그들의 기억을 지울 수 있고 여차하면 그들의 뇌를 통째로 날려버릴 수 있기에 바이오로이드들을 사용합니다. 목격자가 없다는 말은 말 그대로 목격자를 안 남긴다는 뜻입니다.\""
     },
     {
         "code": "04037",
-        "title": "Elizabeth Mills",
-        "keywords": "Cadre",
-        "text": "Lorsque vous activez Elizabeth Mills, retirez 1 pion Mauvaise Presse.\r\n[Click], [Trash]: Effacez 1 <strong>lieu<\/strong>. Prenez 1 pion Mauvaise Presse.",
-        "flavor": "\"Ça n'a rien de personnel. La réhabilitation urbaine est une nécessité du monde moderne. C'est toujours la maison de quelqu'un, la vôtre ne fait pas exception.\""
+        "title": "엘리자베스 밀스",
+        "keywords": "경영진",
+        "text": "당신이 엘리자베스 밀스를 레즈할 때, 악평 1개를 제거한다.\r\n[Click], [Trash]: <strong>장소<\/strong> 1장을 폐기한다. 악평 1개를 갖는다.",
+        "flavor": "\"개인적인 감정은 없습니다. 도심 재개발은 현대 사회에서 필수 불가결한 부분입니다. 그곳은 늘 누군가의 집이자 터전이었죠, 당신의 집이라고 다르지 않습니다.\""
     },
     {
         "code": "04038",
-        "title": "Hors-Réseau",
-        "text": "À installer uniquement sur un serveur distant.\r\nLe Runner ne peut pas lancer de piratage sur ce serveur. \r\nLorsque le Runner réussi un piratage sur le QG, effacez Hors-réseau."
+        "title": "격리 구역",
+        "text": "원격 서버 안에만 설치한다.\r\n러너는 이 서버에 런을 시작할 수 없다.\r\n러너가 본부(HQ)에 성공적인 런을 수행하면, 격리 구역을 폐기한다."
     },
     {
         "code": "04039",
-        "title": "Affairisme",
-        "text": "Lorsque vous finalisez Affairisme, prenez jusqu'à 3 pions Mauvaise Presse. Gagnez 5[Credits] pour chaque pion Mauvaise Presse pris.",
-        "flavor": "C'était étonnament facile de faire des créds… si vous ne vous souciiez pas de la facon dont vous les faisiez."
+        "title": "부당 이득",
+        "text": "당신이 부당 이득을 득점할 때, 악평을 최대 3개까지 갖는다. 가져간 악평마다 5[Credits]를 얻는다.",
+        "flavor": "크레딧을 만드는 것은 놀랄 정도로 쉬운 일이다... 당신이 어떻게 크레딧의 출처에 대해 신경쓰지만 않는다면 말이다."
     },
     {
         "code": "04040",
-        "title": "Restructuration",
-        "keywords": "Transaction",
-        "text": "Gagnez 15[Credits].",
-        "flavor": "Il y a pas mal de noms pour ceux qui travaillent dans le Département de la Direction. Mais, si tu aimes ton boulot, tu les appelles simplement \"monsieur\" ou \"m'dame\"."
+        "title": "구조 조정",
+        "keywords": "거래",
+        "text": "15[Credits]를 얻는다.",
+        "flavor": "총무부에서 근무하는 그들은 여러 개의 이름을 갖고 있다. 하지만 당신의 직장이 마음에 들거든, 그들을 \"사장님\" 혹은 \"사모님\"으로만 칭하는 게 좋다."
     }
 ]

@@ -1,267 +1,361 @@
 [
     {
         "code": "03001",
-        "title": "Imagerie Cérebrale - Aux Frontières de L'Infini",
-        "keywords": "Division"
+        "title": "Zerebral-Kartierung: Grenzenlose Grenzen",
+        "keywords": "Abteilung",
+        "text": "Dein Handkartenlimit entspricht der Anzahl von Credits in deinem Creditvorrat.",
+        "flavor": "Die dichteste Informationscluster der Galaxis."
     },
     {
         "code": "03002",
-        "title": "Biotique Personnalisée - Conçu pour le Succès",
-        "keywords": "Division"
+        "title": "Bioroid-Massanfertigung: Für den Erfolg gebaut",
+        "keywords": "Abteilung",
+        "text": "Du kannst deinem Deck keine Jinteki-Karten hinzufügen.",
+        "flavor": "Der Androide der war und der wieder sein wird."
     },
     {
         "code": "03003",
-        "title": "Conception NEXT - Les Gardiens du Réseau",
-        "keywords": "Division"
+        "title": "NEXT Design: Wächter des Netzes",
+        "keywords": "Abteilung",
+        "text": "Bevor du deinen ersten Zug durchführst, darfst du bis zu 3 Ice installieren, wobei sich nicht mehr al ein einziges Ice in einem System befinden darf. Ziehe Karten, bis du 5 im HQ hast."
     },
     {
         "code": "03004",
-        "title": "Projet Personnel de la Directrice Haas",
-        "keywords": "Initiative"
+        "title": "Lieblingsprojekt von Direktorin Haas",
+        "keywords": "Initiative",
+        "text": "Wenn du die Punkte für Lieblingsprojekt von Direktorin Haas erziehlst, darfst du ein neues ausgelagertes System erschaffen, in dem du bis zu 3 Karetn vom HQ und\/oder dem Archiv in das System oder zum Schutz des Systems installierst (einzeln nacheinander), ohne die Installationskosten dafür zu bezahlen.\nNur 1 Lieblingsprojekt von Direktorin Haas pro Deck."
     },
     {
         "code": "03005",
-        "title": "Commission d'Efficacité",
-        "keywords": "Initiative"
+        "title": "Effizienz-Ausschuss",
+        "keywords": "Initiative",
+        "text": "Lege 3 Agendazähler auf Effizienz-Ausschuss, wenn du die Punkte dafür erzielst.\n[Click], <strong>Gehosteter Agendazähler<\/strong>: Erhalte [Click][Click]. Du kannst für den Rest dieses Zuges keine Karte entwickeln."
     },
     {
         "code": "03006",
-        "title": "Projet Wotan",
-        "keywords": "Recherche"
+        "title": "Projekt Wotan",
+        "keywords": "Forschung",
+        "text": "Lege 3 Agendazähler auf Projekt Wotan, wenn du die Punkte dafür erzielst.\n<strong>Gehosteter Agendazähler<\/strong>: Wähle ein geladenes <strong>Bioroid<\/strong>-Ice , dem sich gerade jemand nähert. Für den Rest dieses Runs erhält das Ice \"[Subroutine] Beende den Run.\" hinter all seinen anderen Subroutinen."
     },
     {
         "code": "03007",
-        "title": "Programme de Défense Sentinelle",
-        "keywords": "Securité"
+        "title": "Wächter-Verteidungsprogramm",
+        "keywords": "Sicherheit",
+        "text": "Immer, wenn der Runner mindestens 1 Hirn-Schaden erleidet, verursache 1 Netz-Schaden.",
+        "flavor": "\"Warum sollten wir unsere besten Aktivposten auf unsere eigenen Systeme beschränken? Der Feind bleibt nicht einfach untätig zu Hause und wartet darauf, dass wir zu ihm kommen. Warum sollten wir?\" -Direktorin Haas"
     },
     {
         "code": "03008",
         "title": "Alix T4LB07",
-        "keywords": "Bioroïde"
+        "keywords": "Bioroid",
+        "text": "Lege 1 Wirkungszähler auf Alix T4LB07.\n[Click],[Trash]: Erhalte 2[Credits] für jeden Wirkungszähler auf Alix T4LB07.",
+        "flavor": "Das Modell Alix basiert auf einer erfolgreichen Hedgefonds-Managerin mit einer Neigung zum Burn-Out. Im wahrsten Sinne des Wortes."
     },
     {
         "code": "03009",
-        "title": "Écraseur Cérébral",
-        "keywords": "Embuscade"
+        "title": "Zerebral-Überschreiber",
+        "keywords": "Hinterhalt",
+        "text": "Zerebral-Überschreiber kann entwickelt werden.\nFalls du 3[Credits] zahlst, wenn der Runner auf Zerebral-Überschreiber zugreift, verursache 1 Hirn-Schaden für jeden Entwicklungsmarker auf Zerebral-Überschreiber."
     },
     {
         "code": "03010",
-        "title": "Directrice Haas",
-        "keywords": "Cadre"
+        "title": "Direktorin Haas",
+        "keywords": "Führungskraft",
+        "text": "Du kannst in jedem Zug 1 zusätzlichen [Click] ausgeben.\nFalls Direktorin Haas zerstört wird, während auf sie zugegriffen wird, füge sie zur Punktezone des Runners als Agenda mit einem Wert von 2 Agendapunkten hinzu."
     },
     {
         "code": "03011",
-        "title": "IA de l'Arcologie Haas"
+        "title": "KI der Haas-Arkologie",
+        "text": "KI der Haas-Arkologie kann nur im ungeladenen Zustand entwickelt werden.\n[Click], <strong>gehosteter Entwicklungsmarker<\/strong>: Erhalte [Click][Click]. Verwende diese Fertigkeit nur einmal pro Zug."
     },
     {
         "code": "03012",
         "title": "Thomas Haas",
-        "keywords": "Cadre"
+        "keywords": "Führungskraft",
+        "text": "Thomas Haas kann entwickelt werden.\n[Trash]: Erhalte 2[Credits] für jeden Entwicklungsmarker auf Thomas Haas.",
+        "flavor": "Thomas, der Sohn der Direktorin, ist schon vor seiner Geburt sorgfältig darauf vorbereitet worden, den Konzern zu erben. Sein liebstes Hobby scheint zu sein, seine Mutter zu enttäuschen."
     },
     {
         "code": "03013",
-        "title": "Expérience d'Optimisation Des Bioroïdes",
-        "keywords": "Condition"
+        "title": "Bioroid-Effizienzforschung",
+        "keywords": "Bedingung",
+        "text": "Lade ein<strong>Bioroid<\/strong>-Ice, ohne die Kosten zu bezahlen, und installiere Bioroid-Effizienzforschrung auf dem Eis als gehosteten Bedingungsmarker mit dem Text: \"Zerstöre Bioroid-Effiziensforschung und entlade das hostende Ice, falls alle seine Subroutinen während einer einzigen Begegnung ausgeschaltet werden.\""
     },
     {
         "code": "03014",
-        "title": "Présentation Réussie",
-        "keywords": "Transaction"
+        "title": "Erfolgreiche Präsentation",
+        "keywords": "Transaktion",
+        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug einen nicht erfolgreichen Run durchgeführt hat.\nErhalte 7[Credits].",
+        "flavor": "Erfolg wird durch Datensicherheit definiert, nicht durch die Sicherheit möglicher Eindringlinge."
     },
     {
         "code": "03015",
         "title": "Heimdall 2.0",
-        "keywords": "Barrière - Bioroïde - AP"
+        "keywords": "Barriere - Bioroid - AP",
+        "text": "Der Runner kann [Click][Click] ausgeben, um bis zu 2 Subroutinen auf Heimdall 2.0 auszuschalten.\n[Subroutine] Verursache 1 Hirn-Schaden.\n[Subroutine] Verursache 1 Hirn-Schaden und beende den Run.\n[Subroutine] Beende den Run.",
+        "flavor": "Das verbotene Gebiet beginnt immer noch hier."
     },
     {
         "code": "03016",
-        "title": "Hurleur",
-        "keywords": "Piège"
+        "title": "Heuler",
+        "keywords": "Falle",
+        "text": "[Subroutine] Du darfst ein <strong>Bioroid<\/strong>-Ice aus dem HQ oder dem Archiv laden ohne die Kosten zu bezahlen, und es direkt hinter Heuler legen. Falls du das tust, entlade das Ice und zerstöre Heuler nach Ende des Runs.",
+        "flavor": "\"Oh ja, es hat ein lautes Geräusch gemacht, ich hab Angst bekommen und mich ausgestöpselt. Ich denke immer noch, dass die Entscheidung richtig war.\" -g00ru"
     },
     {
         "code": "03017",
         "title": "Ichi 2.0",
-        "keywords": "Sentinelle - Bioroïde - Destructeur - Traqueur"
+        "keywords": "Wächter - Bioroid - Zerstörer - Spürhund",
+        "text": "Der Runner kann [Click][Click] ausgeben um bis zu 2 Subroutinen auf  Ichi 2.0 auszuschalten.\n[Subroutine] Zerstöre 1 Programm.\n[Subroutine] Zerstöre 1 Programm.\n[Subroutine] <strong>Aufspüren<sup>3<\/sup><\/strong> - Verpasse dem Runner bei Erfolg 1 Markierung und verursache 1 Hirn-Schaden.",
+        "flavor": "Das Spiel hat sich verändert."
     },
     {
         "code": "03018",
-        "title": "Enfouisseur de Mines",
-        "keywords": "Verrou"
+        "title": "Minenleger",
+        "keywords": "Code-Zugang",
+        "text": "[Subroutine] Du darfst ein Ice aus dem HQ als äußerstes Ice im angegriffenen System installieren, ohne die Kosten zu bezahlen.",
+        "flavor": "Manchmal muss man einfach raten."
     },
     {
         "code": "03019",
         "title": "Viktor 2.0",
-        "keywords": "Verrou - Bioroïde - Traqueur - AP"
+        "keywords": "Code-Zugang - Bioroid - Spürhund - AP",
+        "text": "Der Runner kann [Click][Click] ausgeben um bis zu 2 Subroutinen auf Viktor 2.0 auszuschalten.\n<strong>Gehosted Wirkungszähler<\/strong>: Verursache 1 Hirn-Schaden.\n[Subroutine] <strong>Aufspüren<sup>2<\/sup><\/strong> - Lege bei Erfolg 1 Wirkungszähler auf Viktor 2.0.\n[Subroutine] Beende den Run."
     },
     {
         "code": "03020",
         "title": "Zed 1.0",
-        "keywords": "Sentinelle - Bioroïde - AP"
+        "keywords": "Wächter - Bioroid - AP",
+        "text": "Der Runner kann [Click] ausgeben, um eine beliebige Subroutine auf Zed 1.0 auszuschalten.\n[Subroutine] Falls der Runner während des Runs mindestens 1 [Click] ausgegeben hat, um eine Subroutine auszuschalten, verursache 1 Hirn-Schaden.\n[Subroutine] Falls der Runner während des Runs mindestens 1 [Click] ausgegeben hat, um eine Subroutine auszuschalten, verursache 1 Hirn-Schaden.",
+        "flavor": "Ein Bewusstsein aus Biomaterial?\nWie das wohl funktioniert?"
     },
     {
         "code": "03021",
-        "title": "Centre d'Éveil"
+        "title": "Erweckungszentrum",
+        "text": "Erweckungszentrum kann <strong>Bioroid<\/strong>-Ice hosten (jedes Ice wird verdeckt installiert, ohne die Kosten zu bezahlen).\nImmer, wenn der Runner am letzten Ice, das dieses System schützt, vorbei kommt, darfst du ein Ice auf Erweckungszentrum mit um 7[Credits] reduzierten Ladekosten laden, um den Runner zu zwingen, auf dieses Ice zu treffen. Zerstöre dieses Ice nach Ende des Runs."
     },
     {
         "code": "03022",
-        "title": "Main de Tyr",
-        "keywords": "Hostile"
+        "title": "Tyrs Hand",
+        "keywords": "Feindlich",
+        "text": "Bevor der Runner eine Subroutine auf einem <strong>Bioroid<\/strong>-Ice ausschaltet, das dieses System schützt, darfst du Tyrs Hand laden.\n[Trash]: Verhindere das Ausschalten einer Subroutine auf einem <strong>Bioroid<\/strong>-Ice, das dieses System schützt."
     },
     {
         "code": "03023",
-        "title": "Arcologie Gila Hand's",
-        "keywords": "Extension"
+        "title": "Gila-Hands Arkologie",
+        "keywords": "Erweiterung",
+        "text": "[Click], [Click]: Erhalte 3[Credits].",
+        "flavor": "„Verkaufe den Traum – zeige ihnen, wie sehr sie sich wünschen, reich zu sein, und sie werden selbst davon überzeugt sein, dass sie es eines Tages sein werden. Wie können sie sich gegen ihr zukünftiges Ich auflehnen?“ - Das Neue Evangelium des Reichtums"
     },
     {
         "code": "03024",
-        "title": "Université Levy",
-        "keywords": "Luxueux"
+        "title": "Levy-Universität",
+        "keywords": "Protzig",
+        "text": "[Click], 1[Credits]: Durchsuche F&E nach einem Ice, decke es auf und füge es dem HQ hinzu. Mische F&E.",
+        "flavor": "\"Nur eine weitere Fabrik, die gute Konzertdrohnen für das System herstellt. Ihr Informatik-Fachbereich ist zugegebenermaßen der bester der Welt.\" -g00ru"
     },
     {
         "code": "03025",
-        "title": "Diagnostic des Serveurs"
+        "title": "Systemdiagnostik",
+        "text": "Wenn dein Zug beginnt, erhältst du 2[Credits].\nZerstöre Systemdiagnostik, sobald du ein Ice installierst.",
+        "flavor": "\"Die Chance, dass das einen allgemeinen Fehler auslöst, liegt nur bei 5%\""
     },
     {
         "code": "03026",
         "title": "Bastion",
-        "keywords": "Barrière"
+        "keywords": "Barriere",
+        "text": "[Subroutine] Beende den Run.",
+        "flavor": "Das Prinzip, das Ice zugrunde liegt, ist nicht jeden draußen zu halten, sondern nur einige hereinzulassen. Dieses Ice verweigert auf allen Ports den Zugang, außer auf einigen wenigen, die sich aber je nach Tageszeit oder Picosekunde des Verbindungsversuchs ändern können. Falls man nicht weiß, welchen Port man benutzen muss, kommt man nicht rein. Punkt."
     },
     {
         "code": "03027",
-        "title": "Pic de Données",
-        "keywords": "Verrou"
+        "title": "Datenspiess",
+        "keywords": "Code-Zugang",
+        "text": "[Subroutine] Der Runner muss 2[Credits]zahlen, wenn möglich.Falls der Runner nicht 2[Credits] zahlen kann, beende den Run.\n[Subroutine] Beende den Run.",
+        "flavor": "\"Billiger, serienmäßiger Datenschutz. Natürlich billig für die. Nicht für uns \"Smoke\" Scovak"
     },
     {
         "code": "03028",
-        "title": "Rielle \"Kit\" Peddler : Transhumaine",
-        "keywords": "Cyborg"
+        "title": "Rielle \"Kit\" Peddler: Transmensch",
+        "keywords": "Cyborg",
+        "text": "Das erste Ice, auf das du jeden Zug triffst, erhält bis zum Ende des Runs <strong>Code-Zugang<\/strong>.",
+        "flavor": "\"Ich war nicht; ich war; ich bin nicht; ich bin alles.\""
     },
     {
         "code": "03029",
-        "title": "Le Professeur : Gardien du Savoir",
-        "keywords": "Naturel"
+        "title": "Der Professor: Hüter des Wissens",
+        "keywords": "Natürlich",
+        "text": "Die erste Kopie jedes Programms in diesem Deck zählt nicht gegen dein Einfluss-Limit.",
+        "flavor": "\"Neue Technologie zerstört die alte.\""
     },
     {
         "code": "03030",
-        "title": "Exil : As de la Rue",
-        "keywords": "Naturel"
+        "title": "Exile: Streethawk",
+        "keywords": "Natural",
+        "text": "Immer, wenn du ein Programm von deiner Ablage installierst, ziehe 1 Karte.",
+        "flavor": "\"Ich kann das zum Laufen bringen.\""
     },
     {
         "code": "03031",
         "title": "Escher",
-        "keywords": "Piratage"
+        "keywords": "Run",
+        "text": "Führe einen Run auf HQ durch. Bei Erfolg sortiere, statt auf Karten zuzugreifen, eine beliebige Anzahl Ice aus dem Schutz aller Systeme neu (ohne Ice zu laden oder zu entladen): Jedes System muss nach dem Sortieren wieder von genau so viel Ice geschützt werden wie vorher."
     },
     {
         "code": "03032",
-        "title": "Galop d'Exploration",
-        "keywords": "Piratage"
+        "title": "Wilder Erkundungsritt",
+        "keywords": "Run",
+        "text": "Führe einen Run durch. Entferne bei Erfolg, statt auf Karten zuzugreifen, bis zu 3 Entwicklungsmarker von einer einzelnen Karte, die sich im angegriffenen System befindet oder es schützt.",
+        "flavor": "Huuiiiiiiiii!"
     },
     {
         "code": "03033",
-        "title": "Contrat de Piratage Indépendant",
-        "keywords": "Crime"
+        "title": "Coder-Vertrag für Freelancer",
+        "keywords": "Job",
+        "text": "Zerstöre bis zu 5 Programme aus deinem Griff. Erhalte 2[Credits] für jedes so zerstörte Programm.",
+        "flavor": "\"Idealismus ist ja klasse, aber satt wird man eher von Soyfleisch-Tacos.\" -Matt \"TheMerc\" Thomas"
     },
     {
         "code": "03034",
-        "title": "Récup'"
+        "title": "Plündern",
+        "text": "Zerstöre als zusätzliche Ausspielkosten ein installiertes Programm.\nInstalliere ein Programm aus deinem Griff oder deiner Ablage und senke die Installationskosten für dieses Programm um die Kosten des zerstörten Programms.",
+        "flavor": "Für den einen ist es Müll..."
     },
     {
         "code": "03035",
-        "title": "Accès au Labo RA de Levy"
+        "title": "Zugang zu Levys AR-Labor",
+        "text": "Mische deinen Griff und deine Ablage in deinen Stapel. Ziehe 5 Karten. Enferne Zugang zu Levys AR-Labor aus dem Spiel, statt es zu zerstören.",
+        "flavor": "Wenn man zu viel Zeit im AR-Labor verbringt, wird das jemandem auffallen. Naja, nicht, wenn man das Labor leitet."
     },
     {
         "code": "03036",
-        "title": "Monolithe",
-        "keywords": "Console"
+        "title": "Monolith",
+        "keywords": "Konsole",
+        "text": "+3[Memory Unit]\nWenn du Monolith installierst, installiere bis zu 3 Programme aus deinem Griff und senke bei jedem die Installationskosten um 4[Credits].\n<strong>Zerstöre ein Programm aus deinem Griff<\/strong>: Verhindere 1 Punkt Hirn- oder Netzschaden.\nNur 1 <strong>Konsole<\/strong> pro Spieler."
     },
     {
         "code": "03037",
-        "title": "Filtre de Retour",
-        "keywords": "Équipement"
+        "title": "Feedback-Filter",
+        "keywords": "Ausrüstung",
+        "text": "3[Credits]: Verhindere 1 Punkt Netz-Schaden.\n[Trash]: Verhindere bis zu 2 Punkte Hirn-Schaden.",
+        "flavor": "Tut schon etwas weh beim ersten Mal. Beim zweiten Mal spürt man überhaupt nichts. Aber fordere das Glück nicht heraus."
     },
     {
         "code": "03038",
-        "title": "Puce Clonée",
-        "keywords": "Puce"
+        "title": "Klon-Chip",
+        "keywords": "Chip",
+        "text": "[Trash]: Installiere ein Programm aus deiner Ablage (und zahle die Installationskosten dafür).",
+        "flavor": "Es hat sich bewährt, auch vom Backup ein Backup zu ziehen."
     },
     {
         "code": "03039",
-        "title": "Omni-Disque",
-        "keywords": "Puce"
+        "title": "Omni-Laufwerk",
+        "keywords": "Ausstattung",
+        "text": "Omni-Laufwerk kann ein einzelnes Programm mit 1[Memory Unit] oder weniger hosten. Die Speicherkosten für das gehostete Programm zählen nicht gegen dein Speicherlimit.\n1[Recurring Credits]\nVerwende diesen Credit, um für die Verwendung des gehosteten Programms zu zahlen."
     },
     {
         "code": "03040",
-        "title": "Ȃtman",
-        "keywords": "Brise-glace - IA"
+        "title": "Atman",
+        "keywords": "Ice-Brecher - KI",
+        "text": "Sobald du Atman installierst, darfst du X[Credits] zahlen, um X Wirkungszähler auf Atman zu legen.\nAtman hat +1 Stärke für jeden Entwicklungszähler auf dieser Karte.\n1[Credits]: Schalte eine Subroutine auf einem Ice aus, dessen Stärke genau so hoch wie die von Atman ist.",
+        "flavor": "Wir werden von unseren Gedanken geformt, wir werden zu dem, was wir denken."
     },
     {
         "code": "03041",
-        "title": "La Cape",
-        "keywords": "Furtif"
+        "title": "Umhang",
+        "keywords": "Heimlichkeit",
+        "text": "1[Recurring Credits]\nVerwende diesen Credit, um für die Verwendung von <strong>Ice-Brechern<\/strong> zu zahlen.",
+        "flavor": "Keine ihrer Schlingen kann binden den Schatten an der Wand…\""
     },
     {
         "code": "03042",
-        "title": "L'Épée",
-        "keywords": "Brise-glace - Tueur"
+        "title": "Dolch",
+        "keywords": "Ice-Brecher - Killer",
+        "text": "1[Credits]: Schalte eine Subroutine eines <strong>Wächters<\/strong> aus.\n1[Credits]: +5 Stärke. Diese Fertigkeit kann nur mit Credits von einer <strong>Heimlichkeit<\/strong>-Karte verwendet werden.",
+        "flavor": "\"…dann soll der Vorhang fallen durch des erstarkenden Schattens Hand.\" -Widergänger"
     },
     {
         "code": "03043",
-        "title": "Chacana",
-        "keywords": "Virus"
+        "title": "Chakana",
+        "keywords": "Virus",
+        "text": "Immer, wenn du einen erfolgreichen Run auf F&E durchgeführst, lege 1 Viruszähler auf Chakana.\nFalls sich mindestens 3 Viruszähler auf Chakana befinden, werden die benötigten Entwicklungen für alle Agendas um 1 erhöht."
     },
     {
         "code": "03044",
-        "title": "Cybercode",
-        "keywords": "Brise-glace - Décrypteur"
+        "title": "Cyber-Chiffre",
+        "keywords": "Ice-Brecher - Decoder",
+        "text": "1[Credits]: Schalte eine Subroutine eines  <strong>Code-Zugangs<\/strong> aus.\n1[Credits]: +1 Stärke.\nWähle ein System, sobald du Cyber-Chiffre installierst. Cyber-Chiffre kann nur für Runs auf das ausgewählte System verwendet werden."
     },
     {
         "code": "03045",
-        "title": "Paricia"
+        "title": "Paricia",
+        "text": "2[Recurring Credits]\nVerwende diese Credits, um Aktivposten zu zerstören.",
+        "flavor": "Perfekt, um damit Systeme zu fluten."
     },
     {
         "code": "03046",
-        "title": "Code Auto-modifiable"
+        "title": "Selbstschreibender Code",
+        "text": "2[Credits], [Trash]: Durchsuche deinen Stapel nach einem Programm und installiere es (und bezahle die Installationskosten). Mische deinen Stapel.",
+        "flavor": "\"Sorg dafür, dass du dem Quellcode angibst, in welches ausführbare Programm du es kompiliert haben willst. Ich hab mein Deck einmal für wenige Minuten aus den Augen gelassen und als ich zurückkam, waren alle meine Dateien mit Katzenvideos ersetzt.\" - Der Professor"
     },
     {
         "code": "03047",
-        "title": "Sahasrara"
+        "title": "Sahasrara",
+        "text": "2[Recurring Credits]\nVerwende diese Credits zum Installieren von Programmen. Du kannst Sahasrara nicht verwenden, um ein Programm zu installieren, das Sahasrara zerstört.",
+        "flavor": "Da draußen symbolisiert der Lotus mit tausend Blütenblättern Distanz von der Illusion. Hier drin ist er der Geburtsort eines höheren Bewusstseins. Etwas unendlich reines."
     },
     {
         "code": "03048",
         "title": "Inti",
-        "keywords": "Brise-glace - Fragmenteur"
+        "keywords": "Ice-Brecher - Fracter",
+        "text": "1[Credits]: Schalte eine Subroutine einer <strong>Barriere<\/strong> aus.\n2[Credits]: +1 Stärke für den Rest dieses Runs.",
+        "flavor": "\"Die Inkas glauben, dass der Sonnengott im Hanan Pacha residiert, der oberen Ebene des Kosmos. Sie wussten einfach nicht, dass der Hanan Pacha noch nicht entdeckt worden ist.\" - Der Professor"
     },
     {
         "code": "03049",
-        "title": "Contacts Professionnels",
-        "keywords": "Relation"
+        "title": "Profikontakte",
+        "keywords": "Kontakt",
+        "text": "[Click]: Erhalte 1[Credits] und ziehe 1 Karte.",
+        "flavor": "Manchmal kommt es nicht darauf an, wie teuer dein Deck ist oder wie viele Credits sich auf deinem Konto befinden, nicht einmal darauf, wie gut du als Runner bist. Meistens reicht ein einfacher Handschlag und ein Name."
     },
     {
         "code": "03050",
-        "title": "Satellite d'Emprunt",
-        "keywords": "Relais"
+        "title": "Geliehener Satellit",
+        "keywords": "Verbindung",
+        "text": "+1[Link]\nDeine maximale Handkartenzahl wird um 1 erhöht.",
+        "flavor": "Manche Menschen haben ihre eigenen Satellitenempfänger. Andere haben halt ihren eigenen Satelliten."
     },
     {
         "code": "03051",
-        "title": "Analyseur de Glace",
-        "keywords": "Virtuelle"
+        "title": "Ice-Analyse",
+        "keywords": "Virtuell",
+        "text": "Immer, wenn der Kon ein Ice lädt, lege 1[Credits] auf Ice-Analyse.\nDu kannst Credits auf Ice-Analyse verwenden, um Programme zu installieren.",
+        "flavor": "\"Wenn du den Quellcode kennst, kannst du etwas schreiben, um es zu schlagen, oder es einfach ein wenig anpassen und dir zu eigen machen. Das geht auch.\" - Exile"
     },
     {
         "code": "03052",
-        "title": "Linge Sale",
-        "keywords": "Piratage"
+        "title": "Schmutzige Wäsche",
+        "keywords": "Run",
+        "text": "Führe einen Run durch. Nach dem Ende des Runs erhältst du 5[Credits], falls er erfolgreich war.",
+        "flavor": "Die Daten waren besser, als sie je erhoffen konnte. Dieser Typ, Santiago, wusste wirklich, was er tat. Sie fing an, sich vorzustellen, wieviel Schaden sie damit auf dem bevorstehenden Wohltätigkeitsessen anrichten könnte..."
     },
     {
         "code": "03053",
-        "title": "Flux Quotidiens"
+        "title": "Tägliche Sendungen",
+        "text": "Lege 8[Credits] aus der Credit-Bank auf tägliche Sendungen, wenn sie installiert werden. Wenn keine Credits mehr auf tägliche Sendungen liegen, zerstöre diese Karte.\nNimm 2[Credits] von Tägliche Sendungen, wenn dein Zug beginnt.",
+        "flavor": "\"Wir sagen 'Cyberterroristen', aber sie hören 'Untergrundberühmtheit'.'\" -Michael Muhama, Fachmann."
     },
     {
         "code": "03054",
-        "title": "Toujours la Même Chanson"
+        "title": "Derselbe alte Kram",
+        "text": "[Click], [Click], [Trash]: Spiele ein Ereignis aus deiner Ablage (und zahle die Ausspielkosten).",
+        "flavor": "„Nur ich, eine Tasse YucaBean und die bei Hong Kong Trunk letzte Nacht ausgespähten Pakete. Das nenne ich einen guten Morgen.“"
     },
     {
         "code": "03055",
-        "title": "Équipement La Source",
-        "keywords": "Relation"
+        "title": "Die Quelle",
+        "keywords": "Kontakt",
+        "text": "Die benötigten Entwicklungen aller Agendas werden um 1 erhöht.\nDu musst 3[Credits] als zusätzliche kosten zahlen, um eine Agenda zu stehlen.\nZerstöre Die Quelle, wenn die Punkte für eine Agenda erzielt werden, oder sie gestohlen wird.",
+        "flavor": "Ein gefährliches Spiel, aber es ist es wert, gespielt zu werden."
     }
 ]

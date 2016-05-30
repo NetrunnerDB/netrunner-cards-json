@@ -1,267 +1,313 @@
 [
     {
         "code": "03001",
-        "title": "Imagerie Cérebrale - Aux Frontières de L'Infini",
-        "keywords": "Division"
+        "title": "Imaging Cerebrale: Frontiere infinite",
+        "keywords": "Divisione",
+        "text": "Il limite massimo della tua mano è pari al numero di crediti nella tua riserva di crediti.",
+        "flavor": "Il più denso nucleo di informazioni di tutta la galassia."
     },
     {
         "code": "03002",
-        "title": "Biotique Personnalisée - Conçu pour le Succès",
-        "keywords": "Division"
+        "title": "Biotica Personalizzata: Ingegneria di Successo",
+        "keywords": "Divisione",
+        "text": "Non puoi includere carte Jinteki in questo mazzo.",
+        "flavor": "Androide in Eterno."
     },
     {
         "code": "03003",
-        "title": "Conception NEXT - Les Gardiens du Réseau",
-        "keywords": "Division"
+        "title": "Modello NEXT: A Guardia della Rete",
+        "keywords": "Divisione",
+        "text": "Prima di svolgere il tuo primo turno, puoi installare fino a 3 pezzi di ghiaccio, ma non più di un singolo pezzo di ghiaccio per server. Pesca finché non hai 5 carte nel QG."
     },
     {
         "code": "03004",
-        "title": "Projet Personnel de la Directrice Haas",
-        "keywords": "Initiative"
+        "title": "Progetto Personale della Direttrice Haas",
+        "keywords": "Iniziativa",
+        "text": "Quando riscuoti il punteggio del Progetto Personale della Direttrice Haas, puoi creare un nuovo server remoto installando fino a 3 carte dal QG e\/o dagli Archivi su quel server e\/o a protezione del server (uno alla volta), ignorando tutti i costi di installazione.\r\nLimite di 1 Progetto Personale della Direttrice Haas per mazzo."
     },
     {
         "code": "03005",
-        "title": "Commission d'Efficacité",
-        "keywords": "Initiative"
+        "title": "Comitato di Efficienza",
+        "keywords": "Iniziativa",
+        "text": "Colloca 3 segnalini obiettivo su Comitato di Efficienza quando ne riscuoti il punteggio.\r\n[Click], <strong>segnalino obiettivo ospitato<\/strong>: Ottieni [Click][Click]. Non puoi far progredire carte per il resto di questo turno."
     },
     {
         "code": "03006",
-        "title": "Projet Wotan",
-        "keywords": "Recherche"
+        "title": "Progetto Wotan",
+        "keywords": "Ricerca",
+        "text": "Colloca 3 segnalini obiettivo su Progetto Wotan quando ne riscuoti il punteggio.\r\n<strong>Segnalino obiettivo ospitato<\/strong>: Scegli un pezzo di ghiaccio <strong>bioroide<\/strong> materializzato e attualmente approcciato. Per il resto di questa incursione quel ghiaccio ottiene \"[Subroutine] L'incursione termina.\" dopo tutte le sue altre subroutine."
     },
     {
         "code": "03007",
-        "title": "Programme de Défense Sentinelle",
-        "keywords": "Securité"
+        "title": "Programma Difensivo Sentinella",
+        "keywords": "Sicurezza",
+        "text": "Ogni volta che il Runner subisce almeno 1 danno cerebrale, infliggi 1 danno net.",
+        "flavor": "\"Perché limitare i nostri migliori asset ai nostri stessi server? Il nemico non se ne sta passivamente a casa sua, in attesa che noi andiamo da lui. Perché non fare altrettanto?\" -Direttrice Haas"
     },
     {
         "code": "03008",
         "title": "Alix T4LB07",
-        "keywords": "Bioroïde"
+        "keywords": "Bioroide",
+        "text": "Colloca 1 segnalino di potenza su Alix T4LB07 ogni volta che installi una carta.\r\n[Click],[Trash]: Ottieni 2[Credits] per ogni segnalino di potenza su Alix T4LB07.",
+        "flavor": "Il modello Alix era basato su un programma gestionale di fondi speculativi di grande successo, ma tendeva a esaurirsi facilmente. In senso letterale."
     },
     {
         "code": "03009",
-        "title": "Écraseur Cérébral",
-        "keywords": "Embuscade"
+        "title": "Sovrascrittura Cerebrale",
+        "keywords": "Imboscata",
+        "text": "Sovrascrittura Cerebrale può essere fatta progredire.\r\nSe paghi 3[Credits] quando il Runner accede a Sovrascrittura Cerebrale, infliggi 1 danno cerebrale per ogni segnalino progresso presente su Sovrascrittura Cerebrale."
     },
     {
         "code": "03010",
-        "title": "Directrice Haas",
-        "keywords": "Cadre"
+        "title": "Direttrice Haas",
+        "keywords": "Dirigente",
+        "text": "Ogni turno hai 1[Click] aggiuntivo da spendere.\r\nSe la Direttrice Haas viene eliminata durante un accesso, aggiungila all'area punteggio del Runner come obiettivo del valore di 2 punti obiettivo."
     },
     {
         "code": "03011",
-        "title": "IA de l'Arcologie Haas"
+        "title": "Ia dell'Arcologia Haas",
+        "text": "L'IA dell'Arcologia Haas può essere fatta progredire solo mentre è smaterializzata.\r\n[Click], <strong>segnalino progresso ospitato<\/strong>: Ottieni [Click][Click]. Puoi usare questa capacità solo una volta per turno."
     },
     {
         "code": "03012",
         "title": "Thomas Haas",
-        "keywords": "Cadre"
+        "keywords": "Dirigente",
+        "text": "Thomas Haas può essere fatto progredire.\r\n[Trash]: Ottieni 2[Credits] per ogni segnalino progresso presente su Thomas Haas.",
+        "flavor": "Thomas, il figlio della direttrice, è stato meticolosamente preparato per ereditare la corporazione fin da prima della sua nascita. Il suo passatempo preferito sembra essere deludere sua madre."
     },
     {
         "code": "03013",
-        "title": "Expérience d'Optimisation Des Bioroïdes",
-        "keywords": "Condition"
+        "title": "Collaudo Efficienza Bioroidi",
+        "keywords": "Condizione",
+        "text": "Materializza un pezzo di ghiaccio <strong>bioroide<\/strong>, ignorando tutti i costi, e installa Collaudo Efficienza Bioroidi su quel ghiaccio come segnalino condizione ospitato con il testo \"Elimina Collaudo Efficienza Bioroidi e smaterializza il ghiaccio ospitante se tutte le sue subroutine vengono infrante durante un singolo incontro.\""
     },
     {
         "code": "03014",
-        "title": "Présentation Réussie",
-        "keywords": "Transaction"
+        "title": "Dimostrazione Riuscita",
+        "keywords": "Transazione",
+        "text": "Giocabile solo se il Runner ha effettuato un' incursione fallita durante il suo ultimo turno.\r\nOttieni 7[Credits].",
+        "flavor": "E' la sicurezza dei dati a definire il successo, non l'incolumità dei potenziali intrusi."
     },
     {
         "code": "03015",
         "title": "Heimdall 2.0",
-        "keywords": "Barrière - Bioroïde - AP"
+        "keywords": "Barriere - Bioroide - AP",
+        "text": "Il Runner può spendere [Click][Click] per infrangere fino a 2 subroutine su Heimdall 2.0.\r\n[Subroutine] Infliggi 1 danno cerebrale.\r\n[Subroutine] Infliggi 1 danno cerebrale e l'incursione termina.\r\n[Subroutine] L'incursione termina.",
+        "flavor": "Al reame oltrestante è ancora vietato accedere."
     },
     {
         "code": "03016",
-        "title": "Hurleur",
-        "keywords": "Piège"
+        "title": "Howler",
+        "keywords": "Trappola",
+        "text": "[Subroutine] Puoi installare e materializzare un pezzo di ghiaccio <strong>bioroide<\/strong> dal QG o dagli Archivi, ignorando tutti i costi e collocarlo direttamente sotto Howler. Se lo fai, smaterializza quel pezzo di ghiaccio ed elimina Howler dopo che l'incursione è stata completata.",
+        "flavor": "\"Già. Ha fatto un  rumore forte, mi sono spaventato e mi sono disconneso. Penso ancora di avere preso la decisione giusta.\" -g00ru"
     },
     {
         "code": "03017",
         "title": "Ichi 2.0",
-        "keywords": "Sentinelle - Bioroïde - Destructeur - Traqueur"
+        "keywords": "Sentinella - Bioroide - Distruttore - Tracciatore",
+        "text": "Il Runner può spendere [Click][Click] per infrangere fino a 2 subroutine su Ichi 2.0.\r\n[Subroutine] Elimina 1 programma.\r\n[Subroutine] Elimina 1 programma.\r\n[Subroutine] <strong>Tracciamento<sup>3<\/sup><\/strong> - Se riuscito, assegna al Runner 1 tag e infliggigli 1 danno cerebrale.",
+        "flavor": "Il gioco è cambiato."
     },
     {
         "code": "03018",
-        "title": "Enfouisseur de Mines",
-        "keywords": "Verrou"
+        "title": "Posamine",
+        "keywords": "Portale Codificato",
+        "text": "[Subroutine] Puoi installare un pezzo di ghiaccio dal QG come pezzo di ghiaccio più esterno a protezione di questo server, ignorando tutti i costi di installazione.",
+        "flavor": "A volte devi solo tirare a indovinare."
     },
     {
         "code": "03019",
         "title": "Viktor 2.0",
-        "keywords": "Verrou - Bioroïde - Traqueur - AP"
+        "keywords": "Portale Codificato - Bioroide - Tracciatore - AP",
+        "text": "Il Runner può spendere [Click][Click] per infrangere fino a 2 subroutine su Viktor 2.0.\r\n<strong>Segnalino potenza ospitato<\/strong>: Infliggi 1 danno cerebrale.\r\n[Subroutine] <strong>Tracciamento<sup>2<\/sup><\/strong> - Se riuscito, colloca un segnalino di potenza su Viktor 2.0.\r\n[Subroutine] L'incursione termina."
     },
     {
         "code": "03020",
         "title": "Zed 1.0",
-        "keywords": "Sentinelle - Bioroïde - AP"
+        "keywords": "Sentinella - Bioroide - AP",
+        "text": "Il Runner può spendere [Click] per infrangere una qualsiasi subroutine su Zed 1.0.\r\n[Subroutine] Se il Runner ha speso almeno 1 [Click] per infrangere una subroutine durante questa incursione, infliggigli 1 danno cerebrale.\r\n[Subroutine] Se il Runner ha speso almeno 1 [Click] per infrangere una subroutine durante questa incursione, infliggigli 1 danno cerebrale.",
+        "flavor": "Una mente di carne! Come funziona?"
     },
     {
         "code": "03021",
-        "title": "Centre d'Éveil"
+        "title": "Centro di Risveglio",
+        "text": "Il Centro di Risveglio può ospitare il ghiaccio <strong>bioroide<\/strong> (ogni pezzo viene installato a faccia in giù, ignorando tutti i costi di installazione).\r\n\r\nOgni volta che il Runner supera tutto il ghiaccio a protezione di questo server, puoi materializzare un pezzo di ghiaccio su Centro di Risveglio, abbassando il costo di materializzazione di 7[Credits] per costringere il Runner a incontrarlo. Elimina quel ghiaccio dopo che l'incursione è stata completata."
     },
     {
         "code": "03022",
-        "title": "Main de Tyr",
-        "keywords": "Hostile"
+        "title": "Mano di Tyr",
+        "keywords": "Ostile",
+        "text": "Se il Runner sta per infrangere una subroutine su un pezzo di ghiaccio <strong>bioroide<\/strong> a protezione di questo server, puoi materializzare la Mano di Tyr.\r\n[Trash]: Impedisci a una subroutine su un pezzo di ghiaccio <strong>bioroide<\/strong> a protezione di questo server di essere infranta."
     },
     {
         "code": "03023",
-        "title": "Arcologie Gila Hand's",
-        "keywords": "Extension"
+        "title": "Arcologia di Gila Hands",
+        "keywords": "Espansione",
+        "text": "[Click], [Click]: Ottieni 3[Credits].",
+        "flavor": "Vendi il sogno: mostra loro quanto vogliono essere ricchi, e si convinceranno che un giorno o l'altro, lo diventeranno. Come possono rivoltarsi contro il loro io futuro? - Il Nuovo Vangelo della Ricchezza"
     },
     {
         "code": "03024",
-        "title": "Université Levy",
-        "keywords": "Luxueux"
+        "title": "Università Levy",
+        "keywords": "Prestigio",
+        "text": "[Click], 1[Credits]: Cerca un pezzo di ghiaccio in R&S, rivelalo e aggiungilo al QG. Mescola R&S.",
+        "flavor": "\"Soltanto un'altra fabbrica che sforna droni corporativi per la macchina. Il loro dipartimento di informatica è il migliore del mondo, però\". -g00ru"
     },
     {
         "code": "03025",
-        "title": "Diagnostic des Serveurs"
+        "title": "Diagnostica del Server",
+        "text": "Ottieni 2[Credits] quando il tuo turno ha inizio.\r\nElimina Diagnostica del Server quando installi un pezzo di ghiaccio.",
+        "flavor": "\"C'è solo una probabilità del 5% che questo possa provocare un cedimento generale.\""
     },
     {
         "code": "03026",
-        "title": "Bastion",
-        "keywords": "Barrière"
+        "title": "Bastione",
+        "keywords": "Barriera",
+        "text": "[Subroutine] L'incursione termina.",
+        "flavor": "Il principio alla base del ghiaccio non è tenere fuori chiunque, ma lasciare entrare solo qualcuno. Questo ghiaccio nega l'accesso a tutti tranne che ad alcune porte selezionate che potrebbero cambiare nel giro di una giornata o di un picosecondo di connessione. Se non sai quale porta usare, non entri. Punto."
     },
     {
         "code": "03027",
-        "title": "Pic de Données",
-        "keywords": "Verrou"
+        "title": "Picca di Dati",
+        "keywords": "Portale Codificato",
+        "text": "[Subroutine] Il Runner deve pagare 2[Credits], se possibile. Se il Runner non può pagare 2[Credits], l'incursione termina.\r\n[Subroutine] L'incursione termina.",
+        "flavor": "\"Protezione a buon mercato, roba da discount. A buon mercato per loro, ovviamente. Non per noi.\" -Ele \"Smoke\" Scovak"
     },
     {
         "code": "03028",
-        "title": "Rielle \"Kit\" Peddler : Transhumaine",
-        "keywords": "Cyborg"
+        "title": "Rielle \"Kit\" Peddler: Transumana",
+        "keywords": "Cyborg",
+        "text": "Il primo pezzo di ghiaccio che incontri a ogni turno ottiene <strong>portale codificato<\/strong> fino alla fine dell'incursione.",
+        "flavor": "\"Non ero; ero; non sono; sono tutto.\""
     },
     {
         "code": "03029",
-        "title": "Le Professeur : Gardien du Savoir",
-        "keywords": "Naturel"
+        "title": "Il Professore: Custode della Conoscenza",
+        "keywords": "Naturale",
+        "text": "La prima copia di ogni programma in questo mazzo non va conteggiata al fine di determinare il tuo limite di influenza.",
+        "flavor": "\"La nuova tecnologia distrugge quella vecchia.\""
     },
     {
         "code": "03030",
-        "title": "Exil : As de la Rue",
-        "keywords": "Naturel"
+        "title": "Esule: Falco della Strada",
+        "keywords": "Naturale",
+        "text": "Ogni volta che installi un programma dal tuo heap, pesca 1 carta.",
+        "flavor": "\"posso farlo funzionare.\""
     },
     {
         "code": "03031",
         "title": "Escher",
-        "keywords": "Piratage"
+        "keywords": "Incursione",
+        "text": "Effettua un'incursione nel QG. Se l'incursione è riuscita, invece di accedere alle carte ridisponi un qualsiasi numero di pezzi di ghiaccio a protezione di tutti i server (senza materializzarli o smaterializzarli). Dopo la nuova disposizione, ogni server deve essere protetto dallo stesso numero di pezzi di ghiaccio di prima."
     },
     {
         "code": "03032",
-        "title": "Galop d'Exploration",
-        "keywords": "Piratage"
+        "title": "Cavalcata esplorativa",
+        "keywords": "Incursione",
+        "text": "Effettua un'incursione. Se l'incursione è riuscita, invece di accedere alle carte rimuovi fino a 3 segnalini progresso da una singola carta sul server attaccato o a sua protezione.",
+        "flavor": "Yuppiiiiiiii!"
     },
     {
         "code": "03033",
-        "title": "Contrat de Piratage Indépendant",
-        "keywords": "Crime"
+        "title": null
     },
     {
         "code": "03034",
-        "title": "Récup'"
+        "title": "Riciclaggio",
+        "text": "Come costo aggiuntivo per giocare questa carta, elimina un programma installato.\r\nInstalla un programma dal tuo grip o dal tuo heap, abbassando il costo di quel programma del costo del programma eliminato.",
+        "flavor": "La spazzatura di un uomo..."
     },
     {
         "code": "03035",
-        "title": "Accès au Labo RA de Levy"
+        "title": "Accesso ai Laboratori RA Levy",
+        "text": "Mescola il tuo grip e il tuo heap nel tuo stack. Pesca 5 carte. Rimuovi Accesso ai Laboratori RA Levy dal gioco invece di eliminarlo.",
+        "flavor": "Se passi troppo tempo nei Laboratori RA, qualcuno potrebbe notarlo. A meno che tu non ne sia il direttore, naturalmente."
     },
     {
         "code": "03036",
-        "title": "Monolithe",
-        "keywords": "Console"
+        "title": null
     },
     {
         "code": "03037",
-        "title": "Filtre de Retour",
-        "keywords": "Équipement"
+        "title": null
     },
     {
         "code": "03038",
-        "title": "Puce Clonée",
-        "keywords": "Puce"
+        "title": null
     },
     {
         "code": "03039",
-        "title": "Omni-Disque",
-        "keywords": "Puce"
+        "title": null
     },
     {
         "code": "03040",
-        "title": "Ȃtman",
-        "keywords": "Brise-glace - IA"
+        "title": null
     },
     {
         "code": "03041",
-        "title": "La Cape",
-        "keywords": "Furtif"
+        "title": null
     },
     {
         "code": "03042",
-        "title": "L'Épée",
-        "keywords": "Brise-glace - Tueur"
+        "title": null
     },
     {
         "code": "03043",
-        "title": "Chacana",
-        "keywords": "Virus"
+        "title": null
     },
     {
         "code": "03044",
-        "title": "Cybercode",
-        "keywords": "Brise-glace - Décrypteur"
+        "title": null
     },
     {
         "code": "03045",
-        "title": "Paricia"
+        "title": "Paricia",
+        "text": "2[Recurring Credits]\r\nUsa questi crediti per eliminare gli asset.",
+        "flavor": "Perfetto per inondare i server."
     },
     {
         "code": "03046",
-        "title": "Code Auto-modifiable"
+        "title": "Codice Automodificante",
+        "text": "2[Credits], [Trash]: Cerca un programma nel tuo stack e installalo (paga il costo di installazione). Mescola il tuo stack.",
+        "flavor": "\"Ricordati di dire al codice di origine in quale eseguibile vuoi che si riversi. Una volta mi sono allontanato dal mio rig per un paio di minuti, e quando sono tornato, tutti i miei file erano stati sostituiti con filmati di gatti.\" -Il Professore"
     },
     {
         "code": "03047",
-        "title": "Sahasrara"
+        "title": null
     },
     {
         "code": "03048",
-        "title": "Inti",
-        "keywords": "Brise-glace - Fragmenteur"
+        "title": null
     },
     {
         "code": "03049",
-        "title": "Contacts Professionnels",
-        "keywords": "Relation"
+        "title": null
     },
     {
         "code": "03050",
-        "title": "Satellite d'Emprunt",
-        "keywords": "Relais"
+        "title": null
     },
     {
         "code": "03051",
-        "title": "Analyseur de Glace",
-        "keywords": "Virtuelle"
+        "title": null
     },
     {
         "code": "03052",
-        "title": "Linge Sale",
-        "keywords": "Piratage"
+        "title": null
     },
     {
         "code": "03053",
-        "title": "Flux Quotidiens"
+        "title": "Notizie del Giorno",
+        "text": "Colloca 8[Credits] dalla banca su Notizie del Giorno quando viene installato. Quando non rimangono più crediti su Notizie del Giorno, eliminalo.\r\nPrendi 2[Credits] da Notizie del Giorno quando il tuo turno ha inizio.",
+        "flavor": "Noi diciamo 'cyber-terrorista'; loro sentono 'celebrità clandestina'.\" -Michael Muhama, esperto professionale"
     },
     {
         "code": "03054",
-        "title": "Toujours la Même Chanson"
+        "title": null
     },
     {
         "code": "03055",
-        "title": "Équipement La Source",
-        "keywords": "Relation"
+        "title": null
     }
 ]

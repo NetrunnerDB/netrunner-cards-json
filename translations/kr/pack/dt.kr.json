@@ -1,100 +1,134 @@
 [
     {
         "code": "04101",
-        "title": "Singularité",
-        "keywords": "Double - Piratage"
+        "title": "특이점",
+        "keywords": "이중 - 런",
+        "text": "이 이벤트를 플레이하기 위한 추가 비용으로 [Click]을 쓴다.\r\n원격 서버에 런을 수행한다. 성공하면, 카드를 액세스하는 대신, 서버 안에 있는 모든 카드를 비용을 지불하지 않고 폐기한다. (그 카드가 일반적으로는 폐기될 수 없다고 해도 폐기할 수 있다.)"
     },
     {
         "code": "04102",
-        "title": "Gambit de la Reine",
-        "keywords": "Double"
+        "title": "여왕의 책략",
+        "keywords": "이중",
+        "text": "이 이벤트를 플레이하기 위한 추가 비용으로, [Click]을 쓴다.\r\n원격 서버 안에 있는 레즈되지 않은 1장의 카드 위에 발전 토큰을 3개까지 놓는다. 놓은 발전 토큰당 2[Credits]을 얻는다. 당신은 이번 차례 동안 그 카드에 액세스할 수 없다."
     },
     {
         "code": "04103",
-        "title": "Générateur de Fractale Dyson",
-        "keywords": "Puce - Furtive"
+        "title": "다이슨 프랙탈 생성기",
+        "keywords": "칩 - 스텔스",
+        "text": "1[Recurring Credits]\r\n<strong>프랙터<\/strong>를 사용할 때만 이 크레딧을 사용한다.",
+        "flavor": "다이슨 프랙탈 생성기는 쓸모없는 실리콘 덩어리에 불과해; 그건 그저 진정한 의미의 무작위 결과값을 만들어 내는 물건일 뿐인 걸. 어떤 미친 녀석이 그걸 자기 릭에 박아 넣겠어? 무작위 숫자를 어디에 써 먹는데? - 존 마사노리"
     },
     {
         "code": "04104",
-        "title": "Silencieux",
-        "keywords": "Puce - Furtive"
+        "title": "소음기",
+        "keywords": "칩 - 스텔스",
+        "text": "1[Recurring Credits]\r\n<strong>킬러<\/strong>를 사용할 때만 이 크레딧을 사용한다.",
+        "flavor": "무어의 법칙을 가져다가 한 두세기쯤 반복한 다음 퀀텀 컴퓨팅과 합쳐보라. 당신은 당신이 디자인한 하드웨어 플랫폼에 걸맞는 소프트웨어를 동시에 개발하는 시점에 도달할 수 있을 것이다. 서로를 위해 완벽하게 맞춤 설계된 셈이다. 살아있는 게 행복한 순간! - 윌리엄 누스, 배비지의 탑 중"
     },
     {
         "code": "04105",
-        "title": "Savoir-faire"
+        "title": "수완",
+        "text": "당신은 매 차례 한 번을 초과하여 수완을 사용할 수 없다.\r\n2[Credits]: 설치 비용을 지불하고 그립으로부터 프로그램 1개를 설치한다.",
+        "flavor": "\"자네가 필요성을 인지하기도 전에 필요로 하는 프로그램을 가져다 주는 예지 알고리즘일세. 내가 두 번째로 사랑하는 숙녀분이시지.\" - 가브리엘 산티아고"
     },
     {
         "code": "04106",
-        "title": "Bouc-émissaire",
-        "keywords": "Relation"
+        "title": "희생양",
+        "keywords": "연결",
+        "text": "[Trash]: 다른 설치된 카드가 폐기되는 것을 방지한다.\r\n[Trash]: 2[Credits]을 얻는다.",
+        "flavor": "NAPD에는 성실하고 정직하며 착한 경찰들이 있다. 죄를 지은 자에게 정의를 집행하고 무고한 자들을 지키기 위해 최선을 다하는 경찰들 말이다.\r\n범죄자들에겐 다행스럽게도, 그들은 다른 부류에 밀려 소수에 불과하다. 함께 일하기 훨씬 수월한 부류 말이다."
     },
     {
         "code": "04107",
-        "title": "Sieste Réparatrice",
-        "keywords": "Double"
+        "title": "숙면",
+        "keywords": "이중",
+        "text": "이 이벤트를 플레이하기 위한 추가 비용으로 [Click]을 쓴다.\r\n2[Credits]을 얻는다. 당신의 힙에 있는 각각의 <strong>이중<\/strong> 이벤트마다 추가로 1[Credits]을 얻는다.",
+        "flavor": "\"내가 자면서도 해킹이 가능하다고 말했을 때, 내가 농담하는 줄 알았어요?\" - 카오스 이론"
     },
     {
         "code": "04108",
-        "title": "Pinceau"
+        "title": "그림붓",
+        "text": "[Click]: 레즈된 아이스 하나를 선택한다. 그 아이스는 이번 차례의 다음 런이 끝날 때까지 <strong>파수<\/strong>, <strong>코드 게이트<\/strong>, <strong>방벽<\/strong>을 얻는다.",
+        "flavor": "\"손수 만든 코드는 손수 그린 그림과도 같아. 너도  작가가 누군지 알 수 있는 붓 자욱을 볼 수 있을 거야. 그 때쯤이면 너도 모든 걸 새로운 눈으로 볼 수 있을 거고.\" - 케이트 \"맥\" 맥카프리"
     },
     {
         "code": "04109",
-        "title": "Trouvaille",
-        "keywords": "Double"
+        "title": "운 좋은 발견",
+        "keywords": "이중",
+        "text": "이 이벤트를 플레이하기 위한 추가 비용으로 [Click]을 쓴다.\r\n9[Credits]을 얻는다.",
+        "flavor": "데이터 사냥꾼들은 늘 구식 드라이브에 엄청난 돈을 쳐준다. 데이터가 쓸모없을 수록, 가격이 더 비싸다."
     },
     {
         "code": "04110",
-        "title": "Labyrinthe de Gyrus",
-        "keywords": "Verrou"
+        "title": "대뇌 주름 미로",
+        "keywords": "코드 게이트",
+        "text": "[Subroutine] 다음 기업의 차례가 시작될 때까지 러너의 최대 핸드 사이즈는 2만큼 줄어든다.",
+        "flavor": "일단 들어가면, 스스로의 정신을 뚫고 나오는 것이 유일한 탈출구다."
     },
     {
         "code": "04111",
-        "title": "Ordre de Récupération",
-        "keywords": "Double"
+        "title": "재활용 주문",
+        "keywords": "이중",
+        "text": "이 운영을 플레이하기 위한 추가 비용으로 [Click]을 쓴다.\r\n재활용 주문을 제외한 카드 하나의 이름을 말한다. 말한 카드를 기록보관소에서 원하는 만큼 공개하고 본부(HQ)에 더한다."
     },
     {
         "code": "04112",
-        "title": "Broadcast Square",
-        "keywords": "Infrastructure"
+        "title": "생방송 광장",
+        "keywords": "시설",
+        "text": "당신이 악평을 최소 1개 받으려할 때마다, <strong>추적<sup>3<\/sup><\/strong> - 성공하면, 악평을 받는 것을 방지한다.",
+        "flavor": "소형 대인 살상 미사일이 퍼부어진 결과 악명높은 호-메의 대량 학살극에 종지부가 찍힌 이래로 생방송 광장에는 더 많은 관광객이 모여들고 있다.\r\n이게 센시에서 일이 벌어지는 방식이다."
     },
     {
         "code": "04113",
-        "title": "Restructuration Corporatiste",
-        "keywords": "Double"
+        "title": "기업 정리",
+        "keywords": "이중",
+        "text": "이 운영을 플레이하기 위한 추가 비용으로 [click]을 쓴다.\r\n본부(HQ)의 모든 카드를 연구개발부(R&D)에 섞어 넣는다. 카드 5장을 뽑는다.",
+        "flavor": "더 젊고 저렴한 인력에 의해 대체되면서 해고되는 것 보다 더 안좋은 게 뭔지 알아? 안드로이드가 내 자리를 낚아채는 거야."
     },
     {
         "code": "04114",
-        "title": "Caprice Nisei",
-        "keywords": "Clone - Psi"
+        "title": "변덕쟁이 니세이",
+        "keywords": "클론 - 초능력",
+        "text": "러너가 이 서버를 보호하는 모든 아이스를 통과할 때마다, 당신과 러너는 각자 몰래 0[Credits]이나 1[Credits] 또는 2[Credits]을 지불한다. 지불한 크레딧을 공개한다. 당신과 러너가 소비한 크레딧 수가 서로 다르다면 런을 종료한다.",
+        "flavor": "NAPD의 탐정으로 부임한 첫 번째 클론."
     },
     {
         "code": "04115",
-        "title": "Shinobi",
-        "keywords": "Sentinelle - Traqueur - AP - Illicite"
+        "title": "시노비",
+        "keywords": "파수 - 추적자 - AP - 불법",
+        "text": "당신이 시노비를 레즈할 때, 악평 1개를 갖는다.\r\n[Subroutine] <strong>추적<sup>1<\/sup><\/strong> - 성공하면 넷 피해 1점을 입힌다.\r\n[Subroutine] <strong>추적<sup>2<\/sup><\/strong> - 성공하면 넷 피해 2점을 입힌다.\r\n[Subroutine] <strong>추적<sup>3<\/sup><\/strong> - 성공하면 넷 피해 3점을 입히고 런을 종료한다."
     },
     {
         "code": "04116",
-        "title": "Marqueur",
-        "keywords": "Verrou"
+        "title": "표시기",
+        "keywords": "코드 게이트",
+        "text": "[Subroutine] 러너가 다음으로 대치하는 아이스는 이번 런 동안 다른 모든 서브루틴 뒤에 \"[Subroutine] 런을 종료한다.\"를 얻는다.",
+        "flavor": "\"그건 혼자선 아무 일도 못하는 녀석이야. 그저 널 침입자로 표시해두고 나머지는 다음 아이스가 처리하도록 하지.\" - 케이트 \"맥\" 맥카프리"
     },
     {
         "code": "04117",
-        "title": "La Ruche",
-        "keywords": "Barrière"
+        "title": "벌집",
+        "keywords": "방벽",
+        "text": "벌집은 기업의 득점 영역에 있는 아젠다 점수마다 \"[Subroutine] 런을 종료한다.\"를 잃는다.\r\n[Subroutine] 런을 종료한다.\r\n[Subroutine] 런을 종료한다.\r\n[Subroutine] 런을 종료한다.\r\n[Subroutine] 런을 종료한다.\r\n[Subroutine] 런을 종료한다."
     },
     {
         "code": "04118",
-        "title": "Subornation de Témoin",
-        "keywords": "Double"
+        "title": "목격자 매수",
+        "keywords": "이중",
+        "text": "이 운영을 플레이하기 위한 추가 비용으로 [Click]을 쓴다.\r\n악평을 2개까지 제거한다.",
+        "flavor": "\"자, 이제 당신이 6월 6일부터 16일까지의 기억에 대해 얼마나 많이 잊어버렸는지 이야기해 보죠.\""
     },
     {
         "code": "04119",
-        "title": "Contrat avec le DPNA",
-        "keywords": "Securité"
+        "title": "NAPD 계약",
+        "keywords": "보안",
+        "text": "NAPD 계약의 발전 필요 정도는 기업이 가진 악평마다 1씩 증가한다.\r\n러너는 NAPD를 훔치기 위해 추가 비용으로 4[Credits]을 지불해야 한다."
     },
     {
         "code": "04120",
-        "title": "Dilemme",
-        "keywords": "Verrou"
+        "title": "곤경",
+        "keywords": "코드 게이트",
+        "text": "[Subroutine] 런을 종료한다.",
+        "flavor": "그것은 커서 두 개의 서브루틴을 갖고 싶어 합니다."
     }
 ]

@@ -1,361 +1,361 @@
 [
     {
         "code": "05001",
-        "title": "Centre Médical Harmony Medtech : Précuseur Biomedical",
-        "keywords": "Division",
-        "text": "Chaque joueur a besoin de 1 point de projet de moins pour gagner la partie.",
-        "flavor": "Nous faisons évoluer le Meilleur de Vous-Même."
+        "title": "하모니 메드테크 : 의료 산업의 선두자",
+        "keywords": "사업부",
+        "text": "각 플레이어는 승리하기 위해 1 만큼 낮은 필요한 아젠다 점수를 필요로 한다.",
+        "flavor": "더 나은 당신으로 진화시켜드립니다."
     },
     {
         "code": "05002",
-        "title": "Division Nisei : La Prochaine Génération",
-        "keywords": "Division",
-        "text": "Lorsque le Runner et vous révélez des crédits dépensés secrètement, gagnez 1[Credits].",
-        "flavor": "Parfaire l'Imperfection."
+        "title": "니세이 디비전: 다음 세대",
+        "keywords": "사업부",
+        "text": "당신과 러너가 각자 몰래  지불한 크레딧을 공개할 때마다, 1[Credits]을 얻는다.",
+        "flavor": "불완전을 완전하게."
     },
     {
         "code": "05003",
-        "title": "Institut Tennin : Les Secrets Cachés",
-        "keywords": "Division",
-        "text": "Au début de votre tour, vous pouvez placer 1 pion Avancement sure un carte si le Runner n'a pas réussi de piratage durant son dernier tour."
+        "title": "텐닌 인스티튜트: 비밀이 숨겨진",
+        "keywords": "사업부",
+        "text": "당신의 차례가 시작될 때, 지난 러너의 차례에 러너가 런을 성공하지 않았다면 당신은 카드 하나에 발전 토큰 1개를 올려 놓을 수 있다."
     },
     {
         "code": "05004",
-        "title": "Maison Des Lames",
-        "keywords": "Sécurité",
-        "text": "Lorsque vous finalisez la Maison des Lames, placez 3 pions projet dessus.\r\n<strong>Pion projet hébergé<\/strong> : Infligez 1 dégât Réseau. N'utilisez cette capacité que pendant un piratage et une seule fois par piratage."
+        "title": "칼날들의 집",
+        "keywords": "보안",
+        "text": "당신이 칼날들의 집을 득점할 때, 아젠다 카운터 3개를 그 위에 놓는다.\r\n<strong>호스트된 아젠다 카운터<\/strong>: 넷 피해 1점을 준다. 이 능력은 런당 한 번, 런 중에만 사용한다."
     },
     {
         "code": "05005",
-        "title": "Percée Médicale",
-        "keywords": "Recherche",
-        "text": "La valeur d'avancement de chaque Percée Médicale est réduite de 1. Cette capacité est active même si la Percée Médicale est dans la zone de score du Runner.",
-        "flavor": "\"Vous ne sentirez pas cette piqûre. Ni quoi que ce soit d'autre, d'ailleurs\""
+        "title": "의학적 성과",
+        "keywords": "연구",
+        "text": "각 의학적 성과의 발전 필요 정도가 1만큼 감소한다. 이 능력은 의학적 성과가 러너의 득점 영역에 있더라도 활성화된다.",
+        "flavor": "\"그 부분에 있어서는 못 느끼실 거라고 말씀드리고 싶군요. 아니면 정말 아무 것도 못느끼실지도.\""
     },
     {
         "code": "05006",
-        "title": "Enchevêtrement Philotique",
-        "keywords": "Sécurité",
-        "text": "Lorsque vous finalisez l'Enchevêtrement Philotique, infligez au Runner 1 dégât Réseau pour chaque projet dans sa zone de score.\r\nMaximum 1 Enchevêtrement Philotique par deck."
+        "title": "파일로틱 함정",
+        "keywords": "보안",
+        "text": "당신이 파일로틱 함정을 득점할 때, 러너의 득점 영역에 있는 아젠다당 1점의 넷 피해를 입힌다.\r\n파일로틱 함정은 덱당 1장으로 제한된다."
     },
     {
         "code": "05007",
-        "title": "La Perfection Future",
-        "keywords": "Initiative - Psi",
-        "text": "Lorsque le Runner accède à La Perfection Future, le Runner et vous dépensez secrètement 0[Credits], 1[Credits], ou 2[Credits]. Révélez les crédits dépensés. Si le Runner et vous avez dépensé un nombre de crédits différent, prévenez le vol de La Perfection Future. Ignorez cet effet si le Runner accède à La Perfection Future alors qu'elle est installée."
+        "title": "미래 완료형",
+        "keywords": "계획 - 초능력",
+        "text": "러너가 미래 완료형에 액세스할 때, 당신과 러너는 각자 몰래 0[Credits]이나 1[Credits] 또는 2[Credits]을 지불한다. 지불한 크레딧을 공개한다. 당신과 러너가 소비한 크레딧 수가 서로 다르다면 러너가 미래 완료형을 훔치는 것을 방지한다. 러너가 설치된 미래 완료형을 액세스하면 이 능력은 무시된다."
     },
     {
         "code": "05008",
-        "title": "Président Hiro",
-        "keywords": "Cadre",
-        "text": "La taille maximale de la main du Runner est réduite de 2.\r\nSi le président Hiro est effacé lorsqu'on y accède, ajoutez-le à la zone de score du Runner comme un projet valant 2 points de projet."
+        "title": "히로 회장",
+        "keywords": "경영진",
+        "text": "러너의 최대 핸드 크기가 2만큼 줄어든다.\r\n히로 회장이 액세스 중에 폐기되면, 히로 회장을 러너의 점수 영역에 아젠다 점수 2점인 아젠다로써 더한다."
     },
     {
         "code": "05009",
-        "title": "Clinique Psychiatrique",
-        "keywords": "Infrastructure",
-        "text": "Gagnez 1[Credits] au début de votre tour.\r\nLa taille maximale de la main du Runner est augmentée de 1.",
-        "flavor": "Les murs blanchis à la chaux s'évannouirent tandis qu'un magnifique jardin zen apparaissait. Ce n'était qu'une illusion, mais une illusion réconfortante."
+        "title": "정신 치료 클리닉",
+        "keywords": "시설",
+        "text": "당신의 차례가 시작될 때 1[Credits]를 얻는다.\r\n러너의 최대 핸드 크기가 1만큼 증가한다.",
+        "flavor": "흰색 벽이 사라지고 아름다운 일본식 정원이 나타났다. 모든 것이 환상이었지만 편안하고 기분 좋은 환상이었다."
     },
     {
         "code": "05010",
-        "title": "Champ Psychique",
-        "keywords": "Embuscade - Psi",
-        "text": "Si le Champ Psychique est installé et que le Runner l'expose ou y accède, le Runner et vous dépensez secrètement 0[Credits], 1[Credits], or 2[Credits]. Révélez les crédits dépensés. Si le Runner et vous avez dépensez un nombre de crédits différent, infligez au Runner un nombre de dégâts Réseau égal au nombre de cartes dans sa main."
+        "title": "사이킥 역장",
+        "keywords": "매복 - 초능력",
+        "text": "러너가 사이킥 역장에 액세스할 때, 당신과 러너는 각자 몰래 0[Credits]이나 1[Credits] 또는 2[Credits]을 지불한다. 지불한 크레딧을 공개한다. 당신과 러너가 소비한 크레딧 수가 서로 다르다면 러너의 그립에 있는 카드당 넷 피해 1점을 입힌다."
     },
     {
         "code": "05011",
-        "title": "Shi.Kyū",
-        "keywords": "Embuscade",
-        "text": "Lorsque le Runner accède à Shi.Kyū, vous pouvez payer X[Credits]. Le Runner choisit entre subir X dégâts Réseau ou ajouter Shi.Kyū à sa zone de score comme un projet valant &minus;1 point de projet. Ignorez cette capacité si le Runner accède à Shi.Kyū depuis R&D."
+        "title": "시큐",
+        "keywords": "매복",
+        "text": "러너가 시큐를 액세스할 때, 당신은 X[Credits]을 지불할 수 있다. 러너는 넷 피해 X 점을 입거나 시큐를 점수 영역에 아젠다 점수 -1점인 아젠다로써 더해야만 한다. 러너가 연구개발부(R&D)로부터 시큐를 액세스하면 이 능력은 무시된다."
     },
     {
         "code": "05012",
-        "title": "Série Tenma",
-        "keywords": "Clone",
-        "text": "[Click]: Échangez les positions de 2 glaces installées.",
-        "flavor": "Les clones Tenma sont aujourd'hui la troisième série la plus lucrative de Jinteki, suite à l'expansion urbaine rapide ayant suivi la guerre. Leur temps de réaction, leur fiabilité et leur ponctualité font deux un choix de prédilection pour l'expédition et les services de transport."
+        "title": "텐마 운송회사",
+        "keywords": "클론",
+        "text": "[Click]: 설치된 아이스 2개를 맞바꾼다.",
+        "flavor": "텐마 클론들은 전쟁 직후 빠른 도시 구획 확장세를 탄 덕에 진테키의 세 번째로 고성장한 라인업이 되었다. 그들의 유례없는 반응 속도, 안전 기록, 정확성 등이 그들을 물류 및 운송 분야에 있어 최고의 자리에 올려놓았다."
     },
     {
         "code": "05013",
-        "title": "Entrave Cérébrale",
-        "keywords": "Douteuse - Psi",
-        "text": "Jouable uniquement si le Runner a réussi un piratage lors de son dernier tour.\r\nLe Runner et vous dépensez secrètement 0[Credits], 1[Credits], or 2[Credits]. Révélez les crédits dépensés. Si le Runner et vous avez dépensé un nombre de crédits différent, il choisit entre subir 1 dégât Neuro ou prendre 1 tag."
+        "title": "대뇌 시찰",
+        "keywords": "준비밀 작전 - 초능력",
+        "text": "지난 러너의 차례에 러너가 성공적인 런을 했어야만 플레이할 수 있다.\r\n당신과 러너는 각자 몰래 0[Credits]이나 1[Credits] 또는 2[Credits]을 지불한다. 지불한 크레딧을 공개한다. 당신과 러너가 소비한 크레딧 수가 서로 다르다면, 러너는 두뇌 피해 1점을 입거나 태그 1개를 받는다."
     },
     {
         "code": "05014",
-        "title": "Gala de Charité Médicale",
-        "keywords": "Transaction",
-        "text": "Gagnez 8[Credits]. Le Runner gagne 3[Credits].",
-        "flavor": "\"Ensemble, nous avons éradiqué toutes les maladies naturelles de la surface de la planète. Le nouveau spectre de la maladie synthétique - du bioterrorisme - exige que nous continuions nos efforts.\""
+        "title": "의학 연구 모금행사",
+        "keywords": "거래",
+        "text": "8[Credits]을 얻는다. 러너는 3[Credits]을 얻는다.",
+        "flavor": "\"우리는 힘을 합쳐 지구 상의 자연 발생 질병을 사실상 근절 시켰습니다. 인공 질병을 이용한 바이오 테러 위협이 이제 우리의 노력을 필요로 합니다."
     },
     {
         "code": "05015",
-        "title": "Mushin No Shin",
-        "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\r\nInstallez un Avoir, un Projet ou une Extension depuis le QG dans un nouveau serveur distant. Placez 3 pions Avancement sur cette carte. Vous ne pouvez pas finaliser ou activer cette carte avant votre prochain tour."
+        "title": "무신 노 신",
+        "keywords": "이중",
+        "text": "이 운영을 플레이하기 위한 추가 비용으로 [Click]을 쓴다.\r\n본부(HQ)로부터 자산, 아젠다, 개선 하나를 새 원격 서버에 설치한다. 그 카드에 발전 토큰 3개를 놓는다. 당신은 다음 당신의 차례가 시작될 때까지 그 카드를 득점하거나 레즈할 수 없다."
     },
     {
         "code": "05016",
-        "title": "Inazuma",
-        "keywords": "Verrou",
-        "text": "[Subroutine] Le Runner ne peut neutraliser aucune routine de la prochaine glace qu'il rencontre durant ce piratage.\r\n[Subroutine] Le Runner ne peut pas débrancher avant d'avoir rencontré la prochaine glace durant ce piratage.",
-        "flavor": "Piégé dans sa propre réalité, un runner paralysé ne peut même pas débrancher."
+        "title": "이나즈마",
+        "keywords": "코드 게이트",
+        "text": "[Subroutine] 러너는 이번 런 중에 러너가 대치하는 다음 아이스의 서브루틴을 깰 수 없다.\r\n[Subroutine] 러너는 이번 런 중에 러너가 대치하는 다음 아이스와의 대치가 끝나기 전까지 잭 아웃할 수 없다.",
+        "flavor": "자기 자신이 만든 현실에 갇힌 탓에, 마비된 러너는 잭 아웃조차 불가능하다."
     },
     {
         "code": "05017",
-        "title": "Komainu",
-        "keywords": "Sentinelle - AP",
-        "text": "Lorsque le Runner le rencontre, Komainu gagne jusqu'à la fin du piratage \"[Subroutine] Infligez 1 dégât Réseau.\" pour chaque carte dans la main du Runner."
+        "title": "코마이누",
+        "keywords": "파수 - AP",
+        "text": "러너가 코마이누와 대치할 때, 이번 남은 런 동안 코마이누는 러너의 그립에 있는 카드마다 \"[Subroutine] 넷 피해 1점을 입힌다.\"를 얻는다."
     },
     {
         "code": "05018",
-        "title": "Chiot",
-        "keywords": "Sentinelle - AP",
-        "text": "[Subroutine] Infligez un dégât Réseau sauf si le Runner paye 1[Credits].\r\n[Subroutine] Infligez un dégât Réseau sauf si le Runner paye 1[Credits].",
-        "flavor": "ouaf ouaf !"
+        "title": "강아지",
+        "keywords": "파수 - AP",
+        "text": "[Subroutine] 러너가 1[Credits]을 지불하지 않으면 넷 피해 1점을 입힌다.\r\n[Subroutine] 러너가 1[Credits]을 지불하지 않으면 넷 피해 1점을 입힌다.",
+        "flavor": "컹 컹!"
     },
     {
         "code": "05019",
-        "title": "Shiro",
-        "keywords": "Verrou",
-        "text": "[Subroutine] Regardez les 3 premières cartes de R&D et replacez-les dans l'ordre de votre choix.\r\n[Subroutine] Le Runner accède à la première carte de R&D sauf si la Corpo paye 1[Credits].",
-        "flavor": "Lorsque vous êtes enfermé dans la forteresse de votre propre esprit, prenez garde aux portes que vous ouvrez."
+        "title": "시로",
+        "keywords": "코드 게이트",
+        "text": "[Subroutine] 연구개발부(R&D)의 맨 위 카드 3장을 보고 원하는 순서대로 재배치한다.\r\n[Subroutine] 기업이 1[Credits]을 내지 않으면 러너는 연구개발부(R&D)의 맨 위 카드를 액세스한다.",
+        "flavor": "당신의 마음 속 요새에 갇히거든, 어떤 문을 열지 심사숙고하세요."
     },
     {
         "code": "05020",
-        "title": "Susanoo-No-Mikoto",
-        "keywords": "Sentinelle - Déflecteur",
-        "text": "[Subroutine] Si ce piratage n'est pas mené sur les Archives, le Runner mène désormais un piratage sur les Archives au lieu de passer Susanoo-No-Mikoto. Le Runner ne peut débrancher qu'après avoir rencontré une glace.",
-        "flavor": "Certaines zones du cyberespace sont dominées par une entité digitale unique. Les Runners les nomment 'dieux', et seul un miracle peut sauver les fous osant s'aventurer sur leur domaine."
+        "title": "스사 노오 미코토",
+        "keywords": "파수 - 디플렉터",
+        "text": "[Subroutine] 이미 기록보관소에 런을 수행 중이 아니라면, 러너는 스사 노오 미코토를 통과하는 대신 이제 기록보관소로 런을 수행하고 있는 중이다. 러너는 한 아이스와의 대치가 끝나기 전까지 잭 아웃할 수 없다.",
+        "flavor": "사이버스페이스의 몇몇 구역은 단 하나의 독립체에 의해 지배되고 있다. 러너들은 그들을 일컬어 '신'이라 부르는데, 그들의 영역에 발을 디딜만큼 멍청한 이들을 구하려면 기적에 의지해야 할 것이다."
     },
     {
         "code": "05021",
-        "title": "Grille de NéoTokyo",
-        "keywords": "Région",
-        "text": "À chaque tour, la première fois qu'un pion avancement est placé sur une carte dans ce serveur, gagnez 1[Credits].\r\nMaximum 1 <strong>région<\/strong> par serveur.",
-        "flavor": "Il est difficile d'aller au Japon sans se retrouver dans les méandres de NéoTokyo."
+        "title": "네오도쿄 그리드",
+        "keywords": "지역",
+        "text": "매 차례마다, 이 서버 안에 있는 카드에 발전 토큰이 처음으로 놓일 때, 1[Credits]을 얻는다.\r\n<strong>지역<\/strong>은 서버당 1개로 제한된다.",
+        "flavor": "네오도쿄의 거대한 외곽 구역을 지나지 않고 일본에 도달하는 것은 어렵다."
     },
     {
         "code": "05022",
-        "title": "Tori Hanzō",
-        "keywords": "Sysop",
-        "text": "La première fois que vous devriez infliger un ou plusieurs dégâts Réseau lors de chaque piratage sur ce serveur, vous pouvez à la place payer 2[Credits] pour infliger 1 dégât Neuro.",
-        "flavor": "Connue sous le surnom de La Femme Rouge, Hanzō est réputée pour ses méthodes impitoyable de protection des serveurs."
+        "title": "토리 한조",
+        "keywords": "시솝",
+        "text": "이 서버를 대상으로 한 런이 수행되는 동안 처음으로 몇 점이든 당신이 넷 피해를 입히면, 당신은 2[Credits]을 지불하여 그대신 1 두뇌 피해를 입힐 수 있다.",
+        "flavor": "레드 우먼으로도 알려진 한조는 무자비한 서버 보호 방법을 사용하는 것으로 악명 높다."
     },
     {
         "code": "05023",
-        "title": "Plan B",
-        "keywords": "Embuscade",
-        "text": "Plan B peut être avancé.\r\nSi le Runner accède au Plan B, Vous pouvez révéler et finaliser un projet du QG avec une valeur d'avancement inférieure ou égale au nombre de pions Avancement sur le Plan B."
+        "title": "플랜 B",
+        "keywords": "매복",
+        "text": "플랜 B는 발전될 수 있다.\r\n러너가 플랜 B를 액세스할 때, 당신은 플랜 B에 놓인 발전 토큰 수 이하의 발전 필요 정도를 가진 아젠다를 본부(HQ)로부터 공개하고 득점할 수 있다."
     },
     {
         "code": "05024",
-        "title": "Garde",
-        "keywords": "Sentinelle",
-        "text": "Le Garde ne peut pas être ignoré.\r\n[Subroutine] Arrêtez le piratage.",
-        "flavor": "À l'extrémité de son champ de vision, un éclair de lumière. Il ressentit un bruit sourd tandis que son emprise sur le cyberespace faiblissait. Spider n'aimait pas ça. Il aurait dû traverser la couche de glace externe en se connectant depuis le serveur interne. Un autre bruit sourd et son ossaturefût secouée par la résonnance de l'onde de choc. Il porta désespérément la main vers son shuriken…"
+        "title": "경비병",
+        "keywords": "파수",
+        "text": "경비병은 우회될 수 없다.\r\n[Subroutine] 런을 종료한다.",
+        "flavor": "그의 시야 끄트머리께에서 눈부신 섬광이 터졌다. 쿵하는 소리와 함께 그는 사이버스페이스의 연결이 느슨해지는 것을 느꼈다. 이건 거미와는 다른 감각이다. 내부서버에 잭 인하여 최외각 아이스를 우회해야만 했었다. 또 한 번 쿵하는 소리가 들렸고, 거대한 충격파에 그의 프레임이 통째로 요동치기 시작했다. 다급한 그는 수리검을 찾기 시작했다..."
     },
     {
         "code": "05025",
-        "title": "Arc-en-ciel",
-        "keywords": "Sentinelle - Verrou - Barrière",
-        "text": "[Subroutine] Arrêtez le piratage.",
-        "flavor": "Le rapport annuel de la FCSN met régulièrement en avant les glaces ayant le plus d'impact par rapport à leur taille et leur coût d'entretien. Les critiques de la FCSN considèrent que le taux de répulsion est le premier critère pour évaluer une glace."
+        "title": "무지개",
+        "keywords": "파수 - 코드 게이트 - 방벽",
+        "text": "[Subroutine] 런을 종료한다.",
+        "flavor": "NSCA는 그들이 발행하는 연간 아이스 리뷰에서 사이즈 대비 유지비 효율이 높은 아이스에 좋은 점수를 주고 있다. NSCA 측 평가단은 아이스를 평가할 때 탄성비를 가장 중요한 요소로 보고 있음을 지적한 바 있다."
     },
     {
         "code": "05026",
-        "title": "Portefeuille Diversifié",
-        "keywords": "Transaction",
-        "text": "Gagnez 1[Credits] pour chaque serveur distant contenant une carte installée.",
-        "flavor": "YuCafé a fait montre d'une croissance époustouflante, y compris dans les marchés les plus reculés."
+        "title": "다각화된 포트폴리오",
+        "keywords": "거래",
+        "text": "서버 안에 설치된 카드가 있는 원격 서버마다 1[Credits]을 얻는다.",
+        "flavor": "가장 멀리 떨어진 시장에서조차 유카빈은 엄청난 성과를 보여주고 있습니다."
     },
     {
         "code": "05027",
-        "title": "Recherche Accélérée",
-        "text": "Cherchez un projet dans votre R&D, révélez-le et ajoutez le à votre QG. Mélangez votre R&D.",
-        "flavor": "Moins les employés regardaient l'horloge de l'apocalypse, plus elle les obsédait. Un coup d'œil rapide ne faisait que confirmer ce qu'ils savaient déjà : ils manquaient de temps"
+        "title": "출세 가도",
+        "text": "연구개발부(R&D)에서 아젠다를 찾고, 그것을 공개한 다음, 본부(HQ)에 더한다. 연구개발부(R&D)를 섞는다.",
+        "flavor": "지구 종말 시계를 직원들이 바라보지 않는 시간이 길어질수록, 그것이 그들을 더욱더 괴롭힐 것이다. 슬쩍 훑어보는 것은 그저 그들이 이미 알고 있는 사실을 강요할 뿐이다: 시간이 그리 많지 않다."
     },
     {
         "code": "05028",
-        "title": "Iain Stirling : Espion à la Retraite",
-        "keywords": "Naturel",
-        "text": "Au début de votre tour, gagnez 2[Credits] si la Corpo a plus de points de projet dans sa zone de score que vous.",
-        "flavor": "\"La vérité est une maîtresse capricieuse.\""
+        "title": "이안 스털링: 은퇴한 첩자",
+        "keywords": "타고난 인재",
+        "text": "당신의 차례가 시작될 때, 기업이 득점한 아젠다 점수가 당신보다 높다면 2[Credits]을 얻는다.",
+        "flavor": "\"진실은 아주 변덕스러운 여인일세.\""
     },
     {
         "code": "05029",
-        "title": "Ken \"Express\" Tenma : Clone Disparu",
-        "keywords": "Clone",
-        "text": "La première fois que vous jouez un évènement <strong>piratage<\/strong> à chaque tour, gagnez 1[Credits].",
-        "flavor": "\"Essaye de suivre le rythme.\""
+        "title": "켄 \"익스프레스\" 텐마: 행방불명된 클론",
+        "keywords": "클론",
+        "text": "매 차례마다 당신이 첫 번째로 <strong>런<\/strong> 이벤트를 플레이할 때, 1[Credits]을 얻는다.",
+        "flavor": "\"따라와 보라고.\""
     },
     {
         "code": "05030",
-        "title": "Silhouette : Agent Furtif",
-        "keywords": "Naturel",
-        "text": "À chaque tour, la première fois que vous réussissez un piratage sur le QG, vous pouvez exposer une carte.",
-        "flavor": "\"Ne me faites pas perdre mon temps.\""
+        "title": "실루엣: 잠입 공작원",
+        "keywords": "타고난 인재",
+        "text": "매 차례마다 본부(HQ)로의 런에 첫 번째로 성공할 때, 당신은 카드 1장을 폭로할 수 있다.",
+        "flavor": "\"시간 허비하지 말죠.\""
     },
     {
         "code": "05031",
-        "title": "Renvoi d'Ascenseur",
-        "text": "Gagnez 1[Credits] pour chaque ressource <strong>relation<\/strong> installée.",
-        "flavor": "La réussite d'un crime dépend toujours du membre le plus faible. Heureusement, Miss Jones est très ponctuelle."
+        "title": "도움 요청",
+        "text": "설치된 <strong>연결<\/strong> 리소스마다 1[Credits]을 얻는다.",
+        "flavor": "이 일은 가장 약한 관계에 의해 그 성패가 갈린다. 다행히도 미스 존스는 절대 늦는 법이 없다."
     },
     {
         "code": "05032",
-        "title": "Lève-Tôt",
-        "keywords": "Priorité - Piratage",
-        "text": "Jouable uniquement à votre premier click.\r\nLancez un piratage et gagnez [Click].",
-        "flavor": "Leur cerveau étant conçu pour le traitement en parallèle, les Tenma excellent dans l'art de faire plusieurs choses à la fois."
+        "title": "일찍 일어나는 새",
+        "keywords": "긴급 - 런",
+        "text": "당신의 첫 클릭으로만 플레이할 수 있다.\r\n런을 수행하고 [Click]을 얻는다.",
+        "flavor": "병렬 프로세싱에 적합한 주문 제작 두뇌를 가진 텐마 클론들은 멀티 태스킹에 뛰어난 성능을 보인다."
     },
     {
         "code": "05033",
-        "title": "Livraison \"Express\"",
-        "text": "Regardez les 4 premières cartes de votre pile et ajoutez 1 de ces cartes à votre main. Mélangez votre pile.",
-        "flavor": "Le clone fut surpris de voir l'homme à la veste rouge. C'était comme se regarder dans un mirroir, sauf que le mirroir lui renvoyait une image… cool. Confiante. Unique."
+        "title": "속달",
+        "text": "당신의 스택 맨 위 카드 4장을 본 다음, 그 중 1장을 당신의 그립에 더한다. 당신의 스택을 섞는다.",
+        "flavor": "그 클론은 붉은 자켓을 입은 남자를 보고 소스라치게 놀랐다. 마치 거울을 보는 것 같았기 때문이다. 멋지고, 자신감 넘치는데다 독립적인 인격체로 그를 비춰주는... 그런 거울 말이다."
     },
     {
         "code": "05034",
-        "title": "Feinte",
-        "keywords": "Piratage",
-        "text": "Lancez un piratage sur le QG. Ignorez les deux premières glaces que vous rencontrez lors de ce piratage. S'il est réussi, vous ne pouvez accéder à aucune carte.",
-        "flavor": "Stirling entra dans le serveur, s'approchant d'une glace qui se mit à grogner. Il était désarmé… du moins en apparence"
+        "title": "페인트",
+        "keywords": "런",
+        "text": "본부(HQ)에 런을 수행한다. 이번 런 중에 대치한 첫 2개의 아이스를 우회한다. 성공하면, 당신은 아무 카드도 액세스할 수 없다.",
+        "flavor": "스털링은 으르렁거리는 아이스들을 넘어 서버에 들어섰다. 그는 비무장인 채였다... 적어도 그렇게 보였다."
     },
     {
         "code": "05035",
-        "title": "Collecte d'Informations",
-        "keywords": "Piratage",
-        "text": "Lancez un piratage sur le QG. S'il est réussi, accédez à 2 cartes supplémentaires du QG.",
-        "flavor": "\"Je travaille sur références uniquement, et je demande une avance. Le tarif est raisonnable si vous accordez de l'importance aux résultats.\" - Silhouette"
+        "title": "탐문수사",
+        "keywords": "런",
+        "text": "본부(HQ)로 런을 수행한다. 성공하면, 본부(HQ)로부터 카드 2장을 추가로 액세스한다.",
+        "flavor": "\"난 소개로만, 그리고 선불로만 일을 하지. 그쪽이 결과물을 정말 중요한 거라고 생각한다면 가격은 합리적인 편이야.\" - 실루엣"
     },
     {
         "code": "05036",
-        "title": "Attaque Planifiée",
-        "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cet évéement.\r\nCherchez un événement <strong>piratage<\/strong> dans votre pile et jouez cet événement (en payant son coût), enignorant les coûts additionnels. Mélangez votre pile."
+        "title": "계획된 강습",
+        "keywords": "이중",
+        "text": "이 이벤트를 플레이하기 위한 추가 비용으로 [Click]을 쓴다.\r\n당신의 스택에서 <strong>런<\/strong> 이벤트를 찾고, 모든 추가 비용을 무시하고 그 <strong>런<\/strong> 이벤트를 플레이한다.(플레이를 위한 비용은 지불해야 한다.) 당신의 스택을 섞는다."
     },
     {
         "code": "05037",
-        "title": "Logos",
-        "keywords": "Console",
-        "text": "+1[Memory Unit]\r\nVotre taille de main est augmenté de 1.\r\nÀ chaque fois que la Corpo finalise un projet, vous pouvez chercher une carte dans votre pile et l'ajouter à votre main. Mélangez votre pile.\r\nMaximum 1 <strong>console<\/strong> en jeu."
+        "title": "로고스",
+        "keywords": "콘솔",
+        "text": "+1[Memory Unit]\r\n당신의 최대 핸드 크기를 1만큼 증가시킨다.\r\n기업이 아젠다를 득점할 때마다, 당신은 당신의 스택에서 카드 하나를 찾아 그립에 더할 수 있다. 당신의 스택을 섞는다.\r\n<strong>콘솔<\/strong>은 플레이어당 1장으로 제한된다."
     },
     {
         "code": "05038",
-        "title": "Terminal Public",
-        "text": "1[Recurring Credits]\r\nN'utilisez ce crédit que pour jouer les événements <strong>piratage<\/strong>.",
-        "flavor": "Express adorait les bibliothèques. Les consoles y étaient de mauvaise qualité, mais la sécurité encore pire. Il téléchargea son code à distance et commença à cloner le disque dur. Dans quelques minutes, un nouveau zombie émergerait à la surface du cyberespace."
+        "title": "공공 단말기",
+        "text": "1[Recurring Credits]\r\n<strong>런<\/strong> 이벤트를 플레이할 때만 이 크레딧을 사용한다.",
+        "flavor": "전달책은 도서관을 즐겨 찾았다. 콘솔은 취약했지만, 보안은 더더욱 취약했다. 그는 원격으로 그가 직접 조합한 코드를 업로드했고 드라이브를 복사하기 시작했다. 이제 몇 분이면, 또다른 좀비가 사이버스페이스 표면을 향해 발톱을 세우리라."
     },
     {
         "code": "05039",
-        "title": "Smith & Wesson 35 de Contrebande",
-        "keywords": "Arme",
-        "text": "N'utilez le Smith & Wesson 35 de Contrebande que si vous avez réussi un piratage sur le QG ce tour-ci.\r\n[Click], [Click]: Effacez un <strong>bioroïde<\/strong>, un <strong>clone<\/strong>, un<strong>cadre<\/strong> or un <strong>sysop<\/strong> activé dans un serveur sans payer son coût d'effacement."
+        "title": "미등록 S&W '35",
+        "keywords": "무장",
+        "text": "당신이 이번 차례에 본부로의 런을 성공했을 때만 미등록 S&W '35를 사용한다.\r\n[Click], [Click]: 서버 안의 레즈된 <strong>바이오로이드<\/strong>, <strong>클론<\/strong>, <strong>경영진<\/strong>, <strong>시솝<\/strong> 1장을 폐기비용을 지불하지 않고  폐기한다."
     },
     {
         "code": "05040",
-        "title": "Fenêtre",
-        "text": "[Click]: Piochez 1 carte du dessous de votre pile.",
-        "flavor": "L'herbe semblait plus verte de l'autre coté de la faille. Comme toujours, et il y avait toujours une autre faille."
+        "title": "창문",
+        "text": "[Click]: 당신의 스택 맨 밑에서 카드 1장을 뽑는다.",
+        "flavor": "틈 건너편의 풀밭은 더욱 푸르러 보였다. 하지만 그것은 늘 변함없었고, 항상 그곳엔 다른 틈도 있었다."
     },
     {
         "code": "05041",
-        "title": "Alias",
-        "keywords": "Brise-glace - Tueur",
-        "text": "1[Credits]: Neutralisez une routine <strong>sentinelle<\/strong>.\r\n2[Credits]: Force +3.\r\nAlias ne peut pas être utilisé sur une glace protégeant un serveur distant.",
-        "flavor": "Il est facile de modifier son apparence dans le cyberespace, mais un rendu de bonne qualité n'est pas aisé à obtenir."
+        "title": "가명",
+        "keywords": "아이스브레이커 - 킬러",
+        "text": "1[Credits]: <strong>파수<\/strong> 서브루틴을 깬다.\r\n2[Credits]: 힘을 +3 한다.\r\n가명은 원격 서버를 보호하는 아이스에 사용할 수 없다.",
+        "flavor": "사이버스페이스에서 외모를 바꾸는 것은 쉬운 일이지만, 고품질의 렌더링은 쉽게 흉내낼 수 있는 것이 아니다."
     },
     {
         "code": "05042",
-        "title": "Brèche",
-        "keywords": "Brise-glace - Fragmenteur",
-        "text": "2[Credits]: Neutralisez jusqu'à 3 routines <strong>barrière<\/strong>.\r\n2[Credits]: Force +4.\r\nBrèche ne peut pas être utilisé sur une glace protégeant un serveur distant."
+        "title": "돌파",
+        "keywords": "아이스브레이커 - 프랙터",
+        "text": "2[Credits]: <strong>방벽<\/strong> 서브루틴을 3개까지 깬다.\r\n2[Credits]: 힘을 +4 한다.\r\n돌파는 원격 서버를 보호하는 아이스에 사용할 수 없다."
     },
     {
         "code": "05043",
-        "title": "Punaise",
-        "text": "Jouable uniquement si vous avez réussi un piratage sur le QG ce tour-ci.\r\nÀ chaque fois que la Corpo pioche une carte, vous pouvez payer 2[Credits] pour révéler cette carte.",
-        "flavor": "L'équivalent digital d'une mouche sur un mur."
+        "title": "버그",
+        "text": "당신이 이번 차례에 본부(HQ)로의 런을 성공했을 때만 설치한다.\r\n기업이 카드 한 장을 뽑을 때마다, 당신은 2[Credits]을 지불하고 그 카드를 공개할 수 있다.",
+        "flavor": "디지털 세계의 벽에 붙은 파리."
     },
     {
         "code": "05044",
-        "title": "Bonhomme de Pain d'Épices",
-        "keywords": "Brise-glace",
-        "text": "1[Credits]: Neutralisez une routine <strong>traqueur<\/strong>.\r\n2[Credits]: Force +3.",
-        "flavor": "Attrape-moi si tu peux !"
+        "title": "생강 쿠키",
+        "keywords": "아이스브레이커",
+        "text": "1[Credits]: <strong>추적자<\/strong> 서브루틴을 깬다.\r\n2[Credits]: 힘을 +3 한다.",
+        "flavor": "잡을 수 있으면 잡아봐!"
     },
     {
         "code": "05045",
-        "title": "Grappin",
-        "text": "[Trash]: Neutralisez toutes les routines d'une glace sauf 1.",
-        "flavor": "Si la rapidité est essentielle, l'approche indirecte d'une glace est en général la meilleure méthode."
+        "title": "갈고리",
+        "text": "[Trash]: 아이스 하나의 서브루틴 중 1개를 제외하고 모두 깬다.",
+        "flavor": "속도가 중요하다면, 간접적으로 대치하는 것이 일반적으로 최선의 상황이다."
     },
     {
         "code": "05046",
-        "title": "Passeport",
-        "keywords": "Brise-glace - Décrypteur",
-        "text": "1[Credits]: Neutralisez une routine <strong>verrou<\/strong>.\r\n2[Credits]: Force +2.\r\nPasseport ne peut pas être utilisé sur une glace protégeant un serveur distant.",
-        "flavor": "Rien n'est suffisamment protégé si vous avez la bonne documentation."
+        "title": "여권",
+        "keywords": "아이스브레이커 - 디코더",
+        "text": "1[Credits]: <strong>코드 게이트<\/strong> 서브루틴을 깬다.\r\n2[Credits]: 힘을 +2 한다.\r\n여권은 원격서버를 보호하는 아이스에 사용할 수 없다.",
+        "flavor": "당신이 제대로 된 문서들을 가지고 있는 한 그 무엇도 안전하지 않다."
     },
     {
         "code": "05047",
-        "title": "Pari Risqué",
-        "text": "Dépensez secrètement n'importe quel nombre de crédits. La Corpo doit deviner si vous avez dépensé un nombre pair ou impair de crédits. Révélez les crédits dépensés. Si la Corpo s'est trompée, gagnez le double des crédits dépensés."
+        "title": "운 시험하기",
+        "text": "몰래 원하는만큼 크레딧을 지불한다. 기업은 당신이 지불한 금액이 짝수인지 홀수인지 짐작하여 말한다. 지불한 크레딧을 공개한다. 기업이 짐작한 것이 틀리다면, 지불한 크레딧의 두 배만큼 크레딧을 얻는다."
     },
     {
         "code": "05048",
-        "title": "Test de Sécurité",
-        "keywords": "Crime",
-        "text": "Au début de votre tour, choisissez un serveur. La première fois que vous réussissez un piratage sur ce serveur ce tour-ci, au lieu d'accéder à des cartes, gagnez 2[Credits].",
-        "flavor": "Elle a été aussi efficace que Mr. Li le disait. La machine source a été infectée en moins de 24 heures. Si un agent indépendant pouvait faire ça, le serveur n'était manifestement pas prêt à endurer les assauts des légions des runners corporatistes de Gagarin"
+        "title": "보안 테스팅",
+        "keywords": "범행",
+        "text": "당신의 차례가 시작될 때, 서버 하나를 선택한다. 이번 차례에 당신이 그 서버로의 런에 첫 번째로 성공할 때, 카드를 액세스하는 대신, 2[Credits]을 얻는다.",
+        "flavor": "미스터 리가 얘기한대로 그녀의 실력은 대단했다. 24시간이 채 가기도 전에 소스 머신을 뚫는 데 성공했다. 다른 프리랜서 요원들도 그 정도는 할 수 있었겠지만, 가가린 휘하의 러너 군단을 서버가 버텨내지 못했으리라."
     },
     {
         "code": "05049",
-        "title": "Théophilius Bagbiter",
-        "keywords": "Relation",
-        "text": "Lorsque vous installez Théophilius Bagbiter, perdez tous les crédits de votre réserve.\r\nVotre taille maximale de main est égale au nombre de crédits dans votre réserve.",
-        "flavor": "\"Quelle différence y a-t-il entre un pigeon?\""
+        "title": "테오필리우스 백바이터",
+        "keywords": "연결",
+        "text": "당신이 테오필리우스 백바이터를 설치할 때, 크레딧 풀의 모든 크레딧을 잃는다.\r\n당신의 최대 핸드 크기는 크레딧 풀에 있는 크레딧의 수와 같다.",
+        "flavor": "\"까마귀는 왜 타이핑 책상과도 같을까?\""
     },
     {
         "code": "05050",
-        "title": "Contact Tri-Maf",
-        "keywords": "Relation",
-        "text": "Vous ne pouvez utiliser Contact Tri-Maf qu'une fois par tour.\r\n[Click]: Gagnez 2[Credits].\r\nLorsque Contact Tri-Maf est éffacé, subissez 3 dégâts Hémos.",
-        "flavor": "Elle remonta sur son hopper. \"Je fais partie de ta famille, maintenant, alors ne me déçois pas, dǒng ma ?\"\nIl retira son e-clope de sa bouche et hocha de la tête. Dans quoi s'était-il embarqué ?"
+        "title": "트라이-마프 접선",
+        "keywords": "연결",
+        "text": "당신은 차례마다 한 번을 초과해 트라이-마프 접선을 사용할 수 없다.\r\n[Click]: 2[Credits]을 얻는다.\r\n트라이-마프 접선이 폐기될 때, 육체 피해 3점을 입는다.",
+        "flavor": "그녀는 미끄러지듯 호퍼에 올라탔다. \"이제 우린 한 식구야, 그러니 장난질치지 마, 알아먹었어?\"\r\n그는 e-시가를 입에서 떼고 살짝 털어내며 고개를 끄덕였다. 그가 무슨 일에 발을 들이밀고 만 것일까?"
     },
     {
         "code": "05051",
-        "title": "Installation Massive",
-        "text": "Installez jusqu'à 3 programmes de votre mai (en payant les coûts d'installation).",
-        "flavor": "\"Bienvenue dans l'assistant d'installation massive ! Cet assistant va vous guider tout au long de l'installation d'un tas de programmes dans votre station probablement inadéquate. Lorsque vous êtes prêt, dites - oups, trop tard, ça a commencé !\""
+        "title": "다중 설치",
+        "text": "그립으로부터 프로그램을 3개까지 설치한다.(설치비용은 지불해야 한다.)",
+        "flavor": "\"다중 설치 마법사에 오신 것을 환영합니다! 이 마법사는 항상 부족한 당신의 릭에 대량의 프로그램을 설치하는 과정으로 당신을 안내할 것입니다. 계속할 준비가 되면 이-런이라고 외치세요, 너무 늦네요, 시작합니다!\""
     },
     {
         "code": "05052",
-        "title": "Puce de Q-Cohérence",
-        "keywords": "Puce",
-        "text": "+1[Memory Unit]\r\nEffacez la Puce de Q-Cohérence lorsqu'un programme est effacé.",
-        "flavor": "L'un des problèmes principaux du calcul quantique est d'isoler le système des facteurs externes pour éviter la décohérence. La puce de Q-Cohérence est l'une des solutions, imparfaite, à ce problème."
+        "title": "Q-결맞음 칩",
+        "keywords": "칩",
+        "text": "+1[Memory Unit]\r\n설치된 프로그램이 폐기될 때, Q-결맞음 칩을 폐기한다.",
+        "flavor": "퀀텀 컴퓨팅의 핵심 문제점 중 하나는 결어긋남 현상을 방지하기 위해 시스템을 외부의 요인과 격리시킨다는 것이다. Q-결맞음 칩은 그에 대한, 불완전한, 해결책 중 하나이다."
     },
     {
         "code": "05053",
-        "title": "Maître-Esprit",
-        "keywords": "Brise-glace - AI",
-        "text": "Lors de son installation, placez un pion Pouvoir sur Maître-esprit pour chaque UM inutilisée.\r\n<strong>Pion Pouvoir hébergé<\/strong> : Neutralisez une routine de glace.\r\n1[Credits]: Force +1."
+        "title": "오버마인드",
+        "keywords": "아이스브레이커 - AI",
+        "text": "오버마인드가 설치될 때, 사용하지 않은 메모리마다 파워 카운터 1개를 그 위에 놓는다.\r\n<strong>호스트된 파워 카운터<\/strong>: 아이스의 서브루틴을 깬다.\r\n1[Credits]: 힘을 +1 한다."
     },
     {
         "code": "05054",
-        "title": "Oracle May",
-        "keywords": "Relation",
-        "text": "Vous ne pouvez utiliser Oracle May qu'une fois par tour.\r\n[Click]: Énoncez un type de carte. Révélez la première carte de votre deck. Si elle est du type énoncé, piochez-la et gagnez 2[Credits]. Sinon, effacez-la.",
-        "flavor": "\"Le meilleur endroit pour se cacher est au vu et au su de tout le monde, tu ne crois pas ?\""
+        "title": "오라클 메이",
+        "keywords": "연결",
+        "text": "당신은 차례마다 한 번을 초과해 오라클 메이를 사용할 수 없다.\r\n[Click]: 카드 종류 하나를 부른다. 당신의 스택 맨 위 장을 공개한다. 공개한 카드가 당신이 부른 카드 종류라면, 그 카드를 뽑고 2[Credits]을 얻는다. 그렇지 않다면, 그것을 폐기한다.",
+        "flavor": "\"등잔 밑이 어둡다고들 하죠, 정말 그렇지 않아요?\""
     },
     {
         "code": "05055",
-        "title": "Donut Taganes",
-        "keywords": "Relation",
-        "text": "Le coût des opérations et des événements est augmenté de 1.",
-        "flavor": "On peut trouver Donut dans le parc les jeudis après-midi, en train de jouer au backgammon. Pour attirer son attention, un seul moyen : une tasse de café et un donut. Vous pouvez alors vous asseoir à sa table, et vous pouvez discuter affaires et tarifs jusqu'à ce qu'il gagne."
+        "title": "도넛 타가네스",
+        "keywords": "연결",
+        "text": "운영과 이벤트를 플레이하기 위한 비용이 1만큼 증가한다.",
+        "flavor": "목요일 오후 공원에 들르면, 당신은 백게먼을 하고 있는 도넛을 볼 수 있을 것이다. 그의 주의를 끌기 위한 댓가는 늘 똑같다: 커피 한 잔과 도넛 하나. 그걸로 백게먼 탁자의 자리를 빌렸다면, 그가 당신을 이길 때까지 비즈니스 이야기를 하고 가격 협상을 하면 된다."
     }
 ]

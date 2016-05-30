@@ -1,35 +1,53 @@
 [
     {
         "code": "10001",
-        "title": null
+        "title": "Amok-Run",
+        "keywords": "Run - Sabotage",
+        "text": "Führe einen Run durch. Wenn der Run endet, zerstöre 1 Ice, das während dieses Runs geladen worden ist. (Regeltext beinhaltet Errata)",
+        "flavor": "\"Auch wenn es vorher schon Anti-Konzern-Bewegungen gegeben hat, wie zum Beispiel die Maroon-Welle, ist die neue doch was ganz anders. Sie ist organisiert.\" -Ramesh Gupta, Die Ökonomie der Einen Welt"
     },
     {
         "code": "10002",
-        "title": null
+        "title": "Ramujan-Reliant 550 BMI",
+        "keywords": "Endverbraucher",
+        "text": "[Trash]: Verhindere bis zu X Netz- oder Hirnschaden. Zerstöre so viele Karten oben von deinem Stapel wie Schaden verhindert wurde. X ist die Anzahl der installierten Kopien von Ramujan-Reliant 550 BMI (einschließlich der gerade zerstörten). Maximal 6 pro Deck. (Regeltext beinhaltet Errata)"
     },
     {
         "code": "10003",
-        "title": null
+        "title": "Strassenmagie",
+        "keywords": "Virtuell",
+        "text": "Nicht ausgeschaltete Subroutinen werden in der Reihenfolge deiner Wahl abgehandelt.",
+        "flavor": "Der größte Trick liegt nicht im Trick selbst, sondern darin, jemanden glauben zu machen, dass es gar keinen Trick gibt. Für den normalen Sysop ist es Magie. Für den normalen Runner ist es ein gut gehütetes Berufsgeheimnis."
     },
     {
         "code": "10004",
-        "title": null
+        "title": "Risikojob",
+        "keywords": "Run - Job",
+        "text": "Führe einen Run auf ein System mit mindestens 1 ungeladenem Ice durch. Wenn der Run endet, erhältst du 12[Credits], falls er erfolgreich war."
     },
     {
         "code": "10005",
-        "title": null
+        "title": "Mungo",
+        "keywords": "Ice-Brecher - Killer",
+        "text": "Du kannst Mungo nicht verwenden, um Subroutinen auf mehr als einem Ice pro Run auszuschalten."
     },
     {
         "code": "10006",
-        "title": null
+        "title": "Jesminder Sareen: Das Mädchen hinter dem Schleier",
+        "keywords": "Natürlich",
+        "text": "Verhindere die erste Markierung in jedem Run.",
+        "flavor": "\"Spiegelmodus ein.\""
     },
     {
         "code": "10007",
-        "title": null
+        "title": "Maya",
+        "keywords": "Konsole",
+        "text": "+2[Memory Unit] Einmal pro Zug, sofort, nachdem du auf eine Karte von F&E zugegriffen hast, kannst du diese Karte unter F&E legen. Falls du dies tust, bekommst du 1 Markierung verpasst. Maximal 1 Konsole pro Spieler."
     },
     {
         "code": "10008",
-        "title": null
+        "title": "Panchatantra",
+        "text": "Einmal pro Zug, wenn du auf ein Ice triffst, kannst du ihm für den Rest dieses Runs 1 Unterart deiner Wahl geben, mit Ausnahme von <strong>Wächter<\/strong>, <strong>Code-Zugang<\/strong> oder <strong>Barriere<\/strong>."
     },
     {
         "code": "10009",
@@ -45,7 +63,9 @@
     },
     {
         "code": "10012",
-        "title": null
+        "title": "Vikram 1.0",
+        "keywords": "Wächter - Bioroid - Spürhund - AP",
+        "text": "Der Runner kann [Click] zahlen, um eine beliebe Subroutine auf Vikram 1.0 auszuschalten.[Subroutine] Der Runner kann für den Rest dieses Runs keine Programme verwenden.[Subroutine] <strong>Aufspüren<sup>4<\/sup><\/strong>– Bei Erfolg verursache 1 Hirn-Schaden.[Subroutine] <strong>Aufspüren<sup>4<\/sup><\/strong>– Bei Erfolg verursache 1 Hirn-Schaden."
     },
     {
         "code": "10013",

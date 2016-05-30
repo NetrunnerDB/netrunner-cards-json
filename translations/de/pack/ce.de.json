@@ -1,98 +1,130 @@
 [
     {
         "code": "02041",
-        "title": "Neurotoxique",
-        "keywords": "Virus"
+        "title": "Nervenkampfstoff",
+        "keywords": "Virus",
+        "text": "Immer, wenn du einen erfolgreichen Run auf HQ durchführst, lege 1 Viruszähler auf Nervenkampfstoff.\nImmer, wenn du auf Karten vom HQ zugreifst, darfst du für jeden auf Nervenkampfstoff liegenden Viruszähler außer dem ersten auf eine zusätzliche Karte zugreifen."
     },
     {
         "code": "02042",
         "title": "Joshua B.",
-        "keywords": "Relation"
+        "keywords": "Kontakt",
+        "text": "Wenn dein Zug beginnt, kannst du [Click] erhalten. Wenn du das tust, bekommst du 1 Markierung verpasst, wenn dein Zug endet.",
+        "flavor": "\"Meine Verbesserungen haben eine lebenslange Garantie und sie sind das Risiko mehr als wert.\""
     },
     {
         "code": "02043",
-        "title": "Arrêt d'Urgence",
-        "keywords": "Sabotage"
+        "title": "Notabschaltung",
+        "keywords": "Sabotage",
+        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf HQ durchgeführt hast.\nEntlade ein Ice.",
+        "flavor": "\"Stellt es euch einfach als ein virtuelles Elektronikhalsband zum Bestrafen der Konzern-Haustiere vor.\" -Andromeda"
     },
     {
         "code": "02044",
-        "title": "Armure Muresh",
-        "keywords": "Équipement"
+        "title": "Muresh-Kampfanzug",
+        "keywords": "Ausstattung",
+        "text": "Verhindere den ersten Punkt Körperschaden in jedem Zug.",
+        "flavor": "Leicht und figurbetont. Fühlt sich an, wie eine zweite kugelsichere Haut."
     },
     {
         "code": "02045",
-        "title": "Mouchard"
+        "title": "Spitzel",
+        "text": "Einmal pro Run darfst du ein ungeladenes Ice enthüllen, wenn du dich ihm näherst. Du darfst dann ausstöpseln.",
+        "flavor": "\"Ein Spitzel is die beste Freundin eines Mädchens.\" - Andromeda"
     },
     {
         "code": "02046",
-        "title": "Chaos Theory: Surdouée",
-        "keywords": "G-mod"
+        "title": "Chaostheorie: Wunderkind",
+        "keywords": "G-mod",
+        "text": "+1[Memory Unit]",
+        "flavor": "\"Kennst du Dinosaurus schon?\""
     },
     {
         "code": "02047",
-        "title": "Version de Démo"
+        "title": "Testlauf",
+        "text": "Durchsuche deinen Stapel oder deine Ablage nach einem Programm. Installiere das Programm, ohne die Kosten zu beszahlen. Mische deinen Stapel, falls du ihn durchsucht hast. Wenn dieser Zug endet, lege das Programm oben auf deinen Stapel, falls es immer noch installiert ist."
     },
     {
         "code": "02048",
-        "title": "Dinosaure",
-        "keywords": "Console"
+        "title": "Dinosaurus",
+        "keywords": "Konsole",
+        "text": "Dinosaurus kann einen einzigen <strong>Icebrecher<\/strong> hosten, der keine <strong>KI<\/strong> ist. Die Speicherkosten für den gehosteten <strong>Icebrecher<\/strong> zählen nicht gegen dein Speicherlimit.\nDer gehostete <strong>Icebrecher<\/strong> hat +2 Stärke.\nNur 1 <strong>Konsole<\/strong> pro Spieler."
     },
     {
         "code": "02049",
-        "title": "Atelier Privé",
-        "keywords": "Lieu"
+        "title": "Private Werkstatt",
+        "keywords": "Ort",
+        "text": "[Click]: Hoste ein Programm oder ein Stück Hardware aus deinem Griff auf Private Werkstatt und lege Wirkungszähler in Höhe der Installationskosten darauf.\n1[Credits]: Entferne 1 Wirkungszähler von einer gehosteten Karte.\nWenn dein Zug beginnt, entferne 1 Wirkungszähler von einer gehosteten Karte.\nWenn keine Wirkungszähler mehr auf einer gehosteten Karte sind, installiere sie, ohne die Kosten zu bezahlen."
     },
     {
         "code": "02050",
-        "title": "Soutien du Public"
+        "title": "Öffentliches Mitgefühl",
+        "text": "Deine Handkartenzahl wird um 2 erhöht.",
+        "flavor": "\"Ich bin nur dankbar, dass der Hirnschaden reversibel ist. Mit der Unterstützung der Stadt New Angeles hoffe ich, bald wieder auf den Beinen zu sein, und meine Kunst bald wieder ausüben zu können.\" - Kate \"Mac\" McCaffrey"
     },
     {
         "code": "02051",
-        "title": "Projet Vitruve",
-        "keywords": "Recherche"
+        "title": "Projekt Vitruvius",
+        "keywords": "Forschung",
+        "text": "Wenn du die Punkte für Projekt Vitruvius erzielst, lege für jeden darauf liegenden Entwicklungsmarker über 3 einen Agendazähler auf Projekt Vitruvius.\n<strong>Gehosteter Agendazähler:<\/strong> Füge 1 Karte vom Archiv dem HQ hinzu."
     },
     {
         "code": "02052",
-        "title": "Vipère",
-        "keywords": "Verrou - Traqueur"
+        "title": "Viper",
+        "keywords": "Code-Zugang - Spürhund",
+        "text": "<strong>[Subroutine]Aufspüren<sup>3<\/sup><\/strong> - Bei Erfolg verliert der Runner [Click], wenn möglich.\n<strong>[Subroutine] Aufspüren<sup>3<\/sup><\/strong> - Bei Erfolg beende den Run.",
+        "flavor": "Tritt nicht auf mich."
     },
     {
         "code": "02053",
-        "title": "Au Bord du Monde",
-        "keywords": "Embuscade"
+        "title": "Rand der Welt",
+        "keywords": "Hinterhalt",
+        "text": "Falls Rand der Welt installiert ist und du 3[Credits] zahlst, wenn der Runner darauf zugreift, verursache 1 Hirn-Schaden für jedes Ice, dass dieses System schützt."
     },
     {
         "code": "02054",
-        "title": "Coucher de Soleil"
+        "title": "Sonnenuntergang",
+        "text": "Wähle ein System. Ordne das Ice, das dieses System schützt, in beliebiger Reihenfolge.",
+        "flavor": "\"Du hast noch keinen Run durchgezogen, bevor du nicht gesehen hast, wie die Cybersonne hinter der Großen Stadt versinkt und sich der Raum um dich herum mit Farben füllt, die du dir gar nicht vorstellen kannst.\" - Kate \"Mac\" McCaffrey"
     },
     {
         "code": "02055",
-        "title": "Comptes Marqués",
-        "keywords": "Transaction"
+        "title": "Markierte Konten",
+        "keywords": "Transaktion",
+        "text": "Wenn dein Zug beginnt, nimm 1[Credits] von Markierte Konten, wenn möglich.\n[Click]: Lege 3[Credits] aus der Credit-Bank auf Markierte Konten."
     },
     {
         "code": "02056",
-        "title": "Pop-up",
-        "keywords": "Verrou - Publicité"
+        "title": "Pop-up Fenster",
+        "keywords": "Code-Zugang - Werbung",
+        "text": "Wenn der Runner auf Pop-ip-Fenster trifft, erhälst du 1[Credits].\n[Subroutine] Beende den Run, falls der Runner nicht 1[Credits] zahlt.",
+        "flavor": "\"Versuch mal, es zu schließen. Mach schon. Sieh nach, was es tut.\" - Chaostheorie"
     },
     {
         "code": "02057",
-        "title": "Bûcheron",
-        "keywords": "Sentinelle - AP"
+        "title": "Holzfäller",
+        "keywords": "Wächter - AP",
+        "text": "Holzfäller kann nur entwickelt werden, solange er geladen ist, und erhält \"[Subroutine] Verursache 1 Netzschaden.\" für jeden Entwicklungsmarker auf ihm.",
+        "flavor": "Hack, hack."
     },
     {
         "code": "02058",
-        "title": "Commercialisation",
-        "keywords": "Transaction"
+        "title": "Kommerzialisierung",
+        "keywords": "Transaktion",
+        "text": "Wähle ein Ice. Erhalte 1[Credits] für jeden Entwicklungsmarker auf diesem Ice.",
+        "flavor": "Die Einnahmen durch die Abteilung für Randapplikationen erhöhte sich um 37% im Gegensatz zum Vorjahr, nachdem der Konzern herausgefunden hatte, dass viele ihrer Projekte sich wirklich wunderbar als Spielsachen machten."
     },
     {
         "code": "02059",
-        "title": "Contrats Privés",
-        "keywords": "Transaction"
+        "title": "Nebeneinkünfte",
+        "keywords": "Transaktion",
+        "text": "Lege 14[Credits] aus der Credit-Bank auf Nebeneinkünfte, wenn sie geladen wird. Wenn keine Credits mehr auf Nebeneinkünfte sind, zerstöre sie.\n[Click]: Nimm 2[Credits] von Nebeneinkünfte."
     },
     {
         "code": "02060",
-        "title": "Chimère",
-        "keywords": "Mythique"
+        "title": "Chimäre",
+        "keywords": "Mythisch",
+        "text": "Wenn du Chimäre lädst, wähle <strong>Wächter<\/strong>, <strong>Code-Zugang<\/strong>, oder <strong>Barriere<\/strong>. Chimäre erhält diese Unterart, bis es wieder entladen wird.\nWenn ein Zug endet, entlade Chimäre.\n[Subroutine] Beende den Run.",
+        "flavor": "Drei Köpfe. Ein gewaltiger Kopfschmerz."
     }
 ]

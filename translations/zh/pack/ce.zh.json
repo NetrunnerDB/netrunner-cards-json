@@ -1,98 +1,130 @@
 [
     {
         "code": "02041",
-        "title": "Neurotoxique",
-        "keywords": "Virus"
+        "title": "神经毒剂",
+        "keywords": "病毒",
+        "text": "每当你对总部进行一次成功的潜袭时，放置1枚病毒指示物到神经毒剂上。\r\n每当你从总部读取卡牌时，神经毒剂上除第一枚病毒指示物外，每有1枚病毒指示物，允许你额外读取一张卡牌。"
     },
     {
         "code": "02042",
-        "title": "Joshua B.",
-        "keywords": "Relation"
+        "title": "约书亚B.",
+        "keywords": "人脉",
+        "text": "当你的回合开始时，你可以获得[Click]。如果你如此做，当本回合结束时拿取1枚锁定标记。",
+        "flavor": "“我的强化手艺保证有效，带来的风险微不足道。”"
     },
     {
         "code": "02043",
-        "title": "Arrêt d'Urgence",
-        "keywords": "Sabotage"
+        "title": "紧急关机",
+        "keywords": "破坏",
+        "text": "如果你本回合已对总部进行过成功的潜袭，才能打出。\r\n关闭一层防火墙。",
+        "flavor": "“把它想象成一个虚拟的电击项圈，用来管教公司的宠物。”——安德洛墨达"
     },
     {
         "code": "02044",
-        "title": "Armure Muresh",
-        "keywords": "Équipement"
+        "title": "穆列什紧身衣",
+        "keywords": "装备",
+        "text": "防止每回合的第一点肢体伤害。",
+        "flavor": "轻便又贴身，就像防弹的皮肤。"
     },
     {
         "code": "02045",
-        "title": "Mouchard"
+        "title": "告密者",
+        "text": "每次潜袭中一次，当你接驳到一层未激活的防火墙时，你可以揭示它。然后，你可以退出。",
+        "flavor": "“告密者是女孩最好的朋友。 ”——安德洛墨达"
     },
     {
         "code": "02046",
-        "title": "Chaos Theory: Surdouée",
-        "keywords": "G-mod"
+        "title": "混沌希尔瑞：神童",
+        "keywords": "转基因人",
+        "text": "+1[Memory Unit]",
+        "flavor": "“你见过我的小神龙吗？”"
     },
     {
         "code": "02047",
-        "title": "Version de Démo"
+        "title": "测试运行",
+        "text": "在你的存储栈或堆阵搜寻一个程序。安装该程序，忽略所有的费用。如果你搜寻的是存储栈，将其重洗。当本回合结束时，如果该程序依然为已安装，将其加入你的存储栈顶端。"
     },
     {
         "code": "02048",
-        "title": "Dinosaure",
-        "keywords": "Console"
+        "title": "小神龙",
+        "keywords": "控制台",
+        "text": "小神龙上能附载一个非<strong>智能模块破解器<\/strong>。所附载的<strong>破解器<\/strong>的内存费用不计算在你的内存上限中。\r\n所附载的<strong>破解器<\/strong>强度+2。\r\n每位玩家限制1个<strong>控制台<\/strong>。"
     },
     {
         "code": "02049",
-        "title": "Atelier Privé",
-        "keywords": "Lieu"
+        "title": "私人工作间",
+        "keywords": "场所",
+        "text": "[Click]：从你的操控器附载一个程序或硬件到私人工作间上，并放置与其安装费用相等的能量指示物到该卡牌上。\r\n1[Credits]：从所附载的一张卡牌上移除1枚能量指示物。\r\n当你回合开始时，从所附载的一张卡牌上移除1枚能量指示物。\r\n当一张所附载的卡牌上没有能量指示物时，安装它，忽略所有的费用。"
     },
     {
         "code": "02050",
-        "title": "Soutien du Public"
+        "title": "公众慰问",
+        "text": "你的手牌上限+2。",
+        "flavor": "“我很庆幸脑部伤害是可以恢复的。在新洛杉矶市民们的支持下，我希望能早日康复，再度开展艺术创作。”——凯特·“麦克”·麦卡弗瑞"
     },
     {
         "code": "02051",
-        "title": "Projet Vitruve",
-        "keywords": "Recherche"
+        "title": "维特鲁威计划",
+        "keywords": "研究",
+        "text": "当你用维特鲁威计划计分时，维特鲁威计划上超过3枚推进标记的，每超过1枚，放置1枚议案指示物到本卡牌上。\r\n<strong>所附载的议案指示物<\/strong>：将一张卡牌从档案库加入总部。"
     },
     {
         "code": "02052",
-        "title": "Vipère",
-        "keywords": "Verrou - Traqueur"
+        "title": "蝮蛇",
+        "keywords": "门禁 - 追踪者",
+        "text": "[Subroutine] <strong>追踪<sup>3<\/sup><\/strong> – 如果成功，如可能，潜袭者失去[Click]。\r\n[Subroutine] <strong>追踪<sup>3<\/sup><\/strong> – 如果成功，终止本次潜袭。",
+        "flavor": "别踩到我。"
     },
     {
         "code": "02053",
-        "title": "Au Bord du Monde",
-        "keywords": "Embuscade"
+        "title": "世界边缘",
+        "keywords": "伏击",
+        "text": "当潜袭者读取世界边缘时，如果其已安装并且你支付3[Credits]，每有一层保护本服务器的防火墙，造成1点脑部伤害。"
     },
     {
         "code": "02054",
-        "title": "Coucher de Soleil"
+        "title": "日落",
+        "text": "选择一台服务器。按任意顺序排列保护该服务器的防火墙。",
+        "flavor": "“你没见过数字太阳沉落大都市背后的美景，就不算是潜袭过，你周围的空间会荡漾着你无法想象的色彩。”——凯特·“麦克”·麦卡弗瑞"
     },
     {
         "code": "02055",
-        "title": "Comptes Marqués",
-        "keywords": "Transaction"
+        "title": "标记账户",
+        "keywords": "交易",
+        "text": "当你的回合开始时，如可能，从标记账户上拿取1[Credits]。\r\n[Click]：从银行中放置3[Credits]到标记账户上。"
     },
     {
         "code": "02056",
-        "title": "Pop-up",
-        "keywords": "Verrou - Publicité"
+        "title": "弹出窗口",
+        "keywords": "门禁 - 广告",
+        "text": "当潜袭者遭遇弹出窗口时，你获得1[Credits]。\r\n[Subroutine] 终止本次潜袭，除非潜袭者支付1[Credits]。",
+        "flavor": "“试试关掉它。去啊，看看它会做什么。”——混沌希尔瑞"
     },
     {
         "code": "02057",
-        "title": "Bûcheron",
-        "keywords": "Sentinelle - AP"
+        "title": "伐木者",
+        "keywords": "警报 - 杀伤",
+        "text": "已激活的伐木者才能被推进，并且其上每有1枚推进标记，获得“[Subroutine] 造成1点网域伤害。”",
+        "flavor": "咚，咚。"
     },
     {
         "code": "02058",
-        "title": "Commercialisation",
-        "keywords": "Transaction"
+        "title": "商业化",
+        "keywords": "交易",
+        "text": "选择一层防火墙，该防火墙上每有1枚推进标记，获得1[Credits]。",
+        "flavor": "就在公司发现边缘应用的项目大部分都生产出了很有趣的玩具之后，其销售额年同比增长了37%。"
     },
     {
         "code": "02059",
-        "title": "Contrats Privés",
-        "keywords": "Transaction"
+        "title": "私人合约",
+        "keywords": "交易",
+        "text": "当私人合约被激活时，从银行中放置14[Credits]到本卡牌上。当私人合约上没有信用点时，销毁本卡牌。\r\n[Click]：从私人合约上拿取2[Credits]。"
     },
     {
         "code": "02060",
-        "title": "Chimère",
-        "keywords": "Mythique"
+        "title": "奇美拉",
+        "keywords": "神秘",
+        "text": "当你激活奇美拉时，选择<strong>警报<\/strong>，<strong>门禁<\/strong>，或<strong>屏障<\/strong>子类型。奇美拉获得该子类型直到被关闭。\r\n当回合结束时，关闭奇美拉。\r\n[Subroutine] 终止本次潜袭。",
+        "flavor": "三个头。一个难题。"
     }
 ]

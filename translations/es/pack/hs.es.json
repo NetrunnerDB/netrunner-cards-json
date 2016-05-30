@@ -1,94 +1,132 @@
 [
     {
         "code": "02081",
-        "title": "Éruption"
+        "title": "Aumento Repentino",
+        "text": "Juega esta carta sólo si has colocado al menos 1 contador de virus sobre un programa este turno.\r\nColoca 2 contadores de virus sobre ese programa.",
+        "flavor": "Debes gritar \"subidón\" para obtener el efecto completo."
     },
     {
         "code": "02082",
-        "title": "Xanadu",
-        "keywords": "Virtuelle"
+        "title": "Xanadú",
+        "keywords": "Virtual",
+        "text": "El coste de ejecución de todo el hielo aumenta en 1.",
+        "flavor": "Y todos clamarían: \"¡Deteneos! ¡Ved sus ojos de llama y su cabello loco! Tres círculos trazados en torno suyo y los ojos cerrad con miedo sacro, pues se nutrió con néctar de las flores y la leche probó del Paraíso\". - Samuel Taylor Coleridge"
     },
     {
         "code": "02083",
-        "title": "Andromède",
-        "keywords": "Naturel"
+        "title": "Andrómeda: Ristoi Desposeída",
+        "keywords": "Natural",
+        "text": "Robas una mano inicial de 9 cartas.",
+        "flavor": "\"Yo me rodeo de lo mejor\""
     },
     {
         "code": "02084",
-        "title": "Réseaux"
+        "title": "Establecer Contactos",
+        "text": "Retira 1 marca. Puedes pagar 1[Credits] para añadir Establecer Contactos a tu Empuñadura en lugar de destruírlo.",
+        "flavor": "Prefería hacer negocios en un club. Había algo en las luces y las bailarinas que nublaba el juicio de los simplones corporativos con los que se reunía allí."
     },
     {
         "code": "02085",
-        "title": "Interface QG"
+        "title": "Interfaz de SC",
+        "text": "Siempre que accedas a cartas de la SC, accede a 1 carta adicional de la SC. ",
+        "flavor": "Si no tienes a alguien dentro, encuentra a alguien dentro a quien le gusten los adornos de escritorio."
     },
     {
         "code": "02086",
-        "title": "Phéromones",
-        "keywords": "Virus"
+        "title": "Feromonas",
+        "keywords": "Virus",
+        "text": "X[Recurring Credits]\r\nUsa estos créditos durante incursiones contra la SC. X es la cantidad de contadores de virus que hay sobre Feromonas.\r\nSiempre que realices una incursión con éxito contra la SC, coloca 1 contador de virus sobre Feromonas."
     },
     {
         "code": "02087",
-        "title": "Bon Moment"
+        "title": "Tiempo Para Nosotros",
+        "text": "Roba 5 cartas.",
+        "flavor": "Ella con su PAD. Yo con mi equipo. Luces tenues. Jazz lento. El amor florece."
     },
     {
         "code": "02088",
-        "title": "Duplicateur"
+        "title": "Replicador",
+        "text": "Siempre que instales hardware (incluyendo Replicador), puedes buscar otra copia de ese hardware en tu Montón, revelarla y añadirla a tu Empuñadura. Baraja tu Montón. ",
+        "flavor": "¿De verdad necesitas otro?"
     },
     {
         "code": "02089",
-        "title": "Rampant",
-        "keywords": "Brise-glace - Tueur - Brouilleur"
+        "title": "Trepadora",
+        "keywords": "Rompehielos - Asesino - Nube",
+        "text": "Si tienes al menos 2[Link], el coste de memoria de Trepadora es 0, incluso si no está instalada.\r\n2[Credits]: Rompe una subrutina <strong>centinela<\/strong>.\r\n1[Credits]: +1 punto de fuerza.",
+        "flavor": "\"La arañita mordedora subió por el tronco de datos...\" - Teoría del Caos"
     },
     {
         "code": "02090",
-        "title": "Kraken"
+        "title": "Kraken",
+        "text": "Juega esta carta sólo si has robado un plan en este turno.\r\nElige un servidor. La Corporación destruye 1 hielo que proteja ese servidor.",
+        "flavor": "Las primeras permutaciones del kraken demostraron ser insaciables devoradores de hielo. No ha cambiado mucho."
     },
     {
         "code": "02091",
         "title": "Kati Jones",
-        "keywords": "Relation"
+        "keywords": "Contacto",
+        "text": "No puedes usar Kati Jones más de una vez por turno.\r\n[Click]: Coloca 3[Credits] del banco sobre Kati Jones.\r\n[Click]: Coge todos los créditos de Kati Jones. ",
+        "flavor": "\"No eres el único tipo de runner de Nueva Ángeles.\""
     },
     {
         "code": "02092",
-        "title": "Campagne Ève",
-        "keywords": "Publicité"
+        "title": "Campaña De Eve",
+        "keywords": "Anuncio",
+        "text": "Coloca 16[Credits] del banco sobre Campaña De Eve cuando la instales. Cuando no queden créditos en Campaña De Eve, destrúyela.\r\nCuando comience tu turno, coge 2[Credits] de Campaña De Eve."
     },
     {
         "code": "02093",
-        "title": "Retouches"
+        "title": "Reelaboración",
+        "text": "Añade 1 carta de la SC a I+D y barájalo.",
+        "flavor": "También conocido como \"infierno de desarrollo\"."
     },
     {
         "code": "02094",
-        "title": "Tourbillon",
-        "keywords": "Piège"
+        "title": "Remolino",
+        "keywords": "Trampa",
+        "text": "[Subroutine] El Runner no puede desenchufarse durante el resto de esta incursión. Destruye Remolino.",
+        "flavor": "\"Este hielo no mola.\" - g00ru"
     },
     {
         "code": "02095",
-        "title": "Grille de Hokusai",
-        "keywords": "Région"
+        "title": "Red De Hokuksai",
+        "keywords": "Región",
+        "text": "Siempre que haya una incursión con éxito contra este servidor, inflige 1 punto de daño de red.Límite de 1 <strong>región<\/strong> por servidor.",
+        "flavor": "A pesar de su aspecto, la Red de Hokusai es el complejo de investigación de peor fama de Jinteki."
     },
     {
         "code": "02096",
-        "title": "Molosse",
-        "keywords": "Sentinelle - Traqueur - Veilleur"
+        "title": "Sabueso De Datos",
+        "keywords": "Centinela - Rastreador - Observador",
+        "text": "[Subroutine] <strong>Rastreo<sup>2<\/sup><\/strong>: Si tiene éxito, mira una cantidad de cartas de la parte superior del Montón del Runner igual a la cantidad en la que tu fuerza de rastreo superaba su fuerza de enlace. Destruye 1 de esas cartas y coloca el resto en cualquier orden. ",
+        "flavor": "Sniff."
     },
     {
         "code": "02097",
         "title": "Bernice Mai",
-        "keywords": "Sysop"
+        "keywords": "Sysop",
+        "text": "Siempre que haya una incursión con éxito contra este servidor, <strong>Rastreo<sup>5<\/sup><\/strong>: si tiene éxito, dale 1 marca al Runner. Si no tien éxito, destruye a Bernice Mai.",
+        "flavor": "Siguiéndole el rastro al mundo, pantalla a pantalla."
     },
     {
         "code": "02098",
-        "title": "Récupération",
-        "keywords": "Verrou - Traqueur"
+        "title": "Chatarra",
+        "keywords": "Puerta De Código - Rastreador",
+        "text": "Chatarra puede ser avanzada sólo mientras y esté ejecutada y gana: \"[Subroutine] <strong>Rastreo<sup>2<\/sup><\/strong>: Si tiene éxito, dale 1 marca al Runner.\" por cada ficha de Avance que tenga.",
+        "flavor": "Ya no estás en Kansas."
     },
     {
         "code": "02099",
         "title": "Simone Diego",
-        "keywords": "Sysop"
+        "keywords": "Sysop",
+        "text": "2[Recurring Credits]\r\nUsa estos créditos para avanzar cartas de este servidor o que lo protejan.",
+        "flavor": "\"Un trabajo que sólo hay que hacer una vez es un trabajo bien hecho.\""
     },
     {
         "code": "02100",
-        "title": "Foxfire"
+        "title": "Bioluminiscencia",
+        "text": "<strong>Rastreo<sup>7<\/sup><\/strong>: Si tiene éxito, destruye 1 recurso <strong>virtual<\/strong> o 1 <strong>enlace<\/strong>.",
+        "flavor": "\"Es como un anagrama.\" - diseñador Fénix"
     }
 ]

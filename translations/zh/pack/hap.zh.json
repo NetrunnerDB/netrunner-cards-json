@@ -1,361 +1,361 @@
 [
     {
         "code": "05001",
-        "title": "Centre Médical Harmony Medtech : Précuseur Biomedical",
-        "keywords": "Division",
-        "text": "Chaque joueur a besoin de 1 point de projet de moins pour gagner la partie.",
-        "flavor": "Nous faisons évoluer le Meilleur de Vous-Même."
+        "title": "和谐医学院：生命医学的先锋",
+        "keywords": "部门",
+        "text": "每位玩家赢得游戏胜利所需的议案分数减1。",
+        "flavor": "演化新生。"
     },
     {
         "code": "05002",
-        "title": "Division Nisei : La Prochaine Génération",
-        "keywords": "Division",
-        "text": "Lorsque le Runner et vous révélez des crédits dépensés secrètement, gagnez 1[Credits].",
-        "flavor": "Parfaire l'Imperfection."
+        "title": "次代部门：全新一代",
+        "keywords": "部门",
+        "text": "每当你和潜袭者展示秘密花费的信用点时，获得1[Credits]。",
+        "flavor": "尽善尽美。"
     },
     {
         "code": "05003",
-        "title": "Institut Tennin : Les Secrets Cachés",
-        "keywords": "Division",
-        "text": "Au début de votre tour, vous pouvez placer 1 pion Avancement sure un carte si le Runner n'a pas réussi de piratage durant son dernier tour."
+        "title": "天人学会：内藏玄机",
+        "keywords": "部门",
+        "text": "当你的回合开始时，如果潜袭者在他\/她的上回合没有进行过成功的潜袭，你可以放置1枚推进标记到一张卡牌上。"
     },
     {
         "code": "05004",
-        "title": "Maison Des Lames",
-        "keywords": "Sécurité",
-        "text": "Lorsque vous finalisez la Maison des Lames, placez 3 pions projet dessus.\r\n<strong>Pion projet hébergé<\/strong> : Infligez 1 dégât Réseau. N'utilisez cette capacité que pendant un piratage et une seule fois par piratage."
+        "title": "利刃屋",
+        "keywords": "防卫",
+        "text": "当你用利刃屋计分时，放置3枚议案指示物到本卡牌上。\r\n<strong> 所附载的议案指示物<\/strong>：造成1点网域伤害。仅能在一次潜袭中使用本能力，并且每次潜袭仅限一次。"
     },
     {
         "code": "05005",
-        "title": "Percée Médicale",
-        "keywords": "Recherche",
-        "text": "La valeur d'avancement de chaque Percée Médicale est réduite de 1. Cette capacité est active même si la Percée Médicale est dans la zone de score du Runner.",
-        "flavor": "\"Vous ne sentirez pas cette piqûre. Ni quoi que ce soit d'autre, d'ailleurs\""
+        "title": "医学突破",
+        "keywords": "研究",
+        "text": "每张医学突破的推进需求减1。即使医学突破在潜袭者的分数区中，本能力依然有效。",
+        "flavor": "“你不会感觉到它。也不会有别的感觉，就此而言。”"
     },
     {
         "code": "05006",
-        "title": "Enchevêtrement Philotique",
-        "keywords": "Sécurité",
-        "text": "Lorsque vous finalisez l'Enchevêtrement Philotique, infligez au Runner 1 dégât Réseau pour chaque projet dans sa zone de score.\r\nMaximum 1 Enchevêtrement Philotique par deck."
+        "title": "核心微粒纠缠技术",
+        "keywords": "防卫",
+        "text": "当你用核心微粒纠缠技术计分时，潜袭者的分数区中每有一个议案，造成1点网域伤害。\r\n每套牌组限制1张。"
     },
     {
         "code": "05007",
-        "title": "La Perfection Future",
-        "keywords": "Initiative - Psi",
-        "text": "Lorsque le Runner accède à La Perfection Future, le Runner et vous dépensez secrètement 0[Credits], 1[Credits], ou 2[Credits]. Révélez les crédits dépensés. Si le Runner et vous avez dépensé un nombre de crédits différent, prévenez le vol de La Perfection Future. Ignorez cet effet si le Runner accède à La Perfection Future alors qu'elle est installée."
+        "title": "未来完人",
+        "keywords": "原创 - 灵能",
+        "text": "当潜袭者读取未来完人时，你和潜袭者秘密花费0[Credits]，1[Credits]或2[Credits]。展示所花费的信用点。如果你和潜袭者花费了不同数量的信用点，防止未来完人被窃取。如果潜袭者读取已安装的未来完人，则忽略本效果。"
     },
     {
         "code": "05008",
-        "title": "Président Hiro",
-        "keywords": "Cadre",
-        "text": "La taille maximale de la main du Runner est réduite de 2.\r\nSi le président Hiro est effacé lorsqu'on y accède, ajoutez-le à la zone de score du Runner comme un projet valant 2 points de projet."
+        "title": "宏社长",
+        "keywords": "主管",
+        "text": "潜袭者的手牌上限减2。\r\n如果宏社长在读取时被销毁。将他加入潜袭者的分数区，作为一个价值2点议案分数的议案。"
     },
     {
         "code": "05009",
-        "title": "Clinique Psychiatrique",
-        "keywords": "Infrastructure",
-        "text": "Gagnez 1[Credits] au début de votre tour.\r\nLa taille maximale de la main du Runner est augmentée de 1.",
-        "flavor": "Les murs blanchis à la chaux s'évannouirent tandis qu'un magnifique jardin zen apparaissait. Ce n'était qu'une illusion, mais une illusion réconfortante."
+        "title": "心理健康诊所",
+        "keywords": "设施",
+        "text": "当你的回合开始时，获得1[Credits] 。\r\n潜袭者的手牌上限+1。",
+        "flavor": "雪白粉刷的墙壁消失，出现一座漂亮的禅院。这都是幻想，但它是令人舒适的幻想。"
     },
     {
         "code": "05010",
-        "title": "Champ Psychique",
-        "keywords": "Embuscade - Psi",
-        "text": "Si le Champ Psychique est installé et que le Runner l'expose ou y accède, le Runner et vous dépensez secrètement 0[Credits], 1[Credits], or 2[Credits]. Révélez les crédits dépensés. Si le Runner et vous avez dépensez un nombre de crédits différent, infligez au Runner un nombre de dégâts Réseau égal au nombre de cartes dans sa main."
+        "title": "精神领域",
+        "keywords": "伏击 - 灵能",
+        "text": "如果潜袭者揭示或读取已安装的精神领域，你和潜袭者秘密花费0[Credits]，1[Credits]或2[Credits]。展示所花费的信用点。如果你和潜袭者花费了不同数量的信用点，潜袭者的操控器中每有一张卡牌，造成1点网域伤害。"
     },
     {
         "code": "05011",
-        "title": "Shi.Kyū",
-        "keywords": "Embuscade",
-        "text": "Lorsque le Runner accède à Shi.Kyū, vous pouvez payer X[Credits]. Le Runner choisit entre subir X dégâts Réseau ou ajouter Shi.Kyū à sa zone de score comme un projet valant &minus;1 point de projet. Ignorez cette capacité si le Runner accède à Shi.Kyū depuis R&D."
+        "title": "四.九",
+        "keywords": "伏击",
+        "text": "当潜袭者读取四.九时，你可以支付X[Credits]。潜袭者必须受到X点网域伤害或将四.九加入他\/她的分数区，作为一个价值-1点议案分数的议案。如果潜袭者从研发中心读取四.九，则忽略本效果。"
     },
     {
         "code": "05012",
-        "title": "Série Tenma",
-        "keywords": "Clone",
-        "text": "[Click]: Échangez les positions de 2 glaces installées.",
-        "flavor": "Les clones Tenma sont aujourd'hui la troisième série la plus lucrative de Jinteki, suite à l'expansion urbaine rapide ayant suivi la guerre. Leur temps de réaction, leur fiabilité et leur ponctualité font deux un choix de prédilection pour l'expédition et les services de transport."
+        "title": "天马生产线",
+        "keywords": "克隆体",
+        "text": "[Click]：将两层已安装的防火墙互换。",
+        "flavor": "由于战争后城市的迅速扩张，天马克隆体成为人间会社第三热销的生产线。他们无与伦比的反应速度、安全性以及准时性，使他们成为航运和交通业务的首选产品。"
     },
     {
         "code": "05013",
-        "title": "Entrave Cérébrale",
-        "keywords": "Douteuse - Psi",
-        "text": "Jouable uniquement si le Runner a réussi un piratage lors de son dernier tour.\r\nLe Runner et vous dépensez secrètement 0[Credits], 1[Credits], or 2[Credits]. Révélez les crédits dépensés. Si le Runner et vous avez dépensé un nombre de crédits différent, il choisit entre subir 1 dégât Neuro ou prendre 1 tag."
+        "title": "脑层映射",
+        "keywords": "灰色行动 - 灵能",
+        "text": "如果潜袭者在他\/她的上回合进行过成功的潜袭，才能打出。\r\n你和潜袭者秘密花费0[Credits]，1[Credits]或2[Credits]。展示所花费的信用点。如果你和潜袭者花费了不同数量的信用点，他\/她选择受到1点脑部伤害或拿取1枚锁定标记。"
     },
     {
         "code": "05014",
-        "title": "Gala de Charité Médicale",
-        "keywords": "Transaction",
-        "text": "Gagnez 8[Credits]. Le Runner gagne 3[Credits].",
-        "flavor": "\"Ensemble, nous avons éradiqué toutes les maladies naturelles de la surface de la planète. Le nouveau spectre de la maladie synthétique - du bioterrorisme - exige que nous continuions nos efforts.\""
+        "title": "医学研究筹资宴会",
+        "keywords": "交易",
+        "text": "获得8[Credits]。潜袭者获得3[Credits]。",
+        "flavor": "“我们齐心协力，几乎从这个星球上消除了自然疾病。但全新的人造疾病—还有生物恐怖主义的幽灵，让我们必须继续前行。”"
     },
     {
         "code": "05015",
-        "title": "Mushin No Shin",
-        "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\r\nInstallez un Avoir, un Projet ou une Extension depuis le QG dans un nouveau serveur distant. Placez 3 pions Avancement sur cette carte. Vous ne pouvez pas finaliser ou activer cette carte avant votre prochain tour."
+        "title": "无心之心",
+        "keywords": "双重",
+        "text": "作为打出本事务的额外费用，花费[Click]。\r\n从总部安装一个资产，议案或升级到一台新的远程服务器内。放置3枚推进标记到该卡牌上。你不能计分或激活该卡牌，直到你的下回合开始。"
     },
     {
         "code": "05016",
-        "title": "Inazuma",
-        "keywords": "Verrou",
-        "text": "[Subroutine] Le Runner ne peut neutraliser aucune routine de la prochaine glace qu'il rencontre durant ce piratage.\r\n[Subroutine] Le Runner ne peut pas débrancher avant d'avoir rencontré la prochaine glace durant ce piratage.",
-        "flavor": "Piégé dans sa propre réalité, un runner paralysé ne peut même pas débrancher."
+        "title": "稻妻",
+        "keywords": "门禁",
+        "text": "[Subroutine] 本次潜袭中，潜袭者不能破解他\/她遭遇的下一层防火墙上的任何子进程。\r\n[Subroutine] 本次潜袭中，潜袭者不能退出，直到遭遇下一层防火墙后。",
+        "flavor": "受困于自己的世界，麻痹的潜袭者甚至无法退出。"
     },
     {
         "code": "05017",
-        "title": "Komainu",
-        "keywords": "Sentinelle - AP",
-        "text": "Lorsque le Runner le rencontre, Komainu gagne jusqu'à la fin du piratage \"[Subroutine] Infligez 1 dégât Réseau.\" pour chaque carte dans la main du Runner."
+        "title": "狛犬",
+        "keywords": "警报 - 杀伤",
+        "text": "当潜袭者遭遇狛犬时，本次潜袭的剩余时间内潜袭者的操控器中每有一张卡牌，其获得“[Subroutine] 造成1点网域伤害。”"
     },
     {
         "code": "05018",
-        "title": "Chiot",
-        "keywords": "Sentinelle - AP",
-        "text": "[Subroutine] Infligez un dégât Réseau sauf si le Runner paye 1[Credits].\r\n[Subroutine] Infligez un dégât Réseau sauf si le Runner paye 1[Credits].",
-        "flavor": "ouaf ouaf !"
+        "title": "幼犬",
+        "keywords": "警报 - 杀伤",
+        "text": "[Subroutine] 造成1点网域伤害，除非潜袭者支付1[Credits]。 \r\n[Subroutine] 造成1点网域伤害，除非潜袭者支付1[Credits]。",
+        "flavor": "汪汪！"
     },
     {
         "code": "05019",
-        "title": "Shiro",
-        "keywords": "Verrou",
-        "text": "[Subroutine] Regardez les 3 premières cartes de R&D et replacez-les dans l'ordre de votre choix.\r\n[Subroutine] Le Runner accède à la première carte de R&D sauf si la Corpo paye 1[Credits].",
-        "flavor": "Lorsque vous êtes enfermé dans la forteresse de votre propre esprit, prenez garde aux portes que vous ouvrez."
+        "title": "城",
+        "keywords": "门禁",
+        "text": "[Subroutine] 查看研发中心顶端的三张卡牌，并按任意顺序排列它们。 \r\n[Subroutine] 潜袭者读取研发中心顶端的一张卡牌，除非公司支付1[Credits]。",
+        "flavor": "当你被锁在自我意识的城堡里时，要小心你将打开的每道门。"
     },
     {
         "code": "05020",
-        "title": "Susanoo-No-Mikoto",
-        "keywords": "Sentinelle - Déflecteur",
-        "text": "[Subroutine] Si ce piratage n'est pas mené sur les Archives, le Runner mène désormais un piratage sur les Archives au lieu de passer Susanoo-No-Mikoto. Le Runner ne peut débrancher qu'après avoir rencontré une glace.",
-        "flavor": "Certaines zones du cyberespace sont dominées par une entité digitale unique. Les Runners les nomment 'dieux', et seul un miracle peut sauver les fous osant s'aventurer sur leur domaine."
+        "title": "须佐之男",
+        "keywords": "警报 - 偏导器",
+        "text": "[Subroutine] 如果当前没有对档案库进行潜袭，则潜袭者现在开始对档案库进行潜袭，代替通过须佐之男。潜袭者不能退出，直到他\/她遭遇一层防火墙后。",
+        "flavor": "赛博空间的某些区域由单独的数字存在体支配着。潜袭者称它们为“神祗”，只有奇迹才能救那些蠢到闯入它们地盘的人。"
     },
     {
         "code": "05021",
-        "title": "Grille de NéoTokyo",
-        "keywords": "Région",
-        "text": "À chaque tour, la première fois qu'un pion avancement est placé sur une carte dans ce serveur, gagnez 1[Credits].\r\nMaximum 1 <strong>région<\/strong> par serveur.",
-        "flavor": "Il est difficile d'aller au Japon sans se retrouver dans les méandres de NéoTokyo."
+        "title": "新东京城际网阵",
+        "keywords": "区域",
+        "text": "每回合第一次有1枚推进标记被放置到本服务器内的一张卡牌上时，获得1[Credits]。 \r\n每台服务器限制1个<strong>区域<\/strong>。",
+        "flavor": "如果去日本，你往往逃不出新东京无限蔓延的城区。"
     },
     {
         "code": "05022",
-        "title": "Tori Hanzō",
-        "keywords": "Sysop",
-        "text": "La première fois que vous devriez infliger un ou plusieurs dégâts Réseau lors de chaque piratage sur ce serveur, vous pouvez à la place payer 2[Credits] pour infliger 1 dégât Neuro.",
-        "flavor": "Connue sous le surnom de La Femme Rouge, Hanzō est réputée pour ses méthodes impitoyable de protection des serveurs."
+        "title": "半藏冬莉",
+        "keywords": "管理员",
+        "text": "在对本服务器的潜袭中，第一次你将要造成任意数量的网域伤害时，你可以支付2[Credits]，以造成1点脑部伤害代替。",
+        "flavor": "半藏被称为赤女，她因保护服务器的手段残忍而声名狼藉。"
     },
     {
         "code": "05023",
-        "title": "Plan B",
-        "keywords": "Embuscade",
-        "text": "Plan B peut être avancé.\r\nSi le Runner accède au Plan B, Vous pouvez révéler et finaliser un projet du QG avec une valeur d'avancement inférieure ou égale au nombre de pions Avancement sur le Plan B."
+        "title": "备用计划",
+        "keywords": "伏击",
+        "text": "备用计划能被推进。\r\n如果潜袭者读取备用计划，你可以从总部将一个推进需求等于或少于备用计划上推进标记数量的议案展示并计分。"
     },
     {
         "code": "05024",
-        "title": "Garde",
-        "keywords": "Sentinelle",
-        "text": "Le Garde ne peut pas être ignoré.\r\n[Subroutine] Arrêtez le piratage.",
-        "flavor": "À l'extrémité de son champ de vision, un éclair de lumière. Il ressentit un bruit sourd tandis que son emprise sur le cyberespace faiblissait. Spider n'aimait pas ça. Il aurait dû traverser la couche de glace externe en se connectant depuis le serveur interne. Un autre bruit sourd et son ossaturefût secouée par la résonnance de l'onde de choc. Il porta désespérément la main vers son shuriken…"
+        "title": "门卫",
+        "keywords": "警报",
+        "text": "门卫不能被略过。 \r\n[Subroutine] 终止本次潜袭。",
+        "flavor": "他的视野角落边缘闪出一道亮光。他感到一次重击，令赛博空间里的操控器松脱了。蜘蛛讨厌这样。他通过入侵内部服务器，应该略过了外层的防火墙。又一次重击，他的整个形体都随着轰隆的波动而震荡。他绝望地去摸自己的手里剑…"
     },
     {
         "code": "05025",
-        "title": "Arc-en-ciel",
-        "keywords": "Sentinelle - Verrou - Barrière",
-        "text": "[Subroutine] Arrêtez le piratage.",
-        "flavor": "Le rapport annuel de la FCSN met régulièrement en avant les glaces ayant le plus d'impact par rapport à leur taille et leur coût d'entretien. Les critiques de la FCSN considèrent que le taux de répulsion est le premier critère pour évaluer une glace."
+        "title": "彩虹",
+        "keywords": "警报 - 门禁 - 屏障",
+        "text": "[Subroutine] 终止本次潜袭。",
+        "flavor": "国家数字安全武装部发布的年度防火墙评估会比较防火墙的规模和维护费用，始终将高分给予那些相对效果最强烈的防火墙。批评国家数字安全武装部的人则指出，登出率才是判断防火墙的最重要指标。"
     },
     {
         "code": "05026",
-        "title": "Portefeuille Diversifié",
-        "keywords": "Transaction",
-        "text": "Gagnez 1[Credits] pour chaque serveur distant contenant une carte installée.",
-        "flavor": "YuCafé a fait montre d'une croissance époustouflante, y compris dans les marchés les plus reculés."
+        "title": "多元化投资",
+        "keywords": "交易",
+        "text": "每有一台服务器内已安装卡牌的远程服务器，获得1[Credits]。",
+        "flavor": "雅豆的销量即便在最偏远的市场里也得到了令人瞩目的增长。"
     },
     {
         "code": "05027",
-        "title": "Recherche Accélérée",
-        "text": "Cherchez un projet dans votre R&D, révélez-le et ajoutez le à votre QG. Mélangez votre R&D.",
-        "flavor": "Moins les employés regardaient l'horloge de l'apocalypse, plus elle les obsédait. Un coup d'œil rapide ne faisait que confirmer ce qu'ils savaient déjà : ils manquaient de temps"
+        "title": "快速流程",
+        "text": "在研发中心搜寻一个议案，将其展示，并加入总部。将研发中心重洗。",
+        "flavor": "职员们越是长时间不看末日计时钟，他们的脑海越是充满钟声的侵扰，而匆匆一瞥则只是强化他们已知晓的事情：时间紧缺。"
     },
     {
         "code": "05028",
-        "title": "Iain Stirling : Espion à la Retraite",
-        "keywords": "Naturel",
-        "text": "Au début de votre tour, gagnez 2[Credits] si la Corpo a plus de points de projet dans sa zone de score que vous.",
-        "flavor": "\"La vérité est une maîtresse capricieuse.\""
+        "title": "伊恩·斯特林：退役间谍",
+        "keywords": "原生人",
+        "text": "当你的回合开始时，如果公司已计分的议案分数多于你，获得2[Credits]。",
+        "flavor": "“真相是一个善变的情妇。”"
     },
     {
         "code": "05029",
-        "title": "Ken \"Express\" Tenma : Clone Disparu",
-        "keywords": "Clone",
-        "text": "La première fois que vous jouez un évènement <strong>piratage<\/strong> à chaque tour, gagnez 1[Credits].",
-        "flavor": "\"Essaye de suivre le rythme.\""
+        "title": "肯·“快车”·天马：失踪的克隆体",
+        "keywords": "克隆体",
+        "text": "每回合你第一次打出一个<strong>潜袭<\/strong>事件时，获得1[Credits]。",
+        "flavor": "“努力跟上。”"
     },
     {
         "code": "05030",
-        "title": "Silhouette : Agent Furtif",
-        "keywords": "Naturel",
-        "text": "À chaque tour, la première fois que vous réussissez un piratage sur le QG, vous pouvez exposer une carte.",
-        "flavor": "\"Ne me faites pas perdre mon temps.\""
+        "title": "侧影：隐形侦探",
+        "keywords": "原生人",
+        "text": "每回合你第一次对总部进行成功的潜袭时，你可以揭示一张卡牌。",
+        "flavor": "“别浪费我的时间。”"
     },
     {
         "code": "05031",
-        "title": "Renvoi d'Ascenseur",
-        "text": "Gagnez 1[Credits] pour chaque ressource <strong>relation<\/strong> installée.",
-        "flavor": "La réussite d'un crime dépend toujours du membre le plus faible. Heureusement, Miss Jones est très ponctuelle."
+        "title": "召集支援",
+        "text": "每有一个已安装的<strong>人脉<\/strong>资源，获得1[Credits]。",
+        "flavor": "工作的效果取决于它最薄弱的一环。真要感谢琼斯女士永远那么准时。"
     },
     {
         "code": "05032",
-        "title": "Lève-Tôt",
-        "keywords": "Priorité - Piratage",
-        "text": "Jouable uniquement à votre premier click.\r\nLancez un piratage et gagnez [Click].",
-        "flavor": "Leur cerveau étant conçu pour le traitement en parallèle, les Tenma excellent dans l'art de faire plusieurs choses à la fois."
+        "title": "先拔头筹",
+        "keywords": "优先 - 潜袭",
+        "text": "仅能在你的第一个[Click]打出。 \r\n进行一次潜袭并获得[Click]。",
+        "flavor": "天马克隆体擅长多线任务，它们的大脑专门定制为并行处理方式。"
     },
     {
         "code": "05033",
-        "title": "Livraison \"Express\"",
-        "text": "Regardez les 4 premières cartes de votre pile et ajoutez 1 de ces cartes à votre main. Mélangez votre pile.",
-        "flavor": "Le clone fut surpris de voir l'homme à la veste rouge. C'était comme se regarder dans un mirroir, sauf que le mirroir lui renvoyait une image… cool. Confiante. Unique."
+        "title": "特快专递",
+        "text": "查看你存储栈顶端的四张卡牌，并将其中一张卡牌加入你的操控器。将你的存储栈重洗。",
+        "flavor": "克隆体惊讶地看着红夹克的男子。这就像是在照镜子，只是镜子里的人看起来…很酷，很自信，很有性格。"
     },
     {
         "code": "05034",
-        "title": "Feinte",
-        "keywords": "Piratage",
-        "text": "Lancez un piratage sur le QG. Ignorez les deux premières glaces que vous rencontrez lors de ce piratage. S'il est réussi, vous ne pouvez accéder à aucune carte.",
-        "flavor": "Stirling entra dans le serveur, s'approchant d'une glace qui se mit à grogner. Il était désarmé… du moins en apparence"
+        "title": "佯攻",
+        "keywords": "潜袭",
+        "text": "对总部进行一次潜袭。在本次潜袭中略过前两层遭遇的防火墙。如果成功，你不能读取任何卡牌。",
+        "flavor": "斯特林穿过了一层张牙舞爪的防火墙，进入服务器。他赤手空拳…或者只是看起来这样。"
     },
     {
         "code": "05035",
-        "title": "Collecte d'Informations",
-        "keywords": "Piratage",
-        "text": "Lancez un piratage sur le QG. S'il est réussi, accédez à 2 cartes supplémentaires du QG.",
-        "flavor": "\"Je travaille sur références uniquement, et je demande une avance. Le tarif est raisonnable si vous accordez de l'importance aux résultats.\" - Silhouette"
+        "title": "外勤",
+        "keywords": "潜袭",
+        "text": "对总部进行一次潜袭。如果成功，从总部额外读取两张卡牌。",
+        "flavor": "“我只通过熟客介绍来工作，并且是预先收费。如果你看重结果，这些收费很公道。”——侧影"
     },
     {
         "code": "05036",
-        "title": "Attaque Planifiée",
-        "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cet évéement.\r\nCherchez un événement <strong>piratage<\/strong> dans votre pile et jouez cet événement (en payant son coût), enignorant les coûts additionnels. Mélangez votre pile."
+        "title": "预谋突袭",
+        "keywords": "双重",
+        "text": "作为打出本事件的额外费用，花费[Click]。 \r\n在你的存储栈搜寻一个<strong>潜袭<\/strong>事件，并打出该<strong>潜袭<\/strong>事件（支付其打出费用），忽略任何额外的费用。将你的存储栈重洗。"
     },
     {
         "code": "05037",
-        "title": "Logos",
-        "keywords": "Console",
-        "text": "+1[Memory Unit]\r\nVotre taille de main est augmenté de 1.\r\nÀ chaque fois que la Corpo finalise un projet, vous pouvez chercher une carte dans votre pile et l'ajouter à votre main. Mélangez votre pile.\r\nMaximum 1 <strong>console<\/strong> en jeu."
+        "title": "圣言",
+        "keywords": "控制台",
+        "text": "+1[Memory Unit]\r\n你的手牌上限+1。\r\n每当公司用一个议案计分时，你可以在你的存储栈搜寻一张卡牌并将其加入你的操控器。将你的存储栈重洗。\r\n每位玩家限制1个<strong>控制台<\/strong>。"
     },
     {
         "code": "05038",
-        "title": "Terminal Public",
-        "text": "1[Recurring Credits]\r\nN'utilisez ce crédit que pour jouer les événements <strong>piratage<\/strong>.",
-        "flavor": "Express adorait les bibliothèques. Les consoles y étaient de mauvaise qualité, mais la sécurité encore pire. Il téléchargea son code à distance et commença à cloner le disque dur. Dans quelques minutes, un nouveau zombie émergerait à la surface du cyberespace."
+        "title": "公用终端",
+        "text": "1[Recurring Credits]\r\n本信用点用于打出<strong>潜袭<\/strong>事件。",
+        "flavor": "快车很喜欢图书馆。终端很烂，但防卫则更烂。他通过无线方式将自己的个人混合代码载入并开始复制驱动器。仅需要几分钟，又一台僵尸电脑将会出现在赛博空间边缘。"
     },
     {
         "code": "05039",
-        "title": "Smith & Wesson 35 de Contrebande",
-        "keywords": "Arme",
-        "text": "N'utilez le Smith & Wesson 35 de Contrebande que si vous avez réussi un piratage sur le QG ce tour-ci.\r\n[Click], [Click]: Effacez un <strong>bioroïde<\/strong>, un <strong>clone<\/strong>, un<strong>cadre<\/strong> or un <strong>sysop<\/strong> activé dans un serveur sans payer son coût d'effacement."
+        "title": "未登记的.35 S&W手枪",
+        "keywords": "武器",
+        "text": "如果你本回合已对总部进行过成功的潜袭，才能使用未登记的.35 S&W手枪。 \r\n[Click]，[Click]：销毁一台服务器内的一个已激活的<strong>生化人<\/strong>，<strong>克隆体<\/strong>，<strong>主管<\/strong>或<strong>管理员<\/strong>，无须支付其销毁费用。"
     },
     {
         "code": "05040",
-        "title": "Fenêtre",
-        "text": "[Click]: Piochez 1 carte du dessous de votre pile.",
-        "flavor": "L'herbe semblait plus verte de l'autre coté de la faille. Comme toujours, et il y avait toujours une autre faille."
+        "title": "视窗",
+        "text": "[Click]：从你的存储栈底端补一张卡牌。",
+        "flavor": "裂口彼端的草更加翠绿。总是如此，也总会有另一个裂口。"
     },
     {
         "code": "05041",
-        "title": "Alias",
-        "keywords": "Brise-glace - Tueur",
-        "text": "1[Credits]: Neutralisez une routine <strong>sentinelle<\/strong>.\r\n2[Credits]: Force +3.\r\nAlias ne peut pas être utilisé sur une glace protégeant un serveur distant.",
-        "flavor": "Il est facile de modifier son apparence dans le cyberespace, mais un rendu de bonne qualité n'est pas aisé à obtenir."
+        "title": "化名",
+        "keywords": "破解器 - 断路模块",
+        "text": "1[Credits]： 破解 <strong>警报<\/strong>子进程。 \r\n2[Credits]：强度+3。 \r\n化名不能对保护远程服务器的防火墙使用。",
+        "flavor": "在赛博空间里改变外貌很容易，但仿造一个高质量的渲染器就不那么容易了。"
     },
     {
         "code": "05042",
-        "title": "Brèche",
-        "keywords": "Brise-glace - Fragmenteur",
-        "text": "2[Credits]: Neutralisez jusqu'à 3 routines <strong>barrière<\/strong>.\r\n2[Credits]: Force +4.\r\nBrèche ne peut pas être utilisé sur une glace protégeant un serveur distant."
+        "title": "裂口",
+        "keywords": "破解器 - 分解模块",
+        "text": "2[Credits]：破解最多3个<strong>屏障<\/strong>子进程。 \r\n2[Credits]：强度+4。 \r\n裂口不能对保护远程服务器的防火墙使用。"
     },
     {
         "code": "05043",
-        "title": "Punaise",
-        "text": "Jouable uniquement si vous avez réussi un piratage sur le QG ce tour-ci.\r\nÀ chaque fois que la Corpo pioche une carte, vous pouvez payer 2[Credits] pour révéler cette carte.",
-        "flavor": "L'équivalent digital d'une mouche sur un mur."
+        "title": "虫子",
+        "text": "如果你本回合已对总部进行过成功的潜袭，才能安装。 \r\n每当公司补一张卡牌时，你可以支付2[Credits]，以展示该卡牌。",
+        "flavor": "贴壁苍蝇的数码等价物。"
     },
     {
         "code": "05044",
-        "title": "Bonhomme de Pain d'Épices",
-        "keywords": "Brise-glace",
-        "text": "1[Credits]: Neutralisez une routine <strong>traqueur<\/strong>.\r\n2[Credits]: Force +3.",
-        "flavor": "Attrape-moi si tu peux !"
+        "title": "姜饼",
+        "keywords": "破解器",
+        "text": "1[Credits]：破解<strong>追踪者<\/strong>子进程。\r\n2[Credits]：强度+3。",
+        "flavor": "试试来抓我呀！"
     },
     {
         "code": "05045",
-        "title": "Grappin",
-        "text": "[Trash]: Neutralisez toutes les routines d'une glace sauf 1.",
-        "flavor": "Si la rapidité est essentielle, l'approche indirecte d'une glace est en général la meilleure méthode."
+        "title": "爪钩",
+        "text": "[Trash]：破解一层防火墙上除一个子进程以外的其余所有子进程。",
+        "flavor": "如果速度是精髓，那么一般情况下，最好是和防火墙进行间接的遭遇。"
     },
     {
         "code": "05046",
-        "title": "Passeport",
-        "keywords": "Brise-glace - Décrypteur",
-        "text": "1[Credits]: Neutralisez une routine <strong>verrou<\/strong>.\r\n2[Credits]: Force +2.\r\nPasseport ne peut pas être utilisé sur une glace protégeant un serveur distant.",
-        "flavor": "Rien n'est suffisamment protégé si vous avez la bonne documentation."
+        "title": "通行证",
+        "keywords": "破解器 - 解码模块",
+        "text": "1[Credits]：破解<strong>门禁<\/strong>子进程。 \r\n2[Credits]：强度+2。 \r\n通行证不能对保护远程服务器的防火墙使用。",
+        "flavor": "只要你拥有合适的文件，没有什么是绝对安全的。"
     },
     {
         "code": "05047",
-        "title": "Pari Risqué",
-        "text": "Dépensez secrètement n'importe quel nombre de crédits. La Corpo doit deviner si vous avez dépensé un nombre pair ou impair de crédits. Révélez les crédits dépensés. Si la Corpo s'est trompée, gagnez le double des crédits dépensés."
+        "title": "豪赌一把",
+        "text": "秘密花费任意数量的信用点。公司猜测你花费的数量为偶数或是奇数。展示所花费的信用点。如果公司猜测错误，获得所花费数量两倍的信用点。"
     },
     {
         "code": "05048",
-        "title": "Test de Sécurité",
-        "keywords": "Crime",
-        "text": "Au début de votre tour, choisissez un serveur. La première fois que vous réussissez un piratage sur ce serveur ce tour-ci, au lieu d'accéder à des cartes, gagnez 2[Credits].",
-        "flavor": "Elle a été aussi efficace que Mr. Li le disait. La machine source a été infectée en moins de 24 heures. Si un agent indépendant pouvait faire ça, le serveur n'était manifestement pas prêt à endurer les assauts des légions des runners corporatistes de Gagarin"
+        "title": "安全测试",
+        "keywords": "工作",
+        "text": "当你的回合开始时，选择一台服务器。本回合你第一次对该服务器进行成功的潜袭时，获得2[Credits]，代替读取卡牌。",
+        "flavor": "她就像李先生所说的那么厉害。核心机器不到24小时就被攻破。如果一个自由职业者可以做到这样，那这个服务器显然没准备好对抗加加林军团的那些受雇于公司的潜袭者。"
     },
     {
         "code": "05049",
-        "title": "Théophilius Bagbiter",
-        "keywords": "Relation",
-        "text": "Lorsque vous installez Théophilius Bagbiter, perdez tous les crédits de votre réserve.\r\nVotre taille maximale de main est égale au nombre de crédits dans votre réserve.",
-        "flavor": "\"Quelle différence y a-t-il entre un pigeon?\""
+        "title": "西奥菲勒·贝格拜特",
+        "keywords": "人脉",
+        "text": "当你安装西奥菲勒·贝格拜特时，失去你信用池中所有的信用点。\r\n你的手牌上限等于你信用池中信用点的数量。",
+        "flavor": "“乌鸦为什么像写字台？”"
     },
     {
         "code": "05050",
-        "title": "Contact Tri-Maf",
-        "keywords": "Relation",
-        "text": "Vous ne pouvez utiliser Contact Tri-Maf qu'une fois par tour.\r\n[Click]: Gagnez 2[Credits].\r\nLorsque Contact Tri-Maf est éffacé, subissez 3 dégâts Hémos.",
-        "flavor": "Elle remonta sur son hopper. \"Je fais partie de ta famille, maintenant, alors ne me déçois pas, dǒng ma ?\"\nIl retira son e-clope de sa bouche et hocha de la tête. Dans quoi s'était-il embarqué ?"
+        "title": "三和党联系人",
+        "keywords": "人脉",
+        "text": "每回合你不能使用三和党联系人多于一次。 \r\n[Click]：获得 2[Credits]。\r\n当三和党联系人被销毁时，受到3点肢体伤害。",
+        "flavor": "她跳回自己的飞跃车。“我现在算你的家人，所以不准惹我，懂吗？”  \r\n他吐掉嘴里的电子烟然后点头，他到底给自己找了个什么的麻烦啊？"
     },
     {
         "code": "05051",
-        "title": "Installation Massive",
-        "text": "Installez jusqu'à 3 programmes de votre mai (en payant les coûts d'installation).",
-        "flavor": "\"Bienvenue dans l'assistant d'installation massive ! Cet assistant va vous guider tout au long de l'installation d'un tas de programmes dans votre station probablement inadéquate. Lorsque vous êtes prêt, dites - oups, trop tard, ça a commencé !\""
+        "title": "集群安装",
+        "text": "从你的操控器安装最多三个程序（支付安装费用）。",
+        "flavor": "“欢迎进入集群安装向导！本向导将指引您将一大堆程序安装到您那几乎肯定不够大的基地里。如果您准备好，请说——哎呀，太迟了，我们开始吧！”"
     },
     {
         "code": "05052",
-        "title": "Puce de Q-Cohérence",
-        "keywords": "Puce",
-        "text": "+1[Memory Unit]\r\nEffacez la Puce de Q-Cohérence lorsqu'un programme est effacé.",
-        "flavor": "L'un des problèmes principaux du calcul quantique est d'isoler le système des facteurs externes pour éviter la décohérence. La puce de Q-Cohérence est l'une des solutions, imparfaite, à ce problème."
+        "title": "量子相干芯片",
+        "keywords": "芯片",
+        "text": "+1[Memory Unit]\r\n当一个程序被销毁时，销毁量子相干芯片。",
+        "flavor": "量子计算的核心问题之一，是让系统能够隔绝外界参数，以避免退相干效应。量子相干芯片是一个，尚不完美的，解决方案。"
     },
     {
         "code": "05053",
-        "title": "Maître-Esprit",
-        "keywords": "Brise-glace - AI",
-        "text": "Lors de son installation, placez un pion Pouvoir sur Maître-esprit pour chaque UM inutilisée.\r\n<strong>Pion Pouvoir hébergé<\/strong> : Neutralisez une routine de glace.\r\n1[Credits]: Force +1."
+        "title": "主脑",
+        "keywords": "破解器 - 智能模块",
+        "text": "当主脑被安装时，每有一个未使用的内存单元，放置1枚能量指示物到主脑上。\r\n<strong>所附载的能量指示物<\/strong>：破解防火墙子进程。\r\n1[Credits]：强度+1。"
     },
     {
         "code": "05054",
-        "title": "Oracle May",
-        "keywords": "Relation",
-        "text": "Vous ne pouvez utiliser Oracle May qu'une fois par tour.\r\n[Click]: Énoncez un type de carte. Révélez la première carte de votre deck. Si elle est du type énoncé, piochez-la et gagnez 2[Credits]. Sinon, effacez-la.",
-        "flavor": "\"Le meilleur endroit pour se cacher est au vu et au su de tout le monde, tu ne crois pas ?\""
+        "title": "梅先知",
+        "keywords": "人脉",
+        "text": "每回合你不能使用梅先知多于一次。 \r\n[Click]：指定一种卡牌类型。展示你存储栈顶端的一张卡牌。如果展示的卡牌是所指定的类型，则补该卡牌并获得2[Credits]。否则，将其销毁。",
+        "flavor": "“最适合藏身的地方就是在众目睽睽之下，你不觉得吗？”"
     },
     {
         "code": "05055",
-        "title": "Donut Taganes",
-        "keywords": "Relation",
-        "text": "Le coût des opérations et des événements est augmenté de 1.",
-        "flavor": "On peut trouver Donut dans le parc les jeudis après-midi, en train de jouer au backgammon. Pour attirer son attention, un seul moyen : une tasse de café et un donut. Vous pouvez alors vous asseoir à sa table, et vous pouvez discuter affaires et tarifs jusqu'à ce qu'il gagne."
+        "title": "多奈特·泰格尼斯",
+        "keywords": "人脉",
+        "text": "事务和事件的打出费用+1。",
+        "flavor": "每周四下午，你可以在公园里找到正在玩双陆棋的多奈特。你想引他注意的话，花费永远不变：一杯咖啡和一个甜甜圈。这会让你能坐在双陆棋桌边，然后你得在他杀败你之前谈妥生意和价码。"
     }
 ]

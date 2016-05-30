@@ -1,134 +1,134 @@
 [
     {
         "code": "04001",
-        "title": "Coup Monté",
-        "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\r\nRenoncez à un projet. Si vous le faites, donnez 1 pion Mauvaise Presse à la Corpo.",
-        "flavor": "\"Prendre le contrôle de bioroïdes n'est pas impossible, contrairement à ce que prétend Haas-Bioroïd. Mais c'est dangereux.\" - Noise"
+        "title": "诬陷",
+        "keywords": "双重",
+        "text": "作为打出本事件的额外费用，花费[Click]。\r\n废除一个议案。如果你如此做，给予公司1枚负面声誉标记。",
+        "flavor": "“尽管哈斯生化夸下海口，不过生化人叛乱并非不可能。只是这非常危险。”  ——噪音"
     },
     {
         "code": "04002",
-        "title": "Pion",
-        "keywords": "Caïssa",
-        "text": "[Click]: Hébergez le Pion sur la glace périphérique d'un serveur central.\r\nÀ chaque fois que vous réussissez un piratage, si le Pion est hébergé sur une glace, déplacez le sur la glace directement après celle qui l'héberge actuellement, si possible; sinon, effacez le Pion et installez un programme <strong>Caïssa<\/strong> de votre main ou de votre tas, en ignorant tous les coûts."
+        "title": "兵",
+        "keywords": "西洋棋",
+        "text": "[Click]：将兵附载到保护一台中央服务器的最外层防火墙上。\r\n当兵附载在一层防火墙上时，每当你进行一次成功的潜袭时，如可能，移动兵到当前被附载防火墙的后一层防火墙；否则，以销毁兵代替，并从你的操控器或堆阵安装一个<strong>西洋棋<\/strong>程序，忽略所有的费用。"
     },
     {
         "code": "04003",
-        "title": "Tour",
-        "keywords": "Caïssa",
-        "text": "[Click]: Hébergez la Tour sur une glace qui n'héberge pas de <strong>Caïssa<\/strong>. Si elle est déjà hébergée, la Tour ne peut-être hébergée que sur un glace qui protège ce serveur ou sur une glace à la même position (en comptant à partir de la glace centrale) protégeant ce serveur.\r\nLe coût d'activation de chaque glace protégeant ce serveur est augmenté de 2."
+        "title": "车",
+        "keywords": "西洋棋",
+        "text": "[Click]：将车附载到一层未被<strong>西洋棋<\/strong>附载的防火墙上。如果车已附载，则仅能再附载到保护本服务器的另一层防火墙上，或保护其它服务器的相同位置（从最内层位置计算）防火墙上。\r\n保护本服务器的每层防火墙的激活费用+2。"
     },
     {
         "code": "04004",
-        "title": "Otage",
-        "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\r\nCherchez une <strong>relation<\/strong> dans votre pile, révélez-la et ajoutez la à votre main. Vous pouvez installer cette <strong>relation<\/strong> (en payant son coût d'installation).\r\nMélangez votre pile."
+        "title": "人质",
+        "keywords": "双重",
+        "text": "作为打出本事件的额外费用，花费[Click]。\r\n在你的存储栈搜寻一个<strong>人脉<\/strong>，将其展示，并加入你的操控器。你可以安装该<strong>人脉<\/strong>（支付其安装费用）。将你的存储栈重洗。"
     },
     {
         "code": "04005",
-        "title": "Perfusion Gorman V1",
-        "keywords": "Virus",
-        "text": "À chaque fois que la corpo dépense [Click] pour piocher une carte ou gagner 1[Credits] (hors capacité d'une carte), placez 1 pion Virus sur la Perfusion Gorman V1.\r\n[Click], [Trash]: Gagnez 1[Credits] pour chaque pion Virus sur la Perfusion Gorman V1.",
-        "flavor": "Le principe est simple : le virus de perfusion draine des fractions de crédits de leurs comptes vers les vôtres."
+        "title": "戈尔曼水滴V1",
+        "keywords": "病毒",
+        "text": "每当公司花费[Click]（不通过卡牌能力）来补一张卡牌或获得1[Credits]时，放置1枚病毒指示物到戈尔曼水滴V1上。\r\n[Click]，[Trash]：戈尔曼水滴V1上每有1枚病毒指示物，获得1[Credits]。",
+        "flavor": "原理很简单，水滴病毒会从他们的账户把资金碎片吸入你的账户。"
     },
     {
         "code": "04006",
-        "title": "Rossignol",
-        "keywords": "Puce - Furtif",
-        "text": "1[Recurring Credits]\r\nN'utilisez ce crédit que pour payer l'utilisation de <strong>décrypteurs<\/strong>.",
-        "flavor": "\"Au départ, je l'ai conçu pour quelqu'un d'autre, mais c'était tellement utile que j'ai décidé de le garder pour moi.\" - Kate \"Mac\" McCaffrey"
+        "title": "开锁器",
+        "keywords": "芯片 - 隐匿",
+        "text": "1[Recurring Credits]\r\n本信用点用于支付使用<strong>解码模块<\/strong>。",
+        "flavor": "“一开始我是为别人设计的这个，但它太好用了，所以我决定自己留着。”——凯特·“麦克”·麦卡弗瑞"
     },
     {
         "code": "04007",
-        "title": "Écho Fantôme",
-        "text": "À chaque fois que vous passez une glace désactivée, vous pouvez effacer l'Écho Fantôme. Si vous le faites, la corpo doit activer cette glace ou la mettre dans son QG.",
-        "flavor": "\"Et si cette glace voulait être libre ?\" - Rielle \"Kit\" Peddler"
+        "title": "虚假回声",
+        "text": "每当你通过一层未激活的防火墙时，你可以销毁虚假回声。如果你如此做，公司必须激活该防火墙或将其加入总部。",
+        "flavor": "“如果这防火墙想得到自由呢？”—— 芮尔·“姬特”·佩德拉"
     },
     {
         "code": "04008",
-        "title": "Motivation",
-        "text": "Au début de votre tour, vous pouvez regarder la première carte de votre pile.",
-        "flavor": "Les gens normaux &ndash; Les gens sains d'esprit &ndash; ne s'engagent pas dans la voie du cyber-crime. Qui peut dire ce qui motive un esprit dérangé ? Une impression de manque de respect, en échec personnel reproché à des forces extérieures, ou la toujours très populaire avarice ? - Michael Muhama, Réflexions sur le Cyber-crime"
+        "title": "动机",
+        "text": "当你的回合开始时，你可以查看你存储栈顶端的一张卡牌。",
+        "flavor": "正常的人—理智的人—是不会从事数字犯罪的。谁能说清是什么驱动着疯狂的头脑？想象中的被轻视，归咎于外因的个体挫败，抑或是对金钱永无止尽的渴望？——迈克尔·穆哈马，《数字犯罪沉思录》"
     },
     {
         "code": "04009",
-        "title": "John Masanori",
-        "keywords": "Relation",
-        "text": "Au premier piratage réussi de chaque tour, piochez une carte.\r\nAu premier piratage raté de chaque tour, recevez 1 tag.",
-        "flavor": "\"Je me suis connecté en ligne avec des poupées toute la journée. T'en fais pas, les connexions sont cleans. Je te le garantis\""
+        "title": "约翰·正德",
+        "keywords": "人脉",
+        "text": "每回合你第一次进行成功的潜袭时，补一张卡牌。\r\n每回合你第一次进行失败的潜袭时，拿取1枚锁定标记。",
+        "flavor": "“我整天都在线和这些妞儿们聊呢。别担心，关系很清白，我保证。”"
     },
     {
         "code": "04010",
-        "title": "Projet Arès",
-        "keywords": "Sécurité",
-        "text": "Lorsque vous finalisez le Projet Arès, le Runner efface immédiatement 1 de ses cartes installées pour chaque pion Avancement au delà de 4 sur le Projet Arès.\r\nSi le Runner efface au moins 1 carte, prenez 1 pion Mauvaise Presse.",
-        "flavor": "Qui voudrait déclencher une guerre ?"
+        "title": "阿瑞斯计划",
+        "keywords": "防卫",
+        "text": "当你用阿瑞斯计划计分时，阿瑞斯计划上超过4枚推进标记的，每超过1枚，潜袭者销毁一张他\/她已安装的卡牌。如果潜袭者销毁了至少一张卡牌，拿取1枚负面声誉标记。",
+        "flavor": "谁想开战？"
     },
     {
         "code": "04011",
-        "title": "Bronze NEXT",
-        "keywords": "Verrou - NEXT",
-        "text": "Le Bronze NEXT a  +1 en force pour chaque glace <strong>NEXT<\/strong> activée.\r\n[Subroutine] Arrêtez le piratage.",
-        "flavor": "Les conceptions NEXT offrent aux entreprises prévoyantes un ensemble de glaces qui créent une présence sécuritaire redoutable pour les intrus."
+        "title": "次级青铜",
+        "keywords": "门禁 - 次级",
+        "text": "每有一层已激活的<strong>次级<\/strong>防火墙，次级青铜的强度+1。\r\n[Subroutine] 终止本次潜袭。",
+        "flavor": "次级方案的防火墙产品是一套让入侵者望而却步的安全防火墙，为您提供慧眼之选。"
     },
     {
         "code": "04012",
-        "title": "Cadeau à une Célébrité",
-        "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\r\nRévélez jusqu'à 5 carte de votre QG au Runner. Gagnez 2[Credits] pour chaque carte révélée de cette façon.",
-        "flavor": "Lorsque Miranda Rhapsody a fait son apparition avec une girafe miniature, tout le monde en a immédiatement voulu une."
+        "title": "名流的馈赠",
+        "keywords": "双重",
+        "text": "作为打出本事务的额外费用，花费[Click]。\r\n将总部中的最多五张卡牌向潜袭者展示。每展示一张卡牌，获得2[Credits]。",
+        "flavor": "当米兰达·瑞普瑟迪展示出茶具般大小的长颈鹿时，顿时人人都想要一只。"
     },
     {
         "code": "04013",
-        "title": "Himitsu-Bako",
-        "keywords": "Barrière",
-        "text": "1[Credits]: Mettez Himitsu-Bako dans votre QG.\r\n[Subroutine] Arrêtez le piratage.",
-        "flavor": "Himitsu-Bako est une simple barrière de glace qui ressemble à une boîte à puzzle digitale. Ce qui la rend spéciale est la facilité avec laquelle elle peut être installée et désinstallée dans différents serveurs, mettant des barrières à des endroits inattendus et donnant aux intrus une curieuse sensation de déjà-vu."
+        "title": "奥秘箱",
+        "keywords": "屏障",
+        "text": "1[Credits]：将奥秘箱加入总部。\r\n[Subroutine] 终止本次潜袭。",
+        "flavor": "奥秘箱是一个看起来类似数字化谜盒的普通屏障防火墙。特殊的地方在于它能随意地卸载并安装到另一台服务器，在出其不意的位置架起屏障，给予入侵者一种奇特的既视感。"
     },
     {
         "code": "04014",
-        "title": "Diffamation",
-        "keywords": "Sécurité",
-        "text": "Lorsque vous finalisez Diffamation, effacez 1 ressource (cet effet ne peut pas être prévenu).",
-        "flavor": "\"Ce qu'il faut savoir sur le journalisme, c'est qu'il y a toujours une meilleure histoire au coin de la rue. Bientôt, ils sentent l'odeur du sang ailleurs et le monde m'oublie. Mais moi, je n'oublie pas\" - Le Professeur"
+        "title": "人格谋杀",
+        "keywords": "防卫",
+        "text": "当你用人格谋杀计分时，销毁一个资源（不能被防止）。",
+        "flavor": "“新闻工作的要诀就是在街头巷尾总能找到更好的故事。很快，他们就会在别处发现热点，然后世界就忘了你。但我并没有忘记。”——教授"
     },
     {
         "code": "04015",
-        "title": "Jackson Howard",
-        "keywords": "Cadre",
-        "text": "[Click]: Piochez 2 cartes.\r\n<strong>Retirez Jackson Howard du jeu<\/strong> : Mélangez jusqu'à 3 cartes des Archives dans R&D.",
-        "flavor": "\"C'est mon devoir de m'assurer que nos créations sont de parfaits compagnons d'édumusement pour les consommateurs de demain.\""
+        "title": "杰克逊·霍华德",
+        "keywords": "主管",
+        "text": "[Click]：补两张卡牌。\r\n<strong>将杰克逊·霍华德移出游戏<\/strong>：将最多三张卡牌从档案库洗入研发中心。",
+        "flavor": "“确保我们的产品成为未来消费者们最佳的伴侣和教育娱乐方式，是我的职责。”"
     },
     {
         "code": "04016",
-        "title": "Atteinte à la Vie Privée",
-        "keywords": "Double - Douteuse",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\r\n<strong>Traque<sup>2<\/sup><\/strong>&ndash; Si la traque est réussie, révélez la main du Runner et effacez-en autant de ressources et\/ou d'événements que la différence entre votre force et la force d'évasion du Runner. Si la traque est ratée, prenez 1 pion Mauvaise Presse."
+        "title": "侵犯隐私",
+        "keywords": "双重 - 灰色行动",
+        "text": "作为打出本事务的额外费用，花费[Click]。\r\n<strong>追踪<sup>2<\/sup><\/strong> – 如果成功，展示潜袭者的操控器，并从中销毁若干数量的资源和\/或事件，其数量最多为你追踪强度超过潜袭者中转强度的差值。如果失败，拿取1枚负面声誉标记。"
     },
     {
         "code": "04017",
-        "title": "Fracturation Géothermique",
-        "keywords": "Expansion",
-        "text": "Lorsque vous finalisez la Fracturation Géothermique, placez 2 pions projet dessus.\r\n[Click], <strong>pion projet hébergé<\/strong> : Gagnez 7[Credits] et prenez 1 pion Mauvaise Presse.",
-        "flavor": "Envoyer de l'air dans les cheminées hydrothermales des abysses produisait d'énormes quantités d'énergie. Ce qui était un effet secondaire très rentable"
+        "title": "地热液压",
+        "keywords": "扩张",
+        "text": "当你用地热液压计分时，放置2枚议案指示物到本卡牌上。\r\n[Click]，<strong>所负载的议案指示物<\/strong>：获得7[Credits]并拿取1枚负面声誉标记。",
+        "flavor": "把水灌入深海的地热口会产生大量能量。一种有利可图的副作用。"
     },
     {
         "code": "04018",
-        "title": "Essaim",
-        "keywords": "Sentinelle - Destructeur - Illicite",
-        "text": "Lorsque vous activez l'Essaim, prenez 1 pion Mauvaise Presse.\r\nL'Essaim peut être avancé et gagne \"[Subroutine] Effacez 1 programme sauf si le Runner paye 3[Credits].\" pour chaque pion Avancement sur lui."
+        "title": "群集",
+        "keywords": "警报 - 毁灭者 - 非法",
+        "text": "当你激活群集时，拿取1枚负面声誉标记。 \r\n群集能被推进，并且其上每有1枚推进标记，获得“[Subroutine] 销毁一个程序，除非潜袭者支付3[Credits]。”"
     },
     {
         "code": "04019",
-        "title": "Période d'Essai Cyberdex",
-        "text": "Nettoyez tous les pions Virus.",
-        "flavor": "Votre version d'essai gratuite vient d'expirer. Voulez-vous passer à la version complète ?"
+        "title": "赛博杀毒剂试用",
+        "text": "清除病毒指示物。",
+        "flavor": "您的免费试用已经过期。是否升级到完整版？"
     },
     {
         "code": "04020",
-        "title": "Sinistros",
-        "keywords": "Sentinelle - Destructeur - Illicite",
-        "text": "Lorsque vous activez Sinistros, prenez 1 pion Mauvaise Presse.\r\n[Subroutine] Effacez 1 programme.",
-        "flavor": "\"Le Sinistros des legendes est l'un des nombreux mythes du 'chien noir' que l'on trouve habituellement dans les communautés de langue anglaise ou gaélique. Ce qui est fascinant, c'est qu'il s'est propagé sur le réseau, où il continue à vivre sous forme de programme qui, comme le veut la légende, chasse les imprudents.\" - Le Professeur"
+        "title": "犬灵",
+        "keywords": "警报 - 毁灭者 - 非法",
+        "text": "当你激活犬灵时，拿取1枚负面声誉标记。\r\n[Subroutine] 销毁一个程序。",
+        "flavor": "“传说中的犬灵是众多‘黑狗’神话中的一例，常见于盖尔语和英语社会群体。有意思的是，当它被传播到网上，作为一个程序存在时，它仍像故事里写的那样，继续猎捕着粗心大意的人。”——教授"
     }
 ]

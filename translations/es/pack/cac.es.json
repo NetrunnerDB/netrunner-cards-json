@@ -1,267 +1,342 @@
 [
     {
         "code": "03001",
-        "title": "Imagerie Cérebrale - Aux Frontières de L'Infini",
-        "keywords": "Division"
+        "title": "Resonancia Cerebral: Fronteras Infinitas",
+        "keywords": "Sección",
+        "text": "Tu tamaño de mano máximo es igual a la cantidad de créditos de tu reserva de créditos",
+        "flavor": "El cúmulo de información más denso de la galaxia."
     },
     {
         "code": "03002",
-        "title": "Biotique Personnalisée - Conçu pour le Succès",
-        "keywords": "Division"
+        "title": "Biótica Personalizada: Construidos para el éxito",
+        "keywords": "Sección",
+        "text": "No puedes incluir cartas Jinteki en este mazo.",
+        "flavor": "El androide que fue y será."
     },
     {
         "code": "03003",
-        "title": "Conception NEXT - Les Gardiens du Réseau",
-        "keywords": "Division"
+        "title": "Diseño NEXT: Protegiendo la red",
+        "keywords": "Sección",
+        "text": "Antes de jugar tu primer turno, puedes instalar un máximo de 3 hielos, pero no puedes poner más de un hielo por servidor. Roba hasta que tengas 5 cartas en la SC."
     },
     {
         "code": "03004",
-        "title": "Projet Personnel de la Directrice Haas",
-        "keywords": "Initiative"
+        "title": "Proyecto Favorito de la Dra. Haas",
+        "keywords": "Iniciativa",
+        "text": "Cuando puntúes Proyecto Favorito de la Directora Haas, puedes crear un nuevo servidor remoto instlando un máximo de 3 cartas de la SC y\/o de los Archivos en ese servidor y\/o protegiendo ese servidor (de una en una), ignorando todos los costes de instalación.\r\nLímite de 1 Proyecto Favorito de la Directora Haas por mazo."
     },
     {
         "code": "03005",
-        "title": "Commission d'Efficacité",
-        "keywords": "Initiative"
+        "title": null
     },
     {
         "code": "03006",
-        "title": "Projet Wotan",
-        "keywords": "Recherche"
+        "title": "Proyecto Wotan",
+        "keywords": "Investigación",
+        "text": "Coloca 3 contadores de plan sobre Proyecto Wotan cuando lo puntúes.\r\n<strong>Contador de plan alojado<\/strong>: Elige un hielo <strong>bioroide<\/strong> ejecutado al que se esté aproximando el Runner en este momento. Durante el resto de este turno , ese hielo gana \"[Subroutine] Termina la incursión.\" después de todas sus demás subrutinas."
     },
     {
         "code": "03007",
-        "title": "Programme de Défense Sentinelle",
-        "keywords": "Securité"
+        "title": null
     },
     {
         "code": "03008",
         "title": "Alix T4LB07",
-        "keywords": "Bioroïde"
+        "keywords": "Bioroide",
+        "text": "Coloca 1 contador de poder sobre Alix T4LB07 siempre que instales una carta.\r\n[Click],[Trash]:Gana 2[Credits] por cada contador de poder que haya sobre Alix T4LB07.",
+        "flavor": "El modelo Alix se basaba en una exitosa gestora de fondos de cobertura, pero tenía tendencia a quemarse. Literalmente."
     },
     {
         "code": "03009",
-        "title": "Écraseur Cérébral",
-        "keywords": "Embuscade"
+        "title": "Sobrescritor Cerebral",
+        "keywords": "Emboscada",
+        "text": "Sobrescritor Cerebral puede ser avanzado.\r\nSi pagas 3[Credits] cuando el Runner acceda a Sobrescritor Cerebral, inflige 1 punto de daño cerebral por cada ficha de Avance que haya sobre Sobrescritor Cerebral."
     },
     {
         "code": "03010",
-        "title": "Directrice Haas",
-        "keywords": "Cadre"
+        "title": null
     },
     {
         "code": "03011",
-        "title": "IA de l'Arcologie Haas"
+        "title": "IA de Arcología Haas",
+        "text": "IA de Arcología Haas sólo puede ser avanzada mientras esté suspendida.\r\n[Click], <strong>ficha de Avance alojada<\/strong>: Gana [Click][Click]. Usa esta capacidad sólo una vez por turno."
     },
     {
         "code": "03012",
         "title": "Thomas Haas",
-        "keywords": "Cadre"
+        "keywords": "Ejecutivo",
+        "text": "Thomas Haas puede ser avanzado.\r\n[Trash]: Gana 2[Credits] por cada ficha de Avance que haya sobre Thomas Haas.",
+        "flavor": "Thomas, el hijo de la directora, ha sido cuidadosamente educado desde que nació para heredar la corporación. Su pasatiempo favorito parece ser decepcionar a su madre."
     },
     {
         "code": "03013",
-        "title": "Expérience d'Optimisation Des Bioroïdes",
-        "keywords": "Condition"
+        "title": "Investigación de Eficiencia de Bioroides",
+        "keywords": "Condición",
+        "text": "Ejecuta un hielo <strong>bioroide<\/strong> ignorando todos los costes e instala Investigación de Eficiencia de Bioroides sobre ese hielo como un contador de condición alojado con el siguiente texto: \"Destruye Investigación de Eficiencia de Bioroides y suspende el hielo anfitrión si rompen todas sus subrutinas durante un sólo enfrentamiento\"."
     },
     {
         "code": "03014",
-        "title": "Présentation Réussie",
-        "keywords": "Transaction"
+        "title": "Demostración con Éxito",
+        "keywords": "Transacción",
+        "text": "Juega esta carta sólo si el Runner realizó una incursión sin éxito durante su último turno.\r\nGana 7[Credits]",
+        "flavor": "El éxito lo define la seguridad de los datos, no la seguridad de los intrusos potenciales."
     },
     {
         "code": "03015",
         "title": "Heimdall 2.0",
-        "keywords": "Barrière - Bioroïde - AP"
+        "keywords": "Barrera - Bioroide - AP",
+        "text": "El Runner puede fastar [Click][Click] para romper un máximo de 2 subrutinas de Heimdall 2.0.\r\n[Subroutine] Inflige 1 punto de daño cerebral.\r\n[Subroutine] Inflige 1 punto de daño cerebral y termina la incursión.\r\n[Subroutine] Termina la incursión.",
+        "flavor": "El reino que hay más allá sigue estñando prohibido."
     },
     {
         "code": "03016",
-        "title": "Hurleur",
-        "keywords": "Piège"
+        "title": "Aullador",
+        "keywords": "Trampa",
+        "text": "[Subroutine] Puedes instalar y ejecutar un <strong>bioroide<\/strong> desde la SC o los Archivos, ignorando todos los costes y colocándolo directamente detrás de Aullador. Si lo haces, suspende ese hielo y destruye Aullador después de que se complete la incursión.",
+        "flavor": "\"Sí. Hizo mucho ruido, me asusté y me desconecté. Sigo creyendo que tomé la decisión correcta.\" -g00ru"
     },
     {
         "code": "03017",
         "title": "Ichi 2.0",
-        "keywords": "Sentinelle - Bioroïde - Destructeur - Traqueur"
+        "keywords": "Centinela - Bioroide - Destructor - Rastreador",
+        "text": "El Runner puede gastar [Click][Click] para romper un máximo de 2 subrutinas de Ichi 2.0.\r\n[Subroutine] Destruye 1 programa\r\n[Subroutine] Destruye 1 programa\r\n[Subroutine] <strong>Rastreo<sup>3<\/sup><\/strong>: Si tiene éxito, dale 1 marca al Runner e inflige 1 punto de daño cerebral.",
+        "flavor": "El juego ha cambiado."
     },
     {
         "code": "03018",
-        "title": "Enfouisseur de Mines",
-        "keywords": "Verrou"
+        "title": "Siembraminas",
+        "keywords": "Puerta de código",
+        "text": "[Subroutine] Puedes instalar un hielo desde la SC como el hielo más exterior que proteja este servidor, ignorando todos los costes de instalación.",
+        "flavor": "A veces la única opción es intentar adivinar."
     },
     {
         "code": "03019",
         "title": "Viktor 2.0",
-        "keywords": "Verrou - Bioroïde - Traqueur - AP"
+        "keywords": "Puerta de código - Bioroide - Rastreador - AP",
+        "text": "El Runner puede gastar [Click][Click] para romper un máximo de 2 subrutinas de Viktor 2.0.\r\n<strong>Contador de poder alojado<\/strong>: Inflige 1 punto de daño cerebral\r\n[Subroutine] <strong>Rastreo<sup>2<\/sup><\/strong>: Si tiene éxito, coloca 1 contador de poder sobre Viktor 2.0.\r\n[Subroutine] Termina la incursión."
     },
     {
         "code": "03020",
         "title": "Zed 1.0",
-        "keywords": "Sentinelle - Bioroïde - AP"
+        "keywords": "Centinela - Bioroide - AP",
+        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Zed 1.0.\r\n[Subroutine] Si el Runner ha gastado al menos 1 [Click] para romper una subrutina durante esta incursión, inflige 1 punto de daño cerebral.\r\n[Subroutine] Si el Runner ha gastado al menos 1 [Click] para romper una subrutina durante esta incursión, inflige 1 punto de daño cerebral.",
+        "flavor": "¡Una mente de carne!¿Cómo funciona?"
     },
     {
         "code": "03021",
-        "title": "Centre d'Éveil"
+        "title": "Centro del Despertar",
+        "text": "Centro del Despertar puede alojar hielos bioroide (cada hielo se instala boca abajo, ignorando todos los costes de instalación). \r\nSiempre que el Runner supere todo el hielo que proteja este servidor, puedes ejecutar un hielo que haya sobre Centro del Despertar, reduciendo su coste en 7[Credits], para obligar al Runner a enfrentarse a él. Destruye ese hielo después de que se complete la incursión."
     },
     {
         "code": "03022",
-        "title": "Main de Tyr",
-        "keywords": "Hostile"
+        "title": "Mano de Tyr",
+        "keywords": "Hostil",
+        "text": "Si el Runner va a romper una subrutina de un hielo <strong>bioroide<\/strong> que protege este servidor, puedes ejecutar Mano de Tyr.\r\n[Trash]: Prevén que se rompa una subrutina de un hielo <strong>bioroide<\/strong> que protege este servidor."
     },
     {
         "code": "03023",
-        "title": "Arcologie Gila Hand's",
-        "keywords": "Extension"
+        "title": "Arcología Manos de Gila",
+        "keywords": "Expansión",
+        "text": "[Click], [Click]: Gana 3[Credits].",
+        "flavor": "Vende el sueño. Muéstrales lo mucho que desean ser ricos y se convencerán a sí mismos de que algún día lo serán. ¿Cómo van a rebelarse contra sus yoes futuros?\r\n-el Nuevo Evangelio de la Riqueza"
     },
     {
         "code": "03024",
-        "title": "Université Levy",
-        "keywords": "Luxueux"
+        "title": "Universidad Levy",
+        "keywords": "Lujoso",
+        "text": "[Click], 1[Credits]: Busca un hielo en I+D, revélalo y añádelo a la SC. Baraja I+D.",
+        "flavor": "\"Una fábrica más creando buenos autómatas corporativos para la máquina. Eso sí, su departamento de informática es el mejor del mundo.\" -g00ru"
     },
     {
         "code": "03025",
-        "title": "Diagnostic des Serveurs"
+        "title": "Diagnóstico del Servidor",
+        "text": "Gana 2[Credits] cuando comience tu turno.\r\nDestruye Diagnóstico del Servidor cuando instales un hielo.",
+        "flavor": "\"Sólo hay un 5% de probabilidad de que esto cause un fallo general.\""
     },
     {
         "code": "03026",
-        "title": "Bastion",
-        "keywords": "Barrière"
+        "title": "Bastión",
+        "keywords": "Barrera",
+        "text": "[Subroutine] Termina la incursión.",
+        "flavor": "El principio en el que se basa el hielo no es mantener a todo el mundo fuera, sino dejar entrar sólo a algunos. Este hielo niega la entrada a todos excepto a unos pocos puertos seleccionados que pueden cambiar según la hora del día o el picosegundo de la conexión. Si no sabes qué puerto usar, no entras. Y punto.\""
     },
     {
         "code": "03027",
-        "title": "Pic de Données",
-        "keywords": "Verrou"
+        "title": "Peaje de Datos",
+        "keywords": "Puerta de código",
+        "text": "[Subroutine] El Runnner debe pagar 2[Credits] si puede. Si el Runner no puede pagar 2[Credits], termina la incursión.\r\n[Subroutine] Termina la incursión.",
+        "flavor": "\"Protección de datos barata y lista para usar. Barata para ellos, claro. No para nosotros.\"\r\n-Ele \"Humo\" Scovak"
     },
     {
         "code": "03028",
-        "title": "Rielle \"Kit\" Peddler : Transhumaine",
-        "keywords": "Cyborg"
+        "title": "Rielle \"Kit\" Peddler: Transhumana",
+        "keywords": "Ciborg",
+        "text": "El primer hielo al que te enfrentes en cada turno gana <strong>puerta de código<\/strong> hasta el final de la incursión.",
+        "flavor": "\"No fui; fui, no soy, soy todo.\""
     },
     {
         "code": "03029",
-        "title": "Le Professeur : Gardien du Savoir",
-        "keywords": "Naturel"
+        "title": "El Profesor: Guardián del conocimiento",
+        "keywords": "Natural",
+        "text": "La primera copia de cada programa de este mazo no cuenta para su límite de influencia.",
+        "flavor": "\"La nueva tecnología destruye la antigua.\""
     },
     {
         "code": "03030",
-        "title": "Exil : As de la Rue",
-        "keywords": "Naturel"
+        "title": "Exiliado: Halcón callejero",
+        "keywords": "Natural",
+        "text": "Siempre que instales un programa desde tu Pila, roba 1 carta.",
+        "flavor": "\"Puedo hacer que eso funcione.\""
     },
     {
         "code": "03031",
         "title": "Escher",
-        "keywords": "Piratage"
+        "keywords": "Incursión",
+        "text": "Realiza una incursión contra la SC. Si tiene éxito, en lugar de accerder a las cartas, recoloca cualquiera cantidad de hielos que protejan los servidores (sin ejecutar ni suspender los hielos). Después de la recolocación debe haber la misma cantidad que antes de hielos protegiendo cada servidor."
     },
     {
         "code": "03032",
-        "title": "Galop d'Exploration",
-        "keywords": "Piratage"
+        "title": "Correría Exploratoria",
+        "keywords": "Incursión",
+        "text": "Realiza una incursión. Si tiene éxito, en lugar de acceder a las cartas, retira un máximo de 3 fichas de Avance de una sola carta que proteja o esté en el servidor atacado.",
+        "flavor": "¡Wiiiiii!"
     },
     {
         "code": "03033",
-        "title": "Contrat de Piratage Indépendant",
-        "keywords": "Crime"
+        "title": "Contrato de Codificación Independiente",
+        "keywords": "Golpe",
+        "text": "Destruye un máximo de 5 programas de tu Empuñadura. Gana 2[Credits] por cada programa destruido.",
+        "flavor": "\"El idealismo es genial, pero no te sustenta con tacos de carne de soja.\" -Matt \"ElMerc\" Thomas"
     },
     {
         "code": "03034",
-        "title": "Récup'"
+        "title": "Reaprovechar",
+        "text": "Como coste adicional para jugar esta carta, destruye un programa instalado.\r\nInstala un programa desde tu Empuñadura o tu Pila, reduciendo el coste de instalación de ese programa en tantos créditos como el coste del programa destruido.",
+        "flavor": "La basura de unos."
     },
     {
         "code": "03035",
-        "title": "Accès au Labo RA de Levy"
+        "title": "Acceso al Laboratior de RA de Levy",
+        "text": "Añade tu Empuñadura y tu Pila a tu Montón y barájalo. Roba 5 cartas. Retira Acceso al Laboratior de RA de Levy de la partida en lugar de destruirlo.",
+        "flavor": "Si pasas demasiado tiempo en el laboratorio de RA, alguien se dará cuenta. A menos que seas el jefe, claro."
     },
     {
         "code": "03036",
-        "title": "Monolithe",
-        "keywords": "Console"
+        "title": "Monolito",
+        "keywords": "Consola",
+        "text": "+3[Memory Unit]\r\nCuando instales Monolito, instala un máximo de 3 programas desde tu empuñadura, reduciendo el coste de instalación de cada uno en 4[Credits].\r\n<strong>Destruye un programa de tu Empuñadura<\/strong>: Prevén 1 punto de daño cerebral o de red.\r\nLímite 1 <strong>consola<\/strong> por jugador."
     },
     {
         "code": "03037",
-        "title": "Filtre de Retour",
-        "keywords": "Équipement"
+        "title": "Filtro de Retroalimentación",
+        "keywords": "Equipamiento",
+        "text": "3[Credits]: Prevén 1 punto de daño de red.\r\n[Trash]: Prevén hasta 2 puntos de daño cerebral.",
+        "flavor": "La primera vez aún duele un poco. La segunda vez no sientes nada en absoluto. Pero no tientes a la suerte."
     },
     {
         "code": "03038",
-        "title": "Puce Clonée",
-        "keywords": "Puce"
+        "title": null
     },
     {
         "code": "03039",
-        "title": "Omni-Disque",
-        "keywords": "Puce"
+        "title": "Omniunidad",
+        "keywords": "Equipamiento",
+        "text": "Omniunidad puede alojar un solo programa de 1[Memory Unit] o menos. El coste de memoria del programa alojado no cuenta para tu límite de memoria.\r\n1[Recurring Credits]\r\nUsa este crédito sólo para pagar por usar el programa alojado."
     },
     {
         "code": "03040",
-        "title": "Ȃtman",
-        "keywords": "Brise-glace - IA"
+        "title": "Atman",
+        "keywords": "Rompehielos - AI",
+        "text": "Cuando instalas Atman, puedes pagar X[Credits] para colocar X contadores de poder sobre él.  \r\nAtman tiene +1 punto de fuerza por cada contador de poder que haya sobre él.\r\n1[Credits]: Rompe una subrutina de un hielo que tenga una fuerza igual a la fuerza de Atman.",
+        "flavor": "Nuestros pensamientos nos dan forma. Nos convertimos en lo que pensamos."
     },
     {
         "code": "03041",
-        "title": "La Cape",
-        "keywords": "Furtif"
+        "title": "Capa",
+        "keywords": "Sigilo",
+        "text": "1[Recurring Credits]\r\nUsa este crédito para pagar por usar  <strong>rompehielos<\/strong>.",
+        "flavor": "\"Ninguna línea que tracen podría atrapar una sombra en la pared...\""
     },
     {
         "code": "03042",
-        "title": "L'Épée",
-        "keywords": "Brise-glace - Tueur"
+        "title": "Puñal",
+        "keywords": "Rompehielos - Asesino",
+        "text": "1[Credits]: Rompe una subrutina <strong>centinela<\/strong>.\r\n1[Credits]: +5 puntos de fuerza. Sólo puedes usar esta capacidad gastando un crédito desde una carta de <strong>sigilo<\/strong>.",
+        "flavor": "\"... y cuando la sombra se alce, el telón caerá.\" -revenant"
     },
     {
         "code": "03043",
-        "title": "Chacana",
-        "keywords": "Virus"
+        "title": null
     },
     {
         "code": "03044",
-        "title": "Cybercode",
-        "keywords": "Brise-glace - Décrypteur"
+        "title": "Cibercifra",
+        "keywords": "Rompehielos - Descodificador",
+        "text": "1[Credits]: Rompe una subrutina <strong>puerta de código<\/strong>.\r\n1[Credits]: +1 punto de fuerza.\r\nCuando instales Cibercifra, elige un servidor. Sólo puedes usar Cibercifra durante una incursión contra el servidor elegido."
     },
     {
         "code": "03045",
-        "title": "Paricia"
+        "title": "Paricia",
+        "text": "2[Recurring Credits]\r\nUsa estos créditos para destruir ventajas.",
+        "flavor": "Perfecto para desbordar servidores."
     },
     {
         "code": "03046",
-        "title": "Code Auto-modifiable"
+        "title": "Código Automodificado",
+        "text": "2[Credits], [Trash]: Busca un programa en tu Montón e instálalo pagando el coste de instalación. Baraja tu Montón.",
+        "flavor": "\"Asegúrate de decirle al código fuente el ejecutable en el que quieres que se compile. Una vez dejé mi equipo unos minutos y cuando volví, todos mis archivos habían sido reemplazados por vídeos de gatos.\" -El Profesor"
     },
     {
         "code": "03047",
-        "title": "Sahasrara"
+        "title": "Sahasrara",
+        "text": "2[Recurring Credits]\r\nUsa estos créditos para instalar programas. No puedes usas Sahasrara para instalar un programa que destruya Sahasrarar.",
+        "flavor": "Ahí fuera, el loto de los mil pétalos simboliza el desapego de la ilusión. Aquí dentro es el nacimiento de una consciencia más elevada."
     },
     {
         "code": "03048",
         "title": "Inti",
-        "keywords": "Brise-glace - Fragmenteur"
+        "keywords": "Rompehielos - Fractor",
+        "text": "1[Credits]: Rompe una subrutina <strong>barrera<\/strong>.\r\n2[Credits]: +1 punto de fuerza durante el resto de la incursión.",
+        "flavor": "\"Los incas creían que el dios sol residía en Hanan Pacha, el reino superior del cosmos. Lo que no sabían es que Hanan Pacha no había sido descubierto aún.\" -El Profesor"
     },
     {
         "code": "03049",
-        "title": "Contacts Professionnels",
-        "keywords": "Relation"
+        "title": "Contactos Profesionales",
+        "keywords": "Contacto",
+        "text": "[Click]: Gana 1[Credits] y roba 1 carta.",
+        "flavor": "A veces no importa lo caro que sea tu equipo, o cuántos créditos haya en tu cuenta, ni siquiera tu habilidad como Runner. La mayor parte del tiempo, todo lo que necesitas es un nombre y un simple apretón de manos."
     },
     {
         "code": "03050",
-        "title": "Satellite d'Emprunt",
-        "keywords": "Relais"
+        "title": "Satelite Prestado",
+        "keywords": "Enlace",
+        "text": "+1[Link]\r\nTu tamaño máximo de mano aumenta en 1.",
+        "flavor": "Algunas personas tienen su propio receptor de satélite. Otras tienen su propio satélite."
     },
     {
         "code": "03051",
-        "title": "Analyseur de Glace",
-        "keywords": "Virtuelle"
+        "title": "Analizador de Hielo",
+        "keywords": "Virtual",
+        "text": "Siempre que la Corporación ejecute un hielo, coloca 1[Credits] sobre Analizador de Hielo.\r\nPuedes usar los créditos que haya sobre Analizador de Hielo para instalar programas.",
+        "flavor": "\"Si conoces el código fuente, puedes escribir algo para vencerlo, o modificarlo un poco y hacerlo tuyo. Eso también vale.\" -Exiliado"
     },
     {
         "code": "03052",
-        "title": "Linge Sale",
-        "keywords": "Piratage"
+        "title": "Trapos Sucios",
+        "keywords": "Incursión",
+        "text": "Realiza una incursión. Después de que se complete la incursión, gana 5[Credits] si ha tenido éxito.",
+        "flavor": "Los datos eran mejores de lo que podía haber imaginado. El tal Santiago realmente sabía lo que hacía. Empezó a imaginar el caos que podría crear en la próxima cena benéfica..."
     },
     {
         "code": "03053",
-        "title": "Flux Quotidiens"
+        "title": null
     },
     {
         "code": "03054",
-        "title": "Toujours la Même Chanson"
+        "title": null
     },
     {
         "code": "03055",
-        "title": "Équipement La Source",
-        "keywords": "Relation"
+        "title": null
     }
 ]

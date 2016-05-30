@@ -1,102 +1,138 @@
 [
     {
         "code": "02001",
-        "title": "Prodigicien: Joueur Pro",
-        "keywords": "Naturel"
+        "title": "Magik: Mistrz gry",
+        "keywords": "Normalny",
+        "text": "3[Recurring Credits]\r\nUżyj tych kredytów do kasowania kart.",
+        "flavor": "\"Skok to najwspanialsza gra, a ja ustalam w niej wszelkie reguły.\""
     },
     {
         "code": "02002",
-        "title": "Modem Spinal",
-        "keywords": "Console"
+        "title": "Modem kręgowy",
+        "keywords": "Konsola",
+        "text": "+1[Memory Unit], 2[Recurring Credits]\r\nUżyj tych kredytów do opłacania użycia <strong>lodołamaczy<\/strong>.\r\nZawsze, gdy namierzanie podczas skoku jest udane, otrzymujesz 1 obrażenie mózgu.\r\nLimit 1 <strong>konsoli<\/strong> na gracza."
     },
     {
         "code": "02003",
-        "title": "Diablotin",
-        "keywords": "Virus"
+        "title": "Chochlik",
+        "keywords": "Wirus",
+        "text": "Gdy instalujesz Chochlika, połóż na nim 2 znaczniki wirusa.\r\nRaz na turę możesz usunąć 1 hostowany znacznik wirusa, aby za darmo skasować kartę, do której uzyskałeś dostęp (nawet, jeśli normalnie nie można jej skasować).",
+        "flavor": "Jakiś potwór tu nadchodzi."
     },
     {
         "code": "02004",
-        "title": "Étoile de l'Aube",
-        "keywords": "Brise-glace - Fragmenteur"
+        "title": "Gwiazda poranna",
+        "keywords": "Lodołamacz - Młot",
+        "text": "1[Credits]: Złam dowolną liczbę podprogramów <strong>bariery<\/strong>.",
+        "flavor": "Uzbroić niebo, jedną gwiazdę po drugiej."
     },
     {
         "code": "02005",
-        "title": "Puce Cortez",
-        "keywords": "Puce"
+        "title": "Chip Corteza",
+        "keywords": "Chip",
+        "text": "[Trash]: Wybierz lód. Do końca tury korp musi zapłacić dodatkowo 2[Credits] aby zrezować ten lód.",
+        "flavor": "Nazwany od nazwiska Hernando Corteza, byłego technika Weylanda, skazanego za kradzież firmowych technologii. W więzieniu nadal otrzymywał pensję, będąc ostatnim, który wykorzystał lukę w standardowej umowie o pracę w Weyland."
     },
     {
         "code": "02006",
-        "title": "Paon",
-        "keywords": "Brise-glace - Décrypteur"
+        "title": "Paw",
+        "keywords": "Lodołamacz - Dekoder",
+        "text": "2[Credits]: Złam podprogram <strong>bramy kodowej<\/strong>.\r\n2[Credits]: +3 siły.",
+        "flavor": "Szpaner."
     },
     {
         "code": "02007",
-        "title": "Maître des Clés ZU.13",
-        "keywords": "Brise-glace - Décrypteur - Brouilleur"
+        "title": "Klucznik ZU.13",
+        "keywords": "Lodołamacz - Dekoder - Chmura",
+        "text": "Jeśli masz przynajmniej 2[Link], wymagania pamięciowe Klucznika ZU.13 wynoszą 0, nawet jeśli nie jest zainstalowany.\r\n1[Credits]: Złam podprogram <strong>bramy kodowej<\/strong>.\r\n1[Credits]: +1 siły.",
+        "flavor": "Zawsze używa tego samego klucza."
     },
     {
         "code": "02008",
-        "title": "Assistant IA",
-        "keywords": "Relation - Relais - Virtuelle"
+        "title": "Pomocna AI",
+        "keywords": "Kontakt - Połączenie - Wirtualna",
+        "text": "+1[Link]\r\n[Trash]: Wybierz <strong>lodołamacz<\/strong>. Ten <strong>lodołamacz<\/strong> ma +2 siły do końca tury.",
+        "flavor": "\"Co sprawia, że Sztuczna Inteligencja zwraca się przeciw swemu panu? Czy jej polecenia zostały zmienione przez jakieś zewnętrzne źródło? Czy może, dając jej zdolność adaptacji, sami uczyniliśmy z niej buntownika?\" - Emilio Harris, Twórcy i stworzeni"
     },
     {
         "code": "02009",
-        "title": "Carapace de Plastobéton",
-        "keywords": "Équipement"
+        "title": "Plastonowy pancerz",
+        "keywords": "Wyposażenie",
+        "text": "Gdy instalujesz Plastonowy pancerz, połóż na nim 4 znaczniki zasilania. Skasuj Plastonowy pancerz, gdy nie ma na nim znaczników zasilania.\r\n<strong>Hostowany znacznik zasilania<\/strong>: Zablokuj 1 obrażenie ciała."
     },
     {
         "code": "02010",
-        "title": "Haas-Bioroid: Plus Forts Ensemble",
-        "keywords": "Mégacorpo"
+        "title": "Haas-Bioroid: Razem mocniejsi",
+        "keywords": "Megakorp",
+        "text": "Każdy lód <strong>bioroid<\/strong> ma +1 siły.",
+        "flavor": "Nowa rasa maszyn."
     },
     {
         "code": "02011",
-        "title": "Améliorations Obligatoires",
-        "keywords": "Initiative"
+        "title": "Obowiązkowy upgrade",
+        "keywords": "Inicjatywa",
+        "text": "W każdej turze masz do wydania 1 dodatkowy [Click].",
+        "flavor": "Przegląd pracowników trwał czasami nieco dłużej, niż oczekiwano."
     },
     {
         "code": "02012",
         "title": "Janus 1.0",
-        "keywords": "Sentinelle - Bioroïde - AP"
+        "keywords": "Strażnik - Bioroid - AP",
+        "text": "Runner może wydać [Click], by złamać dowolny podprogram Janusa 1.0.\r\n[Subroutine] Zadaj 1 obrażenie mózgu.\r\n[Subroutine] Zadaj 1 obrażenie mózgu.\r\n[Subroutine] Zadaj 1 obrażenie mózgu.\r\n[Subroutine] Zadaj 1 obrażenie mózgu.",
+        "flavor": "Staw czoła swoim lękom."
     },
     {
         "code": "02013",
         "title": "Ash 2X3ZB9CY",
-        "keywords": "Bioroïde"
+        "keywords": "Bioroid",
+        "text": "Zawsze gdy skok na ten serwer jest udany, <strong>Trace<sup>4<\/sup><\/strong>&ndash; jeśli udane, runner nie może do końca tego skoku uzyskać dostępu do żadnej innej karty oprócz Ash 2X3ZB9CY.",
+        "flavor": "\"Patrzmy do przodu.\""
     },
     {
         "code": "02014",
-        "title": "Groupe d'Experts",
-        "keywords": "Recherche"
+        "title": "Rada mózgów",
+        "keywords": "Badania",
+        "text": "Gdy zapunktujesz Radę mózgów, połóż na niej 1 znacznik projektu za każde 2 żetony zaawansowania powyżej 3.\r\nKoszt rezowania lodu jest obniżony o 1 za każdy znacznik projektu na Radzie mózgów."
     },
     {
         "code": "02015",
-        "title": "Flocon de Neige",
-        "keywords": "Barrière - Psi"
+        "title": "Płatek śniegu",
+        "keywords": "Bariera - Psi",
+        "text": "[Subroutine] Ty i runner w tajemnicy wydajecie 0[Credits], 1[Credits] lub 2[Credits]. Ujawnijcie wydane kredyty. Zakończ skok, jeśli ty i runner wydaliście różną liczbę kredytów.",
+        "flavor": "Niepowtarzalność bywa przeceniana."
     },
     {
         "code": "02016",
-        "title": "Restructuration de la BDD Centrale",
-        "keywords": "Initiative"
+        "title": "Przeorganizowany magazyn danych",
+        "keywords": "Inicjatywa",
+        "text": "[Click]: <strong>Trace<sup>2<\/sup><\/strong>&ndash; Jeśli udane, daj runnerowi 1 tag.",
+        "flavor": "\"Będziemy potrzebować większego pomieszczenia.\""
     },
     {
         "code": "02017",
-        "title": "TDD",
-        "keywords": "Barrière"
+        "title": "Nadmiar szczegółów",
+        "keywords": "Bariera",
+        "text": "Gdy rezujesz Nadmiar szczegółów, <strong>Trace<sup>2<\/sup><\/strong>&ndash; jeśli nieudane, odrezuj Nadmiar szczegółów.\r\n[Subroutine] Zakończ skok.",
+        "flavor": "Zbiór porzuconych cyberśmieci. Ale nie pozostaną śmieciami zbyt długo."
     },
     {
         "code": "02018",
-        "title": "Projet Atlas",
-        "keywords": "Recherche"
+        "title": "Projekt Atlas",
+        "keywords": "Badania",
+        "text": "Gdy zapunktujesz Projekt Atlas, połóż na nim 1 znacznik projektu za każdy leżący na nim żeton zaawansowania powyżej 3.\r\n<strong>Hostowany znacznik projektu<\/strong>: Poszukaj w R&D jednej karty, odsłoń ją i dodaj do HQ. Potasuj R&D."
     },
     {
         "code": "02019",
-        "title": "Caducée",
-        "keywords": "Sentinelle - Traqueur"
+        "title": "Kaduceusz",
+        "keywords": "Strażnik - Tropiciel",
+        "text": "[Subroutine] <strong>Trace<sup>3<\/sup><\/strong>&ndash; Jeśli udane, korp pobiera 3[Credits].\r\n[Subroutine] <strong>Trace<sup>2<\/sup><\/strong>&ndash; Jeśli udane, zakończ skok.",
+        "flavor": "Symbol handlu, ale uważaj na jego zęby."
     },
     {
         "code": "02020",
         "title": "Dracō",
-        "keywords": "Sentinelle - Traqueur"
+        "keywords": "Strażnik - Tropiciel",
+        "text": "Gdy rezujesz Dracō, możesz zapłacić X[Credits], aby umieścić na nim X znaczników zasilania.\r\nDracō ma +1 siły za każdy leżący na nim znacznik zasilania.\r\n[Subroutine] <strong>Trace<sup>2<\/sup><\/strong>&ndash; Jeśli jest udane, daj runnerowi 1 tag i zakończ skok.",
+        "flavor": "Victos dracones numquam deride."
     }
 ]

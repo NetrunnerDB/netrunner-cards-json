@@ -1,97 +1,135 @@
 [
     {
         "code": "02061",
-        "title": "Perturbateur"
+        "title": "Disruptor",
+        "text": "[Trash]: Prevén un rastreo. Ese rastreo vuelve a iniciarse con una fuerza de rastreo base de 0.",
+        "flavor": "\"Me salvó el pellejo más de una vez, pero te da una sensación de déjà vu muy chunga.\" - Hechigenio"
     },
     {
         "code": "02062",
-        "title": "Force de la Nature",
-        "keywords": "Brise-glace - Décrypteur"
+        "title": "Fuerza De La Naturaleza",
+        "keywords": "Rompehielos - Descodificador",
+        "text": "2[Credits]: Rompe un máximo de 2 subrutinas <strong>puerta de código<\/strong>.\r\n1[Credits]: +1 punto de fuerza.",
+        "flavor": "Siempre golpea dos veces."
     },
     {
         "code": "02063",
-        "title": "Nettoyeur",
-        "keywords": "Relation - Marginal"
+        "title": "Raspador",
+        "keywords": "Contacto - Sórdido",
+        "text": "2[Recurring Credits]\r\nUsa estos créditos para destruir cartas.",
+        "flavor": "\"Son herramientas de destrucción sin mente que no sirven para mucho más. Pero son buena gente. Algunos de mis mejores amigos son raspadores.\" - Ji \"Ruido\" Reilly"
     },
     {
         "code": "02064",
         "title": "Doppelgänger",
-        "keywords": "Console"
+        "keywords": "Consola",
+        "text": "+ 1[Memory Unit]\r\nUna vez por turno, puedes realizar inmediatamente otra incursión cuando termine una incursión con éxito.\r\nLímite de 1 <strong>consola<\/strong> por jugador.",
+        "flavor": "El doble de diversión."
     },
     {
         "code": "02065",
-        "title": "Crescentus"
+        "title": "Crescentus",
+        "text": "[Trash]: Suspende un hielo. Usa esta capacidad sólo después de romper todas las subrutinas de ese hielo durante un solo enfrentamiento.",
+        "flavor": "El pegamento más potente del ciberespacio."
     },
     {
         "code": "02066",
         "title": "Deus X",
-        "keywords": "Brise-glace"
+        "keywords": "Rompehielos",
+        "text": "[Trash]: Rompe cualquier cantidad de subrutinas <strong>AP<\/strong>.\r\n[Trash]: Prevén cualquier cantidad de daño de red.",
+        "flavor": "Eso no me lo esperaba."
     },
     {
         "code": "02067",
-        "title": "Nuit Blanche"
+        "title": "Noche En Vela",
+        "text": "[Click], [Trash]: Gana [Click][Click]",
+        "flavor": "\"Me da igual lo que digan los estudios. Por mi propia experiencia, puedo ingerir tres latas de Diésel cada hora durante un máximo de doce horas antes de que me dé un paro cardíaco.\" - oído durante la undécima hora"
     },
     {
         "code": "02068",
-        "title": "Taupe",
-        "keywords": "Relation"
+        "title": "Contacto Infiltrado",
+        "keywords": "Contacto",
+        "text": "2[Recurring Credits]\r\nUsa estos créditos para instalar hardware.",
+        "flavor": "Pocos empleados corporativos tienen una autorización de seguridad tan amplia como los del servicio de limpieza. La mayoría de las corporaciones son tan ingenuas como para pensar que esos empleados son demasiado lerdos para aprovecharse de ello."
     },
     {
         "code": "02069",
-        "title": "Contact dans la Pègre",
-        "keywords": "Relation"
+        "title": "Contacto En Los Bajos Fondos",
+        "keywords": "Contacto",
+        "text": "Cuando comience tu turno, gana 1[Credits] si tienes al menos 2[Link].",
+        "flavor": "\"Mi jefe premia el trabajo de calidad. Si sabes lo que te conviene, seguirás así.\""
     },
     {
         "code": "02070",
-        "title": "Accès au Niveau Vert",
-        "keywords": "Transaction"
+        "title": "Autorización De Nivel Verde",
+        "keywords": "Transacción",
+        "text": "Gana 3[Credits] y roba 1 carta.",
+        "flavor": "La autorización verde-dos es el mayor nivel de seguridad al que una corporación puede tener acceso. Al menos de forma legal."
     },
     {
         "code": "02071",
-        "title": "Sablier",
-        "keywords": "Verrou"
+        "title": "Reloj De Arena",
+        "keywords": "Puerta De Código",
+        "text": "[Subroutine] El Runner pierde [Click] si puede.\r\n[Subroutine] El Runner pierde [Click] si puede.\r\n[Subroutine] El Runner pierde [Click] si puede. ",
+        "flavor": "El tiempo pasa volando."
     },
     {
         "code": "02072",
-        "title": "Serveur Dédié",
-        "keywords": "Infrastructure"
+        "title": "Servidor Dedicado",
+        "keywords": "Complejo",
+        "text": "2[Recurring Credits]\r\nUsa estos créditos para ejecutar hielo.",
+        "flavor": "toca campana cerezos impávidos que no se inmutan - Fuhaku"
     },
     {
         "code": "02073",
-        "title": "Ouaouaron",
-        "keywords": "Verrou - Déflecteur - Psi"
+        "title": "Rana Toro",
+        "keywords": "Puerta De Código - Deflector - Psi",
+        "text": "[Subroutine] El Runner y tú gastáis en secreto 0[Credits], 1[Credits] o 2[Credits]. Revelad los créditos gastados. Si el Runner y tú habéis gastado una cantidad de créditos distinta, mueve Rana Toro para que se el hielo más exterior que proteja otro servidor. El Runner continúa la incursión desde esta nueva posición y ahora la está realizando contra este nuevo servidor."
     },
     {
         "code": "02074",
-        "title": "Ouroboros",
-        "keywords": "Sentinelle - Traqueur"
+        "title": "Uróboros",
+        "keywords": "Centinela - Rastreador",
+        "text": "[Subroutine] <strong>Rastreo<sup>4<\/sup><\/strong>: Si tien éxito, el Runner no puede realizar otra incursión en este turno.\r\n[Subroutine] <strong>Rastreo<sup>4<\/sup><\/strong>: Si tien éxito, termina la incursión.",
+        "flavor": "Donde una cosa acaba, otra comienza."
     },
     {
         "code": "02075",
-        "title": "Police du Réseau"
+        "title": "Policía De Red",
+        "text": "X[Recurring Credits]\r\nUsa estos créditos durante rastreos. X es la cantidad de enlaces que tiene el Runner.",
+        "flavor": "Ésta es la red. Trabajamos aquí. Somos policías."
     },
     {
         "code": "02076",
-        "title": "Consortium Weyland: Parce que nous le construisons bien",
-        "keywords": "Mégacorpo"
+        "title": "Weyland Consortium: Porque Nosotros Lo Construimos",
+        "keywords": "Megacorporación",
+        "text": "1[Recurring Credits]\r\nUsa este crédito para avanzar hielo.",
+        "flavor": "Construyendo el ciberespacio."
     },
     {
         "code": "02077",
-        "title": "Contrats Publics"
+        "title": "Contratos Gubernamentales",
+        "text": "[Click][Click]: Gana 4[Credits].",
+        "flavor": "Es realmente difícil perder un contrato gubernamental."
     },
     {
         "code": "02078",
-        "title": "Tyran",
-        "keywords": "Barrière"
+        "title": "Tirano",
+        "keywords": "Barrera",
+        "text": "Tirano puede ser avanzado sólo mientras esté ejectuado y gana \"[Subroutine] Termina la incursión.\" por cada ficha de Avance que tenga.",
+        "flavor": "No pasarás."
     },
     {
         "code": "02079",
-        "title": "IA de Supervision",
-        "keywords": "Condition"
+        "title": "IA De Supervisión",
+        "keywords": "Condición",
+        "text": "Ejecuta un hielo ignorando todos los costes e instala IA De Supervisión como un contador de condición alojado con el siguiente texto: \"Destruye el hielo anfitrión si rompen todas sus subrutinas durante un solo enfrentamiento.\""
     },
     {
         "code": "02080",
-        "title": "Fausse Piste",
-        "keywords": "Securité"
+        "title": "Pista Falsa",
+        "keywords": "Seguridad",
+        "text": "<strong>Renuncia a Pista Falsa<\/strong>: El Runner pierde [Click][Click] si puede.",
+        "flavor": "No parecía la sede central de una empresa de varios miles de millones de créditos. Probablemente porque no lo era."
     }
 ]
