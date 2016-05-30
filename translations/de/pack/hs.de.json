@@ -53,7 +53,7 @@
         "code": "02089",
         "title": "Krabbelviech",
         "keywords": "Ice-Brecher - Killer - Cloud",
-        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von Krabbelviech 0, auch, falls er nicht installiert ist.\n2[Credits]: Schalte eine Subroutine eines <strong>Wächters<\/strong> aus.\n1[Credits]: +1 Stärke",
+        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von Krabbelviech 0, auch, falls er nicht installiert ist.\n2[Credits]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[Credits]: +1 Stärke",
         "flavor": "\"Die kltzekleine Spinne krabbelt hoch die Datenrinne...\"\n-Chaostheorie"
     },
     {
@@ -92,28 +92,28 @@
         "code": "02095",
         "title": "Hokusai-Netz",
         "keywords": "Region",
-        "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird, verursache 1 Netz-Schaden.\nMaximal 1 <strong>Region<\/strong> pro System.",
+        "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird, verursache 1 Netz-Schaden.\nMaximal 1 <strong>Region</strong> pro System.",
         "flavor": "Trotz seines Aussehens ist das Hokusai-Netz die berüchtigste Forschungsanlage bei Jinteki."
     },
     {
         "code": "02096",
         "title": "Datenspürhund",
         "keywords": "Wächter - Spürhund - Beobachter",
-        "text": "[Subroutine] <strong>Aufspüren<sup>2<\/sup><\/strong> - Bei Erfolg sieh dir eine Anzahl Karten oben vom Stapel des Runners an, die der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entspricht. Zerstöre 1 dieser Karten und lege den Rest in beliebniger Reihenfolge zurück.",
+        "text": "[Subroutine] <strong>Aufspüren<sup>2</sup></strong> - Bei Erfolg sieh dir eine Anzahl Karten oben vom Stapel des Runners an, die der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entspricht. Zerstöre 1 dieser Karten und lege den Rest in beliebniger Reihenfolge zurück.",
         "flavor": "Schnüffel"
     },
     {
         "code": "02097",
         "title": "Bernice Mai",
         "keywords": "Sysop",
-        "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird,<strong>Aufspüren<sup>5<\/sup><\/strong> - Bei Erfolg verpasse dem Runner 1 Markierung. Bei Misserfolg, zerstöre Bernice Mai.",
+        "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird,<strong>Aufspüren<sup>5</sup></strong> - Bei Erfolg verpasse dem Runner 1 Markierung. Bei Misserfolg, zerstöre Bernice Mai.",
         "flavor": "Die Welt kontrollieren, einen Bildschirm nach dem anderen."
     },
     {
         "code": "02098",
         "title": "Bergung",
         "keywords": "Code-Zugang - Spürhund",
-        "text": "Bergung kann nur entwickelt werden, solange es geladen ist, und erhält “[Subroutine] <strong>Trace<sup>2<\/sup><\/strong> - Bei Erfolg verpasse dem Runner 1 Markierung“ für jeden Entwicklungszähler auf ihm.",
+        "text": "Bergung kann nur entwickelt werden, solange es geladen ist, und erhält “[Subroutine] <strong>Trace<sup>2</sup></strong> - Bei Erfolg verpasse dem Runner 1 Markierung“ für jeden Entwicklungszähler auf ihm.",
         "flavor": "Du bist hier nicht mehr in Kansas."
     },
     {
@@ -126,7 +126,7 @@
     {
         "code": "02100",
         "title": "Foxfire",
-        "text": "<strong>Aufspüren<sup>7<\/sup><\/strong> - Bei Erfolg zerstöre 1 <strong>virtuelle<\/strong> Ressource oder 1 <strong>Verbindung<\/strong>.",
+        "text": "<strong>Aufspüren<sup>7</sup></strong> - Bei Erfolg zerstöre 1 <strong>virtuelle</strong> Ressource oder 1 <strong>Verbindung</strong>.",
         "flavor": "\"Das ist so was ähnliches wie ein Anagramm.\"\n  -Entwickler Phoenix"
     }
 ]

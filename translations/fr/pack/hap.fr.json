@@ -23,7 +23,7 @@
         "code": "05004",
         "title": "Maison Des Lames",
         "keywords": "Sécurité",
-        "text": "Lorsque vous finalisez la Maison des Lames, placez 3 pions projet dessus.\r\n<strong>Pion projet hébergé<\/strong> : Infligez 1 dégât Réseau. N'utilisez cette capacité que pendant un piratage et une seule fois par piratage."
+        "text": "Lorsque vous finalisez la Maison des Lames, placez 3 pions projet dessus.\n<strong>Pion projet hébergé</strong> : Infligez 1 dégât Réseau. N'utilisez cette capacité que pendant un piratage et une seule fois par piratage."
     },
     {
         "code": "05005",
@@ -36,7 +36,7 @@
         "code": "05006",
         "title": "Enchevêtrement Philotique",
         "keywords": "Sécurité",
-        "text": "Lorsque vous finalisez l'Enchevêtrement Philotique, infligez au Runner 1 dégât Réseau pour chaque projet dans sa zone de score.\r\nMaximum 1 Enchevêtrement Philotique par deck."
+        "text": "Lorsque vous finalisez l'Enchevêtrement Philotique, infligez au Runner 1 dégât Réseau pour chaque projet dans sa zone de score.\nMaximum 1 Enchevêtrement Philotique par deck."
     },
     {
         "code": "05007",
@@ -48,13 +48,13 @@
         "code": "05008",
         "title": "Président Hiro",
         "keywords": "Cadre",
-        "text": "La taille maximale de la main du Runner est réduite de 2.\r\nSi le président Hiro est effacé lorsqu'on y accède, ajoutez-le à la zone de score du Runner comme un projet valant 2 points de projet."
+        "text": "La taille maximale de la main du Runner est réduite de 2.\nSi le président Hiro est effacé lorsqu'on y accède, ajoutez-le à la zone de score du Runner comme un projet valant 2 points de projet."
     },
     {
         "code": "05009",
         "title": "Clinique Psychiatrique",
         "keywords": "Infrastructure",
-        "text": "Gagnez 1[Credits] au début de votre tour.\r\nLa taille maximale de la main du Runner est augmentée de 1.",
+        "text": "Gagnez 1[Credits] au début de votre tour.\nLa taille maximale de la main du Runner est augmentée de 1.",
         "flavor": "Les murs blanchis à la chaux s'évannouirent tandis qu'un magnifique jardin zen apparaissait. Ce n'était qu'une illusion, mais une illusion réconfortante."
     },
     {
@@ -80,7 +80,7 @@
         "code": "05013",
         "title": "Entrave Cérébrale",
         "keywords": "Douteuse - Psi",
-        "text": "Jouable uniquement si le Runner a réussi un piratage lors de son dernier tour.\r\nLe Runner et vous dépensez secrètement 0[Credits], 1[Credits], or 2[Credits]. Révélez les crédits dépensés. Si le Runner et vous avez dépensé un nombre de crédits différent, il choisit entre subir 1 dégât Neuro ou prendre 1 tag."
+        "text": "Jouable uniquement si le Runner a réussi un piratage lors de son dernier tour.\nLe Runner et vous dépensez secrètement 0[Credits], 1[Credits], or 2[Credits]. Révélez les crédits dépensés. Si le Runner et vous avez dépensé un nombre de crédits différent, il choisit entre subir 1 dégât Neuro ou prendre 1 tag."
     },
     {
         "code": "05014",
@@ -93,13 +93,13 @@
         "code": "05015",
         "title": "Mushin No Shin",
         "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\r\nInstallez un Avoir, un Projet ou une Extension depuis le QG dans un nouveau serveur distant. Placez 3 pions Avancement sur cette carte. Vous ne pouvez pas finaliser ou activer cette carte avant votre prochain tour."
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\nInstallez un Avoir, un Projet ou une Extension depuis le QG dans un nouveau serveur distant. Placez 3 pions Avancement sur cette carte. Vous ne pouvez pas finaliser ou activer cette carte avant votre prochain tour."
     },
     {
         "code": "05016",
         "title": "Inazuma",
         "keywords": "Verrou",
-        "text": "[Subroutine] Le Runner ne peut neutraliser aucune routine de la prochaine glace qu'il rencontre durant ce piratage.\r\n[Subroutine] Le Runner ne peut pas débrancher avant d'avoir rencontré la prochaine glace durant ce piratage.",
+        "text": "[Subroutine] Le Runner ne peut neutraliser aucune routine de la prochaine glace qu'il rencontre durant ce piratage.\n[Subroutine] Le Runner ne peut pas débrancher avant d'avoir rencontré la prochaine glace durant ce piratage.",
         "flavor": "Piégé dans sa propre réalité, un runner paralysé ne peut même pas débrancher."
     },
     {
@@ -112,14 +112,14 @@
         "code": "05018",
         "title": "Chiot",
         "keywords": "Sentinelle - AP",
-        "text": "[Subroutine] Infligez un dégât Réseau sauf si le Runner paye 1[Credits].\r\n[Subroutine] Infligez un dégât Réseau sauf si le Runner paye 1[Credits].",
+        "text": "[Subroutine] Infligez un dégât Réseau sauf si le Runner paye 1[Credits].\n[Subroutine] Infligez un dégât Réseau sauf si le Runner paye 1[Credits].",
         "flavor": "ouaf ouaf !"
     },
     {
         "code": "05019",
         "title": "Shiro",
         "keywords": "Verrou",
-        "text": "[Subroutine] Regardez les 3 premières cartes de R&D et replacez-les dans l'ordre de votre choix.\r\n[Subroutine] Le Runner accède à la première carte de R&D sauf si la Corpo paye 1[Credits].",
+        "text": "[Subroutine] Regardez les 3 premières cartes de R&D et replacez-les dans l'ordre de votre choix.\n[Subroutine] Le Runner accède à la première carte de R&D sauf si la Corpo paye 1[Credits].",
         "flavor": "Lorsque vous êtes enfermé dans la forteresse de votre propre esprit, prenez garde aux portes que vous ouvrez."
     },
     {
@@ -133,7 +133,7 @@
         "code": "05021",
         "title": "Grille de NéoTokyo",
         "keywords": "Région",
-        "text": "À chaque tour, la première fois qu'un pion avancement est placé sur une carte dans ce serveur, gagnez 1[Credits].\r\nMaximum 1 <strong>région<\/strong> par serveur.",
+        "text": "À chaque tour, la première fois qu'un pion avancement est placé sur une carte dans ce serveur, gagnez 1[Credits].\nMaximum 1 <strong>région</strong> par serveur.",
         "flavor": "Il est difficile d'aller au Japon sans se retrouver dans les méandres de NéoTokyo."
     },
     {
@@ -147,13 +147,13 @@
         "code": "05023",
         "title": "Plan B",
         "keywords": "Embuscade",
-        "text": "Plan B peut être avancé.\r\nSi le Runner accède au Plan B, Vous pouvez révéler et finaliser un projet du QG avec une valeur d'avancement inférieure ou égale au nombre de pions Avancement sur le Plan B."
+        "text": "Plan B peut être avancé.\nSi le Runner accède au Plan B, Vous pouvez révéler et finaliser un projet du QG avec une valeur d'avancement inférieure ou égale au nombre de pions Avancement sur le Plan B."
     },
     {
         "code": "05024",
         "title": "Garde",
         "keywords": "Sentinelle",
-        "text": "Le Garde ne peut pas être ignoré.\r\n[Subroutine] Arrêtez le piratage.",
+        "text": "Le Garde ne peut pas être ignoré.\n[Subroutine] Arrêtez le piratage.",
         "flavor": "À l'extrémité de son champ de vision, un éclair de lumière. Il ressentit un bruit sourd tandis que son emprise sur le cyberespace faiblissait. Spider n'aimait pas ça. Il aurait dû traverser la couche de glace externe en se connectant depuis le serveur interne. Un autre bruit sourd et son ossaturefût secouée par la résonnance de l'onde de choc. Il porta désespérément la main vers son shuriken…"
     },
     {
@@ -187,7 +187,7 @@
         "code": "05029",
         "title": "Ken \"Express\" Tenma : Clone Disparu",
         "keywords": "Clone",
-        "text": "La première fois que vous jouez un évènement <strong>piratage<\/strong> à chaque tour, gagnez 1[Credits].",
+        "text": "La première fois que vous jouez un évènement <strong>piratage</strong> à chaque tour, gagnez 1[Credits].",
         "flavor": "\"Essaye de suivre le rythme.\""
     },
     {
@@ -200,14 +200,14 @@
     {
         "code": "05031",
         "title": "Renvoi d'Ascenseur",
-        "text": "Gagnez 1[Credits] pour chaque ressource <strong>relation<\/strong> installée.",
+        "text": "Gagnez 1[Credits] pour chaque ressource <strong>relation</strong> installée.",
         "flavor": "La réussite d'un crime dépend toujours du membre le plus faible. Heureusement, Miss Jones est très ponctuelle."
     },
     {
         "code": "05032",
         "title": "Lève-Tôt",
         "keywords": "Priorité - Piratage",
-        "text": "Jouable uniquement à votre premier click.\r\nLancez un piratage et gagnez [Click].",
+        "text": "Jouable uniquement à votre premier click.\nLancez un piratage et gagnez [Click].",
         "flavor": "Leur cerveau étant conçu pour le traitement en parallèle, les Tenma excellent dans l'art de faire plusieurs choses à la fois."
     },
     {
@@ -234,25 +234,25 @@
         "code": "05036",
         "title": "Attaque Planifiée",
         "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cet évéement.\r\nCherchez un événement <strong>piratage<\/strong> dans votre pile et jouez cet événement (en payant son coût), enignorant les coûts additionnels. Mélangez votre pile."
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cet évéement.\nCherchez un événement <strong>piratage</strong> dans votre pile et jouez cet événement (en payant son coût), enignorant les coûts additionnels. Mélangez votre pile."
     },
     {
         "code": "05037",
         "title": "Logos",
         "keywords": "Console",
-        "text": "+1[Memory Unit]\r\nVotre taille de main est augmenté de 1.\r\nÀ chaque fois que la Corpo finalise un projet, vous pouvez chercher une carte dans votre pile et l'ajouter à votre main. Mélangez votre pile.\r\nMaximum 1 <strong>console<\/strong> en jeu."
+        "text": "+1[Memory Unit]\nVotre taille de main est augmenté de 1.\nÀ chaque fois que la Corpo finalise un projet, vous pouvez chercher une carte dans votre pile et l'ajouter à votre main. Mélangez votre pile.\nMaximum 1 <strong>console</strong> en jeu."
     },
     {
         "code": "05038",
         "title": "Terminal Public",
-        "text": "1[Recurring Credits]\r\nN'utilisez ce crédit que pour jouer les événements <strong>piratage<\/strong>.",
+        "text": "1[Recurring Credits]\nN'utilisez ce crédit que pour jouer les événements <strong>piratage</strong>.",
         "flavor": "Express adorait les bibliothèques. Les consoles y étaient de mauvaise qualité, mais la sécurité encore pire. Il téléchargea son code à distance et commença à cloner le disque dur. Dans quelques minutes, un nouveau zombie émergerait à la surface du cyberespace."
     },
     {
         "code": "05039",
         "title": "Smith & Wesson 35 de Contrebande",
         "keywords": "Arme",
-        "text": "N'utilez le Smith & Wesson 35 de Contrebande que si vous avez réussi un piratage sur le QG ce tour-ci.\r\n[Click], [Click]: Effacez un <strong>bioroïde<\/strong>, un <strong>clone<\/strong>, un<strong>cadre<\/strong> or un <strong>sysop<\/strong> activé dans un serveur sans payer son coût d'effacement."
+        "text": "N'utilez le Smith & Wesson 35 de Contrebande que si vous avez réussi un piratage sur le QG ce tour-ci.\n[Click], [Click]: Effacez un <strong>bioroïde</strong>, un <strong>clone</strong>, un<strong>cadre</strong> or un <strong>sysop</strong> activé dans un serveur sans payer son coût d'effacement."
     },
     {
         "code": "05040",
@@ -264,26 +264,26 @@
         "code": "05041",
         "title": "Alias",
         "keywords": "Brise-glace - Tueur",
-        "text": "1[Credits]: Neutralisez une routine <strong>sentinelle<\/strong>.\r\n2[Credits]: Force +3.\r\nAlias ne peut pas être utilisé sur une glace protégeant un serveur distant.",
+        "text": "1[Credits]: Neutralisez une routine <strong>sentinelle</strong>.\n2[Credits]: Force +3.\nAlias ne peut pas être utilisé sur une glace protégeant un serveur distant.",
         "flavor": "Il est facile de modifier son apparence dans le cyberespace, mais un rendu de bonne qualité n'est pas aisé à obtenir."
     },
     {
         "code": "05042",
         "title": "Brèche",
         "keywords": "Brise-glace - Fragmenteur",
-        "text": "2[Credits]: Neutralisez jusqu'à 3 routines <strong>barrière<\/strong>.\r\n2[Credits]: Force +4.\r\nBrèche ne peut pas être utilisé sur une glace protégeant un serveur distant."
+        "text": "2[Credits]: Neutralisez jusqu'à 3 routines <strong>barrière</strong>.\n2[Credits]: Force +4.\nBrèche ne peut pas être utilisé sur une glace protégeant un serveur distant."
     },
     {
         "code": "05043",
         "title": "Punaise",
-        "text": "Jouable uniquement si vous avez réussi un piratage sur le QG ce tour-ci.\r\nÀ chaque fois que la Corpo pioche une carte, vous pouvez payer 2[Credits] pour révéler cette carte.",
+        "text": "Jouable uniquement si vous avez réussi un piratage sur le QG ce tour-ci.\nÀ chaque fois que la Corpo pioche une carte, vous pouvez payer 2[Credits] pour révéler cette carte.",
         "flavor": "L'équivalent digital d'une mouche sur un mur."
     },
     {
         "code": "05044",
         "title": "Bonhomme de Pain d'Épices",
         "keywords": "Brise-glace",
-        "text": "1[Credits]: Neutralisez une routine <strong>traqueur<\/strong>.\r\n2[Credits]: Force +3.",
+        "text": "1[Credits]: Neutralisez une routine <strong>traqueur</strong>.\n2[Credits]: Force +3.",
         "flavor": "Attrape-moi si tu peux !"
     },
     {
@@ -296,7 +296,7 @@
         "code": "05046",
         "title": "Passeport",
         "keywords": "Brise-glace - Décrypteur",
-        "text": "1[Credits]: Neutralisez une routine <strong>verrou<\/strong>.\r\n2[Credits]: Force +2.\r\nPasseport ne peut pas être utilisé sur une glace protégeant un serveur distant.",
+        "text": "1[Credits]: Neutralisez une routine <strong>verrou</strong>.\n2[Credits]: Force +2.\nPasseport ne peut pas être utilisé sur une glace protégeant un serveur distant.",
         "flavor": "Rien n'est suffisamment protégé si vous avez la bonne documentation."
     },
     {
@@ -315,14 +315,14 @@
         "code": "05049",
         "title": "Théophilius Bagbiter",
         "keywords": "Relation",
-        "text": "Lorsque vous installez Théophilius Bagbiter, perdez tous les crédits de votre réserve.\r\nVotre taille maximale de main est égale au nombre de crédits dans votre réserve.",
+        "text": "Lorsque vous installez Théophilius Bagbiter, perdez tous les crédits de votre réserve.\nVotre taille maximale de main est égale au nombre de crédits dans votre réserve.",
         "flavor": "\"Quelle différence y a-t-il entre un pigeon?\""
     },
     {
         "code": "05050",
         "title": "Contact Tri-Maf",
         "keywords": "Relation",
-        "text": "Vous ne pouvez utiliser Contact Tri-Maf qu'une fois par tour.\r\n[Click]: Gagnez 2[Credits].\r\nLorsque Contact Tri-Maf est éffacé, subissez 3 dégâts Hémos.",
+        "text": "Vous ne pouvez utiliser Contact Tri-Maf qu'une fois par tour.\n[Click]: Gagnez 2[Credits].\nLorsque Contact Tri-Maf est éffacé, subissez 3 dégâts Hémos.",
         "flavor": "Elle remonta sur son hopper. \"Je fais partie de ta famille, maintenant, alors ne me déçois pas, dǒng ma ?\"\nIl retira son e-clope de sa bouche et hocha de la tête. Dans quoi s'était-il embarqué ?"
     },
     {
@@ -335,20 +335,20 @@
         "code": "05052",
         "title": "Puce de Q-Cohérence",
         "keywords": "Puce",
-        "text": "+1[Memory Unit]\r\nEffacez la Puce de Q-Cohérence lorsqu'un programme est effacé.",
+        "text": "+1[Memory Unit]\nEffacez la Puce de Q-Cohérence lorsqu'un programme est effacé.",
         "flavor": "L'un des problèmes principaux du calcul quantique est d'isoler le système des facteurs externes pour éviter la décohérence. La puce de Q-Cohérence est l'une des solutions, imparfaite, à ce problème."
     },
     {
         "code": "05053",
         "title": "Maître-Esprit",
         "keywords": "Brise-glace - AI",
-        "text": "Lors de son installation, placez un pion Pouvoir sur Maître-esprit pour chaque UM inutilisée.\r\n<strong>Pion Pouvoir hébergé<\/strong> : Neutralisez une routine de glace.\r\n1[Credits]: Force +1."
+        "text": "Lors de son installation, placez un pion Pouvoir sur Maître-esprit pour chaque UM inutilisée.\n<strong>Pion Pouvoir hébergé</strong> : Neutralisez une routine de glace.\n1[Credits]: Force +1."
     },
     {
         "code": "05054",
         "title": "Oracle May",
         "keywords": "Relation",
-        "text": "Vous ne pouvez utiliser Oracle May qu'une fois par tour.\r\n[Click]: Énoncez un type de carte. Révélez la première carte de votre deck. Si elle est du type énoncé, piochez-la et gagnez 2[Credits]. Sinon, effacez-la.",
+        "text": "Vous ne pouvez utiliser Oracle May qu'une fois par tour.\n[Click]: Énoncez un type de carte. Révélez la première carte de votre deck. Si elle est du type énoncé, piochez-la et gagnez 2[Credits]. Sinon, effacez-la.",
         "flavor": "\"Le meilleur endroit pour se cacher est au vu et au su de tout le monde, tu ne crois pas ?\""
     },
     {

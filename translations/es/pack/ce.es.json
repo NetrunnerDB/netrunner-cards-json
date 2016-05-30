@@ -3,7 +3,7 @@
         "code": "02041",
         "title": "Agente Nervioso",
         "keywords": "Virus",
-        "text": "Siempre que realices una incursión con éxito contra la SC, coloca 1 contador de virus sobre Agente Nervioso.\r\nCada contador de virus después del primero que haya sobre Agente Nervioso, te permite acceder a 1 carta adicional de la SC siempre que accedas a cartas de la SC."
+        "text": "Siempre que realices una incursión con éxito contra la SC, coloca 1 contador de virus sobre Agente Nervioso.\nCada contador de virus después del primero que haya sobre Agente Nervioso, te permite acceder a 1 carta adicional de la SC siempre que accedas a cartas de la SC."
     },
     {
         "code": "02042",
@@ -16,7 +16,7 @@
         "code": "02043",
         "title": "Apagado De Emergencia",
         "keywords": "Sabotaje",
-        "text": "Juega esta carta sólo si has realizado una incursión con éxito contra la SC en este turno.\r\nSuspende un hielo.",
+        "text": "Juega esta carta sólo si has realizado una incursión con éxito contra la SC en este turno.\nSuspende un hielo.",
         "flavor": "\"Considéralo un collar eléctrico virtual para castigar a mascotas corporativas.\" - Andrómeda"
     },
     {
@@ -48,13 +48,13 @@
         "code": "02048",
         "title": "Dinosaurio",
         "keywords": "Consola",
-        "text": "Dinosaurio puede alojar un solo <strong>rompehielos<\/strong> que no sea <strong>IA<\/strong>. El coste de memoria del <strong>rompehielos<\/strong> alojado no cuenta para tu límite de memoria.\r\nEl <strong>rompehielos<\/strong> alojado tiene +2 puntos de fuerza.\r\nLímite de 1 <strong>consola<\/strong> por jugador."
+        "text": "Dinosaurio puede alojar un solo <strong>rompehielos</strong> que no sea <strong>IA</strong>. El coste de memoria del <strong>rompehielos</strong> alojado no cuenta para tu límite de memoria.\nEl <strong>rompehielos</strong> alojado tiene +2 puntos de fuerza.\nLímite de 1 <strong>consola</strong> por jugador."
     },
     {
         "code": "02049",
         "title": "Taller Personal",
         "keywords": "Ubicación",
-        "text": "[Click]: Aloja un programa o hardware de tu Empuñadura en Taller Personal y coloca sobre él una cantidad de contadores de poder igual a su coste de instalación.\r\n1[Credits]: Retira 1 contador de poder de una carta alojada.\r\nCuando comience tu turno, retira 1 contador de poder de una carta alojada.\r\nCuando no queden contadores de poder sobre una carta alojada, instálala ignorando todos los costes."
+        "text": "[Click]: Aloja un programa o hardware de tu Empuñadura en Taller Personal y coloca sobre él una cantidad de contadores de poder igual a su coste de instalación.\n1[Credits]: Retira 1 contador de poder de una carta alojada.\nCuando comience tu turno, retira 1 contador de poder de una carta alojada.\nCuando no queden contadores de poder sobre una carta alojada, instálala ignorando todos los costes."
     },
     {
         "code": "02050",
@@ -66,13 +66,13 @@
         "code": "02051",
         "title": "Proyecto Vitruvio",
         "keywords": "Investigación",
-        "text": "Cuando puntúes Proyecto Vitruvio, coloca 1 contador de plan sobre la carta por cada ficha de Avance que tenga por encima de 3.\r\n<strong>Contador de plan alojado<\/strong>: Añade 1 carta desde los Archivos a la SC."
+        "text": "Cuando puntúes Proyecto Vitruvio, coloca 1 contador de plan sobre la carta por cada ficha de Avance que tenga por encima de 3.\n<strong>Contador de plan alojado</strong>: Añade 1 carta desde los Archivos a la SC."
     },
     {
         "code": "02052",
         "title": "Víbora",
         "keywords": "Puerta De Código - Rastreador",
-        "text": "[Subroutine] <strong>Rastreo<sup>3<\/sup><\/strong>: Si tiene éxito, el Runner pierde [Click] si puede.\r\n[Subroutine] <strong>Rastreo<sup>3<\/sup><\/strong>: Si tiene éxito, termina la incursión.",
+        "text": "[Subroutine] <strong>Rastreo<sup>3</sup></strong>: Si tiene éxito, el Runner pierde [Click] si puede.\n[Subroutine] <strong>Rastreo<sup>3</sup></strong>: Si tiene éxito, termina la incursión.",
         "flavor": "No me pises."
     },
     {
@@ -91,13 +91,13 @@
         "code": "02055",
         "title": "Cuentas Marcadas",
         "keywords": "Transacción",
-        "text": "Cuando comience tu turno, coge 1[Credits] de Cuentas Marcadas si puedes.\r\n[Click]: Coloca 3[Credits] del banco sobre Cuentras Marcadas."
+        "text": "Cuando comience tu turno, coge 1[Credits] de Cuentas Marcadas si puedes.\n[Click]: Coloca 3[Credits] del banco sobre Cuentras Marcadas."
     },
     {
         "code": "02056",
         "title": "Ventana Emergente",
         "keywords": "Puerta De Código - Anuncio",
-        "text": "Cuando el Runner se enfrente a Ventana Emergente, ganas 1[Credits].\r\n[Subroutine] Termina la incursión a menos que el Runner pague 1[Credits].",
+        "text": "Cuando el Runner se enfrente a Ventana Emergente, ganas 1[Credits].\n[Subroutine] Termina la incursión a menos que el Runner pague 1[Credits].",
         "flavor": "\"Intenta cerrarla. Adelante. Mira lo que hace.\" - Teoría del Caos."
     },
     {
@@ -118,13 +118,13 @@
         "code": "02059",
         "title": "Contratos Privados",
         "keywords": "Transacción",
-        "text": "Coloca 14[Credits] del banco sobre Contratos Privados cuando los ejecutes. Cuando no queden créditos en Contratos Privados, destrúyelos.\r\n[Click]: Coge 2[Credits] de Contratos Privados."
+        "text": "Coloca 14[Credits] del banco sobre Contratos Privados cuando los ejecutes. Cuando no queden créditos en Contratos Privados, destrúyelos.\n[Click]: Coge 2[Credits] de Contratos Privados."
     },
     {
         "code": "02060",
         "title": "Quimera",
         "keywords": "Mítico",
-        "text": "Cuando ejecutes Quimera, elige <strong>centinela<\/strong>, <strong>puerta de código<\/strong> o <strong>barrera<\/strong>. Quimera gana ese subtipo hasta que sea suspendida.\r\nCuando termine un turno, suspende Quimera.\r\n[Subroutine] Termina la incursión.",
+        "text": "Cuando ejecutes Quimera, elige <strong>centinela</strong>, <strong>puerta de código</strong> o <strong>barrera</strong>. Quimera gana ese subtipo hasta que sea suspendida.\nCuando termine un turno, suspende Quimera.\n[Subroutine] Termina la incursión.",
         "flavor": "Tres cabezas. Y una enorme jaqueca."
     }
 ]

@@ -3,39 +3,39 @@
         "code": "04001",
         "title": "Coup Monté",
         "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\r\nRenoncez à un projet. Si vous le faites, donnez 1 pion Mauvaise Presse à la Corpo.",
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\nRenoncez à un projet. Si vous le faites, donnez 1 pion Mauvaise Presse à la Corpo.",
         "flavor": "\"Prendre le contrôle de bioroïdes n'est pas impossible, contrairement à ce que prétend Haas-Bioroïd. Mais c'est dangereux.\" - Noise"
     },
     {
         "code": "04002",
         "title": "Pion",
         "keywords": "Caïssa",
-        "text": "[Click]: Hébergez le Pion sur la glace périphérique d'un serveur central.\r\nÀ chaque fois que vous réussissez un piratage, si le Pion est hébergé sur une glace, déplacez le sur la glace directement après celle qui l'héberge actuellement, si possible; sinon, effacez le Pion et installez un programme <strong>Caïssa<\/strong> de votre main ou de votre tas, en ignorant tous les coûts."
+        "text": "[Click]: Hébergez le Pion sur la glace périphérique d'un serveur central.\nÀ chaque fois que vous réussissez un piratage, si le Pion est hébergé sur une glace, déplacez le sur la glace directement après celle qui l'héberge actuellement, si possible; sinon, effacez le Pion et installez un programme <strong>Caïssa</strong> de votre main ou de votre tas, en ignorant tous les coûts."
     },
     {
         "code": "04003",
         "title": "Tour",
         "keywords": "Caïssa",
-        "text": "[Click]: Hébergez la Tour sur une glace qui n'héberge pas de <strong>Caïssa<\/strong>. Si elle est déjà hébergée, la Tour ne peut-être hébergée que sur un glace qui protège ce serveur ou sur une glace à la même position (en comptant à partir de la glace centrale) protégeant ce serveur.\r\nLe coût d'activation de chaque glace protégeant ce serveur est augmenté de 2."
+        "text": "[Click]: Hébergez la Tour sur une glace qui n'héberge pas de <strong>Caïssa</strong>. Si elle est déjà hébergée, la Tour ne peut-être hébergée que sur un glace qui protège ce serveur ou sur une glace à la même position (en comptant à partir de la glace centrale) protégeant ce serveur.\nLe coût d'activation de chaque glace protégeant ce serveur est augmenté de 2."
     },
     {
         "code": "04004",
         "title": "Otage",
         "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\r\nCherchez une <strong>relation<\/strong> dans votre pile, révélez-la et ajoutez la à votre main. Vous pouvez installer cette <strong>relation<\/strong> (en payant son coût d'installation).\r\nMélangez votre pile."
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\nCherchez une <strong>relation</strong> dans votre pile, révélez-la et ajoutez la à votre main. Vous pouvez installer cette <strong>relation</strong> (en payant son coût d'installation).\nMélangez votre pile."
     },
     {
         "code": "04005",
         "title": "Perfusion Gorman V1",
         "keywords": "Virus",
-        "text": "À chaque fois que la corpo dépense [Click] pour piocher une carte ou gagner 1[Credits] (hors capacité d'une carte), placez 1 pion Virus sur la Perfusion Gorman V1.\r\n[Click], [Trash]: Gagnez 1[Credits] pour chaque pion Virus sur la Perfusion Gorman V1.",
+        "text": "À chaque fois que la corpo dépense [Click] pour piocher une carte ou gagner 1[Credits] (hors capacité d'une carte), placez 1 pion Virus sur la Perfusion Gorman V1.\n[Click], [Trash]: Gagnez 1[Credits] pour chaque pion Virus sur la Perfusion Gorman V1.",
         "flavor": "Le principe est simple : le virus de perfusion draine des fractions de crédits de leurs comptes vers les vôtres."
     },
     {
         "code": "04006",
         "title": "Rossignol",
         "keywords": "Puce - Furtif",
-        "text": "1[Recurring Credits]\r\nN'utilisez ce crédit que pour payer l'utilisation de <strong>décrypteurs<\/strong>.",
+        "text": "1[Recurring Credits]\nN'utilisez ce crédit que pour payer l'utilisation de <strong>décrypteurs</strong>.",
         "flavor": "\"Au départ, je l'ai conçu pour quelqu'un d'autre, mais c'était tellement utile que j'ai décidé de le garder pour moi.\" - Kate \"Mac\" McCaffrey"
     },
     {
@@ -54,35 +54,35 @@
         "code": "04009",
         "title": "John Masanori",
         "keywords": "Relation",
-        "text": "Au premier piratage réussi de chaque tour, piochez une carte.\r\nAu premier piratage raté de chaque tour, recevez 1 tag.",
+        "text": "Au premier piratage réussi de chaque tour, piochez une carte.\nAu premier piratage raté de chaque tour, recevez 1 tag.",
         "flavor": "\"Je me suis connecté en ligne avec des poupées toute la journée. T'en fais pas, les connexions sont cleans. Je te le garantis\""
     },
     {
         "code": "04010",
         "title": "Projet Arès",
         "keywords": "Sécurité",
-        "text": "Lorsque vous finalisez le Projet Arès, le Runner efface immédiatement 1 de ses cartes installées pour chaque pion Avancement au delà de 4 sur le Projet Arès.\r\nSi le Runner efface au moins 1 carte, prenez 1 pion Mauvaise Presse.",
+        "text": "Lorsque vous finalisez le Projet Arès, le Runner efface immédiatement 1 de ses cartes installées pour chaque pion Avancement au delà de 4 sur le Projet Arès.\nSi le Runner efface au moins 1 carte, prenez 1 pion Mauvaise Presse.",
         "flavor": "Qui voudrait déclencher une guerre ?"
     },
     {
         "code": "04011",
         "title": "Bronze NEXT",
         "keywords": "Verrou - NEXT",
-        "text": "Le Bronze NEXT a  +1 en force pour chaque glace <strong>NEXT<\/strong> activée.\r\n[Subroutine] Arrêtez le piratage.",
+        "text": "Le Bronze NEXT a  +1 en force pour chaque glace <strong>NEXT</strong> activée.\n[Subroutine] Arrêtez le piratage.",
         "flavor": "Les conceptions NEXT offrent aux entreprises prévoyantes un ensemble de glaces qui créent une présence sécuritaire redoutable pour les intrus."
     },
     {
         "code": "04012",
         "title": "Cadeau à une Célébrité",
         "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\r\nRévélez jusqu'à 5 carte de votre QG au Runner. Gagnez 2[Credits] pour chaque carte révélée de cette façon.",
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\nRévélez jusqu'à 5 carte de votre QG au Runner. Gagnez 2[Credits] pour chaque carte révélée de cette façon.",
         "flavor": "Lorsque Miranda Rhapsody a fait son apparition avec une girafe miniature, tout le monde en a immédiatement voulu une."
     },
     {
         "code": "04013",
         "title": "Himitsu-Bako",
         "keywords": "Barrière",
-        "text": "1[Credits]: Mettez Himitsu-Bako dans votre QG.\r\n[Subroutine] Arrêtez le piratage.",
+        "text": "1[Credits]: Mettez Himitsu-Bako dans votre QG.\n[Subroutine] Arrêtez le piratage.",
         "flavor": "Himitsu-Bako est une simple barrière de glace qui ressemble à une boîte à puzzle digitale. Ce qui la rend spéciale est la facilité avec laquelle elle peut être installée et désinstallée dans différents serveurs, mettant des barrières à des endroits inattendus et donnant aux intrus une curieuse sensation de déjà-vu."
     },
     {
@@ -96,27 +96,27 @@
         "code": "04015",
         "title": "Jackson Howard",
         "keywords": "Cadre",
-        "text": "[Click]: Piochez 2 cartes.\r\n<strong>Retirez Jackson Howard du jeu<\/strong> : Mélangez jusqu'à 3 cartes des Archives dans R&D.",
+        "text": "[Click]: Piochez 2 cartes.\n<strong>Retirez Jackson Howard du jeu</strong> : Mélangez jusqu'à 3 cartes des Archives dans R&D.",
         "flavor": "\"C'est mon devoir de m'assurer que nos créations sont de parfaits compagnons d'édumusement pour les consommateurs de demain.\""
     },
     {
         "code": "04016",
         "title": "Atteinte à la Vie Privée",
         "keywords": "Double - Douteuse",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\r\n<strong>Traque<sup>2<\/sup><\/strong>&ndash; Si la traque est réussie, révélez la main du Runner et effacez-en autant de ressources et\/ou d'événements que la différence entre votre force et la force d'évasion du Runner. Si la traque est ratée, prenez 1 pion Mauvaise Presse."
+        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\n<strong>Traque<sup>2</sup></strong>&ndash; Si la traque est réussie, révélez la main du Runner et effacez-en autant de ressources et/ou d'événements que la différence entre votre force et la force d'évasion du Runner. Si la traque est ratée, prenez 1 pion Mauvaise Presse."
     },
     {
         "code": "04017",
         "title": "Fracturation Géothermique",
         "keywords": "Expansion",
-        "text": "Lorsque vous finalisez la Fracturation Géothermique, placez 2 pions projet dessus.\r\n[Click], <strong>pion projet hébergé<\/strong> : Gagnez 7[Credits] et prenez 1 pion Mauvaise Presse.",
+        "text": "Lorsque vous finalisez la Fracturation Géothermique, placez 2 pions projet dessus.\n[Click], <strong>pion projet hébergé</strong> : Gagnez 7[Credits] et prenez 1 pion Mauvaise Presse.",
         "flavor": "Envoyer de l'air dans les cheminées hydrothermales des abysses produisait d'énormes quantités d'énergie. Ce qui était un effet secondaire très rentable"
     },
     {
         "code": "04018",
         "title": "Essaim",
         "keywords": "Sentinelle - Destructeur - Illicite",
-        "text": "Lorsque vous activez l'Essaim, prenez 1 pion Mauvaise Presse.\r\nL'Essaim peut être avancé et gagne \"[Subroutine] Effacez 1 programme sauf si le Runner paye 3[Credits].\" pour chaque pion Avancement sur lui."
+        "text": "Lorsque vous activez l'Essaim, prenez 1 pion Mauvaise Presse.\nL'Essaim peut être avancé et gagne \"[Subroutine] Effacez 1 programme sauf si le Runner paye 3[Credits].\" pour chaque pion Avancement sur lui."
     },
     {
         "code": "04019",
@@ -128,7 +128,7 @@
         "code": "04020",
         "title": "Sinistros",
         "keywords": "Sentinelle - Destructeur - Illicite",
-        "text": "Lorsque vous activez Sinistros, prenez 1 pion Mauvaise Presse.\r\n[Subroutine] Effacez 1 programme.",
+        "text": "Lorsque vous activez Sinistros, prenez 1 pion Mauvaise Presse.\n[Subroutine] Effacez 1 programme.",
         "flavor": "\"Le Sinistros des legendes est l'un des nombreux mythes du 'chien noir' que l'on trouve habituellement dans les communautés de langue anglaise ou gaélique. Ce qui est fascinant, c'est qu'il s'est propagé sur le réseau, où il continue à vivre sous forme de programme qui, comme le veut la légende, chasse les imprudents.\" - Le Professeur"
     }
 ]

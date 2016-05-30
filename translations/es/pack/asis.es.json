@@ -9,21 +9,21 @@
         "code": "02062",
         "title": "Fuerza De La Naturaleza",
         "keywords": "Rompehielos - Descodificador",
-        "text": "2[Credits]: Rompe un máximo de 2 subrutinas <strong>puerta de código<\/strong>.\r\n1[Credits]: +1 punto de fuerza.",
+        "text": "2[Credits]: Rompe un máximo de 2 subrutinas <strong>puerta de código</strong>.\n1[Credits]: +1 punto de fuerza.",
         "flavor": "Siempre golpea dos veces."
     },
     {
         "code": "02063",
         "title": "Raspador",
         "keywords": "Contacto - Sórdido",
-        "text": "2[Recurring Credits]\r\nUsa estos créditos para destruir cartas.",
+        "text": "2[Recurring Credits]\nUsa estos créditos para destruir cartas.",
         "flavor": "\"Son herramientas de destrucción sin mente que no sirven para mucho más. Pero son buena gente. Algunos de mis mejores amigos son raspadores.\" - Ji \"Ruido\" Reilly"
     },
     {
         "code": "02064",
         "title": "Doppelgänger",
         "keywords": "Consola",
-        "text": "+ 1[Memory Unit]\r\nUna vez por turno, puedes realizar inmediatamente otra incursión cuando termine una incursión con éxito.\r\nLímite de 1 <strong>consola<\/strong> por jugador.",
+        "text": "+ 1[Memory Unit]\nUna vez por turno, puedes realizar inmediatamente otra incursión cuando termine una incursión con éxito.\nLímite de 1 <strong>consola</strong> por jugador.",
         "flavor": "El doble de diversión."
     },
     {
@@ -36,7 +36,7 @@
         "code": "02066",
         "title": "Deus X",
         "keywords": "Rompehielos",
-        "text": "[Trash]: Rompe cualquier cantidad de subrutinas <strong>AP<\/strong>.\r\n[Trash]: Prevén cualquier cantidad de daño de red.",
+        "text": "[Trash]: Rompe cualquier cantidad de subrutinas <strong>AP</strong>.\n[Trash]: Prevén cualquier cantidad de daño de red.",
         "flavor": "Eso no me lo esperaba."
     },
     {
@@ -49,7 +49,7 @@
         "code": "02068",
         "title": "Contacto Infiltrado",
         "keywords": "Contacto",
-        "text": "2[Recurring Credits]\r\nUsa estos créditos para instalar hardware.",
+        "text": "2[Recurring Credits]\nUsa estos créditos para instalar hardware.",
         "flavor": "Pocos empleados corporativos tienen una autorización de seguridad tan amplia como los del servicio de limpieza. La mayoría de las corporaciones son tan ingenuas como para pensar que esos empleados son demasiado lerdos para aprovecharse de ello."
     },
     {
@@ -70,14 +70,14 @@
         "code": "02071",
         "title": "Reloj De Arena",
         "keywords": "Puerta De Código",
-        "text": "[Subroutine] El Runner pierde [Click] si puede.\r\n[Subroutine] El Runner pierde [Click] si puede.\r\n[Subroutine] El Runner pierde [Click] si puede. ",
+        "text": "[Subroutine] El Runner pierde [Click] si puede.\n[Subroutine] El Runner pierde [Click] si puede.\n[Subroutine] El Runner pierde [Click] si puede. ",
         "flavor": "El tiempo pasa volando."
     },
     {
         "code": "02072",
         "title": "Servidor Dedicado",
         "keywords": "Complejo",
-        "text": "2[Recurring Credits]\r\nUsa estos créditos para ejecutar hielo.",
+        "text": "2[Recurring Credits]\nUsa estos créditos para ejecutar hielo.",
         "flavor": "toca campana cerezos impávidos que no se inmutan - Fuhaku"
     },
     {
@@ -90,20 +90,20 @@
         "code": "02074",
         "title": "Uróboros",
         "keywords": "Centinela - Rastreador",
-        "text": "[Subroutine] <strong>Rastreo<sup>4<\/sup><\/strong>: Si tien éxito, el Runner no puede realizar otra incursión en este turno.\r\n[Subroutine] <strong>Rastreo<sup>4<\/sup><\/strong>: Si tien éxito, termina la incursión.",
+        "text": "[Subroutine] <strong>Rastreo<sup>4</sup></strong>: Si tien éxito, el Runner no puede realizar otra incursión en este turno.\n[Subroutine] <strong>Rastreo<sup>4</sup></strong>: Si tien éxito, termina la incursión.",
         "flavor": "Donde una cosa acaba, otra comienza."
     },
     {
         "code": "02075",
         "title": "Policía De Red",
-        "text": "X[Recurring Credits]\r\nUsa estos créditos durante rastreos. X es la cantidad de enlaces que tiene el Runner.",
+        "text": "X[Recurring Credits]\nUsa estos créditos durante rastreos. X es la cantidad de enlaces que tiene el Runner.",
         "flavor": "Ésta es la red. Trabajamos aquí. Somos policías."
     },
     {
         "code": "02076",
         "title": "Weyland Consortium: Porque Nosotros Lo Construimos",
         "keywords": "Megacorporación",
-        "text": "1[Recurring Credits]\r\nUsa este crédito para avanzar hielo.",
+        "text": "1[Recurring Credits]\nUsa este crédito para avanzar hielo.",
         "flavor": "Construyendo el ciberespacio."
     },
     {
@@ -129,7 +129,7 @@
         "code": "02080",
         "title": "Pista Falsa",
         "keywords": "Seguridad",
-        "text": "<strong>Renuncia a Pista Falsa<\/strong>: El Runner pierde [Click][Click] si puede.",
+        "text": "<strong>Renuncia a Pista Falsa</strong>: El Runner pierde [Click][Click] si puede.",
         "flavor": "No parecía la sede central de una empresa de varios miles de millones de créditos. Probablemente porque no lo era."
     }
 ]

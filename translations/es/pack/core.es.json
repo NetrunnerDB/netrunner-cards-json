@@ -3,13 +3,13 @@
         "code": "01001",
         "title": "Ruido: Hacker Extraordinario",
         "keywords": "Mod-g",
-        "text": "Siempre que instales un programa <strong>virus<\/strong>, la Corporación destruye la carta superior de I+D.",
+        "text": "Siempre que instales un programa <strong>virus</strong>, la Corporación destruye la carta superior de I+D.",
         "flavor": "\"Mira esto. Será divertido.\""
     },
     {
         "code": "01002",
         "title": "Déjà Vu",
-        "text": "Añade 1 carta (o un máximo de 2 cartas <strong>virus<\/strong>) desde tu Pila a tu Empuñadura.",
+        "text": "Añade 1 carta (o un máximo de 2 cartas <strong>virus</strong>) desde tu Pila a tu Empuñadura.",
         "flavor": "Cualquier cosa que merezca la pena hacer merece la pena hacerla dos veces."
     },
     {
@@ -29,67 +29,67 @@
         "code": "01005",
         "title": "Ciberalimentador",
         "keywords": "Chip",
-        "text": "1[Recurring Credits]\r\nUsa este crédito para pagar el uso de <strong>rompehielos<\/strong> o para instalar programas <strong>virus<\/strong>.",
+        "text": "1[Recurring Credits]\nUsa este crédito para pagar el uso de <strong>rompehielos</strong> o para instalar programas <strong>virus</strong>.",
         "flavor": "Me siento casi desnudo sin él."
     },
     {
         "code": "01006",
         "title": "Grimorio",
         "keywords": "Consola",
-        "text": "+2[Memory Unit]\r\nSiempre que instales un programa <strong>virus<\/strong>, coloca 1 contador de virus sobre ese programa.\r\nLímite de 1 <strong>consola<\/strong> por jugador.",
+        "text": "+2[Memory Unit]\nSiempre que instales un programa <strong>virus</strong>, coloca 1 contador de virus sobre ese programa.\nLímite de 1 <strong>consola</strong> por jugador.",
         "flavor": "\"Mi librito de hechizos mágicos.\" - El hechigenio"
     },
     {
         "code": "01007",
         "title": "Corroedor",
         "keywords": "Rompehielos - Fractor",
-        "text": "1[Credits]: Rompe una subrutina <strong>barrera<\/strong>.\r\n1[Credits]: +1 punto de fuerza.",
+        "text": "1[Credits]: Rompe una subrutina <strong>barrera</strong>.\n1[Credits]: +1 punto de fuerza.",
         "flavor": "\"Si no tienes éxito al principio, aumenta su fuerza y vuelve a intentarlo.\" - g00ru"
     },
     {
         "code": "01008",
         "title": "Sorbedatos",
         "keywords": "Virus",
-        "text": "Siempre que realices una incursión con éxito contra un servidor central, coloca 1 contador de virus sobre Sorbedatos.\r\n<strong>Contador de virus alojado<\/strong>: El hielo ejecutado al que te enfrentes en este momento tiene -1 punto de fuerza hasta el final del enfrentamiento."
+        "text": "Siempre que realices una incursión con éxito contra un servidor central, coloca 1 contador de virus sobre Sorbedatos.\n<strong>Contador de virus alojado</strong>: El hielo ejecutado al que te enfrentes en este momento tiene -1 punto de fuerza hasta el final del enfrentamiento."
     },
     {
         "code": "01009",
         "title": "Djinn",
         "keywords": "Daemon",
-        "text": "Djinn puede alojar un máximo de 3[Memory Unit] de programas que no sean <strong>rompehielos<\/strong>. \r\nLos costes de memoria de los programas alojados no cuentan para tu límite de memoria.\r\n[Click], 1[Credits]: Busca en tu Montón un programa <strong>virus<\/strong>, revélalo y añádelo a tu Empuñadura. Baraja tu Montón."
+        "text": "Djinn puede alojar un máximo de 3[Memory Unit] de programas que no sean <strong>rompehielos</strong>. \nLos costes de memoria de los programas alojados no cuentan para tu límite de memoria.\n[Click], 1[Credits]: Busca en tu Montón un programa <strong>virus</strong>, revélalo y añádelo a tu Empuñadura. Baraja tu Montón."
     },
     {
         "code": "01010",
         "title": "Médium",
         "keywords": "Virus",
-        "text": "Siempre que realices una incursión con éxito contra I+D, coloca 1 contador de virus sobre Médium.\r\nCada contador de virus después del primero que haya sobre Médium te permite acceder a 1 carta adicional de I+D siempre que accedas a cartas de I+D.",
+        "text": "Siempre que realices una incursión con éxito contra I+D, coloca 1 contador de virus sobre Médium.\nCada contador de virus después del primero que haya sobre Médium te permite acceder a 1 carta adicional de I+D siempre que accedas a cartas de I+D.",
         "flavor": "Parecía una pérdida de paquetes al azar. No lo era."
     },
     {
         "code": "01011",
         "title": "Mímico",
         "keywords": "Rompehielos - Asesino",
-        "text": "1[Credits]: Rompe una subrutina <strong>centinela<\/strong>.",
+        "text": "1[Credits]: Rompe una subrutina <strong>centinela</strong>.",
         "flavor": "5 de noviembre: el día en el que todos verían las corruptas maquinaciones de la oligarquía corporativa."
     },
     {
         "code": "01012",
         "title": "Parásito",
         "keywords": "Virus",
-        "text": "Sólo puedes instalar Parásito en un hielo ejecutado.\r\nEl anfitrión tiene -1 punto de fuerza por cada contador de virus que haya sobre Parásito, y es destruido si su fuerza es 0 o menos.\r\nCuando comience tu turno, coloca 1 contador de virus sobre Parásito."
+        "text": "Sólo puedes instalar Parásito en un hielo ejecutado.\nEl anfitrión tiene -1 punto de fuerza por cada contador de virus que haya sobre Parásito, y es destruido si su fuerza es 0 o menos.\nCuando comience tu turno, coloca 1 contador de virus sobre Parásito."
     },
     {
         "code": "01013",
         "title": "Sierpe",
         "keywords": "Rompehielos - IA",
-        "text": "3[Credits]: Rompe una subrutina de hielo en un hielo con 0 o menos puntos de fuerza.\r\n1[Credits]: El hielo tiene -1 punto de fuerza.\r\n1[Credits]: +1 punto de fuerza.",
+        "text": "3[Credits]: Rompe una subrutina de hielo en un hielo con 0 o menos puntos de fuerza.\n1[Credits]: El hielo tiene -1 punto de fuerza.\n1[Credits]: +1 punto de fuerza.",
         "flavor": "Fuego e icor..."
     },
     {
         "code": "01014",
         "title": "Yog.0",
         "keywords": "Rompehielos - Descodificador",
-        "text": "0[Credits]: Rompe una subrutina <strong>puerta de código<\/strong>.",
+        "text": "0[Credits]: Rompe una subrutina <strong>puerta de código</strong>.",
         "flavor": "La base de datos Yog.0 es una recopilación mediante colaboración abierta de contraseñas rastreadas, falsificadas y registradas. Si la llave de la puerta está en la base de datos, estás dentro. Si no lo está, ¡cambia la puerta!"
     },
     {
@@ -143,7 +143,7 @@
     {
         "code": "01022",
         "title": "Pedido Especial",
-        "text": "Busca en tu Montón un <strong>rompehielos<\/strong>, revélalo y añádelo a tu Empuñadura. Baraja tu Montón.",
+        "text": "Busca en tu Montón un <strong>rompehielos</strong>, revélalo y añádelo a tu Empuñadura. Baraja tu Montón.",
         "flavor": "Después de seguir ansiosamente su frustrante y lento progreso por el Pacífico, el paquete llega por fin horas después..."
     },
     {
@@ -156,25 +156,25 @@
         "code": "01024",
         "title": "Desperado",
         "keywords": "Consola",
-        "text": "+1[Memory Unit]Gana 1[Credits] siempre que realices una incursión con éxito.Límite de 1 <strong>consola<\/strong> por jugador."
+        "text": "+1[Memory Unit]Gana 1[Credits] siempre que realices una incursión con éxito.Límite de 1 <strong>consola</strong> por jugador."
     },
     {
         "code": "01025",
         "title": "Aurora",
         "keywords": "Rompehielos - Fractor",
-        "text": "2[Credits]: Rompe una subrutina <strong>barrera<\/strong>.\r\n2[Credits]: +3 puntos de fuerza."
+        "text": "2[Credits]: Rompe una subrutina <strong>barrera</strong>.\n2[Credits]: +3 puntos de fuerza."
     },
     {
         "code": "01026",
         "title": "Mujer Fatal",
         "keywords": "Rompehielos - Asesino",
-        "text": "1[Credits]: Rompe una subrutina <strong>centinela<\/strong>.\r\n2[Credits]: +1 punto de fuerza.\r\nCuando instales Mujer Fatal, elige un hielo instalado. Cuando te enfrentes a ese hielo, puedes pagar 1[Credits] por cada subrutina del hielo para superarlo."
+        "text": "1[Credits]: Rompe una subrutina <strong>centinela</strong>.\n2[Credits]: +1 punto de fuerza.\nCuando instales Mujer Fatal, elige un hielo instalado. Cuando te enfrentes a ese hielo, puedes pagar 1[Credits] por cada subrutina del hielo para superarlo."
     },
     {
         "code": "01027",
         "title": "Ninja",
         "keywords": "Rompehielos - Asesino",
-        "text": "1[Credits]: Rompe una subrutina <strong>centinela<\/strong>.\r\n3[Credits]: +5 puntos de fuerza.",
+        "text": "1[Credits]: Rompe una subrutina <strong>centinela</strong>.\n3[Credits]: +5 puntos de fuerza.",
         "flavor": "Siente a Ninja antes de ver a Ninja, si es que llegas a verlo."
     },
     {
@@ -187,20 +187,20 @@
         "code": "01029",
         "title": "Golpe al Banco",
         "keywords": "Golpe",
-        "text": "Coloca 8[Credits] del banco sobre Golpe al Banco cuando lo instales. Cuando no queden créditos en Golpe al Banco, destrúyelo.\r\nSiempre que realices una incursión con éxito contra un servidor remoto, en lugar de acceder a las cartas puedes coger cualquier cantidad de créditos de Golpe al Banco."
+        "text": "Coloca 8[Credits] del banco sobre Golpe al Banco cuando lo instales. Cuando no queden créditos en Golpe al Banco, destrúyelo.\nSiempre que realices una incursión con éxito contra un servidor remoto, en lugar de acceder a las cartas puedes coger cualquier cantidad de créditos de Golpe al Banco."
     },
     {
         "code": "01030",
         "title": "Un Sitio Donde Quedarse",
         "keywords": "Ubicación",
-        "text": "2[Recurring Credits]\r\nUsa estos créditos para pagar por retirar marcas.\r\n[Trash]: Prevén hasta 3 puntos de daño físico.",
+        "text": "2[Recurring Credits]\nUsa estos créditos para pagar por retirar marcas.\n[Trash]: Prevén hasta 3 puntos de daño físico.",
         "flavor": "\"Mi compañero de piso tenía un primo con una novia universitaria, y el mejor amigo del hermano de ésta era toxicómano, y la madre del toxicómano antes vivía allí. Así que hay una conexión.\" - Lez \"Puñorroca\" S."
     },
     {
         "code": "01031",
         "title": "Traficante de Datos",
         "keywords": "Contacto - Sórdido",
-        "text": "<strong>Renuncia a un plan<\/strong>, [Click]: Gana 9[Credits].",
+        "text": "<strong>Renuncia a un plan</strong>, [Click]: Gana 9[Credits].",
         "flavor": "Cuanto más turbio es el traficante, mejor es el precio. A menos que el traficante sea demasiado turbio. Entonces podría haber un precio oculto después de que cojan tu dinero."
     },
     {
@@ -241,7 +241,7 @@
         "code": "01037",
         "title": "Trastear",
         "keywords": "Mod",
-        "text": "Elige un hielo. Ese hielo gana <strong>centinela<\/strong>, <strong>puerta de código<\/strong> y <strong>barrera<\/strong> hasta el final del turno.",
+        "text": "Elige un hielo. Ese hielo gana <strong>centinela</strong>, <strong>puerta de código</strong> y <strong>barrera</strong> hasta el final del turno.",
         "flavor": "\"Sabes, existe un momento en el que el mundo entero parece disiparse y sólo existís tu mod y tú, y la mod es el mundo.\""
     },
     {
@@ -255,34 +255,34 @@
         "code": "01039",
         "title": "Madriguera de Conejo",
         "keywords": "Enlace",
-        "text": "+1[Link]\r\nCuando instales Madriguera de Conejo, puedes buscar en tu Montón otra copia de Madriguera de Conejo e instalarla pagando su coste de instalación. Baraja tu Montón.",
+        "text": "+1[Link]\nCuando instales Madriguera de Conejo, puedes buscar en tu Montón otra copia de Madriguera de Conejo e instalarla pagando su coste de instalación. Baraja tu Montón.",
         "flavor": "No es infinita, sólo da esa impresión."
     },
     {
         "code": "01040",
         "title": "El Toque Personal",
         "keywords": "Mod",
-        "text": "Sólo puedes instalar El Toque Personal en un <strong>rompehielos<\/strong>.\r\nEl <strong>rompehielos<\/strong> anfitrión tiene +1 punto de fuerza.",
+        "text": "Sólo puedes instalar El Toque Personal en un <strong>rompehielos</strong>.\nEl <strong>rompehielos</strong> anfitrión tiene +1 punto de fuerza.",
         "flavor": "Un bucle-z por aquí, una onda cortical por allí..."
     },
     {
         "code": "01041",
         "title": "La Caja de Herramientas",
         "keywords": "Consola",
-        "text": "+2[Memory Unit] +2[Link]\r\n2[Recurring Credits]\r\nUsa estos créditos para pagar por usar <strong>rompehielos<\/strong>. Límite de 1 <strong>consola<\/strong> por jugador."
+        "text": "+2[Memory Unit] +2[Link]\n2[Recurring Credits]\nUsa estos créditos para pagar por usar <strong>rompehielos</strong>. Límite de 1 <strong>consola</strong> por jugador."
     },
     {
         "code": "01042",
         "title": "Ariete",
         "keywords": "Rompehielos - Fractor",
-        "text": "2[Credits]: Rompe un máximo de 2 subrutinas <strong>barrera<\/strong>.\r\n1[Credits]: +1 punto de fuerza durante el resto de esta incursión.",
+        "text": "2[Credits]: Rompe un máximo de 2 subrutinas <strong>barrera</strong>.\n1[Credits]: +1 punto de fuerza durante el resto de esta incursión.",
         "flavor": "\"Se llama 'fuerza bruta', y sigue siendo igual de efectiva hoy como lo era hace cien años.\" - Kate \"Mac\" McCaffrey"
     },
     {
         "code": "01043",
         "title": "Hoja Gordiana",
         "keywords": "Rompehielos - Descodificador",
-        "text": "1[Credits]: Rompe una subrutina <strong>puerta de código<\/strong>.\r\n1[Credits]: +1 punto de fuerza durante el resto de esta incursión.",
+        "text": "1[Credits]: Rompe una subrutina <strong>puerta de código</strong>.\n1[Credits]: +1 punto de fuerza durante el resto de esta incursión.",
         "flavor": "Puede atravesar los nudos de datos más gruesos."
     },
     {
@@ -301,7 +301,7 @@
         "code": "01046",
         "title": "Conducto",
         "keywords": "Rompehielos - Asesino",
-        "text": "1[Credits]: Rompe una subrutina <strong>centinela<\/strong>.\r\n2[Credits]: +1 punto de fuerza durante el resto de esta incursión."
+        "text": "1[Credits]: Rompe una subrutina <strong>centinela</strong>.\n2[Credits]: +1 punto de fuerza durante el resto de esta incursión."
     },
     {
         "code": "01047",
@@ -333,7 +333,7 @@
         "code": "01051",
         "title": "Crypsis",
         "keywords": "Rompehielos - IA - Virus",
-        "text": "1[Credits]: Rompe una subrutina de hielo.\r\n1[Credits]: +1 punto de fuerza.\r\n[Click]: Coloca 1 contador de virus sobre Crypsis.\r\nCuando termine un enfrentamiento con un hielo en el que hayas usado Crypsis para romper una subrutina, retira 1 contador de virus alojado o destruye Crypsis."
+        "text": "1[Credits]: Rompe una subrutina de hielo.\n1[Credits]: +1 punto de fuerza.\n[Click]: Coloca 1 contador de virus sobre Crypsis.\nCuando termine un enfrentamiento con un hielo en el que hayas usado Crypsis para romper una subrutina, retira 1 contador de virus alojado o destruye Crypsis."
     },
     {
         "code": "01052",
@@ -346,7 +346,7 @@
         "code": "01053",
         "title": "Revientacódigos Armitage",
         "keywords": "Golpe",
-        "text": "Coloca 12[Credits] del banco sobre Revientacódigos Armitage cuando lo instales. Cuando no queden créditos en Revientacódigos Armitage, destrúyelo.\r\n[Click]: Coge 2[Credits] de Revientacódigos Armitage.",
+        "text": "Coloca 12[Credits] del banco sobre Revientacódigos Armitage cuando lo instales. Cuando no queden créditos en Revientacódigos Armitage, destrúyelo.\n[Click]: Coge 2[Credits] de Revientacódigos Armitage.",
         "flavor": "Un trabajo cargante, pero paga las facturas."
     },
     {
@@ -366,13 +366,13 @@
         "code": "01056",
         "title": "Campaña Adonis",
         "keywords": "Anuncio",
-        "text": "Coloca 12[Credits] del banco sobre Campaña Adonis cuando sea ejecutada. Cuando no queden créditos sobre Campaña Adonis, destrúyela.\r\nCoge 3[Credits] de Campaña Adonis cuando comience tu turno."
+        "text": "Coloca 12[Credits] del banco sobre Campaña Adonis cuando sea ejecutada. Cuando no queden créditos sobre Campaña Adonis, destrúyela.\nCoge 3[Credits] de Campaña Adonis cuando comience tu turno."
     },
     {
         "code": "01057",
         "title": "Secretaria Agresiva",
         "keywords": "Emboscada",
-        "text": "Secretaria Agresiva puede ser avanzada.\r\nSi pagas 2[Credits] cuando el Runner acceda a Secretaria Agresiva, destruye 1 programa por cada ficha de Avance que haya sobre Secretaria Agresiva."
+        "text": "Secretaria Agresiva puede ser avanzada.\nSi pagas 2[Credits] cuando el Runner acceda a Secretaria Agresiva, destruye 1 programa por cada ficha de Avance que haya sobre Secretaria Agresiva."
     },
     {
         "code": "01058",
@@ -396,28 +396,28 @@
         "code": "01061",
         "title": "Heimdall 1.0",
         "keywords": "Barrera - Bioroide - AP",
-        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Heimdall 1.0.\r\n[Subroutine] Inflige 1 punto de daño cerebral.\r\n[Subroutine] Termina la incursión.\r\n[Subroutine] Termina la incursión.",
+        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Heimdall 1.0.\n[Subroutine] Inflige 1 punto de daño cerebral.\n[Subroutine] Termina la incursión.\n[Subroutine] Termina la incursión.",
         "flavor": "Oigo el movimiento de cada bit en el flujo de la corriente de datos. Oigo los susurros de mis madres, y sus órdenes son la ley. El reino que hay más allá está prohibido."
     },
     {
         "code": "01062",
         "title": "Ichi 1.0",
         "keywords": "Centinela - Bioroide - Rastreador - Destructor",
-        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Ichi 1.0.\r\n[Subroutine] Destruye 1 programa.\r\n[Subroutine] Destruye 1 programa.\r\n[Subroutine] <strong>Rastreo<sup>1<\/sup><\/strong>: Si tiene éxito, dale 1 marca al Runner e inflige 1 punto de daño cerebral.",
+        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Ichi 1.0.\n[Subroutine] Destruye 1 programa.\n[Subroutine] Destruye 1 programa.\n[Subroutine] <strong>Rastreo<sup>1</sup></strong>: Si tiene éxito, dale 1 marca al Runner e inflige 1 punto de daño cerebral.",
         "flavor": "Mi reputación me precedería si alguno pudiera hablar de ella."
     },
     {
         "code": "01063",
         "title": "Viktor 1.0",
         "keywords": "Puerta de Código - Bioroide - AP",
-        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Viktor 1.0.\r\n[Subroutine] Inflige 1 punto de daño cerebral.\r\n[Subroutine] Termina la incursión.",
+        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Viktor 1.0.\n[Subroutine] Inflige 1 punto de daño cerebral.\n[Subroutine] Termina la incursión.",
         "flavor": "Me llamo Viktor. Encantado de conocerte. ¿Quieres jugar a un juego?"
     },
     {
         "code": "01064",
         "title": "Rototorreta",
         "keywords": "Centinela - Destructor",
-        "text": "[Subroutine] Destruye 1 programa.\r\n[Subroutine] Termina la incursión.",
+        "text": "[Subroutine] Destruye 1 programa.\n[Subroutine] Termina la incursión.",
         "flavor": "¡Rrrrrrrr!"
     },
     {
@@ -444,30 +444,30 @@
         "code": "01068",
         "title": "Nisei MK II",
         "keywords": "Iniciativa",
-        "text": "Coloca 1 contador de plan sobre Nisei MK II cuando lo puntúes.\r\n<strong>Contador de plan alojado<\/strong>: Termina la incursión."
+        "text": "Coloca 1 contador de plan sobre Nisei MK II cuando lo puntúes.\n<strong>Contador de plan alojado</strong>: Termina la incursión."
     },
     {
         "code": "01069",
         "title": "Proyecto Gallina Ciega",
         "keywords": "Emboscada - Investigación",
-        "text": "Proyecto Gallina Ciega puede ser avanzado.\r\nSi pagas 1[Credits] cuando el Runner acceda a Proyecto Gallina Ciega, inflige 2 puntos de daño de red por cada ficha de Avance que haya sobre Proyecto Gallina Ciega."
+        "text": "Proyecto Gallina Ciega puede ser avanzado.\nSi pagas 1[Credits] cuando el Runner acceda a Proyecto Gallina Ciega, inflige 2 puntos de daño de red por cada ficha de Avance que haya sobre Proyecto Gallina Ciega."
     },
     {
         "code": "01070",
         "title": "¡Cepo!",
         "keywords": "Emboscada",
-        "text": "Si accede a ¡Cepo! desde I+D, el Runner debe revelarlo.\r\nSi pagas 4[Credits] cuando el Runner acceda a ¡Cepo!, dale 1 marca al Runner e inflige 3 puntos de daño de red. Ignora esta capacidad si el Runner accede a ¡Cepo! desde los Archivos."
+        "text": "Si accede a ¡Cepo! desde I+D, el Runner debe revelarlo.\nSi pagas 4[Credits] cuando el Runner acceda a ¡Cepo!, dale 1 marca al Runner e inflige 3 puntos de daño de red. Ignora esta capacidad si el Runner accede a ¡Cepo! desde los Archivos."
     },
     {
         "code": "01071",
         "title": "Lealtad al Zaibatsu",
-        "text": "Si el Runner va a exponer una carta, puedes ejecutar Lealtad al Zaibatsu.\r\n1[Credits] o [Trash]: Prevén que 1 carta sea expuesta."
+        "text": "Si el Runner va a exponer una carta, puedes ejecutar Lealtad al Zaibatsu.\n1[Credits] o [Trash]: Prevén que 1 carta sea expuesta."
     },
     {
         "code": "01072",
         "title": "PEM Neural",
         "keywords": "Operaciones Clandestinas",
-        "text": "Juega esta carta sólo si el Runner realizó una incursión durante su último turno.\r\nInflige 1 punto de daño de red.",
+        "text": "Juega esta carta sólo si el Runner realizó una incursión durante su último turno.\nInflige 1 punto de daño de red.",
         "flavor": "El truco no es darle a la persona a la que apuntabas. Es darle sólo a la persona a la que apuntabas."
     },
     {
@@ -495,20 +495,20 @@
         "title": "Mina de Datos",
         "keywords": "Trampa - AP",
         "text": "[Subroutine] Inflige 1 punto de daño de red. Destruye Mina de Datos.",
-        "flavor": "Acceder a ArchivoInocuo.datZ -> ¿Estás seguro? s\/n"
+        "flavor": "Acceder a ArchivoInocuo.datZ -> ¿Estás seguro? s/n"
     },
     {
         "code": "01077",
         "title": "Katana Neural",
         "keywords": "Centinela - AP",
         "text": "[Subroutine] Inflige 3 puntos de daño de red.",
-        "flavor": "Forjada por Ak.wa el 23.11.79-23. Archivada el 23.11.79-23.2 con #34k-lw3-21HH-4i. \/\/Samurai incluido."
+        "flavor": "Forjada por Ak.wa el 23.11.79-23. Archivada el 23.11.79-23.2 con #34k-lw3-21HH-4i. //Samurai incluido."
     },
     {
         "code": "01078",
         "title": "Muro de Espinas",
         "keywords": "Barrera - AP",
-        "text": "[Subroutine] Inflige 2 puntos de daño de red.\r\n[Subroutine] Termina la incursión.",
+        "text": "[Subroutine] Inflige 2 puntos de daño de red.\n[Subroutine] Termina la incursión.",
         "flavor": "La mayoría de los runners trabajan en simulación total, con sus equipos conectados directamente al cerebro. Esto tiene un gran número de ventajas, ya que el runner puede procesar datos e introducir comandos mucho más rápido que mediante un sistema tradicional dependiente del cuerpo. Pero también supone un riesgo mayor."
     },
     {
@@ -522,19 +522,19 @@
         "code": "01080",
         "title": "NBN: Creando Noticias",
         "keywords": "Megacorporación",
-        "text": "2[Recurring Credits]\r\nUsa estos créditos durante intentos de rastreo.",
+        "text": "2[Recurring Credits]\nUsa estos créditos durante intentos de rastreo.",
         "flavor": "Siempre hay alguien observando."
     },
     {
         "code": "01081",
         "title": "Programa Piloto AstroScript",
         "keywords": "Iniciativa",
-        "text": "Coloca 1 contador de plan sobre Programa Piloto AstroScript cuando lo puntúes.\r\n<strong>Contador de plan alojado<\/strong>: Coloca 1 ficha de Avance sobre una carta que pueda ser avanzada."
+        "text": "Coloca 1 contador de plan sobre Programa Piloto AstroScript cuando lo puntúes.\n<strong>Contador de plan alojado</strong>: Coloca 1 ficha de Avance sobre una carta que pueda ser avanzada."
     },
     {
         "code": "01082",
         "title": "Noticias de Última Hora",
-        "text": "Cuando puntúes Noticias de Última Hora, dale 2 marcas al Runner.\r\nCuando termine el turno en el que hayas puntuado Noticias de Última Hora, el Runner pierde 2 marcas."
+        "text": "Cuando puntúes Noticias de Última Hora, dale 2 marcas al Runner.\nCuando termine el turno en el que hayas puntuado Noticias de Última Hora, el Runner pierde 2 marcas."
     },
     {
         "code": "01083",
@@ -546,44 +546,44 @@
         "code": "01084",
         "title": "Cuentas Cerradas",
         "keywords": "Operaciones Clandestinas",
-        "text": "Juega esta carta sólo si el Runner está marcado.\r\nEl Runner pierde todos los créditos de su reserva de créditos."
+        "text": "Juega esta carta sólo si el Runner está marcado.\nEl Runner pierde todos los créditos de su reserva de créditos."
     },
     {
         "code": "01085",
         "title": "Psicográficas",
-        "text": "X es igual o menor que la cantidad de marcas que tiene el Runner.\r\nColoca X fichas de Avance sobre una carta que pueda ser avanzada.",
+        "text": "X es igual o menor que la cantidad de marcas que tiene el Runner.\nColoca X fichas de Avance sobre una carta que pueda ser avanzada.",
         "flavor": "El acceso a la mayor base de datos de clientes de la galaxia tiene sus ventajas."
     },
     {
         "code": "01086",
         "title": "Fuente de la AAE",
-        "text": "Juega esta carta sólo si el Runner realizó una incursión con éxito durante su último turno.\r\n<strong>Rastreo<sup>3<\/sup><\/strong>: Si tiene éxito, dale 1 marca al Runner.",
+        "text": "Juega esta carta sólo si el Runner realizó una incursión con éxito durante su último turno.\n<strong>Rastreo<sup>3</sup></strong>: Si tiene éxito, dale 1 marca al Runner.",
         "flavor": "\"La AAE nos advirtió de unos picos de datos sospechosos en el Castillo.\" - Jerome Lock, técnico de guardia"
     },
     {
         "code": "01087",
         "title": "Sucursal Fantasma",
         "keywords": "Emboscada - Complejo",
-        "text": "Sucursal Fantasma puede ser avanzada.\r\nCuando el Runner acceda a Sucursal Fantasma, puedes darle 1 marca por cada ficha de Avance que haya sobre Sucursal Fantasma."
+        "text": "Sucursal Fantasma puede ser avanzada.\nCuando el Runner acceda a Sucursal Fantasma, puedes darle 1 marca por cada ficha de Avance que haya sobre Sucursal Fantasma."
     },
     {
         "code": "01088",
         "title": "Cuervo de Datos",
         "keywords": "Centinela - Rastreador - Observador",
-        "text": "Cuando el Runner se enfrente a Cuervo de Datos, debe recibir 1 marca o terminar la incursión.\r\n<strong>Contador de poder alojado<\/strong>: Dale 1 marca al Runner.\r\n[Subroutine] <strong>Rastreo<sup>3<\/sup><\/strong>: Si tiene éxito, coloca 1 contador de poder sobre Cuervo de Datos."
+        "text": "Cuando el Runner se enfrente a Cuervo de Datos, debe recibir 1 marca o terminar la incursión.\n<strong>Contador de poder alojado</strong>: Dale 1 marca al Runner.\n[Subroutine] <strong>Rastreo<sup>3</sup></strong>: Si tiene éxito, coloca 1 contador de poder sobre Cuervo de Datos."
     },
     {
         "code": "01089",
         "title": "Analizador Matricial",
         "keywords": "Centinela - Rastreador - Observador",
-        "text": "Cuando el Runner se enfrente a Analizador Matricial, puedes pagar 1[Credits] para colocar 1 ficha de Avance sobre una carta que pueda ser avanzada.\r\n[Subroutine] <strong>Rastreo<sup>2<\/sup><\/strong>: Si tiene éxito, dale 1 marca al Runner.",
+        "text": "Cuando el Runner se enfrente a Analizador Matricial, puedes pagar 1[Credits] para colocar 1 ficha de Avance sobre una carta que pueda ser avanzada.\n[Subroutine] <strong>Rastreo<sup>2</sup></strong>: Si tiene éxito, dale 1 marca al Runner.",
         "flavor": "Analizar era genial. Delegar comandos resultó ser incluso mejor."
     },
     {
         "code": "01090",
         "title": "Puesto de Peaje",
         "keywords": "Puerta de Código",
-        "text": "Cuando el Runner se enfrente a Puesto de Peaje, debe pagar 3[Credits] si puede. Si el Runner no puede pagar 3[Credits], termina la incursión.\r\n[Subroutine] Termina la incursión.",
+        "text": "Cuando el Runner se enfrente a Puesto de Peaje, debe pagar 3[Credits] si puede. Si el Runner no puede pagar 3[Credits], termina la incursión.\n[Subroutine] Termina la incursión.",
         "flavor": "\"¿Has oído alguna vez la expresión 'pescadilla que se muerde la cola'?\" \"Recuérdame que lo olvide.\""
     },
     {
@@ -595,14 +595,14 @@
         "code": "01092",
         "title": "Red Eléctrica de SanSan",
         "keywords": "Región",
-        "text": "El requisito de avance de los planes instalados en este servidor se reduce en 1.\r\nLímite de 1 <strong>región<\/strong> por servidor.",
+        "text": "El requisito de avance de los planes instalados en este servidor se reduce en 1.\nLímite de 1 <strong>región</strong> por servidor.",
         "flavor": "\"Dicen que la costa está muy bien en esta época.\" \"Si trabajas en el sector adecuado, está bien todo el año.\""
     },
     {
         "code": "01093",
         "title": "Weyland Consortium: Construyendo un mundo mejor",
         "keywords": "Megacorporación",
-        "text": "Gana 1[Credits] siempre que juegues una operación <strong>transacción<\/strong>.",
+        "text": "Gana 1[Credits] siempre que juegues una operación <strong>transacción</strong>.",
         "flavor": "Hacia arriba."
     },
     {
@@ -623,13 +623,13 @@
         "code": "01096",
         "title": "Subcontrata de Seguridad",
         "keywords": "Transacción",
-        "text": "[Click], <strong>destruye un hielo ejecutado<\/strong>: Gana 4[Credits].",
+        "text": "[Click], <strong>destruye un hielo ejecutado</strong>: Gana 4[Credits].",
         "flavor": "\"Dales nuestras sobras a los federales y vendrán rogando que les demos más.\" - Richard Polasco, VP de ciberseguridad"
     },
     {
         "code": "01097",
         "title": "Negociación Agresiva",
-        "text": "Juega esta carta sólo si has puntuado un plan en este turno.\r\nBusca 1 carta en I+D para añadirla a la SC. Baraja I+D.",
+        "text": "Juega esta carta sólo si has puntuado un plan en este turno.\nBusca 1 carta en I+D para añadirla a la SC. Baraja I+D.",
         "flavor": "\"Creo que los términos le parecerán muy ventajosos.\""
     },
     {
@@ -643,7 +643,7 @@
         "code": "01099",
         "title": "Tierra Quemada",
         "keywords": "Operaciones Ilegales",
-        "text": "Juega esta carta sólo si el Runner está marcado.\r\nInflige 4 puntos de daño físico.",
+        "text": "Juega esta carta sólo si el Runner está marcado.\nInflige 4 puntos de daño físico.",
         "flavor": "\"Me gustaría recordar a las damas y caballeros de la prensa que varios de los edificios dañados por la explosión eran propiedad de subsidiarias de Weyland Consortium...\""
     },
     {
@@ -656,35 +656,35 @@
         "code": "01101",
         "title": "Arquero",
         "keywords": "Centinela - Destructor",
-        "text": "Como coste adicional para ejecutar Arquero, la Corporación debe renunciar a un plan.\r\n[Subroutine] La Corporación gana 2[Credits].\r\n[Subroutine] Destruye 1 programa.\r\n[Subroutine] Destruye 1 programa.\r\n[Subroutine] Termina la incursión.",
+        "text": "Como coste adicional para ejecutar Arquero, la Corporación debe renunciar a un plan.\n[Subroutine] La Corporación gana 2[Credits].\n[Subroutine] Destruye 1 programa.\n[Subroutine] Destruye 1 programa.\n[Subroutine] Termina la incursión.",
         "flavor": "La próxima vez, lee con más cuidado las Condiciones del Servicio. O podrías encontrarte en la zona de peligro..."
     },
     {
         "code": "01102",
         "title": "Muro de Adriano",
         "keywords": "Barrera",
-        "text": "Muro de Adriano puede ser avanzado y tiene +1 punto de fuerza por cada ficha de Avance que haya sobre él.\r\n[Subroutine] Termina la incursión.\r\n[Subroutine] Termina la incursión.",
+        "text": "Muro de Adriano puede ser avanzado y tiene +1 punto de fuerza por cada ficha de Avance que haya sobre él.\n[Subroutine] Termina la incursión.\n[Subroutine] Termina la incursión.",
         "flavor": "\"El viejo Adriano tenía su ego. Pero sus construcciones están a la altura del mismo.\" - g00ru"
     },
     {
         "code": "01103",
         "title": "Muro de Hielo",
         "keywords": "Barrera",
-        "text": "Muro de Hielo puede ser avanzado y tiene +1 punto de fuerza por cada ficha de Avance que haya sobre él.\r\n[Subroutine] Termina la incursión.",
+        "text": "Muro de Hielo puede ser avanzado y tiene +1 punto de fuerza por cada ficha de Avance que haya sobre él.\n[Subroutine] Termina la incursión.",
         "flavor": "\"Pedí un hielo que fuera tan impenetrable como un muro. No estoy segura de si algún miembre de I+D tiene un retorcido sentido del humor o una mente muy literal.\" - Liz Campbell, VP de seguridad de proyectos"
     },
     {
         "code": "01104",
         "title": "Sombra",
         "keywords": "Centinela - Rastreador",
-        "text": "Sombra puede ser avanzada y tiene +1 punto de fuerza por cada ficha de Avance que haya sobre ella.\r\n[Subroutine] La Corporación gana 2[Credits].\r\n[Subroutine] <strong>Rastreo<sup>3<\/sup><\/strong>: Si tiene éxito, dale 1 marca al Runner.",
+        "text": "Sombra puede ser avanzada y tiene +1 punto de fuerza por cada ficha de Avance que haya sobre ella.\n[Subroutine] La Corporación gana 2[Credits].\n[Subroutine] <strong>Rastreo<sup>3</sup></strong>: Si tiene éxito, dale 1 marca al Runner.",
         "flavor": "¿Quién sabe el mal que se esconde en los diamantes de memoria de los hombres? Weyland lo sabe. - cibergrafiti anónimo"
     },
     {
         "code": "01105",
         "title": "Centro de Investigación",
         "keywords": "Complejo",
-        "text": "Esta carta sólo puede instalarse en la raíz de la SC.\r\nTu tamaño de mano máximo aumenta en 2.",
+        "text": "Esta carta sólo puede instalarse en la raíz de la SC.\nTu tamaño de mano máximo aumenta en 2.",
         "flavor": "\"Jack Weyland construyó la Mata de habichuelas y transformó la raza humana para siempre. Ardo en deseos de ver qué será lo próximo que haga.\""
     },
     {
@@ -725,15 +725,15 @@
         "code": "01111",
         "title": "Enigma",
         "keywords": "Puerta de Código",
-        "text": "[Subroutine] El Runner pierde [Click] si puede.\r\n[Subroutine] Termina la incursión.",
+        "text": "[Subroutine] El Runner pierde [Click] si puede.\n[Subroutine] Termina la incursión.",
         "flavor": "\"¡Eh, eh! Despierta tío. Llevas dentro mucho tiempo. ¿Qué has visto?\" \"No... no me acuerdo.\""
     },
     {
         "code": "01112",
         "title": "Cazador",
         "keywords": "Centinela - Rastreador - Observador",
-        "text": "[Subroutine] <strong>Rastreo<sup>3<\/sup><\/strong>: Si tiene éxito, dale 1 marca al Runner.",
-        "flavor": ".\/\/run\/hunter-tr\/return=true client\/sec2561Pv7->¿confirmar? \/s 3926:0HB7:1001:2NB1:1601:7784:ERROR"
+        "text": "[Subroutine] <strong>Rastreo<sup>3</sup></strong>: Si tiene éxito, dale 1 marca al Runner.",
+        "flavor": ".//run/hunter-tr/return=true client/sec2561Pv7->¿confirmar? /s 3926:0HB7:1001:2NB1:1601:7784:ERROR"
     },
     {
         "code": "01113",

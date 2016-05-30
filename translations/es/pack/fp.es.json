@@ -9,20 +9,20 @@
         "code": "02102",
         "title": "Darwin",
         "keywords": "Rompehielos - IA - Virus",
-        "text": "2[Credits]: Rompe una subrutina de hielo.\r\nX es la cantidad de contadores de virus que hay sobre Darwin.\r\nCuando comience tu turno, puedes pagar 1[Credits] para colocar 1 contador de virus sobre Darwin."
+        "text": "2[Credits]: Rompe una subrutina de hielo.\nX es la cantidad de contadores de virus que hay sobre Darwin.\nCuando comience tu turno, puedes pagar 1[Credits] para colocar 1 contador de virus sobre Darwin."
     },
     {
         "code": "02103",
         "title": "Inversión De Filtrado De Datos",
         "keywords": "Virtual - Sabotaje",
-        "text": "Instala esta carta sólo si has realizado una incursión con éxito contra un servidor central en este turno.\r\nSi estás marcado, Inversión De Filtrado De Datos gana \"[Click]: La Corporación destruye la carta superior de I+D.\"",
+        "text": "Instala esta carta sólo si has realizado una incursión con éxito contra un servidor central en este turno.\nSi estás marcado, Inversión De Filtrado De Datos gana \"[Click]: La Corporación destruye la carta superior de I+D.\"",
         "flavor": "Una solución de doble sentido para un problema de sentido único. La inversión de filtrado de datos, o IFD, tiene un nombre poco apropiado. En realidad no se invierte nada, sólo se crea un enlace paralelo punto a punto con la fuente inicial."
     },
     {
         "code": "02104",
         "title": "Hada",
         "keywords": "Rompehielos - Asesino",
-        "text": "0[Credits]: Rompe una subrutina <strong>centinela<\/strong>.\r\n1[Credits]: +1 punto de fuerza.\r\nCuando termine un enfrentamiento con un hielo en el que usases Hada para romper una subrutina, destruye Hada.",
+        "text": "0[Credits]: Rompe una subrutina <strong>centinela</strong>.\n1[Credits]: +1 punto de fuerza.\nCuando termine un enfrentamiento con un hielo en el que usases Hada para romper una subrutina, destruye Hada.",
         "flavor": "¿Crees en las hadas?"
     },
     {
@@ -49,34 +49,34 @@
         "code": "02108",
         "title": "Pensamiento Profundo",
         "keywords": "Virus",
-        "text": "Siempre que realices una incursión con éxito contra I+D, coloca 1 contador de virus sobre Pensamiento Profundo.\r\nSi hay al menos 3 contadores de virus sobre Pensamiento Profundo, gana: \"Cuando comience tu turno, puedes mirar la carta superior de I+D.\""
+        "text": "Siempre que realices una incursión con éxito contra I+D, coloca 1 contador de virus sobre Pensamiento Profundo.\nSi hay al menos 3 contadores de virus sobre Pensamiento Profundo, gana: \"Cuando comience tu turno, puedes mirar la carta superior de I+D.\""
     },
     {
         "code": "02109",
         "title": "Ayuntamiento De Nueva Ángeles",
         "keywords": "Ubicación - Gobiertno",
-        "text": "2[Credits]: Evita 1 marca.\r\nDestruye Ayuntamiento De Nueva Ángeles cuando robes un plan.",
+        "text": "2[Credits]: Evita 1 marca.\nDestruye Ayuntamiento De Nueva Ángeles cuando robes un plan.",
         "flavor": "\"Nueva Ángeles es la joya de la civilización moderna, y su gobierno es la envidia de las naciones.\" - Wells, Ayuntamiento de Nueva Ángeles"
     },
     {
         "code": "02110",
         "title": "Eli 1.0",
         "keywords": "Barrera - Bioroide",
-        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Eli 1.0.\r\n[Subroutine] Termina la incursión.\r\n[Subroutine] Termina la incursión. ",
+        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Eli 1.0.\n[Subroutine] Termina la incursión.\n[Subroutine] Termina la incursión. ",
         "flavor": "\"Va contra las reglas. Los creadores se enfadarán.\""
     },
     {
         "code": "02111",
         "title": "Valle Del Ruhr",
         "keywords": "Región",
-        "text": "Como coste adicional para realizar una incursión contra este servidor, el Runner debe gastar [Click].\r\nLímite de 1 <strong>región<\/strong> por servidor.",
+        "text": "Como coste adicional para realizar una incursión contra este servidor, el Runner debe gastar [Click].\nLímite de 1 <strong>región</strong> por servidor.",
         "flavor": "Conocido por sus saltadores de lujo y un chucrut delicioso."
     },
     {
         "code": "02112",
         "title": "Ronin",
         "keywords": "Hostil",
-        "text": "Ronin puede ser avanzado.\r\nSi hay al menos 4 fichas de Avance sobre Ronin, gana \"[Click], [Trash]: Inflige 3 puntos de daño de red.\"",
+        "text": "Ronin puede ser avanzado.\nSi hay al menos 4 fichas de Avance sobre Ronin, gana \"[Click], [Trash]: Inflige 3 puntos de daño de red.\"",
         "flavor": "\"Te serviré... durante un tiempo.\""
     },
     {
@@ -97,18 +97,18 @@
         "code": "02115",
         "title": "Proyecto Beale",
         "keywords": "Investigación",
-        "text": "Cuando puntúes Proyecto Beale, coloca 1 contador de plan sobre la carta por cada 2 fichas de Avance que tenga por encima de 3.\r\nProyecto Beale vale 1 punto de plan adicional por cada contador de plan que tenga."
+        "text": "Cuando puntúes Proyecto Beale, coloca 1 contador de plan sobre la carta por cada 2 fichas de Avance que tenga por encima de 3.\nProyecto Beale vale 1 punto de plan adicional por cada contador de plan que tenga."
     },
     {
         "code": "02116",
         "title": "Sustituciones De Mitad De Temporada",
-        "text": "Juega esta carta sólo si el Runner robó un plan durante su último turno.\r\n<strong>Rastreo<sup>6<\/sup><\/strong>: Si tien éxito, dale al Runner tantas marcas como la cantidad por la que tu fuerza de rastreo superaba su fuerza de enlace."
+        "text": "Juega esta carta sólo si el Runner robó un plan durante su último turno.\n<strong>Rastreo<sup>6</sup></strong>: Si tien éxito, dale al Runner tantas marcas como la cantidad por la que tu fuerza de rastreo superaba su fuerza de enlace."
     },
     {
         "code": "02117",
         "title": "Bengala",
         "keywords": "Centinela - Rastreador - AP",
-        "text": "[Subroutine] <strong>Rastreo<sup>6<\/sup><\/strong>: Si tiene éxito, destruye 1 hardware, inflige 2 puntos de daño físico (no puede ser prevenido) y termina la incursión.",
+        "text": "[Subroutine] <strong>Rastreo<sup>6</sup></strong>: Si tiene éxito, destruye 1 hardware, inflige 2 puntos de daño físico (no puede ser prevenido) y termina la incursión.",
         "flavor": "Se encendió una brillante luz y la consola se apagó. Fue entonces cuando olió el humo."
     },
     {
@@ -122,7 +122,7 @@
         "code": "02119",
         "title": "Bichos De Burke",
         "keywords": "Centinela - Destructor",
-        "text": "[Subroutine] <strong>Rastreo<sup>0<\/sup><\/strong>: Si tiene éxito, el Runner destruye 1 programa.",
+        "text": "[Subroutine] <strong>Rastreo<sup>0</sup></strong>: Si tiene éxito, el Runner destruye 1 programa.",
         "flavor": "\"Si tuviera que describir los bichos con una palabra, sería 'pu** incordio'.\""
     },
     {

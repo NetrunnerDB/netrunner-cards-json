@@ -15,7 +15,7 @@
     {
         "code": "06103",
         "title": "IT-Abteilung",
-        "text": "[Click]: Lege 1 Wirkungszähler auf IT-Abteilung.\n<strong>Gehosteter Wirkungszähler:<\/strong> Wähle ein geladenes Ice. Dieses Ice hat +1 Stärke bis zum Ende des Zuges für jeden Wirkungszähler (einschließlich des dafür ausgegebenen) auf IT-Abteilung."
+        "text": "[Click]: Lege 1 Wirkungszähler auf IT-Abteilung.\n<strong>Gehosteter Wirkungszähler:</strong> Wähle ein geladenes Ice. Dieses Ice hat +1 Stärke bis zum Ende des Zuges für jeden Wirkungszähler (einschließlich des dafür ausgegebenen) auf IT-Abteilung."
     },
     {
         "code": "06104",
@@ -48,14 +48,14 @@
         "code": "06108",
         "title": "Troll",
         "keywords": "Wächter",
-        "text": "Wenn der Runner auf Troll trifft, <strong>Aufspüren<sup>2<\/sup><\/strong> - Bei Erfolg verliert der Runner [Click] oder muss den Run beenden.",
+        "text": "Wenn der Runner auf Troll trifft, <strong>Aufspüren<sup>2</sup></strong> - Bei Erfolg verliert der Runner [Click] oder muss den Run beenden.",
         "flavor": "Wer hier rein will, muss den Troll-Zoll zahlen."
     },
     {
         "code": "06109",
         "title": "Virgo",
         "keywords": "Wächter - Spürhund",
-        "text": "[Subroutine] <strong>Aufspüren<sup>2<\/sup><\/strong> - Verpasse dem Runner bei Erfolg 1 Markierung. Falls deine Aufspürstärke 5 oder größer ist, verpasse dem Runner 1 Markierung.",
+        "text": "[Subroutine] <strong>Aufspüren<sup>2</sup></strong> - Verpasse dem Runner bei Erfolg 1 Markierung. Falls deine Aufspürstärke 5 oder größer ist, verpasse dem Runner 1 Markierung.",
         "flavor": "Virgo versprach Liebe,\nbot aber nur Eifersucht."
     },
     {
@@ -74,13 +74,13 @@
     {
         "code": "06112",
         "title": "Selbstzerstörung",
-        "text": "Kann nur in ein ausgelagertes System installiert werden.\n[Trash]: Zerstöre alle Karten, die in diesem System installiert sind, oder es beschützen und <strong>Aufspüren<sup>X<\/sup><\/strong> - Bei Erfolg verursache 3 Netz-Schaden. X ist die Anzahl zerstörter Karten. Verwende diese Fertigkeit nur während eines Runs auf dieses System."
+        "text": "Kann nur in ein ausgelagertes System installiert werden.\n[Trash]: Zerstöre alle Karten, die in diesem System installiert sind, oder es beschützen und <strong>Aufspüren<sup>X</sup></strong> - Bei Erfolg verursache 3 Netz-Schaden. X ist die Anzahl zerstörter Karten. Verwende diese Fertigkeit nur während eines Runs auf dieses System."
     },
     {
         "code": "06113",
         "title": "Inkubator",
         "keywords": "Virus",
-        "text": "Wenn dein Zug beginnt, lege 1 Viruszähler auf Inkubator.\n[Click], [Trash]: Verschiebe alle Viruszähler auf ein anderes installiertes <strong>Virus<\/strong>-Programm.",
+        "text": "Wenn dein Zug beginnt, lege 1 Viruszähler auf Inkubator.\n[Click], [Trash]: Verschiebe alle Viruszähler auf ein anderes installiertes <strong>Virus</strong>-Programm.",
         "flavor": "\"Welche Schrecken brütet sie in ihrem entfremdeten Geist aus, die darauf warten, geboren zu werden? Ich würde auf einen Doppelhelix-Regenbogen mit Pandakopf wetten.\" -fakespeare"
     },
     {
@@ -106,7 +106,7 @@
         "code": "06117",
         "title": "Weiser",
         "keywords": "Ice-Brecher - Decoder - Fracter",
-        "text": "Weiser hat +1 Stärke für jede ungenutzte SE.\n2[Credits]: Schalte eine Subroutine eines <strong>Code-Zugangs<\/strong> oder einer <strong>Barriere<\/strong> aus.",
+        "text": "Weiser hat +1 Stärke für jede ungenutzte SE.\n2[Credits]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> oder einer <strong>Barriere</strong> aus.",
         "flavor": "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης"
     },
     {

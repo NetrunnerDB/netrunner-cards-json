@@ -23,7 +23,7 @@
         "code": "05004",
         "title": "La casa de los cuchillos",
         "keywords": "Seguridad",
-        "text": "Coloca 3 contadores de plan sobre La Casa de los Cuchillos cuando la puntúes.\r\n<strong>Contador de plan alojado<\/strong>: Inflige 1 punto de daño de red. Usa esta capacidad durante 1 incursión y sólo una vez por incursión."
+        "text": "Coloca 3 contadores de plan sobre La Casa de los Cuchillos cuando la puntúes.\n<strong>Contador de plan alojado</strong>: Inflige 1 punto de daño de red. Usa esta capacidad durante 1 incursión y sólo una vez por incursión."
     },
     {
         "code": "05005",
@@ -36,7 +36,7 @@
         "code": "05006",
         "title": "Maraña Filótica",
         "keywords": "Seguridad",
-        "text": "Cuando puntúes Maraña Filótica, inflige 1 punto de daño de red por cada plan que haya en la zona de puntuación del Runner.\r\nLímite de 1 Maraña Filótica por mazo."
+        "text": "Cuando puntúes Maraña Filótica, inflige 1 punto de daño de red por cada plan que haya en la zona de puntuación del Runner.\nLímite de 1 Maraña Filótica por mazo."
     },
     {
         "code": "05007",
@@ -48,13 +48,13 @@
         "code": "05008",
         "title": "Presidente Hiro",
         "keywords": "Ejecutivo",
-        "text": "El tamaño de mano máximo del Runner disminuye en 2.\r\nSi Presidente Hiro es destruido mientras se accede a él, añádelo a la zona de puntuación del Runner como un plan que vale 2 puntos de plan."
+        "text": "El tamaño de mano máximo del Runner disminuye en 2.\nSi Presidente Hiro es destruido mientras se accede a él, añádelo a la zona de puntuación del Runner como un plan que vale 2 puntos de plan."
     },
     {
         "code": "05009",
         "title": "Clínica de Salud Mental",
         "keywords": "Complejo",
-        "text": "Gana 1[Credits] cuando comience tu turno.\r\nEl tamaño de mano máximo del Runner aumenta en 1.",
+        "text": "Gana 1[Credits] cuando comience tu turno.\nEl tamaño de mano máximo del Runner aumenta en 1.",
         "flavor": "Las paredes blanqueadas se desvanecieron y apareció un precioso jardín zen. Todo era una ilusión, pero era una ilusión reconfortante."
     },
     {
@@ -80,7 +80,7 @@
         "code": "05013",
         "title": "Molde Cerebral",
         "keywords": "Operaciones Clandestinas - Psi",
-        "text": "Juega esta carta sólo si el Runner realizón una incursión con éxito durante su último turno.\r\nEl Runner y tú gastáis en secreo 0[Credits], 1[Credits] o 2[Credits]. Revelad los créditos gastados. Si el Runner y tú habéis gastado una cantidad de créditos distinta, éste elige sufrir 1 punto de daño cerebral o recibir 1 marca."
+        "text": "Juega esta carta sólo si el Runner realizón una incursión con éxito durante su último turno.\nEl Runner y tú gastáis en secreo 0[Credits], 1[Credits] o 2[Credits]. Revelad los créditos gastados. Si el Runner y tú habéis gastado una cantidad de créditos distinta, éste elige sufrir 1 punto de daño cerebral o recibir 1 marca."
     },
     {
         "code": "05014",
@@ -93,13 +93,13 @@
         "code": "05015",
         "title": "Mushin No Shin",
         "keywords": "Doble",
-        "text": "Como coste adicional para jugar esta operación, gasta [Click].\r\nInstala una ventaja, plan o mejora desde la SC en un nuevo servidor remoto. Coloca 3 fichas de Avance sobre esa carta. No puedes puntuar o ejecutar esa carta hasta que comience tu siguiente turno."
+        "text": "Como coste adicional para jugar esta operación, gasta [Click].\nInstala una ventaja, plan o mejora desde la SC en un nuevo servidor remoto. Coloca 3 fichas de Avance sobre esa carta. No puedes puntuar o ejecutar esa carta hasta que comience tu siguiente turno."
     },
     {
         "code": "05016",
         "title": "Inazuma",
         "keywords": "Puerta de código",
-        "text": "[Subroutine] El Runner no puede romper ninguna subrutina del siguiente hielo al que se enfrente durante esta incursión.\r\n[Subroutine] El Runner no puede desenchufarse hasta después de enfrentarse al siguiente hielo durante esta incursión.",
+        "text": "[Subroutine] El Runner no puede romper ninguna subrutina del siguiente hielo al que se enfrente durante esta incursión.\n[Subroutine] El Runner no puede desenchufarse hasta después de enfrentarse al siguiente hielo durante esta incursión.",
         "flavor": "Atrapado en su propia realidad, un runner paralizado ni siquiera puede desenchufarse."
     },
     {
@@ -112,14 +112,14 @@
         "code": "05018",
         "title": "Cachorro",
         "keywords": "Centinela - AP",
-        "text": "[Subroutine] Inflige 1 punto de daño de red a menos que el Runner pague 1[Credits].\r\n[Subroutine] Inflige 1 punto de daño de red a menos que el Runner pague 1[Credits].",
+        "text": "[Subroutine] Inflige 1 punto de daño de red a menos que el Runner pague 1[Credits].\n[Subroutine] Inflige 1 punto de daño de red a menos que el Runner pague 1[Credits].",
         "flavor": "¡Guau, guau!"
     },
     {
         "code": "05019",
         "title": "Shiro",
         "keywords": "Puerta de código",
-        "text": "[Subroutine] Mira las 3 cartas superiores de I+D y colócalas en cualquier orden.\r\n[Subroutine] El Runner accede a la carta superior de I+D a menos que la Corporación pague 1[Credits]",
+        "text": "[Subroutine] Mira las 3 cartas superiores de I+D y colócalas en cualquier orden.\n[Subroutine] El Runner accede a la carta superior de I+D a menos que la Corporación pague 1[Credits]",
         "flavor": "Cuando estés encerrado en una fortaleza creada por tu propia mente, ten cuidado con qué puerta abres."
     },
     {
@@ -133,7 +133,7 @@
         "code": "05021",
         "title": "Red de NeoTokio",
         "keywords": "Región",
-        "text": "La primera vez que se coloque una ficha de Avance sobre una carta que esté en este secidor en cada turno, gana 1[Credits].\r\nLímite de 1 <strong>región<\/strong> por servidor",
+        "text": "La primera vez que se coloque una ficha de Avance sobre una carta que esté en este secidor en cada turno, gana 1[Credits].\nLímite de 1 <strong>región</strong> por servidor",
         "flavor": "Es difícil ir a Japón sin terminar en la enormidad de NeoTokio."
     },
     {
@@ -147,13 +147,13 @@
         "code": "05023",
         "title": "Plan B",
         "keywords": "Emboscada",
-        "text": "Plan B puede ser avanzado.\r\nSi el Runner accede a Plan B, puedes revelar y puntuar un plan de la SC que tenga un requisito de avance igual o menor que la cantidad de fichas de Avance que haya sobre Plan B."
+        "text": "Plan B puede ser avanzado.\nSi el Runner accede a Plan B, puedes revelar y puntuar un plan de la SC que tenga un requisito de avance igual o menor que la cantidad de fichas de Avance que haya sobre Plan B."
     },
     {
         "code": "05024",
         "title": "Guardia",
         "keywords": "Centinela",
-        "text": "Guardia no puede ser superado automáticamente.\r\n[Subroutine] Termina la incursión.",
+        "text": "Guardia no puede ser superado automáticamente.\n[Subroutine] Termina la incursión.",
         "flavor": "Vio un destello de luz por el rabillo del ojo. Sintió un golpe seco mientras su anclaje en el ciberespacio se debilitaba. A Araña no le gustaba esto. Tendría que haber superado automáticamente la capa exterior de hielo al enchufarse desde el servidor interno. Otro golpe seco y toda su estructura tembló con una reverberante onda de choque. Echó mano de su shuriken a la desesperada."
     },
     {

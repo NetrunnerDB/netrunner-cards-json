@@ -3,7 +3,7 @@
         "code": "08061",
         "title": "Faust",
         "keywords": "Ice-Brecher - KI",
-        "text": "<strong>Zerstöre eine Karte aus deinem Griff<\/strong>: Schalte eine Subroutine eines Ice aus.\n<strong>Zerstöre eine Karte aus deinem Griff<\/strong>: +2 Stärke.",
+        "text": "<strong>Zerstöre eine Karte aus deinem Griff</strong>: Schalte eine Subroutine eines Ice aus.\n<strong>Zerstöre eine Karte aus deinem Griff</strong>: +2 Stärke.",
         "flavor": "In dieser Nacht war das System still. Ich schloss meine Augen, das leise Summen des Datenstroms lullte mich in einen Trancezustand. Als ich sie wieder öffnete, stand das Konstrukt in Gestalt eines Manns vor mir, gekleidet in viele strahlende Farben. Er war von beeindruckender Statur und seine zuckersüße Stimme drang tief in meine Seele ein."
     },
     {
@@ -30,14 +30,14 @@
         "code": "08065",
         "title": "Fälscher",
         "keywords": "Konsole",
-        "text": "+1[Link]\n[Trash]: Vermeide oder entferne 1 Markierung.\nNur 1 <strong>Konsole<\/strong> pro Spieler.",
+        "text": "+1[Link]\n[Trash]: Vermeide oder entferne 1 Markierung.\nNur 1 <strong>Konsole</strong> pro Spieler.",
         "flavor": "Dasselbe Deck wie eine Million anderer Menschen zu verwenden, ist auch nur eine Form von Sicherheit durch Anonymität"
     },
     {
         "code": "08066",
         "title": "Improvisierter Schlitzer",
         "keywords": "Ice-Brecher - Killer - Cloud",
-        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von Improvisierter Schlitzer 0, selbst wenn es nicht installiert ist.\nImprovisierter Schlitzer hat +1 Stärke für jeden installierten  <strong>Ice-Brecher<\/strong>.\n[Trash]: Schalte bis zu 3 Subroutinen eines <strong>Wächters<\/strong> aus."
+        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von Improvisierter Schlitzer 0, selbst wenn es nicht installiert ist.\nImprovisierter Schlitzer hat +1 Stärke für jeden installierten  <strong>Ice-Brecher</strong>.\n[Trash]: Schalte bis zu 3 Subroutinen eines <strong>Wächters</strong> aus."
     },
     {
         "code": "08067",
@@ -57,7 +57,7 @@
         "code": "08069",
         "title": "Chamäleon",
         "keywords": "Ice-Brecher",
-        "text": "Wenn du Chamäleon installierst, benenne <strong>Wächter<\/strong>, <strong>Code-Zugang<\/strong> oder <strong>Barriere<\/strong>.\nFüge Chamäleon deinem Griff hinzu, wenn dein Zug endet.\n1[Credits]: Schalte eine Subroutine auf einem Ice der benannten Unterart aus."
+        "text": "Wenn du Chamäleon installierst, benenne <strong>Wächter</strong>, <strong>Code-Zugang</strong> oder <strong>Barriere</strong>.\nFüge Chamäleon deinem Griff hinzu, wenn dein Zug endet.\n1[Credits]: Schalte eine Subroutine auf einem Ice der benannten Unterart aus."
     },
     {
         "code": "08070",
@@ -75,7 +75,7 @@
         "code": "08072",
         "title": "Defekter Hirnchip",
         "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell<\/strong>-Karte gespielt oder eine Agenda gestohlen wird.\nWenn der Runner zum ersten Mal in einem Zug Hirn-Schaden nimmt, nimmt er 1 zusätzlichen Hirn-Schaden."
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nWenn der Runner zum ersten Mal in einem Zug Hirn-Schaden nimmt, nimmt er 1 zusätzlichen Hirn-Schaden."
     },
     {
         "code": "08073",
@@ -111,7 +111,7 @@
         "code": "08078",
         "title": "Auftragsmörder",
         "keywords": "Feind",
-        "text": "Auftragsmörder kann entwickelt werden.\nFalls mindestens 2 Entwicklungsmarker auf Auftragsmörder sind, erhält er [Click], [Trash]: Zerstöre einen <strong>Kontakt<\/strong> oder verursache 2 Körper-Schaden.\"",
+        "text": "Auftragsmörder kann entwickelt werden.\nFalls mindestens 2 Entwicklungsmarker auf Auftragsmörder sind, erhält er [Click], [Trash]: Zerstöre einen <strong>Kontakt</strong> oder verursache 2 Körper-Schaden.\"",
         "flavor": "\"Wenn du keine Fragen gestellt bekommen willst, gib den Auftrag an jemand anderen. Ich habe zwei: Wen und wieviel?\""
     },
     {
@@ -125,6 +125,6 @@
         "code": "08080",
         "title": "Underway-Netz",
         "keywords": "Region",
-        "text": "Ice, das dieses System schützt, kann nicht umgangen werden.\nKarten, die sich in diesem System befinden oder es schützen, können nicht enthüllt werden.\nMaximal 1 <strong>Region<\/strong> pro System."
+        "text": "Ice, das dieses System schützt, kann nicht umgangen werden.\nKarten, die sich in diesem System befinden oder es schützen, können nicht enthüllt werden.\nMaximal 1 <strong>Region</strong> pro System."
     }
 ]

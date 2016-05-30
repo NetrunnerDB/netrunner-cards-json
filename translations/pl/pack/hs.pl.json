@@ -2,7 +2,7 @@
     {
         "code": "02081",
         "title": "Surge",
-        "text": "Zagraj tylko, jeśli w tej turze położyłeś na programie jeden znacznik wirusa.\r\nPołóż na tym programie 2 znaczniki wirusa.",
+        "text": "Zagraj tylko, jeśli w tej turze położyłeś na programie jeden znacznik wirusa.\nPołóż na tym programie 2 znaczniki wirusa.",
         "flavor": "Musisz krzyknąć \"prąd\", aby efekt był pełny."
     },
     {
@@ -10,7 +10,7 @@
         "title": "Xanadu",
         "keywords": "Wirtualne",
         "text": "Koszt zrezowania każdego lodu rośnie o 1.",
-        "flavor": "I krzykną widokiem przejęci:\r\nWłos jego falujący, źrenice ogniem zdjęte.\r\nPo trzykroć kręgiem go jak wieńcem\r\nOtoczmy. Niechaj zaćmi nasze oczy\r\nŚwiętości lęk; bo rosy on utoczył\r\nMiodowej, w Raju mleko pił zaklęte.\r\n\/\/ Samuel Taylor Coleridge\r\ntłum. L. Dorn"
+        "flavor": "I krzykną widokiem przejęci:\nWłos jego falujący, źrenice ogniem zdjęte.\nPo trzykroć kręgiem go jak wieńcem\nOtoczmy. Niechaj zaćmi nasze oczy\nŚwiętości lęk; bo rosy on utoczył\nMiodowej, w Raju mleko pił zaklęte.\n// Samuel Taylor Coleridge\ntłum. L. Dorn"
     },
     {
         "code": "02083",
@@ -35,7 +35,7 @@
         "code": "02086",
         "title": "Feromony",
         "keywords": "Wirus",
-        "text": "X[Recurring Credits]\r\nUżyj tych kredytów podczas skoków na HQ. X to liczba znaczników wirusa leżących na Feromonach.\r\nZawsze gdy przeprowadzisz udany skok na HQ, połóż 1 znacznik wirusa na Feromonach."
+        "text": "X[Recurring Credits]\nUżyj tych kredytów podczas skoków na HQ. X to liczba znaczników wirusa leżących na Feromonach.\nZawsze gdy przeprowadzisz udany skok na HQ, połóż 1 znacznik wirusa na Feromonach."
     },
     {
         "code": "02087",
@@ -53,27 +53,27 @@
         "code": "02089",
         "title": "Robal",
         "keywords": "Lodołamacz - Zabójca - Chmura",
-        "text": "Jeśli masz przynajmniej 2[Link], wymagania pamięciowe Robala wynoszą 0, nawet jeśli nie jest zainstalowany.\r\n2[Credits]: Złam podprogram <strong>strażnika<\/strong>.\r\n1[Credits]: +1 siły.",
+        "text": "Jeśli masz przynajmniej 2[Link], wymagania pamięciowe Robala wynoszą 0, nawet jeśli nie jest zainstalowany.\n2[Credits]: Złam podprogram <strong>strażnika</strong>.\n1[Credits]: +1 siły.",
         "flavor": "\"Pajączek mały po rynnie danych wspinał się...\" - Teoria Chaosu"
     },
     {
         "code": "02090",
         "title": "Kraken",
-        "text": "Zagraj tylko, jeśli wykradłeś projekt w tej turze.\r\nWybierz serwer. Korp kasuje 1 lód chroniący ten serwer.",
+        "text": "Zagraj tylko, jeśli wykradłeś projekt w tej turze.\nWybierz serwer. Korp kasuje 1 lód chroniący ten serwer.",
         "flavor": "Wczesne wersje krakena okazały się nienasyconymi bandytami pożerającymi lód. Niewiele się zmieniło."
     },
     {
         "code": "02091",
         "title": "Kati Jones",
         "keywords": "Kontakt",
-        "text": "Nie możesz użyć Kati Jones więcej niż raz na turę.\r\n[Click]: Połóż 3[Credits] z banku na Kati Jones.\r\n[Click]: Weź wszystkie kredyty z Kati Jones.",
+        "text": "Nie możesz użyć Kati Jones więcej niż raz na turę.\n[Click]: Połóż 3[Credits] z banku na Kati Jones.\n[Click]: Weź wszystkie kredyty z Kati Jones.",
         "flavor": "\"W New Angeles przemyca się nie tylko dane.\""
     },
     {
         "code": "02092",
         "title": "Kampania reklamowa Ewy",
         "keywords": "Reklama",
-        "text": "Gdy rezujesz Kampanię reklamową Ewy, połóż na niej 16[Credits] z banku. Skasuj Kampanię reklamową Ewy, gdy nie ma na niej kredytów.\r\nGdy zaczynasz turę, weź 2[Credits] z Kampanii reklamowej Ewy."
+        "text": "Gdy rezujesz Kampanię reklamową Ewy, połóż na niej 16[Credits] z banku. Skasuj Kampanię reklamową Ewy, gdy nie ma na niej kredytów.\nGdy zaczynasz turę, weź 2[Credits] z Kampanii reklamowej Ewy."
     },
     {
         "code": "02093",
@@ -92,41 +92,41 @@
         "code": "02095",
         "title": "Sieć Hokusai",
         "keywords": "Region",
-        "text": "Zawsze gdy skok na ten serwer jest udany, zadaj 1 obrażenie sprzętu\r\nLimit 1 <strong>regionu<\/strong> na serwer.",
+        "text": "Zawsze gdy skok na ten serwer jest udany, zadaj 1 obrażenie sprzętu\nLimit 1 <strong>regionu</strong> na serwer.",
         "flavor": "Pomimo niewinnego wyglądu, Sieć Hokusai jest najbardziej niesławną placówką badawczą Jinteki."
     },
     {
         "code": "02096",
         "title": "Ogar danych",
         "keywords": "Strażnik - Tropiciel - Obserwator",
-        "text": "[Subroutine] <strong>Trace<sup>2<\/sup><\/strong>&ndash; Jeśli udane, obejrzyj karty z wierzchu stosu runnera w liczbie równej różnicy siły namierzania i siły połączenia. Skasuj 1 z tych kart, a resztę uporządkuj dowolnie.",
+        "text": "[Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; Jeśli udane, obejrzyj karty z wierzchu stosu runnera w liczbie równej różnicy siły namierzania i siły połączenia. Skasuj 1 z tych kart, a resztę uporządkuj dowolnie.",
         "flavor": "Niuch."
     },
     {
         "code": "02097",
         "title": "Bernice Mai",
         "keywords": "Sysop",
-        "text": "Zawsze gdy skok na ten serwer jest udany, <strong>Trace<sup>5<\/sup><\/strong>&ndash; jeśli udane, daj runnerowi 1 tag. Jeśli nieudane, skasuj Bernice Mai.",
+        "text": "Zawsze gdy skok na ten serwer jest udany, <strong>Trace<sup>5</sup></strong>&ndash; jeśli udane, daj runnerowi 1 tag. Jeśli nieudane, skasuj Bernice Mai.",
         "flavor": "Mam świat na oku, ekran za ekranem."
     },
     {
         "code": "02098",
         "title": "Akcja ratunkowa",
         "keywords": "Brama kodowa - Tropiciel",
-        "text": "Zrezowana Akcja ratunkowa może być awansowana i zyskuje \"[Subroutine] <strong>Trace<sup>2<\/sup><\/strong>&ndash; Jeśli udane, daj runnerowi 1 tag.\" za każdy leżący na nim żeton zaawansowania.",
+        "text": "Zrezowana Akcja ratunkowa może być awansowana i zyskuje \"[Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; Jeśli udane, daj runnerowi 1 tag.\" za każdy leżący na nim żeton zaawansowania.",
         "flavor": "Nie jesteś już w Kansas."
     },
     {
         "code": "02099",
         "title": "Simone Diego",
         "keywords": "Sysop",
-        "text": "2[Recurring Credits]\r\nUżyj tych kredytów do awansowania kart na tym serwerze lub chroniących go.",
+        "text": "2[Recurring Credits]\nUżyj tych kredytów do awansowania kart na tym serwerze lub chroniących go.",
         "flavor": "\"Raz zrobić to dobrze zrobić.\""
     },
     {
         "code": "02100",
         "title": "Lisi ogień",
-        "text": "<strong>Trace<sup>7<\/sup><\/strong>&ndash; Jeśli udane, skasuj 1 zasoby <strong>wirtualne<\/strong> lub 1 <strong>połączenie<\/strong>.",
+        "text": "<strong>Trace<sup>7</sup></strong>&ndash; Jeśli udane, skasuj 1 zasoby <strong>wirtualne</strong> lub 1 <strong>połączenie</strong>.",
         "flavor": "\"To coś jakby anagram.\" - projektant Phoenix"
     }
 ]

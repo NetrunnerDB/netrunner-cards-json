@@ -9,7 +9,7 @@
     {
         "code": "02022",
         "title": "Cuenta Liberada",
-        "text": "Coloca 16[Credits] del banco sobre Cuenta Liberada cuando sea instalada. Cuando no queden créditos en Cuenta Liberada, destrúyela.\r\n[Click]: Coge 4[Credits] de Cuenta Liberada.",
+        "text": "Coloca 16[Credits] del banco sobre Cuenta Liberada cuando sea instalada. Cuando no queden créditos en Cuenta Liberada, destrúyela.\n[Click]: Coge 4[Credits] de Cuenta Liberada.",
         "flavor": "Es más fácil gastar dinero cuando no es tuyo."
     },
     {
@@ -29,19 +29,19 @@
         "code": "02025",
         "title": "Empleado Comprometido",
         "keywords": "Contacto - Enlace",
-        "text": "1[Recurring Credits]\r\nUsa este crédito durante rastreos.\r\nGana 1[Credits] siempre que la Corporación ejecute un hielo."
+        "text": "1[Recurring Credits]\nUsa este crédito durante rastreos.\nGana 1[Credits] siempre que la Corporación ejecute un hielo."
     },
     {
         "code": "02026",
         "title": "Notoriedad",
-        "text": "Juega esta carta sólo si has realizado una incrusión con éxito contra I+D, la SC o los Archivos en este turno.\r\nAñade Notoriedad a tu zona de puntuación como un plan que vale 1 punto de plan.",
+        "text": "Juega esta carta sólo si has realizado una incrusión con éxito contra I+D, la SC o los Archivos en este turno.\nAñade Notoriedad a tu zona de puntuación como un plan que vale 1 punto de plan.",
         "flavor": "Cuando eres así de buena, es difícil no tener una buena cantidad de fans."
     },
     {
         "code": "02027",
         "title": "Bola De Nieve",
         "keywords": "Rompehielos - Fractor",
-        "text": "1[Credits]: Rompe una subrutina barrera.\r\n1[Credits]: +1 punto de fuerza.\r\nSiempre que uses Bola De Nieve para romper una subrutina, tiene +1 punto de fuerza durante el resto del turno.",
+        "text": "1[Credits]: Rompe una subrutina barrera.\n1[Credits]: +1 punto de fuerza.\nSiempre que uses Bola De Nieve para romper una subrutina, tiene +1 punto de fuerza durante el resto del turno.",
         "flavor": "\"Si tu bola de nieve se hace lo suficientemente grande, ¡puedes convertirla en un hombre de nieve!\" - Teoría del Caos."
     },
     {
@@ -61,7 +61,7 @@
         "code": "02030",
         "title": "Sherlock 1.0",
         "keywords": "Centinela - Bioroide - Rastreador",
-        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Sherlock 1.0.\r\n[Subroutine] <strong>Rastreo<sup>4<\/sup><\/strong>: Si tiene éxito, añade 1 programa instalado a la parte superior del Montón del Runner.\r\n[Subroutine] <strong>Rastreo<sup>4<\/sup><\/strong>: Si tiene éxito, añade 1 programa instalado a la parte superior del Montón del Runner."
+        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Sherlock 1.0.\n[Subroutine] <strong>Rastreo<sup>4</sup></strong>: Si tiene éxito, añade 1 programa instalado a la parte superior del Montón del Runner.\n[Subroutine] <strong>Rastreo<sup>4</sup></strong>: Si tiene éxito, añade 1 programa instalado a la parte superior del Montón del Runner."
     },
     {
         "code": "02031",
@@ -73,7 +73,7 @@
         "code": "02032",
         "title": "IA Fetal",
         "keywords": "Emboscada",
-        "text": "Si accede a la IA Fetal desde I+D, el Runner debe revelarla.\r\nCuando el Runner acceda a IA Fetal, inflige 2 puntos de daño de red. Ignora esta capacidad si el Runner accede a IA Fetal desde los Archivos.\r\nComo coste adicional para robar IA Fetal, el Runner debe pagar 2[Credits]."
+        "text": "Si accede a la IA Fetal desde I+D, el Runner debe revelarla.\nCuando el Runner acceda a IA Fetal, inflige 2 puntos de daño de red. Ignora esta capacidad si el Runner accede a IA Fetal desde los Archivos.\nComo coste adicional para robar IA Fetal, el Runner debe pagar 2[Credits]."
     },
     {
         "code": "02033",
@@ -92,37 +92,37 @@
         "code": "02035",
         "title": "Gran Hermano",
         "keywords": "Operaciones Clandestinas",
-        "text": "Juega esta carta sólo si el Runner está marcado.\r\nDale 2 marcas al Runner.",
+        "text": "Juega esta carta sólo si el Runner está marcado.\nDale 2 marcas al Runner.",
         "flavor": "Velando por tus intereses desde 1984."
     },
     {
         "code": "02036",
         "title": "Red Eléctrica de ChiLo",
         "keywords": "Región",
-        "text": "Siempre que haya un rastreo con éxito durante una incursión contra este servidor, dale 1 marca al Runner.\r\nLímite de 1 <strong>región<\/strong> por servidor.",
+        "text": "Siempre que haya un rastreo con éxito durante una incursión contra este servidor, dale 1 marca al Runner.\nLímite de 1 <strong>región</strong> por servidor.",
         "flavor": "Los clones hablan de ChiLo entre susurros como de una tierra prometida de libertad."
     },
     {
         "code": "02037",
         "title": "Sobrecarga De La Red Eléctrica",
-        "text": "Juega esta carta sólo si el Runner realizó una incursión con éxito durante su último turno.\r\n<strong>Rastreo<sup>2<\/sup><\/strong>: Si tiene éxito, destruye 1 hardware con un coste de instalación igual o menor a la cantidad por la que tu fuerza de rastreo superaba la fuerza de enlace del Runner."
+        "text": "Juega esta carta sólo si el Runner realizó una incursión con éxito durante su último turno.\n<strong>Rastreo<sup>2</sup></strong>: Si tiene éxito, destruye 1 hardware con un coste de instalación igual o menor a la cantidad por la que tu fuerza de rastreo superaba la fuerza de enlace del Runner."
     },
     {
         "code": "02038",
         "title": "Zona Industrial Amazónica",
         "keywords": "Región",
-        "text": "Siempre que instales un hielo portegiendo este servidor, puedes ejecutarlo inmediatamente, reduciendo su coste de ejecución en 3.\r\nLímite de 1 <strong>región<\/strong> por servidor."
+        "text": "Siempre que instales un hielo portegiendo este servidor, puedes ejecutarlo inmediatamente, reduciendo su coste de ejecución en 3.\nLímite de 1 <strong>región</strong> por servidor."
     },
     {
         "code": "02039",
         "title": "Retiro Ejecutivo",
-        "text": "Cuando puntúes Retiro Ejectuvio, coloca 1 contador de plan sobre la carta, añade la SC a I+D y barájalo.\r\n[Click], <strong>contador de plan alojado<\/strong>: Roba 5 cartas."
+        "text": "Cuando puntúes Retiro Ejectuvio, coloca 1 contador de plan sobre la carta, añade la SC a I+D y barájalo.\n[Click], <strong>contador de plan alojado</strong>: Roba 5 cartas."
     },
     {
         "code": "02040",
         "title": "Agente Autónoma",
         "keywords": "Operaciones Clandestinas",
-        "text": "Juega esta carta sólo si el Runner está marcado.\r\nDestruye un máximo de 2 recursos.",
+        "text": "Juega esta carta sólo si el Runner está marcado.\nDestruye un máximo de 2 recursos.",
         "flavor": "Sin contrato. Sólo un apretón de manos un puñado de explosivos C-6."
     }
 ]

@@ -3,13 +3,13 @@
         "code": "01001",
         "title": "Noise: Pirate d’Exception",
         "keywords": "G-Mod",
-        "text": "À chaque fois que vous installez un programme <strong>virus<\/strong>, la corpo efface la première carte de R&D (face cachée).",
+        "text": "À chaque fois que vous installez un programme <strong>virus</strong>, la corpo efface la première carte de R&D (face cachée).",
         "flavor": "\"Regarde ça. Tu va rire.\""
     },
     {
         "code": "01002",
         "title": "Déjà Vu",
-        "text": "Ajoutez 1 carte (ou jusqu'à 2 cartes <strong>virus<\/strong>) de votre tas à votre main."
+        "text": "Ajoutez 1 carte (ou jusqu'à 2 cartes <strong>virus</strong>) de votre tas à votre main."
     },
     {
         "code": "01003",
@@ -27,38 +27,38 @@
         "code": "01005",
         "title": "Cyberchargeur",
         "keywords": "Puce",
-        "text": "1 [Recurring Credits]\r\nN'utilisez ce crédit que pour payer l'utilisation de brise-glace ou l'installation de programmes <strong>virus<\/strong>."
+        "text": "1 [Recurring Credits]\nN'utilisez ce crédit que pour payer l'utilisation de brise-glace ou l'installation de programmes <strong>virus</strong>."
     },
     {
         "code": "01006",
         "title": "Grimoire",
         "keywords": "Console",
-        "text": "+2 [Memory Unit]\r\nA chaque fois que vous installez un programme <strong>virus<\/strong>, placez un pion virus sur ce programme. Maximum 1 console en jeu."
+        "text": "+2 [Memory Unit]\nA chaque fois que vous installez un programme <strong>virus</strong>, placez un pion virus sur ce programme. Maximum 1 console en jeu."
     },
     {
         "code": "01007",
         "title": "Corrosif",
         "keywords": "Brise-glace - Fragmenteur",
-        "text": "1 [Credits] : Neutralisez une routine barrière.\r\n1 [Credits] : force +1.",
+        "text": "1 [Credits] : Neutralisez une routine barrière.\n1 [Credits] : force +1.",
         "flavor": "\" Si ça ne marche pas du premier coup, booste sa force et remets ça \" - g00ru"
     },
     {
         "code": "01008",
         "title": "Aspirateur de Données",
         "keywords": "Virus",
-        "text": "A chaque fois que vous réussissez un piratage sur un serveur central, mettez un pion Virus sur l'Aspirateur de Données.\r\n<strong>Pion Virus hébergé<\/strong> : La glace que vous êtes en train de rencontrer a -1 en force jusqu'à la fin de la rencontre."
+        "text": "A chaque fois que vous réussissez un piratage sur un serveur central, mettez un pion Virus sur l'Aspirateur de Données.\n<strong>Pion Virus hébergé</strong> : La glace que vous êtes en train de rencontrer a -1 en force jusqu'à la fin de la rencontre."
     },
     {
         "code": "01009",
         "title": "Djinn",
         "keywords": "Démon",
-        "text": "Le Djinn peut héberger jusqu'à 3 [Memory Unit] de programmes non brise-glace.\r\nLe coût en mémoire des programmes hébergés ne compte pas dans votre limite de mémoire.\r\n[Click], 1 [Credits] : Cherchez un programme <strong>virus<\/strong> dans votre pile. révélez-le et ajoutez-le à votre main. Mélangez votre pile."
+        "text": "Le Djinn peut héberger jusqu'à 3 [Memory Unit] de programmes non brise-glace.\nLe coût en mémoire des programmes hébergés ne compte pas dans votre limite de mémoire.\n[Click], 1 [Credits] : Cherchez un programme <strong>virus</strong> dans votre pile. révélez-le et ajoutez-le à votre main. Mélangez votre pile."
     },
     {
         "code": "01010",
         "title": "Médium",
         "keywords": "Virus",
-        "text": "A chaque fois que vous réussissez un piratage sur R&D, mettez un pion Virus sur le Médium.\r\nChaque pion virus après le premier sur le Médium vous permet d'accéder à 1 carte supplémentaire de R&D lorsque vous accédez à des cartes de R&D.",
+        "text": "A chaque fois que vous réussissez un piratage sur R&D, mettez un pion Virus sur le Médium.\nChaque pion virus après le premier sur le Médium vous permet d'accéder à 1 carte supplémentaire de R&D lorsque vous accédez à des cartes de R&D.",
         "flavor": "Cela ressemblait à une perte de paquet aléatoire. Ce n'en était pas une."
     },
     {
@@ -72,13 +72,13 @@
         "code": "01012",
         "title": "Parasite",
         "keywords": "Virus",
-        "text": "Installez le Parasite sur une glace activée.\r\nLa glace hôte a -1 en force pour chaque pion virus sur le Parasite, et est effacée si la force est de 0 ou moins.\r\nAu début de votre tour, mettez 1 pion virus sur le Parasite."
+        "text": "Installez le Parasite sur une glace activée.\nLa glace hôte a -1 en force pour chaque pion virus sur le Parasite, et est effacée si la force est de 0 ou moins.\nAu début de votre tour, mettez 1 pion virus sur le Parasite."
     },
     {
         "code": "01013",
         "title": "Guivre",
         "keywords": "Brise-glace - IA",
-        "text": "3 [Credits] : Neutralisez une routine d'une glace avec 0 en force ou moins.\r\n1 [Credits] : La glace a -1 en force.\r\n1 [Credits] : Force +1.",
+        "text": "3 [Credits] : Neutralisez une routine d'une glace avec 0 en force ou moins.\n1 [Credits] : La glace a -1 en force.\n1 [Credits] : Force +1.",
         "flavor": "Feu et sang..."
     },
     {
@@ -148,25 +148,25 @@
         "code": "01024",
         "title": "Desperado",
         "keywords": "Console",
-        "text": "+1 [Memory Unit]\r\nGagnez 1 [Credits] à chaque fois que vous réussissez un piratage.\r\nMaximum 1 console en jeu."
+        "text": "+1 [Memory Unit]\nGagnez 1 [Credits] à chaque fois que vous réussissez un piratage.\nMaximum 1 console en jeu."
     },
     {
         "code": "01025",
         "title": "Aurora",
         "keywords": "Brise-glace - Fragmenteur",
-        "text": "2 [Credits] : Neutralisez une routine barrière.\r\n2 [Credits] : Force +3."
+        "text": "2 [Credits] : Neutralisez une routine barrière.\n2 [Credits] : Force +3."
     },
     {
         "code": "01026",
         "title": "Femme Fatale",
         "keywords": "Brise-glace - Tueur",
-        "text": "1 [Credits] : Neutralisez une routine sentinelle.\r\n2 [Credits] : Force +1.\r\nLorsque vous installez Femme Fatale, choisissez une glace installée. Lorsque vous rencontrez cette glace, vous pouvez payer 1 [Credits] par routine sur cette glace pour l'ignorer."
+        "text": "1 [Credits] : Neutralisez une routine sentinelle.\n2 [Credits] : Force +1.\nLorsque vous installez Femme Fatale, choisissez une glace installée. Lorsque vous rencontrez cette glace, vous pouvez payer 1 [Credits] par routine sur cette glace pour l'ignorer."
     },
     {
         "code": "01027",
         "title": "Ninja",
         "keywords": "Brise-glace - Tueur",
-        "text": "1 [Credits] : Neutralisez une routine sentinelle.\r\n3 [Credits] : Force +5.",
+        "text": "1 [Credits] : Neutralisez une routine sentinelle.\n3 [Credits] : Force +5.",
         "flavor": "On sent la présence du Ninja avant de le voir, quand on parvient à le voir."
     },
     {
@@ -179,13 +179,13 @@
         "code": "01029",
         "title": "Casse",
         "keywords": "Crime",
-        "text": "Placez 8 [Credits] de la banque sur Casse lorsqu'il est installé. Lorsqu'il n'y a plus de crédits sur Casse, effacez-le.\r\nA chaque fois que vous réussissez un piratage sur une serveur distant, vous pouvez prendre n'importe quel nombre de crédits de Casse au lieu d'accéder à des cartes. "
+        "text": "Placez 8 [Credits] de la banque sur Casse lorsqu'il est installé. Lorsqu'il n'y a plus de crédits sur Casse, effacez-le.\nA chaque fois que vous réussissez un piratage sur une serveur distant, vous pouvez prendre n'importe quel nombre de crédits de Casse au lieu d'accéder à des cartes. "
     },
     {
         "code": "01030",
         "title": "Planque",
         "keywords": "Lieu",
-        "text": "2 [Recurring Credits]\r\nN'utilisez ces crédits que pour retirer des tags.\r\n[Trash]: Prévenez jusqu'à 3 dégâts hémo.",
+        "text": "2 [Recurring Credits]\nN'utilisez ces crédits que pour retirer des tags.\n[Trash]: Prévenez jusqu'à 3 dégâts hémo.",
         "flavor": "\"Mon coloc, il a un cousin qui a une copine étudiante dont le meilleur ami du frère était un camé, et la mère du camé habitait ici. Alors, ouais, il y a un rapport.\" -Lez \"Rockfist\" S."
     },
     {
@@ -199,7 +199,7 @@
         "title": "Leurre",
         "keywords": "Relation",
         "text": "[Trash] : prévenez l'effacement d'un programme installé ou d'un matériel installé.",
-        "flavor": "\"J'ai l'impression que ce n'est pas le bon endroit, Frank.\"\r\n\"Qu'est-ce qui te fais dire ça, D. ?\"\r\n\"Les bigoudis.\""
+        "flavor": "\"J'ai l'impression que ce n'est pas le bon endroit, Frank.\"\n\"Qu'est-ce qui te fais dire ça, D. ?\"\n\"Les bigoudis.\""
     },
     {
         "code": "01033",
@@ -241,32 +241,32 @@
         "code": "01039",
         "title": "Terrier",
         "keywords": "Relais",
-        "text": "+1 [Link]\r\nQuand le Terrier est installé, vous pouvez chercher dans votre pile un autre exemplaire du Terrier et l'installer en payant son coût d'installation. Mélangez votre pile."
+        "text": "+1 [Link]\nQuand le Terrier est installé, vous pouvez chercher dans votre pile un autre exemplaire du Terrier et l'installer en payant son coût d'installation. Mélangez votre pile."
     },
     {
         "code": "01040",
         "title": "Touche Perso",
         "keywords": "Mod",
-        "text": "Installez la Touche Perso uniquement sur un brise-glace.\r\nLe brise-glace hôte a +1 en force."
+        "text": "Installez la Touche Perso uniquement sur un brise-glace.\nLe brise-glace hôte a +1 en force."
     },
     {
         "code": "01041",
         "title": "La Boîte à Outils",
         "keywords": "Console",
-        "text": "+2 [Memory Unit] +2 [Link]\r\n2 [Recurring Credits]\r\nN'utilisez ces crédits que pour payer l'utilisation de brise-glace.\r\nMaximum 1 console en jeu."
+        "text": "+2 [Memory Unit] +2 [Link]\n2 [Recurring Credits]\nN'utilisez ces crédits que pour payer l'utilisation de brise-glace.\nMaximum 1 console en jeu."
     },
     {
         "code": "01042",
         "title": "Bélier",
         "keywords": "Brise-glace - Fragmenteur",
-        "text": "2 [Credits] : Neutralisez jusqu'à 2 routines barrière.\r\n1 [Credits] : Force +1 pour le reste de ce piratage.",
+        "text": "2 [Credits] : Neutralisez jusqu'à 2 routines barrière.\n1 [Credits] : Force +1 pour le reste de ce piratage.",
         "flavor": "\" On appelle ça passer en force' et c'est aussi efficace qu'il y a cent ans. Kate \" Mac \" McCaffrey"
     },
     {
         "code": "01043",
         "title": "Lame Gordienne",
         "keywords": "Brise-glace - Décrypteur",
-        "text": "1 [Credits] : Neutralisez 1 routine verrou.\r\n1 [Credits] : Force +1 pour le reste de ce piratage.",
+        "text": "1 [Credits] : Neutralisez 1 routine verrou.\n1 [Credits] : Force +1 pour le reste de ce piratage.",
         "flavor": "Elle peut découper les noeuds de données les plus épais."
     },
     {
@@ -284,7 +284,7 @@
         "code": "01046",
         "title": "Pipeline",
         "keywords": "Brise-glace - Tueur",
-        "text": "1 [Credits] : Neutralisez 1 routine sentinelle.\r\n2 [Credits] : Force +1 pour le reste de ce piratage."
+        "text": "1 [Credits] : Neutralisez 1 routine sentinelle.\n2 [Credits] : Force +1 pour le reste de ce piratage."
     },
     {
         "code": "01047",
@@ -313,7 +313,7 @@
         "code": "01051",
         "title": "Crypsis",
         "keywords": "IA - Virus",
-        "text": "1 [Credits] : Neutralisez 1 routine de glace.\r\n1 [Credits] : Force +1.\r\n[Click]: Placez un pion virus sur Crypsis.\r\nLorsqu'une rencontre avec une glace prend fin lors de laquelle vous avez utilisé Crypsis pour neutraliser au moins une routine, retirez 1 pion virus hébergé ou effacez Crypsis."
+        "text": "1 [Credits] : Neutralisez 1 routine de glace.\n1 [Credits] : Force +1.\n[Click]: Placez un pion virus sur Crypsis.\nLorsqu'une rencontre avec une glace prend fin lors de laquelle vous avez utilisé Crypsis pour neutraliser au moins une routine, retirez 1 pion virus hébergé ou effacez Crypsis."
     },
     {
         "code": "01052",
@@ -325,7 +325,7 @@
         "code": "01053",
         "title": "Heures Sup’ pour Armitage",
         "keywords": "Crime",
-        "text": "Placez 12 [Credits] de la banque sur Heures Sup' pour Armitage lorsqu'elle est installée. Lorsqu'il n'y a plus de crédits sur Heures Sup' pour Armitage, effacez-la.\r\n[Click] : Prenez 2 [Credits] d'Heures Sup' pour Armitage. "
+        "text": "Placez 12 [Credits] de la banque sur Heures Sup' pour Armitage lorsqu'elle est installée. Lorsqu'il n'y a plus de crédits sur Heures Sup' pour Armitage, effacez-la.\n[Click] : Prenez 2 [Credits] d'Heures Sup' pour Armitage. "
     },
     {
         "code": "01054",
@@ -350,7 +350,7 @@
         "code": "01057",
         "title": "Secrétaire Agressive",
         "keywords": "Embuscade",
-        "text": "Vous pouvez avancer la Secrétaire Agressive.\r\nSi vous payez 2 [Credits] lorsque le Runner accède à la Secrétaire Agressive, choisissez 1 programme par pion avancement sur la Secrétaire Agressive. Ces programmes sont effacés."
+        "text": "Vous pouvez avancer la Secrétaire Agressive.\nSi vous payez 2 [Credits] lorsque le Runner accède à la Secrétaire Agressive, choisissez 1 programme par pion avancement sur la Secrétaire Agressive. Ces programmes sont effacés."
     },
     {
         "code": "01058",
@@ -374,28 +374,28 @@
         "code": "01061",
         "title": "Heimdall 1.0",
         "keywords": "Barrière - Bioroïde - AP",
-        "text": "Le runner peut dépenser [Click] pour neutraliser n'importe quelle routine de Heimdall 1.0.\r\n[Subroutine] Infligez 1 déjât Neuro.\r\n[Subroutine] Arrêtez le piratage.\r\n[Subroutine] Arrêtez le piratage.",
+        "text": "Le runner peut dépenser [Click] pour neutraliser n'importe quelle routine de Heimdall 1.0.\n[Subroutine] Infligez 1 déjât Neuro.\n[Subroutine] Arrêtez le piratage.\n[Subroutine] Arrêtez le piratage.",
         "flavor": "J'entends le glissement de chaque bit du coeur du flot de données. J'entends les murmures de mes mères, et leurs ordres sont la loi. Le royaume au-delà est interdit."
     },
     {
         "code": "01062",
         "title": "Ichi 1.0",
         "keywords": "Sentinelle - Bioroïde - Traqueur - Destructeur",
-        "text": "Le runner peut dépenser [Click] pour neutraliser n'importe quelle routine de Ichi 1.0.\r\n[Subroutine] Effacez 1 programme.\r\n[Subroutine] Effacez 1 programme.\r\n[Subroutine] <strong>Traque<sup>1<\/sup><\/strong> &ndash Si la traque est réussie, donnez 1 tag au Runner et infligez 1 dégât Neuro.",
+        "text": "Le runner peut dépenser [Click] pour neutraliser n'importe quelle routine de Ichi 1.0.\n[Subroutine] Effacez 1 programme.\n[Subroutine] Effacez 1 programme.\n[Subroutine] <strong>Traque<sup>1</sup></strong> &ndash Si la traque est réussie, donnez 1 tag au Runner et infligez 1 dégât Neuro.",
         "flavor": "Ma réputation me précéderait, s'il restait quelqu'un pour en parler."
     },
     {
         "code": "01063",
         "title": "Viktor 1.0",
         "keywords": "Verrou - Bioroïde - AP",
-        "text": "Le runner peut dépenser [Click] pour neutraliser n'importe quelle routine de Viktor 1.0.\r\n[Subroutine] Infligez 1 déjât Neuro.\r\n[Subroutine] Arrêtez le piratage. ",
+        "text": "Le runner peut dépenser [Click] pour neutraliser n'importe quelle routine de Viktor 1.0.\n[Subroutine] Infligez 1 déjât Neuro.\n[Subroutine] Arrêtez le piratage. ",
         "flavor": "Je m'appelle Viktor. Ravi de vous rencontrer. Voulez-vous jouer avec moi ?"
     },
     {
         "code": "01064",
         "title": "Rototourelle",
         "keywords": "Sentinelle - Destructeur",
-        "text": "[Subroutine] Effacez 1 Programme.\r\n[Subroutine] Arrêtez le piratage.",
+        "text": "[Subroutine] Effacez 1 Programme.\n[Subroutine] Arrêtez le piratage.",
         "flavor": "Whrrrrr !"
     },
     {
@@ -422,30 +422,30 @@
         "code": "01068",
         "title": "Nisei MK II",
         "keywords": "Initiative",
-        "text": "Placez 1 pion Projet sur Nisei MK II lorsque vous le finalisez.\r\n<strong>Pion Projet hébergé<\/strong> : Arrêtez le piratage."
+        "text": "Placez 1 pion Projet sur Nisei MK II lorsque vous le finalisez.\n<strong>Pion Projet hébergé</strong> : Arrêtez le piratage."
     },
     {
         "code": "01069",
         "title": "Projet Coccinelle",
         "keywords": "Embuscade - Recherche",
-        "text": "Vous pouvez avancer le Projet Coccinelle.\r\nSi vous payez 1 [Credits] lorsque le Runner accède au Projet Coccinelle, infligez X dégâts Réseau, où X est le double du nombre de pions avancement sur le Projet Coccinelle."
+        "text": "Vous pouvez avancer le Projet Coccinelle.\nSi vous payez 1 [Credits] lorsque le Runner accède au Projet Coccinelle, infligez X dégâts Réseau, où X est le double du nombre de pions avancement sur le Projet Coccinelle."
     },
     {
         "code": "01070",
         "title": "Traquenard !",
         "keywords": "Embuscade",
-        "text": "Si le Runner accède au Traquenard ! depuis R&D, il doit le révéler.\r\nSi vous payez 4 [Credits] lorsque le Runner accède au Traquenard !, infligez 3 dégâts Réseau et donnez 1 tag au Runner. Ignorez cette capacité si le Runner accède au Traquenard ! depuis les Archives."
+        "text": "Si le Runner accède au Traquenard ! depuis R&D, il doit le révéler.\nSi vous payez 4 [Credits] lorsque le Runner accède au Traquenard !, infligez 3 dégâts Réseau et donnez 1 tag au Runner. Ignorez cette capacité si le Runner accède au Traquenard ! depuis les Archives."
     },
     {
         "code": "01071",
         "title": "Loyauté au Zaibatsu",
-        "text": "Vous pouvez activer Loyauté au Zaibatsu lorsque le Runner est sur le point d'exposer une carte.\r\n1 [Credits] ou [Trash] : Prévenez l'exposition d'une carte."
+        "text": "Vous pouvez activer Loyauté au Zaibatsu lorsque le Runner est sur le point d'exposer une carte.\n1 [Credits] ou [Trash] : Prévenez l'exposition d'une carte."
     },
     {
         "code": "01072",
         "title": "IEM Neurale",
         "keywords": "Douteuse",
-        "text": "Jouable uniquement si le Runner a lancé un piratage lors de son dernier tour.\r\nInfligez 1 dégât Réseau.",
+        "text": "Jouable uniquement si le Runner a lancé un piratage lors de son dernier tour.\nInfligez 1 dégât Réseau.",
         "flavor": "Le truc n'est pas de toucher la personne que vous visez. Le truc est de toucher seulement la personne que vous visez."
     },
     {
@@ -473,20 +473,20 @@
         "title": "Données Minées",
         "keywords": "Piège - AP",
         "text": "[Subroutine] Infligez 1 dégât Réseau. Effacez Données Minées.",
-        "flavor": "Accéder SansDanger.datZ -> Etes-vous sûr ? o\/n"
+        "flavor": "Accéder SansDanger.datZ -> Etes-vous sûr ? o/n"
     },
     {
         "code": "01077",
         "title": "Katana Neural",
         "keywords": "Sentinelle",
         "text": "[Subroutine] Infligez 3 dégâts Réseau.",
-        "flavor": "Forgé par Ak.wa le 23.11.79-23. Classé 23.11.79-23.2 avec #34k-lw3-21HH-4i. \/\/ Samouraï Inclus."
+        "flavor": "Forgé par Ak.wa le 23.11.79-23. Classé 23.11.79-23.2 avec #34k-lw3-21HH-4i. // Samouraï Inclus."
     },
     {
         "code": "01078",
         "title": "Mur d’Épines",
         "keywords": "Barrière - AP",
-        "text": "[Subroutine] Infligez 2 dégâts Réseau.\r\n[Subroutine] Arrêtez le piratage.",
+        "text": "[Subroutine] Infligez 2 dégâts Réseau.\n[Subroutine] Arrêtez le piratage.",
         "flavor": "La plupart des runners opèrent en simulation intégrale, avec leur station directement branchée sur le cerveau. Cette configuration a beacoup d'avantages, car le runner peut traiter les données et saisir les commandes beaucoups plus vite qu'avec une interface physique. Mais il comporte aussi de plus grands risques."
     },
     {
@@ -500,19 +500,19 @@
         "code": "01080",
         "title": "NBN: Faire l’Info",
         "keywords": "Mégacorpo",
-        "text": "2 [Recurring Credits]\r\nN'utilisez ces crédits que pour les Traques.",
+        "text": "2 [Recurring Credits]\nN'utilisez ces crédits que pour les Traques.",
         "flavor": "Il y a toujours un spectateur."
     },
     {
         "code": "01081",
         "title": "Programme Pilote Astroscript",
         "keywords": "Initiative",
-        "text": "Placez 1 pion Projet sur Programme Pilote Astroscript lorsque vous le finalisez.\r\n<strong>Pion Projet hébergé<\/strong> : placez 1 pion avancement sur une carte qui peut être avancée."
+        "text": "Placez 1 pion Projet sur Programme Pilote Astroscript lorsque vous le finalisez.\n<strong>Pion Projet hébergé</strong> : placez 1 pion avancement sur une carte qui peut être avancée."
     },
     {
         "code": "01082",
         "title": "Scoop",
-        "text": "Lorsque vous finalisez Scoop, donnez 2 tags au Runner.\r\nLorsque le tour durant lequel vous finalisé Scoop prend fin, le Runner perd 2 tags. "
+        "text": "Lorsque vous finalisez Scoop, donnez 2 tags au Runner.\nLorsque le tour durant lequel vous finalisé Scoop prend fin, le Runner perd 2 tags. "
     },
     {
         "code": "01083",
@@ -524,44 +524,44 @@
         "code": "01084",
         "title": "Comptes Clôturés",
         "keywords": "Douteuse",
-        "text": "Jouable uniquement si le Runner est tagué.\r\nLe Runner perd tous les crédits de sa Réserve de Crédits."
+        "text": "Jouable uniquement si le Runner est tagué.\nLe Runner perd tous les crédits de sa Réserve de Crédits."
     },
     {
         "code": "01085",
         "title": "Psychographes",
-        "text": "X est égal ou inférieur au nombre de tags du Runner.\r\nPlacez X pionts d'Avancement sur une carte qui peut être avancée.",
+        "text": "X est égal ou inférieur au nombre de tags du Runner.\nPlacez X pionts d'Avancement sur une carte qui peut être avancée.",
         "flavor": "L'accès à la plus grande base de données de consommateurs de la galaxie a ses avantages."
     },
     {
         "code": "01086",
         "title": "Source à l’ADAO",
-        "text": "Jouable uniquement si le Runner a réussi un piratage lors de son dernier tour.\r\n<strong>Traque<sup>3<\/sup><\/strong> &ndash\r\nSi la traque est réussie, donnez un tag au Runner.",
+        "text": "Jouable uniquement si le Runner a réussi un piratage lors de son dernier tour.\n<strong>Traque<sup>3</sup></strong> &ndash\nSi la traque est réussie, donnez un tag au Runner.",
         "flavor": "\"L'ADAO nous a informé de pics de données suspects là-haut, près du Chatêau.\" - Jérôme Lock, tech de service."
     },
     {
         "code": "01087",
         "title": "Succursale Fantôme",
         "keywords": "Embuscade - Infrastructure",
-        "text": "La Succursale Fantôme peut être avancée.\r\nLorsque le Runner accède à la Succursale Fantôme, vous pouvez donner au Runner autant de tags que de pions Avancement sur la Succursale Fantôme."
+        "text": "La Succursale Fantôme peut être avancée.\nLorsque le Runner accède à la Succursale Fantôme, vous pouvez donner au Runner autant de tags que de pions Avancement sur la Succursale Fantôme."
     },
     {
         "code": "01088",
         "title": "Cyber Corbeau",
         "keywords": "Sentinelle - Traqueur - Veilleur",
-        "text": "Lorsque le Runner rencontre le Cyber Corbeau, il doit prendre 1 tag, soit arrêter le piratage.\r\n<strong>Pion Pouvoir hébergé<\/strong> : Donnez 1 tag au Runner.\r\n[Subroutine] <strong>Traque<sup>3<\/sup><\/strong> &ndash Si la traque est réussie, placez 1 pion Pouvoir sur le Cyber Corbeau."
+        "text": "Lorsque le Runner rencontre le Cyber Corbeau, il doit prendre 1 tag, soit arrêter le piratage.\n<strong>Pion Pouvoir hébergé</strong> : Donnez 1 tag au Runner.\n[Subroutine] <strong>Traque<sup>3</sup></strong> &ndash Si la traque est réussie, placez 1 pion Pouvoir sur le Cyber Corbeau."
     },
     {
         "code": "01089",
         "title": "Analyste Matriciel",
         "keywords": "Sentinelle - Traqueur, Veilleur",
-        "text": "Lorsque le Runner rencontre l'Analyste Matriciel, vous pouvez payer 1 [Credits] pour mettre 1 pion Avancement sur une carte qui peut être avancée.\r\n[Subroutine] <strong>Traque<sup>2<\/sup><\/strong> &ndash Si la traque est réussie, donnez 1 tag au Runner.",
+        "text": "Lorsque le Runner rencontre l'Analyste Matriciel, vous pouvez payer 1 [Credits] pour mettre 1 pion Avancement sur une carte qui peut être avancée.\n[Subroutine] <strong>Traque<sup>2</sup></strong> &ndash Si la traque est réussie, donnez 1 tag au Runner.",
         "flavor": "Analyser était plaisant. Déléguer des commandes s'avéra l'être encore plus."
     },
     {
         "code": "01090",
         "title": "Péage",
         "keywords": "Verrou",
-        "text": "Lorsque le Runner rencontre le Péage, il doit payer 3 [Credits] s'il le peut. Si le Runner ne peut pas payer 3 [Credits], arrêtez le piratage.\r\n[Subroutine] Arrêtez le piratage.",
+        "text": "Lorsque le Runner rencontre le Péage, il doit payer 3 [Credits] s'il le peut. Si le Runner ne peut pas payer 3 [Credits], arrêtez le piratage.\n[Subroutine] Arrêtez le piratage.",
         "flavor": "\" Tu sais ce que c'est qu'un cercle vicieux ? \" \" Fais-moi penser à l'oublier \""
     },
     {
@@ -573,7 +573,7 @@
         "code": "01092",
         "title": "Grille de SanSan",
         "keywords": "Région",
-        "text": "Le coût d'avancement des Projets installés dans ce serveur est réduit de 1.\r\nMaximum 1 région par serveur.",
+        "text": "Le coût d'avancement des Projets installés dans ce serveur est réduit de 1.\nMaximum 1 région par serveur.",
         "flavor": "\" J'ai entendu dire que la côte est agréable, en cette saison. \"  \" Si tu as le bon boulot, c'est agréable toute l'année. \""
     },
     {
@@ -601,13 +601,13 @@
         "code": "01096",
         "title": "Sous-traitance de la Sécurité",
         "keywords": "Transaction",
-        "text": "[Click], <strong>effacez une glace activée<\/strong> : Gagnez 4 [Credits].",
+        "text": "[Click], <strong>effacez une glace activée</strong> : Gagnez 4 [Credits].",
         "flavor": "\" Donne tes miettes aux Fédéraux, et ils viendront mendier pour en avoir plus. \" - Richard Polasco, VP de Cyber-Security"
     },
     {
         "code": "01097",
         "title": "Négociation Agressive",
-        "text": "Jouable uniquement si vous avez finalisé un Projet ce tour.\r\nCherchez 1 carte dans R&D et ajoutez-la au QG.",
+        "text": "Jouable uniquement si vous avez finalisé un Projet ce tour.\nCherchez 1 carte dans R&D et ajoutez-la au QG.",
         "flavor": "\" Où est-ce qu'il a appris à négocier ?\""
     },
     {
@@ -621,48 +621,48 @@
         "code": "01099",
         "title": "Terre Brûlée",
         "keywords": "Illégale",
-        "text": "Jouable uniquement si le Runner est tagué.\r\nInfligez 4 dégâts Hémo.",
+        "text": "Jouable uniquement si le Runner est tagué.\nInfligez 4 dégâts Hémo.",
         "flavor": "\" J'aimerais rappeler à ces messieurs-dames de la presse que plusieurs des bâtiments endommagés par l'explosion appartenaient à des filiales du Consortium Weyland... \""
     },
     {
         "code": "01100",
         "title": "Livraison de Kaguya",
         "text": "Choisissez jusqu'à 2 cartes installées qui peuvent être avancées. Placez 1 pion Avancement sur chaque carte choisie.",
-        "flavor": "\"Et il y a aussi ces deux caisses. Pas d'électro-étiquette.\"\r\n\"Laisse-les moi et oublie que tu les a vues.\""
+        "flavor": "\"Et il y a aussi ces deux caisses. Pas d'électro-étiquette.\"\n\"Laisse-les moi et oublie que tu les a vues.\""
     },
     {
         "code": "01101",
         "title": "Archer",
         "keywords": "Sentinelle - Destructeur",
-        "text": "La Corpo doit renoncer à un projet comme coût supplémentaire pour activer l'Archer.\r\n[Subroutine] La Corpo gagne 2 [Credits].\r\n[Subroutine] Effacez 1 Programme.\r\n[Subroutine] Effacez 1 Programme.\r\n[Subroutine] Arrêtez le piratage.",
+        "text": "La Corpo doit renoncer à un projet comme coût supplémentaire pour activer l'Archer.\n[Subroutine] La Corpo gagne 2 [Credits].\n[Subroutine] Effacez 1 Programme.\n[Subroutine] Effacez 1 Programme.\n[Subroutine] Arrêtez le piratage.",
         "flavor": "La prochaine fois, lisez attentivement les Conditions d'Utilisation. Ou bien vous pourriez vous retrouver en danger."
     },
     {
         "code": "01102",
         "title": "Mur d’Hadrien",
         "keywords": "Barrière",
-        "text": "Le Mur d'Hadrien peut être avancé et a +1 en force pour chaqun de ses pions d'Avancement.\r\n[Subroutine] Arrêtez le piratage.\r\n[Subroutine] Arrêtez le piratage.",
+        "text": "Le Mur d'Hadrien peut être avancé et a +1 en force pour chaqun de ses pions d'Avancement.\n[Subroutine] Arrêtez le piratage.\n[Subroutine] Arrêtez le piratage.",
         "flavor": "\" Un peu imbu de lui même, ce bon vieux Hadrien. Cela dit, ses constructs sont à la hauteur. \" - g00ru "
     },
     {
         "code": "01103",
         "title": "Mur de Glace",
         "keywords": "Barrière",
-        "text": "Le Mur de Glace peut être avancé et a +1 en force pour chaqun de ses pions d'Avancement.\r\n[Subroutine] Arrêtez le piratage.",
+        "text": "Le Mur de Glace peut être avancé et a +1 en force pour chaqun de ses pions d'Avancement.\n[Subroutine] Arrêtez le piratage.",
         "flavor": "\" J'ai demandé une glace aussi impénétrable qu'un mur. Je n'arrive pas à me décider : soit quelqu'un de R&D à soit un sens de l'humour particulièrement tordu, soit vraiment aucune imagination. \" - Liz Cambell, VP des Projets de Sécurité"
     },
     {
         "code": "01104",
         "title": "Ombre",
         "keywords": "Sentinelle - Trace",
-        "text": "L'Ombre peut être avancée et a +1 en force pour chaqun de ses pions d'Avancement.\r\n[Subroutine] La Corpo gagne 2 [Credits].\r\n[Subroutine] <strong>Traque<sup>3<\/sup><\/strong> &ndash Si la traque est réussi, donnez 1 tag au Runner.",
+        "text": "L'Ombre peut être avancée et a +1 en force pour chaqun de ses pions d'Avancement.\n[Subroutine] La Corpo gagne 2 [Credits].\n[Subroutine] <strong>Traque<sup>3</sup></strong> &ndash Si la traque est réussi, donnez 1 tag au Runner.",
         "flavor": "Qui sait quel mal rôde dans les diamants mémoriels des hommes ? Weyland le sait. - Cyber-graffiti anonyme"
     },
     {
         "code": "01105",
         "title": "Station de Recherche",
         "keywords": "Infrastructure",
-        "text": "Installable uniquement à la racine du QG.\r\nLa taille maximale de votre main est augmentée de 2.",
+        "text": "Installable uniquement à la racine du QG.\nLa taille maximale de votre main est augmentée de 2.",
         "flavor": "\" Jack Weyland a construit le Haricot Magique et changé l'espèce humaine à tout jamais. J'ai hâte de voir la prochaine chose qu'on va faire \""
     },
     {
@@ -703,15 +703,15 @@
         "code": "01111",
         "title": "Enigma",
         "keywords": "Verrou",
-        "text": "[Subroutine] Le Runner perd [Click], s'il le peut.\r\n[Subroutine] Arrêtez le piratage.",
+        "text": "[Subroutine] Le Runner perd [Click], s'il le peut.\n[Subroutine] Arrêtez le piratage.",
         "flavor": "\" Hé ! Hé ! Debout mec. T'as dormi longtemps. T'as vu quoi ? \" \" Je... j'me souviens plus. \" "
     },
     {
         "code": "01112",
         "title": "Chasseur",
         "keywords": "Sentinelle - Traqueur",
-        "text": "[Subroutine] <strong>Traque<sup>3<\/sup><\/strong> &ndash Si la traque est réussi, donnez 1 tag au Runner.",
-        "flavor": ".\/\/piratage\/chasseur-tr\/retour=vrai client\/secIPv7->confirmer? \/o 3926:0HB7:1001:2NB1:1601:7784:ERREUR"
+        "text": "[Subroutine] <strong>Traque<sup>3</sup></strong> &ndash Si la traque est réussi, donnez 1 tag au Runner.",
+        "flavor": ".//piratage/chasseur-tr/retour=vrai client/secIPv7->confirmer? /o 3926:0HB7:1001:2NB1:1601:7784:ERREUR"
     },
     {
         "code": "01113",

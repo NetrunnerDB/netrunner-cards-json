@@ -9,20 +9,20 @@
         "code": "02102",
         "title": "Darwin",
         "keywords": "Lodołamacz - AI - Wirus",
-        "text": "2[Credits]: Złam podprogram lodu.\r\nX to liczba znaczników wirusa leżących na Darwinie.\r\nGdy zaczynasz turę, możesz zapłacić 1[Credits], aby umieścić 1 znacznik wirusa na Darwinie."
+        "text": "2[Credits]: Złam podprogram lodu.\nX to liczba znaczników wirusa leżących na Darwinie.\nGdy zaczynasz turę, możesz zapłacić 1[Credits], aby umieścić 1 znacznik wirusa na Darwinie."
     },
     {
         "code": "02103",
         "title": "Odwrócenie wycieku danych",
         "keywords": "Wirtualne - Sabotaż",
-        "text": "Zainstaluj tylko, jeśli przeprowadziłeś w tej turze udany skok na serwer centralny.\r\nJeśli jesteś otagowany, Odwrócenie wycieku danych zyskuje \"[Click]: Korp kasuje wierzchnią kartę z R&D.\"",
+        "text": "Zainstaluj tylko, jeśli przeprowadziłeś w tej turze udany skok na serwer centralny.\nJeśli jesteś otagowany, Odwrócenie wycieku danych zyskuje \"[Click]: Korp kasuje wierzchnią kartę z R&D.\"",
         "flavor": "Dwukierunkowe rozwiązywanie jednokierunkowego problemu, odwrócenie wycieku danych, w skrócie OWD, nosi nazwę wprowadzającą w błąd. W istocie nie następuje żadne odwrócenie danych, a raczej powstaje równoległe połączenie z początkowym źródłem."
     },
     {
         "code": "02104",
         "title": "Wróżka",
         "keywords": "Lodołamacz - Zabójca",
-        "text": "0[Credits]: Złam podprogram <strong>strażnika<\/strong>.\r\n1[Credits]: +1 siły.\r\nGdy skończy się spotkanie, w trakcie którego użyłeś Wróżki do złamania podprogramu, skasuj Wróżkę.",
+        "text": "0[Credits]: Złam podprogram <strong>strażnika</strong>.\n1[Credits]: +1 siły.\nGdy skończy się spotkanie, w trakcie którego użyłeś Wróżki do złamania podprogramu, skasuj Wróżkę.",
         "flavor": "Wierzysz we wróżki?"
     },
     {
@@ -30,7 +30,7 @@
         "title": "Pan Li",
         "keywords": "Kontakt",
         "text": "[Click]: Dobierz 2 karty. Dodaj 1 z nich na spód swojego stosu.",
-        "flavor": "- Zawsze chętnie pomagamy, panie Santiago.\r\n- Jestem wdzięczny, panie Li.\r\n- Będziemy w kontakcie, A, Gabriel...\r\n- Tak?\r\n- Nie wyjeżdżaj z miasta."
+        "flavor": "- Zawsze chętnie pomagamy, panie Santiago.\n- Jestem wdzięczny, panie Li.\n- Będziemy w kontakcie, A, Gabriel...\n- Tak?\n- Nie wyjeżdżaj z miasta."
     },
     {
         "code": "02106",
@@ -49,34 +49,34 @@
         "code": "02108",
         "title": "Głęboka myśl",
         "keywords": "Wirus",
-        "text": "Zawsze gdy przeprowadzisz udany skok na R&D, połóż 1 znacznik wirusa na Głębokiej myśli.\r\nJeśli na Głębokiej myśli leżą przynajmniej 3 znaczniki wirusa, zyskuje ona \"Gdy zaczynasz swoją turę, możesz obejrzeć wierzchnią kartę z R&D.\""
+        "text": "Zawsze gdy przeprowadzisz udany skok na R&D, połóż 1 znacznik wirusa na Głębokiej myśli.\nJeśli na Głębokiej myśli leżą przynajmniej 3 znaczniki wirusa, zyskuje ona \"Gdy zaczynasz swoją turę, możesz obejrzeć wierzchnią kartę z R&D.\""
     },
     {
         "code": "02109",
         "title": "Ratusz Miasta New Angeles",
         "keywords": "Miejsce - Rząd",
-        "text": "2[Credits]: Pomiń 1 tag.\r\nSkasuj Ratusz Miasta New Angeles, gdy wykradniesz projekt.",
+        "text": "2[Credits]: Pomiń 1 tag.\nSkasuj Ratusz Miasta New Angeles, gdy wykradniesz projekt.",
         "flavor": "\"New Angeles to klejnot współczesnej cywilizacji, a inne narody podziwiają jego władze.\" - Burmistrz Wells"
     },
     {
         "code": "02110",
         "title": "Eli 1.0",
         "keywords": "Bariera - Bioroid",
-        "text": "Runner może wydać [Click], by złamać dowolny podprogram Eli 1.0.\r\n[Subroutine] Zakończ skok.\r\n[Subroutine] Zakończ skok.",
+        "text": "Runner może wydać [Click], by złamać dowolny podprogram Eli 1.0.\n[Subroutine] Zakończ skok.\n[Subroutine] Zakończ skok.",
         "flavor": "\"To niezgodne z zasadami. Stwórcy będą się gniewać.\""
     },
     {
         "code": "02111",
         "title": "Zagłębie Ruhry",
         "keywords": "Region",
-        "text": "Runner musi wydać [Click] jako dodatkowy koszt przeprowadzenia skoku na ten serwer.\r\nLimit 1 <strong>regionu<\/strong> na serwer.",
+        "text": "Runner musi wydać [Click] jako dodatkowy koszt przeprowadzenia skoku na ten serwer.\nLimit 1 <strong>regionu</strong> na serwer.",
         "flavor": "Znane z luksusowych skoczków i pysznej kiszonej kapusty."
     },
     {
         "code": "02112",
         "title": "Ronin",
         "keywords": "Wrogi",
-        "text": "Ronina można awansować.\r\nJeśli na Roninie leżą przynajmniej 4 żetony zaawansowania, zyskuje on \"[Click], [Trash]: Zadaj 3 obrażenia sprzętu.\"",
+        "text": "Ronina można awansować.\nJeśli na Roninie leżą przynajmniej 4 żetony zaawansowania, zyskuje on \"[Click], [Trash]: Zadaj 3 obrażenia sprzętu.\"",
         "flavor": "Będę ci służyć... przez pewien czas."
     },
     {
@@ -97,18 +97,18 @@
         "code": "02115",
         "title": "Projekt Beale",
         "keywords": "Badania",
-        "text": "Gdy zapunktujesz Project Beale, połóż na nim 1 znacznik projektu za każde 2 leżące na nim żetony zaawansowania powyżej 3.\r\nProject Beale jest warty 1 dodatkowy punkt projektu za każdy leżący na nim znacznik projektu."
+        "text": "Gdy zapunktujesz Project Beale, połóż na nim 1 znacznik projektu za każde 2 leżące na nim żetony zaawansowania powyżej 3.\nProject Beale jest warty 1 dodatkowy punkt projektu za każdy leżący na nim znacznik projektu."
     },
     {
         "code": "02116",
         "title": "Nieplanowana zmiana ramówki",
-        "text": "Zagraj tylko, jeśli runner wykradł projekt w swojej poprzedniej turze.\r\n<strong>Trace<sup>6<\/sup><\/strong>&ndash; Jeśli udane, daj runnerowi tagi w liczbie równej różnicy siły namierzania i siły połączenia."
+        "text": "Zagraj tylko, jeśli runner wykradł projekt w swojej poprzedniej turze.\n<strong>Trace<sup>6</sup></strong>&ndash; Jeśli udane, daj runnerowi tagi w liczbie równej różnicy siły namierzania i siły połączenia."
     },
     {
         "code": "02117",
         "title": "Flara",
         "keywords": "Strażnik - Tropiciel - AP",
-        "text": "[Subroutine]<strong>Trace<sup>6<\/sup><\/strong>&ndash; Jeśli udane, skasuj 1 sprzęt, zadaj 2 obrażenia ciała (nie można ich zablokować) i zakończ skok.",
+        "text": "[Subroutine]<strong>Trace<sup>6</sup></strong>&ndash; Jeśli udane, skasuj 1 sprzęt, zadaj 2 obrażenia ciała (nie można ich zablokować) i zakończ skok.",
         "flavor": "Jasne światło rozkwitło i konsola zgasła. Wtedy poczuła dym."
     },
     {
@@ -122,7 +122,7 @@
         "code": "02119",
         "title": "Burke Bugs",
         "keywords": "Strażnik - Niszczyciel",
-        "text": "[Subroutine] <strong>Trace<sup>0<\/sup><\/strong>&ndash; Jeśli udane, runner kasuje 1 program.",
+        "text": "[Subroutine] <strong>Trace<sup>0</sup></strong>&ndash; Jeśli udane, runner kasuje 1 program.",
         "flavor": "\"Gdybym miał określić je jednym słowem, powiedziałbym '****sko irytujące.'\" - Magik"
     },
     {

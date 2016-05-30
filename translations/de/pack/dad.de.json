@@ -9,14 +9,14 @@
         "code": "09002",
         "title": "New Angeles Sol: Ihre Nachrichten",
         "keywords": "Abteilung",
-        "text": "Immer, wenn die Punkte für eine Agenda erzielt werden oder sie gestohlen wird, kannst du 1 <strong>Aktuell<\/strong>-Karte aus dem HQ oder dem Archiv spielen (Ausspielkosten müssen bezahlt werden).",
+        "text": "Immer, wenn die Punkte für eine Agenda erzielt werden oder sie gestohlen wird, kannst du 1 <strong>Aktuell</strong>-Karte aus dem HQ oder dem Archiv spielen (Ausspielkosten müssen bezahlt werden).",
         "flavor": "Nichts als die Wahrheit."
     },
     {
         "code": "09003",
         "title": "Agentur Spark: Wir erreichen Welten",
         "keywords": "Abteilung",
-        "text": "Immer wenn du in einem Zug zum ersten Mal eine <strong>Werbung<\/strong> lädst, verliert der Runner 1[Credits].",
+        "text": "Immer wenn du in einem Zug zum ersten Mal eine <strong>Werbung</strong> lädst, verliert der Runner 1[Credits].",
         "flavor": "Wir sind bereit, das Feuer zu entfachen."
     },
     {
@@ -29,14 +29,14 @@
         "code": "09005",
         "title": "Verbesserte Spürhunde",
         "keywords": "Sicherheit",
-        "text": "Jedes <strong>Spürhund-<\/strong>Ice hat +1 Stärke.\nDie Grundaufspürstärke jeder Subroutine wird um 1 erhöht.",
+        "text": "Jedes <strong>Spürhund-</strong>Ice hat +1 Stärke.\nDie Grundaufspürstärke jeder Subroutine wird um 1 erhöht.",
         "flavor": "„Der Trick ist nicht die Software, sondern die Hardware. Der Cyberspace ist eine Ansammlung echter Maschinen. Wenn wir die Maschinen kontrollieren, kontrollieren wir alles.“ –KR Kane, „Unsere Zukunft“"
     },
     {
         "code": "09006",
         "title": "Team zur Imageaufwertung",
         "keywords": "Initiative",
-        "text": "Alle Aktivposten erhalten <strong>Werbung<\/strong>.",
+        "text": "Alle Aktivposten erhalten <strong>Werbung</strong>.",
         "flavor": "„Niemand hat je finanziellen Schaden dadurch erlitten, dass er den Geschmack der Öffentlichkeit unterschätzt hat.“ –Phineas Taylor Barnum"
     },
     {
@@ -44,13 +44,13 @@
         "title": "Quanten-Prognosemodell",
         "keywords": "Sicherheit",
         "text": "Falls von F&E auf Quanten-Prognosemodell zugegriffen wird, muss der Runner es aufdecken.\nFalls der Runner markiert ist, wenn auf Quanten-Prognosemodell zugegriffen wird, füge es deiner Punktezone hinzu.",
-        "flavor": "\"Ja <strong>und<\/strong> Nei."
+        "flavor": "\"Ja <strong>und</strong> Nei."
     },
     {
         "code": "09008",
         "title": "Lily Lockwell",
         "keywords": "Charakter",
-        "text": "Wenn du Lily Lockwell lädst, ziehe 3 Karten.\n[Click], <strong>entferne 1 Markierung<\/strong>: Durchsuche F&E nach einer Operation, decke sie auf und mische die übrigen F&E-Karten. Lege dann die Operation oben auf F&E.",
+        "text": "Wenn du Lily Lockwell lädst, ziehe 3 Karten.\n[Click], <strong>entferne 1 Markierung</strong>: Durchsuche F&E nach einer Operation, decke sie auf und mische die übrigen F&E-Karten. Lege dann die Operation oben auf F&E.",
         "flavor": "„Lily Lockwell, live für Sie aus New Angeles.“"
     },
     {
@@ -83,20 +83,20 @@
         "code": "09013",
         "title": "Erzengel",
         "keywords": "Code-Zugang - Spürhund - Hinterhalt",
-        "text": "Falls von F&E auf Erzengel zugegriffen wird, muss der Runner ihn aufdecken.\nFalls du 3[Credits] zahlst, wenn der Runner auf Erzengel zugreift, trifft er sofort darauf. Ignoriere diese Fähigkeit, falls vom Archiv auf Erzengel zugegriffen wird.\n[Subroutine] <strong>Aufspüren<sup>6<\/sup><\/strong>- Bei Erfolg füge 1 installierte Runner-Karte seinem Griff hinzu."
+        "text": "Falls von F&E auf Erzengel zugegriffen wird, muss der Runner ihn aufdecken.\nFalls du 3[Credits] zahlst, wenn der Runner auf Erzengel zugreift, trifft er sofort darauf. Ignoriere diese Fähigkeit, falls vom Archiv auf Erzengel zugegriffen wird.\n[Subroutine] <strong>Aufspüren<sup>6</sup></strong>- Bei Erfolg füge 1 installierte Runner-Karte seinem Griff hinzu."
     },
     {
         "code": "09014",
         "title": "Nachrichten-Bluthund",
         "keywords": "Wächter - Spürhund",
-        "text": "Falls eine <strong>Aktuell<\/strong>-Karte aktiv ist, erhält Nachrichten-Bluthund „[Subroutine] Beende den Run.“ nach seinen übrigen Subroutinen.\n[Subroutine]<strong>Aufspüren<sup>3<\/sup><\/strong> - Bei Erfolg verpasse dem Runner 1 Markierung.",
+        "text": "Falls eine <strong>Aktuell</strong>-Karte aktiv ist, erhält Nachrichten-Bluthund „[Subroutine] Beende den Run.“ nach seinen übrigen Subroutinen.\n[Subroutine]<strong>Aufspüren<sup>3</sup></strong> - Bei Erfolg verpasse dem Runner 1 Markierung.",
         "flavor": "„Die meisten Berichte können heutzutage von KIs erstellt werden. Unsere Talente brauchen wir nur wegen deren Bekanntheitsgrad.\""
     },
     {
         "code": "09015",
         "title": "Widerstand",
         "keywords": "Barriere - Spürhund",
-        "text": "Widerstand hat +1 Stärke für jede Markierung des Runners.\n[Subroutine]<strong>Aufspüren<sup>4<\/sup><\/strong>– Bei Erfolg beende den Run.",
+        "text": "Widerstand hat +1 Stärke für jede Markierung des Runners.\n[Subroutine]<strong>Aufspüren<sup>4</sup></strong>– Bei Erfolg beende den Run.",
         "flavor": "„In der guten alten Zeit war ein ‚Widerstand‘ ein wichtiger Bestandteil von quasi allen elektronischen Geräten. Du weißt schon, damals, als es noch Dinosaurier auf der Erde gab.“ –Chaostheorie"
     },
     {
@@ -111,13 +111,13 @@
         "title": "TL;DR",
         "keywords": "Code-Zugang",
         "text": "[Subroutine] Wenn der Runner während dieses Runs auf das nächste Ice trifft , erhält dieses Ice für den Rest der Begegnung eine zweite Kopie jeder Subroutine darauf (jeweils nach der ursprünglichen Subroutine).",
-        "flavor": "\/\/tl;dr Verdopple die Subs auf dem nächsten Ice"
+        "flavor": "//tl;dr Verdopple die Subs auf dem nächsten Ice"
     },
     {
         "code": "09018",
         "title": "Mautstraße",
         "keywords": "Wächter - Spürhund",
-        "text": "Wenn der Runner auf Mautstraße trifft, verliert er 1[Credits]\n[Subroutine]<strong>Aufspüren<sup>5<\/sup><\/strong> – Verpasse dem Runner bei Erfolg 1 Markierung.",
+        "text": "Wenn der Runner auf Mautstraße trifft, verliert er 1[Credits]\n[Subroutine]<strong>Aufspüren<sup>5</sup></strong> – Verpasse dem Runner bei Erfolg 1 Markierung.",
         "flavor": "„Vermeide die Überholspuren! Falls es dir nur um Geschwindigkeit geht, bist du quasi schon markiert und auf dem besten Weg dazu, massakriert zu werden.“ –g00ru"
     },
     {
@@ -129,13 +129,13 @@
     {
         "code": "09020",
         "title": "Anzeigenkampagne",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [Click].\nInstalliere und lade (und bezahle die Kosten dafür) X <strong>Werbung<\/strong>-Karten aus dem Archiv und\/oder dem HQ, falls möglich."
+        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [Click].\nInstalliere und lade (und bezahle die Kosten dafür) X <strong>Werbung</strong>-Karten aus dem Archiv und/oder dem HQ, falls möglich."
     },
     {
         "code": "09021",
         "title": "Medienkampagne",
         "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell<\/strong>-Karte gespielt oder eine Agenda gestohlen wird.\nWähle eine Agenda in der Punktezone des Runners. Medienkampagne erhält den Text dieser Agenda."
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nWähle eine Agenda in der Punktezone des Runners. Medienkampagne erhält den Text dieser Agenda."
     },
     {
         "code": "09022",
@@ -147,20 +147,20 @@
         "code": "09023",
         "title": "Überwachungsdurchlauf",
         "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell<\/strong>-Karte gespielt oder eine Agenda gestohlen wird.\nDer Runner muss die Credits für jeden Aufspüren während eines Runs zuerst ausgeben."
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nDer Runner muss die Credits für jeden Aufspüren während eines Runs zuerst ausgeben."
     },
     {
         "code": "09024",
         "title": "Keegan Lane",
         "keywords": "Sysop",
-        "text": "[Trash], <strong>entferne 1 Markierung<\/strong>: Zerstöre 1 Programm. Verwende diese Fähigkeit nur während eines Runs auf dieses System",
+        "text": "[Trash], <strong>entferne 1 Markierung</strong>: Zerstöre 1 Programm. Verwende diese Fähigkeit nur während eines Runs auf dieses System",
         "flavor": "\"Wir verwenden Ice in unseren Systemen. Auch mehr Runner sollten ihre Ausrüstung mit Ice schützen.“"
     },
     {
         "code": "09025",
         "title": "Netz von Rutherford",
         "keywords": "Region",
-        "text": "Die Grundaufspürstärke wird bei jedem Aufspüren während eines Runs auf dieses System um 2 erhöht.\nMaximal 1 <strong>Region<\/strong> pro System.",
+        "text": "Die Grundaufspürstärke wird bei jedem Aufspüren während eines Runs auf dieses System um 2 erhöht.\nMaximal 1 <strong>Region</strong> pro System.",
         "flavor": "Die Couch-Potatos vor ihrem Trid stellen sich ganz New Angeles immer wie den Rutherford-Distrikt vor, egal von welcher Welt aus sie zuschauen."
     },
     {
@@ -180,14 +180,14 @@
         "code": "09028",
         "title": "Assassine",
         "keywords": "Wächter - Zerstörer - AP - Spürhund",
-        "text": "[Subroutine] <strong>Aufspüren<sup>5<\/sup><\/strong>– Bei Erfolg verursache 3 Netz-Schaden.[Subroutine] <strong>Aufspüren<sup>4<\/sup><\/strong>– Bei Erfolg zerstöre 1 Programm.",
+        "text": "[Subroutine] <strong>Aufspüren<sup>5</sup></strong>– Bei Erfolg verursache 3 Netz-Schaden.[Subroutine] <strong>Aufspüren<sup>4</sup></strong>– Bei Erfolg zerstöre 1 Programm.",
         "flavor": "Die Abprallrate ist ein allgemein verständliches Maß für die Stärke eines Ice. Aber es gibt auch andere Möglichkeiten sie zu messen."
     },
     {
         "code": "09029",
         "title": "Apex: Invasiver Räuber",
         "keywords": "Digital",
-        "text": "Du kannst keine nicht-<strong>virtuellen<\/strong> Ressourcen installieren.\nWenn dein Zug beginnt, kannst du 1 Karte aus deinem Griff verdeckt installieren."
+        "text": "Du kannst keine nicht-<strong>virtuellen</strong> Ressourcen installieren.\nWenn dein Zug beginnt, kannst du 1 Karte aus deinem Griff verdeckt installieren."
     },
     {
         "code": "09030",
@@ -204,14 +204,14 @@
         "code": "09032",
         "title": "Herzschlag",
         "keywords": "Konsole",
-        "text": "+1[Memory Unit]\n<strong>Zerstöre eine installierte Karte:<\/strong> Verhindere 1 Schaden.\nNur 1 <strong>Konsole<\/strong> pro Spieler.",
+        "text": "+1[Memory Unit]\n<strong>Zerstöre eine installierte Karte:</strong> Verhindere 1 Schaden.\nNur 1 <strong>Konsole</strong> pro Spieler.",
         "flavor": "\"Mittlerweile nahm das höllische Pochen seines Herzens immer mehr zu. Es wurde jeden Augenblick schneller und schneller, lauter und lauter.“ –Edgar Allan Poe"
     },
     {
         "code": "09033",
         "title": "Unstillbarer Hunger",
         "keywords": "Ice-Brecher",
-        "text": "<strong>Zerstöre eine installierte Karte<\/strong>: Schalte eine „[Subroutine] Beende den Run.“ Subroutine aus.",
+        "text": "<strong>Zerstöre eine installierte Karte</strong>: Schalte eine „[Subroutine] Beende den Run.“ Subroutine aus.",
         "flavor": "„Ich habe die Aktivität dieser Anomalie entlang der Hauptleitungen von New Angeles Pacifica und Andea und der damit verknüpften Knoten überwacht. Ich konnte noch kein vorhersehbares Muster ausmachen oder gar eine Theorie über die Natur dieser Anomalie erstellen.“ –Joséo Greene, SYNC-Analytiker"
     },
     {
@@ -237,7 +237,7 @@
         "code": "09037",
         "title": "Adam: Zwanghafter Hacker",
         "keywords": "Bioroid",
-        "text": "Du beginnst das Spiel mit 3 verschiedenen installierten <strong>Direktive<\/strong>-Karten (Diese Karten gelten nicht als Teil deines Decks)."
+        "text": "Du beginnst das Spiel mit 3 verschiedenen installierten <strong>Direktive</strong>-Karten (Diese Karten gelten nicht als Teil deines Decks)."
     },
     {
         "code": "09038",
@@ -249,7 +249,7 @@
         "code": "09039",
         "title": "Hirnchip",
         "keywords": "Konsole",
-        "text": "+X[Memory Unit]\nDein Handkartenlimit wird um X erhöht.\nX ist die Anzahl deiner Agendapunkte.\nNur 1 <strong>Konsole<\/strong> pro Spieler."
+        "text": "+X[Memory Unit]\nDein Handkartenlimit wird um X erhöht.\nX ist die Anzahl deiner Agendapunkte.\nNur 1 <strong>Konsole</strong> pro Spieler."
     },
     {
         "code": "09040",
@@ -261,7 +261,7 @@
         "code": "09041",
         "title": "Immer am Laufen",
         "keywords": "Direktive - Virtuell",
-        "text": "Dein erster ausgegebener [Click] in jedem Zug muss dafür verwendet werden, einen Run durchzuführen oder ein <strong>Run<\/strong>-Ereignis zu spielen.\nEinmal pro Zug kannst du [Click] [Click] ausgeben, um eine Subroutine auf einem Ice, auf das du gerade triffst, auszuschalten.",
+        "text": "Dein erster ausgegebener [Click] in jedem Zug muss dafür verwendet werden, einen Run durchzuführen oder ein <strong>Run</strong>-Ereignis zu spielen.\nEinmal pro Zug kannst du [Click] [Click] ausgeben, um eine Subroutine auf einem Ice, auf das du gerade triffst, auszuschalten.",
         "flavor": "Die Zweite Direktive fordert von einem Bioroiden, seiner Primärfunktion höhere Priorität einzuräumen als allem anderen, mit Ausnahme der Ersten Direktive."
     },
     {
@@ -295,34 +295,34 @@
         "code": "09046",
         "title": "Sicherheitschip",
         "keywords": "Chip",
-        "text": "[Trash]Wähle einen <strong>Ice-Brecher<\/strong> (oder eine beliebige Anzahl <strong>Cloud Ice-Brecher<\/strong>). Jeder ausgewählte <strong>Ice-Brecher<\/strong> hat für den Rest dieses Runs +1 Stärke für jede[Link], die du hast. Verwende diese Fähigkeit nur während eines Runs.",
+        "text": "[Trash]Wähle einen <strong>Ice-Brecher</strong> (oder eine beliebige Anzahl <strong>Cloud Ice-Brecher</strong>). Jeder ausgewählte <strong>Ice-Brecher</strong> hat für den Rest dieses Runs +1 Stärke für jede[Link], die du hast. Verwende diese Fähigkeit nur während eines Runs.",
         "flavor": "Glücklicherweise ordert Globalsec sie gleich kistenweise."
     },
     {
         "code": "09047",
         "title": "Sicherheits-Nexus",
         "keywords": "Konsole",
-        "text": "+1[Memory Unit] +1[Link]\nEinmal pro Zug kannst du, wenn du auf ein Ice triffst, den Kon zwingen, folgendes anzuwenden: „<strong>Aufspüren<sup>5<\/sup><\/strong>– Bei Erfolg verpasse dem Runner 1 Markierung und beende den Run. Bei Misserfolg umgeht der Runner das Ice, auf das er gerade trifft.“\nNur 1 <strong>Konsole<\/strong> pro Spieler."
+        "text": "+1[Memory Unit] +1[Link]\nEinmal pro Zug kannst du, wenn du auf ein Ice triffst, den Kon zwingen, folgendes anzuwenden: „<strong>Aufspüren<sup>5</sup></strong>– Bei Erfolg verpasse dem Runner 1 Markierung und beende den Run. Bei Misserfolg umgeht der Runner das Ice, auf das er gerade trifft.“\nNur 1 <strong>Konsole</strong> pro Spieler."
     },
     {
         "code": "09048",
         "title": "GS Striker M1",
         "keywords": "Ice-Brecher - Decoder - Cloud",
-        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von GS Striker M1 0,selbst wenn er nicht installiert ist.\n2[Credits]: Schalte eine beliebige Anzahl von Subroutinen eines <strong>Code-Zugangs<\/strong> aus.\n2[Credits]: +3 Stärke.",
+        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von GS Striker M1 0,selbst wenn er nicht installiert ist.\n2[Credits]: Schalte eine beliebige Anzahl von Subroutinen eines <strong>Code-Zugangs</strong> aus.\n2[Credits]: +3 Stärke.",
         "flavor": "Größer."
     },
     {
         "code": "09049",
         "title": "GS Shrike M2",
         "keywords": "Ice-Brecher - Killer - Cloud",
-        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von GS Shrike M2 0,selbst wenn er nicht installiert ist.\n2[Credits]: Schalte eine beliebige Anzahl von Subroutinen auf einem <strong>Wächter<\/strong> aus.\n2[Credits]: +3 Stärke.",
+        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von GS Shrike M2 0,selbst wenn er nicht installiert ist.\n2[Credits]: Schalte eine beliebige Anzahl von Subroutinen auf einem <strong>Wächter</strong> aus.\n2[Credits]: +3 Stärke.",
         "flavor": "Schlimmer."
     },
     {
         "code": "09050",
         "title": "GS Sherman M3",
         "keywords": "Ice-Brecher - Fracter - Cloud",
-        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von GS Sherman M3 0,selbst wenn er nicht installiert ist.\n2[Credits}: Schalte eine beliebige Anzahl Subroutinen einer <strong>Barriere<\/strong> aus.\n2[Credits]: +3 Stärke.",
+        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von GS Sherman M3 0,selbst wenn er nicht installiert ist.\n2[Credits}: Schalte eine beliebige Anzahl Subroutinen einer <strong>Barriere</strong> aus.\n2[Credits]: +3 Stärke.",
         "flavor": "Bumm."
     },
     {
@@ -343,7 +343,7 @@
         "code": "09053",
         "title": "Streik",
         "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell<\/strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nDie Textbox der Identität des Kons ist leer.",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nDie Textbox der Identität des Kons ist leer.",
         "flavor": "„Bist du irre? Wir können so lange keine PriSec reinschicken bis es den Medien zu dumm wird und sie abziehen.“"
     },
     {

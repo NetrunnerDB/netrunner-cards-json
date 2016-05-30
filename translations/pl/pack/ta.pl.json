@@ -9,7 +9,7 @@
     {
         "code": "02022",
         "title": "Uwolnione konto",
-        "text": "Gdy instalujesz Uwolnione konto, połóż na nim 16[Credits]. Skasuj Uwolnione konto, gdy nie ma na nim kredytów.\r\n[Click]: Weź 4[Credits] z Uwolnionego konta.",
+        "text": "Gdy instalujesz Uwolnione konto, połóż na nim 16[Credits]. Skasuj Uwolnione konto, gdy nie ma na nim kredytów.\n[Click]: Weź 4[Credits] z Uwolnionego konta.",
         "flavor": "Łatwiej wydawać cudze pieniądze."
     },
     {
@@ -29,19 +29,19 @@
         "code": "02025",
         "title": "Szantażowany pracownik",
         "keywords": "Kontakt - Połączenie",
-        "text": "1[Recurring Credits]\r\nUżyj tego kredytu podczas namierzania.\r\nPobierasz 1[Credits] zawsze gdy korp rezuje lód."
+        "text": "1[Recurring Credits]\nUżyj tego kredytu podczas namierzania.\nPobierasz 1[Credits] zawsze gdy korp rezuje lód."
     },
     {
         "code": "02026",
         "title": "Rozgłos",
-        "text": "Zagraj tylko, jeśli przeprowadziłeś w tej turze udany skok na R&D, HQ, i Archiwa.\r\nDodaj Rozgłos do swojego obszaru punktowania jako projekt warty 1 punkt projektu.",
+        "text": "Zagraj tylko, jeśli przeprowadziłeś w tej turze udany skok na R&D, HQ, i Archiwa.\nDodaj Rozgłos do swojego obszaru punktowania jako projekt warty 1 punkt projektu.",
         "flavor": "Gdy jesteś aż tak dobry, ciężko nie przyciągać grona fanów."
     },
     {
         "code": "02027",
         "title": "Śnieżka",
         "keywords": "Lodołamacz - Młot",
-        "text": "1[Credits]: Złam podprogram <strong>bariery<\/strong>.\r\n1[Credits]: +1 siły.\r\nZawsze gdy użyjesz Śnieżki do złamania podprogramu, do końca skoku ma ona +1 siły.",
+        "text": "1[Credits]: Złam podprogram <strong>bariery</strong>.\n1[Credits]: +1 siły.\nZawsze gdy użyjesz Śnieżki do złamania podprogramu, do końca skoku ma ona +1 siły.",
         "flavor": "\"Jeśli śnieżka stanie się duża, możesz z niej zrobić bałwana!\" - Teoria Chaosu"
     },
     {
@@ -61,7 +61,7 @@
         "code": "02030",
         "title": "Sherlock 1.0",
         "keywords": "Strażnik - Bioroid - Tropiciel",
-        "text": "Runner może wydać [Click], aby złamać dowolny podprogram Sherlocka 1.0.\r\n[Subroutine] <strong>Trace<sup>4<\/sup><\/strong>&ndash; Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.\r\n[Subroutine] <strong>Trace<sup>4<\/sup><\/strong>&ndash; Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera."
+        "text": "Runner może wydać [Click], aby złamać dowolny podprogram Sherlocka 1.0.\n[Subroutine] <strong>Trace<sup>4</sup></strong>&ndash; Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.\n[Subroutine] <strong>Trace<sup>4</sup></strong>&ndash; Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera."
     },
     {
         "code": "02031",
@@ -73,7 +73,7 @@
         "code": "02032",
         "title": "Embrionalna AI",
         "keywords": "Zasadzka",
-        "text": "Runner musi odsłonić Embrionalną AI, jeśli uzyska do niej dostęp z R&D.\r\nGdy runner uzyska dostęp do Embrionalnej AI, zadaj 2 obrażenia sprzętu. Zignoruj tę zdolność, jeśli runner uzyska dostęp do Embrionalnej AI z Archiwów.\r\nAby wykraść Embrionalną AI, runner musi zapłacić dodatkowy koszt wynoszący 2[Credits]."
+        "text": "Runner musi odsłonić Embrionalną AI, jeśli uzyska do niej dostęp z R&D.\nGdy runner uzyska dostęp do Embrionalnej AI, zadaj 2 obrażenia sprzętu. Zignoruj tę zdolność, jeśli runner uzyska dostęp do Embrionalnej AI z Archiwów.\nAby wykraść Embrionalną AI, runner musi zapłacić dodatkowy koszt wynoszący 2[Credits]."
     },
     {
         "code": "02033",
@@ -92,37 +92,37 @@
         "code": "02035",
         "title": "Wielki brat",
         "keywords": "Szara operacja",
-        "text": "Zagraj tylko, jeśli runner jest otagowany.\r\nDaj runnerowi 2 tagi.",
+        "text": "Zagraj tylko, jeśli runner jest otagowany.\nDaj runnerowi 2 tagi.",
         "flavor": "Dba o twoje interesy od roku 1984."
     },
     {
         "code": "02036",
         "title": "Sieć miejska ChiLo",
         "keywords": "Region",
-        "text": "Zawsze gdy namierzanie podczas skoku na ten serwer jest udane, daj runnerowi 1 tag.\r\nLimit 1 <strong>regionu<\/strong> na serwer.",
+        "text": "Zawsze gdy namierzanie podczas skoku na ten serwer jest udane, daj runnerowi 1 tag.\nLimit 1 <strong>regionu</strong> na serwer.",
         "flavor": "Klony szepczą, że ChiLo to wolna ziemia obiecana."
     },
     {
         "code": "02037",
         "title": "Przeciążenie sieci energetycznej",
-        "text": "Zagraj tylko jeśli w swojej ostatniej turze runner przeprowadził udany skok.\r\n<strong>Trace<sup>2<\/sup><\/strong>&ndash; Jeśli udane, skasuj 1 sprzęt o koszcie instalacji mniejszym bądź równym różnicy siły namierzania i siły połączenia."
+        "text": "Zagraj tylko jeśli w swojej ostatniej turze runner przeprowadził udany skok.\n<strong>Trace<sup>2</sup></strong>&ndash; Jeśli udane, skasuj 1 sprzęt o koszcie instalacji mniejszym bądź równym różnicy siły namierzania i siły połączenia."
     },
     {
         "code": "02038",
         "title": "Amazońska strefa przemysłowa",
         "keywords": "Region",
-        "text": "Zawsze gdy instalujesz lód chroniący ten serwer, możesz go natychmiast zrezować, obniżając jego koszt zrezowania o 3.\r\nLimit 1 <strong>regionu<\/strong> na serwer."
+        "text": "Zawsze gdy instalujesz lód chroniący ten serwer, możesz go natychmiast zrezować, obniżając jego koszt zrezowania o 3.\nLimit 1 <strong>regionu</strong> na serwer."
     },
     {
         "code": "02039",
         "title": "Wypoczynek dla kierownictwa",
-        "text": "Gdy zapunktujesz Wypoczynek dla kierownictwa, połóż na nim 1 znacznik projektu i wtasuj HQ do R&D.\r\n[Click], <strong>hostowany znacznik projektu<\/strong>: Dobierz 5 kart."
+        "text": "Gdy zapunktujesz Wypoczynek dla kierownictwa, połóż na nim 1 znacznik projektu i wtasuj HQ do R&D.\n[Click], <strong>hostowany znacznik projektu</strong>: Dobierz 5 kart."
     },
     {
         "code": "02040",
         "title": "Wolny strzelec",
         "keywords": "Szara operacja",
-        "text": "Zagraj tylko, jeśli runner jest otagowany.\r\nSkasuj do 2 zasobów.",
+        "text": "Zagraj tylko, jeśli runner jest otagowany.\nSkasuj do 2 zasobów.",
         "flavor": "Bez kontraktu. Tylko uścisk dłoni i garść budowlanego C-6."
     }
 ]

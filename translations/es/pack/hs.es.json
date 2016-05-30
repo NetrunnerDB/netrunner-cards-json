@@ -2,7 +2,7 @@
     {
         "code": "02081",
         "title": "Aumento Repentino",
-        "text": "Juega esta carta sólo si has colocado al menos 1 contador de virus sobre un programa este turno.\r\nColoca 2 contadores de virus sobre ese programa.",
+        "text": "Juega esta carta sólo si has colocado al menos 1 contador de virus sobre un programa este turno.\nColoca 2 contadores de virus sobre ese programa.",
         "flavor": "Debes gritar \"subidón\" para obtener el efecto completo."
     },
     {
@@ -35,7 +35,7 @@
         "code": "02086",
         "title": "Feromonas",
         "keywords": "Virus",
-        "text": "X[Recurring Credits]\r\nUsa estos créditos durante incursiones contra la SC. X es la cantidad de contadores de virus que hay sobre Feromonas.\r\nSiempre que realices una incursión con éxito contra la SC, coloca 1 contador de virus sobre Feromonas."
+        "text": "X[Recurring Credits]\nUsa estos créditos durante incursiones contra la SC. X es la cantidad de contadores de virus que hay sobre Feromonas.\nSiempre que realices una incursión con éxito contra la SC, coloca 1 contador de virus sobre Feromonas."
     },
     {
         "code": "02087",
@@ -53,27 +53,27 @@
         "code": "02089",
         "title": "Trepadora",
         "keywords": "Rompehielos - Asesino - Nube",
-        "text": "Si tienes al menos 2[Link], el coste de memoria de Trepadora es 0, incluso si no está instalada.\r\n2[Credits]: Rompe una subrutina <strong>centinela<\/strong>.\r\n1[Credits]: +1 punto de fuerza.",
+        "text": "Si tienes al menos 2[Link], el coste de memoria de Trepadora es 0, incluso si no está instalada.\n2[Credits]: Rompe una subrutina <strong>centinela</strong>.\n1[Credits]: +1 punto de fuerza.",
         "flavor": "\"La arañita mordedora subió por el tronco de datos...\" - Teoría del Caos"
     },
     {
         "code": "02090",
         "title": "Kraken",
-        "text": "Juega esta carta sólo si has robado un plan en este turno.\r\nElige un servidor. La Corporación destruye 1 hielo que proteja ese servidor.",
+        "text": "Juega esta carta sólo si has robado un plan en este turno.\nElige un servidor. La Corporación destruye 1 hielo que proteja ese servidor.",
         "flavor": "Las primeras permutaciones del kraken demostraron ser insaciables devoradores de hielo. No ha cambiado mucho."
     },
     {
         "code": "02091",
         "title": "Kati Jones",
         "keywords": "Contacto",
-        "text": "No puedes usar Kati Jones más de una vez por turno.\r\n[Click]: Coloca 3[Credits] del banco sobre Kati Jones.\r\n[Click]: Coge todos los créditos de Kati Jones. ",
+        "text": "No puedes usar Kati Jones más de una vez por turno.\n[Click]: Coloca 3[Credits] del banco sobre Kati Jones.\n[Click]: Coge todos los créditos de Kati Jones. ",
         "flavor": "\"No eres el único tipo de runner de Nueva Ángeles.\""
     },
     {
         "code": "02092",
         "title": "Campaña De Eve",
         "keywords": "Anuncio",
-        "text": "Coloca 16[Credits] del banco sobre Campaña De Eve cuando la instales. Cuando no queden créditos en Campaña De Eve, destrúyela.\r\nCuando comience tu turno, coge 2[Credits] de Campaña De Eve."
+        "text": "Coloca 16[Credits] del banco sobre Campaña De Eve cuando la instales. Cuando no queden créditos en Campaña De Eve, destrúyela.\nCuando comience tu turno, coge 2[Credits] de Campaña De Eve."
     },
     {
         "code": "02093",
@@ -92,41 +92,41 @@
         "code": "02095",
         "title": "Red De Hokuksai",
         "keywords": "Región",
-        "text": "Siempre que haya una incursión con éxito contra este servidor, inflige 1 punto de daño de red.Límite de 1 <strong>región<\/strong> por servidor.",
+        "text": "Siempre que haya una incursión con éxito contra este servidor, inflige 1 punto de daño de red.Límite de 1 <strong>región</strong> por servidor.",
         "flavor": "A pesar de su aspecto, la Red de Hokusai es el complejo de investigación de peor fama de Jinteki."
     },
     {
         "code": "02096",
         "title": "Sabueso De Datos",
         "keywords": "Centinela - Rastreador - Observador",
-        "text": "[Subroutine] <strong>Rastreo<sup>2<\/sup><\/strong>: Si tiene éxito, mira una cantidad de cartas de la parte superior del Montón del Runner igual a la cantidad en la que tu fuerza de rastreo superaba su fuerza de enlace. Destruye 1 de esas cartas y coloca el resto en cualquier orden. ",
+        "text": "[Subroutine] <strong>Rastreo<sup>2</sup></strong>: Si tiene éxito, mira una cantidad de cartas de la parte superior del Montón del Runner igual a la cantidad en la que tu fuerza de rastreo superaba su fuerza de enlace. Destruye 1 de esas cartas y coloca el resto en cualquier orden. ",
         "flavor": "Sniff."
     },
     {
         "code": "02097",
         "title": "Bernice Mai",
         "keywords": "Sysop",
-        "text": "Siempre que haya una incursión con éxito contra este servidor, <strong>Rastreo<sup>5<\/sup><\/strong>: si tiene éxito, dale 1 marca al Runner. Si no tien éxito, destruye a Bernice Mai.",
+        "text": "Siempre que haya una incursión con éxito contra este servidor, <strong>Rastreo<sup>5</sup></strong>: si tiene éxito, dale 1 marca al Runner. Si no tien éxito, destruye a Bernice Mai.",
         "flavor": "Siguiéndole el rastro al mundo, pantalla a pantalla."
     },
     {
         "code": "02098",
         "title": "Chatarra",
         "keywords": "Puerta De Código - Rastreador",
-        "text": "Chatarra puede ser avanzada sólo mientras y esté ejecutada y gana: \"[Subroutine] <strong>Rastreo<sup>2<\/sup><\/strong>: Si tiene éxito, dale 1 marca al Runner.\" por cada ficha de Avance que tenga.",
+        "text": "Chatarra puede ser avanzada sólo mientras y esté ejecutada y gana: \"[Subroutine] <strong>Rastreo<sup>2</sup></strong>: Si tiene éxito, dale 1 marca al Runner.\" por cada ficha de Avance que tenga.",
         "flavor": "Ya no estás en Kansas."
     },
     {
         "code": "02099",
         "title": "Simone Diego",
         "keywords": "Sysop",
-        "text": "2[Recurring Credits]\r\nUsa estos créditos para avanzar cartas de este servidor o que lo protejan.",
+        "text": "2[Recurring Credits]\nUsa estos créditos para avanzar cartas de este servidor o que lo protejan.",
         "flavor": "\"Un trabajo que sólo hay que hacer una vez es un trabajo bien hecho.\""
     },
     {
         "code": "02100",
         "title": "Bioluminiscencia",
-        "text": "<strong>Rastreo<sup>7<\/sup><\/strong>: Si tiene éxito, destruye 1 recurso <strong>virtual<\/strong> o 1 <strong>enlace<\/strong>.",
+        "text": "<strong>Rastreo<sup>7</sup></strong>: Si tiene éxito, destruye 1 recurso <strong>virtual</strong> o 1 <strong>enlace</strong>.",
         "flavor": "\"Es como un anagrama.\" - diseñador Fénix"
     }
 ]

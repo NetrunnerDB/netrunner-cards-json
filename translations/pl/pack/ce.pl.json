@@ -3,7 +3,7 @@
         "code": "02041",
         "title": "Środek paraliżujący",
         "keywords": "Wirus",
-        "text": "Zawsze gdy przeprowadzisz udany skok na HQ, połóż 1 znacznik wirusa na Środku paraliżującym.\r\nKażdy znacznik wirusa na Środku paraliżującym powyżej pierwszego, pozwala ci uzyskać dostęp do 1 dodatkowej karty z HQ, zawsze gdy uzyskujesz dostęp do kart z HQ."
+        "text": "Zawsze gdy przeprowadzisz udany skok na HQ, połóż 1 znacznik wirusa na Środku paraliżującym.\nKażdy znacznik wirusa na Środku paraliżującym powyżej pierwszego, pozwala ci uzyskać dostęp do 1 dodatkowej karty z HQ, zawsze gdy uzyskujesz dostęp do kart z HQ."
     },
     {
         "code": "02042",
@@ -16,7 +16,7 @@
         "code": "02043",
         "title": "Awaryjne wyłączenie",
         "keywords": "Sabotaż",
-        "text": "Zagraj tylko, jeśli w tej turze przeprowadziłeś udany skok na HQ.\r\nOdrezuj 1 lód.",
+        "text": "Zagraj tylko, jeśli w tej turze przeprowadziłeś udany skok na HQ.\nOdrezuj 1 lód.",
         "flavor": "\"Traktuj to jak wirtualną elektryczną obrożę do karania korporacyjnych piesków.\" - Andromeda"
     },
     {
@@ -48,13 +48,13 @@
         "code": "02048",
         "title": "Dinosaurus",
         "keywords": "Konsola",
-        "text": "Dinosaurus może hostować 1 <strong>lodołamacz<\/strong>, za wyjątkiem <strong>AI<\/strong>. Wymagania pamięciowe hostowanego <strong>lodołamacza<\/strong> nie wliczają się do twojego limitu pamięci.\r\nHostowany <strong>lodołamacz<\/strong> ma +2 siły.\r\nLimit 1 <strong>konsoli<\/strong> na gracza."
+        "text": "Dinosaurus może hostować 1 <strong>lodołamacz</strong>, za wyjątkiem <strong>AI</strong>. Wymagania pamięciowe hostowanego <strong>lodołamacza</strong> nie wliczają się do twojego limitu pamięci.\nHostowany <strong>lodołamacz</strong> ma +2 siły.\nLimit 1 <strong>konsoli</strong> na gracza."
     },
     {
         "code": "02049",
         "title": "Prywatny Warsztat",
         "keywords": "Miejsce",
-        "text": "[Click]: Hostuj program lub sprzęt ze swojej garści na Prywatnym warsztacie i połóż na nim znaczniki zasilania w liczbie równej jego kosztowi instalacji.\r\n1[Credits]: Usuń 1 znacznik zasilania z hostowanej karty.\r\nGdy zaczynasz turę, usuń 1 znacznik zasilania z hostowanej karty.\r\nGdy na hostowanej karcie nie ma już znaczników zasilania, zainstaluj ją, ignorując wszystkie koszty."
+        "text": "[Click]: Hostuj program lub sprzęt ze swojej garści na Prywatnym warsztacie i połóż na nim znaczniki zasilania w liczbie równej jego kosztowi instalacji.\n1[Credits]: Usuń 1 znacznik zasilania z hostowanej karty.\nGdy zaczynasz turę, usuń 1 znacznik zasilania z hostowanej karty.\nGdy na hostowanej karcie nie ma już znaczników zasilania, zainstaluj ją, ignorując wszystkie koszty."
     },
     {
         "code": "02050",
@@ -66,13 +66,13 @@
         "code": "02051",
         "title": "Projekt Witruwiusz",
         "keywords": "Badania",
-        "text": "Gdy zapunktujesz Projekt Witruwiusz, połóż na nim 1 znacznik projektu za każdy leżący na nim żeton zaawansowania powyżej 3.\r\n<strong>Hostowany znacznik projektu<\/strong>: Dodaj 1 kartę z Archiwów do HQ."
+        "text": "Gdy zapunktujesz Projekt Witruwiusz, połóż na nim 1 znacznik projektu za każdy leżący na nim żeton zaawansowania powyżej 3.\n<strong>Hostowany znacznik projektu</strong>: Dodaj 1 kartę z Archiwów do HQ."
     },
     {
         "code": "02052",
         "title": "Żmija",
         "keywords": "Brama kodowa - Tropiciel",
-        "text": "[Subroutine] <strong>Trace<sup>3<\/sup><\/strong>&ndash; Jeśli udane, runner traci [Click], jeśli może.\r\n[Subroutine] <strong>Trace<sup>3<\/sup><\/strong>&ndash; Jeśli udane, zakończ skok.",
+        "text": "[Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; Jeśli udane, runner traci [Click], jeśli może.\n[Subroutine] <strong>Trace<sup>3</sup></strong>&ndash; Jeśli udane, zakończ skok.",
         "flavor": "Nie Depcz Mnie"
     },
     {
@@ -91,13 +91,13 @@
         "code": "02055",
         "title": "Oznaczone konto",
         "keywords": "Transakcja",
-        "text": "Gdy zaczynasz turę, weź 1[Credits] z Oznaczonego konta, jeśli to możliwe.\r\n[Click]: Połóż 3[Credits] z banku na Oznaczonym koncie."
+        "text": "Gdy zaczynasz turę, weź 1[Credits] z Oznaczonego konta, jeśli to możliwe.\n[Click]: Połóż 3[Credits] z banku na Oznaczonym koncie."
     },
     {
         "code": "02056",
         "title": "Wyskakujące okienko",
         "keywords": "Brama kodowa - Reklama",
-        "text": "Gdy runner spotyka Wyskakujące okienko, pobierz 1[Credits].\r\n[Subroutine] Zakończ skok, jeśli runner nie zapłaci 1[Credits].",
+        "text": "Gdy runner spotyka Wyskakujące okienko, pobierz 1[Credits].\n[Subroutine] Zakończ skok, jeśli runner nie zapłaci 1[Credits].",
         "flavor": "\"Spróbuj je zamknąć. Śmiało. Zobacz, co zrobi.\" - Teoria Chaosu"
     },
     {
@@ -118,13 +118,13 @@
         "code": "02059",
         "title": "Prywatne kontrakty",
         "keywords": "Transakcja",
-        "text": "Gdy rezujesz Prywatne kontrakty, połóż na nich 14[Credits] z banku. Skasuj Prywatne kontrakty, gdy nie ma już na nich kredytów.\r\n[Click]: Weź 2[Credits] z Prywatnych kontraktów."
+        "text": "Gdy rezujesz Prywatne kontrakty, połóż na nich 14[Credits] z banku. Skasuj Prywatne kontrakty, gdy nie ma już na nich kredytów.\n[Click]: Weź 2[Credits] z Prywatnych kontraktów."
     },
     {
         "code": "02060",
         "title": "Chimera",
         "keywords": "Mityczny",
-        "text": "Gdy rezujesz chimerę, wybierz <strong>strażnika<\/strong>, <strong>bramę kodową<\/strong> lub <strong>barierę<\/strong>. Chimera zyskuje taki podrodzaj aż do odrezowania.\r\nOdrezuj Chimerę, gdy kończy się tura.\r\n[Subroutine] Zakończ skok.",
+        "text": "Gdy rezujesz chimerę, wybierz <strong>strażnika</strong>, <strong>bramę kodową</strong> lub <strong>barierę</strong>. Chimera zyskuje taki podrodzaj aż do odrezowania.\nOdrezuj Chimerę, gdy kończy się tura.\n[Subroutine] Zakończ skok.",
         "flavor": "Trzy głowy. Jeden wielki ból głowy."
     }
 ]
