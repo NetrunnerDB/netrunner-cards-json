@@ -99,21 +99,21 @@
         "code": "02096",
         "title": "Ogar danych",
         "keywords": "Strażnik - Tropiciel - Obserwator",
-        "text": "[Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; Jeśli udane, obejrzyj karty z wierzchu stosu runnera w liczbie równej różnicy siły namierzania i siły połączenia. Skasuj 1 z tych kart, a resztę uporządkuj dowolnie.",
+        "text": "[Subroutine] <strong>Trace<sup>2</sup></strong>– Jeśli udane, obejrzyj karty z wierzchu stosu runnera w liczbie równej różnicy siły namierzania i siły połączenia. Skasuj 1 z tych kart, a resztę uporządkuj dowolnie.",
         "flavor": "Niuch."
     },
     {
         "code": "02097",
         "title": "Bernice Mai",
         "keywords": "Sysop",
-        "text": "Zawsze gdy skok na ten serwer jest udany, <strong>Trace<sup>5</sup></strong>&ndash; jeśli udane, daj runnerowi 1 tag. Jeśli nieudane, skasuj Bernice Mai.",
+        "text": "Zawsze gdy skok na ten serwer jest udany, <strong>Trace<sup>5</sup></strong>– jeśli udane, daj runnerowi 1 tag. Jeśli nieudane, skasuj Bernice Mai.",
         "flavor": "Mam świat na oku, ekran za ekranem."
     },
     {
         "code": "02098",
         "title": "Akcja ratunkowa",
         "keywords": "Brama kodowa - Tropiciel",
-        "text": "Zrezowana Akcja ratunkowa może być awansowana i zyskuje \"[Subroutine] <strong>Trace<sup>2</sup></strong>&ndash; Jeśli udane, daj runnerowi 1 tag.\" za każdy leżący na nim żeton zaawansowania.",
+        "text": "Zrezowana Akcja ratunkowa może być awansowana i zyskuje \"[Subroutine] <strong>Trace<sup>2</sup></strong>– Jeśli udane, daj runnerowi 1 tag.\" za każdy leżący na nim żeton zaawansowania.",
         "flavor": "Nie jesteś już w Kansas."
     },
     {
@@ -126,7 +126,7 @@
     {
         "code": "02100",
         "title": "Lisi ogień",
-        "text": "<strong>Trace<sup>7</sup></strong>&ndash; Jeśli udane, skasuj 1 zasoby <strong>wirtualne</strong> lub 1 <strong>połączenie</strong>.",
+        "text": "<strong>Trace<sup>7</sup></strong>– Jeśli udane, skasuj 1 zasoby <strong>wirtualne</strong> lub 1 <strong>połączenie</strong>.",
         "flavor": "\"To coś jakby anagram.\" - projektant Phoenix"
     }
 ]

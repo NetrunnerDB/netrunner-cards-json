@@ -136,7 +136,7 @@
         "position": 28,
         "quantity": 3,
         "side_code": "corp",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen. \nGain 1[Credits] whenever the Runner makes a successful run.",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nGain 1[Credits] whenever the Runner makes a successful run.",
         "title": "Paywall Implementation",
         "type_code": "operation",
         "uniqueness": false
@@ -243,7 +243,7 @@
         "position": 34,
         "quantity": 3,
         "side_code": "runner",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe first piece of ice encountered each turn has −2 strength for the remainder of the run.",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe first piece of ice encountered each turn has -2 strength for the remainder of the run.",
         "title": "Scrubbed",
         "type_code": "event",
         "uniqueness": false

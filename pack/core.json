@@ -139,7 +139,7 @@
         "position": 8,
         "quantity": 2,
         "side_code": "runner",
-        "text": "Whenever you make a successful run on a central server, place 1 virus counter on Datasucker.\n<strong>Hosted virus counter:</strong> Rezzed piece of ice currently being encountered has −1 strength until the end of the encounter.",
+        "text": "Whenever you make a successful run on a central server, place 1 virus counter on Datasucker.\n<strong>Hosted virus counter:</strong> Rezzed piece of ice currently being encountered has -1 strength until the end of the encounter.",
         "title": "Datasucker",
         "type_code": "program",
         "uniqueness": false
@@ -214,7 +214,7 @@
         "position": 12,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Install Parasite only on a rezzed piece of ice.\nHost ice has −1 strength for each virus counter on Parasite and is trashed if its strength is 0 or less.\nWhen your turn begins, place 1 virus counter on Parasite.",
+        "text": "Install Parasite only on a rezzed piece of ice.\nHost ice has -1 strength for each virus counter on Parasite and is trashed if its strength is 0 or less.\nWhen your turn begins, place 1 virus counter on Parasite.",
         "title": "Parasite",
         "type_code": "program",
         "uniqueness": false
@@ -234,7 +234,7 @@
         "quantity": 2,
         "side_code": "runner",
         "strength": 1,
-        "text": "3[Credits]: Break ice subroutine on a piece of ice with 0 or less strength.\n1[Credits]: Ice has −1 strength.\n1[Credits]: +1 strength.",
+        "text": "3[Credits]: Break ice subroutine on a piece of ice with 0 or less strength.\n1[Credits]: Ice has -1 strength.\n1[Credits]: +1 strength.",
         "title": "Wyrm",
         "type_code": "program",
         "uniqueness": false

@@ -733,7 +733,7 @@
         "title": "Jäger",
         "keywords": "Wächter - Spürhund - Beobachter",
         "text": "[Subroutine] <strong>Aufspüren<sup>3</sup></strong> - Bei Erfolg verpasse dem Runner 1 Markierung.",
-        "flavor": ".//run/hunter-tr/return=true\nclient/sec256IPv7-&gt;confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR"
+        "flavor": ".//run/hunter-tr/return=true\nclient/sec256IPv7->confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR"
     },
     {
         "code": "01113",

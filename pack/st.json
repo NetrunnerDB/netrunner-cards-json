@@ -12,7 +12,7 @@
         "position": 21,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Host Bishop on a piece of ice not hosting a <strong>Caïssa</strong>. If already hosted, Bishop can be hosted only on ice protecting a central server if Bishop is on ice protecting a remote server, or on ice protecting a remote server if Bishop is on ice protecting a central server.\nHost ice has −2 strength.",
+        "text": "[Click]: Host Bishop on a piece of ice not hosting a <strong>Caïssa</strong>. If already hosted, Bishop can be hosted only on ice protecting a central server if Bishop is on ice protecting a remote server, or on ice protecting a remote server if Bishop is on ice protecting a central server.\nHost ice has -2 strength.",
         "title": "Bishop",
         "type_code": "program",
         "uniqueness": false
@@ -318,7 +318,7 @@
         "position": 38,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Install only in a remote server.\nThe Runner cannot initiate a run on this server. \nWhenever the Runner makes a successful run on HQ, trash Off the Grid.",
+        "text": "Install only in a remote server.\nThe Runner cannot initiate a run on this server.\nWhenever the Runner makes a successful run on HQ, trash Off the Grid.",
         "title": "Off the Grid",
         "trash_cost": 0,
         "type_code": "upgrade",
