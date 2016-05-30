@@ -234,7 +234,7 @@
         "position": 13,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Whenever there is a successful run on this server, <strong>trace<sup>4</sup></strong>\u2013 if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
+        "text": "Whenever there is a successful run on this server, <strong>trace<sup>4</sup></strong>– if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
         "title": "Ash 2X3ZB9CY",
         "trash_cost": 3,
         "type_code": "upgrade",
@@ -289,7 +289,7 @@
         "position": 16,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: <strong>Trace<sup>2</sup></strong>\u2013 If successful, give the Runner 1 tag.",
+        "text": "[Click]: <strong>Trace<sup>2</sup></strong>– If successful, give the Runner 1 tag.",
         "title": "Restructured Datapool",
         "type_code": "agenda",
         "uniqueness": false
@@ -308,7 +308,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "When you rez TMI, <strong>trace<sup>2</sup></strong>\u2013 if unsuccessful, derez TMI.\n[Subroutine] End the run.",
+        "text": "When you rez TMI, <strong>trace<sup>2</sup></strong>– if unsuccessful, derez TMI.\n[Subroutine] End the run.",
         "title": "TMI",
         "type_code": "ice",
         "uniqueness": false
@@ -344,7 +344,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[Subroutine] <strong>Trace<sup>3</sup></strong>\u2013 If successful, the Corp gains 3[Credits].\n[Subroutine] <strong>Trace<sup>2</sup></strong>\u2013 If successful, end the run.",
+        "text": "[Subroutine] <strong>Trace<sup>3</sup></strong>– If successful, the Corp gains 3[Credits].\n[Subroutine] <strong>Trace<sup>2</sup></strong>– If successful, end the run.",
         "title": "Caduceus",
         "type_code": "ice",
         "uniqueness": false
@@ -355,7 +355,7 @@
         "deck_limit": 3,
         "faction_code": "neutral",
         "faction_cost": 0,
-        "flavor": "Vict\u014ds dracon\u0113s numquam deride.",
+        "flavor": "Victōs draconēs numquam deride.",
         "illustrator": "Sandara Tang",
         "keywords": "Sentry - Tracer",
         "pack_code": "wla",
@@ -363,8 +363,8 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "When you rez Drac\u014d, you may pay X[Credits] to place X power counters on it.\nDrac\u014d has +1 strength for each power counter on it.\n[Subroutine] <strong>Trace<sup>2</sup></strong>\u2013 If successful, give the Runner 1 tag and end the run.",
-        "title": "Drac\u014d",
+        "text": "When you rez Dracō, you may pay X[Credits] to place X power counters on it.\nDracō has +1 strength for each power counter on it.\n[Subroutine] <strong>Trace<sup>2</sup></strong>– If successful, give the Runner 1 tag and end the run.",
+        "title": "Dracō",
         "type_code": "ice",
         "uniqueness": false
     }

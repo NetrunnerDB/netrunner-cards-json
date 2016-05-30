@@ -60,8 +60,15 @@
             "type": "string"
         },
         "influence_limit": {
-            "minimum": 0,
-            "type": "integer"
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "keywords": {
             "minLength": 1,

@@ -1,21 +1,9 @@
 [
     {
-        "code": "draft",
-        "name": "Draft",
-        "position": 0,
-        "size": 1
-    },
-    {
         "code": "core",
         "name": "Core Set",
         "position": 1,
         "size": 1
-    },
-    {
-        "code": "genesis",
-        "name": "Genesis",
-        "position": 2,
-        "size": 6
     },
     {
         "code": "creation-and-control",
@@ -24,9 +12,27 @@
         "size": 1
     },
     {
-        "code": "spin",
-        "name": "Spin",
-        "position": 4,
+        "code": "data-and-destiny",
+        "name": "Data and Destiny",
+        "position": 9,
+        "size": 1
+    },
+    {
+        "code": "draft",
+        "name": "Draft",
+        "position": 0,
+        "size": 1
+    },
+    {
+        "code": "flashpoint",
+        "name": "Flashpoint",
+        "position": 11,
+        "size": 6
+    },
+    {
+        "code": "genesis",
+        "name": "Genesis",
+        "position": 2,
         "size": 6
     },
     {
@@ -42,6 +48,12 @@
         "size": 6
     },
     {
+        "code": "mumbad",
+        "name": "Mumbad",
+        "position": 10,
+        "size": 6
+    },
+    {
         "code": "order-and-chaos",
         "name": "Order and Chaos",
         "position": 7,
@@ -54,21 +66,9 @@
         "size": 6
     },
     {
-        "code": "data-and-destiny",
-        "name": "Data and Destiny",
-        "position": 9,
-        "size": 1
-    },
-    {
-        "code": "mumbad",
-        "name": "Mumbad",
-        "position": 10,
-        "size": 6
-    },
-    {
-        "code": "flashpoint",
-        "name": "Flashpoint",
-        "position": 11,
+        "code": "spin",
+        "name": "Spin",
+        "position": 4,
         "size": 6
     }
 ]

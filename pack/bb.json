@@ -249,7 +249,6 @@
     },
     {
         "code": "08035",
-        "cost": null,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 1,
@@ -296,7 +295,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "Gutenberg has +3 strength while protecting R&D.\n[Subroutine] <strong>Trace<sup>7</sup></strong>\u2013 If successful, give the Runner 1 tag.",
+        "text": "Gutenberg has +3 strength while protecting R&D.\n[Subroutine] <strong>Trace<sup>7</sup></strong>– If successful, give the Runner 1 tag.",
         "title": "Gutenberg",
         "type_code": "ice",
         "uniqueness": false
@@ -326,7 +325,7 @@
         "faction_code": "weyland-consortium",
         "faction_cost": 2,
         "flavor": "Meru Mati pushed the limits of physics by engineering the first buckyweave structure, a thousand-foot long wall.",
-        "illustrator": "Micha\u0142 Mi\u0142kowski",
+        "illustrator": "Michał Miłkowski",
         "keywords": "Barrier",
         "pack_code": "bb",
         "position": 39,

@@ -5,7 +5,7 @@
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 1,
-        "flavor": "\"Saved my bacon more than once, but gives a wicked sense of d\u00e9j\u00e0 vu.\" -Whizzard",
+        "flavor": "\"Saved my bacon more than once, but gives a wicked sense of déjà vu.\" -Whizzard",
         "illustrator": "Adam S. Doyle",
         "memory_cost": 1,
         "pack_code": "asis",
@@ -69,7 +69,7 @@
         "quantity": 3,
         "side_code": "runner",
         "text": "+1[Memory Unit]\nOnce per turn, you may immediately make another run when a successful run ends.\nLimit 1 <strong>console</strong> per player.",
-        "title": "Doppelg\u00e4nger",
+        "title": "Doppelgänger",
         "type_code": "hardware",
         "uniqueness": true
     },
@@ -252,7 +252,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] <strong>Trace<sup>4</sup></strong>\u2013 If successful, the Runner cannot make another run this turn.\n[Subroutine] <strong>Trace<sup>4</sup></strong>\u2013 If successful, end the run.",
+        "text": "[Subroutine] <strong>Trace<sup>4</sup></strong>– If successful, the Runner cannot make another run this turn.\n[Subroutine] <strong>Trace<sup>4</sup></strong>– If successful, end the run.",
         "title": "Uroboros",
         "type_code": "ice",
         "uniqueness": false

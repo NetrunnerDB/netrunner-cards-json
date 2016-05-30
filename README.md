@@ -69,7 +69,7 @@ Full description of (very simple) JSON format can be found [here](http://www.jso
 
 #### Non-ASCII symbols
 
-When symbols outside the regular [ASCII range](https://en.wikipedia.org/wiki/ASCII#ASCII_printable_code_chart) are needed, UTF-8 symbols come in play. These need to be escaped using `\u<4 letter hexcode>`, such as `\u0101` (ā from *Pālanā Foods*).
+When symbols outside the regular [ASCII range](https://en.wikipedia.org/wiki/ASCII#ASCII_printable_code_chart) are needed, UTF-8 symbols come in play. These can be escaped using `\u<4 letter hexcode>`, such as `\u0101` (ā from *Pālanā Foods*), but there is no obligation. UTF-8 characters can be present in the values.
 
 To get the 4-letter hexcode of a UTF-8 symbol (or look up what a particular hexcode represents), you can use a UTF-8 converter, such as [this online tool](http://www.ltg.ed.ac.uk/~richard/utf-8.cgi).
 

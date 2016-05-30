@@ -53,7 +53,7 @@ def custom_pack_check(args, pack, cycles_data):
         raise jsonschema.ValidationError("Cycle code '%s' of the pack '%s' doesn't match any valid cycle code." % (pack["cycle_code"], pack["code"]))
 
 def format_json(json_data):
-    formatted_data = json.dumps(json_data, sort_keys=True, indent=4, separators=(',', ': '))
+    formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
     formatted_data += "\n"
     return formatted_data
 
@@ -63,7 +63,7 @@ def load_json_file(args, path):
     try:
         with open(path, "rb") as data_file:
             bin_data = data_file.read()
-        raw_data = bin_data.decode("ascii")
+        raw_data = bin_data.decode("utf-8")
         json_data = json.loads(raw_data)
     except ValueError as e:
         verbose_print(args, "%s: File is not valid JSON.\n" % path, 0)
@@ -81,7 +81,7 @@ def load_json_file(args, path):
             verbose_print(args, "%s: Fixing JSON formatting...\n" % path, 0)
             try:
                 with open(path, "wb") as json_file:
-                    bin_formatted_data = formatted_raw_data.encode("ascii")
+                    bin_formatted_data = formatted_raw_data.encode("utf-8")
                     json_file.write(bin_formatted_data)
             except IOError as e:
                 verbose_print(args, "%s: Cannot open file to write.\n" % path, 0)

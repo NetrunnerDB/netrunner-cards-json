@@ -1,42 +1,10 @@
 [
     {
-        "code": "draft",
-        "cycle_code": "draft",
+        "code": "23s",
+        "cycle_code": "flashpoint",
         "date_release": null,
-        "name": "Draft",
+        "name": "23 Seconds",
         "position": 1,
-        "size": null
-    },
-    {
-        "code": "core",
-        "cycle_code": "core",
-        "date_release": "2012-09-06",
-        "name": "Core Set",
-        "position": 1,
-        "size": 113
-    },
-    {
-        "code": "wla",
-        "cycle_code": "genesis",
-        "date_release": "2012-12-14",
-        "name": "What Lies Ahead",
-        "position": 1,
-        "size": 20
-    },
-    {
-        "code": "ta",
-        "cycle_code": "genesis",
-        "date_release": "2013-01-09",
-        "name": "Trace Amount",
-        "position": 2,
-        "size": 20
-    },
-    {
-        "code": "ce",
-        "cycle_code": "genesis",
-        "date_release": "2013-02-14",
-        "name": "Cyber Exodus",
-        "position": 3,
         "size": 20
     },
     {
@@ -44,118 +12,6 @@
         "cycle_code": "genesis",
         "date_release": "2013-03-21",
         "name": "A Study in Static",
-        "position": 4,
-        "size": 20
-    },
-    {
-        "code": "hs",
-        "cycle_code": "genesis",
-        "date_release": "2013-05-02",
-        "name": "Humanity's Shadow",
-        "position": 5,
-        "size": 20
-    },
-    {
-        "code": "fp",
-        "cycle_code": "genesis",
-        "date_release": "2013-05-30",
-        "name": "Future Proof",
-        "position": 6,
-        "size": 20
-    },
-    {
-        "code": "cac",
-        "cycle_code": "creation-and-control",
-        "date_release": "2013-07-29",
-        "name": "Creation and Control",
-        "position": 1,
-        "size": 55
-    },
-    {
-        "code": "om",
-        "cycle_code": "spin",
-        "date_release": "2013-09-27",
-        "name": "Opening Moves",
-        "position": 1,
-        "size": 20
-    },
-    {
-        "code": "st",
-        "cycle_code": "spin",
-        "date_release": "2013-11-07",
-        "name": "Second Thoughts",
-        "position": 2,
-        "size": 20
-    },
-    {
-        "code": "mt",
-        "cycle_code": "spin",
-        "date_release": "2013-12-13",
-        "name": "Mala Tempora",
-        "position": 3,
-        "size": 20
-    },
-    {
-        "code": "tc",
-        "cycle_code": "spin",
-        "date_release": "2014-01-17",
-        "name": "True Colors",
-        "position": 4,
-        "size": 20
-    },
-    {
-        "code": "fal",
-        "cycle_code": "spin",
-        "date_release": "2014-02-21",
-        "name": "Fear and Loathing",
-        "position": 5,
-        "size": 20
-    },
-    {
-        "code": "dt",
-        "cycle_code": "spin",
-        "date_release": "2014-03-28",
-        "name": "Double Time",
-        "position": 6,
-        "size": 20
-    },
-    {
-        "code": "hap",
-        "cycle_code": "honor-and-profit",
-        "date_release": "2014-05-02",
-        "name": "Honor and Profit",
-        "position": 1,
-        "size": 55
-    },
-    {
-        "code": "up",
-        "cycle_code": "lunar",
-        "date_release": "2014-07-25",
-        "name": "Upstalk",
-        "position": 1,
-        "size": 20
-    },
-    {
-        "code": "tsb",
-        "cycle_code": "lunar",
-        "date_release": "2014-08-15",
-        "name": "The Spaces Between",
-        "position": 2,
-        "size": 20
-    },
-    {
-        "code": "fc",
-        "cycle_code": "lunar",
-        "date_release": "2014-09-15",
-        "name": "First Contact",
-        "position": 3,
-        "size": 20
-    },
-    {
-        "code": "uao",
-        "cycle_code": "lunar",
-        "date_release": "2014-10-16",
-        "name": "Up and Over",
         "position": 4,
         "size": 20
     },
@@ -168,11 +24,147 @@
         "size": 20
     },
     {
-        "code": "ts",
-        "cycle_code": "lunar",
-        "date_release": "2014-12-18",
-        "name": "The Source",
+        "code": "bb",
+        "cycle_code": "sansan",
+        "date_release": "2015-04-24",
+        "name": "Breaker Bay",
+        "position": 2,
+        "size": 20
+    },
+    {
+        "code": "bf",
+        "cycle_code": "mumbad",
+        "date_release": "2016-03-11",
+        "name": "Business First",
+        "position": 2,
+        "size": 19
+    },
+    {
+        "code": "cac",
+        "cycle_code": "creation-and-control",
+        "date_release": "2013-07-29",
+        "name": "Creation and Control",
+        "position": 1,
+        "size": 55
+    },
+    {
+        "code": "cc",
+        "cycle_code": "sansan",
+        "date_release": "2015-05-29",
+        "name": "Chrome City",
+        "position": 3,
+        "size": 20
+    },
+    {
+        "code": "ce",
+        "cycle_code": "genesis",
+        "date_release": "2013-02-14",
+        "name": "Cyber Exodus",
+        "position": 3,
+        "size": 20
+    },
+    {
+        "code": "core",
+        "cycle_code": "core",
+        "date_release": "2012-09-06",
+        "name": "Core Set",
+        "position": 1,
+        "size": 113
+    },
+    {
+        "code": "dad",
+        "cycle_code": "data-and-destiny",
+        "date_release": "2015-10-29",
+        "name": "Data and Destiny",
+        "position": 1,
+        "size": 55
+    },
+    {
+        "code": "dag",
+        "cycle_code": "mumbad",
+        "date_release": "2016-04-01",
+        "name": "Democracy and Dogma",
+        "position": 3,
+        "size": 19
+    },
+    {
+        "code": "draft",
+        "cycle_code": "draft",
+        "date_release": null,
+        "name": "Draft",
+        "position": 1,
+        "size": null
+    },
+    {
+        "code": "dt",
+        "cycle_code": "spin",
+        "date_release": "2014-03-28",
+        "name": "Double Time",
         "position": 6,
+        "size": 20
+    },
+    {
+        "code": "fal",
+        "cycle_code": "spin",
+        "date_release": "2014-02-21",
+        "name": "Fear and Loathing",
+        "position": 5,
+        "size": 20
+    },
+    {
+        "code": "fc",
+        "cycle_code": "lunar",
+        "date_release": "2014-09-15",
+        "name": "First Contact",
+        "position": 3,
+        "size": 20
+    },
+    {
+        "code": "fp",
+        "cycle_code": "genesis",
+        "date_release": "2013-05-30",
+        "name": "Future Proof",
+        "position": 6,
+        "size": 20
+    },
+    {
+        "code": "ftm",
+        "cycle_code": "mumbad",
+        "date_release": null,
+        "name": "Fear the Masses",
+        "position": 6,
+        "size": 19
+    },
+    {
+        "code": "hap",
+        "cycle_code": "honor-and-profit",
+        "date_release": "2014-05-02",
+        "name": "Honor and Profit",
+        "position": 1,
+        "size": 55
+    },
+    {
+        "code": "hs",
+        "cycle_code": "genesis",
+        "date_release": "2013-05-02",
+        "name": "Humanity's Shadow",
+        "position": 5,
+        "size": 20
+    },
+    {
+        "code": "kg",
+        "cycle_code": "mumbad",
+        "date_release": "2016-01-29",
+        "name": "Kala Ghoda",
+        "position": 1,
+        "size": 19
+    },
+    {
+        "code": "mt",
+        "cycle_code": "spin",
+        "date_release": "2013-12-13",
+        "name": "Mala Tempora",
+        "position": 3,
         "size": 20
     },
     {
@@ -184,43 +176,83 @@
         "size": 55
     },
     {
-        "code": "val",
-        "cycle_code": "sansan",
-        "date_release": "2015-04-03",
-        "name": "The Valley",
-        "position": 1,
-        "size": 20
-    },
-    {
-        "code": "bb",
-        "cycle_code": "sansan",
-        "date_release": "2015-04-24",
-        "name": "Breaker Bay",
-        "position": 2,
-        "size": 20
-    },
-    {
-        "code": "cc",
-        "cycle_code": "sansan",
-        "date_release": "2015-05-29",
-        "name": "Chrome City",
-        "position": 3,
-        "size": 20
-    },
-    {
-        "code": "uw",
-        "cycle_code": "sansan",
-        "date_release": "2015-07-02",
-        "name": "The Underway",
-        "position": 4,
-        "size": 20
-    },
-    {
         "code": "oh",
         "cycle_code": "sansan",
         "date_release": "2015-08-06",
         "name": "Old Hollywood",
         "position": 5,
+        "size": 20
+    },
+    {
+        "code": "om",
+        "cycle_code": "spin",
+        "date_release": "2013-09-27",
+        "name": "Opening Moves",
+        "position": 1,
+        "size": 20
+    },
+    {
+        "code": "si",
+        "cycle_code": "mumbad",
+        "date_release": "2016-04-28",
+        "name": "Salsette Island",
+        "position": 4,
+        "size": 19
+    },
+    {
+        "code": "st",
+        "cycle_code": "spin",
+        "date_release": "2013-11-07",
+        "name": "Second Thoughts",
+        "position": 2,
+        "size": 20
+    },
+    {
+        "code": "ta",
+        "cycle_code": "genesis",
+        "date_release": "2013-01-09",
+        "name": "Trace Amount",
+        "position": 2,
+        "size": 20
+    },
+    {
+        "code": "tc",
+        "cycle_code": "spin",
+        "date_release": "2014-01-17",
+        "name": "True Colors",
+        "position": 4,
+        "size": 20
+    },
+    {
+        "code": "tlm",
+        "cycle_code": "mumbad",
+        "date_release": "2016-05-26",
+        "name": "The Liberated Mind",
+        "position": 5,
+        "size": 19
+    },
+    {
+        "code": "ts",
+        "cycle_code": "lunar",
+        "date_release": "2014-12-18",
+        "name": "The Source",
+        "position": 6,
+        "size": 20
+    },
+    {
+        "code": "tsb",
+        "cycle_code": "lunar",
+        "date_release": "2014-08-15",
+        "name": "The Spaces Between",
+        "position": 2,
+        "size": 20
+    },
+    {
+        "code": "uao",
+        "cycle_code": "lunar",
+        "date_release": "2014-10-16",
+        "name": "Up and Over",
+        "position": 4,
         "size": 20
     },
     {
@@ -232,66 +264,34 @@
         "size": 20
     },
     {
-        "code": "dad",
-        "cycle_code": "data-and-destiny",
-        "date_release": "2015-10-29",
-        "name": "Data and Destiny",
+        "code": "up",
+        "cycle_code": "lunar",
+        "date_release": "2014-07-25",
+        "name": "Upstalk",
         "position": 1,
-        "size": 55
+        "size": 20
     },
     {
-        "code": "kg",
-        "cycle_code": "mumbad",
-        "date_release": "2016-01-29",
-        "name": "Kala Ghoda",
-        "position": 1,
-        "size": 19
-    },
-    {
-        "code": "bf",
-        "cycle_code": "mumbad",
-        "date_release": "2016-03-11",
-        "name": "Business First",
-        "position": 2,
-        "size": 19
-    },
-    {
-        "code": "dag",
-        "cycle_code": "mumbad",
-        "date_release": "2016-04-01",
-        "name": "Democracy and Dogma",
-        "position": 3,
-        "size": 19
-    },
-    {
-        "code": "si",
-        "cycle_code": "mumbad",
-        "date_release": "2016-04-28",
-        "name": "Salsette Island",
+        "code": "uw",
+        "cycle_code": "sansan",
+        "date_release": "2015-07-02",
+        "name": "The Underway",
         "position": 4,
-        "size": 19
+        "size": 20
     },
     {
-        "code": "tlm",
-        "cycle_code": "mumbad",
-        "date_release": "2016-05-26",
-        "name": "The Liberated Mind",
-        "position": 5,
-        "size": 19
+        "code": "val",
+        "cycle_code": "sansan",
+        "date_release": "2015-04-03",
+        "name": "The Valley",
+        "position": 1,
+        "size": 20
     },
     {
-        "code": "ftm",
-        "cycle_code": "mumbad",
-        "date_release": null,
-        "name": "Fear the Masses",
-        "position": 6,
-        "size": 19
-    },
-    {
-        "code": "23s",
-        "cycle_code": "flashpoint",
-        "date_release": null,
-        "name": "23 Seconds",
+        "code": "wla",
+        "cycle_code": "genesis",
+        "date_release": "2012-12-14",
+        "name": "What Lies Ahead",
         "position": 1,
         "size": 20
     }
