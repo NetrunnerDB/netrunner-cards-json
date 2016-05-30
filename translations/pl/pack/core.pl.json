@@ -1,0 +1,745 @@
+[
+    {
+        "code": "01001",
+        "title": "Jazgot: Haker Nadzwyczajny",
+        "keywords": "G-mod",
+        "text": "Zawsze gdy instalujesz program <strong>wirusa<\/strong>, korp kasuje wierzchnią kartę z R&D.",
+        "flavor": "\"Obejrzyj to. Będzie zabawnie.\""
+    },
+    {
+        "code": "01002",
+        "title": "Déjà Vu",
+        "text": "Dodaj 1 kartę (lub do 2 kart <strong>wirusów<\/strong>) ze swojej sterty do swojej garści.",
+        "flavor": "Wszystko, co warto zrobić, warto zrobić dwukrotnie."
+    },
+    {
+        "code": "01003",
+        "title": "Skok-demolka",
+        "keywords": "Skok - Sabotaż",
+        "text": "Przeprowadź skok na HQ lub R&D. Możesz skasować, za darmo, wszystkie karty, do których uzyskasz dostęp (nawet te, których normalnie nie można kasować).",
+        "flavor": "Podpaliłeś kiedyś coś tylko po to, żeby zobaczyć, jak płonie?"
+    },
+    {
+        "code": "01004",
+        "title": "Włam na dopalaczach",
+        "keywords": "Skok",
+        "text": "Przeprowadź skok i pobierz 9[Credits], które możesz użyć tylko podczas tego skoku. Po zakończeniu skoku, otrzymujesz 1 obrażenie mózgu (nie można go zablokować) i zwracasz do banku wszystkie niewydane z otrzymanych 9[Credits]."
+    },
+    {
+        "code": "01005",
+        "title": "Cyberzłącze",
+        "keywords": "Chip",
+        "text": "1[Recurring Credits]\r\nUżyj tego kredytu do opłacenia użycia <strong>lodołamaczy<\/strong> lub instalowania programów <strong>wirusów<\/strong>.",
+        "flavor": "Bez niego czuję się jak naga."
+    },
+    {
+        "code": "01006",
+        "title": "Grimuar",
+        "keywords": "Konsola",
+        "text": "+2[Memory Unit]\r\nZawsze gdy instalujesz program <strong>wirusa<\/strong>, połóż 1 znacznik wirusa na tym programie.\r\nLimit 1 <strong>konsoli<\/strong> na gracza.",
+        "flavor": "\"Moja książeczka zaklęć magicznych.\" - Magik"
+    },
+    {
+        "code": "01007",
+        "title": "Wyżeracz",
+        "keywords": "Lodołamacz - Młot",
+        "text": "1[Credits]: Złam podprogram <strong>bariery<\/strong>.\r\n1[Credits]: +1 siły.",
+        "flavor": "\"Jeśli nie uda się od razu, podbij siłę i spróbuj ponownie.\" - g00ru"
+    },
+    {
+        "code": "01008",
+        "title": "Zasysacz danych",
+        "keywords": "Wirus",
+        "text": "Zawsze gdy przeprowadzisz udany skok na serwer centralny, połóż 1 znacznik wirusa na Zasysaczu danych.\r\n<strong>Hostowany znacznik wirusa<\/strong>: Napotykany właśnie zrezowany lód ma -1 siły do końca spotkania."
+    },
+    {
+        "code": "01009",
+        "title": "Dżin",
+        "keywords": "Demon",
+        "text": "Dżin może hostować do 3[Memory Unit] programów, oprócz <strong>lodołamaczy<\/strong>.\r\nWymagania pamięciowe hostowanych programów nie wliczają się do twojego limitu pamięci.\r\n[Click], 1[Credits]: Poszukaj programu <strong>wirusa<\/strong> w swoim stosie, odsłoń go i dodaj do swojej garści. Przetasuj swój stos."
+    },
+    {
+        "code": "01010",
+        "title": "Medium",
+        "keywords": "Wirus",
+        "text": "Zawsze gdy przeprowadzisz udany skok na R&D, połóż 1 znacznik wirusa na Medium.\r\nKażdy znacznik wirusa powyżej pierwszego pozwala ci uzyskać dostęp do 1 dodatkowej karty z R&D, zawsze gdy uzyskasz dostęp do kart z R&D.",
+        "flavor": "Wyglądało to, jak przypadkowa utrata pakietów. Bynajmniej."
+    },
+    {
+        "code": "01011",
+        "title": "Naśladowca",
+        "keywords": "Lodołamacz - Zabójca",
+        "text": "1[Credits]: Złam podprogram <strong>strażnika<\/strong>.",
+        "flavor": "5 listopada: dzień, w którym wszyscy ujrzą niemoralne intrygi korporacyjnej oligarchii."
+    },
+    {
+        "code": "01012",
+        "title": "Pasożyt",
+        "keywords": "Wirus",
+        "text": "Pasożyta można instalować tylko na zrezowanym lodzie.\r\nHostujący lód ma -1 siły za każdy znacznik wirusa na Pasożycie i zostaje skasowany, jeśli jego siła wynosi 0 lub mniej.\r\nGdy zaczynasz turę, połóż 1 znacznik wirusa na Pasożycie."
+    },
+    {
+        "code": "01013",
+        "title": "Żmij",
+        "keywords": "Lodołamacz - AI",
+        "text": "3[Credits]: Złam podprogram lodu o sile 0 lub mniej.\r\n1[Credits]: -1 do siły lodu.\r\n1[Credits]: +1 siły.",
+        "flavor": "Ogień i ichor..."
+    },
+    {
+        "code": "01014",
+        "title": "Yog.0",
+        "keywords": "Lodołamacz - Dekoder",
+        "text": "0[Credits]: Złam podprogram <strong>bramy kodowej<\/strong>.",
+        "flavor": "Baza danych Yog.0 do publiczny zbiór haseł ze snifferów, spooferów i keyloggerów. Jeśli klucz do twojej bramy jest w bazie, do wszedłeś. Jeśli nie, zmień bramę!"
+    },
+    {
+        "code": "01015",
+        "title": "Szpikulec do lodu",
+        "keywords": "Wirtualne",
+        "text": "Każdy napotkany lód ma siłę obniżoną o 1.",
+        "flavor": "W świadomości publicznej istnieje ostra granica między runnerem i korpem. W rzeczywistości podział nie jest taki wyraźny. Korpowie potrzebują najlepszych hakerów do kierowania siecią, a część najlepszych hakerów do byli runnerzy, którzy polubili normalną wypłatę. Ale czasami działa do też w drugą stronę i ktoś ze środka tworzy coś takiego."
+    },
+    {
+        "code": "01016",
+        "title": "Wyldside",
+        "keywords": "Miejsce - Podejrzane",
+        "text": "Gdy zaczynasz turę, dobierasz 2 karty i tracisz [Click].",
+        "flavor": "\"Najlepsze miejsce, gdy chcesz wyjąć swój umysł z rynsztoka i zabrać go na miasto.\" - Ji \"Jazgot\" Reilly"
+    },
+    {
+        "code": "01017",
+        "title": "Gabriel Santiago: Oddany Profesjonalista",
+        "keywords": "Cyborg",
+        "text": "W każdej turze pobierz 2[Credits], gdy przeprowadzisz pierwszy udany skok na HQ.",
+        "flavor": "\"Oczywiście, że okradam bogatych. To oni mają pieniądze.\""
+    },
+    {
+        "code": "01018",
+        "title": "Pompowanie konta",
+        "keywords": "Skok - Sabotaż",
+        "text": "Przeprowadź skok na HQ. Jeśli jest udany, zamiast uzyskania dostępu kart możesz spowodować, że korp traci do 5[Credits], a ty pobierasz 2[Credits] za każdy kredyt stracony przez korpa i otrzymujesz 2 tagi."
+    },
+    {
+        "code": "01019",
+        "title": "Łatwy cel",
+        "keywords": "Robota",
+        "text": "Pobierz 3[Credits].",
+        "flavor": "\"Hej, młody, jak to teraz włączysz, ostro cię pojadą. Sporo tu dość żałosnych postaci. Na szczęście mam tu wejście...\""
+    },
+    {
+        "code": "01020",
+        "title": "Sfałszowane zlecenie aktywacji",
+        "keywords": "Sabotaż",
+        "text": "Wybierz niezrezowany lód. Korp musi go zrezować albo skasować.",
+        "flavor": "W miarę jak panika w pomieszczeniu przenosiła się na przełożonych, niższe szczeble ogarniało przykre poczucie bezrobocia."
+    },
+    {
+        "code": "01021",
+        "title": "Robota od wewnątrz",
+        "keywords": "Skok",
+        "text": "Przeprowadź skok. Omiń pierwszy lód napotkany w czasie skoku.",
+        "flavor": "\"Słuchaj, nie namawiam cię na nic niebezpiecznego. Po prostu wpuść mnie do budynku. I powiedz mi, który pokój jest najsłabiej zabezpieczony. Ale proszę, nie mów znowu, że toaleta.\""
+    },
+    {
+        "code": "01022",
+        "title": "Zamówienie specjalne",
+        "text": "Poszukaj programu <strong>lodołamacza<\/strong> w swoim stosie, odsłoń go i dodaj do swojej garści. Przetasuj swój stos.",
+        "flavor": "Gorączkowo śledzona w czasie irytująco długiej podróży przez Pacyfik, paczka dociera w końcu po kilku godzinach do adresata..."
+    },
+    {
+        "code": "01023",
+        "title": "Łamacz kodów z Lemurii",
+        "text": "[Click], 1[Credits]: Ujawnij 1 kartę. Możesz użyć tej zdolności tylko, jeśli przeprowadziłeś w tej turze udany skok na HQ.",
+        "flavor": "\"Drobna profilaktyka bywa bardzo pomocna.\" - Gabriel Santiago"
+    },
+    {
+        "code": "01024",
+        "title": "Desperado",
+        "keywords": "Konsola",
+        "text": "+1[Memory Unit]\r\nPobierz 1[Credits], zawsze gdy przeprowadzisz udany skok.\r\nLimit 1 <strong>konsoli<\/strong> na gracza."
+    },
+    {
+        "code": "01025",
+        "title": "Aurora",
+        "keywords": "Lodołamacz - Młot",
+        "text": "2[Credits]: Złam podprogram <strong>bariery<\/strong>.\r\n2[Credits]: +3 siły."
+    },
+    {
+        "code": "01026",
+        "title": "Femme Fatale",
+        "keywords": "Lodołamacz - Zabójca",
+        "text": "1[Credits]: Złam podprogram <strong>strażnika<\/strong>.\r\n2[Credits]: +1 siły.\r\nGdy instalujesz Femme Fatale, wybierz zainstalowany lód. Gdy spotykasz ten lód, możesz zapłacić 1[Credits] za <strong>każdy<\/strong> podprogram na tym lodzie, aby go ominąć."
+    },
+    {
+        "code": "01027",
+        "title": "Ninja",
+        "keywords": "Lodołamacz - Zabójca",
+        "text": "1[Credits]: Złam podprogram <strong>strażnika<\/strong>.\r\n3[Credits]: +5 siły.",
+        "flavor": "Poczujesz Ninję zanim go zauważysz, jeśli w ogóle go zauważysz."
+    },
+    {
+        "code": "01028",
+        "title": "Boczne wejście Beta",
+        "text": "[Click]: Przeprowadź skok na Archiwa. Jeśli jest udany, traktuj go jak udany skok na HQ.",
+        "flavor": "\"Kod nie jest ważny. Ważne, gdzie cię prowadzi.\" - g00ru"
+    },
+    {
+        "code": "01029",
+        "title": "Skok na bank",
+        "keywords": "Robota",
+        "text": "Gdy instalujesz Skok na bank, połóż na nim 8[Credits] z banku. Skasuj Skok na bank, gdy nie ma już na nim kredytów.\r\nZawsze gdy przeprowadzisz udany skok na zdalny serwer, zamiast uzyskania dostępu do kart możesz wziąć dowolną liczbę kredytów ze Skoku na bank."
+    },
+    {
+        "code": "01030",
+        "title": "Miejscówka",
+        "keywords": "Miejsce",
+        "text": "2[Recurring Credits]\r\nUżyj tych kredytów do płacenia za usuwanie tagów.\r\n[Trash]: Zablokuj do 3 obrażeń ciała.",
+        "flavor": "\"Mój współlokator miał kuzyna, a jego dziewczyna z uniwerku miała dobrą kumpelę, a jej brat był narkomanem, a matka tego narkomana mieszkała tutaj. Tak, znam do miejsce.\" - Lez \"Kamienna pięść\" S."
+    },
+    {
+        "code": "01031",
+        "title": "Handlarz danych",
+        "keywords": "Kontakt - Podejrzany",
+        "text": "<strong>Poświęć projekt,<\/strong> [Click]: Pobierz 9[Credits].",
+        "flavor": "Im bardziej szemrany handlarz, tym lepsza cena. Chyba, że handlarz jest aż zbyt szemrany. Wtedy po przyjęciu zamówienia mogą pojawić się dodatkowe opłaty."
+    },
+    {
+        "code": "01032",
+        "title": "Zmyłka",
+        "keywords": "Kontakt",
+        "text": "[Trash]: Pomiń otrzymanie 1 taga.",
+        "flavor": "- Mam wrażenie, że do nie tutaj, Frank.\r\n- Dlaczego tak myślisz, D?\r\n- Przez papiloty."
+    },
+    {
+        "code": "01033",
+        "title": "Kate \"Mac\" McCaffrey: Cyfrowa złota rączka",
+        "keywords": "Normalna",
+        "text": "W każdej turze obniż o 1 koszt instalacji pierwszego programu lub sprzętu.",
+        "flavor": "\"Słuchasz?\""
+    },
+    {
+        "code": "01034",
+        "title": "Diesel",
+        "text": "Dobierz 3 karty.",
+        "flavor": "Po Dieselu cię pali."
+    },
+    {
+        "code": "01035",
+        "title": "Zmodowany",
+        "keywords": "Mod",
+        "text": "Zainstaluj program lub sprzęt, obniżając koszt instalacji o 3.",
+        "flavor": "Nic nie zastąpi programów własnej produkcji. Wykarmionych zarwanymi nocami, batonikami owsianymi i upartą determinacją. W dodatku tańszych."
+    },
+    {
+        "code": "01036",
+        "title": "Oko stwórcy",
+        "keywords": "Skok",
+        "text": "Przeprowadź skok na R&D. Jeśli jest udany, uzyskaj dostęp do dwóch dodatkowych kart z R&D.",
+        "flavor": "\"Część zawodowców ma dobry instynkt, ale nie potrafią spojrzeć ponad dane. Nie dostrzegają matrycy.\" - Ele \"Dym\" Scovak"
+    },
+    {
+        "code": "01037",
+        "title": "Dłubanina",
+        "keywords": "Mod",
+        "text": "Wybierz lód. Zyskuje on podrodzaj <strong>strażnik<\/strong>, <strong>brama kodowa<\/strong> i <strong>bariera<\/strong> do końca tury.",
+        "flavor": "\"Wiesz, jest taki moment, kiedy cały świat się oddala i zostajesz tylko ty i twój mod, a mod jest całym światem.\""
+    },
+    {
+        "code": "01038",
+        "title": "Kość pamięci Akamatsu",
+        "keywords": "Chip",
+        "text": "+1[Memory Unit]",
+        "flavor": "Działalność firmy Akamatsu opiera się na trzech zasadach: po pierwsze, produkować najszybsze kości pamięci na rynku. Po drugie, przynosić zyski. Po trzecie, służyć jako przykrywka dla produkcji nielegalnych neuro-stymulantów. Ta ostatnia zasada prawdopodobnie tłumaczy fanatyczną wierność ich klientów."
+    },
+    {
+        "code": "01039",
+        "title": "Królicza nora",
+        "keywords": "Połączenie",
+        "text": "+1[Link]\r\nGdy instalujesz Króliczą norę, możesz poszukać innej kopii Króliczej nory w swoim stosie i zainstalować ją, płacąc koszt instalacji. Przetasuj swój stos.",
+        "flavor": "Nie jest bez dna, taka się tylko wydaje."
+    },
+    {
+        "code": "01040",
+        "title": "Osobisty styl",
+        "keywords": "Mod",
+        "text": "Osobisty styl można instalować tylko na <strong>lodołamaczu<\/strong>.\r\nHostujący <strong>lodołamacz<\/strong> ma +1 siły.",
+        "flavor": "Tu z-pętla, tam fala korowa..."
+    },
+    {
+        "code": "01041",
+        "title": "Skrzynka narzędziowa",
+        "keywords": "Konsola",
+        "text": "+2[Memory Unit] +2[Link]\r\n2[Recurring Credits]\r\nUżyj tych kredytów do opłacania użycia <strong>lodołamaczy<\/strong>.\r\nLimit 1 <strong>konsoli<\/strong> na gracza."
+    },
+    {
+        "code": "01042",
+        "title": "Taran",
+        "keywords": "Lodołamacz - Młot",
+        "text": "2[Credits]: Złam do 2 podprogramów <strong>bariery<\/strong>.\r\n1[Credits]: +1 siły do końca skoku.",
+        "flavor": "\"Tak zwane 'podejście siłowe' jest równie skuteczne dziś, jak sto lat temu.\" - Kate \"Mac\" McCaffrey"
+    },
+    {
+        "code": "01043",
+        "title": "Miecz gordyjski",
+        "keywords": "Lodołamacz - Dekoder",
+        "text": "1[Credits]: Złam podprogram <strong>bramy kodowej<\/strong>.\r\n1[Credits]: +1 siły do końca skoku.",
+        "flavor": "Może przeciąć najgrubsze węzły danych."
+    },
+    {
+        "code": "01044",
+        "title": "Opus Magnum",
+        "text": "[Click]: Pobierz 2[Credits].",
+        "flavor": "Wielkie Dzieło zakończone zostało w deszczowe czwartkowe popołudnie. Nie objawiło się trzęsieniem ziemi ani rozbłyskiem Słońca, nic na ziemi ni w niebie nie zwiastowało, że świat się odmienił. Ale na szczycie Łodygi, w Heinleinie, na jednym rdzeniu danych produkcji Cybsoftu, mrugające kwanty informacji bankowego konta zaczęły wypełniać się kredytami. Prawdziwymi, uczciwymi, potwierdzonymi przez ONZ kredytami."
+    },
+    {
+        "code": "01045",
+        "title": "Tarcza sprzętowa",
+        "text": "1[Credits]: Zablokuj pierwsze obrażenie sprzętu w tej turze.",
+        "flavor": "Zżera energię jak marsjański terra-bot, ale pomaga się skupić."
+    },
+    {
+        "code": "01046",
+        "title": "Rurociąg",
+        "keywords": "Lodołamacz - Zabójca",
+        "text": "1[Credits]: Złam podprogram <strong>strażnika<\/strong>.\r\n2[Credits]: +1 siły do końca tego skoku."
+    },
+    {
+        "code": "01047",
+        "title": "Lombard Aesopa",
+        "keywords": "Miejsce - Kontakt",
+        "text": "Gdy zaczynasz turę, możesz skasować inną swoją zainstalowaną kartę, by pobrać 3[Credits].",
+        "flavor": "Nie wspominałeś nawet o ręce Aesopa, jeśli nie chciałeś usłyszeć całej historii. Czasami tak o niej opowiadał, że zaczynałeś się zastanawiać, dlaczego drugiej też sobie nie uciął laserem."
+    },
+    {
+        "code": "01048",
+        "title": "Konstrukt ofiarny",
+        "keywords": "Zdalny",
+        "text": "[Trash]: Zablokuj skasowanie zainstalowanego programu lub sprzętu.",
+        "flavor": "Długość życia podprowadzonego konstruktu jest podobna, jak jętki jednodniówki. Innymi słowy, mała."
+    },
+    {
+        "code": "01049",
+        "title": "Infiltracja",
+        "text": "Pobierz 2[Credits] lub ujawnij 1 kartę.",
+        "flavor": "\"Coś ci to przypomina, Monico?\" - John \"Zwierzak\" McEvoy"
+    },
+    {
+        "code": "01050",
+        "title": "Pewny zakład",
+        "text": "Pobierz 9[Credits].",
+        "flavor": "Pani Fortuna objawiła się w postaci pierścienia manipulacji kwantowej, który nosiła na środkowym palcu."
+    },
+    {
+        "code": "01051",
+        "title": "Mimetyzm",
+        "keywords": "Lodołamacz - AI - Wirus",
+        "text": "1[Credits]: Złam podprogram lodu.\r\n1[Credits]: +1 siły.\r\n[Click]: Połóż 1 znacznik wirusa na Mimetyzmie.\r\nGdy zakończy się spotkanie z lodem, którego podprogram złamałeś przy pomocy Mimetyzmu, usuń 1 hostowany znacznik wirusa lub skasuj Mimetyzm."
+    },
+    {
+        "code": "01052",
+        "title": "Dostęp do Globalsec",
+        "keywords": "Połączenie",
+        "text": "+1[Link]",
+        "flavor": "Zwiększył liczbę ekranów i otoczyły go unoszące się w powietrzu hologramy. Sygnał zwrotny był silny, poziom dostępu niebieski-jeden. Teraz tylko znaleźć najlepsze miejsce na przekaźnik..."
+    },
+    {
+        "code": "01053",
+        "title": "Pogromcy kodu Armitage'a",
+        "keywords": "Robota",
+        "text": "Gdy instalujesz Pogromców kodu Armitage'a, połóż na nich 12[Credits] z banku. Skasuj Pogromców kodu Armitage'a gdy nie ma już na nich kredytów.\r\n[Click]: Weź 2[Credits] z Pogromców kodu Armitage'a.",
+        "flavor": "Ciężka harówka, ale jakoś trzeba zarabiać."
+    },
+    {
+        "code": "01054",
+        "title": "Haas-Bioroid: Inżynieria przyszłości",
+        "keywords": "Megakorp",
+        "text": "Gdy instalujesz pierwszą kartę w turze, pobierz 1[Credits].",
+        "flavor": "Skuteczni. Niezawodni. Ludzcy."
+    },
+    {
+        "code": "01055",
+        "title": "Przyspieszony Beta Test",
+        "keywords": "Badania",
+        "text": "Gdy zapunktujesz Przyspieszony Beta Test, możesz obejrzeć trzy wierzchnie karty z R&D. Jeśli któreś z nich są kartami lodu, możesz je zainstalować i zrezować, ignorując wszystkie koszty. Skasuj resztę obejrzanych kart."
+    },
+    {
+        "code": "01056",
+        "title": "Kampania reklamowa Adonisa",
+        "keywords": "Reklama",
+        "text": "Gdy rezujesz Kampanię reklamową Adonisa, połóż na niej 12[Credits] z banku. Skasuj Kampanię reklamową Adonisa, gdy nie ma na niej kredytów.\r\nGdy zaczynasz turę, weź 3[Credits] z Kampanii reklamowej Adonisa."
+    },
+    {
+        "code": "01057",
+        "title": "Agresywna sekretarka",
+        "keywords": "Zasadzka",
+        "text": "Agresywną sekretarkę można awansować.\r\nJeśli zapłacisz 2[Credits], gdy runner uzyska dostęp do Agresywnej sekretarki, skasuj 1 program za każdy żeton zaawansowania na Agresywnej sekretarce."
+    },
+    {
+        "code": "01058",
+        "title": "Archiwum wspomnień",
+        "text": "Dodaj 1 kartę z Archiwów do HQ.",
+        "flavor": "\"Myślisz, że oni... coś czują?\""
+    },
+    {
+        "code": "01059",
+        "title": "Biotyczni pracownicy",
+        "text": "Otrzymujesz [Click] [Click].",
+        "flavor": "\"Oczywiście! Mamy sześć różnych modeli Haas-Bioroid pracujących na różnych stanowiskach w tej samej filii. Nie możemy tu, w Haas-Bioroid, uchylać się przed realizowaniem własnych postulatów, a nasi klienci tylko korzystają na zwiększonej wydajności pracowników.\""
+    },
+    {
+        "code": "01060",
+        "title": "Dostawa z MirrorMorph",
+        "text": "Natychmiast zainstaluj do 3 kart (nie wydając klików, ale płacąc wszystkie koszty instalacji).",
+        "flavor": "Dostarczono nowe głowy. Ich oczy śledziły każdy twój ruch, gdy otwierałeś hermetyczny pojemnik i podnosiłeś pokrywę."
+    },
+    {
+        "code": "01061",
+        "title": "Heimdall 1.0",
+        "keywords": "Bariera - Bioroid - AP",
+        "text": "Runner może wydać [Click], aby złamać dowolny podprogram Heimdalla 1.0.\r\n[Subroutine] Zadaj 1 obrażenie mózgu.\r\n[Subroutine] Zakończ skok.\r\n[Subroutine] Zakończ skok.",
+        "flavor": "Słyszę zmianę każdego bitu i szum strumienia danych. Słyszę szepty moich matek, a ich słowo jest prawem. Do dalszej krainy nie ma wstępu."
+    },
+    {
+        "code": "01062",
+        "title": "Ichi 1.0",
+        "keywords": "Strażnik - Bioroid - Tropiciel - Niszczyciel",
+        "text": "Runner może wydać [Click], aby złamać dowolny podprogram Ichi 1.0.\r\n[Subroutine] Skasuj 1 program.\r\n[Subroutine] Skasuj 1 program.\r\n[Subroutine] <strong>Trace<sup>1<\/sup><\/strong>&ndash; Jeśli udane, daj runnerowi 1 tag i zadaj 1 obrażenie mózgu.",
+        "flavor": "Moja sława by mnie wyprzedzała, gdyby tylko ktoś mógł o mnie opowiadać."
+    },
+    {
+        "code": "01063",
+        "title": "Viktor 1.0",
+        "keywords": "Brama kodowa - Bioroid - AP",
+        "text": "Runner może wydać [Click], aby złamać dowolny podprogram Viktor 1.0.\r\n[Subroutine] Zadaj 1 obrażenie mózgu.\r\n[Subroutine] Zakończ skok.",
+        "flavor": "Nazywam się Viktor. Miło cię poznać. Chcesz w coś zagrać?"
+    },
+    {
+        "code": "01064",
+        "title": "Wieżyczka obrotowa",
+        "keywords": "Strażnik - Niszczyciel",
+        "text": "[Subroutine] Skasuj 1 program.\r\n[Subroutine] Zakończ skok.",
+        "flavor": "Whrrrrr!"
+    },
+    {
+        "code": "01065",
+        "title": "Korporacyjny mediator",
+        "keywords": "Kontakt",
+        "text": "X[Credits], [Trash]: Wybierz zrezowany lód chroniący ten serwer. Ten lód ma +X siły do końca tury.",
+        "flavor": "\"Rozwiązuję problemy.\""
+    },
+    {
+        "code": "01066",
+        "title": "Dane empiryczne",
+        "text": "Każdy lód chroniący ten serwer ma +1 siły.",
+        "flavor": "Floyd czuł gniew stojącego przed nim człowieka, wroga sztucznych ludzi. Jego program podsunął standardową odpowiedź i Floyd poczuł nieodparte pragnienie, by ją wypowiedzieć. - To tylko pogorszy sprawę - pomyślał."
+    },
+    {
+        "code": "01067",
+        "title": "Jinteki: Rozwój osobisty",
+        "keywords": "Megakorp",
+        "text": "Zawsze gdy projekt zostaje zapunktowany lub wykradziony, zadaj 1 obrażenie sprzętu.",
+        "flavor": "Gdy potrzebujesz kontaktu z człowiekiem."
+    },
+    {
+        "code": "01068",
+        "title": "Nisei Model II",
+        "keywords": "Inicjatywa",
+        "text": "Połóż 1 znacznik projektu na Nisei Model II, gdy go zapunktujesz.\r\n<strong>Hostowany znacznik projektu<\/strong>: Zakończ skok."
+    },
+    {
+        "code": "01069",
+        "title": "Projekt Chrabąszcz",
+        "keywords": "Zasadzka - Badania",
+        "text": "Projekt Chrabąszcz można awansować.\r\nJeśli zapłacisz 1[Credits], gdy runner uzyska dostęp to Projektu Chrabąszcz, zadaj 2 obrażenia sprzętu za każdy żeton zaawansowania na Projekcie Chrabąszcz."
+    },
+    {
+        "code": "01070",
+        "title": "Sidła!",
+        "keywords": "Zasadzka",
+        "text": "Jeśli runner uzyska dostęp do Sideł! w R&D, musi je odsłonić.\r\nJeśli zapłacisz 4[Credits] gdy runner uzyska dostęp Sideł!, zadaj 3 obrażenia sprzętu i daj runnerowi 1 tag. Zignoruj tę zdolność, jeśli runner uzyska dostęp do Sideł! w Archiwach."
+    },
+    {
+        "code": "01071",
+        "title": "Lojalność Zaibatsu",
+        "text": "Możesz zrezować Lojalność Zaibatsu, gdy runner chce ujawnić kartę.\r\n1[Credits] lub [Trash]: Zablokuj ujawnienie 1 karty."
+    },
+    {
+        "code": "01072",
+        "title": "EMP neuralne",
+        "keywords": "Szara operacja",
+        "text": "Zagraj tylko, jeśli runner przeprowadził skok w swojej ostatniej turze.\r\nZadaj 1 obrażenie sprzętu.",
+        "flavor": "Sztuka nie polega na tym, żeby trafić w osobę, w którą celowałeś - ale żeby <strong>nie<\/strong> trafić nikogo innego."
+    },
+    {
+        "code": "01073",
+        "title": "Prekognicja",
+        "text": "Obejrzyj 5 wierzchnich kart z R&D i odłóż je w dowolnej kolejności.",
+        "flavor": "Na jej widmowej korze pojawiła się nowa tekstura. Zorientowała się, że była tam od zawsze. Była wszystkim i niczym."
+    },
+    {
+        "code": "01074",
+        "title": "Portal komórkowy",
+        "keywords": "Brama kodowa - Deflektor",
+        "text": "[Subroutine] Runner podchodzi do najdalszego lodu chroniącego atakowany serwer. Odrezuj Portal komórkowy.",
+        "flavor": "\"Dokąd to prowadzi?\""
+    },
+    {
+        "code": "01075",
+        "title": "Karma",
+        "keywords": "Brama kodowa",
+        "text": "[Subroutine] Następny lód, który runner spotka podczas tego skoku, ma +2 siły. Zadaj 3 obrażenia sprzętu, jeśli runner nie złamie wszystkich podprogramów na tamtym lodzie.",
+        "flavor": "\"Czułeś się kiedyś jak karma dla rekina? Zapamiętaj to uczucie.\" - Ji \"Jazgot\" Reilly"
+    },
+    {
+        "code": "01076",
+        "title": "Zaminowane dane",
+        "keywords": "Pułapka - AP",
+        "text": "[Subroutine] Zadaj 1 obrażenie sprzętu. Skasuj Zaminowane dane.",
+        "flavor": "Dostęp do NiegroznyPlik.datZ -&gt; Na pewno? t\/n"
+    },
+    {
+        "code": "01077",
+        "title": "Neuralna Katana",
+        "keywords": "Strażnik - AP",
+        "text": "[Subroutine] Zadaj 3 obrażenia sprzętu.",
+        "flavor": "Wykuty przez Ak.wa dn. 23.11.79-23. Zarejestrowany 23.11.79-23.2 przez #34k-lw3-21HH-4i.\r\n\/\/Samuraj w zestawie."
+    },
+    {
+        "code": "01078",
+        "title": "Mur cierniowy",
+        "keywords": "Bariera - AP",
+        "text": "[Subroutine] Zadaj 2 obrażenia sprzętu.\r\n[Subroutine] Zakończ skok.",
+        "flavor": "Większość runnerów pracuje w pełnej symulacji, ze sprzętem podłączonym bezpośrednio do mózgu. Taka konfiguracja ma dużo zalet, runner potrafi bowiem przetwarzać dane i wykonywać komendy znacznie szybciej niż tradycyjne systemy, ograniczone przez motorykę ciała. Ale jest znacznie bardziej ryzykowna."
+    },
+    {
+        "code": "01079",
+        "title": "Akitaro Watanabe",
+        "keywords": "Sysop - Nietypowy",
+        "text": "Koszt zrezowania lodu chroniącego ten serwer jest mniejszy o 2.",
+        "flavor": "Nie pytaj tylko, jak on to robi."
+    },
+    {
+        "code": "01080",
+        "title": "NBN: Tworzymy wiadomości",
+        "keywords": "Megakorp",
+        "text": "2[Recurring Credits]\r\nUżyj tych kredytów podczas namierzania.",
+        "flavor": "Ktoś zawsze ogląda."
+    },
+    {
+        "code": "01081",
+        "title": "Program pilotażowy AstroScript",
+        "keywords": "Inicjatywa",
+        "text": "Gdy zapunktujesz Program pilotażowy AstroScript, połóż na nim 1 znacznik projektu.\r\n<strong>Hostowany znacznik projektu<\/strong>: Połóż 1 żeton zaawansowania na karcie, którą można awansować."
+    },
+    {
+        "code": "01082",
+        "title": "Najnowsze wiadomości",
+        "text": "Gdy zapunktujesz Najnowsze wiadomości, daj runnerowi 2 tagi.\r\nGdy kończy się tura, w której zapunktowałeś Najnowsze wiadomości, runner traci 2 tagi."
+    },
+    {
+        "code": "01083",
+        "title": "Anonimowy cynk",
+        "text": "Dobierz 3 karty.",
+        "flavor": "\"Proszę pozostać na linii. Trwa połączenie priorytetowe. Za chwilę operator spraw-\""
+    },
+    {
+        "code": "01084",
+        "title": "Zamknięty rachunek",
+        "keywords": "Szara operacja",
+        "text": "Zagraj tylko, jeśli runner jest otagowany.\r\nRunner traci wszystkie kredyty ze swojej puli kredytów."
+    },
+    {
+        "code": "01085",
+        "title": "Psychografia",
+        "text": "X jest równe lub mniejsze od liczby tagów posiadanych przez runnera.\r\nPołóż X żetonów zaawansowania na karcie, którą można awansować.",
+        "flavor": "Dostęp do największej bazy danych klientów w galaktyce ma swoje zalety."
+    },
+    {
+        "code": "01086",
+        "title": "Wtyczka w SEA",
+        "text": "Zagraj tylko, jeśli runner przeprowadził w swojej turze udany skok.\r\n<strong>Trace<sup>3<\/sup><\/strong>&ndash; Jeśli udane, daj runnerowi 1 tag.",
+        "flavor": "\"SEA dała nam cynk o jakichś podejrzanych odczytach w pobliżu zamku.\" - Jerome Lock, technik dyżurny"
+    },
+    {
+        "code": "01087",
+        "title": "Filia-widmo",
+        "keywords": "Zasadzka - Placówka",
+        "text": "Filię-widmo można awansować.\r\nGdy runner uzyska dostęp do Filii-widmo, możesz dać runnerowi 1 tag za każdy żeton zaawansowania na Filii-widmo."
+    },
+    {
+        "code": "01088",
+        "title": "Kruk danych",
+        "keywords": "Strażnik - Tropiciel - Obserwator",
+        "text": "Gdy runner spotyka Kruka danych, musi wziąć 1 tag lub zakończyć skok.\r\n<strong>Hostowany znacznik zasilania<\/strong>: Daj runnerowi 1 tag.\r\n[Subroutine] <strong>Trace<sup>3<\/sup><\/strong>&ndash; Jeśli udane, połóż 1 znacznik zasilania na Kruku danych."
+    },
+    {
+        "code": "01089",
+        "title": "Analizator matrycy",
+        "keywords": "Strażnik - Tropiciel - Obserwator",
+        "text": "Gdy runner spotyka Analizator matrycy, możesz zapłacić 1[Credits], by położyć 1 żeton zaawansowania na karcie, którą można awansować.\r\n[Subroutine] <strong>Trace<sup>2<\/sup><\/strong>&ndash; Jeśli udane, daj runnerowi 1 tag.",
+        "flavor": "Analizowanie było świetne. Delegowanie poleceń okazało się jeszcze lepsze."
+    },
+    {
+        "code": "01090",
+        "title": "Rogatka",
+        "keywords": "Brama kodowa",
+        "text": "Gdy runner spotyka Rogatkę, musi zapłacić 3[Credits], jeśli może. jeśli runner nie może zapłacić 3[Credits], zakończ skok.\r\n[Subroutine] Zakończ skok.",
+        "flavor": "- Słyszałeś kiedyś o paragrafie 22?\r\n- Przypomnij mi, żebym o nim zapomniał."
+    },
+    {
+        "code": "01091",
+        "title": "Tematy zastępcze",
+        "text": "Za każdym razem gdy runner uzyska dostęp do projektu z tego serwera, musi zapłacić dodatkowy koszt 5[Credits], by go wykraść. Dotyczy to również skoku, w czasie którego runner kasuje Tematy zastępcze."
+    },
+    {
+        "code": "01092",
+        "title": "Sieć miejska SanSan",
+        "keywords": "Region",
+        "text": "Trudność realizacji projektów zainstalowanych na tym serwerze jest mniejsza o 1.\r\nLimit 1 <strong>regionu<\/strong> na serwer.",
+        "flavor": "- Podobno wybrzeże jest piękne o tej porze roku.\r\n- Jeśli pracujesz we właściwej branży, jest piękne przez cały rok."
+    },
+    {
+        "code": "01093",
+        "title": "Weyland Consortium: Budujemy lepszy świat",
+        "keywords": "Megakorp",
+        "text": "Pobierz 1[Credits], zawsze gdy zagrywasz operację <strong>transakcji<\/strong>.",
+        "flavor": "Jedziemy w górę."
+    },
+    {
+        "code": "01094",
+        "title": "Wrogie przejęcie",
+        "keywords": "Ekspansja",
+        "text": "Gdy zapunktujesz Wrogie przejęcie, pobierasz 7[Credits] i otrzymujesz 1 żeton złej prasy.",
+        "flavor": "Nastąpią tu teraz pewne zmiany."
+    },
+    {
+        "code": "01095",
+        "title": "Wyznaczona nagroda",
+        "keywords": "Ochrona",
+        "text": "Gdy zapunktujesz Wyznaczoną nagrodę, możesz ją poświęcić, aby dać runnerowi 1 tag i otrzymać 1 żeton złej prasy.",
+        "flavor": "Jeśli podchwyci to jakiś dziennikarzyna, to nawet lepiej. Ta kanalia może się ukrywać na ulicach Guayaquil czy w slumsach Bos Wash. Albo nawet poza planetą."
+    },
+    {
+        "code": "01096",
+        "title": "Kontrakt na ochronę",
+        "keywords": "Transakcja",
+        "text": "[Click], <strong>skasuj zrezowany lód<\/strong>: Pobierz 4[Credits].",
+        "flavor": "\"Nakarmimy Federalnych naszymi resztkami, a wrócą błagać o więcej.\" - Richard Polasco, wiceprezes d\/s cyberbezpieczeństwa"
+    },
+    {
+        "code": "01097",
+        "title": "Agresywne negocjacje",
+        "text": "Zagraj tylko, jeśli zapunktowałeś projekt w tej turze.\r\nPoszukaj 1 karty w R&D i dodaj ją do HQ. Potasuj R&D.",
+        "flavor": "\"Ufam, że te warunki uzna pan za całkiem korzystne.\""
+    },
+    {
+        "code": "01098",
+        "title": "Dochody licencyjne z Łodygi",
+        "keywords": "Transakcja",
+        "text": "Pobierz 3[Credits].",
+        "flavor": "Winda Kosmiczna New Angeles, lepiej znana jako Łodyga, to największy triumf w historii ludzkiej inżynierii i pomysłowości. Dzięki Łodydze orbita Ziemi stała się dostępna dla każdego... za małą opłatą."
+    },
+    {
+        "code": "01099",
+        "title": "Spalona ziemia",
+        "keywords": "Czarna Operacja",
+        "text": "Zagraj tylko jeśli runner jest otagowany.\r\nZadaj 4 obrażenia ciała.",
+        "flavor": "\"Pragnę przypomnieć przedstawicielom prasy, że część budynków uszkodzonych w wybuchu należało do oddziałów Weyland Consortium...\""
+    },
+    {
+        "code": "01100",
+        "title": "Dostawa z Kaguya",
+        "text": "Połóż po 1 żetonie zaawansowania ma maksymalnie 2 różnych zainstalowanych kartach, które można awansować.",
+        "flavor": "- No i zostały te 2 skrzynki. Bez eID.\r\n- Zostaw je mnie i zapomnij, że je kiedykolwiek widziałeś."
+    },
+    {
+        "code": "01101",
+        "title": "Łucznik",
+        "keywords": "Strażnik - Niszczyciel",
+        "text": "Rezując Łucznika, korporacja musi poświęcić projekt jako dodatkowy koszt.\r\n[Subroutine] Korp pobiera 2[Credits].\r\n[Subroutine] Skasuj 1 program.\r\n[Subroutine] Skasuj 1 program.\r\n[Subroutine] Zakończ skok.",
+        "flavor": "Następnym razem przeczytaj warunki usługi bardziej uważnie. Bo możesz się znaleźć w niebezpieczeństwie."
+    },
+    {
+        "code": "01102",
+        "title": "Mur Hadriana",
+        "keywords": "Bariera",
+        "text": "Mur Hadriana można awansować and ma +1 siły za każdy leżący na nim żeton zaawansowania.\r\n[Subroutine] Zakończ skok.\r\n[Subroutine] Zakończ skok.",
+        "flavor": "\"Stary dobry Hadrian, miał lekka manię wielkości, ale jego konstrukty to usprawiedliwiają.\""
+    },
+    {
+        "code": "01103",
+        "title": "Lodowy mur",
+        "keywords": "Bariera",
+        "text": "Lodowy mur można awansować i ma +1 siły za każdy leżący na nim żeton zaawansowania.\r\n[Subroutine] Zakończ skok.",
+        "flavor": "\"Zamówiłam lód nieprzenikniony jak mur. Nie jestem pewna, czy ktoś w R&D ma skrzywione poczucie humoru czy zwyczajnie jest bardzo dosłowny.\" - Liz Campbell, wiceprezes ds. bezpieczeństwa projektów"
+    },
+    {
+        "code": "01104",
+        "title": "Cień",
+        "keywords": "Strażnik - Tropiciel",
+        "text": "Cień można awansować i ma +1 siły za każdy leżący na nim żeton zaawansowania.\r\n[Subroutine] Korp pobiera 2[Credits].\r\n[Subroutine] <strong>Trace<sup>3<\/sup><\/strong>&ndash; Jeśli udane, daj runnerowi 1 tag.",
+        "flavor": "\"Kto wie, jakie zło czyha w ludzkich diamentach pamięci? Weyland wie.\" - niepodpisane cyber-graffiti"
+    },
+    {
+        "code": "01105",
+        "title": "Stacja badawcza",
+        "keywords": "Placówka",
+        "text": "Można zainstalować tylko w katalogu głównym HQ.\r\nTwój limit kart na ręce wzrasta o 2.",
+        "flavor": "\"Jack Weyland zbudował Łodygę i odmienił rasę ludzką na zawsze. Nie mogę się doczekać, co zrobimy dalej.\""
+    },
+    {
+        "code": "01106",
+        "title": "Priorytetowe zapotrzebowanie",
+        "keywords": "Ochrona",
+        "text": "Gdy zapunktujesz Priorytetowe zapotrzebowanie, możesz zrezować 1 lód, ignorując wszystkie koszty.",
+        "flavor": "\"Jeśli nie będę miał tego na moim terminalu do osiemnastej, polecą głowy!\""
+    },
+    {
+        "code": "01107",
+        "title": "Prywatny oddział ochrony",
+        "keywords": "Ochrona",
+        "text": "Jeśli jest otagowany, Prywatny oddział ochrony zyskuje zdolność: \"[Click]: Zadaj 1 obrażenie ciała.\"",
+        "flavor": "\"Drogo? Nie za ochronę fortuny tak wielkiej, jak nasza.\""
+    },
+    {
+        "code": "01108",
+        "title": "Korporacja wydobywcza Melange",
+        "text": "[Click], [Click], [Click]: Pobierz 7[Credits].",
+        "flavor": "\"Szefowie kopalni są gorsi od wszystkich bossów na planecie. Tri-Maf, 4K, Yak - nieważne, kto tam trzęsie wami na dole. W Heinleinie jest tylko jedno prawo: He3 musi płynąć.\" - \"Stary\" Rick Henry, zbiegły klon."
+    },
+    {
+        "code": "01109",
+        "title": "Kampania reklamowa PADów",
+        "keywords": "Reklama",
+        "text": "Pobierz 1[Credits], gdy zaczynasz turę.",
+        "flavor": "Taki jak ten, który właśnie kupiłeś, ale lepszy."
+    },
+    {
+        "code": "01110",
+        "title": "Fundusz hedgingowy",
+        "keywords": "Transakcja",
+        "text": "Pobierz 9[Credits].",
+        "flavor": "Fundusz hedgingowy, rzecz. Pomysłowy wynalazek, dzięki któremu bogaci się bogacą, podczas gdy reszta biednych skurczybyków traci koszulę - Słownik Anarchów, Tom kto by liczył który?"
+    },
+    {
+        "code": "01111",
+        "title": "Enigma",
+        "keywords": "Brama kodowa",
+        "text": "[Subroutine] Runner traci [Click], jeśli może.\r\n[Subroutine] Zakończ skok.",
+        "flavor": "- Hej, hej! Obudź się gościu. Byłeś długo wyłączony. Co widziałeś?\r\n- ... nie pamiętam."
+    },
+    {
+        "code": "01112",
+        "title": "Łowca",
+        "keywords": "Strażnik - Tropiciel - Obserwator",
+        "text": "[Subroutine] <strong>Trace<sup>3<\/sup><\/strong>&ndash; Jeśli udane, daj runnerowi 1 tag.",
+        "flavor": ".\/\/run\/hunter-nam\/wynik=poz\r\nklient\/bezp256IPv7-&gt;wykonać? \/t\r\n3926:0HB7:1001:2NB1:1601:7784:BŁĄD"
+    },
+    {
+        "code": "01113",
+        "title": "Mur zakłóceń",
+        "keywords": "Bariera",
+        "text": "[Subroutine] Zakończ skok.",
+        "flavor": "\"Nie ma nic gorszego niż oglądanie tej pięknej błękitnej kuli danych, unoszącej się poza zasięgiem, gdy twoje połączenie się odrezuje. Myślę, że specjalnie nas drażnią.\" - Ele \"Dym\" Scovak"
+    }
+]
