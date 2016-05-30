@@ -192,7 +192,7 @@
         "position": 31,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Play only if the Runner installed a resource during his or her last turn.\n<strong>Trace<sup>2</sup></strong>– If successful, add 1 installed resource to the top of the Runner's stack. If unsuccessful, take 1 bad publicity.",
+        "text": "Play only if the Runner installed a resource during his or her last turn.\n<trace>Trace 2</trace> If successful, add 1 installed resource to the top of the Runner's stack. If unsuccessful, take 1 bad publicity.",
         "title": "Hellion Alpha Test",
         "type_code": "operation",
         "uniqueness": false
@@ -265,7 +265,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "When you rez Muckraker, take 1 bad publicity.\n[Subroutine] <strong>Trace<sup>1</sup></strong>– If successful, give the Runner 1 tag.\n[Subroutine] <strong>Trace<sup>2</sup></strong>– If successful, give the Runner 1 tag.\n[Subroutine] <strong>Trace<sup>3</sup></strong>– If successful, give the Runner 1 tag.\n[Subroutine] End the run if the Runner is tagged.",
+        "text": "When you rez Muckraker, take 1 bad publicity.\n[Subroutine] <trace>Trace 1</trace> If successful, give the Runner 1 tag.\n[Subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.\n[Subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.\n[Subroutine] End the run if the Runner is tagged.",
         "title": "Muckraker",
         "type_code": "ice",
         "uniqueness": false

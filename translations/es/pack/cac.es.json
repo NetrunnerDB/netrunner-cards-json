@@ -99,7 +99,7 @@
         "code": "03017",
         "title": "Ichi 2.0",
         "keywords": "Centinela - Bioroide - Destructor - Rastreador",
-        "text": "El Runner puede gastar [Click][Click] para romper un máximo de 2 subrutinas de Ichi 2.0.\n[Subroutine] Destruye 1 programa\n[Subroutine] Destruye 1 programa\n[Subroutine] <strong>Rastreo<sup>3</sup></strong>: Si tiene éxito, dale 1 marca al Runner e inflige 1 punto de daño cerebral.",
+        "text": "El Runner puede gastar [Click][Click] para romper un máximo de 2 subrutinas de Ichi 2.0.\n[Subroutine] Destruye 1 programa\n[Subroutine] Destruye 1 programa\n[Subroutine] <trace>Rastreo 3</trace> Si tiene éxito, dale 1 marca al Runner e inflige 1 punto de daño cerebral.",
         "flavor": "El juego ha cambiado."
     },
     {
@@ -113,7 +113,7 @@
         "code": "03019",
         "title": "Viktor 2.0",
         "keywords": "Puerta de código - Bioroide - Rastreador - AP",
-        "text": "El Runner puede gastar [Click][Click] para romper un máximo de 2 subrutinas de Viktor 2.0.\n<strong>Contador de poder alojado</strong>: Inflige 1 punto de daño cerebral\n[Subroutine] <strong>Rastreo<sup>2</sup></strong>: Si tiene éxito, coloca 1 contador de poder sobre Viktor 2.0.\n[Subroutine] Termina la incursión."
+        "text": "El Runner puede gastar [Click][Click] para romper un máximo de 2 subrutinas de Viktor 2.0.\n<strong>Contador de poder alojado</strong>: Inflige 1 punto de daño cerebral\n[Subroutine] <trace>Rastreo 2</trace> Si tiene éxito, coloca 1 contador de poder sobre Viktor 2.0.\n[Subroutine] Termina la incursión."
     },
     {
         "code": "03020",

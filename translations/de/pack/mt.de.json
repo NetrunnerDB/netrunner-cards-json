@@ -101,7 +101,7 @@
         "code": "04056",
         "title": "Schnüffler",
         "keywords": "Wächter - Spürhund",
-        "text": "Wenn der Runner auf Schnüffler trifft, decke alle Karten im Griff des Runners auf.\n<strong>Gehosteter Wirkungszähler:</strong> Decke alle Karten im Griff des Runners auf. Zerstöre 1 dieser Karten.\n[Subroutine] <strong>Aufspüren<sup>3</sup></strong> - Bei Erfolg lege 1 Wirkungszähler auf Schnüffler."
+        "text": "Wenn der Runner auf Schnüffler trifft, decke alle Karten im Griff des Runners auf.\n<strong>Gehosteter Wirkungszähler:</strong> Decke alle Karten im Griff des Runners auf. Zerstöre 1 dieser Karten.\n[Subroutine] <trace>Aufspüren 3</trace> Bei Erfolg lege 1 Wirkungszähler auf Schnüffler."
     },
     {
         "code": "04057",

@@ -102,13 +102,13 @@
     {
         "code": "02116",
         "title": "Nieplanowana zmiana ramówki",
-        "text": "Zagraj tylko, jeśli runner wykradł projekt w swojej poprzedniej turze.\n<strong>Trace<sup>6</sup></strong>– Jeśli udane, daj runnerowi tagi w liczbie równej różnicy siły namierzania i siły połączenia."
+        "text": "Zagraj tylko, jeśli runner wykradł projekt w swojej poprzedniej turze.\n<trace>Trace 6</trace> Jeśli udane, daj runnerowi tagi w liczbie równej różnicy siły namierzania i siły połączenia."
     },
     {
         "code": "02117",
         "title": "Flara",
         "keywords": "Strażnik - Tropiciel - AP",
-        "text": "[Subroutine]<strong>Trace<sup>6</sup></strong>– Jeśli udane, skasuj 1 sprzęt, zadaj 2 obrażenia ciała (nie można ich zablokować) i zakończ skok.",
+        "text": "[Subroutine]<trace>Trace 6</trace> Jeśli udane, skasuj 1 sprzęt, zadaj 2 obrażenia ciała (nie można ich zablokować) i zakończ skok.",
         "flavor": "Jasne światło rozkwitło i konsola zgasła. Wtedy poczuła dym."
     },
     {
@@ -122,7 +122,7 @@
         "code": "02119",
         "title": "Burke Bugs",
         "keywords": "Strażnik - Niszczyciel",
-        "text": "[Subroutine] <strong>Trace<sup>0</sup></strong>– Jeśli udane, runner kasuje 1 program.",
+        "text": "[Subroutine] <trace>Trace 0</trace> Jeśli udane, runner kasuje 1 program.",
         "flavor": "\"Gdybym miał określić je jednym słowem, powiedziałbym '****sko irytujące.'\" - Magik"
     },
     {

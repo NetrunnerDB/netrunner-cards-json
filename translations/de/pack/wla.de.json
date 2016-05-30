@@ -85,7 +85,7 @@
         "code": "02013",
         "title": "Ash 2X3ZB9CY",
         "keywords": "Bioroid",
-        "text": "Immer, wenn ein Run auf diesen Server erfolgreich ist, <strong>Aufspüren<sup>4</sup></strong> - bei Erfolg kann der Runner für den Rest des Runs nicht auf Karten außer Ash 2X3ZB9CY zugreifen.",
+        "text": "Immer, wenn ein Run auf diesen Server erfolgreich ist, <trace>Aufspüren 4</trace> bei Erfolg kann der Runner für den Rest des Runs nicht auf Karten außer Ash 2X3ZB9CY zugreifen.",
         "flavor": "\"Augen nach vorn, bitte.\""
     },
     {
@@ -105,14 +105,14 @@
         "code": "02016",
         "title": "Restrukturierter Datenpool",
         "keywords": "Initiative",
-        "text": "[Click]: <strong>Aufspüren<sup>2</sup></strong> - Verpasse dem Runner bei Erfolg 1 Markierung.",
+        "text": "[Click]: <trace>Aufspüren 2</trace> Verpasse dem Runner bei Erfolg 1 Markierung.",
         "flavor": "\"Wir werden eine größeren Raum brauchen.\""
     },
     {
         "code": "02017",
         "title": "TMI",
         "keywords": "Barriere",
-        "text": "Wenn du TMI lädst, <strong>Aufspüren<sup>2</sup></strong> - Bei Mißerfolg entlade TMI.\n[Subroutine] Beende den Run.",
+        "text": "Wenn du TMI lädst, <trace>Aufspüren 2</trace> Bei Mißerfolg entlade TMI.\n[Subroutine] Beende den Run.",
         "flavor": "Eine Ansammlung von weggeworfenen Cybermüll. Aber es wird nicht länger Müll bleiben."
     },
     {
@@ -125,14 +125,14 @@
         "code": "02019",
         "title": "Merkurstab",
         "keywords": "Wächter - Spürhund",
-        "text": "[Subroutine] <strong>Aufspüren<sup>3</sup></strong> - Bei Erfolg erhält der Kon 3[Credits].\n[Subroutine] <strong>Aufspüren<sup>2</sup></strong> - Beende bei Erfolg den Run.",
+        "text": "[Subroutine] <trace>Aufspüren 3</trace> Bei Erfolg erhält der Kon 3[Credits].\n[Subroutine] <trace>Aufspüren 2</trace> Beende bei Erfolg den Run.",
         "flavor": "Ein Symbol des Handels, aber hüte dich vor seinem Biss."
     },
     {
         "code": "02020",
         "title": "Dracō",
         "keywords": "Wächter - Spürhund",
-        "text": "Wenn du Dracō lädst, darfst du X[Credits] zahlen, um X Wirkungszähler auf ihn zu legen.\nDracō hat +1 Stärke für jeden Wirkungszähler auf ihm.\n[Subroutine] <strong>Aufspüren<sup>2</sup> -</strong> Bei Erfolg verpasse dem Runner 1 Markierung und beende den Run.",
+        "text": "Wenn du Dracō lädst, darfst du X[Credits] zahlen, um X Wirkungszähler auf ihn zu legen.\nDracō hat +1 Stärke für jeden Wirkungszähler auf ihm.\n[Subroutine] <trace>Aufspüren 2</trace> Bei Erfolg verpasse dem Runner 1 Markierung und beende den Run.",
         "flavor": "Victōs draconēs numquam deride."
     }
 ]

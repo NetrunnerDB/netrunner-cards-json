@@ -403,7 +403,7 @@
         "code": "01062",
         "title": "Ichi 1.0",
         "keywords": "Strażnik - Bioroid - Tropiciel - Niszczyciel",
-        "text": "Runner może wydać [Click], aby złamać dowolny podprogram Ichi 1.0.\n[Subroutine] Skasuj 1 program.\n[Subroutine] Skasuj 1 program.\n[Subroutine] <strong>Trace<sup>1</sup></strong>– Jeśli udane, daj runnerowi 1 tag i zadaj 1 obrażenie mózgu.",
+        "text": "Runner może wydać [Click], aby złamać dowolny podprogram Ichi 1.0.\n[Subroutine] Skasuj 1 program.\n[Subroutine] Skasuj 1 program.\n[Subroutine] <trace>Trace 1</trace> Jeśli udane, daj runnerowi 1 tag i zadaj 1 obrażenie mózgu.",
         "flavor": "Moja sława by mnie wyprzedzała, gdyby tylko ktoś mógł o mnie opowiadać."
     },
     {
@@ -557,7 +557,7 @@
     {
         "code": "01086",
         "title": "Wtyczka w SEA",
-        "text": "Zagraj tylko, jeśli runner przeprowadził w swojej turze udany skok.\n<strong>Trace<sup>3</sup></strong>– Jeśli udane, daj runnerowi 1 tag.",
+        "text": "Zagraj tylko, jeśli runner przeprowadził w swojej turze udany skok.\n<trace>Trace 3</trace> Jeśli udane, daj runnerowi 1 tag.",
         "flavor": "\"SEA dała nam cynk o jakichś podejrzanych odczytach w pobliżu zamku.\" - Jerome Lock, technik dyżurny"
     },
     {
@@ -570,13 +570,13 @@
         "code": "01088",
         "title": "Kruk danych",
         "keywords": "Strażnik - Tropiciel - Obserwator",
-        "text": "Gdy runner spotyka Kruka danych, musi wziąć 1 tag lub zakończyć skok.\n<strong>Hostowany znacznik zasilania</strong>: Daj runnerowi 1 tag.\n[Subroutine] <strong>Trace<sup>3</sup></strong>– Jeśli udane, połóż 1 znacznik zasilania na Kruku danych."
+        "text": "Gdy runner spotyka Kruka danych, musi wziąć 1 tag lub zakończyć skok.\n<strong>Hostowany znacznik zasilania</strong>: Daj runnerowi 1 tag.\n[Subroutine] <trace>Trace 3</trace> Jeśli udane, połóż 1 znacznik zasilania na Kruku danych."
     },
     {
         "code": "01089",
         "title": "Analizator matrycy",
         "keywords": "Strażnik - Tropiciel - Obserwator",
-        "text": "Gdy runner spotyka Analizator matrycy, możesz zapłacić 1[Credits], by położyć 1 żeton zaawansowania na karcie, którą można awansować.\n[Subroutine] <strong>Trace<sup>2</sup></strong>– Jeśli udane, daj runnerowi 1 tag.",
+        "text": "Gdy runner spotyka Analizator matrycy, możesz zapłacić 1[Credits], by położyć 1 żeton zaawansowania na karcie, którą można awansować.\n[Subroutine] <trace>Trace 2</trace> Jeśli udane, daj runnerowi 1 tag.",
         "flavor": "Analizowanie było świetne. Delegowanie poleceń okazało się jeszcze lepsze."
     },
     {
@@ -677,7 +677,7 @@
         "code": "01104",
         "title": "Cień",
         "keywords": "Strażnik - Tropiciel",
-        "text": "Cień można awansować i ma +1 siły za każdy leżący na nim żeton zaawansowania.\n[Subroutine] Korp pobiera 2[Credits].\n[Subroutine] <strong>Trace<sup>3</sup></strong>– Jeśli udane, daj runnerowi 1 tag.",
+        "text": "Cień można awansować i ma +1 siły za każdy leżący na nim żeton zaawansowania.\n[Subroutine] Korp pobiera 2[Credits].\n[Subroutine] <trace>Trace 3</trace> Jeśli udane, daj runnerowi 1 tag.",
         "flavor": "\"Kto wie, jakie zło czyha w ludzkich diamentach pamięci? Weyland wie.\" - niepodpisane cyber-graffiti"
     },
     {
@@ -732,7 +732,7 @@
         "code": "01112",
         "title": "Łowca",
         "keywords": "Strażnik - Tropiciel - Obserwator",
-        "text": "[Subroutine] <strong>Trace<sup>3</sup></strong>– Jeśli udane, daj runnerowi 1 tag.",
+        "text": "[Subroutine] <trace>Trace 3</trace> Jeśli udane, daj runnerowi 1 tag.",
         "flavor": ".//run/hunter-nam/wynik=poz\nklient/bezp256IPv7->wykonać? /t\n3926:0HB7:1001:2NB1:1601:7784:BŁĄD"
     },
     {

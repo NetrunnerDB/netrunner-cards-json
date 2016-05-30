@@ -31,7 +31,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] <strong>Trace<sup>2</sup></strong>– If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program.",
+        "text": "[Subroutine] <trace>Trace 2</trace> If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program.",
         "title": "Sagittarius",
         "type_code": "ice",
         "uniqueness": false
@@ -68,7 +68,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] <strong>Trace<sup>2</sup></strong>– If successful, do 1 net damage. If your trace strength is 5 or greater, do 1 net damage.",
+        "text": "[Subroutine] <trace>Trace 2</trace> If successful, do 1 net damage. If your trace strength is 5 or greater, do 1 net damage.",
         "title": "Gemini",
         "type_code": "ice",
         "uniqueness": false
@@ -178,7 +178,7 @@
         "position": 90,
         "quantity": 3,
         "side_code": "corp",
-        "text": "<strong>Trace<sup>3</sup></strong>– If successful, trash 1 <strong>connection</strong>. The Runner can take 1 tag to prevent this.",
+        "text": "<trace>Trace 3</trace> If successful, trash 1 <strong>connection</strong>. The Runner can take 1 tag to prevent this.",
         "title": "Snatch and Grab",
         "type_code": "operation",
         "uniqueness": false

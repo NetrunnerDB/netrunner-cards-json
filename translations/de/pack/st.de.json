@@ -68,7 +68,7 @@
         "code": "04031",
         "title": "Hellion Alpha-Test",
         "keywords": "Schwarze Ops",
-        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug eine Ressource installiert hat.\n<strong>Aufspüren<sup>2</sup></strong> - Bei Erfolg füge 1 installierte Ressource oben dem Stapel des Runners hinzu. Bei Misserfolg erhältst du 1 negative Publicity."
+        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug eine Ressource installiert hat.\n<trace>Aufspüren 2</trace> Bei Erfolg füge 1 installierte Ressource oben dem Stapel des Runners hinzu. Bei Misserfolg erhältst du 1 negative Publicity."
     },
     {
         "code": "04032",
@@ -95,7 +95,7 @@
         "code": "04035",
         "title": "Skandalreporter",
         "keywords": "Wächter - Spürhund - Illegal",
-        "text": "Wenn du Skandalreporter lädst, erhälst du 1 negative Publicity.\n[Subroutine] <strong>Aufspüren<sup>1</sup></strong> - Verpasse dem Runner bei Erfolg 1 Markierung.\n[Subroutine] <strong>Aufspüren<sup>2</sup></strong> - Verpasse dem Runner bei Erfolg 1 Markierung.\n[Subroutine] <strong>Aufspüren<sup>3</sup></strong> - Verpasse dem Runner bei Erfolg 1 Markierung.\n[Subroutine] Beende den Run, falls der Runner markiert ist."
+        "text": "Wenn du Skandalreporter lädst, erhälst du 1 negative Publicity.\n[Subroutine] <trace>Aufspüren 1</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[Subroutine] <trace>Aufspüren 2</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[Subroutine] <trace>Aufspüren 3</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[Subroutine] Beende den Run, falls der Runner markiert ist."
     },
     {
         "code": "04036",

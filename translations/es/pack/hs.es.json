@@ -99,21 +99,21 @@
         "code": "02096",
         "title": "Sabueso De Datos",
         "keywords": "Centinela - Rastreador - Observador",
-        "text": "[Subroutine] <strong>Rastreo<sup>2</sup></strong>: Si tiene éxito, mira una cantidad de cartas de la parte superior del Montón del Runner igual a la cantidad en la que tu fuerza de rastreo superaba su fuerza de enlace. Destruye 1 de esas cartas y coloca el resto en cualquier orden. ",
+        "text": "[Subroutine] <trace>Rastreo 2</trace> Si tiene éxito, mira una cantidad de cartas de la parte superior del Montón del Runner igual a la cantidad en la que tu fuerza de rastreo superaba su fuerza de enlace. Destruye 1 de esas cartas y coloca el resto en cualquier orden. ",
         "flavor": "Sniff."
     },
     {
         "code": "02097",
         "title": "Bernice Mai",
         "keywords": "Sysop",
-        "text": "Siempre que haya una incursión con éxito contra este servidor, <strong>Rastreo<sup>5</sup></strong>: si tiene éxito, dale 1 marca al Runner. Si no tien éxito, destruye a Bernice Mai.",
+        "text": "Siempre que haya una incursión con éxito contra este servidor, <trace>Rastreo 5</trace> si tiene éxito, dale 1 marca al Runner. Si no tien éxito, destruye a Bernice Mai.",
         "flavor": "Siguiéndole el rastro al mundo, pantalla a pantalla."
     },
     {
         "code": "02098",
         "title": "Chatarra",
         "keywords": "Puerta De Código - Rastreador",
-        "text": "Chatarra puede ser avanzada sólo mientras y esté ejecutada y gana: \"[Subroutine] <strong>Rastreo<sup>2</sup></strong>: Si tiene éxito, dale 1 marca al Runner.\" por cada ficha de Avance que tenga.",
+        "text": "Chatarra puede ser avanzada sólo mientras y esté ejecutada y gana: \"[Subroutine] <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner.\" por cada ficha de Avance que tenga.",
         "flavor": "Ya no estás en Kansas."
     },
     {
@@ -126,7 +126,7 @@
     {
         "code": "02100",
         "title": "Bioluminiscencia",
-        "text": "<strong>Rastreo<sup>7</sup></strong>: Si tiene éxito, destruye 1 recurso <strong>virtual</strong> o 1 <strong>enlace</strong>.",
+        "text": "<trace>Rastreo 7</trace> Si tiene éxito, destruye 1 recurso <strong>virtual</strong> o 1 <strong>enlace</strong>.",
         "flavor": "\"Es como un anagrama.\" - diseñador Fénix"
     }
 ]

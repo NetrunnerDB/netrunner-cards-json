@@ -306,7 +306,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 7,
-        "text": "When you rez Checkpoint, take 1 bad publicity.\n[Subroutine] <strong>Trace<sup>5</sup></strong>– If successful, do 3 meat damage when this run is successful.",
+        "text": "When you rez Checkpoint, take 1 bad publicity.\n[Subroutine] <trace>Trace 5</trace> If successful, do 3 meat damage when this run is successful.",
         "title": "Checkpoint",
         "type_code": "ice",
         "uniqueness": false
@@ -343,7 +343,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight.\n[Subroutine]<strong>Trace<sup>x</sup></strong>– If successful, give the Runner 1 tag.\n[Subroutine]<strong>Trace<sup>x</sup></strong>– If successful, give the Runner 1 tag.",
+        "text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight.\n[Subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.\n[Subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.",
         "title": "Searchlight",
         "type_code": "ice",
         "uniqueness": false

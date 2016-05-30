@@ -139,7 +139,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "When the Runner encounters Troll, <strong>trace<sup>2</sup></strong>– if successful, the Runner must lose [Click] or end the run.",
+        "text": "When the Runner encounters Troll, <trace>trace 2</trace> if successful, the Runner must lose [Click] or end the run.",
         "title": "Troll",
         "type_code": "ice",
         "uniqueness": false
@@ -158,7 +158,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] <strong>Trace<sup>2</sup></strong>– If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.",
+        "text": "[Subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.",
         "title": "Virgo",
         "type_code": "ice",
         "uniqueness": false
@@ -211,7 +211,7 @@
         "position": 112,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Install only in a remote server.\n[Trash]: Trash all cards installed in or protecting this server and <strong>trace<sup>X</sup></strong>– if successful, do 3 net damage. X is the number of cards trashed. Use this ability only during a run on this server.",
+        "text": "Install only in a remote server.\n[Trash]: Trash all cards installed in or protecting this server and <trace>trace X</trace> if successful, do 3 net damage. X is the number of cards trashed. Use this ability only during a run on this server.",
         "title": "Self-destruct",
         "trash_cost": 0,
         "type_code": "upgrade",
@@ -312,6 +312,7 @@
     },
     {
         "code": "06118",
+        "cost": null,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 2,

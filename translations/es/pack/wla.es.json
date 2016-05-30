@@ -85,7 +85,7 @@
         "code": "02013",
         "title": "Ash 2X3ZB9CY",
         "keywords": "Bioroide",
-        "text": "Siempre que se realice una incursión con éxito contra este servidor, <strong>Rastreo<sup>4</sup></strong>: si tiene éxito, el Runner no puede acceder a ninguna carta excepto a Ash 2X3ZB9CY durante el resto de esta incursión.",
+        "text": "Siempre que se realice una incursión con éxito contra este servidor, <trace>Rastreo 4</trace> si tiene éxito, el Runner no puede acceder a ninguna carta excepto a Ash 2X3ZB9CY durante el resto de esta incursión.",
         "flavor": "\"Vista al frente, por favor.\""
     },
     {
@@ -105,14 +105,14 @@
         "code": "02016",
         "title": "Reserva De Datos Reestructurada",
         "keywords": "Iniciativa",
-        "text": "[Click]: <strong>Rastreo<sup>2</sup></strong>: Si tiene éxito, dale 1 marca al Runner.",
+        "text": "[Click]: <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner.",
         "flavor": "\"Vamos a necesitar una sala mayor.\""
     },
     {
         "code": "02017",
         "title": "DMI",
         "keywords": "Barrera",
-        "text": "Cuando ejectues DMI, <strong>Rastreo<sup>2</sup></strong>: si no tiene éxito, suspende DMI.\n[Subroutine] Termina la incursión.",
+        "text": "Cuando ejectues DMI, <trace>Rastreo 2</trace> si no tiene éxito, suspende DMI.\n[Subroutine] Termina la incursión.",
         "flavor": "Una colección de ciberbasura desechada. Pero deja de ser basura en poco tiempo."
     },
     {
@@ -125,14 +125,14 @@
         "code": "02019",
         "title": "Caduceo",
         "keywords": "Centinela - Rastreador",
-        "text": "[Subroutine]: <strong>Rastreo<sup>3</sup></strong>: Si tiene éxito, la Corporación gana 3[Credits].\n[Subroutine]: <strong>Rastreo<sup>2</sup></strong>: Si tiene éxito, termina la incursión.",
+        "text": "[Subroutine]: <trace>Rastreo 3</trace> Si tiene éxito, la Corporación gana 3[Credits].\n[Subroutine]: <trace>Rastreo 2</trace> Si tiene éxito, termina la incursión.",
         "flavor": "Un símbolo de comercio, pero cuidado con su mordisco."
     },
     {
         "code": "02020",
         "title": "Dracô",
         "keywords": "Centinela - Rastreador",
-        "text": "Cuando ejectues Dracô, puedes pagar X[Credits] para colocar X contadores de poder sobre él.\nDracô tiene +1 punto de fuerza por cada contador de poder que haya sobre él.\n[Subroutine] <strong>Rastreo<sup>2</sup></strong>: Si tiene éxito, dale 1 marca al Runner y termina la incursión.",
+        "text": "Cuando ejectues Dracô, puedes pagar X[Credits] para colocar X contadores de poder sobre él.\nDracô tiene +1 punto de fuerza por cada contador de poder que haya sobre él.\n[Subroutine] <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner y termina la incursión.",
         "flavor": "Victôs draconês numquam deride."
     }
 ]

@@ -61,7 +61,7 @@
         "code": "02030",
         "title": "Sherlock 1.0",
         "keywords": "Wächter - Bioroid - Spürhund",
-        "text": "Der Runner darf [Click] ausgeben, um eine beliebige Subroutine auf Sherlock 1.0 auszuschalten.\n[Subroutine] <strong>Aufspüren<sup>4</sup></strong> - Bei Erfolg lege 1 installiertes Programm oben auf den Stapel des Runners.\n[Subroutine] <strong>Aufspüren<sup>4</sup></strong> - Bei Erfolg lege 1 installiertes Programm oben auf den Stapel des Runners"
+        "text": "Der Runner darf [Click] ausgeben, um eine beliebige Subroutine auf Sherlock 1.0 auszuschalten.\n[Subroutine] <trace>Aufspüren 4</trace> Bei Erfolg lege 1 installiertes Programm oben auf den Stapel des Runners.\n[Subroutine] <trace>Aufspüren 4</trace> Bei Erfolg lege 1 installiertes Programm oben auf den Stapel des Runners"
     },
     {
         "code": "02031",
@@ -105,7 +105,7 @@
     {
         "code": "02037",
         "title": "Gezielter Blackout",
-        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\n<strong>Aufspüren<sup>2</sup></strong> - Bei Erfolg zerstöre 1 Hardware mit Installationskosten, die höchstens der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entsprechen."
+        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\n<trace>Aufspüren 2</trace> Bei Erfolg zerstöre 1 Hardware mit Installationskosten, die höchstens der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entsprechen."
     },
     {
         "code": "02038",

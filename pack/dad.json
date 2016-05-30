@@ -229,7 +229,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 6,
-        "text": "If Archangel is accessed from R&D, the Runner must reveal it.\nIf you pay 3[Credits] when the Runner accesses Archangel, he or she immediately encounters it. Ignore this ability if Archangel is accessed from Archives.\n[Subroutine] <strong>Trace<sup>6</sup></strong>– If successful, add 1 installed Runner card to his or her grip.",
+        "text": "If Archangel is accessed from R&D, the Runner must reveal it.\nIf you pay 3[Credits] when the Runner accesses Archangel, he or she immediately encounters it. Ignore this ability if Archangel is accessed from Archives.\n[Subroutine] <trace>Trace 6</trace> If successful, add 1 installed Runner card to his or her grip.",
         "title": "Archangel",
         "type_code": "ice",
         "uniqueness": false
@@ -248,7 +248,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "If a <strong>current</strong> is active, News Hound gains \"[Subroutine] End the run.\" after all its other subroutines.\n[Subroutine] <strong>Trace<sup>3</sup></strong>– If successful, give the Runner 1 tag.",
+        "text": "If a <strong>current</strong> is active, News Hound gains \"[Subroutine] End the run.\" after all its other subroutines.\n[Subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
         "title": "News Hound",
         "type_code": "ice",
         "uniqueness": false
@@ -267,7 +267,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "Resistor has +1 strength for each tag the Runner has.\n[Subroutine] <strong>Trace<sup>4</sup></strong>– If successful, end the run.",
+        "text": "Resistor has +1 strength for each tag the Runner has.\n[Subroutine] <trace>Trace 4</trace> If successful, end the run.",
         "title": "Resistor",
         "type_code": "ice",
         "uniqueness": false
@@ -324,7 +324,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "When the Runner encounters Turnpike, he or she loses 1[Credits].\n[Subroutine] <strong>Trace<sup>5</sup></strong>– If successful, give the Runner 1 tag.",
+        "text": "When the Runner encounters Turnpike, he or she loses 1[Credits].\n[Subroutine] <trace>Trace 5</trace> If successful, give the Runner 1 tag.",
         "title": "Turnpike",
         "type_code": "ice",
         "uniqueness": false
@@ -348,6 +348,7 @@
     },
     {
         "code": "09020",
+        "cost": null,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 1,
@@ -502,7 +503,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] <strong>Trace<sup>5</sup></strong>– If successful, do 3 net damage.\n[Subroutine] <strong>Trace<sup>4</sup></strong>– If successful, trash 1 program.",
+        "text": "[Subroutine] <trace>Trace 5</trace> If successful, do 3 net damage.\n[Subroutine] <trace>Trace 4</trace> If successful, trash 1 program.",
         "title": "Assassin",
         "type_code": "ice",
         "uniqueness": false
@@ -839,7 +840,7 @@
         "position": 47,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Memory Unit] +1[Link]\nOnce per turn, when you encounter a piece of ice, you may force the Corp to \"<strong>trace<sup>5</sup></strong>– If successful, give the Runner 1 tag and end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\"\nLimit 1 <strong>console</strong> per player.",
+        "text": "+1[Memory Unit] +1[Link]\nOnce per turn, when you encounter a piece of ice, you may force the Corp to \"<trace>trace 5</trace> If successful, give the Runner 1 tag and end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\"\nLimit 1 <strong>console</strong> per player.",
         "title": "Security Nexus",
         "type_code": "hardware",
         "uniqueness": true

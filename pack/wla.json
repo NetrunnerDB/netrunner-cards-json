@@ -234,7 +234,7 @@
         "position": 13,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Whenever there is a successful run on this server, <strong>trace<sup>4</sup></strong>– if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
+        "text": "Whenever there is a successful run on this server, <trace>trace 4</trace> if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
         "title": "Ash 2X3ZB9CY",
         "trash_cost": 3,
         "type_code": "upgrade",
@@ -289,7 +289,7 @@
         "position": 16,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: <strong>Trace<sup>2</sup></strong>– If successful, give the Runner 1 tag.",
+        "text": "[Click]: <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
         "title": "Restructured Datapool",
         "type_code": "agenda",
         "uniqueness": false
@@ -308,7 +308,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "When you rez TMI, <strong>trace<sup>2</sup></strong>– if unsuccessful, derez TMI.\n[Subroutine] End the run.",
+        "text": "When you rez TMI, <trace>trace 2</trace> if unsuccessful, derez TMI.\n[Subroutine] End the run.",
         "title": "TMI",
         "type_code": "ice",
         "uniqueness": false
@@ -344,7 +344,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[Subroutine] <strong>Trace<sup>3</sup></strong>– If successful, the Corp gains 3[Credits].\n[Subroutine] <strong>Trace<sup>2</sup></strong>– If successful, end the run.",
+        "text": "[Subroutine] <trace>Trace 3</trace> If successful, the Corp gains 3[Credits].\n[Subroutine] <trace>Trace 2</trace> If successful, end the run.",
         "title": "Caduceus",
         "type_code": "ice",
         "uniqueness": false
@@ -363,7 +363,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "When you rez Dracō, you may pay X[Credits] to place X power counters on it.\nDracō has +1 strength for each power counter on it.\n[Subroutine] <strong>Trace<sup>2</sup></strong>– If successful, give the Runner 1 tag and end the run.",
+        "text": "When you rez Dracō, you may pay X[Credits] to place X power counters on it.\nDracō has +1 strength for each power counter on it.\n[Subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag and end the run.",
         "title": "Dracō",
         "type_code": "ice",
         "uniqueness": false

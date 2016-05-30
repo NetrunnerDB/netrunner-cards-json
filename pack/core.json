@@ -1118,7 +1118,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "The Runner can spend [Click] to break any subroutine on Ichi 1.0.\n[Subroutine] Trash 1 program.\n[Subroutine] Trash 1 program.\n[Subroutine] <strong>Trace<sup>1</sup></strong>– If successful, give the Runner 1 tag and do 1 brain damage.",
+        "text": "The Runner can spend [Click] to break any subroutine on Ichi 1.0.\n[Subroutine] Trash 1 program.\n[Subroutine] Trash 1 program.\n[Subroutine] <trace>Trace 1</trace> If successful, give the Runner 1 tag and do 1 brain damage.",
         "title": "Ichi 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -1520,6 +1520,7 @@
     },
     {
         "code": "01085",
+        "cost": null,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 3,
@@ -1546,7 +1547,7 @@
         "position": 86,
         "quantity": 2,
         "side_code": "corp",
-        "text": "Play only if the Runner made a successful run during his or her last turn.\n<strong>Trace<sup>3</sup></strong>– If successful, give the Runner 1 tag.",
+        "text": "Play only if the Runner made a successful run during his or her last turn.\n<trace>Trace 3</trace> If successful, give the Runner 1 tag.",
         "title": "SEA Source",
         "type_code": "operation",
         "uniqueness": false
@@ -1582,7 +1583,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "When the Runner encounters Data Raven, he or she must either take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[Subroutine] <strong>Trace<sup>3</sup></strong>– If successful, place 1 power counter on Data Raven.",
+        "text": "When the Runner encounters Data Raven, he or she must either take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[Subroutine] <trace>Trace 3</trace> If successful, place 1 power counter on Data Raven.",
         "title": "Data Raven",
         "type_code": "ice",
         "uniqueness": false
@@ -1601,7 +1602,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "When the Runner encounters Matrix Analyzer, you may pay 1[Credits] to place 1 advancement token on a card that can be advanced.\n[Subroutine] <strong>Trace<sup>2</sup></strong>– If successful, give the Runner 1 tag.",
+        "text": "When the Runner encounters Matrix Analyzer, you may pay 1[Credits] to place 1 advancement token on a card that can be advanced.\n[Subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
         "title": "Matrix Analyzer",
         "type_code": "ice",
         "uniqueness": false
@@ -1874,7 +1875,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 1,
-        "text": "Shadow can be advanced and has +1 strength for each advancement token on it.\n[Subroutine] The Corp gains 2[Credits].\n[Subroutine] <strong>Trace<sup>3</sup></strong>– If successful, give the Runner 1 tag.",
+        "text": "Shadow can be advanced and has +1 strength for each advancement token on it.\n[Subroutine] The Corp gains 2[Credits].\n[Subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
         "title": "Shadow",
         "type_code": "ice",
         "uniqueness": false
@@ -2024,7 +2025,7 @@
         "quantity": 2,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] <strong>Trace<sup>3</sup></strong>– If successful, give the Runner 1 tag.",
+        "text": "[Subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
         "title": "Hunter",
         "type_code": "ice",
         "uniqueness": false

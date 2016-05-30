@@ -102,13 +102,13 @@
     {
         "code": "02116",
         "title": "Sustituciones De Mitad De Temporada",
-        "text": "Juega esta carta sólo si el Runner robó un plan durante su último turno.\n<strong>Rastreo<sup>6</sup></strong>: Si tien éxito, dale al Runner tantas marcas como la cantidad por la que tu fuerza de rastreo superaba su fuerza de enlace."
+        "text": "Juega esta carta sólo si el Runner robó un plan durante su último turno.\n<trace>Rastreo 6</trace> Si tien éxito, dale al Runner tantas marcas como la cantidad por la que tu fuerza de rastreo superaba su fuerza de enlace."
     },
     {
         "code": "02117",
         "title": "Bengala",
         "keywords": "Centinela - Rastreador - AP",
-        "text": "[Subroutine] <strong>Rastreo<sup>6</sup></strong>: Si tiene éxito, destruye 1 hardware, inflige 2 puntos de daño físico (no puede ser prevenido) y termina la incursión.",
+        "text": "[Subroutine] <trace>Rastreo 6</trace> Si tiene éxito, destruye 1 hardware, inflige 2 puntos de daño físico (no puede ser prevenido) y termina la incursión.",
         "flavor": "Se encendió una brillante luz y la consola se apagó. Fue entonces cuando olió el humo."
     },
     {
@@ -122,7 +122,7 @@
         "code": "02119",
         "title": "Bichos De Burke",
         "keywords": "Centinela - Destructor",
-        "text": "[Subroutine] <strong>Rastreo<sup>0</sup></strong>: Si tiene éxito, el Runner destruye 1 programa.",
+        "text": "[Subroutine] <trace>Rastreo 0</trace> Si tiene éxito, el Runner destruye 1 programa.",
         "flavor": "\"Si tuviera que describir los bichos con una palabra, sería 'pu** incordio'.\""
     },
     {

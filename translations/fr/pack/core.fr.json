@@ -381,7 +381,7 @@
         "code": "01062",
         "title": "Ichi 1.0",
         "keywords": "Sentinelle - Bioroïde - Traqueur - Destructeur",
-        "text": "Le runner peut dépenser [Click] pour neutraliser n'importe quelle routine de Ichi 1.0.\n[Subroutine] Effacez 1 programme.\n[Subroutine] Effacez 1 programme.\n[Subroutine] <strong>Traque<sup>1</sup></strong> &ndash Si la traque est réussie, donnez 1 tag au Runner et infligez 1 dégât Neuro.",
+        "text": "Le runner peut dépenser [Click] pour neutraliser n'importe quelle routine de Ichi 1.0.\n[Subroutine] Effacez 1 programme.\n[Subroutine] Effacez 1 programme.\n[Subroutine] <trace>Traque 1</trace> Si la traque est réussie, donnez 1 tag au Runner et infligez 1 dégât Neuro.",
         "flavor": "Ma réputation me précéderait, s'il restait quelqu'un pour en parler."
     },
     {
@@ -535,7 +535,7 @@
     {
         "code": "01086",
         "title": "Source à l’ADAO",
-        "text": "Jouable uniquement si le Runner a réussi un piratage lors de son dernier tour.\n<strong>Traque<sup>3</sup></strong> &ndash\nSi la traque est réussie, donnez un tag au Runner.",
+        "text": "Jouable uniquement si le Runner a réussi un piratage lors de son dernier tour.\n<trace>Traque 3</trace> Si la traque est réussie, donnez un tag au Runner.",
         "flavor": "\"L'ADAO nous a informé de pics de données suspects là-haut, près du Chatêau.\" - Jérôme Lock, tech de service."
     },
     {
@@ -548,13 +548,13 @@
         "code": "01088",
         "title": "Cyber Corbeau",
         "keywords": "Sentinelle - Traqueur - Veilleur",
-        "text": "Lorsque le Runner rencontre le Cyber Corbeau, il doit prendre 1 tag, soit arrêter le piratage.\n<strong>Pion Pouvoir hébergé</strong> : Donnez 1 tag au Runner.\n[Subroutine] <strong>Traque<sup>3</sup></strong> &ndash Si la traque est réussie, placez 1 pion Pouvoir sur le Cyber Corbeau."
+        "text": "Lorsque le Runner rencontre le Cyber Corbeau, il doit prendre 1 tag, soit arrêter le piratage.\n<strong>Pion Pouvoir hébergé</strong> : Donnez 1 tag au Runner.\n[Subroutine] <trace>Traque 3</trace> Si la traque est réussie, placez 1 pion Pouvoir sur le Cyber Corbeau."
     },
     {
         "code": "01089",
         "title": "Analyste Matriciel",
         "keywords": "Sentinelle - Traqueur, Veilleur",
-        "text": "Lorsque le Runner rencontre l'Analyste Matriciel, vous pouvez payer 1 [Credits] pour mettre 1 pion Avancement sur une carte qui peut être avancée.\n[Subroutine] <strong>Traque<sup>2</sup></strong> &ndash Si la traque est réussie, donnez 1 tag au Runner.",
+        "text": "Lorsque le Runner rencontre l'Analyste Matriciel, vous pouvez payer 1 [Credits] pour mettre 1 pion Avancement sur une carte qui peut être avancée.\n[Subroutine] <trace>Traque 2</trace> Si la traque est réussie, donnez 1 tag au Runner.",
         "flavor": "Analyser était plaisant. Déléguer des commandes s'avéra l'être encore plus."
     },
     {
@@ -655,7 +655,7 @@
         "code": "01104",
         "title": "Ombre",
         "keywords": "Sentinelle - Trace",
-        "text": "L'Ombre peut être avancée et a +1 en force pour chaqun de ses pions d'Avancement.\n[Subroutine] La Corpo gagne 2 [Credits].\n[Subroutine] <strong>Traque<sup>3</sup></strong> &ndash Si la traque est réussi, donnez 1 tag au Runner.",
+        "text": "L'Ombre peut être avancée et a +1 en force pour chaqun de ses pions d'Avancement.\n[Subroutine] La Corpo gagne 2 [Credits].\n[Subroutine] <trace>Traque 3</trace> Si la traque est réussi, donnez 1 tag au Runner.",
         "flavor": "Qui sait quel mal rôde dans les diamants mémoriels des hommes ? Weyland le sait. - Cyber-graffiti anonyme"
     },
     {
@@ -710,7 +710,7 @@
         "code": "01112",
         "title": "Chasseur",
         "keywords": "Sentinelle - Traqueur",
-        "text": "[Subroutine] <strong>Traque<sup>3</sup></strong> &ndash Si la traque est réussi, donnez 1 tag au Runner.",
+        "text": "[Subroutine] <trace>Traque 3</trace> Si la traque est réussi, donnez 1 tag au Runner.",
         "flavor": ".//piratage/chasseur-tr/retour=vrai client/secIPv7->confirmer? /o 3926:0HB7:1001:2NB1:1601:7784:ERREUR"
     },
     {

@@ -172,7 +172,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "The Runner may spend [Click] to break any subroutine on Sherlock 1.0.\n[Subroutine] <strong>Trace<sup>4</sup></strong>– If successful, add 1 installed program to the top of the Runner's stack.\n[Subroutine] <strong>Trace<sup>4</sup></strong>– If successful, add 1 installed program to the top of the Runner's stack.",
+        "text": "The Runner may spend [Click] to break any subroutine on Sherlock 1.0.\n[Subroutine] <trace>Trace 4</trace> If successful, add 1 installed program to the top of the Runner's stack.\n[Subroutine] <trace>Trace 4</trace> If successful, add 1 installed program to the top of the Runner's stack.",
         "title": "Sherlock 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -294,7 +294,7 @@
         "position": 37,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Play only if the Runner made a successful run during his or her last turn.\n<strong>Trace<sup>2</sup></strong>– If successful, trash 1 piece of hardware with an install cost equal to or less than the amount by which your trace strength exceeded the Runner's link strength.",
+        "text": "Play only if the Runner made a successful run during his or her last turn.\n<trace>Trace 2</trace> If successful, trash 1 piece of hardware with an install cost equal to or less than the amount by which your trace strength exceeded the Runner's link strength.",
         "title": "Power Grid Overload",
         "type_code": "operation",
         "uniqueness": false
