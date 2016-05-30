@@ -46,12 +46,12 @@ Required properties are in **bold**.
 `"apex"`, `"criminal"`, `"shaper"`, `"sunny-lebeau"`, `"haas-bioroid"`, `"jinteki"`, `"nbn"`, `"weyland-consortium"`, `"neutral"` 
 * faction_cost - Influence cost of this card. Relevant for all cards except identities. Examples: `0` for Sure Gamble, `5` for Escher. 
 * flavor - Flavor text of the card. May be empty.
-* illustrator - Illutrator's name.
+* illustrator - Illustrator's name.
 * influence_limit - Maximum number of influence points. Relevant for identities.
 * keywords - also known as 'Subtypes'. Examples: `"Code Gate - Deflector - Psi"` for Bullfrog, `"Security"` for False Lead. Multiple subtypes are separated by the string `" - "` (blank, minus, blank).
 * **deck_limit** - Maximum number of copies allowed in a deck. Examples: `3` for Deep Red, `1` for Government Takeover, `6` for NetChip.
 * memory_cost - MU usage of the card. Relevant for programs.
-* minimum_deck_size - Minmum Deck size. Relevant for identities.
+* minimum_deck_size - Minimum Deck size. Relevant for identities.
 * **pack_code** - Code of the pack this card is in.
 * **position** - Card number within that pack.
 * **quantity** - How many copies of this card are in the pack.
@@ -75,7 +75,7 @@ To get the 4-letter hexcode of a UTF-8 symbol (or look up what a particular hexc
 
 #### Quotes and breaking text into multiple lines
 
-To have text spanning multiple lines, use `\n` to separate them. To have quotes as part of the text, use `\"`.  For example, `"flavor": "\"I'm overpowered.\"\n-Whizzard"` results in following flavor text:
+To have text spanning multiple lines, use `\n` to separate them. To have quotes as part of the text, use `\"`.  For example, `"flavor": "\"I'm overpowered.\"\n-Whizzard"` results in the following flavor text:
 
 > *"I'm overpowered."*  
 > *-Whizzard*
