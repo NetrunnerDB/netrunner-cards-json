@@ -30,7 +30,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 1,
-        "text": "[Subroutine] The Corp gains 1[Credits] or draws 1 card.\n[Subroutine] The Corp gains 1[Credits] or draws 1 card.\n[Subroutine] The Corp gains 1[Credits] or draws 1 card.",
+        "text": "[subroutine] The Corp gains 1[credit] or draws 1 card.\n[subroutine] The Corp gains 1[credit] or draws 1 card.\n[subroutine] The Corp gains 1[credit] or draws 1 card.",
         "title": "Errand Boy",
         "type_code": "ice",
         "uniqueness": false
@@ -46,7 +46,7 @@
         "position": 103,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: Place 1 power counter on IT Department.\n<strong>Hosted power counter:</strong> Choose a rezzed piece of ice. That ice has +1 strength until the end of the turn for each power counter (including the one spent) on IT Department.",
+        "text": "[click]: Place 1 power counter on IT Department.\n<strong>Hosted power counter:</strong> Choose a rezzed piece of ice. That ice has +1 strength until the end of the turn for each power counter (including the one spent) on IT Department.",
         "title": "IT Department",
         "trash_cost": 4,
         "type_code": "asset",
@@ -66,7 +66,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "The Runner may spend [Click] to break any subroutine on Markus 1.0.\n[Subroutine] The Runner trashes 1 of his or her installed cards.\n[Subroutine] End the run.",
+        "text": "The Runner may spend [click] to break any subroutine on Markus 1.0.\n[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] End the run.",
         "title": "Markus 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -102,7 +102,7 @@
         "position": 106,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 1[Credits] whenever you create a server.",
+        "text": "Gain 1[credit] whenever you create a server.",
         "title": "Turtlebacks",
         "trash_cost": 4,
         "type_code": "asset",
@@ -120,7 +120,7 @@
         "position": 107,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, spend [Click].\nRez 1 piece of ice for each tag the Runner has, ignoring all costs.",
+        "text": "As an additional cost to play this operation, spend [click].\nRez 1 piece of ice for each tag the Runner has, ignoring all costs.",
         "title": "Shoot the Moon",
         "type_code": "operation",
         "uniqueness": false
@@ -139,7 +139,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "When the Runner encounters Troll, <trace>trace 2</trace> if successful, the Runner must lose [Click] or end the run.",
+        "text": "When the Runner encounters Troll, <trace>trace 2</trace> if successful, the Runner must lose [click] or end the run.",
         "title": "Troll",
         "type_code": "ice",
         "uniqueness": false
@@ -158,7 +158,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.",
+        "text": "[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.",
         "title": "Virgo",
         "type_code": "ice",
         "uniqueness": false
@@ -176,7 +176,7 @@
         "position": 110,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to steal an agenda, the Runner must pay 2[Credits] for each advancement token on that agenda.\nLimit 1 per deck.",
+        "text": "As an additional cost to steal an agenda, the Runner must pay 2[credit] for each advancement token on that agenda.\nLimit 1 per deck.",
         "title": "Utopia Fragment",
         "type_code": "agenda",
         "uniqueness": true
@@ -195,7 +195,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[Subroutine] The Runner cannot make another run this turn.",
+        "text": "[subroutine] The Runner cannot make another run this turn.",
         "title": "Excalibur",
         "type_code": "ice",
         "uniqueness": true
@@ -211,7 +211,7 @@
         "position": 112,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Install only in a remote server.\n[Trash]: Trash all cards installed in or protecting this server and <trace>trace X</trace> if successful, do 3 net damage. X is the number of cards trashed. Use this ability only during a run on this server.",
+        "text": "Install only in a remote server.\n[trash]: Trash all cards installed in or protecting this server and <trace>trace X</trace> if successful, do 3 net damage. X is the number of cards trashed. Use this ability only during a run on this server.",
         "title": "Self-destruct",
         "trash_cost": 0,
         "type_code": "upgrade",
@@ -231,7 +231,7 @@
         "position": 113,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, place 1 virus counter on Incubator.\n[Click], [Trash]: Move all virus counters from Incubator to another installed <strong>virus</strong> program.",
+        "text": "When your turn begins, place 1 virus counter on Incubator.\n[click], [trash]: Move all virus counters from Incubator to another installed <strong>virus</strong> program.",
         "title": "Incubator",
         "type_code": "program",
         "uniqueness": false
@@ -250,7 +250,7 @@
         "position": 114,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever the Corp loses at least 1[Credits], gain 1[Credits].\nTrash Ixodidae if the Corp purges virus counters.",
+        "text": "Whenever the Corp loses at least 1[credit], gain 1[credit].\nTrash Ixodidae if the Corp purges virus counters.",
         "title": "Ixodidae",
         "type_code": "program",
         "uniqueness": false
@@ -305,7 +305,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "Sage has +1 strength for each unused MU.\n2[Credits]: Break <strong>code gate</strong> or <strong>barrier</strong> subroutine.",
+        "text": "Sage has +1 strength for each unused MU.\n2[credit]: Break <strong>code gate</strong> or <strong>barrier</strong> subroutine.",
         "title": "Sage",
         "type_code": "program",
         "uniqueness": false
@@ -323,7 +323,7 @@
         "position": 118,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Make a run. During this run, the Corp must pay X[Credits] as an additional cost to rez the first unrezzed piece of ice approached.",
+        "text": "Make a run. During this run, the Corp must pay X[credit] as an additional cost to rez the first unrezzed piece of ice approached.",
         "title": "Bribery",
         "type_code": "event",
         "uniqueness": false
@@ -341,7 +341,7 @@
         "position": 119,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Gain 1[Credits] whenever you jack out.",
+        "text": "Gain 1[credit] whenever you jack out.",
         "title": "Au Revoir",
         "type_code": "program",
         "uniqueness": false

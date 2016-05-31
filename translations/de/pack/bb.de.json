@@ -21,7 +21,7 @@
     {
         "code": "08024",
         "title": "Computer im Wohnheim",
-        "text": "Lege 4 Wirkungszähler auf Computer im Wohnheim, wenn du ihn installierst.\n[Click], <strong>gehosteter Wirkungszähler</strong>: Führe einen Run durch. Vermeide alle Markierungen für den Rest dieses Runs."
+        "text": "Lege 4 Wirkungszähler auf Computer im Wohnheim, wenn du ihn installierst.\n[click], <strong>gehosteter Wirkungszähler</strong>: Führe einen Run durch. Vermeide alle Markierungen für den Rest dieses Runs."
     },
     {
         "code": "08025",
@@ -33,38 +33,38 @@
         "code": "08026",
         "title": "Spieltag",
         "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [Click].\nFalls du weniger Karten in deinem Griff hast, als dein Handkartenlimit beträgt, ziehe Karten, bis die Anzahl der Karten in deinem Griff deinem Handkartenlimit entspricht."
+        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nFalls du weniger Karten in deinem Griff hast, als dein Handkartenlimit beträgt, ziehe Karten, bis die Anzahl der Karten in deinem Griff deinem Handkartenlimit entspricht."
     },
     {
         "code": "08027",
         "title": "Comet",
         "keywords": "Konsole",
-        "text": "+1[Memory Unit]\nSobald du in einem Zug zum ersten Mal ein Ereignis spielst, darfst du ein anderes Ereignis spielen (ohne einen Click auszugeben) nachdem das erste abgehandelt ist.\nNur 1 <strong>Konsole</strong> pro Spieler."
+        "text": "+1[mu]\nSobald du in einem Zug zum ersten Mal ein Ereignis spielst, darfst du ein anderes Ereignis spielen (ohne einen Click auszugeben) nachdem das erste abgehandelt ist.\nNur 1 <strong>Konsole</strong> pro Spieler."
     },
     {
         "code": "08028",
         "title": "Studienführer",
         "keywords": "Ice-Brecher - Decoder",
-        "text": "Studienführer hat +1 Stärke für jeden darauf liegenden Wirkungszähler.\n1[Credits]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[Credits]: Lege 1 Wirkungszähler auf  Studienführer.",
+        "text": "Studienführer hat +1 Stärke für jeden darauf liegenden Wirkungszähler.\n1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[credit]: Lege 1 Wirkungszähler auf  Studienführer.",
         "flavor": "\"Sobald du die Quellcodes der Vorlesungen heruntergeladen hast, führt dieses Programm eine statistische Analyse aus und fasst die wichtigsten Konzepte zusammen.\" -Hayley Kaplan"
     },
     {
         "code": "08029",
         "title": "London-Bibliothek",
         "keywords": "Ort",
-        "text": "Zerstöre alle auf London-Bibliothek gehosteten Programme, sobald dein Zug endet.\n[Click]: Installiere ein Programm, das kein <strong>Virus</strong> ist, aus deinem Griff auf London-Bibliothek, ohne die Installationskosten zu bezahlen.\n[Click]: Füge ein Programm von London-Bibliothek deinem Griff hinzu."
+        "text": "Zerstöre alle auf London-Bibliothek gehosteten Programme, sobald dein Zug endet.\n[click]: Installiere ein Programm, das kein <strong>Virus</strong> ist, aus deinem Griff auf London-Bibliothek, ohne die Installationskosten zu bezahlen.\n[click]: Füge ein Programm von London-Bibliothek deinem Griff hinzu."
     },
     {
         "code": "08030",
         "title": "Tyson-Observatorium",
         "keywords": "Ort",
-        "text": "[Click], [Click]: Durchsuche deinen Stapel nach einer Hardware, decke sie auf und füge sie deinem Griff hinzu. Mische deinen Stapel.",
+        "text": "[click], [click]: Durchsuche deinen Stapel nach einer Hardware, decke sie auf und füge sie deinem Griff hinzu. Mische deinen Stapel.",
         "flavor": "\"Es gibt ganze Generationen, die niemals das Zentrum ihrer Megapolis verlassen haben. Ihr Gesichtsausdruck, wenn sie zum ersten Mal Sterne sehen, ist wirklich phänomenal.\" -Professor Darren Fin, Astronomie"
     },
     {
         "code": "08031",
         "title": "Strandparty",
-        "text": "Wenn dein Zug beginnt, verlierst du [Click].\nDein Handkartenlimit wird um 5 erhöht.",
+        "text": "Wenn dein Zug beginnt, verlierst du [click].\nDein Handkartenlimit wird um 5 erhöht.",
         "flavor": "\"So viel zu tun. So wenig Zeit.\""
     },
     {
@@ -78,14 +78,14 @@
         "code": "08033",
         "title": "Turing",
         "keywords": "Code-Zugang",
-        "text": "Turing hat +3 Stärke, solange es ein ausgelagertes System schützt.\nDer Runner kann keine <strong>KI</strong>-Programme verwenden, um Subroutinen auf Turing auszuschalten.\n[Subroutine] Beende den Run, falls der Runner nicht [Click][Click][Click] zahlt.",
+        "text": "Turing hat +3 Stärke, solange es ein ausgelagertes System schützt.\nDer Runner kann keine <strong>KI</strong>-Programme verwenden, um Subroutinen auf Turing auszuschalten.\n[subroutine] Beende den Run, falls der Runner nicht [click][click][click] zahlt.",
         "flavor": "Als Alan Turing vorschlug, einem Computer beizubringen, menschlich zu sein, legte er damit den Grundstein für künstliche Intelligenz."
     },
     {
         "code": "08034",
         "title": "Crick",
         "keywords": "Code-Zugang",
-        "text": "Crick hat +3 Stärke, solange es das Archiv schützt.\n[Subroutine] Installiere eine Karte aus dem Archiv (und zahle ihre Installationskosten).",
+        "text": "Crick hat +3 Stärke, solange es das Archiv schützt.\n[subroutine] Installiere eine Karte aus dem Archiv (und zahle ihre Installationskosten).",
         "flavor": "Crick und seine Mitarbeiter leiteten mit der Kartierung der DANN-Struktur die Ära der modernen Genetik ein."
     },
     {
@@ -104,20 +104,20 @@
         "code": "08037",
         "title": "Gutenberg",
         "keywords": "Wächter - Spürhund",
-        "text": "Gutenberg hat +3 Stärke, solange es F&E schützt.\n[Subroutine] <trace>Aufspüren 7</trace> Verpasse dem Runner bei Erfolg 1 Markierung.",
+        "text": "Gutenberg hat +3 Stärke, solange es F&E schützt.\n[subroutine] <trace>Aufspüren 7</trace> Verpasse dem Runner bei Erfolg 1 Markierung.",
         "flavor": "Johannes Gutenberg entfachte die erste Informationsrevolution durch die Erfindung der Druckmaschine mit beweglichen Lettern."
     },
     {
         "code": "08038",
         "title": "Studienkredit",
-        "text": "Als zusätzliche Kosten für das Spielen eines Ereignisses, von dem sich eine Kopie in seiner Ablage befindet, muss der Runner 2[Credits] bezahlen.",
+        "text": "Als zusätzliche Kosten für das Spielen eines Ereignisses, von dem sich eine Kopie in seiner Ablage befindet, muss der Runner 2[credit] bezahlen.",
         "flavor": "Manchmal fühlt man die Kosten der Ausbildung am deutlichsten im Magen."
     },
     {
         "code": "08039",
         "title": "Meru Mati",
         "keywords": "Barriere",
-        "text": "Meru Mati hat +3 Stärke, solange es HQ schützt.\n[Subroutine] Beende den Run.",
+        "text": "Meru Mati hat +3 Stärke, solange es HQ schützt.\n[subroutine] Beende den Run.",
         "flavor": "Meru Mati hat die Grenzen der Physik durch die Entwicklung der ersten Fulleren-Megastruktur, einer 300 Meter langen Wand, ausgedehnt."
     },
     {

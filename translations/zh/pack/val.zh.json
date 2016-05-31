@@ -16,14 +16,14 @@
         "code": "08003",
         "title": "调正时型",
         "keywords": "基因",
-        "text": "每回合你第一次失去[Click]时，获得[Click]。",
+        "text": "每回合你第一次失去[click]时，获得[click]。",
         "flavor": "把夜猫子变成早起鸟！"
     },
     {
         "code": "08004",
         "title": "长钉",
         "keywords": "破解器 - 分解模块 - 云",
-        "text": "如果你具有至少2[Link]，长钉的内存费用为0，即使其未被安装。\n每有一个已安装的<strong>破解器</strong>，长钉的强度+1。\n[Trash]：破解最多3个<strong>屏障</strong>子进程。"
+        "text": "如果你具有至少2[link]，长钉的内存费用为0，即使其未被安装。\n每有一个已安装的<strong>破解器</strong>，长钉的强度+1。\n[trash]：破解最多3个<strong>屏障</strong>子进程。"
     },
     {
         "code": "08005",
@@ -56,7 +56,7 @@
         "code": "08009",
         "title": "匀称容貌",
         "keywords": "基因",
-        "text": "每回合你第一次花费[Click]（不通过卡牌能力）来补一张卡牌时，获得1[Credits]。",
+        "text": "每回合你第一次花费[click]（不通过卡牌能力）来补一张卡牌时，获得1[credit]。",
         "flavor": "为成功而生！"
     },
     {
@@ -70,14 +70,14 @@
         "code": "08011",
         "title": "次级黄金",
         "keywords": "警报 - 次级 - 杀伤 - 毁灭者",
-        "text": "X等于已激活的<strong>次级</strong>防火墙的数量。\n[Subroutine] 造成X点网域伤害。\n[Subroutine] 销毁X个程序。",
+        "text": "X等于已激活的<strong>次级</strong>防火墙的数量。\n[subroutine] 造成X点网域伤害。\n[subroutine] 销毁X个程序。",
         "flavor": "“海因莱因的主啊。接下来是什么，次级白金？”——约翰·正则"
     },
     {
         "code": "08012",
         "title": "人间生物科技：享你所想",
         "keywords": "部门",
-        "text": "在你开始第一个回合前，你可以将本卡牌与任意一张人间生物科技互换。\n[Click]，[Click]，[Click]：将本特性翻转。\n<strong>酿坊</strong>：当你翻转本特性时，造成2点网域伤害。\n<strong>温室</strong>：当你翻转本特性时，放置4枚推进标记到一张能被推进的卡牌上。\n<strong>智库</strong>：当你翻转本特性时，将档案库洗入研发中心。",
+        "text": "在你开始第一个回合前，你可以将本卡牌与任意一张人间生物科技互换。\n[click]，[click]，[click]：将本特性翻转。\n<strong>酿坊</strong>：当你翻转本特性时，造成2点网域伤害。\n<strong>温室</strong>：当你翻转本特性时，放置4枚推进标记到一张能被推进的卡牌上。\n<strong>智库</strong>：当你翻转本特性时，将档案库洗入研发中心。",
         "flavor": "<strong>酿坊</strong>：C楼的液缸能创造——和毁灭——生命本身。\n<strong>温室</strong>：温室为增进自然之美而建造。\n<strong>智库</strong>：最优秀最聪慧的基因工程师们整日待在智库里，创想一个更美好的世界。"
     },
     {
@@ -91,7 +91,7 @@
         "code": "08014",
         "title": "皮质锁",
         "keywords": "警报 - 杀伤",
-        "text": "[Subroutine] 潜袭者每有一个未使用的内存单元，造成1点网域伤害。",
+        "text": "[subroutine] 潜袭者每有一个未使用的内存单元，造成1点网域伤害。",
         "flavor": "一个冲击进程使用的能量越多，它就打击得越猛。真正聪明的人借用潜袭者自己的内存进行本地迭代。"
     },
     {
@@ -104,26 +104,26 @@
         "code": "08016",
         "title": "带宽",
         "keywords": "门禁",
-        "text": "[Subroutine] 给予潜袭者1枚锁定标记。如果本次潜袭成功，潜袭者移除1枚锁定标记。",
+        "text": "[subroutine] 给予潜袭者1枚锁定标记。如果本次潜袭成功，潜袭者移除1枚锁定标记。",
         "flavor": "“它跟踪你并记录你。如果你进去了，删除记录即可。但首先你得进去。”——加布里埃尔·圣地亚哥"
     },
     {
         "code": "08017",
         "title": "预测算法",
         "keywords": "局势",
-        "text": "本卡牌打出后不会被销毁，直到另一个<strong>局势</strong>被打出或一个议案被窃取。\n作为窃取一个议案的额外费用，潜袭者必须支付2[Credits]。"
+        "text": "本卡牌打出后不会被销毁，直到另一个<strong>局势</strong>被打出或一个议案被窃取。\n作为窃取一个议案的额外费用，潜袭者必须支付2[credit]。"
     },
     {
         "code": "08018",
         "title": "资本投资人",
-        "text": "[Click]：获得2[Credits]。",
+        "text": "[click]：获得2[credit]。",
         "flavor": "授人以金，得享一日。授人以技，富裕一生。"
     },
     {
         "code": "08019",
         "title": "谈判者",
         "keywords": "警报 - 毁灭者",
-        "text": "潜袭者能支付2[Credits]，以破解谈判者上的任一子进程。\n[Subroutine] 公司获得2[Credits]。\n[Subroutine] 销毁一个程序。",
+        "text": "潜袭者能支付2[credit]，以破解谈判者上的任一子进程。\n[subroutine] 公司获得2[credit]。\n[subroutine] 销毁一个程序。",
         "flavor": "“谈判是门艺术，所以在能去胁迫的时候，别去谈判。”——战略经营副总裁，迪亚戈·雷耶斯"
     },
     {

@@ -48,7 +48,7 @@
         "position": 41,
         "quantity": 3,
         "side_code": "runner",
-        "text": " +1[Memory Unit] +1[Link]\nWhenever you jack out, the Corp reveals 1 card from HQ at random.\nLimit 1 <strong>console</strong> per player.",
+        "text": " +1[mu] +1[link]\nWhenever you jack out, the Corp reveals 1 card from HQ at random.\nLimit 1 <strong>console</strong> per player.",
         "title": "Reflection",
         "type_code": "hardware",
         "uniqueness": true
@@ -65,7 +65,7 @@
         "position": 42,
         "quantity": 6,
         "side_code": "runner",
-        "text": "[Click]: Look at the top X cards of your stack and arrange them in any order. X is the number of copies of Spy Camera installed.\n[Trash]: Look at the top card of R&D.\nLimit 6 per deck.",
+        "text": "[click]: Look at the top X cards of your stack and arrange them in any order. X is the number of copies of Spy Camera installed.\n[trash]: Look at the top card of R&D.\nLimit 6 per deck.",
         "title": "Spy Camera",
         "type_code": "hardware",
         "uniqueness": false
@@ -83,7 +83,7 @@
         "position": 43,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Install only if you made a successful run on HQ this turn.\n[Trash], <strong>pay the trash cost of a rezzed card:</strong> Trash that card.",
+        "text": "Install only if you made a successful run on HQ this turn.\n[trash], <strong>pay the trash cost of a rezzed card:</strong> Trash that card.",
         "title": "Political Operative",
         "type_code": "resource",
         "uniqueness": false
@@ -103,7 +103,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "1[Credits]: Break ice subroutine on a piece of ice with 3 or more subtypes.\n1[Credits]: +1 strength.\n2[Credits]: Swap Sadyojata with a <strong>deva</strong> program from your grip.",
+        "text": "1[credit]: Break ice subroutine on a piece of ice with 3 or more subtypes.\n1[credit]: +1 strength.\n2[credit]: Swap Sadyojata with a <strong>deva</strong> program from your grip.",
         "title": "Sadyojata",
         "type_code": "program",
         "uniqueness": true
@@ -138,7 +138,7 @@
         "position": 46,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Each player has 1 additional [Click] to spend during his or her turn.",
+        "text": "Each player has 1 additional [click] to spend during his or her turn.",
         "title": "Akshara Sareen",
         "type_code": "resource",
         "uniqueness": true
@@ -173,7 +173,7 @@
         "position": 48,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 3 agenda counters on Voting Machine Initiative when you score it.\nWhen the Runner's turn begins, you may spend 1 hosted agenda counter. If you do, the Runner loses [Click], if able.",
+        "text": "Place 3 agenda counters on Voting Machine Initiative when you score it.\nWhen the Runner's turn begins, you may spend 1 hosted agenda counter. If you do, the Runner loses [click], if able.",
         "title": "Voting Machine Initiative",
         "type_code": "agenda",
         "uniqueness": false
@@ -284,7 +284,7 @@
         "position": 54,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When your turn begins, gain 3[Credits] if there is no ice protecting this server.",
+        "text": "When your turn begins, gain 3[credit] if there is no ice protecting this server.",
         "title": "Commercial Bankers Group",
         "trash_cost": 2,
         "type_code": "asset",
@@ -303,7 +303,7 @@
         "position": 55,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: Search R&D for an <strong>alliance</strong> card, reveal it, and play or install it (paying all costs). Shuffle R&D.",
+        "text": "[click]: Search R&D for an <strong>alliance</strong> card, reveal it, and play or install it (paying all costs). Shuffle R&D.",
         "title": "Mumbad City Hall",
         "trash_cost": 3,
         "type_code": "asset",
@@ -323,7 +323,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "Whenever the Runner breaks a subroutine on Bailiff, gain 1[Credits].\n[Subroutine] End the run.",
+        "text": "Whenever the Runner breaks a subroutine on Bailiff, gain 1[credit].\n[subroutine] End the run.",
         "title": "Bailiff",
         "type_code": "ice",
         "uniqueness": false

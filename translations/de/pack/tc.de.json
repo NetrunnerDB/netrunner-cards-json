@@ -2,7 +2,7 @@
     {
         "code": "04061",
         "title": "Schlüsselloch",
-        "text": "[Click]: Führe einen Run auf F&E durch. Bei Erfolg kannst du, statt auf Karten zuzugreifen, die obersten 3 Karten von F&E ansehen. Zerstöre 1 dieser Karten, ohne die Kosten dafür zu bezahlen (selbst, wenn sie normalerweise nicht zerstört werden kann) und der Kon mischt F&E.",
+        "text": "[click]: Führe einen Run auf F&E durch. Bei Erfolg kannst du, statt auf Karten zuzugreifen, die obersten 3 Karten von F&E ansehen. Zerstöre 1 dieser Karten, ohne die Kosten dafür zu bezahlen (selbst, wenn sie normalerweise nicht zerstört werden kann) und der Kon mischt F&E.",
         "flavor": "In der Anleitung steht, dass es die wichtigsten Daten aussiebt.“Wichtig“ hat sich dabei als sehr relative Begriff erwiesen."
     },
     {
@@ -15,7 +15,7 @@
         "code": "04063",
         "title": "Einen Anwalt verlangen",
         "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [Click].\nEntferne bis zu 2 Markierungen und ziehe 3 Karten.",
+        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nEntferne bis zu 2 Markierungen und ziehe 3 Karten.",
         "flavor": "Profis brauchen nicht ihre Anwälte anzurufen. Profis haben ihre Sekretärin entsprechend ausgestattet, um es für sie zu tun, falls sie irgendwann keinen Zugang zum Netz haben."
     },
     {
@@ -28,7 +28,7 @@
         "code": "04065",
         "title": "Garrote",
         "keywords": "Ice-Brecher - Killer",
-        "text": "1[Credits]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[Credits]: +1 Stärke.",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[credit]: +1 Stärke.",
         "flavor": "Die erste verbriefte Ice-Brecher war nur ein bis dahin einzigartiges Skript, um die Anforderung nach der Sicherheit auf einem Gibson-3-Datenwächter zu umgehen. Garotte hat mehr als 20.000 mal so viel Daten wie dieser erst Ice-Brecher, aber die Idee bleibt die gleiche: Trenne die Energiequelle vom Netzwerk und schlag dann zu."
     },
     {
@@ -42,38 +42,38 @@
         "code": "04067",
         "title": "Scharfschütze",
         "keywords": "Ice-Brecher",
-        "text": "[Trash]: Schalte eine beliebige Anzahl von Subroutinen auf <strong>Zerstörern</strong> aus.\n1[Credits]: +2 Stärke.",
+        "text": "[trash]: Schalte eine beliebige Anzahl von Subroutinen auf <strong>Zerstörern</strong> aus.\n1[credit]: +2 Stärke.",
         "flavor": "\"Ice-Brecher zur einmaligen Nutzung sind bei vielen meiner Protégés beliebt. Sie haben einfach nicht die Geduld für die Jagd.\" - Der Professor"
     },
     {
         "code": "04068",
         "title": "Schlussstein",
-        "text": "[Click]: Zerstöre eine beliebige Anzahl von Karten aus deinem Griff. Für jede zerstörte Karte, von der du eine weitere Kopie installiert hast, ziehe 1 Karte.",
+        "text": "[click]: Zerstöre eine beliebige Anzahl von Karten aus deinem Griff. Für jede zerstörte Karte, von der du eine weitere Kopie installiert hast, ziehe 1 Karte.",
         "flavor": "\"Wenn man erst einmal Perfektion erreicht hat, was kommt dann?\" - Der Professor"
     },
     {
         "code": "04069",
         "title": "Förderung des Sternenlicht-Kreuzzuges",
-        "text": "Wenn dein Zug beginnt, verlierst du [Click].\nIgnoriere alle zusätzlichen Kosten auf <strong>Verdoppeln</strong>-Ereignissen, die du spielst.",
+        "text": "Wenn dein Zug beginnt, verlierst du [click].\nIgnoriere alle zusätzlichen Kosten auf <strong>Verdoppeln</strong>-Ereignissen, die du spielst.",
         "flavor": "\"Ich spreche gern von 'Traditionellen Werten für eine moderne Zeit.' Krieg im Weltraum und von Menschenhand erschaffenes Leben, Maschinen, die intelligent genug sind, um zu fragen, ob sie Seelen haben…Religion ist heute noch genauso wichtig und bedeutsam wie zu jeder anderen Zeit in der Geschichte der Menschheit. Wir müssen uns erheben um diesen neuen Herausforderungen zu begegnen. Und wir müssen glauben.\""
     },
     {
         "code": "04070",
         "title": "Rex-Kampagne",
         "keywords": "Werbung",
-        "text": "Lege 3 Wirkungszähler auf Rex-Kampagne, sobald sie geladen wird. Sobald sich keine Wirkungszähler mehr auf Rex-Kampagne befinden, zerstöre sie und entferne entweder 1 negative Publicity oder erhalte 5[Credits].\nWenn dein Zug beginnt, entferne 1 Wirkungszähler von der Rex-Kampagne."
+        "text": "Lege 3 Wirkungszähler auf Rex-Kampagne, sobald sie geladen wird. Sobald sich keine Wirkungszähler mehr auf Rex-Kampagne befinden, zerstöre sie und entferne entweder 1 negative Publicity oder erhalte 5[credit].\nWenn dein Zug beginnt, entferne 1 Wirkungszähler von der Rex-Kampagne."
     },
     {
         "code": "04071",
         "title": "Fenris",
         "keywords": "Wächter - AP - Illegal",
-        "text": "Wenn du Fenris lädst, erhältst du 1 negative Publicity.\n[Subroutine] Verursache 1 Hirn-Schaden.\n[Subroutine] Beende den Run.",
+        "text": "Wenn du Fenris lädst, erhältst du 1 negative Publicity.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Beende den Run.",
         "flavor": "Da die Berichte über Hirnschäden bei Veteranen ansteigen, stehen Mensch-/Maschine-Interfaces unter schärferer Beobachtung durch die Öffentlichkeit. Dass bestimmte Programme dem Anwender unheilbare Schäden zufügen können, ist längst keine Verschwörungstheorie mehr, sondern eine allgemein anerkannte Wahrheit."
     },
     {
         "code": "04072",
         "title": "Panikknopf",
-        "text": "Kann nur im Root des HQ installiert werden.\n1[Credits]: Ziehe 1 Karte. Verwende diese Fähigkeit nur während eines Runs auf das HQ.",
+        "text": "Kann nur im Root des HQ installiert werden.\n1[credit]: Ziehe 1 Karte. Verwende diese Fähigkeit nur während eines Runs auf das HQ.",
         "flavor": "Der Knopf schien überhaupt keine Funktion zu haben. Deshalb drückte er ihn wieder. Und wieder. Und wieder."
     },
     {
@@ -86,7 +86,7 @@
         "code": "04074",
         "title": "Tsurugi",
         "keywords": "Wächter - AP",
-        "text": "[Subroutine] Beende den Run, falls der Kon nicht 1[Credits] zahlt.\n[Subroutine] Verursache 1 Netz-Schaden.\n[Subroutine] Verursache 1 Netz-Schaden.\n[Subroutine] Verursache 1 Netz-Schaden.",
+        "text": "[subroutine] Beende den Run, falls der Kon nicht 1[credit] zahlt.\n[subroutine] Verursache 1 Netz-Schaden.\n[subroutine] Verursache 1 Netz-Schaden.\n[subroutine] Verursache 1 Netz-Schaden.",
         "flavor": "\"Das Ice ist so gefährlich, dass es Sicherheitsprotokolle hat. Denk darüber nach.\" -g00ru"
     },
     {
@@ -99,22 +99,22 @@
     {
         "code": "04076",
         "title": "Einschaltquotenforschung",
-        "text": "Du erhältst 1[Credits] für jede Karte im Griff des Runners.",
+        "text": "Du erhältst 1[credit] für jede Karte im Griff des Runners.",
         "flavor": "\"Lass mich das mal zusammenfassen. Eure Zielgruppe sind 15 bis 19 Jahre alte, g-moddete Immigranten mit nur einem Elternteil, einem verfügbaren Monatseinkommen über 2k, mit Noten von 2 und besser, offener Persönlichkeit und einem Freund, der einen G-Affen besitzt?\"\n\"Genau. Ist das ein Problem?\"\n\"Nein, überhaupt nicht. Ich verstehe nur nicht, warum eure Liste so kurz ist.\""
     },
     {
         "code": "04077",
         "title": "U.A.W.G.",
         "keywords": "Code-Zugang",
-        "text": "[Subroutine] Der Runner kann für den Rest dieses Runs keine Credits ausgeben.",
+        "text": "[subroutine] Der Runner kann für den Rest dieses Runs keine Credits ausgeben.",
         "flavor": "Dieses Ice tarnt sich als eine Reihe von elektronischen Transaktionen, die das Geld des Runners durch etwa tausend nicht-existente Käufe und Erstattungen binden. Das System der Banken, Konten zu sperren und zu prüfen, führt dazu, dass der Runner kein Geld zur Verfügung hat, auch wenn kein Credit das System wirklich verlässt. U.A.W.G. Hat auch den unangenehmen Nachteil, dass es legal ist … streng genommen."
     },
     {
         "code": "04078",
         "title": "Kurtine",
         "keywords": "Barriere",
-        "text": "Falls Kurtine das äußerste Ice ist, das dieses System schützt, hat es +4 Stärke.\n[Subroutine] Beende den Run.\n[Subroutine] Beende den Run.\n[Subroutine] Beende den Run.",
-        "flavor": "[Subroutine] Beende das Spiel.\nNur ein Scherz."
+        "text": "Falls Kurtine das äußerste Ice ist, das dieses System schützt, hat es +4 Stärke.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
+        "flavor": "[subroutine] Beende das Spiel.\nNur ein Scherz."
     },
     {
         "code": "04079",

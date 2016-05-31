@@ -13,7 +13,7 @@
         "position": 1,
         "quantity": 3,
         "side_code": "runner",
-        "text": "3[Recurring Credits]\nUse these credits to trash cards.",
+        "text": "3[recurring-credit]\nUse these credits to trash cards.",
         "title": "Whizzard: Master Gamer",
         "type_code": "identity",
         "uniqueness": false
@@ -30,7 +30,7 @@
         "position": 2,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Memory Unit], 2[Recurring Credits]\nUse these credits to pay for using <strong>icebreakers</strong>.\nWhenever there is a successful trace during a run, suffer 1 brain damage.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+1[mu], 2[recurring-credit]\nUse these credits to pay for using <strong>icebreakers</strong>.\nWhenever there is a successful trace during a run, suffer 1 brain damage.\nLimit 1 <strong>console</strong> per player.",
         "title": "Spinal Modem",
         "type_code": "hardware",
         "uniqueness": true
@@ -69,7 +69,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 5,
-        "text": "1[Credits]: Break any number of <strong>barrier</strong> subroutines.",
+        "text": "1[credit]: Break any number of <strong>barrier</strong> subroutines.",
         "title": "Morning Star",
         "type_code": "program",
         "uniqueness": false
@@ -87,7 +87,7 @@
         "position": 5,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Trash]: Choose a piece of ice. The Corp must pay 2[Credits] as an additional cost to rez that ice until the end of the turn.",
+        "text": "[trash]: Choose a piece of ice. The Corp must pay 2[credit] as an additional cost to rez that ice until the end of the turn.",
         "title": "Cortez Chip",
         "type_code": "hardware",
         "uniqueness": false
@@ -107,7 +107,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "2[Credits]: Break <strong>code gate</strong> subroutine.\n2[Credits]: +3 strength.",
+        "text": "2[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +3 strength.",
         "title": "Peacock",
         "type_code": "program",
         "uniqueness": false
@@ -127,7 +127,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "If you have at least 2[Link], the memory cost of ZU.13 Key Master is 0, even if it is not installed.\n1[Credits]: Break <strong>code gate</strong> subroutine.\n1[Credits]: +1 strength.",
+        "text": "If you have at least 2[link], the memory cost of ZU.13 Key Master is 0, even if it is not installed.\n1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.",
         "title": "ZU.13 Key Master",
         "type_code": "program",
         "uniqueness": false
@@ -145,7 +145,7 @@
         "position": 8,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Link]\n[Trash]: Choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong> has +2 strength until the end of the turn.",
+        "text": "+1[link]\n[trash]: Choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong> has +2 strength until the end of the turn.",
         "title": "The Helpful AI",
         "type_code": "resource",
         "uniqueness": true
@@ -197,7 +197,7 @@
         "position": 11,
         "quantity": 3,
         "side_code": "corp",
-        "text": "You have 1 additional [Click] to spend each turn.",
+        "text": "You have 1 additional [click] to spend each turn.",
         "title": "Mandatory Upgrades",
         "type_code": "agenda",
         "uniqueness": false
@@ -216,7 +216,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 8,
-        "text": "The Runner may spend [Click] to break any subroutine on Janus 1.0.\n[Subroutine] Do 1 brain damage.\n[Subroutine] Do 1 brain damage.\n[Subroutine] Do 1 brain damage.\n[Subroutine] Do 1 brain damage.",
+        "text": "The Runner may spend [click] to break any subroutine on Janus 1.0.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.",
         "title": "Janus 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -271,7 +271,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[Subroutine] You and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits]. Reveal spent credits. End the run if you and the Runner spent a different number of credits.",
+        "text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. End the run if you and the Runner spent a different number of credits.",
         "title": "Snowflake",
         "type_code": "ice",
         "uniqueness": false
@@ -289,7 +289,7 @@
         "position": 16,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
+        "text": "[click]: <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
         "title": "Restructured Datapool",
         "type_code": "agenda",
         "uniqueness": false
@@ -308,7 +308,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "When you rez TMI, <trace>trace 2</trace> if unsuccessful, derez TMI.\n[Subroutine] End the run.",
+        "text": "When you rez TMI, <trace>trace 2</trace> if unsuccessful, derez TMI.\n[subroutine] End the run.",
         "title": "TMI",
         "type_code": "ice",
         "uniqueness": false
@@ -344,7 +344,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[Subroutine] <trace>Trace 3</trace> If successful, the Corp gains 3[Credits].\n[Subroutine] <trace>Trace 2</trace> If successful, end the run.",
+        "text": "[subroutine] <trace>Trace 3</trace> If successful, the Corp gains 3[credit].\n[subroutine] <trace>Trace 2</trace> If successful, end the run.",
         "title": "Caduceus",
         "type_code": "ice",
         "uniqueness": false
@@ -363,7 +363,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "When you rez Dracō, you may pay X[Credits] to place X power counters on it.\nDracō has +1 strength for each power counter on it.\n[Subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag and end the run.",
+        "text": "When you rez Dracō, you may pay X[credit] to place X power counters on it.\nDracō has +1 strength for each power counter on it.\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag and end the run.",
         "title": "Dracō",
         "type_code": "ice",
         "uniqueness": false

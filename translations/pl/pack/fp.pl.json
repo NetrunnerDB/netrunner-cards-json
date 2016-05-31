@@ -9,27 +9,27 @@
         "code": "02102",
         "title": "Darwin",
         "keywords": "Lodołamacz - AI - Wirus",
-        "text": "2[Credits]: Złam podprogram lodu.\nX to liczba znaczników wirusa leżących na Darwinie.\nGdy zaczynasz turę, możesz zapłacić 1[Credits], aby umieścić 1 znacznik wirusa na Darwinie."
+        "text": "2[credit]: Złam podprogram lodu.\nX to liczba znaczników wirusa leżących na Darwinie.\nGdy zaczynasz turę, możesz zapłacić 1[credit], aby umieścić 1 znacznik wirusa na Darwinie."
     },
     {
         "code": "02103",
         "title": "Odwrócenie wycieku danych",
         "keywords": "Wirtualne - Sabotaż",
-        "text": "Zainstaluj tylko, jeśli przeprowadziłeś w tej turze udany skok na serwer centralny.\nJeśli jesteś otagowany, Odwrócenie wycieku danych zyskuje \"[Click]: Korp kasuje wierzchnią kartę z R&D.\"",
+        "text": "Zainstaluj tylko, jeśli przeprowadziłeś w tej turze udany skok na serwer centralny.\nJeśli jesteś otagowany, Odwrócenie wycieku danych zyskuje \"[click]: Korp kasuje wierzchnią kartę z R&D.\"",
         "flavor": "Dwukierunkowe rozwiązywanie jednokierunkowego problemu, odwrócenie wycieku danych, w skrócie OWD, nosi nazwę wprowadzającą w błąd. W istocie nie następuje żadne odwrócenie danych, a raczej powstaje równoległe połączenie z początkowym źródłem."
     },
     {
         "code": "02104",
         "title": "Wróżka",
         "keywords": "Lodołamacz - Zabójca",
-        "text": "0[Credits]: Złam podprogram <strong>strażnika</strong>.\n1[Credits]: +1 siły.\nGdy skończy się spotkanie, w trakcie którego użyłeś Wróżki do złamania podprogramu, skasuj Wróżkę.",
+        "text": "0[credit]: Złam podprogram <strong>strażnika</strong>.\n1[credit]: +1 siły.\nGdy skończy się spotkanie, w trakcie którego użyłeś Wróżki do złamania podprogramu, skasuj Wróżkę.",
         "flavor": "Wierzysz we wróżki?"
     },
     {
         "code": "02105",
         "title": "Pan Li",
         "keywords": "Kontakt",
-        "text": "[Click]: Dobierz 2 karty. Dodaj 1 z nich na spód swojego stosu.",
+        "text": "[click]: Dobierz 2 karty. Dodaj 1 z nich na spód swojego stosu.",
         "flavor": "- Zawsze chętnie pomagamy, panie Santiago.\n- Jestem wdzięczny, panie Li.\n- Będziemy w kontakcie, A, Gabriel...\n- Tak?\n- Nie wyjeżdżaj z miasta."
     },
     {
@@ -55,28 +55,28 @@
         "code": "02109",
         "title": "Ratusz Miasta New Angeles",
         "keywords": "Miejsce - Rząd",
-        "text": "2[Credits]: Pomiń 1 tag.\nSkasuj Ratusz Miasta New Angeles, gdy wykradniesz projekt.",
+        "text": "2[credit]: Pomiń 1 tag.\nSkasuj Ratusz Miasta New Angeles, gdy wykradniesz projekt.",
         "flavor": "\"New Angeles to klejnot współczesnej cywilizacji, a inne narody podziwiają jego władze.\" - Burmistrz Wells"
     },
     {
         "code": "02110",
         "title": "Eli 1.0",
         "keywords": "Bariera - Bioroid",
-        "text": "Runner może wydać [Click], by złamać dowolny podprogram Eli 1.0.\n[Subroutine] Zakończ skok.\n[Subroutine] Zakończ skok.",
+        "text": "Runner może wydać [click], by złamać dowolny podprogram Eli 1.0.\n[subroutine] Zakończ skok.\n[subroutine] Zakończ skok.",
         "flavor": "\"To niezgodne z zasadami. Stwórcy będą się gniewać.\""
     },
     {
         "code": "02111",
         "title": "Zagłębie Ruhry",
         "keywords": "Region",
-        "text": "Runner musi wydać [Click] jako dodatkowy koszt przeprowadzenia skoku na ten serwer.\nLimit 1 <strong>regionu</strong> na serwer.",
+        "text": "Runner musi wydać [click] jako dodatkowy koszt przeprowadzenia skoku na ten serwer.\nLimit 1 <strong>regionu</strong> na serwer.",
         "flavor": "Znane z luksusowych skoczków i pysznej kiszonej kapusty."
     },
     {
         "code": "02112",
         "title": "Ronin",
         "keywords": "Wrogi",
-        "text": "Ronina można awansować.\nJeśli na Roninie leżą przynajmniej 4 żetony zaawansowania, zyskuje on \"[Click], [Trash]: Zadaj 3 obrażenia sprzętu.\"",
+        "text": "Ronina można awansować.\nJeśli na Roninie leżą przynajmniej 4 żetony zaawansowania, zyskuje on \"[click], [trash]: Zadaj 3 obrażenia sprzętu.\"",
         "flavor": "Będę ci służyć... przez pewien czas."
     },
     {
@@ -108,7 +108,7 @@
         "code": "02117",
         "title": "Flara",
         "keywords": "Strażnik - Tropiciel - AP",
-        "text": "[Subroutine]<trace>Trace 6</trace> Jeśli udane, skasuj 1 sprzęt, zadaj 2 obrażenia ciała (nie można ich zablokować) i zakończ skok.",
+        "text": "[subroutine]<trace>Trace 6</trace> Jeśli udane, skasuj 1 sprzęt, zadaj 2 obrażenia ciała (nie można ich zablokować) i zakończ skok.",
         "flavor": "Jasne światło rozkwitło i konsola zgasła. Wtedy poczuła dym."
     },
     {
@@ -122,14 +122,14 @@
         "code": "02119",
         "title": "Burke Bugs",
         "keywords": "Strażnik - Niszczyciel",
-        "text": "[Subroutine] <trace>Trace 0</trace> Jeśli udane, runner kasuje 1 program.",
+        "text": "[subroutine] <trace>Trace 0</trace> Jeśli udane, runner kasuje 1 program.",
         "flavor": "\"Gdybym miał określić je jednym słowem, powiedziałbym '****sko irytujące.'\" - Magik"
     },
     {
         "code": "02120",
         "title": "Wojna korporacji",
         "keywords": "Ekspansja",
-        "text": "Jeśli masz przynajmniej 7[Credits], gdy zapunktujesz Wojnę korporacji, pobierz 7[Credits]; jeśli nie, tracisz wszystkie kredyty ze swojej puli kredytów.",
+        "text": "Jeśli masz przynajmniej 7[credit], gdy zapunktujesz Wojnę korporacji, pobierz 7[credit]; jeśli nie, tracisz wszystkie kredyty ze swojej puli kredytów.",
         "flavor": "Wojnę korporacji można było wygrać na kilka sposobów. Jednym z nich było wyjęcie bazooki."
     }
 ]

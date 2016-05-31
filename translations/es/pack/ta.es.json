@@ -3,13 +3,13 @@
         "code": "02021",
         "title": "Vamp",
         "keywords": "Incursión - Sabotaje",
-        "text": "Realiza una incursión contra la SC. Si tiene éxito, en lugar de acceder a las cartas, puedes pagar X[Credits] para obligar a la Corporación a perder un máximo de X [Credits]. Luego recibes una marca.",
+        "text": "Realiza una incursión contra la SC. Si tiene éxito, en lugar de acceder a las cartas, puedes pagar X[credit] para obligar a la Corporación a perder un máximo de X [credit]. Luego recibes una marca.",
         "flavor": "Tirar créditos de esa forma producía una cierta alegría por el mal ajeno."
     },
     {
         "code": "02022",
         "title": "Cuenta Liberada",
-        "text": "Coloca 16[Credits] del banco sobre Cuenta Liberada cuando sea instalada. Cuando no queden créditos en Cuenta Liberada, destrúyela.\n[Click]: Coge 4[Credits] de Cuenta Liberada.",
+        "text": "Coloca 16[credit] del banco sobre Cuenta Liberada cuando sea instalada. Cuando no queden créditos en Cuenta Liberada, destrúyela.\n[click]: Coge 4[credit] de Cuenta Liberada.",
         "flavor": "Es más fácil gastar dinero cuando no es tuyo."
     },
     {
@@ -22,14 +22,14 @@
         "code": "02024",
         "title": "Implantes De Retroalimentación E3",
         "keywords": "Mod",
-        "text": "Siempre que rompas una subrutina de un hielo, puedes pagar 1[Credits] para romper 1 subrutina adicional de ese hielo.",
+        "text": "Siempre que rompas una subrutina de un hielo, puedes pagar 1[credit] para romper 1 subrutina adicional de ese hielo.",
         "flavor": "Los implantes de la línea e3 de CyberSolutions emplean solamente memoria muscular y respuestas autónomas, lo que libera al cerebro para que se centre por completo en tareas cerebrales."
     },
     {
         "code": "02025",
         "title": "Empleado Comprometido",
         "keywords": "Contacto - Enlace",
-        "text": "1[Recurring Credits]\nUsa este crédito durante rastreos.\nGana 1[Credits] siempre que la Corporación ejecute un hielo."
+        "text": "1[recurring-credit]\nUsa este crédito durante rastreos.\nGana 1[credit] siempre que la Corporación ejecute un hielo."
     },
     {
         "code": "02026",
@@ -41,14 +41,14 @@
         "code": "02027",
         "title": "Bola De Nieve",
         "keywords": "Rompehielos - Fractor",
-        "text": "1[Credits]: Rompe una subrutina barrera.\n1[Credits]: +1 punto de fuerza.\nSiempre que uses Bola De Nieve para romper una subrutina, tiene +1 punto de fuerza durante el resto del turno.",
+        "text": "1[credit]: Rompe una subrutina barrera.\n1[credit]: +1 punto de fuerza.\nSiempre que uses Bola De Nieve para romper una subrutina, tiene +1 punto de fuerza durante el resto del turno.",
         "flavor": "\"Si tu bola de nieve se hace lo suficientemente grande, ¡puedes convertirla en un hombre de nieve!\" - Teoría del Caos."
     },
     {
         "code": "02028",
         "title": "Chip De Memoria Dyson",
         "keywords": "Chip - Enlace",
-        "text": "+ 1[Memory Unit], +1[Link]",
+        "text": "+ 1[mu], +1[link]",
         "flavor": "Arcaico, pero fiable."
     },
     {
@@ -61,7 +61,7 @@
         "code": "02030",
         "title": "Sherlock 1.0",
         "keywords": "Centinela - Bioroide - Rastreador",
-        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Sherlock 1.0.\n[Subroutine] <trace>Rastreo 4</trace> Si tiene éxito, añade 1 programa instalado a la parte superior del Montón del Runner.\n[Subroutine] <trace>Rastreo 4</trace> Si tiene éxito, añade 1 programa instalado a la parte superior del Montón del Runner."
+        "text": "El Runner puede gastar [click] para romper cualquier subrutina de Sherlock 1.0.\n[subroutine] <trace>Rastreo 4</trace> Si tiene éxito, añade 1 programa instalado a la parte superior del Montón del Runner.\n[subroutine] <trace>Rastreo 4</trace> Si tiene éxito, añade 1 programa instalado a la parte superior del Montón del Runner."
     },
     {
         "code": "02031",
@@ -73,7 +73,7 @@
         "code": "02032",
         "title": "IA Fetal",
         "keywords": "Emboscada",
-        "text": "Si accede a la IA Fetal desde I+D, el Runner debe revelarla.\nCuando el Runner acceda a IA Fetal, inflige 2 puntos de daño de red. Ignora esta capacidad si el Runner accede a IA Fetal desde los Archivos.\nComo coste adicional para robar IA Fetal, el Runner debe pagar 2[Credits]."
+        "text": "Si accede a la IA Fetal desde I+D, el Runner debe revelarla.\nCuando el Runner acceda a IA Fetal, inflige 2 puntos de daño de red. Ignora esta capacidad si el Runner accede a IA Fetal desde los Archivos.\nComo coste adicional para robar IA Fetal, el Runner debe pagar 2[credit]."
     },
     {
         "code": "02033",
@@ -85,7 +85,7 @@
         "code": "02034",
         "title": "Sensei",
         "keywords": "Puerta De Código",
-        "text": "[Subroutine] Durante el resto de esta incursión, cada hielo al que se enfrente el Runner, excepto Sensei, gana \"[Subroutine] Termina la incursión\" después de todas sus demás subrutinas.",
+        "text": "[subroutine] Durante el resto de esta incursión, cada hielo al que se enfrente el Runner, excepto Sensei, gana \"[subroutine] Termina la incursión\" después de todas sus demás subrutinas.",
         "flavor": "Paz y violencia. Ambas deben conducir al mismo sitio."
     },
     {
@@ -116,7 +116,7 @@
     {
         "code": "02039",
         "title": "Retiro Ejecutivo",
-        "text": "Cuando puntúes Retiro Ejectuvio, coloca 1 contador de plan sobre la carta, añade la SC a I+D y barájalo.\n[Click], <strong>contador de plan alojado</strong>: Roba 5 cartas."
+        "text": "Cuando puntúes Retiro Ejectuvio, coloca 1 contador de plan sobre la carta, añade la SC a I+D y barájalo.\n[click], <strong>contador de plan alojado</strong>: Roba 5 cartas."
     },
     {
         "code": "02040",

@@ -11,7 +11,7 @@
         "position": 101,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to play this event, spend [Click].\nMake a run on a remote server. If successful, instead of accessing cards, trash all cards in the server at no cost (even if they cannot normally be trashed).",
+        "text": "As an additional cost to play this event, spend [click].\nMake a run on a remote server. If successful, instead of accessing cards, trash all cards in the server at no cost (even if they cannot normally be trashed).",
         "title": "Singularity",
         "type_code": "event",
         "uniqueness": false
@@ -28,7 +28,7 @@
         "position": 102,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to play this event, spend [Click].\nPlace up to 3 advancement tokens on an unrezzed card in a remote server. Gain 2[Credits] for each advancement token placed. You cannot access that card this turn.",
+        "text": "As an additional cost to play this event, spend [click].\nPlace up to 3 advancement tokens on an unrezzed card in a remote server. Gain 2[credit] for each advancement token placed. You cannot access that card this turn.",
         "title": "Queen's Gambit",
         "type_code": "event",
         "uniqueness": false
@@ -46,7 +46,7 @@
         "position": 103,
         "quantity": 3,
         "side_code": "runner",
-        "text": "1[Recurring Credits]\nUse this credit to pay for using <strong>fracters</strong>.",
+        "text": "1[recurring-credit]\nUse this credit to pay for using <strong>fracters</strong>.",
         "title": "Dyson Fractal Generator",
         "type_code": "hardware",
         "uniqueness": false
@@ -64,7 +64,7 @@
         "position": 104,
         "quantity": 3,
         "side_code": "runner",
-        "text": "1[Recurring Credits]\nUse this credit to pay for using <strong>killers</strong>.",
+        "text": "1[recurring-credit]\nUse this credit to pay for using <strong>killers</strong>.",
         "title": "Silencer",
         "type_code": "hardware",
         "uniqueness": false
@@ -82,7 +82,7 @@
         "position": 105,
         "quantity": 3,
         "side_code": "runner",
-        "text": "You cannot use Savoir-faire more than once each turn.\n2[Credits]: Install a program from your grip, paying the install cost.",
+        "text": "You cannot use Savoir-faire more than once each turn.\n2[credit]: Install a program from your grip, paying the install cost.",
         "title": "Savoir-faire",
         "type_code": "program",
         "uniqueness": false
@@ -100,7 +100,7 @@
         "position": 106,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Trash]: Prevent another installed resource from being trashed.\n[Trash]: Gain 2[Credits].",
+        "text": "[trash]: Prevent another installed resource from being trashed.\n[trash]: Gain 2[credit].",
         "title": "Fall Guy",
         "type_code": "resource",
         "uniqueness": false
@@ -118,7 +118,7 @@
         "position": 107,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to play this event, spend [Click].\nGain 2[Credits]. Gain an additional 1[Credits] for each <strong>double</strong> event in your heap.",
+        "text": "As an additional cost to play this event, spend [click].\nGain 2[credit]. Gain an additional 1[credit] for each <strong>double</strong> event in your heap.",
         "title": "Power Nap",
         "type_code": "event",
         "uniqueness": false
@@ -136,7 +136,7 @@
         "position": 108,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Choose a rezzed piece of ice. That ice gains <strong>sentry</strong>, <strong>code gate</strong> or <strong>barrier</strong> until the end of the next run this turn.",
+        "text": "[click]: Choose a rezzed piece of ice. That ice gains <strong>sentry</strong>, <strong>code gate</strong> or <strong>barrier</strong> until the end of the next run this turn.",
         "title": "Paintbrush",
         "type_code": "program",
         "uniqueness": false
@@ -154,7 +154,7 @@
         "position": 109,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to play this event, spend [Click].\nGain 9[Credits].",
+        "text": "As an additional cost to play this event, spend [click].\nGain 9[credit].",
         "title": "Lucky Find",
         "type_code": "event",
         "uniqueness": false
@@ -173,7 +173,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "[Subroutine] The Runner's maximum hand size is reduced by 2 until the beginning of the Corp's next turn.",
+        "text": "[subroutine] The Runner's maximum hand size is reduced by 2 until the beginning of the Corp's next turn.",
         "title": "Gyri Labyrinth",
         "type_code": "ice",
         "uniqueness": false
@@ -190,7 +190,7 @@
         "position": 111,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, spend [Click].\nName a card other than Reclamation Order. Reveal any number of copies of the named card from Archives and add them to HQ.",
+        "text": "As an additional cost to play this operation, spend [click].\nName a card other than Reclamation Order. Reveal any number of copies of the named card from Archives and add them to HQ.",
         "title": "Reclamation Order",
         "type_code": "operation",
         "uniqueness": false
@@ -227,7 +227,7 @@
         "position": 113,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, spend [Click].\nShuffle all cards in HQ into R&D. Draw 5 cards.",
+        "text": "As an additional cost to play this operation, spend [click].\nShuffle all cards in HQ into R&D. Draw 5 cards.",
         "title": "Corporate Shuffle",
         "type_code": "operation",
         "uniqueness": false
@@ -245,7 +245,7 @@
         "position": 114,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Whenever the Runner passes all of the ice protecting this server, you and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits]. Reveal spent credits. If you and the Runner spent a different number of credits, end the run.",
+        "text": "Whenever the Runner passes all of the ice protecting this server, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, end the run.",
         "title": "Caprice Nisei",
         "trash_cost": 1,
         "type_code": "upgrade",
@@ -264,7 +264,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "When you rez Shinobi, take 1 bad publicity.\n[Subroutine] <trace>Trace 1</trace> If successful, do 1 net damage.\n[Subroutine] <trace>Trace 2</trace> If successful, do 2 net damage.\n[Subroutine] <trace>Trace 3</trace> If successful, do 3 net damage and end the run.",
+        "text": "When you rez Shinobi, take 1 bad publicity.\n[subroutine] <trace>Trace 1</trace> If successful, do 1 net damage.\n[subroutine] <trace>Trace 2</trace> If successful, do 2 net damage.\n[subroutine] <trace>Trace 3</trace> If successful, do 3 net damage and end the run.",
         "title": "Shinobi",
         "type_code": "ice",
         "uniqueness": false
@@ -283,7 +283,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[Subroutine] The next piece of ice the Runner encounters gains \"[Subroutine] End the run.\" after all its other subroutines for the remainder of this run.",
+        "text": "[subroutine] The next piece of ice the Runner encounters gains \"[subroutine] End the run.\" after all its other subroutines for the remainder of this run.",
         "title": "Marker",
         "type_code": "ice",
         "uniqueness": false
@@ -301,7 +301,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "Hive loses an \"[Subroutine] End the run.\" subroutine for each agenda point in the Corp's score area.\n[Subroutine] End the run.\n[Subroutine] End the run.\n[Subroutine] End the run.\n[Subroutine] End the run.\n[Subroutine] End the run.",
+        "text": "Hive loses an \"[subroutine] End the run.\" subroutine for each agenda point in the Corp's score area.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.",
         "title": "Hive",
         "type_code": "ice",
         "uniqueness": false
@@ -319,7 +319,7 @@
         "position": 118,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, spend [Click].\nRemove up to 2 bad publicity.",
+        "text": "As an additional cost to play this operation, spend [click].\nRemove up to 2 bad publicity.",
         "title": "Witness Tampering",
         "type_code": "operation",
         "uniqueness": false
@@ -337,7 +337,7 @@
         "position": 119,
         "quantity": 3,
         "side_code": "corp",
-        "text": "The advancement requirement of NAPD Contract is increased by 1 for each bad publicity the Corp has.\nAs an additional cost to steal NAPD Contract, the Runner must pay 4[Credits].",
+        "text": "The advancement requirement of NAPD Contract is increased by 1 for each bad publicity the Corp has.\nAs an additional cost to steal NAPD Contract, the Runner must pay 4[credit].",
         "title": "NAPD Contract",
         "type_code": "agenda",
         "uniqueness": false
@@ -356,7 +356,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "[Subroutine] End the run.",
+        "text": "[subroutine] End the run.",
         "title": "Quandary",
         "type_code": "ice",
         "uniqueness": false

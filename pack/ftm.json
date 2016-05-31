@@ -31,7 +31,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "1[Credits]: Break ice subroutine on a piece of ice that has a rez cost of 5 or greater.\n1[Credits]: +1 strength.\n2[Credits]: Swap Aghora with a <strong>deva</strong> program from your grip.",
+        "text": "1[credit]: Break ice subroutine on a piece of ice that has a rez cost of 5 or greater.\n1[credit]: +1 strength.\n2[credit]: Swap Aghora with a <strong>deva</strong> program from your grip.",
         "title": "Aghora",
         "type_code": "program",
         "uniqueness": true
@@ -101,7 +101,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "If you use Ankusa to break all subroutines on a <strong>barrier</strong> during a single encounter, add that <strong>barrier</strong> to HQ.\n2[Credits]: Break <strong>barrier</strong> subroutine.\n1[Credits]: +1 strength.",
+        "text": "If you use Ankusa to break all subroutines on a <strong>barrier</strong> during a single encounter, add that <strong>barrier</strong> to HQ.\n2[credit]: Break <strong>barrier</strong> subroutine.\n1[credit]: +1 strength.",
         "title": "Ankusa",
         "type_code": "program",
         "uniqueness": false
@@ -117,7 +117,7 @@
         "position": 102,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Secretly spend up to 2[Credits]. The Corp guesses how much you spent. Reveal spent credits. If the Corp guessed incorrectly, make a run and choose a piece of ice protecting the attacked server. Bypass that ice when you encounter it.",
+        "text": "Secretly spend up to 2[credit]. The Corp guesses how much you spent. Reveal spent credits. If the Corp guessed incorrectly, make a run and choose a piece of ice protecting the attacked server. Bypass that ice when you encounter it.",
         "title": "Rigged Results",
         "type_code": "event",
         "uniqueness": false
@@ -136,7 +136,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "When you rez Magnet, host a program on it that is hosted on an installed piece of ice.\nThe text box of each program hosted on Magnet is blank.\n[Subroutine] End the run.",
+        "text": "When you rez Magnet, host a program on it that is hosted on an installed piece of ice.\nThe text box of each program hosted on Magnet is blank.\n[subroutine] End the run.",
         "title": "Magnet",
         "type_code": "ice",
         "uniqueness": false
@@ -154,7 +154,7 @@
         "position": 104,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 4[Credits]. You may install 1 card (paying the install cost).",
+        "text": "Gain 4[credit]. You may install 1 card (paying the install cost).",
         "title": "Lateral Growth",
         "type_code": "operation",
         "uniqueness": false
@@ -172,7 +172,7 @@
         "position": 105,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When Improved Protein Source is scored or stolen, the Runner gains 4[Credits].",
+        "text": "When Improved Protein Source is scored or stolen, the Runner gains 4[credit].",
         "title": "Improved Protein Source",
         "type_code": "agenda",
         "uniqueness": false
@@ -189,7 +189,7 @@
         "position": 106,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Play only if there is an agenda in the Runner's score area.\nYou and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits]. Reveal spent credits. If you and the Runner spent a different number of credits, trash 1 resource.",
+        "text": "Play only if there is an agenda in the Runner's score area.\nYou and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, trash 1 resource.",
         "title": "Voter Intimidation",
         "type_code": "operation",
         "uniqueness": false
@@ -280,7 +280,7 @@
         "position": 111,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Zealous Judge can only be rezzed if the Runner is tagged.\n[Click], 1[Credits]: Give the Runner 1 tag.",
+        "text": "Zealous Judge can only be rezzed if the Runner is tagged.\n[click], 1[credit]: Give the Runner 1 tag.",
         "title": "Zealous Judge",
         "trash_cost": 2,
         "type_code": "asset",

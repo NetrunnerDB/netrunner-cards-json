@@ -2,121 +2,121 @@
     {
         "code": "02061",
         "title": "扰乱器",
-        "text": "[Trash]：防止一次追踪。该次追踪以0基础追踪强度重新发起。",
+        "text": "[trash]：防止一次追踪。该次追踪以0基础追踪强度重新发起。",
         "flavor": "“这玩意救过我不止一次，不过会造成不自在的既视感。”——魔术师"
     },
     {
         "code": "02062",
         "title": "自然之力",
         "keywords": "破解器 - 解码模块",
-        "text": "2[Credits]：破解最多2个<strong>门禁</strong>子进程。\n1[Credits]：强度+1。",
+        "text": "2[credit]：破解最多2个<strong>门禁</strong>子进程。\n1[credit]：强度+1。",
         "flavor": "它总是有再度劈中的奇迹。"
     },
     {
         "code": "02063",
         "title": "清洗者",
         "keywords": "人脉 - 低劣",
-        "text": "2[Recurring Credits]\n这些信用点用于销毁卡牌。",
+        "text": "2[recurring-credit]\n这些信用点用于销毁卡牌。",
         "flavor": "“他们只是些懂破坏的无脑工具，其它方面几乎一无是处。尽管他们人还不错。我有一些最好的朋友就是清洗者。”——吉·“噪音”·雷利"
     },
     {
         "code": "02064",
         "title": "双重幻影",
         "keywords": "控制台",
-        "text": "+1[Memory Unit]\n每回合一次，当一次成功的潜袭结束时，你可以立即进行另一次潜袭。\n每位玩家限制1个<strong>控制台</strong>。",
+        "text": "+1[mu]\n每回合一次，当一次成功的潜袭结束时，你可以立即进行另一次潜袭。\n每位玩家限制1个<strong>控制台</strong>。",
         "flavor": "双倍的乐趣。"
     },
     {
         "code": "02065",
         "title": "生物胶水",
-        "text": "[Trash]：关闭一层防火墙。在一次遭遇中破解该防火墙上的所有子进程后，才能使用本能力。",
+        "text": "[trash]：关闭一层防火墙。在一次遭遇中破解该防火墙上的所有子进程后，才能使用本能力。",
         "flavor": "赛博空间中最强的胶水。"
     },
     {
         "code": "02066",
         "title": "神谕",
         "keywords": "破解器",
-        "text": "[Trash]：破解任意数量的<strong>杀伤</strong>子进程。\n[Trash]：防止任意数量的网域伤害。",
+        "text": "[trash]：破解任意数量的<strong>杀伤</strong>子进程。\n[trash]：防止任意数量的网域伤害。",
         "flavor": "如此意外。"
     },
     {
         "code": "02067",
         "title": "夜猫子",
-        "text": "[Click]，[Trash]：获得[Click][Click]。",
+        "text": "[click]，[trash]：获得[click][click]。",
         "flavor": "“我不管研究怎么说。依我的经验，我可以每小时喝掉三罐迪燃，在心脏停摆前持续工作长达十二小时。”——听闻于第十一个小时"
     },
     {
         "code": "02068",
         "title": "内线",
         "keywords": "人脉",
-        "text": "2[Recurring Credits]\n这些信用点用于安装硬件。",
+        "text": "2[recurring-credit]\n这些信用点用于安装硬件。",
         "flavor": "很少有公司职员能像清扫工那样拥有各处清扫的广泛安全许可。大部分公司可笑地认为清扫工们过于愚笨，不懂得如何以此为利。"
     },
     {
         "code": "02069",
         "title": "秘密接触",
         "keywords": "人脉",
-        "text": "当你的回合开始时，如果你具有至少2[Link]，获得1[Credits]。",
+        "text": "当你的回合开始时，如果你具有至少2[link]，获得1[credit]。",
         "flavor": "“我的老板会嘉奖高质量的工作。如果你明白什么对你有利，你就继续好好干。”"
     },
     {
         "code": "02070",
         "title": "绿色许可",
         "keywords": "交易",
-        "text": "获得3[Credits]并补一张卡牌。",
+        "text": "获得3[credit]并补一张卡牌。",
         "flavor": "绿色二级是一个职员能获得的最高安全许可。应该说，合法获得的。"
     },
     {
         "code": "02071",
         "title": "沙漏",
         "keywords": "门禁",
-        "text": "[Subroutine] 如可能，潜袭者失去[Click]。\n[Subroutine] 如可能，潜袭者失去[Click]。\n[Subroutine] 如可能，潜袭者失去[Click]。",
+        "text": "[subroutine] 如可能，潜袭者失去[click]。\n[subroutine] 如可能，潜袭者失去[click]。\n[subroutine] 如可能，潜袭者失去[click]。",
         "flavor": "时间只会悄悄溜走。"
     },
     {
         "code": "02072",
         "title": "专属服务器",
         "keywords": "设施",
-        "text": "2[Recurring Credits]\n这些信用点用于激活防火墙。",
+        "text": "2[recurring-credit]\n这些信用点用于激活防火墙。",
         "flavor": "寺钟不扰樱花落，\n寂静又平和\n - 川上不白"
     },
     {
         "code": "02073",
         "title": "牛蛙",
         "keywords": "门禁 - 偏导器 - 灵能",
-        "text": "[Subroutine] 你和潜袭者秘密花费0[Credits]，1[Credits]或2[Credits]。展示所花费的信用点。如果你和潜袭者花费了不同数量的信用点，转移牛蛙，使其成为保护另一台服务器的最外层防火墙（现在，潜袭者从这个新位置并对这台新服务器继续进行潜袭）。"
+        "text": "[subroutine] 你和潜袭者秘密花费0[credit]，1[credit]或2[credit]。展示所花费的信用点。如果你和潜袭者花费了不同数量的信用点，转移牛蛙，使其成为保护另一台服务器的最外层防火墙（现在，潜袭者从这个新位置并对这台新服务器继续进行潜袭）。"
     },
     {
         "code": "02074",
         "title": "咬尾蛇",
         "keywords": "警报 - 追踪者",
-        "text": "[Subroutine] <strong>追踪<sup>4</sup></strong> – 如果成功，潜袭者本回合内不能进行另一次潜袭。\n[Subroutine] <strong>追踪<sup>4</sup></strong> – 如果成功，终止本次潜袭。",
+        "text": "[subroutine] <strong>追踪<sup>4</sup></strong> – 如果成功，潜袭者本回合内不能进行另一次潜袭。\n[subroutine] <strong>追踪<sup>4</sup></strong> – 如果成功，终止本次潜袭。",
         "flavor": "一物终结之处，便是他物开始之地。"
     },
     {
         "code": "02075",
         "title": "网络警察",
-        "text": "X[Recurring Credits]\n这些信用点用于追踪。X等于潜袭者的中转数量。",
+        "text": "X[recurring-credit]\n这些信用点用于追踪。X等于潜袭者的中转数量。",
         "flavor": "这就是网络。我们在此工作。我们是警察。"
     },
     {
         "code": "02076",
         "title": "威兰财团：因为有我们建造",
         "keywords": "巨型企业",
-        "text": "1[Recurring Credits]\n本信用点用于推进防火墙。",
+        "text": "1[recurring-credit]\n本信用点用于推进防火墙。",
         "flavor": "建设赛博空间。"
     },
     {
         "code": "02077",
         "title": "政府合约",
-        "text": "[Click]，[Click]：获得4[Credits]。",
+        "text": "[click]，[click]：获得4[credit]。",
         "flavor": "政府合约是很难被破坏的。"
     },
     {
         "code": "02078",
         "title": "暴君",
         "keywords": "屏障",
-        "text": "已激活的暴君才能被推进，并且其上每有1枚推进标记，获得“[Subroutine] 终止本次潜袭。”",
+        "text": "已激活的暴君才能被推进，并且其上每有1枚推进标记，获得“[subroutine] 终止本次潜袭。”",
         "flavor": "汝不得通过。"
     },
     {
@@ -129,7 +129,7 @@
         "code": "02080",
         "title": "误导",
         "keywords": "防卫",
-        "text": "<strong>废除误导</strong>：如可能，潜袭者失去[Click][Click]。",
+        "text": "<strong>废除误导</strong>：如可能，潜袭者失去[click][click]。",
         "flavor": "看起来它不像是一个几十亿资产公司的总部。估计是因为它真的不是。"
     }
 ]

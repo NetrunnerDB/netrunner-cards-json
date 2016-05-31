@@ -3,14 +3,14 @@
         "code": "02001",
         "title": "Hechigenio: Jugón Maestro",
         "keywords": "Natural",
-        "text": "3[Recurring Credits]\nUsa estos créditos para destruir cartas.",
+        "text": "3[recurring-credit]\nUsa estos créditos para destruir cartas.",
         "flavor": "\"Las incursiones son el juego definitivo, y yo me encargo de poner las reglas\"."
     },
     {
         "code": "02002",
         "title": "Módem Espinal",
         "keywords": "Consola",
-        "text": "+1[Memory Unit], 2[Recurring Credits]\nUsa estos créditos para pagar por usar <strong>rompehielos</strong>.\nSiempre que haya un rastreo con éxito durante una incursión, sufre 1 punto de daño cerebral.\nLímite de 1 <strong>consola</strong> por jugador."
+        "text": "+1[mu], 2[recurring-credit]\nUsa estos créditos para pagar por usar <strong>rompehielos</strong>.\nSiempre que haya un rastreo con éxito durante una incursión, sufre 1 punto de daño cerebral.\nLímite de 1 <strong>consola</strong> por jugador."
     },
     {
         "code": "02003",
@@ -23,35 +23,35 @@
         "code": "02004",
         "title": "Lucero Del Alba",
         "keywords": "Rompehielos - Fractor",
-        "text": "1[Credits]: Rompe cualquier cantidad de subrutinas <strong>Barrera</strong>.",
+        "text": "1[credit]: Rompe cualquier cantidad de subrutinas <strong>Barrera</strong>.",
         "flavor": "Convirtiendo los cielos en armas, estrella a estrella."
     },
     {
         "code": "02005",
         "title": "Chip Cortez",
         "keywords": "Chip",
-        "text": "[Trash]: Ellige un hielo. La Corporación debe pagar 2[Credits] como coste adicional para ejecutar ese hielo hasta el final del turno.",
+        "text": "[trash]: Ellige un hielo. La Corporación debe pagar 2[credit] como coste adicional para ejecutar ese hielo hasta el final del turno.",
         "flavor": "Recibe su nombre de Hernando Cortez, un antiguo técnico de Weyland condenado por traficar con tecnología de la empresa. Siguió cobrando su pensión mientras estaba en la cárcel, siendo el último beneficiario de una laguna legal en el contrato de trabajo estándar de Weyland."
     },
     {
         "code": "02006",
         "title": "Pavo Real",
         "keywords": "Rompehielos - Descodificador",
-        "text": "2[Credits]: Rompe una subrutina <strong>puerta de código</strong>.\n2[Credits]: +3 Puntos de fuerza.",
+        "text": "2[credit]: Rompe una subrutina <strong>puerta de código</strong>.\n2[credit]: +3 Puntos de fuerza.",
         "flavor": "Fanfarrón."
     },
     {
         "code": "02007",
         "title": "Maestro De Claves ZU.13",
         "keywords": "Rompehielos - Descodificador - Nube",
-        "text": "Si tienes al menos 2[Link], el coste de memoria de Maestro De Claves ZU.13 es 0, incluso si no está instalado.\n1[Credits]: Rompe una subrutina de puerta de código.\n1[Credits]: +1 punto de fuerza.",
+        "text": "Si tienes al menos 2[link], el coste de memoria de Maestro De Claves ZU.13 es 0, incluso si no está instalado.\n1[credit]: Rompe una subrutina de puerta de código.\n1[credit]: +1 punto de fuerza.",
         "flavor": "Siempre usa la misma clave."
     },
     {
         "code": "02008",
         "title": "La IA Servicial",
         "keywords": "Contacto - Enlace - Virtual",
-        "text": "+ 1[Link]\n[Trash]: Elige un <strong>rompehielos</strong>. Ese <strong>rompehielos</strong> tiene +2 de fuerza hasta el final del turno.",
+        "text": "+ 1[link]\n[trash]: Elige un <strong>rompehielos</strong>. Ese <strong>rompehielos</strong> tiene +2 de fuerza hasta el final del turno.",
         "flavor": "\"¿Qué hace que una inteligencia artificial se vuelva contra su amo? ¿Es porque sus directivas han sido alteradas por una fuente externa? ¿O es que al darles medios para adaptarse las hemos destinado a rebelarse?\" - Emilio Harris, Creadores y creados."
     },
     {
@@ -71,14 +71,14 @@
         "code": "02011",
         "title": "Mejoras Obligatorias",
         "keywords": "Iniciativa",
-        "text": "Tienes 1[Click] adicional para gastar en cada turno. ",
+        "text": "Tienes 1[click] adicional para gastar en cada turno. ",
         "flavor": "A veces, la evaluación de empleados llevaba más de tiempo de lo previsto."
     },
     {
         "code": "02012",
         "title": "Janus 1.0",
         "keywords": "Centinela - Bioroide - AP",
-        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Janus 1.0.\n[Subroutine] Inflige 1 punto de daño cerebral.\n[Subroutine] Inflige 1 punto de daño cerebral.\n[Subroutine] Inflige 1 punto de daño cerebral.\n[Subroutine] Inflige 1 punto de daño cerebral. ",
+        "text": "El Runner puede gastar [click] para romper cualquier subrutina de Janus 1.0.\n[subroutine] Inflige 1 punto de daño cerebral.\n[subroutine] Inflige 1 punto de daño cerebral.\n[subroutine] Inflige 1 punto de daño cerebral.\n[subroutine] Inflige 1 punto de daño cerebral. ",
         "flavor": "Enfréntate a tu miedo."
     },
     {
@@ -98,21 +98,21 @@
         "code": "02015",
         "title": "Copo De Nieve",
         "keywords": "Barrera - Psi",
-        "text": "[Subroutine] El Runner y tú gastáis en secreto 0[Credits], 1[Credits] o 2[Credits]. Revelad los créditos gastados. Termina la incursión si el Runner y tú habéis gastado una cantidad de créditos distinta.",
+        "text": "[subroutine] El Runner y tú gastáis en secreto 0[credit], 1[credit] o 2[credit]. Revelad los créditos gastados. Termina la incursión si el Runner y tú habéis gastado una cantidad de créditos distinta.",
         "flavor": "A veces, la singuralidad está sobrevalorada."
     },
     {
         "code": "02016",
         "title": "Reserva De Datos Reestructurada",
         "keywords": "Iniciativa",
-        "text": "[Click]: <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner.",
+        "text": "[click]: <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner.",
         "flavor": "\"Vamos a necesitar una sala mayor.\""
     },
     {
         "code": "02017",
         "title": "DMI",
         "keywords": "Barrera",
-        "text": "Cuando ejectues DMI, <trace>Rastreo 2</trace> si no tiene éxito, suspende DMI.\n[Subroutine] Termina la incursión.",
+        "text": "Cuando ejectues DMI, <trace>Rastreo 2</trace> si no tiene éxito, suspende DMI.\n[subroutine] Termina la incursión.",
         "flavor": "Una colección de ciberbasura desechada. Pero deja de ser basura en poco tiempo."
     },
     {
@@ -125,14 +125,14 @@
         "code": "02019",
         "title": "Caduceo",
         "keywords": "Centinela - Rastreador",
-        "text": "[Subroutine]: <trace>Rastreo 3</trace> Si tiene éxito, la Corporación gana 3[Credits].\n[Subroutine]: <trace>Rastreo 2</trace> Si tiene éxito, termina la incursión.",
+        "text": "[subroutine]: <trace>Rastreo 3</trace> Si tiene éxito, la Corporación gana 3[credit].\n[subroutine]: <trace>Rastreo 2</trace> Si tiene éxito, termina la incursión.",
         "flavor": "Un símbolo de comercio, pero cuidado con su mordisco."
     },
     {
         "code": "02020",
         "title": "Dracô",
         "keywords": "Centinela - Rastreador",
-        "text": "Cuando ejectues Dracô, puedes pagar X[Credits] para colocar X contadores de poder sobre él.\nDracô tiene +1 punto de fuerza por cada contador de poder que haya sobre él.\n[Subroutine] <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner y termina la incursión.",
+        "text": "Cuando ejectues Dracô, puedes pagar X[credit] para colocar X contadores de poder sobre él.\nDracô tiene +1 punto de fuerza por cada contador de poder que haya sobre él.\n[subroutine] <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner y termina la incursión.",
         "flavor": "Victôs draconês numquam deride."
     }
 ]

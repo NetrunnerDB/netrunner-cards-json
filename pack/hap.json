@@ -30,7 +30,7 @@
         "position": 2,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Whenever you and the Runner reveal secretly spent credits, gain 1[Credits].",
+        "text": "Whenever you and the Runner reveal secretly spent credits, gain 1[credit].",
         "title": "Nisei Division: The Next Generation",
         "type_code": "identity",
         "uniqueness": false
@@ -116,7 +116,7 @@
         "position": 7,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When the Runner accesses The Future Perfect, you and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits]. Reveal spent credits. If you and the Runner spent a different number of credits, prevent The Future Perfect from being stolen. Ignore this ability if the Runner accesses The Future Perfect while it is installed.",
+        "text": "When the Runner accesses The Future Perfect, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, prevent The Future Perfect from being stolen. Ignore this ability if the Runner accesses The Future Perfect while it is installed.",
         "title": "The Future Perfect",
         "type_code": "agenda",
         "uniqueness": false
@@ -152,7 +152,7 @@
         "position": 9,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 1[Credits] when your turn begins.\nThe Runner's maximum hand size is increased by 1.",
+        "text": "Gain 1[credit] when your turn begins.\nThe Runner's maximum hand size is increased by 1.",
         "title": "Mental Health Clinic",
         "trash_cost": 3,
         "type_code": "asset",
@@ -170,7 +170,7 @@
         "position": 10,
         "quantity": 3,
         "side_code": "corp",
-        "text": "If the Runner exposes or accesses Psychic Field while installed, you and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits]. Reveal spent credits. If you and the Runner spent a different number of credits, do 1 net damage for each card in the Runner's grip.",
+        "text": "If the Runner exposes or accesses Psychic Field while installed, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, do 1 net damage for each card in the Runner's grip.",
         "title": "Psychic Field",
         "trash_cost": 2,
         "type_code": "asset",
@@ -188,7 +188,7 @@
         "position": 11,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When the Runner accesses Shi.Kyū, you may pay X[Credits]. The Runner must take either X net damage or add Shi.Kyū to his or her score area as an agenda worth -1 agenda point. Ignore this ability if the Runner accesses Shi.Kyū from R&D.",
+        "text": "When the Runner accesses Shi.Kyū, you may pay X[credit]. The Runner must take either X net damage or add Shi.Kyū to his or her score area as an agenda worth -1 agenda point. Ignore this ability if the Runner accesses Shi.Kyū from R&D.",
         "title": "Shi.Kyū",
         "trash_cost": 0,
         "type_code": "asset",
@@ -207,7 +207,7 @@
         "position": 12,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: Swap 2 pieces of installed ice.",
+        "text": "[click]: Swap 2 pieces of installed ice.",
         "title": "Tenma Line",
         "trash_cost": 4,
         "type_code": "asset",
@@ -225,7 +225,7 @@
         "position": 13,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Play only if the Runner made a successful run during his or her last turn.\nYou and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits]. Reveal spent credits. If you and the Runner spent a different number of credits, he or she chooses to suffer 1 brain damage or take 1 tag.",
+        "text": "Play only if the Runner made a successful run during his or her last turn.\nYou and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, he or she chooses to suffer 1 brain damage or take 1 tag.",
         "title": "Cerebral Cast",
         "type_code": "operation",
         "uniqueness": false
@@ -243,7 +243,7 @@
         "position": 14,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 8[Credits]. The Runner gains 3[Credits].",
+        "text": "Gain 8[credit]. The Runner gains 3[credit].",
         "title": "Medical Research Fundraiser",
         "type_code": "operation",
         "uniqueness": false
@@ -260,7 +260,7 @@
         "position": 15,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, spend [Click].\nInstall an asset, agenda, or upgrade from HQ in a new remote server. Place 3 advancement tokens on that card. You cannot score or rez that card until your next turn begins.",
+        "text": "As an additional cost to play this operation, spend [click].\nInstall an asset, agenda, or upgrade from HQ in a new remote server. Place 3 advancement tokens on that card. You cannot score or rez that card until your next turn begins.",
         "title": "Mushin No Shin",
         "type_code": "operation",
         "uniqueness": false
@@ -279,7 +279,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] The Runner cannot break any subroutines on the next piece of ice he or she encounters during this run.\n[Subroutine] The Runner cannot jack out until after encountering the next piece of ice during this run.",
+        "text": "[subroutine] The Runner cannot break any subroutines on the next piece of ice he or she encounters during this run.\n[subroutine] The Runner cannot jack out until after encountering the next piece of ice during this run.",
         "title": "Inazuma",
         "type_code": "ice",
         "uniqueness": false
@@ -297,7 +297,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 1,
-        "text": "When the Runner encounters Komainu, it gains \"[Subroutine] Do 1 net damage.\" for each card in the Runner's grip for the remainder of this run.",
+        "text": "When the Runner encounters Komainu, it gains \"[subroutine] Do 1 net damage.\" for each card in the Runner's grip for the remainder of this run.",
         "title": "Komainu",
         "type_code": "ice",
         "uniqueness": false
@@ -316,7 +316,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "[Subroutine] Do 1 net damage unless the Runner pays 1[Credits].\n[Subroutine] Do 1 net damage unless the Runner pays 1[Credits].",
+        "text": "[subroutine] Do 1 net damage unless the Runner pays 1[credit].\n[subroutine] Do 1 net damage unless the Runner pays 1[credit].",
         "title": "Pup",
         "type_code": "ice",
         "uniqueness": false
@@ -335,7 +335,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] Look at the top 3 cards of R&D and arrange them in any order.\n[Subroutine] The Runner accesses the top card of R&D unless the Corp pays 1[Credits].",
+        "text": "[subroutine] Look at the top 3 cards of R&D and arrange them in any order.\n[subroutine] The Runner accesses the top card of R&D unless the Corp pays 1[credit].",
         "title": "Shiro",
         "type_code": "ice",
         "uniqueness": false
@@ -354,7 +354,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 7,
-        "text": "[Subroutine] If not already running on Archives, the Runner is now running on Archives instead of passing Susanoo-no-Mikoto. The Runner cannot jack out until after he or she encounters a piece of ice.",
+        "text": "[subroutine] If not already running on Archives, the Runner is now running on Archives instead of passing Susanoo-no-Mikoto. The Runner cannot jack out until after he or she encounters a piece of ice.",
         "title": "Susanoo-no-Mikoto",
         "type_code": "ice",
         "uniqueness": true
@@ -372,7 +372,7 @@
         "position": 21,
         "quantity": 3,
         "side_code": "corp",
-        "text": "The first time an advancement token is a placed on a card in this server each turn, gain 1[Credits].\nLimit 1 <strong>region</strong> per server.",
+        "text": "The first time an advancement token is a placed on a card in this server each turn, gain 1[credit].\nLimit 1 <strong>region</strong> per server.",
         "title": "NeoTokyo Grid",
         "trash_cost": 5,
         "type_code": "upgrade",
@@ -391,7 +391,7 @@
         "position": 22,
         "quantity": 3,
         "side_code": "corp",
-        "text": "The first time you would do any amount of net damage during each run on this server, instead you may pay 2[Credits] to do 1 brain damage.",
+        "text": "The first time you would do any amount of net damage during each run on this server, instead you may pay 2[credit] to do 1 brain damage.",
         "title": "Tori Hanzō",
         "trash_cost": 2,
         "type_code": "upgrade",
@@ -429,7 +429,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "Guard cannot be bypassed.\n[Subroutine] End the run.",
+        "text": "Guard cannot be bypassed.\n[subroutine] End the run.",
         "title": "Guard",
         "type_code": "ice",
         "uniqueness": false
@@ -448,7 +448,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] End the run.",
+        "text": "[subroutine] End the run.",
         "title": "Rainbow",
         "type_code": "ice",
         "uniqueness": false
@@ -466,7 +466,7 @@
         "position": 26,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 1[Credits] for each remote server with a card installed in it.",
+        "text": "Gain 1[credit] for each remote server with a card installed in it.",
         "title": "Diversified Portfolio",
         "type_code": "operation",
         "uniqueness": false
@@ -502,7 +502,7 @@
         "position": 28,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, gain 2[Credits] if the Corp has more scored agenda points than you.",
+        "text": "When your turn begins, gain 2[credit] if the Corp has more scored agenda points than you.",
         "title": "Iain Stirling: Retired Spook",
         "type_code": "identity",
         "uniqueness": false
@@ -521,7 +521,7 @@
         "position": 29,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first time you play a <strong>run</strong> event each turn, gain 1[Credits].",
+        "text": "The first time you play a <strong>run</strong> event each turn, gain 1[credit].",
         "title": "Ken \"Express\" Tenma: Disappeared Clone",
         "type_code": "identity",
         "uniqueness": false
@@ -557,7 +557,7 @@
         "position": 31,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Gain 1[Credits] for each installed <strong>connection</strong> resource.",
+        "text": "Gain 1[credit] for each installed <strong>connection</strong> resource.",
         "title": "Calling in Favors",
         "type_code": "event",
         "uniqueness": false
@@ -575,7 +575,7 @@
         "position": 32,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Play only as your first click.\nMake a run and gain [Click].",
+        "text": "Play only as your first click.\nMake a run and gain [click].",
         "title": "Early Bird",
         "type_code": "event",
         "uniqueness": false
@@ -645,7 +645,7 @@
         "position": 36,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to play this event, spend [Click].\nSearch your stack for a <strong>run</strong> event and play that <strong>run</strong> event (paying its play cost), ignoring any additional costs. Shuffle your stack.",
+        "text": "As an additional cost to play this event, spend [click].\nSearch your stack for a <strong>run</strong> event and play that <strong>run</strong> event (paying its play cost), ignoring any additional costs. Shuffle your stack.",
         "title": "Planned Assault",
         "type_code": "event",
         "uniqueness": false
@@ -662,7 +662,7 @@
         "position": 37,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Memory Unit]\nYour maximum hand size is increased by 1.\nWhenever the Corp scores an agenda, you may search your stack for a card and add it to your grip. Shuffle your stack.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+1[mu]\nYour maximum hand size is increased by 1.\nWhenever the Corp scores an agenda, you may search your stack for a card and add it to your grip. Shuffle your stack.\nLimit 1 <strong>console</strong> per player.",
         "title": "Logos",
         "type_code": "hardware",
         "uniqueness": true
@@ -679,7 +679,7 @@
         "position": 38,
         "quantity": 3,
         "side_code": "runner",
-        "text": "1[Recurring Credits]\nUse this credit to play <strong>run</strong> events.",
+        "text": "1[recurring-credit]\nUse this credit to play <strong>run</strong> events.",
         "title": "Public Terminal",
         "type_code": "hardware",
         "uniqueness": false
@@ -696,7 +696,7 @@
         "position": 39,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Use Unregistered S&W '35 only if you have made a successful run on HQ this turn.\n[Click], [Click]: Trash 1 rezzed <strong>bioroid</strong>, <strong>clone</strong>, <strong>executive</strong>, or <strong>sysop</strong> in a server without paying its trash cost.",
+        "text": "Use Unregistered S&W '35 only if you have made a successful run on HQ this turn.\n[click], [click]: Trash 1 rezzed <strong>bioroid</strong>, <strong>clone</strong>, <strong>executive</strong>, or <strong>sysop</strong> in a server without paying its trash cost.",
         "title": "Unregistered S&W '35",
         "type_code": "hardware",
         "uniqueness": false
@@ -713,7 +713,7 @@
         "position": 40,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Draw 1 card from the bottom of your stack.",
+        "text": "[click]: Draw 1 card from the bottom of your stack.",
         "title": "Window",
         "type_code": "hardware",
         "uniqueness": false
@@ -733,7 +733,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "1[Credits]: Break <strong>sentry</strong> subroutine.\n2[Credits]: +3 strength.\nAlias cannot be used on ice protecting a remote server.",
+        "text": "1[credit]: Break <strong>sentry</strong> subroutine.\n2[credit]: +3 strength.\nAlias cannot be used on ice protecting a remote server.",
         "title": "Alias",
         "type_code": "program",
         "uniqueness": false
@@ -752,7 +752,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "2[Credits]: Break up to 3 <strong>barrier</strong> subroutines.\n2[Credits]: +4 strength.\nBreach cannot be used on ice protecting a remote server.",
+        "text": "2[credit]: Break up to 3 <strong>barrier</strong> subroutines.\n2[credit]: +4 strength.\nBreach cannot be used on ice protecting a remote server.",
         "title": "Breach",
         "type_code": "program",
         "uniqueness": false
@@ -770,7 +770,7 @@
         "position": 43,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Install only if you made a successful run on HQ this turn.\nWhenever the Corp draws a card, you may pay 2[Credits] to reveal that card.",
+        "text": "Install only if you made a successful run on HQ this turn.\nWhenever the Corp draws a card, you may pay 2[credit] to reveal that card.",
         "title": "Bug",
         "type_code": "program",
         "uniqueness": false
@@ -790,7 +790,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "1[Credits]: Break <strong>tracer</strong> subroutine.\n2[Credits]: +3 strength.",
+        "text": "1[credit]: Break <strong>tracer</strong> subroutine.\n2[credit]: +3 strength.",
         "title": "Gingerbread",
         "type_code": "program",
         "uniqueness": false
@@ -808,7 +808,7 @@
         "position": 45,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Trash]: Break all but 1 subroutine on a piece of ice.",
+        "text": "[trash]: Break all but 1 subroutine on a piece of ice.",
         "title": "Grappling Hook",
         "type_code": "program",
         "uniqueness": false
@@ -828,7 +828,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "1[Credits]: Break <strong>code gate</strong> subroutine.\n2[Credits]: +2 strength.\nPassport cannot be used on ice protecting a remote server.",
+        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +2 strength.\nPassport cannot be used on ice protecting a remote server.",
         "title": "Passport",
         "type_code": "program",
         "uniqueness": false
@@ -862,7 +862,7 @@
         "position": 48,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, choose a server. The first time you make a successful run on that server this turn, instead of accessing cards, gain 2[Credits].",
+        "text": "When your turn begins, choose a server. The first time you make a successful run on that server this turn, instead of accessing cards, gain 2[credit].",
         "title": "Security Testing",
         "type_code": "resource",
         "uniqueness": false
@@ -898,7 +898,7 @@
         "position": 50,
         "quantity": 3,
         "side_code": "runner",
-        "text": "You cannot use Tri-maf Contact more than once per turn.\n[Click]: Gain 2[Credits].\nWhen Tri-maf Contact is trashed, suffer 3 meat damage.",
+        "text": "You cannot use Tri-maf Contact more than once per turn.\n[click]: Gain 2[credit].\nWhen Tri-maf Contact is trashed, suffer 3 meat damage.",
         "title": "Tri-maf Contact",
         "type_code": "resource",
         "uniqueness": false
@@ -933,7 +933,7 @@
         "position": 52,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Memory Unit]\nTrash Q-Coherence Chip when an installed program is trashed.\n\n(errata from FAQ 3.0.1)",
+        "text": "+1[mu]\nTrash Q-Coherence Chip when an installed program is trashed.\n\n(errata from FAQ 3.0.1)",
         "title": "Q-Coherence Chip",
         "type_code": "hardware",
         "uniqueness": false
@@ -952,7 +952,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "Place 1 power counter on Overmind when it is installed for each unused MU.\n<strong>Hosted power counter:</strong> Break ice subroutine.\n1[Credits]: +1 strength.",
+        "text": "Place 1 power counter on Overmind when it is installed for each unused MU.\n<strong>Hosted power counter:</strong> Break ice subroutine.\n1[credit]: +1 strength.",
         "title": "Overmind",
         "type_code": "program",
         "uniqueness": false
@@ -970,7 +970,7 @@
         "position": 54,
         "quantity": 3,
         "side_code": "runner",
-        "text": "You cannot use Oracle May more than once per turn.\n[Click]: Name a card type. Reveal the top card of your stack. If the revealed card is of the named type, draw it and gain 2[Credits]. Otherwise, trash it.",
+        "text": "You cannot use Oracle May more than once per turn.\n[click]: Name a card type. Reveal the top card of your stack. If the revealed card is of the named type, draw it and gain 2[credit]. Otherwise, trash it.",
         "title": "Oracle May",
         "type_code": "resource",
         "uniqueness": true

@@ -28,7 +28,7 @@
         "position": 22,
         "quantity": 3,
         "side_code": "corp",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to make the first run not made through a card ability on his or her turn, the Runner must spend [Click].",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to make the first run not made through a card ability on his or her turn, the Runner must spend [click].",
         "title": "Enhanced Login Protocol",
         "type_code": "operation",
         "uniqueness": false
@@ -65,7 +65,7 @@
         "position": 24,
         "quantity": 3,
         "side_code": "corp",
-        "text": "All <strong>code gate</strong> ice have +1 strength.\nWhen you score Encrypted Portals, gain 1[Credits] for each rezzed <strong>code gate</strong>.",
+        "text": "All <strong>code gate</strong> ice have +1 strength.\nWhen you score Encrypted Portals, gain 1[credit] for each rezzed <strong>code gate</strong>.",
         "title": "Encrypted Portals",
         "type_code": "agenda",
         "uniqueness": false
@@ -100,7 +100,7 @@
         "position": 26,
         "quantity": 3,
         "side_code": "corp",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nName a card. Gain 10[Credits] whenever the Runner plays or installs a copy of that card.",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nName a card. Gain 10[credit] whenever the Runner plays or installs a copy of that card.",
         "title": "Targeted Marketing",
         "type_code": "operation",
         "uniqueness": false
@@ -119,7 +119,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "When the Runner encounters Information Overload, <trace>trace 1</trace> if the trace is successful, give the Runner 1 tag.\nInformation Overload gains \"[Subroutine] The Runner trashes 1 of his or her installed cards.\" for each tag the Runner has.",
+        "text": "When the Runner encounters Information Overload, <trace>trace 1</trace> if the trace is successful, give the Runner 1 tag.\nInformation Overload gains \"[subroutine] The Runner trashes 1 of his or her installed cards.\" for each tag the Runner has.",
         "title": "Information Overload",
         "type_code": "ice",
         "uniqueness": false
@@ -136,7 +136,7 @@
         "position": 28,
         "quantity": 3,
         "side_code": "corp",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nGain 1[Credits] whenever the Runner makes a successful run.",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nGain 1[credit] whenever the Runner makes a successful run.",
         "title": "Paywall Implementation",
         "type_code": "operation",
         "uniqueness": false
@@ -154,7 +154,7 @@
         "position": 29,
         "quantity": 3,
         "side_code": "corp",
-        "text": "1[Credits]: Move any number of credits from your credit pool to Sealed Vault.\n[Click] or [Trash]: Move any number of credits from Sealed Vault to your credit pool.",
+        "text": "1[credit]: Move any number of credits from your credit pool to Sealed Vault.\n[click] or [trash]: Move any number of credits from Sealed Vault to your credit pool.",
         "title": "Sealed Vault",
         "trash_cost": 8,
         "type_code": "asset",
@@ -261,7 +261,7 @@
         "position": 35,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Play only as your first [Click].\nWhen this turn ends, gain 2[Credits] for each successful run you made during it.",
+        "text": "Play only as your first [click].\nWhen this turn ends, gain 2[credit] for each successful run you made during it.",
         "title": "Three Steps Ahead",
         "type_code": "event",
         "uniqueness": false
@@ -298,7 +298,7 @@
         "position": 37,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Place 3 virus counters on Cache when it is installed.\n<strong>Hosted virus counter:</strong> Gain 1[Credits].",
+        "text": "Place 3 virus counters on Cache when it is installed.\n<strong>Hosted virus counter:</strong> Gain 1[credit].",
         "title": "Cache",
         "type_code": "program",
         "uniqueness": false
@@ -316,7 +316,7 @@
         "position": 38,
         "quantity": 3,
         "side_code": "runner",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\n1[Recurring Credits]\nUse this credit during a run.",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\n1[recurring-credit]\nUse this credit during a run.",
         "title": "Net Celebrity",
         "type_code": "event",
         "uniqueness": false
@@ -334,7 +334,7 @@
         "position": 39,
         "quantity": 3,
         "side_code": "runner",
-        "text": "3[Credits] or [Trash]: Prevent an installed piece of hardware from being trashed.",
+        "text": "3[credit] or [trash]: Prevent an installed piece of hardware from being trashed.",
         "title": "LLDS Energy Regulator",
         "type_code": "program",
         "uniqueness": false
@@ -352,7 +352,7 @@
         "position": 40,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Place 3[Credits] on Ghost Runner when it is installed. When there are no credits left on Ghost Runner, trash it.\nYou can use the credits on Ghost Runner during a run.",
+        "text": "Place 3[credit] on Ghost Runner when it is installed. When there are no credits left on Ghost Runner, trash it.\nYou can use the credits on Ghost Runner during a run.",
         "title": "Ghost Runner",
         "type_code": "resource",
         "uniqueness": false

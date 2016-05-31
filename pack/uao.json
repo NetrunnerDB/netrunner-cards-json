@@ -13,7 +13,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "Architect cannot be trashed while installed.\n[Subroutine] The Corp looks at the top 5 cards of R&D and may install 1 of those cards, ignoring all install costs.\n[Subroutine] The Corp may install a card from Archives or HQ (paying all costs).",
+        "text": "Architect cannot be trashed while installed.\n[subroutine] The Corp looks at the top 5 cards of R&D and may install 1 of those cards, ignoring all install costs.\n[subroutine] The Corp may install a card from Archives or HQ (paying all costs).",
         "title": "Architect",
         "type_code": "ice",
         "uniqueness": false
@@ -30,7 +30,7 @@
         "position": 62,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 1[Credits] for each rezzed piece of ice.",
+        "text": "Gain 1[credit] for each rezzed piece of ice.",
         "title": "Peak Efficiency",
         "type_code": "operation",
         "uniqueness": false
@@ -66,7 +66,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "Ashigaru gains \"[Subroutine] End the run.\" for each card in HQ.",
+        "text": "Ashigaru gains \"[subroutine] End the run.\" for each card in HQ.",
         "title": "Ashigaru",
         "type_code": "ice",
         "uniqueness": false
@@ -84,7 +84,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "<strong>Hosted power counter:</strong> Do 1 net damage. Use this ability only during a run.\n[Subroutine] Do 1 net damage.\n[Subroutine] You and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits]. Reveal spent credits. If you and the Runner spent a different number of credits, place 1 power counter on Mamba.",
+        "text": "<strong>Hosted power counter:</strong> Do 1 net damage. Use this ability only during a run.\n[subroutine] Do 1 net damage.\n[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, place 1 power counter on Mamba.",
         "title": "Mamba",
         "type_code": "ice",
         "uniqueness": false
@@ -102,7 +102,7 @@
         "position": 66,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Reversed Accounts can be advanced.\n[Click], [Trash]: The Runner loses 4[Credits] for each advancement token on Reversed Accounts.",
+        "text": "Reversed Accounts can be advanced.\n[click], [trash]: The Runner loses 4[credit] for each advancement token on Reversed Accounts.",
         "title": "Reversed Accounts",
         "trash_cost": 3,
         "type_code": "asset",
@@ -122,7 +122,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "[Subroutine] The Runner loses 1[Credits] unless the Runner is tagged. If the Runner is tagged, he or she loses all credits in his or her credit pool and the Corp trashes Universal Connectivity Fee.",
+        "text": "[subroutine] The Runner loses 1[credit] unless the Runner is tagged. If the Runner is tagged, he or she loses all credits in his or her credit pool and the Corp trashes Universal Connectivity Fee.",
         "title": "Universal Connectivity Fee",
         "type_code": "ice",
         "uniqueness": false
@@ -158,7 +158,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "Changeling can be advanced.\nWhile Changeling has an odd number of advancement tokens on it, it gains <strong>sentry</strong> and loses <strong>barrier</strong>.\n[Subroutine] End the run.",
+        "text": "Changeling can be advanced.\nWhile Changeling has an odd number of advancement tokens on it, it gains <strong>sentry</strong> and loses <strong>barrier</strong>.\n[subroutine] End the run.",
         "title": "Changeling",
         "type_code": "ice",
         "uniqueness": false
@@ -176,7 +176,7 @@
         "position": 70,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, spend [Click].\nTrash any number of cards from HQ. Gain 2[Credits] for each card trashed.",
+        "text": "As an additional cost to play this operation, spend [click].\nTrash any number of cards from HQ. Gain 2[credit] for each card trashed.",
         "title": "Reuse",
         "type_code": "operation",
         "uniqueness": false
@@ -210,7 +210,7 @@
         "position": 72,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click], [Click]: Place 1 power counter on Docklands Crackdown.\nThe install cost of the first card the Runner installs each turn is increased by 1 for each power counter on Docklands Crackdown.",
+        "text": "[click], [click]: Place 1 power counter on Docklands Crackdown.\nThe install cost of the first card the Runner installs each turn is increased by 1 for each power counter on Docklands Crackdown.",
         "title": "Docklands Crackdown",
         "trash_cost": 3,
         "type_code": "asset",
@@ -228,7 +228,7 @@
         "position": 73,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Reveal the top 4 cards of your stack and trash all programs revealed. Gain 1[Credits] for each program trashed, and add the rest of the revealed cards to your grip.",
+        "text": "Reveal the top 4 cards of your stack and trash all programs revealed. Gain 1[credit] for each program trashed, and add the rest of the revealed cards to your grip.",
         "title": "Inject",
         "type_code": "event",
         "uniqueness": false
@@ -264,7 +264,7 @@
         "position": 75,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever the Corp purges virus counters, he or she loses 2[Credits], if able.",
+        "text": "Whenever the Corp purges virus counters, he or she loses 2[credit], if able.",
         "title": "Fester",
         "type_code": "resource",
         "uniqueness": false
@@ -281,7 +281,7 @@
         "position": 76,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first time you install a program from your grip during your turn, gain [Click].\nTrash Autoscripter if you make an unsuccessful run.",
+        "text": "The first time you install a program from your grip during your turn, gain [click].\nTrash Autoscripter if you make an unsuccessful run.",
         "title": "Autoscripter",
         "type_code": "hardware",
         "uniqueness": true
@@ -301,7 +301,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "1[Credits]: Break any number of <strong>sentry</strong> subroutines. Use this ability only by spending a credit from a <strong>stealth</strong> card.\n1[Credits]: +7 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
+        "text": "1[credit]: Break any number of <strong>sentry</strong> subroutines. Use this ability only by spending a credit from a <strong>stealth</strong> card.\n1[credit]: +7 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
         "title": "Switchblade",
         "type_code": "program",
         "uniqueness": false
@@ -335,7 +335,7 @@
         "position": 79,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Memory Unit]\nDraw 1 card whenever the Corp creates a server.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+1[mu]\nDraw 1 card whenever the Corp creates a server.\nLimit 1 <strong>console</strong> per player.",
         "title": "Astrolabe",
         "type_code": "hardware",
         "uniqueness": true

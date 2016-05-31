@@ -12,7 +12,7 @@
         "position": 1,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to play this event, spend [Click].\nForfeit an agenda. If you do, give the Corp 1 bad publicity.",
+        "text": "As an additional cost to play this event, spend [click].\nForfeit an agenda. If you do, give the Corp 1 bad publicity.",
         "title": "Frame Job",
         "type_code": "event",
         "uniqueness": false
@@ -30,7 +30,7 @@
         "position": 2,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Host Pawn on an outermost piece of ice protecting a central server.\nWhenever you make a successful run while Pawn is hosted on a piece of ice, move Pawn to the piece of ice directly after the current ice hosting Pawn, if able; otherwise, trash Pawn instead and install a <strong>Caïssa</strong> program from your grip or heap, ignoring all costs.\n\n(errata from FAQ 3.0.1)",
+        "text": "[click]: Host Pawn on an outermost piece of ice protecting a central server.\nWhenever you make a successful run while Pawn is hosted on a piece of ice, move Pawn to the piece of ice directly after the current ice hosting Pawn, if able; otherwise, trash Pawn instead and install a <strong>Caïssa</strong> program from your grip or heap, ignoring all costs.\n\n(errata from FAQ 3.0.1)",
         "title": "Pawn",
         "type_code": "program",
         "uniqueness": false
@@ -48,7 +48,7 @@
         "position": 3,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Host Rook on a piece of ice not hosting a <strong>Caïssa</strong>. If already hosted, Rook can be hosted only on ice protecting this server or on ice in the same position (counting from the innermost spot) protecting another server.\nThe rez cost of each piece of ice protecting this server is increased by 2.",
+        "text": "[click]: Host Rook on a piece of ice not hosting a <strong>Caïssa</strong>. If already hosted, Rook can be hosted only on ice protecting this server or on ice in the same position (counting from the innermost spot) protecting another server.\nThe rez cost of each piece of ice protecting this server is increased by 2.",
         "title": "Rook",
         "type_code": "program",
         "uniqueness": false
@@ -65,7 +65,7 @@
         "position": 4,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to play this event, spend [Click].\nSearch your stack for a <strong>connection</strong>, reveal it, and add it to your grip. You may install that <strong>connection</strong> (paying its install cost). Shuffle your stack.",
+        "text": "As an additional cost to play this event, spend [click].\nSearch your stack for a <strong>connection</strong>, reveal it, and add it to your grip. You may install that <strong>connection</strong> (paying its install cost). Shuffle your stack.",
         "title": "Hostage",
         "type_code": "event",
         "uniqueness": false
@@ -84,7 +84,7 @@
         "position": 5,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever the Corp spends a [Click] to draw 1 card or gain 1[Credits] (not through a card ability), place 1 virus counter on Gorman Drip v1.\n[Click], [Trash]: Gain 1[Credits] for each virus counter on Gorman Drip v1.",
+        "text": "Whenever the Corp spends a [click] to draw 1 card or gain 1[credit] (not through a card ability), place 1 virus counter on Gorman Drip v1.\n[click], [trash]: Gain 1[credit] for each virus counter on Gorman Drip v1.",
         "title": "Gorman Drip v1",
         "type_code": "program",
         "uniqueness": false
@@ -102,7 +102,7 @@
         "position": 6,
         "quantity": 3,
         "side_code": "runner",
-        "text": "1[Recurring Credits]\nUse this credit to pay for using <strong>decoders</strong>.",
+        "text": "1[recurring-credit]\nUse this credit to pay for using <strong>decoders</strong>.",
         "title": "Lockpick",
         "type_code": "hardware",
         "uniqueness": false
@@ -192,7 +192,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "NEXT Bronze has +1 strength for each rezzed piece of <strong>NEXT</strong> ice.\n[Subroutine] End the run.",
+        "text": "NEXT Bronze has +1 strength for each rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] End the run.",
         "title": "NEXT Bronze",
         "type_code": "ice",
         "uniqueness": false
@@ -210,7 +210,7 @@
         "position": 12,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, spend [Click].\nReveal up to 5 cards in HQ to the Runner. Gain 2[Credits] for each card revealed.",
+        "text": "As an additional cost to play this operation, spend [click].\nReveal up to 5 cards in HQ to the Runner. Gain 2[credit] for each card revealed.",
         "title": "Celebrity Gift",
         "type_code": "operation",
         "uniqueness": false
@@ -229,7 +229,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "1[Credits]: Add Himitsu-Bako to HQ.\n[Subroutine] End the run.",
+        "text": "1[credit]: Add Himitsu-Bako to HQ.\n[subroutine] End the run.",
         "title": "Himitsu-Bako",
         "type_code": "ice",
         "uniqueness": false
@@ -265,7 +265,7 @@
         "position": 15,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: Draw 2 cards.\n<strong>Remove Jackson Howard from the game:</strong> Shuffle up to 3 cards from Archives to R&D.",
+        "text": "[click]: Draw 2 cards.\n<strong>Remove Jackson Howard from the game:</strong> Shuffle up to 3 cards from Archives to R&D.",
         "title": "Jackson Howard",
         "trash_cost": 3,
         "type_code": "asset",
@@ -283,7 +283,7 @@
         "position": 16,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As additional cost to play this operation, spend [Click].\n<trace>Trace 2</trace> If successful, reveal the Runner's grip and trash a number of resources and/or events from it up to the amount by which your trace strength exceeded the Runner's link strength. If unsuccessful, take 1 bad publicity.",
+        "text": "As additional cost to play this operation, spend [click].\n<trace>Trace 2</trace> If successful, reveal the Runner's grip and trash a number of resources and/or events from it up to the amount by which your trace strength exceeded the Runner's link strength. If unsuccessful, take 1 bad publicity.",
         "title": "Invasion of Privacy",
         "type_code": "operation",
         "uniqueness": false
@@ -301,7 +301,7 @@
         "position": 17,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 2 agenda counters on Geothermal Fracking when you score it.\n[Click], <strong>hosted agenda counter:</strong> Gain 7[Credits] and take 1 bad publicity.",
+        "text": "Place 2 agenda counters on Geothermal Fracking when you score it.\n[click], <strong>hosted agenda counter:</strong> Gain 7[credit] and take 1 bad publicity.",
         "title": "Geothermal Fracking",
         "type_code": "agenda",
         "uniqueness": false
@@ -319,7 +319,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "When you rez Swarm, take 1 bad publicity.\nSwarm can be advanced and gains \"[Subroutine] Trash 1 program unless the Runner pays 3[Credits].\" for each advancement token on it.",
+        "text": "When you rez Swarm, take 1 bad publicity.\nSwarm can be advanced and gains \"[subroutine] Trash 1 program unless the Runner pays 3[credit].\" for each advancement token on it.",
         "title": "Swarm",
         "type_code": "ice",
         "uniqueness": false
@@ -355,7 +355,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "When you rez Grim, take 1 bad publicity.\n[Subroutine] Trash 1 program.",
+        "text": "When you rez Grim, take 1 bad publicity.\n[subroutine] Trash 1 program.",
         "title": "Grim",
         "type_code": "ice",
         "uniqueness": false

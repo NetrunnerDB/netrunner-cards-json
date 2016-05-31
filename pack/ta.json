@@ -12,7 +12,7 @@
         "position": 21,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Make a run on HQ. If successful, instead of accessing cards you may pay X[Credits] to force the Corp to lose up to X[Credits], then take 1 tag.",
+        "text": "Make a run on HQ. If successful, instead of accessing cards you may pay X[credit] to force the Corp to lose up to X[credit], then take 1 tag.",
         "title": "Vamp",
         "type_code": "event",
         "uniqueness": false
@@ -29,7 +29,7 @@
         "position": 22,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Place 16[Credits] from the bank on Liberated Account when it is installed. When there are no credits left on Liberated Account, trash it.\n[Click]: Take 4[Credits] from Liberated Account.",
+        "text": "Place 16[credit] from the bank on Liberated Account when it is installed. When there are no credits left on Liberated Account, trash it.\n[click]: Take 4[credit] from Liberated Account.",
         "title": "Liberated Account",
         "type_code": "resource",
         "uniqueness": false
@@ -64,7 +64,7 @@
         "position": 24,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you break a subroutine on a piece of ice, you may pay 1[Credits] to break 1 subroutine on that ice.\n\n(errata from FAQ 3.0.1)",
+        "text": "Whenever you break a subroutine on a piece of ice, you may pay 1[credit] to break 1 subroutine on that ice.\n\n(errata from FAQ 3.0.1)",
         "title": "e3 Feedback Implants",
         "type_code": "hardware",
         "uniqueness": false
@@ -81,7 +81,7 @@
         "position": 25,
         "quantity": 3,
         "side_code": "runner",
-        "text": "1[Recurring Credits]\nUse this credit during traces.\nGain 1[Credits] whenever the Corp rezzes a piece of ice.",
+        "text": "1[recurring-credit]\nUse this credit during traces.\nGain 1[credit] whenever the Corp rezzes a piece of ice.",
         "title": "Compromised Employee",
         "type_code": "resource",
         "uniqueness": false
@@ -118,7 +118,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "1[Credits]: Break <strong>barrier</strong> subroutine.\n1[Credits]: +1 strength.\nWhenever you use Snowball to break a subroutine, it has +1 strength for the remainder of the run.",
+        "text": "1[credit]: Break <strong>barrier</strong> subroutine.\n1[credit]: +1 strength.\nWhenever you use Snowball to break a subroutine, it has +1 strength for the remainder of the run.",
         "title": "Snowball",
         "type_code": "program",
         "uniqueness": false
@@ -136,7 +136,7 @@
         "position": 28,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Memory Unit], +1[Link]",
+        "text": "+1[mu], +1[link]",
         "title": "Dyson Mem Chip",
         "type_code": "hardware",
         "uniqueness": false
@@ -172,7 +172,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "The Runner may spend [Click] to break any subroutine on Sherlock 1.0.\n[Subroutine] <trace>Trace 4</trace> If successful, add 1 installed program to the top of the Runner's stack.\n[Subroutine] <trace>Trace 4</trace> If successful, add 1 installed program to the top of the Runner's stack.",
+        "text": "The Runner may spend [click] to break any subroutine on Sherlock 1.0.\n[subroutine] <trace>Trace 4</trace> If successful, add 1 installed program to the top of the Runner's stack.\n[subroutine] <trace>Trace 4</trace> If successful, add 1 installed program to the top of the Runner's stack.",
         "title": "Sherlock 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -205,7 +205,7 @@
         "position": 32,
         "quantity": 3,
         "side_code": "corp",
-        "text": "If Fetal AI is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Fetal AI, do 2 net damage. Ignore this ability if the Runner accesses Fetal AI from Archives.\nAs an additional cost to steal Fetal AI, the Runner must pay 2[Credits].",
+        "text": "If Fetal AI is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Fetal AI, do 2 net damage. Ignore this ability if the Runner accesses Fetal AI from Archives.\nAs an additional cost to steal Fetal AI, the Runner must pay 2[credit].",
         "title": "Fetal AI",
         "type_code": "agenda",
         "uniqueness": false
@@ -241,7 +241,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] For the remainder of this run, each piece of ice encountered except Sensei gains \"[Subroutine] End the run\" after all its other subroutines.",
+        "text": "[subroutine] For the remainder of this run, each piece of ice encountered except Sensei gains \"[subroutine] End the run\" after all its other subroutines.",
         "title": "Sensei",
         "type_code": "ice",
         "uniqueness": false
@@ -329,7 +329,7 @@
         "position": 39,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When you score Executive Retreat, place 1 agenda counter on it and shuffle HQ into R&D.\n[Click], <strong>hosted agenda counter:</strong> Draw 5 cards.",
+        "text": "When you score Executive Retreat, place 1 agenda counter on it and shuffle HQ into R&D.\n[click], <strong>hosted agenda counter:</strong> Draw 5 cards.",
         "title": "Executive Retreat",
         "type_code": "agenda",
         "uniqueness": false

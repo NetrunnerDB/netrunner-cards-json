@@ -3,19 +3,19 @@
         "code": "04021",
         "title": "Läufer",
         "keywords": "Caïssa",
-        "text": "[Click]: Hoste Läufer auf einem Ice, auf dem aktuell kein anderes <strong>Caïssa</strong>-Programm gehostet ist. Falls Läufer bereits auf einem anderen Ice gehostet ist, kann das Programm nur wie folgt gehostet werden:\n- auf einem Ice, das ein zentrales System schützt, wenn der schon gehostete Läufer auf einem Ice eines ausgelagerten Servers gehostet ist.\n- auf einem Ice, das einen ausgelagerten Server schützt, wenn der schon gehostete Läufer auf einem Ice eines zentralen Systems gehostet ist.\nDas hostende Ice hat -2 Stärke."
+        "text": "[click]: Hoste Läufer auf einem Ice, auf dem aktuell kein anderes <strong>Caïssa</strong>-Programm gehostet ist. Falls Läufer bereits auf einem anderen Ice gehostet ist, kann das Programm nur wie folgt gehostet werden:\n- auf einem Ice, das ein zentrales System schützt, wenn der schon gehostete Läufer auf einem Ice eines ausgelagerten Servers gehostet ist.\n- auf einem Ice, das einen ausgelagerten Server schützt, wenn der schon gehostete Läufer auf einem Ice eines zentralen Systems gehostet ist.\nDas hostende Ice hat -2 Stärke."
     },
     {
         "code": "04022",
         "title": "Scheherazade",
         "keywords": "Daemon",
-        "text": "Scheherazade kann eine beliebige Anzahl Programme hosten.\nImmer wenn du ein Programm auf Scheherazade installierst, erhältst du 1[Credits].",
+        "text": "Scheherazade kann eine beliebige Anzahl Programme hosten.\nImmer wenn du ein Programm auf Scheherazade installierst, erhältst du 1[credit].",
         "flavor": "Die Installation von 1001 Programmen sichert dir einen Platz in der Rumeshalle für Hacker, oder würde es zumindest, wenn es sowas tatsächlich gäbe."
     },
     {
         "code": "04023",
         "title": "Schwer bei der Arbeit",
-        "text": "Wenn dein Zug beginnt, erhältst du 2[Credits] und verlierst [Click].",
+        "text": "Wenn dein Zug beginnt, erhältst du 2[credit] und verlierst [click].",
         "flavor": "Noise entschied sich wieder zur Schule zu gehen. Er bewarb sich für Forschungsstipendien an den fünfzehn angesehensten Universitäten. Dann hackte er sich in ihre Systeme und gewährte sie sich. Zeit fürs Frühstück."
     },
     {
@@ -35,14 +35,14 @@
         "code": "04026",
         "title": "Leviathan",
         "keywords": "Ice-Brecher - Decoder",
-        "text": "3[Credits]: Schalte bis zu 3 Subroutinen eines <strong>Code-Zugangs</strong> aus.\n3[Credits]: +5 Stärke.",
+        "text": "3[credit]: Schalte bis zu 3 Subroutinen eines <strong>Code-Zugangs</strong> aus.\n3[credit]: +5 Stärke.",
         "flavor": "Er ist höllisch effizient, und wir sprechen da von \"effizient\" im wirklich großen Stil. Der Wal-Avatar ist entweder ein nettes Extra oder eine tragische Fehlnutzung der Arbeitszeit der Programmierer, abhängig davon, wen man fragt.\n -BT's Anleitung zum Ice-brechen"
     },
     {
         "code": "04027",
         "title": "Heureka!",
         "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis, zahle [Click].\nDecke die oberste Karte deines Stapels auf. Wenn diese Karte installierbar ist, kannst du sie mit um bis zu 10[Credits] gesenkten Kosten installieren. Wenn du sie nicht installieren kannst oder willst, zerstöre diese Karte.",
+        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis, zahle [click].\nDecke die oberste Karte deines Stapels auf. Wenn diese Karte installierbar ist, kannst du sie mit um bis zu 10[credit] gesenkten Kosten installieren. Wenn du sie nicht installieren kannst oder willst, zerstöre diese Karte.",
         "flavor": "\"Ich habe eine Überraschung für dich.\""
     },
     {
@@ -55,14 +55,14 @@
         "code": "04029",
         "title": "Prepaid StimmPAD",
         "keywords": "Ausstattung",
-        "text": "1[Recurring Credits]\nVerwende diesen Credit, um Ereignisse zu spielen.",
+        "text": "1[recurring-credit]\nVerwende diesen Credit, um Ereignisse zu spielen.",
         "flavor": "Ein StimmPAD ist ein persönliches Zugriffsgerät, dem die meisten Funktionen fehlen. Eigentlich kann man samit nur Anrufe erledigen und seine Kontakte organisieren. Der einzige Grund dafür, eines zu haben, ist die Ananymität – natürlich ist das für eine bestimmte Art von personen Grund genug."
     },
     {
         "code": "04030",
         "title": "Wotan",
         "keywords": "Barriere - Bioroid",
-        "text": "[Subroutine] Beende den Run, falls der Runner nicht [Click][Click] zahlt.\n[Subroutine] Beende den Run, falls der Runner nicht 3[Credits] zahlt.\n[Subroutine] Beende den Run, falls der Runner nicht ein installiertes Programm zerstört.\n[Subroutine] Beende den Run, falls der Runner nicht 1 Hirn-Schaden nimmt."
+        "text": "[subroutine] Beende den Run, falls der Runner nicht [click][click] zahlt.\n[subroutine] Beende den Run, falls der Runner nicht 3[credit] zahlt.\n[subroutine] Beende den Run, falls der Runner nicht ein installiertes Programm zerstört.\n[subroutine] Beende den Run, falls der Runner nicht 1 Hirn-Schaden nimmt."
     },
     {
         "code": "04031",
@@ -81,21 +81,21 @@
         "code": "04033",
         "title": "Schwertkämpfer",
         "keywords": "Wächter - Zerstörer - AP",
-        "text": "Der Runner kann keine <strong>KI</strong>-Programme verwenden, um Subroutinen auf Schwertkämpfer auszuschalten.\n[Subroutine] Zerstöre 1 <strong>KI</strong>-Programm.\n[Subroutine] Verursache 1 Netz-Schaden.",
+        "text": "Der Runner kann keine <strong>KI</strong>-Programme verwenden, um Subroutinen auf Schwertkämpfer auszuschalten.\n[subroutine] Zerstöre 1 <strong>KI</strong>-Programm.\n[subroutine] Verursache 1 Netz-Schaden.",
         "flavor": "Ein Programm zu schreiben, das den Turing-Test besteht, ist einfach. Der Gibso-Akamatsu-Test setzt die Schwelle schon höher an und die einzigen Kis, die bisher damit klarkommen, waren die Androiden. Selbst einige Menschen sollen schon durchgefallen sein."
     },
     {
         "code": "04034",
         "title": "Lieferung aus SanSan",
         "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [Click].\nLege bis zu 2 Entwicklungsmarker auf eine Karte, die entwickelt werden kann.",
+        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nLege bis zu 2 Entwicklungsmarker auf eine Karte, die entwickelt werden kann.",
         "flavor": "Er quittierte den Empfang mit vor Vorfreude zitternden Händen."
     },
     {
         "code": "04035",
         "title": "Skandalreporter",
         "keywords": "Wächter - Spürhund - Illegal",
-        "text": "Wenn du Skandalreporter lädst, erhälst du 1 negative Publicity.\n[Subroutine] <trace>Aufspüren 1</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[Subroutine] <trace>Aufspüren 2</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[Subroutine] <trace>Aufspüren 3</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[Subroutine] Beende den Run, falls der Runner markiert ist."
+        "text": "Wenn du Skandalreporter lädst, erhälst du 1 negative Publicity.\n[subroutine] <trace>Aufspüren 1</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine] <trace>Aufspüren 2</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine] <trace>Aufspüren 3</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine] Beende den Run, falls der Runner markiert ist."
     },
     {
         "code": "04036",
@@ -108,7 +108,7 @@
         "code": "04037",
         "title": "Elizabeth Mills",
         "keywords": "Führungskraft",
-        "text": "Wenn due Elizabeth Mills lädst, entferne 1 negative Publicity.\n[Click], [Trash]: Zerstöre 1 <strong>Ort</strong>. Du erhältst 1 negative Publicity.",
+        "text": "Wenn due Elizabeth Mills lädst, entferne 1 negative Publicity.\n[click], [trash]: Zerstöre 1 <strong>Ort</strong>. Du erhältst 1 negative Publicity.",
         "flavor": "\"Nimms nicht persönlich. Urbane Erneuerung ist in der modernen Welt umumgänglich. Es ist das Zuhause von irgend jemanden und dass es deins ist, macht keinen Unterschied.\""
     },
     {
@@ -119,14 +119,14 @@
     {
         "code": "04039",
         "title": "Preistreiberei",
-        "text": "Wenn du die Punkte für Preistreiberei erzielst, erhältst du bis zu 3 negative Publicity. Du erhältst 5[Credits] für jede so erhaltenen Negative Publicity.",
+        "text": "Wenn du die Punkte für Preistreiberei erzielst, erhältst du bis zu 3 negative Publicity. Du erhältst 5[credit] für jede so erhaltenen Negative Publicity.",
         "flavor": "Es war verblüffend einfach, Credits zu verdienen...\nSolange einem egal war, wie man sie verdiente."
     },
     {
         "code": "04040",
         "title": "Umstrukturierung",
         "keywords": "Transaktion",
-        "text": "Erhalte 15[Credits].",
+        "text": "Erhalte 15[credit].",
         "flavor": "Es gibt viele Begriffe für die Mitarbeiter der Verwaltungsabteilung. Aber wenn du deinen Job magst, sprichst du sie einfach mit „Sir“ oder „Ma'am“ an."
     }
 ]

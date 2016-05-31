@@ -9,27 +9,27 @@
         "code": "02102",
         "title": "Darwin",
         "keywords": "Ice-Brecher - AI - Virus",
-        "text": "2[Credits]: Schalte eine Subroutine eines Ice aus..\nX ist die Anzahl der Viruszähler auf Darwin.\nWenn dein Zug beginnt, kannst du 1[Credits] zahlen, um 1 Viruszähler auf Darwin zu legen."
+        "text": "2[credit]: Schalte eine Subroutine eines Ice aus..\nX ist die Anzahl der Viruszähler auf Darwin.\nWenn dein Zug beginnt, kannst du 1[credit] zahlen, um 1 Viruszähler auf Darwin zu legen."
     },
     {
         "code": "02103",
         "title": "Datenleck umdrehen",
         "keywords": "Virtuell - Sabotage",
-        "text": "Kann nur installiert werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nFalls du markiert bist, erhält Datenleck umdrehen \"[Click]: Der Kon zerstört die oberste Karte von F&E.\"",
+        "text": "Kann nur installiert werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nFalls du markiert bist, erhält Datenleck umdrehen \"[click]: Der Kon zerstört die oberste Karte von F&E.\"",
         "flavor": "Die in beide Richtungen funktionierende Lösung für ein Problem, das nur in eine Richtung besteht. Datenleck umdrehen, oder kurz DLU, ist eigentlich falsch benannt. Die Daten werden nicht wirklich umgedreht, nur ein parallele Peer-to-Peer Verbindung zur ursprünglichen Quelle erschaffen."
     },
     {
         "code": "02104",
         "title": "Fee",
         "keywords": "Ice-Brecher - Killer",
-        "text": "0[Credits]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[Credits]: +1 Stärke.\nEndet eine Begegnung mit einem Ice, in der du Fee verwendet hast, um eine Subroutine auszuschalten, zerstöre Fee.",
+        "text": "0[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[credit]: +1 Stärke.\nEndet eine Begegnung mit einem Ice, in der du Fee verwendet hast, um eine Subroutine auszuschalten, zerstöre Fee.",
         "flavor": "Glaubst du an Feen?"
     },
     {
         "code": "02105",
         "title": "Mr. Li",
         "keywords": "Kontakt",
-        "text": "[Click]: Ziehe 2 Karten. Lege 1 dieser Karten unter deinen Stapel.",
+        "text": "[click]: Ziehe 2 Karten. Lege 1 dieser Karten unter deinen Stapel.",
         "flavor": "\"Wir sind immer glücklich, helfen zu könenn, Mr. Santiago.\"\n\"Ich weiß das zu schätzen, Mr. Li.\"\n\"Wir bleiben in Verbindung. Und, Gabriel…\"\n\"Ja?\"\n\"Verlassen Sie die Stadt nicht.\""
     },
     {
@@ -55,28 +55,28 @@
         "code": "02109",
         "title": "Rathaus von New Angeles",
         "keywords": "Ort - Regierung",
-        "text": "2[Credits]: Vermeide 1 Markierung.\nZerstöre Rathaus von New Angeles, wenn du eine Agenda stiehlst.",
+        "text": "2[credit]: Vermeide 1 Markierung.\nZerstöre Rathaus von New Angeles, wenn du eine Agenda stiehlst.",
         "flavor": "\"New Angeles ist das Juwel der modernen Zivilisation, und auf seine Regierung sind viele Nationen neidisch.\" -Bürgermeister Wells"
     },
     {
         "code": "02110",
         "title": "Eli 1.0",
         "keywords": "Barriere - Bioroid",
-        "text": "Der Runner kann [Click] ausgeben, um eine beliebige Subroutine auf Eli 1.0 zu brechen.\n[Subroutine] Beende den Run.\n[Subroutine] Beende den Run.",
+        "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Eli 1.0 zu brechen.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
         "flavor": "\"Das ist gegen die Regeln.\nDie Schöpfer werden böse mit mir sein.\""
     },
     {
         "code": "02111",
         "title": "Ruhrgebiet",
         "keywords": "Region",
-        "text": "Als zusätzliche Kosten, um einen Run auf dieses System durchzuführen, muss der Runner [Click] ausgeben.\nMaximal 1 <strong>Region</strong> pro System.",
+        "text": "Als zusätzliche Kosten, um einen Run auf dieses System durchzuführen, muss der Runner [click] ausgeben.\nMaximal 1 <strong>Region</strong> pro System.",
         "flavor": "Bekannt für Luxus Hopper und leckeres Sauerkraut."
     },
     {
         "code": "02112",
         "title": "Ronin",
         "keywords": "Feind",
-        "text": "Ronin kann entwickelt werden.\nFalls mindestens 4 Entwicklungszähler auf Ronin sind, erhält er\n\"[Click], [Trash]: Verursache 3 Netz-Schaden.\"",
+        "text": "Ronin kann entwickelt werden.\nFalls mindestens 4 Entwicklungszähler auf Ronin sind, erhält er\n\"[click], [trash]: Verursache 3 Netz-Schaden.\"",
         "flavor": "Ich werde Euch dienen…\nZumindest vorübergehend."
     },
     {
@@ -108,7 +108,7 @@
         "code": "02117",
         "title": "Flare",
         "keywords": "Wächter - Spürhund - AP",
-        "text": "[Subroutine]<trace>Aufspüren 6</trace>Bei Erfolg zerstöre 1 Hardware, verursache 2 Körperschaden (können nicht verhindert werden) und beende den Run.",
+        "text": "[subroutine]<trace>Aufspüren 6</trace>Bei Erfolg zerstöre 1 Hardware, verursache 2 Körperschaden (können nicht verhindert werden) und beende den Run.",
         "flavor": "Ein helles Licht erstrahlte, und dann wurde die Konsole dunkel. Das war der Moment, in dem sie Rauch roch."
     },
     {
@@ -122,14 +122,14 @@
         "code": "02119",
         "title": "Burke-Käfer",
         "keywords": "Wächter - Zerstörer",
-        "text": "[Subroutine] <trace>Aufspüren 0</trace> Bei Erfolg zerstört der Runner 1 Programm.",
+        "text": "[subroutine] <trace>Aufspüren 0</trace> Bei Erfolg zerstört der Runner 1 Programm.",
         "flavor": "\"Wenn ich diese Käfer mit einem Wort beschreiben müsste, wäre das wohl sch... nervig.'\" -Whizzard"
     },
     {
         "code": "02120",
         "title": "Konzernkrieg",
         "keywords": "Erweiterung",
-        "text": "Falls du mindestens 7[Credits] hast, wenn du die Punkte für Konzernkrieg erzielst, erhalte 7[Credits]. Anderenfalls verliere alle Credits in deinem Credit-Vorrat.",
+        "text": "Falls du mindestens 7[credit] hast, wenn du die Punkte für Konzernkrieg erzielst, erhalte 7[credit]. Anderenfalls verliere alle Credits in deinem Credit-Vorrat.",
         "flavor": "Es gab verschiedene Wege, einen Konzernkrieg zu gewinnen. Einer davon war es, die Bazookas rauszuholen."
     }
 ]

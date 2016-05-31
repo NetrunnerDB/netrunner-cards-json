@@ -2,121 +2,121 @@
     {
         "code": "02061",
         "title": "Zakłócacz",
-        "text": "[Trash]: Zablokuj namierzanie. To namierzanie rozpoczyna się ponownie z bazową siłą namierzania równą 0.",
+        "text": "[trash]: Zablokuj namierzanie. To namierzanie rozpoczyna się ponownie z bazową siłą namierzania równą 0.",
         "flavor": "\"Uratował mi skórę nie raz, ale zostawia paskudne uczucie déjà vu.\" - Magik"
     },
     {
         "code": "02062",
         "title": "Siła natury",
         "keywords": "Lodołamacz - Dekoder",
-        "text": "2[Credits]: Złam do 2 podprogramów <strong>bramy kodowej</strong>.\n1[Credits]: +1 siły.",
+        "text": "2[credit]: Złam do 2 podprogramów <strong>bramy kodowej</strong>.\n1[credit]: +1 siły.",
         "flavor": "Zawsze uderza dwa razy."
     },
     {
         "code": "02063",
         "title": "Drapacz",
         "keywords": "Kontakt - Podejrzany",
-        "text": "2[Recurring Credits]\nUżyj tych kredytów do kasowania kart.",
+        "text": "2[recurring-credit]\nUżyj tych kredytów do kasowania kart.",
         "flavor": "\"Bezmyślne narzędzia zniszczenia i nic ponadto. Za to całkiem mili faceci. Mam drapaczy wśród najlepszych kumpli.\" - Ji \"Jazgot\" Reilly"
     },
     {
         "code": "02064",
         "title": "Doppelgänger",
         "keywords": "Konsola",
-        "text": "+1[Memory Unit]\nRaz na turę, gdy skończysz udany skok, możesz natychmiast przeprowadzić następny skok.\nLimit 1 <strong>konsoli</strong> na gracza.",
+        "text": "+1[mu]\nRaz na turę, gdy skończysz udany skok, możesz natychmiast przeprowadzić następny skok.\nLimit 1 <strong>konsoli</strong> na gracza.",
         "flavor": "Podwójny ubaw."
     },
     {
         "code": "02065",
         "title": "Crescentus",
-        "text": "[Trash]: Odrezuj jeden lód. Użyj tej zdolności tylko, jeśli złamałeś wszystkie podprogramy tego lodu podczas jednego spotkania.",
+        "text": "[trash]: Odrezuj jeden lód. Użyj tej zdolności tylko, jeśli złamałeś wszystkie podprogramy tego lodu podczas jednego spotkania.",
         "flavor": "Najsilniejszy klej w cyberprzestrzeni."
     },
     {
         "code": "02066",
         "title": "Deus X",
         "keywords": "Lodołamacz",
-        "text": "[Trash]: Złam dowolną liczbę podprogramów <strong>AP</strong>.\n[Trash]: Zablokuj dowolną liczbę obrażeń sprzętu.",
+        "text": "[trash]: Złam dowolną liczbę podprogramów <strong>AP</strong>.\n[trash]: Zablokuj dowolną liczbę obrażeń sprzętu.",
         "flavor": "To było niespodziewane."
     },
     {
         "code": "02067",
         "title": "Zarwana noc",
-        "text": "[Click], [Trash]: Otrzymujesz [Click] [Click].",
+        "text": "[click], [trash]: Otrzymujesz [click] [click].",
         "flavor": "\"Nie obchodzą mnie badania. Z własnego doświadczenia wiem, że mogę wypijać trzy puszki Diesela na godzinę przez dwanaście godzin, zanim dostanę zawału.\" -zasłyszane za pięć dwunasta"
     },
     {
         "code": "02068",
         "title": "Kontakt wewnątrz",
         "keywords": "Kontakt",
-        "text": "2[Recurring Credits]\nUżyj tych kredytów do instalacji sprzętu.",
+        "text": "2[recurring-credit]\nUżyj tych kredytów do instalacji sprzętu.",
         "flavor": "Niewielu pracowników korporacji ma tak szeroki dostęp, jak dozorcy. Większość korpów głupio uważa, że są oni zbyt bezmyślni, by z niego skorzystać."
     },
     {
         "code": "02069",
         "title": "Kontakt w półświatku",
         "keywords": "Kontakt",
-        "text": "Gdy zaczynasz turę, pobierz 1[Credits] jeśli masz przynajmniej 2[Link].",
+        "text": "Gdy zaczynasz turę, pobierz 1[credit] jeśli masz przynajmniej 2[link].",
         "flavor": "\"Mój szef szczodrze nagradza dobrze wykonaną pracę. Radzę kontynuować, jeśli nie chcesz kłopotów.\""
     },
     {
         "code": "02070",
         "title": "Zielony poziom dostępu",
         "keywords": "Transakcja",
-        "text": "Pobierz 3[Credits] i dobierz 1 kartę.",
+        "text": "Pobierz 3[credit] i dobierz 1 kartę.",
         "flavor": "Zielony-dwa to najwyższy poziom bezpieczeństwa, do którego może uzyskać dostęp korp. Legalnie, w każdym razie."
     },
     {
         "code": "02071",
         "title": "Klepsydra",
         "keywords": "Brama kodowa",
-        "text": "[Subroutine] Runner traci [Click], jeśli może.\n[Subroutine] Runner traci [Click], jeśli może.\n[Subroutine] Runner traci [Click], jeśli może.",
+        "text": "[subroutine] Runner traci [click], jeśli może.\n[subroutine] Runner traci [click], jeśli może.\n[subroutine] Runner traci [click], jeśli może.",
         "flavor": "Czas po prostu ucieka."
     },
     {
         "code": "02072",
         "title": "Serwer dedykowany",
         "keywords": "Placówka",
-        "text": "2[Recurring Credits]\nUżyj tych kredytów do rezowania lodu.",
+        "text": "2[recurring-credit]\nUżyj tych kredytów do rezowania lodu.",
         "flavor": "tak cicho, nawet\nkwiaty wiśni nie drgną,\ngdy brzmi dzwon świątyni\n - Fuhaku"
     },
     {
         "code": "02073",
         "title": "Ropucha",
         "keywords": "Brama kodowa - Deflektor - Psi",
-        "text": "[Subroutine] Ty i runner w tajemnicy wydajecie 0[Credits], 1[Credits] lub 2[Credits]. Ujawnijcie wydane kredyty. Jeśli ty i runner wydaliście różną liczbę kredytów, przesuń Ropuchę tak, aby stała się najdalszym lodem chroniącym inny serwer (runner kontynuuje skok od tej nowej pozycji, i przeprowadza teraz skok na ten nowy serwer)."
+        "text": "[subroutine] Ty i runner w tajemnicy wydajecie 0[credit], 1[credit] lub 2[credit]. Ujawnijcie wydane kredyty. Jeśli ty i runner wydaliście różną liczbę kredytów, przesuń Ropuchę tak, aby stała się najdalszym lodem chroniącym inny serwer (runner kontynuuje skok od tej nowej pozycji, i przeprowadza teraz skok na ten nowy serwer)."
     },
     {
         "code": "02074",
         "title": "Uroboros",
         "keywords": "Strażnik - Tropiciel",
-        "text": "[Subroutine] <trace>Trace 4</trace> Jeśli udane, runner nie może w tej turze wykonywać skoków.\n[Subroutine] <trace>Trace 4</trace> Jeśli udane, zakończ skok.",
+        "text": "[subroutine] <trace>Trace 4</trace> Jeśli udane, runner nie może w tej turze wykonywać skoków.\n[subroutine] <trace>Trace 4</trace> Jeśli udane, zakończ skok.",
         "flavor": "Gdzie jedno się kończy, drugie się zaczyna."
     },
     {
         "code": "02075",
         "title": "Policja sieciowa",
-        "text": "X[Recurring Credits]\nUżyj tych kredytów podczas namierzania. X to liczba połączeń runnera.",
+        "text": "X[recurring-credit]\nUżyj tych kredytów podczas namierzania. X to liczba połączeń runnera.",
         "flavor": "To jest sieć. My tu pracujemy. Jesteśmy gliniarzami."
     },
     {
         "code": "02076",
         "title": "Weyland Consortium: Bo to my ją zbudowaliśmy",
         "keywords": "Megakorp",
-        "text": "1[Recurring Credits]\nUżyj tego kredytu do awansowania lodu.",
+        "text": "1[recurring-credit]\nUżyj tego kredytu do awansowania lodu.",
         "flavor": "Tworzymy cyberprzestrzeń."
     },
     {
         "code": "02077",
         "title": "Kontrakty rządowe",
-        "text": "[Click], [Click]: Pobierz 4[Credits].",
+        "text": "[click], [click]: Pobierz 4[credit].",
         "flavor": "Kontrakt rządowy naprawdę ciężko stracić."
     },
     {
         "code": "02078",
         "title": "Tyran",
         "keywords": "Bariera",
-        "text": "Zrezowany Tyran może być awansowany i otrzymuje \"[Subroutine] Zakończ skok.\" za każdy leżący na nim żeton zaawansowania.",
+        "text": "Zrezowany Tyran może być awansowany i otrzymuje \"[subroutine] Zakończ skok.\" za każdy leżący na nim żeton zaawansowania.",
         "flavor": "Nie przejdziesz."
     },
     {
@@ -129,7 +129,7 @@
         "code": "02080",
         "title": "Fałszywy trop",
         "keywords": "Ochrona",
-        "text": "<strong>Poświęć Fałszywy trop</strong>: Runner traci [Click][Click], jeśli może.",
+        "text": "<strong>Poświęć Fałszywy trop</strong>: Runner traci [click][click], jeśli może.",
         "flavor": "Budynek nie wyglądał na główną siedzibę wielomiliardowej firmy. Pewnie dlatego, że nią nie był."
     }
 ]

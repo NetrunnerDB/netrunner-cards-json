@@ -30,7 +30,7 @@
         "position": 42,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+3[Memory Unit]\nUse the MU on Deep Red only for <strong>Caïssa</strong> programs.\nWhenever you install a <strong>Caïssa</strong> program, you may trigger its [Click] ability without spending [Click].\nLimit 1 <strong>console</strong> per player.",
+        "text": "+3[mu]\nUse the MU on Deep Red only for <strong>Caïssa</strong> programs.\nWhenever you install a <strong>Caïssa</strong> program, you may trigger its [click] ability without spending [click].\nLimit 1 <strong>console</strong> per player.",
         "title": "Deep Red",
         "type_code": "hardware",
         "uniqueness": true
@@ -50,7 +50,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 7,
-        "text": "2[Credits]: Break subroutine on host ice.\n[Click]: Host Knight on a piece of ice not hosting a <strong>Caïssa</strong>. If already hosted, Knight can be hosted only on ice that is not installed directly before or after the current piece of ice hosting Knight.",
+        "text": "2[credit]: Break subroutine on host ice.\n[click]: Host Knight on a piece of ice not hosting a <strong>Caïssa</strong>. If already hosted, Knight can be hosted only on ice that is not installed directly before or after the current piece of ice hosting Knight.",
         "title": "Knight",
         "type_code": "program",
         "uniqueness": false
@@ -67,7 +67,7 @@
         "position": 44,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to play this event, spend [Click].\nMake a run. During this run, the Corp must pay X[Credits] as an additional cost to rez each piece of ice, where X is the rez cost of that ice.",
+        "text": "As an additional cost to play this event, spend [click].\nMake a run. During this run, the Corp must pay X[credit] as an additional cost to rez each piece of ice, where X is the rez cost of that ice.",
         "title": "Running Interference",
         "type_code": "event",
         "uniqueness": false
@@ -85,7 +85,7 @@
         "position": 45,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Make a run on HQ. If successful, instead of accessing cards, you may reveal all cards in HQ.",
+        "text": "[click]: Make a run on HQ. If successful, instead of accessing cards, you may reveal all cards in HQ.",
         "title": "Expert Schedule Analyzer",
         "type_code": "program",
         "uniqueness": false
@@ -103,7 +103,7 @@
         "position": 46,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn ends, gain 1[Credits] if you made a successful run this turn; otherwise, trash Grifter.",
+        "text": "When your turn ends, gain 1[credit] if you made a successful run this turn; otherwise, trash Grifter.",
         "title": "Grifter",
         "type_code": "resource",
         "uniqueness": false
@@ -123,7 +123,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 4,
-        "text": "1[Credits]: Break <strong>code gate</strong> subroutine.\n1[Credits]: +1 strength.",
+        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.",
         "title": "Torch",
         "type_code": "program",
         "uniqueness": false
@@ -159,7 +159,7 @@
         "position": 49,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever the Corp takes at least 1 bad publicity, access 1 card from HQ.\n[Trash]: Expose 1 card.",
+        "text": "Whenever the Corp takes at least 1 bad publicity, access 1 card from HQ.\n[trash]: Expose 1 card.",
         "title": "Raymond Flint",
         "type_code": "resource",
         "uniqueness": true
@@ -177,7 +177,7 @@
         "position": 50,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: Add 1 of your installed cards to HQ.",
+        "text": "[click]: Add 1 of your installed cards to HQ.",
         "title": "Isabel McGuire",
         "trash_cost": 3,
         "type_code": "asset",
@@ -197,7 +197,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "The Runner may spend [Click] to break any subroutine on Hudson 1.0.\n[Subroutine] The Runner cannot access more than 1 card during this run.\n[Subroutine] The Runner cannot access more than 1 card during this run.",
+        "text": "The Runner may spend [click] to break any subroutine on Hudson 1.0.\n[subroutine] The Runner cannot access more than 1 card during this run.\n[subroutine] The Runner cannot access more than 1 card during this run.",
         "title": "Hudson 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -248,7 +248,7 @@
         "position": 54,
         "quantity": 3,
         "side_code": "corp",
-        "text": "The first time the Runner spends at least 1 [Click] on his or her turn, gain 2[Credits] unless the Runner just initiated a run on this server.",
+        "text": "The first time the Runner spends at least 1 [click] on his or her turn, gain 2[credit] unless the Runner just initiated a run on this server.",
         "title": "Sundew",
         "trash_cost": 2,
         "type_code": "asset",
@@ -266,7 +266,7 @@
         "position": 55,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When the Runner's turn begins, give the Runner 1 tag unless he or she pays 1[Credits].",
+        "text": "When the Runner's turn begins, give the Runner 1 tag unless he or she pays 1[credit].",
         "title": "City Surveillance",
         "trash_cost": 3,
         "type_code": "asset",
@@ -285,7 +285,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 6,
-        "text": "When the Runner encounters Snoop, reveal all cards in the Runner's grip.\n<strong>Hosted power counter:</strong> Reveal all cards in the Runner's grip. Trash 1 of those cards.\n[Subroutine] <trace>Trace 3</trace> If successful, place 1 power counter on Snoop.",
+        "text": "When the Runner encounters Snoop, reveal all cards in the Runner's grip.\n<strong>Hosted power counter:</strong> Reveal all cards in the Runner's grip. Trash 1 of those cards.\n[subroutine] <trace>Trace 3</trace> If successful, place 1 power counter on Snoop.",
         "title": "Snoop",
         "type_code": "ice",
         "uniqueness": false
@@ -304,7 +304,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "Ireress gains \"[Subroutine] The Runner loses 1[Credits]\" for each bad publicity you have.",
+        "text": "Ireress gains \"[subroutine] The Runner loses 1[credit]\" for each bad publicity you have.",
         "title": "Ireress",
         "type_code": "ice",
         "uniqueness": false
@@ -340,7 +340,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 1,
-        "text": "If all subroutines on Paper Wall are broken during a single encounter, trash Paper Wall.\n[Subroutine] End the run.",
+        "text": "If all subroutines on Paper Wall are broken during a single encounter, trash Paper Wall.\n[subroutine] End the run.",
         "title": "Paper Wall",
         "type_code": "ice",
         "uniqueness": false
@@ -358,7 +358,7 @@
         "position": 60,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, spend [Click].\nInstall a card from Archives or HQ, ignoring the install cost.",
+        "text": "As an additional cost to play this operation, spend [click].\nInstall a card from Archives or HQ, ignoring the install cost.",
         "title": "Interns",
         "type_code": "operation",
         "uniqueness": false

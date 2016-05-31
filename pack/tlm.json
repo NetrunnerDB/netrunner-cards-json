@@ -27,7 +27,7 @@
         "position": 78,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, gain [Click] if you have no cards in your grip.",
+        "text": "When your turn begins, gain [click] if you have no cards in your grip.",
         "title": "Emptied Mind",
         "type_code": "resource",
         "uniqueness": true
@@ -78,7 +78,7 @@
         "position": 81,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click],[Click],[Click],[Click],[Click], <strong>forfeit an agenda:</strong> Add Liberated Chela to your score area as an agenda worth 2 agenda points. The Corp may forfeit an agenda to prevent this. If he or she does, remove Liberated Chela from the game.",
+        "text": "[click],[click],[click],[click],[click], <strong>forfeit an agenda:</strong> Add Liberated Chela to your score area as an agenda worth 2 agenda points. The Corp may forfeit an agenda to prevent this. If he or she does, remove Liberated Chela from the game.",
         "title": "Liberated Chela",
         "type_code": "resource",
         "uniqueness": false
@@ -95,7 +95,7 @@
         "position": 82,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Place 1 power counter on Temple of the Liberated Mind.\n<strong>Hosted power counter:</strong> Gain [Click]. Use this ability only on your turn and only once per turn.",
+        "text": "[click]: Place 1 power counter on Temple of the Liberated Mind.\n<strong>Hosted power counter:</strong> Gain [click]. Use this ability only on your turn and only once per turn.",
         "title": "Temple of the Liberated Mind",
         "type_code": "resource",
         "uniqueness": true
@@ -128,7 +128,7 @@
         "position": 84,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Prevent all net and meat damage.\nWhenever Guru Davinder prevents at least 1 net or meat damage, trash him unless you pay 4[Credits].",
+        "text": "Prevent all net and meat damage.\nWhenever Guru Davinder prevents at least 1 net or meat damage, trash him unless you pay 4[credit].",
         "title": "Guru Davinder",
         "type_code": "resource",
         "uniqueness": true
@@ -163,7 +163,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "When the Runner encounters Brainstorm, it gains \"[Subroutine] Do 1 brain damage.\" for each card in the Runner's grip for the remainder of this run.",
+        "text": "When the Runner encounters Brainstorm, it gains \"[subroutine] Do 1 brain damage.\" for each card in the Runner's grip for the remainder of this run.",
         "title": "Brainstorm",
         "type_code": "ice",
         "uniqueness": false
@@ -181,7 +181,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "The Runner can spend [Click] to break any subroutine on Ravana 1.0.\n[Subroutine] Resolve a subroutine on another piece of rezzed <strong>bioroid</strong> ice.\n[Subroutine] Resolve a subroutine on another piece of rezzed <strong>bioroid</strong> ice.",
+        "text": "The Runner can spend [click] to break any subroutine on Ravana 1.0.\n[subroutine] Resolve a subroutine on another piece of rezzed <strong>bioroid</strong> ice.\n[subroutine] Resolve a subroutine on another piece of rezzed <strong>bioroid</strong> ice.",
         "title": "Ravana 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -198,7 +198,7 @@
         "position": 88,
         "quantity": 3,
         "side_code": "corp",
-        "text": "The first time there is a successful run on HQ each turn, you and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits]. Reveal spent credits. If you and the Runner spent a different number of credits, you choose which cards the Runner accesses from HQ for the remainder of this run.",
+        "text": "The first time there is a successful run on HQ each turn, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, you choose which cards the Runner accesses from HQ for the remainder of this run.",
         "title": "Dedicated Neural Net",
         "type_code": "agenda",
         "uniqueness": false
@@ -216,7 +216,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[Subroutine] Each player gains 2[Credits].\n[Subroutine] You and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits]. Reveal spent credits. If you and the Runner spent a different number of credits, do 1 net damage for each card in the Runner's grip.",
+        "text": "[subroutine] Each player gains 2[credit].\n[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, do 1 net damage for each card in the Runner's grip.",
         "title": "Chetana",
         "type_code": "ice",
         "uniqueness": false
@@ -251,7 +251,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine]<trace>Trace 5</trace> If successful, the Runner reveals his or her grip. Trash each of those cards with a play or install cost equal to or less than the amount by which your trace strength exceeded his or her link strength.",
+        "text": "[subroutine]<trace>Trace 5</trace> If successful, the Runner reveals his or her grip. Trash each of those cards with a play or install cost equal to or less than the amount by which your trace strength exceeded his or her link strength.",
         "title": "Waiver",
         "type_code": "ice",
         "uniqueness": false
@@ -286,7 +286,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] All ice has +3 strength for the remainder of this run.",
+        "text": "[subroutine] All ice has +3 strength for the remainder of this run.",
         "title": "Red Tape",
         "type_code": "ice",
         "uniqueness": false
@@ -303,7 +303,7 @@
         "position": 94,
         "quantity": 3,
         "side_code": "corp",
-        "text": "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [weyland-consortium] cards in your deck.\nAs an additional cost to play this operation, spend [Click].\nSearch R&D for an operation and play it (paying all costs). Shuffle R&D.",
+        "text": "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [weyland-consortium] cards in your deck.\nAs an additional cost to play this operation, spend [click].\nSearch R&D for an operation and play it (paying all costs). Shuffle R&D.",
         "title": "Consulting Visit",
         "type_code": "operation",
         "uniqueness": false
@@ -321,7 +321,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "[Subroutine] End the run.",
+        "text": "[subroutine] End the run.",
         "title": "Vanilla",
         "type_code": "ice",
         "uniqueness": false

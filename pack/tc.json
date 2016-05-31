@@ -12,7 +12,7 @@
         "position": 61,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Make a run on R&D. If successful, instead of accessing cards, look at the top 3 cards of R&D. Trash 1 of those cards at no cost (even if it cannot normally be trashed) and the Corp shuffles R&D.",
+        "text": "[click]: Make a run on R&D. If successful, instead of accessing cards, look at the top 3 cards of R&D. Trash 1 of those cards at no cost (even if it cannot normally be trashed) and the Corp shuffles R&D.",
         "title": "Keyhole",
         "type_code": "program",
         "uniqueness": false
@@ -47,7 +47,7 @@
         "position": 63,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to play this event, spend [Click].\nRemove up to 2 tags and draw 3 cards.",
+        "text": "As an additional cost to play this event, spend [click].\nRemove up to 2 tags and draw 3 cards.",
         "title": "Lawyer Up",
         "type_code": "event",
         "uniqueness": false
@@ -84,7 +84,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "1[Credits]: Break <strong>sentry</strong> subroutine.\n1[Credits]: +1 strength.",
+        "text": "1[credit]: Break <strong>sentry</strong> subroutine.\n1[credit]: +1 strength.",
         "title": "Garrote",
         "type_code": "program",
         "uniqueness": false
@@ -122,7 +122,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 3,
-        "text": "[Trash]: Break any number of <strong>destroyer</strong> subroutines.\n1[Credits]: +2 strength.",
+        "text": "[trash]: Break any number of <strong>destroyer</strong> subroutines.\n1[credit]: +2 strength.",
         "title": "Sharpshooter",
         "type_code": "program",
         "uniqueness": false
@@ -139,7 +139,7 @@
         "position": 68,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Trash any number of cards from your grip. For each trashed card of which you have another copy installed, draw 1 card.",
+        "text": "[click]: Trash any number of cards from your grip. For each trashed card of which you have another copy installed, draw 1 card.",
         "title": "Capstone",
         "type_code": "hardware",
         "uniqueness": true
@@ -156,7 +156,7 @@
         "position": 69,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, lose [Click].\nIgnore any additional costs on each <strong>double</strong> event you play.",
+        "text": "When your turn begins, lose [click].\nIgnore any additional costs on each <strong>double</strong> event you play.",
         "title": "Starlight Crusade Funding",
         "type_code": "resource",
         "uniqueness": false
@@ -173,7 +173,7 @@
         "position": 70,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 3 power counters on Rex Campaign when it is rezzed. When there are no power counters left on Rex Campaign, trash it and either remove 1 bad publicity or gain 5[Credits].\nWhen your turn begins, remove 1 power counter from Rex Campaign.",
+        "text": "Place 3 power counters on Rex Campaign when it is rezzed. When there are no power counters left on Rex Campaign, trash it and either remove 1 bad publicity or gain 5[credit].\nWhen your turn begins, remove 1 power counter from Rex Campaign.",
         "title": "Rex Campaign",
         "trash_cost": 3,
         "type_code": "asset",
@@ -193,7 +193,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "When you rez Fenris, take 1 bad publicity.\n[Subroutine] Do 1 brain damage.\n[Subroutine] End the run.",
+        "text": "When you rez Fenris, take 1 bad publicity.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.",
         "title": "Fenris",
         "type_code": "ice",
         "uniqueness": false
@@ -210,7 +210,7 @@
         "position": 72,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Install only in the root of HQ.\n1[Credits]: Draw 1 card. Use this ability only during a run on HQ.",
+        "text": "Install only in the root of HQ.\n1[credit]: Draw 1 card. Use this ability only during a run on HQ.",
         "title": "Panic Button",
         "trash_cost": 2,
         "type_code": "upgrade",
@@ -248,7 +248,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "[Subroutine] End the run unless the Corp pays 1[Credits].\n[Subroutine] Do 1 net damage.\n[Subroutine] Do 1 net damage.\n[Subroutine] Do 1 net damage.",
+        "text": "[subroutine] End the run unless the Corp pays 1[credit].\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.",
         "title": "Tsurugi",
         "type_code": "ice",
         "uniqueness": false
@@ -283,7 +283,7 @@
         "position": 76,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 1[Credits] for each card in the Runner's grip.",
+        "text": "Gain 1[credit] for each card in the Runner's grip.",
         "title": "Sweeps Week",
         "type_code": "operation",
         "uniqueness": false
@@ -302,7 +302,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] The Runner cannot spend any credits for the remainder of this run.",
+        "text": "[subroutine] The Runner cannot spend any credits for the remainder of this run.",
         "title": "RSVP",
         "type_code": "ice",
         "uniqueness": false
@@ -313,7 +313,7 @@
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 2,
-        "flavor": "[Subroutine] End the game.\nJust kidding.",
+        "flavor": "[subroutine] End the game.\nJust kidding.",
         "illustrator": "Adam S. Doyle",
         "keywords": "Barrier",
         "pack_code": "tc",
@@ -321,7 +321,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 6,
-        "text": "If Curtain Wall is the outermost piece of ice protecting a server, it has +4 strength.\n[Subroutine] End the run.\n[Subroutine] End the run.\n[Subroutine] End the run.",
+        "text": "If Curtain Wall is the outermost piece of ice protecting a server, it has +4 strength.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.",
         "title": "Curtain Wall",
         "type_code": "ice",
         "uniqueness": false

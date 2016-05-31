@@ -3,13 +3,13 @@
         "code": "02021",
         "title": "Vamp",
         "keywords": "Run - Sabotage",
-        "text": "Führe einen Run auf HQ durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen X[Credits] zahlen, um den Kon zu zwingen X[Credits] zu verlieren. Danach bekommst du 1 Markierung verpasst.",
+        "text": "Führe einen Run auf HQ durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen X[credit] zahlen, um den Kon zu zwingen X[credit] zu verlieren. Danach bekommst du 1 Markierung verpasst.",
         "flavor": "Ich verspüre schon eine gewisse Schadenfreude dabei, deine Credits zu verbrennen."
     },
     {
         "code": "02022",
         "title": "Befreites Konto",
-        "text": "Lege 16[Credits] aus der Credit-Bank auf Befreites Konto, wenn es installiert wird. Wenn keine Credits mehr auf Befreites Konto sind, zerstöre es.\n[Click]: Nimm 4[Credits] von Befreites Konto.",
+        "text": "Lege 16[credit] aus der Credit-Bank auf Befreites Konto, wenn es installiert wird. Wenn keine Credits mehr auf Befreites Konto sind, zerstöre es.\n[click]: Nimm 4[credit] von Befreites Konto.",
         "flavor": "Ausgeben ist einfacher, wenn es sich nicht um dein eigenes Geld handelt."
     },
     {
@@ -22,14 +22,14 @@
         "code": "02024",
         "title": "Feedback-Implantate Typ E3",
         "keywords": "Mod",
-        "text": "Immer, wenn du eine Subroutine auf einem Ice ausschaltest, darfst du 1[Credits] zahlen, um 1  Subroutine auf dem Ice auszuschalten.",
+        "text": "Immer, wenn du eine Subroutine auf einem Ice ausschaltest, darfst du 1[credit] zahlen, um 1  Subroutine auf dem Ice auszuschalten.",
         "flavor": "Die Implantat-Produktlinie Typ e3 von Cyber-Solutions verbessert das Muskelgedächtnis und die autonomen Reflexe immens, so dass das Hirn seine ganze Kapazität für zerebrale Prozesse frei hat."
     },
     {
         "code": "02025",
         "title": "Kompromittierter Mitarbeiter",
         "keywords": "Kontakt - Verbindung",
-        "text": "1[Recurring Credits]\nVerwende diesen Credit während des Aufspürens.\nErhalte immer 1[Credits], wenn der Kon ein Ice lädt."
+        "text": "1[recurring-credit]\nVerwende diesen Credit während des Aufspürens.\nErhalte immer 1[credit], wenn der Kon ein Ice lädt."
     },
     {
         "code": "02026",
@@ -41,14 +41,14 @@
         "code": "02027",
         "title": "Schneeball",
         "keywords": "Ice-Brecher - Fracter",
-        "text": "1[Credits]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n1[Credits]: +1 Stärke.\nImmer, wenn du Schneeball verwendest, um eine Subroutine auszuschalten, hat es für den Rest des Runs +1 Stärke.",
+        "text": "1[credit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n1[credit]: +1 Stärke.\nImmer, wenn du Schneeball verwendest, um eine Subroutine auszuschalten, hat es für den Rest des Runs +1 Stärke.",
         "flavor": "\"Wenn der Schneeball nur groß genug wird, kannst du einen Schneemann daraus machen!\" - Chaostheorie"
     },
     {
         "code": "02028",
         "title": "Dyson-Speicherchip",
         "keywords": "Chip - Verbindung",
-        "text": "+1[Memory Unit], +1[Link]",
+        "text": "+1[mu], +1[link]",
         "flavor": "Altertümlich, aber verlässlich."
     },
     {
@@ -61,7 +61,7 @@
         "code": "02030",
         "title": "Sherlock 1.0",
         "keywords": "Wächter - Bioroid - Spürhund",
-        "text": "Der Runner darf [Click] ausgeben, um eine beliebige Subroutine auf Sherlock 1.0 auszuschalten.\n[Subroutine] <trace>Aufspüren 4</trace> Bei Erfolg lege 1 installiertes Programm oben auf den Stapel des Runners.\n[Subroutine] <trace>Aufspüren 4</trace> Bei Erfolg lege 1 installiertes Programm oben auf den Stapel des Runners"
+        "text": "Der Runner darf [click] ausgeben, um eine beliebige Subroutine auf Sherlock 1.0 auszuschalten.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg lege 1 installiertes Programm oben auf den Stapel des Runners.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg lege 1 installiertes Programm oben auf den Stapel des Runners"
     },
     {
         "code": "02031",
@@ -73,7 +73,7 @@
         "code": "02032",
         "title": "Fötale KI",
         "keywords": "Hinterhalt",
-        "text": "Falls von F&E auf Fötale KI zugegriffen wird, muss der Runner sie aufdecken.\nWenn der Runner auf Fötale KI zugreift, füge 2 Netz-Schaden zu. Ignoriere diese Fähigkeit falls der Runner im Archiv auf Fötale KI zugreift.\nDer Runner muss 2[Credits] als zusätzliche kosten zahlen, um Fötale KI zu stehlen."
+        "text": "Falls von F&E auf Fötale KI zugegriffen wird, muss der Runner sie aufdecken.\nWenn der Runner auf Fötale KI zugreift, füge 2 Netz-Schaden zu. Ignoriere diese Fähigkeit falls der Runner im Archiv auf Fötale KI zugreift.\nDer Runner muss 2[credit] als zusätzliche kosten zahlen, um Fötale KI zu stehlen."
     },
     {
         "code": "02033",
@@ -85,7 +85,7 @@
         "code": "02034",
         "title": "Sensei",
         "keywords": "Code-Zugang",
-        "text": "[Subroutine]Für den Rest des Runs erhält jedes Ice außer Sensei, auf das der Runner trifft: \"[Subroutine] Beende den Run\" hinter all seinen anderen Subroutinen.",
+        "text": "[subroutine]Für den Rest des Runs erhält jedes Ice außer Sensei, auf das der Runner trifft: \"[subroutine] Beende den Run\" hinter all seinen anderen Subroutinen.",
         "flavor": "Frieden und Gewalt. Beide müssen zum selben Ort hinführen."
     },
     {
@@ -116,7 +116,7 @@
     {
         "code": "02039",
         "title": "Vorstands-Klausurtagung",
-        "text": "Wenn du die Punkte für Vorstands-Klausurtagung erzielst, lege 1 Agendazähler darauf und mische HQ in F&E.\n[Click] und <strong>gehosteter Agendazähler:</strong> Ziehe 5 Karten."
+        "text": "Wenn du die Punkte für Vorstands-Klausurtagung erzielst, lege 1 Agendazähler darauf und mische HQ in F&E.\n[click] und <strong>gehosteter Agendazähler:</strong> Ziehe 5 Karten."
     },
     {
         "code": "02040",

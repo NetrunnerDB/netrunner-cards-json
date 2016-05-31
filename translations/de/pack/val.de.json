@@ -16,14 +16,14 @@
         "code": "08003",
         "title": "Angepasster Chronotyp",
         "keywords": "Genetik",
-        "text": "Sobald du zum ersten Mal in einem Zug [Click] verlierst, erhältst du [Click].",
+        "text": "Sobald du zum ersten Mal in einem Zug [click] verlierst, erhältst du [click].",
         "flavor": "Macht aus einem Nachtschwärmer einen Frühaufsteher."
     },
     {
         "code": "08004",
         "title": "Spitze",
         "keywords": "Ice-Brecher - Fracter - Cloud",
-        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von Spitze 0, selbst wenn es nicht installiert ist.\nSpitze hat +1 Stärke für jeden installierten <strong>Ice-Brecher</strong>.\n[Trash]: Schalte bis zu 3 Subroutinen einer <strong>Barriere</strong> aus."
+        "text": "Falls du mindestens 2[link] hast, sind die Speicherkosten von Spitze 0, selbst wenn es nicht installiert ist.\nSpitze hat +1 Stärke für jeden installierten <strong>Ice-Brecher</strong>.\n[trash]: Schalte bis zu 3 Subroutinen einer <strong>Barriere</strong> aus."
     },
     {
         "code": "08005",
@@ -56,7 +56,7 @@
         "code": "08009",
         "title": "Symmetrisches Gesicht",
         "keywords": "Genetik",
-        "text": "Wenn du zum ersten Mal in einem Zug [Click] zahlst, um 1 Karte zu ziehen (nicht durch die Fähigkeit einer Karte), erhältst du 1[Credits].",
+        "text": "Wenn du zum ersten Mal in einem Zug [click] zahlst, um 1 Karte zu ziehen (nicht durch die Fähigkeit einer Karte), erhältst du 1[credit].",
         "flavor": "Für den Erfolg geboren!"
     },
     {
@@ -70,14 +70,14 @@
         "code": "08011",
         "title": "NEXT:Gold",
         "keywords": "Wächter - NEXT - AP - Zerstörer",
-        "text": "X ist die Anzahl aller geladenen<strong>NEXT</strong> -Ice.\n[Subroutine] Verursache X Netz-Schaden.\n[Subroutine] Zerstöre X Programme.",
+        "text": "X ist die Anzahl aller geladenen<strong>NEXT</strong> -Ice.\n[subroutine] Verursache X Netz-Schaden.\n[subroutine] Zerstöre X Programme.",
         "flavor": "\"Bei Gott in Heinlein. Und was kommt als nächstes, NEXT:Platinum?\" -John Masanori"
     },
     {
         "code": "08012",
         "title": "Jinteki Biotech: So wie das Leben",
         "keywords": "Division",
-        "text": "Bevor du deinen ersten Zug beginnst, kannst du diese Karte mit einer beliebigen Kopie von Jinteki Biotech austauschen.\n[Click],[Click],[Click]: Drehe diese Identität um.\nDie Brauerei: Wenn du diese Identität umdrehst, verursache 2 Netz-Schaden.\nDer Tank: Wenn du diese Identität umdrehst, mische das Archiv in F&E.\nDas Treibhaus: Wenn du diese Identität umdrehst, lege 4 Entwicklungsmarker auf eine Karte, die entwickelt werden kann.",
+        "text": "Bevor du deinen ersten Zug beginnst, kannst du diese Karte mit einer beliebigen Kopie von Jinteki Biotech austauschen.\n[click],[click],[click]: Drehe diese Identität um.\nDie Brauerei: Wenn du diese Identität umdrehst, verursache 2 Netz-Schaden.\nDer Tank: Wenn du diese Identität umdrehst, mische das Archiv in F&E.\nDas Treibhaus: Wenn du diese Identität umdrehst, lege 4 Entwicklungsmarker auf eine Karte, die entwickelt werden kann.",
         "flavor": "Die Brauerei: Die Bottiche in Gebäude C können das Leben selbst erschaffen - und auch zerstören.\nDer Tank: Die besten und intelligentesten Geningeneure verbringen ihre Tage im Tank und träumen von einer besseren Welt.\nDas Treibhaus: Das Treibhaus wurde gebaut, um die Schönheit der Natur zu verbessern."
     },
     {
@@ -91,7 +91,7 @@
         "code": "08014",
         "title": "Cortex-Blockade",
         "keywords": "Wächter - AP",
-        "text": "[Subroutine] Verursache 1 Netz-Schaden für jede nicht verwendete SE des Runners.",
+        "text": "[subroutine] Verursache 1 Netz-Schaden für jede nicht verwendete SE des Runners.",
         "flavor": "Je mehr Rechenkraft ein Spitz-Prozess verwenden kann, um so härter kann er zuschlagen. Die wirklich cleveren Versionen nutzen die Speicher des Runners, um lokal zu iterieren."
     },
     {
@@ -104,26 +104,26 @@
         "code": "08016",
         "title": "Bandbreite",
         "keywords": "Code-Zugang",
-        "text": "[Subroutine] Verpasse dem Runner 1 Markierung. Falls dieser Run erfolgreich ist, entfernt der Runner 1 Markierung.",
+        "text": "[subroutine] Verpasse dem Runner 1 Markierung. Falls dieser Run erfolgreich ist, entfernt der Runner 1 Markierung.",
         "flavor": "\"Es spürt dich auf und zeichnet deine Aktivitäten auf. Falls du reinkommst, kannst du die Aufzeichnungen löschen. Aber du musst eben erst reinkommen.\" -Gabriel Santiago"
     },
     {
         "code": "08017",
         "title": "Prognose-Algorithmus",
         "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder eine Agenda gestohlen wird.\nAls zusätzliche Kosten für das Stehlen einer Agenda muss der Runner 2[Credits] bezahlen."
+        "text": "Diese Karte wird nicht zerstört bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder eine Agenda gestohlen wird.\nAls zusätzliche Kosten für das Stehlen einer Agenda muss der Runner 2[credit] bezahlen."
     },
     {
         "code": "08018",
         "title": "Kapitalinvestoren",
-        "text": "[Click]: Du erhältst 2[Credits].",
+        "text": "[click]: Du erhältst 2[credit].",
         "flavor": "Gib einem Mann Geld, und er ist für einen Tag reich. Bring einem man bei, wie man investiert, und er ist für den Rest seines Lebens reich."
     },
     {
         "code": "08019",
         "title": "Unterhändler",
         "keywords": "Wächter - Zerstörer",
-        "text": "Der Runner kann 2[Credits] zahlen, um eine beliebige Subroutine auf Unterhändler auszuschalten.\n[Subroutine] Der Kon erhält 2[Credits].\n[Subroutine] Zerstöre 1 Programm.",
+        "text": "Der Runner kann 2[credit] zahlen, um eine beliebige Subroutine auf Unterhändler auszuschalten.\n[subroutine] Der Kon erhält 2[credit].\n[subroutine] Zerstöre 1 Programm.",
         "flavor": "\"Verhandeln ist eine Kunstform, also verhandle nie, wenn Einschüchterung auch funktioniert.\" -Thiago Reyes, VP Strategisch Operationen"
     },
     {

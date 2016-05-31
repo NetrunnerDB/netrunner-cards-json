@@ -3,21 +3,21 @@
         "code": "06041",
         "title": "IQ",
         "keywords": "Code-Zugang",
-        "text": "Die Ladekosten von IQ werden für jede Karte im HQ um 1 erhöht.\nIQ hat +1 Stärke für jede Karte im HQ.\n[Subroutine] Beende den Run.",
+        "text": "Die Ladekosten von IQ werden für jede Karte im HQ um 1 erhöht.\nIQ hat +1 Stärke für jede Karte im HQ.\n[subroutine] Beende den Run.",
         "flavor": "Erschaffen durch die Vereinigung von Hirnscans von mehr als hundert der intelligentesten Menschen in der Cerebral-Datenbank von Haas-Bioroid, eingeschränkt durch seinen Mangel an Vorstellungskraft oder die Vorstellungskraft der Sysops, die sie nutzen."
     },
     {
         "code": "06042",
         "title": "Elizas Spielzeugkiste",
         "keywords": "Protzig",
-        "text": "[Click],[Click],[Click]: Lade eine Karte, ohne die Kosten zu bezahlen.",
+        "text": "[click],[click],[click]: Lade eine Karte, ohne die Kosten zu bezahlen.",
         "flavor": "Elizas Spielzeugkiste ist der vorherrschende Anbieter hochklassiger Ausschweifungen auf dem Mond, dank seiner Biodoid-Vergnügungsmodelle und anderer exotischer Spielzeuge. Jede Fantasie hat ihren Preis."
     },
     {
         "code": "06043",
         "title": "Kitsune",
         "keywords": "Mythisch - Falle",
-        "text": "[Subroutine] Der Kon darf eine Karte im HQ auswählen. Der Runner greift auf diese Karte zu. Falls er das tut zerstöre Kitsune.",
+        "text": "[subroutine] Der Kon darf eine Karte im HQ auswählen. Der Runner greift auf diese Karte zu. Falls er das tut zerstöre Kitsune.",
         "flavor": "Es gibt Leute, die glauben, der neunschwänzige Fuchs ist ein Engel in Verkleidung. Und es gibt Leute, die ihr gefolgt sind und ihr Geheimnis ergründet haben."
     },
     {
@@ -44,7 +44,7 @@
         "code": "06047",
         "title": "Wendigo",
         "keywords": "Code-Zugang - Morph",
-        "text": "Wendigo kann entwickelt werden.  Solange Wendigo eine ungerade Anzahl von Entwicklungsmarkern hat, erhält er <strong>Barriere</strong> und verliert <strong>Code-Zugang</strong>. [Subroutine] Wähle ein Programm. Der Runner kann dieses Programm für den Rest des Runs nicht mehr verwenden."
+        "text": "Wendigo kann entwickelt werden.  Solange Wendigo eine ungerade Anzahl von Entwicklungsmarkern hat, erhält er <strong>Barriere</strong> und verliert <strong>Code-Zugang</strong>. [subroutine] Wähle ein Programm. Der Runner kann dieses Programm für den Rest des Runs nicht mehr verwenden."
     },
     {
         "code": "06048",
@@ -64,13 +64,13 @@
         "code": "06050",
         "title": "Zerbrochene Überreste",
         "keywords": "Hinterhalt",
-        "text": "Zerbrochene Überreste kann entwickelt werden.\nFalls du 1[Credits] zahlst, wenn der Runner auf Zerbrochene Überreste zugreift, zerstöre 1 Hardware für jeden Entwicklungsmarker auf Zerbrochene Überreste."
+        "text": "Zerbrochene Überreste kann entwickelt werden.\nFalls du 1[credit] zahlst, wenn der Runner auf Zerbrochene Überreste zugreift, zerstöre 1 Hardware für jeden Entwicklungsmarker auf Zerbrochene Überreste."
     },
     {
         "code": "06051",
         "title": "Lancelot",
         "keywords": "Wächter - Gral - Zerstörer",
-        "text": "Sobald der Runner auf Lancelot trifft, darfst du bis zu 2 <strong>Gral</strong>-Ice vom HQ aufdecken. Für den Rest des Rus erhält Lancelot die Subroutinen des aufgedeckten Ice in der Reihenfolge deiner Wahl.\n[Subroutine] Zerstöre 1 Programm.",
+        "text": "Sobald der Runner auf Lancelot trifft, darfst du bis zu 2 <strong>Gral</strong>-Ice vom HQ aufdecken. Für den Rest des Rus erhält Lancelot die Subroutinen des aufgedeckten Ice in der Reihenfolge deiner Wahl.\n[subroutine] Zerstöre 1 Programm.",
         "flavor": "Er, der das Schwert der Tapferkeit führt."
     },
     {
@@ -84,54 +84,54 @@
         "code": "06053",
         "title": "Schwarze Katze",
         "keywords": "Ice-Brecher - Fracter",
-        "text": "1[Credits]: Schalte 1 Subroutine einer <strong>Barriere</strong> aus (oder bis zu 3 Subroutinen, falls du 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgibst).\n2[Credits]: +1 Stärke (oder +2 Stärke, falls du mindestens 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgibst).",
+        "text": "1[credit]: Schalte 1 Subroutine einer <strong>Barriere</strong> aus (oder bis zu 3 Subroutinen, falls du 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgibst).\n2[credit]: +1 Stärke (oder +2 Stärke, falls du mindestens 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgibst).",
         "flavor": "Pech für jeden Sysop, der blind genug ist, ihr über den Weg zu laufen."
     },
     {
         "code": "06054",
         "title": "Duggar's",
         "keywords": "Ort - Zwielichtig",
-        "text": "[Click],[Click],[Click],[Click]: Ziehe 10 Karten.",
+        "text": "[click],[click],[click],[click]: Ziehe 10 Karten.",
         "flavor": "Das direkt aus dem Mondfelsen geschlagene Duggar's ist ein beliebter Treffpunkt für durchgeknallte Arbeiter und abenteuerlustige Kids der Reichen und Schönen. Ein Ort, wo man alles bekommt, was man will -  falls man weiß, an wen man sich wenden muss, und sich dabei nicht von den energiesprühenden Tänzerinnen ablenken lässt."
     },
     {
         "code": "06055",
         "title": "Box-E",
         "keywords": "Konsole",
-        "text": "+2 [Memory Unit]\nDeine maximale Handkartenzahl wird um 2 erhöht.\nNur 1 <strong>Konsole</strong> pro Spieler."
+        "text": "+2 [mu]\nDeine maximale Handkartenzahl wird um 2 erhöht.\nNur 1 <strong>Konsole</strong> pro Spieler."
     },
     {
         "code": "06056",
         "title": "Der Bersorger",
         "keywords": "Kontakt",
-        "text": "[Click]: Hoste eine Ressource oder Hardware aus deinem Griff auf Der Besorger.\nWenn dein Zug beginnt, darfst du eine gehostete Karte installieren und dabei die Installationskosten um 2 senken.",
+        "text": "[click]: Hoste eine Ressource oder Hardware aus deinem Griff auf Der Besorger.\nWenn dein Zug beginnt, darfst du eine gehostete Karte installieren und dabei die Installationskosten um 2 senken.",
         "flavor": "\"Ich kann Ihnen alles besorgen und garantiere Ihnen auch die besten Preise in der Stadt.\""
     },
     {
         "code": "06057",
         "title": "Refraktor",
         "keywords": "Ice-Brecher - Decoder",
-        "text": "1[Credits]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[Credits]: +3 Stärke. Diese Fertigkeit kann nur mit Credits von einer <strong>Heimlichkeit</strong>-Karte verwendet werden.",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +3 Stärke. Diese Fertigkeit kann nur mit Credits von einer <strong>Heimlichkeit</strong>-Karte verwendet werden.",
         "flavor": "\"Wenn du so aussiehst, als ob du dazugehörst, ignorieren dich andere Menschen stundenlang. Oder auch jahrelang. Erst, wenn du nicht dazupasst, fängt die Sache an, schiefzugehen.\" -Exile"
     },
     {
         "code": "06058",
         "title": "Orden von Sol",
         "keywords": "Ort",
-        "text": "Hast du zum ersten Mal in einem zug keine Credits in deinem Credit-Vorrat, erhältst du 1[Credits].",
+        "text": "Hast du zum ersten Mal in einem zug keine Credits in deinem Credit-Vorrat, erhältst du 1[credit].",
         "flavor": "Es gab mehrere Versuche, eine „Weltkirche“ zu erschaffen, in der alle Religionen der Menschheit zu einem harmonischen Ganzen vereint werden sollten. Die Ironie liegt natürlich darin, dass jede neue „Weltkirche“ eine weitere Spaltung im religiösen Leben der Menschheit darstellt."
     },
     {
         "code": "06059",
         "title": "Scherbe des Hades",
         "keywords": "Virtuell - Quelle",
-        "text": "Immer, wenn du einen erfolgreichen Run auf das Archiv durchführst, darfst du, statt auf Karten zuzugreifen, Scherbe des Hades aus deinem Griff installieren, ohne die Kosten zu bezahlen.\n[Trash]: Greife auf alle Karten im Archiv zu.\nNur 1 pro Deck."
+        "text": "Immer, wenn du einen erfolgreichen Run auf das Archiv durchführst, darfst du, statt auf Karten zuzugreifen, Scherbe des Hades aus deinem Griff installieren, ohne die Kosten zu bezahlen.\n[trash]: Greife auf alle Karten im Archiv zu.\nNur 1 pro Deck."
     },
     {
         "code": "06060",
         "title": "Rachel Beckman",
         "keywords": "Kontakt",
-        "text": "Du hast in jedem Zug 1 zusätzlichen [Click].\nZerstöre Rachel Beckman, wenn du markiert bist.",
+        "text": "Du hast in jedem Zug 1 zusätzlichen [click].\nZerstöre Rachel Beckman, wenn du markiert bist.",
         "flavor": "\"Das ist Rachel Beckman. Ihr Job ist es, Menschen am Leben zu halten.\"\nRachel lächelte. \"Nur, wenn es nicht mein Job ist, sie zu töten\""
     }
 ]

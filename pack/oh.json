@@ -12,7 +12,7 @@
         "position": 81,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, place 1 power counter on Trope.\n[Click], <strong>remove Trope from the game:</strong> Shuffle 1 card from your heap into your stack for each power counter on Trope.",
+        "text": "When your turn begins, place 1 power counter on Trope.\n[click], <strong>remove Trope from the game:</strong> Shuffle 1 card from your heap into your stack for each power counter on Trope.",
         "title": "Trope",
         "type_code": "program",
         "uniqueness": false
@@ -48,7 +48,7 @@
         "position": 83,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, lose 1[Credits].\nWhen the Corp's turn begins, draw 1 card.",
+        "text": "When your turn begins, lose 1[credit].\nWhen the Corp's turn begins, draw 1 card.",
         "title": "Drug Dealer",
         "type_code": "resource",
         "uniqueness": false
@@ -102,7 +102,7 @@
         "position": 86,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Film Critic can host a single agenda.\nWhenever you access an agenda, you may host that agenda on Film Critic (the agenda is no longer being accessed and is uninstalled).\n[Click],[Click]: Add an agenda hosted on Film Critic to your score area.",
+        "text": "Film Critic can host a single agenda.\nWhenever you access an agenda, you may host that agenda on Film Critic (the agenda is no longer being accessed and is uninstalled).\n[click],[click]: Add an agenda hosted on Film Critic to your score area.",
         "title": "Film Critic",
         "type_code": "resource",
         "uniqueness": false
@@ -137,7 +137,7 @@
         "position": 88,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Whenever the Runner trashes a Corp card (including Ronald Five), he or she loses [Click].",
+        "text": "Whenever the Runner trashes a Corp card (including Ronald Five), he or she loses [click].",
         "title": "Ronald Five",
         "trash_cost": 3,
         "type_code": "asset",
@@ -156,7 +156,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "As an additional cost to rez Enforcer 1.0, the Corp must forfeit an agenda.\nThe Runner can spend [Click] to break any subroutine on Enforcer 1.0.\n[Subroutine] Trash 1 program.\n[Subroutine] Do 1 brain damage.\n[Subroutine] Trash 1 <strong>console</strong>.\n[Subroutine] Trash all <strong>virtual</strong> resources.",
+        "text": "As an additional cost to rez Enforcer 1.0, the Corp must forfeit an agenda.\nThe Runner can spend [click] to break any subroutine on Enforcer 1.0.\n[subroutine] Trash 1 program.\n[subroutine] Do 1 brain damage.\n[subroutine] Trash 1 <strong>console</strong>.\n[subroutine] Trash all <strong>virtual</strong> resources.",
         "title": "Enforcer 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -175,7 +175,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "Whenever It's a Trap! is exposed, do 2 net damage.\n[Subroutine] The Runner trashes 1 of his or her installed cards. Trash It's a Trap!.",
+        "text": "Whenever It's a Trap! is exposed, do 2 net damage.\n[subroutine] The Runner trashes 1 of his or her installed cards. Trash It's a Trap!.",
         "title": "It's a Trap!",
         "type_code": "ice",
         "uniqueness": false
@@ -244,7 +244,7 @@
         "position": 94,
         "quantity": 3,
         "side_code": "corp",
-        "text": "If Explode-a-palooza is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Explode-a-palooza, you may gain 5[Credits].",
+        "text": "If Explode-a-palooza is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Explode-a-palooza, you may gain 5[credit].",
         "title": "Explode-a-palooza",
         "type_code": "agenda",
         "uniqueness": false
@@ -260,7 +260,7 @@
         "position": 95,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When your turn begins, you may pay 1[Credits]. If you do, place 1 advancement token on a card that can be advanced in a server.",
+        "text": "When your turn begins, you may pay 1[credit]. If you do, place 1 advancement token on a card that can be advanced in a server.",
         "title": "Early Premiere",
         "trash_cost": 2,
         "type_code": "asset",
@@ -331,7 +331,7 @@
         "position": 99,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Trash a card installed in a server and gain 3[Credits] for each advancement token on that card.",
+        "text": "Trash a card installed in a server and gain 3[credit] for each advancement token on that card.",
         "title": "Back Channels",
         "type_code": "operation",
         "uniqueness": false

@@ -22,7 +22,7 @@
     {
         "code": "02084",
         "title": "Establecer Contactos",
-        "text": "Retira 1 marca. Puedes pagar 1[Credits] para añadir Establecer Contactos a tu Empuñadura en lugar de destruírlo.",
+        "text": "Retira 1 marca. Puedes pagar 1[credit] para añadir Establecer Contactos a tu Empuñadura en lugar de destruírlo.",
         "flavor": "Prefería hacer negocios en un club. Había algo en las luces y las bailarinas que nublaba el juicio de los simplones corporativos con los que se reunía allí."
     },
     {
@@ -35,7 +35,7 @@
         "code": "02086",
         "title": "Feromonas",
         "keywords": "Virus",
-        "text": "X[Recurring Credits]\nUsa estos créditos durante incursiones contra la SC. X es la cantidad de contadores de virus que hay sobre Feromonas.\nSiempre que realices una incursión con éxito contra la SC, coloca 1 contador de virus sobre Feromonas."
+        "text": "X[recurring-credit]\nUsa estos créditos durante incursiones contra la SC. X es la cantidad de contadores de virus que hay sobre Feromonas.\nSiempre que realices una incursión con éxito contra la SC, coloca 1 contador de virus sobre Feromonas."
     },
     {
         "code": "02087",
@@ -53,7 +53,7 @@
         "code": "02089",
         "title": "Trepadora",
         "keywords": "Rompehielos - Asesino - Nube",
-        "text": "Si tienes al menos 2[Link], el coste de memoria de Trepadora es 0, incluso si no está instalada.\n2[Credits]: Rompe una subrutina <strong>centinela</strong>.\n1[Credits]: +1 punto de fuerza.",
+        "text": "Si tienes al menos 2[link], el coste de memoria de Trepadora es 0, incluso si no está instalada.\n2[credit]: Rompe una subrutina <strong>centinela</strong>.\n1[credit]: +1 punto de fuerza.",
         "flavor": "\"La arañita mordedora subió por el tronco de datos...\" - Teoría del Caos"
     },
     {
@@ -66,14 +66,14 @@
         "code": "02091",
         "title": "Kati Jones",
         "keywords": "Contacto",
-        "text": "No puedes usar Kati Jones más de una vez por turno.\n[Click]: Coloca 3[Credits] del banco sobre Kati Jones.\n[Click]: Coge todos los créditos de Kati Jones. ",
+        "text": "No puedes usar Kati Jones más de una vez por turno.\n[click]: Coloca 3[credit] del banco sobre Kati Jones.\n[click]: Coge todos los créditos de Kati Jones. ",
         "flavor": "\"No eres el único tipo de runner de Nueva Ángeles.\""
     },
     {
         "code": "02092",
         "title": "Campaña De Eve",
         "keywords": "Anuncio",
-        "text": "Coloca 16[Credits] del banco sobre Campaña De Eve cuando la instales. Cuando no queden créditos en Campaña De Eve, destrúyela.\nCuando comience tu turno, coge 2[Credits] de Campaña De Eve."
+        "text": "Coloca 16[credit] del banco sobre Campaña De Eve cuando la instales. Cuando no queden créditos en Campaña De Eve, destrúyela.\nCuando comience tu turno, coge 2[credit] de Campaña De Eve."
     },
     {
         "code": "02093",
@@ -85,7 +85,7 @@
         "code": "02094",
         "title": "Remolino",
         "keywords": "Trampa",
-        "text": "[Subroutine] El Runner no puede desenchufarse durante el resto de esta incursión. Destruye Remolino.",
+        "text": "[subroutine] El Runner no puede desenchufarse durante el resto de esta incursión. Destruye Remolino.",
         "flavor": "\"Este hielo no mola.\" - g00ru"
     },
     {
@@ -99,7 +99,7 @@
         "code": "02096",
         "title": "Sabueso De Datos",
         "keywords": "Centinela - Rastreador - Observador",
-        "text": "[Subroutine] <trace>Rastreo 2</trace> Si tiene éxito, mira una cantidad de cartas de la parte superior del Montón del Runner igual a la cantidad en la que tu fuerza de rastreo superaba su fuerza de enlace. Destruye 1 de esas cartas y coloca el resto en cualquier orden. ",
+        "text": "[subroutine] <trace>Rastreo 2</trace> Si tiene éxito, mira una cantidad de cartas de la parte superior del Montón del Runner igual a la cantidad en la que tu fuerza de rastreo superaba su fuerza de enlace. Destruye 1 de esas cartas y coloca el resto en cualquier orden. ",
         "flavor": "Sniff."
     },
     {
@@ -113,14 +113,14 @@
         "code": "02098",
         "title": "Chatarra",
         "keywords": "Puerta De Código - Rastreador",
-        "text": "Chatarra puede ser avanzada sólo mientras y esté ejecutada y gana: \"[Subroutine] <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner.\" por cada ficha de Avance que tenga.",
+        "text": "Chatarra puede ser avanzada sólo mientras y esté ejecutada y gana: \"[subroutine] <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner.\" por cada ficha de Avance que tenga.",
         "flavor": "Ya no estás en Kansas."
     },
     {
         "code": "02099",
         "title": "Simone Diego",
         "keywords": "Sysop",
-        "text": "2[Recurring Credits]\nUsa estos créditos para avanzar cartas de este servidor o que lo protejan.",
+        "text": "2[recurring-credit]\nUsa estos créditos para avanzar cartas de este servidor o que lo protejan.",
         "flavor": "\"Un trabajo que sólo hay que hacer una vez es un trabajo bien hecho.\""
     },
     {

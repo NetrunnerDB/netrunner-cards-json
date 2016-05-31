@@ -9,7 +9,7 @@
         "code": "02042",
         "title": "Joshua B.",
         "keywords": "Contacto",
-        "text": "Cuando comience tu turno, puedes ganar [Click]. Si lo haces, recibes 1 marca cuando acabe este turno.",
+        "text": "Cuando comience tu turno, puedes ganar [click]. Si lo haces, recibes 1 marca cuando acabe este turno.",
         "flavor": "\"Mis aumentos tienen garantía de por vida, y el riesgo merece la pena.\""
     },
     {
@@ -36,7 +36,7 @@
         "code": "02046",
         "title": "Teoría Del Caos",
         "keywords": "Mod-g",
-        "text": "+ 1[Memory Unit]",
+        "text": "+ 1[mu]",
         "flavor": "\"¿Te he presentado a Dinosaurio?\""
     },
     {
@@ -54,7 +54,7 @@
         "code": "02049",
         "title": "Taller Personal",
         "keywords": "Ubicación",
-        "text": "[Click]: Aloja un programa o hardware de tu Empuñadura en Taller Personal y coloca sobre él una cantidad de contadores de poder igual a su coste de instalación.\n1[Credits]: Retira 1 contador de poder de una carta alojada.\nCuando comience tu turno, retira 1 contador de poder de una carta alojada.\nCuando no queden contadores de poder sobre una carta alojada, instálala ignorando todos los costes."
+        "text": "[click]: Aloja un programa o hardware de tu Empuñadura en Taller Personal y coloca sobre él una cantidad de contadores de poder igual a su coste de instalación.\n1[credit]: Retira 1 contador de poder de una carta alojada.\nCuando comience tu turno, retira 1 contador de poder de una carta alojada.\nCuando no queden contadores de poder sobre una carta alojada, instálala ignorando todos los costes."
     },
     {
         "code": "02050",
@@ -72,14 +72,14 @@
         "code": "02052",
         "title": "Víbora",
         "keywords": "Puerta De Código - Rastreador",
-        "text": "[Subroutine] <trace>Rastreo 3</trace> Si tiene éxito, el Runner pierde [Click] si puede.\n[Subroutine] <trace>Rastreo 3</trace> Si tiene éxito, termina la incursión.",
+        "text": "[subroutine] <trace>Rastreo 3</trace> Si tiene éxito, el Runner pierde [click] si puede.\n[subroutine] <trace>Rastreo 3</trace> Si tiene éxito, termina la incursión.",
         "flavor": "No me pises."
     },
     {
         "code": "02053",
         "title": "El Borde Del Mundo",
         "keywords": "Emboscada",
-        "text": "Si el Borde Del Mundo está instalado y pagas 3[Credits] cuando el Runner acceda a él, inflige 1 daño cerebral por cada hielo que proteja este servidor."
+        "text": "Si el Borde Del Mundo está instalado y pagas 3[credit] cuando el Runner acceda a él, inflige 1 daño cerebral por cada hielo que proteja este servidor."
     },
     {
         "code": "02054",
@@ -91,40 +91,40 @@
         "code": "02055",
         "title": "Cuentas Marcadas",
         "keywords": "Transacción",
-        "text": "Cuando comience tu turno, coge 1[Credits] de Cuentas Marcadas si puedes.\n[Click]: Coloca 3[Credits] del banco sobre Cuentras Marcadas."
+        "text": "Cuando comience tu turno, coge 1[credit] de Cuentas Marcadas si puedes.\n[click]: Coloca 3[credit] del banco sobre Cuentras Marcadas."
     },
     {
         "code": "02056",
         "title": "Ventana Emergente",
         "keywords": "Puerta De Código - Anuncio",
-        "text": "Cuando el Runner se enfrente a Ventana Emergente, ganas 1[Credits].\n[Subroutine] Termina la incursión a menos que el Runner pague 1[Credits].",
+        "text": "Cuando el Runner se enfrente a Ventana Emergente, ganas 1[credit].\n[subroutine] Termina la incursión a menos que el Runner pague 1[credit].",
         "flavor": "\"Intenta cerrarla. Adelante. Mira lo que hace.\" - Teoría del Caos."
     },
     {
         "code": "02057",
         "title": "Leñador",
         "keywords": "Centinela - AP",
-        "text": "Leñador puede ser avanzado sólo mientras esté ejecutado y gana \"[Subroutine] Inflige 1 daño de red.\" por cada ficha de avance que tenga.",
+        "text": "Leñador puede ser avanzado sólo mientras esté ejecutado y gana \"[subroutine] Inflige 1 daño de red.\" por cada ficha de avance que tenga.",
         "flavor": "Chop chop"
     },
     {
         "code": "02058",
         "title": "Comercialización",
         "keywords": "Transacción",
-        "text": "Elige un hielo. Gana 1[Credits] por cada ficha de Avance que haya sobre ese hielo.",
+        "text": "Elige un hielo. Gana 1[credit] por cada ficha de Avance que haya sobre ese hielo.",
         "flavor": "Los ingresos de la División de Aplicaciones Marginales aumentaron un 37% en un año, después de que los altos cargos descubrieran que la mayoría de sus productos podían venderse como juguetes muy divertidos."
     },
     {
         "code": "02059",
         "title": "Contratos Privados",
         "keywords": "Transacción",
-        "text": "Coloca 14[Credits] del banco sobre Contratos Privados cuando los ejecutes. Cuando no queden créditos en Contratos Privados, destrúyelos.\n[Click]: Coge 2[Credits] de Contratos Privados."
+        "text": "Coloca 14[credit] del banco sobre Contratos Privados cuando los ejecutes. Cuando no queden créditos en Contratos Privados, destrúyelos.\n[click]: Coge 2[credit] de Contratos Privados."
     },
     {
         "code": "02060",
         "title": "Quimera",
         "keywords": "Mítico",
-        "text": "Cuando ejecutes Quimera, elige <strong>centinela</strong>, <strong>puerta de código</strong> o <strong>barrera</strong>. Quimera gana ese subtipo hasta que sea suspendida.\nCuando termine un turno, suspende Quimera.\n[Subroutine] Termina la incursión.",
+        "text": "Cuando ejecutes Quimera, elige <strong>centinela</strong>, <strong>puerta de código</strong> o <strong>barrera</strong>. Quimera gana ese subtipo hasta que sea suspendida.\nCuando termine un turno, suspende Quimera.\n[subroutine] Termina la incursión.",
         "flavor": "Tres cabezas. Y una enorme jaqueca."
     }
 ]

@@ -9,27 +9,27 @@
         "code": "02102",
         "title": "Darwin",
         "keywords": "Rompehielos - IA - Virus",
-        "text": "2[Credits]: Rompe una subrutina de hielo.\nX es la cantidad de contadores de virus que hay sobre Darwin.\nCuando comience tu turno, puedes pagar 1[Credits] para colocar 1 contador de virus sobre Darwin."
+        "text": "2[credit]: Rompe una subrutina de hielo.\nX es la cantidad de contadores de virus que hay sobre Darwin.\nCuando comience tu turno, puedes pagar 1[credit] para colocar 1 contador de virus sobre Darwin."
     },
     {
         "code": "02103",
         "title": "Inversión De Filtrado De Datos",
         "keywords": "Virtual - Sabotaje",
-        "text": "Instala esta carta sólo si has realizado una incursión con éxito contra un servidor central en este turno.\nSi estás marcado, Inversión De Filtrado De Datos gana \"[Click]: La Corporación destruye la carta superior de I+D.\"",
+        "text": "Instala esta carta sólo si has realizado una incursión con éxito contra un servidor central en este turno.\nSi estás marcado, Inversión De Filtrado De Datos gana \"[click]: La Corporación destruye la carta superior de I+D.\"",
         "flavor": "Una solución de doble sentido para un problema de sentido único. La inversión de filtrado de datos, o IFD, tiene un nombre poco apropiado. En realidad no se invierte nada, sólo se crea un enlace paralelo punto a punto con la fuente inicial."
     },
     {
         "code": "02104",
         "title": "Hada",
         "keywords": "Rompehielos - Asesino",
-        "text": "0[Credits]: Rompe una subrutina <strong>centinela</strong>.\n1[Credits]: +1 punto de fuerza.\nCuando termine un enfrentamiento con un hielo en el que usases Hada para romper una subrutina, destruye Hada.",
+        "text": "0[credit]: Rompe una subrutina <strong>centinela</strong>.\n1[credit]: +1 punto de fuerza.\nCuando termine un enfrentamiento con un hielo en el que usases Hada para romper una subrutina, destruye Hada.",
         "flavor": "¿Crees en las hadas?"
     },
     {
         "code": "02105",
         "title": "Sr. Li",
         "keywords": "Contacto",
-        "text": "[Click]: Roba 2 cartas. Añade 1 de estas cartas a la parte inferior de tu Montón.",
+        "text": "[click]: Roba 2 cartas. Añade 1 de estas cartas a la parte inferior de tu Montón.",
         "flavor": "\"Siempre estamos dispuestos a ayudar, Sr. Santiago.\" \"Se lo agradezco, Sr. Li.\" \"Estaremos en contacto. Y Gabriel...\" \"¿Si?\" \"No salgas de la ciudad.\""
     },
     {
@@ -55,28 +55,28 @@
         "code": "02109",
         "title": "Ayuntamiento De Nueva Ángeles",
         "keywords": "Ubicación - Gobiertno",
-        "text": "2[Credits]: Evita 1 marca.\nDestruye Ayuntamiento De Nueva Ángeles cuando robes un plan.",
+        "text": "2[credit]: Evita 1 marca.\nDestruye Ayuntamiento De Nueva Ángeles cuando robes un plan.",
         "flavor": "\"Nueva Ángeles es la joya de la civilización moderna, y su gobierno es la envidia de las naciones.\" - Wells, Ayuntamiento de Nueva Ángeles"
     },
     {
         "code": "02110",
         "title": "Eli 1.0",
         "keywords": "Barrera - Bioroide",
-        "text": "El Runner puede gastar [Click] para romper cualquier subrutina de Eli 1.0.\n[Subroutine] Termina la incursión.\n[Subroutine] Termina la incursión. ",
+        "text": "El Runner puede gastar [click] para romper cualquier subrutina de Eli 1.0.\n[subroutine] Termina la incursión.\n[subroutine] Termina la incursión. ",
         "flavor": "\"Va contra las reglas. Los creadores se enfadarán.\""
     },
     {
         "code": "02111",
         "title": "Valle Del Ruhr",
         "keywords": "Región",
-        "text": "Como coste adicional para realizar una incursión contra este servidor, el Runner debe gastar [Click].\nLímite de 1 <strong>región</strong> por servidor.",
+        "text": "Como coste adicional para realizar una incursión contra este servidor, el Runner debe gastar [click].\nLímite de 1 <strong>región</strong> por servidor.",
         "flavor": "Conocido por sus saltadores de lujo y un chucrut delicioso."
     },
     {
         "code": "02112",
         "title": "Ronin",
         "keywords": "Hostil",
-        "text": "Ronin puede ser avanzado.\nSi hay al menos 4 fichas de Avance sobre Ronin, gana \"[Click], [Trash]: Inflige 3 puntos de daño de red.\"",
+        "text": "Ronin puede ser avanzado.\nSi hay al menos 4 fichas de Avance sobre Ronin, gana \"[click], [trash]: Inflige 3 puntos de daño de red.\"",
         "flavor": "\"Te serviré... durante un tiempo.\""
     },
     {
@@ -108,7 +108,7 @@
         "code": "02117",
         "title": "Bengala",
         "keywords": "Centinela - Rastreador - AP",
-        "text": "[Subroutine] <trace>Rastreo 6</trace> Si tiene éxito, destruye 1 hardware, inflige 2 puntos de daño físico (no puede ser prevenido) y termina la incursión.",
+        "text": "[subroutine] <trace>Rastreo 6</trace> Si tiene éxito, destruye 1 hardware, inflige 2 puntos de daño físico (no puede ser prevenido) y termina la incursión.",
         "flavor": "Se encendió una brillante luz y la consola se apagó. Fue entonces cuando olió el humo."
     },
     {
@@ -122,14 +122,14 @@
         "code": "02119",
         "title": "Bichos De Burke",
         "keywords": "Centinela - Destructor",
-        "text": "[Subroutine] <trace>Rastreo 0</trace> Si tiene éxito, el Runner destruye 1 programa.",
+        "text": "[subroutine] <trace>Rastreo 0</trace> Si tiene éxito, el Runner destruye 1 programa.",
         "flavor": "\"Si tuviera que describir los bichos con una palabra, sería 'pu** incordio'.\""
     },
     {
         "code": "02120",
         "title": "Guerra Corporativa",
         "keywords": "Expansión",
-        "text": "Si tienes al menos 7[Credits] cuando puntúes Guerra Corporativa, gana 7[Credits]; Si no es así, pierde todos los créditos de tu reserva de créditos.",
+        "text": "Si tienes al menos 7[credit] cuando puntúes Guerra Corporativa, gana 7[credit]; Si no es así, pierde todos los créditos de tu reserva de créditos.",
         "flavor": "Había varias formas de ganar una guerra corporativa. Una de ellas era sacar los lanzamisiles."
     }
 ]

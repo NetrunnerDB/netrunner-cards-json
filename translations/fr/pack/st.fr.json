@@ -3,19 +3,19 @@
         "code": "04021",
         "title": "Bishop",
         "keywords": "Caïssa",
-        "text": "[Click]: Hébergez le Fou sur une glace qui n'héberge pas de <strong>Caïssa</strong>. S'il est déjà hébergé, le Fou ne peut être hébergé que sur une glace qui protège un serveur central si le Fou est sur une glace qui protège un serveur distant, ou sur une glace protégeant un serveur distant si le Fou est sur une glace protégeant un serveur central.\nLa glace hôte à -2 en force."
+        "text": "[click]: Hébergez le Fou sur une glace qui n'héberge pas de <strong>Caïssa</strong>. S'il est déjà hébergé, le Fou ne peut être hébergé que sur une glace qui protège un serveur central si le Fou est sur une glace qui protège un serveur distant, ou sur une glace protégeant un serveur distant si le Fou est sur une glace protégeant un serveur central.\nLa glace hôte à -2 en force."
     },
     {
         "code": "04022",
         "title": "Scheherazade",
         "keywords": "Démon",
-        "text": "Schéhérazade peut héberger n'importe quel nombre de programmes. (le coût en mémoire des programmes hébergés comptre dans votre limite de mémoire.)\nÀ chaque fois que vous installez un programme sur Schéhérazade, gagnez 1[Credits].",
+        "text": "Schéhérazade peut héberger n'importe quel nombre de programmes. (le coût en mémoire des programmes hébergés comptre dans votre limite de mémoire.)\nÀ chaque fois que vous installez un programme sur Schéhérazade, gagnez 1[credit].",
         "flavor": "Installer 1001 programmes vous ferait entrer au Panthéon des Pirates… si une telle institution existait."
     },
     {
         "code": "04023",
         "title": "En Plein Boulot",
-        "text": "Au début de votre tour, gagnez 2[Credits] et perdez 1[Click].",
+        "text": "Au début de votre tour, gagnez 2[credit] et perdez 1[click].",
         "flavor": "Noise avait décidé de retourner à l'école. Il avait postulé à des bourses de recherche dans quinze des plus prestigieuses universités. Qu'il avait ensuite piratées pour approuver ses candidatures. C'était l'heure du petit déjeuner."
     },
     {
@@ -35,14 +35,14 @@
         "code": "04026",
         "title": "Leviathan",
         "keywords": "Brise-glace - Décrypteur",
-        "text": "3[Credits]: Neutralisez jusqu'à 3 routines <strong>verrou</strong>.\n3[Credits]: force +5.",
+        "text": "3[credit]: Neutralisez jusqu'à 3 routines <strong>verrou</strong>.\n3[credit]: force +5.",
         "flavor": "C'est très efficace, pour certaines grandes valeurs d'«efficace». L'avatar de baleine est soit bien pensé, soit une regrettable interprétation des heures de programmation, selon la personne à qui vous posez la question - Comment briser la glace, par BT"
     },
     {
         "code": "04027",
         "title": "Eurêka!",
         "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cet événement.\nRévélez la première carte de votre pile. Vous pouvez installer cette carte en diminuant son coût d'installation de 10[Credits], si possible; sinon, effacez-la.",
+        "text": "Dépensez [click] comme coût additionnel pour jouer cet événement.\nRévélez la première carte de votre pile. Vous pouvez installer cette carte en diminuant son coût d'installation de 10[credit], si possible; sinon, effacez-la.",
         "flavor": "\"J'ai une surprise pour toi.\""
     },
     {
@@ -55,14 +55,14 @@
         "code": "04029",
         "title": "Vocopad Prépayé",
         "keywords": "Equipement",
-        "text": "1[Recurring Credits]\nN'utilisez ce crédit que pour payer des événements.",
+        "text": "1[recurring-credit]\nN'utilisez ce crédit que pour payer des événements.",
         "flavor": "Un VocoPAD est un appareil de connexion personnel dont on a enlevé la plupart des fonctions. Il sert surtout à faire des appels vocaux et à gérer vos contacts. La seule raison d'en avoir un est de vouloir rester anonyme, ce qui pour certaines personnes, est une raison bien suffisante."
     },
     {
         "code": "04030",
         "title": "Wotan",
         "keywords": "Barrière - Bioroïde",
-        "text": "[Subroutine] Arrêtez le piratage, sauf si le Runner dépense [Click][Click].\n[Subroutine] Arrêtez le piratage, sauf si le Runner paye 3[Credits].\n[Subroutine] Arrêtez le piratage, sauf si le Runner efface 1 programme installé.\n[Subroutine] Arrêtez le piratage, sauf si le Runner prend 1 dégât Neuro."
+        "text": "[subroutine] Arrêtez le piratage, sauf si le Runner dépense [click][click].\n[subroutine] Arrêtez le piratage, sauf si le Runner paye 3[credit].\n[subroutine] Arrêtez le piratage, sauf si le Runner efface 1 programme installé.\n[subroutine] Arrêtez le piratage, sauf si le Runner prend 1 dégât Neuro."
     },
     {
         "code": "04031",
@@ -81,21 +81,21 @@
         "code": "04033",
         "title": "Épéiste",
         "keywords": "Sentinelle - Destructeur - AP",
-        "text": "Le Runner ne peut pas utiliser de programme <strong>IA</strong> pour neutraliser les routine de l'Épéiste.\n[Subroutine] Effacez 1 programme <strong>IA</strong>.\n[Subroutine] Infligez 1 dégât Réseau.",
+        "text": "Le Runner ne peut pas utiliser de programme <strong>IA</strong> pour neutraliser les routine de l'Épéiste.\n[subroutine] Effacez 1 programme <strong>IA</strong>.\n[subroutine] Infligez 1 dégât Réseau.",
         "flavor": "Écrire un programme capable de passer le test de Turing est facile. Le test Gibson-Akamatsu est un peu plus relevé, et les seules IA à le réussir, pour le moment, sont celles des androïdes. Il parait que même certains humains l'ont raté."
     },
     {
         "code": "04034",
         "title": "Livraison de SanSan",
         "keywords": "Double",
-        "text": "Dépensez [Click] comme coût additionnel pour jouer cette opération.\nMettez jusqu'à 2 pions Avancement sur une carte qui peut être avancée.",
+        "text": "Dépensez [click] comme coût additionnel pour jouer cette opération.\nMettez jusqu'à 2 pions Avancement sur une carte qui peut être avancée.",
         "flavor": "Il signa le reçu, les mains tremblantes d'impatience."
     },
     {
         "code": "04035",
         "title": "Fouineur",
         "keywords": "Sentinelle - Traqueur - Illicite",
-        "text": "Lorsque vous activez le Fouineur, prenez 1 pion Mauvaise Presse.\n[Subroutine] <trace>Traque 1</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[Subroutine] <trace>Traque 2</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[Subroutine] <trace>Traque 3</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[Subroutine] Arrêtez le piratage si le Runner est tagué."
+        "text": "Lorsque vous activez le Fouineur, prenez 1 pion Mauvaise Presse.\n[subroutine] <trace>Traque 1</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] <trace>Traque 2</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] <trace>Traque 3</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] Arrêtez le piratage si le Runner est tagué."
     },
     {
         "code": "04036",
@@ -108,7 +108,7 @@
         "code": "04037",
         "title": "Elizabeth Mills",
         "keywords": "Cadre",
-        "text": "Lorsque vous activez Elizabeth Mills, retirez 1 pion Mauvaise Presse.\n[Click], [Trash]: Effacez 1 <strong>lieu</strong>. Prenez 1 pion Mauvaise Presse.",
+        "text": "Lorsque vous activez Elizabeth Mills, retirez 1 pion Mauvaise Presse.\n[click], [trash]: Effacez 1 <strong>lieu</strong>. Prenez 1 pion Mauvaise Presse.",
         "flavor": "\"Ça n'a rien de personnel. La réhabilitation urbaine est une nécessité du monde moderne. C'est toujours la maison de quelqu'un, la vôtre ne fait pas exception.\""
     },
     {
@@ -119,14 +119,14 @@
     {
         "code": "04039",
         "title": "Affairisme",
-        "text": "Lorsque vous finalisez Affairisme, prenez jusqu'à 3 pions Mauvaise Presse. Gagnez 5[Credits] pour chaque pion Mauvaise Presse pris.",
+        "text": "Lorsque vous finalisez Affairisme, prenez jusqu'à 3 pions Mauvaise Presse. Gagnez 5[credit] pour chaque pion Mauvaise Presse pris.",
         "flavor": "C'était étonnament facile de faire des créds… si vous ne vous souciiez pas de la facon dont vous les faisiez."
     },
     {
         "code": "04040",
         "title": "Restructuration",
         "keywords": "Transaction",
-        "text": "Gagnez 15[Credits].",
+        "text": "Gagnez 15[credit].",
         "flavor": "Il y a pas mal de noms pour ceux qui travaillent dans le Département de la Direction. Mais, si tu aimes ton boulot, tu les appelles simplement \"monsieur\" ou \"m'dame\"."
     }
 ]

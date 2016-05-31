@@ -48,7 +48,7 @@
         "position": 3,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first time you lose [Click] each turn, gain [Click].",
+        "text": "The first time you lose [click] each turn, gain [click].",
         "title": "Adjusted Chronotype",
         "type_code": "resource",
         "uniqueness": true
@@ -67,7 +67,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "If you have at least 2[Link], the memory cost of Spike is 0, even if it is not installed.\nSpike has +1 strength for each installed <strong>icebreaker</strong>.\n[Trash]: Break up to 3 <strong>barrier</strong> subroutines.",
+        "text": "If you have at least 2[link], the memory cost of Spike is 0, even if it is not installed.\nSpike has +1 strength for each installed <strong>icebreaker</strong>.\n[trash]: Break up to 3 <strong>barrier</strong> subroutines.",
         "title": "Spike",
         "type_code": "program",
         "uniqueness": false
@@ -154,7 +154,7 @@
         "position": 9,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first time you spend [Click] to draw 1 card (not through a card ability) each turn, gain 1[Credits].",
+        "text": "The first time you spend [click] to draw 1 card (not through a card ability) each turn, gain 1[credit].",
         "title": "Symmetrical Visage",
         "type_code": "resource",
         "uniqueness": true
@@ -192,7 +192,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "X is the number of rezzed <strong>NEXT</strong> ice.\n[Subroutine] Do X net damage.\n[Subroutine] Trash X programs.",
+        "text": "X is the number of rezzed <strong>NEXT</strong> ice.\n[subroutine] Do X net damage.\n[subroutine] Trash X programs.",
         "title": "NEXT Gold",
         "type_code": "ice",
         "uniqueness": false
@@ -209,7 +209,7 @@
         "position": 12,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Before taking your first turn, you may swap this card with any copy of Jinteki Biotech.\n[Click],[Click],[Click]: Flip this identity.\nThe Brewery: When you flip this identity, do 2 net damage.\nThe Tank: When you flip this identity, shuffle Archives into R&D.\nThe Greenhouse: When you flip this identity, place 4 advancement tokens on a card that can be advanced.",
+        "text": "Before taking your first turn, you may swap this card with any copy of Jinteki Biotech.\n[click],[click],[click]: Flip this identity.\nThe Brewery: When you flip this identity, do 2 net damage.\nThe Tank: When you flip this identity, shuffle Archives into R&D.\nThe Greenhouse: When you flip this identity, place 4 advancement tokens on a card that can be advanced.",
         "title": "Jinteki Biotech: Life Imagined",
         "type_code": "identity",
         "uniqueness": false
@@ -245,7 +245,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] Do 1 net damage for each unused MU the Runner has.",
+        "text": "[subroutine] Do 1 net damage for each unused MU the Runner has.",
         "title": "Cortex Lock",
         "type_code": "ice",
         "uniqueness": false
@@ -282,7 +282,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag.",
+        "text": "[subroutine] Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag.",
         "title": "Bandwidth",
         "type_code": "ice",
         "uniqueness": false
@@ -299,7 +299,7 @@
         "position": 17,
         "quantity": 3,
         "side_code": "corp",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to steal an agenda, the Runner must pay 2[Credits].",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to steal an agenda, the Runner must pay 2[credit].",
         "title": "Predictive Algorithm",
         "type_code": "operation",
         "uniqueness": false
@@ -316,7 +316,7 @@
         "position": 18,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: Gain 2[Credits].",
+        "text": "[click]: Gain 2[credit].",
         "title": "Capital Investors",
         "trash_cost": 2,
         "type_code": "asset",
@@ -336,7 +336,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "The Runner can pay 2[Credits] to break any subroutine on Negotiator.\n[Subroutine] The Corp gains 2[Credits].\n[Subroutine] Trash 1 program.",
+        "text": "The Runner can pay 2[credit] to break any subroutine on Negotiator.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trash 1 program.",
         "title": "Negotiator",
         "type_code": "ice",
         "uniqueness": false

@@ -3,14 +3,14 @@
         "code": "02001",
         "title": "Magik: Mistrz gry",
         "keywords": "Normalny",
-        "text": "3[Recurring Credits]\nUżyj tych kredytów do kasowania kart.",
+        "text": "3[recurring-credit]\nUżyj tych kredytów do kasowania kart.",
         "flavor": "\"Skok to najwspanialsza gra, a ja ustalam w niej wszelkie reguły.\""
     },
     {
         "code": "02002",
         "title": "Modem kręgowy",
         "keywords": "Konsola",
-        "text": "+1[Memory Unit], 2[Recurring Credits]\nUżyj tych kredytów do opłacania użycia <strong>lodołamaczy</strong>.\nZawsze, gdy namierzanie podczas skoku jest udane, otrzymujesz 1 obrażenie mózgu.\nLimit 1 <strong>konsoli</strong> na gracza."
+        "text": "+1[mu], 2[recurring-credit]\nUżyj tych kredytów do opłacania użycia <strong>lodołamaczy</strong>.\nZawsze, gdy namierzanie podczas skoku jest udane, otrzymujesz 1 obrażenie mózgu.\nLimit 1 <strong>konsoli</strong> na gracza."
     },
     {
         "code": "02003",
@@ -23,35 +23,35 @@
         "code": "02004",
         "title": "Gwiazda poranna",
         "keywords": "Lodołamacz - Młot",
-        "text": "1[Credits]: Złam dowolną liczbę podprogramów <strong>bariery</strong>.",
+        "text": "1[credit]: Złam dowolną liczbę podprogramów <strong>bariery</strong>.",
         "flavor": "Uzbroić niebo, jedną gwiazdę po drugiej."
     },
     {
         "code": "02005",
         "title": "Chip Corteza",
         "keywords": "Chip",
-        "text": "[Trash]: Wybierz lód. Do końca tury korp musi zapłacić dodatkowo 2[Credits] aby zrezować ten lód.",
+        "text": "[trash]: Wybierz lód. Do końca tury korp musi zapłacić dodatkowo 2[credit] aby zrezować ten lód.",
         "flavor": "Nazwany od nazwiska Hernando Corteza, byłego technika Weylanda, skazanego za kradzież firmowych technologii. W więzieniu nadal otrzymywał pensję, będąc ostatnim, który wykorzystał lukę w standardowej umowie o pracę w Weyland."
     },
     {
         "code": "02006",
         "title": "Paw",
         "keywords": "Lodołamacz - Dekoder",
-        "text": "2[Credits]: Złam podprogram <strong>bramy kodowej</strong>.\n2[Credits]: +3 siły.",
+        "text": "2[credit]: Złam podprogram <strong>bramy kodowej</strong>.\n2[credit]: +3 siły.",
         "flavor": "Szpaner."
     },
     {
         "code": "02007",
         "title": "Klucznik ZU.13",
         "keywords": "Lodołamacz - Dekoder - Chmura",
-        "text": "Jeśli masz przynajmniej 2[Link], wymagania pamięciowe Klucznika ZU.13 wynoszą 0, nawet jeśli nie jest zainstalowany.\n1[Credits]: Złam podprogram <strong>bramy kodowej</strong>.\n1[Credits]: +1 siły.",
+        "text": "Jeśli masz przynajmniej 2[link], wymagania pamięciowe Klucznika ZU.13 wynoszą 0, nawet jeśli nie jest zainstalowany.\n1[credit]: Złam podprogram <strong>bramy kodowej</strong>.\n1[credit]: +1 siły.",
         "flavor": "Zawsze używa tego samego klucza."
     },
     {
         "code": "02008",
         "title": "Pomocna AI",
         "keywords": "Kontakt - Połączenie - Wirtualna",
-        "text": "+1[Link]\n[Trash]: Wybierz <strong>lodołamacz</strong>. Ten <strong>lodołamacz</strong> ma +2 siły do końca tury.",
+        "text": "+1[link]\n[trash]: Wybierz <strong>lodołamacz</strong>. Ten <strong>lodołamacz</strong> ma +2 siły do końca tury.",
         "flavor": "\"Co sprawia, że Sztuczna Inteligencja zwraca się przeciw swemu panu? Czy jej polecenia zostały zmienione przez jakieś zewnętrzne źródło? Czy może, dając jej zdolność adaptacji, sami uczyniliśmy z niej buntownika?\" - Emilio Harris, Twórcy i stworzeni"
     },
     {
@@ -71,14 +71,14 @@
         "code": "02011",
         "title": "Obowiązkowy upgrade",
         "keywords": "Inicjatywa",
-        "text": "W każdej turze masz do wydania 1 dodatkowy [Click].",
+        "text": "W każdej turze masz do wydania 1 dodatkowy [click].",
         "flavor": "Przegląd pracowników trwał czasami nieco dłużej, niż oczekiwano."
     },
     {
         "code": "02012",
         "title": "Janus 1.0",
         "keywords": "Strażnik - Bioroid - AP",
-        "text": "Runner może wydać [Click], by złamać dowolny podprogram Janusa 1.0.\n[Subroutine] Zadaj 1 obrażenie mózgu.\n[Subroutine] Zadaj 1 obrażenie mózgu.\n[Subroutine] Zadaj 1 obrażenie mózgu.\n[Subroutine] Zadaj 1 obrażenie mózgu.",
+        "text": "Runner może wydać [click], by złamać dowolny podprogram Janusa 1.0.\n[subroutine] Zadaj 1 obrażenie mózgu.\n[subroutine] Zadaj 1 obrażenie mózgu.\n[subroutine] Zadaj 1 obrażenie mózgu.\n[subroutine] Zadaj 1 obrażenie mózgu.",
         "flavor": "Staw czoła swoim lękom."
     },
     {
@@ -98,21 +98,21 @@
         "code": "02015",
         "title": "Płatek śniegu",
         "keywords": "Bariera - Psi",
-        "text": "[Subroutine] Ty i runner w tajemnicy wydajecie 0[Credits], 1[Credits] lub 2[Credits]. Ujawnijcie wydane kredyty. Zakończ skok, jeśli ty i runner wydaliście różną liczbę kredytów.",
+        "text": "[subroutine] Ty i runner w tajemnicy wydajecie 0[credit], 1[credit] lub 2[credit]. Ujawnijcie wydane kredyty. Zakończ skok, jeśli ty i runner wydaliście różną liczbę kredytów.",
         "flavor": "Niepowtarzalność bywa przeceniana."
     },
     {
         "code": "02016",
         "title": "Przeorganizowany magazyn danych",
         "keywords": "Inicjatywa",
-        "text": "[Click]: <trace>Trace 2</trace> Jeśli udane, daj runnerowi 1 tag.",
+        "text": "[click]: <trace>Trace 2</trace> Jeśli udane, daj runnerowi 1 tag.",
         "flavor": "\"Będziemy potrzebować większego pomieszczenia.\""
     },
     {
         "code": "02017",
         "title": "Nadmiar szczegółów",
         "keywords": "Bariera",
-        "text": "Gdy rezujesz Nadmiar szczegółów, <trace>Trace 2</trace> jeśli nieudane, odrezuj Nadmiar szczegółów.\n[Subroutine] Zakończ skok.",
+        "text": "Gdy rezujesz Nadmiar szczegółów, <trace>Trace 2</trace> jeśli nieudane, odrezuj Nadmiar szczegółów.\n[subroutine] Zakończ skok.",
         "flavor": "Zbiór porzuconych cyberśmieci. Ale nie pozostaną śmieciami zbyt długo."
     },
     {
@@ -125,14 +125,14 @@
         "code": "02019",
         "title": "Kaduceusz",
         "keywords": "Strażnik - Tropiciel",
-        "text": "[Subroutine] <trace>Trace 3</trace> Jeśli udane, korp pobiera 3[Credits].\n[Subroutine] <trace>Trace 2</trace> Jeśli udane, zakończ skok.",
+        "text": "[subroutine] <trace>Trace 3</trace> Jeśli udane, korp pobiera 3[credit].\n[subroutine] <trace>Trace 2</trace> Jeśli udane, zakończ skok.",
         "flavor": "Symbol handlu, ale uważaj na jego zęby."
     },
     {
         "code": "02020",
         "title": "Dracō",
         "keywords": "Strażnik - Tropiciel",
-        "text": "Gdy rezujesz Dracō, możesz zapłacić X[Credits], aby umieścić na nim X znaczników zasilania.\nDracō ma +1 siły za każdy leżący na nim znacznik zasilania.\n[Subroutine] <trace>Trace 2</trace> Jeśli jest udane, daj runnerowi 1 tag i zakończ skok.",
+        "text": "Gdy rezujesz Dracō, możesz zapłacić X[credit], aby umieścić na nim X znaczników zasilania.\nDracō ma +1 siły za każdy leżący na nim znacznik zasilania.\n[subroutine] <trace>Trace 2</trace> Jeśli jest udane, daj runnerowi 1 tag i zakończ skok.",
         "flavor": "Victos dracones numquam deride."
     }
 ]

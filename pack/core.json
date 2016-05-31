@@ -65,7 +65,7 @@
         "position": 4,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Make a run, and gain 9[Credits], which you may use only during this run. After the run is completed, suffer 1 brain damage (cannot be prevented) and return to the bank any of the 9[Credits] not spent.",
+        "text": "Make a run, and gain 9[credit], which you may use only during this run. After the run is completed, suffer 1 brain damage (cannot be prevented) and return to the bank any of the 9[credit] not spent.",
         "title": "Stimhack",
         "type_code": "event",
         "uniqueness": false
@@ -83,7 +83,7 @@
         "position": 5,
         "quantity": 3,
         "side_code": "runner",
-        "text": "1[Recurring Credits]\nUse this credit to pay for using <strong>icebreakers</strong> or for installing <strong>virus</strong> programs.",
+        "text": "1[recurring-credit]\nUse this credit to pay for using <strong>icebreakers</strong> or for installing <strong>virus</strong> programs.",
         "title": "Cyberfeeder",
         "type_code": "hardware",
         "uniqueness": false
@@ -101,7 +101,7 @@
         "position": 6,
         "quantity": 1,
         "side_code": "runner",
-        "text": "+2[Memory Unit]\nWhenever you install a <strong>virus</strong> program, place 1 virus counter on that program.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+2[mu]\nWhenever you install a <strong>virus</strong> program, place 1 virus counter on that program.\nLimit 1 <strong>console</strong> per player.",
         "title": "Grimoire",
         "type_code": "hardware",
         "uniqueness": true
@@ -121,7 +121,7 @@
         "quantity": 2,
         "side_code": "runner",
         "strength": 2,
-        "text": "1[Credits]: Break <strong>barrier</strong> subroutine.\n1[Credits]: +1 strength.",
+        "text": "1[credit]: Break <strong>barrier</strong> subroutine.\n1[credit]: +1 strength.",
         "title": "Corroder",
         "type_code": "program",
         "uniqueness": false
@@ -157,7 +157,7 @@
         "position": 9,
         "quantity": 2,
         "side_code": "runner",
-        "text": "Djinn can host up to 3[Memory Unit] of non-<strong>icebreaker</strong> programs.\nThe memory costs of hosted programs do not count against your memory limit.\n[Click], 1[Credits]: Search your stack for a <strong>virus</strong> program, reveal it, and add it to your grip. Shuffle your stack.",
+        "text": "Djinn can host up to 3[mu] of non-<strong>icebreaker</strong> programs.\nThe memory costs of hosted programs do not count against your memory limit.\n[click], 1[credit]: Search your stack for a <strong>virus</strong> program, reveal it, and add it to your grip. Shuffle your stack.",
         "title": "Djinn",
         "type_code": "program",
         "uniqueness": false
@@ -196,7 +196,7 @@
         "quantity": 2,
         "side_code": "runner",
         "strength": 3,
-        "text": "1[Credits]: Break <strong>sentry</strong> subroutine.",
+        "text": "1[credit]: Break <strong>sentry</strong> subroutine.",
         "title": "Mimic",
         "type_code": "program",
         "uniqueness": false
@@ -234,7 +234,7 @@
         "quantity": 2,
         "side_code": "runner",
         "strength": 1,
-        "text": "3[Credits]: Break ice subroutine on a piece of ice with 0 or less strength.\n1[Credits]: Ice has -1 strength.\n1[Credits]: +1 strength.",
+        "text": "3[credit]: Break ice subroutine on a piece of ice with 0 or less strength.\n1[credit]: Ice has -1 strength.\n1[credit]: +1 strength.",
         "title": "Wyrm",
         "type_code": "program",
         "uniqueness": false
@@ -254,7 +254,7 @@
         "quantity": 2,
         "side_code": "runner",
         "strength": 3,
-        "text": "0[Credits]: Break <strong>code gate</strong> subroutine.",
+        "text": "0[credit]: Break <strong>code gate</strong> subroutine.",
         "title": "Yog.0",
         "type_code": "program",
         "uniqueness": false
@@ -290,7 +290,7 @@
         "position": 16,
         "quantity": 2,
         "side_code": "runner",
-        "text": "When your turn begins, draw 2 cards and lose [Click].",
+        "text": "When your turn begins, draw 2 cards and lose [click].",
         "title": "Wyldside",
         "type_code": "resource",
         "uniqueness": true
@@ -309,7 +309,7 @@
         "position": 17,
         "quantity": 1,
         "side_code": "runner",
-        "text": "The first time you make a successful run on HQ each turn, gain 2[Credits].",
+        "text": "The first time you make a successful run on HQ each turn, gain 2[credit].",
         "title": "Gabriel Santiago: Consummate Professional",
         "type_code": "identity",
         "uniqueness": false
@@ -326,7 +326,7 @@
         "position": 18,
         "quantity": 2,
         "side_code": "runner",
-        "text": "Make a run on HQ. If successful, instead of accessing cards you may force the Corp to lose up to 5[Credits], then you gain 2[Credits] for each credit lost and take 2 tags.",
+        "text": "Make a run on HQ. If successful, instead of accessing cards you may force the Corp to lose up to 5[credit], then you gain 2[credit] for each credit lost and take 2 tags.",
         "title": "Account Siphon",
         "type_code": "event",
         "uniqueness": false
@@ -344,7 +344,7 @@
         "position": 19,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Gain 3[Credits].",
+        "text": "Gain 3[credit].",
         "title": "Easy Mark",
         "type_code": "event",
         "uniqueness": false
@@ -414,7 +414,7 @@
         "position": 23,
         "quantity": 2,
         "side_code": "runner",
-        "text": "[Click], 1[Credits]: Expose 1 card. Use this ability only if you have made a successful run on HQ this turn.",
+        "text": "[click], 1[credit]: Expose 1 card. Use this ability only if you have made a successful run on HQ this turn.",
         "title": "Lemuria Codecracker",
         "type_code": "hardware",
         "uniqueness": false
@@ -431,7 +431,7 @@
         "position": 24,
         "quantity": 1,
         "side_code": "runner",
-        "text": "+1[Memory Unit]\nGain 1[Credits] whenever you make a successful run.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+1[mu]\nGain 1[credit] whenever you make a successful run.\nLimit 1 <strong>console</strong> per player.",
         "title": "Desperado",
         "type_code": "hardware",
         "uniqueness": true
@@ -450,7 +450,7 @@
         "quantity": 2,
         "side_code": "runner",
         "strength": 1,
-        "text": "2[Credits]: Break <strong>barrier</strong> subroutine.\n2[Credits]: +3 strength.",
+        "text": "2[credit]: Break <strong>barrier</strong> subroutine.\n2[credit]: +3 strength.",
         "title": "Aurora",
         "type_code": "program",
         "uniqueness": false
@@ -469,7 +469,7 @@
         "quantity": 2,
         "side_code": "runner",
         "strength": 2,
-        "text": "1[Credits]: Break <strong>sentry</strong> subroutine.\n2[Credits]: +1 strength.\nWhen you install Femme Fatale, choose an installed piece of ice. When you encounter that ice, you may pay 1[Credits] per subroutine on that ice to bypass it.",
+        "text": "1[credit]: Break <strong>sentry</strong> subroutine.\n2[credit]: +1 strength.\nWhen you install Femme Fatale, choose an installed piece of ice. When you encounter that ice, you may pay 1[credit] per subroutine on that ice to bypass it.",
         "title": "Femme Fatale",
         "type_code": "program",
         "uniqueness": false
@@ -489,7 +489,7 @@
         "quantity": 2,
         "side_code": "runner",
         "strength": 0,
-        "text": "1[Credits]: Break <strong>sentry</strong> subroutine.\n3[Credits]: +5 strength.",
+        "text": "1[credit]: Break <strong>sentry</strong> subroutine.\n3[credit]: +5 strength.",
         "title": "Ninja",
         "type_code": "program",
         "uniqueness": false
@@ -507,7 +507,7 @@
         "position": 28,
         "quantity": 2,
         "side_code": "runner",
-        "text": "[Click]: Make a run on Archives. If successful, instead treat it as a successful run on HQ.",
+        "text": "[click]: Make a run on Archives. If successful, instead treat it as a successful run on HQ.",
         "title": "Sneakdoor Beta",
         "type_code": "program",
         "uniqueness": false
@@ -524,7 +524,7 @@
         "position": 29,
         "quantity": 2,
         "side_code": "runner",
-        "text": "Place 8[Credits] from the bank on Bank Job when it is installed. When there are no credits left on Bank Job, trash it.\nWhenever you make a successful run on a remote server, instead of accessing cards you may take any number of credits from Bank Job.",
+        "text": "Place 8[credit] from the bank on Bank Job when it is installed. When there are no credits left on Bank Job, trash it.\nWhenever you make a successful run on a remote server, instead of accessing cards you may take any number of credits from Bank Job.",
         "title": "Bank Job",
         "type_code": "resource",
         "uniqueness": false
@@ -542,7 +542,7 @@
         "position": 30,
         "quantity": 2,
         "side_code": "runner",
-        "text": "2[Recurring Credits]\nUse these credits to pay for removing tags.\n[Trash]: Prevent up to 3 meat damage.",
+        "text": "2[recurring-credit]\nUse these credits to pay for removing tags.\n[trash]: Prevent up to 3 meat damage.",
         "title": "Crash Space",
         "type_code": "resource",
         "uniqueness": false
@@ -560,7 +560,7 @@
         "position": 31,
         "quantity": 1,
         "side_code": "runner",
-        "text": "<strong>Forfeit an agenda,</strong> [Click]: Gain 9[Credits].",
+        "text": "<strong>Forfeit an agenda,</strong> [click]: Gain 9[credit].",
         "title": "Data Dealer",
         "type_code": "resource",
         "uniqueness": false
@@ -578,7 +578,7 @@
         "position": 32,
         "quantity": 2,
         "side_code": "runner",
-        "text": "[Trash]: Avoid receiving 1 tag.",
+        "text": "[trash]: Avoid receiving 1 tag.",
         "title": "Decoy",
         "type_code": "resource",
         "uniqueness": false
@@ -686,7 +686,7 @@
         "position": 38,
         "quantity": 2,
         "side_code": "runner",
-        "text": "+1[Memory Unit]",
+        "text": "+1[mu]",
         "title": "Akamatsu Mem Chip",
         "type_code": "hardware",
         "uniqueness": false
@@ -704,7 +704,7 @@
         "position": 39,
         "quantity": 2,
         "side_code": "runner",
-        "text": "+1[Link]\nWhen Rabbit Hole is installed, you may search your stack for another copy of Rabbit Hole and install it by paying its install cost. Shuffle your stack.",
+        "text": "+1[link]\nWhen Rabbit Hole is installed, you may search your stack for another copy of Rabbit Hole and install it by paying its install cost. Shuffle your stack.",
         "title": "Rabbit Hole",
         "type_code": "hardware",
         "uniqueness": false
@@ -739,7 +739,7 @@
         "position": 41,
         "quantity": 1,
         "side_code": "runner",
-        "text": "+2[Memory Unit] +2[Link]\n2[Recurring Credits]\nUse the credits to pay for using <strong>icebreakers.</strong>\nLimit 1 <strong>console</strong> per player.",
+        "text": "+2[mu] +2[link]\n2[recurring-credit]\nUse the credits to pay for using <strong>icebreakers.</strong>\nLimit 1 <strong>console</strong> per player.",
         "title": "The Toolbox",
         "type_code": "hardware",
         "uniqueness": true
@@ -759,7 +759,7 @@
         "quantity": 2,
         "side_code": "runner",
         "strength": 3,
-        "text": "2[Credits]: Break up to 2 <strong>barrier</strong> subroutines.\n1[Credits]: +1 strength for the remainder of this run.",
+        "text": "2[credit]: Break up to 2 <strong>barrier</strong> subroutines.\n1[credit]: +1 strength for the remainder of this run.",
         "title": "Battering Ram",
         "type_code": "program",
         "uniqueness": false
@@ -779,7 +779,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "1[Credits]: Break <strong>code gate</strong> subroutine.\n1[Credits]: +1 strength for the remainder of this run.",
+        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength for the remainder of this run.",
         "title": "Gordian Blade",
         "type_code": "program",
         "uniqueness": false
@@ -797,7 +797,7 @@
         "position": 44,
         "quantity": 2,
         "side_code": "runner",
-        "text": "[Click]: Gain 2[Credits].",
+        "text": "[click]: Gain 2[credit].",
         "title": "Magnum Opus",
         "type_code": "program",
         "uniqueness": false
@@ -815,7 +815,7 @@
         "position": 45,
         "quantity": 2,
         "side_code": "runner",
-        "text": "1[Credits]: Prevent the first net damage this turn.",
+        "text": "1[credit]: Prevent the first net damage this turn.",
         "title": "Net Shield",
         "type_code": "program",
         "uniqueness": false
@@ -834,7 +834,7 @@
         "quantity": 2,
         "side_code": "runner",
         "strength": 1,
-        "text": "1[Credits]: Break <strong>sentry</strong> subroutine.\n2[Credits]: +1 strength for the remainder of this run.",
+        "text": "1[credit]: Break <strong>sentry</strong> subroutine.\n2[credit]: +1 strength for the remainder of this run.",
         "title": "Pipeline",
         "type_code": "program",
         "uniqueness": false
@@ -852,7 +852,7 @@
         "position": 47,
         "quantity": 1,
         "side_code": "runner",
-        "text": "When your turn begins, you may trash another of your installed cards to gain 3[Credits].",
+        "text": "When your turn begins, you may trash another of your installed cards to gain 3[credit].",
         "title": "Aesop's Pawnshop",
         "type_code": "resource",
         "uniqueness": true
@@ -870,7 +870,7 @@
         "position": 48,
         "quantity": 2,
         "side_code": "runner",
-        "text": "[Trash]: Prevent an installed program or an installed piece of hardware from being trashed.",
+        "text": "[trash]: Prevent an installed program or an installed piece of hardware from being trashed.",
         "title": "Sacrificial Construct",
         "type_code": "resource",
         "uniqueness": false
@@ -887,7 +887,7 @@
         "position": 49,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Gain 2[Credits] or expose 1 card.",
+        "text": "Gain 2[credit] or expose 1 card.",
         "title": "Infiltration",
         "type_code": "event",
         "uniqueness": false
@@ -904,7 +904,7 @@
         "position": 50,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Gain 9[Credits].",
+        "text": "Gain 9[credit].",
         "title": "Sure Gamble",
         "type_code": "event",
         "uniqueness": false
@@ -923,7 +923,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "1[Credits]: Break ice subroutine.\n1[Credits]: +1 strength.\n[Click]: Place 1 virus counter on Crypsis.\nWhen an encounter with a piece of ice in which you used Crypsis to break a subroutine ends, remove 1 hosted virus counter or trash Crypsis.",
+        "text": "1[credit]: Break ice subroutine.\n1[credit]: +1 strength.\n[click]: Place 1 virus counter on Crypsis.\nWhen an encounter with a piece of ice in which you used Crypsis to break a subroutine ends, remove 1 hosted virus counter or trash Crypsis.",
         "title": "Crypsis",
         "type_code": "program",
         "uniqueness": false
@@ -941,7 +941,7 @@
         "position": 52,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Link]",
+        "text": "+1[link]",
         "title": "Access to Globalsec",
         "type_code": "resource",
         "uniqueness": false
@@ -959,7 +959,7 @@
         "position": 53,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Place 12[Credits] from the bank on Armitage Codebusting when it is installed. When there are no credits left on Armitage Codebusting, trash it.\n\n[Click]: Take 2[Credits] from Armitage Codebusting.",
+        "text": "Place 12[credit] from the bank on Armitage Codebusting when it is installed. When there are no credits left on Armitage Codebusting, trash it.\n\n[click]: Take 2[credit] from Armitage Codebusting.",
         "title": "Armitage Codebusting",
         "type_code": "resource",
         "uniqueness": false
@@ -976,7 +976,7 @@
         "position": 54,
         "quantity": 1,
         "side_code": "corp",
-        "text": "The first time you install a card each turn, gain 1[Credits].",
+        "text": "The first time you install a card each turn, gain 1[credit].",
         "title": "Haas-Bioroid: Engineering the Future",
         "type_code": "identity",
         "uniqueness": false
@@ -1010,7 +1010,7 @@
         "position": 56,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Put 12[Credits] from the bank on Adonis Campaign when rezzed. When there are no credits left on Adonis Campaign, trash it.\nTake 3[Credits] from Adonis Campaign when your turn begins.",
+        "text": "Put 12[credit] from the bank on Adonis Campaign when rezzed. When there are no credits left on Adonis Campaign, trash it.\nTake 3[credit] from Adonis Campaign when your turn begins.",
         "title": "Adonis Campaign",
         "trash_cost": 3,
         "type_code": "asset",
@@ -1028,7 +1028,7 @@
         "position": 57,
         "quantity": 2,
         "side_code": "corp",
-        "text": "Aggressive Secretary can be advanced.\nIf you pay 2[Credits] when the Runner accesses Aggressive Secretary, trash 1 program for each advancement token on Aggressive Secretary.",
+        "text": "Aggressive Secretary can be advanced.\nIf you pay 2[credit] when the Runner accesses Aggressive Secretary, trash 1 program for each advancement token on Aggressive Secretary.",
         "title": "Aggressive Secretary",
         "trash_cost": 0,
         "type_code": "asset",
@@ -1063,7 +1063,7 @@
         "position": 59,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain [Click][Click].",
+        "text": "Gain [click][click].",
         "title": "Biotic Labor",
         "type_code": "operation",
         "uniqueness": false
@@ -1099,7 +1099,7 @@
         "quantity": 2,
         "side_code": "corp",
         "strength": 6,
-        "text": "The Runner can spend [Click] to break any subroutine on Heimdall 1.0.\n[Subroutine] Do 1 brain damage.\n[Subroutine] End the run.\n[Subroutine] End the run.",
+        "text": "The Runner can spend [click] to break any subroutine on Heimdall 1.0.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.\n[subroutine] End the run.",
         "title": "Heimdall 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -1118,7 +1118,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "The Runner can spend [Click] to break any subroutine on Ichi 1.0.\n[Subroutine] Trash 1 program.\n[Subroutine] Trash 1 program.\n[Subroutine] <trace>Trace 1</trace> If successful, give the Runner 1 tag and do 1 brain damage.",
+        "text": "The Runner can spend [click] to break any subroutine on Ichi 1.0.\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 program.\n[subroutine] <trace>Trace 1</trace> If successful, give the Runner 1 tag and do 1 brain damage.",
         "title": "Ichi 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -1137,7 +1137,7 @@
         "quantity": 2,
         "side_code": "corp",
         "strength": 3,
-        "text": "The Runner can spend [Click] to break any subroutine on Viktor 1.0.\n[Subroutine] Do 1 brain damage.\n[Subroutine] End the run.",
+        "text": "The Runner can spend [click] to break any subroutine on Viktor 1.0.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.",
         "title": "Viktor 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -1156,7 +1156,7 @@
         "quantity": 2,
         "side_code": "corp",
         "strength": 0,
-        "text": "[Subroutine] Trash 1 program.\n[Subroutine] End the run.",
+        "text": "[subroutine] Trash 1 program.\n[subroutine] End the run.",
         "title": "Rototurret",
         "type_code": "ice",
         "uniqueness": false
@@ -1174,7 +1174,7 @@
         "position": 65,
         "quantity": 1,
         "side_code": "corp",
-        "text": "X[Credits], [Trash]: Choose a piece of rezzed ice protecting this server. That ice has +X strength until the end of the turn.",
+        "text": "X[credit], [trash]: Choose a piece of rezzed ice protecting this server. That ice has +X strength until the end of the turn.",
         "title": "Corporate Troubleshooter",
         "trash_cost": 2,
         "type_code": "upgrade",
@@ -1244,7 +1244,7 @@
         "position": 69,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Project Junebug can be advanced.\nIf you pay 1[Credits] when the Runner accesses Project Junebug, do 2 net damage for each advancement token on Project Junebug.",
+        "text": "Project Junebug can be advanced.\nIf you pay 1[credit] when the Runner accesses Project Junebug, do 2 net damage for each advancement token on Project Junebug.",
         "title": "Project Junebug",
         "trash_cost": 0,
         "type_code": "asset",
@@ -1262,7 +1262,7 @@
         "position": 70,
         "quantity": 3,
         "side_code": "corp",
-        "text": "If Snare! is accessed from R&D, the Runner must reveal it.\n\nIf you pay 4[Credits] when the Runner accesses Snare!, do 3 net damage and give the Runner 1 tag. Ignore this effect if the Runner accesses Snare! from Archives.",
+        "text": "If Snare! is accessed from R&D, the Runner must reveal it.\n\nIf you pay 4[credit] when the Runner accesses Snare!, do 3 net damage and give the Runner 1 tag. Ignore this effect if the Runner accesses Snare! from Archives.",
         "title": "Snare!",
         "trash_cost": 0,
         "type_code": "asset",
@@ -1279,7 +1279,7 @@
         "position": 71,
         "quantity": 1,
         "side_code": "corp",
-        "text": "If the Runner is about to expose a card, you may rez Zaibatsu Loyalty.\n1[Credits] or [Trash]: Prevent 1 card from being exposed.",
+        "text": "If the Runner is about to expose a card, you may rez Zaibatsu Loyalty.\n1[credit] or [trash]: Prevent 1 card from being exposed.",
         "title": "Zaibatsu Loyalty",
         "trash_cost": 4,
         "type_code": "asset",
@@ -1334,7 +1334,7 @@
         "quantity": 2,
         "side_code": "corp",
         "strength": 7,
-        "text": "[Subroutine] The Runner approaches the outermost piece of ice protecting the attacked server. Derez Cell Portal.",
+        "text": "[subroutine] The Runner approaches the outermost piece of ice protecting the attacked server. Derez Cell Portal.",
         "title": "Cell Portal",
         "type_code": "ice",
         "uniqueness": false
@@ -1353,7 +1353,7 @@
         "quantity": 2,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] The next piece of ice the Runner encounters during this run has +2 strength. Do 3 net damage unless the Runner breaks all subroutines on that piece of ice.",
+        "text": "[subroutine] The next piece of ice the Runner encounters during this run has +2 strength. Do 3 net damage unless the Runner breaks all subroutines on that piece of ice.",
         "title": "Chum",
         "type_code": "ice",
         "uniqueness": false
@@ -1372,7 +1372,7 @@
         "quantity": 2,
         "side_code": "corp",
         "strength": 2,
-        "text": "[Subroutine] Do 1 net damage. Trash Data Mine.",
+        "text": "[subroutine] Do 1 net damage. Trash Data Mine.",
         "title": "Data Mine",
         "type_code": "ice",
         "uniqueness": false
@@ -1391,7 +1391,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[Subroutine] Do 3 net damage.",
+        "text": "[subroutine] Do 3 net damage.",
         "title": "Neural Katana",
         "type_code": "ice",
         "uniqueness": false
@@ -1410,7 +1410,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] Do 2 net damage.\n[Subroutine] End the run.",
+        "text": "[subroutine] Do 2 net damage.\n[subroutine] End the run.",
         "title": "Wall of Thorns",
         "type_code": "ice",
         "uniqueness": false
@@ -1446,7 +1446,7 @@
         "position": 80,
         "quantity": 1,
         "side_code": "corp",
-        "text": "2[Recurring Credits]\nUse these credits during trace attempts.",
+        "text": "2[recurring-credit]\nUse these credits during trace attempts.",
         "title": "NBN: Making News",
         "type_code": "identity",
         "uniqueness": false
@@ -1583,7 +1583,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "When the Runner encounters Data Raven, he or she must either take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[Subroutine] <trace>Trace 3</trace> If successful, place 1 power counter on Data Raven.",
+        "text": "When the Runner encounters Data Raven, he or she must either take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] <trace>Trace 3</trace> If successful, place 1 power counter on Data Raven.",
         "title": "Data Raven",
         "type_code": "ice",
         "uniqueness": false
@@ -1602,7 +1602,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "When the Runner encounters Matrix Analyzer, you may pay 1[Credits] to place 1 advancement token on a card that can be advanced.\n[Subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
+        "text": "When the Runner encounters Matrix Analyzer, you may pay 1[credit] to place 1 advancement token on a card that can be advanced.\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
         "title": "Matrix Analyzer",
         "type_code": "ice",
         "uniqueness": false
@@ -1621,7 +1621,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "When the Runner encounters Tollbooth, he or she must pay 3[Credits], if able. If the Runner cannot pay 3[Credits], end the run.\n[Subroutine] End the run.",
+        "text": "When the Runner encounters Tollbooth, he or she must pay 3[credit], if able. If the Runner cannot pay 3[credit], end the run.\n[subroutine] End the run.",
         "title": "Tollbooth",
         "type_code": "ice",
         "uniqueness": false
@@ -1637,7 +1637,7 @@
         "position": 91,
         "quantity": 2,
         "side_code": "corp",
-        "text": "Each time the Runner accesses an agenda from this server, he or she must pay 5[Credits] as an additional cost in order to steal it. This applies even during the run on which the Runner trashes Red Herrings.",
+        "text": "Each time the Runner accesses an agenda from this server, he or she must pay 5[credit] as an additional cost in order to steal it. This applies even during the run on which the Runner trashes Red Herrings.",
         "title": "Red Herrings",
         "trash_cost": 1,
         "type_code": "upgrade",
@@ -1674,7 +1674,7 @@
         "position": 93,
         "quantity": 1,
         "side_code": "corp",
-        "text": "Gain 1[Credits] whenever you play a <strong>transaction</strong> operation.",
+        "text": "Gain 1[credit] whenever you play a <strong>transaction</strong> operation.",
         "title": "Weyland Consortium: Building a Better World",
         "type_code": "identity",
         "uniqueness": false
@@ -1692,7 +1692,7 @@
         "position": 94,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When you score Hostile takeover, gain 7[Credits] and take 1 bad publicity.",
+        "text": "When you score Hostile takeover, gain 7[credit] and take 1 bad publicity.",
         "title": "Hostile Takeover",
         "type_code": "agenda",
         "uniqueness": false
@@ -1728,7 +1728,7 @@
         "position": 96,
         "quantity": 1,
         "side_code": "corp",
-        "text": "[Click], <strong>trash a rezzed piece of ice:</strong> Gain 4[Credits].",
+        "text": "[click], <strong>trash a rezzed piece of ice:</strong> Gain 4[credit].",
         "title": "Security Subcontract",
         "trash_cost": 3,
         "type_code": "asset",
@@ -1764,7 +1764,7 @@
         "position": 98,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 3[Credits].",
+        "text": "Gain 3[credit].",
         "title": "Beanstalk Royalties",
         "type_code": "operation",
         "uniqueness": false
@@ -1818,7 +1818,7 @@
         "quantity": 2,
         "side_code": "corp",
         "strength": 6,
-        "text": "As an additional cost to rez Archer, the Corp must forfeit an agenda.\n[Subroutine] The Corp gains 2[Credits].\n[Subroutine] Trash 1 program.\n[Subroutine] Trash 1 program.\n[Subroutine] End the run.",
+        "text": "As an additional cost to rez Archer, the Corp must forfeit an agenda.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 program.\n[subroutine] End the run.",
         "title": "Archer",
         "type_code": "ice",
         "uniqueness": false
@@ -1837,7 +1837,7 @@
         "quantity": 2,
         "side_code": "corp",
         "strength": 7,
-        "text": "Hadrian's Wall can be advanced and has +1 strength for each advancement token on it.\n[Subroutine] End the run.\n[Subroutine] End the run.",
+        "text": "Hadrian's Wall can be advanced and has +1 strength for each advancement token on it.\n[subroutine] End the run.\n[subroutine] End the run.",
         "title": "Hadrian's Wall",
         "type_code": "ice",
         "uniqueness": false
@@ -1856,7 +1856,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 1,
-        "text": "Ice Wall can be advanced and has +1 strength for each advancement token on it.\n[Subroutine] End the run.",
+        "text": "Ice Wall can be advanced and has +1 strength for each advancement token on it.\n[subroutine] End the run.",
         "title": "Ice Wall",
         "type_code": "ice",
         "uniqueness": false
@@ -1875,7 +1875,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 1,
-        "text": "Shadow can be advanced and has +1 strength for each advancement token on it.\n[Subroutine] The Corp gains 2[Credits].\n[Subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
+        "text": "Shadow can be advanced and has +1 strength for each advancement token on it.\n[subroutine] The Corp gains 2[credit].\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
         "title": "Shadow",
         "type_code": "ice",
         "uniqueness": false
@@ -1932,7 +1932,7 @@
         "position": 107,
         "quantity": 3,
         "side_code": "corp",
-        "text": "If the Runner is tagged, Private Security Force gains: \"[Click]: Do 1 meat damage.\"",
+        "text": "If the Runner is tagged, Private Security Force gains: \"[click]: Do 1 meat damage.\"",
         "title": "Private Security Force",
         "type_code": "agenda",
         "uniqueness": false
@@ -1949,7 +1949,7 @@
         "position": 108,
         "quantity": 2,
         "side_code": "corp",
-        "text": "[Click], [Click], [Click]: Gain 7[Credits].",
+        "text": "[click], [click], [click]: Gain 7[credit].",
         "title": "Melange Mining Corp.",
         "trash_cost": 1,
         "type_code": "asset",
@@ -1968,7 +1968,7 @@
         "position": 109,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 1[Credits] when your turn begins.",
+        "text": "Gain 1[credit] when your turn begins.",
         "title": "PAD Campaign",
         "trash_cost": 4,
         "type_code": "asset",
@@ -1987,7 +1987,7 @@
         "position": 110,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 9[Credits].",
+        "text": "Gain 9[credit].",
         "title": "Hedge Fund",
         "type_code": "operation",
         "uniqueness": false
@@ -2006,7 +2006,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "[Subroutine] The Runner loses [Click], if able.\n[Subroutine] End the run.",
+        "text": "[subroutine] The Runner loses [click], if able.\n[subroutine] End the run.",
         "title": "Enigma",
         "type_code": "ice",
         "uniqueness": false
@@ -2025,7 +2025,7 @@
         "quantity": 2,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
+        "text": "[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
         "title": "Hunter",
         "type_code": "ice",
         "uniqueness": false
@@ -2044,7 +2044,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[Subroutine] End the run.",
+        "text": "[subroutine] End the run.",
         "title": "Wall of Static",
         "type_code": "ice",
         "uniqueness": false

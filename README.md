@@ -84,13 +84,13 @@ To have text spanning multiple lines, use `\n` to separate them. To have quotes 
 
 These can be used in a card's `text` section.
 
-* `[Click]`
-* `[Credits]`
-* `[Link]`
-* `[Memory Unit]`
-* `[Recurring Credits]`
-* `[Subroutine]`
-* `[Trash]`
+* `[click]`
+* `[credit]`
+* `[link]`
+* `[mu]`
+* `[recurring-credit]`
+* `[subroutine]`
+* `[trash]`
 * `[anarch]`
 * `[criminal]`
 * `[shaper]`

@@ -13,7 +13,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "The rez cost of IQ is increased by 1 for each card in HQ.\nIQ has +1 strength for each card in HQ.\n[Subroutine] End the run.",
+        "text": "The rez cost of IQ is increased by 1 for each card in HQ.\nIQ has +1 strength for each card in HQ.\n[subroutine] End the run.",
         "title": "IQ",
         "type_code": "ice",
         "uniqueness": false
@@ -31,7 +31,7 @@
         "position": 42,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click],[Click],[Click]: Rez a card, ignoring all costs.",
+        "text": "[click],[click],[click]: Rez a card, ignoring all costs.",
         "title": "Eliza's Toybox",
         "trash_cost": 4,
         "type_code": "asset",
@@ -51,7 +51,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[Subroutine] The Corp may choose a card in HQ.  The Runner accesses that card.  If he or she does, trash Kitsune.",
+        "text": "[subroutine] The Corp may choose a card in HQ.  The Runner accesses that card.  If he or she does, trash Kitsune.",
         "title": "Kitsune",
         "type_code": "ice",
         "uniqueness": false
@@ -124,7 +124,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "Wendigo can be advanced.\nWhile Wendigo has an odd number of advancement tokens on it, it gains <strong>barrier</strong> and loses <strong>code gate</strong>.\n[Subroutine] Choose a program.  The Runner cannot use the chosen program for the remainder of this run.",
+        "text": "Wendigo can be advanced.\nWhile Wendigo has an odd number of advancement tokens on it, it gains <strong>barrier</strong> and loses <strong>code gate</strong>.\n[subroutine] Choose a program.  The Runner cannot use the chosen program for the remainder of this run.",
         "title": "Wendigo",
         "type_code": "ice",
         "uniqueness": false
@@ -179,7 +179,7 @@
         "position": 50,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Shattered Remains can be advanced.\nIf you pay 1[Credits] when the Runner accesses Shattered Remains, trash 1 piece of hardware for each advancement token on Shattered Remains.",
+        "text": "Shattered Remains can be advanced.\nIf you pay 1[credit] when the Runner accesses Shattered Remains, trash 1 piece of hardware for each advancement token on Shattered Remains.",
         "title": "Shattered Remains",
         "trash_cost": 0,
         "type_code": "asset",
@@ -199,7 +199,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "When the Runner encounters Lancelot, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Lancelot gains the subroutines of the revealed ice in the order of your choice.\n[Subroutine] Trash 1 program.",
+        "text": "When the Runner encounters Lancelot, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Lancelot gains the subroutines of the revealed ice in the order of your choice.\n[subroutine] Trash 1 program.",
         "title": "Lancelot",
         "type_code": "ice",
         "uniqueness": false
@@ -238,7 +238,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 3,
-        "text": "1[Credits]: Break 1 <strong>barrier</strong> subroutine (or up to 3 subroutines if you spent a credit from a <strong>stealth</strong> card).\n2[Credits]: +1 strength (or +2 strength if you spent at least 1 credit from a <strong>stealth</strong> card).",
+        "text": "1[credit]: Break 1 <strong>barrier</strong> subroutine (or up to 3 subroutines if you spent a credit from a <strong>stealth</strong> card).\n2[credit]: +1 strength (or +2 strength if you spent at least 1 credit from a <strong>stealth</strong> card).",
         "title": "BlacKat",
         "type_code": "program",
         "uniqueness": false
@@ -256,7 +256,7 @@
         "position": 54,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click],[Click],[Click],[Click]: Draw 10 cards.",
+        "text": "[click],[click],[click],[click]: Draw 10 cards.",
         "title": "Duggar's",
         "type_code": "resource",
         "uniqueness": true
@@ -273,7 +273,7 @@
         "position": 55,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+2 [Memory Unit]\nYour maximum hand size is increased by 2.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+2 [mu]\nYour maximum hand size is increased by 2.\nLimit 1 <strong>console</strong> per player.",
         "title": "Box-E",
         "type_code": "hardware",
         "uniqueness": true
@@ -291,7 +291,7 @@
         "position": 56,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Host a resource or piece of hardware from your grip on The Supplier.\nWhen your turn begins, you may install a hosted card, lowering the install cost by 2.",
+        "text": "[click]: Host a resource or piece of hardware from your grip on The Supplier.\nWhen your turn begins, you may install a hosted card, lowering the install cost by 2.",
         "title": "The Supplier",
         "type_code": "resource",
         "uniqueness": true
@@ -311,7 +311,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "1[Credits]: Break <strong>code gate</strong> subroutine.\n1[Credits]: +3 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
+        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +3 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
         "title": "Refractor",
         "type_code": "program",
         "uniqueness": false
@@ -329,7 +329,7 @@
         "position": 58,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first time you have no credits in your credit pool each turn, gain 1[Credits].",
+        "text": "The first time you have no credits in your credit pool each turn, gain 1[credit].",
         "title": "Order of Sol",
         "type_code": "resource",
         "uniqueness": true
@@ -346,7 +346,7 @@
         "position": 59,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you make a successful run on Archives, instead of accessing cards, you may install Hades Shard from your grip, ignoring all costs.\n[Trash]: Access all cards from Archives.\nLimit 1 per deck.",
+        "text": "Whenever you make a successful run on Archives, instead of accessing cards, you may install Hades Shard from your grip, ignoring all costs.\n[trash]: Access all cards from Archives.\nLimit 1 per deck.",
         "title": "Hades Shard",
         "type_code": "resource",
         "uniqueness": true
@@ -364,7 +364,7 @@
         "position": 60,
         "quantity": 3,
         "side_code": "runner",
-        "text": "You have 1 additional [Click] to spend each turn.\nTrash Rachel Beckman if you are tagged.",
+        "text": "You have 1 additional [click] to spend each turn.\nTrash Rachel Beckman if you are tagged.",
         "title": "Rachel Beckman",
         "type_code": "resource",
         "uniqueness": true

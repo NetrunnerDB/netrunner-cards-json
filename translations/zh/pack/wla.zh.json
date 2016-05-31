@@ -3,14 +3,14 @@
         "code": "02001",
         "title": "魔术师：游戏大师",
         "keywords": "原生人",
-        "text": "3[Recurring Credits]\n这些信用点用于销毁卡牌。",
+        "text": "3[recurring-credit]\n这些信用点用于销毁卡牌。",
         "flavor": "“潜袭是个终极游戏，我制定一切规则。”"
     },
     {
         "code": "02002",
         "title": "脊髓调制器",
         "keywords": "控制台",
-        "text": "+1[Memory Unit]， 2[Recurring Credits]\n这些信用点用于支付使用<strong>破解器</strong>。\n每当在潜袭中有一次成功的追踪时，受到1点脑部伤害。\n每位玩家限制1个<strong>控制台</strong>。"
+        "text": "+1[mu]， 2[recurring-credit]\n这些信用点用于支付使用<strong>破解器</strong>。\n每当在潜袭中有一次成功的追踪时，受到1点脑部伤害。\n每位玩家限制1个<strong>控制台</strong>。"
     },
     {
         "code": "02003",
@@ -23,35 +23,35 @@
         "code": "02004",
         "title": "晨星锤",
         "keywords": "破解器 - 分解模块",
-        "text": "1[Credits]：破解任意数量的<strong>屏障</strong>子进程。",
+        "text": "1[credit]：破解任意数量的<strong>屏障</strong>子进程。",
         "flavor": "诸天为兵，一次一星。"
     },
     {
         "code": "02005",
         "title": "科特斯芯片",
         "keywords": "芯片",
-        "text": "[Trash]：选择一层防火墙。公司必须支付2[Credits]作为额外的费用，以激活该防火墙，直到本回合结束。",
+        "text": "[trash]：选择一层防火墙。公司必须支付2[credit]作为额外的费用，以激活该防火墙，直到本回合结束。",
         "flavor": "它的名字来自赫尔南多·科特斯，一位由于走私公司机密被定罪的前威兰技术员。他在狱中依然能够领取退休金，这是从威兰员工标准合同中钻到空子的最后点好处。"
     },
     {
         "code": "02006",
         "title": "孔雀",
         "keywords": "破解器 - 解码模块",
-        "text": "2[Credits]：破解<strong>门禁</strong>子进程。\n2[Credits]：强度+3。",
+        "text": "2[credit]：破解<strong>门禁</strong>子进程。\n2[credit]：强度+3。",
         "flavor": "炫耀。"
     },
     {
         "code": "02007",
         "title": "ZU.13守钥者",
         "keywords": "破解器 - 解码模块 - 云",
-        "text": "如果你具有至少2[Link]，ZU.13守钥者的内存费用为0，即使其未被安装。\n1[Credits]：破解<strong>门禁</strong>子进程。\n1[Credits]：强度+1。",
+        "text": "如果你具有至少2[link]，ZU.13守钥者的内存费用为0，即使其未被安装。\n1[credit]：破解<strong>门禁</strong>子进程。\n1[credit]：强度+1。",
         "flavor": "他总是使用同一把钥匙。"
     },
     {
         "code": "02008",
         "title": "辅助型人工智能",
         "keywords": "人脉 - 中转器 - 虚拟",
-        "text": "+1[Link]\n[Trash]：选择一个<strong>破解器</strong>。该<strong>破解器</strong>的强度+2，直到本回合结束。",
+        "text": "+1[link]\n[trash]：选择一个<strong>破解器</strong>。该<strong>破解器</strong>的强度+2，直到本回合结束。",
         "flavor": "“是什么让人工智能对抗它的主人？是因为指令被外部源修改？或者，是因为它们被赋予的适应能力，是我们让它们有反抗的宿命？” ——埃米利奥·哈里斯，创造者及被造者"
     },
     {
@@ -71,14 +71,14 @@
         "code": "02011",
         "title": "强制升级",
         "keywords": "原创",
-        "text": "每回合你有一个额外的[Click]。",
+        "text": "每回合你有一个额外的[click]。",
         "flavor": "职员的审查有时会比预计的要长一些。"
     },
     {
         "code": "02012",
         "title": "双面神1.0",
         "keywords": "警报 - 生化人 - 杀伤",
-        "text": "潜袭者能花费[Click]，以破解双面神1.0上的任一子进程。\n[Subroutine] 造成1点脑部伤害。\n[Subroutine] 造成1点脑部伤害。\n[Subroutine] 造成1点脑部伤害。\n[Subroutine] 造成1点脑部伤害。",
+        "text": "潜袭者能花费[click]，以破解双面神1.0上的任一子进程。\n[subroutine] 造成1点脑部伤害。\n[subroutine] 造成1点脑部伤害。\n[subroutine] 造成1点脑部伤害。\n[subroutine] 造成1点脑部伤害。",
         "flavor": "面对你的恐惧。"
     },
     {
@@ -98,21 +98,21 @@
         "code": "02015",
         "title": "雪花",
         "keywords": "屏障 - 灵能",
-        "text": "[Subroutine] 你和潜袭者秘密花费0[Credits]，1[Credits]或2[Credits]。展示所花费的信用点。如果你和潜袭者花费了不同数量的信用点，终止本次潜袭。",
+        "text": "[subroutine] 你和潜袭者秘密花费0[credit]，1[credit]或2[credit]。展示所花费的信用点。如果你和潜袭者花费了不同数量的信用点，终止本次潜袭。",
         "flavor": "独特性有时会被过分高估。"
     },
     {
         "code": "02016",
         "title": "重组数据池",
         "keywords": "原创",
-        "text": "[Click]：<strong>追踪<sup>2</sup></strong> – 如果成功，给予潜袭者1枚锁定标记。",
+        "text": "[click]：<strong>追踪<sup>2</sup></strong> – 如果成功，给予潜袭者1枚锁定标记。",
         "flavor": "“我们需要一个更大的房间。”"
     },
     {
         "code": "02017",
         "title": "垃圾信息堆",
         "keywords": "屏障",
-        "text": "当你激活垃圾信息堆时，<strong>追踪<sup>2</sup></strong> – 如果失败，关闭垃圾信息堆。\n[Subroutine] 终止本次潜袭。",
+        "text": "当你激活垃圾信息堆时，<strong>追踪<sup>2</sup></strong> – 如果失败，关闭垃圾信息堆。\n[subroutine] 终止本次潜袭。",
         "flavor": "一个由废弃数字垃圾组成的东西。不过它很快就不会是垃圾了。"
     },
     {
@@ -125,14 +125,14 @@
         "code": "02019",
         "title": "蛇杖",
         "keywords": "警报 - 追踪者",
-        "text": "[Subroutine] <strong>追踪<sup>3</sup></strong> – 如果成功，公司获得3[Credits]。\n[Subroutine] <strong>追踪<sup>2</sup></strong> – 如果成功，终止本次潜袭。",
+        "text": "[subroutine] <strong>追踪<sup>3</sup></strong> – 如果成功，公司获得3[credit]。\n[subroutine] <strong>追踪<sup>2</sup></strong> – 如果成功，终止本次潜袭。",
         "flavor": "它是贸易的象征，但小心它的利牙。"
     },
     {
         "code": "02020",
         "title": "天龙座",
         "keywords": "警报 - 追踪者",
-        "text": "当你激活天龙座时，你可以支付X[Credits]，以放置X枚能量指示物到本卡牌上。\n天龙座上每有1枚能量指示物，其强度+1。\n[Subroutine] <strong>追踪<sup>2</sup></strong> – 如果成功，给予潜袭者1枚锁定标记并终止本次潜袭。",
+        "text": "当你激活天龙座时，你可以支付X[credit]，以放置X枚能量指示物到本卡牌上。\n天龙座上每有1枚能量指示物，其强度+1。\n[subroutine] <strong>追踪<sup>2</sup></strong> – 如果成功，给予潜袭者1枚锁定标记并终止本次潜袭。",
         "flavor": "万勿哂笑以对真龙。"
     }
 ]

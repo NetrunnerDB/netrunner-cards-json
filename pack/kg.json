@@ -29,7 +29,7 @@
         "position": 2,
         "quantity": 6,
         "side_code": "runner",
-        "text": "[Trash]: Prevent up to X net or brain damage. Trash cards from the top of your stack equal to the amount of damage prevented. X is the number of copies of Ramujan-reliant 550 BMI installed (including the one just trashed).\nLimit 6 per deck.",
+        "text": "[trash]: Prevent up to X net or brain damage. Trash cards from the top of your stack equal to the amount of damage prevented. X is the number of copies of Ramujan-reliant 550 BMI installed (including the one just trashed).\nLimit 6 per deck.",
         "title": "Ramujan-reliant 550 BMI",
         "type_code": "hardware",
         "uniqueness": false
@@ -64,7 +64,7 @@
         "position": 4,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Make a run on a server with at least 1 piece of unrezzed ice. When the run ends, gain 12[Credits] if it was successful.",
+        "text": "Make a run on a server with at least 1 piece of unrezzed ice. When the run ends, gain 12[credit] if it was successful.",
         "title": "High-Stakes Job",
         "type_code": "event",
         "uniqueness": false
@@ -84,7 +84,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "You cannot use Mongoose to break subroutines on more than one ice per run.\n1[Credits]: Break up to 2 <strong>sentry</strong> subroutines.\n2[Credits]: +2 strength.",
+        "text": "You cannot use Mongoose to break subroutines on more than one ice per run.\n1[credit]: Break up to 2 <strong>sentry</strong> subroutines.\n2[credit]: +2 strength.",
         "title": "Mongoose",
         "type_code": "program",
         "uniqueness": false
@@ -120,7 +120,7 @@
         "position": 7,
         "quantity": 3,
         "side_code": "runner",
-        "text": " +2[Memory Unit]\nOnce per turn, immediately after you access a card from R&D, you may add that card to the bottom of R&D. If you do, take 1 tag.\nLimit 1 <strong>console</strong> per player.",
+        "text": " +2[mu]\nOnce per turn, immediately after you access a card from R&D, you may add that card to the bottom of R&D. If you do, take 1 tag.\nLimit 1 <strong>console</strong> per player.",
         "title": "Maya",
         "type_code": "hardware",
         "uniqueness": true
@@ -174,7 +174,7 @@
         "position": 10,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Place 1 power counter on Chatterjee University.\n[Click]: Install a program from your grip, lowering the install cost by 1 for each power counter on Chatterjee University. Remove 1 hosted power counter.",
+        "text": "[click]: Place 1 power counter on Chatterjee University.\n[click]: Install a program from your grip, lowering the install cost by 1 for each power counter on Chatterjee University. Remove 1 hosted power counter.",
         "title": "Chatterjee University",
         "type_code": "resource",
         "uniqueness": true
@@ -192,7 +192,7 @@
         "position": 11,
         "quantity": 3,
         "side_code": "corp",
-        "text": "The first time the Runner initiates  a run each turn, you may draw 1 card or gain 1[Credits].",
+        "text": "The first time the Runner initiates  a run each turn, you may draw 1 card or gain 1[credit].",
         "title": "Advanced Concept Hopper",
         "type_code": "agenda",
         "uniqueness": false
@@ -210,7 +210,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "The Runner can spend [Click] to break any subroutine on Vikram 1.0.\n[Subroutine] The Runner cannot use programs for the remainder of this run.\n[Subroutine] <trace>Trace 4</trace> If successful, do 1 brain damage.\n[Subroutine] <trace>Trace 4</trace> If successful, do 1 brain damage.",
+        "text": "The Runner can spend [click] to break any subroutine on Vikram 1.0.\n[subroutine] The Runner cannot use programs for the remainder of this run.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 brain damage.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 brain damage.",
         "title": "Vikram 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -264,7 +264,7 @@
         "position": 15,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When your turn begins, you may look at the top card of the Runner's stack.\n[Trash]: The Runner trashes the top card of his or her stack.",
+        "text": "When your turn begins, you may look at the top card of the Runner's stack.\n[trash]: The Runner trashes the top card of his or her stack.",
         "title": "Kala Ghoda Real TV",
         "trash_cost": 4,
         "type_code": "asset",
@@ -283,7 +283,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] For the remainder of this run, the Runner must pay 1[Credits] as an additional cost each time he or she uses an <strong>icebreaker</strong> to break at least 1 subroutine.\n[Subroutine] For the remainder of this run, the Runner must pay 1[Credits] as an additional cost each time he or she uses an <strong>icebreaker</strong> to break at least 1 subroutine.",
+        "text": "[subroutine] For the remainder of this run, the Runner must pay 1[credit] as an additional cost each time he or she uses an <strong>icebreaker</strong> to break at least 1 subroutine.\n[subroutine] For the remainder of this run, the Runner must pay 1[credit] as an additional cost each time he or she uses an <strong>icebreaker</strong> to break at least 1 subroutine.",
         "title": "Interrupt 0",
         "type_code": "ice",
         "uniqueness": false
@@ -318,7 +318,7 @@
         "position": 18,
         "quantity": 3,
         "side_code": "corp",
-        "text": "This card costs 0 influence if you have 15 or fewer ice in your deck.\n2[Recurring Credits]\nUse these credits to rez cards.",
+        "text": "This card costs 0 influence if you have 15 or fewer ice in your deck.\n2[recurring-credit]\nUse these credits to rez cards.",
         "title": "Mumba Temple",
         "trash_cost": 3,
         "type_code": "asset",

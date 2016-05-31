@@ -30,7 +30,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": null,
-        "text": "2[Credits]: Break ice subroutine.\nX is the number of virus counters on Darwin.\nWhen your turn begins, you may pay 1[Credits] to place 1 virus counter on Darwin.",
+        "text": "2[credit]: Break ice subroutine.\nX is the number of virus counters on Darwin.\nWhen your turn begins, you may pay 1[credit] to place 1 virus counter on Darwin.",
         "title": "Darwin",
         "type_code": "program",
         "uniqueness": false
@@ -48,7 +48,7 @@
         "position": 103,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Install only if you made a successful run on a central server this turn.\nIf you are tagged, Data Leak Reversal gains \"[Click]: The Corp trashes the top card of R&D.\"",
+        "text": "Install only if you made a successful run on a central server this turn.\nIf you are tagged, Data Leak Reversal gains \"[click]: The Corp trashes the top card of R&D.\"",
         "title": "Data Leak Reversal",
         "type_code": "resource",
         "uniqueness": false
@@ -68,7 +68,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "0[Credits]: Break <strong>sentry</strong> subroutine.\n1[Credits]: +1 strength.\nWhen an encounter with a piece of ice in which you used Faerie to break a subroutine ends, trash Faerie.",
+        "text": "0[credit]: Break <strong>sentry</strong> subroutine.\n1[credit]: +1 strength.\nWhen an encounter with a piece of ice in which you used Faerie to break a subroutine ends, trash Faerie.",
         "title": "Faerie",
         "type_code": "program",
         "uniqueness": false
@@ -86,7 +86,7 @@
         "position": 105,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Draw 2 cards. Add 1 of these cards to the bottom of your stack.",
+        "text": "[click]: Draw 2 cards. Add 1 of these cards to the bottom of your stack.",
         "title": "Mr. Li",
         "type_code": "resource",
         "uniqueness": true
@@ -157,7 +157,7 @@
         "position": 109,
         "quantity": 3,
         "side_code": "runner",
-        "text": "2[Credits]: Avoid 1 tag.\nTrash New Angeles City Hall when you steal an agenda.",
+        "text": "2[credit]: Avoid 1 tag.\nTrash New Angeles City Hall when you steal an agenda.",
         "title": "New Angeles City Hall",
         "type_code": "resource",
         "uniqueness": true
@@ -176,7 +176,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "The Runner may spend [Click] to break any subroutine on Eli 1.0.\n[Subroutine] End the run.\n[Subroutine] End the run.",
+        "text": "The Runner may spend [click] to break any subroutine on Eli 1.0.\n[subroutine] End the run.\n[subroutine] End the run.",
         "title": "Eli 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -194,7 +194,7 @@
         "position": 111,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to make a run on this server, the Runner must spend [Click].\nLimit 1 <strong>region</strong> per server.",
+        "text": "As an additional cost to make a run on this server, the Runner must spend [click].\nLimit 1 <strong>region</strong> per server.",
         "title": "Ruhr Valley",
         "trash_cost": 4,
         "type_code": "upgrade",
@@ -213,7 +213,7 @@
         "position": 112,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Ronin can be advanced.\nIf there are at least 4 advancement tokens on Ronin, it gains \"[Click], [Trash]: Do 3 net damage.\"",
+        "text": "Ronin can be advanced.\nIf there are at least 4 advancement tokens on Ronin, it gains \"[click], [trash]: Do 3 net damage.\"",
         "title": "Ronin",
         "trash_cost": 2,
         "type_code": "asset",
@@ -302,7 +302,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 6,
-        "text": "[Subroutine]<trace>Trace 6</trace> If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.",
+        "text": "[subroutine]<trace>Trace 6</trace> If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.",
         "title": "Flare",
         "type_code": "ice",
         "uniqueness": false
@@ -340,7 +340,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "[Subroutine] <trace>Trace 0</trace> If successful, the Runner trashes 1 program.",
+        "text": "[subroutine] <trace>Trace 0</trace> If successful, the Runner trashes 1 program.",
         "title": "Burke Bugs",
         "type_code": "ice",
         "uniqueness": false
@@ -359,7 +359,7 @@
         "position": 120,
         "quantity": 3,
         "side_code": "corp",
-        "text": "If you have at least 7[Credits] when you score Corporate War, gain 7[Credits]; otherwise, lose all credits in your credit pool.",
+        "text": "If you have at least 7[credit] when you score Corporate War, gain 7[credit]; otherwise, lose all credits in your credit pool.",
         "title": "Corporate War",
         "type_code": "agenda",
         "uniqueness": false

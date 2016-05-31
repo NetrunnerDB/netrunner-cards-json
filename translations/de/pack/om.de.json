@@ -3,39 +3,39 @@
         "code": "04001",
         "title": "Schuld zuschieben",
         "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [Click].\nGib eine Agenda auf. Falls du dies tust, verpasse dem Kon 1 negative Publicity.",
+        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nGib eine Agenda auf. Falls du dies tust, verpasse dem Kon 1 negative Publicity.",
         "flavor": "\"Eindringen in Bioroiden ist nicht unmöglich, auch wenn Haas-Bioroid lautstark etwas anderes behauptet. Aber es ist gefährlich.\" -Noise"
     },
     {
         "code": "04002",
         "title": "Bauer",
         "keywords": "Caïssa",
-        "text": "[Click]: Hoste Bauer auf dem äußersten Ice, das ein zentrales System schützt.\nImmer, wenn du einen erfolgreichen Run durchführst, während Bauer auf einem Ice gehostet ist, verschiebe Bauer auf das Ice direkt hinter dem Ice, das Bauer derzeit hostet, falls möglich; anderenfalls zerstöre Bauer und installiere ein <strong>Caïssa</strong>-Programm aus deinem Griff oder deiner Ablage, ohne die Kosten dafür zu bezahlen."
+        "text": "[click]: Hoste Bauer auf dem äußersten Ice, das ein zentrales System schützt.\nImmer, wenn du einen erfolgreichen Run durchführst, während Bauer auf einem Ice gehostet ist, verschiebe Bauer auf das Ice direkt hinter dem Ice, das Bauer derzeit hostet, falls möglich; anderenfalls zerstöre Bauer und installiere ein <strong>Caïssa</strong>-Programm aus deinem Griff oder deiner Ablage, ohne die Kosten dafür zu bezahlen."
     },
     {
         "code": "04003",
         "title": "Turm",
         "keywords": "Caïssa",
-        "text": "[Click]: Hoste Turm auf einem Ice, das kein <strong>Caïssa</strong>-Programm hostet. Falls er bereits gehostet ist, kann Turm nur auf einem Ice gehostet werden, das entweder dieses System schützt, oder auf Ice, das ein anderes System schützt und sich dort in derselben Position (von innen gezählt) befindet.\nDie Ladekosten für jedes Ice, das dieses System schützt, werden um 2 erhöht."
+        "text": "[click]: Hoste Turm auf einem Ice, das kein <strong>Caïssa</strong>-Programm hostet. Falls er bereits gehostet ist, kann Turm nur auf einem Ice gehostet werden, das entweder dieses System schützt, oder auf Ice, das ein anderes System schützt und sich dort in derselben Position (von innen gezählt) befindet.\nDie Ladekosten für jedes Ice, das dieses System schützt, werden um 2 erhöht."
     },
     {
         "code": "04004",
         "title": "Geisel",
         "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [Click].\nDurchsuche deinen Stapel nach einem <strong>Kontakt</strong>, decke ihn auf und füge ihn deinem Griff hinzu. Du kannst diesen <strong>Kontakt</strong> installieren (die Installationskosten müssen bezahlt werden). Mische deinen Stapel"
+        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nDurchsuche deinen Stapel nach einem <strong>Kontakt</strong>, decke ihn auf und füge ihn deinem Griff hinzu. Du kannst diesen <strong>Kontakt</strong> installieren (die Installationskosten müssen bezahlt werden). Mische deinen Stapel"
     },
     {
         "code": "04005",
         "title": "Gorman Tropf v1",
         "keywords": "Virus",
-        "text": "Immer wenn der Kon [Click] ausgibt, um 1 Karte zu ziehen, oder 1[Credits] zu erhalten (nicht durch die Fähigkeit einer Karte), lege 1 Viruszähler auf Gorman Tropf v1.\n[Click], [Trash]: Erhalte 1[Credits] für jeden Viruszähler auf Gorman Tropf v1.",
+        "text": "Immer wenn der Kon [click] ausgibt, um 1 Karte zu ziehen, oder 1[credit] zu erhalten (nicht durch die Fähigkeit einer Karte), lege 1 Viruszähler auf Gorman Tropf v1.\n[click], [trash]: Erhalte 1[credit] für jeden Viruszähler auf Gorman Tropf v1.",
         "flavor": "Einfaches Prinzip, ein Virus, der kleine Geldmengen von ihrem Konto auf deins flließen lässt."
     },
     {
         "code": "04006",
         "title": "Dietrich",
         "keywords": "Chip - Heimlichkeit",
-        "text": "1[Recurring Credits]\nVerwende diesen Credit, um für die Verwendung von <strong>Decodern</strong> zu bezahlen.",
+        "text": "1[recurring-credit]\nVerwende diesen Credit, um für die Verwendung von <strong>Decodern</strong> zu bezahlen.",
         "flavor": "\"Eigentlich habe ich ihn für jemand anderen entwickelt, aber er war so nützlich, dass ich beschlossen habe, ihn für mich zu behalten.\" -Kate \"Mac\" McCaffrey"
     },
     {
@@ -68,21 +68,21 @@
         "code": "04011",
         "title": "NEXT Bronze",
         "keywords": "Code-Zugang - NEXT",
-        "text": "NEXT Bronze hat +1 Stärke für jedes geladene <strong>NEXT</strong> Ice.\n[Subroutine] Beende den Run.",
+        "text": "NEXT Bronze hat +1 Stärke für jedes geladene <strong>NEXT</strong> Ice.\n[subroutine] Beende den Run.",
         "flavor": "Ice von NEXT Design bietet anspruchsvollen Unternehmen eine Ice-Lösung, die bei Eindringlingen ein beängstigendes Gefühl von Sicherheitspräsenz hervorruft."
     },
     {
         "code": "04012",
         "title": "Promi-Geschenk",
         "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [Click].\nDecke bis zu 5 Karten im HQ für den Runner auf. Du erhältst 2[Credits] für jede so aufgedeckte Karte.",
+        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nDecke bis zu 5 Karten im HQ für den Runner auf. Du erhältst 2[credit] für jede so aufgedeckte Karte.",
         "flavor": "Nachdem Miranda Rhapsody mit so einer Mini-Giraffe rumlief, wollte plötzlich jeder so ein Vieh."
     },
     {
         "code": "04013",
         "title": "Himitsu-Bako",
         "keywords": "Barriere",
-        "text": "1[Credits]: Füge Himitsu-Bako dem HQ hinzu.\n[Subroutine] Beende den Run.",
+        "text": "1[credit]: Füge Himitsu-Bako dem HQ hinzu.\n[subroutine] Beende den Run.",
         "flavor": "Himitsu-Bako ist eine einfache Ice-Barriere, die wie ein digitales Rätselkästchen aussieht. Ihre Besonderheit liegt in ihrer einfachen Handhabung beim Deinstallieren und erneutem Installieren in einem anderen System, sodass plötzlich barrieren auftauchen, wo der Eindringling sie nicht erwartet hätte, was für ein merkwürdiges Gefühl von Déjà-vu sorgt."
     },
     {
@@ -96,27 +96,27 @@
         "code": "04015",
         "title": "Jackson Howard",
         "keywords": "Führungskraft",
-        "text": "[Click]: Ziehe 2 Karten.\n<strong>Entferne Jackson Howard vom Spiel</strong>: Mische bis zu 3 Karten aus dem Archiv in F&E.",
+        "text": "[click]: Ziehe 2 Karten.\n<strong>Entferne Jackson Howard vom Spiel</strong>: Mische bis zu 3 Karten aus dem Archiv in F&E.",
         "flavor": "\"Mein Job ist es, dafür zu sorgen, dass unsere Produkte die perfekten Gefährten und Edutainment für die Verbraucher von morgen sind.\""
     },
     {
         "code": "04016",
         "title": "Verletzung der Privatsphäre",
         "keywords": "Verdoppeln - Graue Ops",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [Click].\n<trace>Aufspüren 2</trace> Bei Erfolg decke den Griff des Runners auf und zerstöre eine Anzahl Ressourcen und/oder Ereignisse daraus, die der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entspricht. Bei Misserfolg erhältst du 1 negative Publicity."
+        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\n<trace>Aufspüren 2</trace> Bei Erfolg decke den Griff des Runners auf und zerstöre eine Anzahl Ressourcen und/oder Ereignisse daraus, die der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entspricht. Bei Misserfolg erhältst du 1 negative Publicity."
     },
     {
         "code": "04017",
         "title": "Geothermisches Fracking",
         "keywords": "Erweiterung",
-        "text": "Lege 2 Agendazähler auf Geothermisches Fracking, wenn du die Punkte dafür erzielst.\n[Click], <strong>Gehosteter Agendazähler</strong>: Erhalte 7[Credits] und 1 negative Publicity.",
+        "text": "Lege 2 Agendazähler auf Geothermisches Fracking, wenn du die Punkte dafür erzielst.\n[click], <strong>Gehosteter Agendazähler</strong>: Erhalte 7[credit] und 1 negative Publicity.",
         "flavor": "Wasser in unterseeische Magmaspalten zu pumpen erzeugt eine riesige Menge Energie. Was wiederum ein guter Nebenverdienst ist."
     },
     {
         "code": "04018",
         "title": "Schwarm",
         "keywords": "Wächter - Zerstörer - Illegal",
-        "text": "Sobald du Schwarm lädst, erhältst du 1 negative Publicity.\nSchwarm kann entwickelt werden und erhält \"[Subroutine] Zerstöre 1 Programm falls der Runner nicht 3[Credits] zahlt.\" für jeden Entwicklungsmarker auf diesem Ice."
+        "text": "Sobald du Schwarm lädst, erhältst du 1 negative Publicity.\nSchwarm kann entwickelt werden und erhält \"[subroutine] Zerstöre 1 Programm falls der Runner nicht 3[credit] zahlt.\" für jeden Entwicklungsmarker auf diesem Ice."
     },
     {
         "code": "04019",
@@ -128,7 +128,7 @@
         "code": "04020",
         "title": "Grimm",
         "keywords": "Wächter - Zerstörer - Illegal",
-        "text": "Wenn du Grimm lädst, erhältst du 1 negative Publicity.\n[Subroutine] Zerstöre 1 Programm.",
+        "text": "Wenn du Grimm lädst, erhältst du 1 negative Publicity.\n[subroutine] Zerstöre 1 Programm.",
         "flavor": "\"Die Legende nach gehört der Grimm zu den Mythen von sogenannten „Schwarzen Hunden“, die im gälischen und englischen Sprachraum häufig anzutreffen sind. Faszinierend an ihm ist, dass er den Sprung ins Netz geschafft hat, wo er als Programm weiter lebt. Das, so erzählt man sich, Jagd auf Ahnungslose macht.\" - Der Professor"
     }
 ]

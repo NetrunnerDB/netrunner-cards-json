@@ -12,7 +12,7 @@
         "position": 61,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Trash]: Prevent a trace. That trace initiates again with a base trace strength of 0.",
+        "text": "[trash]: Prevent a trace. That trace initiates again with a base trace strength of 0.",
         "title": "Disrupter",
         "type_code": "program",
         "uniqueness": false
@@ -32,7 +32,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "2[Credits]: Break up to 2 <strong>code gate</strong> subroutines.\n1[Credits]: +1 strength.",
+        "text": "2[credit]: Break up to 2 <strong>code gate</strong> subroutines.\n1[credit]: +1 strength.",
         "title": "Force of Nature",
         "type_code": "program",
         "uniqueness": false
@@ -50,7 +50,7 @@
         "position": 63,
         "quantity": 3,
         "side_code": "runner",
-        "text": "2[Recurring Credits]\nUse these credits to trash cards.",
+        "text": "2[recurring-credit]\nUse these credits to trash cards.",
         "title": "Scrubber",
         "type_code": "resource",
         "uniqueness": false
@@ -68,7 +68,7 @@
         "position": 64,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Memory Unit]\nOnce per turn, you may immediately make another run when a successful run ends.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+1[mu]\nOnce per turn, you may immediately make another run when a successful run ends.\nLimit 1 <strong>console</strong> per player.",
         "title": "Doppelgänger",
         "type_code": "hardware",
         "uniqueness": true
@@ -86,7 +86,7 @@
         "position": 65,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Trash]: Derez a piece of ice. Use this ability only after breaking all the subroutines of that ice during a single encounter.",
+        "text": "[trash]: Derez a piece of ice. Use this ability only after breaking all the subroutines of that ice during a single encounter.",
         "title": "Crescentus",
         "type_code": "program",
         "uniqueness": false
@@ -106,7 +106,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 10,
-        "text": "[Trash]: Break any number of <strong>AP</strong> subroutines.\n[Trash]: Prevent any amount of net damage.",
+        "text": "[trash]: Break any number of <strong>AP</strong> subroutines.\n[trash]: Prevent any amount of net damage.",
         "title": "Deus X",
         "type_code": "program",
         "uniqueness": false
@@ -123,7 +123,7 @@
         "position": 67,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click], [Trash]: Gain [Click][Click].",
+        "text": "[click], [trash]: Gain [click][click].",
         "title": "All-nighter",
         "type_code": "resource",
         "uniqueness": false
@@ -141,7 +141,7 @@
         "position": 68,
         "quantity": 3,
         "side_code": "runner",
-        "text": "2[Recurring Credits]\nUse these credits to install hardware.",
+        "text": "2[recurring-credit]\nUse these credits to install hardware.",
         "title": "Inside Man",
         "type_code": "resource",
         "uniqueness": false
@@ -159,7 +159,7 @@
         "position": 69,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, gain 1[Credits] if you have at least 2[Link].",
+        "text": "When your turn begins, gain 1[credit] if you have at least 2[link].",
         "title": "Underworld Contact",
         "type_code": "resource",
         "uniqueness": false
@@ -177,7 +177,7 @@
         "position": 70,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 3[Credits] and draw 1 card.",
+        "text": "Gain 3[credit] and draw 1 card.",
         "title": "Green Level Clearance",
         "type_code": "operation",
         "uniqueness": false
@@ -196,7 +196,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] The Runner loses [Click], if able.\n[Subroutine] The Runner loses [Click], if able.\n[Subroutine] The Runner loses [Click], if able.",
+        "text": "[subroutine] The Runner loses [click], if able.\n[subroutine] The Runner loses [click], if able.\n[subroutine] The Runner loses [click], if able.",
         "title": "Hourglass",
         "type_code": "ice",
         "uniqueness": false
@@ -214,7 +214,7 @@
         "position": 72,
         "quantity": 3,
         "side_code": "corp",
-        "text": "2[Recurring Credits]\nUse these credits to rez ice.",
+        "text": "2[recurring-credit]\nUse these credits to rez ice.",
         "title": "Dedicated Server",
         "trash_cost": 3,
         "type_code": "asset",
@@ -233,7 +233,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] You and the Runner secretly spend 0[Credits], 1[Credits] or 2[Credits]. Reveal spent credits. If you and the Runner spent a different number of credits, move Bullfrog so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server).",
+        "text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit] or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, move Bullfrog so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server).",
         "title": "Bullfrog",
         "type_code": "ice",
         "uniqueness": false
@@ -252,7 +252,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] <trace>Trace 4</trace> If successful, the Runner cannot make another run this turn.\n[Subroutine] <trace>Trace 4</trace> If successful, end the run.",
+        "text": "[subroutine] <trace>Trace 4</trace> If successful, the Runner cannot make another run this turn.\n[subroutine] <trace>Trace 4</trace> If successful, end the run.",
         "title": "Uroboros",
         "type_code": "ice",
         "uniqueness": false
@@ -269,7 +269,7 @@
         "position": 75,
         "quantity": 3,
         "side_code": "corp",
-        "text": "X[Recurring Credits]\nUse these credits during traces. X is the number of links the Runner has.",
+        "text": "X[recurring-credit]\nUse these credits during traces. X is the number of links the Runner has.",
         "title": "Net Police",
         "trash_cost": 1,
         "type_code": "asset",
@@ -287,7 +287,7 @@
         "position": 76,
         "quantity": 3,
         "side_code": "corp",
-        "text": "1[Recurring Credits]\nUse this credit to advance ice.",
+        "text": "1[recurring-credit]\nUse this credit to advance ice.",
         "title": "Weyland Consortium: Because We Built It",
         "type_code": "identity",
         "uniqueness": false
@@ -304,7 +304,7 @@
         "position": 77,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click], [Click]: Gain 4[Credits].",
+        "text": "[click], [click]: Gain 4[credit].",
         "title": "Government Contracts",
         "type_code": "agenda",
         "uniqueness": false
@@ -323,7 +323,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "Tyrant can be advanced only while rezzed and gains \"[Subroutine] End the run.\" for each advancement token on it.",
+        "text": "Tyrant can be advanced only while rezzed and gains \"[subroutine] End the run.\" for each advancement token on it.",
         "title": "Tyrant",
         "type_code": "ice",
         "uniqueness": false
@@ -359,7 +359,7 @@
         "position": 80,
         "quantity": 3,
         "side_code": "corp",
-        "text": "<strong>Forfeit False Lead:</strong> The Runner loses [Click][Click], if able.",
+        "text": "<strong>Forfeit False Lead:</strong> The Runner loses [click][click], if able.",
         "title": "False Lead",
         "type_code": "agenda",
         "uniqueness": false

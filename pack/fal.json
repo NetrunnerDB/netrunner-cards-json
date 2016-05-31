@@ -30,7 +30,7 @@
         "position": 82,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you make a successful run, place 1 virus counter on Hemorrhage.\n[Click], <strong>2 hosted virus counters:</strong> The Corp trashes 1 card from HQ.",
+        "text": "Whenever you make a successful run, place 1 virus counter on Hemorrhage.\n[click], <strong>2 hosted virus counters:</strong> The Corp trashes 1 card from HQ.",
         "title": "Hemorrhage",
         "type_code": "program",
         "uniqueness": false
@@ -48,7 +48,7 @@
         "position": 83,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever a <strong>gray ops</strong> or <strong>black ops</strong> operation is trashed after resolving, you may give the Corp 1 bad publicity and take 1 tag.\n[Trash]: Draw 1 card for each bad publicity the Corp has.",
+        "text": "Whenever a <strong>gray ops</strong> or <strong>black ops</strong> operation is trashed after resolving, you may give the Corp 1 bad publicity and take 1 tag.\n[trash]: Draw 1 card for each bad publicity the Corp has.",
         "title": "Tallie Perrault",
         "type_code": "resource",
         "uniqueness": true
@@ -66,7 +66,7 @@
         "position": 84,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to play this event, spend [Click].\nReveal all cards in HQ.",
+        "text": "As an additional cost to play this event, spend [click].\nReveal all cards in HQ.",
         "title": "Executive Wiretaps",
         "type_code": "event",
         "uniqueness": false
@@ -84,7 +84,7 @@
         "position": 85,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+2[Memory Unit]\nWhenever you expose a card, the Corp must rez it by paying its rez cost, if able.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+2[mu]\nWhenever you expose a card, the Corp must rez it by paying its rez cost, if able.\nLimit 1 <strong>console</strong> per player.",
         "title": "Blackguard",
         "type_code": "hardware",
         "uniqueness": true
@@ -102,7 +102,7 @@
         "position": 86,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+2[Memory Unit]",
+        "text": "+2[mu]",
         "title": "CyberSolutions Mem Chip",
         "type_code": "hardware",
         "uniqueness": false
@@ -122,7 +122,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "1[Credits]: Break ice subroutine.\n1[Credits]: +1 strength.\nUse Alpha only on the outermost piece of ice protecting a server.",
+        "text": "1[credit]: Break ice subroutine.\n1[credit]: +1 strength.\nUse Alpha only on the outermost piece of ice protecting a server.",
         "title": "Alpha",
         "type_code": "program",
         "uniqueness": false
@@ -142,7 +142,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "1[Credits]: Break ice subroutine.\n1[Credits]: +1 strength.\nUse Omega only on the innermost piece of ice protecting a server.",
+        "text": "1[credit]: Break ice subroutine.\n1[credit]: +1 strength.\nUse Omega only on the innermost piece of ice protecting a server.",
         "title": "Omega",
         "type_code": "program",
         "uniqueness": false
@@ -177,7 +177,7 @@
         "position": 90,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, spend [Click].\n\nGain 5[Credits] and draw 2 cards.",
+        "text": "As an additional cost to play this operation, spend [click].\n\nGain 5[credit] and draw 2 cards.",
         "title": "Blue Level Clearance",
         "type_code": "operation",
         "uniqueness": false
@@ -193,7 +193,7 @@
         "position": 91,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Each time the Runner accesses an agenda from this server, he or she must spend [Click] as an additional cost in order to steal it. This applies even during the run on which the Runner trashes Strongbox.",
+        "text": "Each time the Runner accesses an agenda from this server, he or she must spend [click] as an additional cost in order to steal it. This applies even during the run on which the Runner trashes Strongbox.",
         "title": "Strongbox",
         "trash_cost": 1,
         "type_code": "upgrade",
@@ -231,7 +231,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "[Subroutine] Look at the top card of R&D. You may add that card to the bottom of R&D.\n[Subroutine] Do 1 net damage.",
+        "text": "[subroutine] Look at the top card of R&D. You may add that card to the bottom of R&D.\n[subroutine] Do 1 net damage.",
         "title": "Yagura",
         "type_code": "ice",
         "uniqueness": false
@@ -284,7 +284,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "If there is no installed <strong>fracter</strong>, Wraparound has +7 strength.\n[Subroutine] End the run.",
+        "text": "If there is no installed <strong>fracter</strong>, Wraparound has +7 strength.\n[subroutine] End the run.",
         "title": "Wraparound",
         "type_code": "ice",
         "uniqueness": false
@@ -302,7 +302,7 @@
         "position": 97,
         "quantity": 3,
         "side_code": "corp",
-        "text": "You start the game with 10[Credits] and 1 bad publicity.",
+        "text": "You start the game with 10[credit] and 1 bad publicity.",
         "title": "GRNDL: Power Unleashed",
         "type_code": "identity",
         "uniqueness": false
@@ -338,7 +338,7 @@
         "position": 99,
         "quantity": 3,
         "side_code": "corp",
-        "text": "GRNDL Refinery can be advanced.\n[Click], [Trash]: Gain 4[Credits] for each advancement token on GRNDL Refinery.",
+        "text": "GRNDL Refinery can be advanced.\n[click], [trash]: Gain 4[credit] for each advancement token on GRNDL Refinery.",
         "title": "GRNDL Refinery",
         "trash_cost": 2,
         "type_code": "asset",
@@ -356,7 +356,7 @@
         "position": 100,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 1[Credits]. Gain [Click] if you have not played another Subliminal Messaging this turn.\nIf the Runner did not make a run during his or her last turn, you may add Subliminal Messaging to HQ from Archives when your turn begins.",
+        "text": "Gain 1[credit]. Gain [click] if you have not played another Subliminal Messaging this turn.\nIf the Runner did not make a run during his or her last turn, you may add Subliminal Messaging to HQ from Archives when your turn begins.",
         "title": "Subliminal Messaging",
         "type_code": "operation",
         "uniqueness": false

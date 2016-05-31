@@ -12,7 +12,7 @@
         "position": 101,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Play only as your first [Click].\nThe first time you access an agenda this turn, gain 7[Credits].",
+        "text": "Play only as your first [click].\nThe first time you access an agenda this turn, gain 7[credit].",
         "title": "Power to the People",
         "type_code": "event",
         "uniqueness": false
@@ -30,7 +30,7 @@
         "position": 102,
         "quantity": 3,
         "side_code": "runner",
-        "text": "2[Credits]: Swap a piece of <strong>barrier</strong> ice currently being encountered with a piece of ice directly before or after it. The run continues from this new position. You are still encountering that ice.",
+        "text": "2[credit]: Swap a piece of <strong>barrier</strong> ice currently being encountered with a piece of ice directly before or after it. The run continues from this new position. You are still encountering that ice.",
         "title": "Surfer",
         "type_code": "program",
         "uniqueness": false
@@ -48,7 +48,7 @@
         "position": 103,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Trash]: The Corp cannot rez the outermost piece of ice during a run on any server this turn.",
+        "text": "[trash]: The Corp cannot rez the outermost piece of ice during a run on any server this turn.",
         "title": "DDoS",
         "type_code": "resource",
         "uniqueness": false
@@ -84,7 +84,7 @@
         "position": 105,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Play only as your first [Click].\nEach player draws 3 cards.",
+        "text": "Play only as your first [click].\nEach player draws 3 cards.",
         "title": "Fisk Investment Seminar",
         "type_code": "event",
         "uniqueness": false
@@ -100,7 +100,7 @@
         "position": 106,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Host up to 3 cards from your grip facedown on Bookmark (you may look at these cards at any time).\n[Click] or [Trash]: Add all cards on Bookmark to your grip.",
+        "text": "[click]: Host up to 3 cards from your grip facedown on Bookmark (you may look at these cards at any time).\n[click] or [trash]: Add all cards on Bookmark to your grip.",
         "title": "Bookmark",
         "type_code": "hardware",
         "uniqueness": false
@@ -118,7 +118,7 @@
         "position": 107,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you make a successful run, place 1 power counter on DaVinci.\n[Trash]: Install a card from your grip with an install cost equal to or less than the number of power counters on DaVinci, ignoring the install cost.",
+        "text": "Whenever you make a successful run, place 1 power counter on DaVinci.\n[trash]: Install a card from your grip with an install cost equal to or less than the number of power counters on DaVinci, ignoring the install cost.",
         "title": "DaVinci",
         "type_code": "program",
         "uniqueness": false
@@ -136,7 +136,7 @@
         "position": 108,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to spend [Click] to trash a resource (not through a card ability), the Corp must pay 2[Credits].\n\n(errata from FAQ 3.0.1)",
+        "text": "As an additional cost to spend [click] to trash a resource (not through a card ability), the Corp must pay 2[credit].\n\n(errata from FAQ 3.0.1)",
         "title": "Wireless Net Pavilion",
         "type_code": "resource",
         "uniqueness": true
@@ -263,7 +263,7 @@
         "position": 115,
         "quantity": 3,
         "side_code": "corp",
-        "text": "If the Runner accesses Product Placement from R&D, he or she must reveal it.\nWhen the Runner accesses Product Placement, the Corp gains 2[Credits]. Ignore this effect if Product Placement is accessed from Archives.",
+        "text": "If the Runner accesses Product Placement from R&D, he or she must reveal it.\nWhen the Runner accesses Product Placement, the Corp gains 2[credit]. Ignore this effect if Product Placement is accessed from Archives.",
         "title": "Product Placement",
         "trash_cost": 2,
         "type_code": "upgrade",
@@ -282,7 +282,7 @@
         "position": 116,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Worlds Plaza can host up to 3 assets.\n[Click]: Install an asset from HQ on Worlds Plaza and rez it, lowering its rez cost by 2, if able.",
+        "text": "Worlds Plaza can host up to 3 assets.\n[click]: Install an asset from HQ on Worlds Plaza and rez it, lowering its rez cost by 2, if able.",
         "title": "Worlds Plaza",
         "trash_cost": 5,
         "type_code": "asset",
@@ -319,7 +319,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "Tour Guide gains \"[Subroutine] End the run.\" for each rezzed asset you have.",
+        "text": "Tour Guide gains \"[subroutine] End the run.\" for each rezzed asset you have.",
         "title": "Tour Guide",
         "type_code": "ice",
         "uniqueness": false
@@ -337,7 +337,7 @@
         "position": 119,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When your turn begins, gain 1[Credits] if there is a rezzed asset installed in this server.\nLimit 1 <strong>region</strong> per server.",
+        "text": "When your turn begins, gain 1[credit] if there is a rezzed asset installed in this server.\nLimit 1 <strong>region</strong> per server.",
         "title": "Expo Grid",
         "trash_cost": 3,
         "type_code": "upgrade",

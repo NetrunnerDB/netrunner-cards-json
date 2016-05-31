@@ -22,7 +22,7 @@
     {
         "code": "02084",
         "title": "Kontaktnetz knüpfen",
-        "text": "Entferne 1 Markierung. Wenn du 1[Credits] zahlst, darfst du Kontaktnetz knüpfen deinem Griff hinzufügen, statt es zu zerstören.",
+        "text": "Entferne 1 Markierung. Wenn du 1[credit] zahlst, darfst du Kontaktnetz knüpfen deinem Griff hinzufügen, statt es zu zerstören.",
         "flavor": "Sie zog es vor, ihre Geschäfte in Clubs abzuwickeln. Irgendwas an den Lichtern und den Tänzern vernebelte den Einfaltspinseln der Konzerne, mit denen sie sich dort traf, die Sinne."
     },
     {
@@ -35,7 +35,7 @@
         "code": "02086",
         "title": "Pheromone",
         "keywords": "Virus",
-        "text": "X[Recurring Credits]\nVerwende diese Credits in Runs auf HQ. X ist die Zahl der Viruszähler auf Pheromone.\nImmer, wenn du einen erfolgreichen Run auf HQ durchführst, lege 1 Viruszähler auf Pheromone."
+        "text": "X[recurring-credit]\nVerwende diese Credits in Runs auf HQ. X ist die Zahl der Viruszähler auf Pheromone.\nImmer, wenn du einen erfolgreichen Run auf HQ durchführst, lege 1 Viruszähler auf Pheromone."
     },
     {
         "code": "02087",
@@ -53,7 +53,7 @@
         "code": "02089",
         "title": "Krabbelviech",
         "keywords": "Ice-Brecher - Killer - Cloud",
-        "text": "Falls du mindestens 2[Link] hast, sind die Speicherkosten von Krabbelviech 0, auch, falls er nicht installiert ist.\n2[Credits]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[Credits]: +1 Stärke",
+        "text": "Falls du mindestens 2[link] hast, sind die Speicherkosten von Krabbelviech 0, auch, falls er nicht installiert ist.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[credit]: +1 Stärke",
         "flavor": "\"Die kltzekleine Spinne krabbelt hoch die Datenrinne...\"\n-Chaostheorie"
     },
     {
@@ -66,14 +66,14 @@
         "code": "02091",
         "title": "Kati Jones",
         "keywords": "Kontakt",
-        "text": "Du kannst Kati Jones nicht öfter als einmal pro Zug verwenden.\n[Click]: Lege 3[Credits] aus der Bank auf Kati Jones.\n[Click]: Nimm alles Credits von Kati Jones.",
+        "text": "Du kannst Kati Jones nicht öfter als einmal pro Zug verwenden.\n[click]: Lege 3[credit] aus der Bank auf Kati Jones.\n[click]: Nimm alles Credits von Kati Jones.",
         "flavor": "\"Ihr seid nicht die einzige Art von Runnern in New Angeles.\""
     },
     {
         "code": "02092",
         "title": "Eva-Kampagne",
         "keywords": "Werbung",
-        "text": "Lege 16[Credits] aus der Credit-Bank auf Eva-Kampagne, wenn sie geladen wird. Wenn keine Credits mehr auf Eva-Kampagne sind, zerstöre sie.\nNimm 2[Credits] von Eva-Kampagne, wenn dein Zug beginnt."
+        "text": "Lege 16[credit] aus der Credit-Bank auf Eva-Kampagne, wenn sie geladen wird. Wenn keine Credits mehr auf Eva-Kampagne sind, zerstöre sie.\nNimm 2[credit] von Eva-Kampagne, wenn dein Zug beginnt."
     },
     {
         "code": "02093",
@@ -85,7 +85,7 @@
         "code": "02094",
         "title": "Strudel",
         "keywords": "Falle",
-        "text": "[Subroutine] Der Runner kann sich für den Rest dieses Runs nicht ausstöpseln. Zerstöre Strudel.",
+        "text": "[subroutine] Der Runner kann sich für den Rest dieses Runs nicht ausstöpseln. Zerstöre Strudel.",
         "flavor": "\"Dieses Ice ist Scheiße.\" -g00ru"
     },
     {
@@ -99,7 +99,7 @@
         "code": "02096",
         "title": "Datenspürhund",
         "keywords": "Wächter - Spürhund - Beobachter",
-        "text": "[Subroutine] <trace>Aufspüren 2</trace> Bei Erfolg sieh dir eine Anzahl Karten oben vom Stapel des Runners an, die der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entspricht. Zerstöre 1 dieser Karten und lege den Rest in beliebniger Reihenfolge zurück.",
+        "text": "[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg sieh dir eine Anzahl Karten oben vom Stapel des Runners an, die der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entspricht. Zerstöre 1 dieser Karten und lege den Rest in beliebniger Reihenfolge zurück.",
         "flavor": "Schnüffel"
     },
     {
@@ -113,14 +113,14 @@
         "code": "02098",
         "title": "Bergung",
         "keywords": "Code-Zugang - Spürhund",
-        "text": "Bergung kann nur entwickelt werden, solange es geladen ist, und erhält “[Subroutine] <trace>Trace 2</trace> Bei Erfolg verpasse dem Runner 1 Markierung“ für jeden Entwicklungszähler auf ihm.",
+        "text": "Bergung kann nur entwickelt werden, solange es geladen ist, und erhält “[subroutine] <trace>Trace 2</trace> Bei Erfolg verpasse dem Runner 1 Markierung“ für jeden Entwicklungszähler auf ihm.",
         "flavor": "Du bist hier nicht mehr in Kansas."
     },
     {
         "code": "02099",
         "title": "Simone Diego",
         "keywords": "Sysop",
-        "text": "2[Recurring Credits]\nVerwende diese Credits, um Karten zu entwickeln, die sich in diesem System befinden, oder es beschützen.",
+        "text": "2[recurring-credit]\nVerwende diese Credits, um Karten zu entwickeln, die sich in diesem System befinden, oder es beschützen.",
         "flavor": "\"Ein Job, den man nur einmal gemacht hat, ist ein Job, den man richtig gemacht hat.\""
     },
     {

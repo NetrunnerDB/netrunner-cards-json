@@ -2,7 +2,7 @@
     {
         "code": "08081",
         "title": "Klischee",
-        "text": "Wenn dein Zug beginnt, lege 1 Wirkungszähler auf Klischee.\n[Click], <strong>entferne Klischee aus dem Spiel</strong>: Mische für jeden Wirkungszähler auf Klischee 1 Karte aus deiner Ablage in deinen Stapel.",
+        "text": "Wenn dein Zug beginnt, lege 1 Wirkungszähler auf Klischee.\n[click], <strong>entferne Klischee aus dem Spiel</strong>: Mische für jeden Wirkungszähler auf Klischee 1 Karte aus deiner Ablage in deinen Stapel.",
         "flavor": "\"Ist dir schon mal aufgefallen, dass alles immer wieder kommt? Was heute cool ist, war es bereits früher schon mal. Darum behalte ich Kopien von allem!\" -Prinzessin Space Kitten"
     },
     {
@@ -16,7 +16,7 @@
         "code": "08083",
         "title": "Drogendealer",
         "keywords": "Kontakt",
-        "text": "Sobald dein Zug beginnt, verlierst du 1[Credits].\nSobald der Zug des Kons beginnt, ziehe 1 Karte.",
+        "text": "Sobald dein Zug beginnt, verlierst du 1[credit].\nSobald der Zug des Kons beginnt, ziehe 1 Karte.",
         "flavor": "\"Nur ein billiges Imitat für die Touristos. Echte Designerware wird nicht auf der Straße angeboten.\""
     },
     {
@@ -37,7 +37,7 @@
         "code": "08086",
         "title": "Filmkritikerin",
         "keywords": "Kontakt",
-        "text": "Filmkritikerin kann eine Agenda hosten. Sobald du auf eine Agenda zugreifst, kannst du diese Agenda auf Filmkritikerin hosten (auf die Agenda wird nicht länger zugegriffen und sie ist nicht installiert)\n[Click],[Click]: Füge eine auf Filmkritikerin gehostete Agenda deiner Punktezone hinzu.",
+        "text": "Filmkritikerin kann eine Agenda hosten. Sobald du auf eine Agenda zugreifst, kannst du diese Agenda auf Filmkritikerin hosten (auf die Agenda wird nicht länger zugegriffen und sie ist nicht installiert)\n[click],[click]: Füge eine auf Filmkritikerin gehostete Agenda deiner Punktezone hinzu.",
         "flavor": "\"Selbst meine Wüstenmaus könnte ein besseres Drehbuch schreiben.\""
     },
     {
@@ -50,20 +50,20 @@
         "code": "08088",
         "title": "Ronald Five",
         "keywords": "Bioroid",
-        "text": "\nSobald der Runner eine Karte des Kons zerstört (Ronald Five eingeschlossen), verliert er [Click].",
+        "text": "\nSobald der Runner eine Karte des Kons zerstört (Ronald Five eingeschlossen), verliert er [click].",
         "flavor": "\"Das ist unser am meisten raubkopiertes Produkt bisher. Gute Arbeit, Leute.\""
     },
     {
         "code": "08089",
         "title": "Vollstrecker 1.0",
         "keywords": "Wächter - Bioroid - Zerstörer - AP",
-        "text": "Als zusätzliche Kosten, um Vollstrecker 1.0 zu laden, muss der Kon eine Agenda aufgeben.\nDer Runner kann [Click] ausgeben, um eine beliebige Subroutine auf Vollstrecker 1.0 auszuschalten.\n[Subroutine] Zerstöre 1 Programm.\n[Subroutine] Verursache 1 Hirn-Schaden.\n[Subroutine] Zerstöre 1 <strong>Konsole</strong>.\n[Subroutine] Zerstöre alle <strong>Virtuell</strong>-Ressourcen."
+        "text": "Als zusätzliche Kosten, um Vollstrecker 1.0 zu laden, muss der Kon eine Agenda aufgeben.\nDer Runner kann [click] ausgeben, um eine beliebige Subroutine auf Vollstrecker 1.0 auszuschalten.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Zerstöre 1 <strong>Konsole</strong>.\n[subroutine] Zerstöre alle <strong>Virtuell</strong>-Ressourcen."
     },
     {
         "code": "08090",
         "title": "Das ist eine Falle!",
         "keywords": "Falle",
-        "text": "Sobald Das ist eine Falle! enthüllt wird, verursache 2 Netz-Schaden\n[Subroutine] Der Runner zerstört 1 seiner installierten Karten. Zerstöre Das ist eine Falle!.",
+        "text": "Sobald Das ist eine Falle! enthüllt wird, verursache 2 Netz-Schaden\n[subroutine] Der Runner zerstört 1 seiner installierten Karten. Zerstöre Das ist eine Falle!.",
         "flavor": "Ich habe dich gewarnt."
     },
     {
@@ -88,13 +88,13 @@
         "code": "08094",
         "title": "Explosionsorgie",
         "keywords": "Simsinn",
-        "text": "Falls von F&E auf Explosionsorgie zugegriffen wird, muss der Runner ihn aufdecken.\nWenn der Runner auf Explosionsorgie zugreift, kannst du 5[Credits] erhalten.",
+        "text": "Falls von F&E auf Explosionsorgie zugegriffen wird, muss der Runner ihn aufdecken.\nWenn der Runner auf Explosionsorgie zugreift, kannst du 5[credit] erhalten.",
         "flavor": "Es ist wie Lethal Action 3, nur mit mehr Explosionen."
     },
     {
         "code": "08095",
         "title": "Vorpremiere",
-        "text": "Wenn dein Zug beginnt, kannst du 1[Credits] zahlen. Falls du das tust, lege 1 Entwicklungsmarker auf eine Karte in einem System, die entwickelt werden kann."
+        "text": "Wenn dein Zug beginnt, kannst du 1[credit] zahlen. Falls du das tust, lege 1 Entwicklungsmarker auf eine Karte in einem System, die entwickelt werden kann."
     },
     {
         "code": "08096",
@@ -118,7 +118,7 @@
         "code": "08099",
         "title": "Hintertürgeschäfte",
         "keywords": "Transaktion",
-        "text": "Zerstöre eine in einem System installierte Karte und du erhältst 3[Credits] für jeden Entwicklungsmarker auf dieser Karte.",
+        "text": "Zerstöre eine in einem System installierte Karte und du erhältst 3[credit] für jeden Entwicklungsmarker auf dieser Karte.",
         "flavor": "Manchmal müssen Kons Projekte einstellen. Aber das heißt nicht, dass sie ans ihnen nichts mehr verdienen können."
     },
     {

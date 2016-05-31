@@ -9,7 +9,7 @@
         "code": "02042",
         "title": "Joshua B.",
         "keywords": "Kontakt",
-        "text": "Gdy zaczynasz turę, możesz otrzymać [Click]. Jeśli otrzymujesz, weź 1 tag, gdy kończysz turę.",
+        "text": "Gdy zaczynasz turę, możesz otrzymać [click]. Jeśli otrzymujesz, weź 1 tag, gdy kończysz turę.",
         "flavor": "\"Moje rozszerzenia mają dożywotnią gwarancję i są warte tego ryzyka.\""
     },
     {
@@ -36,7 +36,7 @@
         "code": "02046",
         "title": "Teoria Chaosu: Cudowne dziecko",
         "keywords": "G-mod",
-        "text": "+1[Memory Unit]",
+        "text": "+1[mu]",
         "flavor": "\"Poznałeś już Dinosaurusa?\""
     },
     {
@@ -54,7 +54,7 @@
         "code": "02049",
         "title": "Prywatny Warsztat",
         "keywords": "Miejsce",
-        "text": "[Click]: Hostuj program lub sprzęt ze swojej garści na Prywatnym warsztacie i połóż na nim znaczniki zasilania w liczbie równej jego kosztowi instalacji.\n1[Credits]: Usuń 1 znacznik zasilania z hostowanej karty.\nGdy zaczynasz turę, usuń 1 znacznik zasilania z hostowanej karty.\nGdy na hostowanej karcie nie ma już znaczników zasilania, zainstaluj ją, ignorując wszystkie koszty."
+        "text": "[click]: Hostuj program lub sprzęt ze swojej garści na Prywatnym warsztacie i połóż na nim znaczniki zasilania w liczbie równej jego kosztowi instalacji.\n1[credit]: Usuń 1 znacznik zasilania z hostowanej karty.\nGdy zaczynasz turę, usuń 1 znacznik zasilania z hostowanej karty.\nGdy na hostowanej karcie nie ma już znaczników zasilania, zainstaluj ją, ignorując wszystkie koszty."
     },
     {
         "code": "02050",
@@ -72,14 +72,14 @@
         "code": "02052",
         "title": "Żmija",
         "keywords": "Brama kodowa - Tropiciel",
-        "text": "[Subroutine] <trace>Trace 3</trace> Jeśli udane, runner traci [Click], jeśli może.\n[Subroutine] <trace>Trace 3</trace> Jeśli udane, zakończ skok.",
+        "text": "[subroutine] <trace>Trace 3</trace> Jeśli udane, runner traci [click], jeśli może.\n[subroutine] <trace>Trace 3</trace> Jeśli udane, zakończ skok.",
         "flavor": "Nie Depcz Mnie"
     },
     {
         "code": "02053",
         "title": "Krawędź świata",
         "keywords": "Zasadzka",
-        "text": "Jeśli Krawędź świata jest zainstalowana, a ty zapłacisz 3[Credits], gdy runner uzyska niej dostęp, zadaj 1 obrażenie mózgu za każdy lód chroniący ten serwer."
+        "text": "Jeśli Krawędź świata jest zainstalowana, a ty zapłacisz 3[credit], gdy runner uzyska niej dostęp, zadaj 1 obrażenie mózgu za każdy lód chroniący ten serwer."
     },
     {
         "code": "02054",
@@ -91,40 +91,40 @@
         "code": "02055",
         "title": "Oznaczone konto",
         "keywords": "Transakcja",
-        "text": "Gdy zaczynasz turę, weź 1[Credits] z Oznaczonego konta, jeśli to możliwe.\n[Click]: Połóż 3[Credits] z banku na Oznaczonym koncie."
+        "text": "Gdy zaczynasz turę, weź 1[credit] z Oznaczonego konta, jeśli to możliwe.\n[click]: Połóż 3[credit] z banku na Oznaczonym koncie."
     },
     {
         "code": "02056",
         "title": "Wyskakujące okienko",
         "keywords": "Brama kodowa - Reklama",
-        "text": "Gdy runner spotyka Wyskakujące okienko, pobierz 1[Credits].\n[Subroutine] Zakończ skok, jeśli runner nie zapłaci 1[Credits].",
+        "text": "Gdy runner spotyka Wyskakujące okienko, pobierz 1[credit].\n[subroutine] Zakończ skok, jeśli runner nie zapłaci 1[credit].",
         "flavor": "\"Spróbuj je zamknąć. Śmiało. Zobacz, co zrobi.\" - Teoria Chaosu"
     },
     {
         "code": "02057",
         "title": "Drwal",
         "keywords": "Strażnik - AP",
-        "text": "Zrezowany Drwal może być awansowany i otrzymuje \"[Subroutine] Zadaj 1 obrażenie sprzętu.\" za każdy leżący na nim żeton zaawansowania.",
+        "text": "Zrezowany Drwal może być awansowany i otrzymuje \"[subroutine] Zadaj 1 obrażenie sprzętu.\" za każdy leżący na nim żeton zaawansowania.",
         "flavor": "Ciach, ciach."
     },
     {
         "code": "02058",
         "title": "Komercjalizacja",
         "keywords": "Transakcja",
-        "text": "Wybierz lód. Pobierz 1[Credits] za każdy żeton zaawansowania leżący na tym lodzie.",
+        "text": "Wybierz lód. Pobierz 1[credit] za każdy żeton zaawansowania leżący na tym lodzie.",
         "flavor": "Dział Zastosowań Pobocznych zwiększał swój dochód o 37% rocznie, od kiedy korporacja odkryła, że większość z jej projektów nadaje się na świetne zabawki."
     },
     {
         "code": "02059",
         "title": "Prywatne kontrakty",
         "keywords": "Transakcja",
-        "text": "Gdy rezujesz Prywatne kontrakty, połóż na nich 14[Credits] z banku. Skasuj Prywatne kontrakty, gdy nie ma już na nich kredytów.\n[Click]: Weź 2[Credits] z Prywatnych kontraktów."
+        "text": "Gdy rezujesz Prywatne kontrakty, połóż na nich 14[credit] z banku. Skasuj Prywatne kontrakty, gdy nie ma już na nich kredytów.\n[click]: Weź 2[credit] z Prywatnych kontraktów."
     },
     {
         "code": "02060",
         "title": "Chimera",
         "keywords": "Mityczny",
-        "text": "Gdy rezujesz chimerę, wybierz <strong>strażnika</strong>, <strong>bramę kodową</strong> lub <strong>barierę</strong>. Chimera zyskuje taki podrodzaj aż do odrezowania.\nOdrezuj Chimerę, gdy kończy się tura.\n[Subroutine] Zakończ skok.",
+        "text": "Gdy rezujesz chimerę, wybierz <strong>strażnika</strong>, <strong>bramę kodową</strong> lub <strong>barierę</strong>. Chimera zyskuje taki podrodzaj aż do odrezowania.\nOdrezuj Chimerę, gdy kończy się tura.\n[subroutine] Zakończ skok.",
         "flavor": "Trzy głowy. Jeden wielki ból głowy."
     }
 ]

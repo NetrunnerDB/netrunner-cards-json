@@ -17,7 +17,7 @@
         "code": "08043",
         "title": "Turntable",
         "keywords": "Konsole",
-        "text": "+1[Memory Unit]\nImmer wenn du eine Agenda stiehlst, kannst du diese Agenda gegen eine Agenda im Punktebereich des Kons austauschen.\nNur 1 <strong>Konsole</strong> pro Spieler."
+        "text": "+1[mu]\nImmer wenn du eine Agenda stiehlst, kannst du diese Agenda gegen eine Agenda im Punktebereich des Kons austauschen.\nNur 1 <strong>Konsole</strong> pro Spieler."
     },
     {
         "code": "08044",
@@ -36,7 +36,7 @@
         "code": "08046",
         "title": "Brecheisen",
         "keywords": "Ice-Brecher - Decoder - Cloud",
-        "text": "Falls du mindestens 2 [Link] hast, sind die Speicherkosten von Brecheisen 0, selbst wenn es nicht installiert ist.\nBrecheisen hat +1 Stärke für jeden installierten <strong>Ice-Brecher</strong>.\n[Trash]: Schalte bis zu 3 Subroutinen eines <strong>Code-Zugangs</strong> aus."
+        "text": "Falls du mindestens 2 [link] hast, sind die Speicherkosten von Brecheisen 0, selbst wenn es nicht installiert ist.\nBrecheisen hat +1 Stärke für jeden installierten <strong>Ice-Brecher</strong>.\n[trash]: Schalte bis zu 3 Subroutinen eines <strong>Code-Zugangs</strong> aus."
     },
     {
         "code": "08047",
@@ -47,7 +47,7 @@
     {
         "code": "08048",
         "title": "Analoge Träumer",
-        "text": "[Click]: Führe einen Run auf F&E durch. Bei Erfolg kannst du, statt auf Karten zuzugreifen, eine nicht geladene Karte auswählen, die kein Ice ist und keine Entwicklungsmarker hat. Der Kon mischt diese Karte in F&E.",
+        "text": "[click]: Führe einen Run auf F&E durch. Bei Erfolg kannst du, statt auf Karten zuzugreifen, eine nicht geladene Karte auswählen, die kein Ice ist und keine Entwicklungsmarker hat. Der Kon mischt diese Karte in F&E.",
         "flavor": "Manchmal bedeutet Fortschritt eine Rückkehr in die Vergangenheit."
     },
     {
@@ -75,7 +75,7 @@
         "code": "08052",
         "title": "Laborhund",
         "keywords": "Falle",
-        "text": "[Subroutine] Der Runner zerstört eine installierte Hardware. Zerstöre Laborhund.",
+        "text": "[subroutine] Der Runner zerstört eine installierte Hardware. Zerstöre Laborhund.",
         "flavor": "„Erinnert ihr euch an die FCC-Regulierungen gegen destruktive Interferenzen? Nein? Ah, ich denke, das war vor eurer Zeit.“\n-Cailan Heinrich, Senior-Programmiererin"
     },
     {
@@ -89,34 +89,34 @@
         "code": "08054",
         "title": "Ryon Knight",
         "keywords": "Sysop",
-        "text": "[Trash]: Verursache 1 Hirn-Schaden. Verwende diese Fähigkeit nur während eines Runs auf dieses System und nur, falls der Runner keine unverbrauchten Klicks mehr hat.",
+        "text": "[trash]: Verursache 1 Hirn-Schaden. Verwende diese Fähigkeit nur während eines Runs auf dieses System und nur, falls der Runner keine unverbrauchten Klicks mehr hat.",
         "flavor": "\"Bioroiden erkennen Bewusstsein bei anderen, aber nicht bei sich selbst.\""
     },
     {
         "code": "08055",
         "title": "Hellsichtiger Überwacher",
         "keywords": "Code-Zugang - Psi",
-        "text": "[Subroutine] Du und der Runner zahlen verborgen 0[Credits], 1[Credits], or 2[Credits]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheidet, lege 1 Entwicklungsmarker auf eine installierte Karte und beende den Run."
+        "text": "[subroutine] Du und der Runner zahlen verborgen 0[credit], 1[credit], or 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheidet, lege 1 Entwicklungsmarker auf eine installierte Karte und beende den Run."
     },
     {
         "code": "08056",
         "title": "Einschluss",
         "keywords": "Code-Zugang",
-        "text": "[Subroutine] Der Runner kann für den Rest dieses Zugs keine Karten ziehen.",
+        "text": "[subroutine] Der Runner kann für den Rest dieses Zugs keine Karten ziehen.",
         "flavor": "„Wenn deine Kommunikation unterbrochen wird, bist du von deinen Ressourcen abgeschnitten. Als nächstes folgt mit Sicherheit ein Angriff.“-Playbook"
     },
     {
         "code": "08057",
         "title": "Die kleine Lokomotive",
         "keywords": "Code-Zugang",
-        "text": "[Subroutine] Beende den Run.\n[Subroutine] Beende den Run.\n[Subroutine] Der Runner erhält 5[Credits].",
+        "text": "[subroutine] Beende den Run.\n[subroutine] Beende den Run.\n[subroutine] Der Runner erhält 5[credit].",
         "flavor": "„Ein Sysop ist mehr als ein kleines Rädchen in der Maschinerie des Kons. Sie haben Träume - und Albträume - wie wir alle.“-Kate „Mac“ McCaffrey"
     },
     {
         "code": "08058",
         "title": "Sanierung von Oaktown",
         "keywords": "Initiative - Öffentlich",
-        "text": "Installiere Sanierung von Oaktown offen.\nSobald du Sanierung von Oaktown entwickelst, erhältst du 2[Credits] (oder 3[Credits], falls sich 5 oder mehr Entwicklungsmarker auf Sanierung von Oaktown befinden)."
+        "text": "Installiere Sanierung von Oaktown offen.\nSobald du Sanierung von Oaktown entwickelst, erhältst du 2[credit] (oder 3[credit], falls sich 5 oder mehr Entwicklungsmarker auf Sanierung von Oaktown befinden)."
     },
     {
         "code": "08059",
@@ -128,6 +128,6 @@
         "code": "08060",
         "title": "Treibsand",
         "keywords": "Barriere",
-        "text": "Wenn der Runner auf Treibsand trifft, lege 1 Wirkungszähler darauf.\nTreibsand hat +1 Stärke für jeden Wirkungszähler darauf.\n[Subroutine] Beende den Run."
+        "text": "Wenn der Runner auf Treibsand trifft, lege 1 Wirkungszähler darauf.\nTreibsand hat +1 Stärke für jeden Wirkungszähler darauf.\n[subroutine] Beende den Run."
     }
 ]

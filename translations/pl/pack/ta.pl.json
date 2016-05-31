@@ -3,13 +3,13 @@
         "code": "02021",
         "title": "Wamp",
         "keywords": "Skok - Sabotaż",
-        "text": "Przeprowadź skok na HQ. Jeśli jest udany, zamiast uzyskać dostęp do kart, możesz zapłacić X[Credits], aby korp stracił do X[Credits], następnie otrzymujesz 1 tag.",
+        "text": "Przeprowadź skok na HQ. Jeśli jest udany, zamiast uzyskać dostęp do kart, możesz zapłacić X[credit], aby korp stracił do X[credit], następnie otrzymujesz 1 tag.",
         "flavor": "W wyrzucaniu kredytów była pewna schadenfreude."
     },
     {
         "code": "02022",
         "title": "Uwolnione konto",
-        "text": "Gdy instalujesz Uwolnione konto, połóż na nim 16[Credits]. Skasuj Uwolnione konto, gdy nie ma na nim kredytów.\n[Click]: Weź 4[Credits] z Uwolnionego konta.",
+        "text": "Gdy instalujesz Uwolnione konto, połóż na nim 16[credit]. Skasuj Uwolnione konto, gdy nie ma na nim kredytów.\n[click]: Weź 4[credit] z Uwolnionego konta.",
         "flavor": "Łatwiej wydawać cudze pieniądze."
     },
     {
@@ -22,14 +22,14 @@
         "code": "02024",
         "title": "Implanty dotykowe e3",
         "keywords": "Mod",
-        "text": "Zawsze gdy złamiesz podprogram lodu, możesz zapłacić 1[Credits], aby złamać 1 dodatkowy podprogram tego lodu.",
+        "text": "Zawsze gdy złamiesz podprogram lodu, możesz zapłacić 1[credit], aby złamać 1 dodatkowy podprogram tego lodu.",
         "flavor": "Linia implantów CyberSolutions e3 jest dedykowana pamięci mięśniowej i odpowiedzi autonomicznej, co pozwala mózgowi skupić się na procesach intelektualnych."
     },
     {
         "code": "02025",
         "title": "Szantażowany pracownik",
         "keywords": "Kontakt - Połączenie",
-        "text": "1[Recurring Credits]\nUżyj tego kredytu podczas namierzania.\nPobierasz 1[Credits] zawsze gdy korp rezuje lód."
+        "text": "1[recurring-credit]\nUżyj tego kredytu podczas namierzania.\nPobierasz 1[credit] zawsze gdy korp rezuje lód."
     },
     {
         "code": "02026",
@@ -41,14 +41,14 @@
         "code": "02027",
         "title": "Śnieżka",
         "keywords": "Lodołamacz - Młot",
-        "text": "1[Credits]: Złam podprogram <strong>bariery</strong>.\n1[Credits]: +1 siły.\nZawsze gdy użyjesz Śnieżki do złamania podprogramu, do końca skoku ma ona +1 siły.",
+        "text": "1[credit]: Złam podprogram <strong>bariery</strong>.\n1[credit]: +1 siły.\nZawsze gdy użyjesz Śnieżki do złamania podprogramu, do końca skoku ma ona +1 siły.",
         "flavor": "\"Jeśli śnieżka stanie się duża, możesz z niej zrobić bałwana!\" - Teoria Chaosu"
     },
     {
         "code": "02028",
         "title": "Kość pamięci Dysona",
         "keywords": "Chip - Połączenie",
-        "text": "+1[Memory Unit], +1[Link]",
+        "text": "+1[mu], +1[link]",
         "flavor": "Archaiczna, ale niezawodna."
     },
     {
@@ -61,7 +61,7 @@
         "code": "02030",
         "title": "Sherlock 1.0",
         "keywords": "Strażnik - Bioroid - Tropiciel",
-        "text": "Runner może wydać [Click], aby złamać dowolny podprogram Sherlocka 1.0.\n[Subroutine] <trace>Trace 4</trace> Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.\n[Subroutine] <trace>Trace 4</trace> Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera."
+        "text": "Runner może wydać [click], aby złamać dowolny podprogram Sherlocka 1.0.\n[subroutine] <trace>Trace 4</trace> Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.\n[subroutine] <trace>Trace 4</trace> Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera."
     },
     {
         "code": "02031",
@@ -73,7 +73,7 @@
         "code": "02032",
         "title": "Embrionalna AI",
         "keywords": "Zasadzka",
-        "text": "Runner musi odsłonić Embrionalną AI, jeśli uzyska do niej dostęp z R&D.\nGdy runner uzyska dostęp do Embrionalnej AI, zadaj 2 obrażenia sprzętu. Zignoruj tę zdolność, jeśli runner uzyska dostęp do Embrionalnej AI z Archiwów.\nAby wykraść Embrionalną AI, runner musi zapłacić dodatkowy koszt wynoszący 2[Credits]."
+        "text": "Runner musi odsłonić Embrionalną AI, jeśli uzyska do niej dostęp z R&D.\nGdy runner uzyska dostęp do Embrionalnej AI, zadaj 2 obrażenia sprzętu. Zignoruj tę zdolność, jeśli runner uzyska dostęp do Embrionalnej AI z Archiwów.\nAby wykraść Embrionalną AI, runner musi zapłacić dodatkowy koszt wynoszący 2[credit]."
     },
     {
         "code": "02033",
@@ -85,7 +85,7 @@
         "code": "02034",
         "title": "Sensei",
         "keywords": "Brama kodowa",
-        "text": "[Subroutine] Do końca tego skoku każdy napotkany lód oprócz Senseia otrzymuje \"[Subroutine] Zakończ skok\" po wszystkich swoich podprogramach.",
+        "text": "[subroutine] Do końca tego skoku każdy napotkany lód oprócz Senseia otrzymuje \"[subroutine] Zakończ skok\" po wszystkich swoich podprogramach.",
         "flavor": "Pokój i przemoc. Obydwa muszą prowadzić do tego samego."
     },
     {
@@ -116,7 +116,7 @@
     {
         "code": "02039",
         "title": "Wypoczynek dla kierownictwa",
-        "text": "Gdy zapunktujesz Wypoczynek dla kierownictwa, połóż na nim 1 znacznik projektu i wtasuj HQ do R&D.\n[Click], <strong>hostowany znacznik projektu</strong>: Dobierz 5 kart."
+        "text": "Gdy zapunktujesz Wypoczynek dla kierownictwa, połóż na nim 1 znacznik projektu i wtasuj HQ do R&D.\n[click], <strong>hostowany znacznik projektu</strong>: Dobierz 5 kart."
     },
     {
         "code": "02040",

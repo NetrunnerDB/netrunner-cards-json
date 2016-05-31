@@ -65,7 +65,7 @@
         "position": 84,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Remove 1 tag. You may pay 1[Credits] to add Networking to your grip instead of trashing it.",
+        "text": "Remove 1 tag. You may pay 1[credit] to add Networking to your grip instead of trashing it.",
         "title": "Networking",
         "type_code": "event",
         "uniqueness": false
@@ -100,7 +100,7 @@
         "position": 86,
         "quantity": 3,
         "side_code": "runner",
-        "text": "X[Recurring Credits]\nUse these credits during runs on HQ. X is the number of virus counters on Pheromones.\nWhenever you make a successful run on HQ, place 1 virus counter on Pheromones.",
+        "text": "X[recurring-credit]\nUse these credits during runs on HQ. X is the number of virus counters on Pheromones.\nWhenever you make a successful run on HQ, place 1 virus counter on Pheromones.",
         "title": "Pheromones",
         "type_code": "program",
         "uniqueness": false
@@ -154,7 +154,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "If you have at least 2[Link], the memory cost of Creeper is 0, even if it is not installed.\n2[Credits]: Break <strong>sentry</strong> subroutine.\n1[Credits]: +1 strength.",
+        "text": "If you have at least 2[link], the memory cost of Creeper is 0, even if it is not installed.\n2[credit]: Break <strong>sentry</strong> subroutine.\n1[credit]: +1 strength.",
         "title": "Creeper",
         "type_code": "program",
         "uniqueness": false
@@ -189,7 +189,7 @@
         "position": 91,
         "quantity": 3,
         "side_code": "runner",
-        "text": "You cannot use Kati Jones more than once per turn.\n[Click]: Place 3[Credits] from the bank on Kati Jones.\n[Click]: Take all credits from Kati Jones.",
+        "text": "You cannot use Kati Jones more than once per turn.\n[click]: Place 3[credit] from the bank on Kati Jones.\n[click]: Take all credits from Kati Jones.",
         "title": "Kati Jones",
         "type_code": "resource",
         "uniqueness": true
@@ -206,7 +206,7 @@
         "position": 92,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 16[Credits] from the bank on Eve Campaign when it is rezzed. When there are no credits left on Eve Campaign, trash it.\nWhen your turn begins, take 2[Credits] from Eve Campaign.",
+        "text": "Place 16[credit] from the bank on Eve Campaign when it is rezzed. When there are no credits left on Eve Campaign, trash it.\nWhen your turn begins, take 2[credit] from Eve Campaign.",
         "title": "Eve Campaign",
         "trash_cost": 5,
         "type_code": "asset",
@@ -243,7 +243,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 1,
-        "text": "[Subroutine] The Runner cannot jack out for the remainder of this run. Trash Whirlpool.",
+        "text": "[subroutine] The Runner cannot jack out for the remainder of this run. Trash Whirlpool.",
         "title": "Whirlpool",
         "type_code": "ice",
         "uniqueness": false
@@ -281,7 +281,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "[Subroutine] <trace>Trace 2</trace> If successful, look at a number of cards from the top of the Runner's stack equal to the amount by which your trace strength exceeded his or her link strength. Trash 1 of those cards, and arrange the rest in any order.",
+        "text": "[subroutine] <trace>Trace 2</trace> If successful, look at a number of cards from the top of the Runner's stack equal to the amount by which your trace strength exceeded his or her link strength. Trash 1 of those cards, and arrange the rest in any order.",
         "title": "Data Hound",
         "type_code": "ice",
         "uniqueness": false
@@ -319,7 +319,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "Salvage can be advanced only while rezzed and gains “[Subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.” for each advancement token on it.",
+        "text": "Salvage can be advanced only while rezzed and gains “[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.” for each advancement token on it.",
         "title": "Salvage",
         "type_code": "ice",
         "uniqueness": false
@@ -337,7 +337,7 @@
         "position": 99,
         "quantity": 3,
         "side_code": "corp",
-        "text": "2[Recurring Credits]\nUse these credits to advance cards in or protecting this server.",
+        "text": "2[recurring-credit]\nUse these credits to advance cards in or protecting this server.",
         "title": "Simone Diego",
         "trash_cost": 3,
         "type_code": "upgrade",

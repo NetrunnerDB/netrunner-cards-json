@@ -31,7 +31,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] <trace>Trace 2</trace> If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program.",
+        "text": "[subroutine] <trace>Trace 2</trace> If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program.",
         "title": "Sagittarius",
         "type_code": "ice",
         "uniqueness": false
@@ -68,7 +68,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] <trace>Trace 2</trace> If successful, do 1 net damage. If your trace strength is 5 or greater, do 1 net damage.",
+        "text": "[subroutine] <trace>Trace 2</trace> If successful, do 1 net damage. If your trace strength is 5 or greater, do 1 net damage.",
         "title": "Gemini",
         "type_code": "ice",
         "uniqueness": false
@@ -123,7 +123,7 @@
         "position": 87,
         "quantity": 3,
         "side_code": "corp",
-        "text": "All <strong>barrier</strong> ice have +1 strength.\nWhen you score Superior Cyberwalls, gain 1[Credits] for each rezzed <strong>barrier</strong>.",
+        "text": "All <strong>barrier</strong> ice have +1 strength.\nWhen you score Superior Cyberwalls, gain 1[credit] for each rezzed <strong>barrier</strong>.",
         "title": "Superior Cyberwalls",
         "type_code": "agenda",
         "uniqueness": false
@@ -140,7 +140,7 @@
         "position": 88,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When your turn begins, you may rez a card, lowering the rez cost by 1[Credits].\n1[Credits],[Trash]: Search R&D for an asset, reveal it, and add it to HQ. Shuffle R&D.",
+        "text": "When your turn begins, you may rez a card, lowering the rez cost by 1[credit].\n1[credit],[trash]: Search R&D for an asset, reveal it, and add it to HQ. Shuffle R&D.",
         "title": "Executive Boot Camp",
         "trash_cost": 3,
         "type_code": "asset",
@@ -160,7 +160,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "Lycan can be advanced.\nWhile Lycan has an odd number of advancement tokens on it, it gains <strong>code gate</strong> and loses <strong>sentry</strong>.\n[Subroutine] Trash 1 program.",
+        "text": "Lycan can be advanced.\nWhile Lycan has an odd number of advancement tokens on it, it gains <strong>code gate</strong> and loses <strong>sentry</strong>.\n[subroutine] Trash 1 program.",
         "title": "Lycan",
         "type_code": "ice",
         "uniqueness": false
@@ -197,7 +197,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "When the Runner encounters Merlin, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Merlin gains the subroutines of the revealed ice in the order of your choice.\n[Subroutine] Do 2 net damage.",
+        "text": "When the Runner encounters Merlin, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Merlin gains the subroutines of the revealed ice in the order of your choice.\n[subroutine] Do 2 net damage.",
         "title": "Merlin",
         "type_code": "ice",
         "uniqueness": false
@@ -213,7 +213,7 @@
         "position": 92,
         "quantity": 3,
         "side_code": "corp",
-        "text": "You cannot use Shell Corporation more than once per turn.\n[Click]: Place 3[Credits] on Shell Corporation.\n[Click]: Take all credits from Shell Corporation.",
+        "text": "You cannot use Shell Corporation more than once per turn.\n[click]: Place 3[credit] on Shell Corporation.\n[click]: Take all credits from Shell Corporation.",
         "title": "Shell Corporation",
         "trash_cost": 3,
         "type_code": "upgrade",
@@ -252,7 +252,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "Place 4 power counters on Cerberus \"Cuj.0\" H3 when it is installed.\n<strong>Hosted power counter:</strong> Break up to 2 <strong>sentry</strong> subroutines.\n1[Credits]: +1 strength.",
+        "text": "Place 4 power counters on Cerberus \"Cuj.0\" H3 when it is installed.\n<strong>Hosted power counter:</strong> Break up to 2 <strong>sentry</strong> subroutines.\n1[credit]: +1 strength.",
         "title": "Cerberus \"Cuj.0\" H3",
         "type_code": "program",
         "uniqueness": false
@@ -291,7 +291,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "Place 4 power counters on Cerberus \"Rex\" H2 when it is installed.\n<strong>Hosted power counter:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n1[Credits]: +1 strength.",
+        "text": "Place 4 power counters on Cerberus \"Rex\" H2 when it is installed.\n<strong>Hosted power counter:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n1[credit]: +1 strength.",
         "title": "Cerberus \"Rex\" H2",
         "type_code": "program",
         "uniqueness": false
@@ -308,7 +308,7 @@
         "position": 97,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Place 1[Credits] on Zona Sul Shipping when your turn begins.\n[Click]: Take all credits from Zona Sul Shipping.\nTrash Zona Sul Shipping if you are tagged.",
+        "text": "Place 1[credit] on Zona Sul Shipping when your turn begins.\n[click]: Take all credits from Zona Sul Shipping.\nTrash Zona Sul Shipping if you are tagged.",
         "title": "Zona Sul Shipping",
         "type_code": "resource",
         "uniqueness": false
@@ -325,7 +325,7 @@
         "position": 98,
         "quantity": 3,
         "side_code": "runner",
-        "text": "1[Recurring Credits]\nUse this credit to install programs.",
+        "text": "1[recurring-credit]\nUse this credit to install programs.",
         "title": "Cybsoft MacroDrive",
         "type_code": "hardware",
         "uniqueness": false
@@ -345,7 +345,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 3,
-        "text": "Place 4 power counters on Cerberus \"Lady\" H1 when it is installed.\n<strong>Hosted power counter:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n1[Credits]: +1 strength.",
+        "text": "Place 4 power counters on Cerberus \"Lady\" H1 when it is installed.\n<strong>Hosted power counter:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n1[credit]: +1 strength.",
         "title": "Cerberus \"Lady\" H1",
         "type_code": "program",
         "uniqueness": false
@@ -362,7 +362,7 @@
         "position": 100,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you make a successful run on HQ, instead of accessing cards, you may install Utopia Shard from your grip, ignoring all costs.\n[Trash]: The Corp discards 2 cards from HQ at random.\nLimit 1 per deck.",
+        "text": "Whenever you make a successful run on HQ, instead of accessing cards, you may install Utopia Shard from your grip, ignoring all costs.\n[trash]: The Corp discards 2 cards from HQ at random.\nLimit 1 per deck.",
         "title": "Utopia Shard",
         "type_code": "resource",
         "uniqueness": true

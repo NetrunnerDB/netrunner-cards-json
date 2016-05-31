@@ -10,7 +10,7 @@
         "position": 1,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click],[Click],[Click]: Place 1 agenda counter on Domestic Sleepers.\nDomestic Sleepers is worth 1 agenda point while it has at least 1 agenda counter on it.",
+        "text": "[click],[click],[click]: Place 1 agenda counter on Domestic Sleepers.\nDomestic Sleepers is worth 1 agenda point while it has at least 1 agenda counter on it.",
         "title": "Domestic Sleepers",
         "type_code": "agenda",
         "uniqueness": false
@@ -29,7 +29,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 1,
-        "text": "NEXT Silver gains \"[Subroutine] End the run.\" for each rezzed piece of <strong>NEXT</strong> ice.",
+        "text": "NEXT Silver gains \"[subroutine] End the run.\" for each rezzed piece of <strong>NEXT</strong> ice.",
         "title": "NEXT Silver",
         "type_code": "ice",
         "uniqueness": false
@@ -48,7 +48,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "The strength of Lotus Field cannot be lowered.\n[Subroutine] End the run.",
+        "text": "The strength of Lotus Field cannot be lowered.\n[subroutine] End the run.",
         "title": "Lotus Field",
         "type_code": "ice",
         "uniqueness": false
@@ -100,7 +100,7 @@
         "position": 6,
         "quantity": 3,
         "side_code": "corp",
-        "text": "3[Recurring Credits]\nUse these credits during traces.",
+        "text": "3[recurring-credit]\nUse these credits during traces.",
         "title": "Primary Transmission Dish",
         "trash_cost": 3,
         "type_code": "asset",
@@ -119,7 +119,7 @@
         "position": 7,
         "quantity": 3,
         "side_code": "corp",
-        "text": "The Runner must pay 1[Credits] as an additional cost each time he or she uses an <strong>icebreaker</strong> to break at least 1 subroutine during a run on this server.\nLimit 1 <strong>region</strong> per server.",
+        "text": "The Runner must pay 1[credit] as an additional cost each time he or she uses an <strong>icebreaker</strong> to break at least 1 subroutine during a run on this server.\nLimit 1 <strong>region</strong> per server.",
         "title": "Midway Station Grid",
         "trash_cost": 4,
         "type_code": "upgrade",
@@ -138,7 +138,7 @@
         "position": 8,
         "quantity": 3,
         "side_code": "corp",
-        "text": "3[Recurring Credits]\nUse these credits to advance, install, and rez cards.",
+        "text": "3[recurring-credit]\nUse these credits to advance, install, and rez cards.",
         "title": "The Root",
         "trash_cost": 4,
         "type_code": "asset",
@@ -158,7 +158,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] <trace>Trace 2</trace> If successful, trash 1 piece of hardware. If your trace strength is 5 or greater, trash 1 piece of hardware.",
+        "text": "[subroutine] <trace>Trace 2</trace> If successful, trash 1 piece of hardware. If your trace strength is 5 or greater, trash 1 piece of hardware.",
         "title": "Taurus",
         "type_code": "ice",
         "uniqueness": false
@@ -177,7 +177,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "Mother Goddess gains the subtypes of all other rezzed ice.\n[Subroutine] End the run.",
+        "text": "Mother Goddess gains the subtypes of all other rezzed ice.\n[subroutine] End the run.",
         "title": "Mother Goddess",
         "type_code": "ice",
         "uniqueness": true
@@ -196,7 +196,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 1,
-        "text": "When the Runner encounters Galahad, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Galahad gains the subroutines of the revealed ice in the order of your choice.\n[Subroutine] End the run.",
+        "text": "When the Runner encounters Galahad, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Galahad gains the subroutines of the revealed ice in the order of your choice.\n[subroutine] End the run.",
         "title": "Galahad",
         "type_code": "ice",
         "uniqueness": false
@@ -231,7 +231,7 @@
         "position": 13,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Play only as your first [Click].\nChoose a server. The Corp can rez a piece of ice protecting this server. If he or she does not, make a run on that server, during which the Corp cannot rez ice.",
+        "text": "Play only as your first [click].\nChoose a server. The Corp can rez a piece of ice protecting this server. If he or she does not, make a run on that server, during which the Corp cannot rez ice.",
         "title": "Cyber Threat",
         "type_code": "event",
         "uniqueness": false
@@ -249,7 +249,7 @@
         "position": 14,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you make a successful run on HQ, the Corp loses 1[Credits].\nTrash Lamprey if the Corp purges virus counters.",
+        "text": "Whenever you make a successful run on HQ, the Corp loses 1[credit].\nTrash Lamprey if the Corp purges virus counters.",
         "title": "Lamprey",
         "type_code": "program",
         "uniqueness": false
@@ -267,7 +267,7 @@
         "position": 15,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Play only as your first [Click].\nRemove all tags.",
+        "text": "Play only as your first [click].\nRemove all tags.",
         "title": "Paper Tripping",
         "type_code": "event",
         "uniqueness": false
@@ -284,7 +284,7 @@
         "position": 16,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Gain 1[Credits] whenever a trace is initiated.",
+        "text": "Gain 1[credit] whenever a trace is initiated.",
         "title": "Power Tap",
         "type_code": "resource",
         "uniqueness": false
@@ -319,7 +319,7 @@
         "position": 18,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Play only as your first [Click].\nChoose an unrezzed piece of ice. If the Corp rezzes that piece of ice this turn, gain credits equal to its rez cost.",
+        "text": "Play only as your first [click].\nChoose an unrezzed piece of ice. If the Corp rezzes that piece of ice this turn, gain credits equal to its rez cost.",
         "title": "Social Engineering",
         "type_code": "event",
         "uniqueness": false
@@ -355,7 +355,7 @@
         "position": 20,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you make a successful run on R&D, instead of accessing cards, you may install Eden Shard from your grip, ignoring all costs.\n[Trash]: The Corp draws 2 cards.\nLimit 1 per deck.",
+        "text": "Whenever you make a successful run on R&D, instead of accessing cards, you may install Eden Shard from your grip, ignoring all costs.\n[trash]: The Corp draws 2 cards.\nLimit 1 per deck.",
         "title": "Eden Shard",
         "type_code": "resource",
         "uniqueness": true

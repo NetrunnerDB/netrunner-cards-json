@@ -11,7 +11,7 @@
         "position": 1,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: Flip this identity.\n\nThe Runner pays 1[Credits] more when spending a [Click] to remove a tag (not through a card ability).\n\nFlip side:\n\n[Click]: Flip this identity.\n\nYou may pay 2[Credits] fewer when spending a [Click] to trash a resource (not through a card ability).",
+        "text": "[click]: Flip this identity.\n\nThe Runner pays 1[credit] more when spending a [click] to remove a tag (not through a card ability).\n\nFlip side:\n\n[click]: Flip this identity.\n\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability).",
         "title": "SYNC: Everything, Everywhere",
         "type_code": "identity",
         "uniqueness": false
@@ -47,7 +47,7 @@
         "position": 3,
         "quantity": 3,
         "side_code": "corp",
-        "text": "The first time each turn you rez an <strong>advertisement</strong>, the Runner loses 1[Credits].",
+        "text": "The first time each turn you rez an <strong>advertisement</strong>, the Runner loses 1[credit].",
         "title": "Spark Agency: Worldswide Reach",
         "type_code": "identity",
         "uniqueness": false
@@ -64,7 +64,7 @@
         "position": 4,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: Shuffle 15 Minutes into R&D. The Corp can trigger this ability while 15 Minutes is in the Runner's score area.\nLimit 1 per deck.",
+        "text": "[click]: Shuffle 15 Minutes into R&D. The Corp can trigger this ability while 15 Minutes is in the Runner's score area.\nLimit 1 per deck.",
         "title": "15 Minutes",
         "type_code": "agenda",
         "uniqueness": true
@@ -136,7 +136,7 @@
         "position": 8,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When you rez Lily Lockwell, draw 3 cards.\n[Click], <strong>remove 1 tag:</strong> Search R&D for an operation, reveal it, and shuffle the rest of R&D. Add the operation to the top of R&D.",
+        "text": "When you rez Lily Lockwell, draw 3 cards.\n[click], <strong>remove 1 tag:</strong> Search R&D for an operation, reveal it, and shuffle the rest of R&D. Add the operation to the top of R&D.",
         "title": "Lily Lockwell",
         "trash_cost": 3,
         "type_code": "asset",
@@ -173,7 +173,7 @@
         "position": 10,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: Draw 1 card from the bottom of R&D.\n[Trash]: Search R&D or Archives for an agenda and reveal it. Shuffle the rest of R&D if you searched it. Add the agenda to the bottom of R&D.",
+        "text": "[click]: Draw 1 card from the bottom of R&D.\n[trash]: Search R&D or Archives for an agenda and reveal it. Shuffle the rest of R&D if you searched it. Add the agenda to the bottom of R&D.",
         "title": "Shannon Claire",
         "trash_cost": 3,
         "type_code": "asset",
@@ -191,7 +191,7 @@
         "position": 11,
         "quantity": 3,
         "side_code": "corp",
-        "text": "The Runner has 1 fewer [Click] to spend during his or her turn.\nIf Victoria Jenkins is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points.",
+        "text": "The Runner has 1 fewer [click] to spend during his or her turn.\nIf Victoria Jenkins is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points.",
         "title": "Victoria Jenkins",
         "trash_cost": 5,
         "type_code": "asset",
@@ -210,7 +210,7 @@
         "position": 12,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When you rez Reality Threedee, take 1 bad publicity.\nWhen your turn begins, gain 1[Credits] (or 2[Credits] if the Runner is tagged).",
+        "text": "When you rez Reality Threedee, take 1 bad publicity.\nWhen your turn begins, gain 1[credit] (or 2[credit] if the Runner is tagged).",
         "title": "Reality Threedee",
         "trash_cost": 6,
         "type_code": "asset",
@@ -229,7 +229,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 6,
-        "text": "If Archangel is accessed from R&D, the Runner must reveal it.\nIf you pay 3[Credits] when the Runner accesses Archangel, he or she immediately encounters it. Ignore this ability if Archangel is accessed from Archives.\n[Subroutine] <trace>Trace 6</trace> If successful, add 1 installed Runner card to his or her grip.",
+        "text": "If Archangel is accessed from R&D, the Runner must reveal it.\nIf you pay 3[credit] when the Runner accesses Archangel, he or she immediately encounters it. Ignore this ability if Archangel is accessed from Archives.\n[subroutine] <trace>Trace 6</trace> If successful, add 1 installed Runner card to his or her grip.",
         "title": "Archangel",
         "type_code": "ice",
         "uniqueness": false
@@ -248,7 +248,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "If a <strong>current</strong> is active, News Hound gains \"[Subroutine] End the run.\" after all its other subroutines.\n[Subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
+        "text": "If a <strong>current</strong> is active, News Hound gains \"[subroutine] End the run.\" after all its other subroutines.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
         "title": "News Hound",
         "type_code": "ice",
         "uniqueness": false
@@ -267,7 +267,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "Resistor has +1 strength for each tag the Runner has.\n[Subroutine] <trace>Trace 4</trace> If successful, end the run.",
+        "text": "Resistor has +1 strength for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, end the run.",
         "title": "Resistor",
         "type_code": "ice",
         "uniqueness": false
@@ -286,7 +286,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[Subroutine] The Corp gains 5[Credits]. Trash Special Offer.",
+        "text": "[subroutine] The Corp gains 5[credit]. Trash Special Offer.",
         "title": "Special Offer",
         "type_code": "ice",
         "uniqueness": false
@@ -305,7 +305,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] When the Runner encounters the next piece of ice during this run, that ice gains a second copy of each subroutine on it (after the original subroutine) for the remainder of the encounter.",
+        "text": "[subroutine] When the Runner encounters the next piece of ice during this run, that ice gains a second copy of each subroutine on it (after the original subroutine) for the remainder of the encounter.",
         "title": "TL;DR",
         "type_code": "ice",
         "uniqueness": false
@@ -324,7 +324,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "When the Runner encounters Turnpike, he or she loses 1[Credits].\n[Subroutine] <trace>Trace 5</trace> If successful, give the Runner 1 tag.",
+        "text": "When the Runner encounters Turnpike, he or she loses 1[credit].\n[subroutine] <trace>Trace 5</trace> If successful, give the Runner 1 tag.",
         "title": "Turnpike",
         "type_code": "ice",
         "uniqueness": false
@@ -358,7 +358,7 @@
         "position": 20,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, spend [Click].\nInstall and rez (paying all costs) X <strong>advertisements</strong> from Archives and/or HQ, if able.",
+        "text": "As an additional cost to play this operation, spend [click].\nInstall and rez (paying all costs) X <strong>advertisements</strong> from Archives and/or HQ, if able.",
         "title": "Ad Blitz",
         "type_code": "operation",
         "uniqueness": false
@@ -427,7 +427,7 @@
         "position": 24,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Trash], <strong>remove 1 tag:</strong> Trash 1 program. Use this ability only during a run on this server.",
+        "text": "[trash], <strong>remove 1 tag:</strong> Trash 1 program. Use this ability only during a run on this server.",
         "title": "Keegan Lane",
         "trash_cost": 3,
         "type_code": "upgrade",
@@ -483,7 +483,7 @@
         "position": 27,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 6[Credits] from the bank on Launch Campaign when it is rezzed. When there are no credits left on Launch Campaign, trash it.\nWhen your turn begins, take 2[Credits] from Launch Campaign.",
+        "text": "Place 6[credit] from the bank on Launch Campaign when it is rezzed. When there are no credits left on Launch Campaign, trash it.\nWhen your turn begins, take 2[credit] from Launch Campaign.",
         "title": "Launch Campaign",
         "trash_cost": 2,
         "type_code": "asset",
@@ -503,7 +503,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] <trace>Trace 5</trace> If successful, do 3 net damage.\n[Subroutine] <trace>Trace 4</trace> If successful, trash 1 program.",
+        "text": "[subroutine] <trace>Trace 5</trace> If successful, do 3 net damage.\n[subroutine] <trace>Trace 4</trace> If successful, trash 1 program.",
         "title": "Assassin",
         "type_code": "ice",
         "uniqueness": false
@@ -572,7 +572,7 @@
         "position": 32,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Memory Unit]\n<strong>Trash an installed card:</strong> Prevent 1 damage.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+1[mu]\n<strong>Trash an installed card:</strong> Prevent 1 damage.\nLimit 1 <strong>console</strong> per player.",
         "title": "Heartbeat",
         "type_code": "hardware",
         "uniqueness": true
@@ -592,7 +592,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 11,
-        "text": "<strong>Trash an installed card:</strong> Break \"[Subroutine] End the run.\" subroutine.",
+        "text": "<strong>Trash an installed card:</strong> Break \"[subroutine] End the run.\" subroutine.",
         "title": "Endless Hunger",
         "type_code": "program",
         "uniqueness": false
@@ -627,7 +627,7 @@
         "position": 35,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Once per turn, prevent a \"when encountered\" ability on a piece of ice.\n[Trash]: Install the top 3 cards of your stack facedown.",
+        "text": "Once per turn, prevent a \"when encountered\" ability on a piece of ice.\n[trash]: Install the top 3 cards of your stack facedown.",
         "title": "Hunting Grounds",
         "type_code": "resource",
         "uniqueness": false
@@ -645,7 +645,7 @@
         "position": 36,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first time each turn you trash 1 of your installed cards, gain 1[Credits].",
+        "text": "The first time each turn you trash 1 of your installed cards, gain 1[credit].",
         "title": "Wasteland",
         "type_code": "resource",
         "uniqueness": false
@@ -697,7 +697,7 @@
         "position": 39,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+X[Memory Unit]\nYour maximum hand size is increased by X.\nX is equal to the number of agenda points you have.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+X[mu]\nYour maximum hand size is increased by X.\nX is equal to the number of agenda points you have.\nLimit 1 <strong>console</strong> per player.",
         "title": "Brain Chip",
         "type_code": "hardware",
         "uniqueness": true
@@ -715,7 +715,7 @@
         "position": 40,
         "quantity": 3,
         "side_code": "runner",
-        "text": "2[Recurring Credits]\nUse these credits to pay for using programs.",
+        "text": "2[recurring-credit]\nUse these credits to pay for using programs.",
         "title": "Multithreader",
         "type_code": "program",
         "uniqueness": false
@@ -733,7 +733,7 @@
         "position": 41,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Your first [Click] each turn must be spent to make a run or a play a <strong>run</strong> event.\nOnce per turn, you can spend [Click][Click] to break a subroutine on a piece of ice currently being encountered.",
+        "text": "Your first [click] each turn must be spent to make a run or a play a <strong>run</strong> event.\nOnce per turn, you can spend [click][click] to break a subroutine on a piece of ice currently being encountered.",
         "title": "Always Be Running",
         "type_code": "resource",
         "uniqueness": true
@@ -823,7 +823,7 @@
         "position": 46,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Trash]: Choose an <strong>icebreaker</strong> (or any number of <strong>cloud icebreakers</strong>). Each chosen <strong>icebreaker</strong> has +1 strength for each [Link] you have for the remainder of this run. Use this ability only during a run.",
+        "text": "[trash]: Choose an <strong>icebreaker</strong> (or any number of <strong>cloud icebreakers</strong>). Each chosen <strong>icebreaker</strong> has +1 strength for each [link] you have for the remainder of this run. Use this ability only during a run.",
         "title": "Security Chip",
         "type_code": "hardware",
         "uniqueness": false
@@ -840,7 +840,7 @@
         "position": 47,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Memory Unit] +1[Link]\nOnce per turn, when you encounter a piece of ice, you may force the Corp to \"<trace>trace 5</trace> If successful, give the Runner 1 tag and end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\"\nLimit 1 <strong>console</strong> per player.",
+        "text": "+1[mu] +1[link]\nOnce per turn, when you encounter a piece of ice, you may force the Corp to \"<trace>trace 5</trace> If successful, give the Runner 1 tag and end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\"\nLimit 1 <strong>console</strong> per player.",
         "title": "Security Nexus",
         "type_code": "hardware",
         "uniqueness": true
@@ -860,7 +860,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "If you have at least 2[Link], the memory cost of GS Striker M1 is 0, even if it is not installed.\n2[Credits]: Break any number of <strong>code gate</strong> subroutines.\n2[Credits]: +3 strength.",
+        "text": "If you have at least 2[link], the memory cost of GS Striker M1 is 0, even if it is not installed.\n2[credit]: Break any number of <strong>code gate</strong> subroutines.\n2[credit]: +3 strength.",
         "title": "GS Striker M1",
         "type_code": "program",
         "uniqueness": false
@@ -880,7 +880,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "If you have at least 2[Link], the memory cost of GS Shrike M2 is 0, even if it is not installed.\n2[Credits]: Break any number of <strong>sentry</strong> subroutines.\n2[Credits]: +3 strength.",
+        "text": "If you have at least 2[link], the memory cost of GS Shrike M2 is 0, even if it is not installed.\n2[credit]: Break any number of <strong>sentry</strong> subroutines.\n2[credit]: +3 strength.",
         "title": "GS Shrike M2",
         "type_code": "program",
         "uniqueness": false
@@ -900,7 +900,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "If you have at least 2[Link], the memory cost of GS Sherman M3 is 0, even if it is not installed.\n2[Credits]: Break any number of <strong>barrier</strong> subroutines.\n2[Credits]: +3 strength.",
+        "text": "If you have at least 2[link], the memory cost of GS Sherman M3 is 0, even if it is not installed.\n2[credit]: Break any number of <strong>barrier</strong> subroutines.\n2[credit]: +3 strength.",
         "title": "GS Sherman M3",
         "type_code": "program",
         "uniqueness": false
@@ -918,7 +918,7 @@
         "position": 51,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Install only if you have at least 2[Link].\nWhen your turn begins, you may lose [Click]. If you do, look at the top card of R&D.",
+        "text": "Install only if you have at least 2[link].\nWhen your turn begins, you may lose [click]. If you do, look at the top card of R&D.",
         "title": "Globalsec Security Clearance",
         "type_code": "resource",
         "uniqueness": false
@@ -936,7 +936,7 @@
         "position": 52,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Reduce the cost to install Jak Sinclair by 1 for each [Link] you have.\nWhen your turn begins, you may make a run. You cannot use programs during this run.",
+        "text": "Reduce the cost to install Jak Sinclair by 1 for each [link] you have.\nWhen your turn begins, you may make a run. You cannot use programs during this run.",
         "title": "Jak Sinclair",
         "type_code": "resource",
         "uniqueness": true
@@ -971,7 +971,7 @@
         "position": 54,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Shuffle your stack. Trash the top card of your stack. Gain X[Credits] where X is equal to the install cost of that card.",
+        "text": "Shuffle your stack. Trash the top card of your stack. Gain X[credit] where X is equal to the install cost of that card.",
         "title": "Windfall",
         "type_code": "event",
         "uniqueness": false
@@ -988,7 +988,7 @@
         "position": 55,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you install a piece of hardware or a program, place 1[Credits] from the bank on Technical Writer.\n[Click],[Trash]: Take all credits from Technical Writer.",
+        "text": "Whenever you install a piece of hardware or a program, place 1[credit] from the bank on Technical Writer.\n[click],[trash]: Take all credits from Technical Writer.",
         "title": "Technical Writer",
         "type_code": "resource",
         "uniqueness": false

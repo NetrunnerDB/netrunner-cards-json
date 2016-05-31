@@ -22,7 +22,7 @@
     {
         "code": "02084",
         "title": "Nawiązywanie kontaktów",
-        "text": "Usuń 1 tag. Możesz zapłacić 1[Credits], aby dodać Nawiązywanie kontaktów do garści, zamiast je skasować.",
+        "text": "Usuń 1 tag. Możesz zapłacić 1[credit], aby dodać Nawiązywanie kontaktów do garści, zamiast je skasować.",
         "flavor": "Wolała prowadzić interesy w klubie. Oświetlenie i tancerki zaciemniały umysły tych korporacyjnych prostaków."
     },
     {
@@ -35,7 +35,7 @@
         "code": "02086",
         "title": "Feromony",
         "keywords": "Wirus",
-        "text": "X[Recurring Credits]\nUżyj tych kredytów podczas skoków na HQ. X to liczba znaczników wirusa leżących na Feromonach.\nZawsze gdy przeprowadzisz udany skok na HQ, połóż 1 znacznik wirusa na Feromonach."
+        "text": "X[recurring-credit]\nUżyj tych kredytów podczas skoków na HQ. X to liczba znaczników wirusa leżących na Feromonach.\nZawsze gdy przeprowadzisz udany skok na HQ, połóż 1 znacznik wirusa na Feromonach."
     },
     {
         "code": "02087",
@@ -53,7 +53,7 @@
         "code": "02089",
         "title": "Robal",
         "keywords": "Lodołamacz - Zabójca - Chmura",
-        "text": "Jeśli masz przynajmniej 2[Link], wymagania pamięciowe Robala wynoszą 0, nawet jeśli nie jest zainstalowany.\n2[Credits]: Złam podprogram <strong>strażnika</strong>.\n1[Credits]: +1 siły.",
+        "text": "Jeśli masz przynajmniej 2[link], wymagania pamięciowe Robala wynoszą 0, nawet jeśli nie jest zainstalowany.\n2[credit]: Złam podprogram <strong>strażnika</strong>.\n1[credit]: +1 siły.",
         "flavor": "\"Pajączek mały po rynnie danych wspinał się...\" - Teoria Chaosu"
     },
     {
@@ -66,14 +66,14 @@
         "code": "02091",
         "title": "Kati Jones",
         "keywords": "Kontakt",
-        "text": "Nie możesz użyć Kati Jones więcej niż raz na turę.\n[Click]: Połóż 3[Credits] z banku na Kati Jones.\n[Click]: Weź wszystkie kredyty z Kati Jones.",
+        "text": "Nie możesz użyć Kati Jones więcej niż raz na turę.\n[click]: Połóż 3[credit] z banku na Kati Jones.\n[click]: Weź wszystkie kredyty z Kati Jones.",
         "flavor": "\"W New Angeles przemyca się nie tylko dane.\""
     },
     {
         "code": "02092",
         "title": "Kampania reklamowa Ewy",
         "keywords": "Reklama",
-        "text": "Gdy rezujesz Kampanię reklamową Ewy, połóż na niej 16[Credits] z banku. Skasuj Kampanię reklamową Ewy, gdy nie ma na niej kredytów.\nGdy zaczynasz turę, weź 2[Credits] z Kampanii reklamowej Ewy."
+        "text": "Gdy rezujesz Kampanię reklamową Ewy, połóż na niej 16[credit] z banku. Skasuj Kampanię reklamową Ewy, gdy nie ma na niej kredytów.\nGdy zaczynasz turę, weź 2[credit] z Kampanii reklamowej Ewy."
     },
     {
         "code": "02093",
@@ -85,7 +85,7 @@
         "code": "02094",
         "title": "Wir",
         "keywords": "Pułapka",
-        "text": "[Subroutine] Runner nie może się odłączyć do końca tego skoku. Skasuj Wir.",
+        "text": "[subroutine] Runner nie może się odłączyć do końca tego skoku. Skasuj Wir.",
         "flavor": "\"Ten lód ssie.\" - g00ru"
     },
     {
@@ -99,7 +99,7 @@
         "code": "02096",
         "title": "Ogar danych",
         "keywords": "Strażnik - Tropiciel - Obserwator",
-        "text": "[Subroutine] <trace>Trace 2</trace> Jeśli udane, obejrzyj karty z wierzchu stosu runnera w liczbie równej różnicy siły namierzania i siły połączenia. Skasuj 1 z tych kart, a resztę uporządkuj dowolnie.",
+        "text": "[subroutine] <trace>Trace 2</trace> Jeśli udane, obejrzyj karty z wierzchu stosu runnera w liczbie równej różnicy siły namierzania i siły połączenia. Skasuj 1 z tych kart, a resztę uporządkuj dowolnie.",
         "flavor": "Niuch."
     },
     {
@@ -113,14 +113,14 @@
         "code": "02098",
         "title": "Akcja ratunkowa",
         "keywords": "Brama kodowa - Tropiciel",
-        "text": "Zrezowana Akcja ratunkowa może być awansowana i zyskuje \"[Subroutine] <trace>Trace 2</trace> Jeśli udane, daj runnerowi 1 tag.\" za każdy leżący na nim żeton zaawansowania.",
+        "text": "Zrezowana Akcja ratunkowa może być awansowana i zyskuje \"[subroutine] <trace>Trace 2</trace> Jeśli udane, daj runnerowi 1 tag.\" za każdy leżący na nim żeton zaawansowania.",
         "flavor": "Nie jesteś już w Kansas."
     },
     {
         "code": "02099",
         "title": "Simone Diego",
         "keywords": "Sysop",
-        "text": "2[Recurring Credits]\nUżyj tych kredytów do awansowania kart na tym serwerze lub chroniących go.",
+        "text": "2[recurring-credit]\nUżyj tych kredytów do awansowania kart na tym serwerze lub chroniących go.",
         "flavor": "\"Raz zrobić to dobrze zrobić.\""
     },
     {

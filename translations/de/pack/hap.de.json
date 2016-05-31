@@ -10,7 +10,7 @@
         "code": "05002",
         "title": "Abteilung Nisei: Die nächste Generation",
         "keywords": "Abteilung",
-        "text": "Immer, wenn du und der Runner geheim ausgegebene Credits aufdecken, erhältst du 1[Credits].",
+        "text": "Immer, wenn du und der Runner geheim ausgegebene Credits aufdecken, erhältst du 1[credit].",
         "flavor": "Das Unvollkommene vervollkommnen."
     },
     {
@@ -42,7 +42,7 @@
         "code": "05007",
         "title": "Die Vollkommene der Zukunft",
         "keywords": "Initiative - Psi",
-        "text": "Wenn der Runner auf Die Vollkommene der Zukunft zugreift, zahlen du und der Runner geheim 0[Credits], 1[Credits], oder 2[Credits]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und dem Runner ausgegebenen Credits unterscheiden, verhindere, dass Die Vollkommene der Zukunft gestohlen wird. Ignoriere diesen Effekt, falls der Runner auf Die Vollkommene der Zukunft zugreift und sie installiert ist."
+        "text": "Wenn der Runner auf Die Vollkommene der Zukunft zugreift, zahlen du und der Runner geheim 0[credit], 1[credit], oder 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und dem Runner ausgegebenen Credits unterscheiden, verhindere, dass Die Vollkommene der Zukunft gestohlen wird. Ignoriere diesen Effekt, falls der Runner auf Die Vollkommene der Zukunft zugreift und sie installiert ist."
     },
     {
         "code": "05008",
@@ -54,93 +54,93 @@
         "code": "05009",
         "title": "Psychiatrische Klinik",
         "keywords": "Anlage",
-        "text": "Wenn dein Zug beginnt, erhälst du 1[Credits].\nDie maximale Handkartenzahl des Runners wird um 1 erhöht.",
+        "text": "Wenn dein Zug beginnt, erhälst du 1[credit].\nDie maximale Handkartenzahl des Runners wird um 1 erhöht.",
         "flavor": "Die weiß getünchte Wand verschwand und es erschien ein wunderschöner Zen-Garten. Natürlich war alles eine Illusion, aber es war tröstlich."
     },
     {
         "code": "05010",
         "title": "Psych-Feld",
         "keywords": "Hinterhalt - Psi",
-        "text": "Falls der Runner Psych-Feld enthüllt oder darauf zugreift, während es installiert ist, zahlen du und der Runner geheim 0[Credits], 1[Credits], or 2[Credits]. Decke die ausgegebenen Credits auf.Falls sich die Anzahl der von dir und dem Runner ausgegebenen Credits unterscheiden,  verursache 1 Netz-Schaden für jede Karte im Griff des Runners."
+        "text": "Falls der Runner Psych-Feld enthüllt oder darauf zugreift, während es installiert ist, zahlen du und der Runner geheim 0[credit], 1[credit], or 2[credit]. Decke die ausgegebenen Credits auf.Falls sich die Anzahl der von dir und dem Runner ausgegebenen Credits unterscheiden,  verursache 1 Netz-Schaden für jede Karte im Griff des Runners."
     },
     {
         "code": "05011",
         "title": "Shi.Kyū",
         "keywords": "Hinterhalt",
-        "text": "Wenn der Runner auf Shi.Kyū zugreift, kannst du X[Credits] zahlen. Der Runner muss entweder X Netz-Schaden nehmen oder Shi.Kyū seinem Punktebereich als Agenda hinzufügen, die -1 Agendapunkt wert ist. Ignoriere diesen Effekt, falls der Runner von F&E auf Shi.Kyū zugreift."
+        "text": "Wenn der Runner auf Shi.Kyū zugreift, kannst du X[credit] zahlen. Der Runner muss entweder X Netz-Schaden nehmen oder Shi.Kyū seinem Punktebereich als Agenda hinzufügen, die -1 Agendapunkt wert ist. Ignoriere diesen Effekt, falls der Runner von F&E auf Shi.Kyū zugreift."
     },
     {
         "code": "05012",
         "title": "Tenma-Reihe",
         "keywords": "Klon",
-        "text": "[Click]: Vertausche 2 installierte Ice miteinander.",
+        "text": "[click]: Vertausche 2 installierte Ice miteinander.",
         "flavor": "Die Tenma- Klone stehen – dank der rapiden Urbanisierung nach dem Krieg – auf Platz drei der ewigen Umsatz-Bestenliste Jintekis. Ihre von andere Modellen unerreichten Reaktionszeiten, Sicherheitsberichte und ihre Pünktlichkeit haben dafür gesorgt, dass sie zur ersten Wahl im Bereich Lieferung und Transportdienstleistungen wurden."
     },
     {
         "code": "05013",
         "title": "Gedankenabdruck",
         "keywords": "Graue Ops - Psi",
-        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\nDu und der Runner zahlen geheim 0[Credits], 1[Credits], or 2[Credits]. Decke die ausgegebenen Credits auf.Falls sich die Anzahl der von dir und dem Runner ausgegebenen Credits unterscheiden, wählt er, entweder 1 Hirn-Schaden zu nehmen oder 1 Markierung verpasst zu bekommen."
+        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\nDu und der Runner zahlen geheim 0[credit], 1[credit], or 2[credit]. Decke die ausgegebenen Credits auf.Falls sich die Anzahl der von dir und dem Runner ausgegebenen Credits unterscheiden, wählt er, entweder 1 Hirn-Schaden zu nehmen oder 1 Markierung verpasst zu bekommen."
     },
     {
         "code": "05014",
         "title": "Fundraising für die medizinische Forschung",
         "keywords": "Transaktion",
-        "text": "Du erhälst 8[Credits]. Der Runner erhält 3[Credits].",
+        "text": "Du erhälst 8[credit]. Der Runner erhält 3[credit].",
         "flavor": "Gemeinsam haben wir es fast geschafft, die natürlich vorkommenden Krankheiten auf diesem Planeten auszurotten. Das neue Spektrum synthetischer Krankheiten – der Bioterrorismus – verlangt von uns, unsere Anstrengungen fortzusetzen.\""
     },
     {
         "code": "05015",
         "title": "Mushin No Shin",
         "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation, zahle [Click].\nInstalliere einen Aktivposten, eine Agenda, oder ein Upgrade vom HQ in ein neues ausgelagertes System. Lege 3 Entwicklungsmarker auf diese Karte. Du kannst diese Karte nicht vor Beginn deines nächsten Zuges laden oder die Punkte für sie erzielen."
+        "text": "Als zusätzliche Ausspielkosten für diese Operation, zahle [click].\nInstalliere einen Aktivposten, eine Agenda, oder ein Upgrade vom HQ in ein neues ausgelagertes System. Lege 3 Entwicklungsmarker auf diese Karte. Du kannst diese Karte nicht vor Beginn deines nächsten Zuges laden oder die Punkte für sie erzielen."
     },
     {
         "code": "05016",
         "title": "Inazuma",
         "keywords": "Code-Zugang",
-        "text": "[Subroutine] Der Runner kann beim nächsten Ice, auf das er während dieses Runs trifft keine Subroutinen ausschalten.\n[Subroutine] The Runner kann sich nicht ausstöpseln, bis die Begegnung mit dem nächsten Ice während dieses Runs beendet ist.",
+        "text": "[subroutine] Der Runner kann beim nächsten Ice, auf das er während dieses Runs trifft keine Subroutinen ausschalten.\n[subroutine] The Runner kann sich nicht ausstöpseln, bis die Begegnung mit dem nächsten Ice während dieses Runs beendet ist.",
         "flavor": "In seiner eigenen Realität gefangen kann ein paralysierter Runner sich nicht einmal ausstöpseln!"
     },
     {
         "code": "05017",
         "title": "Komainu",
         "keywords": "Wächter - AP",
-        "text": "Wenn der Runner auf Komainu trifft, erhält dieser bis zum Ende des Runs für jede Karte im Griff des Runners \"[Subroutine] Verursache 1 Netz-Schaden.\""
+        "text": "Wenn der Runner auf Komainu trifft, erhält dieser bis zum Ende des Runs für jede Karte im Griff des Runners \"[subroutine] Verursache 1 Netz-Schaden.\""
     },
     {
         "code": "05018",
         "title": "Welpe",
         "keywords": "Wächter - AP",
-        "text": "[Subroutine] Verursache 1 Netz-Schaden, falls der Runner nicht 1[Credits] zahlt.\n[Subroutine] Verursache 1 Netz-Schaden, falls der Runner nicht 1[Credits] zahlt.",
+        "text": "[subroutine] Verursache 1 Netz-Schaden, falls der Runner nicht 1[credit] zahlt.\n[subroutine] Verursache 1 Netz-Schaden, falls der Runner nicht 1[credit] zahlt.",
         "flavor": "Wau, Wau!"
     },
     {
         "code": "05019",
         "title": "Shiro",
         "keywords": "Code-Zugang",
-        "text": "[Subroutine] Sieh dir die obersten 3 Karten von F&E an und lege sie in beliebiger Reihenfolge zurück.\n[Subroutine] Der Runner greift auf die oberste Karte von F&E zur, falls der Kon nicht 1[Credits] zahlt.",
+        "text": "[subroutine] Sieh dir die obersten 3 Karten von F&E an und lege sie in beliebiger Reihenfolge zurück.\n[subroutine] Der Runner greift auf die oberste Karte von F&E zur, falls der Kon nicht 1[credit] zahlt.",
         "flavor": "Überlege dir sorgfältig, welche Tür du öffnest, wenn du in deinem eigenen Geist in einer Festung eingeschlossen bist."
     },
     {
         "code": "05020",
         "title": "Susanoo-No-Mikoto",
         "keywords": "Wächter - Deflektor",
-        "text": "[Subroutine] Falls er nicht bereits einen Run auf das Archiv durchführt, führt der Runner jetzt einen Run auf das Archiv durch, statt an Susanoo-No-Mikoto vorbeizukommen. Der Runner kann sich erst ausstöpseln, nachdem er auf ein Ice getroffen ist.",
+        "text": "[subroutine] Falls er nicht bereits einen Run auf das Archiv durchführt, führt der Runner jetzt einen Run auf das Archiv durch, statt an Susanoo-No-Mikoto vorbeizukommen. Der Runner kann sich erst ausstöpseln, nachdem er auf ein Ice getroffen ist.",
         "flavor": "Bestimmte Bereiche im Cyberspace werden von einer einzigen digitalen Wesenheit beherrscht. Die Runner nennen sie „Götter“ und nur ein Wunder kann jene retten, die dumm genug sind, in ihren Herrschaftsbereich einzudringen."
     },
     {
         "code": "05021",
         "title": "Netz von NeoTokyo",
         "keywords": "Region",
-        "text": "Immer, wenn zum ersten Mal während jedes Zuges ein Entwicklungsmarker auf eine Karte in diesem System gelegt wird, erhältst du 1[Credits].\nMaximal 1 <strong>Region</strong> pro System.",
+        "text": "Immer, wenn zum ersten Mal während jedes Zuges ein Entwicklungsmarker auf eine Karte in diesem System gelegt wird, erhältst du 1[credit].\nMaximal 1 <strong>Region</strong> pro System.",
         "flavor": "Es ist fast unmöglich, nach Japan zu reisen, ohne sich am Ende im Sprawl von NeoTokyo wiederzufinden."
     },
     {
         "code": "05022",
         "title": "Tori Hanzō",
         "keywords": "Sysop",
-        "text": "Immer, wenn du zum ersten Mal während eines Runs auf dieses System eine beliebige Menge Netz-Schaden zufügen würdest, kannst du stattdessen 2[Credits] zahlen, um 1 Hirn-Schaden zuzufügen.",
+        "text": "Immer, wenn du zum ersten Mal während eines Runs auf dieses System eine beliebige Menge Netz-Schaden zufügen würdest, kannst du stattdessen 2[credit] zahlen, um 1 Hirn-Schaden zuzufügen.",
         "flavor": "Hanzō ist berüchtigt für ihre rücksichtslosen Methoden zum Schutz von Systemen, was ihr den Spitznamen Die Rote Frau eingebracht hat."
     },
     {
@@ -153,21 +153,21 @@
         "code": "05024",
         "title": "Wache",
         "keywords": "Wächter",
-        "text": "Es ist nicht möglich, Wache zu umgehen.\n[Subroutine] Beende den Run.",
+        "text": "Es ist nicht möglich, Wache zu umgehen.\n[subroutine] Beende den Run.",
         "flavor": "Aus den Augenwinkeln nahm er einen Lichtblitz wahr. Ein dumpfer Aufschlag, und sein Griff zum Cyberspace begann sich zu lösen. Das gefiel Spider gar nicht. Er hätte am äußersten Ice vorbeikommen sollen, indem er sich über das innere System eingestöpselt hatte. Ein weiterer Schlag und sein gesamter Bezugsrahmen erbebte durch die entstehende Schockwelle. Verzweifelt griff er nach seinem Shuriken..."
     },
     {
         "code": "05025",
         "title": "Regenbogen",
         "keywords": "Wächter - Code-Zugang - Barriere",
-        "text": "[Subroutine] Beende den Run.",
+        "text": "[subroutine] Beende den Run.",
         "flavor": "Der Ice-Jahresbericht der NSCA verteilt immer mehr Bestnoten an das Ice mit der stärksten Auswirkung um Verhältnis zur Größe und den Betriebskosten. Kritiker der NSCA verweisen darauf, dass die Reflektionsrakte der wichtigste Faktor bei der Bewertung ist."
     },
     {
         "code": "05026",
         "title": "Breit gefächertes Portfolio",
         "keywords": "Transaktion",
-        "text": "Du erhältst 1[Credits] für jedes ausgelagerte System, in dem eine Karte installiert ist.",
+        "text": "Du erhältst 1[credit] für jedes ausgelagerte System, in dem eine Karte installiert ist.",
         "flavor": "YucaBean ist selbst in den entlegensten Märkten erstaunlich groß geworden."
     },
     {
@@ -180,14 +180,14 @@
         "code": "05028",
         "title": "Iain Stirling: Spion im Ruhestand",
         "keywords": "Natürlich",
-        "text": "Wenn dein Zug beginnt, erhältst du 2[Credits] falls der Kon mehr erzielte Agendapunkte hat als du.",
+        "text": "Wenn dein Zug beginnt, erhältst du 2[credit] falls der Kon mehr erzielte Agendapunkte hat als du.",
         "flavor": "\"Die Wahrheit ist eine launische Herrin.\""
     },
     {
         "code": "05029",
         "title": "Ken \"Express\" Tenma: Verschwundener Klon",
         "keywords": "Klon",
-        "text": "Immer, wenn du zum ersten Mal in einem Zug ein <strong>Run</strong>-Ergeignis spielst, erhältst du 1[Credits].",
+        "text": "Immer, wenn du zum ersten Mal in einem Zug ein <strong>Run</strong>-Ergeignis spielst, erhältst du 1[credit].",
         "flavor": "\"Streng dich an, um dranzubleiben.\""
     },
     {
@@ -200,14 +200,14 @@
     {
         "code": "05031",
         "title": "Gefallen einfordern",
-        "text": "Erhalte 1[Credits] für jede installierte <strong>Kontakt</strong>-Ressource.",
+        "text": "Erhalte 1[credit] für jede installierte <strong>Kontakt</strong>-Ressource.",
         "flavor": "Ein Job ist nur so stark wie sein schwächstes Glied. Glücklicherweise ist Ms. Jones immer pünktlich."
     },
     {
         "code": "05032",
         "title": "Der frühe Vogel",
         "keywords": "Priorität - Run",
-        "text": "Kann nur als erster Klick gespielt werden.\nFühre einen Run durch und erhalte [Click].",
+        "text": "Kann nur als erster Klick gespielt werden.\nFühre einen Run durch und erhalte [click].",
         "flavor": "Tenma Klone sind besonders gut darin, mehrere Aufgaben gleichzeitig durchzuführen, weil ihre Hirne speziell für parallele Datenverarbeitung entwickelt wurde."
     },
     {
@@ -234,69 +234,69 @@
         "code": "05036",
         "title": "Geplanter Angriff",
         "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [Click].\nDurchsuche deinen Stapel nach einem <strong>Run</strong>-Ereignis  und spiele dieses <strong>Run</strong>-Ereignis aus (und zahle die Ausspielkosten), ignoriere dabei zusätzliche Kosten. Mische deinen Stapel."
+        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nDurchsuche deinen Stapel nach einem <strong>Run</strong>-Ereignis  und spiele dieses <strong>Run</strong>-Ereignis aus (und zahle die Ausspielkosten), ignoriere dabei zusätzliche Kosten. Mische deinen Stapel."
     },
     {
         "code": "05037",
         "title": "Logos",
         "keywords": "Konsole",
-        "text": "+1[Memory Unit]\nDeine maximale Handkartenzahl wird um 1 erhöht.\nImmer, wenn der Kon die Punkte für eine Agenda erzielt, kannst du deinen Stapel nach einer Karte durchsuchen und sie deinem Griff hinzufügen. Mische deinen Stapel.\nNur 1 <strong>Konsole</strong> pro Spieler."
+        "text": "+1[mu]\nDeine maximale Handkartenzahl wird um 1 erhöht.\nImmer, wenn der Kon die Punkte für eine Agenda erzielt, kannst du deinen Stapel nach einer Karte durchsuchen und sie deinem Griff hinzufügen. Mische deinen Stapel.\nNur 1 <strong>Konsole</strong> pro Spieler."
     },
     {
         "code": "05038",
         "title": "Öffentliches Terminal",
-        "text": "1[Recurring Credits]\nVerwende diesen Credit, um <strong>Run</strong>-Ereignisse zu spielen.",
+        "text": "1[recurring-credit]\nVerwende diesen Credit, um <strong>Run</strong>-Ereignisse zu spielen.",
         "flavor": "Express liebte Bibliotheken. Die Konsolen waren schwach, aber die Sicherheit noch schwächer. Er lud sich über einen drahtlosen Zugang seine persönliche Code-Mixtur und begann dann, das Laufwerk zu kopieren. In wenigen Minuten würde sich ein weitere Zombie an die Oberfläche des Cyberspace buddeln."
     },
     {
         "code": "05039",
         "title": "Unregistrierte S&W '35",
         "keywords": "Waffe",
-        "text": "Verwende Unregistrierte S&W '35 nur, falls du in diesem Zug einen erfolgreichen Run auf HQ durchgeführt hast.\n[Click], [Click]: Zerstöre 1 geladenen <strong>Bioroid</strong>, <strong>Klon</strong>, eine <strong>Führungskraft</strong>, oder einen <strong>Sysop</strong> in einem System, ohne die Zerstörungkosten dafür zu bezahlen."
+        "text": "Verwende Unregistrierte S&W '35 nur, falls du in diesem Zug einen erfolgreichen Run auf HQ durchgeführt hast.\n[click], [click]: Zerstöre 1 geladenen <strong>Bioroid</strong>, <strong>Klon</strong>, eine <strong>Führungskraft</strong>, oder einen <strong>Sysop</strong> in einem System, ohne die Zerstörungkosten dafür zu bezahlen."
     },
     {
         "code": "05040",
         "title": "Fenster",
-        "text": "[Click]: Ziehe die unterste Karte deines Stapels..",
+        "text": "[click]: Ziehe die unterste Karte deines Stapels..",
         "flavor": "Auf der anderen Seite des Risses sah das Gras grüner aus. Aber das war immer so, und es gab immer noch einen weiteren Riss."
     },
     {
         "code": "05041",
         "title": "Alias",
         "keywords": "Ice-Brecher - Killer",
-        "text": "1[Credits]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n2[Credits]: +3 Stärke.\nAlias kann nicht für Ice verwendet werden, das ein ausgelagertes System schützt.",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n2[credit]: +3 Stärke.\nAlias kann nicht für Ice verwendet werden, das ein ausgelagertes System schützt.",
         "flavor": "Aussehen lässt sich im Cyberspace leicht verändern, aber ein erstklassiges Rendering kann man nicht so einfach imitieren."
     },
     {
         "code": "05042",
         "title": "Bresche",
         "keywords": "Ice-Brecher - Fracter",
-        "text": "2[Credits]: Schalte bis zu 3 Subroutine einer <strong>Barriere</strong> aus.\n2[Credits]: +4 Stärke.\nBresche kann nicht für Ice verwendet werden, das ein ausgelagertes System schützt."
+        "text": "2[credit]: Schalte bis zu 3 Subroutine einer <strong>Barriere</strong> aus.\n2[credit]: +4 Stärke.\nBresche kann nicht für Ice verwendet werden, das ein ausgelagertes System schützt."
     },
     {
         "code": "05043",
         "title": "Wanze",
-        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf HQ durchgeführt hast.\nImmer, wenn der Kon eine Karte zieht, kannst du 2[Credits] ziehe, um diese Karte aufzudecken.",
+        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf HQ durchgeführt hast.\nImmer, wenn der Kon eine Karte zieht, kannst du 2[credit] ziehe, um diese Karte aufzudecken.",
         "flavor": "Das digitale Gegenstück zur Fliege an der Wand."
     },
     {
         "code": "05044",
         "title": "Pfefferkuchen",
         "keywords": "Ice-Brecher",
-        "text": "1[Credits]: Schalte eine Subroutine eines <strong>Spürhunds</strong> aus.\n2[Credits]: +3 Stärke.",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Spürhunds</strong> aus.\n2[credit]: +3 Stärke.",
         "flavor": "Fang mich doch!"
     },
     {
         "code": "05045",
         "title": "Enterhaken",
-        "text": "[Trash]: Schalte alle Subroutinen bis auf eine auf einem Ice aus.",
+        "text": "[trash]: Schalte alle Subroutinen bis auf eine auf einem Ice aus.",
         "flavor": "Wenn es schnell gehen muss, ist eine indirekte Begegnung mit einem Ice meist die beste Lösung."
     },
     {
         "code": "05046",
         "title": "Ausweis",
         "keywords": "Ice-Brecher - Decoder",
-        "text": "1[Credits]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[Credits]: +2 Stärke.\nAusweis kann nicht für Ice verwendet werden, das ein ausgelagertes System schützt.",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[credit]: +2 Stärke.\nAusweis kann nicht für Ice verwendet werden, das ein ausgelagertes System schützt.",
         "flavor": "Nichts ist sicher, wenn man die richtigen Unterlagen hat."
     },
     {
@@ -308,7 +308,7 @@
         "code": "05048",
         "title": "Sicherheitstest",
         "keywords": "Job",
-        "text": "Wenn dein Zug beginnt, wähle ein System. Wenn du zum ersten Mal in diesem Zug einen erfolgreichen Run auf dieses System durchführst, erhältst du, statt auf Karten zuzugreifen 2[Credits].",
+        "text": "Wenn dein Zug beginnt, wähle ein System. Wenn du zum ersten Mal in diesem Zug einen erfolgreichen Run auf dieses System durchführst, erhältst du, statt auf Karten zuzugreifen 2[credit].",
         "flavor": "Sie war so gut, wie Mr. Li gesagt hatte. Die Quellmaschine war in weniger als 24 Stunden kompromittiert. Wenn schon ein freischaffender Agent das hinbekam, war das System mit Sicherheit nicht bereit für Gagarins Legionen von Konzern-Runnern."
     },
     {
@@ -322,7 +322,7 @@
         "code": "05050",
         "title": "Tri-maf-Kontact",
         "keywords": "Kontakt",
-        "text": "Du kannst Tri-maf-Kontact nicht öfter als einmal pro Zug verwenden.\n[Click]: Erhalte 2[Credits].\nWenn Tri-maf-Kontact zerstört wird, nimmst du 3 Körper-Schaden.",
+        "text": "Du kannst Tri-maf-Kontact nicht öfter als einmal pro Zug verwenden.\n[click]: Erhalte 2[credit].\nWenn Tri-maf-Kontact zerstört wird, nimmst du 3 Körper-Schaden.",
         "flavor": "Sie stieg wieder auf ihren Hopper. \"Ich bin jetzt deine Familie, also verarsch mich nicht, dǒng ma?\"\nEr nahm die E-Ziggi aus dem Mund und nickte. Wo war er da nur hereingeraten?"
     },
     {
@@ -335,20 +335,20 @@
         "code": "05052",
         "title": "Q-Kohärenz-Chip",
         "keywords": "Chip",
-        "text": "+1[Memory Unit]\nZerstöre Q-Kohärenz-Chip, wenn ein Programm zerstört wird.",
+        "text": "+1[mu]\nZerstöre Q-Kohärenz-Chip, wenn ein Programm zerstört wird.",
         "flavor": "Ein Grundproblem der Quanteninformatik ist es, das System von externen Faktoren zu trennen, um Dekohärenz zu vermeiden. Der Q-Kohärenz-Chip ist eine, zugegeben völlig unvollkommende, Lösung für dieses Problem."
     },
     {
         "code": "05053",
         "title": "Überbewusstsein",
         "keywords": "Ice-Brecher - KI",
-        "text": "Lege für jede nicht verwendete SE 1 Wirkungszähler auf Überbewusstsein, wenn es installiert wird.\n<strong>Gehosteter Wirkungszähler</strong>: Schalte eine Subroutine eines Ice aus.\n1[Credits]: +1 Stärke."
+        "text": "Lege für jede nicht verwendete SE 1 Wirkungszähler auf Überbewusstsein, wenn es installiert wird.\n<strong>Gehosteter Wirkungszähler</strong>: Schalte eine Subroutine eines Ice aus.\n1[credit]: +1 Stärke."
     },
     {
         "code": "05054",
         "title": "OrakelMay",
         "keywords": "Kontakt",
-        "text": "Du kannst Orakel May nicht öfter als einmal pro Zug verwenden.\n[Click]: Benenne eine Kartenart. Decke die oberste Karte deines Stapels auf. Falls die aufgedeckte Karte den genannten Typ hat, ziehe sie und erhalte 2[Credits]. Wenn nicht, zerstöre sie.",
+        "text": "Du kannst Orakel May nicht öfter als einmal pro Zug verwenden.\n[click]: Benenne eine Kartenart. Decke die oberste Karte deines Stapels auf. Falls die aufgedeckte Karte den genannten Typ hat, ziehe sie und erhalte 2[credit]. Wenn nicht, zerstöre sie.",
         "flavor": "\"Es gibt kein besseres Versteck, als einen ganz öffentlichen Ort, nicht wahr?\""
     },
     {

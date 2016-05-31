@@ -3,7 +3,7 @@
         "code": "10058",
         "title": "闪亮登场",
         "keywords": "优先",
-        "text": "仅能在你的第一个[Click]打出。\n查看你存储栈顶端的六张卡牌。你可以销毁其中任意数量的卡牌，并按任意顺序排列余下的卡牌。",
+        "text": "仅能在你的第一个[click]打出。\n查看你存储栈顶端的六张卡牌。你可以销毁其中任意数量的卡牌，并按任意顺序排列余下的卡牌。",
         "flavor": "有时你瞬间就会明白，谁才是你真正的朋友。"
     },
     {
@@ -16,21 +16,21 @@
     {
         "code": "10060",
         "title": "高档宴会",
-        "text": "补一张卡牌。你的堆阵中每有一张高档宴会，获得1[Credits]。\n每套牌组限制6张。",
+        "text": "补一张卡牌。你的堆阵中每有一张高档宴会，获得1[credit]。\n每套牌组限制6张。",
         "flavor": "她出席的宴会越多，他们就越信任她。他们越信任她，她的骗局就越有趣。"
     },
     {
         "code": "10061",
         "title": "喜天",
         "keywords": "破解器 - 智能模块 - 提婆",
-        "text": "1[Credits]：破解具有恰好一个子进程的一层防火墙上的子进程。\n1[Credits]：强度+1。\n2[Credits]：将喜天与你操控器中的一个<strong>提婆</strong>程序交换。",
+        "text": "1[credit]：破解具有恰好一个子进程的一层防火墙上的子进程。\n1[credit]：强度+1。\n2[credit]：将喜天与你操控器中的一个<strong>提婆</strong>程序交换。",
         "flavor": "保护者。"
     },
     {
         "code": "10062",
         "title": "梵天",
         "keywords": "破解器 - 智能模块",
-        "text": "1[Credits]：破解最多2个子进程。\n2[Credits]：强度+1。\n每当一层你使用梵天破解其子进程的防火墙遭遇结束时，将一个已安装的非<strong>病毒</strong>程序加入你的存储栈顶端。"
+        "text": "1[credit]：破解最多2个子进程。\n2[credit]：强度+1。\n每当一层你使用梵天破解其子进程的防火墙遭遇结束时，将一个已安装的非<strong>病毒</strong>程序加入你的存储栈顶端。"
     },
     {
         "code": "10063",
@@ -43,7 +43,7 @@
         "code": "10064",
         "title": "竞速飞跃车",
         "keywords": "载具",
-        "text": "+1[Link]\n[Trash]：补三张卡牌。",
+        "text": "+1[link]\n[trash]：补三张卡牌。",
         "flavor": "“瞧瞧我的新座驾。”——2x虎"
     },
     {
@@ -63,27 +63,27 @@
         "code": "10067",
         "title": "吉夫斯型生化人",
         "keywords": "联盟",
-        "text": "如果你的牌组中有6张或更多的非<strong>联盟</strong>[haas-bioroid]卡牌，本卡牌影响力为0。\n每回合你第一次在相同的行动上花费3[Click]时，获得[Click]。",
+        "text": "如果你的牌组中有6张或更多的非<strong>联盟</strong>[haas-bioroid]卡牌，本卡牌影响力为0。\n每回合你第一次在相同的行动上花费3[click]时，获得[click]。",
         "flavor": "“好的，阁下。”"
     },
     {
         "code": "10068",
         "title": "拉曼·雷",
         "keywords": "联盟 - 主管",
-        "text": "如果你的牌组中有6张或更多的非<strong>联盟</strong>[jinteki]卡牌，本卡牌影响力为0。\n每回合一次，当你补一张卡牌时，你可以失去[Click]。如果你如此做，展示该卡牌和档案库中一张相同类型的卡牌，然后将这些卡牌互换。"
+        "text": "如果你的牌组中有6张或更多的非<strong>联盟</strong>[jinteki]卡牌，本卡牌影响力为0。\n每回合一次，当你补一张卡牌时，你可以失去[click]。如果你如此做，展示该卡牌和档案库中一张相同类型的卡牌，然后将这些卡牌互换。"
     },
     {
         "code": "10069",
         "title": "行部",
         "keywords": "门禁 - 灵能",
-        "text": "[Subroutine] 你和潜袭者秘密花费0[Credits]，1[Credits]或2[Credits]。展示所花费的信用点。如果你和潜袭者花费了不同数量的信用点，潜袭者失去2[Credits]。\n[Subroutine] 结算一层已激活的<strong>灵能</strong>防火墙上的一个子进程。",
+        "text": "[subroutine] 你和潜袭者秘密花费0[credit]，1[credit]或2[credit]。展示所花费的信用点。如果你和潜袭者花费了不同数量的信用点，潜袭者失去2[credit]。\n[subroutine] 结算一层已激活的<strong>灵能</strong>防火墙上的一个子进程。",
         "flavor": "“二谛相通。程序相连。万物为一。”"
     },
     {
         "code": "10070",
         "title": "阿耶波多科技",
         "keywords": "豪华",
-        "text": "每当有一次成功的追踪时，获得1[Credits]并且潜袭者失去1[Credits]。",
+        "text": "每当有一次成功的追踪时，获得1[credit]并且潜袭者失去1[credit]。",
         "flavor": "“随着世界越变越小，通信成为了最关键的科技。”——拉梅什·古普塔，《世界一体经济》"
     },
     {
@@ -96,19 +96,19 @@
         "code": "10072",
         "title": "猎头公司",
         "keywords": "联盟 - 豪华",
-        "text": "如果你的牌组中有6张或更多的非<strong>联盟</strong>[weyland-consortium]卡牌，本卡牌影响力为0。\n[Click]：在研发中心搜寻一个<strong>主管</strong>，<strong>管理员</strong>或<strong>人物</strong>，将其展示，并加入总部。将研发中心重洗。"
+        "text": "如果你的牌组中有6张或更多的非<strong>联盟</strong>[weyland-consortium]卡牌，本卡牌影响力为0。\n[click]：在研发中心搜寻一个<strong>主管</strong>，<strong>管理员</strong>或<strong>人物</strong>，将其展示，并加入总部。将研发中心重洗。"
     },
     {
         "code": "10073",
         "title": "印度联盟证券交易所",
-        "text": "每当你激活或打出一张派系外的卡牌（包括印度联盟证券交易所）时，获得1[Credits]。",
+        "text": "每当你激活或打出一张派系外的卡牌（包括印度联盟证券交易所）时，获得1[credit]。",
         "flavor": "“明智投资的财富是生利的财富。”——《财富之新福音书》"
     },
     {
         "code": "10074",
         "title": "眼镜蛇",
         "keywords": "警报 - 毁灭者 - 杀伤",
-        "text": "[Subroutine] 销毁一个程序。\n[Subroutine] 造成2点网域伤害。",
+        "text": "[subroutine] 销毁一个程序。\n[subroutine] 造成2点网域伤害。",
         "flavor": "印度眼镜蛇是蛇中之王。"
     },
     {

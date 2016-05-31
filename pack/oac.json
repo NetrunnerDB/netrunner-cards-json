@@ -30,7 +30,7 @@
         "position": 2,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to access a card in a remote server, the Runner must pay 1[Credits].",
+        "text": "As an additional cost to access a card in a remote server, the Runner must pay 1[credit].",
         "title": "Gagarin Deep Space: Expanding the Horizon",
         "type_code": "identity",
         "uniqueness": false
@@ -82,7 +82,7 @@
         "position": 5,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Glenn Station can host a single card.\n[Click]: Host a card from HQ facedown on Glenn Station.\n[Click]: Add a card on Glenn Station to HQ.",
+        "text": "Glenn Station can host a single card.\n[click]: Host a card from HQ facedown on Glenn Station.\n[click]: Add a card on Glenn Station to HQ.",
         "title": "Glenn Station",
         "type_code": "agenda",
         "uniqueness": false
@@ -100,7 +100,7 @@
         "position": 6,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click]: Gain 3[Credits].\nLimit 1 Government Takeover per deck.",
+        "text": "[click]: Gain 3[credit].\nLimit 1 Government Takeover per deck.",
         "title": "Government Takeover",
         "type_code": "agenda",
         "uniqueness": true
@@ -118,7 +118,7 @@
         "position": 7,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 1 agenda counter on High-Risk Investment when you score it.\n[Click], <strong>hosted agenda counter:</strong> Gain 1[Credits] for each credit in the Runner's credit pool.",
+        "text": "Place 1 agenda counter on High-Risk Investment when you score it.\n[click], <strong>hosted agenda counter:</strong> Gain 1[credit] for each credit in the Runner's credit pool.",
         "title": "High-Risk Investment",
         "type_code": "agenda",
         "uniqueness": false
@@ -154,7 +154,7 @@
         "position": 9,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Whenever you spend an agenda counter, gain 1[Credits].\n[Trash] or <strong>any agenda counter:</strong> Gain 2[Credits].",
+        "text": "Whenever you spend an agenda counter, gain 1[credit].\n[trash] or <strong>any agenda counter:</strong> Gain 2[credit].",
         "title": "Mark Yale",
         "trash_cost": 3,
         "type_code": "asset",
@@ -212,7 +212,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 6,
-        "text": "Asteroid Belt can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[Subroutine] End the run.",
+        "text": "Asteroid Belt can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] End the run.",
         "title": "Asteroid Belt",
         "type_code": "ice",
         "uniqueness": false
@@ -231,7 +231,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 7,
-        "text": "Wormhole can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[Subroutine] Resolve a subroutine on another piece of rezzed ice.",
+        "text": "Wormhole can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Resolve a subroutine on another piece of rezzed ice.",
         "title": "Wormhole",
         "type_code": "ice",
         "uniqueness": false
@@ -250,7 +250,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "Nebula can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[Subroutine] Trash 1 program.",
+        "text": "Nebula can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Trash 1 program.",
         "title": "Nebula",
         "type_code": "ice",
         "uniqueness": false
@@ -269,7 +269,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 8,
-        "text": "Orion can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[Subroutine] Trash 1 program.\n[Subroutine] Resolve a subroutine on another piece of rezzed ice.\n[Subroutine] End the run.",
+        "text": "Orion can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Trash 1 program.\n[subroutine] Resolve a subroutine on another piece of rezzed ice.\n[subroutine] End the run.",
         "title": "Orion",
         "type_code": "ice",
         "uniqueness": true
@@ -287,7 +287,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Click]: Move this piece of ice to the outermost position protecting any server.\n[Subroutine] Place 1 advancement token on a piece of ice protecting this server that can be advanced.\n[Subroutine] Place 1 advancement token on a piece of ice protecting this server that can be advanced.",
+        "text": "[click]: Move this piece of ice to the outermost position protecting any server.\n[subroutine] Place 1 advancement token on a piece of ice protecting this server that can be advanced.\n[subroutine] Place 1 advancement token on a piece of ice protecting this server that can be advanced.",
         "title": "Builder",
         "type_code": "ice",
         "uniqueness": false
@@ -306,7 +306,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 7,
-        "text": "When you rez Checkpoint, take 1 bad publicity.\n[Subroutine] <trace>Trace 5</trace> If successful, do 3 meat damage when this run is successful.",
+        "text": "When you rez Checkpoint, take 1 bad publicity.\n[subroutine] <trace>Trace 5</trace> If successful, do 3 meat damage when this run is successful.",
         "title": "Checkpoint",
         "type_code": "ice",
         "uniqueness": false
@@ -325,7 +325,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "Fire Wall can be advanced and gains +1 strength for each advancement token on it.\n[Subroutine] End the run.",
+        "text": "Fire Wall can be advanced and gains +1 strength for each advancement token on it.\n[subroutine] End the run.",
         "title": "Fire Wall",
         "type_code": "ice",
         "uniqueness": false
@@ -343,7 +343,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight.\n[Subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.\n[Subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.",
+        "text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.",
         "title": "Searchlight",
         "type_code": "ice",
         "uniqueness": false
@@ -451,7 +451,7 @@
         "position": 25,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Install Sub Boost on a rezzed piece of ice as a hosted condition counter with the text \"Host ice gains <strong>barrier</strong> and '[Subroutine] End the run.' after all its other subroutines.\"",
+        "text": "Install Sub Boost on a rezzed piece of ice as a hosted condition counter with the text \"Host ice gains <strong>barrier</strong> and '[subroutine] End the run.' after all its other subroutines.\"",
         "title": "Sub Boost",
         "type_code": "operation",
         "uniqueness": false
@@ -467,7 +467,7 @@
         "position": 26,
         "quantity": 3,
         "side_code": "corp",
-        "text": "2[Recurring Credits]\nUse these credits to install ice protecting this server.",
+        "text": "2[recurring-credit]\nUse these credits to install ice protecting this server.",
         "title": "Dedicated Technician Team",
         "trash_cost": 1,
         "type_code": "upgrade",
@@ -485,7 +485,7 @@
         "position": 27,
         "quantity": 3,
         "side_code": "corp",
-        "text": "If Cyberdex Virus Suite is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Cyberdex Virus Suite, you may purge virus counters.\n[Trash]: Purge virus counters.",
+        "text": "If Cyberdex Virus Suite is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Cyberdex Virus Suite, you may purge virus counters.\n[trash]: Purge virus counters.",
         "title": "Cyberdex Virus Suite",
         "trash_cost": 1,
         "type_code": "upgrade",
@@ -560,7 +560,7 @@
         "position": 31,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Gain [Click][Click][Click] and suffer 1 brain damage (cannot be prevented).",
+        "text": "Gain [click][click][click] and suffer 1 brain damage (cannot be prevented).",
         "title": "Amped Up",
         "type_code": "event",
         "uniqueness": false
@@ -628,7 +628,7 @@
         "position": 35,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Make a run on HQ. If successful, instead of accessing cards, you may spend any number of [Click] to force the Corp to trash an equal number of cards from HQ at random.",
+        "text": "Make a run on HQ. If successful, instead of accessing cards, you may spend any number of [click] to force the Corp to trash an equal number of cards from HQ at random.",
         "title": "Wanton Destruction",
         "type_code": "event",
         "uniqueness": false
@@ -645,7 +645,7 @@
         "position": 36,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to play this event, spend [Click][Click][Click].\nGain 10[Credits].",
+        "text": "As an additional cost to play this event, spend [click][click][click].\nGain 10[credit].",
         "title": "Day Job",
         "type_code": "event",
         "uniqueness": false
@@ -716,7 +716,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "1[Credits]: Break ice subroutine. You cannot access more than 0 cards for the remainder of this run.\n1[Credits]: +1 strength.",
+        "text": "1[credit]: Break ice subroutine. You cannot access more than 0 cards for the remainder of this run.\n1[credit]: +1 strength.",
         "title": "Eater",
         "type_code": "program",
         "uniqueness": false
@@ -735,7 +735,7 @@
         "position": 41,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger.\n[Click], <strong>hosted virus counter:</strong> The Corp trashes the top card of R&D.",
+        "text": "Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger.\n[click], <strong>hosted virus counter:</strong> The Corp trashes the top card of R&D.",
         "title": "Gravedigger",
         "type_code": "program",
         "uniqueness": false
@@ -824,7 +824,7 @@
         "position": 46,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+3[Memory Unit]\nUse the MU on MemStrips only for <strong>virus</strong> programs.",
+        "text": "+3[mu]\nUse the MU on MemStrips only for <strong>virus</strong> programs.",
         "title": "MemStrips",
         "type_code": "hardware",
         "uniqueness": false
@@ -842,7 +842,7 @@
         "position": 47,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Memory Unit]\nWhen your turn begins, draw 1 card if the Corp has cards in HQ equal to his or her maximum hand size.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+1[mu]\nWhen your turn begins, draw 1 card if the Corp has cards in HQ equal to his or her maximum hand size.\nLimit 1 <strong>console</strong> per player.",
         "title": "Vigil",
         "type_code": "hardware",
         "uniqueness": true
@@ -877,7 +877,7 @@
         "position": 49,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Install only if the Corp has at least 1 bad publicity.\n[Click],[Click],[Click],[Click],[Trash]: Give the Corp 1 bad publicity.",
+        "text": "Install only if the Corp has at least 1 bad publicity.\n[click],[click],[click],[click],[trash]: Give the Corp 1 bad publicity.",
         "title": "Investigative Journalism",
         "type_code": "resource",
         "uniqueness": false
@@ -894,7 +894,7 @@
         "position": 50,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Trash]: Prevent all damage. Trash all installed hardware, all installed non-<strong>virtual</strong> resources, and all cards in your grip. Lose all credits in your credit pool. Remove all tags.",
+        "text": "[trash]: Prevent all damage. Trash all installed hardware, all installed non-<strong>virtual</strong> resources, and all cards in your grip. Lose all credits in your credit pool. Remove all tags.",
         "title": "Sacrificial Clone",
         "type_code": "resource",
         "uniqueness": false
@@ -912,7 +912,7 @@
         "position": 51,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain [Click].",
+        "text": "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain [click].",
         "title": "Stim Dealer",
         "type_code": "resource",
         "uniqueness": false
@@ -930,7 +930,7 @@
         "position": 52,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, place 1 virus counter on Virus Breeding Ground.\n[Click]: Move 1 virus counter on Virus Breeding Ground to another card with at least 1 virus counter on it.",
+        "text": "When your turn begins, place 1 virus counter on Virus Breeding Ground.\n[click]: Move 1 virus counter on Virus Breeding Ground to another card with at least 1 virus counter on it.",
         "title": "Virus Breeding Ground",
         "type_code": "resource",
         "uniqueness": false
@@ -964,7 +964,7 @@
         "position": 54,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, you may lose [Click]. If you do, avoid the first tag you take until the beginning of your next turn.",
+        "text": "When your turn begins, you may lose [click]. If you do, avoid the first tag you take until the beginning of your next turn.",
         "title": "Qianju PT",
         "type_code": "hardware",
         "uniqueness": false
@@ -982,7 +982,7 @@
         "position": 55,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, gain 1[Credits] if you have 2 or more unused MU.",
+        "text": "When your turn begins, gain 1[credit] if you have 2 or more unused MU.",
         "title": "Data Folding",
         "type_code": "resource",
         "uniqueness": false

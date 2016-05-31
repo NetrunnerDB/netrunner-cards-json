@@ -47,7 +47,7 @@
         "position": 43,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Memory Unit]\nWhenever you steal an agenda, you may swap that agenda with an agenda in the Corp's score area.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+1[mu]\nWhenever you steal an agenda, you may swap that agenda with an agenda in the Corp's score area.\nLimit 1 <strong>console</strong> per player.",
         "title": "Turntable",
         "type_code": "hardware",
         "uniqueness": true
@@ -101,7 +101,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "If you have at least 2[Link], the memory cost of Crowbar is 0, even if it is not installed.\nCrowbar has +1 strength for each installed <strong>icebreaker</strong>.\n[Trash]: Break up to 3 <strong>code gate</strong> subroutines.",
+        "text": "If you have at least 2[link], the memory cost of Crowbar is 0, even if it is not installed.\nCrowbar has +1 strength for each installed <strong>icebreaker</strong>.\n[trash]: Break up to 3 <strong>code gate</strong> subroutines.",
         "title": "Crowbar",
         "type_code": "program",
         "uniqueness": false
@@ -136,7 +136,7 @@
         "position": 48,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Make a run on R&D. If successful, instead of accessing cards, you may choose an unrezzed non-ice card with no advancement tokens on it. The Corp shuffles that card into R&D.",
+        "text": "[click]: Make a run on R&D. If successful, instead of accessing cards, you may choose an unrezzed non-ice card with no advancement tokens on it. The Corp shuffles that card into R&D.",
         "title": "Analog Dreamers",
         "type_code": "program",
         "uniqueness": false
@@ -209,7 +209,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "[Subroutine] The Runner trashes an installed piece of hardware. Trash Lab Dog.",
+        "text": "[subroutine] The Runner trashes an installed piece of hardware. Trash Lab Dog.",
         "title": "Lab Dog",
         "type_code": "ice",
         "uniqueness": false
@@ -246,7 +246,7 @@
         "position": 54,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Trash]: Do 1 brain damage. Use this ability only during a run on this server and only if the Runner has no unspent clicks.",
+        "text": "[trash]: Do 1 brain damage. Use this ability only during a run on this server and only if the Runner has no unspent clicks.",
         "title": "Ryon Knight",
         "trash_cost": 3,
         "type_code": "upgrade",
@@ -265,7 +265,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[Subroutine] You and the Runner secretly spend 0[Credits], 1[Credits], or 2[Credits]. Reveal spent credits. If you and the Runner spent a different number of credits, place 1 advancement token on an installed card and end the run.",
+        "text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, place 1 advancement token on an installed card and end the run.",
         "title": "Clairvoyant Monitor",
         "type_code": "ice",
         "uniqueness": false
@@ -284,7 +284,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "[Subroutine] The Runner cannot draw cards for the remainder of this turn.",
+        "text": "[subroutine] The Runner cannot draw cards for the remainder of this turn.",
         "title": "Lockdown",
         "type_code": "ice",
         "uniqueness": false
@@ -303,7 +303,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 7,
-        "text": "[Subroutine] End the run.\n[Subroutine] End the run.\n[Subroutine] The Runner gains 5[Credits].",
+        "text": "[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] The Runner gains 5[credit].",
         "title": "Little Engine",
         "type_code": "ice",
         "uniqueness": false
@@ -320,7 +320,7 @@
         "position": 58,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Install Oaktown Renovation faceup.\nWhenever you advance Oaktown Renovation, gain 2[Credits] (or 3[Credits] if there are 5 or more advancement tokens on Oaktown Renovation).",
+        "text": "Install Oaktown Renovation faceup.\nWhenever you advance Oaktown Renovation, gain 2[credit] (or 3[credit] if there are 5 or more advancement tokens on Oaktown Renovation).",
         "title": "Oaktown Renovation",
         "type_code": "agenda",
         "uniqueness": false
@@ -356,7 +356,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "When the Runner encounters Quicksand, place 1 power counter on Quicksand.\nQuicksand has +1 strength for each power counter on it.\n[Subroutine] End the run.",
+        "text": "When the Runner encounters Quicksand, place 1 power counter on Quicksand.\nQuicksand has +1 strength for each power counter on it.\n[subroutine] End the run.",
         "title": "Quicksand",
         "type_code": "ice",
         "uniqueness": false

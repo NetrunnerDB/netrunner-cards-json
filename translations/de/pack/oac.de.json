@@ -10,7 +10,7 @@
         "code": "07002",
         "title": "Gagarin Raumstation: Den Horizont erweitern",
         "keywords": "Kon",
-        "text": "Um auf eine Karte in einem ausgelagerten System zuzugreifen, muss der Runner 1 [Credits]ausgeben.",
+        "text": "Um auf eine Karte in einem ausgelagerten System zuzugreifen, muss der Runner 1 [credit]ausgeben.",
         "flavor": "Sic Itur Ad Astra."
     },
     {
@@ -30,20 +30,20 @@
         "code": "07005",
         "title": "Glenn Raumstation",
         "keywords": "Erweiterung",
-        "text": "Glenn-Raumstation kann eine einzige Karte hosten.\n[Click]: Hoste eine Karte vom HQ verdeckt auf der Glenn-Raumstation.\n[Click]: Füge eine Karte von der Glenn-Raumstation dem HQ hinzu."
+        "text": "Glenn-Raumstation kann eine einzige Karte hosten.\n[click]: Hoste eine Karte vom HQ verdeckt auf der Glenn-Raumstation.\n[click]: Füge eine Karte von der Glenn-Raumstation dem HQ hinzu."
     },
     {
         "code": "07006",
         "title": "Militärputsch",
         "keywords": "Erweiterung",
-        "text": "[Click]: Erhalte 3[Credits].\nMaximal 1 Militärputsch pro Deck.",
+        "text": "[click]: Erhalte 3[credit].\nMaximal 1 Militärputsch pro Deck.",
         "flavor": "Es ist entscheident, eine Bevölkerung von der Tyrannei zu befreien, bevor die Tyrannei Wurzeln schlagen kann."
     },
     {
         "code": "07007",
         "title": "Hochrisiko-Investition",
         "keywords": "Erweiterung",
-        "text": "Lege 1 Agendazähler auf Hochrisiko-Investition, wenn du die Punkte dafür erzielst.\n[Click], <strong>gehosteter Agendazähler:</strong>:Du erhältst 1 [Credits] für jeden Credit im Credit-Vorrat des Runners.",
+        "text": "Lege 1 Agendazähler auf Hochrisiko-Investition, wenn du die Punkte dafür erzielst.\n[click], <strong>gehosteter Agendazähler:</strong>:Du erhältst 1 [credit] für jeden Credit im Credit-Vorrat des Runners.",
         "flavor": "\"Vertrau mir. Ich weiß, was ich tue.\""
     },
     {
@@ -56,7 +56,7 @@
         "code": "07009",
         "title": "Mark Yale",
         "keywords": "Führungskraft",
-        "text": "Immer, wenn du einen Agendazähler ausgibst, erhältst du 1[Credits].\n[Trash] oder <strong>ein beliebiger Agendazähler:</strong>: Du erhältst 2[Credits].",
+        "text": "Immer, wenn du einen Agendazähler ausgibst, erhältst du 1[credit].\n[trash] oder <strong>ein beliebiger Agendazähler:</strong>: Du erhältst 2[credit].",
         "flavor": "\"Das ist eine einmalige Gelegenheit…\""
     },
     {
@@ -77,55 +77,55 @@
         "code": "07012",
         "title": "Asteroidengürtel",
         "keywords": "Barriere",
-        "text": "Asteroidengürtel kann entwickelt werden. Seine Ladekosten werden für jeden Entwicklungsmarker darauf um je 3 gesenkt.\n[Subroutine] Beende den Run.",
+        "text": "Asteroidengürtel kann entwickelt werden. Seine Ladekosten werden für jeden Entwicklungsmarker darauf um je 3 gesenkt.\n[subroutine] Beende den Run.",
         "flavor": "Sein Gürtel aus Steinen bebte und zerbrach."
     },
     {
         "code": "07013",
         "title": "Wurmloch",
         "keywords": "Code-Zugang",
-        "text": "Wurmloch kann entwickelt werden. Seine Ladekosten werden für jeden Entwicklungsmarker darauf um je 3 gesenkt.\n[Subroutine] Führe eine Subroutine auf einem anderen geladenen Ice aus.",
+        "text": "Wurmloch kann entwickelt werden. Seine Ladekosten werden für jeden Entwicklungsmarker darauf um je 3 gesenkt.\n[subroutine] Führe eine Subroutine auf einem anderen geladenen Ice aus.",
         "flavor": "Als durch die Tür aus Licht er trat."
     },
     {
         "code": "07014",
         "title": "Sternennebel",
         "keywords": "Wächter - Zerstörer",
-        "text": "\nSternennebel kann entwickelt werden. Seine Ladekosten werden für jeden Entwicklungsmarker darauf um je 3 gesenkt.\n[Subroutine] Zerstöre 1 Programm.",
+        "text": "\nSternennebel kann entwickelt werden. Seine Ladekosten werden für jeden Entwicklungsmarker darauf um je 3 gesenkt.\n[subroutine] Zerstöre 1 Programm.",
         "flavor": "Er spannte seinen Sternenbogen."
     },
     {
         "code": "07015",
         "title": "Orion",
         "keywords": "Wächter - Code-Zugang - Barriere",
-        "text": "Orion kann entwickelt werden. Seine Ladekosten werden für jeden Entwicklungsmarker darauf um je 3 gesenkt.\n[Subroutine] Zerstöre 1 Programm.\n[Subroutine] Führe eine Subroutine auf einem anderen geladenen Ice aus.\n[Subroutine] Beende den Run.",
+        "text": "Orion kann entwickelt werden. Seine Ladekosten werden für jeden Entwicklungsmarker darauf um je 3 gesenkt.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Führe eine Subroutine auf einem anderen geladenen Ice aus.\n[subroutine] Beende den Run.",
         "flavor": "Und Beute suchend legte er an."
     },
     {
         "code": "07016",
         "title": "Erbauer",
         "keywords": "Code-Zugang",
-        "text": "[Click]: Verschiebe dieses Ice auf die äußerste Position, die ein beliebiges System schützt.\n[Subroutine] Lege 1 Entwicklungsmarker auf ein Ice, das dieses System schützt und entwickelt werden kann.\n[Subroutine] Lege 1 Entwicklungsmarker auf ein Ice, das dieses System schützt und entwickelt werden kann."
+        "text": "[click]: Verschiebe dieses Ice auf die äußerste Position, die ein beliebiges System schützt.\n[subroutine] Lege 1 Entwicklungsmarker auf ein Ice, das dieses System schützt und entwickelt werden kann.\n[subroutine] Lege 1 Entwicklungsmarker auf ein Ice, das dieses System schützt und entwickelt werden kann."
     },
     {
         "code": "07017",
         "title": "Kontrollpunkt",
         "keywords": "Code-Zugang - Spürhund - Illegal",
-        "text": "Wenn du Kontrollpunkt lädst, erhältst du 1 negative Publicity.\n[Subroutine] <trace>Aufspüren 5</trace> Bei Erfolg verursache 3 Körper-Schaden, wenn dieser Run erfolgreich ist.",
+        "text": "Wenn du Kontrollpunkt lädst, erhältst du 1 negative Publicity.\n[subroutine] <trace>Aufspüren 5</trace> Bei Erfolg verursache 3 Körper-Schaden, wenn dieser Run erfolgreich ist.",
         "flavor": "\"Ich bin schon einmal durch einen durchgegangen, scheinbar ohne dass es irgendwelche Auswirkungen hatte. Erst, als ich mich ausstöpselte, bemerkte ich, dass sie schon die Tür zu meiner Wohnung eintraten.\" -Valencia Estevez"
     },
     {
         "code": "07018",
         "title": "Firewall",
         "keywords": "Barriere",
-        "text": "Firewall kann entwickelt werden und erhält +1 Stärke für jeden Entwicklungsmarker darauf.\n[Subroutine] Beende den Run.",
+        "text": "Firewall kann entwickelt werden und erhält +1 Stärke für jeden Entwicklungsmarker darauf.\n[subroutine] Beende den Run.",
         "flavor": "\"Das hat er aber sehr wörtlich genommen.\" -Liz Campbell, VP Projektsicherheit"
     },
     {
         "code": "07019",
         "title": "Suchscheinwerfer",
         "keywords": "Wächter - Spürhund - Beobachter",
-        "text": "Suchscheinwerfer kann entwickelt werden. X ist die Anzahl der Entwicklungsmarker auf Suchscheinwerfer.\n[Subroutine]<trace>Aufspüren X</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[Subroutine]<trace>Aufspüren X</trace> Verpasse dem Runner bei Erfolg 1 Markierung."
+        "text": "Suchscheinwerfer kann entwickelt werden. X ist die Anzahl der Entwicklungsmarker auf Suchscheinwerfer.\n[subroutine]<trace>Aufspüren X</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine]<trace>Aufspüren X</trace> Verpasse dem Runner bei Erfolg 1 Markierung."
     },
     {
         "code": "07020",
@@ -164,19 +164,19 @@
         "code": "07025",
         "title": "Sub-Booster",
         "keywords": "Bedingung",
-        "text": "Installiere Sub-Booster auf ein geladenes Ice als gehosteten Bedingungsmarker mit dem Text: \"Das hostende Ice erhält <strong>Barriere</strong> und '[Subroutine] Beende den Run.' nach all seinen anderen Subroutinen.\"",
+        "text": "Installiere Sub-Booster auf ein geladenes Ice als gehosteten Bedingungsmarker mit dem Text: \"Das hostende Ice erhält <strong>Barriere</strong> und '[subroutine] Beende den Run.' nach all seinen anderen Subroutinen.\"",
         "flavor": "\"Es ist einfach lustig, ihnen beim Entladen zuzusehen, nachdem sie auf Enigma gestoßen sind.\" -Grace Lamarr, freiberufliche Sicherheitsexpertin"
     },
     {
         "code": "07026",
         "title": "Spezialisiertes Technikerteam",
-        "text": "2[Recurring Credits]\nVerwende diese Credits, um Ice zu installieren, das dieses System schützt."
+        "text": "2[recurring-credit]\nVerwende diese Credits, um Ice zu installieren, das dieses System schützt."
     },
     {
         "code": "07027",
         "title": "Cyberdex Virus Suite",
         "keywords": "Hinterhalt",
-        "text": "Falls von F&E auf Cyberdex Virus Suite zugegriffen wird, muss der Runner es aufdecken.\nWenn der Runner auf Cyberdex Virus Suite zugreift, kannst du Viruszähler löschen.\n[Trash]: Lösche Viruszähler."
+        "text": "Falls von F&E auf Cyberdex Virus Suite zugegriffen wird, muss der Runner es aufdecken.\nWenn der Runner auf Cyberdex Virus Suite zugreift, kannst du Viruszähler löschen.\n[trash]: Lösche Viruszähler."
     },
     {
         "code": "07028",
@@ -202,7 +202,7 @@
     {
         "code": "07031",
         "title": "Aufgedreht",
-        "text": "Du erhältst [Click] [Click] [Click] und nimmst 1 Hirn-Schaden (kann nicht verhindert werden).",
+        "text": "Du erhältst [click] [click] [click] und nimmst 1 Hirn-Schaden (kann nicht verhindert werden).",
         "flavor": "\"Das menschliche Gehirn verwendet sowieso nur ein Viertel seiner Kapazität, oder?\" -MaxX"
     },
     {
@@ -227,12 +227,12 @@
         "code": "07035",
         "title": "Mutwillige Zerstörung",
         "keywords": "Run - Sabotage",
-        "text": "Führe einen Run auf HQ durch. Bei Erfolg, darfst du, statt auf Karten zuzugreifen, eine beliebige Anzahl [Click] zahlen, um den Kon zu zwingen, dieselbe Anzahl an Karten aus dem HQ zufällig zu zerstören."
+        "text": "Führe einen Run auf HQ durch. Bei Erfolg, darfst du, statt auf Karten zuzugreifen, eine beliebige Anzahl [click] zahlen, um den Kon zu zwingen, dieselbe Anzahl an Karten aus dem HQ zufällig zu zerstören."
     },
     {
         "code": "07036",
         "title": "Echt beschissener Job",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [Click] [Click] [Click].\nErhalte 10[Credits].",
+        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click] [click] [click].\nErhalte 10[credit].",
         "flavor": "\"Hallo, danke für ihren Vid-Anruf bei MegaBuy mein Name ist Carol wie kann ich ihnen helfen?\""
     },
     {
@@ -257,14 +257,14 @@
         "code": "07040",
         "title": "Fresser",
         "keywords": "Ice-Brecher - KI",
-        "text": "1[Credits]: Schalte eine Subroutine eines Ice aus. Du kannst für den Rest dieses Runs nicht auf mehr als 0 Karten zugreifen.\n1[Credits]: +1 Stärke.",
+        "text": "1[credit]: Schalte eine Subroutine eines Ice aus. Du kannst für den Rest dieses Runs nicht auf mehr als 0 Karten zugreifen.\n1[credit]: +1 Stärke.",
         "flavor": "Nom nom nom."
     },
     {
         "code": "07041",
         "title": "Totengräber",
         "keywords": "Virus",
-        "text": "Immer, wenn eine installierte Karte des Kons zerstört wird, lege 1 Viruszähler auf Totengräber.\n[Click], <strong>gehosteter Viruszähler</strong>: Der Kon zerstört die oberste Karte von F&E.",
+        "text": "Immer, wenn eine installierte Karte des Kons zerstört wird, lege 1 Viruszähler auf Totengräber.\n[click], <strong>gehosteter Viruszähler</strong>: Der Kon zerstört die oberste Karte von F&E.",
         "flavor": "\"Sobald eure Schnüffler die Protokolle finden, mit denen das System seine eigenen Daten zerstört, könnt ihr dieselben Protokolle fälschen. Dann kommt die Sache richtig ans Laufen\" -Ji \"Noise\" Reilly"
     },
     {
@@ -296,14 +296,14 @@
         "code": "07046",
         "title": "Speicherstreifen",
         "keywords": "Chip",
-        "text": "+3[Memory Unit]\nVerwende die SE auf Speicherstreifen nur für <strong>Virus</strong>-Programme.",
+        "text": "+3[mu]\nVerwende die SE auf Speicherstreifen nur für <strong>Virus</strong>-Programme.",
         "flavor": "\"Der Trick ist es, sich zu merken, welchen Virus man auf welchen Streifen geladen hat. Deswegen male ich Emojis darauf. Dann muss ich mir nur noch merken, welches Emoji für welchen Virus steht.\" -Prinzessin Space Kitten"
     },
     {
         "code": "07047",
         "title": "Vigilie",
         "keywords": "Konsole",
-        "text": "+1[Memory Unit]\nWenn dein Zug beginnt, ziehe 1 Karte, falls die Anzahl der Karten im HQ des Konzerns seinem Handkartenlimit entspricht.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+        "text": "+1[mu]\nWenn dein Zug beginnt, ziehe 1 Karte, falls die Anzahl der Karten im HQ des Konzerns seinem Handkartenlimit entspricht.\nNur 1 <strong>Konsole</strong> pro Spieler.",
         "flavor": "\"Zeig mir deinen Glauben ohne Taten, falls du kannst.\""
     },
     {
@@ -316,27 +316,27 @@
     {
         "code": "07049",
         "title": "Investigativer Journalismus",
-        "text": "Kann nur installiert werden, falls der Kon mindestens 1 negative Publicity hat.\n[Click],[Click],[Click],[Click],[Trash]: Verpasse dem Kon 1 negative Publicity.",
+        "text": "Kann nur installiert werden, falls der Kon mindestens 1 negative Publicity hat.\n[click],[click],[click],[click],[trash]: Verpasse dem Kon 1 negative Publicity.",
         "flavor": "Ich Herz schlug schneller, als die Einträge auf ihrem Lesegerät aufleuchteten. Alles war da. Der Pod war seit dem Vierzehnten nicht neu programmiert worden, es handelte sich also um einen Fall von sträflicher Fahrlässigkeit."
     },
     {
         "code": "07050",
         "title": "Opferklon",
-        "text": "[Trash]: Verhindere allen Schaden. Zerstöre sämtliche installierte Hardware, alle installierten, nicht <strong>virtuellen</strong> Ressourcen und alle Karten in deinem Griff. Du verlierst alle Credits in deinem Credit-Vorrat. Entferne alle Markierungen.",
+        "text": "[trash]: Verhindere allen Schaden. Zerstöre sämtliche installierte Hardware, alle installierten, nicht <strong>virtuellen</strong> Ressourcen und alle Karten in deinem Griff. Du verlierst alle Credits in deinem Credit-Vorrat. Entferne alle Markierungen.",
         "flavor": "\"Mach dir keine Sorgen, zweites Ich. Du muss nicht vertikal einparken.\" -Ji \"Noise\" Reilly"
     },
     {
         "code": "07051",
         "title": "Stim-Dealer",
         "keywords": "Kontakt",
-        "text": "Falls sich 2 oder mehr Wirkungszähler auf Stim-Dealer befinden, wenn dein Zug beginnt, entferne alle Wirkungszähler von Stim-Dealer und nimm 1 Hirn-Schaden (kann nicht verhindert werden). Andernfalls lege 1 Wirkungszähler auf Stim-Dealer und erhalte [Click].",
+        "text": "Falls sich 2 oder mehr Wirkungszähler auf Stim-Dealer befinden, wenn dein Zug beginnt, entferne alle Wirkungszähler von Stim-Dealer und nimm 1 Hirn-Schaden (kann nicht verhindert werden). Andernfalls lege 1 Wirkungszähler auf Stim-Dealer und erhalte [click].",
         "flavor": "Ihre Augen hatten die Farbe von Träumen und Tragödien."
     },
     {
         "code": "07052",
         "title": "Virus-Brutstätte",
         "keywords": "Virtuell",
-        "text": "\nWenn dein Zug beginnt, lege 1 Viruszähler auf Virus-Brutstätte.\n[Click]: Verschiebe 1 Viruszähler von Virus-Brutstätte auf eine andere Karte mit mindestens 1 Viruszähler darauf.",
+        "text": "\nWenn dein Zug beginnt, lege 1 Viruszähler auf Virus-Brutstätte.\n[click]: Verschiebe 1 Viruszähler von Virus-Brutstätte auf eine andere Karte mit mindestens 1 Viruszähler darauf.",
         "flavor": "Codefetzen, die durch das Netzwerk schwirren, können zu Datenpools zusammenlaufen. In dieser Ursuppe bricht der Code, fügt sich wieder zusammen, mutiert. Er entwickelt sich."
     },
     {
@@ -349,14 +349,14 @@
         "code": "07054",
         "title": "Qianju PT",
         "keywords": "Fahrzeug",
-        "text": "Wenn dein Zug beginnt, kannst du [Click].aufgeben. In diesem Fall kannst du die erste Markierung ignorieren, die du bis zum Beginn deines nächsten Zuges verpasst bekommen würdest.",
+        "text": "Wenn dein Zug beginnt, kannst du [click].aufgeben. In diesem Fall kannst du die erste Markierung ignorieren, die du bis zum Beginn deines nächsten Zuges verpasst bekommen würdest.",
         "flavor": "\"Sobald du alle Optionen zugebucht hast, hast du etwa dreimal den Grundpreis gezahlt. Natürlich sind viele der Systeme dafür gedacht, für deine Sicherheit zu sorgen - wenn du es schaffst, sie im Auge zu behalten.\""
     },
     {
         "code": "07055",
         "title": "Datenfalten",
         "keywords": "Virtuell",
-        "text": "Wenn dein Zug beginnt, erhältst du 1[Credits] falls du 2 oder mehr nicht verwendete SE hast.",
+        "text": "Wenn dein Zug beginnt, erhältst du 1[credit] falls du 2 oder mehr nicht verwendete SE hast.",
         "flavor": "\"Manchmal falte ich gerne Origamit-Kraniche aus alten Schmierblättern. Es hilft mir beim Nachdenken, indem es Dinge zurück ins Unterbewusstsein drängt. Ich denke, mit meinem Deck ist es genau das gleiche - ich lass es laufen und es sorgt dafür, dass ich ein paar Creds für meine Mühen bekomme.\" - Quetzal"
     }
 ]

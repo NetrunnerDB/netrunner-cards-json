@@ -81,7 +81,7 @@
         "position": 5,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 3 agenda counters on Efficiency Committee when you score it.\n[Click], <strong>hosted agenda counter:</strong> Gain [Click][Click]. You cannot advance cards for the remainder of this turn.",
+        "text": "Place 3 agenda counters on Efficiency Committee when you score it.\n[click], <strong>hosted agenda counter:</strong> Gain [click][click]. You cannot advance cards for the remainder of this turn.",
         "title": "Efficiency Committee",
         "type_code": "agenda",
         "uniqueness": false
@@ -98,7 +98,7 @@
         "position": 6,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 3 agenda counters on Project Wotan when you score it.\n<strong>Hosted agenda counter:</strong> Choose a rezzed piece of <strong>bioroid</strong> ice currently being approached. For the remainder of this run, that ice gains \"[Subroutine] End the run.\" after all its other subroutines.",
+        "text": "Place 3 agenda counters on Project Wotan when you score it.\n<strong>Hosted agenda counter:</strong> Choose a rezzed piece of <strong>bioroid</strong> ice currently being approached. For the remainder of this run, that ice gains \"[subroutine] End the run.\" after all its other subroutines.",
         "title": "Project Wotan",
         "type_code": "agenda",
         "uniqueness": false
@@ -134,7 +134,7 @@
         "position": 8,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 1 power counter on Alix T4LB07 whenever you install a card.\n[Click],[Trash]: Gain 2[Credits] for each power counter on Alix T4LB07.",
+        "text": "Place 1 power counter on Alix T4LB07 whenever you install a card.\n[click],[trash]: Gain 2[credit] for each power counter on Alix T4LB07.",
         "title": "Alix T4LB07",
         "trash_cost": 2,
         "type_code": "asset",
@@ -152,7 +152,7 @@
         "position": 9,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Cerebral Overwriter can be advanced.\nIf you pay 3[Credits] when the Runner accesses Cerebral Overwriter, do 1 brain damage for each advancement token on Cerebral Overwriter.",
+        "text": "Cerebral Overwriter can be advanced.\nIf you pay 3[credit] when the Runner accesses Cerebral Overwriter, do 1 brain damage for each advancement token on Cerebral Overwriter.",
         "title": "Cerebral Overwriter",
         "trash_cost": 0,
         "type_code": "asset",
@@ -170,7 +170,7 @@
         "position": 10,
         "quantity": 3,
         "side_code": "corp",
-        "text": "You have 1 additional [Click] to spend each turn.\nIf Director Haas is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points.",
+        "text": "You have 1 additional [click] to spend each turn.\nIf Director Haas is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points.",
         "title": "Director Haas",
         "trash_cost": 5,
         "type_code": "asset",
@@ -187,7 +187,7 @@
         "position": 11,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Haas Arcology AI can be advanced only while unrezzed.\n[Click], <strong>hosted advancement token:</strong> Gain [Click][Click]. Use this ability only once per turn.",
+        "text": "Haas Arcology AI can be advanced only while unrezzed.\n[click], <strong>hosted advancement token:</strong> Gain [click][click]. Use this ability only once per turn.",
         "title": "Haas Arcology AI",
         "trash_cost": 1,
         "type_code": "asset",
@@ -206,7 +206,7 @@
         "position": 12,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Thomas Haas can be advanced.\n[Trash]: Gain 2[Credits] for each advancement token on Thomas Haas.",
+        "text": "Thomas Haas can be advanced.\n[trash]: Gain 2[credit] for each advancement token on Thomas Haas.",
         "title": "Thomas Haas",
         "trash_cost": 1,
         "type_code": "asset",
@@ -242,7 +242,7 @@
         "position": 14,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Play only if the Runner made an unsuccessful run during his or her last turn.\nGain 7[Credits].",
+        "text": "Play only if the Runner made an unsuccessful run during his or her last turn.\nGain 7[credit].",
         "title": "Successful Demonstration",
         "type_code": "operation",
         "uniqueness": false
@@ -261,7 +261,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 7,
-        "text": "The Runner can spend [Click][Click] to break up to 2 subroutines on Heimdall 2.0.\n[Subroutine] Do 1 brain damage.\n[Subroutine] Do 1 brain damage and end the run.\n[Subroutine] End the run.",
+        "text": "The Runner can spend [click][click] to break up to 2 subroutines on Heimdall 2.0.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage and end the run.\n[subroutine] End the run.",
         "title": "Heimdall 2.0",
         "type_code": "ice",
         "uniqueness": false
@@ -280,7 +280,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "text": "[Subroutine] You may install and rez a piece of <strong>bioroid</strong> ice from HQ or Archives, ignoring all costs, placing it directly behind Howler. If you do, derez that piece of ice and trash Howler after the run is completed.",
+        "text": "[subroutine] You may install and rez a piece of <strong>bioroid</strong> ice from HQ or Archives, ignoring all costs, placing it directly behind Howler. If you do, derez that piece of ice and trash Howler after the run is completed.",
         "title": "Howler",
         "type_code": "ice",
         "uniqueness": false
@@ -299,7 +299,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "The Runner can spend [Click][Click] to break up to 2 subroutines on Ichi 2.0.\n[Subroutine] Trash 1 program.\n[Subroutine] Trash 1 program.\n[Subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag and do 1 brain damage.",
+        "text": "The Runner can spend [click][click] to break up to 2 subroutines on Ichi 2.0.\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 program.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag and do 1 brain damage.",
         "title": "Ichi 2.0",
         "type_code": "ice",
         "uniqueness": false
@@ -318,7 +318,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] You may install a piece of ice from HQ as the outermost piece of ice protecting this server, ignoring all install costs.",
+        "text": "[subroutine] You may install a piece of ice from HQ as the outermost piece of ice protecting this server, ignoring all install costs.",
         "title": "Minelayer",
         "type_code": "ice",
         "uniqueness": false
@@ -336,7 +336,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 5,
-        "text": "The Runner can spend [Click][Click] to break up to 2 subroutines on Viktor 2.0.\n<strong>Hosted power counter:</strong> Do 1 brain damage.\n[Subroutine] <trace>Trace 2</trace> If successful, place 1 power counter on Viktor 2.0.\n[Subroutine] End the run.",
+        "text": "The Runner can spend [click][click] to break up to 2 subroutines on Viktor 2.0.\n<strong>Hosted power counter:</strong> Do 1 brain damage.\n[subroutine] <trace>Trace 2</trace> If successful, place 1 power counter on Viktor 2.0.\n[subroutine] End the run.",
         "title": "Viktor 2.0",
         "type_code": "ice",
         "uniqueness": false
@@ -355,7 +355,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 1,
-        "text": "The Runner can spend [Click] to break any subroutine on Zed 1.0.\n[Subroutine] If the Runner has spent at least 1 [Click] to break a subroutine during this run, do 1 brain damage.\n[Subroutine] If the Runner has spent at least 1 [Click] to break a subroutine during this run, do 1 brain damage.",
+        "text": "The Runner can spend [click] to break any subroutine on Zed 1.0.\n[subroutine] If the Runner has spent at least 1 [click] to break a subroutine during this run, do 1 brain damage.\n[subroutine] If the Runner has spent at least 1 [click] to break a subroutine during this run, do 1 brain damage.",
         "title": "Zed 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -371,7 +371,7 @@
         "position": 21,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Awakening Center can host <strong>bioroid</strong> ice (each piece is installed facedown, ignoring all install costs).\nWhenever the Runner passes all of the ice protecting this server, you may rez a piece of ice on Awakening Center, lowering the rez cost by 7[Credits], to force the Runner to encounter it. Trash that ice after the run is completed.",
+        "text": "Awakening Center can host <strong>bioroid</strong> ice (each piece is installed facedown, ignoring all install costs).\nWhenever the Runner passes all of the ice protecting this server, you may rez a piece of ice on Awakening Center, lowering the rez cost by 7[credit], to force the Runner to encounter it. Trash that ice after the run is completed.",
         "title": "Awakening Center",
         "trash_cost": 3,
         "type_code": "upgrade",
@@ -389,7 +389,7 @@
         "position": 22,
         "quantity": 3,
         "side_code": "corp",
-        "text": "If the Runner is about to break a subroutine on a piece of <strong>bioroid</strong> ice protecting this server, you may rez Tyr's Hand.\n[Trash]: Prevent a subroutine from being broken on a piece of <strong>bioroid</strong> ice protecting this server.",
+        "text": "If the Runner is about to break a subroutine on a piece of <strong>bioroid</strong> ice protecting this server, you may rez Tyr's Hand.\n[trash]: Prevent a subroutine from being broken on a piece of <strong>bioroid</strong> ice protecting this server.",
         "title": "Tyr's Hand",
         "trash_cost": 1,
         "type_code": "upgrade",
@@ -409,7 +409,7 @@
         "position": 23,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click], [Click]: Gain 3[Credits].",
+        "text": "[click], [click]: Gain 3[credit].",
         "title": "Gila Hands Arcology",
         "type_code": "agenda",
         "uniqueness": false
@@ -427,7 +427,7 @@
         "position": 24,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[Click], 1[Credits]: Search R&D for a piece of ice, reveal it, and add it to HQ. Shuffle R&D.",
+        "text": "[click], 1[credit]: Search R&D for a piece of ice, reveal it, and add it to HQ. Shuffle R&D.",
         "title": "Levy University",
         "trash_cost": 1,
         "type_code": "asset",
@@ -445,7 +445,7 @@
         "position": 25,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Gain 2[Credits] when your turn begins.\nTrash Server Diagnostics when you install a piece of ice.",
+        "text": "Gain 2[credit] when your turn begins.\nTrash Server Diagnostics when you install a piece of ice.",
         "title": "Server Diagnostics",
         "trash_cost": 2,
         "type_code": "asset",
@@ -465,7 +465,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "[Subroutine] End the run.",
+        "text": "[subroutine] End the run.",
         "title": "Bastion",
         "type_code": "ice",
         "uniqueness": false
@@ -484,7 +484,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "[Subroutine] The Runner must pay 2[Credits], if able. If the Runner cannot pay 2[Credits], end the run.\n[Subroutine] End the run.",
+        "text": "[subroutine] The Runner must pay 2[credit], if able. If the Runner cannot pay 2[credit], end the run.\n[subroutine] End the run.",
         "title": "Datapike",
         "type_code": "ice",
         "uniqueness": false
@@ -594,7 +594,7 @@
         "position": 33,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Trash up to 5 programs from your grip. Gain 2[Credits] for each program trashed.",
+        "text": "Trash up to 5 programs from your grip. Gain 2[credit] for each program trashed.",
         "title": "Freelance Coding Contract",
         "type_code": "event",
         "uniqueness": false
@@ -645,7 +645,7 @@
         "position": 36,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+3[Memory Unit]\nWhen you install Monolith, install up to 3 programs from your grip, lowering the install cost of each by 4[Credits].\n<strong>Trash a program from your grip:</strong> Prevent 1 brain or net damage.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+3[mu]\nWhen you install Monolith, install up to 3 programs from your grip, lowering the install cost of each by 4[credit].\n<strong>Trash a program from your grip:</strong> Prevent 1 brain or net damage.\nLimit 1 <strong>console</strong> per player.",
         "title": "Monolith",
         "type_code": "hardware",
         "uniqueness": true
@@ -663,7 +663,7 @@
         "position": 37,
         "quantity": 3,
         "side_code": "runner",
-        "text": "3[Credits]: Prevent 1 net damage.\n[Trash]: Prevent up to 2 brain damage.",
+        "text": "3[credit]: Prevent 1 net damage.\n[trash]: Prevent up to 2 brain damage.",
         "title": "Feedback Filter",
         "type_code": "hardware",
         "uniqueness": false
@@ -681,7 +681,7 @@
         "position": 38,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Trash]: Install a program from your heap (paying the install cost).",
+        "text": "[trash]: Install a program from your heap (paying the install cost).",
         "title": "Clone Chip",
         "type_code": "hardware",
         "uniqueness": false
@@ -698,7 +698,7 @@
         "position": 39,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Omni-drive can host a single program of 1[Memory Unit] or less. The memory cost of the hosted program does not count against your memory limit.\n1[Recurring Credits]\nUse this credit to pay for using the hosted program.",
+        "text": "Omni-drive can host a single program of 1[mu] or less. The memory cost of the hosted program does not count against your memory limit.\n1[recurring-credit]\nUse this credit to pay for using the hosted program.",
         "title": "Omni-drive",
         "type_code": "hardware",
         "uniqueness": false
@@ -718,7 +718,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "When you install Atman, you may pay X[Credits] to place X power counters on Atman.\nAtman has +1 strength for each power counter on it.\n1[Credits]: Break ice subroutine on a piece of ice that has strength equal to Atman's strength.",
+        "text": "When you install Atman, you may pay X[credit] to place X power counters on Atman.\nAtman has +1 strength for each power counter on it.\n1[credit]: Break ice subroutine on a piece of ice that has strength equal to Atman's strength.",
         "title": "Atman",
         "type_code": "program",
         "uniqueness": false
@@ -737,7 +737,7 @@
         "position": 41,
         "quantity": 3,
         "side_code": "runner",
-        "text": "1[Recurring Credits]\nUse this credit to pay for using <strong>icebreakers</strong>.",
+        "text": "1[recurring-credit]\nUse this credit to pay for using <strong>icebreakers</strong>.",
         "title": "Cloak",
         "type_code": "program",
         "uniqueness": false
@@ -757,7 +757,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "1[Credits]: Break <strong>sentry</strong> subroutine.\n1[Credits]: +5 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
+        "text": "1[credit]: Break <strong>sentry</strong> subroutine.\n1[credit]: +5 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
         "title": "Dagger",
         "type_code": "program",
         "uniqueness": false
@@ -794,7 +794,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 4,
-        "text": "1[Credits]: Break <strong>code gate</strong> subroutine.\n1[Credits]: +1 strength.\nWhen you install Cyber-Cypher, choose a server. Cyber-Cypher can only be used during a run on the chosen server.",
+        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.\nWhen you install Cyber-Cypher, choose a server. Cyber-Cypher can only be used during a run on the chosen server.",
         "title": "Cyber-Cypher",
         "type_code": "program",
         "uniqueness": false
@@ -812,7 +812,7 @@
         "position": 45,
         "quantity": 3,
         "side_code": "runner",
-        "text": "2[Recurring Credits]\nUse these credits to trash assets.",
+        "text": "2[recurring-credit]\nUse these credits to trash assets.",
         "title": "Paricia",
         "type_code": "program",
         "uniqueness": false
@@ -830,7 +830,7 @@
         "position": 46,
         "quantity": 3,
         "side_code": "runner",
-        "text": "2[Credits], [Trash]: Search your stack for a program and install it (paying the install cost). Shuffle your stack.",
+        "text": "2[credit], [trash]: Search your stack for a program and install it (paying the install cost). Shuffle your stack.",
         "title": "Self-modifying Code",
         "type_code": "program",
         "uniqueness": false
@@ -848,7 +848,7 @@
         "position": 47,
         "quantity": 3,
         "side_code": "runner",
-        "text": "2[Recurring Credits]\nUse these credits to install programs (you cannot use Sahasrara to install a program that trashes Sahasrara).",
+        "text": "2[recurring-credit]\nUse these credits to install programs (you cannot use Sahasrara to install a program that trashes Sahasrara).",
         "title": "Sahasrara",
         "type_code": "program",
         "uniqueness": false
@@ -868,7 +868,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "1[Credits]: Break <strong>barrier</strong> subroutine.\n2[Credits]: +1 strength for the remainder of this run.",
+        "text": "1[credit]: Break <strong>barrier</strong> subroutine.\n2[credit]: +1 strength for the remainder of this run.",
         "title": "Inti",
         "type_code": "program",
         "uniqueness": false
@@ -886,7 +886,7 @@
         "position": 49,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click]: Gain 1[Credits] and draw 1 card.",
+        "text": "[click]: Gain 1[credit] and draw 1 card.",
         "title": "Professional Contacts",
         "type_code": "resource",
         "uniqueness": false
@@ -904,7 +904,7 @@
         "position": 50,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[Link]\nYour maximum hand size is increased by 1.",
+        "text": "+1[link]\nYour maximum hand size is increased by 1.",
         "title": "Borrowed Satellite",
         "type_code": "resource",
         "uniqueness": false
@@ -922,7 +922,7 @@
         "position": 51,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever the Corp rezzes a piece of ice, place 1[Credits] on Ice Analyzer.\nYou may use credits on Ice Analyzer to install programs.",
+        "text": "Whenever the Corp rezzes a piece of ice, place 1[credit] on Ice Analyzer.\nYou may use credits on Ice Analyzer to install programs.",
         "title": "Ice Analyzer",
         "type_code": "resource",
         "uniqueness": false
@@ -940,7 +940,7 @@
         "position": 52,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Make a run. After the run is completed, gain 5[Credits] if it was successful.",
+        "text": "Make a run. After the run is completed, gain 5[credit] if it was successful.",
         "title": "Dirty Laundry",
         "type_code": "event",
         "uniqueness": false
@@ -957,7 +957,7 @@
         "position": 53,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Place 8[Credits] from the bank on Daily Casts when it is installed. When there are no credits left on Daily Casts, trash it.\nTake 2[Credits] from Daily Casts when your turn begins.",
+        "text": "Place 8[credit] from the bank on Daily Casts when it is installed. When there are no credits left on Daily Casts, trash it.\nTake 2[credit] from Daily Casts when your turn begins.",
         "title": "Daily Casts",
         "type_code": "resource",
         "uniqueness": false
@@ -974,7 +974,7 @@
         "position": 54,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[Click], [Click], [Trash]: Play an event from your heap (paying its play cost).",
+        "text": "[click], [click], [trash]: Play an event from your heap (paying its play cost).",
         "title": "Same Old Thing",
         "type_code": "resource",
         "uniqueness": false
@@ -992,7 +992,7 @@
         "position": 55,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The advancement requirement of all agendas is increased by 1.\nAs an additional cost to steal an agenda, you must pay 3[Credits].\nTrash The Source when an agenda is scored or stolen.",
+        "text": "The advancement requirement of all agendas is increased by 1.\nAs an additional cost to steal an agenda, you must pay 3[credit].\nTrash The Source when an agenda is scored or stolen.",
         "title": "The Source",
         "type_code": "resource",
         "uniqueness": true

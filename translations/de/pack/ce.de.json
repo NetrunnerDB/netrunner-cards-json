@@ -9,7 +9,7 @@
         "code": "02042",
         "title": "Joshua B.",
         "keywords": "Kontakt",
-        "text": "Wenn dein Zug beginnt, kannst du [Click] erhalten. Wenn du das tust, bekommst du 1 Markierung verpasst, wenn dein Zug endet.",
+        "text": "Wenn dein Zug beginnt, kannst du [click] erhalten. Wenn du das tust, bekommst du 1 Markierung verpasst, wenn dein Zug endet.",
         "flavor": "\"Meine Verbesserungen haben eine lebenslange Garantie und sie sind das Risiko mehr als wert.\""
     },
     {
@@ -36,7 +36,7 @@
         "code": "02046",
         "title": "Chaostheorie: Wunderkind",
         "keywords": "G-mod",
-        "text": "+1[Memory Unit]",
+        "text": "+1[mu]",
         "flavor": "\"Kennst du Dinosaurus schon?\""
     },
     {
@@ -54,7 +54,7 @@
         "code": "02049",
         "title": "Private Werkstatt",
         "keywords": "Ort",
-        "text": "[Click]: Hoste ein Programm oder ein Stück Hardware aus deinem Griff auf Private Werkstatt und lege Wirkungszähler in Höhe der Installationskosten darauf.\n1[Credits]: Entferne 1 Wirkungszähler von einer gehosteten Karte.\nWenn dein Zug beginnt, entferne 1 Wirkungszähler von einer gehosteten Karte.\nWenn keine Wirkungszähler mehr auf einer gehosteten Karte sind, installiere sie, ohne die Kosten zu bezahlen."
+        "text": "[click]: Hoste ein Programm oder ein Stück Hardware aus deinem Griff auf Private Werkstatt und lege Wirkungszähler in Höhe der Installationskosten darauf.\n1[credit]: Entferne 1 Wirkungszähler von einer gehosteten Karte.\nWenn dein Zug beginnt, entferne 1 Wirkungszähler von einer gehosteten Karte.\nWenn keine Wirkungszähler mehr auf einer gehosteten Karte sind, installiere sie, ohne die Kosten zu bezahlen."
     },
     {
         "code": "02050",
@@ -72,14 +72,14 @@
         "code": "02052",
         "title": "Viper",
         "keywords": "Code-Zugang - Spürhund",
-        "text": "[Subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verliert der Runner [Click], wenn möglich.\n[Subroutine] <trace>Aufspüren 3</trace> Bei Erfolg beende den Run.",
+        "text": "[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verliert der Runner [click], wenn möglich.\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg beende den Run.",
         "flavor": "Tritt nicht auf mich."
     },
     {
         "code": "02053",
         "title": "Rand der Welt",
         "keywords": "Hinterhalt",
-        "text": "Falls Rand der Welt installiert ist und du 3[Credits] zahlst, wenn der Runner darauf zugreift, verursache 1 Hirn-Schaden für jedes Ice, dass dieses System schützt."
+        "text": "Falls Rand der Welt installiert ist und du 3[credit] zahlst, wenn der Runner darauf zugreift, verursache 1 Hirn-Schaden für jedes Ice, dass dieses System schützt."
     },
     {
         "code": "02054",
@@ -91,40 +91,40 @@
         "code": "02055",
         "title": "Markierte Konten",
         "keywords": "Transaktion",
-        "text": "Wenn dein Zug beginnt, nimm 1[Credits] von Markierte Konten, wenn möglich.\n[Click]: Lege 3[Credits] aus der Credit-Bank auf Markierte Konten."
+        "text": "Wenn dein Zug beginnt, nimm 1[credit] von Markierte Konten, wenn möglich.\n[click]: Lege 3[credit] aus der Credit-Bank auf Markierte Konten."
     },
     {
         "code": "02056",
         "title": "Pop-up Fenster",
         "keywords": "Code-Zugang - Werbung",
-        "text": "Wenn der Runner auf Pop-ip-Fenster trifft, erhälst du 1[Credits].\n[Subroutine] Beende den Run, falls der Runner nicht 1[Credits] zahlt.",
+        "text": "Wenn der Runner auf Pop-ip-Fenster trifft, erhälst du 1[credit].\n[subroutine] Beende den Run, falls der Runner nicht 1[credit] zahlt.",
         "flavor": "\"Versuch mal, es zu schließen. Mach schon. Sieh nach, was es tut.\" - Chaostheorie"
     },
     {
         "code": "02057",
         "title": "Holzfäller",
         "keywords": "Wächter - AP",
-        "text": "Holzfäller kann nur entwickelt werden, solange er geladen ist, und erhält \"[Subroutine] Verursache 1 Netzschaden.\" für jeden Entwicklungsmarker auf ihm.",
+        "text": "Holzfäller kann nur entwickelt werden, solange er geladen ist, und erhält \"[subroutine] Verursache 1 Netzschaden.\" für jeden Entwicklungsmarker auf ihm.",
         "flavor": "Hack, hack."
     },
     {
         "code": "02058",
         "title": "Kommerzialisierung",
         "keywords": "Transaktion",
-        "text": "Wähle ein Ice. Erhalte 1[Credits] für jeden Entwicklungsmarker auf diesem Ice.",
+        "text": "Wähle ein Ice. Erhalte 1[credit] für jeden Entwicklungsmarker auf diesem Ice.",
         "flavor": "Die Einnahmen durch die Abteilung für Randapplikationen erhöhte sich um 37% im Gegensatz zum Vorjahr, nachdem der Konzern herausgefunden hatte, dass viele ihrer Projekte sich wirklich wunderbar als Spielsachen machten."
     },
     {
         "code": "02059",
         "title": "Nebeneinkünfte",
         "keywords": "Transaktion",
-        "text": "Lege 14[Credits] aus der Credit-Bank auf Nebeneinkünfte, wenn sie geladen wird. Wenn keine Credits mehr auf Nebeneinkünfte sind, zerstöre sie.\n[Click]: Nimm 2[Credits] von Nebeneinkünfte."
+        "text": "Lege 14[credit] aus der Credit-Bank auf Nebeneinkünfte, wenn sie geladen wird. Wenn keine Credits mehr auf Nebeneinkünfte sind, zerstöre sie.\n[click]: Nimm 2[credit] von Nebeneinkünfte."
     },
     {
         "code": "02060",
         "title": "Chimäre",
         "keywords": "Mythisch",
-        "text": "Wenn du Chimäre lädst, wähle <strong>Wächter</strong>, <strong>Code-Zugang</strong>, oder <strong>Barriere</strong>. Chimäre erhält diese Unterart, bis es wieder entladen wird.\nWenn ein Zug endet, entlade Chimäre.\n[Subroutine] Beende den Run.",
+        "text": "Wenn du Chimäre lädst, wähle <strong>Wächter</strong>, <strong>Code-Zugang</strong>, oder <strong>Barriere</strong>. Chimäre erhält diese Unterart, bis es wieder entladen wird.\nWenn ein Zug endet, entlade Chimäre.\n[subroutine] Beende den Run.",
         "flavor": "Drei Köpfe. Ein gewaltiger Kopfschmerz."
     }
 ]
