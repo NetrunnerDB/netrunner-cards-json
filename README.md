@@ -109,4 +109,4 @@ These can be used in a card's `text` section.
 
 Also, traces are surrounded by the custom tag `<trace></trace>`. For example, `<trace>Trace 2: Do 1 net damage.` results in the following: 
 
-> **Trace^2**– Do 1 net damage. 
+> **Trace<sup>2</sup>**– Do 1 net damage. 
