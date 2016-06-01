@@ -63,6 +63,14 @@ Required properties are in **bold**.
 * **type_code** - Type of the card. Possible values: `"agenda"`, `"asset"`, `"event"`, `"hardware"`, `"ice"`, `"identity"`, `"operation"`, `"program"`, `"resource"`, `"upgrade"`.
 * **uniqueness** - True if the card is unique (black diamond printed next to the title), false otherwise. Possible values: `true`, `false`.
 
+#### Card Translation schema
+
+* **code**
+* flavor
+* text
+* **title**
+
+
 ## JSON text editing tips
 
 Full description of (very simple) JSON format can be found [here](http://www.json.org/), below there are a few tips most relevant to editing this repository.
@@ -99,3 +107,6 @@ These can be used in a card's `text` section.
 * `[nbn]`
 * `[weyland-consortium]`
 
+Also, traces are surrounded by the custom tag `<trace></trace>`. For example, `<trace>Trace 2: Do 1 net damage.` results in the following: 
+
+> **Trace^2**– Do 1 net damage. 
