@@ -107,6 +107,6 @@ These can be used in a card's `text` section.
 * `[nbn]`
 * `[weyland-consortium]`
 
-Also, traces are surrounded by the custom tag `<trace></trace>`. For example, `<trace>Trace 2: Do 1 net damage.` results in the following: 
+Also, traces are surrounded by the custom tag `<trace></trace>`. For example, `<trace>Trace 2</trace> Do 1 net damage.` results in the following: 
 
 > **Trace<sup>2</sup>**– Do 1 net damage. 
