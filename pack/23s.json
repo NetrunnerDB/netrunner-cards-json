@@ -105,5 +105,23 @@
         "title": "Hard-Hitting News",
         "type_code": "operation",
         "uniqueness": false
+    },
+    {
+        "code": "11019",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 2,
+        "flavor": "A stock dropping sharply is bad for shareholders, but not neccessarily bad for the company.",
+        "illustrator": "RC Torres",
+        "keywords": "Terminal - Transaction",
+        "pack_code": "23s",
+        "position": 19,
+        "quantity": 3,
+        "side_code": "corp",
+        "text": "After you resolve this operation, end your action phase.\nGain 3[credit] for each agenda in the Runner's score area.",
+        "title": "Stock Buy-Back",
+        "type_code": "operation",
+        "uniqueness": false
     }
 ]
