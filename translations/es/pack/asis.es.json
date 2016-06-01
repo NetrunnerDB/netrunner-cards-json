@@ -1,135 +1,135 @@
 [
     {
         "code": "02061",
-        "title": "Disruptor",
+        "flavor": "\"Me salvó el pellejo más de una vez, pero te da una sensación de déjà vu muy chunga.\" - Hechigenio",
         "text": "[trash]: Prevén un rastreo. Ese rastreo vuelve a iniciarse con una fuerza de rastreo base de 0.",
-        "flavor": "\"Me salvó el pellejo más de una vez, pero te da una sensación de déjà vu muy chunga.\" - Hechigenio"
+        "title": "Disruptor"
     },
     {
         "code": "02062",
-        "title": "Fuerza De La Naturaleza",
+        "flavor": "Siempre golpea dos veces.",
         "keywords": "Rompehielos - Descodificador",
         "text": "2[credit]: Rompe un máximo de 2 subrutinas <strong>puerta de código</strong>.\n1[credit]: +1 punto de fuerza.",
-        "flavor": "Siempre golpea dos veces."
+        "title": "Fuerza De La Naturaleza"
     },
     {
         "code": "02063",
-        "title": "Raspador",
+        "flavor": "\"Son herramientas de destrucción sin mente que no sirven para mucho más. Pero son buena gente. Algunos de mis mejores amigos son raspadores.\" - Ji \"Ruido\" Reilly",
         "keywords": "Contacto - Sórdido",
         "text": "2[recurring-credit]\nUsa estos créditos para destruir cartas.",
-        "flavor": "\"Son herramientas de destrucción sin mente que no sirven para mucho más. Pero son buena gente. Algunos de mis mejores amigos son raspadores.\" - Ji \"Ruido\" Reilly"
+        "title": "Raspador"
     },
     {
         "code": "02064",
-        "title": "Doppelgänger",
+        "flavor": "El doble de diversión.",
         "keywords": "Consola",
         "text": "+ 1[mu]\nUna vez por turno, puedes realizar inmediatamente otra incursión cuando termine una incursión con éxito.\nLímite de 1 <strong>consola</strong> por jugador.",
-        "flavor": "El doble de diversión."
+        "title": "Doppelgänger"
     },
     {
         "code": "02065",
-        "title": "Crescentus",
+        "flavor": "El pegamento más potente del ciberespacio.",
         "text": "[trash]: Suspende un hielo. Usa esta capacidad sólo después de romper todas las subrutinas de ese hielo durante un solo enfrentamiento.",
-        "flavor": "El pegamento más potente del ciberespacio."
+        "title": "Crescentus"
     },
     {
         "code": "02066",
-        "title": "Deus X",
+        "flavor": "Eso no me lo esperaba.",
         "keywords": "Rompehielos",
         "text": "[trash]: Rompe cualquier cantidad de subrutinas <strong>AP</strong>.\n[trash]: Prevén cualquier cantidad de daño de red.",
-        "flavor": "Eso no me lo esperaba."
+        "title": "Deus X"
     },
     {
         "code": "02067",
-        "title": "Noche En Vela",
+        "flavor": "\"Me da igual lo que digan los estudios. Por mi propia experiencia, puedo ingerir tres latas de Diésel cada hora durante un máximo de doce horas antes de que me dé un paro cardíaco.\" - oído durante la undécima hora",
         "text": "[click], [trash]: Gana [click][click]",
-        "flavor": "\"Me da igual lo que digan los estudios. Por mi propia experiencia, puedo ingerir tres latas de Diésel cada hora durante un máximo de doce horas antes de que me dé un paro cardíaco.\" - oído durante la undécima hora"
+        "title": "Noche En Vela"
     },
     {
         "code": "02068",
-        "title": "Contacto Infiltrado",
+        "flavor": "Pocos empleados corporativos tienen una autorización de seguridad tan amplia como los del servicio de limpieza. La mayoría de las corporaciones son tan ingenuas como para pensar que esos empleados son demasiado lerdos para aprovecharse de ello.",
         "keywords": "Contacto",
         "text": "2[recurring-credit]\nUsa estos créditos para instalar hardware.",
-        "flavor": "Pocos empleados corporativos tienen una autorización de seguridad tan amplia como los del servicio de limpieza. La mayoría de las corporaciones son tan ingenuas como para pensar que esos empleados son demasiado lerdos para aprovecharse de ello."
+        "title": "Contacto Infiltrado"
     },
     {
         "code": "02069",
-        "title": "Contacto En Los Bajos Fondos",
+        "flavor": "\"Mi jefe premia el trabajo de calidad. Si sabes lo que te conviene, seguirás así.\"",
         "keywords": "Contacto",
         "text": "Cuando comience tu turno, gana 1[credit] si tienes al menos 2[link].",
-        "flavor": "\"Mi jefe premia el trabajo de calidad. Si sabes lo que te conviene, seguirás así.\""
+        "title": "Contacto En Los Bajos Fondos"
     },
     {
         "code": "02070",
-        "title": "Autorización De Nivel Verde",
+        "flavor": "La autorización verde-dos es el mayor nivel de seguridad al que una corporación puede tener acceso. Al menos de forma legal.",
         "keywords": "Transacción",
         "text": "Gana 3[credit] y roba 1 carta.",
-        "flavor": "La autorización verde-dos es el mayor nivel de seguridad al que una corporación puede tener acceso. Al menos de forma legal."
+        "title": "Autorización De Nivel Verde"
     },
     {
         "code": "02071",
-        "title": "Reloj De Arena",
+        "flavor": "El tiempo pasa volando.",
         "keywords": "Puerta De Código",
         "text": "[subroutine] El Runner pierde [click] si puede.\n[subroutine] El Runner pierde [click] si puede.\n[subroutine] El Runner pierde [click] si puede. ",
-        "flavor": "El tiempo pasa volando."
+        "title": "Reloj De Arena"
     },
     {
         "code": "02072",
-        "title": "Servidor Dedicado",
+        "flavor": "toca campana cerezos impávidos que no se inmutan - Fuhaku",
         "keywords": "Complejo",
         "text": "2[recurring-credit]\nUsa estos créditos para ejecutar hielo.",
-        "flavor": "toca campana cerezos impávidos que no se inmutan - Fuhaku"
+        "title": "Servidor Dedicado"
     },
     {
         "code": "02073",
-        "title": "Rana Toro",
         "keywords": "Puerta De Código - Deflector - Psi",
-        "text": "[subroutine] El Runner y tú gastáis en secreto 0[credit], 1[credit] o 2[credit]. Revelad los créditos gastados. Si el Runner y tú habéis gastado una cantidad de créditos distinta, mueve Rana Toro para que se el hielo más exterior que proteja otro servidor. El Runner continúa la incursión desde esta nueva posición y ahora la está realizando contra este nuevo servidor."
+        "text": "[subroutine] El Runner y tú gastáis en secreto 0[credit], 1[credit] o 2[credit]. Revelad los créditos gastados. Si el Runner y tú habéis gastado una cantidad de créditos distinta, mueve Rana Toro para que se el hielo más exterior que proteja otro servidor. El Runner continúa la incursión desde esta nueva posición y ahora la está realizando contra este nuevo servidor.",
+        "title": "Rana Toro"
     },
     {
         "code": "02074",
-        "title": "Uróboros",
+        "flavor": "Donde una cosa acaba, otra comienza.",
         "keywords": "Centinela - Rastreador",
         "text": "[subroutine] <trace>Rastreo 4</trace> Si tien éxito, el Runner no puede realizar otra incursión en este turno.\n[subroutine] <trace>Rastreo 4</trace> Si tien éxito, termina la incursión.",
-        "flavor": "Donde una cosa acaba, otra comienza."
+        "title": "Uróboros"
     },
     {
         "code": "02075",
-        "title": "Policía De Red",
+        "flavor": "Ésta es la red. Trabajamos aquí. Somos policías.",
         "text": "X[recurring-credit]\nUsa estos créditos durante rastreos. X es la cantidad de enlaces que tiene el Runner.",
-        "flavor": "Ésta es la red. Trabajamos aquí. Somos policías."
+        "title": "Policía De Red"
     },
     {
         "code": "02076",
-        "title": "Weyland Consortium: Porque Nosotros Lo Construimos",
+        "flavor": "Construyendo el ciberespacio.",
         "keywords": "Megacorporación",
         "text": "1[recurring-credit]\nUsa este crédito para avanzar hielo.",
-        "flavor": "Construyendo el ciberespacio."
+        "title": "Weyland Consortium: Porque Nosotros Lo Construimos"
     },
     {
         "code": "02077",
-        "title": "Contratos Gubernamentales",
+        "flavor": "Es realmente difícil perder un contrato gubernamental.",
         "text": "[click][click]: Gana 4[credit].",
-        "flavor": "Es realmente difícil perder un contrato gubernamental."
+        "title": "Contratos Gubernamentales"
     },
     {
         "code": "02078",
-        "title": "Tirano",
+        "flavor": "No pasarás.",
         "keywords": "Barrera",
         "text": "Tirano puede ser avanzado sólo mientras esté ejectuado y gana \"[subroutine] Termina la incursión.\" por cada ficha de Avance que tenga.",
-        "flavor": "No pasarás."
+        "title": "Tirano"
     },
     {
         "code": "02079",
-        "title": "IA De Supervisión",
         "keywords": "Condición",
-        "text": "Ejecuta un hielo ignorando todos los costes e instala IA De Supervisión como un contador de condición alojado con el siguiente texto: \"Destruye el hielo anfitrión si rompen todas sus subrutinas durante un solo enfrentamiento.\""
+        "text": "Ejecuta un hielo ignorando todos los costes e instala IA De Supervisión como un contador de condición alojado con el siguiente texto: \"Destruye el hielo anfitrión si rompen todas sus subrutinas durante un solo enfrentamiento.\"",
+        "title": "IA De Supervisión"
     },
     {
         "code": "02080",
-        "title": "Pista Falsa",
+        "flavor": "No parecía la sede central de una empresa de varios miles de millones de créditos. Probablemente porque no lo era.",
         "keywords": "Seguridad",
         "text": "<strong>Renuncia a Pista Falsa</strong>: El Runner pierde [click][click] si puede.",
-        "flavor": "No parecía la sede central de una empresa de varios miles de millones de créditos. Probablemente porque no lo era."
+        "title": "Pista Falsa"
     }
 ]
