@@ -5,6 +5,7 @@ import json
 import jsonschema
 import os
 import sys
+import pprint
 
 PACK_DIR="pack"
 SCHEMA_DIR="schema"
@@ -43,11 +44,17 @@ def check_mwl(args):
     mwl_path = os.path.join(args.base_path, "mwl.json")
     load_json_file(args, mwl_path)
 
-def custom_card_check(args, card, pack_code):
+def custom_card_check(args, card, pack_code, factions_data, types_data, sides_data):
     "Performs more in-depth sanity checks than jsonschema validator is capable of. Assumes that the basic schema validation has already completed successfully."
     if card["pack_code"] != pack_code:
         raise jsonschema.ValidationError("Pack code '%s' of the card '%s' doesn't match the pack code '%s' of the file it appears in." % (card["pack_code"], card["code"], pack_code))
-
+    if card["faction_code"] not in [f["code"] for f in factions_data]:
+        raise jsonschema.ValidationError("Faction code '%s' of the pack '%s' doesn't match any valid faction code." % (card["faction_code"], card["code"]))
+    if card["type_code"] not in [f["code"] for f in types_data]:
+        raise jsonschema.ValidationError("Faction code '%s' of the pack '%s' doesn't match any valid type code." % (card["type_code"], card["code"]))
+    if card["side_code"] not in [f["code"] for f in sides_data]:
+        raise jsonschema.ValidationError("Faction code '%s' of the pack '%s' doesn't match any valid side code." % (card["side_code"], card["code"]))
+    
 def custom_pack_check(args, pack, cycles_data):
    if pack["cycle_code"] not in [c["code"] for c in cycles_data]:
         raise jsonschema.ValidationError("Cycle code '%s' of the pack '%s' doesn't match any valid cycle code." % (pack["cycle_code"], pack["code"]))
@@ -98,7 +105,7 @@ def load_cycles(args):
 
     return cycles_data
 
-def load_pack_index(args, cycles_data):
+def load_packs(args, cycles_data):
     verbose_print(args, "Loading pack index file...\n", 1)
     packs_path = os.path.join(args.base_path, "packs.json")
     packs_data = load_json_file(args, packs_path)
@@ -112,6 +119,36 @@ def load_pack_index(args, cycles_data):
         check_file_access(pack_path)
 
     return packs_data
+
+def load_factions(args):
+    verbose_print(args, "Loading faction index file...\n", 1)
+    factions_path = os.path.join(args.base_path, "factions.json")
+    factions_data = load_json_file(args, factions_path)
+
+    if not validate_factions(args, factions_data):
+        return None
+
+    return factions_data
+
+def load_types(args):
+    verbose_print(args, "Loading type index file...\n", 1)
+    types_path = os.path.join(args.base_path, "types.json")
+    types_data = load_json_file(args, types_path)
+
+    if not validate_types(args, types_data):
+        return None
+
+    return types_data
+
+def load_sides(args):
+    verbose_print(args, "Loading side index file...\n", 1)
+    sides_path = os.path.join(args.base_path, "sides.json")
+    sides_data = load_json_file(args, sides_path)
+
+    if not validate_sides(args, sides_data):
+        return None
+
+    return sides_data
 
 def parse_commandline():
     argparser = argparse.ArgumentParser(description="Validate JSON in the netrunner cards repository.")
@@ -133,13 +170,13 @@ def parse_commandline():
 
     return args
 
-def validate_card(args, card, card_schema, pack_code):
+def validate_card(args, card, card_schema, pack_code, factions_data, types_data, sides_data):
     global validation_errors
 
     try:
         verbose_print(args, "Validating card %s... " % card["title"], 2)
         jsonschema.validate(card, card_schema)
-        custom_card_check(args, card, pack_code)
+        custom_card_check(args, card, pack_code, factions_data, types_data, sides_data)
         verbose_print(args, "OK\n", 2)
     except jsonschema.ValidationError as e:
         verbose_print(args, "ERROR\n",2)
@@ -147,7 +184,7 @@ def validate_card(args, card, card_schema, pack_code):
         validation_errors += 1
         verbose_print(args, "%s\n" % e.message, 0)
 
-def validate_cards(args, packs_data):
+def validate_cards(args, packs_data, factions_data, types_data, sides_data):
     global validation_errors
 
     card_schema_path = os.path.join(args.schema_path, "card_schema.json")
@@ -167,7 +204,7 @@ def validate_cards(args, packs_data):
             continue
 
         for card in pack_data:
-            validate_card(args, card, CARD_SCHEMA, p["code"])
+            validate_card(args, card, CARD_SCHEMA, p["code"], factions_data, types_data, sides_data)
 
 def validate_cycles(args, cycles_data):
     global validation_errors
@@ -228,6 +265,92 @@ def validate_packs(args, packs_data, cycles_data):
 
     return retval
 
+def validate_factions(args, factions_data):
+    global validation_errors
+
+    verbose_print(args, "Validating faction index file...\n", 1)
+    faction_schema_path = os.path.join(args.schema_path, "faction_schema.json")
+    FACTION_SCHEMA = load_json_file(args, faction_schema_path)
+    if not isinstance(factions_data, list):
+        verbose_print(args, "Insides of faction index file are not a list!\n", 0)
+        return False
+    if not FACTION_SCHEMA:
+        return False
+    if not check_json_schema(args, FACTION_SCHEMA, faction_schema_path):
+        return False
+
+    retval = True
+    for c in factions_data:
+        try:
+            verbose_print(args, "Validating faction %s... " % c.get("name"), 2)
+            jsonschema.validate(c, FACTION_SCHEMA)
+            verbose_print(args, "OK\n", 2)
+        except jsonschema.ValidationError as e:
+            verbose_print(args, "ERROR\n",2)
+            verbose_print(args, "Validation error in faction: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
+            validation_errors += 1
+            verbose_print(args, "%s\n" % e.message, 0)
+            retval = False
+
+    return retval
+
+def validate_types(args, types_data):
+    global validation_errors
+
+    verbose_print(args, "Validating type index file...\n", 1)
+    type_schema_path = os.path.join(args.schema_path, "type_schema.json")
+    TYPE_SCHEMA = load_json_file(args, type_schema_path)
+    if not isinstance(types_data, list):
+        verbose_print(args, "Insides of type index file are not a list!\n", 0)
+        return False
+    if not TYPE_SCHEMA:
+        return False
+    if not check_json_schema(args, TYPE_SCHEMA, type_schema_path):
+        return False
+
+    retval = True
+    for c in types_data:
+        try:
+            verbose_print(args, "Validating type %s... " % c.get("name"), 2)
+            jsonschema.validate(c, TYPE_SCHEMA)
+            verbose_print(args, "OK\n", 2)
+        except jsonschema.ValidationError as e:
+            verbose_print(args, "ERROR\n",2)
+            verbose_print(args, "Validation error in type: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
+            validation_errors += 1
+            verbose_print(args, "%s\n" % e.message, 0)
+            retval = False
+
+    return retval
+
+def validate_sides(args, sides_data):
+    global validation_errors
+
+    verbose_print(args, "Validating side index file...\n", 1)
+    side_schema_path = os.path.join(args.schema_path, "side_schema.json")
+    SIDE_SCHEMA = load_json_file(args, side_schema_path)
+    if not isinstance(sides_data, list):
+        verbose_print(args, "Insides of side index file are not a list!\n", 0)
+        return False
+    if not SIDE_SCHEMA:
+        return False
+    if not check_json_schema(args, SIDE_SCHEMA, side_schema_path):
+        return False
+
+    retval = True
+    for c in sides_data:
+        try:
+            verbose_print(args, "Validating side %s... " % c.get("name"), 2)
+            jsonschema.validate(c, SIDE_SCHEMA)
+            verbose_print(args, "OK\n", 2)
+        except jsonschema.ValidationError as e:
+            verbose_print(args, "ERROR\n",2)
+            verbose_print(args, "Validation error in side: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
+            validation_errors += 1
+            verbose_print(args, "%s\n" % e.message, 0)
+            retval = False
+
+    return retval
 
 def verbose_print(args, text, minimum_verbosity=0):
     if args.verbose >= minimum_verbosity:
@@ -244,12 +367,18 @@ def main():
 
     cycles = load_cycles(args)
 
-    packs = load_pack_index(args, cycles)
+    packs = load_packs(args, cycles)
 
-    if packs:
-        validate_cards(args, packs)
+    factions = load_factions(args)
+    
+    types = load_types(args)
+
+    sides = load_sides(args)
+
+    if packs and factions and types and sides:
+        validate_cards(args, packs, factions, types, sides)
     else:
-        verbose_print(args, "Couldn't open packs file correctly, skipping card validation...\n", 0)
+        verbose_print(args, "Skipping card validation...\n", 0)
 
     check_mwl(args)
 
