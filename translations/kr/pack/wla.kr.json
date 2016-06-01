@@ -85,7 +85,7 @@
         "code": "02013",
         "title": "애쉬 2X3ZB9CY",
         "keywords": "바이오로이드",
-        "text": "이 서버에 러너가 런을 성공할 때 마다, <strong>추적<sup>4</sup></strong> - 성공하면 러너는 이번 런 동안 애쉬 2X3ZB9CY를 제외한 다른 카드를 액세스 할 수 없다.",
+        "text": "이 서버에 러너가 런을 성공할 때 마다, <trace>추적 4</trace> 성공하면 러너는 이번 런 동안 애쉬 2X3ZB9CY를 제외한 다른 카드를 액세스 할 수 없다.",
         "flavor": "\"앞만 봐주시길 부탁드립니다.\""
     },
     {
@@ -105,14 +105,14 @@
         "code": "02016",
         "title": "재구성된 데이터풀",
         "keywords": "계획",
-        "text": "[click]: <strong>추적<sup>2</sup></strong> - 성공하면, 러너에게 태그 1개를 준다.",
+        "text": "[click]: <trace>추적 2</trace> 성공하면, 러너에게 태그 1개를 준다.",
         "flavor": "\"더 큰 방이 필요하겠군.\""
     },
     {
         "code": "02017",
         "title": "정보 과다",
         "keywords": "방벽",
-        "text": "정보 과다를 레즈할 때 <strong>추적<sup>2</sup></strong>를 한다. 실패하면, 정보 과다를 디레즈한다.\n[subroutine] 런을 종료한다.",
+        "text": "정보 과다를 레즈할 때 <trace>추적 2</trace> 를 한다. 실패하면, 정보 과다를 디레즈한다.\n[subroutine] 런을 종료한다.",
         "flavor": "불필요한 사이버 폐기물을 모아놓은 것. 하지만 곧 쓸만해질 것이다."
     },
     {
@@ -125,14 +125,14 @@
         "code": "02019",
         "title": "카두세우스",
         "keywords": "파수 - 추적자",
-        "text": "[subroutine] <strong>추적<sup>3</sup></strong> -성공하면, 기업이 3[credit]을 얻는다.\n [subroutine] <strong>추적<sup>2</sup></strong> -성공하면, 런을 종료한다.",
+        "text": "[subroutine] <trace>추적 3</trace>성공하면, 기업이 3[credit]을 얻는다.\n [subroutine] <trace>추적 2</trace>성공하면, 런을 종료한다.",
         "flavor": "상업의 상징입니다만 물리지 않게 조심하세요."
     },
     {
         "code": "02020",
         "title": "드라코",
         "keywords": "파수 - 추적자",
-        "text": "당신이 드라코를 레즈할 때 X[credit]을 지불하면 이 위에 파워 카운터 X개를 놓을 수 있다.\n이 위에 놓인 파워 카운터 1개당 드라코의 힘을 +1 한다.\n[subroutine] <strong>추적<sup>2</sup></strong> - 성공하면, 러너에게 태그 1개를 주고 런을 종료한다.",
+        "text": "당신이 드라코를 레즈할 때 X[credit]을 지불하면 이 위에 파워 카운터 X개를 놓을 수 있다.\n이 위에 놓인 파워 카운터 1개당 드라코의 힘을 +1 한다.\n[subroutine] <trace>추적 2</trace> 성공하면, 러너에게 태그 1개를 주고 런을 종료한다.",
         "flavor": "쓰러진 용을 비웃지 말지어다."
     }
 ]

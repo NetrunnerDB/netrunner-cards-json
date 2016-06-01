@@ -39,11 +39,6 @@ def check_json_schema(args, data, path):
         verbose_print(args, "%s\n" % e.message, 0)
         return False
 
-def check_mwl(args):
-    verbose_print(args, "Loading MWL...\n", 1)
-    mwl_path = os.path.join(args.base_path, "mwl.json")
-    load_json_file(args, mwl_path)
-
 def custom_card_check(args, card, pack_code, factions_data, types_data, sides_data):
     "Performs more in-depth sanity checks than jsonschema validator is capable of. Assumes that the basic schema validation has already completed successfully."
     if card["pack_code"] != pack_code:
@@ -360,6 +355,42 @@ def validate_sides(args, sides_data):
 
     return retval
 
+def check_translations_simple(args, base_translations_path, locale_name, base_file_name):
+    file_name = "%s.%s.json" % (base_file_name, locale_name)
+    verbose_print(args, "Loading file %s...\n" % file_name, 1)
+    file_path = os.path.join(base_translations_path, locale_name, file_name)
+    load_json_file(args, file_path)
+
+def check_translations_packs(args, base_translations_path, locale_name):
+    packs_translations_path = os.path.join(base_translations_path, locale_name, 'pack')
+    file_names = os.listdir(packs_translations_path)
+    for file_name in file_names:
+        verbose_print(args, "Loading file %s...\n" % file_name, 1)
+        file_path = os.path.join(packs_translations_path, file_name)
+        load_json_file(args, file_path)
+
+def check_translations(args, base_translations_path, locale_name):
+    verbose_print(args, "Loading Translations for %s...\n" % locale_name, 1)
+    translations_path = os.path.join(base_translations_path, locale_name)
+    check_translations_simple(args, base_translations_path, locale_name, 'cycles')
+    check_translations_simple(args, base_translations_path, locale_name, 'factions')
+    check_translations_simple(args, base_translations_path, locale_name, 'packs')
+    check_translations_simple(args, base_translations_path, locale_name, 'sides')
+    check_translations_simple(args, base_translations_path, locale_name, 'types')
+    check_translations_packs(args, base_translations_path, locale_name)
+
+def check_all_translations(args):
+    verbose_print(args, "Loading Translations...\n", 1)
+    base_translations_path = os.path.join(args.base_path, "translations")
+    translations_directories = os.listdir(base_translations_path)
+    for locale_name in translations_directories:
+        check_translations(args, base_translations_path, locale_name)
+
+def check_mwl(args):
+    verbose_print(args, "Loading MWL...\n", 1)
+    mwl_path = os.path.join(args.base_path, "mwl.json")
+    load_json_file(args, mwl_path)
+
 def verbose_print(args, text, minimum_verbosity=0):
     if args.verbose >= minimum_verbosity:
         sys.stdout.write(text)
@@ -372,6 +403,8 @@ def main():
     validation_errors = 0
 
     args = parse_commandline()
+
+    check_all_translations(args)
 
     cycles = load_cycles(args)
 

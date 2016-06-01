@@ -111,7 +111,7 @@
         "code": "07017",
         "title": "检查点",
         "keywords": "门禁 - 追踪者 - 非法",
-        "text": "当你激活检查点时，拿取1枚负面声誉标记。\n[subroutine] <strong>追踪<sup>5</sup></strong> – 如果成功，当本次潜袭成功时，造成3点肢体伤害。",
+        "text": "当你激活检查点时，拿取1枚负面声誉标记。\n[subroutine] <trace>追踪 5</trace> 如果成功，当本次潜袭成功时，造成3点肢体伤害。",
         "flavor": "“有次我直接通过了一个，它刚开始似乎没有动静。等我退出潜袭，才意识到他们正在突破我公寓的大门。”——瓦伦西亚·埃斯特韦兹"
     },
     {
@@ -125,7 +125,7 @@
         "code": "07019",
         "title": "探照灯",
         "keywords": "警报 - 追踪者 - 观察者",
-        "text": "探照灯能被推进。X等于探照灯上推进标记的数量。\n[subroutine] <strong>追踪<sup>X</sup></strong> – 如果成功，给予潜袭者1枚锁定标记。\n[subroutine] <strong>追踪<sup>X</sup></strong> – 如果成功，给予潜袭者1枚锁定标记。"
+        "text": "探照灯能被推进。X等于探照灯上推进标记的数量。\n[subroutine] <trace>追踪 X</trace> 如果成功，给予潜袭者1枚锁定标记。\n[subroutine] <trace>追踪 X</trace> 如果成功，给予潜袭者1枚锁定标记。"
     },
     {
         "code": "07020",

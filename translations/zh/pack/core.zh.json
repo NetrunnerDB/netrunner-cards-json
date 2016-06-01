@@ -403,7 +403,7 @@
         "code": "01062",
         "title": "女座头市1.0",
         "keywords": "警报 - 生化人 - 追踪者 - 毁灭者",
-        "text": "潜袭者能花费[click]，以破解女座头市1.0上的任一子进程。\n[subroutine] 销毁一个程序。\n[subroutine] 销毁一个程序。\n[subroutine] <strong>追踪<sup>1</sup></strong> – 如果成功，给予潜袭者1枚锁定标记并造成1点脑部伤害。",
+        "text": "潜袭者能花费[click]，以破解女座头市1.0上的任一子进程。\n[subroutine] 销毁一个程序。\n[subroutine] 销毁一个程序。\n[subroutine] <trace>追踪 1</trace> 如果成功，给予潜袭者1枚锁定标记并造成1点脑部伤害。",
         "flavor": "如果有任何可说的，那就是我视名誉重于自身。"
     },
     {
@@ -557,7 +557,7 @@
     {
         "code": "01086",
         "title": "空梯管理局信号源",
-        "text": "如果潜袭者在他/她的上回合进行过成功的潜袭，才能打出。\n<strong>追踪<sup>3</sup></strong> – 如果成功，给予潜袭者1枚锁定标记。",
+        "text": "如果潜袭者在他/她的上回合进行过成功的潜袭，才能打出。\n<trace>追踪 3</trace> 如果成功，给予潜袭者1枚锁定标记。",
         "flavor": "“空梯管理局城堡那头通知我们，有一些可疑的数据波动峰值。”——杰罗姆·洛克， 值班技术员"
     },
     {
@@ -570,13 +570,13 @@
         "code": "01088",
         "title": "数据乌鸦",
         "keywords": "警报 - 追踪者 - 观察者",
-        "text": "当潜袭者遭遇数据乌鸦时，他/她必须拿取1枚锁定标记或终止本次潜袭。\n<strong>所附载的能量指示物</strong>：给予潜袭者1枚锁定标记。\n[subroutine] <strong>追踪<sup>3</sup></strong> – 如果成功，放置1枚能量指示物到数据乌鸦上。"
+        "text": "当潜袭者遭遇数据乌鸦时，他/她必须拿取1枚锁定标记或终止本次潜袭。\n<strong>所附载的能量指示物</strong>：给予潜袭者1枚锁定标记。\n[subroutine] <trace>追踪 3</trace> 如果成功，放置1枚能量指示物到数据乌鸦上。"
     },
     {
         "code": "01089",
         "title": "矩阵分析者",
         "keywords": "警报 - 追踪者 - 观察者",
-        "text": "当潜袭者遭遇矩阵分析者时，你可以支付1[credit]，以放置1枚推进标记到一张能被推进的卡牌上。\n[subroutine] <strong>追踪<sup>2</sup></strong> – 如果成功，给予潜袭者1枚锁定标记。",
+        "text": "当潜袭者遭遇矩阵分析者时，你可以支付1[credit]，以放置1枚推进标记到一张能被推进的卡牌上。\n[subroutine] <trace>追踪 2</trace> 如果成功，给予潜袭者1枚锁定标记。",
         "flavor": "能分析很棒。能分派指令则更好。"
     },
     {
@@ -677,7 +677,7 @@
         "code": "01104",
         "title": "影子",
         "keywords": "警报 - 追踪者",
-        "text": "影子能被推进，并且其上每有1枚推进标记，其强度+1。\n[subroutine] 公司获得2[credit]。\n[subroutine] <strong>追踪<sup>3</sup></strong> – 如果成功，给予潜袭者1枚锁定标记。",
+        "text": "影子能被推进，并且其上每有1枚推进标记，其强度+1。\n[subroutine] 公司获得2[credit]。\n[subroutine] <trace>追踪 3</trace> 如果成功，给予潜袭者1枚锁定标记。",
         "flavor": "谁知道在人类的记忆宝石中藏有怎样的黑暗？威兰知道。——未署名的数字涂鸦"
     },
     {
@@ -732,7 +732,7 @@
         "code": "01112",
         "title": "狩猎者",
         "keywords": "警报 - 追踪者 - 观察者",
-        "text": "[subroutine] <strong>追踪<sup>3</sup></strong> – 如果成功，给予潜袭者1枚锁定标记。",
+        "text": "[subroutine] <trace>追踪 3</trace> 如果成功，给予潜袭者1枚锁定标记。",
         "flavor": ".//run/hunter-tr/return=true\nclient/sec256IPv7->确定吗？/是\n3926:0HB7:1001:2NB1:1601:7784:ERROR"
     },
     {

@@ -85,7 +85,7 @@
         "code": "02013",
         "title": "尘埃2X3ZB9CY",
         "keywords": "生化人",
-        "text": "每当本服务器进行了成功的潜袭时，<strong>追踪<sup>4</sup></strong> – 如果成功，本次潜袭的剩余时间内，潜袭者不能读取尘埃2X3ZB9CY以外的任何卡牌。",
+        "text": "每当本服务器进行了成功的潜袭时，<trace>追踪 4</trace> 如果成功，本次潜袭的剩余时间内，潜袭者不能读取尘埃2X3ZB9CY以外的任何卡牌。",
         "flavor": "“请直视前方。”"
     },
     {
@@ -105,14 +105,14 @@
         "code": "02016",
         "title": "重组数据池",
         "keywords": "原创",
-        "text": "[click]：<strong>追踪<sup>2</sup></strong> – 如果成功，给予潜袭者1枚锁定标记。",
+        "text": "[click]：<trace>追踪 2</trace> 如果成功，给予潜袭者1枚锁定标记。",
         "flavor": "“我们需要一个更大的房间。”"
     },
     {
         "code": "02017",
         "title": "垃圾信息堆",
         "keywords": "屏障",
-        "text": "当你激活垃圾信息堆时，<strong>追踪<sup>2</sup></strong> – 如果失败，关闭垃圾信息堆。\n[subroutine] 终止本次潜袭。",
+        "text": "当你激活垃圾信息堆时，<trace>追踪 2</trace> 如果失败，关闭垃圾信息堆。\n[subroutine] 终止本次潜袭。",
         "flavor": "一个由废弃数字垃圾组成的东西。不过它很快就不会是垃圾了。"
     },
     {
@@ -125,14 +125,14 @@
         "code": "02019",
         "title": "蛇杖",
         "keywords": "警报 - 追踪者",
-        "text": "[subroutine] <strong>追踪<sup>3</sup></strong> – 如果成功，公司获得3[credit]。\n[subroutine] <strong>追踪<sup>2</sup></strong> – 如果成功，终止本次潜袭。",
+        "text": "[subroutine] <trace>追踪 3</trace> 如果成功，公司获得3[credit]。\n[subroutine] <trace>追踪 2</trace> 如果成功，终止本次潜袭。",
         "flavor": "它是贸易的象征，但小心它的利牙。"
     },
     {
         "code": "02020",
         "title": "天龙座",
         "keywords": "警报 - 追踪者",
-        "text": "当你激活天龙座时，你可以支付X[credit]，以放置X枚能量指示物到本卡牌上。\n天龙座上每有1枚能量指示物，其强度+1。\n[subroutine] <strong>追踪<sup>2</sup></strong> – 如果成功，给予潜袭者1枚锁定标记并终止本次潜袭。",
+        "text": "当你激活天龙座时，你可以支付X[credit]，以放置X枚能量指示物到本卡牌上。\n天龙座上每有1枚能量指示物，其强度+1。\n[subroutine] <trace>追踪 2</trace> 如果成功，给予潜袭者1枚锁定标记并终止本次潜袭。",
         "flavor": "万勿哂笑以对真龙。"
     }
 ]

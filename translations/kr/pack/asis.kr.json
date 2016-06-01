@@ -90,7 +90,7 @@
         "code": "02074",
         "title": "우로보로스",
         "keywords": "파수 - 추적자",
-        "text": "[subroutine] <strong>추적<sup>4</sup></strong> - 성공하면, 러너는 이번 차례에 더 이상 다른 런을 수행할 수 없다.\n[subroutine] <strong>추적<sup>4</sup></strong> - 성공하면, 런을 종료한다.",
+        "text": "[subroutine] <trace>추적 4</trace> 성공하면, 러너는 이번 차례에 더 이상 다른 런을 수행할 수 없다.\n[subroutine] <trace>추적 4</trace> 성공하면, 런을 종료한다.",
         "flavor": "하나가 끝나는 곳에서 다른 하나가 시작된다."
     },
     {
