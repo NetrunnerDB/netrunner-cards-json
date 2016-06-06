@@ -53,6 +53,22 @@
         "uniqueness": false
     },
     {
+        "code": "11030",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 3,
+        "keywords": "Connection",
+        "pack_code": "bm",
+        "position": 30,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "If the Corp has 5-9[credit] when your turn begins, gain 1[credit].\nIf the Corp has 10-14[credit] when your turn begins, draw 1 card.\nIf the Corp has at least 15[credit] when your turn begins, gain [click].",
+        "title": "Beth Kilrain-Chang",
+        "type_code": "resource",
+        "uniqueness": true
+    },
+    {
         "code": "11036",
         "cost": 0,
         "deck_limit": 3,
