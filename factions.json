@@ -1,50 +1,74 @@
 [
     {
         "code": "adam",
+        "color": "000000",
+        "is_mini": true,
         "name": "Adam"
     },
     {
         "code": "anarch",
+        "color": "FF4500",
+        "is_mini": false,
         "name": "Anarch"
     },
     {
         "code": "apex",
+        "color": "000000",
+        "is_mini": true,
         "name": "Apex"
     },
     {
         "code": "criminal",
+        "color": "4169E1",
+        "is_mini": false,
         "name": "Criminal"
     },
     {
         "code": "haas-bioroid",
+        "color": "8A2BE2",
+        "is_mini": false,
         "name": "Haas-Bioroid"
     },
     {
         "code": "jinteki",
+        "color": "DC143C",
+        "is_mini": false,
         "name": "Jinteki"
     },
     {
         "code": "nbn",
+        "color": "FF8C00",
+        "is_mini": false,
         "name": "NBN"
     },
     {
         "code": "neutral",
+        "color": "808080",
+        "is_mini": false,
         "name": "Neutral"
     },
     {
         "code": "neutral",
+        "color": "808080",
+        "is_mini": false,
         "name": "Neutral"
     },
     {
         "code": "shaper",
+        "color": "32CD32",
+        "is_mini": false,
         "name": "Shaper"
     },
     {
         "code": "sunny-lebeau",
+        "color": "000000",
+        "is_mini": true,
         "name": "Sunny Lebeau"
     },
     {
         "code": "weyland-consortium",
+        "color": "006400",
+        "is_mini": false,
         "name": "Weyland Consortium"
     }
 ]
