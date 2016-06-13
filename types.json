@@ -1,42 +1,86 @@
 [
     {
         "code": "agenda",
-        "name": "Agenda"
+        "is_subtype": false,
+        "name": "Agenda",
+        "position": 1
     },
     {
         "code": "asset",
-        "name": "Asset"
+        "is_subtype": false,
+        "name": "Asset",
+        "position": 2
+    },
+    {
+        "code": "barrier",
+        "is_subtype": true,
+        "name": "Barrier",
+        "position": 5
+    },
+    {
+        "code": "code-gate",
+        "is_subtype": true,
+        "name": "Code Gate",
+        "position": 6
     },
     {
         "code": "event",
-        "name": "Event"
+        "is_subtype": false,
+        "name": "Event",
+        "position": 11
     },
     {
         "code": "hardware",
-        "name": "Hardware"
+        "is_subtype": false,
+        "name": "Hardware",
+        "position": 12
     },
     {
         "code": "ice",
-        "name": "ICE"
+        "is_subtype": false,
+        "name": "ICE",
+        "position": 8
+    },
+    {
+        "code": "icebreaker",
+        "is_subtype": true,
+        "name": "Icebreaker",
+        "position": 14
     },
     {
         "code": "identity",
-        "name": "Identity"
+        "is_subtype": false,
+        "name": "Identity",
+        "position": 0
     },
     {
         "code": "operation",
-        "name": "Operation"
+        "is_subtype": false,
+        "name": "Operation",
+        "position": 4
     },
     {
         "code": "program",
-        "name": "Program"
+        "is_subtype": false,
+        "name": "Program",
+        "position": 15
     },
     {
         "code": "resource",
-        "name": "Resource"
+        "is_subtype": false,
+        "name": "Resource",
+        "position": 13
+    },
+    {
+        "code": "sentry",
+        "is_subtype": true,
+        "name": "Sentry",
+        "position": 7
     },
     {
         "code": "upgrade",
-        "name": "Upgrade"
+        "is_subtype": false,
+        "name": "Upgrade",
+        "position": 3
     }
 ]

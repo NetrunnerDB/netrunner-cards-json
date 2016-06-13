@@ -5,9 +5,15 @@
             "minLength": 1,
             "type": "string"
         },
+        "is_subtype": {
+            "type": "boolean"
+        },
         "name": {
             "minLength": 1,
             "type": "string"
+        },
+        "position": {
+            "type": "integer"
         }
     },
     "required": [
