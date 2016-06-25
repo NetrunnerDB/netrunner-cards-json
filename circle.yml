@@ -9,4 +9,4 @@ dependencies:
 
 test:
   override:
-    - python ./validate.py -v
+    - python ./validate.py
