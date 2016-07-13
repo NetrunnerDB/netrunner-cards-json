@@ -177,7 +177,7 @@
         "position": 90,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, spend [click].\n\nGain 5[credit] and draw 2 cards.",
+        "text": "As an additional cost to play this operation, spend [click].\nGain 5[credit] and draw 2 cards.",
         "title": "Blue Level Clearance",
         "type_code": "operation",
         "uniqueness": false
@@ -291,7 +291,7 @@
     },
     {
         "code": "04097",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "weyland-consortium",
         "flavor": "<strong>G</strong>eostrategic <strong>R</strong>esearch and <strong>N</strong>eothermal <strong>D</strong>evelopment <strong>L</strong>aboratories",
         "illustrator": "Emilio Rodriguez",

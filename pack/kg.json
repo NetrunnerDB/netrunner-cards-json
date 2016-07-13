@@ -92,7 +92,7 @@
     {
         "base_link": 0,
         "code": "10006",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "shaper",
         "flavor": "\"Mirrormode on.\"",
         "illustrator": "Adam Schumpert",
@@ -337,7 +337,7 @@
         "position": 19,
         "quantity": 3,
         "side_code": "corp",
-        "text": "This card costs 0 influence if you have 50 or more cards in your deck.\nWhen your turn begins, you may shuffle 1 card from Archives into R&D.\n\n(errata from FAQ 3.1)",
+        "text": "This card costs 0 influence if you have 50 or more cards in your deck.\nWhen your turn begins, you may shuffle 1 card from Archives into R&D.\n<errata>Errata from FAQ 3.1</errata>",
         "title": "Museum of History",
         "trash_cost": 3,
         "type_code": "asset",

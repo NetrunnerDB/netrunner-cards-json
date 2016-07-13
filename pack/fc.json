@@ -207,7 +207,7 @@
     {
         "base_link": 0,
         "code": "06052",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "anarch",
         "flavor": "\"Why should we be slaves to our genetic heritage?\"",
         "illustrator": "Matt Zeilinger",
@@ -364,7 +364,7 @@
         "position": 60,
         "quantity": 3,
         "side_code": "runner",
-        "text": "You have 1 additional [click] to spend during your turn.\nTrash Rachel Beckman if you are tagged.\n\n(errata from FAQ 3.1)",
+        "text": "You have 1 additional [click] to spend during your turn.\nTrash Rachel Beckman if you are tagged.\n<errata>Errata from FAQ 3.1</errata>",
         "title": "Rachel Beckman",
         "type_code": "resource",
         "uniqueness": true

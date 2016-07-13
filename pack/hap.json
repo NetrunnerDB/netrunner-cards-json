@@ -1,7 +1,7 @@
 [
     {
         "code": "05001",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "jinteki",
         "flavor": "Evolving a Better You.",
         "illustrator": "Emilio Rodriguez",
@@ -19,7 +19,7 @@
     },
     {
         "code": "05002",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "jinteki",
         "flavor": "Perfecting the Imperfect.",
         "illustrator": "Emilio Rodriguez",
@@ -37,7 +37,7 @@
     },
     {
         "code": "05003",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "jinteki",
         "illustrator": "Emilio Rodriguez",
         "influence_limit": 15,
@@ -491,7 +491,7 @@
     {
         "base_link": 1,
         "code": "05028",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "criminal",
         "flavor": "\"Truth is a fickle mistress.\"",
         "illustrator": "Simon Eckert",
@@ -510,7 +510,7 @@
     {
         "base_link": 0,
         "code": "05029",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "criminal",
         "flavor": "\"Try to keep up.\"",
         "illustrator": "Simon Eckert",
@@ -529,7 +529,7 @@
     {
         "base_link": 0,
         "code": "05030",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "criminal",
         "flavor": "\"Don't waste my time.\"",
         "illustrator": "Simon Eckert",
@@ -933,7 +933,7 @@
         "position": 52,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+1[mu]\nTrash Q-Coherence Chip when an installed program is trashed.\n\n(errata from FAQ 3.0.1)",
+        "text": "+1[mu]\nTrash Q-Coherence Chip when an installed program is trashed.\n<errata>Errata from FAQ 3.0.1</errata>",
         "title": "Q-Coherence Chip",
         "type_code": "hardware",
         "uniqueness": false

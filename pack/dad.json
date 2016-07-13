@@ -1,7 +1,7 @@
 [
     {
         "code": "09001",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "nbn",
         "illustrator": "Maciej Rebisz",
         "influence_limit": 15,
@@ -11,14 +11,14 @@
         "position": 1,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[click]: Flip this identity.\n\nThe Runner pays 1[credit] more when spending a [click] to remove a tag (not through a card ability).\n\nFlip side:\n\n[click]: Flip this identity.\n\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability).",
+        "text": "[click]: Flip this identity.\nThe Runner pays 1[credit] more when spending a [click] to remove a tag (not through a card ability).\nFlip side:\n[click]: Flip this identity.\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability).",
         "title": "SYNC: Everything, Everywhere",
         "type_code": "identity",
         "uniqueness": false
     },
     {
         "code": "09002",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "nbn",
         "flavor": "Nothing but the Truth.",
         "illustrator": "Maciej Rebisz",
@@ -36,7 +36,7 @@
     },
     {
         "code": "09003",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "nbn",
         "flavor": "We're ready to start the fire.",
         "illustrator": "Emilio Rodriguez",
@@ -511,7 +511,7 @@
     {
         "base_link": 0,
         "code": "09029",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "apex",
         "illustrator": "Liiga Smilshkalne",
         "influence_limit": 25,
@@ -653,7 +653,7 @@
     {
         "base_link": 0,
         "code": "09037",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "adam",
         "illustrator": "Matt Zeilinger",
         "influence_limit": 25,
@@ -795,7 +795,7 @@
     {
         "base_link": 2,
         "code": "09045",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "sunny-lebeau",
         "flavor": "\"Mommy will be home soon, sweetie. She has to kick some ass first.\"",
         "illustrator": "Matt Zeilinger",

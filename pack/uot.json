@@ -56,7 +56,7 @@
     {
         "base_link": 0,
         "code": "08104",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "criminal",
         "illustrator": "Matt Zeilinger",
         "influence_limit": 15,
@@ -136,7 +136,7 @@
         "position": 108,
         "quantity": 3,
         "side_code": "runner",
-        "text": "As an additional cost to spend [click] to trash a resource (not through a card ability), the Corp must pay 2[credit].\n\n(errata from FAQ 3.0.1)",
+        "text": "As an additional cost to spend [click] to trash a resource (not through a card ability), the Corp must pay 2[credit].\n<errata>Errata from FAQ 3.0.1</errata>",
         "title": "Wireless Net Pavilion",
         "type_code": "resource",
         "uniqueness": true
@@ -180,7 +180,7 @@
     },
     {
         "code": "08111",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "jinteki",
         "illustrator": "Emilio Rodriguez",
         "influence_limit": 15,

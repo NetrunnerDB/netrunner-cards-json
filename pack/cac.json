@@ -1,7 +1,7 @@
 [
     {
         "code": "03001",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "haas-bioroid",
         "flavor": "The densest information cluster in the galaxy.",
         "illustrator": "Emilio Rodriguez",
@@ -19,7 +19,7 @@
     },
     {
         "code": "03002",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "haas-bioroid",
         "flavor": "The Once and Future Android.",
         "illustrator": "Emilio Rodriguez",
@@ -37,7 +37,7 @@
     },
     {
         "code": "03003",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "haas-bioroid",
         "illustrator": "Emilio Rodriguez",
         "influence_limit": 12,
@@ -170,7 +170,7 @@
         "position": 10,
         "quantity": 3,
         "side_code": "corp",
-        "text": "You have 1 additional [click] to spend during your turn.\nIf Director Haas is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points.\n\n(errata from FAQ 3.1)",
+        "text": "You have 1 additional [click] to spend during your turn.\nIf Director Haas is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points.\n<errata>Errata from FAQ 3.1</errata>",
         "title": "Director Haas",
         "trash_cost": 5,
         "type_code": "asset",
@@ -492,7 +492,7 @@
     {
         "base_link": 0,
         "code": "03028",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "shaper",
         "flavor": "\"I was not; I was; I am not; I am all.\"",
         "illustrator": "Matt Zeilinger",
@@ -511,7 +511,7 @@
     {
         "base_link": 0,
         "code": "03029",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "shaper",
         "flavor": "\"New technology destroys the old.\"",
         "illustrator": "Matt Zeilinger",
@@ -530,7 +530,7 @@
     {
         "base_link": 1,
         "code": "03030",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "shaper",
         "flavor": "\"I can make that work.\"",
         "illustrator": "Matt Zeilinger",

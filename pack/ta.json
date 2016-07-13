@@ -64,7 +64,7 @@
         "position": 24,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you break a subroutine on a piece of ice, you may pay 1[credit] to break 1 subroutine on that ice.\n\n(errata from FAQ 3.0.1)",
+        "text": "Whenever you break a subroutine on a piece of ice, you may pay 1[credit] to break 1 subroutine on that ice.\n<errata>Errata from FAQ 3.0.1</errata>",
         "title": "e3 Feedback Implants",
         "type_code": "hardware",
         "uniqueness": false
@@ -179,7 +179,7 @@
     },
     {
         "code": "02031",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "jinteki",
         "influence_limit": 15,
         "keywords": "Megacorp",

@@ -2,7 +2,7 @@
     {
         "base_link": 0,
         "code": "01001",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "anarch",
         "flavor": "\"Watch this. It'll be funny.\"",
         "illustrator": "Ralph Beisner",
@@ -298,7 +298,7 @@
     {
         "base_link": 0,
         "code": "01017",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "criminal",
         "flavor": "\"Of course I steal from the rich. They're the ones with all the money.\"",
         "illustrator": "Ralph Beisner",
@@ -586,7 +586,7 @@
     {
         "base_link": 1,
         "code": "01033",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "shaper",
         "flavor": "\"Are you listening?\"",
         "illustrator": "Ralph Beisner",
@@ -959,14 +959,14 @@
         "position": 53,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Place 12[credit] from the bank on Armitage Codebusting when it is installed. When there are no credits left on Armitage Codebusting, trash it.\n\n[click]: Take 2[credit] from Armitage Codebusting.",
+        "text": "Place 12[credit] from the bank on Armitage Codebusting when it is installed. When there are no credits left on Armitage Codebusting, trash it.\n[click]: Take 2[credit] from Armitage Codebusting.",
         "title": "Armitage Codebusting",
         "type_code": "resource",
         "uniqueness": false
     },
     {
         "code": "01054",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "haas-bioroid",
         "flavor": "Effective. Reliable. Humane.",
         "influence_limit": 15,
@@ -1200,7 +1200,7 @@
     },
     {
         "code": "01067",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "jinteki",
         "flavor": "When You Need the Human Touch.",
         "influence_limit": 15,
@@ -1262,7 +1262,7 @@
         "position": 70,
         "quantity": 3,
         "side_code": "corp",
-        "text": "If Snare! is accessed from R&D, the Runner must reveal it.\n\nIf you pay 4[credit] when the Runner accesses Snare!, do 3 net damage and give the Runner 1 tag. Ignore this effect if the Runner accesses Snare! from Archives.",
+        "text": "If Snare! is accessed from R&D, the Runner must reveal it.\nIf you pay 4[credit] when the Runner accesses Snare!, do 3 net damage and give the Runner 1 tag. Ignore this effect if the Runner accesses Snare! from Archives.",
         "title": "Snare!",
         "trash_cost": 0,
         "type_code": "asset",
@@ -1436,7 +1436,7 @@
     },
     {
         "code": "01080",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "nbn",
         "flavor": "Someone is Always Watching.",
         "influence_limit": 15,
@@ -1463,7 +1463,7 @@
         "position": 81,
         "quantity": 2,
         "side_code": "corp",
-        "text": "Place 1 agenda counter on AstroScript Pilot Program when you score it.\n\n<strong>Hosted agenda counter:</strong> Place 1 advancement token on a card that can be advanced.\nLimit 1 per deck.\n\n(errata from FAQ 3.1)",
+        "text": "Place 1 agenda counter on AstroScript Pilot Program when you score it.\n<strong>Hosted agenda counter:</strong> Place 1 advancement token on a card that can be advanced.\nLimit 1 per deck.\n<errata>Errata from FAQ 3.1</errata>",
         "title": "AstroScript Pilot Program",
         "type_code": "agenda",
         "uniqueness": false
@@ -1479,7 +1479,7 @@
         "position": 82,
         "quantity": 2,
         "side_code": "corp",
-        "text": "When you score Breaking News, give the Runner 2 tags.\n\nWhen the turn on which you scored Breaking News ends, the Runner loses 2 tags.",
+        "text": "When you score Breaking News, give the Runner 2 tags.\nWhen the turn on which you scored Breaking News ends, the Runner loses 2 tags.",
         "title": "Breaking News",
         "type_code": "agenda",
         "uniqueness": false
@@ -1664,7 +1664,7 @@
     },
     {
         "code": "01093",
-        "deck_limit": 3,
+        "deck_limit": 1,
         "faction_code": "weyland-consortium",
         "flavor": "Moving Upwards.",
         "influence_limit": 15,
