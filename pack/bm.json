@@ -49,7 +49,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "When an encounter in which you used Nfr to break all subroutines on that piece of ice ends, place 1 power counter on Nfr\n.Nfr has +1 strength for each power counter on it.\n1[credit]: break <strong>barrier</strong> subroutine.",
+        "text": "When an encounter in which you used Nfr to break all subroutines on that piece of ice ends, place 1 power counter on Nfr.\nNfr has +1 strength for each power counter on it.\n1[credit]: Break <strong>barrier</strong> subroutine.",
         "title": "Nfr",
         "type_code": "program",
         "uniqueness": false
@@ -89,7 +89,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "2[credit]: Break up to 2 <strong>sentry</strong> subroutines.\n2[credit]: +4 strength\n2[credit], <strong>return Golden to your grip</strong>: Derez a <strong>sentry</strong>. Use this ability only after using Golden to break all the subroutines on that <strong>sentry</strong> during a single encounter.",
+        "text": "2[credit]: Break up to 2 <strong>sentry</strong> subroutines.\n2[credit]: +4 strength.\n2[credit], <strong>return Golden to your grip</strong>: Derez a <strong>sentry</strong>. Use this ability only after using Golden to break all the subroutines on that <strong>sentry</strong> during a single encounter.",
         "title": "Golden",
         "type_code": "program",
         "uniqueness": false
@@ -334,7 +334,7 @@
         "position": 39,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Play only if the Runner has at least 6 [credit].\nThe Runner loses 2[credit] for each installed resource. The Runner can trash a resource to prevent this.",
+        "text": "Play only if the Runner has at least 6[credit].\nThe Runner loses 2[credit] for each installed resource. The Runner can trash a resource to prevent this.",
         "title": "Financial Collapse",
         "type_code": "operation",
         "uniqueness": false
