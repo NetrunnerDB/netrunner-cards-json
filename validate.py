@@ -391,6 +391,11 @@ def check_mwl(args):
     mwl_path = os.path.join(args.base_path, "mwl.json")
     load_json_file(args, mwl_path)
 
+def check_prebuilt(args):
+    verbose_print(args, "Loading Prebuilts...\n", 1)
+    mwl_path = os.path.join(args.base_path, "prebuilts.json")
+    load_json_file(args, mwl_path)
+
 def verbose_print(args, text, minimum_verbosity=0):
     if args.verbose >= minimum_verbosity:
         sys.stdout.write(text)
@@ -420,6 +425,8 @@ def main():
         validate_cards(args, packs, factions, types, sides)
     else:
         verbose_print(args, "Skipping card validation...\n", 0)
+
+    check_prebuilt(args)
 
     check_mwl(args)
 

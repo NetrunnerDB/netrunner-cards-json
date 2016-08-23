@@ -3,84 +3,98 @@
         "code": "agenda",
         "is_subtype": false,
         "name": "Agenda",
-        "position": 1
+        "position": 1,
+        "side_code": "corp"
     },
     {
         "code": "asset",
         "is_subtype": false,
         "name": "Asset",
-        "position": 2
+        "position": 2,
+        "side_code": "corp"
     },
     {
         "code": "barrier",
         "is_subtype": true,
         "name": "Barrier",
-        "position": 5
+        "position": 5,
+        "side_code": "corp"
     },
     {
         "code": "code-gate",
         "is_subtype": true,
         "name": "Code Gate",
-        "position": 6
+        "position": 6,
+        "side_code": "corp"
     },
     {
         "code": "event",
         "is_subtype": false,
         "name": "Event",
-        "position": 11
+        "position": 11,
+        "side_code": "runner"
     },
     {
         "code": "hardware",
         "is_subtype": false,
         "name": "Hardware",
-        "position": 12
+        "position": 12,
+        "side_code": "runner"
     },
     {
         "code": "ice",
         "is_subtype": false,
         "name": "ICE",
-        "position": 8
+        "position": 8,
+        "side_code": "corp"
     },
     {
         "code": "icebreaker",
         "is_subtype": true,
         "name": "Icebreaker",
-        "position": 14
+        "position": 14,
+        "side_code": "runner"
     },
     {
         "code": "identity",
         "is_subtype": false,
         "name": "Identity",
-        "position": 0
+        "position": 0,
+        "side_code": null
     },
     {
         "code": "operation",
         "is_subtype": false,
         "name": "Operation",
-        "position": 4
+        "position": 4,
+        "side_code": "corp"
     },
     {
         "code": "program",
         "is_subtype": false,
         "name": "Program",
-        "position": 15
+        "position": 15,
+        "side_code": "runner"
     },
     {
         "code": "resource",
         "is_subtype": false,
         "name": "Resource",
-        "position": 13
+        "position": 13,
+        "side_code": "runner"
     },
     {
         "code": "sentry",
         "is_subtype": true,
         "name": "Sentry",
-        "position": 7
+        "position": 7,
+        "side_code": "corp"
     },
     {
         "code": "upgrade",
         "is_subtype": false,
         "name": "Upgrade",
-        "position": 3
+        "position": 3,
+        "side_code": "corp"
     }
 ]
