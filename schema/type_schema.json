@@ -14,11 +14,23 @@
         },
         "position": {
             "type": "integer"
+        },
+        "side_code": {
+            "oneOf": [
+                {
+                    "minLength": 1,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         }
     },
     "required": [
         "code",
-        "name"
+        "name",
+        "side_code"
     ],
     "type": "object"
 }

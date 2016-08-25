@@ -1,9 +1,5 @@
 [
     {
-        "code": "2015-world-champion-corp-deck",
-        "date_release": "2016-08-04",
-        "name": "2015 World Champion Corp Deck",
-        "position": 1,
         "cards": {
             "01054": 1,
             "01055": 3,
@@ -26,13 +22,13 @@
             "08033": 3,
             "08040": 3,
             "09026": 2
-        }
+        },
+        "code": "2015-world-champion-corp-deck",
+        "date_release": "2016-08-04",
+        "name": "2015 World Champion Corp Deck",
+        "position": 1
     },
     {
-        "code": "2015-world-champion-runner-deck",
-        "date_release": "2016-08-04",
-        "name": "2015 World Champion Runner Deck",
-        "position": 2,
         "cards": {
             "01018": 2,
             "02042": 3,
@@ -54,6 +50,10 @@
             "08083": 3,
             "08087": 3,
             "08108": 3
-        }
+        },
+        "code": "2015-world-champion-runner-deck",
+        "date_release": "2016-08-04",
+        "name": "2015 World Champion Runner Deck",
+        "position": 2
     }
 ]
