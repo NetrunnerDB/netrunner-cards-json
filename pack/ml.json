@@ -67,7 +67,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "When the Runner encounters IP Block, give him or her a 1 tag if there is an installed <strong>AI</strong>.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner a tag.\n[subroutine] End the run if Runner is tagged.",
+        "text": "When the Runner encounters IP Block, give him or her 1 tag if there is an installed <strong>AI</strong>.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
         "title": "IP Block",
         "type_code": "ice",
         "uniqueness": false
