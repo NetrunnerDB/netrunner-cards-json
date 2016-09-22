@@ -10,7 +10,7 @@
         "position": 107,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nTake an additional turn after this one.\nRemove Encore from the game instead of trashing it.",
+        "text": "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nTake an additional turn after this one. Remove Encore from the game instead of trashing it.",
         "title": "Encore",
         "type_code": "event",
         "uniqueness": false
@@ -30,6 +30,7 @@
         "side_code": "corp",
         "text": "After you resolve this operation, end your action phase.\nGain 8[credit] and draw 4 cards.",
         "title": "Violet Level Clearance",
+        "trash_cost": 1,
         "type_code": "operation",
         "uniqueness": false
     },
@@ -46,7 +47,7 @@
         "position": 117,
         "quantity": 3,
         "side_code": "corp",
-        "text": "While the Runner has fewer than 6[credit], Brian Stinson gains \"[click]: Play a <strong>transaction</strong> operation from Archives, ignoring all costs.\nRemove that <strong>transaction</strong> from the game instead of trashing it.\"",
+        "text": "While the Runner has fewer than 6[credit], Brian Stinson gains \"[click]: Play a <strong>transaction</strong> operation from Archives, ignoring all costs. Remove that <strong>transaction</strong> from the game instead of trashing it.\"",
         "title": "Bryan Stinson",
         "trash_cost": 5,
         "type_code": "upgrade",
