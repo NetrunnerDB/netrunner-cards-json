@@ -50,7 +50,7 @@
         "quantity": 3,
         "side_code": "runner",
         "text": "The first time the Corp rezzes a piece of ice each turn, gain 2[credit].",
-        "title": "LOS: Data Hijacker",
+        "title": "Los: Data Hijacker",
         "type_code": "identity",
         "uniqueness": false
     },
@@ -88,6 +88,25 @@
         "title": "Replanting",
         "type_code": "operation",
         "uniqueness": false
+    },
+    {
+        "code": "12037",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 2,
+        "flavor": "\"You have two choices: do what I asked, or make me ask again. It's your choice, but if I have to ask again, it will go badly for you.\"",
+        "illustrator": "Anna Edwards",
+        "keywords": "Executive",
+        "pack_code": "so",
+        "position": 37,
+        "quantity": 3,
+        "side_code": "corp",
+        "text": "When your turn begins, the Runner must pay 1[credit] or trash the top card of the stack.",
+        "title": "Clyde Van Rite",
+        "trash_cost": 3,
+        "type_code": "asset",
+        "uniqueness": true
     },
     {
         "code": "12040",
