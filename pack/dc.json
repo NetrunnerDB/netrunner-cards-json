@@ -18,6 +18,23 @@
         "uniqueness": true
     },
     {
+        "code": "12004",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "flavor": "1) Find the weakness.\n2) Exploit the weakness.\n3) Repeat.",
+        "illustrator": "Nasrul Hakim",
+        "pack_code": "dc",
+        "position": 4,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nDerez up to 3 pieces of ice.",
+        "title": "Exploit",
+        "type_code": "event",
+        "uniqueness": false
+    },
+    {
         "code": "12010",
         "cost": 6,
         "deck_limit": 3,
