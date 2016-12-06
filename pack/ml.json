@@ -14,7 +14,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "Whenever you encounter a <strong>sentry</strong>, you may install MKUltra from your heap (paying its install cost).\n3[credit]: +2 strength. Break up to 2 sentry subroutines, if able.",
+        "text": "Whenever you encounter a <strong>sentry</strong>, you may install MKUltra from your heap (paying its install cost).\n3[credit]: +2 strength. Break up to 2 <strong>sentry</strong> subroutines, if able.",
         "title": "MKUltra",
         "type_code": "program",
         "uniqueness": false
@@ -33,7 +33,7 @@
         "quantity": 3,
         "side_code": "runner",
         "text": "Install On the Lam on a resource as a hosted condition counter with the text \"[trash]: Avoid up to 3 tags or prevent up to 3 damage.\"",
-        "title": "On The Lam",
+        "title": "On the Lam",
         "type_code": "event",
         "uniqueness": false
     },
