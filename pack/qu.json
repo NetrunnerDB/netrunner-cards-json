@@ -16,6 +16,23 @@
         "uniqueness": false
     },
     {
+        "advancement_cost": 3,
+        "agenda_points": 1,
+        "code": "11110",
+        "deck_limit": 3,
+        "faction_code": "haas-bioroid",
+        "illustrator": "Samuel Leung",
+        "keywords": "Security",
+        "pack_code": "qu",
+        "position": 110,
+        "quantity": 3,
+        "side_code": "corp",
+        "text": "Place 1 agenda counter on Sensor Net Activation when you score it.\n<strong>Hosted agenda counter:</strong> Rez a <strong>bioroid</strong>, ignoring all costs. When the turn ends, derez that <strong>bioroid</strong>.",
+        "title": "Sensor Net Activation",
+        "type_code": "agenda",
+        "uniqueness": false
+    },
+    {
         "code": "11111",
         "cost": 5,
         "deck_limit": 3,
@@ -160,5 +177,43 @@
         "trash_cost": 4,
         "type_code": "asset",
         "uniqueness": true
+    },
+    {
+        "code": "11119",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "neutral-corp",
+        "faction_cost": 0,
+        "flavor": "One way to get rid of a virus is to get a nastier virus.",
+        "illustrator": "Mariusz Siergiejew",
+        "keywords": "Code Gate - Tracer",
+        "pack_code": "qu",
+        "position": 119,
+        "quantity": 3,
+        "side_code": "corp",
+        "strength": 7,
+        "text": "[subroutine] <trace>Trace 4</trace> If successful, purge virus counters.\n[subroutine] <trace>Trace 3</trace> If successful, trash 1 <strong>virus</strong>.\n[subroutine] <trace>Trace 2</trace> If successful, remove a <strong>virus</strong> in the heap from the game.\n[subroutine] <trace>Trace 1</trace> If successful, end the run.",
+        "title": "Macrophage",
+        "type_code": "ice",
+        "uniqueness": false
+    },
+    {
+        "code": "11120",
+        "cost": 7,
+        "deck_limit": 3,
+        "faction_code": "neutral-corp",
+        "faction_cost": 0,
+        "flavor": "\"Guilty.\"\n\"Guilty.\"\n\"Guilty.\"",
+        "illustrator": "Odera Igbokwe",
+        "keywords": "Sentry",
+        "pack_code": "qu",
+        "position": 120,
+        "quantity": 3,
+        "side_code": "corp",
+        "strength": 3,
+        "text": "[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] The Runner trashes 1 of his or her installed cards.",
+        "title": "Tribunal",
+        "type_code": "ice",
+        "uniqueness": false
     }
 ]
