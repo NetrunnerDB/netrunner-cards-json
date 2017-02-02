@@ -254,7 +254,7 @@
         "text": "When the Runner encounters Thoth, give him or her 1 tag.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, the Runner loses 1[credit] for each tag he or she has.",
         "title": "Thoth",
         "type_code": "ice",
-        "uniqueness": false
+        "uniqueness": true
     },
     {
         "code": "11094",
