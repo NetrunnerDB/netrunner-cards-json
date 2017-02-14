@@ -25,6 +25,7 @@ Required properties are in **bold**.
 * **name** - properly formatted name of the cycle. Examples: `"Core Set"`, `"SanSan"`, `"Order and Chaos"`.
 * **position** - number of the cycle, counting in chronological order. For packs released outside of normal constructed play cycles (such as draft packs), the special cycle with position `0` should be used. Examples: `1` for Core Set, `8` for SanSan Cycle.
 * **size** - number of packs in the cycle. Examples: `1` for big boxes, `6` for regular datapack cycles.
+* **rotated** - indicates if this cycle has been rotated out of the tournament-legal cardpool.
 
 #### Pack schema
 

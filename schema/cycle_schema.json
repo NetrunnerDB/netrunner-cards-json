@@ -13,6 +13,9 @@
             "minimum": 0,
             "type": "integer"
         },
+        "rotated": {
+            "type": "boolean"
+        },
         "size": {
             "minimum": 1,
             "type": "integer"
@@ -22,7 +25,8 @@
         "code",
         "name",
         "position",
-        "size"
+        "size",
+        "rotated"
     ],
     "type": "object"
 }
