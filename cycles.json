@@ -1,10 +1,24 @@
 [
     {
+        "code": "draft",
+        "name": "Draft",
+        "position": 0,
+        "rotated": false,
+        "size": 1
+    },
+    {
         "code": "core",
         "name": "Core Set",
         "position": 1,
         "rotated": false,
         "size": 1
+    },
+    {
+        "code": "genesis",
+        "name": "Genesis",
+        "position": 2,
+        "rotated": false,
+        "size": 6
     },
     {
         "code": "creation-and-control",
@@ -14,30 +28,9 @@
         "size": 1
     },
     {
-        "code": "data-and-destiny",
-        "name": "Data and Destiny",
-        "position": 9,
-        "rotated": false,
-        "size": 1
-    },
-    {
-        "code": "draft",
-        "name": "Draft",
-        "position": 0,
-        "rotated": false,
-        "size": 1
-    },
-    {
-        "code": "flashpoint",
-        "name": "Flashpoint",
-        "position": 11,
-        "rotated": false,
-        "size": 6
-    },
-    {
-        "code": "genesis",
-        "name": "Genesis",
-        "position": 2,
+        "code": "spin",
+        "name": "Spin",
+        "position": 4,
         "rotated": false,
         "size": 6
     },
@@ -56,25 +49,11 @@
         "size": 6
     },
     {
-        "code": "mumbad",
-        "name": "Mumbad",
-        "position": 10,
-        "rotated": false,
-        "size": 6
-    },
-    {
         "code": "order-and-chaos",
         "name": "Order and Chaos",
         "position": 7,
         "rotated": false,
         "size": 1
-    },
-    {
-        "code": "red-sand",
-        "name": "Red Sand",
-        "position": 12,
-        "rotated": false,
-        "size": 6
     },
     {
         "code": "sansan",
@@ -84,9 +63,30 @@
         "size": 6
     },
     {
-        "code": "spin",
-        "name": "Spin",
-        "position": 4,
+        "code": "data-and-destiny",
+        "name": "Data and Destiny",
+        "position": 9,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "mumbad",
+        "name": "Mumbad",
+        "position": 10,
+        "rotated": false,
+        "size": 6
+    },
+    {
+        "code": "flashpoint",
+        "name": "Flashpoint",
+        "position": 11,
+        "rotated": false,
+        "size": 6
+    },
+    {
+        "code": "red-sand",
+        "name": "Red Sand",
+        "position": 12,
         "rotated": false,
         "size": 6
     },
