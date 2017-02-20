@@ -8,6 +8,14 @@
         "name": "Avoir"
     },
     {
+        "code": "barrier",
+        "name": "Barrière"
+    },
+    {
+        "code": "code-gate",
+        "name": "Verrou"
+    },
+    {
         "code": "event",
         "name": "Événement"
     },
@@ -18,6 +26,10 @@
     {
         "code": "ice",
         "name": "Glace"
+    },
+    {
+        "code": "icebreaker",
+        "name": "Brise-glace"
     },
     {
         "code": "identity",
@@ -34,6 +46,10 @@
     {
         "code": "resource",
         "name": "Ressource"
+    },
+    {
+        "code": "sentry",
+        "name": "Sentinelle"
     },
     {
         "code": "upgrade",
