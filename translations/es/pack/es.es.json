@@ -1,0 +1,135 @@
+[
+    {
+        "code": "11041",
+        "title": "Obelus",
+        "text": "+1[mu]\nYour maximum hand size is increased by 1 for each tag you have.\nThe first time a successful run on R&D or HQ ends each turn, draw 1 card for each card you accessed during that run.\nLimit 1 <strong>console</strong> per player.",
+        "keywords": "Console"
+    },
+    {
+        "code": "11042",
+        "flavor": "\"In extremity, your conscience may make you terrible.\" -Omar Keung, the Flashpoint",
+        "title": "Black Orchestra",
+        "text": "Whenever you encounter a <strong>code gate</strong>, you may install Black Orchestra from your heap (paying its install cost).\n3[credit]: +2 strength. Break up to 2 <strong>code gate</strong> subroutines, if able.",
+        "keywords": "Icebreaker - Decoder"
+    },
+    {
+        "code": "11043",
+        "title": "Omar Keung: Conspiracy Theorist",
+        "text": "[click]: Make a run on Archives. If successful, instead treat it as a successful run on another central server. Use this ability only once per turn.",
+        "keywords": "Natural"
+    },
+    {
+        "code": "11044",
+        "flavor": "Khan's avatar lifted her arm and the bird launched itself into the air.",
+        "title": "Peregrine",
+        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n3[credit]: +3 strength.\n2[credit], <strong>return Peregrine to your grip</strong>: Derez a <strong>code gate</strong>. Use this ability only after using Peregrine to break all the subroutines on that <strong>code gate</strong> during a single encounter.",
+        "keywords": "Icebreaker - Decoder"
+    },
+    {
+        "code": "11045",
+        "flavor": "My brain is the key that sets my mind free.",
+        "title": "Houdini",
+        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card.",
+        "keywords": "Icebreaker - Decoder"
+    },
+    {
+        "code": "11046",
+        "flavor": "\"Live, unfiltered, and uncensored: this is Net Mercur, signing off for the night. Stay safe, New Angeles.\"",
+        "title": "Net Mercur",
+        "text": "The first time you spend at least 1[credit] from a <strong>stealth</strong> card each run, place 1[credit] on Net Mercur or draw 1 card.\nUse credits on Net Mercur for anything.",
+        "keywords": "Virtual - Stealth"
+    },
+    {
+        "code": "11047",
+        "flavor": "\"All bioroids are bound by the Three Directives, but in theory a bioroid could have any number of core directives. Even zero.\"",
+        "title": "Find the Truth",
+        "text": "Whenever you draw a card, reveal that card.\nThe first time you make a successful run each turn, you may look at the top card of R&D.",
+        "keywords": "Directive - Virtual"
+    },
+    {
+        "code": "11048",
+        "flavor": "\"Last week, I crossed the street to avoid her. Today, she pulled me out of the rubble. Makes me rethink who the bad guys are.\"",
+        "title": "First Responders",
+        "text": "2[credit]: Draw 1 card. Use this ability only if you have suffered damage from a Corp card ability this turn.",
+        "keywords": "Connection"
+    },
+    {
+        "code": "11049",
+        "flavor": "In battle, I take half the slain.",
+        "title": "Fairchild 3.0",
+        "text": "The Runner can spend [click][click][click] to break up to 3 subroutines on Fairchild 3.0.\n[subroutine] The Runner must pay 3[credit] or trash 1 of his or her installed cards.\n[subroutine] The Runner must pay 3[credit] or trash 1 of his or her installed cards.\n[subroutine] Do 1 brain damage or end the run.",
+        "keywords": "Code Gate - Bioroid - AP"
+    },
+    {
+        "code": "11050",
+        "flavor": "\"If you live off-site, please consult the building AI for temporary housing. We regret that your off-site family cannot join you here while we are in lockdown...\"",
+        "title": "Ark Lockdown",
+        "text": "Name a card. Remove all copies of that card in the heap from the game."
+    },
+    {
+        "code": "11051",
+        "flavor": "\"Wait a minute, I don't even have a cat.\"",
+        "title": "Hellion Beta Test",
+        "text": "Play only if the Runner trashed an accessed Corp card during his or her last turn.\n<trace>Trace 2</trace> If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
+        "keywords": "Black Ops"
+    },
+    {
+        "code": "11052",
+        "title": "Project Kusanagi",
+        "text": "When you score Project Kusanagi, place 1 agenda counter on it for each advancement token on it over 2.\n<strong>Hosted agenda counter:</strong> Choose 1 piece of ice to gain \"[subroutine] Do 1 net damage.\" after all its other subroutines for the remainder of this run.",
+        "keywords": "Security"
+    },
+    {
+        "code": "11053",
+        "title": "DNA Tracker",
+        "text": "[subroutine] Do 1 net damage. The Runner loses 2[credit].\n[subroutine] Do 1 net damage. The Runner loses 2[credit].\n[subroutine] Do 1 net damage. The Runner loses 2[credit].",
+        "keywords": "Code Gate - AP"
+    },
+    {
+        "code": "11054",
+        "flavor": "Your better nature.",
+        "title": "Jinteki: Potential Unleashed",
+        "text": "Whenever the Runner takes at least 1 net damage, trash the top card of the stack.",
+        "keywords": "Megacorp"
+    },
+    {
+        "code": "11055",
+        "flavor": "\"She used to work for me at my chop shop. Now she makes more money than I do.\" -MacPherson",
+        "title": "Alexa Belsky",
+        "text": "[trash]: Shuffle all cards in HQ into R&D. The Runner may pay any number of credits to prevent 1 random card in HQ from being shuffled into R&D for every 2[credit] spent.",
+        "keywords": "Character"
+    },
+    {
+        "code": "11056",
+        "flavor": "Observing is fun, but it's just the appetizer.",
+        "title": "Observe and Destroy",
+        "text": "Play only if the Runner has fewer than 6[credit].\nAs an additional cost to play this operation, remove 1 tag.\nTrash 1 installed card.",
+        "keywords": "Gray Ops"
+    },
+    {
+        "code": "11057",
+        "title": "Service Outage",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to make the first run on his or her turn (even through a card ability), the Runner must spend 1[credit].",
+        "keywords": "Current"
+    },
+    {
+        "code": "11058",
+        "flavor": "Game over.",
+        "title": "BOOM!",
+        "text": "Play only if the Runner has at least 2 tags.\nAs an additional cost to play this operation, spend [click].\nDo 7 meat damage.",
+        "keywords": "Double - Black Ops"
+    },
+    {
+        "code": "11059",
+        "title": "Door to Door",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhen the Runner's turn begins, <trace>trace 1</trace> If successful, do 1 meat damage if the Runner is tagged; otherwise, give the Runner 1 tag.",
+        "keywords": "Current - Black Ops"
+    },
+    {
+        "code": "11060",
+        "flavor": "The event is now referred to as the Water Tower Massacre. No one was ever indicted, and no one knows who paid the prisec team responsible.",
+        "title": "Scarcity of Resources",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe install cost of each resource is increased by 2.",
+        "keywords": "Current"
+    }
+]

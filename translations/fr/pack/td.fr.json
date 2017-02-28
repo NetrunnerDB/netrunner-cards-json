@@ -1,0 +1,133 @@
+[
+    {
+        "code": "13001",
+        "title": "Steve Cambridge: Master Grifter",
+        "text": "The first time each turn that you make a successful run on HQ, you may choose 2 cards in your heap, if able. The Corp removes 1 from the game; the other is added to your grip.",
+        "keywords": "G-Mod"
+    },
+    {
+        "code": "13002",
+        "flavor": "\"Bypassing a system's defenses by cutting physical wires is what I like to call old school.\" - Steve Cambridge",
+        "title": "Brute-Force-Hack",
+        "text": "As an additional cost to play this event, spend [click].\nDerez a piece of ice that has a rez cost of X or lower.",
+        "keywords": "Double"
+    },
+    {
+        "code": "13003",
+        "flavor": "Targeted attacks make system breaches so much easier, especially if you can spoof an authorized user.",
+        "title": "Spear Phishing",
+        "text": "Make a run. When you encounter the innermost piece of ice protecting that server, bypass it.",
+        "keywords": "Run"
+    },
+    {
+        "code": "13006",
+        "flavor": "\"Technology breeds crime.\"",
+        "title": "Abagnale",
+        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +2 strength.\n[trash]: Bypass a piece of <strong>code gate</strong> ice currently being encountered, even if it has strength greater than Abagnale.",
+        "keywords": "Icebreaker - Decoder"
+    },
+    {
+        "code": "13010",
+        "flavor": "Know your mark, their weaknesses and strengths--both will show how to best bypass their defenses.",
+        "title": "Charlatan",
+        "text": "[click], [click]: Make a run. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice to bypass it.",
+        "keywords": "Virtual"
+    },
+    {
+        "code": "13012",
+        "title": "Ayla \"Bios\" Rahim: Simulant Specialist",
+        "text": "Before drawing your starting hand, look at the top 6 cards of your stack. Set 4 of them facedown, as NVRAM. Shuffle the rest into your stack.\n[click]: Add 1 card from NVRAM to your grip. ",
+        "keywords": "Natural"
+    },
+    {
+        "code": "13013",
+        "flavor": "Each AI had been tasked with finding a solution to the same problem but with different variables.",
+        "title": "Careful Planning",
+        "text": "Play only as your first [click].\nChoose a card in or protecting a remote server. That card cannot be rezzed this turn.",
+        "keywords": "Priority"
+    },
+    {
+        "code": "13014",
+        "flavor": "Extracting data from complex systems is what running is all about.",
+        "title": "Deep Data Mining",
+        "text": "Make a run on R&D. If successful, access 1 additional card for each unused MU up to 4.",
+        "keywords": "Run"
+    },
+    {
+        "code": "13019",
+        "title": "Egret",
+        "text": "Install Egret only on a rezzed piece of ice.\nHost ice gains <strong>sentry</strong>, <strong>code gate</strong> and <strong>barrier</strong>."
+    },
+    {
+        "code": "13021",
+        "flavor": "Innovation. Iteration. Education.",
+        "title": "Levy Advanced Research Lab",
+        "text": "[click]: Reveal the top 4 cards of your stack. If any of those cards are programs, you may add 1 to your grip. Add the rest of the cards to the bottom of your stack in any order.",
+        "keywords": "Location - Ritzy"
+    },
+    {
+        "code": "13028",
+        "flavor": "Interweaving the Past and the Future.",
+        "title": "Seidr Laboratories: Destiny Defined",
+        "text": "The first time each turn the Runner loses or spends [click] during a run, you may add 1 card from Archives to the top of R&D.",
+        "keywords": "Division"
+    },
+    {
+        "code": "13029",
+        "flavor": "The black level clearance sub-sub-basement of Haas-Bioroid is a magical place.",
+        "title": "Brain Rewiring",
+        "text": "When you score Brain Rewiring, you may pay X[credit] to force the Runner to add X cards from his or her grip to the bottom of his or her stack at random then draw 1 card.",
+        "keywords": "Security"
+    },
+    {
+        "code": "13032",
+        "title": "Estelle Moon",
+        "text": "Whenever you install a card in a server, place 1 power counter on Estelle Moon.\n[trash]: Draw 1 card and gain 2[credit] for each power counter on Estelle Moon.",
+        "keywords": "Executive"
+    },
+    {
+        "code": "13039",
+        "flavor": "Even knowing this floor existed was cause for termination...",
+        "title": "Black Level Clearance",
+        "text": "Whenever ther is a successful run on this server, the Runner must either take 1 brain damage or jack out. If the Runner jacks out, gain 5[credit], draw 1 card, and trash Black Level Clearance.",
+        "keywords": "Security Protocol"
+    },
+    {
+        "code": "13041",
+        "flavor": "Might makes right",
+        "title": "Skorpios Defense Systems: Persuasive Power",
+        "text": "Whenever a Runner card is trashed (from any location), you may force the Runner to remove it from the game instead of adding it to the heap. Use this ability only once per turn.",
+        "keywords": "Subsidiary"
+    },
+    {
+        "code": "13046",
+        "flavor": "\"VP of Retirements and Pensions? So is that HR or Accounting?\"\n\"Both.\"",
+        "title": "Mr. Stone",
+        "text": "Whevever the runner takes 1 or more tags, do 1 meat damage.",
+        "keywords": "Executive"
+    },
+    {
+        "code": "13048",
+        "title": "Colossus",
+        "text": "Colossus can be advanced and has +1 strength for each advancement token on it.\nIf Colossus has 3 or more advancement tokens on it, resolve the parenthetical text instead (otherwise, do not resolve it).\n[subroutine] Give the Runner 1 tag. (Give the Runner 2 tags.)\n[subroutine] Trash 1 program. (Trash 1 program and 1 resource.)",
+        "keywords": "Sentry - Destroyer"
+    },
+    {
+        "code": "13051",
+        "title": "Hunter Seeker",
+        "text": "As an additional cost to play this operation, spend [click].\nPlay only if the Runner stole an agenda during his or her last turn.\nTrash 1 card.",
+        "keywords": "Double - Gray Ops"
+    },
+    {
+        "code": "13053",
+        "title": "Paper Trail",
+        "text": "When you score Paper Trail, <trace>Trace 6</trace> If successful, trash all <strong>connection</strong> and <strong>job</strong> resources.",
+        "keywords": "Security"
+    },
+    {
+        "code": "13054",
+        "title": "Honeyfarm",
+        "text": "If Honeyfarm is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Honeyfarm, he or she loses 1[credit].",
+        "keywords": "Ambush"
+    }
+]
