@@ -38,7 +38,8 @@ loadCards = (root) ->
 merge_data = (defaultLocale, locale) ->
     result = {}
     for file in _.union(_.keys(defaultLocale), _.keys(locale))
-        result[file] = _(_.merge({}, _.keyBy(defaultLocale[file] or {}, 'code'), _.keyBy(locale[file] or {}, 'code'))).values().sortBy('code').value()
+        targetFile = file.replace(/^(\w+).json$/, "$1.#{code}.json")
+        result[targetFile] = _(_.merge({}, _.keyBy(defaultLocale[file] or {}, 'code'), _.keyBy(locale[file] or {}, 'code'))).values().sortBy('code').value()
     result
 
 
@@ -55,15 +56,15 @@ for code in codes when not locale? or code is locale
 
     m_things = merge_data(things_en, l_things)
     m_cards = merge_data(cards_en, l_cards)
-
+    
     for file in _.keys m_things
         target = path.join localeRoot, file
-        if !_.isEqual(l_things[file], m_things[file])
-            fs.writeFileSync target, JSON.stringify(m_things[file], null, 4)+"\n"
-            console.log "Written #{target}"
+        if !fs.existsSync(target, fs.constants.R_OK)
+              fs.writeFileSync target, JSON.stringify(m_things[file], null, 4)+"\n"
+              console.log "Written #{target}"
     
     for file in _.keys m_cards
         target = path.join localeRoot, 'pack', file
-        if !_.isEqual(l_cards[file], m_cards[file])
-            fs.writeFileSync target, JSON.stringify(m_cards[file], null, 4)+"\n"
-            console.log "Written #{target}"
+        if !fs.existsSync(target, fs.constants.R_OK)
+              fs.writeFileSync target, JSON.stringify(m_cards[file], null, 4)+"\n"
+              console.log "Written #{target}"
