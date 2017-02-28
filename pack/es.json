@@ -1,9 +1,20 @@
 [
     {
         "code": "11041",
-        "keywords": "콘솔",
-        "text": "+1[mu]\n당신이 가진 태그마다 당신의 최대 핸드 크기를 1만큼 증가시킨다.\n매 차례마다 연구개발부(R&D) 혹은 본부(HQ)로의 런에 첫 번째로 성공할 때, 당신이 해당 런 동안 액세스한 카드마다 카드 1장을 뽑는다.\n<strong>콘솔</strong>은 플레이어당 1개로 제한된다.",
-        "title": "오벨루스"
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 3,
+        "illustrator": "Jenn Tran",
+        "keywords": "Console",
+        "pack_code": "es",
+        "position": 41,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "+1[mu]\nYour maximum hand size is increased by 1 for each tag you have.\nThe first time a successful run on R&D or HQ ends each turn, draw 1 card for each card you accessed during that run.\nLimit 1 <strong>console</strong> per player.",
+        "title": "Obelus",
+        "type_code": "hardware",
+        "uniqueness": true
     },
     {
         "code": "11042",
