@@ -181,6 +181,23 @@
         "uniqueness": false
     },
     {
+        "code": "13024",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "illustrator": "Monztre",
+        "keywords": "Connection",
+        "pack_code": "td",
+        "position": 24,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "[trash], 1[credit]: The Corp trashes 2 cards from HQ at random. Use this ability only if you suffered meat damage this turn.",
+        "title": "Officer Frank",
+        "type_code": "resource",
+        "uniqueness": true
+    },
+    {
         "code": "13028",
         "deck_limit": 1,
         "faction_code": "haas-bioroid",
@@ -233,6 +250,25 @@
         "trash_cost": 3,
         "type_code": "asset",
         "uniqueness": true
+    },
+    {
+        "code": "13034",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "haas-bioroid",
+        "faction_cost": 2,
+        "flavor": "\"A new game means new rules...\"",
+        "illustrator": "Anastasia Ovchinnikova",
+        "keywords": "Barrier - Bioroid",
+        "pack_code": "td",
+        "position": 34,
+        "quantity": 3,
+        "side_code": "corp",
+        "strength": 4,
+        "text": "The Runner may spend [click][click] to break up to 2 subroutines on Eli 2.0.\n[subroutine] The Corp may draw 1 card.\n[subroutine] End the run.\n[subroutine] End the run.",
+        "title": "Eli 2.0",
+        "type_code": "ice",
+        "uniqueness": false
     },
     {
         "code": "13039",
