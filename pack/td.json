@@ -146,6 +146,24 @@
         "uniqueness": false
     },
     {
+        "code": "13016",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 3,
+        "flavor": "\"It is more than just a 'pretty nanite plant'. It's a complex synthetic intelligent distributed network, and a VERY pretty nanite plant.\" - Bios",
+        "illustrator": "Andreas Zafiratos",
+        "keywords": "Console",
+        "pack_code": "td",
+        "position": 16,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "+1[mu]\nWhen your turn begins, draw 1 card.\nLimit 1 <strong>console</strong> per player.",
+        "title": "Ubax",
+        "type_code": "hardware",
+        "uniqueness": true
+    },
+    {
         "code": "13019",
         "cost": 2,
         "deck_limit": 3,
@@ -179,6 +197,24 @@
         "title": "Levy Advanced Research Lab",
         "type_code": "resource",
         "uniqueness": false
+    },
+    {
+        "code": "13022",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 2,
+        "flavor": "One of the wealthiest and most powerful areas of New Angeles, Laguna Velasco is also known as the Government District.",
+        "illustrator": "Mark Molnar",
+        "keywords": "Location - Ritzy",
+        "pack_code": "td",
+        "position": 22,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "Whenever you spend [click] to draw 1 card (not through a card ability), draw 1 additional card.",
+        "title": "Laguna Velasco District",
+        "type_code": "resource",
+        "uniqueness": true
     },
     {
         "code": "13024",
