@@ -74,6 +74,26 @@
         "uniqueness": false
     },
     {
+        "code": "13007",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 3,
+        "flavor": "\"Never boast. Just let your importance be quietly obvious.\"",
+        "illustrator": "Ed Mattinian",
+        "keywords": "Icebreaker - Killer",
+        "memory_cost": 1,
+        "pack_code": "td",
+        "position": 7,
+        "quantity": 3,
+        "side_code": "runner",
+        "strength": 1,
+        "text": "1[credit]: Break <strong>sentry</strong> subroutine.\n3[credit]: +5 strength.\n[trash]: Bypass a piece of <strong>sentry</strong> ice currently being encountered, even if it has strength greater than Lustig.",
+        "title": "Lustig",
+        "type_code": "program",
+        "uniqueness": false
+    },
+    {
         "code": "13010",
         "cost": 5,
         "deck_limit": 3,
@@ -162,6 +182,26 @@
         "title": "Ubax",
         "type_code": "hardware",
         "uniqueness": true
+    },
+    {
+        "code": "13017",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 3,
+        "flavor": "Μεγάλο μέρος της μάθησης δεν διδάσκει την κατανόηση",
+        "illustrator": "Adam S. Doyle",
+        "keywords": "Icebreaker - Fracter - Killer",
+        "memory_cost": 2,
+        "pack_code": "td",
+        "position": 17,
+        "quantity": 3,
+        "side_code": "runner",
+        "strength": 2,
+        "text": "Adept has +1 strength for each unused MU.\n2[credit]: Break <strong>sentry</strong> or <strong>barrier</strong> subroutine.",
+        "title": "Adept",
+        "type_code": "program",
+        "uniqueness": false
     },
     {
         "code": "13019",
