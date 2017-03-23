@@ -257,6 +257,24 @@
         "uniqueness": false
     },
     {
+        "code": "13020",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 2,
+        "illustrator": "Liiga Smilshkalne",
+        "keywords": "Daemon",
+        "memory_cost": 0,
+        "pack_code": "td",
+        "position": 20,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "Dhegdheer can host a single program.\nWhen you install a program on Dhegdheer, lower its install cost by 1.\nThe memory cost of the hosted program does not count against your memory limit.",
+        "title": "Dhegdheer",
+        "type_code": "program",
+        "uniqueness": false
+    },
+    {
         "code": "13021",
         "cost": 4,
         "deck_limit": 3,
