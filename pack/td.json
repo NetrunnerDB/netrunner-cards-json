@@ -398,6 +398,24 @@
         "type_code": "asset",
         "uniqueness": true
     },
+     {
+        "code": "13033",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "haas-bioroid",
+        "faction_cost": 1,
+        "illustrator": "n.n.",
+        "keywords": "Advertisement",
+        "pack_code": "td",
+        "position": 33,
+        "quantity": 3,
+        "side_code": "corp",
+        "text": "Place 8[credit] on Marilyn Campaign when it is rezzed. When there are no credits left on Marilyn Campaign, trash it.\nTake 2[credit] from Marilyn Campaign when your turn begins.\nIf Marilyn Campaign is trashed while installed, you may shuffle it into R&D instead of adding it to Archives.",
+        "title": "Marilyn Campaign",
+        "trash_cost": 3,
+        "type_code": "asset",
+        "uniqueness": false
+    },
     {
         "code": "13034",
         "cost": 5,
