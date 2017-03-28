@@ -1,43 +1,43 @@
 [
     {
         "code": "11041",
-        "keywords": "Console",
-        "text": "+1[mu]\nYour maximum hand size is increased by 1 for each tag you have.\nThe first time a successful run on R&D or HQ ends each turn, draw 1 card for each card you accessed during that run.\nLimit 1 <strong>console</strong> per player.",
+        "keywords": "Konsole",
+        "text": "+1[mu]\nDeine maximale Handkartenzahl wird um 1 für jede Markierung, die du hast, erhöht.\nWenn der erste erfolgreiche Run auf entweder F&E oder HQ in einem Zug endet, ziehe 1 Karte für jede Karte, auf die du während dieses Runs zugegriff en hast.\nNur 1 <strong>Konsole</strong> pro Spieler.",
         "title": "Obelus"
     },
     {
         "code": "11042",
-        "flavor": "\"In extremity, your conscience may make you terrible.\" -Omar Keung, the Flashpoint",
-        "keywords": "Icebreaker - Decoder",
-        "text": "Whenever you encounter a <strong>code gate</strong>, you may install Black Orchestra from your heap (paying its install cost).\n3[credit]: +2 strength. Break up to 2 <strong>code gate</strong> subroutines, if able.",
-        "title": "Black Orchestra"
+        "flavor": "\"Im Extremfall kann dein Gewissen dich zu fürchterlichen Dingen treiben.\" -Omar Keung, Am Siedepunkt",
+        "keywords": "Ice- Brecher - Decoder",
+        "text": "Immer wenn du auf einen <strong>Code-Zugang</strong>tri st, kannst du Schwarze Kapelle aus deiner Ablage installieren (und die Installationskosten zahlen).\n3[credit]: +2 Stärke. Schalte, falls möglich, bis zu 2 Subroutinen eines <strong>Code-Zugangs</strong> aus.",
+        "title": "Schwarze Kapelle"
     },
     {
         "code": "11043",
-        "keywords": "Natural",
-        "text": "[click]: Make a run on Archives. If successful, instead treat it as a successful run on another central server. Use this ability only once per turn.",
-        "title": "Omar Keung: Conspiracy Theorist"
+        "keywords": "Natürlich",
+        "text": "[click]: Führe einen Run auf das Archiv durch. Wenn dieser erfolgreich ist, behandle ihn wie einen erfolgreichen Run auf ein anderes zentrales System. Verwende diese Fähigkeit nur einmal pro Zug.",
+        "title": "Omar Keung: Verschwörungstheoretiker"
     },
     {
         "code": "11044",
-        "flavor": "Khan's avatar lifted her arm and the bird launched itself into the air.",
-        "keywords": "Icebreaker - Decoder",
-        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n3[credit]: +3 strength.\n2[credit], <strong>return Peregrine to your grip</strong>: Derez a <strong>code gate</strong>. Use this ability only after using Peregrine to break all the subroutines on that <strong>code gate</strong> during a single encounter.",
-        "title": "Peregrine"
+        "flavor": "Khans Avatar streckte ihren Arm aus undder Vogel erhob sich in die Luft.",
+        "keywords": "Ice-Brecher - Decoder",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n3[credit]: +3 Stärke.\n2[credit], <strong>Nimm Wanderfalke zurück in deinen Griff :</strong>: Entlade einen <strong>Code-Zugang</strong>. Verwende diese Fähigkeit nur, nachdem du Wanderfalke verwendet hast, um alle Subroutinen auf diesem <strong>Code-Zugang</strong> während einer einzigen Begegnung auszuschalten.",
+        "title": "Wanderfalke"
     },
     {
         "code": "11045",
-        "flavor": "My brain is the key that sets my mind free.",
-        "keywords": "Icebreaker - Decoder",
-        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card.",
+        "flavor": "Mein Hirn ist der Schlüssel, der meinen Geist befreit.",
+        "keywords": "Ice-Brecher - Decoder",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[credit]: +4 Stärke für den Rest des Runs. Diese Fähigkeit kann nur verwendet werden, wenn dafür mindestens 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgegeben wird.",
         "title": "Houdini"
     },
     {
         "code": "11046",
-        "flavor": "\"Live, unfiltered, and uncensored: this is Net Mercur, signing off for the night. Stay safe, New Angeles.\"",
-        "keywords": "Virtual - Stealth",
-        "text": "The first time you spend at least 1[credit] from a <strong>stealth</strong> card each run, place 1[credit] on Net Mercur or draw 1 card.\nUse credits on Net Mercur for anything.",
-        "title": "Net Mercur"
+        "flavor": "\"Live, ungefiltert und unzensiert, hier spricht Netz-Merkur, wir beenden für diese Nacht unsere Sendung. Bleib sicher, New Angeles.\"",
+        "keywords": "Virtuell - Heimlichkeit",
+        "text": "Wenn du zum ersten Mal in einem Run mindestens 1[credit] von einer <strong>Heimlichkeit</strong>-Karte zahlst, lege 1[credit] auf Netz-Merkur oder ziehe 1 Karte.\nVerwende die Credits auf Netz-Merkur für einen beliebigen Zweck.",
+        "title": "Netz-Merkur"
     },
     {
         "code": "11047",
