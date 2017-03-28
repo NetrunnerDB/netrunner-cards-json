@@ -20,7 +20,7 @@
     },
     {
         "code": "11044",
-        "flavor": "Khans Avatar streckte ihren Arm aus undder Vogel erhob sich in die Luft.",
+        "flavor": "Khans Avatar streckte ihren Arm aus und der Vogel erhob sich in die Luft.",
         "keywords": "Ice-Brecher - Decoder",
         "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n3[credit]: +3 Stärke.\n2[credit], <strong>Nimm Wanderfalke zurück in deinen Griff :</strong>: Entlade einen <strong>Code-Zugang</strong>. Verwende diese Fähigkeit nur, nachdem du Wanderfalke verwendet hast, um alle Subroutinen auf diesem <strong>Code-Zugang</strong> während einer einzigen Begegnung auszuschalten.",
         "title": "Wanderfalke"
@@ -102,35 +102,35 @@
     },
     {
         "code": "11056",
-        "flavor": "Observing is fun, but it's just the appetizer.",
-        "keywords": "Gray Ops",
-        "text": "Play only if the Runner has fewer than 6[credit].\nAs an additional cost to play this operation, remove 1 tag.\nTrash 1 installed card.",
-        "title": "Observe and Destroy"
+        "flavor": "Observieren macht Spaß, aber das ist eindeutig nur die Vorspeise.",
+        "keywords": "Graue Ops",
+        "text": "Kann nur gespielt werden, falls der Runner weniger als 6[credit] hat.\nAls zusätzliche Ausspielkosten für diese Operation entferne 1 Markierung.\nZerstöre 1 installierte Karte.",
+        "title": "Observieren und zerstören"
     },
     {
         "code": "11057",
-        "keywords": "Current",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to make the first run on his or her turn (even through a card ability), the Runner must spend 1[credit].",
-        "title": "Service Outage"
+        "keywords": "Aktuell",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nAls zusätzliche Kosten für den ersten Run in seinem Zug (selbst durch die Fähigkeit einer Karte) muss der Runner 1[credit] ausgeben.",
+        "title": "Dienstausfall"
     },
     {
         "code": "11058",
         "flavor": "Game over.",
-        "keywords": "Double - Black Ops",
-        "text": "Play only if the Runner has at least 2 tags.\nAs an additional cost to play this operation, spend [click].\nDo 7 meat damage.",
-        "title": "BOOM!"
+        "keywords": "Verdoppeln - Schwarze Ops",
+        "text": "Kann nur gespielt werden, falls der Runner mindestens 2 Markierungen hat.\nAls zusätzliche Ausspielkosten für diese Operation zahle [click].\nVerursache 7 Körper-Schaden.",
+        "title": "BUMM!"
     },
     {
         "code": "11059",
-        "keywords": "Current - Black Ops",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhen the Runner's turn begins, <trace>trace 1</trace> If successful, do 1 meat damage if the Runner is tagged; otherwise, give the Runner 1 tag.",
-        "title": "Door to Door"
+        "keywords": "Aktuell - Schwarze Ops",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nWenn der Zug des Runners beginnt <trace>Aufspüren 1</trace>– Bei Erfolg füge 1 Körper-Schaden zu, falls der Runner markiert ist; ansonsten verpasse ihm 1 Markierung.",
+        "title": "Klinken putzen"
     },
     {
         "code": "11060",
-        "flavor": "The event is now referred to as the Water Tower Massacre. No one was ever indicted, and no one knows who paid the prisec team responsible.",
-        "keywords": "Current",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe install cost of each resource is increased by 2.",
-        "title": "Scarcity of Resources"
+        "flavor": "Das Ereignis wird jetzt das Wasserturm-Massaker genannt. Es kam zu keiner Anklage und niemand weiß, wer das verantwortliche PriSec-Team bezahlt hat.",
+        "keywords": "Aktuell",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nDie Installationskosten jeder Ressource werden um 2 erhöht.",
+        "title": "Ressourcenknappheit"
     }
 ]
