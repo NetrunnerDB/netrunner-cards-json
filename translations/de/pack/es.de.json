@@ -41,49 +41,50 @@
     },
     {
         "code": "11047",
-        "flavor": "\"All bioroids are bound by the Three Directives, but in theory a bioroid could have any number of core directives. Even zero.\"",
-        "keywords": "Directive - Virtual",
-        "text": "Whenever you draw a card, reveal that card.\nThe first time you make a successful run each turn, you may look at the top card of R&D.",
-        "title": "Find the Truth"
+        "flavor": "Alle Bioroiden müssen sich an die Drei Direktiven halten, aber in der Theorie kann ein Bioroid beliebig viele Kerndirektiven haben. Möglicherweise auch gar keine.",
+        "keywords": "Direktive - Virtuell",
+        "text": "Immer wenn du eine Karte ziehst, decke diese Karte auf.\nImmer, wenn du zum ersten Mal in einem Zug einen Run erfolgreich durchführst, darfst du dir die oberste Karte von F&E ansehen.",
+        "title": "Finde die Wahrheit"
     },
     {
         "code": "11048",
-        "flavor": "\"Last week, I crossed the street to avoid her. Today, she pulled me out of the rubble. Makes me rethink who the bad guys are.\"",
-        "keywords": "Connection",
-        "text": "2[credit]: Draw 1 card. Use this ability only if you have suffered damage from a Corp card ability this turn.",
-        "title": "First Responders"
+        "flavor": "\"Letzte Woche hab ich die Straßenseite gewechselt, um ihr aus dem Weg zu gehen. Heute hat sie mich aus dem Geröll gezerrt. Ich sollte noch mal überdenken, wen ich für die Bösen halte.“\"",
+        "keywords": "Kontakt",
+        "text": "2[credit]: Ziehe 1 Karte. Verwende diese Fähigkeit nur, falls du in diesem Zug bereits Schaden durch die Fähigkeit einer Kon-Karte genommen hast.",
+        "title": "Ersthelfer"
     },
     {
         "code": "11049",
-        "flavor": "In battle, I take half the slain.",
-        "keywords": "Code Gate - Bioroid - AP",
-        "text": "The Runner can spend [click][click][click] to break up to 3 subroutines on Fairchild 3.0.\n[subroutine] The Runner must pay 3[credit] or trash 1 of his or her installed cards.\n[subroutine] The Runner must pay 3[credit] or trash 1 of his or her installed cards.\n[subroutine] Do 1 brain damage or end the run.",
+        "flavor": "Die Hälfte der Gefallenen in einer Schlacht gehen auf mein Konto.",
+        "keywords": "Code-Zugang - Bioroid - AP",
+        "text": "Der Runner kann [click][click][click] ausgeben, um bis zu 3 Subroutinen auf Fairchild 3.0 auszuschalten.\n[subroutine] Der Runner muss 3[credit] zahlen oder 1 seiner installierten Karten zerstören.\n[subroutine] Der Runner muss 3[credit] zahlen oder 1 seiner installierten Karten zerstören.\n[subroutine] Verursache 1 Hirn-Schaden oder beende den Run.",
         "title": "Fairchild 3.0"
     },
     {
         "code": "11050",
-        "flavor": "\"If you live off-site, please consult the building AI for temporary housing. We regret that your off-site family cannot join you here while we are in lockdown...\"",
-        "text": "Name a card. Remove all copies of that card in the heap from the game.",
-        "title": "Ark Lockdown"
+        "flavor": "\"Falls Sie außerhalb des Firmengeländes leben, nehmen Sie bitte Kontakt mit der KI des Gebäudes auf, um vorübergehend eine Unterkunft zu erhalten. Wir bedauern, dass ihre nicht auf dem Firmengelände lebende Familie für die Dauer der Abriegelung nicht hier bei ihnen leben kann …\"",
+        "text": "Nenne eine Karte. Entferne alle Kopien dieser Karte in der Ablage aus dem Spiel.",
+        "title": "Arkologie-Abriegelung"
     },
     {
         "code": "11051",
-        "flavor": "\"Wait a minute, I don't even have a cat.\"",
-        "keywords": "Black Ops",
-        "text": "Play only if the Runner trashed an accessed Corp card during his or her last turn.\n<trace>Trace 2</trace> If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
-        "title": "Hellion Beta Test"
+        "flavor": "\"Warte mal, ich habe nicht mal eine Katze.\"",
+        "keywords": "Schwarze Ops",
+        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug eine Kon-Karte, auf die er zugegriffen hat, zerstört hat.\n<trace>Aufspüren 2</trace> Bei Erfolg zerstöre 2 installierte Karten, die keine Programme sind. Bei Misserfolg erhältst du 1 negative Publicity.",
+        "title": "Hellion Beta-Test"
     },
     {
         "code": "11052",
-        "keywords": "Security",
-        "text": "When you score Project Kusanagi, place 1 agenda counter on it for each advancement token on it over 2.\n<strong>Hosted agenda counter:</strong> Choose 1 piece of ice to gain \"[subroutine] Do 1 net damage.\" after all its other subroutines for the remainder of this run.",
-        "title": "Project Kusanagi"
+        "keywords": "Sicherheit",
+        "text": "Wenn du die Punkte für Projekt Kusanagi erzielst, lege für jeden darauf liegenden Entwicklungsmarker über 2 einen Agenda zähler auf Projekt Kusanagi.\n<strongGehosteter Agendazähler:</strong> Wähle 1 Ice. Für den Rest dieses Runs erhält das Ice \"[subroutine] Verursache 1 Netz-Schaden.\" hinter all seine anderen Subroutinen.",
+        "title": "Projekt Kusanagi"
     },
     {
         "code": "11053",
-        "keywords": "Code Gate - AP",
-        "text": "[subroutine] Do 1 net damage. The Runner loses 2[credit].\n[subroutine] Do 1 net damage. The Runner loses 2[credit].\n[subroutine] Do 1 net damage. The Runner loses 2[credit].",
-        "title": "DNA Tracker"
+        "flavor": "Wenn deine ID mit deinem genetischen Profil geflaggt ist, gibt es nicht mehr wirklich so was wie \"Privatsphäre\".",
+        "keywords": "Code-Zugang - AP",
+        "text": "[subroutine] Verursache 1 Netz-Schaden. Der Runner verliert 2[credit].\n[subroutine] Verursache 1 Netz-Schaden. Der Runner verliert 2[credit].\n[subroutine] Verursache 1 Netz-Schaden. Der Runner verliert 2[credit].",
+        "title": "DNA-Tracker"
     },
     {
         "code": "11054",
