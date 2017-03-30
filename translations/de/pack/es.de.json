@@ -1,135 +1,136 @@
 [
     {
         "code": "11041",
-        "keywords": "Console",
-        "text": "+1[mu]\nYour maximum hand size is increased by 1 for each tag you have.\nThe first time a successful run on R&D or HQ ends each turn, draw 1 card for each card you accessed during that run.\nLimit 1 <strong>console</strong> per player.",
+        "keywords": "Konsole",
+        "text": "+1[mu]\nDeine maximale Handkartenzahl wird um 1 für jede Markierung, die du hast, erhöht.\nWenn der erste erfolgreiche Run auf entweder F&E oder HQ in einem Zug endet, ziehe 1 Karte für jede Karte, auf die du während dieses Runs zugegriff en hast.\nNur 1 <strong>Konsole</strong> pro Spieler.",
         "title": "Obelus"
     },
     {
         "code": "11042",
-        "flavor": "\"In extremity, your conscience may make you terrible.\" -Omar Keung, the Flashpoint",
-        "keywords": "Icebreaker - Decoder",
-        "text": "Whenever you encounter a <strong>code gate</strong>, you may install Black Orchestra from your heap (paying its install cost).\n3[credit]: +2 strength. Break up to 2 <strong>code gate</strong> subroutines, if able.",
-        "title": "Black Orchestra"
+        "flavor": "\"Im Extremfall kann dein Gewissen dich zu fürchterlichen Dingen treiben.\" -Omar Keung, Am Siedepunkt",
+        "keywords": "Ice- Brecher - Decoder",
+        "text": "Immer wenn du auf einen <strong>Code-Zugang</strong>tri st, kannst du Schwarze Kapelle aus deiner Ablage installieren (und die Installationskosten zahlen).\n3[credit]: +2 Stärke. Schalte, falls möglich, bis zu 2 Subroutinen eines <strong>Code-Zugangs</strong> aus.",
+        "title": "Schwarze Kapelle"
     },
     {
         "code": "11043",
-        "keywords": "Natural",
-        "text": "[click]: Make a run on Archives. If successful, instead treat it as a successful run on another central server. Use this ability only once per turn.",
-        "title": "Omar Keung: Conspiracy Theorist"
+        "keywords": "Natürlich",
+        "text": "[click]: Führe einen Run auf das Archiv durch. Wenn dieser erfolgreich ist, behandle ihn wie einen erfolgreichen Run auf ein anderes zentrales System. Verwende diese Fähigkeit nur einmal pro Zug.",
+        "title": "Omar Keung: Verschwörungstheoretiker"
     },
     {
         "code": "11044",
-        "flavor": "Khan's avatar lifted her arm and the bird launched itself into the air.",
-        "keywords": "Icebreaker - Decoder",
-        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n3[credit]: +3 strength.\n2[credit], <strong>return Peregrine to your grip</strong>: Derez a <strong>code gate</strong>. Use this ability only after using Peregrine to break all the subroutines on that <strong>code gate</strong> during a single encounter.",
-        "title": "Peregrine"
+        "flavor": "Khans Avatar streckte ihren Arm aus und der Vogel erhob sich in die Luft.",
+        "keywords": "Ice-Brecher - Decoder",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n3[credit]: +3 Stärke.\n2[credit], <strong>Nimm Wanderfalke zurück in deinen Griff :</strong>: Entlade einen <strong>Code-Zugang</strong>. Verwende diese Fähigkeit nur, nachdem du Wanderfalke verwendet hast, um alle Subroutinen auf diesem <strong>Code-Zugang</strong> während einer einzigen Begegnung auszuschalten.",
+        "title": "Wanderfalke"
     },
     {
         "code": "11045",
-        "flavor": "My brain is the key that sets my mind free.",
-        "keywords": "Icebreaker - Decoder",
-        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card.",
+        "flavor": "Mein Hirn ist der Schlüssel, der meinen Geist befreit.",
+        "keywords": "Ice-Brecher - Decoder",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[credit]: +4 Stärke für den Rest des Runs. Diese Fähigkeit kann nur verwendet werden, wenn dafür mindestens 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgegeben wird.",
         "title": "Houdini"
     },
     {
         "code": "11046",
-        "flavor": "\"Live, unfiltered, and uncensored: this is Net Mercur, signing off for the night. Stay safe, New Angeles.\"",
-        "keywords": "Virtual - Stealth",
-        "text": "The first time you spend at least 1[credit] from a <strong>stealth</strong> card each run, place 1[credit] on Net Mercur or draw 1 card.\nUse credits on Net Mercur for anything.",
-        "title": "Net Mercur"
+        "flavor": "\"Live, ungefiltert und unzensiert, hier spricht Netz-Merkur, wir beenden für diese Nacht unsere Sendung. Bleib sicher, New Angeles.\"",
+        "keywords": "Virtuell - Heimlichkeit",
+        "text": "Wenn du zum ersten Mal in einem Run mindestens 1[credit] von einer <strong>Heimlichkeit</strong>-Karte zahlst, lege 1[credit] auf Netz-Merkur oder ziehe 1 Karte.\nVerwende die Credits auf Netz-Merkur für einen beliebigen Zweck.",
+        "title": "Netz-Merkur"
     },
     {
         "code": "11047",
-        "flavor": "\"All bioroids are bound by the Three Directives, but in theory a bioroid could have any number of core directives. Even zero.\"",
-        "keywords": "Directive - Virtual",
-        "text": "Whenever you draw a card, reveal that card.\nThe first time you make a successful run each turn, you may look at the top card of R&D.",
-        "title": "Find the Truth"
+        "flavor": "Alle Bioroiden müssen sich an die Drei Direktiven halten, aber in der Theorie kann ein Bioroid beliebig viele Kerndirektiven haben. Möglicherweise auch gar keine.",
+        "keywords": "Direktive - Virtuell",
+        "text": "Immer wenn du eine Karte ziehst, decke diese Karte auf.\nImmer, wenn du zum ersten Mal in einem Zug einen Run erfolgreich durchführst, darfst du dir die oberste Karte von F&E ansehen.",
+        "title": "Finde die Wahrheit"
     },
     {
         "code": "11048",
-        "flavor": "\"Last week, I crossed the street to avoid her. Today, she pulled me out of the rubble. Makes me rethink who the bad guys are.\"",
-        "keywords": "Connection",
-        "text": "2[credit]: Draw 1 card. Use this ability only if you have suffered damage from a Corp card ability this turn.",
-        "title": "First Responders"
+        "flavor": "\"Letzte Woche hab ich die Straßenseite gewechselt, um ihr aus dem Weg zu gehen. Heute hat sie mich aus dem Geröll gezerrt. Ich sollte noch mal überdenken, wen ich für die Bösen halte.“\"",
+        "keywords": "Kontakt",
+        "text": "2[credit]: Ziehe 1 Karte. Verwende diese Fähigkeit nur, falls du in diesem Zug bereits Schaden durch die Fähigkeit einer Kon-Karte genommen hast.",
+        "title": "Ersthelfer"
     },
     {
         "code": "11049",
-        "flavor": "In battle, I take half the slain.",
-        "keywords": "Code Gate - Bioroid - AP",
-        "text": "The Runner can spend [click][click][click] to break up to 3 subroutines on Fairchild 3.0.\n[subroutine] The Runner must pay 3[credit] or trash 1 of his or her installed cards.\n[subroutine] The Runner must pay 3[credit] or trash 1 of his or her installed cards.\n[subroutine] Do 1 brain damage or end the run.",
+        "flavor": "Die Hälfte der Gefallenen in einer Schlacht gehen auf mein Konto.",
+        "keywords": "Code-Zugang - Bioroid - AP",
+        "text": "Der Runner kann [click][click][click] ausgeben, um bis zu 3 Subroutinen auf Fairchild 3.0 auszuschalten.\n[subroutine] Der Runner muss 3[credit] zahlen oder 1 seiner installierten Karten zerstören.\n[subroutine] Der Runner muss 3[credit] zahlen oder 1 seiner installierten Karten zerstören.\n[subroutine] Verursache 1 Hirn-Schaden oder beende den Run.",
         "title": "Fairchild 3.0"
     },
     {
         "code": "11050",
-        "flavor": "\"If you live off-site, please consult the building AI for temporary housing. We regret that your off-site family cannot join you here while we are in lockdown...\"",
-        "text": "Name a card. Remove all copies of that card in the heap from the game.",
-        "title": "Ark Lockdown"
+        "flavor": "\"Falls Sie außerhalb des Firmengeländes leben, nehmen Sie bitte Kontakt mit der KI des Gebäudes auf, um vorübergehend eine Unterkunft zu erhalten. Wir bedauern, dass ihre nicht auf dem Firmengelände lebende Familie für die Dauer der Abriegelung nicht hier bei ihnen leben kann …\"",
+        "text": "Nenne eine Karte. Entferne alle Kopien dieser Karte in der Ablage aus dem Spiel.",
+        "title": "Arkologie-Abriegelung"
     },
     {
         "code": "11051",
-        "flavor": "\"Wait a minute, I don't even have a cat.\"",
-        "keywords": "Black Ops",
-        "text": "Play only if the Runner trashed an accessed Corp card during his or her last turn.\n<trace>Trace 2</trace> If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
-        "title": "Hellion Beta Test"
+        "flavor": "\"Warte mal, ich habe nicht mal eine Katze.\"",
+        "keywords": "Schwarze Ops",
+        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug eine Kon-Karte, auf die er zugegriffen hat, zerstört hat.\n<trace>Aufspüren 2</trace> Bei Erfolg zerstöre 2 installierte Karten, die keine Programme sind. Bei Misserfolg erhältst du 1 negative Publicity.",
+        "title": "Hellion Beta-Test"
     },
     {
         "code": "11052",
-        "keywords": "Security",
-        "text": "When you score Project Kusanagi, place 1 agenda counter on it for each advancement token on it over 2.\n<strong>Hosted agenda counter:</strong> Choose 1 piece of ice to gain \"[subroutine] Do 1 net damage.\" after all its other subroutines for the remainder of this run.",
-        "title": "Project Kusanagi"
+        "keywords": "Sicherheit",
+        "text": "Wenn du die Punkte für Projekt Kusanagi erzielst, lege für jeden darauf liegenden Entwicklungsmarker über 2 einen Agenda zähler auf Projekt Kusanagi.\n<strongGehosteter Agendazähler:</strong> Wähle 1 Ice. Für den Rest dieses Runs erhält das Ice \"[subroutine] Verursache 1 Netz-Schaden.\" hinter all seine anderen Subroutinen.",
+        "title": "Projekt Kusanagi"
     },
     {
         "code": "11053",
-        "keywords": "Code Gate - AP",
-        "text": "[subroutine] Do 1 net damage. The Runner loses 2[credit].\n[subroutine] Do 1 net damage. The Runner loses 2[credit].\n[subroutine] Do 1 net damage. The Runner loses 2[credit].",
-        "title": "DNA Tracker"
+        "flavor": "Wenn deine ID mit deinem genetischen Profil geflaggt ist, gibt es nicht mehr wirklich so was wie \"Privatsphäre\".",
+        "keywords": "Code-Zugang - AP",
+        "text": "[subroutine] Verursache 1 Netz-Schaden. Der Runner verliert 2[credit].\n[subroutine] Verursache 1 Netz-Schaden. Der Runner verliert 2[credit].\n[subroutine] Verursache 1 Netz-Schaden. Der Runner verliert 2[credit].",
+        "title": "DNA-Tracker"
     },
     {
         "code": "11054",
-        "flavor": "Your better nature.",
-        "keywords": "Megacorp",
-        "text": "Whenever the Runner takes at least 1 net damage, trash the top card of the stack.",
-        "title": "Jinteki: Potential Unleashed"
+        "flavor": "Deine gute Seite",
+        "keywords": "Megakon",
+        "text": "Immer wenn der Runner mindestens 1 Netz-Schaden erhält, zerstöre die oberste Karte des Stapels.",
+        "title": "Jinteki: Entfesseltes Potential"
     },
     {
         "code": "11055",
-        "flavor": "\"She used to work for me at my chop shop. Now she makes more money than I do.\" -MacPherson",
-        "keywords": "Character",
-        "text": "[trash]: Shuffle all cards in HQ into R&D. The Runner may pay any number of credits to prevent 1 random card in HQ from being shuffled into R&D for every 2[credit] spent.",
-        "title": "Alexa Belsky"
+        "flavor": "\"Sie hat mal für mich als Ausschlachterin gearbeitet. Inzwischen verdient sie mehr Geld als ich.\" -MacPherson",
+        "keywords": "Charakter",
+        "text": "[trash]: Mische alle Karten vom HQ in F&E. Der Runner darf eine beliebige Anzahl Credits zahlen, um pro gezahlte 2[Credit] zu verhindern, dass 1 zufällige Karte vom HQ in F&E gemischt wird.",
+        "title": "Alexa Belski"
     },
     {
         "code": "11056",
-        "flavor": "Observing is fun, but it's just the appetizer.",
-        "keywords": "Gray Ops",
-        "text": "Play only if the Runner has fewer than 6[credit].\nAs an additional cost to play this operation, remove 1 tag.\nTrash 1 installed card.",
-        "title": "Observe and Destroy"
+        "flavor": "Observieren macht Spaß, aber das ist eindeutig nur die Vorspeise.",
+        "keywords": "Graue Ops",
+        "text": "Kann nur gespielt werden, falls der Runner weniger als 6[credit] hat.\nAls zusätzliche Ausspielkosten für diese Operation entferne 1 Markierung.\nZerstöre 1 installierte Karte.",
+        "title": "Observieren und zerstören"
     },
     {
         "code": "11057",
-        "keywords": "Current",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to make the first run on his or her turn (even through a card ability), the Runner must spend 1[credit].",
-        "title": "Service Outage"
+        "keywords": "Aktuell",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nAls zusätzliche Kosten für den ersten Run in seinem Zug (selbst durch die Fähigkeit einer Karte) muss der Runner 1[credit] ausgeben.",
+        "title": "Dienstausfall"
     },
     {
         "code": "11058",
         "flavor": "Game over.",
-        "keywords": "Double - Black Ops",
-        "text": "Play only if the Runner has at least 2 tags.\nAs an additional cost to play this operation, spend [click].\nDo 7 meat damage.",
-        "title": "BOOM!"
+        "keywords": "Verdoppeln - Schwarze Ops",
+        "text": "Kann nur gespielt werden, falls der Runner mindestens 2 Markierungen hat.\nAls zusätzliche Ausspielkosten für diese Operation zahle [click].\nVerursache 7 Körper-Schaden.",
+        "title": "BUMM!"
     },
     {
         "code": "11059",
-        "keywords": "Current - Black Ops",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhen the Runner's turn begins, <trace>trace 1</trace> If successful, do 1 meat damage if the Runner is tagged; otherwise, give the Runner 1 tag.",
-        "title": "Door to Door"
+        "keywords": "Aktuell - Schwarze Ops",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nWenn der Zug des Runners beginnt <trace>Aufspüren 1</trace>– Bei Erfolg füge 1 Körper-Schaden zu, falls der Runner markiert ist; ansonsten verpasse ihm 1 Markierung.",
+        "title": "Klinken putzen"
     },
     {
         "code": "11060",
-        "flavor": "The event is now referred to as the Water Tower Massacre. No one was ever indicted, and no one knows who paid the prisec team responsible.",
-        "keywords": "Current",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe install cost of each resource is increased by 2.",
-        "title": "Scarcity of Resources"
+        "flavor": "Das Ereignis wird jetzt das Wasserturm-Massaker genannt. Es kam zu keiner Anklage und niemand weiß, wer das verantwortliche PriSec-Team bezahlt hat.",
+        "keywords": "Aktuell",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nDie Installationskosten jeder Ressource werden um 2 erhöht.",
+        "title": "Ressourcenknappheit"
     }
 ]
