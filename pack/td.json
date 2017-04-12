@@ -363,6 +363,23 @@
         "uniqueness": true
     },
     {
+        "code": "13026",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "flavor": "She left behind an encrypted trail leading to some random employee for a rival corp. She knew lazy sysops would work just hard enough to figure it out and wouldn't bother looking any deeper.",
+        "illustrator": "Jarreau Wimberly",
+        "pack_code": "td",
+        "position": 26,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "[trash]: Prevent 2 damage.",
+        "title": "Biometric Spoofing",
+        "type_code": "resource",
+        "uniqueness": false
+    },
+    {
         "code": "13027",
         "cost": 0,
         "deck_limit": 3,
