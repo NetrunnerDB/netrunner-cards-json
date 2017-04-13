@@ -31,6 +31,7 @@ loadCards = (root) ->
         fs.mkdirSync(localeRoot)
     files = fs.readdirSync localeRoot
     for file in files
+        console.log path.join(localeRoot, file)
         json = JSON.parse fs.readFileSync(path.join(localeRoot, file), 'UTF-8')
         result[file] = stripProps json, ['code','flavor','title','text','keywords']
     result
@@ -59,12 +60,12 @@ for code in codes when not locale? or code is locale
     
     for file in _.keys m_things
         target = path.join localeRoot, file
-        if !fs.existsSync(target, fs.constants.R_OK)
+        if !fs.existsSync(target, fs.R_OK)
               fs.writeFileSync target, JSON.stringify(m_things[file], null, 4)+"\n"
               console.log "Written #{target}"
     
     for file in _.keys m_cards
         target = path.join localeRoot, 'pack', file
-        if !fs.existsSync(target, fs.constants.R_OK)
+        if !fs.existsSync(target, fs.R_OK)
               fs.writeFileSync target, JSON.stringify(m_cards[file], null, 4)+"\n"
               console.log "Written #{target}"
