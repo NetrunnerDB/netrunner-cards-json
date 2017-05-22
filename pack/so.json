@@ -7,12 +7,12 @@
         "faction_cost": 4,
         "flavor": "\"Sure, the implantation was fine, but it pumps Burn. Did you think it wouldn't hurt?\"",
         "illustrator": "Marius Bota",
-        "keywords": "Cybernetics",
+        "keywords": "Cybernetic",
         "pack_code": "so",
         "position": 21,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[click]: Make a run on R&D or HQ and trash 2 or more cards from your grip. Whenever you access cards from that server, access 1 additional card for every 2 cards trashed.",
+        "text": "[click]: Make a run on R&D or HQ and trash 2 or more cards from your grip. Whenever you access cards from that server during this run, access 1 additional card for every 2 cards trashed.\n<errata>Errata from FAQ 4.0</errata>",
         "title": "Severnius Stim Implant",
         "type_code": "hardware",
         "uniqueness": false
@@ -172,7 +172,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "The Runner can spend [click][click] to break up to 2 subroutines on Nerine 2.0.\n[subroutine] Deal 1 brain damage. The Corp may draw 1 card.\n[subroutine] Deal 1 brain damage. The Corp may draw 1 card.",
+        "text": "The Runner can spend [click][click] to break up to 2 subroutines on Nerine 2.0.\n[subroutine] Do 1 brain damage. The Corp may draw 1 card.\n[subroutine] Do 1 brain damage. The Corp may draw 1 card.\n<errata>Errata from FAQ 4.0</errata>",
         "title": "Nerine 2.0",
         "type_code": "ice",
         "uniqueness": false
@@ -278,7 +278,7 @@
         "position": 36,
         "quantity": 3,
         "side_code": "corp",
-        "text": "After you resolve this operation, end your action phase.\nInstall MCA Informant on a <strong>connection</strong> as a hosted <strong>condition</strong> counter with the text \"The Runner is considered to have 1 additional tag. The host <strong>connection</strong> gains '[click], 2[credit]: Trash this card.'\"",
+        "text": "After you resolve this operation, end your action phase.\nInstall MCA Informant on a <strong>connection</strong> resource as a hosted <strong>condition</strong> counter with the text \"The Runner is considered to have 1 additional tag. The host <strong>connection</strong> gains '[click], 2[credit]: Trash this card.'\"\n<errata>Errata from FAQ 4.0</errata>",
         "title": "MCA Informant",
         "type_code": "operation",
         "uniqueness": false
