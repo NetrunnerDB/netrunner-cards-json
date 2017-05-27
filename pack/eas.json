@@ -156,7 +156,7 @@
         "position": 49,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, gain 1[cedit] if you have fewer than 6[credit].\nWhenever you have 0[credit], trash Dadiana Chacon and take 3 meat damage.",
+        "text": "When your turn begins, gain 1[credit] if you have fewer than 6[credit].\nWhenever you have 0[credit], trash Dadiana Chacon and take 3 meat damage.",
         "title": "Dadiana Chacon",
         "type_code": "resource",
         "uniqueness": true
@@ -193,7 +193,7 @@
         "position": 51,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[trash]: Install 1 card, paying all costs. Use this ability immediately after playing in operation.",
+        "text": "[trash]: Install 1 card, paying all costs. Use this ability immediately after playing an operation.",
         "title": "Bioroid Work Crew",
         "trash_cost": 4,
         "type_code": "asset",
@@ -265,7 +265,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "When the Runner encounters Authenticator, he or she may take 1 tag to bypass it.\n[subroutine] The corp gains 2[credit].\n[subroutine]End the run.",
+        "text": "When the Runner encounters Authenticator, he or she may take 1 tag to bypass it.\n[subroutine] The Corp gains 2[credit].\n[subroutine]End the run.",
         "title": "Authenticator",
         "type_code": "ice",
         "uniqueness": false
@@ -319,7 +319,7 @@
         "position": 58,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Play only if there are at least 3 cards in HQ.\nTrash all cards in HQ. Place a total of 2 advancement tokens on up to two cards that can be advanced.",
+        "text": "Play only if there are at least 3 cards in HQ.\nTrash all cards in HQ. Place a total of 2 advancement tokens on up to 2 cards that can be advanced.",
         "title": "Audacity",
         "type_code": "operation",
         "uniqueness": false
