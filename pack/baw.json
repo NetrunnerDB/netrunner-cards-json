@@ -75,7 +75,7 @@
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 3,
-        "flavor": "\"I don't boher asking why anymore—he never says—but if I had to guess, it's because je's embezzling and using my runs to disguise it. Not that I care. His credit spends as well as the next guy's\" -Moth",
+        "flavor": "\"I don't boher asking why anymore—he never says—but if I had to guess, it's because he's embezzling and using my runs to disguise it. Not that I care. His credit spends as well as the next guy's\" -Moth",
         "illustrator": "Jan-Wah Li",
         "keywords": "Connection",
         "pack_code": "baw",
@@ -119,7 +119,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "Whenever you use Mass-Driver to break all subroutines on a piece of ice during a single encounter, the first 3 subroutines on the next piece of ice you encounter do not resolve.",
+        "text": "Whenever you use Mass-Driver to break all subroutines on a piece of ice during a single encounter, the first 3 subroutines on the next piece of ice you encounter do not resolve.\n2[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.",
         "title": "Mass-Driver",
         "type_code": "program",
         "uniqueness": false
@@ -311,7 +311,7 @@
         "position": 78,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, forfeit an agenda and spend [click][click].\nAdvance a card X times. X equals the advancement requirement of the agence just forfeited.",
+        "text": "As an additional cost to play this operation, forfeit an agenda and spend [click][click].\nAdvance a card X times. X equals the advancement requirement of the agenda just forfeited.",
         "title": "Success",
         "type_code": "operation",
         "uniqueness": false
