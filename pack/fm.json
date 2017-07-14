@@ -32,7 +32,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "When your turn begins, you make take 1 tag to place 2 virus counters on God of War.\n<strong>Hosted virus counter</strong>: Break ice subroutine.\n2[credit]: +1 strength.",
+        "text": "When your turn begins, you may take 1 tag to place 2 virus counters on God of War.\n<strong>Hosted virus counter</strong>: Break ice subroutine.\n2[credit]: +1 strength.",
         "title": "God of War",
         "type_code": "program",
         "uniqueness": false
@@ -354,7 +354,7 @@
         "position": 100,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Install Rover Algorithm on a rezzed piece of ice as a hosted condition counter with the text \"Host ice has +1 strngth for each power counter on Rover Algorithm. Whenever the Runner passes host ice, place 1 power counter on Rover Algorithm.\"",
+        "text": "Install Rover Algorithm on a rezzed piece of ice as a hosted condition counter with the text \"Host ice has +1 strength for each power counter on Rover Algorithm. Whenever the Runner passes host ice, place 1 power counter on Rover Algorithm.\"",
         "title": "Rover Algorithm",
         "type_code": "operation",
         "uniqueness": false
