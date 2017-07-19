@@ -1,67 +1,98 @@
 [
     {
         "code": "03001",
-        "title": null
+        "keywords": "部署",
+        "text": "君の手札の上限は、君のクレジットプールのクレジットの数に等しい。",
+        "title": "Cerebral Imaging: Infinite Frontiers"
     },
     {
         "code": "03002",
-        "title": null
+        "keywords": "部署",
+        "text": "このデッキにはジンテキのカードは入れられない。",
+        "title": "Custom Biotics: Engineered for Success"
     },
     {
         "code": "03003",
-        "title": null
+        "keywords": "部署",
+        "text": "君の最初のターンの前に、1 つのサーバーにつき最大 1 つまで、合計 3 つまでのアイスをインストールしてよい。HQ のカードが 5 枚になるまでカードを引く。",
+        "title": "NEXT Design: Guarding the Net"
     },
     {
         "code": "03004",
-        "title": null
+        "keywords": "構想",
+        "text": "君がハース理事長の最愛プロジェクトを得点した時、新たな遠隔サーバーを、君の HQ やアーカイブからそのサーバー内やそのサーバーを守る状態で最大 3 枚までのカードをすべてのインストールコストを無視してインストールすることで作成してよい。\nデッキのハース理事長の最愛プロジェクトは 1 枚制限。",
+        "title": "Director Haas' Pet Project"
     },
     {
         "code": "03005",
-        "title": null
+        "keywords": "構想",
+        "text": "君が効率委員会を得点した時、その上に計画カウンターを 3 個置く。\n[click], <strong>搭載されている計画カウンター:</strong> [click][click]を得る。このターンの残りの間、君はカードをアドバンスできない。",
+        "title": "Efficiency Committee"
     },
     {
         "code": "03006",
-        "title": null
+        "keywords": "研究",
+        "text": "君がヴォータン計画を得点した時、その上に計画カウンターを 3 個置く。\n<strong>搭載されている計画カウンター:</strong> 現在アプローチされているレゾされている<strong>バイオロイド</strong>のアイスを 1 つ選ぶ。このランの残りの間、そのアイスは、それの他のサブルーチン全体の後に\"[subroutine] ランの終了\" を得る。",
+        "title": "Project Wotan"
     },
     {
         "code": "03007",
-        "title": null
+        "keywords": "保安",
+        "text": "ランナーが 1 点以上のブレインダメージを受けるたび、1 ネットダメージを与える。",
+        "title": "Sentinel Defense Program"
     },
     {
         "code": "03008",
-        "title": null
+        "keywords": "バイオロイド",
+        "text": "君がカードを 1 つインストールするたび、アリックスT4LB07 の上にパワーカウンターを 1 個置く。\n[click],[trash]: アリックス T4LB07 の上のパワーカウンター1 個につき 2[credit]得る。",
+        "title": "Alix T4LB07"
     },
     {
         "code": "03009",
-        "title": null
+        "keywords": "待ち伏せ",
+        "text": "大脳の上書きはアドバンスできる。\nランナーが大脳の上書きにアクセスした時、君が 3[credit]支払った場合、大脳の上書きの上のアドバンストークン 1 個につき 1 ブレインダメージを与える。",
+        "title": "Cerebral Overwriter"
     },
     {
         "code": "03010",
-        "title": null
+        "keywords": "幹部",
+        "text": "君は毎ターン追加で[click]を消費できる。\nハース理事長がアクセス中にトラッシュされた場合、彼女をランナーの得点エリアに、2 計画ポイント分の計画書として置く。\n<errata>Errata from FAQ 3.1</errata>",
+        "title": "Director Haas"
     },
     {
         "code": "03011",
-        "title": null
+        "text": "ハース環境都市 AI は、レゾされていない間のみアドバンスできる。\n[click], <strong>搭載されているアドバンストークン:</strong> [click][click]を得る。この能力は 1 ターンに 1 回のみ使用できる。",
+        "title": "Haas Arcology AI"
     },
     {
         "code": "03012",
-        "title": null
+        "keywords": "幹部",
+        "text": "トーマス・ハースはアドバンスできる。\n[trash]: トーマス・ハースの上のアドバンストークン 1 個につき2[credit]得る。",
+        "title": "Thomas Haas"
     },
     {
         "code": "03013",
-        "title": null
+        "keywords": "条件",
+        "text": "<strong>バイオロイド</strong>のアイスを 1 つ、すべてのコストを無視してレゾし、バイオロイド効率調査を\"1 回のエンカウントでホストのアイスのすべてのサブルーチンがブレイクされた場合、バイオロイド効率調査をトラッシュし、ホストのアイスをデレゾする\"のテキストを持つ、そのアイスに搭載されている条件カウンターとしてインストールする。",
+        "title": "Bioroid Efficiency Research"
     },
     {
         "code": "03014",
-        "title": null
+        "keywords": "取引",
+        "text": "ランナーが直前のターンにランに失敗していた場合にのみプレイする。\n7[credit]得る。",
+        "title": "Successful Demonstration"
     },
     {
         "code": "03015",
-        "title": null
+        "keywords": "Barrier - Bioroid - AP",
+        "text": "ランナーは[click][click]を消費して、ヘイムダル2.0 上のサブルーチンを 2 つまでブレイクできる。\n[subroutine] 1 ブレインダメージを与える。\n[subroutine] 1 ブレインダメージを与え、ランの終了。\n[subroutine] ランの終了。",
+        "title": "Heimdall 2.0"
     },
     {
         "code": "03016",
-        "title": null
+        "keywords": "トラップ",
+        "text": "[subroutine] ハウラーの直後に、HQ かアーカイブにある<strong>バイオロイド</strong>のアイスを 1 つ、すべてのコストを無視してインストールしレゾしてよい。そうした場合、このランの完了後、そのアイスをデレゾし、ハウラーをトラッシュする。",
+        "title": "Howler"
     },
     {
         "code": "03017",
@@ -71,143 +102,206 @@
     },
     {
         "code": "03018",
-        "title": null
+        "keywords": "コードゲート",
+        "text": "[subroutine] 君の HQ のアイスを 1 つ、このサーバーを守っている最外殻のアイスとして、すべてのコストを無視してインストールしてよい。",
+        "title": "Minelayer"
     },
     {
         "code": "03019",
-        "title": null
+        "keywords": "コードゲート-バイオロイド-トレーサー-対人",
+        "text": "ランナーは[click][click]を消費して、ヴィクター2.0 上のサブルーチンを 2 つまでブレイクできる。\n<strong>搭載されているパワーカウンター:</strong> 1ブレインダメージを与える。\n[subroutine] <trace>トレース 2</trace> -成功した場合、ヴィクター2.0 にパワーカウンターを 1 個置く。\n[subroutine] ランの終了。",
+        "title": "Viktor 2.0"
     },
     {
         "code": "03020",
-        "title": null
+        "keywords": "Sentry - Bioroid - AP",
+        "text": "ランナーは[click]を消費して、ゼッド 1.0 上のサブルーチンを 1 つブレイクできる。\n[subroutine] このラン中に、ランナーがサブルーチンをブレイクするのに1[click]以上を消費している場合、1 ブレインダメージを与える。\n[subroutine] このラン中に、ランナーがサブルーチンをブレイクするのに1[click]以上を消費している場合、1 ブレインダメージを与える。",
+        "title": "Zed 1.0"
     },
     {
         "code": "03021",
-        "title": null
+        "text": "覚醒センターは<strong>バイオロイド</strong>のアイスを搭載できる（各アイスはすべてのインストールコストを無視して裏向きに置かれる）。\nランナーがこのサーバーを守っているすべてのアイスを通過するたび、君は覚醒センターの上のアイスを 1 つ、レゾコストを 7[credit]低くしてレゾし、ランナーをそれに強制的にエンカウントさせてよい。そのランが完了した後、 そのアイスをトラッシュする。",
+        "title": "Awakening Center"
     },
     {
         "code": "03022",
-        "title": null
+        "keywords": "敵対",
+        "text": "ランナーがこのサーバーを守っている<strong>バイオロイド</strong>のアイスのサブルーチンをブレイクしようとする場合、テュールの手をレゾしてよい。\n[trash]: このサーバーを守っている<strong>バイオロイド</strong>のアイス1 つのサブルーチン 1 つがブレイクされるのを妨害する。",
+        "title": "Tyr's Hand"
     },
     {
         "code": "03023",
-        "title": null
+        "keywords": "拡張",
+        "text": "[click], [click]: 3[credit]得る。",
+        "title": "Gila Hands Arcology"
     },
     {
         "code": "03024",
-        "title": null
+        "keywords": "豪勢",
+        "text": "[click], 1[credit]: R&D からアイスを 1 枚探し、公開して HQ に加える。R&D をシャッフルする。 ",
+        "title": "Levy University"
     },
     {
         "code": "03025",
-        "title": null
+        "text": "君のターンの開始時に 2[credit]得る。\n君がアイスをインストールした時、サーバー診断をトラッシュする。",
+        "title": "Server Diagnostics"
     },
     {
         "code": "03026",
-        "title": null
+        "keywords": "Barrier",
+        "text": "[subroutine] ランの終了。",
+        "title": "Bastion"
     },
     {
         "code": "03027",
-        "title": null
+        "keywords": "Code Gate",
+        "text": "[subroutine] ランナーは可能なら2[credit]を支払う。ランナーが 2[credit]を支払えない場合、ランの終了。\n[subroutine] ランの終了。",
+        "title": "Datapike"
     },
     {
         "code": "03028",
-        "title": null
+        "keywords": "サイボーグ",
+        "text": "君がエンカウントする最初のアイスは、そのランの終了時まで<strong>コードゲート</strong>を得る。",
+        "title": "Rielle \"Kit\" Peddler: Transhuman"
     },
     {
         "code": "03029",
-        "title": null
+        "keywords": "天才",
+        "text": "このデッキ内の各プログラムの 1 枚目は、君の影響上限に数えない。",
+        "title": "The Professor: Keeper of Knowledge"
     },
     {
         "code": "03030",
-        "title": null
+        "keywords": "天才",
+        "text": "君がヒープからプログラムを 1 つインストールするたび、カードを 1 枚引く。",
+        "title": "Exile: Streethawk"
     },
     {
         "code": "03031",
-        "title": null
+        "keywords": "ラン",
+        "text": "HQ にランを行う。成功した場合、カードにアクセスする代わりに、すべてのサーバーを守っている任意の枚数のアイスを並べ替える（そのアイスをレゾしたりデレゾしたりはしない）。並べ替え後は、各サーバーを並べ替え前と同じ枚数のアイスが守っていなければならない。",
+        "title": "Escher"
     },
     {
         "code": "03032",
-        "title": null
+        "keywords": "ラン",
+        "text": "ランを行う。成功した場合、カードにアクセスする代わりに、攻撃したサーバー内またはそれを守っているカード 1 枚から、アドバンストークンを 3 個まで取り除く。",
+        "title": "Exploratory Romp"
     },
     {
         "code": "03033",
-        "title": null
+        "keywords": "仕事",
+        "text": "君のグリップからプログラムを 5 つまでトラッシュする。トラッシュしたプログラム 1 つにつき2[credit]を得る。",
+        "title": "Freelance Coding Contract"
     },
     {
         "code": "03034",
-        "title": null
+        "text": "このカードをプレイするための追加コストとして、インストールされているプログラムを 1 つトラッシュする。\n君のグリップかヒープからプログラムを 1 つ、そのインストールコストをトラッシュされたプログラムのコスト分減らしてインストールする。\n<errata>Errata from FAQ 4.0</errata>",
+        "title": "Scavenge"
     },
     {
         "code": "03035",
-        "title": null
+        "text": "君のグリップとヒープをスタックに加えてシャッフルする。カードを 5 枚引く。レヴィ AR 研究所へのアクセスをトラッシュする代わりにゲームから取り除く。",
+        "title": "Levy AR Lab Access"
     },
     {
         "code": "03036",
-        "title": null
+        "keywords": "コンソール",
+        "text": "+3[mu]\n君がモノリスをインストールした時、君のグリップから最大 3 つまでのプログラムを、それぞれのインストールコストを 4[credit]減らしてインストールする。\n<strong>君のグリップのプログラムを 1 つトラッシュする:</strong> 1 ブレインダメージか 1 ネットダメージを妨害する。\n各プレイヤーの<strong>コンソール</strong>は 1 つまで。.",
+        "title": "Monolith"
     },
     {
         "code": "03037",
-        "title": null
+        "keywords": "装具",
+        "text": "3[credit]: 1 ネットダメージを妨害する。\n[trash]: 2 ブレインダメージまで妨害する。",
+        "title": "Feedback Filter"
     },
     {
         "code": "03038",
-        "title": null
+        "keywords": "チップ",
+        "text": "[trash]: 君のヒープからプログラムを 1 つインストールする（インストールコストは支払う）。",
+        "title": "Clone Chip"
     },
     {
         "code": "03039",
-        "title": null
+        "keywords": "装具",
+        "text": "オムニ＝ドライブは1[mu]以下のプログラムを搭載することができる。搭載されているプログラムのメモリーコストは、君のメモリーの制限に数えない。\n1[recurring-credit]\nこのクレジットは搭載されているプログラムを使用するための支払いに使用する。",
+        "title": "Omni-drive"
     },
     {
         "code": "03040",
-        "title": null
+        "keywords": "アイスブレイカー-AI",
+        "text": "君がアートマンをインストールした時、X[credit]を支払って、アートマンの上にパワーカウンターを X 個置いてよい。\nアートマンはその上のパワーカウンター1 個につき強度+1。\n1[credit]: 強度がアートマンの強度に等しいアイスのサブルーチンを 1 つブレイクする。",
+        "title": "Atman"
     },
     {
         "code": "03041",
-        "title": null
+        "keywords": "ステルス",
+        "text": "1[recurring-credit]\nこのクレジットは、<strong>アイスブレイカー</strong>を使用するための支払いに使用する。",
+        "title": "Cloak"
     },
     {
         "code": "03042",
-        "title": null
+        "keywords": "アイスブレイカー-キラー",
+        "text": "1[credit]: <strong>セントリー</strong>のサブルーチンを 1 つブレイクする。\n1[credit]: 強度+5。この能力は、<strong>ステルス</strong> のカードからのクレジットを消費してのみ使用できる。",
+        "title": "Dagger"
     },
     {
         "code": "03043",
-        "title": null
+        "keywords": "ウィルス",
+        "text": "R&D へのランに成功するたび、チャカナの上にウィルスカウンターを 1 個置く。\nチャカナの上にウィルスカウンターが 3 個以上ある場合、すべての計画書のアドバンス要求は 1 増える。",
+        "title": "Chakana"
     },
     {
         "code": "03044",
-        "title": null
+        "keywords": "アイスブレイカー-デコーダー",
+        "text": "1[credit]: <strong>コードゲート</strong>のサブルーチンを 1 つブレイクする。\n1[credit]: 強度+1。\n君がサイバー＝サイファーをインストールした時、サーバーを 1 つ選ぶ。サイバー＝サイファーは、選ばれたサーバーへのラン中にのみ使用できる。",
+        "title": "Cyber-Cypher"
     },
     {
         "code": "03045",
-        "title": null
+        "text": "2[recurring-credit]\nこのクレジットは資財をトラッシュするために使用する。",
+        "title": "Paricia"
     },
     {
         "code": "03046",
-        "title": null
+        "text": "2[credit], [trash]: 君のスタックからプログラムを 1 つ, 探してインストールする（インストールコストは支払う）。君のデッキをシャッフルする。",
+        "title": "Self-modifying Code"
     },
     {
         "code": "03047",
-        "title": null
+        "text": "2[recurring-credit]\nこのクレジットはプログラムをインストールするために使用する（サハスラーラをトラッシュするプログラムのインストールには使用できない）。",
+        "title": "Sahasrara"
     },
     {
         "code": "03048",
-        "title": null
+        "keywords": "アイスブレイカー-フラクター",
+        "text": "1[credit]: <strong>バリア</strong>のサブルーチンを 1 つブレイクする。\n2[credit]: このランの残りの間、強度+1。",
+        "title": "Inti"
     },
     {
         "code": "03049",
-        "title": null
+        "keywords": "コネ",
+        "text": "[click]: 1[credit]得てカードを 1 枚引く。",
+        "title": "Professional Contacts"
     },
     {
         "code": "03050",
-        "title": null
+        "keywords": "リンク",
+        "text": "+1[link]\n君の手札の上限は 1 増える。",
+        "title": "Borrowed Satellite"
     },
     {
         "code": "03051",
-        "title": null
+        "keywords": "仮想",
+        "text": "コーポがアイスを 1 つレゾするたび、アイス分析機の上に1[credit] を置く。\nアイス分析機の上のクレジットをプログラムのインストールに使ってよい。",
+        "title": "Ice Analyzer"
     },
     {
         "code": "03052",
-        "title": null
+        "keywords": "ラン",
+        "text": "ランを行う。このランの完了後、それが成功していた場合、5[credit] を得る。",
+        "title": "Dirty Laundry"
     },
     {
         "code": "03053",
@@ -221,6 +315,8 @@
     },
     {
         "code": "03055",
-        "title": null
+        "keywords": "コネ",
+        "text": "すべての計画書のアドバンス要求は 1 増える。\n計画書を盗むための追加コストとして、ランナーは 3 [credit]を支払わなければならない。\nTrash 計画書が盗まれるか得点された時、ザ・ソースをトラッシュする。",
+        "title": "The Source"
     }
 ]
