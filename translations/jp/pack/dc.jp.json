@@ -1,125 +1,142 @@
 [
     {
         "code": "12001",
-        "flavor": "\"Hitting them when they are weakest sometimes means acting before you want to.\" -Alice Merchant",
-        "keywords": "Run",
-        "text": "Make a run. If you have 2 or fewer cards in your grip, each installed <strong>icebreaker</strong> has +2 strength until the end of the run.",
-        "title": "Pushing the Envelope"
+        "flavor": "「弱点を見せている時に叩くことは、ときには考えるよりも先に動くのを意味するのよ」―― アリス・マーチャント",
+        "keywords": "ラン",
+        "text": "ランを行う。グリップのカードが2枚以下の場合、このランの終了時まで、インストール状態の<strong>各アイスブレイカー</strong>は強度+2。",
+        "title": "限界への挑戦"
     },
     {
         "code": "12002",
-        "keywords": "Console",
-        "text": "+2[mu]\nThe first time each turn you access a card not in Archives and do not steal or trash it, the Corp must trash 1 card from HQ at random.\nLimit 1 <strong>console</strong> per player.",
-        "title": "Maw"
+        "flavor": "アーキヴィストはすべてのクランとそのメンバー、そしてクランが様々な企業と行っている公式な取引を追跡している。彼は半分が法務書記、もう半分が歴史家として、誰もやりたがらない、だが無くては困る仕事にとてつもない労力を割いている。",
+        "keywords": "コンソール",
+        "text": "+2[mu]\n各ターン、君が最初にアーカイブ以外のカードにアクセスしてそれを盗みもトラッシュもしなかった時、コーポはHQのカードを1枚ランダムにトラッシュする。\n各プレイヤーの<strong>コンソール</strong>は1つまで。",
+        "title": "モウ"
     },
     {
         "code": "12003",
-        "flavor": "The Archivist tracks all the clans and their members, and official dealings clans have with the various corps. Half law clerk and half historian, he wields a tremendous amount of power doing a job no one else wants, but none can do without.",
-        "keywords": "Connection",
-        "text": "+1[link]\nWhenever the Corp scores an <strong>initiative</strong> or <strong>security</strong> agenda, force the Corp to \"<trace>Trace 1</trace> if unsuccessful, take 1 bad publicity.\"",
-        "title": "The Archivist"
+        "flavor": "",
+        "keywords": "コネ",
+        "text": "+1[link]\nコーポが構想か保安の計画書を得点するたび、コーポは「<trace>トレース 1</trace> - 失敗した場合、悪名を1つ受ける。」を実行する。",
+        "title": "アーキヴィスト"
     },
     {
         "code": "12004",
-        "flavor": "1) Find the weakness.\n2) Exploit the weakness.\n3) Repeat.",
-        "text": "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nDerez up to 3 pieces of ice.",
-        "title": "Exploit"
+        "flavor": "1） 弱点を見つけろ。\n2） 弱点を突破しろ。\n3） 繰り返せ。",
+        "keywords": "",
+        "text": "君がこのターンに、R&DとHQとアーカイブへのランに成功した場合にのみプレイする。\nアイスを3つまでデレゾする。",
+        "title": "弱点突破"
     },
     {
         "code": "12005",
-        "flavor": "\"So, yeah, I just reverse engineered a tracer, and then built it back up with some new lines of code. Pretty stellar.\" -Los",
-        "text": "Expose 1 non-ice card, then make a run.",
-        "title": "Spot the Prey"
+        "flavor": "「だから、そうだな、自分はトレーサーをリバースエンジニアリングして、そこの新しいコードをちょっと足してこいつを作ったんだ。素晴らしいだろう」―― ロス",
+        "keywords": "",
+        "text": "アイスでないカードを1枚開示し、その後ランを行う。",
+        "title": "獲物の発見"
     },
     {
         "code": "12006",
-        "flavor": "\"You created a distributed AI replica of yourself and projected it into the network to run for you!?\"",
-        "keywords": "Virtual",
-        "text": "[trash]: Prevent all but 1 net damage.",
-        "title": "Bio-Modeled Network"
+        "flavor": "「分散型の自分自身のAIレプリカを作ってネットワークに投入して、自分のためのランをさせるようにしたってこと！？」",
+        "keywords": "仮想",
+        "text": "[trash]: ネットダメージを1点残して他をすべて妨害する。",
+        "title": "バイオモデル・ネットワーク"
     },
     {
         "code": "12007",
-        "flavor": "\"To beat cautious sysops, you've got to get creative. Commandeering Network systems is like using their own strengths against them.\" -Kabonesa Wu",
-        "keywords": "Virtual",
-        "text": "The install cost of each piece of ice that is not installed in the innermost position is increased by 1.",
-        "title": "Network Exchange"
+        "flavor": "「用心深いシスオペを出し抜くには、クリエイティブでなくちゃ。ネットワークのシステムを乗っ取るのは、奴ら自身の強みをそのまま使うようなものね」―― カボネサ・ウー",
+        "keywords": "仮想",
+        "text": "最内殻以外にインストールされる各アイスのインストールコストは1増える。",
+        "title": "ネットワーク交換"
     },
     {
         "code": "12008",
-        "keywords": "Run",
-        "text": "Make a run. When this run ends, add Mad Dash to your score area as an agenda worth 1 agenda point if you stole at least 1 agenda during the run; otherwise, suffer 1 meat damage.",
-        "title": "Mad Dash"
+        "flavor": "",
+        "keywords": "ラン",
+        "text": "ランを行う。このランの終了時、君がこのランで計画書を1枚以上盗んでいた場合、猛突進をを1計画ポイント分の計画書として君の得点エリアに加える。そうでない場合、1ミートダメージを受ける。",
+        "title": "猛突進"
     },
     {
         "code": "12009",
-        "flavor": "\"The newest electronic-warfare rollout from NEXT Design has us sysops drooling.\" -Mason Bellamy",
-        "keywords": "NEXT",
-        "text": "If there is a rezzed piece of <strong>NEXT</strong> ice when you score NEXT Wave 2, you may do 1 brain damage.",
-        "title": "NEXT Wave 2"
+        "flavor": "「ネクスト・デザインから展開されている最新の電子戦争は、シスオペにとってはよだれものだ」――メイソン・ベラミー",
+        "keywords": "ネクスト",
+        "text": "君がネクスト・ウェーブ2を得点した時、レゾ状態の<strong>ネクスト</strong>のアイスがある場合、1ブレインダメージを与えてよい。",
+        "title": "ネクスト・ウェーブ2"
     },
     {
         "code": "12010",
-        "flavor": "\"Dismantle. Dissect. Is there really a difference?\"",
-        "keywords": "Sentry - Bioroid - AP - Destroyer",
-        "text": "The Runner can spend [click][click] to break up to 2 subroutines on Zed 2.0.\n[subroutine] Trash 1 hardware.\n[subroutine] Trash 1 hardware.\n[subroutine] If the Runner has spent at least 1 [click] to break a subroutine during this run, do 2 brain damage.",
-        "title": "Zed 2.0"
+        "flavor": "「分解。解剖。そこに真の違いはあるのか？」",
+        "keywords": "セントリー - バイオロイド - 対人 - デストロイヤー",
+        "text": "ランナーは[click][click]を消費することで、ゼッド2.0上のサブルーチンを2つまでブレイクできる。\n[subroutine] ハードウェアを1つトラッシュする。\n[subroutine] ハードウェアを1つトラッシュする。\n[subroutine] このラン中に、ランナーがサブルーチンをブレイクするのに1[click]以上を消費している場合、2ブレインダメージを与える。",
+        "title": "ゼッド2.0"
     },
     {
         "code": "12011",
-        "text": "Defense Construct can be advanced.\n[trash]: Add 1 facedown card from Archive to HQ for each advancement token on Defense Construct. Use this ability only during a run on Archives.",
-        "title": "Defense Construct"
+        "flavor": "",
+        "keywords": "コードゲート - デフレクター",
+        "text": "防御構成はアドバンスできる。\n[trash]: 防御構成の上のアドバンストークン1個につき、アーカイブの裏向きカードを1枚HQに加える。この能力は、アーカイブへのラン中にのみ使用する。",
+        "title": "防御構成"
     },
     {
         "code": "12012",
-        "text": "The first time a subroutine on a piece of <strong>AP</strong> ice is broken each turn, do 1 net damage.",
-        "title": "Synth DNA Modification"
+        "flavor": "",
+        "keywords": "",
+        "text": "各ターン、最初に<strong>対人</strong>のアイスのサブルーチンがブレイクされた時、1ネットダメージを与える。",
+        "title": "人工DNA改造"
     },
     {
         "code": "12013",
-        "flavor": "\"The ultimate aim of martial arts is not having to use them.\" - Miyamoto Musashi",
-        "keywords": "Barrier - AP",
-        "text": "When the Runner passes Kakugo, do 1 net damage.\n[subroutine] End the run.",
-        "title": "Kakugo"
+        "flavor": "「武道の極みとは、それを用いずともよく為べき事也」―― 宮本武蔵",
+        "keywords": "バリア - 対人",
+        "text": "ランナーがカクゴを通過した時、1ネットダメージを与える。\n[subroutine] ランの終了。",
+        "title": "カクゴ"
     },
     {
         "code": "12014",
-        "text": "Whenever the Runner avoids or removes 1 or more tags, you may draw 1 card.",
-        "title": "Net Analytics"
+        "flavor": "",
+        "keywords": "",
+        "text": "ランナーが1つ以上のタグを回避するか取り除くたび、カードを1枚引いてよい。",
+        "title": "ネット分析論"
     },
     {
         "code": "12015",
-        "flavor": "\"'What does BRE stand for?' Have you seen its Net presence?\" -Bernice Mai",
-        "keywords": "Sentry - Tracer",
-        "text": "[subroutine]<trace>Trace 4</trace> If successful, give the Runner 1 tag.\n[subroutine]<trace>Trace 2</trace> If successful, the Runner accesses 1 fewer cards whenever he or she accesses cards.",
-        "title": "SYNC BRE"
+        "flavor": "「『BRE』って何の略なのかしら？ネット上で見たことある？」―― バーニス・マイ",
+        "keywords": "セントリー - トレーサー",
+        "text": "[subroutine] <trace>トレース 4</trace> - 成功した場合、ランナーにタグを1つ与える。\n[subroutine] <trace>トレース 2</trace>  - 成功した場合、このランの間、ランナーがカードをアクセスするたび、アクセスするカードの枚数は1枚少なくなる。",
+        "title": "SYNC-BRE"
     },
     {
         "code": "12016",
-        "keywords": "Corporation",
-        "text": "Whenever you forfeit an agenda, place 1 advancement token on a card and 1 additional token for each agenda point the agenda was worth.",
-        "title": "Jemison Astronautics: Sacrifice. Audacity. Success."
+        "flavor": "",
+        "keywords": "企業",
+        "text": "君が計画書を1枚放棄するたび、カード1枚の上にアドバンストークンを1個と、追加でその計画書の計画ポイント1点につき1個を置く。",
+        "title": "ジェミソン宇宙飛行"
     },
     {
         "code": "12017",
-        "text": "<strong>Forfeit an agenda</strong>: Rez up to 3 pieces of ice, lowering the cost of each by 2[credit] for each printed agenda point on the forfeited agenda.",
-        "title": "Quarantine System"
+        "flavor": "",
+        "keywords": "",
+        "text": "<strong>計画書を1つ放棄する</strong>: アイスを3つまで、そのそれぞれのコストを、その放棄した計画書の表記計画ポイント1点につき2[credit]減らしてレゾする。",
+        "title": "検疫システム"
     },
     {
         "code": "12018",
-        "text": "As an additional cost to rez Oberth Protocol, forfeit an agenda.\nThe first time you advance a card in or protecting this server each turn, place an additional advancement token on it.",
-        "title": "Oberth Protocol"
+        "flavor": "生存と繁栄の違いは、繁栄とは成功したテラフォーミングであるということだ。",
+        "keywords": "",
+        "text": "オーベルト・プロトコルをレゾするための追加コストとして、計画書を1つ放棄する。\n各ターン、このサーバーの中かそれを守っているカードを最初にアドバンスした時、その上に追加でアドバンストークンを1個置く。",
+        "title": "オーベルト・プロトコル"
     },
     {
         "code": "12019",
-        "flavor": "Senate staffers and clerks of the MCA can be seen thronging Khondi Plaza during break times.",
-        "keywords": "Ritzy",
-        "text": "X[recurring-credit]\nUse these credits to rez ice protecting this server. X is the number of remote servers.",
-        "title": "Khondi Plaza"
+        "flavor": "休み時間中は、議会職員や企業省の事務員が大量にコンディ・プラザにいるのが見受けられる。",
+        "keywords": "豪勢",
+        "text": "X[recurring-credit]\nこのクレジットは、このサーバーを守っているアイスをレゾするために使用する。Xは遠隔サーバーの数に等しい。",
+        "title": "コンディ・プラザ"
     },
     {
         "code": "12020",
-        "text": "[trash]: Cards cannot be installed until the end of the run. Use this abiliy only during a run on this server.",
-        "title": "Signal Jamming"
+        "flavor": "",
+        "keywords": "",
+        "text": "[trash]: このランの終了まで、カードはインストールできない。この能力はこのサーバーへのラン中にのみ使用する。",
+        "title": "シグナル妨害"
     }
 ]
