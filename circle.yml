@@ -10,3 +10,9 @@ dependencies:
 test:
   override:
     - python ./validate.py
+
+deployment:
+  production:
+    branch: production
+    commands:
+      - ./deploy_prod.sh
