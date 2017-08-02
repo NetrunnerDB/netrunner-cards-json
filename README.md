@@ -1,4 +1,4 @@
-Netrunner cards JSON data [![Build status](https://circleci.com/gh/zaroth/netrunner-cards-json/tree/master.svg?style=shield)](https://circleci.com/gh/zaroth/netrunner-cards-json)
+Netrunner cards JSON data [![Build status](https://circleci.com/gh/Alsciende/netrunner-cards-json/tree/master.svg?style=shield)](https://circleci.com/gh/zaroth/netrunner-cards-json)
 =========
 
 The goal of this repository is to store [NetrunnerDB](http://netrunnerdb.com) card data in a format that can be easily updated by multiple people and their changes reviewed.
