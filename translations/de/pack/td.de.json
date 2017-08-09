@@ -67,17 +67,29 @@
     },
     {
         "code": "13028",
-        "flavor": "Interweaving the Past and the Future.",
-        "keywords": "Division",
-        "text": "The first time each turn the Runner loses or spends [click] during a run, you may add 1 card from Archives to the top of R&D.",
-        "title": "Seidr Laboratories: Destiny Defined"
+        "flavor": "Die vergangenheit und die Zukunft verflechten.",
+        "keywords": "Abteilung",
+        "text": "Immer wenn der Runner zum ersten Mal während eines Runs [click] verliert oder ausgibt, darfst du 1 Karte aus dem Archiv oben auf F&E legen.",
+        "title": "Seidr Laboratories: Vorbestimmtes Schicksal"
     },
     {
         "code": "13029",
-        "flavor": "The black level clearance sub-sub-basement of Haas-Bioroid is a magical place.",
-        "keywords": "Security",
-        "text": "When you score Brain Rewiring, you may pay X[credit] to force the Runner to add X cards from his or her grip to the bottom of his or her stack at random then draw 1 card.",
-        "title": "Brain Rewiring"
+        "flavor": "Das unter Sicherheitsfreigabe Schwarz fallende Unter-Untergeschoss von Haas-Bioroid ist ein magischer Ort.",
+        "keywords": "Sicherheit",
+        "text": "Sobald du die Punkte für Hirnneuverdrahtung erzielst, darfst du X[credit] zahlen, um den Runner zu zwingen, X zufällige Karten aus seinem Griff unter seinen Stapel zu legen und danach 1 Karte zu ziehen.",
+        "title": "Hirnneuverdrahtung"
+    },
+    {
+        "code": "13030",
+        "keywords": "Initiative",
+        "text": "Lege 2 Agendazähler auf Freiwilliges Upgrade, sobald du die Punkte dafür erzielst.\n[click], <strong>gehosteter Agendazähler</strong>: Du erhälst [click][click]. Verwende diese Fähigkeit nur ein Mal pro Zug.",
+        "title": "Freiwilliges Upgrade"
+    },
+    {
+        "code": "13031",
+        "keywords": "Forschung",
+        "text": "Sobald du die Punkte für Erfolgreicher Feldversuch erzielst, installiere eine beliebige Anzahl Karten aus dem HQ, ohne die Kosten dafür zu bezahlen.",
+        "title": "Erfolgreicher Feldversuch"
     },
     {
         "code": "13032",
@@ -86,48 +98,158 @@
         "title": "Estelle Moon"
     },
     {
+        "code": "13033",
+        "keywords": "Werbung",
+        "text": "Lege 8[credit] auf Marilyn-Kampagne, sobald sie geladen wird. Sobald keine Credits mehr auf Marilyn-Kampagne sind, zerstöre sie.\nNimm 2[credit] von Marilyn-Kampagne, wenn dein Zug beginnt.\nFalls Marilyn-Kampagne zerstört wird, während sie installiert ist, darfst du sie in F&E mischen anstatt sie dem Archiv hinzuzufügen.",
+        "title": "Marilyn-Kampagne"
+    },
+    {
+        "code": "13034",
+        "flavor": "\"Ein neues Spiel bedeutet auch neue Regeln...\"",
+        "keywords": "Barriere - Bioroid",
+        "text": "Der Runner kann [click] [click] ausgeben, um bis zu 2 Subroutinen auf Eli 2.0 auszuschalten.\n[subroutine] Der Kon darf 1 Karte ziehen.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
+        "title": "Eli 2.0"
+    },
+    {
+        "code": "13035",
+        "flavor": "\"Es ist strenggenommen nicht illegal, einen Befragungssimulator als Blaupause für ein Ice zu verwenden.\" - Mason Bellamy",
+        "keywords": "Code-Zugang - AP - Spürhund",
+        "text": "[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verursache 1 Hirn-Schaden.",
+        "title": "Exekutive Funktionen"
+    },
+    {
+        "code": "13036",
+        "keywords": "Wächter - Spürhund - Zerstörer",
+        "text": "[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg kann der Runner während dieses Runs nicht auf Karten zugreifen.\n[subroutine] Zerstöre 1 <strong>Ice-Brecher</strong>.",
+        "title": "Holmegaard"
+    },
+    {
+        "code": "13037",
+        "flavor": "\"Das Gewebe war hypnotisierend .. schien aber nicht wirklich etwas zu tun, um mich abzuhalten. Aber irgendwie fand ich dann auch nichts Interessantes.\" - Reaver",
+        "keywords": "Code-Zugang",
+        "text": "[subroutine] Der Runner verliert [click], falls möglich.\n[subroutine] Der Kon darf 1 Karte ziehen.\n[subroutine] Der Kon darf 1 Karte vom HQ oben auf F&E legen.",
+        "title": "Wandteppich"
+    },
+    {
+        "code": "13038",
+        "text": "",
+        "title": ""
+    },
+    {
         "code": "13039",
-        "flavor": "Even knowing this floor existed was cause for termination...",
-        "keywords": "Security Protocol",
-        "text": "Whenever ther is a successful run on this server, the Runner must either take 1 brain damage or jack out. If the Runner jacks out, gain 5[credit], draw 1 card, and trash Black Level Clearance.",
-        "title": "Black Level Clearance"
+        "flavor": "Allein das Wissen um die Existenz dieses Stockers reicht aus, um ausgeknipst zu werden.",
+        "keywords": "Sicherheitsprotokoll",
+        "text": "Immer wenn ein Run auf dieses System erfolgreich ist, erhält der Runner entweder 1 Kirn-schaden oder stöpselt sich aus. Falls der Runner sich ausstöpselt, erhälst du 5[credit], ziehst 1 Karte und zerstörst Sicherheitsfreigabe Schwarz.",
+        "title": "Sicherheitsfreigabe Schwarz"
+    },
+    {
+        "code": "13040",
+        "flavor": "\"Man sagt, er ist ein ehemaliger Runner. Ich hab keine Ahnung, ob das stimmt, aber er ist bis zu den Zähnen verchromt und scheint alle Runnertricks zu kennen.\"",
+        "keywords": "Sysop",
+        "text": "Immer wenn eine Begegnung mit einem Ice, das dieses System schützt, endet, in welcher der Runner mindestens eine Subroutine ausgeschaltet hat, verliert er falls möglich [click].",
+        "title": "Mason Bellamy"
     },
     {
         "code": "13041",
-        "flavor": "Might makes right",
-        "keywords": "Subsidiary",
-        "text": "Whenever a Runner card is trashed (from any location), you may force the Runner to remove it from the game instead of adding it to the heap. Use this ability only once per turn.",
-        "title": "Skorpios Defense Systems: Persuasive Power"
+        "flavor": "Macht vor Recht.",
+        "keywords": "Tochterunternehmen",
+        "text": "Immer wenn eine Runnerkarte zerstört wird (egal aus welchem Bereich), darfst du den Runner zwingen, sie aus dem Spiel zu entfernen, statt sie seiner Ablage hinzuzufügen. Verwende diese Fähigkeit nur ein Mal pro Zug.",
+        "title": "Skorpios Defense Systems: Überzeugungskraft"
+    },
+    {
+        "code": "13042",
+        "keywords": "Sicherheit",
+        "text": "Lege 1 Agendazähler auf Gehärtete Systeme, sobald du die Punkte dafür erzielst.\n<strong>Gehosteter Agendazähler:</strong> Für den Rest des Runs muss der Runner jedes Mal eine Karte aus seinem Griff als zusätzliche Kosten zerstören, um sich auszustöpseln oder eine Subroutine auszuschalten. Verwende diese Fähigkeit nur während eines Runs.",
+        "title": "Gehärtete Systeme"
+    },
+    {
+        "code": "13043",
+        "flavor": "\"Alles, an alle ... wenn der Preis stimmt.\"",
+        "keywords": "Erweiterung",
+        "text": "Sobald du Punkte für Illegale Verkäufe erzielst, kannst du 1 Negative Publicity erhalten. Du erhälst 3[credit] für jeden Punkt Negative Publicity, den du hast.",
+        "title": "Illegale Verkäufe"
+    },
+    {
+        "code": "13044",
+        "text": "Sobald du die Punkte für Bestechungsgeld erzielst, darfst du dein Deck nach bis zu 3 Karten durchsuchen, diese aufdecken und dem HQ hinzufügen. Mische F&E.",
+        "title": "Bestechungsgeld"
+    },
+    {
+        "code": "13045",
+        "keywords": "Anlage - Illegal",
+        "text": "Falls der Runner Illegale Waffenfabrik zerstört, während sie installiert ist, erhälst du 1 Negative Publicity.\nWenn dein Zug beginnt, erhälst du 1[credit] und 1 Karte.",
+        "title": "Illegale Waffenfabrik"
     },
     {
         "code": "13046",
-        "flavor": "\"VP of Retirements and Pensions? So is that HR or Accounting?\"\n\"Both.\"",
-        "keywords": "Executive",
-        "text": "Whevever the runner takes 1 or more tags, do 1 meat damage.",
+        "flavor": "\"VP der Abteilung für Ruhestand oder Altersbezüge? Fällt das jetzt unter Personalabteilung oder Buchhaltung\"\n\"Sowohl als auch.\"",
+        "keywords": "Führungskraft",
+        "text": "Immer wenn der Runner 1 oder mehr Markierungen verpasst bekommt, verursache 1 Körper-Schaden.",
         "title": "Mr. Stone"
     },
     {
+        "code": "13047",
+        "keywords": "Wächter - Zerstörer",
+        "text": "\n[subroutine] Der Runner muss entweder 1 Programm oder die obersten 2 Karten seines Stapels zerstören.",
+        "title": "Aderlasser"
+    },
+    {
         "code": "13048",
-        "keywords": "Sentry - Destroyer",
-        "text": "Colossus can be advanced and has +1 strength for each advancement token on it.\nIf Colossus has 3 or more advancement tokens on it, resolve the parenthetical text instead (otherwise, do not resolve it).\n[subroutine] Give the Runner 1 tag. (Give the Runner 2 tags.)\n[subroutine] Trash 1 program. (Trash 1 program and 1 resource.)",
-        "title": "Colossus"
+        "keywords": "Wächter - Zerstörer",
+        "text": "Koloss kann entwickelt werden und hat +1 Stärke für jeden Entwicklungsmarker darauf.\nFalls sich 3 oder mehr Entwicklungsmarker auf Koloss befinden, verwende stattdessen den Text in Klammern aus (führe ihn ansonsten nicht aus).\n[subroutine] Verpasse dem Runner 1 Markierung. (Verpasse dem Runner 2 Markierungen.)\n[subroutine] Zerstöre 1 Programm. (Zerstöre 1 Programm und 1 Resource.)",
+        "title": "Koloss"
+    },
+    {
+        "code": "13049",
+        "keywords": "Barriere",
+        "text": "[subroutine] Entferne eine Karte in der Ablage aus dem Spiel.\n[subroutine] Beende den Run.",
+        "title": "Hagelsturm"
+    },
+    {
+        "code": "13050",
+        "keywords": "Code-Zugang",
+        "text": "Hortum kann entwickelt werden.\nFalls sich 3 oder mehr Entwicklungsmarker auf Hortum befinden, können seine Subroutinen nicht von <strong>KI</strong>-Programmen ausgeschaltet werden und verwende stattdessen den Text in Klammern aus (führe ihn ansonsten nicht aus).\n[subroutine] Der Kon erhält 1[credit]. (Der Kon erhält 4[credit].)\n[subroutine] Beende den Run. (Durchsuche F&E nach bis zu 2 Karten und füge sie dem HQ hinzu. Mische F&E. Beende den Run.)",
+        "title": "Hortum"
     },
     {
         "code": "13051",
-        "keywords": "Double - Gray Ops",
-        "text": "As an additional cost to play this operation, spend [click].\nPlay only if the Runner stole an agenda during his or her last turn.\nTrash 1 card.",
-        "title": "Hunter Seeker"
+        "keywords": "Verdoppeln - Graue Ops",
+        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nKann nur gespielt werden, falls der Runner in seinem letzten Zug eine Agenda gestohlen hat.\nZerstöre 1 Karte.",
+        "title": "Jäger-Sucher"
+    },
+    {
+        "code": "13052",
+        "keywords": "Führungskraft",
+        "text": "Immer wenn der Runner an allem Ice, das dieses System schützt, vorbeikommt, bekommt er entweder 1 Markeriung verpasst oder er muss den Run beenden.",
+        "title": "K. P. Lynn"
     },
     {
         "code": "13053",
-        "keywords": "Security",
-        "text": "When you score Paper Trail, <trace>Trace 6</trace> If successful, trash all <strong>connection</strong> and <strong>job</strong> resources.",
-        "title": "Paper Trail"
+        "keywords": "Sicherheit",
+        "text": "Sobald du die Punkte für Belastende Unterlagen erzielst, <trace>Aufspüren 6</trace> Bei Erfolg zersöre alle <strong>Kontakt</strong>- und <strong>Jon</strong>-Ressourcen.",
+        "title": "Belastende Unterlagen"
     },
     {
         "code": "13054",
-        "keywords": "Ambush",
-        "text": "If Honeyfarm is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Honeyfarm, he or she loses 1[credit].",
-        "title": "Honeyfarm"
+        "keywords": "Hinterhalt",
+        "text": "Falls von F&E auf Honigfarm zugegriffen wird, muss der Runner sie aufdecken.\nSobald der Runner auf Honigfarm zugreift, verliert er 1[credit].",
+        "title": "Honigfarm"
+    },
+    {
+        "code": "13055",
+        "text": "Wenn dein Zug beginnt, lege 2[credit] auf Langfristige Investitionen.\nFalls sich mindestens 8[credit] auf Langfristige Investitionen befinden, erhält sie \"[click]: Nimm eine beliebige Anzahl Credits von Langfristige Investitionen.\".",
+        "title": "Langfristige Investitionen"
+    },
+    {
+        "code": "13056",
+        "keywords": "Code-Zugang",
+        "text": "[subroutine] Der Runner verliert [click], falls möglich.\n[subroutine] Der Runner zerstört 1 Karte aus seinem Griff.",
+        "title": "Wehr"
+    },
+    {
+        "code": "13057",
+        "keywords": "Final - Transaktion",
+        "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nDu erhälst 13[credit].",
+        "title": "Börsengang"
     }
 ]
