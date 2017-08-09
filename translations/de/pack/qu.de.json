@@ -1,129 +1,129 @@
 [
     {
         "code": "11101",
-        "keywords": "Console",
-        "text": "+2[mu]\nOnce per turn, when you encounter a piece of ice, you may reduce your maximum hand size by 1 until the beginning of your next turn. If you do, the strength of that ice is lowered to 0 for the remainder of the encounter.\nLimit 1 <strong>console</strong> per player.",
+        "keywords": "Konsole",
+        "text": "+2[mu]\nEin Mal pro Zug, wenn du auf ein Ice triffst, kannst du dein Handkartenlimit bis zum Beginn deines nächsten Zuges um 1 senken. Falls du das tust, wird die Stärke des Ice für den Rest der Begegnung auf 0 gesenkt.\nNur 1 <strong>Konsole</strong> pro Spieler.",
         "title": "Şifr"
     },
     {
         "code": "11102",
-        "flavor": "Open yourself to the universe.",
-        "keywords": "Icebreaker - Killer",
-        "text": "When an encounter in which you used Sūnya to break all subroutines on that piece of ice ends, place 1 power counter on Sūnya.\nSūnya has +1 strength for each power counter on it.\n2[credit]: Break <strong>sentry</strong> subroutine.",
+        "flavor": "Öffne dich dem Universum.",
+        "keywords": "Ice-Breaker - Killer",
+        "text": "Wenn eine Begegnung endet, in dem du Sūnya verwendet hast, um alle Subroutinen auf diesem Ice auszuschalten, lege 1 Wirkungszähler auf Sūnya.\nSūnya hat +1 Stärke für jeden Wirkungszähler darauf.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.",
         "title": "Sūnya"
     },
     {
         "code": "11103",
-        "flavor": "\"A little birdie told me...\" -Khan",
-        "text": "X[credit],[trash]: Prevent X damage from a card currently being accessed.",
-        "title": "Recon Drone"
+        "flavor": "\"Ein kleines Vögelchen hat mir gezwitschert, dass...\" -Khan",
+        "text": "X[credit],[trash]: Verhindere X Schaden durch eine Karte, auf die gerade zugegriffen wird.",
+        "title": "Aufklärungsdrohne"
     },
     {
         "code": "11104",
         "keywords": "Virus",
-        "text": "Install only if you made a successful run on a central server this turn.\nWhen your turn begins, gain 1[credit] for every 5[credit] in the Corp's credit pool.\nTrash Tapwrm if the Corp purges virus counters.",
+        "text": "Kann nur installiert werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nWenn dein Zug beginnt erhälst du 1[credit] pro 5[credit] im Credit-Vorrat des Kons.\nZerstöre Tapwrm, falls der Kon Viruszähler löscht.",
         "title": "Tapwrm"
     },
     {
         "code": "11105",
-        "flavor": "\"Everything leaves a ripple in cyberspace. If you can find the ripples, nothing can hide.\" -Khan",
-        "text": "When your turn begins, choose a server.\n[click],2[credit]: Make a run on the chosen server. Prevent the first subroutine that would resolve this run from resolving.",
+        "flavor": "\"Alles schlägt Wellen im Cyberspace. Wenn du die Wellen finden kannst, kann sich nichts verstecken.\" -Khan",
+        "text": "Wenn dein Zug beginnt, wähle ein System.\n[click],2[credit]: Führe einen Run auf das gewählte System durch. Verhindere die Ausführung der ersten Subroutine, die in diesem Run durchgeführt würde.",
         "title": "Tracker"
     },
     {
         "code": "11106",
-        "flavor": "\"You want to do business in Los Pistoleros turf, then you gotta deal with me.\"",
-        "keywords": "Connection",
-        "text": "Whenever an agenda is scored or stolen, place 2 power counters on Aaron Marrón.\n<strong>Hosted power counter:</strong> Remove 1 tag and draw 1 card.",
+        "flavor": "\"Du willst im Gebiet der Los Pistoleros Geschäfte machen? Dann musst du mit mir verhandeln.\"",
+        "keywords": "Kontakt",
+        "text": "Immer wenn die Punkte für eine Agenda erzielt werden oder sie gestohlen wird, lege 2 Wirkungszähler auf Aaron Marrón.\n<strong>Gehostete Wirkungszähler:</strong> Entferne 1 Markierung und ziehe 1 Karte.",
         "title": "Aaron Marrón"
     },
     {
         "code": "11107",
-        "text": "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nTake an additional turn after this one. Remove Encore from the game instead of trashing it.",
-        "title": "Encore"
+        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf F&E, HQ und Archiv durchgeführt hast.\nMache nach diesem Zug einen weiteren Zug. Entferne Zugabe aus dem Spiel, anstatt die Karte zu zerstören.",
+        "title": "Zugabe"
     },
     {
         "code": "11108",
-        "flavor": "Faster than the eye can follow.",
-        "keywords": "Icebreaker - Killer",
-        "text": "1[credit]: Break <strong>sentry</strong> subroutine.\nX[credit]: +X strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card.",
+        "flavor": "Schneller als das Auge folgen kann.",
+        "keywords": "Ice-Brecher - Killer",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\nX[credit]: +X Stärke für den Rest des Runs. Diese Fähigkeit kann nur verwendet werden, wenn dafür mindestens 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgegeben wird.",
         "title": "Fawkes"
     },
     {
         "code": "11109",
-        "keywords": "Priority",
-        "text": "Play only as your first [click] and only if the Corp scored no agendas during his or her last turn.\nGain 10[credit]. The Corp gains 5[credit]. You cannot initiate any runs this turn.",
-        "title": "Peace in Our Time"
+        "keywords": "Priorität",
+        "text": "Kann nur als erster [click] gespielt werden, und nur falls der Kon in seinem letzten Zug keine Punkte für Agendas erzielt hat.\nDu erhälst 10[credit]. Der Kon erhält 5[credit]. Du kannst in diesem Zug keine Runs starten.",
+        "title": "Frieden in unserer Zeit"
     },
     {
         "code": "11110",
-        "keywords": "Security",
-        "text": "Place 1 agenda counter on Sensor Net Activation when you score it.\n<strong>Hosted agenda counter:</strong> Rez a <strong>bioroid</strong>, ignoring all costs. When the turn ends, derez that <strong>bioroid</strong>.",
-        "title": "Sensor Net Activation"
+        "keywords": "Sicherheit",
+        "text": "Lege 1 Agendazähler auf Sensornetzaktivierung, wenn du die Punkte dafür erzielst.\n<strong>Gehosteter Agendazähler:</strong> Lade ein <strong>Bioroid</strong>, ignoriere dabei sämtliche Kosten. Wenn dein Zug endet entlade diesen <strong>Bioroid</strong>.",
+        "title": "Sensornetzaktivierung"
     },
     {
         "code": "11111",
-        "flavor": "It required a hexadecimal code along with biometrics, delivered by way of BMI.",
-        "keywords": "Terminal - Transaction",
-        "text": "After you resolve this operation, end your action phase.\nGain 8[credit] and draw 4 cards.",
-        "title": "Violet Level Clearance"
+        "flavor": "Man braucht dafür einen Hexcode, biometrische Daten und muss das über einen BMI einspeisen.",
+        "keywords": "Final - Transaktion",
+        "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nErhalte 8[credit] und ziehe 4 Karten.",
+        "title": "Sicherheitsfreigabe Violett"
     },
     {
         "code": "11112",
-        "flavor": "\"Ice is not meant to kill; just slow or cripple the Runner. Killing is my job.\" - Tori Hanzō",
-        "keywords": "Barrier - AP",
-        "text": "Whenever the Runner breaks a subroutine on Chiyashi while there is an <strong>AI</strong> installed, trash the top 2 cards of the Runner's stack.\n[subroutine] Do 2 net damage.\n[subroutine] Do 2 net damage.\n[subroutine] End the run.",
+        "flavor": "\"Ice ist nicht dafür gedacht zu töten; es soll den Runner nur verlangsamen oder verkrüppeln. Töten ist meine Aufgabe.\" - Tori Hanzō",
+        "keywords": "Barriere - AP",
+        "text": "Immer wenn der Runner eine Subroutine auf Chiyashi ausschaltet während eine <strong>KI</strong> installiert ist, zerstöre die obersten 2 Karten vom Stapel des Runners.\n[subroutine] Verursache 2 Nerz-Schaden.\n[subroutine] Verursache 2 Nerz-Schaden.\n[subroutine] Beende den Run.",
         "title": "Chiyashi"
     },
     {
         "code": "11113",
-        "keywords": "Terminal",
-        "text": "After you resolve this operation, end your action phase.\nLook at the top 5 cards of R&D. If any of those cards are agendas, assets, or upgrades, you may install 1 of those cards in a remote server.",
-        "title": "Psychokinesis"
+        "keywords": "Final",
+        "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nSieh dir die obersten 5 Karten von F&E an. Falls Agendas, Aktivposten oder Upgrades darunter sind, kannst du 1 dieser Karten in ein ausgelagertes System installieren.",
+        "title": "Psychokinese"
     },
     {
         "code": "11114",
-        "keywords": "Security",
-        "text": "The Runner's base link strength is reduced to 0 during the first trace each turn.\nWhenever the Runner increases his or her link strength by spending credits, gain 1[credit] for every 2[credit] spent.",
-        "title": "Net Quarantine"
+        "keywords": "Sicherheit",
+        "text": "Die Grundverbindungsstärke des Runners wird während des ersten Aufspürens in jedem Zug auf 0 gesenkt.\nImmer wenn der Runner seine Verbindungsstärke durch Zahlung von Credits erhöht, erhalte 1[credit] für jeweils 2[credit], die so ausgegeben wurden.",
+        "title": "Netzquarantäne"
     },
     {
         "code": "11115",
         "keywords": "Code Gate",
-        "text": "If Herald is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Herald, he or she encounters it. Ignore this ability if the Runner accesses Herald from Archives.\n[subroutine] The Corp gains 2[credit].\n[subroutine] The Corp may pay up to 2[credit] to place that number of advancement tokens on a card that can be advanced.",
-        "title": "Herald"
+        "text": "Falls vom F&E auf Herold zugegriffen wird, muss der Runner ihn aufdecken.\nWenn der Runner auf Herold zugreift, trifft darauf. Ignoriere diese Fähigkeit, falss der Runner vom Archiv auf Herold zugreift.\n[subroutine] Der Kon erhält 2[credit].\n[subroutine] Der Kon kann bis zu 2[credit], um genau so viele Entwicklungsmarker auf eine Karte zu legen, die entwickelt werden kann.",
+        "title": "Herold"
     },
     {
         "code": "11116",
-        "flavor": "The truth hurts.",
-        "keywords": "Sentry - Tracer",
-        "text": "[subroutine] The Corp gains 2[credit].\n[subroutine] The Runner loses 2[credit].\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
+        "flavor": "Die Wahrheit tut weh.",
+        "keywords": "Wächter - Spürhund",
+        "text": "[subroutine] Der Kon erhält 2[credit].\n[subroutine] Der Runner verliert 2[credit].\n[subroutine] <trace>Aufspüren 2</trace>Bei Erfolg verpasse dem Runner 1 Markierung.",
         "title": "Veritas"
     },
     {
         "code": "11117",
-        "flavor": "\"My job? I provide legal exculpation and sign everything. It pays very well.\"",
-        "keywords": "Character",
-        "text": "While the Runner has fewer than 6[credit], Bryan Stinson gains \"[click]: Play a <strong>transaction</strong> operation from Archives, ignoring all costs. Remove that <strong>transaction</strong> from the game instead of trashing it.\"",
+        "flavor": "\"Mein Job? Ich biete legale Schlupflöcher und unterscheibe alles. Das zahlt sich wirklich aus.\"",
+        "keywords": "Charakter",
+        "text": "Solange der Runner weniger als 6[credit] hat, erhält Bryan Stinson gains \"[click]: Spiele eine <strong>Transatkion</strong>-Operation aus dem Archiv und ignoriere dabei sämtliche Kosten. Entferne diese <strong>Transatkion</strong> aus dem Spiel, statt sie zu zerstören.\"",
         "title": "Bryan Stinson"
     },
     {
         "code": "11118",
-        "text": "Gain 1[credit] when your turn begins.\nWhenever you gain credits through a card ability other than from NASX, you may spend up to 2[credit] to place that many power counters on NASX.\n[click],[trash]: Gain 2[credit] for each power counter on NASX.",
+        "text": "Wenn dein Zug beginnt, erhälst du 1[credit].\nImmer wenn du Credits durch die Fähigkeit einer anderen Karte als NASX erhälst, kannst du bis zu 2[credit] ausgeben, um genau so viele Wirklungszähler auf NASX zu legen.\n[click],[trash]: Erhalte 2[credit] für jeden Wirklungszähler auf NASX.",
         "title": "NASX"
     },
     {
         "code": "11119",
-        "flavor": "One way to get rid of a virus is to get a nastier virus.",
-        "keywords": "Code Gate - Tracer",
-        "text": "[subroutine] <trace>Trace 4</trace> If successful, purge virus counters.\n[subroutine] <trace>Trace 3</trace> If successful, trash 1 <strong>virus</strong>.\n[subroutine] <trace>Trace 2</trace> If successful, remove a <strong>virus</strong> in the heap from the game.\n[subroutine] <trace>Trace 1</trace> If successful, end the run.",
-        "title": "Macrophage"
+        "flavor": "Eine Möglichkeit, einen Virus loszuwerden, ist, einen fieseren Virus zu besorgen.",
+        "keywords": "Code-Zugang - Spürhund",
+        "text": "[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg lösche Viruszähler.\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg zerstöre 1 <strong>Virus</strong>.\n[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg entferne einen <strong>Virus</strong> in der Ablage aus dem Spiel.\n[subroutine] <trace>Aufspüren 1</trace> Bei Erfolg beende den Run.",
+        "title": "Makrophage"
     },
     {
         "code": "11120",
-        "flavor": "\"Guilty.\"\n\"Guilty.\"\n\"Guilty.\"",
-        "keywords": "Sentry",
-        "text": "[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] The Runner trashes 1 of his or her installed cards.",
+        "flavor": "\"Schuldig.\"\n\"Schuldig.\"\n\"Schuldig.\"",
+        "keywords": "Wächter",
+        "text": "[subroutine] Der Runner zerstört 1 seiner installierten Karten.\n[subroutine] Der Runner zerstört 1 seiner installierten Karten.\n[subroutine] Der Runner zerstört 1 seiner installierten Karten.",
         "title": "Tribunal"
     }
 ]
