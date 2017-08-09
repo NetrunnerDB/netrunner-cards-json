@@ -2,68 +2,178 @@
     {
         "code": "13001",
         "keywords": "G-Mod",
-        "text": "The first time each turn that you make a successful run on HQ, you may choose 2 cards in your heap, if able. The Corp removes 1 from the game; the other is added to your grip.",
-        "title": "Steve Cambridge: Master Grifter"
+        "text": "Immer wenn du zum ersten Mal in einem Zug einen Run auf HQ erfolgreich durchführst, darfst du 2 Karten in deiner Ablage wählen, falls möglich. Der Kon entfernt 1 aus dem Spiel; die andere wird deinem Griff hinzugefügt.",
+        "title": "Steve Cambridge: Miesterhafter Trickbetrüger"
     },
     {
         "code": "13002",
-        "flavor": "\"Bypassing a system's defenses by cutting physical wires is what I like to call old school.\" - Steve Cambridge",
-        "keywords": "Double",
-        "text": "As an additional cost to play this event, spend [click].\nDerez a piece of ice that has a rez cost of X or lower.",
+        "flavor": "\"Die Verteidigung eines Systems zu umgehen, indem man Kabel durchschneidet, nenne ich gerne oldschool.\" - Steve Cambridge",
+        "keywords": "Verdoppeln",
+        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nEntlade ein Ice mit Ladekosten von X oder weniger.",
         "title": "Brute-Force-Hack"
     },
     {
         "code": "13003",
-        "flavor": "Targeted attacks make system breaches so much easier, especially if you can spoof an authorized user.",
+        "flavor": "Gezielte Attacken machen Einbrüche in Systeme so viel leichter, besonders, wenn man autorisierte Nutzer hereinlegen kann.",
         "keywords": "Run",
-        "text": "Make a run. When you encounter the innermost piece of ice protecting that server, bypass it.",
-        "title": "Spear Phishing"
+        "text": "Führe einen Run durch. Sobald du auf das innerste Ice triffst, das dieses System schützt, umgehe es.",
+        "title": "Spear-Phishing"
+    },
+    {
+        "code": "13004",
+        "flavor": "Das System mit synchronisierten Anfragen zu überfluten, führt dazu, dass es nicht mehr auf berechtigte Anfragen reagiert.",
+        "keywords": "Verdoppeln",
+        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nDer Kon muss entweder 2 Karten ablegen oder 4 Karten ziehen.",
+        "title": "SYN-Angriff"
+    },
+    {
+        "code": "13005",
+        "keywords": "Konsole",
+        "text": "+2[mu], +1[link]\nImmer wenn du zum ersten Mal in einem Zug an allem Ice vorbeikommst, welches das HQ beschützt, darfst du 1 Karte ziehen um den Kon zu zwingen, 1 Karte zu ziehen.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+        "title": "Polyhistor"
     },
     {
         "code": "13006",
-        "flavor": "\"Technology breeds crime.\"",
-        "keywords": "Icebreaker - Decoder",
-        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +2 strength.\n[trash]: Bypass a piece of <strong>code gate</strong> ice currently being encountered, even if it has strength greater than Abagnale.",
+        "flavor": "\"Technologie bringt Verbrechen hervor.\"",
+        "keywords": "Ice-Brecher - Decoder",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[credit]: +2 Stärke.\n[trash]: Umgehe ein <strong>Code-Zugang</strong>-Ice, auf das du gerade triffst, selbst wenn es eine höhere Stärke als Abagnale hat.",
         "title": "Abagnale"
     },
     {
+        "code": "13007",
+        "flavor": "\"Prahle niemals. Lass deine Wichtigkeit einfach wortlos offensichtlich sein.\"",
+        "keywords": "Ice-Brecher - Killer",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächers</strong> aus.\n3[credit]: +5 Stärke.\n[trash]: Umgehe ein <strong>Wächer</strong>-Ice, auf das du gerade triffst, selbst wenn es eine höhere Stärke als Lustig hat.",
+        "title": "Lustig"
+    },
+    {
+        "code": "13008",
+        "flavor": "\"Es kommt nur darauf an, die richtigen Legitimationen zu 'erwerben'.\"",
+        "keywords": "Ice-Brecher - Fracter",
+        "text": "2[credit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n2[credit]: +3 Stärke.\n[trash]: Umgehe ein <strong>Barriere</strong>-Ice, auf das du gerade triffst, selbst wenn es eine höhere Stärke als Demara hat.",
+        "title": "Demara"
+    },
+    {
+        "code": "13009",
+        "keywords": "Ice-Brecher - KI",
+        "text": "<strong>Gehosteter Wirkungszähler:</strong> Schalte eine Subroutine eines Ice aus.\n2[credit]: +2 Stärke\nWenn dein Zug beginnt, darfst du X[credit] zahlen, um X Wirkungszähler auf Mammon zu legen. Wenn dein Zug endet, entferne alle gehosteten Wirkungszähler.",
+        "title": "Mammon"
+    },
+    {
         "code": "13010",
-        "flavor": "Know your mark, their weaknesses and strengths--both will show how to best bypass their defenses.",
+        "flavor": "Kenne deine Beute, ihre Schwächen und Stärken - beides wird dir zeigen, wie man ihre Verteidigung am besten umgehen kann.",
         "keywords": "Virtual",
-        "text": "[click], [click]: Make a run. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice to bypass it.",
+        "text": "[click], [click]: Führe einen Run durch. Sobald du dich zum ersten Mal in diesem Run einem geladenen Ice näherst, darfst du Credits in Höhe der Stärke deses Ice zahlen, um es zu umgehen",
         "title": "Charlatan"
     },
     {
+        "code": "13011",
+        "flavor": "Du erinnerst dich an die Zeit, als Maxi für Chacon als Buchmacher gearbeitet hat? Er stieg in dieser Welt auf und gewann einen Anschein von Reskeptabilität. Aber jetzt, als Führungskraft, arbeitet er für Menschen, die deutlich bösartiger, blutdurstiger und verdorbener sind.",
+        "keywords": "Kontakt",
+        "text": "+1[link]\n[trash]: Entlade ein Ice, das ein ausgelagertes System schützt. Verwende diese Fähigkeit nur nach einem erfolgreichen Run auf HQ.",
+        "title": "Maxwell James"
+    },
+    {
         "code": "13012",
-        "keywords": "Natural",
-        "text": "Before drawing your starting hand, look at the top 6 cards of your stack. Set 4 of them facedown, as NVRAM. Shuffle the rest into your stack.\n[click]: Add 1 card from NVRAM to your grip. ",
-        "title": "Ayla \"Bios\" Rahim: Simulant Specialist"
+        "keywords": "Natürlich",
+        "text": "Vor dem Ziehen deiner Starthand sieh dir die obersten 6 Karten deines Stapels an. Lege 4 davon als NVAM verdeckt beiseite. Mische die übrigen in deinen Stabel.\n[click]: Füge deinem Griff 1 Karte von NVRAM hinzu.",
+        "title": "Ayla \"Bios\" Rahim: Spezialistin für Simulationen"
     },
     {
         "code": "13013",
-        "flavor": "Each AI had been tasked with finding a solution to the same problem but with different variables.",
-        "keywords": "Priority",
-        "text": "Play only as your first [click].\nChoose a card in or protecting a remote server. That card cannot be rezzed this turn.",
-        "title": "Careful Planning"
+        "flavor": "Jede KI hatte die Aufgabe erhalten, die Lösung für dasselbe Problem zu finden, nur mit unterschiedlichen Veriablen.",
+        "keywords": "Priorität",
+        "text": "Kann nur als erster [click] gespielt werden.\nWähle eine Karte, die sich in einem ausgelagerten System befindet oder es schützt. Diese Karte kann in diesem Zug nicht geladen werden.",
+        "title": "Sorgfältige Planung"
     },
     {
         "code": "13014",
-        "flavor": "Extracting data from complex systems is what running is all about.",
+        "flavor": "Die Essenz eines Runs ist die Extraktion von Daten aus komplexen Systemen.",
         "keywords": "Run",
-        "text": "Make a run on R&D. If successful, access 1 additional card for each unused MU up to 4.",
-        "title": "Deep Data Mining"
+        "text": "Führe einen Run auf F&E durch. Bei Erfolg greife auf 1 zusätzliche Karte für jede ungenutzte SE zu (bis zu einem Maximum von 4).",
+        "title": "Intensives Data-Mining"
+    },
+    {
+        "code": "13015",
+        "flavor": "Es besteht nicht wirklich aus Diamanten, aber es ist ein Vielfaches seines Gewichts in Diamanten wert.",
+        "keywords": "Mod",
+        "text": "+1[mu], +1[link]\nDein Handkartenlimit wird um 1 erhöht.",
+        "title": "LLDS-Speicherdiamant"
+    },
+    {
+        "code": "13016",
+        "flavor": "\"Es ist mehr als nur eine 'hübsche Naniten-Pflanze'. Es ist ein komplexes, synthetisch-intelligentes, verteiltes Netzwerk und eine SEHR hübsche Naniten-Pflanze.\" - Bios",
+        "keywords": "Konsole",
+        "text": "+1[mu]\nWenn dein Zug beginnt, ziehe 1 Karte.\nNur 1 <strong>Konsole</strong> pro Spieler",
+        "title": "Ubax"
+    },
+    {
+        "code": "13017",
+        "flavor": "Μεγάλο μέρος της μάθησης δεν διδάσκει την κατανόηση.",
+        "keywords": "Ice-Brecher - Fracter - Killer",
+        "text": "Adept hat +1 Stärke für jede ungenutzte SE.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> oder einer <strong>Barriere</strong> aus.",
+        "title": "Adept"
+    },
+    {
+        "code": "13018",
+        "flavor": "Δεν υπἁρχει τίποτα μόνιμο, εκτός από την αλλαγή.",
+        "keywords": "Ice-Brecher - Killer - Decoder",
+        "text": "Savant hat +1 Stärke für jede ungenutzte SE.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> oder 2 Subroutinen eines <strong>Code-Zugangs</strong> aus.",
+        "title": "Savant"
     },
     {
         "code": "13019",
-        "text": "Install Egret only on a rezzed piece of ice.\nHost ice gains <strong>sentry</strong>, <strong>code gate</strong> and <strong>barrier</strong>.",
+        "text": "Kann nur auf einem geladenen Ice installiert werden.\nDas hostende Ice erhält <strong>Wächter</strong>, <strong>Code-Zugang</strong> und <strong>Barriere</strong>.",
         "title": "Egret"
     },
     {
+        "code": "13020",
+        "text": "Dhegdheer kann ein einziges Programm hosten.\nSobald du ein Programm auf Dhegdheer installierst, senke dessen Installationskosten um 1.\nDie Speicherkosten für das gehostete Programm zählen nicht gegen sein Speicherlimit.",
+        "title": "Dhegdheer"
+    },
+    {
         "code": "13021",
-        "flavor": "Innovation. Iteration. Education.",
-        "keywords": "Location - Ritzy",
-        "text": "[click]: Reveal the top 4 cards of your stack. If any of those cards are programs, you may add 1 to your grip. Add the rest of the cards to the bottom of your stack in any order.",
-        "title": "Levy Advanced Research Lab"
+        "flavor": "Innovation. Iteration. Edukation.",
+        "keywords": "Ort - Protzig",
+        "text": "[click]: Decke die obersten 4 Karten deines Stapels auf. Falls unter diesen Karten Programme sind, darfst du 1 deinem Griff hunzufügen. Lege die übrigen Karten in beliebiger Reihenfolge unter deinen Stapel.",
+        "title": "Levys modernstes Labor"
+    },
+    {
+        "code": "13022",
+        "flavor": "Laguna Velasco, eine der reichsten und mächtigsten Gegenden von New Andeles, ist auch als Regierungsbezirk bekannt.",
+        "keywords": "Ort - Protzig",
+        "text": "Immer wenn du [click] zahlst, um 1 Karte zu ziehen (nicht durch Kartenfähigkeiten), ziehe 1 zusätzliche Karte.",
+        "title": "Bezierk Laguna Velasco"
+    },
+    {
+        "code": "13023",
+        "flavor": "Umstrukturierung von Arbeitsressourcen.",
+        "text": "Du erhälst 2[credit] und ziehst 1 Karte.",
+        "title": "Prozessautomatisierung"
+    },
+    {
+        "code": "13024",
+        "keywords": "Kontakt",
+        "text": "[trash], 1[credit]: Der Kon zerstört 2 zufällige Karten vom HQ. Verwende diese Fähigkeit nur, falls du in diesem Zug Körper-Schaden genommen hast.",
+        "title": "Officer Frank"
+    },
+    {
+        "code": "13025",
+        "keywords": "Kontakt",
+        "text": "[trash]: Wähle einen <strong>Ice-Brecher</strong>. Dieser <strong>Ice-Brecher</strong> hat bis zum Ende des Runs +1 Stärke für jede Karte in deinem Griff.",
+        "title": "Dekan Lister"
+    },
+    {
+        "code": "13026",
+        "flavor": "Sie hinterließ eine verschlüsselte Spur, die zu einem zufälligen Angestellten eines rivalisierenden Kons führte. Sie wusste, die faulen Sysops würden genau so hart arbeiten wie nötig, um das herauszufinden, und nicht weiter nachforschen.",
+        "text": "[trash]: Verhindere 2 Schaden.",
+        "title": "Biometrisches Spoofing"
+    },
+    {
+        "code": "13027",
+        "flavor": "Ein abscheuliches Netz voller Ausgestoßener und Ehrlosigkeit; keine Regierung und kein Kon ist in der Lage es wirksam abzuschalten. Wenn auch nur deshalb, weil viele ihrer Sysops, Führungskräfte und Geheimagenten es selbst nutzen.",
+        "text": "[click], <strong>gib eine Agenda auf:</strong> Spiele ein Ereignis aus deiner Ablage, ohne die Kosten dafür zu bezahlen.",
+        "title": "Das Schattennetz"
     },
     {
         "code": "13028",
