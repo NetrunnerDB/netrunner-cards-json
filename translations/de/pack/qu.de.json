@@ -1,59 +1,59 @@
 [
     {
         "code": "11101",
-        "keywords": "Console",
-        "text": "+2[mu]\nOnce per turn, when you encounter a piece of ice, you may reduce your maximum hand size by 1 until the beginning of your next turn. If you do, the strength of that ice is lowered to 0 for the remainder of the encounter.\nLimit 1 <strong>console</strong> per player.",
+        "keywords": "Konsole",
+        "text": "+2[mu]\nEin Mal pro Zug, wenn du auf ein Ice triffst, kannst du dein Handkartenlimit bis zum Beginn deines nächsten Zuges um 1 senken. Falls du das tust, wird die Stärke des Ice für den Rest der Begegnung auf 0 gesenkt.\nNur 1 <strong>Konsole</strong> pro Spieler.",
         "title": "Şifr"
     },
     {
         "code": "11102",
-        "flavor": "Open yourself to the universe.",
-        "keywords": "Icebreaker - Killer",
-        "text": "When an encounter in which you used Sūnya to break all subroutines on that piece of ice ends, place 1 power counter on Sūnya.\nSūnya has +1 strength for each power counter on it.\n2[credit]: Break <strong>sentry</strong> subroutine.",
+        "flavor": "Öffne dich dem Universum.",
+        "keywords": "Ice-Breaker - Killer",
+        "text": "Wenn eine Begegnung endet, in dem du Sūnya verwendet hast, um alle Subroutinen auf diesem Ice auszuschalten, lege 1 Wirkungszähler auf Sūnya.\nSūnya hat +1 Stärke für jeden Wirkungszähler darauf.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.",
         "title": "Sūnya"
     },
     {
         "code": "11103",
-        "flavor": "\"A little birdie told me...\" -Khan",
-        "text": "X[credit],[trash]: Prevent X damage from a card currently being accessed.",
-        "title": "Recon Drone"
+        "flavor": "\"Ein kleines Vögelchen hat mir gezwitschert, dass...\" -Khan",
+        "text": "X[credit],[trash]: Verhindere X Schaden durch eine Karte, auf die gerade zugegriffen wird.",
+        "title": "Aufklärungsdrohne"
     },
     {
         "code": "11104",
         "keywords": "Virus",
-        "text": "Install only if you made a successful run on a central server this turn.\nWhen your turn begins, gain 1[credit] for every 5[credit] in the Corp's credit pool.\nTrash Tapwrm if the Corp purges virus counters.",
+        "text": "Kann nur installiert werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nWenn dein Zug beginnt erhälst du 1[credit] pro 5[credit] im Credit-Vorrat des Kons.\nZerstöre Tapwrm, falls der Kon Viruszähler löscht.",
         "title": "Tapwrm"
     },
     {
         "code": "11105",
-        "flavor": "\"Everything leaves a ripple in cyberspace. If you can find the ripples, nothing can hide.\" -Khan",
-        "text": "When your turn begins, choose a server.\n[click],2[credit]: Make a run on the chosen server. Prevent the first subroutine that would resolve this run from resolving.",
+        "flavor": "\"Alles schlägt Wellen im Cyberspace. Wenn du die Wellen finden kannst, kann sich nichts verstecken.\" -Khan",
+        "text": "Wenn dein Zug beginnt, wähle ein System.\n[click],2[credit]: Führe einen Run auf das gewählte System durch. Verhindere die Ausführung der ersten Subroutine, die in diesem Run durchgeführt würde.",
         "title": "Tracker"
     },
     {
         "code": "11106",
-        "flavor": "\"You want to do business in Los Pistoleros turf, then you gotta deal with me.\"",
-        "keywords": "Connection",
-        "text": "Whenever an agenda is scored or stolen, place 2 power counters on Aaron Marrón.\n<strong>Hosted power counter:</strong> Remove 1 tag and draw 1 card.",
+        "flavor": "\"Du willst im Gebiet der Los Pistoleros Geschäfte machen? Dann musst du mit mir verhandeln.\"",
+        "keywords": "Kontakt",
+        "text": "Immer wenn die Punkte für eine Agenda erzielt werden oder sie gestohlen wird, lege 2 Wirkungszähler auf Aaron Marrón.\n<strong>Gehostete Wirkungszähler:</strong> Entferne 1 Markierung und ziehe 1 Karte.",
         "title": "Aaron Marrón"
     },
     {
         "code": "11107",
-        "text": "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nTake an additional turn after this one. Remove Encore from the game instead of trashing it.",
-        "title": "Encore"
+        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf F&E, HQ und Archiv durchgeführt hast.\nMache nach diesem Zug einen weiteren Zug. Entferne Zugabe aus dem Spiel, anstatt die Karte zu zerstören.",
+        "title": "Zugabe"
     },
     {
         "code": "11108",
-        "flavor": "Faster than the eye can follow.",
-        "keywords": "Icebreaker - Killer",
-        "text": "1[credit]: Break <strong>sentry</strong> subroutine.\nX[credit]: +X strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card.",
+        "flavor": "Schneller als das Auge folgen kann.",
+        "keywords": "Ice-Brecher - Killer",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\nX[credit]: +X Stärke für den Rest des Runs. Diese Fähigkeit kann nur verwendet werden, wenn dafür mindestens 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgegeben wird.",
         "title": "Fawkes"
     },
     {
         "code": "11109",
-        "keywords": "Priority",
-        "text": "Play only as your first [click] and only if the Corp scored no agendas during his or her last turn.\nGain 10[credit]. The Corp gains 5[credit]. You cannot initiate any runs this turn.",
-        "title": "Peace in Our Time"
+        "keywords": "Priorität",
+        "text": "Kann nur als erster [click] gespielt werden, und nur falls der Kon in seinem letzten Zug keine Punkte für Agendas erzielt hat.\nDu erhälst 10[credit]. Der Kon erhält 5[credit]. Du kannst in diesem Zug keine Runs starten.",
+        "title": "Frieden in unserer Zeit"
     },
     {
         "code": "11110",
