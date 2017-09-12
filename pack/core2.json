@@ -1,11 +1,10 @@
 [
     {
         "base_link": 1,
-        "code": "04041",
+        "code": "20001",
         "deck_limit": 1,
         "faction_code": "anarch",
         "flavor": "\"Analyzing the board won't help. Your mistake was thinking we're playing the same game.\"",
-        "illustrator": "Matt Zeilinger",
         "influence_limit": 15,
         "keywords": "Cyborg - G-Mod",
         "minimum_deck_size": 45,
@@ -19,13 +18,12 @@
         "uniqueness": false
     },
     {
-        "code": "01003",
+        "code": "20002",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 2,
         "flavor": "You ever set something on fire just to watch it burn?",
-        "illustrator": "Anna Ignatieva",
         "keywords": "Run - Sabotage",
         "pack_code": "core2",
         "position": 2,
@@ -37,12 +35,11 @@
         "uniqueness": false
     },
     {
-        "code": "02101",
+        "code": "20003",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 2,
-        "illustrator": "Outland Entertainment LLC",
         "keywords": "Run",
         "pack_code": "core2",
         "position": 3,
@@ -54,12 +51,11 @@
         "uniqueness": false
     },
     {
-        "code": "04101",
+        "code": "20004",
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 3,
-        "illustrator": "Adam S. Doyle",
         "keywords": "Double - Run",
         "pack_code": "core2",
         "position": 4,
@@ -71,12 +67,11 @@
         "uniqueness": false
     },
     {
-        "code": "01004",
+        "code": "20005",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 1,
-        "illustrator": "Rachel Borovic",
         "keywords": "Run",
         "pack_code": "core2",
         "position": 5,
@@ -88,13 +83,12 @@
         "uniqueness": false
     },
     {
-        "code": "01005",
+        "code": "20006",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 1,
         "flavor": "I feel almost naked without it",
-        "illustrator": "Gong Studios",
         "keywords": "Chip",
         "pack_code": "core2",
         "position": 6,
@@ -106,12 +100,11 @@
         "uniqueness": false
     },
     {
-        "code": "02002",
+        "code": "20007",
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 2,
-        "illustrator": "Gong Studios",
         "keywords": "Console",
         "pack_code": "core2",
         "position": 7,
@@ -123,12 +116,11 @@
         "uniqueness": true
     },
     {
-        "code": "02102",
+        "code": "20008",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 3,
-        "illustrator": "Liiga Smilshkalne",
         "keywords": "Icebreaker - AI - Virus",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -142,12 +134,11 @@
         "uniqueness": false
     },
     {
-        "code": "01008",
+        "code": "20009",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 1,
-        "illustrator": "Chelsea Conlin",
         "keywords": "Virus",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -160,13 +151,12 @@
         "uniqueness": false
     },
     {
-        "code": "02062",
+        "code": "20010",
         "cost": 5,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 1,
         "flavor": "It always strikes twice.",
-        "illustrator": "Ed Mattinian",
         "keywords": "Icebreaker - Decoder",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -180,13 +170,12 @@
         "uniqueness": false
     },
     {
-        "code": "02003",
+        "code": "20011",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 3,
         "flavor": "Something wicked this way comes.",
-        "illustrator": "Wen Xiaodong",
         "keywords": "Virus",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -199,13 +188,12 @@
         "uniqueness": false
     },
     {
-        "code": "04082",
+        "code": "20012",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 4,
         "flavor": "Bleeding data is more of a science than an art. Too much and you can end up with a one-way ticket to flatline city. Not enough and you might as well be running an empty server.",
-        "illustrator": "Ed Mattinian",
         "keywords": "Virus",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -218,13 +206,12 @@
         "uniqueness": false
     },
     {
-        "code": "01011",
+        "code": "20013",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 1,
         "flavor": "November 5th: the day when all would see the corrupt machinations of the corporate oligarchy.",
-        "illustrator": "Ed Mattinian",
         "keywords": "Icebreaker - Killer",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -238,13 +225,12 @@
         "uniqueness": false
     },
     {
-        "code": "02004",
+        "code": "20014",
         "cost": 8,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 4,
         "flavor": "Weaponizing the heavens, one star at a time.",
-        "illustrator": "Robert Chew",
         "keywords": "Icebreaker - Fracter",
         "memory_cost": 2,
         "pack_code": "core2",
@@ -258,13 +244,12 @@
         "uniqueness": false
     },
     {
-        "code": "01015",
+        "code": "20015",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 3,
         "flavor": "In the public consciousness, there's a hard line between corp and runner. In the real world, things are a little more porous. The corp need the best hackers to run their networks, and some of the best hackers are ex-runners who like the idea of a regular paycheck. But sometimes things run the other way, and someone on the inside makes something like this.",
-        "illustrator": "Mark Anthony Taduran",
         "keywords": "Virtual",
         "pack_code": "core2",
         "position": 15,
@@ -276,13 +261,12 @@
         "uniqueness": true
     },
     {
-        "code": "02022",
+        "code": "20016",
         "cost": 6,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 2,
         "flavor": "It's easier to spend when it's not your money.",
-        "illustrator": "Matt Zeilinger",
         "pack_code": "core2",
         "position": 16,
         "quantity": 3,
@@ -293,13 +277,12 @@
         "uniqueness": false
     },
     {
-        "code": "02063",
+        "code": "20017",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 1,
         "flavor": "\"They're mindless tools of destruction, good for little else. Nice guys, though. Some of my best friends are scrubbers.\" -Ji \"Noise\" Reilly",
-        "illustrator": "Mike Nesbitt",
         "keywords": "Connection - Seedy",
         "pack_code": "core2",
         "position": 17,
@@ -311,13 +294,12 @@
         "uniqueness": false
     },
     {
-        "code": "02082",
+        "code": "20018",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 2,
         "flavor": "And all should cry, Beware! Beware!\nHis flashing eyes, his floating hair!\nWeave a circle round him thrice,\nAnd close your eyes with holy dread,\nFor he on honey-dew hath fed,\nAnd drunk the milk of Paradise.\n-Samuel Taylor Coleridge",
-        "illustrator": "Andrew Mar",
         "keywords": "Virtual",
         "pack_code": "core2",
         "position": 18,
@@ -330,11 +312,10 @@
     },
     {
         "base_link": 0,
-        "code": "01017",
+        "code": "20019",
         "deck_limit": 1,
         "faction_code": "criminal",
         "flavor": "\"Of course I steal from the rich. They're the ones with all the money.\"",
-        "illustrator": "Ralph Beisner",
         "influence_limit": 15,
         "keywords": "Cyborg",
         "minimum_deck_size": 45,
@@ -348,13 +329,12 @@
         "uniqueness": false
     },
     {
-        "code": "01019",
+        "code": "20020",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 1,
         "flavor": "\"Hey kid, you fire that up now, bound to be vamped real bad. Some real pathetic individuals around here. But thankfully I got just the ticket…\"",
-        "illustrator": "Matt Zeilinger",
         "keywords": "Job",
         "pack_code": "core2",
         "position": 20,
@@ -366,13 +346,12 @@
         "uniqueness": false
     },
     {
-        "code": "02043",
+        "code": "20021",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 2,
         "flavor": "\"Think of it as a virtual shock collar for punishing corporate pets.\" -Andromeda",
-        "illustrator": "Adam S. Doyle",
         "keywords": "Sabotage",
         "pack_code": "core2",
         "position": 21,
@@ -384,13 +363,12 @@
         "uniqueness": false
     },
     {
-        "code": "01020",
+        "code": "20022",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 2,
         "flavor": "As the hysteria in the room climbed higher up the corporate chain, an uneasy feeling of joblessness began to sink in on the lower rungs.",
-        "illustrator": "Ed Mattinian",
         "keywords": "Sabotage",
         "pack_code": "core2",
         "position": 22,
@@ -402,13 +380,12 @@
         "uniqueness": false
     },
     {
-        "code": "01021",
+        "code": "20023",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 3,
         "flavor": "\"Hey, listen, I'm not asking you to do anything dangerous. Just let me into the building. And tell me which room has the weakest security. And please don't say 'the bathroom' again.\"",
-        "illustrator": "Clark Huggins",
         "keywords": "Run",
         "pack_code": "core2",
         "position": 23,
@@ -420,13 +397,12 @@
         "uniqueness": false
     },
     {
-        "code": "01022",
+        "code": "20024",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 2,
         "flavor": "Feverishly tracking its frustratingly slow progress across the Pacific, the package finally shows up hours later…",
-        "illustrator": "Kate Niemczyk",
         "pack_code": "core2",
         "position": 24,
         "quantity": 1,
@@ -437,13 +413,12 @@
         "uniqueness": false
     },
     {
-        "code": "02064",
+        "code": "20025",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 2,
         "flavor": "Twice the fun.",
-        "illustrator": "Howard Schechlman",
         "keywords": "Console",
         "pack_code": "core2",
         "position": 25,
@@ -455,13 +430,12 @@
         "uniqueness": true
     },
     {
-        "code": "02085",
+        "code": "20026",
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 2,
         "flavor": "If you don't have someone on the inside, find someone on the inside who's fond of desk ornaments.",
-        "illustrator": "Robert Chew",
         "pack_code": "core2",
         "position": 26,
         "quantity": 1,
@@ -472,12 +446,11 @@
         "uniqueness": false
     },
     {
-        "code": "01025",
+        "code": "20027",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 1,
-        "illustrator": "Adam S. Doyle",
         "keywords": "Icebreaker - Fracter",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -491,13 +464,12 @@
         "uniqueness": false
     },
     {
-        "code": "02104",
+        "code": "20028",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 3,
         "flavor": "Do you believe in faeries?",
-        "illustrator": "Sara K. Diesel",
         "keywords": "Icebreaker - Killer",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -511,12 +483,11 @@
         "uniqueness": false
     },
     {
-        "code": "01026",
+        "code": "20029",
         "cost": 9,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 1,
-        "illustrator": "Kate Niemczyk",
         "keywords": "Icebreaker - Killer",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -530,13 +501,12 @@
         "uniqueness": false
     },
     {
-        "code": "02006",
+        "code": "20030",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 2,
         "flavor": "Show-off.",
-        "illustrator": "Adam S. Doyle",
         "keywords": "Icebreaker - Decoder",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -550,12 +520,11 @@
         "uniqueness": false
     },
     {
-        "code": "02086",
+        "code": "20031",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 2,
-        "illustrator": "Ed Mattinian",
         "keywords": "Virus",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -568,13 +537,12 @@
         "uniqueness": false
     },
     {
-        "code": "01028",
+        "code": "20032",
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 3,
         "flavor": "\"The code isn't important. It's where the code takes you that is important.\" -g00ru",
-        "illustrator": "Andrew Mar",
         "memory_cost": 2,
         "pack_code": "core2",
         "position": 32,
@@ -586,12 +554,11 @@
         "uniqueness": false
     },
     {
-        "code": "01029",
+        "code": "20033",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 2,
-        "illustrator": "Mauricio Herrera",
         "keywords": "Job",
         "pack_code": "core2",
         "position": 33,
@@ -603,13 +570,12 @@
         "uniqueness": false
     },
     {
-        "code": "01030",
+        "code": "20034",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 2,
         "flavor": "\"My roomie, he had a cousin with a college girlfriend whose brother's best friend was an addict, and the addict's mother used to live here. So yeah, there's a connection.\" -Lez \"Rockfist\" S.",
-        "illustrator": "Tim Durning",
         "keywords": "Location",
         "pack_code": "core2",
         "position": 34,
@@ -621,13 +587,12 @@
         "uniqueness": false
     },
     {
-        "code": "04106",
+        "code": "20035",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 1,
         "flavor": "There are good, honest, hardworking cops in the NAPD. Officers who do their best to bring justice to the guilty and protect the innocent. Fortunately for the criminals, they're outnumbered by the other kind. The kind who are much easier to work with.",
-        "illustrator": "Agri Karuniawan",
         "keywords": "Connection",
         "pack_code": "core2",
         "position": 35,
@@ -639,13 +604,12 @@
         "uniqueness": false
     },
     {
-        "code": "02105",
+        "code": "20036",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 2,
         "flavor": "\"We're always happy to help, Mr. Santiago.\"\n\"I appreciate it, Mr. Li.\"\n\"We'll be in touch. And, Gabriel…\"\n\"Yes?\"\n\"Don't leave town.\"",
-        "illustrator": "Gong Studios",
         "keywords": "Connection",
         "pack_code": "core2",
         "position": 36,
@@ -658,11 +622,10 @@
     },
     {
         "base_link": 0,
-        "code": "02046",
+        "code": "20037",
         "deck_limit": 1,
         "faction_code": "shaper",
         "flavor": "\"Have you met Dinosaurus?\"",
-        "illustrator": "Matt Zeilinger",
         "influence_limit": 15,
         "keywords": "G-Mod",
         "minimum_deck_size": 40,
@@ -676,13 +639,12 @@
         "uniqueness": false
     },
     {
-        "code": "01034",
+        "code": "20038",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 2,
         "flavor": "Diesel gives you flames.",
-        "illustrator": "Tim Durning",
         "pack_code": "core2",
         "position": 38,
         "quantity": 2,
@@ -693,13 +655,12 @@
         "uniqueness": false
     },
     {
-        "code": "02106",
+        "code": "20039",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 3,
         "flavor": "A little corporate restructuring is necessary once in a while.",
-        "illustrator": "Mauricio Herrera",
         "keywords": "Run",
         "pack_code": "core2",
         "position": 39,
@@ -711,13 +672,12 @@
         "uniqueness": false
     },
     {
-        "code": "01035",
+        "code": "20040",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 2,
         "flavor": "There's no replacement for a home-grown program. Fed on late nights, oaty bars and single-minded determination. Cheaper, too.",
-        "illustrator": "Ralph Beisner",
         "keywords": "Mod",
         "pack_code": "core2",
         "position": 40,
@@ -729,13 +689,12 @@
         "uniqueness": false
     },
     {
-        "code": "02026",
+        "code": "20041",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 1,
         "flavor": "When you're this good, it's hard not to grow a fan base.",
-        "illustrator": "Matt Zeilinger",
         "pack_code": "core2",
         "position": 41,
         "quantity": 1,
@@ -746,12 +705,11 @@
         "uniqueness": false
     },
     {
-        "code": "02047",
+        "code": "20042",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 3,
-        "illustrator": "Eko Puteh",
         "pack_code": "core2",
         "position": 42,
         "quantity": 2,
@@ -762,13 +720,12 @@
         "uniqueness": false
     },
     {
-        "code": "01036",
+        "code": "20043",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 2,
         "flavor": "\"Some of the professionals have good instincts, but they can't see beyond the data. They can't see the matrix.\" -Ele \"Smoke\" Scovak",
-        "illustrator": "Yue Wang",
         "keywords": "Run",
         "pack_code": "core2",
         "position": 43,
@@ -780,13 +737,12 @@
         "uniqueness": false
     },
     {
-        "code": "01037",
+        "code": "20044",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 4,
         "flavor": "\"There's that moment, you know, when the whole world seems to fall away and it is only you and your mod, and the mod is the world.\"",
-        "illustrator": "Christina Davis",
         "keywords": "Mod",
         "pack_code": "core2",
         "position": 44,
@@ -798,12 +754,11 @@
         "uniqueness": false
     },
     {
-        "code": "02048",
+        "code": "20045",
         "cost": 5,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 2,
-        "illustrator": "Matt Zeilinger",
         "keywords": "Console",
         "pack_code": "core2",
         "position": 45,
@@ -815,13 +770,12 @@
         "uniqueness": true
     },
     {
-        "code": "01039",
+        "code": "20046",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 1,
         "flavor": "It's not endless, it just feels that way.",
-        "illustrator": "Mark Anthony Taduran",
         "keywords": "Link",
         "pack_code": "core2",
         "position": 46,
@@ -833,13 +787,12 @@
         "uniqueness": false
     },
     {
-        "code": "01040",
+        "code": "20047",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 2,
         "flavor": "A z-loop here, a cortical wave there…",
-        "illustrator": "Bruno Balixa",
         "keywords": "Mod",
         "pack_code": "core2",
         "position": 47,
@@ -851,13 +804,12 @@
         "uniqueness": false
     },
     {
-        "code": "01042",
+        "code": "20048",
         "cost": 5,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 2,
         "flavor": "\"It's called 'brute-forcing' and it's just as effective today as it was a hundred years ago.\" -Kate \"Mac\" McCaffrey",
-        "illustrator": "Liiga Smilshkalne",
         "keywords": "Icebreaker - Fracter",
         "memory_cost": 2,
         "pack_code": "core2",
@@ -871,13 +823,12 @@
         "uniqueness": false
     },
     {
-        "code": "01043",
+        "code": "20049",
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 3,
         "flavor": "It can slice through the thickest knots of data.",
-        "illustrator": "Mike Nesbitt",
         "keywords": "Icebreaker - Decoder",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -891,13 +842,12 @@
         "uniqueness": false
     },
     {
-        "code": "01044",
+        "code": "20050",
         "cost": 5,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 2,
         "flavor": "The Great Work was completed on a rainy Thursday afternoon. There were no seismic shifts, no solar flares, no sign from the earth or heavens that the world had changed. But upstalk in Heinlein, on a single Cybsoft manufactured datacore, the flickering data quantums of an account began to fill with creds. Real, honest-to-goodness UN certified creds.",
-        "illustrator": "Outland Entertainment LLC",
         "memory_cost": 2,
         "pack_code": "core2",
         "position": 50,
@@ -909,12 +859,11 @@
         "uniqueness": false
     },
     {
-        "code": "01046",
+        "code": "20051",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 1,
-        "illustrator": "Matt Zeilinger",
         "keywords": "Icebreaker - Killer",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -928,13 +877,12 @@
         "uniqueness": false
     },
     {
-        "code": "01047",
+        "code": "20052",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 2,
         "flavor": "You didn't mention Aesop's arm unless you wanted an earful. Sometimes he talked about it in such a way that you wondered why he didn't laser his other arm off as well.",
-        "illustrator": "Adam Schumpert",
         "keywords": "Location - Connection",
         "pack_code": "core2",
         "position": 52,
@@ -946,13 +894,12 @@
         "uniqueness": true
     },
     {
-        "code": "02067",
+        "code": "20053",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 2,
         "flavor": "\"I don't care what the studies show. From my experience, I can ingest three cans of Diesel an hour for up to twelve hours before going into cardiac arrest.\" -heard during the eleventh hour",
-        "illustrator": "Outland Entertainment LLC",
         "pack_code": "core2",
         "position": 53,
         "quantity": 1,
@@ -963,13 +910,12 @@
         "uniqueness": false
     },
     {
-        "code": "01048",
+        "code": "20054",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 1,
         "flavor": "The life expectancy of a jacked construct is about that of a mayfly. In other words, short.",
-        "illustrator": "Matt Zeilinger",
         "keywords": "Remote",
         "pack_code": "core2",
         "position": 54,
@@ -981,13 +927,12 @@
         "uniqueness": false
     },
     {
-        "code": "01049",
+        "code": "20055",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "neutral-runner",
         "faction_cost": 0,
         "flavor": "\"Bring back any memories, Monica?\" -John \"Animal\" McEvoy",
-        "illustrator": "Imaginary FS Pte Ltd",
         "pack_code": "core2",
         "position": 55,
         "quantity": 2,
@@ -998,13 +943,12 @@
         "uniqueness": false
     },
     {
-        "code": "01050",
+        "code": "20056",
         "cost": 5,
         "deck_limit": 3,
         "faction_code": "neutral-runner",
         "faction_cost": 0,
         "flavor": "Lady Luck took the form of a hifi quantum manipulation ring that she wore on her middle finger.",
-        "illustrator": "Kate Niemczyk",
         "pack_code": "core2",
         "position": 56,
         "quantity": 3,
@@ -1015,13 +959,12 @@
         "uniqueness": false
     },
     {
-        "code": "02028",
+        "code": "20057",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "neutral-runner",
         "faction_cost": 0,
         "flavor": "Archaic but reliable.",
-        "illustrator": "JB Casacop",
         "keywords": "Chip - Link",
         "pack_code": "core2",
         "position": 57,
@@ -1033,12 +976,11 @@
         "uniqueness": false
     },
     {
-        "code": "01051",
+        "code": "20058",
         "cost": 5,
         "deck_limit": 3,
         "faction_code": "neutral-runner",
         "faction_cost": 0,
-        "illustrator": "Mauricio Herrera",
         "keywords": "Icebreaker - AI - Virus",
         "memory_cost": 1,
         "pack_code": "core2",
@@ -1052,13 +994,12 @@
         "uniqueness": false
     },
     {
-        "code": "01053",
+        "code": "20059",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "neutral-runner",
         "faction_cost": 0,
         "flavor": "Drudge work, but it pays the bills.",
-        "illustrator": "Mauricio Herrera",
         "keywords": "Job",
         "pack_code": "core2",
         "position": 59,
@@ -1070,13 +1011,12 @@
         "uniqueness": false
     },
     {
-        "code": "02069",
+        "code": "20060",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "neutral-runner",
         "faction_cost": 0,
         "flavor": "\"My boss rewards quality work. If you know what's good for you, you'll keep it up.\"",
-        "illustrator": "Nate Stefan",
         "keywords": "Connection",
         "pack_code": "core2",
         "position": 60,
@@ -1088,7 +1028,7 @@
         "uniqueness": false
     },
     {
-        "code": "02010",
+        "code": "20061",
         "deck_limit": 1,
         "faction_code": "haas-bioroid",
         "flavor": "A Different Breed of Machine.",
@@ -1107,11 +1047,10 @@
     {
         "advancement_cost": 4,
         "agenda_points": 2,
-        "code": "04010",
+        "code": "20062",
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "flavor": "Who wants to start a war?",
-        "illustrator": "Emilio Rodriguez",
         "keywords": "Security",
         "pack_code": "core2",
         "position": 62,
@@ -1125,10 +1064,9 @@
     {
         "advancement_cost": 3,
         "agenda_points": 2,
-        "code": "02051",
+        "code": "20063",
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
-        "illustrator": "Emilio Rodriguez",
         "keywords": "Research",
         "pack_code": "core2",
         "position": 63,
@@ -1140,12 +1078,11 @@
         "uniqueness": false
     },
     {
-        "code": "01056",
+        "code": "20064",
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 2,
-        "illustrator": "Mark Anthony Taduran",
         "keywords": "Advertisement",
         "pack_code": "core2",
         "position": 64,
@@ -1158,12 +1095,11 @@
         "uniqueness": false
     },
     {
-        "code": "01057",
+        "code": "20065",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 2,
-        "illustrator": "Julian Totinc Tedesco",
         "keywords": "Ambush",
         "pack_code": "core2",
         "position": 65,
@@ -1176,13 +1112,12 @@
         "uniqueness": false
     },
     {
-        "code": "01061",
+        "code": "20066",
         "cost": 8,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 2,
         "flavor": "I hear the shift of every bit amid the flow of the datastream. I hear the whispers of my mothers, and their commands are law. The realm beyond is forbidden.",
-        "illustrator": "Gong Studios",
         "keywords": "Barrier - Bioroid - AP",
         "pack_code": "core2",
         "position": 66,
@@ -1195,13 +1130,12 @@
         "uniqueness": false
     },
     {
-        "code": "04051",
+        "code": "20067",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 1,
         "flavor": "I'm not here to play games. The game is over.",
-        "illustrator": "Wen Xiaodong",
         "keywords": "Code Gate - Bioroid",
         "pack_code": "core2",
         "position": 67,
@@ -1214,13 +1148,12 @@
         "uniqueness": false
     },
     {
-        "code": "01062",
+        "code": "20068",
         "cost": 5,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 2,
         "flavor": "My reputation would precede me, if any could speak of it.",
-        "illustrator": "Gong Studios",
         "keywords": "Sentry - Bioroid - Tracer - Destroyer",
         "pack_code": "core2",
         "position": 68,
@@ -1233,13 +1166,12 @@
         "uniqueness": false
     },
     {
-        "code": "01064",
+        "code": "20069",
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 1,
         "flavor": "Whrrrrr!",
-        "illustrator": "Ed Mattinian",
         "keywords": "Sentry - Destroyer",
         "pack_code": "core2",
         "position": 69,
@@ -1252,13 +1184,12 @@
         "uniqueness": false
     },
     {
-        "code": "01063",
+        "code": "20070",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 2,
         "flavor": "My name is Viktor. Nice to meet you. Would you like to play a game?",
-        "illustrator": "Anna Ignatieva",
         "keywords": "Code Gate - Bioroid - AP",
         "pack_code": "core2",
         "position": 70,
@@ -1271,13 +1202,12 @@
         "uniqueness": false
     },
     {
-        "code": "01058",
+        "code": "20071",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 2,
         "flavor": "\"Do you think they…feel it?\"",
-        "illustrator": "Gong Studios",
         "pack_code": "core2",
         "position": 71,
         "quantity": 1,
@@ -1288,13 +1218,12 @@
         "uniqueness": false
     },
     {
-        "code": "01059",
+        "code": "20072",
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 4,
         "flavor": "\"Why of course, we have six different Haas-Bioroid models serving in a variety of positions at this branch office alone. We here at Haas-Bioroid aren't going to shy away from practicing what we preach, and we pass the savings from increased efficiency on to our valued customers.\"",
-        "illustrator": "Mark Anthony Taduran",
         "pack_code": "core2",
         "position": 72,
         "quantity": 2,
@@ -1305,13 +1234,12 @@
         "uniqueness": false
     },
     {
-        "code": "02070",
+        "code": "20073",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 1,
         "flavor": "Green-two clearance is the highest level of security a corp can gain access to. Legally, anyway.",
-        "illustrator": "Mauricio Herrera",
         "keywords": "Transaction",
         "pack_code": "core2",
         "position": 73,
@@ -1323,13 +1251,12 @@
         "uniqueness": false
     },
     {
-        "code": "01060",
+        "code": "20074",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 2,
         "flavor": "The new heads were in. Their eyes always followed your movements when you unlocked the pressurized container and lifted the lid.",
-        "illustrator": "Matt Zeilinger",
         "pack_code": "core2",
         "position": 74,
         "quantity": 1,
@@ -1340,13 +1267,12 @@
         "uniqueness": false
     },
     {
-        "code": "02013",
+        "code": "20075",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 2,
         "flavor": "\"Eyes forward please.\"",
-        "illustrator": "Mauricio Herrera",
         "keywords": "Bioroid",
         "pack_code": "core2",
         "position": 75,
@@ -1359,12 +1285,11 @@
         "uniqueness": true
     },
     {
-        "code": "04091",
+        "code": "20076",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "haas-bioroid",
         "faction_cost": 2,
-        "illustrator": "Andreas Zafiratos",
         "pack_code": "core2",
         "position": 76,
         "quantity": 1,
@@ -1376,7 +1301,7 @@
         "uniqueness": false
     },
     {
-        "code": "01093",
+        "code": "20077",
         "deck_limit": 1,
         "faction_code": "weyland-consortium",
         "flavor": "Moving Upwards.",
@@ -1395,11 +1320,10 @@
     {
         "advancement_cost": 2,
         "agenda_points": 1,
-        "code": "01094",
+        "code": "20078",
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "flavor": "There are going to be some changes around here.",
-        "illustrator": "Mauricio Herrera",
         "keywords": "Expansion",
         "pack_code": "core2",
         "position": 78,
@@ -1413,10 +1337,9 @@
     {
         "advancement_cost": 3,
         "agenda_points": 2,
-        "code": "02018",
+        "code": "20079",
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
-        "illustrator": "Emilio Rodriguez",
         "keywords": "Research",
         "pack_code": "core2",
         "position": 79,
@@ -1430,11 +1353,10 @@
     {
         "advancement_cost": 5,
         "agenda_points": 3,
-        "code": "04036",
+        "code": "20080",
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "flavor": "\"I use bioroids because I can wipe their memories or just blow their brains out when the job is done. No witnesses means no witnesses.\"",
-        "illustrator": "Gong Studios",
         "keywords": "Security",
         "pack_code": "core2",
         "position": 80,
@@ -1446,13 +1368,12 @@
         "uniqueness": false
     },
     {
-        "code": "02118",
+        "code": "20081",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 3,
         "flavor": "They don't call them dedicated for nothing",
-        "illustrator": "Reza Ilyasa",
         "keywords": "Hostile",
         "pack_code": "core2",
         "position": 81,
@@ -1465,13 +1386,12 @@
         "uniqueness": false
     },
     {
-        "code": "04037",
+        "code": "20082",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 2,
         "flavor": "\"It's not personal. Urban renewal is a necessity of the modern world. It's always someone's home, yours is no different.\"",
-        "illustrator": "Del Borovic",
         "keywords": "Executive",
         "pack_code": "core2",
         "position": 82,
@@ -1484,13 +1404,12 @@
         "uniqueness": true
     },
     {
-        "code": "04099",
+        "code": "20083",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 2,
         "flavor": "GRNDL refineries process many different rare elements unearthed during the fracking process.",
-        "illustrator": "Emilio Rodriguez",
         "keywords": "Facility",
         "pack_code": "core2",
         "position": 83,
@@ -1503,13 +1422,12 @@
         "uniqueness": false
     },
     {
-        "code": "01101",
+        "code": "20084",
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 2,
         "flavor": "Next time, read the Terms of Service more carefully. Or you might find yourself in the danger zone.",
-        "illustrator": "Mike Nesbitt",
         "keywords": "Sentry - Destroyer",
         "pack_code": "core2",
         "position": 84,
@@ -1522,13 +1440,12 @@
         "uniqueness": false
     },
     {
-        "code": "02019",
+        "code": "20085",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 2,
         "flavor": "A symbol of commerce, but beware its bite.",
-        "illustrator": "Christina Davis",
         "keywords": "Sentry - Tracer",
         "pack_code": "core2",
         "position": 85,
@@ -1541,13 +1458,12 @@
         "uniqueness": false
     },
     {
-        "code": "01102",
+        "code": "20086",
         "cost": 10,
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 3,
         "flavor": "\"He had a bit of an ego, ol' Hadrian. his constructs live up to it though.\" -g00ru",
-        "illustrator": "Bruno Balixa",
         "keywords": "Barrier",
         "pack_code": "core2",
         "position": 86,
@@ -1560,12 +1476,11 @@
         "uniqueness": false
     },
     {
-        "code": "04117",
+        "code": "20087",
         "cost": 5,
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 2,
-        "illustrator": "Ed Mattinian",
         "keywords": "Barrier",
         "pack_code": "core2",
         "position": 87,
@@ -1578,13 +1493,12 @@
         "uniqueness": false
     },
     {
-        "code": "01103",
+        "code": "20088",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 1,
         "flavor": "\"I asked for ice as impenetrable as a wall. I can't decide if someone down in R&D has a warped sense of humor or just a very literal mind.\" -Liz Campbell, VP Project Security",
-        "illustrator": "Matt Zeilinger",
         "keywords": "Barrier",
         "pack_code": "core2",
         "position": 88,
@@ -1597,13 +1511,12 @@
         "uniqueness": false
     },
     {
-        "code": "01104",
+        "code": "20089",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 1,
         "flavor": "Who knows what evil lurks in the memory diamonds of men? Weyland knows. -unsigned cyber-graffiti",
-        "illustrator": "Adam S. Doyle",
         "keywords": "Sentry - Tracer",
         "pack_code": "core2",
         "position": 89,
@@ -1616,13 +1529,12 @@
         "uniqueness": false
     },
     {
-        "code": "01098",
+        "code": "20090",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 1,
         "flavor": "The New Angeles Space Elevator, better known as the Beanstalk, is the single greatest triumph of human engineering and ingenuity in history. The Beanstalk makes Earth orbit accessible to everyone…for a small fee.",
-        "illustrator": "Jonathan Lee",
         "keywords": "Transaction",
         "pack_code": "core2",
         "position": 90,
@@ -1634,13 +1546,12 @@
         "uniqueness": false
     },
     {
-        "code": "04079",
+        "code": "20091",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 2,
         "flavor": "\"I'd say it's nothing personal, but corporations are people, too.\"",
-        "illustrator": "Lorraine Schleter",
         "keywords": "Black Ops",
         "pack_code": "core2",
         "position": 91,
@@ -1652,13 +1563,12 @@
         "uniqueness": false
     },
     {
-        "code": "01100",
+        "code": "20092",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 1,
         "flavor": "\"And then there's these two crates. No eID.\"\n\"Just leave those with me and forget you ever saw them.\"",
-        "illustrator": "Andrew Mar",
         "pack_code": "core2",
         "position": 92,
         "quantity": 2,
@@ -1669,7 +1579,7 @@
         "uniqueness": false
     },
     {
-        "code": "01067",
+        "code": "20093",
         "deck_limit": 1,
         "faction_code": "jinteki",
         "flavor": "When You Need the Human Touch.",
@@ -1688,10 +1598,9 @@
     {
         "advancement_cost": 3,
         "agenda_points": 2,
-        "code": "02014",
+        "code": "20094",
         "deck_limit": 3,
         "faction_code": "jinteki",
-        "illustrator": "Gong Studios",
         "keywords": "Research",
         "pack_code": "core2",
         "position": 94,
@@ -1705,10 +1614,9 @@
     {
         "advancement_cost": 4,
         "agenda_points": 2,
-        "code": "01068",
+        "code": "20095",
         "deck_limit": 3,
         "faction_code": "jinteki",
-        "illustrator": "Alexandra Douglass",
         "keywords": "Initiative",
         "pack_code": "core2",
         "position": 95,
@@ -1720,12 +1628,11 @@
         "uniqueness": false
     },
     {
-        "code": "01069",
+        "code": "20096",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 1,
-        "illustrator": "Drew Whitmore",
         "keywords": "Ambush - Research",
         "pack_code": "core2",
         "position": 96,
@@ -1738,13 +1645,12 @@
         "uniqueness": false
     },
     {
-        "code": "02112",
+        "code": "20097",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 4,
         "flavor": "I will serve you…for a time.",
-        "illustrator": "Adam S. Doyle",
         "keywords": "Hostile",
         "pack_code": "core2",
         "position": 97,
@@ -1757,12 +1663,11 @@
         "uniqueness": false
     },
     {
-        "code": "01070",
+        "code": "20098",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 2,
-        "illustrator": "Alice Duke",
         "keywords": "Ambush",
         "pack_code": "core2",
         "position": 98,
@@ -1775,13 +1680,12 @@
         "uniqueness": false
     },
     {
-        "code": "04013",
+        "code": "20099",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 2,
         "flavor": "Himitsu-Bako is a simple ice barrier that appears as a digital puzzle box. What makes it special is the ease with which it can be uninstalled and installed in a different server, throwing up barriers in unexpected places and giving any intruder a curious feeling of déjà vu.",
-        "illustrator": "Andrew Mar",
         "keywords": "Barrier",
         "pack_code": "core2",
         "position": 99,
@@ -1794,13 +1698,12 @@
         "uniqueness": false
     },
     {
-        "code": "01077",
+        "code": "20100",
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 2,
         "flavor": "Forged by Ak.wa on 23.11.79-23. Filed 23.11.79-23.2 with #34k-lw3-21HH-4i.\n//Samurai included.",
-        "illustrator": "Isuardi Therianto",
         "keywords": "Sentry - AP",
         "pack_code": "core2",
         "position": 100,
@@ -1813,13 +1716,12 @@
         "uniqueness": false
     },
     {
-        "code": "04033",
+        "code": "20101",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 1,
         "flavor": "Writing a program that can pass the Turing test is easy. The Gibson-Akamatsu test is a higher bar, and the only AIs to clear it thus far have been the androids. Even some humans have been known to fail.",
-        "illustrator": "Adam S. Doyle",
         "keywords": "Sentry - Destroyer - AP",
         "pack_code": "core2",
         "position": 101,
@@ -1832,13 +1734,12 @@
         "uniqueness": false
     },
     {
-        "code": "01078",
+        "code": "20102",
         "cost": 8,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 1,
         "flavor": "Most runners do their business in full-sim, with their rigs wired directly into their brains. The setup has a large number of advantages, with the runner able to process data and input commands far faster than a traditional meat-bound system. But it also means greater risk.",
-        "illustrator": "Adam S. Doyle",
         "keywords": "Barrier - AP",
         "pack_code": "core2",
         "position": 102,
@@ -1851,13 +1752,12 @@
         "uniqueness": false
     },
     {
-        "code": "02094",
+        "code": "20103",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 2,
         "flavor": "\"This ice sucks.\" -g00ru",
-        "illustrator": "Adam S. Doyle",
         "keywords": "Trap",
         "pack_code": "core2",
         "position": 103,
@@ -1870,13 +1770,12 @@
         "uniqueness": false
     },
     {
-        "code": "04093",
+        "code": "20104",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 2,
         "flavor": "The 'cyber-war' is a war of information, and in a war of information, advance warning can be as good as a killing blow. -Michael Muhama, Musings on Cybercrime",
-        "illustrator": "Andrew Mar",
         "keywords": "Code Gate - AP",
         "pack_code": "core2",
         "position": 104,
@@ -1889,13 +1788,12 @@
         "uniqueness": false
     },
     {
-        "code": "04012",
+        "code": "20105",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 3,
         "flavor": "When Miranda Rhapsody showed up with a teacup giraffe, suddenly everybody wanted one.",
-        "illustrator": "Matt Zeilinger",
         "keywords": "Double",
         "pack_code": "core2",
         "position": 105,
@@ -1907,13 +1805,12 @@
         "uniqueness": false
     },
     {
-        "code": "01072",
+        "code": "20106",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 2,
         "flavor": "The trick isn't hitting the person you were aiming at. It's hitting only the person you were aiming at.",
-        "illustrator": "Christina Davis",
         "keywords": "Gray Ops",
         "pack_code": "core2",
         "position": 106,
@@ -1925,13 +1822,12 @@
         "uniqueness": false
     },
     {
-        "code": "02033",
+        "code": "20107",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 3,
         "flavor": "Smoke and mirrors optional.",
-        "illustrator": "Anna Ignatieva",
         "pack_code": "core2",
         "position": 107,
         "quantity": 2,
@@ -1942,13 +1838,12 @@
         "uniqueness": false
     },
     {
-        "code": "02095",
+        "code": "20108",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "jinteki",
         "faction_cost": 2,
         "flavor": "Despite its appearance, the Hokusai Grid is the most notorious research facility at Jinteki.",
-        "illustrator": "Emilio Rodriguez",
         "keywords": "Region",
         "pack_code": "core2",
         "position": 108,
@@ -1961,7 +1856,7 @@
         "uniqueness": false
     },
     {
-        "code": "01080",
+        "code": "20109",
         "deck_limit": 1,
         "faction_code": "nbn",
         "flavor": "Someone is Always Watching.",
@@ -1980,10 +1875,9 @@
     {
         "advancement_cost": 3,
         "agenda_points": 2,
-        "code": "02115",
+        "code": "20110",
         "deck_limit": 3,
         "faction_code": "nbn",
-        "illustrator": "Matt Zeilinger",
         "keywords": "Research",
         "pack_code": "core2",
         "position": 110,
@@ -1997,11 +1891,10 @@
     {
         "advancement_cost": 3,
         "agenda_points": 1,
-        "code": "04075",
+        "code": "20111",
         "deck_limit": 3,
         "faction_code": "nbn",
         "flavor": "\"The damn raven just kind of cawed at me as I went past. I should have known it was too good to be true.\"",
-        "illustrator": "Adam S. Doyle",
         "keywords": "Ambush",
         "pack_code": "core2",
         "position": 111,
@@ -2013,12 +1906,11 @@
         "uniqueness": false
     },
     {
-        "code": "01087",
+        "code": "20112",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 1,
-        "illustrator": "Gong Studios",
         "keywords": "Ambush - Facility",
         "pack_code": "core2",
         "position": 112,
@@ -2031,12 +1923,11 @@
         "uniqueness": false
     },
     {
-        "code": "01088",
+        "code": "20113",
         "cost": 4,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 2,
-        "illustrator": "Gong Studios",
         "keywords": "Sentry - Tracer - Observer",
         "pack_code": "core2",
         "position": 113,
@@ -2049,13 +1940,12 @@
         "uniqueness": false
     },
     {
-        "code": "02117",
+        "code": "20114",
         "cost": 9,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 3,
         "flavor": "A bright light blossomed, and then the console went dark. That's when she smelled smoke.",
-        "illustrator": "Mike Nesbitt",
         "keywords": "Sentry - Tracer - AP",
         "pack_code": "core2",
         "position": 114,
@@ -2068,13 +1958,12 @@
         "uniqueness": false
     },
     {
-        "code": "02056",
+        "code": "20115",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 1,
         "flavor": "\"Try to close it. Go on. See what it does.\" -Chaos Theory",
-        "illustrator": "Christina Davis",
         "keywords": "Code Gate - Advertisement",
         "pack_code": "core2",
         "position": 115,
@@ -2087,13 +1976,12 @@
         "uniqueness": false
     },
     {
-        "code": "01090",
+        "code": "20116",
         "cost": 8,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 2,
         "flavor": "\"Ever heard of a catch-22?\"\n\"Remind me to forget it.\"",
-        "illustrator": "Outland Entertainment LLC",
         "keywords": "Code Gate",
         "pack_code": "core2",
         "position": 116,
@@ -2106,13 +1994,12 @@
         "uniqueness": false
     },
     {
-        "code": "04096",
+        "code": "20117",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 1,
         "flavor": "\"It can make a real fine roller coaster, provided you're properly stimmed up.\" -Noise",
-        "illustrator": "Ed Mattinian",
         "keywords": "Barrier",
         "pack_code": "core2",
         "position": 117,
@@ -2125,13 +2012,12 @@
         "uniqueness": false
     },
     {
-        "code": "01083",
+        "code": "20118",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 1,
         "flavor": "\"Please stay connected. Priority transfer in progress. An operator will shortly verif-\"",
-        "illustrator": "Mike Nesbitt",
         "pack_code": "core2",
         "position": 118,
         "quantity": 1,
@@ -2142,12 +2028,11 @@
         "uniqueness": false
     },
     {
-        "code": "01084",
+        "code": "20119",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 1,
-        "illustrator": "Mauricio Herrera",
         "keywords": "Gray Ops",
         "pack_code": "core2",
         "position": 119,
@@ -2159,13 +2044,12 @@
         "uniqueness": false
     },
     {
-        "code": "01085",
+        "code": "20120",
         "cost": null,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 3,
         "flavor": "Access to the largest consumer database in the galaxy has its advantages.",
-        "illustrator": "Matt Zeilinger",
         "pack_code": "core2",
         "position": 120,
         "quantity": 3,
@@ -2176,13 +2060,12 @@
         "uniqueness": false
     },
     {
-        "code": "01086",
+        "code": "20121",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 2,
         "flavor": "\"The SEA tipped us off to some suspicious data spikes up by the Castle.\" -Jerome Lock, on-duty tech",
-        "illustrator": "Mauricio Herrera",
         "pack_code": "core2",
         "position": 121,
         "quantity": 2,
@@ -2193,12 +2076,11 @@
         "uniqueness": false
     },
     {
-        "code": "01091",
+        "code": "20122",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 2,
-        "illustrator": "Mike Nesbitt",
         "pack_code": "core2",
         "position": 122,
         "quantity": 1,
@@ -2210,13 +2092,12 @@
         "uniqueness": false
     },
     {
-        "code": "02097",
+        "code": "20123",
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "nbn",
         "faction_cost": 2,
         "flavor": "Keeping tabs on the world, one screen at a time.",
-        "illustrator": "Erfan Fajar",
         "keywords": "Sysop",
         "pack_code": "core2",
         "position": 123,
@@ -2231,12 +2112,11 @@
     {
         "advancement_cost": 3,
         "agenda_points": 1,
-        "code": "02080",
+        "code": "20124",
         "deck_limit": 3,
         "faction_code": "neutral-corp",
         "faction_cost": 0,
         "flavor": "It didn't look like the headquarters of a multi-billion cred company. Probably because it wasn't.",
-        "illustrator": "Bruno Balixa",
         "keywords": "Security",
         "pack_code": "core2",
         "position": 124,
@@ -2250,12 +2130,11 @@
     {
         "advancement_cost": 5,
         "agenda_points": 3,
-        "code": "01106",
+        "code": "20125",
         "deck_limit": 3,
         "faction_code": "neutral-corp",
         "faction_cost": 0,
         "flavor": "\"If it isn't in my terminal by six p.m., heads are going to roll!\"",
-        "illustrator": "Gong Studios",
         "keywords": "Security",
         "pack_code": "core2",
         "position": 125,
@@ -2269,12 +2148,11 @@
     {
         "advancement_cost": 4,
         "agenda_points": 2,
-        "code": "01107",
+        "code": "20126",
         "deck_limit": 3,
         "faction_code": "neutral-corp",
         "faction_cost": 0,
         "flavor": "\"Expensive? Not when you're protecting a fortune as large as ours.\"",
-        "illustrator": "Mauricio Herrera",
         "keywords": "Security",
         "pack_code": "core2",
         "position": 126,
@@ -2286,13 +2164,12 @@
         "uniqueness": false
     },
     {
-        "code": "01108",
+        "code": "20127",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "neutral-corp",
         "faction_cost": 0,
         "flavor": "\"The mining bosses are worse than any downstalk crime lords. Tri-Maf, 4K, Yak, I don't care what gangs you got down there. In Heinlein there's just one law: the He3 must flow.\" -\"Old\" Rick Henry, escaped clone.",
-        "illustrator": "Henning Ludvigsen",
         "pack_code": "core2",
         "position": 127,
         "quantity": 2,
@@ -2304,13 +2181,12 @@
         "uniqueness": false
     },
     {
-        "code": "01109",
+        "code": "20128",
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "neutral-corp",
         "faction_cost": 0,
         "flavor": "It is like the one you just bought, only better.",
-        "illustrator": "Alexandra Douglass",
         "keywords": "Advertisement",
         "pack_code": "core2",
         "position": 128,
@@ -2323,13 +2199,12 @@
         "uniqueness": false
     },
     {
-        "code": "01111",
+        "code": "20129",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "neutral-corp",
         "faction_cost": 0,
         "flavor": "\"Hey, hey! Wake up man. You were under a long time. What'd you see?\"\n\"I…don't remember.\"",
-        "illustrator": "Liiga Smilshkalne",
         "keywords": "Code Gate",
         "pack_code": "core2",
         "position": 129,
@@ -2342,13 +2217,12 @@
         "uniqueness": false
     },
     {
-        "code": "01112",
+        "code": "20130",
         "cost": 1,
         "deck_limit": 3,
         "faction_code": "neutral-corp",
         "faction_cost": 0,
         "flavor": ".//run/hunter-tr/return=true\nclient/sec256IPv7->confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR",
-        "illustrator": "Christina Davis",
         "keywords": "Sentry - Tracer - Observer",
         "pack_code": "core2",
         "position": 130,
@@ -2361,13 +2235,12 @@
         "uniqueness": false
     },
     {
-        "code": "01113",
+        "code": "20131",
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "neutral-corp",
         "faction_cost": 0,
         "flavor": "\"There's nothing worse than seeing that beautiful blue ball of data just out of reach as your connection derezzes. I think they do it just to taunt us.\" -Ele \"Smoke\" Scovak",
-        "illustrator": "Adam S. Doyle",
         "keywords": "Barrier",
         "pack_code": "core2",
         "position": 131,
@@ -2380,13 +2253,12 @@
         "uniqueness": false
     },
     {
-        "code": "01110",
+        "code": "20132",
         "cost": 5,
         "deck_limit": 3,
         "faction_code": "neutral-corp",
         "faction_cost": 0,
         "flavor": "Hedge Fund. Noun. An ingenious device by which the rich get richer even while every other poor SOB is losing his shirt. -The Anarch's Dictionary, Volume Who's Counting?",
-        "illustrator": "Gong Studios",
         "keywords": "Transaction",
         "pack_code": "core2",
         "position": 132,
