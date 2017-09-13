@@ -1,0 +1,135 @@
+[
+    {
+        "code": "11021",
+        "keywords": "Run",
+        "text": "Führe einen Run durch. Zerstöre kosten-frei die erste Karte, auf die du in diesem Run zugreifst und die keine Agenda ist. Der Kon kann Credits in Höhe der Lade- oder Ausspielkosten der Karte, auf die du zugreifst, zahlen, um diese Zerstörung zu verhindern.",
+        "title": "Credit-Crash"
+    },
+    {
+        "code": "11022",
+        "flavor": "\"Man kann in 23 Sekunden viel Spaß haben.\" - Prinzessin Space Kitten",
+        "keywords": "Aktuell",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nDie Textbox jedes einzigartigen Aktivpostens und Upgrades, die keine Regionen sind, ist leer.",
+        "title": "Gerüchteküche"
+    },
+    {
+        "code": "11023",
+        "flavor": "Die Gleichung ausgleichen.",
+        "keywords": "Ice-Brecher - Fracter",
+        "text": "Wenn eine Begegnung endet, in der du Nfr verwendet hast, um alle Subroutinen auf dem Ice auszuschalten, lege 1 Wirkungs-zähler auf Nfr.\nNfr hat +1 Stärke für jeden Wirkungszähler darauf.\n1[credit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.",
+        "title": "Nfr"
+    },
+    {
+        "code": "11024",
+        "flavor": "\"It is not wise to call someone crazy until you fully understand what they're trying to say.\" -Omar Keung",
+        "keywords": "Ice-Brecher - Fracter",
+        "text": "Immer wenn du auf eine <strong>Barriere</strong> triffst, kannst du Büroklammer aus deiner Ablage installieren (und ihre Installationskosten bezahlen).\nX[credit]: +X Stärke. Schalte, falls möglich, bis zu X Subroutinen auf einer <strong>Barriere</strong> aus.",
+        "title": "Büroklammer"
+    },
+    {
+        "code": "11025",
+        "flavor": "Das Programm kam einem Jagdfalken so nahe, wie sie es sich leisten konnte ... zumindest im Moment.",
+        "keywords": "Ice-Brecher - Killer",
+        "text": "2[credit]: Schalte bis zu 2 Subroutinen eines <strong>Wächters</strong> aus.\n2[credit]: +4 Stärke.\n2[credit],<strong> Nimm Goldener Falke zurück in deinen Griff</strong> : Entlade einen <strong>Wächter</strong>. Verwende diese Fähigkeit nur, nachdem du Goldener Falke verwendet hast, um alle Subroutinen auf diesem Wächter während einer einzigen Begegnung auszuschalten.",
+        "title": "Goldener Falke"
+    },
+    {
+        "code": "11026",
+        "flavor": "\"Und das Beste daran ist, es ist legal!\" -Khan",
+        "keywords": "Job",
+        "text": "Wähle ein System und lege 20[credit] aus der Bank auf Temudschin-Kontrakt, wenn du die Karte installierst. Sobald sich keine Credits mehr auf Temudschin-Kontrakt befinden, zerstöre die Karte.\nImmer wenn du einen erfolgreichen Run auf das gewählte System durch führst, nimm 4[credit] von Temudschin-Kontrakt.",
+        "title": "Temudschin-Kontrakt"
+    },
+    {
+        "code": "11027",
+        "keywords": "Natürlich",
+        "text": "Immer wenn du zum ersten Mal in einem Zug an einem Ice vorbei kommst, kannst du einen <strong>Ice-Brecher</strong> von deiner Hand installieren und die Installationskosten um 1 senken.",
+        "title": "Khan: Gerissene Datenschnüfflerin"
+    },
+    {
+        "code": "11028",
+        "flavor": "Sobald eine Sicherheitslücke entdeckt worden ist, gibt es nur ein kleines Zeitfenster, in dem man sie ausnutzen kann, bevor ein Patch kommt. Runner nennen diesen Zeitraum die \"Jagdsaison\".",
+        "keywords": "Run",
+        "text": "Führe einen Run auf F&E durch. Bei Erfolg kannst du einen weiteren Run auf F&E durchführen, sobald dieser Run endet.",
+        "title": "Datenlücke"
+    },
+    {
+        "code": "11029",
+        "keywords": "Job",
+        "text": "Wenn dein Zug beginnt, kannst du bis zu 3[credit] aus deinem Credit-Vorrat auf Automatisierter Handel verschieben.\nWenn dein Zug beginnt, lege 2[credit] aus der Bank auf Automatisierter Handel, falls sich mindestens 6[credit] darauf befinden.\n[click],[trash]: Nimm alle Credits von Automatisierter Handel.",
+        "title": "JobAutomatisierter Handel"
+    },
+    {
+        "code": "11030",
+        "flavor": "\"Live für Sie direkt von der Front, zumindest, bis sie mich umbringen ...\"",
+        "keywords": "Kontakt",
+        "text": "Falls der Kon 5-9[credit] hat, wenn dein Zug beginnt, erhalte 1[credit].\nFalls der Kon 10-14[credit] hat, wenn dein Zug beginnt, ziehe 1 Karte.\nFalls der Kon mindestens 15[credit] hat, wenn dein Zug beginnt, erhalte [click].",
+        "title": "Beth Kilrain-Chang"
+    },
+    {
+        "code": "11031",
+        "flavor": "Wer meine Schätze bedroht, ruft meinen Zorn hervor.",
+        "keywords": "Code-Zugang - Bioroid - AP",
+        "text": "Der Runner kann [click][click] ausgeben, um bis zu 2 Subroutinen auf Fairchild 2.0 auszuschalten.\n[subroutine] Der Runner muss 2[credit] zahlen oder 1 seiner installierten Karten zerstören.\n[subroutine] Der Runner muss 2[credit] zahlen oder 1 seiner installierten Karten zerstören.\n[subroutine] Verursache 1 Hirn-Schaden.",
+        "title": "Fairchild 2.0"
+    },
+    {
+        "code": "11032",
+        "flavor": "Verschmelze zunächst mit dem Angreifer. Steuere dann den Angriff.",
+        "keywords": "Code-Zugang - Psi - AP",
+        "text": "[subroutine] Du und der Runner zahlen geheim 0[credit], 1[credit] oder 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unter scheidet, zieht der Runner 2 Karten.\n[subroutine] Verursache 1 Netz-Schaden.\n[subroutine] Verursache 1 Netz-Schaden.",
+        "title": "Aiki"
+    },
+    {
+        "code": "11033",
+        "flavor": "\"Eiko hier. Die Sache ist erledigt.\"",
+        "keywords": "Verdoppeln - Graue Ops",
+        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\n<trace>Aufspüren 3</trace> Bei Erfolg zerstöre eine installierte Karte, die nicht mit der Fraktion der Identität des Runners übereinstimmt.",
+        "title": "Loyalität vollziehen"
+    },
+    {
+        "code": "11034",
+        "flavor": "\"VERKAUFEN!! Kauf Platin, aber werd die TT-Credits los! Die sind toxisch!\"",
+        "keywords": "Verdoppeln - Graue Ops",
+        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\n<trace>Aufspüren 5</trace> Bei Erfolg füge eine installierte, nicht <strong>virtuelle</strong> Karte dem Griff des Runners hinzu.",
+        "title": "Verriss"
+    },
+    {
+        "code": "11035",
+        "flavor": "Bis der Bericht über den Mord an Jemeljow fertig war, gab es bereits ein Dutzend weitere Morde, die alle Kons gleichermaßen trafen.",
+        "text": "Mische eine beliebige Anzahl Karten vom HQ in F&E. Ziehe dieselbe Anzahl Karten.",
+        "title": "Sonderbericht"
+    },
+    {
+        "code": "11036",
+        "text": "Wenn dein Zug beginnt, kannst du bis zu 3[credit] aus deinem Credit-Vorrat auf C.I.-Fonds verschieben.\nWenn dein Zug beginnt, lege 2[credit] us der Bank auf C.I.-Fonds, falls sich mindestens 6[credit] darauf befinden.\n2[credit],[trash]: Nimm alle Credits von C.I.-Fonds.",
+        "title": "C.I. Fonds"
+    },
+    {
+        "code": "11037",
+        "flavor": "Was ist schon ein kleiner Versicherungsbetrug unter Freunden?",
+        "keywords": "Verdoppeln - Graue Ops - Transaktion",
+        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nZerstöre eine beliebige Anzahl deiner geladenen Karten. Du erhältst 3[credit] für jede zerstörte Karte.",
+        "title": "Liquidation"
+    },
+    {
+        "code": "11038",
+        "flavor": "Stärke schafft Anführer.",
+        "keywords": "Megakon",
+        "text": "Wenn das erste Mal in einem Zug eine Begegnung mit einem Ice mit mindestens 1 Entwicklungsmarker darauf endet, verursache 1 Körper-Schaden.\n<errata>Die Karte wurde erratiert (Text).</errata>",
+        "title": "Weyland Konsortium: Erbauer von Nationen"
+    },
+    {
+        "code": "11039",
+        "flavor": "Sie hatte noch nie gehört, dass ihre Väter so stritten wie heute. Nicht ein Mal. Sie hätte alles gegeben, damit das aufhört.",
+        "text": "Kann nur gespielt werden, falls der Runner mindestens 6[credit] hat.\nDer Runner verliert 2[credit] für jede installierte Ressource. Der Runner kann eine Ressource zerstören, um dies zu verhindern.",
+        "title": "Finanzieller Ruin"
+    },
+    {
+        "code": "11040",
+        "flavor": "\"Solange sich das Geld an der Spitze sammelte, zog es auch die Macht mit sich, bis es schließlich zwei Arten von Gesetzen gab - das für sie und das für uns.\" -Omar Keung, Am Siedepunkt",
+        "keywords": "Hinterhalt",
+        "text": "Falls der Runner auf PriSec zugreift, während die Karte installiert ist, darfst du 2[credit] zahlen, um dem Runner 1 Markierung zu verpassen und 1 Körper-Schaden zu verursachen.",
+        "title": "PriSec"
+    }
+]

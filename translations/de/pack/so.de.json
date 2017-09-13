@@ -1,0 +1,49 @@
+[
+    {
+        "code": "12022",
+        "flavor": "\"An eye for an eye? If you're lucky, that's all you'll lose.\"",
+        "keywords": "Clan",
+        "text": "Whenever you suffer any amount of damage, place 1 power counter on Clan Vengeance.\n[trash]: Trash 1 card from HQ at random for each power counter on Clan Vengeance.",
+        "title": "Clan Vengeance"
+    },
+    {
+        "code": "12023",
+        "flavor": "\"Who watches the watchers? We do.\"",
+        "keywords": "Clan",
+        "text": "[click], [trash]: Make a run. If successful, instead of accessing, pay X[credit] to access up to X cards from this server, if able. X is the number of tags you have.",
+        "title": "Counter Surveillance"
+    },
+    {
+        "code": "12025",
+        "flavor": "\"From code to profit in three easy steps.\"",
+        "keywords": "G-Mod",
+        "text": "The first time the Corp rezzes a piece of ice each turn, gain 2[credit].",
+        "title": "Los: Data Hijacker"
+    },
+    {
+        "code": "12029",
+        "keywords": "Barrier",
+        "text": "Seidr Adaptive Barrier has +1 strength for each piece of ice protecting this server.\n[subroutine] End the run.",
+        "title": "Seidr Adaptive Barrier"
+    },
+    {
+        "code": "12033",
+        "keywords": "Double",
+        "text": "As an additional cost to play this operation, spend [click].\nAdd one of your installed cards to HQ. Install 2 cards from HQ, ignoring all costs.",
+        "title": "Replanting"
+    },
+    {
+        "code": "12037",
+        "flavor": "\"You have two choices: do what I asked, or make me ask again. It's your choice, but if I have to ask again, it will go badly for you.\"",
+        "keywords": "Executive",
+        "text": "When your turn begins, the Runner must pay 1[credit] or trash the top card of the stack.",
+        "title": "Clyde Van Rite"
+    },
+    {
+        "code": "12040",
+        "flavor": "\"All my best tricks were shrugged right off. I ended up having to send a self-destruct code to the whole server.\" - Wyvern",
+        "keywords": "Barrier",
+        "text": "The strength of Self-Adapting Code Wall cannot be lowered.\n[subroutine] End the run.",
+        "title": "Self-Adapting Code Wall"
+    }
+]

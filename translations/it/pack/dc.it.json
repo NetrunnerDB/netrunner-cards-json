@@ -1,0 +1,125 @@
+[
+    {
+        "code": "12001",
+        "flavor": "\"Hitting them when they are weakest sometimes means acting before you want to.\" -Alice Merchant",
+        "keywords": "Run",
+        "text": "Make a run. If you have 2 or fewer cards in your grip, each installed <strong>icebreaker</strong> has +2 strength until the end of the run.",
+        "title": "Pushing the Envelope"
+    },
+    {
+        "code": "12002",
+        "keywords": "Console",
+        "text": "+2[mu]\nThe first time each turn you access a card not in Archives and do not steal or trash it, the Corp must trash 1 card from HQ at random.\nLimit 1 <strong>console</strong> per player.",
+        "title": "Maw"
+    },
+    {
+        "code": "12003",
+        "flavor": "The Archivist tracks all the clans and their members, and official dealings clans have with the various corps. Half law clerk and half historian, he wields a tremendous amount of power doing a job no one else wants, but none can do without.",
+        "keywords": "Connection",
+        "text": "+1[link]\nWhenever the Corp scores an <strong>initiative</strong> or <strong>security</strong> agenda, force the Corp to \"<trace>Trace 1</trace> if unsuccessful, take 1 bad publicity.\"",
+        "title": "The Archivist"
+    },
+    {
+        "code": "12004",
+        "flavor": "1) Find the weakness.\n2) Exploit the weakness.\n3) Repeat.",
+        "text": "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nDerez up to 3 pieces of ice.",
+        "title": "Exploit"
+    },
+    {
+        "code": "12005",
+        "flavor": "\"So, yeah, I just reverse engineered a tracer, and then built it back up with some new lines of code. Pretty stellar.\" -Los",
+        "text": "Expose 1 non-ice card, then make a run.",
+        "title": "Spot the Prey"
+    },
+    {
+        "code": "12006",
+        "flavor": "\"You created a distributed AI replica of yourself and projected it into the network to run for you!?\"",
+        "keywords": "Virtual",
+        "text": "[trash]: Prevent all but 1 net damage.",
+        "title": "Bio-Modeled Network"
+    },
+    {
+        "code": "12007",
+        "flavor": "\"To beat cautious sysops, you've got to get creative. Commandeering Network systems is like using their own strengths against them.\" -Kabonesa Wu",
+        "keywords": "Virtual",
+        "text": "The install cost of each piece of ice that is not installed in the innermost position is increased by 1.",
+        "title": "Network Exchange"
+    },
+    {
+        "code": "12008",
+        "keywords": "Run",
+        "text": "Make a run. When this run ends, add Mad Dash to your score area as an agenda worth 1 agenda point if you stole at least 1 agenda during the run; otherwise, suffer 1 meat damage.",
+        "title": "Mad Dash"
+    },
+    {
+        "code": "12009",
+        "flavor": "\"The newest electronic-warfare rollout from NEXT Design has us sysops drooling.\" -Mason Bellamy",
+        "keywords": "NEXT",
+        "text": "If there is a rezzed piece of <strong>NEXT</strong> ice when you score NEXT Wave 2, you may do 1 brain damage.",
+        "title": "NEXT Wave 2"
+    },
+    {
+        "code": "12010",
+        "flavor": "\"Dismantle. Dissect. Is there really a difference?\"",
+        "keywords": "Sentry - Bioroid - AP - Destroyer",
+        "text": "The Runner can spend [click][click] to break up to 2 subroutines on Zed 2.0.\n[subroutine] Trash 1 hardware.\n[subroutine] Trash 1 hardware.\n[subroutine] If the Runner has spent at least 1 [click] to break a subroutine during this run, do 2 brain damage.",
+        "title": "Zed 2.0"
+    },
+    {
+        "code": "12011",
+        "text": "Defense Construct can be advanced.\n[trash]: Add 1 facedown card from Archive to HQ for each advancement token on Defense Construct. Use this ability only during a run on Archives.",
+        "title": "Defense Construct"
+    },
+    {
+        "code": "12012",
+        "text": "The first time a subroutine on a piece of <strong>AP</strong> ice is broken each turn, do 1 net damage.",
+        "title": "Synth DNA Modification"
+    },
+    {
+        "code": "12013",
+        "flavor": "\"The ultimate aim of martial arts is not having to use them.\" - Miyamoto Musashi",
+        "keywords": "Barrier - AP",
+        "text": "When the Runner passes Kakugo, do 1 net damage.\n[subroutine] End the run.",
+        "title": "Kakugo"
+    },
+    {
+        "code": "12014",
+        "text": "Whenever the Runner avoids or removes 1 or more tags, you may draw 1 card.",
+        "title": "Net Analytics"
+    },
+    {
+        "code": "12015",
+        "flavor": "\"'What does BRE stand for?' Have you seen its Net presence?\" -Bernice Mai",
+        "keywords": "Sentry - Tracer",
+        "text": "[subroutine]<trace>Trace 4</trace> If successful, give the Runner 1 tag.\n[subroutine]<trace>Trace 2</trace> If successful, the Runner accesses 1 fewer cards whenever he or she accesses cards.",
+        "title": "SYNC BRE"
+    },
+    {
+        "code": "12016",
+        "keywords": "Corporation",
+        "text": "Whenever you forfeit an agenda, place 1 advancement token on a card and 1 additional token for each agenda point the agenda was worth.",
+        "title": "Jemison Astronautics: Sacrifice. Audacity. Success."
+    },
+    {
+        "code": "12017",
+        "text": "<strong>Forfeit an agenda</strong>: Rez up to 3 pieces of ice, lowering the cost of each by 2[credit] for each printed agenda point on the forfeited agenda.",
+        "title": "Quarantine System"
+    },
+    {
+        "code": "12018",
+        "text": "As an additional cost to rez Oberth Protocol, forfeit an agenda.\nThe first time you advance a card in or protecting this server each turn, place an additional advancement token on it.",
+        "title": "Oberth Protocol"
+    },
+    {
+        "code": "12019",
+        "flavor": "Senate staffers and clerks of the MCA can be seen thronging Khondi Plaza during break times.",
+        "keywords": "Ritzy",
+        "text": "X[recurring-credit]\nUse these credits to rez ice protecting this server. X is the number of remote servers.",
+        "title": "Khondi Plaza"
+    },
+    {
+        "code": "12020",
+        "text": "[trash]: Cards cannot be installed until the end of the run. Use this abiliy only during a run on this server.",
+        "title": "Signal Jamming"
+    }
+]

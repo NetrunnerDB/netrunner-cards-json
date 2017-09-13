@@ -1,0 +1,134 @@
+[
+    {
+        "code": "11081",
+        "flavor": "\"These things are always there, under the surface, but no one wants to know the truth.\" -Omar Keung, the Flashpoint",
+        "keywords": "Icebreaker - Killer",
+        "text": "Whenever you encounter a <strong>sentry</strong>, you may install MKUltra from your heap (paying its install cost).\n3[credit]: +2 strength. Break up to 2 <strong>sentry</strong> subroutines, if able.",
+        "title": "MKUltra"
+    },
+    {
+        "code": "11082",
+        "flavor": "\"Never, ever, overstay your welcome.\" -Andromeda",
+        "keywords": "Condition",
+        "text": "Install On the Lam on a resource as a hosted condition counter with the text \"[trash]: Avoid up to 3 tags or prevent up to 3 damage.\"",
+        "title": "On the Lam"
+    },
+    {
+        "code": "11083",
+        "flavor": "Her ability to analyze and adapt mid-run bordered on the paranormal.",
+        "keywords": "Run - Stealth",
+        "text": "Make a run, and place 4[credit] on this card, which you may use only during this run. When this run ends, trash 1 program (cannot be prevented) used during this run.",
+        "title": "Cold Read"
+    },
+    {
+        "code": "11084",
+        "flavor": "It is only the illusion of choice.",
+        "text": "Whenever you make a successful run on R&D, you may reveal the top card of R&D. If you do, you may force the Corp to draw that card.",
+        "title": "Equivocation"
+    },
+    {
+        "code": "11085",
+        "flavor": "\"It's the most fundamental element of illusions and running both. In either case, it should be the first skill you master.\" -Ele \"Smoke\" Scovak",
+        "text": "[click], [click], X[credit]: Remove X tags.",
+        "title": "Misdirection"
+    },
+    {
+        "code": "11086",
+        "flavor": "\"It had been hoped that the Network disruptions surrounding the conflict might also disrupt the phenomenon. Evidently, the reverse is true.\" -Joséo Greene, SYNC Analyst",
+        "text": "The first time you trash an installed card each turn, draw 1 card.",
+        "title": "Reaver"
+    },
+    {
+        "code": "11087",
+        "flavor": "This is my USMC-XOB32. There are many like it, but this one is mine.",
+        "keywords": "Current",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp cannot rez non-ice cards during the Runner's turn.",
+        "title": "Interdiction"
+    },
+    {
+        "code": "11088",
+        "flavor": "\"She was riding in a great iron mortar and driving it with the pestle, and as she came she swept away her trail behind her with a kitchen broom.\" -Vasilissa the Beautiful",
+        "keywords": "Icebreaker - AI",
+        "text": "You may host any number of non-<strong>AI icebreaker</strong> programs on Baba Yaga.\nBaba Yaga gains the paid abilities of all hosted <strong>icebreaker</strong> programs.",
+        "title": "Baba Yaga"
+    },
+    {
+        "code": "11089",
+        "keywords": "Code Gate - Bioroid - AP",
+        "text": "[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner trashes 1 of his or her installed cards.\n[subroutine] End the run unless the Runner suffers 1 brain damage.",
+        "title": "Fairchild"
+    },
+    {
+        "code": "11090",
+        "flavor": "Friends give friends advance warning before moving a carrier group down to enforce a no-fly zone.",
+        "keywords": "Terminal",
+        "text": "After you resolve this operation, end your action phase.\nInstall up to 2 cards from Archives (paying all install costs).",
+        "title": "Friends in High Places"
+    },
+    {
+        "code": "11091",
+        "keywords": "Region",
+        "text": "If the Runner has fewer than 6[credit] or no unspent clicks when a successful run on this server ends, you have 1 additional [click] to spend your next turn.\nLimit 1 <strong>region</strong> per server.",
+        "title": "Manta Grid"
+    },
+    {
+        "code": "11092",
+        "keywords": "Code Gate - Psi - Deflector",
+        "text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, choose another server. The Runner is now running on that server instead of passing Mind Game. For the remainder of the run, the Runner must add 1 installed card to the bottom of his or her stack as an additional cost to jack out.",
+        "title": "Mind Game"
+    },
+    {
+        "code": "11093",
+        "keywords": "Region",
+        "text": "If the Runner has fewer than 6[credit] or fewer than 2 cards in his or her grip when there is a successful run on this server, you may look at the top 5 cards of R&D and swap 1 of those cards with a card in HQ.\nLimit 1 <strong>region</strong> per server.",
+        "title": "Nihongai Grid"
+    },
+    {
+        "code": "11094",
+        "flavor": "//Connection Terminated",
+        "keywords": "Barrier - Tracer",
+        "text": "When the Runner encounters IP Block, give him or her 1 tag if there is an installed <strong>AI</strong>.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
+        "title": "IP Block"
+    },
+    {
+        "code": "11095",
+        "flavor": "Truth like the sunlight shines above all. ",
+        "keywords": "Sentry - Tracer",
+        "text": "When the Runner encounters Thoth, give him or her 1 tag.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, the Runner loses 1[credit] for each tag he or she has.",
+        "title": "Thoth"
+    },
+    {
+        "code": "11096",
+        "flavor": "\"I don't get paid to be calm.\"",
+        "keywords": "Executive",
+        "text": "When your turn begins, place 1 advancement token on Anson Rose.\nWhenever you rez a piece of ice, you may move any number of advancement tokens from Anson Rose to that ice.",
+        "title": "Anson Rose"
+    },
+    {
+        "code": "11097",
+        "keywords": "Code Gate - AP",
+        "text": "Mausolus can be advanced.\nIf Mausolus has 3 or more advancement tokens on it, do the parenthetical text instead (otherwise, do not resolve it).\n[subroutine] The Corp gains 1[credit]. (The Corp gains 3[credit].)\n[subroutine] Do 1 net damage. (Do 3 net damage.)\n[subroutine] Give the Runner 1 tag. (Give the Runner 1 tag and end the run.)",
+        "title": "Mausolus"
+    },
+    {
+        "code": "11098",
+        "flavor": "There is a special place in hell for the first person who mined cyberspace.",
+        "keywords": "Sentry - Destroyer",
+        "text": "If Sapper is accessed from R&D, the runner must reveal it.\nWhen the Runner accesses Sapper, he or she encounters it. Ignore this ability if the Runner accesses Sapper from Archives.\n[subroutine] Trash 1 program.",
+        "title": "Sapper"
+    },
+    {
+        "code": "11099",
+        "flavor": "Walk loudly and carry a bigger stick.",
+        "keywords": "Security",
+        "text": "When you score Show of Force, do 2 meat damage.",
+        "title": "Show of Force"
+    },
+    {
+        "code": "11100",
+        "flavor": "\"Get those civilians off the street. No more collateral damage.\" -Commissioner Dawn",
+        "keywords": "Current",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe Runner's maximum hand size is reduced by 1.",
+        "title": "Enforced Curfew"
+    }
+]

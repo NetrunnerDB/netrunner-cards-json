@@ -3,72 +3,84 @@
         "code": "adam",
         "color": "000000",
         "is_mini": true,
-        "name": "Adam"
+        "name": "Adam",
+        "side_code": "runner"
     },
     {
         "code": "anarch",
         "color": "FF4500",
         "is_mini": false,
-        "name": "Anarch"
+        "name": "Anarch",
+        "side_code": "runner"
     },
     {
         "code": "apex",
         "color": "000000",
         "is_mini": true,
-        "name": "Apex"
+        "name": "Apex",
+        "side_code": "runner"
     },
     {
         "code": "criminal",
         "color": "4169E1",
         "is_mini": false,
-        "name": "Criminal"
+        "name": "Criminal",
+        "side_code": "runner"
     },
     {
         "code": "haas-bioroid",
         "color": "8A2BE2",
         "is_mini": false,
-        "name": "Haas-Bioroid"
+        "name": "Haas-Bioroid",
+        "side_code": "corp"
     },
     {
         "code": "jinteki",
         "color": "DC143C",
         "is_mini": false,
-        "name": "Jinteki"
+        "name": "Jinteki",
+        "side_code": "corp"
     },
     {
         "code": "nbn",
         "color": "FF8C00",
         "is_mini": false,
-        "name": "NBN"
+        "name": "NBN",
+        "side_code": "corp"
     },
     {
         "code": "neutral-corp",
         "color": "808080",
         "is_mini": false,
-        "name": "Neutral"
+        "name": "Neutral",
+        "side_code": "corp"
     },
     {
         "code": "neutral-runner",
         "color": "808080",
         "is_mini": false,
-        "name": "Neutral"
+        "name": "Neutral",
+        "side_code": "runner"
     },
     {
         "code": "shaper",
         "color": "32CD32",
         "is_mini": false,
-        "name": "Shaper"
+        "name": "Shaper",
+        "side_code": "runner"
     },
     {
         "code": "sunny-lebeau",
         "color": "000000",
         "is_mini": true,
-        "name": "Sunny Lebeau"
+        "name": "Sunny Lebeau",
+        "side_code": "runner"
     },
     {
         "code": "weyland-consortium",
         "color": "006400",
         "is_mini": false,
-        "name": "Weyland Consortium"
+        "name": "Weyland Consortium",
+        "side_code": "corp"
     }
 ]

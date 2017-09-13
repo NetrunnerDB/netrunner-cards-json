@@ -1,4 +1,4 @@
-Netrunner cards JSON data [![Build status](https://circleci.com/gh/zaroth/netrunner-cards-json/tree/master.svg?style=shield)](https://circleci.com/gh/zaroth/netrunner-cards-json)
+Netrunner cards JSON data [![Build status](https://circleci.com/gh/Alsciende/netrunner-cards-json/tree/master.svg?style=shield)](https://circleci.com/gh/zaroth/netrunner-cards-json)
 =========
 
 The goal of this repository is to store [NetrunnerDB](http://netrunnerdb.com) card data in a format that can be easily updated by multiple people and their changes reviewed.
@@ -25,6 +25,7 @@ Required properties are in **bold**.
 * **name** - properly formatted name of the cycle. Examples: `"Core Set"`, `"SanSan"`, `"Order and Chaos"`.
 * **position** - number of the cycle, counting in chronological order. For packs released outside of normal constructed play cycles (such as draft packs), the special cycle with position `0` should be used. Examples: `1` for Core Set, `8` for SanSan Cycle.
 * **size** - number of packs in the cycle. Examples: `1` for big boxes, `6` for regular datapack cycles.
+* **rotated** - indicates if this cycle has been rotated out of the tournament-legal cardpool.
 
 #### Pack schema
 
@@ -43,7 +44,7 @@ Required properties are in **bold**.
 * **code** - 5 digit card identifier. Consists of two zero-padded numbers: first two digits are the cycle position, last three are position of the card within the cycle (printed on the card). Examples: `"01048"` for Sacrificial Construct (48th card in cycle) from Core Set (1st cycle), `"10100"` for The Price of Freedom (100th card in cycle) from Mumbad (10th cycle).
 * cost - Play/rez cost of the card. Relevant for all cards except identities and agendas. May be `null` - this value is used when the card has a special, possibly variable, cost. Examples: `5` for Hedge Fund, `3` for Desperado, `null` for Psychographics.
 * **faction_code** - Faction this cards belongs to. Possible values: `"adam"`, `"anarch"`,
-`"apex"`, `"criminal"`, `"shaper"`, `"sunny-lebeau"`, `"haas-bioroid"`, `"jinteki"`, `"nbn"`, `"weyland-consortium"`, `"neutral"` 
+`"apex"`, `"criminal"`, `"shaper"`, `"sunny-lebeau"`, `"neutral-runner"`, `"haas-bioroid"`, `"jinteki"`, `"nbn"`, `"weyland-consortium"`, `"neutral-corp"` 
 * faction_cost - Influence cost of this card. Relevant for all cards except identities. Examples: `0` for Sure Gamble, `5` for Escher. 
 * flavor - Flavor text of the card. May be empty.
 * illustrator - Illustrator's name.
@@ -59,7 +60,7 @@ Required properties are in **bold**.
 * strength - Relevant for programs and ICE. May be `null` - this value is used when the card has a special, possibly variable, strength. Examples: `1` for Ice Wall, `0` for Crypsis, `null` for Darwin.
 * text - Text of the card.
 * **title** - Name of the card.
-* trash_cost - Trash cost of the card. Relevant for assets, upgrades and ICE.
+* trash_cost - Trash cost of the card. Relevant for assets, upgrades, operations and ICE.
 * **type_code** - Type of the card. Possible values: `"agenda"`, `"asset"`, `"event"`, `"hardware"`, `"ice"`, `"identity"`, `"operation"`, `"program"`, `"resource"`, `"upgrade"`.
 * **uniqueness** - True if the card is unique (black diamond printed next to the title), false otherwise. Possible values: `true`, `false`.
 
@@ -107,6 +108,14 @@ These can be used in a card's `text` section.
 * `[nbn]`
 * `[weyland-consortium]`
 
-Also, traces are surrounded by the custom tag `<trace></trace>`. For example, `<trace>Trace 2</trace> Do 1 net damage.` results in the following: 
 
-> **Trace<sup>2</sup>**– Do 1 net damage. 
+#### Custom Tags ####
+
+The `text` and `flavor` properties of a card may use custom tags. These are:
+
+* Card with errata use the `<errata>` tag, e.g. `<errata>Errata from FAQ 3.0.1</errata>` for Wireless Net Pavillion.
+* Cards designed by World Champions use the `<champion>` tag (usually as the `flavor`), e.g. `<champion>Designed by 2012 World Champion Jeremy Zwirn</champion>` for Architect.
+* Traces use the `<trace>` tag. For example, `<trace>Trace 2</trace> Do 1 net damage.` results in the following:
+ 
+  > **Trace<sup>2</sup>**– Do 1 net damage. 
+

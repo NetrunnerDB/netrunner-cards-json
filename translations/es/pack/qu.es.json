@@ -1,0 +1,129 @@
+[
+    {
+        "code": "11101",
+        "keywords": "Console",
+        "text": "+2[mu]\nOnce per turn, when you encounter a piece of ice, you may reduce your maximum hand size by 1 until the beginning of your next turn. If you do, the strength of that ice is lowered to 0 for the remainder of the encounter.\nLimit 1 <strong>console</strong> per player.",
+        "title": "Şifr"
+    },
+    {
+        "code": "11102",
+        "flavor": "Open yourself to the universe.",
+        "keywords": "Icebreaker - Killer",
+        "text": "When an encounter in which you used Sūnya to break all subroutines on that piece of ice ends, place 1 power counter on Sūnya.\nSūnya has +1 strength for each power counter on it.\n2[credit]: Break <strong>sentry</strong> subroutine.",
+        "title": "Sūnya"
+    },
+    {
+        "code": "11103",
+        "flavor": "\"A little birdie told me...\" -Khan",
+        "text": "X[credit],[trash]: Prevent X damage from a card currently being accessed.",
+        "title": "Recon Drone"
+    },
+    {
+        "code": "11104",
+        "keywords": "Virus",
+        "text": "Install only if you made a successful run on a central server this turn.\nWhen your turn begins, gain 1[credit] for every 5[credit] in the Corp's credit pool.\nTrash Tapwrm if the Corp purges virus counters.",
+        "title": "Tapwrm"
+    },
+    {
+        "code": "11105",
+        "flavor": "\"Everything leaves a ripple in cyberspace. If you can find the ripples, nothing can hide.\" -Khan",
+        "text": "When your turn begins, choose a server.\n[click],2[credit]: Make a run on the chosen server. Prevent the first subroutine that would resolve this run from resolving.",
+        "title": "Tracker"
+    },
+    {
+        "code": "11106",
+        "flavor": "\"You want to do business in Los Pistoleros turf, then you gotta deal with me.\"",
+        "keywords": "Connection",
+        "text": "Whenever an agenda is scored or stolen, place 2 power counters on Aaron Marrón.\n<strong>Hosted power counter:</strong> Remove 1 tag and draw 1 card.",
+        "title": "Aaron Marrón"
+    },
+    {
+        "code": "11107",
+        "text": "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nTake an additional turn after this one. Remove Encore from the game instead of trashing it.",
+        "title": "Encore"
+    },
+    {
+        "code": "11108",
+        "flavor": "Faster than the eye can follow.",
+        "keywords": "Icebreaker - Killer",
+        "text": "1[credit]: Break <strong>sentry</strong> subroutine.\nX[credit]: +X strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card.",
+        "title": "Fawkes"
+    },
+    {
+        "code": "11109",
+        "keywords": "Priority",
+        "text": "Play only as your first [click] and only if the Corp scored no agendas during his or her last turn.\nGain 10[credit]. The Corp gains 5[credit]. You cannot initiate any runs this turn.",
+        "title": "Peace in Our Time"
+    },
+    {
+        "code": "11110",
+        "keywords": "Security",
+        "text": "Place 1 agenda counter on Sensor Net Activation when you score it.\n<strong>Hosted agenda counter:</strong> Rez a <strong>bioroid</strong>, ignoring all costs. When the turn ends, derez that <strong>bioroid</strong>.",
+        "title": "Sensor Net Activation"
+    },
+    {
+        "code": "11111",
+        "flavor": "It required a hexadecimal code along with biometrics, delivered by way of BMI.",
+        "keywords": "Terminal - Transaction",
+        "text": "After you resolve this operation, end your action phase.\nGain 8[credit] and draw 4 cards.",
+        "title": "Violet Level Clearance"
+    },
+    {
+        "code": "11112",
+        "flavor": "\"Ice is not meant to kill; just slow or cripple the Runner. Killing is my job.\" - Tori Hanzō",
+        "keywords": "Barrier - AP",
+        "text": "Whenever the Runner breaks a subroutine on Chiyashi while there is an <strong>AI</strong> installed, trash the top 2 cards of the Runner's stack.\n[subroutine] Do 2 net damage.\n[subroutine] Do 2 net damage.\n[subroutine] End the run.",
+        "title": "Chiyashi"
+    },
+    {
+        "code": "11113",
+        "keywords": "Terminal",
+        "text": "After you resolve this operation, end your action phase.\nLook at the top 5 cards of R&D. If any of those cards are agendas, assets, or upgrades, you may install 1 of those cards in a remote server.",
+        "title": "Psychokinesis"
+    },
+    {
+        "code": "11114",
+        "keywords": "Security",
+        "text": "The Runner's base link strength is reduced to 0 during the first trace each turn.\nWhenever the Runner increases his or her link strength by spending credits, gain 1[credit] for every 2[credit] spent.",
+        "title": "Net Quarantine"
+    },
+    {
+        "code": "11115",
+        "keywords": "Code Gate",
+        "text": "If Herald is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Herald, he or she encounters it. Ignore this ability if the Runner accesses Herald from Archives.\n[subroutine] The Corp gains 2[credit].\n[subroutine] The Corp may pay up to 2[credit] to place that number of advancement tokens on a card that can be advanced.",
+        "title": "Herald"
+    },
+    {
+        "code": "11116",
+        "flavor": "The truth hurts.",
+        "keywords": "Sentry - Tracer",
+        "text": "[subroutine] The Corp gains 2[credit].\n[subroutine] The Runner loses 2[credit].\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
+        "title": "Veritas"
+    },
+    {
+        "code": "11117",
+        "flavor": "\"My job? I provide legal exculpation and sign everything. It pays very well.\"",
+        "keywords": "Character",
+        "text": "While the Runner has fewer than 6[credit], Bryan Stinson gains \"[click]: Play a <strong>transaction</strong> operation from Archives, ignoring all costs. Remove that <strong>transaction</strong> from the game instead of trashing it.\"",
+        "title": "Bryan Stinson"
+    },
+    {
+        "code": "11118",
+        "text": "Gain 1[credit] when your turn begins.\nWhenever you gain credits through a card ability other than from NASX, you may spend up to 2[credit] to place that many power counters on NASX.\n[click],[trash]: Gain 2[credit] for each power counter on NASX.",
+        "title": "NASX"
+    },
+    {
+        "code": "11119",
+        "flavor": "One way to get rid of a virus is to get a nastier virus.",
+        "keywords": "Code Gate - Tracer",
+        "text": "[subroutine] <trace>Trace 4</trace> If successful, purge virus counters.\n[subroutine] <trace>Trace 3</trace> If successful, trash 1 <strong>virus</strong>.\n[subroutine] <trace>Trace 2</trace> If successful, remove a <strong>virus</strong> in the heap from the game.\n[subroutine] <trace>Trace 1</trace> If successful, end the run.",
+        "title": "Macrophage"
+    },
+    {
+        "code": "11120",
+        "flavor": "\"Guilty.\"\n\"Guilty.\"\n\"Guilty.\"",
+        "keywords": "Sentry",
+        "text": "[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] The Runner trashes 1 of his or her installed cards.\n[subroutine] The Runner trashes 1 of his or her installed cards.",
+        "title": "Tribunal"
+    }
+]

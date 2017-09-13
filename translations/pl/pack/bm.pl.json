@@ -1,0 +1,135 @@
+[
+    {
+        "code": "11021",
+        "keywords": "Run",
+        "text": "Make a run. Trash the first non-agenda card you access during this run at no cost. The Corp can spend credits equal to the rez or play cost of the accessed card to prevent this trash.",
+        "title": "Credit Crash"
+    },
+    {
+        "code": "11022",
+        "flavor": "\"You can have a lot of fun in 23 seconds.\" -Princess Space Kitten",
+        "keywords": "Current",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe text box of each unique non-<strong>region</strong> asset and upgrade is blank.",
+        "title": "Rumor Mill"
+    },
+    {
+        "code": "11023",
+        "flavor": "Balance out the equation.",
+        "keywords": "Icebreaker - Fracter",
+        "text": "When an encounter in which you used Nfr to break all subroutines on that piece of ice ends, place 1 power counter on Nfr.\nNfr has +1 strength for each power counter on it.\n1[credit]: Break <strong>barrier</strong> subroutine.",
+        "title": "Nfr"
+    },
+    {
+        "code": "11024",
+        "flavor": "\"It is not wise to call someone crazy until you fully understand what they're trying to say.\" -Omar Keung",
+        "keywords": "Icebreaker - Fracter",
+        "text": "Whenever you encounter a <strong>barrier</strong>, you may install Paperclip from your heap (paying its install cost).\nX[credit]: +X strength. Break up to X <strong>barrier</strong> subroutines, if able.",
+        "title": "Paperclip"
+    },
+    {
+        "code": "11025",
+        "flavor": "The program was as close to a hunting raptor as she could afford...for now.",
+        "keywords": "Icebreaker - Killer",
+        "text": "2[credit]: Break up to 2 <strong>sentry</strong> subroutines.\n2[credit]: +4 strength.\n2[credit], <strong>return Golden to your grip</strong>: Derez a <strong>sentry</strong>. Use this ability only after using Golden to break all the subroutines on that <strong>sentry</strong> during a single encounter.",
+        "title": "Golden"
+    },
+    {
+        "code": "11026",
+        "flavor": "\"The best part is, it's legal!\" -Khan",
+        "keywords": "Job",
+        "text": "Choose a server and place 20[credit] from the bank on Temüjin Contract when you install it. When there are no credits left on Temüjin Contract, trash it.\nWhenever you make a successful run on the chosen server, take 4[credit] from Temüjin Contract.",
+        "title": "Temüjin Contract"
+    },
+    {
+        "code": "11027",
+        "keywords": "Natural",
+        "text": "The first time you pass a piece of ice each turn, you may install an <strong>icebreaker</strong> from your hand, lowering the install cost by 1.",
+        "title": "Khan: Savvy Skiptracer"
+    },
+    {
+        "code": "11028",
+        "flavor": "Once a security flaw is identified, there's only a limited window to exploit it before it's patched. Runners call this period \"open season.\"",
+        "keywords": "Run",
+        "text": "Make a run on R&D. If successful, you may make another run on R&D when this run ends.",
+        "title": "Data Breach"
+    },
+    {
+        "code": "11029",
+        "keywords": "Job",
+        "text": "When your turn begins, you may move up to 3[credit] from your credit pool to Algo Trading.\nWhen your turn begins, place 2[credit] on Algo Trading from the bank if there are at least 6[credit] on it.\n[click],[trash]: Take all credits from Algo Trading.",
+        "title": "Algo Trading"
+    },
+    {
+        "code": "11030",
+        "flavor": "\"Coming to you live from the front lines, for now, unless they kill me...\"",
+        "keywords": "Connection",
+        "text": "If the Corp has 5-9[credit] when your turn begins, gain 1[credit].\nIf the Corp has 10-14[credit] when your turn begins, draw 1 card.\nIf the Corp has at least 15[credit] when your turn begins, gain [click].",
+        "title": "Beth Kilrain-Chang"
+    },
+    {
+        "code": "11031",
+        "flavor": "To threaten my treasures is to incur my wrath.",
+        "keywords": "Code Gate - Bioroid - AP",
+        "text": "The Runner can spend [click][click] to break up to 2 subroutines on Fairchild 2.0.\n[subroutine] The Runner must pay 2[credit] or trash 1 of his or her installed cards.\n[subroutine] The Runner must pay 2[credit] or trash 1 of his or her installed cards.\n[subroutine] Do 1 brain damage.",
+        "title": "Fairchild 2.0"
+    },
+    {
+        "code": "11032",
+        "flavor": "First, blend with the attacker. Then, control the attack.",
+        "keywords": "Code Gate - Psi - AP",
+        "text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, the Runner draws 2 cards.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.",
+        "title": "Aiki"
+    },
+    {
+        "code": "11033",
+        "flavor": "\"Eiko here. It's done.\"",
+        "keywords": "Double - Gray Ops",
+        "text": "As an additional cost to play this operation, spend [click].\n<trace>Trace 3</trace> If successful, trash an installed card that does not match the faction of the Runner's identity.",
+        "title": "Enforcing Loyalty"
+    },
+    {
+        "code": "11034",
+        "flavor": "\"SELL!! Buy platinum, but GET OUT OF THE TT CREDIT! It is TOXIC!\"",
+        "keywords": "Double - Gray Ops",
+        "text": "As an additional cost to play this operation, spend [click].\n<trace>Trace 5</trace> If successful, add an installed non-<strong>virtual</strong> card to the Runner's grip.",
+        "title": "Hatchet Job"
+    },
+    {
+        "code": "11035",
+        "flavor": "By the time the report of Emelyov's murder was produced, there had already been a dozen more, hitting all the corps.",
+        "text": "Shuffle any number of cards from HQ into R&D. Draw that number of cards.",
+        "title": "Special Report"
+    },
+    {
+        "code": "11036",
+        "text": "When your turn begins, you may move up to 3[credit] from your credit pool to C.I. Fund.\nWhen your turn begins, place 2[credit] on C.I. Fund from the bank if there are at least 6[credit] on it.\n2[credit],[trash]: Take all credits from C.I. Fund.",
+        "title": "C.I. Fund"
+    },
+    {
+        "code": "11037",
+        "flavor": "What's a little insurance fraud between friends?",
+        "keywords": "Double - Gray Ops - Transaction",
+        "text": "As an additional cost to play this operation, spend [click].\nTrash any number of your rezzed cards and gain 3[credit] for each card trashed.",
+        "title": "Liquidation"
+    },
+    {
+        "code": "11038",
+        "flavor": "Strength makes leaders.",
+        "keywords": "Megacorp",
+        "text": "The first time an encounter with a piece of ice with at least 1 advancement token ends each turn, do 1 meat damage.\n<errata>Errata from FAQ 3.1.1</errata>",
+        "title": "Weyland Consortium: Builder of Nations"
+    },
+    {
+        "code": "11039",
+        "flavor": "She'd never heard her dads argue like this. Not ever. She'd give anything to make it stop.",
+        "text": "Play only if the Runner has at least 6[credit].\nThe Runner loses 2[credit] for each installed resource. The Runner can trash a resource to prevent this.",
+        "title": "Financial Collapse"
+    },
+    {
+        "code": "11040",
+        "flavor": "\"While the money pooled at the top, the power went with it, until there were two sets of laws: one for them, one for us\" -Omar Keung, the Flashpoint",
+        "keywords": "Ambush",
+        "text": "If the Runner accesses Prisec while installed, you may pay 2[credit] to give the Runner 1 tag and do 1 meat damage.",
+        "title": "Prisec"
+    }
+]
