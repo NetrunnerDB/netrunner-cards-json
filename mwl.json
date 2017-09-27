@@ -15,7 +15,7 @@
         },
         "code": "NAPD_MWL_1.0",
         "date_start": "2016-02-01",
-        "global_penalty": true,
+        "penalty_type": "subtract_global_influence",
         "name": "NAPD MWL 1.0"
     },
     {
@@ -38,7 +38,7 @@
         },
         "code": "NAPD_MWL_1.1",
         "date_start": "2016-08-01",
-        "global_penalty": true,
+        "penalty_type": "subtract_global_influence",
         "name": "NAPD MWL 1.1"
     },
     {
@@ -66,7 +66,41 @@
         },
         "code": "NAPD_MWL_1.2",
         "date_start": "2017-04-12",
-        "global_penalty": false,
+        "penalty_type": "add_universal_influence",
         "name": "NAPD MWL 1.2"
+    },
+    {
+        "cards": {
+            "03035": 3,
+            "03038": 3,
+            "08061": 0,
+            "08068": 3,
+            "08086": 3,
+            "09026": 3,
+            "09053": 3,
+            "10018": 3,
+            "10019": 3,
+            "10049": 0,
+            "10050": 3,
+            "10053": 0,
+            "10055": 0,
+            "11026": 0,
+            "11049": 3,
+            "11090": 0,
+            "11101": 0,
+            "11106": 0,
+            "12048": 3,
+            "12070": 3,
+            "12089": 0,
+            "12103": 0,
+            "13032": 3,
+            "13051": 3,
+            "20050": 3,
+            "20052": 3
+        },
+        "code": "NAPD_MWL_2.0",
+        "date_start": "2017-10-01",
+        "penalty_type": "exclusive_allowed_quantity",
+        "name": "NAPD MWL 2.0"
     }
 ]
