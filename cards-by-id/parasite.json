@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "01012",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 2,
+        "id": "parasite",
+        "influence_limit": null,
+        "keywords": "Virus",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Install Parasite only on a rezzed piece of ice.\nHost ice has -1 strength for each virus counter on Parasite and is trashed if its strength is 0 or less.\nWhen your turn begins, place 1 virus counter on Parasite.",
+        "title": "Parasite",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

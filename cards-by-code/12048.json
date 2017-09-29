@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12048",
+        "cost": 6,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 3,
+        "id": "inversificator",
+        "influence_limit": null,
+        "keywords": "Icebreaker - Decoder",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 2,
+        "text": "The first time you pass a piece of ice each turn in which you used Inversificator to break all subroutines, you may swap that ice with another piece of ice.\n1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.",
+        "title": "Inversificator",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

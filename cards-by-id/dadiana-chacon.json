@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12049",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "id": "dadiana-chacon",
+        "influence_limit": null,
+        "keywords": "Connection",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "When your turn begins, gain 1[credit] if you have fewer than 6[credit].\nWhenever you have 0[credit], trash Dadiana Chacon and take 3 meat damage.",
+        "title": "Dadiana Chacon",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

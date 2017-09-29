@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "07047",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 2,
+        "id": "vigil",
+        "influence_limit": null,
+        "keywords": "Console",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "+1[mu]\nWhen your turn begins, draw 1 card if the Corp has cards in HQ equal to his or her maximum hand size.\nLimit 1 <strong>console</strong> per player.",
+        "title": "Vigil",
+        "trash_cost": null,
+        "type_code": "hardware",
+        "uniqueness": true
+    }
+]

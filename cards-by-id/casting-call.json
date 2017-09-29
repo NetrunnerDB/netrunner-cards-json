@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "08096",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "casting-call",
+        "influence_limit": null,
+        "keywords": "Condition",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Install an agenda from HQ faceup and install Casting Call on that agenda as a hosted condition counter with text \"Whenever the Runner accesses this agenda, he or she takes 2 tags.\"",
+        "title": "Casting Call",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

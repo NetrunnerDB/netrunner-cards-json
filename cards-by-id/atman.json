@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "03040",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 3,
+        "id": "atman",
+        "influence_limit": null,
+        "keywords": "Icebreaker - AI",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 0,
+        "text": "When you install Atman, you may pay X[credit] to place X power counters on Atman.\nAtman has +1 strength for each power counter on it.\n1[credit]: Break ice subroutine on a piece of ice that has strength equal to Atman's strength.",
+        "title": "Atman",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

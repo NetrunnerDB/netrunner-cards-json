@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11017",
+        "cost": null,
+        "deck_limit": 1,
+        "faction_code": "nbn",
+        "faction_cost": null,
+        "id": "nbn-controlling-the-message",
+        "influence_limit": 12,
+        "keywords": "Megacorp",
+        "memory_cost": null,
+        "minimum_deck_size": 45,
+        "side_code": "corp",
+        "strength": null,
+        "text": "The first time the Runner trashes an installed Corp card each turn, you may <trace>trace 4</trace> If successful, give the Runner 1 tag (cannot be avoided).",
+        "title": "NBN: Controlling the Message",
+        "trash_cost": null,
+        "type_code": "identity",
+        "uniqueness": false
+    }
+]

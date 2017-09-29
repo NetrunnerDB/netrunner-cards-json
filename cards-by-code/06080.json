@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06080",
+        "cost": null,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "id": "angel-arena",
+        "influence_limit": null,
+        "keywords": "Location",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Place X power counters on Angel Arena when it is installed. When there are no power counters left on Angel Arena, trash it.\n<strong>Hosted power counter:</strong> Reveal the top card of your stack. You may add that card to the bottom of your stack.",
+        "title": "Angel Arena",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

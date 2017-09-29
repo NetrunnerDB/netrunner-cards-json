@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "02104",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 3,
+        "id": "faerie",
+        "influence_limit": null,
+        "keywords": "Icebreaker - Killer",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 2,
+        "text": "0[credit]: Break <strong>sentry</strong> subroutine.\n1[credit]: +1 strength.\nWhen an encounter with a piece of ice in which you used Faerie to break a subroutine ends, trash Faerie.",
+        "title": "Faerie",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

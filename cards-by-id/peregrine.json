@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11044",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "id": "peregrine",
+        "influence_limit": null,
+        "keywords": "Icebreaker - Decoder",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 2,
+        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n3[credit]: +3 strength.\n2[credit], <strong>return Peregrine to your grip</strong>: Derez a <strong>code gate</strong>. Use this ability only after using Peregrine to break all the subroutines on that <strong>code gate</strong> during a single encounter.",
+        "title": "Peregrine",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

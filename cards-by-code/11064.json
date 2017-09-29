@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11064",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "id": "saker",
+        "influence_limit": null,
+        "keywords": "Icebreaker - Fracter",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 1,
+        "text": "1[credit]: Break <strong>barrier</strong> subroutine.\n2[credit]: +2 strength.\n2[credit], <strong>return Saker to your grip</strong>: Derez a <strong>barrier</strong>. Use this ability only after using Saker to break all the subroutines on that <strong>barrier</strong> during a single encounter.",
+        "title": "Saker",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

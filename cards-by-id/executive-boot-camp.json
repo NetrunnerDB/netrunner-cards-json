@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06088",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 1,
+        "id": "executive-boot-camp",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "When your turn begins, you may rez a card, lowering the rez cost by 1[credit].\n1[credit],[trash]: Search R&D for an asset, reveal it, and add it to HQ. Shuffle R&D.",
+        "title": "Executive Boot Camp",
+        "trash_cost": 3,
+        "type_code": "asset",
+        "uniqueness": false
+    }
+]

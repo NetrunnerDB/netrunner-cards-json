@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "10097",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 2,
+        "id": "aghora",
+        "influence_limit": null,
+        "keywords": "Icebreaker - AI - Deva",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 2,
+        "text": "1[credit]: Break ice subroutine on a piece of ice that has a rez cost of 5 or greater.\n1[credit]: +1 strength.\n2[credit]: Swap Aghora with a <strong>deva</strong> program from your grip.",
+        "title": "Aghora",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": true
+    }
+]

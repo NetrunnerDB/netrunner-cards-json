@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "04020",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "neutral-corp",
+        "faction_cost": 0,
+        "id": "grim",
+        "influence_limit": null,
+        "keywords": "Sentry - Destroyer - Illicit",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 5,
+        "text": "When you rez Grim, take 1 bad publicity.\n[subroutine] Trash 1 program.",
+        "title": "Grim",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

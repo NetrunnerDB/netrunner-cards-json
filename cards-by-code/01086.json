@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "01086",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "sea-source",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Play only if the Runner made a successful run during his or her last turn.\n<trace>Trace 3</trace> If successful, give the Runner 1 tag.",
+        "title": "SEA Source",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

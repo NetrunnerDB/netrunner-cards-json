@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12041",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 3,
+        "id": "berserker",
+        "influence_limit": null,
+        "keywords": "Icebreaker - Fracter",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 2,
+        "text": "Whenever you encounter a <strong>barrier</strong>, Berserker has +1 strength for each subroutine on that <strong>barrier</strong>.\n2[credit]: Break up to 2 <strong>barrier</strong> subroutines.",
+        "title": "Berserker",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

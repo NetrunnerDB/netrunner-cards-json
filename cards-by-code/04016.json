@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "04016",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 3,
+        "id": "invasion-of-privacy",
+        "influence_limit": null,
+        "keywords": "Double - Gray Ops",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "As additional cost to play this operation, spend [click].\n<trace>Trace 2</trace> If successful, reveal the Runner's grip and trash a number of resources and/or events from it up to the amount by which your trace strength exceeded the Runner's link strength. If unsuccessful, take 1 bad publicity.",
+        "title": "Invasion of Privacy",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

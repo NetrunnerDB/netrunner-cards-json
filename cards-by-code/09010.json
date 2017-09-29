@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "09010",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "shannon-claire",
+        "influence_limit": null,
+        "keywords": "Character",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "[click]: Draw 1 card from the bottom of R&D.\n[trash]: Search R&D or Archives for an agenda and reveal it. Shuffle the rest of R&D if you searched it. Add the agenda to the bottom of R&D.",
+        "title": "Shannon Claire",
+        "trash_cost": 3,
+        "type_code": "asset",
+        "uniqueness": true
+    }
+]

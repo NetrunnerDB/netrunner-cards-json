@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "09021",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 3,
+        "id": "media-blitz",
+        "influence_limit": null,
+        "keywords": "Current",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nChoose an agenda in the Runner's score area. Media Blitz gains the text of that agenda.",
+        "title": "Media Blitz",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

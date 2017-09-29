@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "13025",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "id": "dean-lister",
+        "influence_limit": null,
+        "keywords": "Connection",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "[trash]: Choose an <strong>icebreaker</strong>. Until the end of the run, that <strong>icebreaker</strong> has +1 strength for each card in your grip.",
+        "title": "Dean Lister",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

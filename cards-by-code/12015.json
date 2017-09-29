@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12015",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 3,
+        "id": "sync-bre",
+        "influence_limit": null,
+        "keywords": "Sentry - Tracer",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 6,
+        "text": "[subroutine]<trace>Trace 4</trace> If successful, give the Runner 1 tag.\n[subroutine]<trace>Trace 2</trace> If successful, the Runner accesses 1 fewer card whenever he or she accesses cards for the remainder of this run.\n<errata>Errata from FAQ 4.0</errata>",
+        "title": "SYNC BRE",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "20011",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 3,
+        "id": "imp",
+        "influence_limit": null,
+        "keywords": "Virus",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Place 2 virus counters on Imp when it is installed.\nOnce per turn, you may remove 1 hosted virus counter to trash a card you access at no cost (even if it cannot normally be trashed).",
+        "title": "Imp",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

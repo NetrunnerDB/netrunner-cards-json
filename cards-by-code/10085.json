@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "10085",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 1,
+        "id": "the-turning-wheel",
+        "influence_limit": null,
+        "keywords": "Virtual",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Whenever a run on HQ or R&D ends, place 1 power counter on The Turning Wheel if you stole no agendas during the run.\n<strong>2 hosted power counters:</strong> For the remainder of this run, access 1 additional card from HQ or R&D.",
+        "title": "The Turning Wheel",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

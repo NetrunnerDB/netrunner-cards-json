@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "05047",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 1,
+        "id": "push-your-luck",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Secretly spend any number of credits. The Corp guesses if you spent an even or odd amount. Reveal spent credits. If the Corp guessed incorrectly, gain credits equal to twice the amount spent.",
+        "title": "Push Your Luck",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

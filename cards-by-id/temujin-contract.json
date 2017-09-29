@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11026",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "id": "temujin-contract",
+        "influence_limit": null,
+        "keywords": "Job",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Choose a server and place 20[credit] from the bank on Temüjin Contract when you install it. When there are no credits left on Temüjin Contract, trash it.\nWhenever you make a successful run on the chosen server, take 4[credit] from Temüjin Contract.",
+        "title": "Temüjin Contract",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

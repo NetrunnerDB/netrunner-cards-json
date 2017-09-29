@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "07042",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 5,
+        "id": "hivemind",
+        "influence_limit": null,
+        "keywords": "Virus",
+        "memory_cost": 2,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Place 1 virus counter on Hivemind when it is installed.\nVirus counters on Hivemind are considered to be hosted on all other <strong>virus</strong> programs for the purposes of card effects (and can be spent as if on them).",
+        "title": "Hivemind",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": true
+    }
+]

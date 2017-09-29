@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "01026",
+        "cost": 9,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 1,
+        "id": "femme-fatale",
+        "influence_limit": null,
+        "keywords": "Icebreaker - Killer",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 2,
+        "text": "1[credit]: Break <strong>sentry</strong> subroutine.\n2[credit]: +1 strength.\nWhen you install Femme Fatale, choose an installed piece of ice. When you encounter that ice, you may pay 1[credit] per subroutine on that ice to bypass it.",
+        "title": "Femme Fatale",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

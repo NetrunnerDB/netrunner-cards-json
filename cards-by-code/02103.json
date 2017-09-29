@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "02103",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 1,
+        "id": "data-leak-reversal",
+        "influence_limit": null,
+        "keywords": "Virtual - Sabotage",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Install only if you made a successful run on a central server this turn.\nIf you are tagged, Data Leak Reversal gains \"[click]: The Corp trashes the top card of R&D.\"",
+        "title": "Data Leak Reversal",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": false
+    }
+]

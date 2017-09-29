@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "02091",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "id": "kati-jones",
+        "influence_limit": null,
+        "keywords": "Connection",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "You cannot use Kati Jones more than once per turn.\n[click]: Place 3[credit] from the bank on Kati Jones.\n[click]: Take all credits from Kati Jones.",
+        "title": "Kati Jones",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12026",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 1,
+        "id": "system-seizure",
+        "influence_limit": null,
+        "keywords": "Current",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe first <strong>icebreaker</strong> whose strength you increase each turn does not return to its base strength until the end of the run.",
+        "title": "System Seizure",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

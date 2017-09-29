@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "07038",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 3,
+        "id": "knifed",
+        "influence_limit": null,
+        "keywords": "Run - Sabotage",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Make a run. The first time you break all subroutines on a <strong>barrier</strong> during this run, trash that <strong>barrier</strong>.",
+        "title": "Knifed",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

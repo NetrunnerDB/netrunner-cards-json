@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "03044",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 3,
+        "id": "cybercypher",
+        "influence_limit": null,
+        "keywords": "Icebreaker - Decoder",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 4,
+        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.\nWhen you install Cyber-Cypher, choose a server. Cyber-Cypher can only be used during a run on the chosen server.",
+        "title": "Cyber-Cypher",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

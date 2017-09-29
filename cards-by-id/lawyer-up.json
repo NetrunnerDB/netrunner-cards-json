@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "04063",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 1,
+        "id": "lawyer-up",
+        "influence_limit": null,
+        "keywords": "Double",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "As an additional cost to play this event, spend [click].\nRemove up to 2 tags and draw 3 cards.",
+        "title": "Lawyer Up",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

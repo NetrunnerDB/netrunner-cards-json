@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06034",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 2,
+        "id": "scrubbed",
+        "influence_limit": null,
+        "keywords": "Current",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe first piece of ice encountered each turn has -2 strength for the remainder of the run.",
+        "title": "Scrubbed",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

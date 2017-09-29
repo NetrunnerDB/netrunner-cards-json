@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "09041",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "adam",
+        "faction_cost": 3,
+        "id": "always-be-running",
+        "influence_limit": null,
+        "keywords": "Directive - Virtual",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Your first [click] each turn must be spent to make a run or a play a <strong>run</strong> event.\nOnce per turn, you can spend [click][click] to break a subroutine on a piece of ice currently being encountered.",
+        "title": "Always Be Running",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

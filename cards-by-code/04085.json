@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "04085",
+        "cost": 11,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "id": "blackguard",
+        "influence_limit": null,
+        "keywords": "Console",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "+2[mu]\nWhenever you expose a card, the Corp must rez it by paying its rez cost, if able.\nLimit 1 <strong>console</strong> per player.",
+        "title": "Blackguard",
+        "trash_cost": null,
+        "type_code": "hardware",
+        "uniqueness": true
+    }
+]

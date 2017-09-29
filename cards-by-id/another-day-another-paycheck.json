@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11007",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "sunny-lebeau",
+        "faction_cost": 3,
+        "id": "another-day-another-paycheck",
+        "influence_limit": null,
+        "keywords": "Current",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhenever you steal an agenda, force the Corp to \"<trace>Trace 0</trace> If unsuccessful, the Runner gains credits equal to the number of agenda points in both players' score areas.\"",
+        "title": "Another Day, Another Paycheck",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11039",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "neutral-corp",
+        "faction_cost": 0,
+        "id": "financial-collapse",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Play only if the Runner has at least 6[credit].\nThe Runner loses 2[credit] for each installed resource. The Runner can trash a resource to prevent this.",
+        "title": "Financial Collapse",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

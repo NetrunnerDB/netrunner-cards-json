@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06120",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "id": "earthrise-hotel",
+        "influence_limit": null,
+        "keywords": "Location - Ritzy",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Place 3 power counters on Earthrise Hotel when it is installed. When there are no power counters left on Earthrise Hotel, trash it.\nWhen your turn begins, draw 2 cards and remove 1 power counter from Earthrise Hotel.",
+        "title": "Earthrise Hotel",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

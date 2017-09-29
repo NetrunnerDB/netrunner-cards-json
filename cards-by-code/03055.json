@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "03055",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 2,
+        "id": "the-source",
+        "influence_limit": null,
+        "keywords": "Connection",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "The advancement requirement of all agendas is increased by 1.\nAs an additional cost to steal an agenda, you must pay 3[credit].\nTrash The Source when an agenda is scored or stolen.",
+        "title": "The Source",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

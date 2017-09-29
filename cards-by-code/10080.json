@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "10080",
+        "cost": 1,
+        "deck_limit": 6,
+        "faction_code": "shaper",
+        "faction_cost": 2,
+        "id": "out-of-the-ashes",
+        "influence_limit": null,
+        "keywords": "Run",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Make a run.\nWhen your turn begins, if Out of the Ashes is in your heap, you may remove it from the game to make a run.\nLimit 6 per deck.",
+        "title": "Out of the Ashes",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

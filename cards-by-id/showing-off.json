@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "07034",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 3,
+        "id": "showing-off",
+        "influence_limit": null,
+        "keywords": "Run",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Make a run on R&D. If successful, instead of accessing cards from the top of R&D, access cards from the bottom of R&D (starting with the bottom card and working your way up).",
+        "title": "Showing Off",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

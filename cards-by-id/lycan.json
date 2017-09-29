@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06089",
+        "cost": 6,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 2,
+        "id": "lycan",
+        "influence_limit": null,
+        "keywords": "Sentry - Destroyer - Morph",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 3,
+        "text": "Lycan can be advanced.\nWhile Lycan has an odd number of advancement tokens on it, it gains <strong>code gate</strong> and loses <strong>sentry</strong>.\n[subroutine] Trash 1 program.",
+        "title": "Lycan",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

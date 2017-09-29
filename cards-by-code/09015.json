@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "09015",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "resistor",
+        "influence_limit": null,
+        "keywords": "Barrier - Tracer",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 0,
+        "text": "Resistor has +1 strength for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, end the run.",
+        "title": "Resistor",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

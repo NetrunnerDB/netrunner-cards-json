@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "13006",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "id": "abagnale",
+        "influence_limit": null,
+        "keywords": "Icebreaker - Decoder",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 2,
+        "text": "1[credit]: Break <strong>code gate</strong> subroutine.\n2[credit]: +2 strength.\n[trash]: Bypass a piece of <strong>code gate</strong> ice currently being encountered, even if it has strength greater than Abagnale.",
+        "title": "Abagnale",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

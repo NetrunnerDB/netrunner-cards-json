@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "02116",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 4,
+        "id": "midseason-replacements",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Play only if the Runner stole an agenda during his or her last turn.\n<trace>Trace 6</trace> If successful, give the Runner tags equal to the amount by which your trace strength exceeded his or her link strength.",
+        "title": "Midseason Replacements",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

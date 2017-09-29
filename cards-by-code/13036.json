@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "13036",
+        "cost": 7,
+        "deck_limit": 3,
+        "faction_code": "haas-bioroid",
+        "faction_cost": 2,
+        "id": "holmegaard",
+        "influence_limit": null,
+        "keywords": "Sentry - Tracer - Destroyer",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 5,
+        "text": "[subroutine] <trace>Trace 4</trace> If successful, the runner cannot access any cards during this run.\n[subroutine] Trash 1 <strong>icebreaker</strong>.\n<errata>Errata from FAQ 4.0</errata>",
+        "title": "Holmegaard",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

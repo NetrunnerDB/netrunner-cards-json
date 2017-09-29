@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11041",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 3,
+        "id": "obelus",
+        "influence_limit": null,
+        "keywords": "Console",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "+1[mu]\nYour maximum hand size is increased by 1 for each tag you have.\nThe first time a successful run on R&D or HQ ends each turn, draw 1 card for each card you accessed during that run.\nLimit 1 <strong>console</strong> per player.",
+        "title": "Obelus",
+        "trash_cost": null,
+        "type_code": "hardware",
+        "uniqueness": true
+    }
+]

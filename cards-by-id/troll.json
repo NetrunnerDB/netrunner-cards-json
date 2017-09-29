@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06108",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "troll",
+        "influence_limit": null,
+        "keywords": "Sentry",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 3,
+        "text": "When the Runner encounters Troll, <trace>trace 2</trace> if successful, the Runner must lose [click] or end the run.",
+        "title": "Troll",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

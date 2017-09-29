@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": 3,
+        "agenda_points": 1,
+        "base_link": null,
+        "code": "10088",
+        "cost": null,
+        "deck_limit": 3,
+        "faction_code": "jinteki",
+        "faction_cost": null,
+        "id": "dedicated-neural-net",
+        "influence_limit": null,
+        "keywords": "Initiative - Psi",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "The first time there is a successful run on HQ each turn, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, you choose which cards the Runner accesses from HQ for the remainder of this run.",
+        "title": "Dedicated Neural Net",
+        "trash_cost": null,
+        "type_code": "agenda",
+        "uniqueness": false
+    }
+]

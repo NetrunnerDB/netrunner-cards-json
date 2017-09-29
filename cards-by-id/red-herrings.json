@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "20122",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "red-herrings",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Each time the Runner accesses an agenda from this server, he or she must pay 5[credit] as an additional cost in order to steal it. This applies even during the run on which the Runner trashes Red Herrings.",
+        "title": "Red Herrings",
+        "trash_cost": 1,
+        "type_code": "upgrade",
+        "uniqueness": false
+    }
+]

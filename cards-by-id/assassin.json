@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "09028",
+        "cost": 7,
+        "deck_limit": 3,
+        "faction_code": "neutral-corp",
+        "faction_cost": 0,
+        "id": "assassin",
+        "influence_limit": null,
+        "keywords": "Sentry - Destroyer - AP - Tracer",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 5,
+        "text": "[subroutine] <trace>Trace 5</trace> If successful, do 3 net damage.\n[subroutine] <trace>Trace 4</trace> If successful, trash 1 program.",
+        "title": "Assassin",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

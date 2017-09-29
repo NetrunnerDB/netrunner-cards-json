@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06020",
+        "cost": 7,
+        "deck_limit": 1,
+        "faction_code": "neutral-runner",
+        "faction_cost": 1,
+        "id": "eden-shard",
+        "influence_limit": null,
+        "keywords": "Virtual - Source",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Whenever you make a successful run on R&D, instead of accessing cards, you may install Eden Shard from your grip, ignoring all costs.\n[trash]: The Corp draws 2 cards.\nLimit 1 per deck.",
+        "title": "Eden Shard",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

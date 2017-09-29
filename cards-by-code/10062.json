@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "10062",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 3,
+        "id": "brahman",
+        "influence_limit": null,
+        "keywords": "Icebreaker - AI",
+        "memory_cost": 2,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 3,
+        "text": "1[credit]: Break up to 2 ice subroutines.\n2[credit]: +1 strength.\nWhenever an encounter with a piece of ice in which you used Brahman to break a subroutine ends, add 1 installed non-<strong>virus</strong> program to the top of your stack.",
+        "title": "Brahman",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

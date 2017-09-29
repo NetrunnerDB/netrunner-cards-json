@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "08099",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 1,
+        "id": "back-channels",
+        "influence_limit": null,
+        "keywords": "Transaction",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Trash a card installed in a server and gain 3[credit] for each advancement token on that card.",
+        "title": "Back Channels",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

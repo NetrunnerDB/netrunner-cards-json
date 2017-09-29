@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12067",
+        "cost": 8,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 3,
+        "id": "massdriver",
+        "influence_limit": null,
+        "keywords": "Icebreaker - Decoder",
+        "memory_cost": 2,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 1,
+        "text": "Whenever you use Mass-Driver to break all subroutines on a piece of ice during a single encounter, the first 3 subroutines on the next piece of ice you encounter this run do not resolve.\n2[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.",
+        "title": "Mass-Driver",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

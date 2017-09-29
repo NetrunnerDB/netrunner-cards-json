@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12036",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "mca-informant",
+        "influence_limit": null,
+        "keywords": "Terminal",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "After you resolve this operation, end your action phase.\nInstall MCA Informant on a <strong>connection</strong> resource as a hosted <strong>condition</strong> counter with the text \"The Runner is considered to have 1 additional tag. The host <strong>connection</strong> gains '[click], 2[credit]: Trash this card.'\"\n<errata>Errata from FAQ 4.0</errata>",
+        "title": "MCA Informant",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

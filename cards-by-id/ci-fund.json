@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11036",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 1,
+        "id": "ci-fund",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "When your turn begins, you may move up to 3[credit] from your credit pool to C.I. Fund.\nWhen your turn begins, place 2[credit] on C.I. Fund from the bank if there are at least 6[credit] on it.\n2[credit],[trash]: Take all credits from C.I. Fund.",
+        "title": "C.I. Fund",
+        "trash_cost": 2,
+        "type_code": "asset",
+        "uniqueness": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "07020",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 3,
+        "id": "housekeeping",
+        "influence_limit": null,
+        "keywords": "Current - Gray Ops",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe first time the Runner installs a card each turn, he or she must trash 1 card from his or her grip.",
+        "title": "Housekeeping",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

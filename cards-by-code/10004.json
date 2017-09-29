@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "10004",
+        "cost": 6,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 3,
+        "id": "highstakes-job",
+        "influence_limit": null,
+        "keywords": "Run - Job",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Make a run on a server with at least 1 piece of unrezzed ice. When the run ends, gain 12[credit] if it was successful.",
+        "title": "High-Stakes Job",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

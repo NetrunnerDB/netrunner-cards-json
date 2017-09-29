@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "07021",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 2,
+        "id": "patch",
+        "influence_limit": null,
+        "keywords": "Condition",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Install Patch on a rezzed piece of ice as a hosted condition counter with the text \"Host ice has +2 strength.\"",
+        "title": "Patch",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

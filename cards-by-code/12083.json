@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12083",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 3,
+        "id": "leave-no-trace",
+        "influence_limit": null,
+        "keywords": "Run",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Make a run. When the run ends, derez all ice that was rezzed during this run.",
+        "title": "Leave No Trace",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "05050",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 1,
+        "id": "trimaf-contact",
+        "influence_limit": null,
+        "keywords": "Connection",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "You cannot use Tri-maf Contact more than once per turn.\n[click]: Gain 2[credit].\nWhen Tri-maf Contact is trashed, suffer 3 meat damage.",
+        "title": "Tri-maf Contact",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": false
+    }
+]

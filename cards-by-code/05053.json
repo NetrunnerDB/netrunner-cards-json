@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "05053",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "id": "overmind",
+        "influence_limit": null,
+        "keywords": "Icebreaker - AI",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 0,
+        "text": "Place 1 power counter on Overmind when it is installed for each unused MU.\n<strong>Hosted power counter:</strong> Break ice subroutine.\n1[credit]: +1 strength.",
+        "title": "Overmind",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

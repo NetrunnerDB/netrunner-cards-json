@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11092",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "jinteki",
+        "faction_cost": 3,
+        "id": "mind-game",
+        "influence_limit": null,
+        "keywords": "Code Gate - Psi - Deflector",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 4,
+        "text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, choose another server. The Runner is now running on that server instead of passing Mind Game. For the remainder of the run, the Runner must add 1 installed card to the bottom of his or her stack as an additional cost to jack out.",
+        "title": "Mind Game",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

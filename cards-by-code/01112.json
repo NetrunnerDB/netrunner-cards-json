@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "01112",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "neutral-corp",
+        "faction_cost": 0,
+        "id": "hunter",
+        "influence_limit": null,
+        "keywords": "Sentry - Tracer - Observer",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 4,
+        "text": "[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
+        "title": "Hunter",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "02005",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "id": "cortez-chip",
+        "influence_limit": null,
+        "keywords": "Chip",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "[trash]: Choose a piece of ice. The Corp must pay 2[credit] as an additional cost to rez that ice until the end of the turn.",
+        "title": "Cortez Chip",
+        "trash_cost": null,
+        "type_code": "hardware",
+        "uniqueness": false
+    }
+]

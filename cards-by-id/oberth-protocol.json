@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12018",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 4,
+        "id": "oberth-protocol",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "As an additional cost to rez Oberth Protocol, forfeit an agenda.\nThe first time you advance a card in or protecting this server each turn, place an additional advancement token on it.",
+        "title": "Oberth Protocol",
+        "trash_cost": 2,
+        "type_code": "upgrade",
+        "uniqueness": true
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12054",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "jinteki",
+        "faction_cost": 2,
+        "id": "ben-musashi",
+        "influence_limit": null,
+        "keywords": "Clone",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Each time the Runner accesses an agenda from this server, he or she must suffer 2 net damage as an additional cost in order to steal it. This applies even during the run on which the Runner trashes Ben Musashi.",
+        "title": "Ben Musashi",
+        "trash_cost": 3,
+        "type_code": "upgrade",
+        "uniqueness": true
+    }
+]
