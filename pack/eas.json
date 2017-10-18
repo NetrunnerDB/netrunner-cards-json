@@ -101,7 +101,7 @@
         "position": 46,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Install Adjusted Matrix on an <strong>icebreaker</strong>. Host <strong>icebreaker</strong> gains <strong>AI</strong> and \"[click]: Break ice subroutine.\"",
+        "text": "Install Adjusted Matrix on an <strong>icebreaker</strong>. Host <strong>icebreaker</strong> gains <strong>AI</strong> and \"You may spend [click] to break any subroutine on a piece of ice currently being encountered.\"\n<errata>Errata from FAQ 4.1</errata>",
         "title": "Adjusted Matrix",
         "type_code": "hardware",
         "uniqueness": false
@@ -175,7 +175,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "NEXT Opal gains \"[subroutine] Install 1 card from HQ, paying all costs.\" for each rezzed piece of <strong>NEXT</strong> ice.",
+        "text": "NEXT Opal gains \"[subroutine] You may install 1 card from HQ, paying all costs.\" for each rezzed piece of <strong>NEXT</strong> ice.\n<errata>Errata from FAQ 4.1</errata>",
         "title": "NEXT Opal",
         "type_code": "ice",
         "uniqueness": false
@@ -193,7 +193,7 @@
         "position": 51,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[trash]: Install 1 card, paying all costs. Use this ability immediately after playing an operation.",
+        "text": "[trash]: Install 1 card, paying all costs. Use this ability only during the next paid ability window after playing and resolving an operation.\n<errata>Errata from FAQ 4.1</errata>",
         "title": "Bioroid Work Crew",
         "trash_cost": 4,
         "type_code": "asset",
