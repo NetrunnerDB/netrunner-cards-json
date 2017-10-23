@@ -1,134 +1,134 @@
 [
     {
         "code": "11081",
-        "flavor": "\"These things are always there, under the surface, but no one wants to know the truth.\" -Omar Keung, the Flashpoint",
-        "keywords": "Icebreaker - Killer",
-        "text": "Whenever you encounter a <strong>sentry</strong>, you may install MKUltra from your heap (paying its install cost).\n3[credit]: +2 strength. Break up to 2 <strong>sentry</strong> subroutines, if able.",
+        "flavor": "\"Diese Dinge sind immer da, unter der Oberfläche, aber niemand will die Wahrheit wissen.\" - Omar Keung, Am Siedepunkt",
+        "keywords": "Ice-Brecher - Killer",
+        "text": "Immer wenn du auf einen <strong>Wächter</strong> triffst, kannst du MKUltra aus deiner Ablage installieren (und die Installationskosten zahlen).\n2[credit] +2 Stärke. Schalte, falls möglich, bis zu 2 Subroutinen eines <strong>Wächters</strong> aus.",
         "title": "MKUltra"
     },
     {
         "code": "11082",
-        "flavor": "\"Never, ever, overstay your welcome.\" -Andromeda",
-        "keywords": "Condition",
-        "text": "Install On the Lam on a resource as a hosted condition counter with the text \"[trash]: Avoid up to 3 tags or prevent up to 3 damage.\"",
-        "title": "On the Lam"
+        "flavor": "\"Bleib nie, wirklich nie, länger als du willkommen bist.\" - Andromeda",
+        "keywords": "Bedingung",
+        "text": "Installiere Sich verdrücken auf eine Ressource als gehostete Bedingungsmarker mit dem Text: \"[trash]: Verhindere bis zu 3 Markierungen oder bis zu 3 Schaden.\"",
+        "title": "Sich verdrücken"
     },
     {
         "code": "11083",
-        "flavor": "Her ability to analyze and adapt mid-run bordered on the paranormal.",
-        "keywords": "Run - Stealth",
-        "text": "Make a run, and place 4[credit] on this card, which you may use only during this run. When this run ends, trash 1 program (cannot be prevented) used during this run.",
-        "title": "Cold Read"
+        "flavor": "Ihre Fähigkeit zu analysieren und sich mitten in einem Run anzupassen, grenzten an das Paranormale.",
+        "keywords": "Run - Heimlichkeit",
+        "text": "Führe einen Run durch und lege 4[credit] auf diese Karte, die du nur während dieses Runs verwenden darfst. Sobald der Run endet, zerstöre 1 Programm (kann nicht verhindert werden), das du während dieses Runs verwendet hast.",
+        "title": "Cold Reading"
     },
     {
         "code": "11084",
-        "flavor": "It is only the illusion of choice.",
-        "text": "Whenever you make a successful run on R&D, you may reveal the top card of R&D. If you do, you may force the Corp to draw that card.",
-        "title": "Equivocation"
+        "flavor": "Es ist nur eine Illusion einer Wahl.",
+        "text": "Immer wenn du einen erfolgreichen Run auf F&E durchführst, darfst du die oberste Karte von F&E aufdecken. Falls du dies tust, darfst du den Kon zwingen, diese Karte zu ziehen.",
+        "title": "Mehrdeutigkeit"
     },
     {
         "code": "11085",
-        "flavor": "\"It's the most fundamental element of illusions and running both. In either case, it should be the first skill you master.\" -Ele \"Smoke\" Scovak",
-        "text": "[click], [click], X[credit]: Remove X tags.",
-        "title": "Misdirection"
+        "flavor": "\"Es ist das grundlegende Element von Illusionen und Runs. In jedem Fall sollte es die erste Fähigkeit sein, die du meisterst.\" - Ele \"Smoke\" Skovak",
+        "text": "[click], [click], X[credit]: Entferne X Markierungen.",
+        "title": "Irreführung"
     },
     {
         "code": "11086",
-        "flavor": "\"It had been hoped that the Network disruptions surrounding the conflict might also disrupt the phenomenon. Evidently, the reverse is true.\" -Joséo Greene, SYNC Analyst",
-        "text": "The first time you trash an installed card each turn, draw 1 card.",
-        "title": "Reaver"
+        "flavor": "\"Man hatte gehofft, dass die Netzwerkstörungen rund um den Konflikt auch das Phänomen stören würden. Offensichtlich passierte das Gegenteil.\" - Joséo Greene, SYNC Analytiker",
+        "text": "Immer wenn du zum ersten Mal in deinem Zug eine Karte zerstörst, ziehe 1 Karte.",
+        "title": "Plünderer"
     },
     {
         "code": "11087",
-        "flavor": "This is my USMC-XOB32. There are many like it, but this one is mine.",
-        "keywords": "Current",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp cannot rez non-ice cards during the Runner's turn.",
-        "title": "Interdiction"
+        "flavor": "Das ist mein USMC-XOB32. Es gibt viele davon, aber das hier ist meins.",
+        "keywords": "Aktuell",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nDer Kon kann während des Zuges des Runners keine Karten laden, die kein Ice sind.",
+        "title": "Abriegelung"
     },
     {
         "code": "11088",
-        "flavor": "\"She was riding in a great iron mortar and driving it with the pestle, and as she came she swept away her trail behind her with a kitchen broom.\" -Vasilissa the Beautiful",
-        "keywords": "Icebreaker - AI",
-        "text": "You may host any number of non-<strong>AI icebreaker</strong> programs on Baba Yaga.\nBaba Yaga gains the paid abilities of all hosted <strong>icebreaker</strong> programs.",
+        "flavor": "\"Sie ritt einen riesigen Mörser aus Eisen und steuerte ihn mit dem Stößel. Und als sie kam, verwischte sie ihre Spur hinter sich mit einem Küchenbesen.\" - Vasilla die Schöne",
+        "keywords": "Ice-Brecher - KI",
+        "text": "Du kannst eine beliebige Anzahl <strong>Ice-Brecher</strong>-Programme auf Baba Yaga hosten, die keine <strong>KI</strong>s sind.\nBaba Yaga erhält die bezahlten Fähigkeiten aller gehosteten <strong>Ice-Brecher</strong>-Programme.",
         "title": "Baba Yaga"
     },
     {
         "code": "11089",
-        "keywords": "Code Gate - Bioroid - AP",
-        "text": "[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner trashes 1 of his or her installed cards.\n[subroutine] End the run unless the Runner suffers 1 brain damage.",
+        "keywords": "Code-Zugang - Bioroid - AP",
+        "text": "[subroutine] Beende den Run, falls der Runner nicht 4[credit] zahlt.\n[subroutine] Beende den Run, falls der Runner nicht 4[credit] zahlt.\n[subroutine] Beende den Run, falls der Runner nicht 1 seiner installierten Karten zerstört.\n[subroutine] Beende den Run, falls der Runner nicht 1 seiner installierten Karten zerstört.",
         "title": "Fairchild"
     },
     {
         "code": "11090",
-        "flavor": "Friends give friends advance warning before moving a carrier group down to enforce a no-fly zone.",
-        "keywords": "Terminal",
-        "text": "After you resolve this operation, end your action phase.\nInstall up to 2 cards from Archives (paying all install costs).",
-        "title": "Friends in High Places"
+        "flavor": "Freunde warnen einander, bevor sie eine Trägerkampfgruppe losschicken, um eine Flugverbotszone durchzusetzen.",
+        "keywords": "Final",
+        "text": "Nachdem du diese Operation ausgeführt hsat, beende deine Aktionsphase.\nInstalliere 2 Karten aus dem Archiv (und zahle die alle Installationskosten).",
+        "title": "Einflussreiche Freunde"
     },
     {
         "code": "11091",
         "keywords": "Region",
-        "text": "If the Runner has fewer than 6[credit] or no unspent clicks when a successful run on this server ends, you have 1 additional [click] to spend your next turn.\nLimit 1 <strong>region</strong> per server.",
-        "title": "Manta Grid"
+        "text": "Falls der Runner weniger als 6[credit] oder keine nicht verwendeten Klicks hat, wenn ein erfolgreicher Run auf dieses System endet, kannst du in deinem nächsten Zug 1 zusätzlichen [click] ausgeben.\nMaximal 1 <strong>Region</stron> pro System.",
+        "title": "Manta-Netz"
     },
     {
         "code": "11092",
-        "keywords": "Code Gate - Psi - Deflector",
-        "text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, choose another server. The Runner is now running on that server instead of passing Mind Game. For the remainder of the run, the Runner must add 1 installed card to the bottom of his or her stack as an additional cost to jack out.",
-        "title": "Mind Game"
+        "keywords": "Code-Zugang - Psi - Deflektor",
+        "text": "Du und der Runner zahlen geheim 0[credit], 1[credit] oder 2[credit]. Decke die ausgegebene Credits auf. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheidet, wähle ein anderes System. Der Runner führt seinen Run nun auf dieses System aus, statt an Psychospielchen vorbeizukommen. Für den Rest des Runs muss der Runner als zusätzliche Kosten zum ausstöpseln 1 installierte Karte unter seinen Stapel legen.",
+        "title": "Psychospielchen"
     },
     {
         "code": "11093",
         "keywords": "Region",
-        "text": "If the Runner has fewer than 6[credit] or fewer than 2 cards in his or her grip when there is a successful run on this server, you may look at the top 5 cards of R&D and swap 1 of those cards with a card in HQ.\nLimit 1 <strong>region</strong> per server.",
-        "title": "Nihongai Grid"
+        "text": "Falls der Runner weniger als 6[credit] oder weniger als 2 Karten im Griff hat, wenn er einen erfolgreichen Run auf dieses System durchführt, kannst du die obersten 5 Karten von F&E anschauen und 1 davon gegen eine Karte im HQ austauschen.\nMaximal 1 <strong>Region</strong> pro System.",
+        "title": "Netz von Nihongai"
     },
     {
         "code": "11094",
-        "flavor": "//Connection Terminated",
-        "keywords": "Barrier - Tracer",
-        "text": "When the Runner encounters IP Block, give him or her 1 tag if there is an installed <strong>AI</strong>.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
-        "title": "IP Block"
+        "flavor": "//Verbindung abgebrochen",
+        "keywords": "Barriere - Spürhund",
+        "text": "Wenn der Runner auf IP-Block trifft, verpasse ihm 1 Markierung, falls eine <strong>KI</strong> installiert ist.\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.\n[subroutine] Beende den Run, falls der Runner markiert ist.",
+        "title": ""
     },
     {
         "code": "11095",
-        "flavor": "Truth like the sunlight shines above all. ",
-        "keywords": "Sentry - Tracer",
-        "text": "When the Runner encounters Thoth, give him or her 1 tag.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, the Runner loses 1[credit] for each tag he or she has.",
-        "title": "Thoth"
+        "flavor": "Wie die Sonne scheint die Wahrheit auf alles.",
+        "keywords": "Wächter - Spürhund",
+        "text": "Wenn der Runner auf Thot trifft, verpasse ihm 1 Markierung.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verursache 1 Netz-Schaden für jede Markierung, die der Runner hat.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verliert der Runner 1[credit] für jede Markierung, die er hat.",
+        "title": "Thot"
     },
     {
         "code": "11096",
-        "flavor": "\"I don't get paid to be calm.\"",
-        "keywords": "Executive",
-        "text": "When your turn begins, place 1 advancement token on Anson Rose.\nWhenever you rez a piece of ice, you may move any number of advancement tokens from Anson Rose to that ice.",
-        "title": "Anson Rose"
+        "flavor": "\"Ich werde nicht dafür bezahlt, die Ruhe zu bewahren.\"",
+        "keywords": "Führungskraft",
+        "text": "Sobald dein Zug beginnt, lege 1 Entwicklungsmarker auf Anson Rosé.\nImmer wenn du ein Ice lädst, darfst du eine beliebige Anzahl Entwicklungsmarker von Anson Rosé auf dieses Ice verschieben.",
+        "title": "Anson Rosé"
     },
     {
         "code": "11097",
-        "keywords": "Code Gate - AP",
-        "text": "Mausolus can be advanced.\nIf Mausolus has 3 or more advancement tokens on it, do the parenthetical text instead (otherwise, do not resolve it).\n[subroutine] The Corp gains 1[credit]. (The Corp gains 3[credit].)\n[subroutine] Do 1 net damage. (Do 3 net damage.)\n[subroutine] Give the Runner 1 tag. (Give the Runner 1 tag and end the run.)",
+        "keywords": "Code-Zugang - AP",
+        "text": "Mausolus kann entwickelt werden.\nFalls sich 3 oder mehr Entwicklungsmarker auf Mausolur befinden, verwende stattdessen den Text in Klammen aus (führe ihn ansonsten nicht aus).\n[subroutine] Der kon erhält 1[credit]. (Der Kon erhält 3[credit].)\n[subroutine] Verursache 1 Netz-Schaden. (Verursache 3 Netz-Schaden.)\n[subroutine] Verpasse dem Runner 1 Markierung. (Verpasse dem Runner 1 Markierung und beende den Run.)",
         "title": "Mausolus"
     },
     {
         "code": "11098",
-        "flavor": "There is a special place in hell for the first person who mined cyberspace.",
-        "keywords": "Sentry - Destroyer",
-        "text": "If Sapper is accessed from R&D, the runner must reveal it.\nWhen the Runner accesses Sapper, he or she encounters it. Ignore this ability if the Runner accesses Sapper from Archives.\n[subroutine] Trash 1 program.",
-        "title": "Sapper"
+        "flavor": "Es gibt einen besonderen Platz in der Hölle für die erste Person, die den Cyberspace vermint hat.",
+        "keywords": "Wächter - Zerstörer",
+        "text": "Falls von F&E auf Sappeur zugegriffen wird, muss der Runner es aufdecken.\nWenn der Runner auf Sappeur zugreift, trifft er darauf. Ignoriere diese Fähigkeit, falls der Runner vom Archiv auf Sappeur zugreift.\n[subroutine] Zerstöre 1 Programm.",
+        "title": "Sappeur"
     },
     {
         "code": "11099",
-        "flavor": "Walk loudly and carry a bigger stick.",
-        "keywords": "Security",
-        "text": "When you score Show of Force, do 2 meat damage.",
-        "title": "Show of Force"
+        "flavor": "\"Stampfe laut auf und trage einen noch größeren Knüppel.\"",
+        "keywords": "Sicherheit",
+        "text": "Wenn du die Punkte für Machtdemonstration erzielst, verursache 2 Körper-Schaden.",
+        "title": "Machtdemonstration"
     },
     {
         "code": "11100",
-        "flavor": "\"Get those civilians off the street. No more collateral damage.\" -Commissioner Dawn",
-        "keywords": "Current",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe Runner's maximum hand size is reduced by 1.",
-        "title": "Enforced Curfew"
+        "flavor": "\"Schafft diese Zivilisten von der Straße. Nicht noch mehr Kollateralschaden.\" - Polizeichef Dawn",
+        "keywords": "Aktuell",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder eine Agenda gestohlen wird.\nDas Handkartenlimit des Runners wird um 1 gesenkt.",
+        "title": "Ausgangssperre durchsetzen"
     }
 ]
