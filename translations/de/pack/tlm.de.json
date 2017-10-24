@@ -54,7 +54,7 @@
     {
         "code": "10085",
         "keywords": "Virtuell",
-        "text": "Immer wenn ein Run auf HQ oder F&E endet, lege 1 Wirkungszähler auf Das drehende Rad, falls du in diesem Zug keine Agendas gestohlen hast.\n<strong>2 gehostete Wirkungszähler</strong>: Für den Rest dieses Runs, greife auf 1 zusätzliche Karten auf HQ oder F&E zu.",
+        "text": "Immer wenn ein Run auf HQ oder F&E endet, lege 1 Wirkungszähler auf Das drehende Rad, falls du in diesem Run keine Agendas gestohlen hast.\n<strong>2 gehostete Wirkungszähler</strong>: Für den Rest dieses Runs, greife auf 1 zusätzliche Karten aus HQ oder F&E zu.",
         "title": "Das drehende Rad"
     },
     {
@@ -93,7 +93,7 @@
         "code": "10091",
         "flavor": "\"Schon erstaunlich, wie klein wir heute das Kleingedruckte machen können.\"",
         "keywords": "Code-Zugang - Spürhund",
-        "text": "[subroutine] <trace>Aufspüren 5</trace> Bei Erfolg deckt der Runner seinen Griff auf. Zerstöre jede dieser Karten, deren Ausspiel- oder Installationskosten demjenigen Wert entsprechen oder niedriger sind, um den deine Aufspürstärke seiner Verbindungsstärke übertroffen hat.",
+        "text": "[subroutine] <trace>Aufspüren 5</trace> Bei Erfolg deckt der Runner seinen Griff auf. Zerstöre jede der Karten, deren Ausspiel- oder Installationskosten demjenigen Wert entsprechen oder niedriger sind, um den deine Aufspürstärke seiner Verbindungsstärke übertroffen hat.",
         "title": "Verzichtserklärung"
     },
     {
