@@ -1,0 +1,397 @@
+[
+    {
+        "code": "20001",
+        "flavor": "\"Das Brett zu analysieren, wird nicht helfen. Dein Fehler war, zu glauben, wir würden das gleiche Spiel spielen.\"",
+        "keywords": "Cyborg - G-mod",
+        "text": "Die Ladekosten für das erste Ice, das in jedem Zug geladen wird, werden um 1 erhöht.",
+        "title": "Reina Roja: Freiheitskämpferin"
+    },
+    {
+        "code": "20002",
+        "flavor": "Hast du je etwas in Brand gesetzt, nur um es brennen zu sehen?",
+        "keywords": "Run - Sabotage",
+        "text": "Führe einen Run auf HQ oder F&E durch. Du kannst alle Karten, auf die du Zugriff erhältst, kostenfrei zerstören (selbst, wenn die Karten normalerweise nicht zerstört werden können).",
+        "title": "Abriss-Run"
+    },
+    {
+        "code": "20003",
+        "keywords": "Run",
+        "text": "Führe einen Run auf das Archiv durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen, ein Programm aus deiner Ablage installieren, ohne die Kosten zu bezahlen",
+        "title": "Bergungs-Run"
+    },
+    {
+        "code": "20004",
+        "keywords": "Verdoppeln - Run",
+        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nFühre einen Run auf ein ausgelagertes System durch. Bei Erfolg kannst du, statt auf Karten zuzugreifen, alle Karten in diesem System zerstören, ohne die Kosten dafür zu bezahlen (selbst, wenn sie normalerweise nicht zerstört werden können).",
+        "title": "Singularität"
+    },
+    {
+        "code": "20005",
+        "keywords": "Run",
+        "text": "Führe einen Run durch und erhalte 9[credit], die du nur in diesem Run ausgeben darfst. Nach Beendigung des Runs nimmst du 1 Hirn-Schaden (kann nicht verhindert werden) und legst den nicht ausgegebenen Rest der 9[credit] in die Credit-Bank zurück.",
+        "title": "Stim-Hack"
+    },
+    {
+        "code": "20006",
+        "flavor": "Ich fühle mich beinahe nackt ohne das Ding.",
+        "keywords": "Chip",
+        "text": "1[recurring-credit]\nVerwende diesen Credit für die Anwendung von <strong>Ice-Brechern</strong> oder zur Installation von <strong>Virus</strong>-Programmen.",
+        "title": "Cyberfeeder"
+    },
+    {
+        "code": "20007",
+        "keywords": "Konsole",
+        "text": "+1[mu], 2[recurring-credit]\nVerwende diese Credits, um für die Verwendung von <strong>Ice-Brechern</strong> zu zahlen.\nImmer, wenn der Runner während eines Runs erfolgreich aufgespührt wird, erleidet er 1 Hirnschaden.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+        "title": "Spinales Modem"
+    },
+    {
+        "code": "20008",
+        "keywords": "Ice-Brecher - AI - Virus",
+        "text": "2[credit]: Schalte eine Subroutine eines Ice aus..\nX ist die Anzahl der Viruszähler auf Darwin.\nWenn dein Zug beginnt, kannst du 1[credit] zahlen, um 1 Viruszähler auf Darwin zu legen.",
+        "title": "Darwin"
+    },
+    {
+        "code": "20009",
+        "keywords": "Virus",
+        "text": "Immer, wenn du einen Run auf ein zentrales System erfolgreich durchführst, lege 1 Viruszähler auf Datensauger.\n<strong>Gehosteter Viruszähler</strong>: Das geladene Ice, auf das du gerade triffst, hat -1 Stärke bis zum Ende der Begegnung.",
+        "title": "Datensauger"
+    },
+    {
+        "code": "20010",
+        "flavor": "Es schlägt immer zweimal zu.",
+        "keywords": "Ice-Brecher - Decoder",
+        "text": "2[credit]: Schalte bis zu 2 Subroutinen eines <strong>Code-Zugang</strong> aus.\n1[credit]: +1 Stärke.",
+        "title": "Naturgewalt"
+    },
+    {
+        "code": "20011",
+        "flavor": "Etwas Böses kommt daher.",
+        "keywords": "Virus",
+        "text": "Lege 2 Viruszähler auf Teufelchen, wenn es installiert wird.\nEinmal pro Zug darfst du 1 gehosteten Viruszähler entfernen, um eine Karte, auf die du zugreifst, kostenfrei zu zerstören (selbst, wenn sie normalerweise nicht zerstört werden kann).",
+        "title": "Teufelchen"
+    },
+    {
+        "code": "20012",
+        "flavor": "Kons virtuell zur Ader zu lassen, ist eher eine Wissenschaft als eine Kunst. Etwas zu viel kann einen Führerschein in die Stadt der Hirntoten ohne Rückfahrkarte bedeuten. Etwas zu wenig und du hättest gleich einen Run auf ein leeres System durchführen können.",
+        "keywords": "Virus",
+        "text": "Immer, wenn du einen erfolgreichen Run durchführst, lege 1 Viruszähler auf Blutung.\n[click], <strong>2 gehostete Viruszähler</strong>: Der Kon zerstört 1 Karte aus dem HQ.",
+        "title": "Blutung"
+    },
+    {
+        "code": "20013",
+        "flavor": "Der 5. November: Der Tag an dem die korrupten Machenschaften der Konzernoligarchie für alle offensichtlich sein werden.",
+        "keywords": "Ice-Brecher - Killer",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.",
+        "title": "Imitator"
+    },
+    {
+        "code": "20014",
+        "flavor": "Die Himmel zur Waffe machen, einen Stern nach dem anderen.",
+        "keywords": "Ice-Brecher - Fracter",
+        "text": "1[credit]: Schalte eine beliebige Anzahl Subroutinen einer <strong>Barriere</strong> aus.",
+        "title": "Morgenstern"
+    },
+    {
+        "code": "20015",
+        "flavor": "Im öffentlichen Bewusstsein gibt es eine strikte Trennung zwischen den Kons und den Runnern. In der Realität ist diese Trennung etwas unschärfer. Die Kons brauchen die besten Hacker, um ihre Netzwerke zu betreiben, und einige der besten Hacker sind ehemalige Runner, die den Gedanken an ein regelmäßiges Gehalt gut finden. Aber manchmal läufts auch anders und jemand macht solche Dinge von innen heraus.",
+        "keywords": "Virtuell",
+        "text": "Jedes Ice, auf das du triffst, hat eine um 1 verminderte Stärke.",
+        "title": "Eisschnitzer"
+    },
+    {
+        "code": "20016",
+        "flavor": "Ausgeben ist einfacher, wenn es sich nicht um dein eigenes Geld handelt.",
+        "text": "Lege 16[credit] aus der Credit-Bank auf Befreites Konto, wenn es installiert wird. Wenn keine Credits mehr auf Befreites Konto sind, zerstöre es.\n[click]: Nimm 4[credit] von Befreites Konto.",
+        "title": "Befreites Konto"
+    },
+    {
+        "code": "20017",
+        "flavor": "\"Es sind hirnlose Zerstörungswerkzeuge, sonst zu nichts zu gebrauchen. Trotzdem nette Typen. Einige meine besten Freunde sind Schrubber.\" - Ji \"Noise\" Reilly",
+        "keywords": "Verbindung - Zwielichtig",
+        "text": "2[recurring-credit]\nVerwende diese Credits um Karten zu zerstören.",
+        "title": "Schrubber"
+    },
+    {
+        "code": "20018",
+        "flavor": "Alle sollen rufen: Gebt acht! Gebt acht!\nSeine blitzenden Augen, sein flutendes Haar!\nDreifachen Kreis um ihn man bau,\nAugen in heilige Furcht man schließ!\nDenn er aß vom Honigtau,\nUnd trank Milch vom Paradies.\n-Samuel Taylor Coleridge",
+        "keywords": "Virtuell",
+        "text": "Die Ladekosten für jedes Ice werden um 1 erhöht.",
+        "title": "Xanadu"
+    },
+    {
+        "code": "20019",
+        "flavor": "\"Natürlich stehle ich von den Reichen. Die haben ja schließlich das ganze Geld\"",
+        "keywords": "Cyborg",
+        "text": "Wenn du zum ersten Mal in einem Zug einen erfolgreichen Run auf HQ durchführst, erhältst du 2[credit].\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+        "title": "Gabriel Santiago: Vollprofi"
+    },
+    {
+        "code": "20020",
+        "flavor": "\"He, Junge, wenn du das jetzt einschmeißt, rechne damit, gleich abgezockt zu werden. Echt ein paar erbärmliche Gestalten in dieser Gegend. Aber du hast Glück. Ich hab ordentlich Stoff dabei…\"",
+        "keywords": "Job",
+        "text": "Du erhältst 3[credit].",
+        "title": "Leichte Beute"
+    },
+    {
+        "code": "20021",
+        "flavor": "\"Stellt es euch einfach als ein virtuelles Elektronikhalsband zum Bestrafen der Konzern-Haustiere vor.\" -Andromeda",
+        "keywords": "Sabotage",
+        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf HQ durchgeführt hast.\nEntlade ein Ice.",
+        "title": "Notabschaltung"
+    },
+    {
+        "code": "20022",
+        "flavor": "Als die Hysterie im Raum in der Hierarchie des Kons immer weiter nach oben stieg, machte sich in den unteren Rängen allmählich das ungute Gefühl breit, keine Arbeit mehr zu haben.",
+        "keywords": "Sabotage",
+        "text": "Wähle ein ungeladenes Ice. Der Kon muss es entweder laden oder zerstören.",
+        "title": "Gefälschter Aktivierungsbefehl"
+    },
+    {
+        "code": "20023",
+        "flavor": "\"Hey, höt mal, ich verlange nicht, dass du irgendetwas Gefährliches tust. Lass mich einfach nur ins Gebäude. Und sag mir, welcher Raum am wenigsten gesichert ist. Und sag bitte nich schon wieder 'das Klo'.\"",
+        "keywords": "Run",
+        "text": "Führe einen Run durch. Du umgehst das erste Ice, auf das du in diesem Run triffst.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+        "title": "Angriff von Innen"
+    },
+    {
+        "code": "20024",
+        "flavor": "Das Paket kam nach etlichen Stunden, in denen er ungeduldig den langsamen Weg über den Pazifik beobachtet hatte, endlich an…",
+        "text": "Suche in deinem Stapel nach einem <strong>Ice-Brecher</strong>, zeige ihn und füge ihn deinem Griff zu. Mische deinen Stapel.",
+        "title": "Sonderbestellung"
+    },
+    {
+        "code": "20025",
+        "flavor": "Doppelt so viel Spaß.",
+        "keywords": "Konsole",
+        "text": "+1[mu]\nEinmal pro Zug darfst du sofort einen weiteren Run durchführen, wenn ein erfolgreicher Run endet.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+        "title": "Doppelgänger"
+    },
+    {
+        "code": "20026",
+        "flavor": "Wenn du niemanden da drin kennst, finde jemanden da drin, der auf Schreibtischdekoration steht.",
+        "text": "Immer, wenn du im HQ auf Karten zugreifst, greife auf 1 zusätzliche Karte im HQ zu.",
+        "title": "HQ Interface"
+    },
+    {
+        "code": "20027",
+        "keywords": "Ice-Brecher - Fracter",
+        "text": "2[credit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n2[credit]: +3 Stärke.",
+        "title": "Aurora"
+    },
+    {
+        "code": "20028",
+        "flavor": "Glaubst du an Feen?",
+        "keywords": "Ice-Brecher - Killer",
+        "text": "0[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[credit]: +1 Stärke.\nEndet eine Begegnung mit einem Ice, in der du Fee verwendet hast, um eine Subroutine auszuschalten, zerstöre Fee.",
+        "title": "Fee"
+    },
+    {
+        "code": "20029",
+        "keywords": "Ice-Brecher - Killer",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n2[credit]: +1 Stärke.\nWenn du Femme Fatale installierst, wähle ein installiertes Ice aus. Wenn du auf das Eis triffst, kannst du es umgehen, indem du für jede Subroutine auf dem Ice 1[credit] zahlst.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+        "title": "Femme Fatale"
+    },
+    {
+        "code": "20030",
+        "flavor": "Angeber",
+        "keywords": "Ice-Brecher - Decoder",
+        "text": "2[credit]: Schalte eine Subroutine eines  <strong>Code-Zugangs</strong> aus.\n2[credit]: +3 Stärke.",
+        "title": "Pfau"
+    },
+    {
+        "code": "20031",
+        "keywords": "Virus",
+        "text": "X[recurring-credit]\nVerwende diese Credits in Runs auf HQ. X ist die Zahl der Viruszähler auf Pheromone.\nImmer, wenn du einen erfolgreichen Run auf HQ durchführst, lege 1 Viruszähler auf Pheromone.",
+        "title": "Pheromone"
+    },
+    {
+        "code": "20032",
+        "flavor": "„Der Code ist egal. Wichtig ist, wohin der Code dich bringt.\" - g00ru",
+        "text": "[click]: Führe einen Run auf das Archiv durch. Wenn du erfolgreich bist, behandele dies stattdessen als einen erfolgreichen Run auf HQ.",
+        "title": "Geheimtür (Beta)"
+    },
+    {
+        "code": "20033",
+        "keywords": "Job",
+        "text": "Lege 8[credit] aus der Bank auf Bankeinbruch, wenn er installiert wird. Wenn keine Credits mehr auf Bankeinbruch sind, zerstöre ihn.\nImmer, wenn du einen erfolgreichen Run auf ein ausgelagertes System durchführst, kannst du, anstatt auf Karten zuzugreifen, eine beliebige Anzahl Credits von Bankeinbruch nehmen.",
+        "title": "Bankeinbruch"
+    },
+    {
+        "code": "20034",
+        "flavor": "\"Der Typ, mit dem ich mir am College ein Zimmer geteilt hab, hatte einen Cousin mit ner Freundin am College, und der beste Freund von deren Bruder war ein Junkie, und die Mutter des Junkies hat früher hier gelebt. Ja, ich denke, da ist eine Verbindung.\" -Lez \"Rockfist\" S.",
+        "keywords": "Ort",
+        "text": "2[recurring-credit]\nVerwende diese Credits zum Entfernen von Markierungen.\n[trash]: Verhindere bis zu 3 Punkte Körperschaden.",
+        "title": "Crash Space"
+    },
+    {
+        "code": "20035",
+        "flavor": "Es gibt gute, ehrliche, hart arbeitende Polizisten beim NAPD. Beamte, die ihr Bestes geben, um die Schuldigen der Gerechtigkeit zuzuführen und die Unschuldigen zu schützen. zum Glück für die Kriminellen gibt es deutlich mehr von der anderen Art. Von der Art, mit der man viel einfacher arbeiten kann.",
+        "keywords": "Kontakt",
+        "text": "[trash]: Verhindere, dass eine andere installierte Ressource zerstört wird.\n[trash]: Erhalte 2[credit].",
+        "title": "Sündenbock"
+    },
+    {
+        "code": "20036",
+        "flavor": "\"Wir sind immer glücklich, helfen zu könenn, Mr. Santiago.\"\n\"Ich weiß das zu schätzen, Mr. Li.\"\n\"Wir bleiben in Verbindung. Und, Gabriel…\"\n\"Ja?\"\n\"Verlassen Sie die Stadt nicht.\"",
+        "keywords": "Kontakt",
+        "text": "[click]: Ziehe 2 Karten. Lege 1 dieser Karten unter deinen Stapel.",
+        "title": "Mr. Li"
+    },
+    {
+        "code": "20037",
+        "flavor": "\"Kennst du Dinosaurus schon?\"",
+        "keywords": "G-mod",
+        "text": "+1[mu]",
+        "title": "Chaostheorie: Wunderkind"
+    },
+    {
+        "code": "20038",
+        "flavor": "Diesel weckt dein Feuer.",
+        "text": "Ziehe 3 Karten.",
+        "title": "Diesel"
+    },
+    {
+        "code": "20039",
+        "flavor": "Ab und zu ist ein wenig Umstrukturierung im Konzern einfach nötig.",
+        "keywords": "Run",
+        "text": "Führe einen Run auf F&E durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen, die obersten 5 Karten von F&E ansehen und in beliebiger Reihenfolge zurücklegen.",
+        "title": "Indexierung"
+    },
+    {
+        "code": "20040",
+        "flavor": "Für ein selbsterstelltes Programm gibt's einfach keinen Ersatz. Erstellt in langen Nächten, mit Hilfe von Müsliriegeln und entschlossener Zielstrebigkeit. Billiger ists außerdem.",
+        "keywords": "Mod",
+        "text": "Installiere ein Programm oder ein Stück Hardware und senke die Installationskosten dafür um 3.",
+        "title": "Eigenbau"
+    },
+    {
+        "code": "20041",
+        "flavor": "Wenn du so gut bist, ist es schwer, keine Fangemeinde zu haben.",
+        "text": "Kann nur gespielt werden, falls du in diesem Zug je einen erfolgreichen Run auf F&E, HQ und Archiv durchgeführt hast.\nLege Berüchtigt als Agenda mit dem Wert 1 Agendapunkt in deiner Punktezone ab.",
+        "title": "Berüchtigt"
+    },
+    {
+        "code": "20042",
+        "text": "Durchsuche deinen Stapel oder deine Ablage nach einem Programm. Installiere das Programm, ohne die Kosten zu beszahlen. Mische deinen Stapel, falls du ihn durchsucht hast. Wenn dieser Zug endet, lege das Programm oben auf deinen Stapel, falls es immer noch installiert ist.",
+        "title": "Testlauf"
+    },
+    {
+        "code": "20043",
+        "flavor": "\"Klar gibt es Profis mit guten Instinkten, aber sie können nicht über die Daten hinaus sehen. Sie können die Matrix nicht sehen.\" - Ele \"Smoke\" Scovak",
+        "keywords": "Run",
+        "text": "Führe einen Run auf F&E durch. Wenn du erfolgreich bist, greife auf 2 zusätzliche Karten von F&E zu.",
+        "title": "Blick des Bastlers"
+    },
+    {
+        "code": "20044",
+        "flavor": "\"Weißt du, es gibt da diesen Moment, wenn die Welt einfach verschwindet. Dann gibt es nur noch dich und dein Mod, und das Mod wird die Welt.\"",
+        "keywords": "Mod",
+        "text": "Wähle ein Ice. Das erhält <strong>Wächter</strong>, <strong>Code-Zugang</strong>, und <strong>Barriere</strong> bis zum Ende des Zuges.",
+        "title": "Bastelstunde"
+    },
+    {
+        "code": "20045",
+        "keywords": "Konsole",
+        "text": "Dinosaurus kann einen einzigen <strong>Icebrecher</strong> hosten, der keine <strong>KI</strong> ist. Die Speicherkosten für den gehosteten <strong>Icebrecher</strong> zählen nicht gegen dein Speicherlimit.\nDer gehostete <strong>Icebrecher</strong> hat +2 Stärke.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+        "title": "Dinosaurus"
+    },
+    {
+        "code": "20046",
+        "flavor": "Es ist nicht endlos, es fühlt sich nur so an.",
+        "keywords": "Verbindung",
+        "text": "+1[link]\nWenn Kaninchenloch installiert wird, darfst du deinen Stapel nach einer weiteren Kopie von Kaninchenloch suchen und sie durch bezahlen der Installationskosten installieren. Mische deinen Stapel.",
+        "title": "Kaninchenloch"
+    },
+    {
+        "code": "20047",
+        "flavor": "Eine z-Schleife hier, eine Kortikalwelle da…",
+        "keywords": "Mod",
+        "text": "Persönliche Note kann nur auf einem <strong>Ice-Brecher.</strong> installiert werden.\nDer hostende <strong>Ice-Brecher</strong> hat +1 Stärke.",
+        "title": "Persönliche Note"
+    },
+    {
+        "code": "20048",
+        "flavor": "\"Das nennt man 'Brute-Force-Angriff' und es ist heute noch genauso wirksam wie vor hundert Jahren.\" - Kate \"Mac\" McCaffrey",
+        "keywords": "Ice-Brecher - Fracter",
+        "text": "2[credit]: Schalte bis zu 2 Subroutinen einer <strong>Barriere</strong> aus.\n1[credit]: +1 Stärke bis zum Ende des Runs.",
+        "title": "Rammbock"
+    },
+    {
+        "code": "20049",
+        "flavor": "Sie kann auch durch die dicksten Datenknoten schneiden.",
+        "keywords": "Ice-Brecher - Decoder",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +1 Stärke bis zum Ende dieses Runs.",
+        "title": "Gordische Klinge"
+    },
+    {
+        "code": "20050",
+        "flavor": "Das Große Werk war an einem verregneten Donnerstagnachmittag fertig. Es gab keine seismischen Verschiebungen, keine Sonneneruptionen, keinen Hinweis von Erde oder Himmel darauf, dass die Welt sich verändert hatte. Aber oben in Heinlein, in einem einzelnen Datenkern der Marke Cybsoft füllten sich die Qubits eines Kontos mit Creds. Echten, knallharten, UN-zertifizierten Creds.",
+        "text": "[click]: Du erhältst 2[credit].",
+        "title": "Magnum Opus"
+    },
+    {
+        "code": "20051",
+        "keywords": "Ice-Brecher - Killer",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n2[credit]: +1 Stärke bis zum Ende dieses Runs.",
+        "title": "Pipeline"
+    },
+    {
+        "code": "20052",
+        "flavor": "Man hat Aesops Arm nicht erwähnt, wenn man sich keine längeren Tiraden anhören wollte. Manchmal fragte man sich bei der Art, wie er darüber redete, warum er sich den anderen Arm nicht auch hat weglasern lassen.",
+        "keywords": "Ort - Kontakt",
+        "text": "Wenn dein Zug beginnt, kannst du eine andere deiner installierten Karten zerstören, um  3[credit] zu erhalten.",
+        "title": "Aesops Leihhaus"
+    },
+    {
+        "code": "20053",
+        "flavor": "\"Mir doch egal, was die Studien sagen. Meiner Erfahrung nach kann ich drei Dosen Diesel pro Stunde trinken, und das zwölf Stunden lang, bevor ich einen Herzkasper bekomme.\" - Aussage in der elften Stunde.",
+        "text": "[click] und [trash]: Erhalte [click] [click].",
+        "title": "Durchgemachte Nacht"
+    },
+    {
+        "code": "20054",
+        "flavor": "Die Lebenserwartung von so einem eingestöpselten Konstrukt ist etwa die einer Eintagsfliege. Anders ausgedrückt: kurz.",
+        "keywords": "Ausgelagert",
+        "text": "[trash]: Verhindere, dass ein installiertes Programm oder eine installierte Hardware zerstört wird.",
+        "title": "Opferkonstrukt"
+    },
+    {
+        "code": "20055",
+        "flavor": "\"Bringt das Erinnerungen zurück, Monica?\" -John \"Animal\" McEvoy",
+        "text": "Erhalte 2[credit] oder enthülle 1 Karte.",
+        "title": "Infiltration"
+    },
+    {
+        "code": "20056",
+        "flavor": "Fortuna hatte die Form eines HiFi-Quantenmanipulationsrings angenommen, den sie an ihrem Mittelfinger trug.",
+        "text": "Du erhältst 9[credit].",
+        "title": "Sichere Hand"
+    },
+    {
+        "code": "20057",
+        "flavor": "Altertümlich, aber verlässlich.",
+        "keywords": "Chip - Verbindung",
+        "text": "+1[mu], +1[link]",
+        "title": "Dyson-Speicherchip"
+    },
+    {
+        "code": "20058",
+        "keywords": "Ice-Brecher - KI - Virus",
+        "text": "1[credit]: Schalte eine Subroutine eines Ice aus.\n1[credit]: +1 Stärke.\n[click]: Lege 1 Viruszähler auf Krypsis.\nWenn eine Begegnung mit einem Ice, in der du Krypsis zum Ausschalten einer Subroutine eingesetzt hast, endet, entferne 1 gehosteten Viruszähler oder zerstöre Krypsis.",
+        "title": "Krypsis"
+    },
+    {
+        "code": "20059",
+        "flavor": "Langweilige Arbeit, aber man kann die Rechnungen bezahlen.",
+        "keywords": "Job",
+        "text": "Lege 12[credit] aus der Bank auf Codeknacken für Armitage, wenn die Karte installiert wird. Wenn keine Credits mehr auf Codeknacken für Armitage liegen, zerstöre sie.\n[click]: Nimm 2[credit] von Coedeknacken für Armitage.",
+        "title": "Codeknacken für Armitage"
+    },
+    {
+        "code": "20060",
+        "flavor": "\"Mein Boss belohnt Qualitätsarbeit. Wenn du weißt, was gut für dich ist, machst du so weiter.\"",
+        "keywords": "Verbindung",
+        "text": "Wenn dein Zug beginnt, erhalte 1[credit], falls du mindestens 2[link] hast.",
+        "title": "Unterweltkontakt"
+    }
+]

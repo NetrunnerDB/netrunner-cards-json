@@ -119,7 +119,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "text": "Whenever you use Mass-Driver to break all subroutines on a piece of ice during a single encounter, the first 3 subroutines on the next piece of ice you encounter do not resolve.\n2[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.",
+        "text": "Whenever you use Mass-Driver to break all subroutines on a piece of ice during a single encounter, the first 3 subroutines on the next piece of ice you encounter this run do not resolve.\n2[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +1 strength.",
         "title": "Mass-Driver",
         "type_code": "program",
         "uniqueness": false
@@ -254,7 +254,7 @@
         "faction_code": "nbn",
         "faction_cost": 1,
         "flavor": "\"It's all about M.E. Monetizing Everything.\" -Eryn Nielle",
-        "illustrator": "Tim Dunning",
+        "illustrator": "Tim Durning",
         "pack_code": "baw",
         "position": 75,
         "quantity": 3,
@@ -293,7 +293,7 @@
         "position": 77,
         "quantity": 3,
         "side_code": "corp",
-        "text": "When you score Standoff, each player, starting with the Runner, trashes 1 installed card until 1 player declines to trash a card. If the Runner declines, draw 1 card and gain 5[credit].",
+        "text": "When you score Standoff, each player, starting with the Runner, trashes 1 of his or her installed cards until 1 player declines to trash a card. If the Runner declines, draw 1 card and gain 5[credit].\n<errata>Errata from FAQ 4.1</errata>",
         "title": "Standoff",
         "type_code": "agenda",
         "uniqueness": false
