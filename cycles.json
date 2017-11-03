@@ -10,14 +10,14 @@
         "code": "core",
         "name": "Core Set",
         "position": 1,
-        "rotated": false,
+        "rotated": true,
         "size": 1
     },
     {
         "code": "genesis",
         "name": "Genesis",
         "position": 2,
-        "rotated": false,
+        "rotated": true,
         "size": 6
     },
     {
@@ -31,7 +31,7 @@
         "code": "spin",
         "name": "Spin",
         "position": 4,
-        "rotated": false,
+        "rotated": true,
         "size": 6
     },
     {
@@ -96,5 +96,19 @@
         "position": 13,
         "rotated": false,
         "size": 1
+    },
+    {
+        "code": "core2",
+        "name": "Revised Core Set",
+        "position": 20,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "kitara",
+        "name": "Kitara",
+        "position": 21,
+        "rotated": false,
+        "size": 6
     }
 ]
