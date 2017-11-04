@@ -1,78 +1,122 @@
 [
     {
         "code": "10020",
-        "title": null
+        "flavor": "\"Nein! Lös das nicht HIER aus!\"",
+        "keywords": "Bombe",
+        "text": "[trash]: Der Kon kann für den Rest dieses Runs nicht mehr als 1 Ice laden. Verwende diese Fähigkeit während eines Runs.",
+        "title": "EMP-Gerät"
     },
     {
         "code": "10021",
-        "title": null
+        "keywords": "Virus",
+        "text": "Wenn Diwan installiert wird, wähle ein System. Der Kon muss 1[credit] als zusätzliche Installationskosten zahlen, um eine Karte in diesem System oder die dieses System schützt zu installieren.\nZerstöre Diwan, falls der Kon Viruszähler löscht.",
+        "title": "Diwan"
     },
     {
         "code": "10022",
-        "title": null
+        "keywords": "Run - Sabotage",
+        "text": "Führe einen Run auf HQ durch. Bei Erfolg greifst du nicht auf Karten zu, sondern der Kon legt alle Karten im HQ in der Reihenfolge seiner Wahl oben auf F&E.\n<champion>Karte entwickelt von 2013 World Champion Jens Erickson</champion>",
+        "title": "CBI-Razzia"
     },
     {
         "code": "10023",
-        "title": null
+        "flavor": "\"Warum sollte man Beweismaterial, das vollständig in Ordnung ist, wegwerfen, statt es zu verkaufen?\"",
+        "keywords": "Kontakt",
+        "text": "Immer wenn du eine [trash]-Fähigkeit nutzt, erhältst du 1[credit].",
+        "title": "Tech-Händler"
     },
     {
         "code": "10024",
-        "title": null
+        "keywords": "Endverbraucher - Chip",
+        "text": "NetChip kann ein Programm hosten, dessen Speicherkosten der Anzahl der installierten NetChips entsprechen oder darunter liegen. Die Speicherkosten für das gehostete Programm zählen nicht gegen dein Speicherlimit.\nMaximal 6 pro Deck.",
+        "title": "NetChip"
     },
     {
         "code": "10025",
-        "title": null
+        "flavor": "\"Wir sind vielleicht aufgebracht, aber nicht überrascht.\" - Sunder",
+        "keywords": "Aktuell",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder die Punkte für eine Agenda erzielt werden.\nDer Kon hat 1 zusätzliche negative Publicity (selbst, falls er 0 hat).",
+        "title": "Konzernskandal"
     },
     {
         "code": "10026",
-        "title": null
+        "flavor": "\"Die Kons sind vielleicht stärker als jeder einzelne von uns, aber sie sind nicht stärker als wir alle zusammen.\" - Akshara Sareen",
+        "text": "Kann nur gespielt werden, falls du mindestens 1 installierte <strong>Zwielichtig</strong>-Karte hast.\nDer Kon hat 1[click] weniger, den er in seinem nächsten Zug ausgeben kann.",
+        "title": "Populisten-Kundgebung"
     },
     {
         "code": "10027",
-        "title": null
+        "keywords": "Anlage",
+        "text": "Sobald du Hochentwickelte Fertigungsstraße lädst, erhältst du 3[credit].\n[trash]: Installiere eine Karte aus dem HQ, die keine Agenda ist (und zahle ihre Installationskosten). Du kannst diese Fähigkeit nicht während eines Runs verwenden.",
+        "title": "Hochentwickelte Fertigungsstraße"
     },
     {
         "code": "10028",
-        "title": null
+        "text": "Immer wenn du eine Karte lädst, lege 1 Wirkungszähler auf Lakshmi-Smartgewebe.\n<strong>X gehostete Wirkungszähler</strong>: Decke eine Agenda mit einem Punktewert von X vom HQ auf. Der Runner kann für den Rest dieses Zuges keine Kopien dieser Agenda stehlen.",
+        "title": "Lakshmi-Smartgewebe"
     },
     {
         "code": "10029",
-        "title": null
+        "keywords": "Bündnis",
+        "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [haas-bioroid]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\nZerstöre einen geladenen Aktivposten oder ein geladenes Upgrade. Falls du dies tust, erhältst du Credits in Höhe der Zerstörungskosten dieser Karte.",
+        "title": "Produktrückruf"
     },
     {
         "code": "10030",
-        "title": null
+        "flavor": "Wir sind, was wir essen.",
+        "keywords": "Abteilung",
+        "text": "Immer wenn der Runner zum ersten Mal in jedem Zug eine Karte zieht, erhältst du 1[credit].",
+        "title": "Pālanā Foods: Nachhaltiges Wachstum"
     },
     {
         "code": "10031",
-        "title": null
+        "flavor": "Da sie zwar teuer im Bau, aber deutlich effizienter als traditionelle Anbaumethoden sind, sind Agroplexe das Sinnbild für die endgültige Industrialisierung der Landwirtschaft in Konzernhand.",
+        "keywords": "Anlage",
+        "text": "Sobald dein Zug beginnt, zieht jeder Spieler 1 Karte.",
+        "title": "Pālanā-Agroplex"
     },
     {
         "code": "10032",
-        "title": null
+        "flavor": "\"Wir können anderen helfen, helfen aber auch uns selbst.\" - Soraiya Surech, VP Öffentlichkeitsprogramm",
+        "keywords": "Code-Zugang",
+        "text": "[subroutine] Der Runner zieht 3 Karten und legt dann Karten ab, bis er sein Handkartenlimit erreicht hat.\n[subroutine] Der Runner zieht 3 Karten und legt dann Karten ab, bis er sein Handkartenlimit erreicht hat.",
+        "title": "Mähdrescher"
     },
     {
         "code": "10033",
-        "title": null
+        "flavor": "Der Hauptexport des Gujarat-Distrikts von Mumbad sind nicht Lebensmittel, sondern Daten.",
+        "keywords": "Erweiterung",
+        "text": "Dein Handkartenlimit wird um 2 erhöht.",
+        "title": "Ausgelagerte Datenfarm"
     },
     {
         "code": "10034",
-        "title": null
+        "keywords": "Hinterhalt",
+        "text": "Falls von F&E aus auf Wegwerf-HQ zugegriffen wird, muss der Runner es aufdecken.\nWenn der Runner auf Wegwerf-HQ zugreift, kannst du eine beliebige Zahl Karten vom HQ unter F&E legen.",
+        "title": "Wegwerf-HQ"
     },
     {
         "code": "10035",
-        "title": null
+        "keywords": "Öffentlich",
+        "text": "Installiere Neues Bauvorhaben offen.\nImmer wenn du Neues Bauvorhaben entwickelst, kannst du eine Karte aus dem HQ in ein neues System installieren (und diese Karte laden und dabei alle Kosten ignorieren, falls sich 5 oder mehr Entwicklungsmarker auf Neues Bauvorhaben befinden).",
+        "title": "Neues Bauvorhaben"
     },
     {
         "code": "10036",
-        "title": null
+        "text": "Sobald dein Zug beginnt, lege 1 Entwicklungsmarker auf Mumbad Construction Co.\n2[credit]: Verschiebe 1 Entwicklungsmarker von Mumbad Construction Co. auf eine offene Karte.",
+        "title": "Mumbad Construction Co."
     },
     {
         "code": "10037",
-        "title": null
+        "flavor": "\"Ihr habt es. Wir verkaufen es. Sie kaufen es. Jeder gewinnt.\"",
+        "keywords": "Erweiterung",
+        "text": "Wenn du die Punkte für Konzern-Verkaufstrupp erzielst, lege 10[credit] darauf.\nWenn der Zug eines Spielers beginnt, nimm 1[credit] von Konzern-Verkaufstrupp.",
+        "title": "Konzern-Verkaufstrupp"
     },
     {
         "code": "10038",
-        "title": null
+        "keywords": "Bündnis - Anlage",
+        "text": "Diese Karte kostet 0 Einfluss, falls du 3 Pad-Kampagnen in deinem Deck hast.\n[click]: Lege 1 Entwicklungsmarker auf eine Karte. Du kannst bis zum Beginn deines nächsten Zuges die Punkte für diese Karte nicht erzielen.",
+        "title": "PAD-Fabrik"
     }
 ]
