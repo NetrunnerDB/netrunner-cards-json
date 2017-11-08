@@ -716,74 +716,160 @@
     },
     {
         "code": "20109",
+        "flavor": "„Du bist nie unbeobachtet.“",
+        "keywords": "Megakon",
+        "text": "2[recurring-credit]\nVerwende diese Credits beim Aufspüren.",
+        "title": "NBN: Wir sind die Nachrichten"
     },
     {
         "code": "20100",
+        "keywords": "Forschung",
+        "text": "Wenn du die Punkte für Projekt Beale erzielst, lege für je 2 darauf liegende Entwicklungsmarker über 3 einen Agendazähler auf Projekt Beale.\nProjekt Beale ist 1 zusätzlichen Agendapunkt für jeden Agendazähler darauf wert.",
+        "title": "Projekt Beale"
     },
     {
         "code": "20111",
+        "flavor": "\"Dieser verdammte Rabe hat gekrächzt, als ich vorbeigegangen bin. Ich hätte es wissen müssen, too good to be true.\"",
+        "keywords": "Hinterhalt",
+        "text": "Falls vom F&E auf TGTBT zugegriffen wird, muss der Runner es aufdecken.\nWenn der Runner auf TGTBT zugreift, verpasse dem Runner 1 Markierung.",
+        "title": "TGTBT"
     },
     {
         "code": "20112",
+        "keywords": "Hinterhalt - Anlage",
+        "text": "Phantom-Filiale kann entwickelt werden.\nWenn der Runner Runner auf Phantom-Filiale zugreift, darfst du ihm 1 Markierung für jeden Entwicklungsmarker auf Phantom-Filiale verpassen.",
+        "title": "Phantom-Filiale"
     },
     {
         "code": "20113",
+        "keywords": "Wächter - Spürhund - Beobachter",
+        "text": "Wenn der Runner auf Datenrabe trifft, muss er den Run beenden oder er bekommt eine Markierung verpasst.\n<strong>Gehosteter Wirkungszähler</strong> Verpasse dem Runner 1 Markierung.\n[subroutine] <trace>Aufspüren 3</trace> Wenn du erfolgreich bist, lege 1 Wirkungszähler auf Datenrabe.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+        "title": "Datenrabe"
     },
     {
         "code": "20114",
+        "flavor": "Ein helles Licht erstrahlte, und dann wurde die Konsole dunkel. Das war der Moment, in dem sie Rauch roch.",
+        "keywords": "Wächter - Spürhund - AP",
+        "text": "[subroutine]<trace>Aufspüren 6</trace>Bei Erfolg zerstöre 1 Hardware, verursache 2 Körperschaden (können nicht verhindert werden) und beende den Run.",
+        "title": "Flare"
     },
     {
         "code": "20115",
+        "flavor": "\"Versuch mal, es zu schließen. Mach schon. Sieh nach, was es tut.\" - Chaostheorie",
+        "keywords": "Code-Zugang - Werbung",
+        "text": "Wenn der Runner auf Pop-ip-Fenster trifft, erhälst du 1[credit].\n[subroutine] Beende den Run, falls der Runner nicht 1[credit] zahlt.",
+        "title": "Pop-up Fenster"
     },
     {
         "code": "20116",
+        "flavor": "\"Schon mal was von Catch-22 gehört?\"\n\"Erinnere mich dran, es zu vergessen.\"",
+        "keywords": "Code-Zugang",
+        "text": "Wenn der Runner auf Mautstelle trifft, muss er 3[credit] zahlen. Wenn der Runner keine 3[credit] zahlen kann, beende den Run.\n[subroutine] Beende den Run.",
+        "title": "Mautstelle"
     },
     {
         "code": "20117",
+        "flavor": "\"Geniale Achterbahn, vorausgesetzt, deine Stims passen\" -Noise",
+        "keywords": "Barriere",
+        "text": "Falls kein <strong>Fracter</strong> installiert ist, hat Multi-Loop +7 Stärke.\n[subroutine] Beende den Run.",
+        "title": "Multi-Loop"
     },
     {
         "code": "20118",
+        "flavor": "\"Bitte halten sie die Verbindung aufrecht. Vorrangiger Datentransfer läuft. Ein Administrator wird bald überprüf...\"",
+        "text": "Ziehe 3 Karten.",
+        "title": "Anonymer Hinweis"
     },
     {
         "code": "20119",
+        "keywords": "Graue Ops",
+        "text": "Kann nur gespielt werden, wenn der Runner markiert ist.\nDer Runner verliert alle Credits in seinem Credit-Vorrat.",
+        "title": "Geplündertes Konto"
     },
     {
         "code": "20120",
+        "flavor": "Zugriff auf die größte Verbraucherdatenbank des Sonnensystems zu haben, hat so seine Vorteile.",
+        "text": "X ist gleich oder weniger als die Anzahl der Markierungen, die der Runner hat.\nLege X Entwicklungsmarker auf eine Karte, die entwickelt werden kann.",
+        "title": "Psychographie"
     },
     {
         "code": "20121",
+        "flavor": "\"SEA hat uns nen Tipp zu verdächtigen Datenspitzen oben im Castle gegeben.\" - Jerome Lock, diensthabender Techniker.",
+        "text": "Kann nur gespielt werden, wenn der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\n<trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+        "title": "SEA-Informant"
     },
     {
         "code": "20122",
+        "text": "Jedesmal, wenn der Runner auf eine Agenda in diesem System zugreift, muss er 5[credit] als zusätzliche Kosten dafür zahlen, um sie zu stehlen. Das gilt auch während des Runs, in dem der Runner Falsche Spur zerstört.",
+        "title": "Falsche Spur"
     },
     {
         "code": "20123",
+        "flavor": "Die Welt kontrollieren, einen Bildschirm nach dem anderen.",
+        "keywords": "Sysop",
+        "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird,<trace>Aufspüren 5</trace> Bei Erfolg verpasse dem Runner 1 Markierung. Bei Misserfolg, zerstöre Bernice Mai.",
+        "title": "Bernice Mai"
     },
     {
         "code": "20124",
+        "flavor": "Es sah nicht aus, wie das Hauptquartier eines milliardenschweren Konzerns. Vielleicht lags daran, dass es das auch nicht war.",
+        "keywords": "Sicherheit",
+        "text": "<strong>Aufgeben von Falsche Fährte:</strong>: Der Runner verliert [click][click], wenn möglich.",
+        "title": "Falsche Fährte"
     },
     {
         "code": "20125",
+        "flavor": "\"Wenn ich das nicht bis achtzehn Uhr auf dem Bildschirm habe, werden hier Köpfe rollen!\"",
+        "keywords": "Sicherheit",
+        "text": "Wenn du die Punkte für Vorrangige Anforderung erzielst, darfst du ein Ice laden, ohne die Kosten zu bezahlen.",
+        "title": "Vorrangige Anforderung"
     },
     {
         "code": "20126",
+        "flavor": "\"Teuer? Nicht, wenn man so ein großes Vermögen schützen muss wie wir.\"",
+        "keywords": "Sicherheit",
+        "text": "Wenn der Runner markiert ist, erhält Privatarmee \"[click]: Verursache 1 Körperschaden.\"",
+        "title": "Privatarmee"
     },
     {
         "code": "20127",
+        "flavor": "\"Die Bergwerksbosse hier sind schlimmer als irgendwelche Paten, die unten auf der Erde rummachen. Tri-maf, 4K, Yak, mir gleich, wie eure Gangs da unten heißen. In Heinlein gilt nur ein Gesetz: Das He3 muss fließen.\" -\"Old\" Rick Henry, entflohener Klon.",
+        "text": "[click], [click], [click]: Erhalte 7[credit].",
+        "title": "Melange Mining Corp."
     },
     {
         "code": "20128",
+        "flavor": "Genau wie das, was du gerade gekauft hast, nur besser.",
+        "keywords": "Werbung",
+        "text": "Du erhältst 1[credit] wenn dein Zug beginnt.",
+        "title": "PAD-Kampagne"
     },
     {
         "code": "20129",
+        "flavor": "\"He, heeee! Wach auf, Alter. Du warst ziemlich lange weg. Was hast du gesehen?\"\n\"Ich…erinnere mich nicht.\"",
+        "keywords": "Code-Zugang",
+        "text": "[subroutine] Der Runner verliert [click], wenn möglich.\n[subroutine] Beende den Run.",
+        "title": "Enigma"
     },
     {
         "code": "20130",
+        "flavor": ".//run/hunter-tr/return=true\nclient/sec256IPv7->confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR",
+        "keywords": "Wächter - Spürhund - Beobachter",
+        "text": "[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+        "title": "Jäger"
     },
     {
         "code": "20131",
+        "flavor": "\"Es gibt nichts Schlimmeres, als diesen wunderschönen blauen Ball aus Daten gerade außerhalb deiner Reichweite zu sehen, wenn deine Verbindung zusammenbricht. Ich glaube die machen das, nur um uns zu ärgern.\" - Ele \"Smoke\" Scovak",
+        "keywords": "Barriere",
+        "text": "[subroutine] Beende den Run.",
+        "title": "Rauschbarriere"
     },
     {
         "code": "20132",
+        "flavor": "HedgefFond. Substantiv. Ein ausgeklügeltes Mittel, das die Reichen noch reicher macht, auch wenn zur selben Zeit jedes andere arme AL sein letztes Hemd verliert.\n- Anarchistisches Wörterbuch, Ausgabe: Wer zählt schon mit?",
+        "keywords": "Transaktion",
+        "text": "Du erhältst 9[credit].",
+        "title": "Hedgefonds"
     }
 ]
