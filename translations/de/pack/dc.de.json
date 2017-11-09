@@ -1,125 +1,125 @@
 [
     {
         "code": "12001",
-        "flavor": "\"Hitting them when they are weakest sometimes means acting before you want to.\" -Alice Merchant",
+        "flavor": "\"Zuzuschlagen, wenn sie am schwächsten sind, erfordert manchmal, dass man zuschlägt, bevor man bereit dazu ist.\" -Alice Merchant",
         "keywords": "Run",
-        "text": "Make a run. If you have 2 or fewer cards in your grip, each installed <strong>icebreaker</strong> has +2 strength until the end of the run.",
-        "title": "Pushing the Envelope"
+        "text": "Führe einen Run durch. Falls du 2 oder weniger Karten in deinem Griff hast, hat jeder <strong>Ice-Brecher</strong> bis zum Ende des Runs +2 Stärke.",
+        "title": "An die Grenze gehen"
     },
     {
         "code": "12002",
-        "keywords": "Console",
-        "text": "+2[mu]\nThe first time each turn you access a card not in Archives and do not steal or trash it, the Corp must trash 1 card from HQ at random.\nLimit 1 <strong>console</strong> per player.",
-        "title": "Maw"
+        "keywords": "Konsole",
+        "text": "+2[mu]\nWenn du zum ersten Mal in einem Zug auf eine Karte zugreifst, die sich nicht im Archiv befindet, und diese nicht stiehlst oder zerstörst, muss der Kon 1 zufällige Karte aus dem HQ zerstören.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+        "title": "Maul"
     },
     {
         "code": "12003",
-        "flavor": "The Archivist tracks all the clans and their members, and official dealings clans have with the various corps. Half law clerk and half historian, he wields a tremendous amount of power doing a job no one else wants, but none can do without.",
-        "keywords": "Connection",
-        "text": "+1[link]\nWhenever the Corp scores an <strong>initiative</strong> or <strong>security</strong> agenda, force the Corp to \"<trace>Trace 1</trace> if unsuccessful, take 1 bad publicity.\"",
-        "title": "The Archivist"
+        "flavor": "Der Archivar führt Buch über die Clans und deren Mitglieder sowie über offizielle Abkommen der Clans mit verschiedenen Kons. Halb Gerichtsschreiber, halb Historiker, verfügt er über eine immense Macht, weil er einen Job ausübt, den sonst niemand machen möchte, aber ohne den es auch nicht geht.",
+        "keywords": "Verbindung",
+        "text": "+1[link]\nImmer wenn der Kon die Punkte für eine <strong>Initiative</strong>- oder <strong>Sicherheit</strong>-Agenda erzielt, zwinge den Kon zu \"<trace>Aufspüren 1</trace> Bei Misserfolg erhältst du 1 Negative Publicity.\"",
+        "title": "Der Archivar"
     },
     {
         "code": "12004",
-        "flavor": "1) Find the weakness.\n2) Exploit the weakness.\n3) Repeat.",
-        "text": "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nDerez up to 3 pieces of ice.",
-        "title": "Exploit"
+        "flavor": "1) Finde die Schwachstelle.\n2) Nutze die Schwachstelle aus.\n3) Wiederhole das Ganze.",
+        "text": "Kann nur gespielt werden, falls du in diesem Zug je einen erfolgreichen Run auf F&E, HQ und Archiv durchgeführt hast.\nEntlade bis zu 3 Ice.",
+        "title": "Ausbeuten"
     },
     {
         "code": "12005",
-        "flavor": "\"So, yeah, I just reverse engineered a tracer, and then built it back up with some new lines of code. Pretty stellar.\" -Los",
-        "text": "Expose 1 non-ice card, then make a run.",
-        "title": "Spot the Prey"
+        "flavor": "\"Hm, ja, ich habe gerade ein Aufspürprogramm nachprogrammiert und dann mit neuen Codezeilen modifiziert. Ziemlich geniale Sache.\" -Los",
+        "text": "Enthülle 1 Karte, die kein Ice ist, und führe dann einen Run durch.",
+        "title": "Die Beute finden"
     },
     {
         "code": "12006",
-        "flavor": "\"You created a distributed AI replica of yourself and projected it into the network to run for you!?\"",
-        "keywords": "Virtual",
-        "text": "[trash]: Prevent all but 1 net damage.",
-        "title": "Bio-Modeled Network"
+        "flavor": "\"Du hast eine dezentralisierte KI-Replikation von dir selbst entwickelt und sie in das Netzwerk projiziert, damit sie die Runs für dich durchführt?\"",
+        "keywords": "Virtuell",
+        "text": "[trash]: Verhindere allen Netz-Schaden bis auf 1.",
+        "title": "Bio-Modelliertes Netzwerk"
     },
     {
         "code": "12007",
-        "flavor": "\"To beat cautious sysops, you've got to get creative. Commandeering Network systems is like using their own strengths against them.\" -Kabonesa Wu",
-        "keywords": "Virtual",
-        "text": "The install cost of each piece of ice that is not installed in the innermost position is increased by 1.",
-        "title": "Network Exchange"
+        "flavor": "\"Um vorsichtige Sysops zu überlisten, muss man kreativ sein. Netzwerksysteme zu übernehmen bedeutet, die Stärke der Gegner gegen sie zu verwenden.\" -Kabonesa Wu",
+        "keywords": "Virtuell",
+        "text": "Die Installationskosten für jedes Ice, das nicht als innerstes installiert wird, werden um 1 erhöht.",
+        "title": "Netzwerkaustausch"
     },
     {
         "code": "12008",
         "keywords": "Run",
-        "text": "Make a run. When this run ends, add Mad Dash to your score area as an agenda worth 1 agenda point if you stole at least 1 agenda during the run; otherwise, suffer 1 meat damage.",
-        "title": "Mad Dash"
+        "text": "Führe einen Run durch. Sobald dieser Run endet, füge Wilder Ansturm deiner Punktezone als Agenda mit dem Wert 1 Agendapunkt hinzu, falls du während des Runs mindestens eine Agenda gestohlen hast; ansonsten erleidest du 1 Körper-Schaden.",
+        "title": "Wilder Ansturm"
     },
     {
         "code": "12009",
-        "flavor": "\"The newest electronic-warfare rollout from NEXT Design has us sysops drooling.\" -Mason Bellamy",
+        "flavor": "\"Das neuste Produkt für elektronische Kriegsführung aus der NEXT-Designreihe bringt uns Sysops zum Sabbern.\" -Mason Bellamy",
         "keywords": "NEXT",
-        "text": "If there is a rezzed piece of <strong>NEXT</strong> ice when you score NEXT Wave 2, you may do 1 brain damage.",
-        "title": "NEXT Wave 2"
+        "text": "Falls es ein geladenes <strong>NEXT</strong>-Ice gibt, sobald du die Punkte für NEXT Welle 2 erzielst, darfst du 1 Hirn-Schaden verursachen.",
+        "title": "NEXT Welle 2"
     },
     {
         "code": "12010",
-        "flavor": "\"Dismantle. Dissect. Is there really a difference?\"",
-        "keywords": "Sentry - Bioroid - AP - Destroyer",
-        "text": "The Runner can spend [click][click] to break up to 2 subroutines on Zed 2.0.\n[subroutine] Trash 1 hardware.\n[subroutine] Trash 1 hardware.\n[subroutine] If the Runner has spent at least 1 [click] to break a subroutine during this run, do 2 brain damage.",
+        "flavor": "\"Demontieren. Sezieren. Gibt es da wirklich einen Unterschied?\"",
+        "keywords": "Wächter - Bioroid - AP - Zerstörer",
+        "text": "Der Runner kann [click][click] ausgeben, um bis zu 2 Subroutinen auf Zed 2.0 auszuschalten.\n[subroutine] Zerstöre 1 Hardware.\n[subroutine] Zerstöre 1 Hardware.\n[subroutine] Falls der Runner während des Runs mindestens 1[click] ausgegeben hat, um eine Subroutine auszuschalten, verursache 2 Hirn-Schaden.",
         "title": "Zed 2.0"
     },
     {
         "code": "12011",
-        "text": "Defense Construct can be advanced.\n[trash]: Add 1 facedown card from Archive to HQ for each advancement token on Defense Construct. Use this ability only during a run on Archives.",
-        "title": "Defense Construct"
+        "text": "Verteidigungskonstrukt kann entwickelt werden.\n[trash]: Füge dem HQ für jeden Entwicklungsmarker auf Verteidigungskonstrukt 1 verdeckte Karte vom Archiv hinzu. Verwende diese Fähigkeit nur während eines Runs auf das Archiv.",
+        "title": "Verteidigungskonstrukt"
     },
     {
         "code": "12012",
-        "text": "The first time a subroutine on a piece of <strong>AP</strong> ice is broken each turn, do 1 net damage.",
-        "title": "Synth DNA Modification"
+        "text": "Wenn zum ersten Mal in einem Zug eine Subroutine auf einem <strong>AP</strong>-Ice ausgeschaltet wird, verursache 1 Netz-Schaden.",
+        "title": "Synthetische DNA-Modifizierung"
     },
     {
         "code": "12013",
-        "flavor": "\"The ultimate aim of martial arts is not having to use them.\" - Miyamoto Musashi",
-        "keywords": "Barrier - AP",
-        "text": "When the Runner passes Kakugo, do 1 net damage.\n[subroutine] End the run.",
+        "flavor": "\"Das höchste Ziel der Kampfkunst ist es, sie nicht anwenden zu müssen.\" - Miyamoto Musashi",
+        "keywords": "Barriere - AP",
+        "text": "Sobald der Runner an Kakugo vorbeikommt, verursache 1 Netz-Schaden.\n[subroutine] Beende den Run.",
         "title": "Kakugo"
     },
     {
         "code": "12014",
-        "text": "Whenever the Runner avoids or removes 1 or more tags, you may draw 1 card.",
-        "title": "Net Analytics"
+        "text": "Immer wenn der Runner 1 oder mehrere Markierungen verhindert oder entfernt, darfst du 1 Karte ziehen.",
+        "title": "Netzanalyse"
     },
     {
         "code": "12015",
-        "flavor": "\"'What does BRE stand for?' Have you seen its Net presence?\" -Bernice Mai",
-        "keywords": "Sentry - Tracer",
-        "text": "[subroutine]<trace>Trace 4</trace> If successful, give the Runner 1 tag.\n[subroutine]<trace>Trace 2</trace> If successful, the Runner accesses 1 fewer cards whenever he or she accesses cards.",
+        "flavor": "\"'Wofür steht BRE?' Hast du dir ihren Auftritt im Netz angesehen?\" -Bernice Mai",
+        "keywords": "Wächter - Spürhund",
+        "text": "[subroutine]<trace>Aufspüren 4</trace> Bei Erfolg verpasse dem Runner 1 Markierung.\n[subroutine]<trace>Aufspüren 2</trace> Bei Erfolg greift der Runner bis zum Ende des Runs auf 1 Karte weniger zu, immer wenn er auf Karten zugreift.",
         "title": "SYNC BRE"
     },
     {
         "code": "12016",
-        "keywords": "Corporation",
-        "text": "Whenever you forfeit an agenda, place 1 advancement token on a card and 1 additional token for each agenda point the agenda was worth.",
-        "title": "Jemison Astronautics: Sacrifice. Audacity. Success."
+        "keywords": "Konzern",
+        "text": "Immer wenn du eine Agenda aufgibst, lege 1 Entwicklungsmarker plus 1 zusätzlichen Marker für jeden Agendapunkt, den diese Agenda wert war, auf eine Karte.",
+        "title": "Jemison Astronautics: Aufopferung. Wagemut. Erfolg."
     },
     {
         "code": "12017",
-        "text": "<strong>Forfeit an agenda</strong>: Rez up to 3 pieces of ice, lowering the cost of each by 2[credit] for each printed agenda point on the forfeited agenda.",
-        "title": "Quarantine System"
+        "text": "<strong>Gib eine Agenda auf</strong>: Lade bis zu 3 Ice, wobei die Kosten für jedes davon um 2[credit] für jeden aufgedruckten Agendapunkt auf der aufgegebenen Agenda gesenkt werden.",
+        "title": "Systemabriegelung"
     },
     {
         "code": "12018",
-        "text": "As an additional cost to rez Oberth Protocol, forfeit an agenda.\nThe first time you advance a card in or protecting this server each turn, place an additional advancement token on it.",
-        "title": "Oberth Protocol"
+        "text": "Als zusätzliche Kosten für das Laden von Oberth-Protokoll, gib eine Agenda auf.\nImmer wenn du zum ersten Mal in einem Zug eine Karte entwickelst, die sich in diesem System befindet oder es beschützt, lege einen zusätzlichen Entwicklungsmarker auf diese Karte.",
+        "title": "Oberth-Protokoll"
     },
     {
         "code": "12019",
-        "flavor": "Senate staffers and clerks of the MCA can be seen thronging Khondi Plaza during break times.",
-        "keywords": "Ritzy",
-        "text": "X[recurring-credit]\nUse these credits to rez ice protecting this server. X is the number of remote servers.",
-        "title": "Khondi Plaza"
+        "flavor": "In den Pausen sieht man Mitarbeiter des Senats und staatliche Angestellte sich auf dem Khondi-Plaza drängeln.",
+        "keywords": "Protzig",
+        "text": "X[recurring-credit]\nVerwende diese Credits, um Ice zu laden, das dieses System schützt. X ist die Anzahl der ausgelagerten Systeme.",
+        "title": "Khondi-Plaza"
     },
     {
         "code": "12020",
-        "text": "[trash]: Cards cannot be installed until the end of the run. Use this abiliy only during a run on this server.",
-        "title": "Signal Jamming"
+        "text": "[trash]: Bis zum Ende des Runs können keine Karten installiert werden. Verwende diese Fähigkeit nur während eines Runs auf dieses System.",
+        "title": "Signale stören"
     }
 ]
