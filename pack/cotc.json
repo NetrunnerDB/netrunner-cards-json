@@ -19,6 +19,25 @@
         "type_code": "program",
         "uniqueness": false
     },
+    
+    {
+        "code": "21042",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 2,
+        "flavor": "\"It makes every bad thing that you do so much better.\"\n- g00ru",
+        "illustrator": "Martin de Diego Sádaba",
+        "keywords": "Chip",
+        "pack_code": "cotc",
+        "position": 42,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "Whenever you trash a Corp card, you may place 1 virus counter on Friday Chip.\nWhen your turn begins, you may move 1 hosted virus counter to a <strong>virus</strong> program.",
+        "title": "Friday Chip",
+        "type_code": "hardware",
+        "uniqueness": false
+    },
     {
         "code": "21044",
         "cost": 1,
@@ -26,7 +45,7 @@
         "faction_code": "criminal",
         "faction_cost": 3,
         "flavor": "You'd think someone would have noticed a program entitled \"Career Opportunities in Hacking\" earlier.",
-        "illustrator": "PixelSlayer",
+        "illustrator": "PxelSlayer",
         "keywords": "Current",
         "pack_code": "cotc",
         "position": 44,
