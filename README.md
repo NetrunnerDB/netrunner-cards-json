@@ -1,4 +1,4 @@
-Netrunner cards JSON data [![Build status](https://circleci.com/gh/Alsciende/netrunner-cards-json/tree/master.svg?style=shield)](https://circleci.com/gh/zaroth/netrunner-cards-json)
+Netrunner cards JSON data [![Build status](https://circleci.com/gh/Alsciende/netrunner-cards-json/tree/master.svg?style=shield)](https://circleci.com/gh/Alsciende/netrunner-cards-json)
 =========
 
 The goal of this repository is to store [NetrunnerDB](http://netrunnerdb.com) card data in a format that can be easily updated by multiple people and their changes reviewed.
@@ -35,13 +35,15 @@ Required properties are in **bold**.
 * **position** - number of the pack within the cycle. Examples: `1` for Core Set, `1` for The Valley from SanSan Cycle, `5` for Old Hollywood from SanSan Cycle.
 * **date_release** - date when the pack was officially released by FFG. When in doubt, look at the date of the pack release news on FFG's news page. Format of the date is YYYY-MM-DD. May be `null` - this value is used when the date is unknown. Examples: `"2012-09-06"` for Core Set, `"2016-04-28"` for Salsette Island, `null` for unreleased previewed packs.
 * **size** - number of different cards in the pack. May be `null` - this value is used when the pack is just an organizational entity, not a physical pack.  Examples: `120` for Core Set, `55` for most deluxe expansions, `20` for most datapacks, `null` for assorted draft cards.
+* **ffg_id** - FFG's internal "ADN" product number for this pack. May be `null`. Example: `49` for the Revised Core Set ("ADN49")
 
 #### Card schema
 
 * advancement_cost - number of advancement tokens required to score the card. Relevant for agendas. Examples: `5` for Priority Requisition, `3` for AstroScript Pilot Program, `2` for Domestic Sleepers.
 * agenda_points - number of agenda points the card gives after scoring. Relevant for agendas. Examples: `3` for Priority Requisition, `2` for AstroScript Pilot Program, `0` for Domestic Sleepers.
 * base_link - base link strength number of the card. Relevant for Runner identities. Examples: `0` for Noise, `2` for Sunny Lebeau.
-* **code** - 5 digit card identifier. Consists of two zero-padded numbers: first two digits are the cycle position, last three are position of the card within the cycle (printed on the card). Examples: `"01048"` for Sacrificial Construct (48th card in cycle) from Core Set (1st cycle), `"10100"` for The Price of Freedom (100th card in cycle) from Mumbad (10th cycle).
+* **code** - 5 digit unique card identifier. When assigning a code for a new card, build it from two zero-padded numbers: first two digits are the cycle position, last three are position of the card within the cycle (printed on the card). Once a code has been assigned, it cannot be changed, and some codes (notably from the Revised Core Set) do not adhere to this scheme. Therefore, you should always treat this as an opaque identifier.  
+Examples: `"01048"` for Sacrificial Construct (48th card in cycle) from Core Set (1st cycle), `"10100"` for The Price of Freedom (100th card in cycle) from Mumbad (10th cycle).
 * cost - Play/rez cost of the card. Relevant for all cards except identities and agendas. May be `null` - this value is used when the card has a special, possibly variable, cost. Examples: `5` for Hedge Fund, `3` for Desperado, `null` for Psychographics.
 * **faction_code** - Faction this cards belongs to. Possible values: `"adam"`, `"anarch"`,
 `"apex"`, `"criminal"`, `"shaper"`, `"sunny-lebeau"`, `"neutral-runner"`, `"haas-bioroid"`, `"jinteki"`, `"nbn"`, `"weyland-consortium"`, `"neutral-corp"` 
