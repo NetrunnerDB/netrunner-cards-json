@@ -17,6 +17,24 @@
         "uniqueness": false
     },
     {
+        "code": "21024",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 4,
+        "flavor": "\"He's probably the best pet I've ever had but I'd still trade him for something better\" - 419",
+        "illustrator": "Adam S. Doyle",
+        "memory_cost": 1,
+        "pack_code": "dtwn",
+        "position": 24,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "The first time you make a successful run on HQ each turn, you may trash Wari to name <strong>sentry</strong>, <strong>code gate</strong> or <strong>barrier</strong>. Expose a piece of ice, then add it to HQ if it has the named subtype.",
+        "title": "Wari",
+        "type_code": "program",
+        "uniqueness": true
+    },
+    {
         "code": "21031",
         "cost": 1,
         "deck_limit": 3,
@@ -33,6 +51,25 @@
         "title": "Jinja City Grid",
         "trash_cost": 5,
         "type_code": "upgrade",
+        "uniqueness": false
+    },
+    {
+        "code": "21032",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "jinteki",
+        "faction_cost": 2,
+        "flavor": "\"Starving, dehydrated, delirious, I picked a direction and ran, ran for days, maybe even weeks. I ran until my legs couldn't carry me. Then I crawled. When I was finally out, finally free of the shroud, I checked the time, the date. How long had I been gone, trapped in the all-encompassing blackness? Turns out, 3 minutes.\"",
+        "illustrator": "Adam S. Doyle",
+        "keywords": "Trap",
+        "pack_code": "dtwn",
+        "position": 32,
+        "quantity": 3,
+        "side_code": "corp",
+        "strength": 1,
+        "text": "[subroutine] Trash the top 3 cards of the stack. Trash Aimor.",
+        "title": "Aimor",
+        "type_code": "ice",
         "uniqueness": false
     },
     {
