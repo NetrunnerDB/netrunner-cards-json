@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "04037",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 2,
+        "id": "elizabeth-mills",
+        "influence_limit": null,
+        "keywords": "Executive",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "When you rez Elizabeth Mills, remove 1 bad publicity.\n[click], [trash]: Trash 1 <strong>location</strong>. Take 1 bad publicity.",
+        "title": "Elizabeth Mills",
+        "trash_cost": 1,
+        "type_code": "asset",
+        "uniqueness": true
+    }
+]

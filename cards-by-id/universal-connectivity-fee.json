@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06067",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 1,
+        "id": "universal-connectivity-fee",
+        "influence_limit": null,
+        "keywords": "Trap",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 2,
+        "text": "[subroutine] The Runner loses 1[credit] unless the Runner is tagged. If the Runner is tagged, he or she loses all credits in his or her credit pool and the Corp trashes Universal Connectivity Fee.",
+        "title": "Universal Connectivity Fee",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

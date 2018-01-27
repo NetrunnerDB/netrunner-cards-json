@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "09032",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "apex",
+        "faction_cost": 3,
+        "id": "heartbeat",
+        "influence_limit": null,
+        "keywords": "Console",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "+1[mu]\n<strong>Trash an installed card:</strong> Prevent 1 damage.\nLimit 1 <strong>console</strong> per player.",
+        "title": "Heartbeat",
+        "trash_cost": null,
+        "type_code": "hardware",
+        "uniqueness": true
+    }
+]

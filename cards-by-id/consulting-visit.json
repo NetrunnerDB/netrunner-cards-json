@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "10094",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 3,
+        "id": "consulting-visit",
+        "influence_limit": null,
+        "keywords": "Alliance - Double",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [weyland-consortium] cards in your deck.\nAs an additional cost to play this operation, spend [click].\nSearch R&D for an operation and play it (paying all costs). Shuffle R&D.",
+        "title": "Consulting Visit",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

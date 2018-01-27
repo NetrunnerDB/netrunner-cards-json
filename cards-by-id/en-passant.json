@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11061",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 2,
+        "id": "en-passant",
+        "influence_limit": null,
+        "keywords": "Sabotage",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Play only if you made a successful run this turn.\nTrash an unrezzed piece of ice you passed during the last run you made this turn.",
+        "title": "En Passant",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

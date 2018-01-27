@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "09018",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "turnpike",
+        "influence_limit": null,
+        "keywords": "Sentry - Tracer",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 3,
+        "text": "When the Runner encounters Turnpike, he or she loses 1[credit].\n[subroutine] <trace>Trace 5</trace> If successful, give the Runner 1 tag.",
+        "title": "Turnpike",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "01047",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 2,
+        "id": "aesops-pawnshop",
+        "influence_limit": null,
+        "keywords": "Location - Connection",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "When your turn begins, you may trash another of your installed cards to gain 3[credit].",
+        "title": "Aesop's Pawnshop",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

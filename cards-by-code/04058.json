@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "04058",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 2,
+        "id": "power-shutdown",
+        "influence_limit": null,
+        "keywords": "Gray Ops",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Play only if the Runner made a run during his or her last turn.\nTrash X cards from the top of R&D. The Runner trashes 1 installed program or piece of hardware with an install cost of X or less. X is equal to or less than the highest install cost among all installed programs and pieces of hardware.\n<errata>Errata from FAQ 4.0</errata>",
+        "title": "Power Shutdown",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

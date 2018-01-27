@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11078",
+        "cost": 10,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 3,
+        "id": "bulwark",
+        "influence_limit": null,
+        "keywords": "Barrier - Illicit",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 8,
+        "text": "When you rez Bulwark, take 1 bad publicity.\nWhen the Runner encounters Bulwark, gain 2[credit] if there is an installed <strong>AI</strong>.\n[subroutine] The Runner trashes 1 program.\n[subroutine] The Corp gains 2[credit]. End the run.\n[subroutine] The Corp gains 2[credit]. End the run.",
+        "title": "Bulwark",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

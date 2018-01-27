@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "04102",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 3,
+        "id": "queens-gambit",
+        "influence_limit": null,
+        "keywords": "Double",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "As an additional cost to play this event, spend [click].\nPlace up to 3 advancement tokens on an unrezzed card in a remote server. Gain 2[credit] for each advancement token placed. You cannot access that card this turn.",
+        "title": "Queen's Gambit",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

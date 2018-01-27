@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "10091",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "waiver",
+        "influence_limit": null,
+        "keywords": "Code Gate - Tracer",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 5,
+        "text": "[subroutine]<trace>Trace 5</trace> If successful, the Runner reveals his or her grip. Trash each of those cards with a play or install cost equal to or less than the amount by which your trace strength exceeded his or her link strength.",
+        "title": "Waiver",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

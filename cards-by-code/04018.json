@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "04018",
+        "cost": 8,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 4,
+        "id": "swarm",
+        "influence_limit": null,
+        "keywords": "Sentry - Destroyer - Illicit",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 5,
+        "text": "When you rez Swarm, take 1 bad publicity.\nSwarm can be advanced and gains \"[subroutine] Trash 1 program unless the Runner pays 3[credit].\" for each advancement token on it.",
+        "title": "Swarm",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

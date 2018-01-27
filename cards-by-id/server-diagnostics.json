@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "03025",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "neutral-corp",
+        "faction_cost": 0,
+        "id": "server-diagnostics",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Gain 2[credit] when your turn begins.\nTrash Server Diagnostics when you install a piece of ice.",
+        "title": "Server Diagnostics",
+        "trash_cost": 2,
+        "type_code": "asset",
+        "uniqueness": false
+    }
+]

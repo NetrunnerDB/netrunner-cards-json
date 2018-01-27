@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "20022",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "id": "forged-activation-orders",
+        "influence_limit": null,
+        "keywords": "Sabotage",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Choose an unrezzed piece of ice. The Corp must either rez that ice or trash it.",
+        "title": "Forged Activation Orders",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

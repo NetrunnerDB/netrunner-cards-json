@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": 2,
+        "agenda_points": 0,
+        "base_link": null,
+        "code": "12077",
+        "cost": null,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": null,
+        "id": "standoff",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "When you score Standoff, each player, starting with the Runner, trashes 1 installed card until 1 player declines to trash a card. If the Runner declines, draw 1 card and gain 5[credit].",
+        "title": "Standoff",
+        "trash_cost": null,
+        "type_code": "agenda",
+        "uniqueness": false
+    }
+]

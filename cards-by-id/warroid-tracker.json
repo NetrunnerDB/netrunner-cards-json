@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12068",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "haas-bioroid",
+        "faction_cost": 2,
+        "id": "warroid-tracker",
+        "influence_limit": null,
+        "keywords": "Bioroid",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Whenever the Runner trashes 1 or more cards in or protecting this server (including Warroid Tracker), <trace>Trace 4</trace> If successful, the Runner must trash 2 of his or her installed cards.",
+        "title": "Warroid Tracker",
+        "trash_cost": 4,
+        "type_code": "upgrade",
+        "uniqueness": false
+    }
+]

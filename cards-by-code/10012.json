@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "10012",
+        "cost": 6,
+        "deck_limit": 3,
+        "faction_code": "haas-bioroid",
+        "faction_cost": 2,
+        "id": "vikram-10",
+        "influence_limit": null,
+        "keywords": "Sentry - Bioroid - Tracer - AP",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 5,
+        "text": "The Runner can spend [click] to break any subroutine on Vikram 1.0.\n[subroutine] The Runner cannot use programs for the remainder of this run.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 brain damage.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 brain damage.",
+        "title": "Vikram 1.0",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

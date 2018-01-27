@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "07015",
+        "cost": 15,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 3,
+        "id": "orion",
+        "influence_limit": null,
+        "keywords": "Sentry - Code Gate - Barrier",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 8,
+        "text": "Orion can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Trash 1 program.\n[subroutine] Resolve a subroutine on another piece of rezzed ice.\n[subroutine] End the run.",
+        "title": "Orion",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": true
+    }
+]

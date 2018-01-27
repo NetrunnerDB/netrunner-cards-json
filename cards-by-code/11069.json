@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11069",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "id": "government-investigations",
+        "influence_limit": null,
+        "keywords": "Current",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhile secretly spending credits, players cannot spend 2[credit].",
+        "title": "Government Investigations",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

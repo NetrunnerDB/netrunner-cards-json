@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "13010",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 4,
+        "id": "charlatan",
+        "influence_limit": null,
+        "keywords": "Virtual",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "[click], [click]: Make a run. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice to bypass it.",
+        "title": "Charlatan",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": false
+    }
+]

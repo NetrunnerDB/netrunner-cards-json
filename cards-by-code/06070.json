@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06070",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 1,
+        "id": "reuse",
+        "influence_limit": null,
+        "keywords": "Double",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "As an additional cost to play this operation, spend [click].\nTrash any number of cards from HQ. Gain 2[credit] for each card trashed.",
+        "title": "Reuse",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

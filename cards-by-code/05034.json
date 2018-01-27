@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "05034",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 3,
+        "id": "feint",
+        "influence_limit": null,
+        "keywords": "Run",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Make a run on HQ. Bypass the first 2 pieces of ice encountered during this run. If successful, you cannot access any cards.",
+        "title": "Feint",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

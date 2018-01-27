@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11070",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "id": "citadel-sanctuary",
+        "influence_limit": null,
+        "keywords": "Location",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "If you are tagged when your turn ends, force the Corp to \"<trace>Trace 1</trace> If unsuccessful, the Runner removes 1 tag.\"\n[trash],<strong>trash all cards in your grip:</strong> Prevent all meat damage.",
+        "title": "Citadel Sanctuary",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

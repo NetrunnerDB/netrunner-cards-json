@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "13039",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "haas-bioroid",
+        "faction_cost": 5,
+        "id": "black-level-clearance",
+        "influence_limit": null,
+        "keywords": "Security Protocol",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Whenever there is a successful run on this server, the Runner must either take 1 brain damage or jack out. If the Runner jacks out, gain 5[credit], draw 1 card, and trash Black Level Clearance.",
+        "title": "Black Level Clearance",
+        "trash_cost": 1,
+        "type_code": "upgrade",
+        "uniqueness": false
+    }
+]

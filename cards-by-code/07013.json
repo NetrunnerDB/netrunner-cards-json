@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "07013",
+        "cost": 9,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 2,
+        "id": "wormhole",
+        "influence_limit": null,
+        "keywords": "Code Gate",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 7,
+        "text": "Wormhole can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Resolve a subroutine on another piece of rezzed ice.",
+        "title": "Wormhole",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

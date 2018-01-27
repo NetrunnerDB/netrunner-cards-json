@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06103",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "haas-bioroid",
+        "faction_cost": 1,
+        "id": "it-department",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "[click]: Place 1 power counter on IT Department.\n<strong>Hosted power counter:</strong> Choose a rezzed piece of ice. That ice has +1 strength until the end of the turn for each power counter (including the one spent) on IT Department.",
+        "title": "IT Department",
+        "trash_cost": 4,
+        "type_code": "asset",
+        "uniqueness": false
+    }
+]

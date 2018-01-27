@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "13013",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 4,
+        "id": "careful-planning",
+        "influence_limit": null,
+        "keywords": "Priority",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Play only as your first [click].\nChoose a card in or protecting a remote server. That card cannot be rezzed this turn.",
+        "title": "Careful Planning",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

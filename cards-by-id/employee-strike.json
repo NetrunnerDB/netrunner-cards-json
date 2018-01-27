@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "09053",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 1,
+        "id": "employee-strike",
+        "influence_limit": null,
+        "keywords": "Current",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's identity text box is blank.",
+        "title": "Employee Strike",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

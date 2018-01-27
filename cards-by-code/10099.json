@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "10099",
+        "cost": 5,
+        "deck_limit": 1,
+        "faction_code": "criminal",
+        "faction_cost": 4,
+        "id": "the-black-file",
+        "influence_limit": null,
+        "keywords": "Virtual",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "The Corp cannot win the game unless the Runner is flatlined.\nWhen your turn begins, place 1 power counter on The Black File. When there are 3 or more power counters on The Black File, remove it from the game.\nLimit 1 per deck.",
+        "title": "The Black File",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "08097",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "old-hollywood-grid",
+        "influence_limit": null,
+        "keywords": "Region",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Agendas accessed from this server cannot be stolen unless the Runner already has a copy of that agenda in his or her score area. This applies even during the run on which the Runner trashes Old Hollywood Grid.\nLimit 1 <strong>region</strong> per server.",
+        "title": "Old Hollywood Grid",
+        "trash_cost": 4,
+        "type_code": "upgrade",
+        "uniqueness": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "02022",
+        "cost": 6,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 2,
+        "id": "liberated-account",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Place 16[credit] from the bank on Liberated Account when it is installed. When there are no credits left on Liberated Account, trash it.\n[click]: Take 4[credit] from Liberated Account.",
+        "title": "Liberated Account",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": false
+    }
+]

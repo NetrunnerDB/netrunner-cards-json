@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "08116",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 5,
+        "id": "worlds-plaza",
+        "influence_limit": null,
+        "keywords": "Facility",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Worlds Plaza can host up to 3 assets.\n[click]: Install an asset from HQ on Worlds Plaza and rez it, lowering its rez cost by 2, if able.",
+        "title": "Worlds Plaza",
+        "trash_cost": 5,
+        "type_code": "asset",
+        "uniqueness": true
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "10061",
+        "cost": 6,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "id": "vamadeva",
+        "influence_limit": null,
+        "keywords": "Icebreaker - AI - Deva",
+        "memory_cost": 1,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": 2,
+        "text": "1[credit]: Break ice subroutine on a piece of ice with exactly 1 subroutine.\n1[credit]: +1 strength.\n2[credit]: Swap Vamadeva with a <strong>deva</strong> program from your grip.",
+        "title": "Vamadeva",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": true
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "01088",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "data-raven",
+        "influence_limit": null,
+        "keywords": "Sentry - Tracer - Observer",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 4,
+        "text": "When the Runner encounters Data Raven, he or she must either take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] <trace>Trace 3</trace> If successful, place 1 power counter on Data Raven.",
+        "title": "Data Raven",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

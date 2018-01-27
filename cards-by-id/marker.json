@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "04116",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "jinteki",
+        "faction_cost": 1,
+        "id": "marker",
+        "influence_limit": null,
+        "keywords": "Code Gate",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 3,
+        "text": "[subroutine] The next piece of ice the Runner encounters gains \"[subroutine] End the run.\" after all its other subroutines for the remainder of this run.",
+        "title": "Marker",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

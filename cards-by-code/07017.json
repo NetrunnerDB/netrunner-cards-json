@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "07017",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 2,
+        "id": "checkpoint",
+        "influence_limit": null,
+        "keywords": "Code Gate - Tracer - Illicit",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 7,
+        "text": "When you rez Checkpoint, take 1 bad publicity.\n[subroutine] <trace>Trace 5</trace> If successful, do 3 meat damage when this run is successful.",
+        "title": "Checkpoint",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

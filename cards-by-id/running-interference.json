@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "04044",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 4,
+        "id": "running-interference",
+        "influence_limit": null,
+        "keywords": "Double - Run",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "As an additional cost to play this event, spend [click].\nMake a run. During this run, the Corp must pay X[credit] as an additional cost to rez each piece of ice, where X is the rez cost of that ice.",
+        "title": "Running Interference",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

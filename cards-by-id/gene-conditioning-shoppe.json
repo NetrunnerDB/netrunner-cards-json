@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "08006",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 1,
+        "id": "gene-conditioning-shoppe",
+        "influence_limit": null,
+        "keywords": "Location",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "<strong>Genetics</strong> also trigger the second time each turn their trigger condition is met.",
+        "title": "Gene Conditioning Shoppe",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": false
+    }
+]

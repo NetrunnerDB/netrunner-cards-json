@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12109",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "id": "corporate-defector",
+        "influence_limit": null,
+        "keywords": "Connection",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Whenever the Corp spends a [click] to draw a card (not through a card effect), reveal that card.",
+        "title": "Corporate Defector",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": false
+    }
+]

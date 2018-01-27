@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06066",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 1,
+        "id": "reversed-accounts",
+        "influence_limit": null,
+        "keywords": "Hostile",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Reversed Accounts can be advanced.\n[click], [trash]: The Runner loses 4[credit] for each advancement token on Reversed Accounts.",
+        "title": "Reversed Accounts",
+        "trash_cost": 3,
+        "type_code": "asset",
+        "uniqueness": false
+    }
+]

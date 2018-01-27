@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "07012",
+        "cost": 9,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 2,
+        "id": "asteroid-belt",
+        "influence_limit": null,
+        "keywords": "Barrier",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 6,
+        "text": "Asteroid Belt can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] End the run.",
+        "title": "Asteroid Belt",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

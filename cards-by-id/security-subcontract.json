@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "01096",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 1,
+        "id": "security-subcontract",
+        "influence_limit": null,
+        "keywords": "Transaction",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "[click], <strong>trash a rezzed piece of ice:</strong> Gain 4[credit].",
+        "title": "Security Subcontract",
+        "trash_cost": 3,
+        "type_code": "asset",
+        "uniqueness": false
+    }
+]

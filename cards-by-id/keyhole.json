@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "04061",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 3,
+        "id": "keyhole",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": 2,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "[click]: Make a run on R&D. If successful, instead of accessing cards, look at the top 3 cards of R&D. Trash 1 of those cards at no cost (even if it cannot normally be trashed) and the Corp shuffles R&D.",
+        "title": "Keyhole",
+        "trash_cost": null,
+        "type_code": "program",
+        "uniqueness": false
+    }
+]

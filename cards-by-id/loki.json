@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "12069",
+        "cost": 6,
+        "deck_limit": 3,
+        "faction_code": "haas-bioroid",
+        "faction_cost": 5,
+        "id": "loki",
+        "influence_limit": null,
+        "keywords": "Bioroid",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 3,
+        "text": "When the Runner encounters Loki, choose another rezzed piece of ice. Until the end of the run, Loki gains the subtypes of that ice and the subroutines of that ice before all Loki's other subroutines.\n[subroutine] End the run unless the Runner shuffles his or her grip into the stack.",
+        "title": "Loki",
+        "trash_cost": null,
+        "type_code": "ice",
+        "uniqueness": true
+    }
+]

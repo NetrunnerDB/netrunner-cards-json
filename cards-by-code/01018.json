@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "01018",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 4,
+        "id": "account-siphon",
+        "influence_limit": null,
+        "keywords": "Run - Sabotage",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Make a run on HQ. If successful, instead of accessing cards you may force the Corp to lose up to 5[credit], then you gain 2[credit] for each credit lost and take 2 tags.",
+        "title": "Account Siphon",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

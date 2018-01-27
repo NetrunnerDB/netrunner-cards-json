@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "10083",
+        "cost": 0,
+        "deck_limit": 1,
+        "faction_code": "neutral-runner",
+        "faction_cost": 1,
+        "id": "rebirth",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Switch your identity with another identity from the same faction. Remove Rebirth from the game instead of trashing it.\nLimit 1 per deck.",
+        "title": "Rebirth",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

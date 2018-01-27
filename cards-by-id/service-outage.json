@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11057",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 1,
+        "id": "service-outage",
+        "influence_limit": null,
+        "keywords": "Current",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to make the first run on his or her turn (even through a card ability), the Runner must spend 1[credit].",
+        "title": "Service Outage",
+        "trash_cost": null,
+        "type_code": "operation",
+        "uniqueness": false
+    }
+]

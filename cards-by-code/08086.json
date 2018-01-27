@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "08086",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 1,
+        "id": "film-critic",
+        "influence_limit": null,
+        "keywords": "Connection",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "Film Critic can host a single agenda.\nWhenever you access an agenda, you may host that agenda on Film Critic (the agenda is no longer being accessed and is uninstalled).\n[click],[click]: Add an agenda hosted on Film Critic to your score area.",
+        "title": "Film Critic",
+        "trash_cost": null,
+        "type_code": "resource",
+        "uniqueness": false
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "11115",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "herald",
+        "influence_limit": null,
+        "keywords": "Code Gate",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": 1,
+        "text": "If Herald is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Herald, he or she encounters it. Ignore this ability if the Runner accesses Herald from Archives.\n[subroutine] The Corp gains 2[credit].\n[subroutine] The Corp may pay up to 2[credit] to place that number of advancement tokens on a card that can be advanced.",
+        "title": "Herald",
+        "trash_cost": 1,
+        "type_code": "ice",
+        "uniqueness": false
+    }
+]

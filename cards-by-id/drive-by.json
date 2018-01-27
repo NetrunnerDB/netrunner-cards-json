@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "08064",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "id": "drive-by",
+        "influence_limit": null,
+        "keywords": "Double",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "runner",
+        "strength": null,
+        "text": "As an additional cost to play this event, spend [click].\nExpose 1 card installed in a remote server. Trash that card at no cost if it is an asset or upgrade.",
+        "title": "Drive By",
+        "trash_cost": null,
+        "type_code": "event",
+        "uniqueness": false
+    }
+]

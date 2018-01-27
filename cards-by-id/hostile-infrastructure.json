@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06083",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "jinteki",
+        "faction_cost": 2,
+        "id": "hostile-infrastructure",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Whenever the Runner trashes a Corp card (including Hostile Infrastructure), do 1 net damage.",
+        "title": "Hostile Infrastructure",
+        "trash_cost": 5,
+        "type_code": "asset",
+        "uniqueness": false
+    }
+]

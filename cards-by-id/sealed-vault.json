@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "06029",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 1,
+        "id": "sealed-vault",
+        "influence_limit": null,
+        "keywords": "Facility",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "1[credit]: Move any number of credits from your credit pool to Sealed Vault.\n[click] or [trash]: Move any number of credits from Sealed Vault to your credit pool.",
+        "title": "Sealed Vault",
+        "trash_cost": 8,
+        "type_code": "asset",
+        "uniqueness": false
+    }
+]

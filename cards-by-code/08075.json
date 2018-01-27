@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": null,
+        "agenda_points": null,
+        "base_link": null,
+        "code": "08075",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 2,
+        "id": "expose",
+        "influence_limit": null,
+        "keywords": null,
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "Exposé can be advanced.\n[trash]: Remove 1 bad publicity for each advancement token on Exposé.",
+        "title": "Exposé",
+        "trash_cost": 2,
+        "type_code": "asset",
+        "uniqueness": false
+    }
+]

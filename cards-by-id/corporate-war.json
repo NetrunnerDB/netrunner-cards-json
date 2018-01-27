@@ -1,0 +1,24 @@
+[
+    {
+        "advancement_cost": 4,
+        "agenda_points": 2,
+        "base_link": null,
+        "code": "02120",
+        "cost": null,
+        "deck_limit": 3,
+        "faction_code": "neutral-corp",
+        "faction_cost": 0,
+        "id": "corporate-war",
+        "influence_limit": null,
+        "keywords": "Expansion",
+        "memory_cost": null,
+        "minimum_deck_size": null,
+        "side_code": "corp",
+        "strength": null,
+        "text": "If you have at least 7[credit] when you score Corporate War, gain 7[credit]; otherwise, lose all credits in your credit pool.",
+        "title": "Corporate War",
+        "trash_cost": null,
+        "type_code": "agenda",
+        "uniqueness": false
+    }
+]
