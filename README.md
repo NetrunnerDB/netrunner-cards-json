@@ -56,7 +56,7 @@ Examples: `"01048"` for Sacrificial Construct (48th card in cycle) from Core Set
 * memory_cost - MU usage of the card. Relevant for programs.
 * minimum_deck_size - Minimum Deck size. Relevant for identities.
 * **pack_code** - Code of the pack this card is in.
-* **position** - Card number within that pack.
+* **position** - Card number within the cycle (i.e. the number printed on the card). Example: `25` for `Kabonesa Wu` (25th card in the Kitara cycle).
 * **quantity** - How many copies of this card are in the pack.
 * **side_code** - Side the card belongs to. Possible values: `"corp"`, `"runner"`.
 * strength - Relevant for programs and ICE. May be `null` - this value is used when the card has a special, possibly variable, strength. Examples: `1` for Ice Wall, `0` for Crypsis, `null` for Darwin.
