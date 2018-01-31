@@ -1,0 +1,130 @@
+[
+    {
+        "code": "21001",
+        "keywords": "Priorität - Sabotage",
+        "text": "Kann nur als erster [click] gespielt werden.\nImmer wenn du bis zum Ende des Zuges auf eine Karte zugreifst, die nicht im Archiv ist, zerstöre sie, ohne die Kosten zu zahlen (selbst wenn sie normalerweise nicht zerstört werden kann) und erleide 1 Körper-Schaden.",
+        "title": "Mit allen Mitteln"
+    },
+    {
+        "code": "21002",
+        "keywords": "Ice-Brecher - Frakter - Virus",
+        "text": "Immer wenn du einen erfolgreichen Run durchführst, darfst du 1 Viruszähler auf Yusuf legen.\n<strong>Viruszähler einer beliebigen installierten Karte</strong>: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n<strong>Viruszähler einer beliebigen installierten Karte</strong>: +1 Stärke.",
+        "title": "Yusuf"
+    },
+    {
+        "code": "21003",
+        "flavor": "Eingebaute holistische Linsen laden, rekompilieren und senden Daten schneller, als ein Kon sie verschleiern kann.",
+        "keywords": "Konsole",
+        "text": "+2[mu]\nImmer wenn eine Kon-Karte enthüllt wird, darfst du 1[credit] erhalten.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+        "title": "Zamba"
+    },
+    {
+        "code": "21004",
+        "keywords": "Ice-Brecher - Killer",
+        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n2[credit]: +1 Stärke.\n[click]: Lege 1 Wirkungszähler auf Aufbläser oder entferne 1 Wirkungszähler von Aufbläser.\nStärke und Speicherkosten von Aufbläser werden für jeden Wirkungszähler auf dieser Karte um 1 erhöht.",
+        "title": "Aufbläser"
+    },
+    {
+        "code": "21005",
+        "flavor": "Lewi ist in den Slums von Jinja aufgewachsen und hat ein Vermögen mit illegalen Deals, gut abgepassten Wetten und geschickter Selbstdarstellung gemacht.",
+        "keywords": "Kontakt",
+        "text": "Sobald dein Zug beginnt, verliere entweder 1[credit] oder zerstöre Lewi Guilherme.\nDas Handkartenlimit des Kons wird um 1 gesenkt.",
+        "title": "Lewi Guilherme"
+    },
+    {
+        "code": "21006",
+        "flavor": "Optische Computer sind immer noch nützlich. Aber man kann sie nur schwer Leuten erklären, deren Augen glasig werden, wenn man das Doppelspaltenexperiment erwähnt.",
+        "keywords": "Chip",
+        "text": "+1[mu]\nWenn du zum ersten Mal in einem Zug alle Subroutinen auf einem Ice ausschaltest, darfst du 1[credit] erhalten.",
+        "title": "Cyberdelia"
+    },
+    {
+        "code": "21007",
+        "flavor": "Neues Leben durch ein neues Verständnis.",
+        "text": "Immer wenn du einen erfolgreichen Run auf F&E durchführst, darfst du 1 Wirkungszähler auf Upya legen.\n<strong>[click], 3 gehostete Wirkungszähler</strong>: Du erhälst [click][click]. Verwende diese Fähigkeit nur ein Mal pro Zug.",
+        "title": "Upya"
+    },
+    {
+        "code": "21008",
+        "flavor": "\"Seine einzige Funktion scheint es zu sein, Code umzufunktionieren.\"\n\"Kannst du es töten?\", fragte sie.\n\"Ich kann es versuchen\", sagte er. Er zielte mit seinem Programm genau auf die Mitte der Masse, bohrte sich hinein, durchbrach die Hülle - und dann führte eine Explosion dazu, dass sein Bildschirm einfror. Er stöpselte sich mit weit aufgerissenen Augen aus. \"Ich ... ich glaube, es hat meinen Ice-Brecher absorbiert. Und alles andere auch.\"",
+        "keywords": "Virtuell",
+        "text": "[click],[click]: Drehe eine deiner verdeckten installierten Karten auf ihre offene Seite. Falls jene Karte ein Ereignis ist, zerstöre sie.",
+        "title": "Assimilator"
+    },
+    {
+        "code": "21009",
+        "keywords": "Abteilung",
+        "text": "Wenn du zum ersten Mal in deinem Zug eine Karte installierst, darfst du eine zusätzliche Karte, die keine Agenda ist, vom HQ in jenes System oder jenes System schützend installieren (zahle dafür alle Kosten).",
+        "title": "Asa-Gruppe: Sicherheit durch Wachsamkeit"
+    },
+    {
+        "code": "21010",
+        "flavor": "\"Der durchschnittliche Einwohner von Nairobi spricht sechs Sprachen. Alle Kulturen, Sprachen und Volksgruppen von Ostafrika treffen hier aufeinander und vermischen sich. Was im Leben nur langsam geschieht, kann im Labor beschleunigt werden. Wir bringen Friegen.\" - Dr. Muchina, Projektleiter",
+        "keywords": "Sicherkeit",
+        "text": "Als zusätzliche Kosten zum Stehlen von Projekt Ikawah muss der Runner [click] und 2[credit] ausgeben.",
+        "title": "Projekt Ikawah"
+    },
+    {
+        "code": "21011",
+        "flavor": "Erde und Sonne, zusammen als eins.",
+        "keywords": "Barriere - Bioroid",
+        "text": "Der Runner kann [click] ausgeben, um eine Subroutine auf Najja 1.0 auszuschalten.\n[subroutine] Beende den Run.\n\n[subroutine] Beende den Run.",
+        "title": "Najja 1.0"
+    },
+    {
+        "code": "21012",
+        "keywords": "Hinterhalt",
+        "text": "Genspleisser kann entwickelt werden.\nSobald der Runner auf Genspleisser zugreift, verursache 1 Netz-Schaden für jeden Entwicklungsmarker auf Genspleisser.\n<strong>[click], 3 Entwicklungsmarker:</strong> Füge Genspleisser als Agenda mit dem Wert 1 Agendapunkt deiner Punktezone hinzu.",
+        "title": "Genspleisser"
+    },
+    {
+        "code": "21013",
+        "flavor": "Dünn genug, um das Netz zu durchdringen. Tödlich genug, um deinen Geist zu durchdringen.",
+        "keywords": "Falle - Psi - AP",
+        "text": "[subroutine] Du und der Runner geben geheim 0[credit], 1[credit] oder 2[credit] aus. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheiden, verursache 2 Netz-Schaden; ansonsten verursache 1 Netz-Schaden. Zerstöre Mganga.",
+        "title": "Mganga"
+    },
+    {
+        "code": "21014",
+        "flavor": "Manchmal muss man ein paar Unannehmlichkeiten in Kauf nehmen, wenn man ein Genom sequenzieren möchte.",
+        "text": "Zerstöre die obersten 2 Karten von F&E. Mische dann bis zu 4 Karten aus dem Archiv in F&E. Entferne Genotypisierung aus dem Spiel, statt sie zu zerstören.",
+        "title": "Genotypisierung"
+    },
+    {
+        "code": "21015",
+        "flavor": "\"Kapitalismus basiert auf zwei Dingen: unglaubliche Arroganz und Zensur des Widerspruchs. Damit kann ein Kon jede Umgebung erzeugen, die er will.\" - Freedom Khumalo",
+        "text": "[click], [click], [click]: Füge Echokammer deiner Punktezone als Agenda mit dem Wert 1 Agendapunkt hinzu.",
+        "title": "Echokammer"
+    },
+    {
+        "code": "21016",
+        "flavor": "Unsere patentierte ClearMind™-Technologie bringt Ruhe in die Irrungen und Wirrungen des Alltags.",
+        "keywords": "Graue Ops",
+        "text": "Kann nur gepsielt werden, falls der Runner markiert ist.\nFüge 2 installierte Runner-Karten dem Griff hinzu.",
+        "title": "Selbstwachstumsprogramm"
+    },
+    {
+        "code": "21017",
+        "flavor": "\"Ein Mal pro Woche führen wir eine Übung durch. Allerdings bin ich der Einzige, der weiß, dass es sich um eine Übung handelt.\"",
+        "keywords": "Extern",
+        "text": "Kann nur in einem ausgelagerten System installiert werden.\n[trash]: Lege 1 Entwicklungsmarker auf eine Karte in diesem System.",
+        "title": "Kalibrierungstest"
+    },
+    {
+        "code": "21018",
+        "keywords": "Feind",
+        "text": "Lege 3 Wirkungszähler auf Stadterneuerung, sobald die Karte geladen wird. Sobald sich kein Wirkungszähler mehr auf Stadterneuerung befindet, zerstöre sie und verursache 4 Körper-Schaden.\nWenn dein Zug beginnt, entferne 1 Wirkungszähler von Stadterneuerung.",
+        "title": "Stadterneuerung"
+    },
+    {
+        "code": "21019",
+        "keywords": "Vergeltung - Gray Ops",
+        "text": "Kann nur gespielt werden, falls der Runner während seines letzten Zuges mindestens 1 Kon-Karte zerstört hat.\nWähle eine installierte Hardware oder eine nicht-<strong>virtuelle</strong> Ressource. Der Runner muss jene Karte entweder zerstören oder er nimmt 4 Körper-Schaden. Entferne Weckruf aus dem Spiel, statt diese Karte zu zerstören.",
+        "title": "Weckruf"
+    },
+    {
+        "code": "21020",
+        "text": "Immer wenn der Runner eine beliebige Menge Körper-Schaden erleidet, darfst du 1 Entwicklungsmarker auf Wiederaufbauvertrag legen.\n[trash]: Verschiebe beliebig viele Entwicklungsmarker von Wiederaufbauvertrag auf eine Karte, die entwickelt werden kann.",
+        "title": "Wiederaufbauvertrag"
+    }
+]
