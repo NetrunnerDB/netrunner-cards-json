@@ -47,7 +47,7 @@
         "position": 103,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first time you break all subroutines on the outermost piece of ice during a run each turn, you may remove hippo from the game to trash that piece of ice.",
+        "text": "The first time you break all subroutines on the outermost piece of ice during a run each turn, you may remove Hippo from the game to trash that piece of ice.",
         "title": "Hippo",
         "type_code": "hardware",
         "uniqueness": true
@@ -314,7 +314,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": null,
-        "text": "X is twice the number of ice protecting this server.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 2 tags.n\n[subroutine]<trace>Trace X</trace> If successfu, end the run.",
+        "text": "X is twice the number of ice protecting this server.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 2 tags.\n[subroutine]<trace>Trace X</trace> If successful, end the run.",
         "title": "Surveyor",
         "type_code": "ice",
         "uniqueness": false
