@@ -43,7 +43,7 @@
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 1,
-        "flavor": "The smell of rot strengthens with each step",
+        "flavor": "The smell of rot strengthens with each step.",
         "illustrator": "Adam S. Doyle",
         "keywords": "Virtual",
         "pack_code": "cotc",
@@ -174,7 +174,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "X is the number of rezzed NEXT ice.\n[subroutine] Draw up to X cards.\n[subroutine] Add up to X cards from Archives to HQ.\n[subroutine] Shuffle up to X cards from HQ into R&D.",
+        "text": "X is the number of rezzed <strong>NEXT</strong> ice.\n[subroutine] Draw up to X cards.\n[subroutine] Add up to X cards from Archives to HQ.\n[subroutine] Shuffle up to X cards from HQ into R&D.",
         "title": "NEXT Sapphire",
         "type_code": "ice",
         "uniqueness": false
