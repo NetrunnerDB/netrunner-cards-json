@@ -1,14 +1,14 @@
 [
     {
         "code": "21041",
-        "flavor": "\"Amateure tarnen es als ,zufälligen Verlust von Datenpaketen'. Das tun sie aus Sicherheitsgründen, Sie tun es aus Angst. Aber warum sollten wir uns klein machen? Wir werden diese Konzernokratie zu Fall bringen, Stück für Stück! Sie sind nicht diejenigen, vor denen man Angst haben muss. Sondern wir!\"\n- Freedom Khumalo",
+        "flavor": "\"Amateure tarnen es als ,zufälligen Verlust von Datenpaketen'. Das tun sie aus Sicherheitsgründen. Sie tun es aus Angst. Aber warum sollten wir uns klein machen? Wir werden diese Konzernokratie zu Fall bringen, Stück für Stück! Sie sind nicht diejenigen, vor denen man Angst haben muss. Sondern wir!\"\n- Freedom Khumalo",
         "keywords": "Virus",
-        "text": "Immer wenn du auf eine Karte von F&E zugreifst, greife auf 1 zusätzliche Karte zu.\nZerstöre eXer, falls der Kon Viruszähler löscht..",
+        "text": "Immer wenn du auf eine Karte von F&E zugreifst, greife auf 1 zusätzliche Karte zu.\nZerstöre eXer, falls der Kon Viruszähler löscht.",
         "title": "eXer"
     },
     {
         "code": "21042",
-        "flavor": "\"Es macht all die schlimmen Dinge, die zu tust, so viel besser.\"\n- g00ru",
+        "flavor": "\"Es macht all die schlimmen Dinge, die du tust, so viel besser.\"\n- g00ru",
         "keywords": "Chip",
         "text": "Immer wenn du eine Kon-Karte zerstörst, darfst du 1 Viruszähler auf Freitagschip legen.\nSobald dein Zug beginnt, darfst du 1 gehosteten Viruszähler auf ein <strong>Virus</strong>-Programm verschieben.",
         "title": "Freitagschip"
@@ -74,7 +74,7 @@
     {
         "code": "21052",
         "flavor": "für (;;)",
-        "text": "Sobald der Runner an einem geladenen Ice vorbeikommt, das dieses System schützt, darfst du Code-Replikator zerstören, um den Runner dazu zu zwingen, sich jendem Ice erneut zu nähern",
+        "text": "Sobald der Runner an einem geladenen Ice vorbeikommt, das dieses System schützt, darfst du Code-Replikator zerstören, um den Runner dazu zu zwingen, sich jenem Ice erneut zu nähern",
         "title": "Code-Replikator"
     },
     {
@@ -84,6 +84,7 @@
     },
     {
         "code": "21054",
+        "keywords": "Abteilung",
         "text": "Sobald dein Zug endet, darfst du eine Kartenart benennen. Du erhältst 2[credit], wenn der Runner zum ersten Mal in einem Zug eine Karte der zuletzt so benannten Art spielt oder installiert.",
         "title": "Azmari EdTech: Die Zukunft gestalten"
     },
@@ -123,7 +124,7 @@
     {
         "code": "21060",
         "keywords": "Konzern",
-        "text": "Die Installationskosten jedes Programms, jeder Hardware und jeder <strong>viertuellen</strong> Ressource werden um 1 erhöht.\nImmer wenn der Runner ein Programm, eine Hardware oder eine <strong>viertuelle</strong> Ressource installiert, darfst du 1[credit] erhalten.",
+        "text": "Die Installationskosten jedes Programms, jeder Hardware und jeder <strong>virtuellen</strong> Ressource werden um 1 erhöht.\nImmer wenn der Runner ein Programm, eine Hardware oder eine <strong>virtuelle</strong> Ressource installiert, darfst du 1[credit] erhalten.",
         "title": "TechnoCo"
     }
 ]
