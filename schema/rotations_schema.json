@@ -1,0 +1,36 @@
+{
+    "additionalProperties": false,
+    "properties": {
+        "code": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "date_start": {
+            "oneOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "name": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "rotated": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        }
+    },
+    "required": [
+        "code",
+        "date_start",
+        "name",
+        "rotated"
+    ],
+    "type": "object"
+}
