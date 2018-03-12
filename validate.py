@@ -355,6 +355,34 @@ def validate_sides(args, sides_data):
 
     return retval
 
+def validate_rotations(args, rot_data):
+    global validation_errors
+
+    verbose_print(args, "Validating rotations ...\n", 1)
+    rot_schema_path = os.path.join(args.schema_path, "rotations_schema.json")
+    ROT_SCHEMA = load_json_file(args, rot_schema_path)
+    if not isinstance(rot_data, list):
+        verbose_print(args, "Insides of rotations index file are not a list!\n", 0)
+        return False
+    if not ROT_SCHEMA:
+        return False
+    if not check_json_schema(args, ROT_SCHEMA, rot_schema_path):
+        return False
+
+    retval = True
+    for c in rot_data:
+        try:
+            verbose_print(args, "Validating rotation %s... " % c.get("name"), 2)
+            jsonschema.validate(c, ROT_SCHEMA)
+            verbose_print(args, "OK\n", 2)
+        except jsonschema.ValidationError as e:
+            verbose_print(args, "ERROR\n",2)
+            verbose_print(args, "Validation error in rotation: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
+            validation_errors += 1
+            verbose_print(args, "%s\n" % e.message, 0)
+            retval = False
+
+    return retval
 def check_translations_simple(args, base_translations_path, locale_name, base_file_name):
     file_name = "%s.%s.json" % (base_file_name, locale_name)
     verbose_print(args, "Loading file %s...\n" % file_name, 1)
@@ -393,8 +421,14 @@ def check_mwl(args):
 
 def check_prebuilt(args):
     verbose_print(args, "Loading Prebuilts...\n", 1)
-    mwl_path = os.path.join(args.base_path, "prebuilts.json")
-    load_json_file(args, mwl_path)
+    pre_path = os.path.join(args.base_path, "prebuilts.json")
+    load_json_file(args, pre_path)
+
+def check_rotation(args):
+    verbose_print(args, "Loading Rotations...\n", 1)
+    rot_path = os.path.join(args.base_path, "rotations.json")
+    rot_data = load_json_file(args, rot_path)
+    validate_rotations(args, rot_data)
 
 def verbose_print(args, text, minimum_verbosity=0):
     if args.verbose >= minimum_verbosity:
@@ -427,6 +461,8 @@ def main():
         verbose_print(args, "Skipping card validation...\n", 0)
 
     check_prebuilt(args)
+
+    check_rotation(args)
 
     check_mwl(args)
 
