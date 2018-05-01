@@ -67,7 +67,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "1[credit]: break <strong>sentry</strong> subroutine.\n2[credit]: +1 strength.\n[click]: Place 1 power counter on Puffer or remove 1 power counter from Puffer.\nPuffer's strength and memory cost are increased by 1 for each power counter on it.",
+        "text": "1[credit]: Break <strong>sentry</strong> subroutine.\n2[credit]: +1 strength.\n[click]: Place 1 power counter on Puffer or remove 1 power counter from Puffer.\nPuffer's strength and memory cost are increased by 1 for each power counter on it.",
         "title": "Puffer",
         "type_code": "program",
         "uniqueness": false
@@ -230,7 +230,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit] or 2[credit]. If you and the Runner spend a different number of credits, do 2 net damage; otherwise do 1 net damage. Trash Mganga",
+        "text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit] or 2[credit]. Reveal spent credits. If you and the Runner spend a different number of credits, do 2 net damage; otherwise do 1 net damage. Trash Mganga.",
         "title": "Mganga",
         "type_code": "ice",
         "uniqueness": false
@@ -247,7 +247,7 @@
         "position": 14,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Trash the top 2 cards from R&D, then shuffle up to 4 cards from Archives into R&D. Remove Genotyping from the game instead of trashing it.",
+        "text": "Trash the top 2 cards of R&D, then shuffle up to 4 cards from Archives into R&D. Remove Genotyping from the game instead of trashing it.",
         "title": "Genotyping",
         "type_code": "operation",
         "uniqueness": false
