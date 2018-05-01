@@ -14,7 +14,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": null,
-        "text": "When you access cards from R&D, access 1 additional card.\nTrash eXer if the Corp purges virus counters.",
+        "text": "Whenever you access cards from R&D, access 1 additional card.\nTrash eXer if the Corp purges virus counters.",
         "title": "eXer",
         "type_code": "program",
         "uniqueness": false
@@ -86,7 +86,7 @@
         "position": 45,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first time you would take any number of tags or suffer any amount of net damage each turn, you may trash No One Home to force the Corp to \"<trace>Trace 0</trace> If unsuccessful, the Runner avoids any number of tags or prevents any amount of net damage.\"",
+        "text": "The first time you would take any number of tags or suffer any amount of net damage each turn, you may trash No One Home to force the Corp to \"<trace>trace 0</trace> If unsuccessful, the Runner avoids any number of tags or prevents any amount of net damage.\"",
         "title": "No One Home",
         "type_code": "resource",
         "uniqueness": false
@@ -137,7 +137,7 @@
         "position": 48,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Play only if you made a successful run on a central server this turn.\nForce the Corp to \"<trace>Trace 3</trace> If unsuccessful, reveal all cards in HQ. The Runner may choose up to 2 of the revealed cards. Shuffle those cards into R&D.\"",
+        "text": "Play only if you made a successful run on a central server this turn.\nForce the Corp to \"<trace>trace 3</trace> If unsuccessful, reveal all cards in HQ. The Runner may choose up to 2 of the revealed cards. Shuffle those cards into R&D.\"",
         "title": "White Hat",
         "type_code": "event",
         "uniqueness": false

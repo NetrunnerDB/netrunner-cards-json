@@ -247,7 +247,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "When the Runner encounters Jua, he or she cannot install cards for the remainder of the turn.\n[subroutine] Choose 2 installed Runner cards, if able. The Runner must add 1 of those to the top of the stack.",
+        "text": "When the Runner encounters Jua, he or she cannot install cards for the remainder of the turn.\n[subroutine] Choose 2 installed Runner cards, if able. The Runner must add 1 of those cards to the top of the stack.",
         "title": "Jua",
         "type_code": "ice",
         "uniqueness": false
@@ -299,7 +299,7 @@
         "position": 37,
         "quantity": 3,
         "side_code": "corp",
-        "text": "If Forced Connection is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Forced Connection <trace>Trace 3</trace> If successful, give the Runner 2 tags. Ignore this ability if the Runner accesses Forced Connection from Archives.",
+        "text": "If Forced Connection is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Forced Connection, <trace>trace 3</trace> If successful, give the Runner 2 tags. Ignore this ability if the Runner accesses Forced Connection from Archives.",
         "title": "Forced Connection",
         "trash_cost": 0,
         "type_code": "upgrade",
