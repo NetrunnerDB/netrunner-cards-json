@@ -3,7 +3,7 @@
         "code": "21061",
         "flavor": "\"Hast du schon mal einen Server kotzen sehen?\"",
         "keywords": "Run - Sabotage",
-        "text": "Führe einen Run auf das Archiv durch. Bei Erfolg zwinge, statt auf Karten zuzugreifen, den Kon falls möglich dazu, 5 Karten im Archiv zu wählen und dem HQ hinzuzufügen. Dann zersötre genau so viele zufällige Karten im HQ.",
+        "text": "Führe einen Run auf das Archiv durch. Bei Erfolg zwinge, statt auf Karten zuzugreifen, den Kon falls möglich dazu, 5 Karten im Archiv zu wählen und dem HQ hinzuzufügen. Dann zerstöre genau so viele zufällige Karten im HQ.",
         "title": "Ziffernflut"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
         "code": "21067",
-        "flavor": "Speed gets you in, intuition gets you out.",
+        "flavor": "Mit Geschwindigkeit kommt man rein, mit Intuition wieder hinaus.",
         "text": "Lege 3 Wirkungszähler auf Nyashia, sobald die Karte installiert wird.\nImmer wenn du auf Karten von F&E zugreifst, darfst du 1 gehosteten Wirkungszähler entfernen, um auf 1 zusätzliche Karte von F&E zuzugreifen.",
         "title": "Nyashia"
     },
@@ -62,7 +62,7 @@
         "code": "21070",
         "flavor": "\"Mach dir keine Sorgen, er wird nichts spüren. Wahrscheinlich nicht.\"",
         "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nImmer wenn auf eine Agenda zugegriffen oder die Punkte für sie erzilt werden, <trace>Aufspüren 3</trace> Bei Erfolg, verursache 1 Hirn-Schaden.",
+        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nImmer wenn auf eine Agenda zugegriffen oder die Punkte für sie erzielt werden, <trace>Aufspüren 3</trace> Bei Erfolg, verursache 1 Hirn-Schaden.",
         "title": "Notausschalter"
     },
     {
@@ -73,68 +73,62 @@
     },
     {
         "code": "21072",
-        "flavor": "Many things go in. Nothing comes out.",
-        "keywords": "Off-Site",
-        "text": "Install only in a remote server.\nBio Vault can be advanced.\n[trash], <strong>2 hosted advancement tokens:</strong>\nEnd the run.",
-        "title": "Bio Vault"
+        "flavor": "Vieles wird hinein gebracht. Nichts kommt heraus.",
+        "keywords": "Extern",
+        "text": "Kann nur in einem ausgelagerten System installiert werden.\nGewebebank kann entwickelt werden.\n[trash], <strong>2 gehostete Entwicklungsmarker:</strong>\nBeende den Run.",
+        "title": "Gewebebank"
     },
     {
         "code": "21073",
-        "keywords": "Trap",
-        "strength": 3,
-        "text": "[subroutine] Look at the top 3 cards of R&D and either arrange them in any order or shuffle R&D. You may draw 1 card.\n[subroutine] You may trash 1 card in HQ. If you do, trash 1 resource. Trash Sadaka.",
+        "keywords": "Falle",
+        "text": "[subroutine] Sieh dir die obersten 3 Karten von F&E an und lege sie entweder in beliebiger Reihenfolge zurück oder mische F&E. Du darfst 1 Karte ziehen.\n[subroutine] Du darfst 1 Karte im HQ zerstören. Falls du dies tust, zerstöre 1 Ressource. Zerstöre Sadaka.",
         "title": "Sadaka"
     },
     {
         "code": "21074",
-        "flavor": "\"Has anyone ever actually read one of these things?\" - 419",
-        "keywords": "Barrier",
-        "strength": 0,
-        "text": "[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].\n[subroutine]End the run unless the Runner pays 1[credit].",
-        "title": "Endless EULA"
+        "flavor": "\"Hat eigentlich irgendwann jemand eine davon gelesen?\" - 419",
+        "keywords": "Barriere",
+        "text": "[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.",
+        "title": "Endlose EULA"
     },
     {
         "code": "21075",
-        "flavor": "Your first dog, your favorite food, your own mother's name. Your love, your hate, your fear. Hopes and dreams, pain and sorrow. All of it, everything, slips away.",
-        "keywords": "Code Gate",
-        "strength": 3,
-        "text": "[subroutine]Add an installed Runner card to the grip.\n[subroutine]Add an installed Runner card to the grip.",
-        "title": "Sandman"
+        "flavor": "Dein erster Hund, dein Lieblingsessen, der Name deiner Mutter. Was du liebst, was du hasst, was du fürchtest. Hoffnung und Träume, Schmerzen und Leid. Alle das, wirklich alles, entgleitet dir.",
+        "keywords": "Code-Zugang",
+        "text": "[subroutine]Füge eine installierte Runner-Karte dem Griff hinzu.\n[subroutine]Füge eine installierte Runner-Karte dem Griff hinzu.",
+        "title": "Sandmann"
     },
     {
         "code": "21076",
-        "flavor": "Azmari EdTech's most popular instructor, Amani Senai regularly broadcasts to millions of students.",
-        "keywords": "Character",
-        "text": "Whenever an agenda is scored or stolen, you may <trace>Trace X</trace> If successful, add an installed Runner card to the grip. X is the advancement requirement of the scored or stolen agenda.",
+        "flavor": "Azmari EdTechs beliebteste Dozentin Amani Senau überträgt regelmäßig Sendungen für Millionen von Studenten.",
+        "keywords": "Charakter",
+        "text": "Immer wenn die Punkte für eine Agenda erzielt werden oder sie gestohlen wird, darfst du <trace>Aufspüren X</trace> Bei Erfolg füge eine installierte Runner-Karte dem Griff hinzu. X entspricht den benötigten Entwicklungen der Agenda, für welche die Punkte erzielt worden sind oder die gestohlen worden ist.",
         "title": "Amani Senai"
     },
     {
         "code": "21077",
-        "keywords": "Division",
-        "text": "When your turn ends, you may choose a piece of ice with no advancement tokens on it. If you do, place 1 advancement token on that piece of ice for each agenda point on all installed faceup agendas.",
-        "title": "SSO Industries: Fueling Innovation"
+        "keywords": "Abteilung",
+        "text": "Sobald dein Zug endet, darfst du ein Ice ohne Entwicklungsmarker darauf wählen. Falls du dies tust, lege für jeden Agendapunkt auf allen installierten offenen Agenda 1 Entwicklungsmarker auf jenes Ice.",
+        "title": "SSO Industries: Treibstoff für Innovationen"
     },
     {
-        "advancement_cost": 5,
-        "agenda_points": 3,
         "code": "21078",
-        "keywords": "Public",
-        "text": "Install City Works Project faceup.\nWhen the Runner accesses City Works Project while it is installed, do 2 meat damage and 1 additional meat damage for each advancement token on it.",
-        "title": "City Works Project"
+        "keywords": "Öffentlich",
+        "text": "Installiere Stadtentwicklungsprojekt offen.\nSobald der Runner auf Stadtentwicklungsprojekt zugreift, solange es installiert ist, verursache 2 Körper-Schaden und 1 zusätzlichen Körper-Schaden für jeden Entwicklungsmarker darauf.",
+        "title": "Stadtentwicklungsprojekt"
     },
     {
         "code": "21079",
-        "flavor": "Might given form.",
-        "keywords": "Code Gate",
-        "strength": 5,
-        "text": "When the Runner encounters Oduduwa, place 1 advancement token on it. You may place X advancement tokens on another piece of ice. X is the number of advancement tokens on Oduduwa.\n[subroutine] End the run\n[subroutine] End the run",
+        "flavor": "In Gestalt gebrachte Macht.",
+        "keywords": "Code-Zugang",
+        "text": "Sobald der Runner auf Oduduwa trifft, lege 1 Entwicklungsmarker darauf. Du darfst X Entwicklungsmarker auf ein anderes Ice legen. X ist die Anzahl der Entwicklungsmarker auf Oduduwa.\n[subroutine]Beende den Run.\n[subroutine]Beende den Run.",
         "title": "Oduduwa"
     },
     {
         "code": "21080",
-        "flavor": "She gets the job done. And then some.",
-        "keywords": "Character",
-        "text": "When your turn begins, you may trash Rashida Jaheem to gain 3[credit] and draw 3 cards.",
+        "flavor": "Sie erledigt den Job. Und noch einiges mehr.",
+        "keywords": "Charakter",
+        "text": "Sobald dein Zug beginnt, darfst du Rashida Jaheem zerstören, um 3[credit] zu erhalten und 3 Karten zu ziehen.",
         "title": "Rashida Jaheem"
     }
 ]
