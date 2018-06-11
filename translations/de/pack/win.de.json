@@ -1,0 +1,129 @@
+[
+    {
+        "code": "21081",
+        "keywords": "Cyborg",
+        "text": "Ein Mal pro Zug darfst du X Viruszähler von deinen installierten Karten entfernen, um eine Karte kostenfrei zu zerstören, auf die du zugreifst (selbst wenn sie normalerweise nicht zerstört werden kann). X sind die Lade- oder Ausspielkosten jener Karte.",
+        "title": "Freedom Khumalo: Crypto-Anarchist"
+    },
+    {
+        "code": "21082",
+        "flavor": "Es windet und krümmt sich und bohrt sich in alles, was es berührt.",
+        "keywords": "Virus",
+        "text": "Trypano kann nur auf ein Ice installiert werden.\nSobald Trypano 5 oder mehr Viruszähler auf sich hat, zerstöre das hostende Ice.\nSobald dein Zug beginnt, darfst du 1 Viruszähler auf Trypano legen.",
+        "title": "Trypano"
+    },
+    {
+        "code": "21083",
+        "flavor": "\"Welcher Irre infiziert seine eigene Ausrüstung?!\"",
+        "text": "Lege 3 Viruszähler auf eine installierte Runner-Karte ohne gehosteten Viruszähler.",
+        "title": "Kontaminieren"
+    },
+    {
+        "code": "21084",
+        "keywords": "Run - Sabotage",
+        "text": "Führe einen Run auf das HQ durch. Bei Erfolg, benenne, statt auf Karten zuzugreifen, die Kartenart Aktivposten, Ice, Operation oder Upgrade und decke dann 2 zufällige Karten von HQ auf. Zerstöre jede aufgedecke Karten der benannten Art. Dann erhältst du 4[credit] für jede so zerstöre Karte.",
+        "title": "Veruntreuung"
+    },
+    {
+        "code": "21085",
+        "flavor": "Filamente flackern gelegentlich aus dem Netz auf, formen flüchtige Gespinste zwischen zufälligen Domänen.",
+        "keywords": "Virtuell",
+        "text": "Immer wenn du an einem geladenen Ice vorbeikommst, darfst du Kielwasser zerstören. Falls du dies tust, wähle ein Ice, das ein zentrales System in derselben Position schützt wie das Ice, an dem du vorbeigekommen bist. Du näherst dich nun jenem Ice.",
+        "title": "Kielwasser"
+    },
+    {
+        "code": "21086",
+        "keywords": "Ice-Brecher - Fracter",
+        "text": "Sobald du auf ein Ice triffst, darfst du 2[credit] zahlen, um es bis zum Ende der Begegnung die Unterart <strong>Barriere</strong> erhalten zu lassen. Verwende diese Fähigkeit nur ein Mal pro Zug.\n2[credit]: Schalte eine beliebige Anzahl Subroutinen einer <strong>Barriere</strong> aus.\n3[credit]: +6 Stärke.",
+        "title": "Laamb"
+    },
+    {
+        "code": "21087",
+        "flavor": "Setze auf die Langstrecke.",
+        "keywords": "Mod",
+        "text": "[click]: Hoste Gebrselassie auf einem installieren <strong>Ice-Brecher</strong>, der keine <strong>KI</strong> ist.\nDer hostende <strong>Ice-Brecher</strong> wird erst am Ende jedes Zuges auf seine Grundstärke zurückgesetzt, statt nach jeder Begegnung.",
+        "title": "Gebrselassie"
+    },
+    {
+        "code": "21088",
+        "keywords": "Run",
+        "text": "Führe einen Run durch. Wenn du zum ersten Mal während dieses Runs auf ein Ice triffst, darfst du deinen Stapel oder deine Ablage nach einem Programm durchsuchen und es installieren, ohne die Kosten dafür zu zahlen. Sobald der Run endet, lege jenes Programm unter deinen Stapel, falls es noch installiert ist.",
+        "title": "Kompilieren"
+    },
+    {
+        "code": "21089",
+        "flavor": "\"Könnte Gott einen Stein erschaffen, der so schwer ist, dass Er ihn nicht anheben kann?\"",
+        "keywords": "Virtuell",
+        "text": "[trash]: Umgehe das Ice, auf das du gerade triffst. Du verlierst alle verbliebenen Klicks.",
+        "title": "Logikbombe"
+    },
+    {
+        "code": "21090",
+        "flavor": "\"Jackpot!\"",
+        "text": "Sobald dein Zug beginnt, darfst du 1[credit] auf Jackpot! legen.\nWImmer wenn eine Agenda deiner Punktezone hinzugefügt wird, darfst du eine beliebige Anzahl Credits von Jackpot! nehmen. Falls du dies tust, zerstöre Jackpot!.",
+        "title": "Jackpot!"
+    },
+    {
+        "code": "21091",
+        "keywords": "Sicherheit",
+        "text": "Sobald du die Punkte für Ferngesteuerter Vollstrecker erzielst, darfst du F&E nach einem Ice durchsuchen, es ein ausgelagertes System schützend installieren (und die Installationskosten zahlen) und es laden, ohne die Ladekosten dafür zu zahlen. Dann mische R&E.",
+        "title": "Ferngesteuerter Vollstrecker"
+    },
+    {
+        "code": "21092",
+        "keywords": "Wächter - Bioroid - Zerstörer - AP",
+        "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Kamali 1.0 auszuschalten.\n[subroutine]Verursache 1 Hirn-Schaden, falls der Runner nicht eine installierte Ressource zerstört.\n[subroutine]Verursache 1 Hirn-Schaden, falls der Runner nicht eine installierte Hardware zerstört.\n[subroutine]Verursache 1 Hirn-Schaden, falls der Runner nicht ein installiertes Programm zerstört.\n",
+        "title": "Kamali 1.0"
+    },
+    {
+        "code": "21093",
+        "flavor": "\"Es ist weder grausam noch ungewöhnlich. Nur effizient.\"",
+        "keywords": "Charakter",
+        "text": "Jedes geladene <strong>Bioroid</strong>-Ice erhält \"[subroutine] Der Runner verliert [click], falls möglich.\" vor allen anderen Subroutinen.",
+        "title": "Leiterin Fatuma"
+    },
+    {
+        "code": "21094",
+        "flavor": "Sie waren schneller und tödlicher als je erwartet. Der Probelauf war ein herausragender Erfolg.",
+        "keywords": "Forschung - Sicherheit",
+        "text": "Sobald der Rug endet, in dem zu Punkte für Militärischer Vireneinsatz erzielt hast, verursache 1 Netz-Schaden für jede Karte im Griff.",
+        "title": "Militärischer Vireneinsatz"
+    },
+    {
+        "code": "21095",
+        "flavor": "\"Einerseits wusste ich genau, dass ich es nicht anfassen sollte. Andererseits glitzerte es so sehr.\" - Kabonesa Wu",
+        "keywords": "Barriere - AP",
+        "text": "[subroutine] Verursache 1 Netz-Schaden.\n[subroutine] Beende den Run.",
+        "title": "Hülle"
+    },
+    {
+        "code": "21096",
+        "keywords": "Region",
+        "text": "Kann nur im Root von HQ oder von F&E installiert werden.\nImmer wenn der Runner auf Karten in diesem System zugreift, greift er auf 3 zusätzliche Karten zu. Nach dem Zugriff erhältst du 2[credit] für jede Karte, auf die zugegriffen worden ist. Dies gilt auch in dem Run, in dem der Runner Stadtnetz von Mwanza zerstört.\nNur 1 <strong>Region</strong> pro Server.",
+        "title": "Stadtnetz von Mwanza"
+    },
+    {
+        "code": "21097",
+        "text": "Kann nur gespielt werden, falls der Runner während seines letzten Zuges einen erfolgreichen Run durchgeführt hat.\nBenenne eine Kartenart und decke dann den Griff auf. Du erhältst 2[credit] für jede Karte im Griff, die der benannten Kartenart entspricht.",
+        "title": "Standardprozedur"
+    },
+    {
+        "code": "21098",
+        "keywords": "Hinterhalt",
+        "text": "Falls von F&E auf Zufluss zugegriffen wird, muss der Runner die Karte aufdecken.\nSobald der Runner auf Zufluss zugreift, <trace>Aufspüren 4</trace> Bei Erfolg füge ein installiertes Programm oder eine <strong>virtuelle</strong> Ressource dem Griff hinzu. Ignoriere diese Fähigkeit, falls der Runner vom Archiv auf Zufluss zugreift.",
+        "title": "Zufluss"
+    },
+    {
+        "code": "21099",
+        "flavor": "Egal in welche Richtung sie kletterte, die Blöcke vermischten sich neu, surrten von links nach rechts, von oben nach unten. Es würde eine lange Wanderung werden.",
+        "keywords": "Barriere",
+        "text": "Masvingo kann entwickelt werden.\nSobald du Masvingo lädst, lege 1 Entwicklungsmarker darauf.\nMasvingo erhält \"[subroutine] Beende den Run.\" für jeden Entwicklungsmarker darauf.",
+        "title": "Masvingo"
+    },
+    {
+        "code": "21100",
+        "flavor": "Die Explosion selbst tut nicht weh, wohl aber das, was danach kommt.",
+        "text": "Immer wenn der Runner eine Karte in diesem System zerstört, darfst du 1[credit] zahlen, um dem Runner 1 Markierung zu verpassen. Dies gilt auch für den Run, in dem der Runner Aufsehermatrix zerstört.",
+        "title": "Aufsehermatrix"
+    }
+]
