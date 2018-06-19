@@ -10,6 +10,10 @@
             "minLength": 6,
             "type": "string"
         },
+        "color_xterm": {
+            "minimum": 1,
+            "type": "integer"
+        },
         "is_mini": {
             "type": "boolean"
         },
