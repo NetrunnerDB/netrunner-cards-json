@@ -32,7 +32,7 @@
     },
     {
         "code": "21106",
-        "flavor": "\"Sie haben mich angerufen, Sir?\"\n\"Warum leutet auf meinem PAD laufen die Warnung 'Transfer vertraulicher Daten' auf?!\"\n\"Hmm, das ist seltsam. Auf meinem kommt die Meldung nur dienstags.\"",
+        "flavor": "\"Sie haben mich angerufen, Sir?\"\n\"Warum leuchtet auf meinem PAD laufend die Warnung 'Transfer vertraulicher Daten' auf?!\"\n\"Hmm, das ist seltsam. Auf meinem kommt die Meldung nur dienstags.\"",
         "text": "Wenn der Kon zum ersten Mal in einem Zug Credits durch eine Kartenfähigkeit erhält, darfst du 1[credit] erhalten.\n[click], 3[credit]: Zerstöre PAD anzapfen. Nur der Kon kann diese Fähigkeit verwenden.",
         "title": "PAD anzapfen"
     },
@@ -45,7 +45,7 @@
     {
         "code": "21108",
         "keywords": "Ice-Brecher - Decoder",
-        "text": "Sobald du auf ein Ice triffst, darfst du 2[credit] zahlen, um es bis zum Ende der Begegnung die Unterart <strong>Code-Zugang</strong> erhalten zu lassen. Verwende diese Fähigkeit nur ein Mal pro Zug.\n1[credit]: Breche eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[credit]: +4 Stärke.",
+        "text": "Sobald du auf ein Ice triffst, darfst du 2[credit] zahlen, um es bis zum Ende der Begegnung die Unterart <strong>Code-Zugang</strong> erhalten zu lassen. Verwende diese Fähigkeit nur ein Mal pro Zug.\n1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[credit]: +4 Stärke.",
         "title": "Engolo"
     },
     {
@@ -68,9 +68,9 @@
     },
     {
         "code": "21112",
-        "flavor": "Verteigung für die Ewigkeit.",
+        "flavor": "Verteidigung für die Ewigkeit.",
         "keywords": "Wächter - NEXT - Zerstörer - AP",
-        "text": "Die Ladekosten von NEXT Diamant wird für jedes Weitere geladene <strong>NEXT</strong>-Ice um 1 gesenkt.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Zerstöre 1 installierte Runner-Karte.",
+        "text": "Die Ladekosten von NEXT Diamant werden für jedes weitere geladene <strong>NEXT</strong>-Ice um 1 gesenkt.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Zerstöre 1 installierte Runner-Karte.",
         "title": "NEXT Diamant"
     },
     {
