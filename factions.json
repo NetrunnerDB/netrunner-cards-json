@@ -2,6 +2,7 @@
     {
         "code": "adam",
         "color": "000000",
+        "color_xterm": 16,
         "is_mini": true,
         "name": "Adam",
         "side_code": "runner"
@@ -9,6 +10,7 @@
     {
         "code": "anarch",
         "color": "FF4500",
+        "color_xterm": 202,
         "is_mini": false,
         "name": "Anarch",
         "side_code": "runner"
@@ -16,6 +18,7 @@
     {
         "code": "apex",
         "color": "000000",
+        "color_xterm": 16,
         "is_mini": true,
         "name": "Apex",
         "side_code": "runner"
@@ -23,6 +26,7 @@
     {
         "code": "criminal",
         "color": "4169E1",
+        "color_xterm": 62,
         "is_mini": false,
         "name": "Criminal",
         "side_code": "runner"
@@ -30,6 +34,7 @@
     {
         "code": "haas-bioroid",
         "color": "8A2BE2",
+        "color_xterm": 92,
         "is_mini": false,
         "name": "Haas-Bioroid",
         "side_code": "corp"
@@ -37,6 +42,7 @@
     {
         "code": "jinteki",
         "color": "DC143C",
+        "color_xterm": 161,
         "is_mini": false,
         "name": "Jinteki",
         "side_code": "corp"
@@ -44,6 +50,7 @@
     {
         "code": "nbn",
         "color": "FF8C00",
+        "color_xterm": 208,
         "is_mini": false,
         "name": "NBN",
         "side_code": "corp"
@@ -51,6 +58,7 @@
     {
         "code": "neutral-corp",
         "color": "808080",
+        "color_xterm": 102,
         "is_mini": false,
         "name": "Neutral",
         "side_code": "corp"
@@ -58,6 +66,7 @@
     {
         "code": "neutral-runner",
         "color": "808080",
+        "color_xterm": 102,
         "is_mini": false,
         "name": "Neutral",
         "side_code": "runner"
@@ -65,6 +74,7 @@
     {
         "code": "shaper",
         "color": "32CD32",
+        "color_xterm": 77,
         "is_mini": false,
         "name": "Shaper",
         "side_code": "runner"
@@ -72,6 +82,7 @@
     {
         "code": "sunny-lebeau",
         "color": "000000",
+        "color_xterm": 16,
         "is_mini": true,
         "name": "Sunny Lebeau",
         "side_code": "runner"
@@ -79,6 +90,7 @@
     {
         "code": "weyland-consortium",
         "color": "006400",
+        "color_xterm": 22,
         "is_mini": false,
         "name": "Weyland Consortium",
         "side_code": "corp"

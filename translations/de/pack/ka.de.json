@@ -1,0 +1,128 @@
+[
+    {
+        "code": "21101",
+        "flavor": "Essen. Programmieren. Schlafen. Essen. Programmieren. Schlafen. Essen. Programmieren. Essen. Programmieren. Schlafen. Essen. Programmieren. Programmieren. Schlafen. Programmieren. Programmieren. Programmieren. Essen. Programmieren. Programmieren. Programmieren. Programmieren. Programmieren. Programmieren.",
+        "text": "[click], <strong>erleide 1 Netz-Schaden</strong>: Du erhältst 1[credit] und ziehst 2 Karten. Verwende diese Fähigkeit nur ein Mal pro Zug.",
+        "title": "Zer0"
+    },
+    {
+        "code": "21102",
+        "keywords": "Ice-Brecher - Killer - Virus",
+        "text": "Immer wenn du einen erfolgreichen Run durchführst, darfst 1 Viruszähler auf Musaazi legen.\n<strong>Viruszähler einer beliebigen installierten Karte</strong>: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n<strong>Viruszähler einer beliebigen installierten Karte</strong>: +1 Stärke.",
+        "title": "Musaazi"
+    },
+    {
+        "code": "21103",
+        "flavor": "Nachdem er es die Stufen hochgeschleppt hatte, wusste er, dass er es nicht mitnehmen würde, sollte er wieder umziehen.",
+        "text": "Wenn du zum ersten Mal während eines Runs alle Subroutinen auf dem äußersten Ice ausschaltest, darfst du Hippo aus dem Spiel entfernen, um jenes Ice zu zerstören.",
+        "title": "Hippo"
+    },
+    {
+        "code": "21104",
+        "flavor": "Ihr Galopp wie Donner, ihre Klingen wie der Blitz.",
+        "keywords": "Ice-Brecher - Decoder",
+        "text": "2[credit]: Schalte bis zu 3 Subroutinen eines <strong>Code-Zugangs</strong> aus.\n2[credit]: +3 Stärke.\nWenn zum ersten Mal in einem Zug eine Begegnung endet, in der du Amina verwendet hast, um alle Subroutinen auf einem Ice auszuschalten, verliert der Kon 1[credit].",
+        "title": "Amina"
+    },
+    {
+        "code": "21105",
+        "keywords": "Doppelt - Run - Sabotage",
+        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis gib [click] aus.\nFühre einen Run auf das HQ durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen, den Kon dazu zwingen, bis zu 5[credit] zu verlieren. Dann erhältst du 1[credit] für jeden verlorenen Credit.",
+        "title": "Abzweigung von Geldern"
+    },
+    {
+        "code": "21106",
+        "flavor": "\"Sie haben mich angerufen, Sir?\"\n\"Warum leuchtet auf meinem PAD laufend die Warnung 'Transfer vertraulicher Daten' auf?!\"\n\"Hmm, das ist seltsam. Auf meinem kommt die Meldung nur dienstags.\"",
+        "text": "Wenn der Kon zum ersten Mal in einem Zug Credits durch eine Kartenfähigkeit erhält, darfst du 1[credit] erhalten.\n[click], 3[credit]: Zerstöre PAD anzapfen. Nur der Kon kann diese Fähigkeit verwenden.",
+        "title": "PAD anzapfen"
+    },
+    {
+        "code": "21107",
+        "flavor": "Es war ein Schnäppchen, soviel war sicher. Sie wusste nur nicht genau für welche Seite.",
+        "text": "[click], [trash], <strong>zerstöre eine Karte aus deinem Griff</strong>: Installiere ein Programm, eine Hardware oder eine <strong>virtuelle</strong> Ressource aus deiner Ablage und zahle dafür die Installationskosten.",
+        "title": "Einlösen"
+    },
+    {
+        "code": "21108",
+        "keywords": "Ice-Brecher - Decoder",
+        "text": "Sobald du auf ein Ice triffst, darfst du 2[credit] zahlen, um es bis zum Ende der Begegnung die Unterart <strong>Code-Zugang</strong> erhalten zu lassen. Verwende diese Fähigkeit nur ein Mal pro Zug.\n1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[credit]: +4 Stärke.",
+        "title": "Engolo"
+    },
+    {
+        "code": "21109",
+        "keywords": "Mod",
+        "text": "Ausbrenner kann ein einziges Programm hosten.\nSobald du Ausbrenner installierst, lege 9[credit] darauf. Verwende diese Credits, um für das Verwenden des gehosteten Programms zu zahlen.\nSobald ein Zug endet, in dem du Credits auf Ausbrenner verwendet hast, zerstöre das gehostete Programm.",
+        "title": "Ausbrenner"
+    },
+    {
+        "code": "21110",
+        "flavor": "\"Meiner Meinung nach bringe ich ihnen etwas über die Bedeutung grundlegender Sicherheitsmaßnahmen bei.\" - Sunny Lebeau",
+        "text": "Zwinge den Kon zu \"<trace>Aufspüren 4</trace> Bei Misserfolg greift der Runner bis zum Ende dieses Zuges, immer wenn er auf Karten vom HQ oder F&E zugreift, auf 2 zusätzliche Karten zu.\"",
+        "title": "Black-Hat-Angriff"
+    },
+    {
+        "code": "21111",
+        "keywords": "Virtuell",
+        "text": "Wenn das erste Mal in einem Zug ein erfolgreicher Run auf ein ausgelagertes System endet, darfst du 1 Wirkungszähler auf Kasi-String legen, falls du auf Karten zugegriffen und keine Agenda gestohlen hast.\nSobald Kasi-String 4 oder mehr Wirkungszähler auf sich hat, füge diese Karte deiner Punktezone als Agenda mit dem Wert 1 Agendapunkt hinzu.",
+        "title": "Kasi-String"
+    },
+    {
+        "code": "21112",
+        "flavor": "Verteidigung für die Ewigkeit.",
+        "keywords": "Wächter - NEXT - Zerstörer - AP",
+        "text": "Die Ladekosten von NEXT Diamant werden für jedes weitere geladene <strong>NEXT</strong>-Ice um 1 gesenkt.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Zerstöre 1 installierte Runner-Karte.",
+        "title": "NEXT Diamant"
+    },
+    {
+        "code": "21113",
+        "keywords": "Vergeltung - Graue Ops",
+        "text": "Kann nur gespielt werden, falls der Runner während seines letzten Zuges mindestens 1 Kon-Karte zerstört hat.\nDer Runner hat während seines nächsten Zuges 3[click] weniger zur Verfügung. Der Runner darf sofort 1 Hirn-Schaden erleiden, um dies zu verhindern. Entferne Aufstandsunterdrückung aus dem Spiel, statt die Karte zu zerstören.",
+        "title": "Aufstandsunterdrückung"
+    },
+    {
+        "code": "21114",
+        "keywords": "Abteilung",
+        "text": "Ein Mal pro Zug darfst du, sobald sich der Runner einem System nähert, ein Ice jenes System schützend an der innersten Position, installieren, ohne die Kosten dafür zu zahlen. Der Runner nähert sich nun jenem Ice.",
+        "title": "Mti Mwekundu: Verbessertes Leben"
+    },
+    {
+        "code": "21115",
+        "keywords": "Wächter - AP",
+        "text": "[subroutine] Verursache 1 Netz-Schaden, falls der Runner nicht die obersten 2 Karten des Stapels zerstört.\n[subroutine] Verursache 2 Netz-Schaden, falls der Runner nicht die obersten 3 Karten des Stapels zerstört.\n[subroutine] Verursache 3 Netz-Schaden, falls der Runner nicht die obersten 4 Karten des Stapels zerstört.",
+        "title": "Mlinzi"
+    },
+    {
+        "code": "21116",
+        "flavor": "\"Tief im Inneren möchte jeder gut sein. Wir stellen sicher, dass dem Wunsch entsprochen wird.\" - Taavi Gyula",
+        "keywords": "Initiative",
+        "text": "Wenn der Runner zum ersten Mal in einem Zug ein <strong>Run</strong>-Ereignis spielt oder ein <strong>Ice-Brecher</strong>-Programm installiert, darfst du dem Runner 1 Markierung verpassen.",
+        "title": "'Bessere Bürger'-Programm"
+    },
+    {
+        "code": "21117",
+        "flavor": "\"Sobald wir genug Daten haben, werden wir dafür sorgen, dass sich die Unsichtbare Hand eher anfühlt wie eine Unsichtbare Faust.\"",
+        "keywords": "Graue Ops",
+        "text": "Kann nur gespielt werden, falls der Runner markiert ist.\nDer Runner verliert 3[credit] für jede Markierung, die er hat. Dann erhältst du 1[credit] für jeden verlorenen Credit.",
+        "title": "Kräfte des Marktes"
+    },
+    {
+        "code": "21118",
+        "flavor": "EINDRINGLING ENTDECKT!\nEINDRINGLING ENTDECKT!\nEINDRINGLING NEUTRALISIERT!",
+        "keywords": "Wächter - Spürhund",
+        "text": "X ist die doppelte Anzahl an Ice, die dieses System schützen.\n[subroutine]<trace>Aufspüren X</trace> Bei Erfolg verpasse dem Runner 2 Markierungen.\n[subroutine]<trace>Aufspüren X</trace> Bei Erfolg beende den Run.",
+        "title": "Inspektor"
+    },
+    {
+        "code": "21119",
+        "flavor": "\"Das kannst du nicht tu...\"",
+        "keywords": "Graue Ops",
+        "text": "Kann nur gespielt werden, falls der Runner markiert ist.\nVerursache 2 Körper-Schaden für jede Markierung des Runners.",
+        "title": "Prominentes Ziel"
+    },
+    {
+        "code": "21120",
+        "keywords": "Hinterhalt",
+        "text": "Falsche Flagge kann entwickelt werden.\nSobald der Runner auf Falsche Flagge zugreift, verpasse dem Runner 1 Markierung für je 2 Entwicklungsmarker auf Falsche Flagge.\n[click], <strong>7 gehostete Entwicklungsmarker</strong>: Füge Falsche Flagge als Agenda mit dem Wert 3 Agendapunkte deiner Punktezone hinzu.",
+        "title": "Falsche Flagge"
+    }
+]

@@ -6,9 +6,15 @@
             "type": "string"
         },
         "color": {
+            "description": "Faction color in hex triplet format.  This can be used to display faction-specific information in the appropriate color on an HTML webpage.",
             "maxLength": 6,
             "minLength": 6,
             "type": "string"
+        },
+        "color_xterm": {
+            "description": "Faction color in xterm format.  This can be used to display faction-specific information in (the closest match to) the appropriate color in an X11-compatible terminal window.",
+            "minimum": 1,
+            "type": "integer"
         },
         "is_mini": {
             "type": "boolean"
