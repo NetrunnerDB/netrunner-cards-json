@@ -15,7 +15,7 @@
     },
     {
         "code": "22003",
-        "flavor": "\"Das war's wert!.\"",
+        "flavor": "\"Das war's wert!\"",
         "text": "Zerstöre deinen Griff.\nDu erhältst 10[credit].",
         "title": "Versuchskaninchen"
     },
@@ -67,7 +67,7 @@
     {
         "code": "22011",
         "flavor": "\"Das Aufkommen der Cryptowährung hat das Bankwesen deutlich verkompliziert. Die Finanzkriminalität hat mit der Entwicklung nicht nur Schritt halten können, im Gegenteil: sie ist geradezu explodiert.\"\n-Nach dem Flash: Die Geschichte eines Krieges, der nie stattfand.",
-        "text": "Immer wenn du einen erfolgreichen Run durchfährst, darfst du 1[credit] aus der Bank auf Finanzielle Mittel legen.\n[trash]: Nimm alle Credits von Finanzielle Mittel.",
+        "text": "Immer wenn du einen erfolgreichen Run durchführst, darfst du 1[credit] aus der Bank auf Finanzielle Mittel legen.\n[trash]: Nimm alle Credits von Finanzielle Mittel.",
         "title": "Finanzielle Mittel"
     },
     {
@@ -106,7 +106,7 @@
     {
         "code": "22017",
         "keywords": "Konsole",
-        "text": "+1[mu]\nImmer wenn du einen erfolgreichen Run auf F&E durchführst, darfst du 1 Wirkungsleger auf Inneres Auge legen.\n[click], <strong>3 gehostete Wirkungszähler</strong>: Greife auf die oberste Karte von F&E zu.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+        "text": "+1[mu]\nImmer wenn du einen erfolgreichen Run auf F&E durchführst, darfst du 1 Wirkungszähler auf Inneres Auge legen.\n[click], <strong>3 gehostete Wirkungszähler</strong>: Greife auf die oberste Karte von F&E zu.\nNur 1 <strong>Konsole</strong> pro Spieler.",
         "title": "Inneres Auge"
     },
     {
@@ -119,7 +119,7 @@
         "code": "22019",
         "flavor": "\"Runs bestehen aus Metaphern, aus Symbolen, und bohren sich in die entlegensten Winkel der Seele. Manchmal mit Tentakeln.\" -Akiko Nisei",
         "keywords": "Ice-Brecher - Killer",
-        "text": "2[credit]: Hoste Ike auf einem Ice.\n1[credit]: Schalte bis zu 2 Subroutinen auf dem hostenden <strong>Wächter</strong> aus.\n2[credit]: +3 Stärke.",
+        "text": "2[credit]: Hoste Ika auf einem Ice.\n1[credit]: Schalte bis zu 2 Subroutinen auf dem hostenden <strong>Wächter</strong> aus.\n2[credit]: +3 Stärke.",
         "title": "Ika"
     },
     {
@@ -150,13 +150,13 @@
     {
         "code": "22024",
         "flavor": "\"Na, hast du in letzter Zeit etwas Spannendes gehört, Miriam?\"",
-        "text": "Senke die Ausspielkosten für Bürobedarf um 1 für jede [link], die du hast.\nDu erhältst 4[credit] oder ziehst 4 Karten.",
+        "text": "Senke die Ausspielkosten für Bürobedarf um 1 für jeden [link], die du hast.\nDu erhältst 4[credit] oder ziehst 4 Karten.",
         "title": "Bürobedarf"
     },
     {
         "code": "22025",
         "keywords": "Kontakt",
-        "text": "Hoste eine <strong>G-Mod</strong>-Identität, die nicht mit der Fraktion deiner Identität übereinstimmt, auf DJ Fenris, sobald diese Karte installiert wird.\nDJ Fenris enthält den Text der gehosteten Identität.\nNur 1 pro Deck.",
+        "text": "Hoste eine <strong>G-Mod</strong>-Identität, die nicht mit der Fraktion deiner Identität übereinstimmt, auf DJ Fenris, sobald diese Karte installiert wird.\nDJ Fenris erhält den Text der gehosteten Identität.\nNur 1 pro Deck.",
         "title": "DJ Fenris"
     },
     {
@@ -168,7 +168,7 @@
     },
     {
         "code": "22027",
-        "flavor": "\"Unsere Analyse ziegt große Zustimmung für das Project: was die Öffentliche Hand als auch die Privatwirtschaft betrifft.\"",
+        "flavor": "\"Unsere Analyse zeigt große Zustimmung für das Projekt; was die Öffentliche Hand als auch die Privatwirtschaft betrifft.\"",
         "keywords": "Erweiterung",
         "text": "Sobald du die Punkte für Hyperloop-Erweiterung erzielst oder sie gestohlen wird, erhält der Kon 3[credit].",
         "title": "Hyperloop-Erweiterung"
@@ -240,7 +240,7 @@
     },
     {
         "code": "22038",
-        "flavor": "\"Wenn dir der Sysop eine Verbindung anbietet, möchte er, dass du sie nutzt. Aber wenn du das tun solltest, was der Syspp möchte, dann würdest du gar nicht erst versuchen ins System einzubrechen.\" -Wie man eine Liquidierung vermeidet",
+        "flavor": "\"Wenn dir der Sysop eine Verbindung anbietet, möchte er, dass du sie nutzt. Aber wenn du das tun solltest, was der Sysop möchte, dann würdest du gar nicht erst versuchen ins System einzubrechen.\" -Wie man eine Liquidierung vermeidet",
         "keywords": "Wächter",
         "text": "[subroutine] Du darfst bis zu 3 Entwicklungsmarker auf eine in einem System installierte Karte legen. Falls du dies tust, greift der Runner auf jene Karte zu, falls er nicht 3[credit] zahlt.",
         "title": "Otoroshi"
@@ -255,7 +255,7 @@
     {
         "code": "22040",
         "keywords": "Vergeltung - Graue Ops",
-        "text": "Kann nur gespielt werden, falls der Runner während seines letzten Zuges eine Kon-Karte zerstört hat.\nWählre eine installierte Kon-Karte. Der Runner darf auf jene Karte zugreifen. Falls er dies tut, entferne Hangeki aus dem Spiel, statt diese Karte zu zerstören; ansonsten füge Hangeki als Agenda mit dem Wert -1 Agendapunkte der Punktezone des Runners hinzu.",
+        "text": "Kann nur gespielt werden, falls der Runner während seines letzten Zuges eine Kon-Karte zerstört hat.\nWähle eine installierte Kon-Karte. Der Runner darf auf jene Karte zugreifen. Falls er dies tut, entferne Hangeki aus dem Spiel, statt diese Karte zu zerstören; ansonsten füge Hangeki als Agenda mit dem Wert -1 Agendapunkte der Punktezone des Runners hinzu.",
         "title": "Hangeki"
     },
     {
@@ -266,8 +266,8 @@
     {
         "code": "22042",
         "keywords": "Tochterunternehmen",
-        "text": "Der Runner wird während Begegnungen mit dem äußersten Ice, das ein beliebiges System schützt, behandelt, als ob er 1 zusätzliche Markierung hätte (selbst wnn er 0 hat).",
-        "title": "Acme Consulting: The Truth You Need"
+        "text": "Der Runner wird während Begegnungen mit dem äußersten Ice, das ein beliebiges System schützt, behandelt, als ob er 1 zusätzliche Markierung hätte (selbst wenn er 0 hat).",
+        "title": "Acme Consulting: Die Wahrheit, die du brauchst"
     },
     {
         "code": "22043",
@@ -343,7 +343,7 @@
         "code": "22054",
         "flavor": "Ein Ort voller Verwesung und Tod, eine phasenverschobene Ebene, ein Ort, an dem Monster leben.",
         "keywords": "Wächter - AP",
-        "text": "Sobald sich der Runner einem System annähert, darfst du Ameisennest laden. Falls du diest tust, verschiebe es auf die innerste Position in jenem System. Der Runner trifft nun darauf.\n[subroutine] Beende den Run, falls der Runner nicht 2 Netz-Schaden erleidet.",
+        "text": "Sobald sich der Runner einem System annähert, darfst du Ameisennest laden. Falls du dies tust, verschiebe es auf die innerste Position in jenem System. Der Runner trifft nun darauf.\n[subroutine] Beende den Run, falls der Runner nicht 2 Netz-Schaden erleidet.",
         "title": "Ameisennest"
     },
     {
