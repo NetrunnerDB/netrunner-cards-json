@@ -70,25 +70,11 @@
         "size": 1
     },
     {
-        "code": "magnum-opus",
-        "name": "Magnum Opus",
-        "position": 23,
-        "rotated": false,
-        "size": 1
-    },
-    {
         "code": "mumbad",
         "name": "Mumbad",
         "position": 10,
         "rotated": false,
         "size": 6
-    },
-    {
-        "code": "napd",
-        "name": "NAPD Multiplayer",
-        "position": 24,
-        "rotated": false,
-        "size": 1
     },
     {
         "code": "flashpoint",
@@ -108,14 +94,14 @@
         "code": "terminal-directive",
         "name": "Terminal Directive",
         "position": 13,
-        "rotated": false,
+        "rotated": true,
         "size": 1
     },
     {
         "code": "core2",
         "name": "Revised Core Set",
         "position": 20,
-        "rotated": false,
+        "rotated": true,
         "size": 1
     },
     {
@@ -129,6 +115,27 @@
         "code": "reign-and-reverie",
         "name": "Reign and Reverie",
         "position": 22,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "magnum-opus",
+        "name": "Magnum Opus",
+        "position": 23,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "napd",
+        "name": "NAPD Multiplayer",
+        "position": 24,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "sc19",
+        "name": "System Core 2019",
+        "position": 25,
         "rotated": false,
         "size": 1
     }
