@@ -49,16 +49,16 @@ def custom_card_check(args, card, pack_code, factions_data, types_data, sides_da
         raise jsonschema.ValidationError("Faction code '%s' of the pack '%s' doesn't match any valid type code." % (card["type_code"], card["code"]))
     if card["side_code"] not in [f["code"] for f in sides_data]:
         raise jsonschema.ValidationError("Faction code '%s' of the pack '%s' doesn't match any valid side code." % (card["side_code"], card["code"]))
-    
+
 def custom_pack_check(args, pack, cycles_data):
-   if pack["cycle_code"] not in [c["code"] for c in cycles_data]:
+    if pack["cycle_code"] not in [c["code"] for c in cycles_data]:
         raise jsonschema.ValidationError("Cycle code '%s' of the pack '%s' doesn't match any valid cycle code." % (pack["cycle_code"], pack["code"]))
 
 def format_json(json_data):
     formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
     formatted_data = formatted_data.replace(u"\u2018", "'").replace(u"\u2019", "'")
     formatted_data = formatted_data.replace(u"\u2212", "-").replace(u"\u2013", "-")
-    formatted_data = formatted_data.replace("\\r\\n", "\\n").replace(" \\n", "\\n") 
+    formatted_data = formatted_data.replace("\\r\\n", "\\n").replace(" \\n", "\\n")
     formatted_data += "\n"
     return formatted_data
 
@@ -78,12 +78,12 @@ def load_json_file(args, path):
 
     verbose_print(args, "%s: Checking JSON formatting...\n" % path, 1)
     formatted_raw_data = format_json(json_data)
-   
+
     if "<sup>" in formatted_raw_data:
         verbose_print(args, "%s: File contains invalid content (<sup>)\n" % path, 0)
         validation_errors += 1
         return None
-    
+
     if formatted_raw_data != raw_data:
         verbose_print(args, "%s: File is not correctly formatted JSON.\n" % path, 0)
         formatting_errors += 1
@@ -416,7 +416,7 @@ def main():
     packs = load_packs(args, cycles)
 
     factions = load_factions(args)
-    
+
     types = load_types(args)
 
     sides = load_sides(args)

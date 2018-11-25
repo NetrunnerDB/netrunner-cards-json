@@ -1,5 +1,36 @@
 {
     "additionalProperties": false,
+    "anyOf": [
+        {
+            "properties": {
+                "type_code": {
+                    "enum": [
+                        "event",
+                        "program",
+                        "hardware",
+                        "resource",
+                        "operation",
+                        "ice",
+                        "asset",
+                        "upgrade"
+                    ]
+                }
+            },
+            "required": [
+                "cost"
+            ]
+        },
+        {
+            "properties": {
+                "type_code": {
+                    "enum": [
+                        "identity",
+                        "agenda"
+                    ]
+                }
+            }
+        }
+    ],
     "properties": {
         "advancement_cost": {
             "minimum": 0,
