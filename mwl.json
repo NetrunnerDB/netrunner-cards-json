@@ -484,132 +484,132 @@
     },
     {
         "cards": {
-            "10050": {
+            "03001": {
+                "deck_limit": 0
+            },
+            "03035": {
                 "is_restricted": 1
             },
-            "10054": {
+            "06010": {
                 "is_restricted": 1
             },
             "06111": {
                 "is_restricted": 1
-            },        
-            "09026": {
-                "is_restricted": 1
-            },         
-            "06010": {
-                "is_restricted": 1
-            },                       
-            "21114": {
-                "is_restricted": 1
-            },             
-            "10018": {
+            },
+            "08061": {
+                "deck_limit": 0
+            },
+            "08067": {
                 "is_restricted": 1
             },
-            "10055": {
-                "is_restricted": 1
-            },            
-            "12070": {
-                "is_restricted": 1
+            "08070": {
+                "deck_limit": 0
             },
-            "11054": {
-                "is_restricted": 1
-            },
-            "21118": {
-                "is_restricted": 1
-            },
-            "11111": {
-                "is_restricted": 1
-            },                        
-            "12079": {
+            "08086": {
                 "is_restricted": 1
             },
             "09019": {
                 "deck_limit": 0
-            },            
-            "11117": {
-                "deck_limit": 0
             },
-            "03001": {
-                "deck_limit": 0
-            },            
-            "10049": {
-                "deck_limit": 0
+            "09026": {
+                "is_restricted": 1
             },
-            "11090": {
-                "deck_limit": 0
+            "09053": {
+                "is_restricted": 1
             },
-            "23101": {
-                "deck_limit": 0
+            "10018": {
+                "is_restricted": 1
             },
             "10019": {
                 "deck_limit": 0
             },
+            "10049": {
+                "deck_limit": 0
+            },
+            "10050": {
+                "is_restricted": 1
+            },
             "10053": {
                 "deck_limit": 0
             },
-            "25056": {
-                "is_restricted": 1
-            },        
-            "09053": {
-                "is_restricted": 1
-            },                
-            "08086": {
-                "is_restricted": 1
-            },            
-            "08067": {
+            "10054": {
                 "is_restricted": 1
             },
-            "12048": {
+            "10055": {
                 "is_restricted": 1
-            },       
-            "03035": {
-                "is_restricted": 1
-            },        
-            "12008": {
-                "is_restricted": 1
-            },        
-            "11024": {
-                "is_restricted": 1
-            },        
+            },
             "11022": {
                 "is_restricted": 1
             },
-            "11106": {
-                "deck_limit": 0
-            },        
-            "12089": {
-                "deck_limit": 0
-            },        
-            "08061": {
-                "deck_limit": 0
-            },        
-            "08070": {
-                "deck_limit": 0
-            },                                                     
-            "12081": {
+            "11024": {
+                "is_restricted": 1
+            },
+            "11026": {
                 "deck_limit": 0
             },
-            "12103": {
+            "11054": {
+                "is_restricted": 1
+            },
+            "11090": {
                 "deck_limit": 0
-            },            
+            },
             "11101": {
                 "deck_limit": 0
             },
             "11104": {
                 "deck_limit": 0
             },
-            "11026": {
+            "11106": {
                 "deck_limit": 0
-            },            
-            "23100": {
+            },
+            "11111": {
+                "is_restricted": 1
+            },
+            "11117": {
+                "deck_limit": 0
+            },
+            "12008": {
+                "is_restricted": 1
+            },
+            "12048": {
+                "is_restricted": 1
+            },
+            "12070": {
+                "is_restricted": 1
+            },
+            "12079": {
+                "is_restricted": 1
+            },
+            "12081": {
+                "deck_limit": 0
+            },
+            "12089": {
+                "deck_limit": 0
+            },
+            "12103": {
                 "deck_limit": 0
             },
             "21101": {
                 "deck_limit": 0
-            }            
+            },
+            "21114": {
+                "is_restricted": 1
+            },
+            "21118": {
+                "is_restricted": 1
+            },
+            "23100": {
+                "deck_limit": 0
+            },
+            "23101": {
+                "deck_limit": 0
+            },
+            "25056": {
+                "is_restricted": 1
+            }
         },
         "code": "standard-mwl-3-0",
         "date_start": "2018-12-21",
-        "name": "Standard MWL 3.0"        
+        "name": "Standard MWL 3.0"
     }
 ]
