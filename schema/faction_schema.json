@@ -1,4 +1,6 @@
 {
+    "$id": "https://github.com/Alsciende/netrunner-cards-json/blob/master/schema/faction_schema.json",
+    "$schema": "http://json-schema.org/schema#",
     "additionalProperties": false,
     "properties": {
         "code": {

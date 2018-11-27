@@ -1,18 +1,55 @@
 {
+    "$id": "https://github.com/Alsciende/netrunner-cards-json/blob/master/schema/card_schema.json",
+    "$schema": "http://json-schema.org/schema#",
     "additionalProperties": false,
-    "anyOf": [
+    "oneOf": [
+        {
+            "properties": {
+                "type_code": {
+                    "const": "agenda"
+                }
+            },
+            "required": [
+                "advancement_cost",
+                "agenda_points"
+            ]
+        },
+        {
+            "properties": {
+                "type_code": {
+                    "enum": [
+                        "asset",
+                        "upgrade"
+                    ]
+                }
+            },
+            "required": [
+                "cost",
+                "trash_cost"
+            ]
+        },
+        {
+            "properties": {
+                "type_code": {
+                    "enum": [
+                        "ice"
+                    ]
+                }
+            },
+            "required": [
+                "cost",
+                "strength"
+            ]
+        },
         {
             "properties": {
                 "type_code": {
                     "enum": [
                         "event",
-                        "program",
                         "hardware",
-                        "resource",
                         "operation",
-                        "ice",
-                        "asset",
-                        "upgrade"
+                        "program",
+                        "resource"
                     ]
                 }
             },
@@ -23,12 +60,13 @@
         {
             "properties": {
                 "type_code": {
-                    "enum": [
-                        "identity",
-                        "agenda"
-                    ]
+                    "const": "identity"
                 }
-            }
+            },
+            "required": [
+                "influence_limit",
+                "minimum_deck_size"
+            ]
         }
     ],
     "properties": {
