@@ -1,0 +1,50 @@
+[
+    {
+        "code": "26044",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 5,
+        "keywords": "Connection - Seedy",
+        "pack_code": "ad",
+        "position": 44,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "The first time each turn you install a virus program, place 2 virus counters on The Nihilist.\nWhen your turn begins, you may remove 2 virus counters from your installed cards. If you do, draw 2 cards unless the Corp trashes the top card of R&D.",
+        "title": "The Nihilist",
+        "type_code": "resource",
+        "uniqueness": true
+    },
+    {
+        "code": "26053",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 5,
+        "keywords": "Connection - Ritzy",
+        "pack_code": "ad",
+        "position": 53,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "When the turn on which you installed The Class Act ends, draw 4 cards.\nThe first time you draw a card each turn, draw 1 additional card. Add 1 of the drawn cards to the bottom of your stack.",
+        "title": "The Class Act",
+        "type_code": "resource",
+        "uniqueness": true
+    },
+    {
+        "code": "26062",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 5,
+        "keywords": "Connection",
+        "pack_code": "ad",
+        "position": 62,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "Use each ability on The Artist only once per turn.\n[click]: Gain 2[credit].\n[click]: Install a program or piece of hardware, lowering its cost by 1.",
+        "title": "The Artist",
+        "type_code": "resource",
+        "uniqueness": true
+    }
+]
