@@ -2,6 +2,7 @@
     {
         "code": "26044",
         "cost": 4,
+        "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 5,
         "keywords": "Connection - Seedy",
@@ -17,6 +18,7 @@
     {
         "code": "26053",
         "cost": 4,
+        "deck_limit": 3,
         "faction_code": "criminal",
         "faction_cost": 5,
         "keywords": "Connection - Ritzy",
@@ -32,6 +34,7 @@
     {
         "code": "26062",
         "cost": 4,
+        "deck_limit": 3,
         "faction_code": "shaper",
         "faction_cost": 5,
         "keywords": "Connection",
