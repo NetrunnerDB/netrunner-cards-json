@@ -12,7 +12,7 @@
         "position": 4,
         "quantity": 3,
         "side_code": "corp",
-        "text": "[click]: Gain 2[credit]. Use this ability only once per turn.\nWhen the Runner trashes Nanoetching Matrix, gain 2[credit].",
+        "text": "[click]: Gain 2[credit]. Use this ability only once per turn.\nWhen the Runner trashes Nanoetching Matrix, you may gain 2[credit].",
         "title": "Nanoetching Matrix",
         "trash_cost": 2,
         "type_code": "asset",
@@ -31,7 +31,7 @@
         "position": 44,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first time each turn you install a virus program, place 2 virus counters on The Nihilist.\nWhen your turn begins, you may remove 2 virus counters from your installed cards. If you do, draw 2 cards unless the Corp trashes the top card of R&D.",
+        "text": "The first time each turn you install a <strong>virus</strong> program, place 2 virus counters on this resource.\nWhen your turn begins, you may remove any 2 virus counters from your installed cards. If you do, draw 2 cards unless the Corp trashes the top card of R&D.",
         "title": "The Nihilist",
         "type_code": "resource",
         "uniqueness": true
@@ -48,7 +48,7 @@
         "position": 49,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Remove Lucky Charm from the game: Prevent a run from ending due to an effect of a Corp card. Use this ability only if you have made a successful run on HQ this turn.",
+        "text": "<strong>Remove this hardware from the game:</strong> Prevent a run from ending due to an effect of a Corp card. Use this ability only if you have made a successful run on HQ this turn.",
         "title": "Lucky Charm",
         "type_code": "hardware",
         "uniqueness": true
@@ -66,7 +66,7 @@
         "position": 53,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When the turn on which you installed The Class Act ends, draw 4 cards.\nThe first time you draw a card each turn, draw 1 additional card. Add 1 of the drawn cards to the bottom of your stack.",
+        "text": "When the turn during which you installed this resource ends, draw 4 cards.\nThe first time each turn you would draw, instead look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack, then draw the rest. X equals the number of cards you would have drawn plus 1.",
         "title": "The Class Act",
         "type_code": "resource",
         "uniqueness": true
@@ -84,7 +84,7 @@
         "position": 62,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Use each ability on The Artist only once per turn.\n[click]: Gain 2[credit].\n[click]: Install a program or piece of hardware, lowering its cost by 1.",
+        "text": "Use each ability on this resource only once per turn.\n[click]: Gain 2[credit].\n[click]: Install a program or piece of hardware, paying 1[credit] less.",
         "title": "The Artist",
         "type_code": "resource",
         "uniqueness": true
