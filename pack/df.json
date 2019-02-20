@@ -1,5 +1,22 @@
 [
     {
+        "code": "26004",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "haas-bioroid",
+        "faction_cost": 2,
+        "keywords": "Bioroid",
+        "pack_code": "df",
+        "position": 4,
+        "quantity": 3,
+        "side_code": "corp",
+        "text": "[click]: Gain 2[credit]. Use this ability only once per turn.\nWhen the Runner trashes Nanoetching Matrix, gain 2[credit].",
+        "title": "Nanoetching Matrix",
+        "trash_cost": 2,
+        "type_code": "asset",
+        "uniqueness": false
+    },
+    {
         "code": "26044",
         "cost": 4,
         "deck_limit": 3,
@@ -13,6 +30,21 @@
         "text": "The first time each turn you install a virus program, place 2 virus counters on The Nihilist.\nWhen your turn begins, you may remove 2 virus counters from your installed cards. If you do, draw 2 cards unless the Corp trashes the top card of R&D.",
         "title": "The Nihilist",
         "type_code": "resource",
+        "uniqueness": true
+    },
+    {
+        "code": "26049",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "pack_code": "df",
+        "position": 49,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "Remove Lucky Charm from the game: Prevent a run from ending due to an effect of a Corp card. Use this ability only if you have made a successful run on HQ this turn.",
+        "title": "Lucky Charm",
+        "type_code": "hardware",
         "uniqueness": true
     },
     {
