@@ -198,6 +198,24 @@
         "uniqueness": false
     },
     {
+        "code": "26053",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 3,
+        "flavor": "It is pitch black. You are likely to be eaten by a Troll.",
+        "illustrator": "Krembler",
+        "keywords": "Illicit - Gray Ops",
+        "pack_code": "df",
+        "position": 53,
+        "quantity": 3,
+        "side_code": "corp",
+        "text": "Play only if the Runner stole an agenda during their last turn.\nChoose a card type. Trash all installed non-<strong>icebreaker</strong> cards of that type. The Runner may prevent any of those cards from being trashed by paying 3[credit] each. Take 1 bad publicity.",
+        "title": "Game Over",
+        "type_code": "operation",
+        "uniqueness": false
+    },
+    {
         "code": "26064",
         "cost": 2,
         "deck_limit": 3,
