@@ -287,6 +287,25 @@
         "uniqueness": false
     },
     {
+        "code": "26035",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "haas-bioroid",
+        "faction_cost": 3,
+        "flavor": "Old warriors have seen all the tricks; be forthright or fail.",
+        "illustrator": "Krembler",
+        "keywords": "Barrier - Destroyer",
+        "pack_code": "df",
+        "position": 35,
+        "quantity": 3,
+        "side_code": "corp",
+        "strength": 6,
+        "text": "This ice has -1 strength for each installed <strong>icebreaker</strong>.\n[subroutine] Trash 1 program that is not a <strong>decoder</strong>, <strong>fracter</strong>, or <strong>killer</strong>.\n[subroutine] End the run.",
+        "title": "Hagen",
+        "type_code": "ice",
+        "uniqueness": false
+    },
+    {
         "code": "26039",
         "deck_limit": 1,
         "faction_code": "jinteki",
@@ -398,6 +417,23 @@
         "uniqueness": false
     },
     {
+        "advancement_cost": 3,
+        "agenda_points": 1,
+        "code": "26055",
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "flavor": "As the documents show, for eight months they have operated as an entirely independent fiscal entity. We are as appalled at the carelessness as you are, and fully support City Hall's investigation.",
+        "illustrator": "Krembler",
+        "pack_code": "df",
+        "position": 55,
+        "quantity": 3,
+        "side_code": "corp",
+        "text": "Whenever the Runner steals another agenda, you may forfeit this agenda to gain 5[credit] and add the stolen agenda to HQ.",
+        "title": "Divested Trust",
+        "type_code": "agenda",
+        "uniqueness": false
+    },
+    {
         "code": "26057",
         "cost": 0,
         "deck_limit": 3,
@@ -413,6 +449,25 @@
         "title": "Roughneck Repair Squad",
         "trash_cost": 3,
         "type_code": "asset",
+        "uniqueness": false
+    },
+    {
+        "code": "26059",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "faction_cost": 2,
+        "flavor": "Effective, Cheap, Durable. Pick two.",
+        "illustrator": "Krembler",
+        "keywords": "Barrier",
+        "pack_code": "df",
+        "position": 59,
+        "quantity": 3,
+        "side_code": "corp",
+        "strength": 6,
+        "text": "When the Runner encounters this ice, place 1 virus counter on it.\nThis ice has -1 strength for each hosted virus counter.\n[subroutine]End the run.",
+        "title": "Sandstone",
+        "type_code": "ice",
         "uniqueness": false
     },
     {
@@ -434,6 +489,25 @@
         "uniqueness": false
     },
     {
+        "advancement_cost": 4,
+        "agenda_points": 3,
+        "code": "26063",
+        "deck_limit": 3,
+        "faction_code": "neutral-corp",
+        "faction_cost": 1,
+        "flavor": "The Fracture was no different to any other crisis: Management's first instinct is to find someone to blame. Getting food up to Midway or He3 down to power Earthside hospitals are trivialities compared to the important work of salving Executive ego and keeping one's job.",
+        "illustrator": "Iain Fairclough",
+        "keywords": "Research",
+        "pack_code": "df",
+        "position": 63,
+        "quantity": 3,
+        "side_code": "corp",
+        "text": "You cannot score this agenda if you installed it this turn.",
+        "title": "Vulnerability Audit",
+        "type_code": "agenda",
+        "uniqueness": false
+    },
+    {
         "code": "26064",
         "cost": 2,
         "deck_limit": 3,
@@ -450,6 +524,24 @@
         "title": "CSR Campaign",
         "trash_cost": 2,
         "type_code": "asset",
+        "uniqueness": false
+    },
+    {
+        "code": "26065",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "neutral-corp",
+        "faction_cost": 0,
+        "illustrator": "N. Hopkins",
+        "keywords": "Mythic",
+        "pack_code": "df",
+        "position": 65,
+        "quantity": 3,
+        "side_code": "corp",
+        "strength": 0,
+        "text": "During runs on this server, you can rez this ice any time you could rez non-ice cards.\nEach piece of ice protecting this server has +1 strength.\n[subroutine] The Runner loses 1[credit].",
+        "title": "Rime",
+        "type_code": "ice",
         "uniqueness": false
     }
 ]
