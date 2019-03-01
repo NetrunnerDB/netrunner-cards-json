@@ -325,6 +325,23 @@
         "uniqueness": false
     },
     {
+        "advancement_cost": 3,
+        "agenda_points": 1,
+        "code": "26055",
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "flavor": "As the documents show, for eight months they have operated as an entirely independent fiscal entity. We are as appalled at the carelessness as you are, and fully support City Hall's investigation.",
+        "illustrator": "Krembler",
+        "pack_code": "df",
+        "position": 55,
+        "quantity": 3,
+        "side_code": "corp",
+        "text": "Whenever the Runner steals another agenda, you may forfeit this agenda to gain 5[credit] and add the stolen agenda to HQ.",
+        "title": "Divested Trust",
+        "type_code": "agenda",
+        "uniqueness": false
+    },
+    {
         "code": "26057",
         "cost": 0,
         "deck_limit": 3,
@@ -377,6 +394,25 @@
         "text": "When you rez this ice, take 1 bad publicity.\n[subroutine] Trash 1 installed Runner card.\n[subroutine]<trace>trace 6</trace>: If successful, the Runner cannot steal or trash Corp cards for the remainder of the run.",
         "title": "Trebuchet",
         "type_code": "ice",
+        "uniqueness": false
+    },
+    {
+        "advancement_cost": 4,
+        "agenda_points": 3,
+        "code": "26063",
+        "deck_limit": 3,
+        "faction_code": "neutral-corp",
+        "faction_cost": 1,
+        "flavor": "The Fracture was no different to any other crisis: Management's first instinct is to find someone to blame. Getting food up to Midway or He3 down to power Earthside hospitals are trivialities compared to the important work of salving Executive ego and keeping one's job.",
+        "illustrator": "Iain Fairclough",
+        "keywords": "Research",
+        "pack_code": "df",
+        "position": 63,
+        "quantity": 3,
+        "side_code": "corp",
+        "text": "You cannot score this agenda if you installed it this turn.",
+        "title": "Vulnerability Audit",
+        "type_code": "agenda",
         "uniqueness": false
     },
     {
