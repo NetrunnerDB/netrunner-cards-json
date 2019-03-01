@@ -1,5 +1,23 @@
 [
     {
+        "code": "26002",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 2,
+        "flavor": "Step 1: Apply to problem.\nStep 2: No more problem!",
+        "illustrator": "Olie Boldador",
+        "keywords": "Console",
+        "pack_code": "df",
+        "position": 2,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "+1[mu]\nThe trash cost of each Corp card is lowered by 1.\nThe first time each turn you trash a Corp card, gain 1[credit].\nLimit 1 <strong>console</strong> per player.",
+        "title": "Demolisher",
+        "type_code": "hardware",
+        "uniqueness": true
+    },
+    {
         "code": "26008",
         "cost": 4,
         "deck_limit": 3,
@@ -32,6 +50,23 @@
         "side_code": "runner",
         "text": "Run any server. When that run ends, if it was unsuccessful, you may run that server again, ignoring any additional cost to run. During the second run, when you encounter the last piece of ice you encountered in the first run, bypass it.",
         "title": "Always Have a Backup Plan",
+        "type_code": "event",
+        "uniqueness": false
+    },
+    {
+        "code": "26012",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "flavor": "Blue flames burn the hottest!",
+        "illustrator": "Patrick Burk",
+        "pack_code": "df",
+        "position": 12,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "Look at the top 2 cards of your stack. You may add 1 of those cards to the bottom of your stack. Draw 2 cards.",
+        "title": "Blueberry!™ Diesel",
         "type_code": "event",
         "uniqueness": false
     },
