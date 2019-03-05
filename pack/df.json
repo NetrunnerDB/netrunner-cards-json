@@ -447,7 +447,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "When the Runner encounters this ice, choose a card type.\n[subroutine] Do 1 net damage. If you trash a card of the chosen type, do 1 net damage.\n[subroutine] Do 1 net damage. If you trash a card of the chosen type, do 1 net damage.\n[subroutine] Do 1 net damage. If you trash a card of the chosen type, do 1 net damage.",
+        "text": "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you trash a card of that type with net damage from a subroutine on this ice, do 1 net damage.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.",
         "title": "Saisentan",
         "type_code": "ice",
         "uniqueness": false
@@ -465,7 +465,7 @@
         "position": 45,
         "quantity": 3,
         "side_code": "corp",
-        "text": "After you resolve this operation, your action phase ends.\nPlay only if the Runner has 3 or more agenda points and they made a successful run during their last turn.\nName a card, then do 1 net damage. If you trash the named card, repeat this process.",
+        "text": "After you resolve this operation, your action phase ends.\nPlay only if the Runner has 3 or more agenda points and they made a successful run during their last turn.\nName a card, then do 1 net damage. If you trash a copy of the named card, repeat this process.",
         "title": "Complete Image",
         "trash_cost": 2,
         "type_code": "operation",
@@ -557,7 +557,7 @@
         "position": 53,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Play only if the Runner stole an agenda during their last turn.\nChoose a card type. Trash all installed non-<strong>icebreaker</strong> cards of that type. The Runner may prevent any of those cards from being trashed by paying 3[credit] each. Take 1 bad publicity.",
+        "text": "Play only if the Runner stole an agenda during their last turn.\nChoose a Runner card type. Trash all installed non-<strong>icebreaker</strong> cards of that type. The Runner may prevent any of those cards from being trashed by paying 3[credit] each. Take 1 bad publicity.",
         "title": "Game Over",
         "type_code": "operation",
         "uniqueness": false
