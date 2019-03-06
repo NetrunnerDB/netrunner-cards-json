@@ -109,6 +109,25 @@
         "uniqueness": true
     },
     {
+        "base_link": 1,
+        "code": "26010",
+        "deck_limit": 1,
+        "faction_code": "criminal",
+        "flavor": "\"You're not listening.\"",
+        "illustrator": "Luminita Pham",
+        "influence_limit": 15,
+        "keywords": "Cyborg",
+        "minimum_deck_size": 45,
+        "pack_code": "df",
+        "position": 10,
+        "quantity": 1,
+        "side_code": "runner",
+        "text": "The first <strong>job</strong> resource, <strong>connection</strong> resource, or piece of hardware you install each turn costs 1[credit] less to install.",
+        "title": "Az McCaffrey: Mechanical Prodigy",
+        "type_code": "identity",
+        "uniqueness": false
+    },
+    {
         "code": "26011",
         "cost": 2,
         "deck_limit": 3,
