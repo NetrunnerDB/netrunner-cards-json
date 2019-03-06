@@ -197,6 +197,24 @@
         "uniqueness": true
     },
     {
+        "code": "26015",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 4,
+        "flavor": "v35: Springs to the mount ejectors (new feature)\nv36: Reduced power to springs (x5)",
+        "illustrator": "Olie Boldador",
+        "keywords": "Console",
+        "pack_code": "df",
+        "position": 15,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "+1[mu].\nThe first time each turn you install a piece of hardware, draw 1 card.\nWhenever a run begins, you may install a piece of hardware, paying 1[credit] more.\nLimit 1 <strong>console</strong> per player.",
+        "title": "Masterwork (v37)",
+        "type_code": "hardware",
+        "uniqueness": true
+    },
+    {
         "code": "26016",
         "cost": 3,
         "deck_limit": 3,
@@ -381,6 +399,24 @@
         "uniqueness": false
     },
     {
+        "code": "26030",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 1,
+        "flavor": "\"Corporations are made of people; just normal people doing their 6-to-6. The right truths, the right critique, and they can be redeemed.\" - Lat",
+        "illustrator": "Olie Boldador",
+        "keywords": "Connection",
+        "pack_code": "df",
+        "position": 30,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "Whenever you make a successful run, you may trash this resource to name an agenda. The next time this run you access a copy of the named agenda, steal it, ignoring all costs. <em>(You are no longer accessing it.)</em>",
+        "title": "Whistleblower",
+        "type_code": "resource",
+        "uniqueness": true
+    },
+    {
         "code": "26031",
         "deck_limit": 1,
         "faction_code": "haas-bioroid",
@@ -451,6 +487,23 @@
         "text": "This ice has -1 strength for each installed <strong>icebreaker</strong>.\n[subroutine] Trash 1 program that is not a <strong>decoder</strong>, <strong>fracter</strong>, or <strong>killer</strong>.\n[subroutine] End the run.",
         "title": "Hagen",
         "type_code": "ice",
+        "uniqueness": false
+    },
+    {
+        "code": "26036",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "haas-bioroid",
+        "faction_cost": 3,
+        "flavor": "Haas' unsecured servers were fortified just before the storm. Are their bioroid oracles that good, or were they tipped off?",
+        "illustrator": "Krembler",
+        "pack_code": "df",
+        "position": 36,
+        "quantity": 3,
+        "side_code": "corp",
+        "text": "Gain 2[credit] or draw 2 cards. Repeat this process for each remote server with at least 1 card in it and at least 1 piece of ice protecting it.",
+        "title": "Fully Operational",
+        "type_code": "operation",
         "uniqueness": false
     },
     {
