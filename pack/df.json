@@ -323,6 +323,23 @@
         "uniqueness": false
     },
     {
+        "code": "26021",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 2,
+        "illustrator": "Iain Fairclough",
+        "keywords": "Run",
+        "pack_code": "df",
+        "position": 21,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "Run R&D. If successful, instead of accessing cards, choose a number greater than 0. For each installed card you have with a printed install cost matching that number, reveal 1 card from the top of R&D (max 6). Access one of the revealed cards, then the Corp shuffles R&D. You cannot access any other cards in R&D this run",
+        "title": "Khusyuk",
+        "type_code": "event",
+        "uniqueness": false
+    },
+    {
         "code": "26024",
         "cost": 2,
         "deck_limit": 3,
