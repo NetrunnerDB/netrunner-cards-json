@@ -535,7 +535,7 @@
         "position": 30,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you make a successful run, you may trash this resource to name an agenda. The next time this run you access a copy of the named agenda, steal it, ignoring all costs. <em>(You are no longer accessing it.)</em>",
+        "text": "Whenever you make a successful run, you may trash this resource to name an agenda. The next time this run you access a copy of the named agenda, steal it, ignoring all costs. <i>(You are no longer accessing it.)</i>",
         "title": "Whistleblower",
         "type_code": "resource",
         "uniqueness": true
@@ -770,7 +770,7 @@
         "position": 43,
         "quantity": 3,
         "side_code": "corp",
-        "text": "The first time each turn you trash <em>(from any location)</em> a card that matches the faction of the Runner's identity, place 1 power counter on this asset.\n[click]<strong>, hosted power counter:</strong> Do 1 net damage.",
+        "text": "The first time each turn you trash <i>(from any location)</i> a card that matches the faction of the Runner's identity, place 1 power counter on this asset.\n[click]<strong>, hosted power counter:</strong> Do 1 net damage.",
         "title": "Storgotic Resonator",
         "trash_cost": 2,
         "type_code": "asset",
@@ -1098,7 +1098,7 @@
         "position": 61,
         "quantity": 3,
         "side_code": "corp",
-        "text": "As an additional cost to play this operation, spend [click].\nSearch R&D for a piece of ice and reveal it. <em>(Shuffle R&D after searching it.)</em> Install that ice protecting a central server, paying 3[credit] less.",
+        "text": "As an additional cost to play this operation, spend [click].\nSearch R&D for a piece of ice and reveal it. <i>(Shuffle R&D after searching it.)</i> Install that ice protecting a central server, paying 3[credit] less.",
         "title": "Secure and Protect",
         "type_code": "operation",
         "uniqueness": false

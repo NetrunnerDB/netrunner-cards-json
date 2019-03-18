@@ -238,25 +238,6 @@
         "uniqueness": true
     },
     {
-        "code": "11095",
-        "cost": 7,
-        "deck_limit": 3,
-        "faction_code": "nbn",
-        "faction_cost": 3,
-        "flavor": "Truth like the sunlight shines above all. ",
-        "illustrator": "Kari Guenther",
-        "keywords": "Sentry - Tracer",
-        "pack_code": "ml",
-        "position": 95,
-        "quantity": 3,
-        "side_code": "corp",
-        "strength": 6,
-        "text": "When the Runner encounters Thoth, give him or her 1 tag.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, the Runner loses 1[credit] for each tag he or she has.",
-        "title": "Thoth",
-        "type_code": "ice",
-        "uniqueness": true
-    },
-    {
         "code": "11094",
         "cost": 2,
         "deck_limit": 3,
@@ -274,6 +255,25 @@
         "title": "IP Block",
         "type_code": "ice",
         "uniqueness": false
+    },
+    {
+        "code": "11095",
+        "cost": 7,
+        "deck_limit": 3,
+        "faction_code": "nbn",
+        "faction_cost": 3,
+        "flavor": "Truth like the sunlight shines above all. ",
+        "illustrator": "Kari Guenther",
+        "keywords": "Sentry - Tracer",
+        "pack_code": "ml",
+        "position": 95,
+        "quantity": 3,
+        "side_code": "corp",
+        "strength": 6,
+        "text": "When the Runner encounters Thoth, give him or her 1 tag.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, the Runner loses 1[credit] for each tag he or she has.",
+        "title": "Thoth",
+        "type_code": "ice",
+        "uniqueness": true
     },
     {
         "code": "11096",
