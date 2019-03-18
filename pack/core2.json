@@ -31,7 +31,7 @@
         "position": 2,
         "quantity": 2,
         "side_code": "runner",
-        "text": "Make a run on HQ or R&D. You may trash, at no cost, any cards you access (even if the cards cannot normally be trashed).",
+        "text": "Run HQ or R&D. During that run, you may pay 0[credit] to trash any card you are accessing (even if it has no trash cost).\n<errata>Errata from CR 1.2</errata>",
         "title": "Demolition Run",
         "type_code": "event",
         "uniqueness": false
@@ -65,7 +65,7 @@
         "position": 4,
         "quantity": 1,
         "side_code": "runner",
-        "text": "As an additional cost to play this event, spend [click].\nMake a run on a remote server. If successful, instead of accessing cards, trash all cards in the server at no cost (even if they cannot normally be trashed).",
+        "text": "Run a remote server. If successful, instead of accessing cards, trash all cards installed in that server.\n<errata>Errata from CR 1.2</errata>",
         "title": "Singularity",
         "type_code": "event",
         "uniqueness": false
@@ -193,7 +193,7 @@
         "position": 11,
         "quantity": 1,
         "side_code": "runner",
-        "text": "Place 2 virus counters on Imp when it is installed.\nOnce per turn, you may remove 1 hosted virus counter to trash a card you access at no cost (even if it cannot normally be trashed).",
+        "text": "Place 2 virus counters on Imp when it is installed.\nOnce per turn, you may remove 1 hosted virus counter to trash a card you are accessing <i>(even if it has no trash cost)</i>.\n<errata>Errata from CR 1.2</errata>",
         "title": "Imp",
         "type_code": "program",
         "uniqueness": false

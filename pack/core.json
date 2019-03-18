@@ -48,7 +48,7 @@
         "position": 3,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Make a run on HQ or R&D. You may trash, at no cost, any cards you access (even if the cards cannot normally be trashed).",
+        "text": "Run HQ or R&D. During that run, you may pay 0[credit] to trash any card you are accessing (even if it has no trash cost).\n<errata>Errata from CR 1.2</errata>",
         "title": "Demolition Run",
         "type_code": "event",
         "uniqueness": false
@@ -1353,7 +1353,7 @@
         "quantity": 2,
         "side_code": "corp",
         "strength": 4,
-        "text": "[subroutine] The next piece of ice the Runner encounters during this run has +2 strength. Do 3 net damage unless the Runner breaks all subroutines on that piece of ice.",
+        "text": "[subroutine] The next piece of ice the Runner encounters during this run has +2 strength. When that encounter ends, if the Runner did not break all subroutines on that ice, do 3 net damage.\n<errata>Errata from CR 1.2</errata>",
         "title": "Chum",
         "type_code": "ice",
         "uniqueness": false
