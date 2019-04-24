@@ -121,7 +121,7 @@
         "position": 7,
         "quantity": 1,
         "side_code": "runner",
-        "text": "After you resolve this event, end your action phase.\nMake a run on a remote server. If successful, remove the first non-agenda card that you access from the game.\nUntil the game ends, whenever you access a copy of tha card, remove it from the game.\nLimit 1 per Deck.",
+        "text": "After you resolve this event, end your action phase.\nMake a run on a remote server. If successful, remove the first non-agenda card that you access from the game.\nUntil the game ends, whenever you access a copy of that card, remove it from the game.\nLimit 1 per deck.",
         "title": "Watch the World Burn",
         "type_code": "event",
         "uniqueness": false
@@ -139,7 +139,7 @@
         "position": 8,
         "quantity": 1,
         "side_code": "corp",
-        "text": "As an additional cost to run this server, the Runner must trash an agenda in his or her score area. Ignore this ability if the Runner made a successful run on HQ this turn.\nLimit 1 per Deck.",
+        "text": "As an additional cost to run this server, the Runner must trash an agenda in his or her score area. Ignore this ability if the Runner made a successful run on HQ this turn.\nLimit 1 per deck.",
         "title": "Hired Help",
         "trash_cost": 3,
         "type_code": "upgrade",
