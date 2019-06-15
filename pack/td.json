@@ -180,7 +180,7 @@
         "position": 10,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[click], [click]: Make a run. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice to bypass it.",
+        "text": "[click], [click]: Make a run. The first time you approach a rezzed piece of ice during this run, you may pay credits equal to the strength of that ice. If you do, bypass that ice the next time you encounter it this run.\n<errata>Errata from CR 1.0</errata>",
         "title": "Charlatan",
         "type_code": "resource",
         "uniqueness": false
