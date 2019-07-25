@@ -2512,7 +2512,7 @@
         "position": 139,
         "quantity": 1,
         "side_code": "corp",
-        "text": "Successful runs against this server are not considered to be successful or unsuccessful for the purposes of card abilities.\nLimit 1 <strong>region</strong> per server.",
+        "text": "Runs against this server cannot be declared successful. (This effect does not cause runs to become unsuccessful.)\nLimit 1 <strong>region</strong> per server.\n<errata>Errata from CR 1.3</errata>",
         "title": "Crisium Grid",
         "trash_cost": 5,
         "type_code": "upgrade",
