@@ -781,6 +781,9 @@
             },
             "25056": {
                 "is_restricted": 1
+            },
+            "28002": {
+                "is_restricted": 1
             }
         },
         "code": "standard-mwl-3.1",
@@ -925,6 +928,12 @@
                 "deck_limit": 0
             },
             "25056": {
+                "is_restricted": 1
+            },
+            "28001": {
+                "is_restricted": 1
+            },
+            "28002": {
                 "is_restricted": 1
             }
         },
@@ -1083,6 +1092,12 @@
             },
             "25056": {
                 "is_restricted": 1
+            },
+            "28001": {
+                "is_restricted": 1
+            },
+            "28002": {
+                "deck_limit": 0
             }
         },
         "code": "standard-mwl-3-3",
@@ -1240,6 +1255,12 @@
             },
             "25056": {
                 "is_restricted": 1
+            },
+            "28001": {
+                "is_restricted": 1
+            },
+            "28002": {
+                "deck_limit": 0
             }
         },
         "code": "standard-mwl-3-4",
