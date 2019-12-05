@@ -37,6 +37,26 @@
         "uniqueness": true
     },
     {
+        "code": "26071",
+        "cost": 4,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 2,
+        "flavor": "Dance, and forget about time!",
+        "illustrator": "Krembler",
+        "keywords": "Icebreaker - Killer",
+        "memory_cost": 1,
+        "pack_code": "ur",
+        "position": 71,
+        "quantity": 3,
+        "side_code": "runner",
+        "strength": 0,
+        "text": "2[credit]: Break any number of sentry subroutines.\n0[credit]: Break sentry subroutine. Use this ability only if you have 3 or more installed virtual resources.\n3[credit]: +3 strength.",
+        "title": "Odore",
+        "type_code": "program",
+        "uniqueness": false
+    },
+    {
         "code": "26072",
         "cost": 1,
         "deck_limit": 3,
@@ -123,6 +143,26 @@
         "text": "Search your heap for up to 5 cards with different names. Shuffle those cards into your stack. Remove this card from the game instead of trashing it.",
         "title": "Harmony AR Therapy",
         "type_code": "event",
+        "uniqueness": false
+    },
+    {
+        "code": "26087",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 3,
+        "flavor": "Find truth not in the observation, but in the demonstration.",
+        "illustrator": "Patrick Burk",
+        "keywords": "Icebreaker - Decoder",
+        "memory_cost": 1,
+        "pack_code": "ur",
+        "position": 87,
+        "quantity": 3,
+        "side_code": "runner",
+        "strength": 2,
+        "text": "When you install this program, for the remainder of the turn it gains \"0[credit]: Break code gate subroutine.\"\n2[credit]: Break up to 2 code gate subroutines.\n1[credit]: +1 strength.",
+        "title": "Euler",
+        "type_code": "program",
         "uniqueness": false
     },
     {
