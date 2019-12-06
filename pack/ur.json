@@ -111,6 +111,23 @@
         "uniqueness": false
     },
     {
+        "code": "26075",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "flavor": "Return to sender.",
+        "illustrator": "Elizaveta Sokolova",
+        "pack_code": "ur",
+        "position": 75,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "When you install this hardware, choose an installed piece of ice. Use this hardware only during encounters with that ice.\n[trash]: Break up to 2 subroutines. When this run ends, if is successful, you may shuffle a copy of Boomerang from your heap into your stack.",
+        "title": "Boomerang",
+        "type_code": "hardware",
+        "uniqueness": true
+    },
+    {
         "code": "26076",
         "cost": 2,
         "deck_limit": 3,
@@ -123,6 +140,24 @@
         "side_code": "runner",
         "text": "Use this hardware only by spending credits from stealth cards.\nWhenever you make a successful run on HQ, you may pay 1[credit] to access 1 additional card from HQ.\nWhenever you make a successful run on R&D, you may pay 2[credit] to access 1 additional card from R&D.",
         "title": "Mu Safecracker",
+        "type_code": "hardware",
+        "uniqueness": true
+    },
+    {
+        "code": "26077",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 3,
+        "flavor": "\"Overinflate a superposition-stack and optimal code forms the negentropy traverse.\"\n\"Aha, like putting too much air into a balloon?!\"",
+        "illustrator": "N. Hopkins",
+        "keywords": "Chip",
+        "pack_code": "ur",
+        "position": 77,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "The first time each turn a run begins, you may look at the top 2 cards of your stack.\n1[credit]: Reveal the top card of your stack. You may install that card if it is a program or piece of hardware. Use this ability only once per turn.",
+        "title": "Prognostic Q-Loop",
         "type_code": "hardware",
         "uniqueness": true
     },
@@ -180,6 +215,24 @@
         "title": "Penumbral Toolkit",
         "type_code": "resource",
         "uniqueness": false
+    },
+    {
+        "code": "26082",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 4,
+        "flavor": "\"Junk plus undiscerning buyers equals profit.\"\n-Az McCaffrey",
+        "illustrator": "Izzy Pruett",
+        "keywords": "Job - Location",
+        "pack_code": "ur",
+        "position": 82,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "The first time each run you use hardware during a run, place 1 power counter on this resource.\n[click], remove this resource from the game: Shuffle up to X cards with [trash] abilities from your heap into your stack. X is double the number of hosted power counters.",
+        "title": "The Back",
+        "type_code": "resource",
+        "uniqueness": true
     },
     {
         "code": "26083",
