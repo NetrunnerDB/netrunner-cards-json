@@ -139,7 +139,7 @@
         "position": 75,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When you install this hardware, choose an installed piece of ice. Use this hardware only during encounters with that ice.\n[trash]: Break up to 2 subroutines. When this run ends, if is successful, you may shuffle a copy of Boomerang from your heap into your stack.",
+        "text": "When you install this hardware, choose an installed piece of ice. Use this hardware only during encounters with that ice.\n[trash]: Break up to 2 subroutines. When this run ends, if it is successful, you may shuffle a copy of Boomerang from your heap into your stack.",
         "title": "Boomerang",
         "type_code": "hardware",
         "uniqueness": true
@@ -521,6 +521,25 @@
         "trash_cost": 4,
         "type_code": "asset",
         "uniqueness": true
+    },
+    {
+        "code": "26108",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "jinteki",
+        "faction_cost": 1,
+        "flavor": "$BMI.001 > Out of Memory Error",
+        "illustrator": "Janet Bruesselbach",
+        "keywords": "Code Gate - Observer",
+        "pack_code": "ur",
+        "position": 108,
+        "quantity": 3,
+        "side_code": "corp",
+        "strength": 5,
+        "text": "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you reveal the grip using a subroutine on this ice, you may trash 1 revealed card of that type.\n[subroutine] Reveal the grip.\n[subroutine] Reveal the grip.",
+        "title": "Engram Flush",
+        "type_code": "ice",
+        "uniqueness": false
     },
     {
         "code": "26109",
