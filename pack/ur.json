@@ -19,6 +19,23 @@
         "uniqueness": false
     },
     {
+        "code": "26067",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 3,
+        "flavor": "Let's start a <strong>RIOT</strong>.",
+        "illustrator": "Patrick Burk",
+        "pack_code": "ur",
+        "position": 67,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "As an additional cost to play this event, trash 3 cards from your grip.\nDraw 3 cards and gain 3[credit].",
+        "title": "Moshing",
+        "type_code": "event",
+        "uniqueness": false
+    },
+    {
         "code": "26070",
         "cost": 3,
         "deck_limit": 3,
@@ -111,6 +128,23 @@
         "uniqueness": false
     },
     {
+        "code": "26075",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 2,
+        "flavor": "Return to sender.",
+        "illustrator": "Elizaveta Sokolova",
+        "pack_code": "ur",
+        "position": 75,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "When you install this hardware, choose an installed piece of ice. Use this hardware only during encounters with that ice.\n[trash]: Break up to 2 subroutines. When this run ends, if it is successful, you may shuffle a copy of Boomerang from your heap into your stack.",
+        "title": "Boomerang",
+        "type_code": "hardware",
+        "uniqueness": true
+    },
+    {
         "code": "26076",
         "cost": 2,
         "deck_limit": 3,
@@ -123,6 +157,24 @@
         "side_code": "runner",
         "text": "Use this hardware only by spending credits from stealth cards.\nWhenever you make a successful run on HQ, you may pay 1[credit] to access 1 additional card from HQ.\nWhenever you make a successful run on R&D, you may pay 2[credit] to access 1 additional card from R&D.",
         "title": "Mu Safecracker",
+        "type_code": "hardware",
+        "uniqueness": true
+    },
+    {
+        "code": "26077",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 3,
+        "flavor": "\"Overinflate a superposition-stack and optimal code forms the negentropy traverse.\"\n\"Aha, like putting too much air into a balloon?!\"",
+        "illustrator": "N. Hopkins",
+        "keywords": "Chip",
+        "pack_code": "ur",
+        "position": 77,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "The first time each turn a run begins, you may look at the top 2 cards of your stack.\n1[credit]: Reveal the top card of your stack. You may install that card if it is a program or piece of hardware. Use this ability only once per turn.",
+        "title": "Prognostic Q-Loop",
         "type_code": "hardware",
         "uniqueness": true
     },
@@ -182,6 +234,24 @@
         "uniqueness": false
     },
     {
+        "code": "26082",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "criminal",
+        "faction_cost": 4,
+        "flavor": "\"Junk plus undiscerning buyers equals profit.\"\n-Az McCaffrey",
+        "illustrator": "Izzy Pruett",
+        "keywords": "Job - Location",
+        "pack_code": "ur",
+        "position": 82,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "The first time each run you use hardware during a run, place 1 power counter on this resource.\n[click], remove this resource from the game: Shuffle up to X cards with [trash] abilities from your heap into your stack. X is double the number of hosted power counters.",
+        "title": "The Back",
+        "type_code": "resource",
+        "uniqueness": true
+    },
+    {
         "code": "26083",
         "cost": 2,
         "deck_limit": 3,
@@ -196,6 +266,24 @@
         "text": "Search your heap for up to 5 cards with different names. Shuffle those cards into your stack. Remove this card from the game instead of trashing it.",
         "title": "Harmony AR Therapy",
         "type_code": "event",
+        "uniqueness": false
+    },
+    {
+        "code": "26085",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 2,
+        "flavor": "\"I <strong>could</strong> let my code evolve something new, but sometimes I just want to remember yesterday's solution.\"\n-Lane",
+        "illustrator": "Elizaveta Sokolova",
+        "keywords": "Chip",
+        "pack_code": "ur",
+        "position": 85,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "If no installed programs have been trashed this turn, you must trash 1 installed program as an additional cost to use this hardware.\n[trash]: Install 1 program from your heap, paying 3[credit] less.",
+        "title": "Simulchip",
+        "type_code": "hardware",
         "uniqueness": false
     },
     {
@@ -251,6 +339,24 @@
         "text": "The first time each turn 1 or more cards are trashed from your grip or stack, you may add 1 of those cards to the bottom of your stack.\n<strong>Remove this hardware from the game:</strong> Add 1 card from your heap to the top of your stack.",
         "title": "Buffer Drive",
         "type_code": "hardware",
+        "uniqueness": true
+    },
+    {
+        "code": "26095",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "flavor": "Did I dream that dance through virtual space, or does that program now dream of flesh?",
+        "illustrator": "Krembler",
+        "keywords": "Virtual",
+        "pack_code": "ur",
+        "position": 95,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "The first time each turn you make a successful run, draw 1 card. If you have at least 2[link] or your identity is digital, also gain 1[credit].",
+        "title": "DreamNet",
+        "type_code": "resource",
         "uniqueness": true
     },
     {
@@ -415,6 +521,25 @@
         "trash_cost": 4,
         "type_code": "asset",
         "uniqueness": true
+    },
+    {
+        "code": "26108",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "jinteki",
+        "faction_cost": 1,
+        "flavor": "$BMI.001 > Out of Memory Error",
+        "illustrator": "Janet Bruesselbach",
+        "keywords": "Code Gate - Observer",
+        "pack_code": "ur",
+        "position": 108,
+        "quantity": 3,
+        "side_code": "corp",
+        "strength": 5,
+        "text": "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you reveal the grip using a subroutine on this ice, you may trash 1 revealed card of that type.\n[subroutine] Reveal the grip.\n[subroutine] Reveal the grip.",
+        "title": "Engram Flush",
+        "type_code": "ice",
+        "uniqueness": false
     },
     {
         "code": "26109",
