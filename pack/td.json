@@ -865,7 +865,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "text": "Colossus can be advanced and has +1 strength for each advancement token on it.\nIf Colossus has 3 or more advancement tokens on it, resolve the parenthetical text instead (otherwise, do not resolve it).\n[subroutine] Give the Runner 1 tag. (Give the Runner 2 tags.)\n[subroutine] Trash 1 program. (Trash 1 program and 1 resource.)",
+        "text": "You can advance this ice. It has +1 strength for each hosted advancement token.\n[subroutine] Give the Runner 1 tag. If there are 3 or more hosted advancement tokens, instead give the Runner 2 tags.\n[subroutine] Trash 1 installed program. If there are 3 or more hosted advancement tokens, instead trash 1 installed program and 1 installed resource.",
         "title": "Colossus",
         "type_code": "ice",
         "uniqueness": false
