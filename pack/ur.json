@@ -36,6 +36,24 @@
         "uniqueness": false
     },
     {
+        "code": "26068",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "anarch",
+        "faction_cost": 2,
+        "flavor": "A simple little box, brimming with temptation.",
+        "illustrator": "Elizaveta Sokolova",
+        "keywords": "Chip",
+        "pack_code": "ur",
+        "position": 68,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "Whenever you encounter a piece of ice, you may remove this hardware from the game. If you do, that ice gets -6 strength for the remainder of the run.",
+        "title": "Devil Charm",
+        "type_code": "hardware",
+        "uniqueness": true
+    },
+    {
         "code": "26070",
         "cost": 3,
         "deck_limit": 3,
@@ -287,6 +305,24 @@
         "title": "Harmony AR Therapy",
         "type_code": "event",
         "uniqueness": false
+    },
+    {
+        "code": "26084",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 3,
+        "flavor": "Objects are but modulations in a continuous cycle of energy-illusory and impermanent echoes of the Self.",
+        "illustrator": "Olie Boldador",
+        "keywords": "Console",
+        "pack_code": "ur",
+        "position": 84,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "+1[mu].\nThe first time each turn an event is trashed <em>(from any location)</em>, draw 1 card.\nLimit 1 <strong>console</strong> per player.",
+        "title": "Aniccam",
+        "type_code": "hardware",
+        "uniqueness": true
     },
     {
         "code": "26085",
@@ -780,6 +816,24 @@
         "text": "Limit 1 remote server.\nAs an additional cost to run HQ, the Runner must pay 1[credit].\n[click]: Flip this identity.\nFlip side:\nLimit 1 remote server.\nAs an additional cost to run a remote server, the runner must pay 6[credit].\nWhen the Runner makes a successful run on HQ, flip this identity.",
         "title": "Earth Station: SEA Headquarters",
         "type_code": "identity",
+        "uniqueness": false
+    },
+    {
+        "advancement_cost": 4,
+        "agenda_points": 2,
+        "code": "26121",
+        "deck_limit": 3,
+        "faction_code": "weyland-consortium",
+        "flavor": "Once you're on the Space Elevator Authority's blacklist, you aren't going anywhere.",
+        "illustrator": "Zoe Cohen",
+        "keywords": "Initiative",
+        "pack_code": "ur",
+        "position": 121,
+        "quantity": 3,
+        "side_code": "corp",
+        "text": "When you score this agenda, place 2 agenda counters on it.\nHosted agenda counter: This run cannot be declared successful. <em>(This effect does not cause the run to become unsuccessful.)</em> Use this ability only once per turn.",
+        "title": "Transport Monopoly",
+        "type_code": "agenda",
         "uniqueness": false
     },
     {
