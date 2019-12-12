@@ -48,7 +48,7 @@
         "position": 70,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+2[mu].\nThe first time each turn you spend credits from or install a <strong>companion</strong>, gain 1[credit].\nLimit 1 console per player.",
+        "text": "+2[mu]\nThe first time each turn you spend credits from or install a <strong>companion</strong>, gain 1[credit].\nLimit 1 <strong>console</strong> per player.",
         "title": "Keiko",
         "type_code": "hardware",
         "uniqueness": true
@@ -68,7 +68,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "2[credit]: Break any number of sentry subroutines.\n0[credit]: Break sentry subroutine. Use this ability only if you have 3 or more installed virtual resources.\n3[credit]: +3 strength.",
+        "text": "2[credit]: Break any number of <strong>sentry</strong> subroutines.\n0[credit]: Break <strong>sentry</strong> subroutine. Use this ability only if you have 3 or more installed <strong>virtual</strong> resources.\n3[credit]: +3 strength.",
         "title": "Odore",
         "type_code": "program",
         "uniqueness": false
@@ -86,7 +86,7 @@
         "position": 72,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nSpend hosted credits to play events.\nWhen your turn ends, if there are 3 or more hosted credits, you must trash this resource or 1 card from your grip at random.",
+        "text": "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nSpend hosted credits to play events.\nWhen your turn ends, if there are 3 or more hosted credits, you must trash 1 card from your grip at random or trash this resource.",
         "title": "Mystic Maemi",
         "type_code": "resource",
         "uniqueness": true
@@ -155,7 +155,7 @@
         "position": 76,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Use this hardware only by spending credits from stealth cards.\nWhenever you make a successful run on HQ, you may pay 1[credit] to access 1 additional card from HQ.\nWhenever you make a successful run on R&D, you may pay 2[credit] to access 1 additional card from R&D.",
+        "text": "Use this hardware only by spending credits from <strong>stealth</strong> cards.\nWhenever you make a successful run on HQ, you may pay 1[credit] to access 1 additional card from HQ.\nWhenever you make a successful run on R&D, you may pay 2[credit] to access 1 additional card from R&D.",
         "title": "Mu Safecracker",
         "type_code": "hardware",
         "uniqueness": true
@@ -210,7 +210,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "Whenever you encounter a sentry, you may pay 2[credit] to bypass it. Use this ability only once per turn and only by spending credits from stealth cards.\n1[credit]: Break up to 2 sentry subroutines.\n1[credit]: +2 strength. Use this ability only by spending a credit from a stealth card.",
+        "text": "Whenever you encounter a <strong>sentry</strong>, you may pay 2[credit] to bypass it. Use this ability only once per turn and only by spending credits from <strong>stealth</strong> cards.\n1[credit]: Break up to 2 <strong>sentry</strong> subroutines.\n1[credit]: +2 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
         "title": "Afterimage",
         "type_code": "program",
         "uniqueness": false
@@ -266,7 +266,7 @@
         "position": 82,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first time each run you use hardware during a run, place 1 power counter on this resource.\n[click], remove this resource from the game: Shuffle up to X cards with [trash] abilities from your heap into your stack. X is double the number of hosted power counters.",
+        "text": "The first time each turn you use hardware during a run, place 1 power counter on this resource.\n[click], <strong>remove this resource from the game:</strong> Shuffle up to X cards with [trash] abilities from your heap into your stack. X is double the number of hosted power counters.",
         "title": "The Back",
         "type_code": "resource",
         "uniqueness": true
@@ -321,7 +321,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "When you install this program, for the remainder of the turn it gains \"0[credit]: Break code gate subroutine.\"\n2[credit]: Break up to 2 code gate subroutines.\n1[credit]: +1 strength.",
+        "text": "When you install this program, for the remainder of the turn it gains \"0[credit]: Break <strong>code gate</strong> subroutine.\"\n2[credit]: Break up to 2 <strong>code gate</strong> subroutines.\n1[credit]: +1 strength.",
         "title": "Euler",
         "type_code": "program",
         "uniqueness": false
@@ -340,7 +340,7 @@
         "position": 88,
         "quantity": 3,
         "side_code": "runner",
-        "text": "1[recurring credit]\nSpend hosted credits to use hardware and programs.",
+        "text": "1[recurring-credit]\nSpend hosted credits to use hardware and programs.",
         "title": "Mantle",
         "type_code": "program",
         "uniqueness": false
@@ -360,7 +360,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "When you install this program, for the remainder of the turn it gains \"1[credit]: Break barrier subroutine.\"\n1[credit]: Break code gate subroutine.\n1[credit]: +3 strength. Use this ability only by spending a credit from a stealth card.",
+        "text": "When you install this program, for the remainder of the turn it gains \"1[credit]: Break <strong>barrier</strong> subroutine.\"\n1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +3 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
         "title": "Penrose",
         "type_code": "program",
         "uniqueness": false
@@ -389,7 +389,7 @@
         "deck_limit": 3,
         "faction_code": "neutral-runner",
         "faction_cost": 1,
-        "flavor": "\"Future me <strong>needs</strong> those 60 petabytes of cat vids.\"\n-Princess Space Kitten",
+        "flavor": "\"Future me <em>needs</em> those 60 petabytes of cat vids.\"\n-Princess Space Kitten",
         "illustrator": "Elizaveta Sokolova",
         "pack_code": "ur",
         "position": 93,
@@ -413,7 +413,7 @@
         "position": 95,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first time each turn you make a successful run, draw 1 card. If you have at least 2[link] or your identity is digital, also gain 1[credit].",
+        "text": "The first time each turn you make a successful run, draw 1 card. If you have at least 2[link] or your identity is <strong>digital</strong>, also gain 1[credit].",
         "title": "DreamNet",
         "type_code": "resource",
         "uniqueness": true
