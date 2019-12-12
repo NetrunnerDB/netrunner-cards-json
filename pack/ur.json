@@ -321,7 +321,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "When you install this program, for the remainder of the turn it gains \"0[credit]: Break code gate subroutine.\"\n2[credit]: Break up to 2 code gate subroutines.\n1[credit]: +1 strength.",
+        "text": "When you install this program, for the remainder of the turn it gains \"0[credit]: Break <strong>code gate</strong> subroutine.\"\n2[credit]: Break up to 2 <strong>code gate</strong> subroutines.\n1[credit]: +1 strength.",
         "title": "Euler",
         "type_code": "program",
         "uniqueness": false
@@ -340,7 +340,7 @@
         "position": 88,
         "quantity": 3,
         "side_code": "runner",
-        "text": "1[recurring credit]\nSpend hosted credits to use hardware and programs.",
+        "text": "1[recurring-credit]\nSpend hosted credits to use hardware and programs.",
         "title": "Mantle",
         "type_code": "program",
         "uniqueness": false
@@ -360,7 +360,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "text": "When you install this program, for the remainder of the turn it gains \"1[credit]: Break barrier subroutine.\"\n1[credit]: Break code gate subroutine.\n1[credit]: +3 strength. Use this ability only by spending a credit from a stealth card.",
+        "text": "When you install this program, for the remainder of the turn it gains \"1[credit]: Break <strong>barrier</strong> subroutine.\"\n1[credit]: Break <strong>code gate</strong> subroutine.\n1[credit]: +3 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
         "title": "Penrose",
         "type_code": "program",
         "uniqueness": false
@@ -413,7 +413,7 @@
         "position": 95,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first time each turn you make a successful run, draw 1 card. If you have at least 2[link] or your identity is digital, also gain 1[credit].",
+        "text": "The first time each turn you make a successful run, draw 1 card. If you have at least 2[link] or your identity is <strong>digital</strong>, also gain 1[credit].",
         "title": "DreamNet",
         "type_code": "resource",
         "uniqueness": true
