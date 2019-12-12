@@ -48,7 +48,7 @@
         "position": 70,
         "quantity": 3,
         "side_code": "runner",
-        "text": "+2[mu].\nThe first time each turn you spend credits from or install a <strong>companion</strong>, gain 1[credit].\nLimit 1 console per player.",
+        "text": "+2[mu]\nThe first time each turn you spend credits from or install a <strong>companion</strong>, gain 1[credit].\nLimit 1 <strong>console</strong> per player.",
         "title": "Keiko",
         "type_code": "hardware",
         "uniqueness": true
@@ -68,7 +68,7 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "text": "2[credit]: Break any number of sentry subroutines.\n0[credit]: Break sentry subroutine. Use this ability only if you have 3 or more installed virtual resources.\n3[credit]: +3 strength.",
+        "text": "2[credit]: Break any number of <strong>sentry</strong> subroutines.\n0[credit]: Break <strong>sentry</strong> subroutine. Use this ability only if you have 3 or more installed <strong>virtual</strong> resources.\n3[credit]: +3 strength.",
         "title": "Odore",
         "type_code": "program",
         "uniqueness": false
@@ -86,7 +86,7 @@
         "position": 72,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nSpend hosted credits to play events.\nWhen your turn ends, if there are 3 or more hosted credits, you must trash this resource or 1 card from your grip at random.",
+        "text": "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nSpend hosted credits to play events.\nWhen your turn ends, if there are 3 or more hosted credits, you must trash 1 card from your grip at random or trash this resource.",
         "title": "Mystic Maemi",
         "type_code": "resource",
         "uniqueness": true
@@ -155,7 +155,7 @@
         "position": 76,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Use this hardware only by spending credits from stealth cards.\nWhenever you make a successful run on HQ, you may pay 1[credit] to access 1 additional card from HQ.\nWhenever you make a successful run on R&D, you may pay 2[credit] to access 1 additional card from R&D.",
+        "text": "Use this hardware only by spending credits from <strong>stealth</strong> cards.\nWhenever you make a successful run on HQ, you may pay 1[credit] to access 1 additional card from HQ.\nWhenever you make a successful run on R&D, you may pay 2[credit] to access 1 additional card from R&D.",
         "title": "Mu Safecracker",
         "type_code": "hardware",
         "uniqueness": true
