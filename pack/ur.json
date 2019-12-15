@@ -343,6 +343,24 @@
         "uniqueness": false
     },
     {
+        "code": "26086",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 4,
+        "illustrator": "Krembler/Zoe Cohen",
+        "keywords": "Virus",
+        "memory_cost": 1,
+        "pack_code": "ur",
+        "position": 86,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "When you install this program, place 2 virus counters on it.\nWhenever you make a successful run on a central server, you may remove 1 hosted virus counter to swap a piece of ice protecting that server with another installed piece of ice. Use this ability only once per turn.",
+        "title": "Cordyceps",
+        "type_code": "program",
+        "uniqueness": false
+    },
+    {
         "code": "26087",
         "cost": 2,
         "deck_limit": 3,
@@ -402,6 +420,24 @@
         "uniqueness": false
     },
     {
+        "code": "26090",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 3,
+        "flavor": "Consider this: the most notorious tool in cyberterrorism is one that, in isolation, does <em>nothing.</em>",
+        "illustrator": "Chiara Biancheri",
+        "memory_cost": 2,
+        "pack_code": "ur",
+        "position": 90,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "2[credit], [trash]: Search your stack for a program. Install it.",
+        "title": "Self-modifying Code",
+        "type_code": "program",
+        "uniqueness": false
+    },
+    {
         "code": "26091",
         "cost": 2,
         "deck_limit": 3,
@@ -416,6 +452,24 @@
         "side_code": "runner",
         "text": "+1[link]\nWhenever you install a non-<strong>AI</strong> <strong>icebreaker</strong>, that <strong>icebreaker</strong> has +2 strength until the end of the turn.",
         "title": "Cybertrooper Talut",
+        "type_code": "resource",
+        "uniqueness": true
+    },
+    {
+        "code": "26092",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "shaper",
+        "faction_cost": 4,
+        "flavor": "<champion>Designed by 2018 Eternal Champion Oguz Han Asnaz</champion>",
+        "illustrator": "Matt Zellinger",
+        "keywords": "Location - Seedy",
+        "pack_code": "ur",
+        "position": 92,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "[click]: Host 1 program or piece of hardware from your grip on this resource.\n1[credit]: Install 1 hosted card. The first card you install this way during each of your turns costs 1[credit] less to install for each unique <em>(♦)</em> <strong>connection</strong> you have installed.",
+        "title": "Paule's Café",
         "type_code": "resource",
         "uniqueness": true
     },
@@ -435,6 +489,23 @@
         "title": "Buffer Drive",
         "type_code": "hardware",
         "uniqueness": true
+    },
+    {
+        "code": "26094",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "neutral-runner",
+        "faction_cost": 0,
+        "flavor": "To strike another blow to the corporatocracy tomorrow night, don't forget to like and subscribe!",
+        "illustrator": "Olie Boldador",
+        "pack_code": "ur",
+        "position": 94,
+        "quantity": 3,
+        "side_code": "runner",
+        "text": "Place 8[credit] from the bank on Daily Casts when it is installed. When there are no credits left on Daily Casts, trash it.\nTake 2[credit] from Daily Casts when your turn begins.",
+        "title": "Daily Casts",
+        "type_code": "resource",
+        "uniqueness": false
     },
     {
         "code": "26095",
