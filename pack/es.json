@@ -49,7 +49,7 @@
         "position": 43,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[click]: Make a run on Archives. If successful, instead treat it as a successful run on another central server. Use this ability only once per turn.",
+        "text": "[click]: Run Archives. If that run would be declared successful, instead change the attacked server to R&D or HQ. Then, the run is declared successful. Use this ability only once per turn.\n<errata>Errata from CR 1.4</errata>",
         "title": "Omar Keung: Conspiracy Theorist",
         "type_code": "identity",
         "uniqueness": false
@@ -125,7 +125,7 @@
         "position": 47,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you draw a card, reveal that card.\nThe first time you make a successful run each turn, you may look at the top card of R&D.",
+        "text": "[interrupt] - Whenever you would draw a card, reveal that card.\nThe first time you make a successful run each turn, you may look at the top card of R&D.\n<errata>Errata from CR 1.4</errata>",
         "title": "Find the Truth",
         "type_code": "resource",
         "uniqueness": true

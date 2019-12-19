@@ -773,7 +773,7 @@
         "position": 43,
         "quantity": 3,
         "side_code": "runner",
-        "text": "You may host a single <strong>virus</strong> program on Progenitor.\nThe memory cost of the hosted program does not count against your memory limit.\nWhenever virus counters are purged, instead of removing all virus counters from the hosted card, remove all but 1 virus counter from the hosted card.\n<errata>Errata from FAQ 4.0</errata>",
+        "text": "You may host a single <strong>virus</strong> program on Progenitor.\nThe memory cost of the hosted program does not count against your memory limit.\n[interrupt] - Whenever virus counters would be purged, prevent 1 virus counter on host program from being removed.\n<errata>Errata from CR 1.4</errata>",
         "title": "Progenitor",
         "type_code": "program",
         "uniqueness": false
@@ -965,7 +965,7 @@
         "position": 54,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When your turn begins, you may lose [click]. If you do, avoid the first tag you take until the beginning of your next turn.",
+        "text": "When your turn begins, you may lose [click]. If you do, avoid the first tag you would take until the beginning of your next turn.\n<errata>Errata from CR 1.4</errata>",
         "title": "Qianju PT",
         "type_code": "hardware",
         "uniqueness": false
