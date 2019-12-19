@@ -67,7 +67,7 @@
         "position": 84,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Make a run on HQ. If successful, when you would access any number of cards from HQ, you may instead add that many cards from your heap to your grip. Remove Rip Deal from the game instead of trashing it.",
+        "text": "Run HQ. If successful, each time you would access a card from HQ this run, add a card from your heap to your grip instead of accessing that card. You cannot access cards in the root of HQ this run. Remove this event from the game instead of trashing it.\n<errata>Errata from CR 1.4</errata>",
         "title": "Rip Deal",
         "type_code": "event",
         "uniqueness": false

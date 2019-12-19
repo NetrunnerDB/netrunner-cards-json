@@ -389,7 +389,7 @@
         "position": 22,
         "quantity": 3,
         "side_code": "corp",
-        "text": "If the Runner is about to break a subroutine on a piece of <strong>bioroid</strong> ice protecting this server, you may rez Tyr's Hand.\n[trash]: Prevent a subroutine from being broken on a piece of <strong>bioroid</strong> ice protecting this server.",
+        "text": "[interrupt] - When a subroutine would be broken on bioroid ice protecting this server, you may rez this upgrade.\n[trash]: Prevent a subroutine from being broken on a piece of <strong>bioroid</strong> ice protecting this server.\n<errata>Errata from CR 1.4</errata>",
         "title": "Tyr's Hand",
         "trash_cost": 1,
         "type_code": "upgrade",
@@ -503,7 +503,7 @@
         "position": 28,
         "quantity": 3,
         "side_code": "runner",
-        "text": "The first piece of ice you encounter each turn gains <strong>code gate</strong> until the end of the run.",
+        "text": "The first time each turn you encounter a piece of ice, it gains <strong>code gate</strong> for the remainder of the run.\n<errata>Errata from CR 1.4</errata>",
         "title": "Rielle \"Kit\" Peddler: Transhuman",
         "type_code": "identity",
         "uniqueness": false

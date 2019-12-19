@@ -227,7 +227,7 @@
         "position": 13,
         "quantity": 3,
         "side_code": "runner",
-        "text": "You cannot use this hardware during the Corp's turn.\n[trash]: Jack out.\n[trash]: Remove 1 tag.\nWhenever a trace initiates during your turn, you may [trash] to reduce the base trace strength to 0.",
+        "text": "You cannot use this hardware during the Corp's turn.\n[trash]: Jack out.\n[trash]: Remove 1 tag.\n[interrupt] - [trash]: Reduce the base trace strength of a trace to 0.\n<errata>Errata from CR 1.4</errata>",
         "title": "Flip Switch",
         "type_code": "hardware",
         "uniqueness": false
@@ -318,7 +318,7 @@
         "position": 18,
         "quantity": 3,
         "side_code": "runner",
-        "text": "When the turn during which you installed this resource ends, draw 4 cards.\nImmediately before you draw for the first time each turn, look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack. X is equal to the number of cards you will draw plus 1.",
+        "text": "When the turn during which you installed this resource ends, draw 4 cards.\n[interrupt] - The first time each turn you would draw any number of cards, look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack. X is equal to the number of cards you will draw plus 1.\n<errata>Errata from CR 1.4</errata>",
         "title": "The Class Act",
         "type_code": "resource",
         "uniqueness": true
