@@ -12,7 +12,7 @@
         "position": 21,
         "quantity": 3,
         "side_code": "runner",
-        "text": "[click]: Make a run on R&D or HQ and trash 2 or more cards from your grip. Whenever you access cards from that server during this run, access 1 additional card for every 2 cards trashed.\n<errata>Errata from FAQ 4.0</errata>",
+        "text": "[click]: Trash 2 or more cards from your grip. Run R&D or HQ. Whenever you access cards from that server during this run, access 1 additional card for every 2 cards trashed.\n<errata>Errata from CR 1.4</errata>",
         "title": "Severnius Stim Implant",
         "type_code": "hardware",
         "uniqueness": false
@@ -101,7 +101,7 @@
         "position": 26,
         "quantity": 3,
         "side_code": "runner",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe first <strong>icebreaker</strong> whose strength you increase each turn does not return to its base strength until the end of the run.",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\n[interrupt] - The first time each turn you would increase the strength of an <strong>icebreaker</strong>, for the remainder of the run that <strong>icebreaker</strong> gains \"Abilities that increase this program's strength last for the remainder of the run instead of any other duration.\"\n<errata>Errata from CR 1.4</errata>",
         "title": "System Seizure",
         "type_code": "event",
         "uniqueness": false

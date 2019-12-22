@@ -399,7 +399,7 @@
         "position": 22,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Whenever you spend [click] to draw 1 card (not through a card ability), draw 1 additional card.",
+        "text": "[interrupt] - Whenever you would draw cards with a basic action, increase the number of cards you will draw by 1.\n<errata>Errata from CR 1.4</errata>",
         "title": "Laguna Velasco District",
         "type_code": "resource",
         "uniqueness": true
@@ -591,7 +591,7 @@
         "position": 33,
         "quantity": 3,
         "side_code": "corp",
-        "text": "Place 8[credit] on Marilyn Campaign when it is rezzed. When there are no credits left on Marilyn Campaign, trash it.\nTake 2[credit] from Marilyn Campaign when your turn begins.\nIf Marilyn Campaign is trashed while installed, you may shuffle it into R&D instead of adding it to Archives.",
+        "text": "Place 8[credit] on Marilyn Campaign when it is rezzed. When there are no credits left on Marilyn Campaign, trash it.\nTake 2[credit] from Marilyn Campaign when your turn begins.\n[interrupt] - When this asset would be trashed, you may shuffle it into R&D instead of adding it to Archives. <em>(It is still considered trashed.)</em>\n<errata>Errata from CR 1.4</errata>",
         "title": "Marilyn Campaign",
         "trash_cost": 3,
         "type_code": "asset",
@@ -741,7 +741,7 @@
         "position": 41,
         "quantity": 1,
         "side_code": "corp",
-        "text": "Whenever a Runner card is trashed (from any location), you may force the Runner to remove it from the game instead of adding it to the heap. Use this ability only once per turn.",
+        "text": "[interrupt] - Whenever 1 or more Runner cards would be trashed <em>(from any location)</em>, set those cards aside instead of adding them to the heap. You can look at those cards. You may remove 1 of them from the game. Then, add all of those cards that are still set aside to the heap. Ignore this ability if you have already removed a card from the game with it this turn.\n<errata>Errata from CR 1.4</errata>",
         "title": "Skorpios Defense Systems: Persuasive Power",
         "type_code": "identity",
         "uniqueness": false
