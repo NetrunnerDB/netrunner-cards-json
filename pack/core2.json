@@ -82,7 +82,7 @@
         "position": 5,
         "quantity": 1,
         "side_code": "runner",
-        "text": "Make a run, and gain 9[credit], which you may use only during this run. After the run is completed, suffer 1 brain damage (cannot be prevented) and return to the bank any of the 9[credit] not spent.",
+        "text": "Place 9[credit] on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When the run ends, suffer 1 brain damage, which cannot be prevented.\n<errata>Errata from CR 1.4</errata>",
         "title": "Stimhack",
         "type_code": "event",
         "uniqueness": false
@@ -193,7 +193,7 @@
         "position": 11,
         "quantity": 1,
         "side_code": "runner",
-        "text": "Place 2 virus counters on Imp when it is installed.\nOnce per turn, you may remove 1 hosted virus counter to trash a card you are accessing <i>(even if it has no trash cost)</i>.\n<errata>Errata from CR 1.2</errata>",
+        "text": "Place 2 virus counters on Imp when it is installed.\nOnce per turn, you may remove 1 hosted virus counter to trash a card you are accessing <em>(even if it has no trash cost)</em>.\n<errata>Errata from CR 1.2</errata>",
         "title": "Imp",
         "type_code": "program",
         "uniqueness": false
@@ -580,7 +580,7 @@
         "position": 32,
         "quantity": 1,
         "side_code": "runner",
-        "text": "[click]: Make a run on Archives. If successful, instead treat it as a successful run on HQ.",
+        "text": "[click]: Run Archives. If that run would be declared successful, instead change the attacked server to HQ. Then, the run is declared successful.\n<errata>Errata from CR 1.4</errata>",
         "title": "Sneakdoor Beta",
         "type_code": "program",
         "uniqueness": false
@@ -651,7 +651,7 @@
         "position": 36,
         "quantity": 1,
         "side_code": "runner",
-        "text": "[click]: Draw 2 cards. Add 1 of these cards to the bottom of your stack.",
+        "text": "[click]: Look at the top 2 cards of your stack. Add 1 of those cards to the bottom of your stack. Draw 1 card.\n<errata>Errata from CR 1.4</errata>",
         "title": "Mr. Li",
         "type_code": "resource",
         "uniqueness": true
@@ -2000,7 +2000,7 @@
         "position": 111,
         "quantity": 1,
         "side_code": "corp",
-        "text": "Whenever you do meat damage, do 1 additional meat damage.",
+        "text": "[interrupt] - Whenever you would do meat damage, increase that damage by 1.\n<errata>Errata from CR 1.4</errata>",
         "title": "The Cleaners",
         "type_code": "agenda",
         "uniqueness": false

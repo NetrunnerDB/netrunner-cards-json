@@ -13,7 +13,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "text": "Architect cannot be trashed while installed.\n[subroutine] The Corp looks at the top 5 cards of R&D and may install 1 of those cards, ignoring all install costs.\n[subroutine] The Corp may install a card from Archives or HQ (paying all costs).",
+        "text": "Players cannot trash this ice.\n[subroutine] The Corp looks at the top 5 cards of R&D and may install 1 of those cards, ignoring all install costs.\n[subroutine] The Corp may install a card from Archives or HQ (paying all costs).\n<errata>Errata from CR 1.4</errata>",
         "title": "Architect",
         "type_code": "ice",
         "uniqueness": false
@@ -122,7 +122,7 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 2,
-        "text": "[subroutine] If the Runner is not tagged, they lose 1[credit]. If the Runner is tagged, they lose all credits in his or her credit pool and the Corp trashes Universal Connectivity Fee.\n<errata>Errata from CR 1.2</errata>",
+        "text": "[subroutine] If the Runner is not tagged, they lose 1[credit]. If the Runner is tagged, they lose all credits in their credit pool and you trash this ice.\n<errata>Errata from CR 1.4</errata>",
         "title": "Universal Connectivity Fee",
         "type_code": "ice",
         "uniqueness": false
