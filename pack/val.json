@@ -201,6 +201,32 @@
         "code": "08012",
         "deck_limit": 1,
         "faction_code": "jinteki",
+        "flip_sides": [
+            {
+                "flavor": "The vats in Building C can create—and destroy—life itself.",
+                "flip_side_id": 1,
+                "illustrator": "Emilio Rodriguez",
+                "keywords": "Department",
+                "text": "When you flip this identity, do 2 net damage.",
+                "title": "The Brewery: Jinteki Biotech"
+            },
+            {
+                "flavor": "The Greenhouse was built to enhance natural beauty.",
+                "flip_side_id": 2,
+                "illustrator": "Emilio Rodriguez",
+                "keywords": "Department",
+                "text": "When you flip this identity, place 4 advancement tokens on a card that can be advanced.\n<errata>Errata from CR 1.4</errata>",
+                "title": "The Greenhouse: Jinteki Biotech"
+            },
+            {
+                "flavor": "The best and the brightest genegineers spend their days in the Tank dreaming up a better world.",
+                "flip_side_id": 3,
+                "illustrator": "Emilio Rodriguez",
+                "keywords": "Department",
+                "text": "When you flip this identity, shuffle Archives into R&D.",
+                "title": "The Tank: Jinteki Biotech"
+            }
+        ],
         "illustrator": "Emilio Rodriguez",
         "influence_limit": 15,
         "keywords": "Division",

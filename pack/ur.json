@@ -5,6 +5,17 @@
         "deck_limit": 1,
         "faction_code": "anarch",
         "flavor": "Please, let me have this dream.\nFlip side:\nI'm going to be my own kind of hero.",
+        "flip_sides": [
+            {
+                "base_link": 1,
+                "flavor": "I'm going to be my own kind of hero.",
+                "flip_side_id": 1,
+                "illustrator": "Luminita Pham",
+                "keywords": "Digital",
+                "text": "When your turn begins, draw 1 card and lose 1[credit].\nWhen your turn ends, if you did not access at least 1 card this turn, flip this identity.",
+                "title": "Hoshiko Shiro: Mahou Shoujo"
+            }
+        ],
         "illustrator": "Luminita Pham",
         "influence_limit": 15,
         "keywords": "Natural",
@@ -987,6 +998,16 @@
         "deck_limit": 1,
         "faction_code": "weyland-consortium",
         "flavor": "The First Step...\nFlip side:\n...Further Beyond",
+        "flip_sides": [
+            {
+                "flavor": "Further Beyond",
+                "flip_side_id": 1,
+                "illustrator": "Kira L. Nguyen",
+                "keywords": "Division",
+                "text": "Limit 1 remote server.\nAs an additional cost to run a remote server, the Runner must pay 6[credit].\nWhen the Runner makes a successful run on HQ, flip this identity.",
+                "title": "Earth Station: Ascending To Orbit"
+            }
+        ],
         "illustrator": "Kira L. Nguyen",
         "influence_limit": 15,
         "minimum_deck_size": 45,

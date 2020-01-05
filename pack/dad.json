@@ -3,6 +3,15 @@
         "code": "09001",
         "deck_limit": 1,
         "faction_code": "nbn",
+        "flip_sides": [
+            {
+                "flip_side_id": 1,
+                "illustrator": "Maciej Rebis",
+                "keywords": "Division",
+                "text": "[click]: Flip this identity.\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability).",
+                "title": "SYNC: Everything, Everywhere"
+            }
+        ],
         "illustrator": "Maciej Rebisz",
         "influence_limit": 15,
         "keywords": "Division",
