@@ -957,7 +957,7 @@
         "position": 53,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Place 8[credit] from the bank on Daily Casts when it is installed. When there are no credits left on Daily Casts, trash it.\nTake 2[credit] from Daily Casts when your turn begins.",
+        "text": "When you install this resource, load 8[credit] onto it. When it is empty, trash it.\nWhen your turn begins, take 2[credit] from this resource.",
         "title": "Daily Casts",
         "type_code": "resource",
         "uniqueness": false
