@@ -119,5 +119,5 @@ The `text` and `flavor` properties of a card may use custom tags. These are:
 * Cards designed by World Champions use the `<champion>` tag (usually as the `flavor`), e.g. `<champion>Designed by 2012 World Champion Jeremy Zwirn</champion>` for Architect.
 * Traces use the `<trace>` tag. For example, `<trace>Trace 2</trace> Do 1 net damage.` results in the following:
  
-  > **Trace<sup>2</sup>**– Do 1 net damage. 
+  > **Trace \[2\]**– Do 1 net damage. 
 
