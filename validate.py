@@ -57,7 +57,6 @@ def custom_pack_check(args, pack, cycles_data):
 def format_json(json_data):
     formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
     formatted_data = formatted_data.replace(u"\u2018", "'").replace(u"\u2019", "'")
-    formatted_data = formatted_data.replace(u"\u2212", "-").replace(u"\u2013", "-")
     formatted_data = formatted_data.replace("\\r\\n", "\\n").replace(" \\n", "\\n")
     formatted_data += "\n"
     return formatted_data
