@@ -95,7 +95,7 @@
         "name": "Terminal Directive",
         "position": 13,
         "rotated": true,
-        "size": 1
+        "size": 2
     },
     {
         "code": "core2",
@@ -157,6 +157,20 @@
         "code": "salvaged-memories",
         "name": "Salvaged Memories",
         "position": 29,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "system-gateway",
+        "name": "System Gateway",
+        "position": 30,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "system-update-2021",
+        "name": "System Update 2021",
+        "position": 31,
         "rotated": false,
         "size": 1
     }
