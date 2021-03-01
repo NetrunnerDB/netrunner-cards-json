@@ -31,7 +31,7 @@
         "position": 2,
         "quantity": 3,
         "side_code": "runner",
-        "text": "Make a run on Archives. If successful, after accessing Archives, access 1 card from HQ, then access the top card from R&D.",
+        "text": "Make a run on Archives. If successful, after accessing Archives, access 1 card from HQ, then access the top card of R&D.",
         "title": "Divide and Conquer",
         "type_code": "event",
         "uniqueness": false
@@ -418,7 +418,7 @@
         "deck_limit": 3,
         "faction_code": "sunny-lebeau",
         "faction_cost": 3,
-        "flavor": "\"So, Miriam, head anything good lately?\"",
+        "flavor": "\"So, Miriam, hear anything good lately?\"",
         "illustrator": "James Cory Webster",
         "pack_code": "rar",
         "position": 24,
@@ -441,7 +441,7 @@
         "position": 25,
         "quantity": 1,
         "side_code": "runner",
-        "text": "Host a <strong>g-mod</strong> identity that does not match the faction of your identity on DJ Fenris when he is installed. Remove hosted identity from the game if DJ Fenris is uninstalled.\nDJ Fenris gains the text of the hosted identity.\nLimit 1 per deck.",
+        "text": "Host a <strong>g-mod</strong> identity that does not match the faction of your identity on DJ Fenris when he is installed. Remove hosted identity from the game if DJ Fenris is uninstalled.\nDJ Fenris gains the text of hosted identity.\nLimit 1 per deck.",
         "title": "DJ Fenris",
         "type_code": "resource",
         "uniqueness": true
