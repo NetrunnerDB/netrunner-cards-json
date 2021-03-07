@@ -71,10 +71,18 @@
     {
         "code": "30035",
         "deck_limit": 1,
+        "faction_code": "haas-bioroid",
         "flavor": "Not an Atom Misplaced.",
+        "influence_limit": 15,
+        "minimum_deck_size": 40,
         "pack_code": "sg",
         "position": 35,
-        "quantity": 1
+        "quantity": 1,
+        "side_code": "corp",
+        "text": "You get +1 maximum hand size.\nWhenever you score an agenda, you may add 1 card from Archives to HQ.",
+        "title": "Haas-Bioroid: Precision Design",
+        "type_code": "identity",
+        "uniqueness": false
     },
     {
         "code": "30043",
