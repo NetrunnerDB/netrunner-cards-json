@@ -6,7 +6,7 @@ function makeReader(filename: string) {
 
 	return function(): Record<string, any>[] {
 		if (json.length === 0) {
-			json = JSON.parse(fs.readFileSync(resolve('.', filename + '.json')).toString());
+			json = JSON.parse(fs.readFileSync(resolve('.', filename + '.json'), 'utf-8'));
 		}
 		return json;
 	}
@@ -27,7 +27,7 @@ export function getCardsJson(): Record<string, any>[] {
 		fs.readdirSync(directory).forEach(file => {
 			if (file.endsWith('.json')) {
 				const path = resolve(directory, file);
-				const json = JSON.parse(fs.readFileSync(path).toString());
+				const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
 				json.forEach((c: Record<string, any>) => CARDS_JSON.push(c));
 			}
 		});
