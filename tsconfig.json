@@ -1,0 +1,17 @@
+{
+	"extends": "@tsconfig/recommended/tsconfig.json",
+	"compilerOptions": {
+		"module": "commonjs",
+		"outDir": "dist",
+		"target": "es2017",
+		"noImplicitAny": false,
+		"strictNullChecks": true,
+		"sourceMap": true,
+		"removeComments": true,
+		"esModuleInterop": true,
+		"incremental": true
+	},
+	"include": [
+		"src/**/*"
+	]
+}

@@ -1,14 +1,29 @@
 {
-  "name": "json-data",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.13.1"
-  }
+	"name": "@project-nisei/netrunner-cards-json",
+	"version": "1.0.2",
+	"description": "Card data for the Android: Netrunner card game.",
+	"repository": "https://github.com/NetrunnerDB/netrunner-cards-json",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc",
+		"test": "mocha -r ts-node/register test/**/*.ts",
+		"watch": "mocha -r ts-node/register --extensions ts --watch --watch-files src,test test/**/*.ts"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"lodash": "^4.13.1"
+	},
+	"devDependencies": {
+		"@tsconfig/recommended": "^1.0.1",
+		"@types/chai": "^4.2.15",
+		"@types/mocha": "^8.2.1",
+		"@types/node": "^14.14.33",
+		"@typescript-eslint/eslint-plugin": "^4.17.0",
+		"@typescript-eslint/parser": "^4.17.0",
+		"chai": "^4.3.3",
+		"mocha": "^8.3.1",
+		"ts-node": "^9.1.1",
+		"typescript": "^4.2.3"
+	}
 }
