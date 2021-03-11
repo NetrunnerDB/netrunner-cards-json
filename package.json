@@ -1,7 +1,8 @@
 {
-  "name": "json-data",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@project-nisei/netrunner-cards-json",
+  "version": "1.0.2",
+  "description": "Card data for the Android: Netrunner card game.",
+  "repository": "https://github.com/alsciende/netrunner-cards-json",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
