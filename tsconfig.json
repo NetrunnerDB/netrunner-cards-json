@@ -5,11 +5,15 @@
 		"outDir": "dist",
 		"target": "es2017",
 		"noImplicitAny": false,
+		"moduleResolution": "node",
 		"strictNullChecks": true,
 		"sourceMap": true,
 		"removeComments": true,
 		"esModuleInterop": true,
-		"incremental": true
+		"incremental": true,
+		"declaration": true,
+		"types": ["node"],
+		"typeRoots": ["node_modules/@types", "src/types"]
 	},
 	"include": [
 		"src/**/*"

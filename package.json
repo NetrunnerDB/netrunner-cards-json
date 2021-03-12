@@ -3,7 +3,7 @@
 	"version": "1.0.2",
 	"description": "Card data for the Android: Netrunner card game.",
 	"repository": "https://github.com/NetrunnerDB/netrunner-cards-json",
-	"main": "index.js",
+	"main": "dist/index.js",
 	"scripts": {
 		"build": "tsc",
 		"test": "mocha -r ts-node/register test/**/*.ts",
