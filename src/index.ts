@@ -7,7 +7,6 @@ function makeReader(filename: string) {
 	return function(): Record<string, any>[] {
 		if (json.length === 0) {
 			let path = resolve(__dirname, '..', filename + '.json');
-			console.log('path is ' + path);
 			json = JSON.parse(fs.readFileSync(path, 'utf-8'));
 		}
 		return json;
@@ -20,10 +19,6 @@ export const getFactionsJson = makeReader('factions');
 export const getMwlJson = makeReader('mwl');
 export const getRotationsJson = makeReader('rotations');
 export const getSidesJson = makeReader('sides');
-
-export function getDirName(): string {
-		return resolve(__dirname, '..', 'pack');
-}
 
 export function getCardsJson(): Record<string, any>[] {
 	const CARDS_JSON: Record<string, any>[] = [];
