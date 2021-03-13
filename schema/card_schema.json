@@ -167,6 +167,14 @@
                 }
             ]
         },
+        "stripped_text": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "stripped_title": {
+            "minLength": 1,
+            "type": "string"
+        },
         "text": {
             "minLength": 1,
             "type": "string"
