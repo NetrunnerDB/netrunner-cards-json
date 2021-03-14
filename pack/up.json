@@ -52,9 +52,9 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 4,
-        "stripped_text": "The strength of Lotus Field cannot be lowered. Subroutine End the run.",
+        "stripped_text": "The strength of this ice cannot be lowered. Subroutine End the run.",
         "stripped_title": "Lotus Field",
-        "text": "The strength of Lotus Field cannot be lowered.\n[subroutine] End the run.",
+        "text": "The strength of this ice cannot be lowered.\n[subroutine] End the run.",
         "title": "Lotus Field",
         "type_code": "ice",
         "uniqueness": false
@@ -90,9 +90,9 @@
         "position": 5,
         "quantity": 3,
         "side_code": "corp",
-        "stripped_text": "The first time you create a server each turn, draw 1 card.",
+        "stripped_text": "The first time each turn you create a remote server, draw 1 card.",
         "stripped_title": "Near-Earth Hub: Broadcast Center",
-        "text": "The first time you create a server each turn, draw 1 card.",
+        "text": "The first time each turn you create a remote server, draw 1 card.",
         "title": "Near-Earth Hub: Broadcast Center",
         "type_code": "identity",
         "uniqueness": false

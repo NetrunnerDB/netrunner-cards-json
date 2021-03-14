@@ -12,9 +12,9 @@
         "position": 61,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "Play only if you made a successful run this turn. Trash an unrezzed piece of ice you passed during the last run you made this turn.",
+        "stripped_text": "Play only if you made a successful run this turn. Trash 1 unrezzed piece of ice you passed during your last run.",
         "stripped_title": "En Passant",
-        "text": "Play only if you made a successful run this turn.\nTrash an unrezzed piece of ice you passed during the last run you made this turn.",
+        "text": "Play only if you made a successful run this turn.\nTrash 1 unrezzed piece of ice you passed during your last run.",
         "title": "En Passant",
         "type_code": "event",
         "uniqueness": false
@@ -232,9 +232,9 @@
         "position": 72,
         "quantity": 3,
         "side_code": "corp",
-        "stripped_text": "The first time the Runner passes a rezzed piece of bioroid ice each turn, you may rez a bioroid, lowering its rez cost by 4.",
+        "stripped_text": "The first time each turn the Runner passes a rezzed piece of bioroid ice, you may rez 1 bioroid card, paying 4 credits less.",
         "stripped_title": "Haas-Bioroid: Architects of Tomorrow",
-        "text": "The first time the Runner passes a rezzed piece of <strong>bioroid</strong> ice each turn, you may rez a <strong>bioroid</strong>, lowering its rez cost by 4.",
+        "text": "The first time each turn the Runner passes a rezzed piece of <strong>bioroid</strong> ice, you may rez 1 <strong>bioroid</strong> card, paying 4[credit] less.",
         "title": "Haas-Bioroid: Architects of Tomorrow",
         "type_code": "identity",
         "uniqueness": false

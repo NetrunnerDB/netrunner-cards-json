@@ -314,9 +314,9 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 0,
-        "stripped_text": "If there is no installed fracter, Wraparound has +7 strength. Subroutine End the run.",
+        "stripped_text": "While there are no installed fracter programs, this ice gets +7 strength. Subroutine End the run.",
         "stripped_title": "Wraparound",
-        "text": "If there is no installed <strong>fracter</strong>, Wraparound has +7 strength.\n[subroutine] End the run.",
+        "text": "While there are no installed <strong>fracter</strong> programs, this ice gets +7 strength.\n[subroutine] End the run.",
         "title": "Wraparound",
         "type_code": "ice",
         "uniqueness": false
@@ -394,9 +394,9 @@
         "position": 100,
         "quantity": 3,
         "side_code": "corp",
-        "stripped_text": "Gain 1 credit. Gain click if you have not played another Subliminal Messaging this turn. If the Runner did not make a run during his or her last turn, you may add Subliminal Messaging to HQ from Archives when your turn begins.",
+        "stripped_text": "Gain 1 credit. The first time each turn you play a copy of Subliminal Messaging, gain click. When your turn begins, if this card is in Archives and the Runner did not initiate any runs during their last turn, you may reveal this card and add it to HQ.",
         "stripped_title": "Subliminal Messaging",
-        "text": "Gain 1[credit]. Gain [click] if you have not played another Subliminal Messaging this turn.\nIf the Runner did not make a run during his or her last turn, you may add Subliminal Messaging to HQ from Archives when your turn begins.",
+        "text": "Gain 1[credit].\nThe first time each turn you play a copy of Subliminal Messaging, gain [click].\nWhen your turn begins, if this card is in Archives and the Runner did not initiate any runs during their last turn, you may reveal this card and add it to HQ.",
         "title": "Subliminal Messaging",
         "type_code": "operation",
         "uniqueness": false
