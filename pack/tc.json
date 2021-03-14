@@ -375,9 +375,9 @@
         "position": 79,
         "quantity": 3,
         "side_code": "corp",
-        "stripped_text": "Trace 5 If successful, do meat damage to the Runner equal to the number of printed agenda points on agendas he or she stole during his or her last turn.",
+        "stripped_text": "Trace 5. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn.",
         "stripped_title": "Punitive Counterstrike",
-        "text": "<trace>Trace 5</trace> If successful, do meat damage to the Runner equal to the number of printed agenda points on agendas he or she stole during his or her last turn.",
+        "text": "<trace>Trace 5</trace>. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn.",
         "title": "Punitive Counterstrike",
         "type_code": "operation",
         "uniqueness": false

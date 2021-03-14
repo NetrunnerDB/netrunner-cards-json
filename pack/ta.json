@@ -31,9 +31,9 @@
         "position": 22,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "Place 16 credits from the bank on Liberated Account when it is installed. When there are no credits left on Liberated Account, trash it. click: Take 4 credits from Liberated Account.",
+        "stripped_text": "When you install this resource, load 16 credits onto it. When it is empty, trash it. click: Take 4 credits from this resource.",
         "stripped_title": "Liberated Account",
-        "text": "Place 16[credit] from the bank on Liberated Account when it is installed. When there are no credits left on Liberated Account, trash it.\n[click]: Take 4[credit] from Liberated Account.",
+        "text": "When you install this resource, load 16[credit] onto it. When it is empty, trash it.\n[click]: Take 4[credit] from this resource.",
         "title": "Liberated Account",
         "type_code": "resource",
         "uniqueness": false
@@ -246,9 +246,9 @@
         "position": 33,
         "quantity": 3,
         "side_code": "corp",
-        "stripped_text": "Move up to 2 advancement tokens from a card to another installed card that can be advanced.",
+        "stripped_text": "Choose 1 installed card you can advance. Move up to 2 advancement counters from 1 other card to the chosen card.",
         "stripped_title": "Trick of Light",
-        "text": "Move up to 2 advancement tokens from a card to another installed card that can be advanced.",
+        "text": "Choose 1 installed card you can advance. Move up to 2 advancement counters from 1 other card to the chosen card.",
         "title": "Trick of Light",
         "type_code": "operation",
         "uniqueness": false
