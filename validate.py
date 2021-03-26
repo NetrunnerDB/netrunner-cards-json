@@ -43,12 +43,16 @@ def custom_card_check(args, card, pack_code, factions_data, types_data, sides_da
     "Performs more in-depth sanity checks than jsonschema validator is capable of. Assumes that the basic schema validation has already completed successfully."
     if card["pack_code"] != pack_code:
         raise jsonschema.ValidationError("Pack code '%s' of the card '%s' doesn't match the pack code '%s' of the file it appears in." % (card["pack_code"], card["code"], pack_code))
-    if card["faction_code"] not in [f["code"] for f in factions_data]:
-        raise jsonschema.ValidationError("Faction code '%s' of the pack '%s' doesn't match any valid faction code." % (card["faction_code"], card["code"]))
+    allowed_factions = [f["code"] for f in factions_data if f["side_code"] == card["side_code"]]
+    if card["faction_code"] not in allowed_factions:
+        raise jsonschema.ValidationError("Faction code '%s' of the card '%s' doesn't match any valid faction code for side '%s'." % (card["faction_code"], card["code"], card["side_code"]))
     if card["type_code"] not in [f["code"] for f in types_data]:
-        raise jsonschema.ValidationError("Faction code '%s' of the pack '%s' doesn't match any valid type code." % (card["type_code"], card["code"]))
+        raise jsonschema.ValidationError("Type code '%s' of the card '%s' doesn't match any valid type code." % (card["type_code"], card["code"]))
     if card["side_code"] not in [f["code"] for f in sides_data]:
-        raise jsonschema.ValidationError("Faction code '%s' of the pack '%s' doesn't match any valid side code." % (card["side_code"], card["code"]))
+        raise jsonschema.ValidationError("Side code '%s' of the card '%s' doesn't match any valid side code." % (card["side_code"], card["code"]))
+    allowed_types = [f["code"] for f in types_data if f["side_code"] == card["side_code"] or f["side_code"] is None]
+    if card["type_code"] not in allowed_types:
+        raise jsonschema.ValidationError("Type code '%s' of the card '%s' doesn't match any valid types for side '%s'." % (card["type_code"], card["code"], card["side_code"]))
 
 def custom_pack_check(args, pack, cycles_data):
     if pack["cycle_code"] not in [c["code"] for c in cycles_data]:
