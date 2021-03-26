@@ -796,9 +796,9 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "stripped_text": "When you install this program, you may pay X credits to place X power counters on it. This program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength. Interface 1 credit: Break 1 subroutine.",
+        "stripped_text": "When you install this program, you may pay X credits to place X power counters on it. This program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength. Interface > 1 credit: Break 1 subroutine.",
         "stripped_title": "Atman",
-        "text": "When you install this program, you may pay X[credit] to place X power counters on it.\nThis program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\nInterface– 1[credit]: Break 1 subroutine.",
+        "text": "When you install this program, you may pay X[credit] to place X power counters on it.\nThis program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\nInterface > 1[credit]: Break 1 subroutine.",
         "title": "Atman",
         "type_code": "program",
         "uniqueness": false
