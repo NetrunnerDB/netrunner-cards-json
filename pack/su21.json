@@ -108,7 +108,7 @@
         "deck_limit": 3,
         "faction_code": "anarch",
         "faction_cost": 2,
-        "flavor": "{ca}\"Oh, holy Rust,{/ca}\n{ca}Turn foundation into dust.{/ca}\n{ca}Oh, sacred Flood,{/ca}\n{ca}Wash away what we have become.\"{/ca}\n—Rent Strike",
+        "flavor": "\"Oh, holy Rust,\nTurn foundation into dust.\nOh, sacred Flood,\nWash away what we have become.\"\n—Rent Strike",
         "illustrator": "Zoe Cohen",
         "keywords": "Icebreaker - Fracter",
         "memory_cost": 1,
@@ -140,7 +140,7 @@
         "side_code": "runner",
         "stripped_text": "When you install this program, place 2 virus counters on it. Access > Hosted virus counter: Trash the card you are accessing. Use this ability only once per turn.",
         "stripped_title": "Imp",
-        "text": "When you install this program, place 2 virus counters on it.\nAccess > Hosted virus counter: Trash the card you are accessing. Use this ability only once per turn.",
+        "text": "When you install this program, place 2 virus counters on it.\nAccess > <strong>Hosted virus counter:</strong> Trash the card you are accessing. Use this ability only once per turn.",
         "title": "Imp",
         "type_code": "program",
         "uniqueness": false
@@ -872,7 +872,7 @@
         "strength": 4,
         "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine End the run. Subroutine End the run.",
         "stripped_title": "Eli 1.0",
-        "text": "Lose [click]: Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] End the run.\n[subroutine] End the run.",
+        "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] End the run.\n[subroutine] End the run.",
         "title": "Eli 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -914,7 +914,7 @@
         "strength": 5,
         "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Resolve 1 subroutine on another rezzed bioroid ice. Subroutine Resolve 1 subroutine on another rezzed bioroid ice.",
         "stripped_title": "Ravana 1.0",
-        "text": "Lose [click]: Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Resolve 1 subroutine on another rezzed <strong>bioroid</strong> ice.\n[subroutine] Resolve 1 subroutine on another rezzed <strong>bioroid</strong> ice.",
+        "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Resolve 1 subroutine on another rezzed <strong>bioroid</strong> ice.\n[subroutine] Resolve 1 subroutine on another rezzed <strong>bioroid</strong> ice.",
         "title": "Ravana 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -1033,7 +1033,7 @@
         "side_code": "corp",
         "stripped_text": "When you score this agenda, place 3 agenda counters on it. Hosted agenda counter: Do 1 net damage. Use this ability only during a run and only once per run.",
         "stripped_title": "House of Knives",
-        "text": "When you score this agenda, place 3 agenda counters on it.\nHosted agenda counter: Do 1 net damage. Use this ability only during a run and only once per run.",
+        "text": "When you score this agenda, place 3 agenda counters on it.\n<strong>Hosted agenda counter:</strong> Do 1 net damage. Use this ability only during a run and only once per run.",
         "title": "House of Knives",
         "type_code": "agenda",
         "uniqueness": false
@@ -1053,7 +1053,7 @@
         "side_code": "corp",
         "stripped_text": "When you score this agenda, place 1 agenda counter on it. Hosted agenda counter: End the run.",
         "stripped_title": "Nisei MK II",
-        "text": "When you score this agenda, place 1 agenda counter on it.\nHosted agenda counter: End the run.",
+        "text": "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter:</strong> End the run.",
         "title": "Nisei MK II",
         "type_code": "agenda",
         "uniqueness": false
@@ -1482,7 +1482,7 @@
         "side_code": "corp",
         "stripped_text": "When you score this agenda, place 1 agenda counter on it for each hosted advancement counter past 3. Hosted agenda counter: Search R&D for 1 card and reveal it. Add it to HQ.",
         "stripped_title": "Project Atlas",
-        "text": "When you score this agenda, place 1 agenda counter on it for each hosted advancement counter past 3.\nHosted agenda counter: Search R&D for 1 card and reveal it. Add it to HQ.",
+        "text": "When you score this agenda, place 1 agenda counter on it for each hosted advancement counter past 3.\n<strong>Hosted agenda counter:</strong> Search R&D for 1 card and reveal it. Add it to HQ.",
         "title": "Project Atlas",
         "type_code": "agenda",
         "uniqueness": false
