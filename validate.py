@@ -358,7 +358,7 @@ def validate_sides(args, sides_data):
 
     return retval
 
-def validate_rotations(args, rot_data):
+def validate_rotations(args, rot_data, cycles_data):
     global validation_errors
 
     verbose_print(args, "Validating rotations ...\n", 1)
@@ -373,19 +373,24 @@ def validate_rotations(args, rot_data):
         return False
 
     retval = True
-    for c in rot_data:
+    for r in rot_data:
         try:
-            verbose_print(args, "Validating rotation %s... " % c.get("name"), 2)
-            jsonschema.validate(c, ROT_SCHEMA)
+            verbose_print(args, "Validating rotation %s... " % r.get("name"), 2)
+            jsonschema.validate(r, ROT_SCHEMA)
             verbose_print(args, "OK\n", 2)
         except jsonschema.ValidationError as e:
             verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in rotation: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
+            verbose_print(args, "Validation error in rotation: (code: '%s' name: '%s')\n" % (r.get("code"), r.get("name")), 0)
             validation_errors += 1
             verbose_print(args, "%s\n" % e.message, 0)
             retval = False
 
+        for cycle in r["rotated"]:
+            if cycle not in [f["code"] for f in cycles_data]:
+                raise jsonschema.ValidationError("Cycle code '%s' of the rotation '%s' doesn't match any valid cycle code." % (cycle, r["code"]))
+
     return retval
+
 def check_translations_simple(args, base_translations_path, locale_name, base_file_name):
     file_name = "%s.%s.json" % (base_file_name, locale_name)
     verbose_print(args, "Loading file %s...\n" % file_name, 1)
@@ -427,11 +432,11 @@ def check_prebuilt(args):
     pre_path = os.path.join(args.base_path, "prebuilts.json")
     load_json_file(args, pre_path)
 
-def check_rotation(args):
+def check_rotation(args, cycles_data):
     verbose_print(args, "Loading Rotations...\n", 1)
     rot_path = os.path.join(args.base_path, "rotations.json")
     rot_data = load_json_file(args, rot_path)
-    validate_rotations(args, rot_data)
+    validate_rotations(args, rot_data, cycles_data)
 
 def verbose_print(args, text, minimum_verbosity=0):
     if args.verbose >= minimum_verbosity:
@@ -465,7 +470,7 @@ def main():
 
     check_prebuilt(args)
 
-    check_rotation(args)
+    check_rotation(args, cycles)
 
     check_mwl(args)
 
