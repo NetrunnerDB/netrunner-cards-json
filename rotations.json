@@ -4,37 +4,53 @@
         "date_start": "2017-10-01",
         "name": "First Rotation",
         "rotated": [
-            "core", "genesis", "spin"
+            "core",
+            "genesis",
+            "spin"
         ]
     },
     {
         "code": "rotation-2018",
-        "name": "Second Rotation",
         "date_start": "2018-12-21",
+        "name": "Second Rotation",
         "rotated": [
-            "core", "genesis", "spin",
-            "core2", "terminal-directive"
+            "core",
+            "genesis",
+            "spin",
+            "core2",
+            "terminal-directive"
         ]
     },
     {
         "code": "rotation-2019",
-        "name": "Third Rotation",
         "date_start": "2019-12-27",
+        "name": "Third Rotation",
         "rotated": [
-            "core", "genesis", "spin",
-            "core2", "terminal-directive",
-            "creation-and-control", "lunar"
+            "core",
+            "genesis",
+            "spin",
+            "core2",
+            "terminal-directive",
+            "creation-and-control",
+            "lunar"
         ]
     },
     {
         "code": "rotation-2021",
-        "name": "Fourth Rotation",
         "date_start": "2021-04-09",
+        "name": "Fourth Rotation",
         "rotated": [
-            "core", "genesis", "spin",
-            "core2", "terminal-directive",
-            "creation-and-control", "lunar",
-            "sc19", "honor-and-profit", "sansan", "salvaged-memories"
+            "core",
+            "genesis",
+            "spin",
+            "core2",
+            "terminal-directive",
+            "creation-and-control",
+            "lunar",
+            "sc19",
+            "honor-and-profit",
+            "sansan",
+            "salvaged-memories"
         ]
     }
 ]
