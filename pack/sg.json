@@ -34,7 +34,7 @@
         "side_code": "runner",
         "stripped_text": "Resolve 1 of the following of the Corp's choice:  Gain 6 credits.  Draw 4 cards.",
         "stripped_title": "Wildcat Strike",
-        "text": "Resolve 1 of the following of the Corp's choice:\n• Gain 6[credit].\n• Draw 4 cards.",
+        "text": "Resolve 1 of the following of the Corp's choice:<ul><li>Gain 6[credit].</li><li>Draw 4 cards.</li></ul>",
         "title": "Wildcat Strike",
         "type_code": "event",
         "uniqueness": false
@@ -75,7 +75,7 @@
         "side_code": "runner",
         "stripped_text": "Install only on a piece of ice. When you install this program and when your turn begins, place 1 virus counter on this program. Hosted virus counter: Break 1 subroutine on host ice.",
         "stripped_title": "Botulus",
-        "text": "Install only on a piece of ice.\nWhen you install this program and when your turn begins, place 1 virus counter on this program.\nHosted virus counter: Break 1 subroutine on host ice.",
+        "text": "Install only on a piece of ice.\nWhen you install this program and when your turn begins, place 1 virus counter on this program.\n<strong>Hosted virus counter:</strong> Break 1 subroutine on host ice.",
         "title": "Botulus",
         "type_code": "program",
         "uniqueness": false
@@ -161,7 +161,7 @@
         "side_code": "runner",
         "stripped_text": "Whenever you make a successful run on a central server, place 1 virus counter on this program. Hosted virus counter: The ice you are encountering gets -1 strength for the remainder of this encounter.",
         "stripped_title": "Leech",
-        "text": "Whenever you make a successful run on a central server, place 1 virus counter on this program.\nHosted virus counter: The ice you are encountering gets -1 strength for the remainder of this encounter.",
+        "text": "Whenever you make a successful run on a central server, place 1 virus counter on this program.\n<strong>Hosted virus counter:</strong> The ice you are encountering gets -1 strength for the remainder of this encounter.",
         "title": "Leech",
         "type_code": "program",
         "uniqueness": false
@@ -771,7 +771,7 @@
         "strength": 4,
         "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed Runner card. Subroutine You may install 1 card from HQ or Archives. Subroutine The Runner cannot steal or trash Corp cards for the remainder of this run.",
         "stripped_title": "Ansel 1.0",
-        "text": "Lose [click]: Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed Runner card.\n[subroutine] You may install 1 card from HQ or Archives.\n[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run.",
+        "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed Runner card.\n[subroutine] You may install 1 card from HQ or Archives.\n[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run.",
         "title": "Ansel 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -792,7 +792,7 @@
         "strength": 6,
         "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine You may install 1 piece of ice from HQ or Archives directly inward from this ice, ignoring all costs. Subroutine End the run. Subroutine End the run.",
         "stripped_title": "Bran 1.0",
-        "text": "Lose [click]: Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] You may install 1 piece of ice from HQ or Archives directly inward from this ice, ignoring all costs.\n[subroutine] End the run.\n[subroutine] End the run.",
+        "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] You may install 1 piece of ice from HQ or Archives directly inward from this ice, ignoring all costs.\n[subroutine] End the run.\n[subroutine] End the run.",
         "title": "Brân 1.0",
         "type_code": "ice",
         "uniqueness": false
@@ -1073,7 +1073,7 @@
         "side_code": "corp",
         "stripped_text": "When you rez this asset, draw 2 cards. Remove this asset from the game: Shuffle up to 2 cards from Archives into R&D.",
         "stripped_title": "Spin Doctor",
-        "text": "When you rez this asset, draw 2 cards.\nRemove this asset from the game: Shuffle up to 2 cards from Archives into R&D.",
+        "text": "When you rez this asset, draw 2 cards.\n<strong>Remove this asset from the game:</strong> Shuffle up to 2 cards from Archives into R&D.",
         "title": "Spin Doctor",
         "trash_cost": 2,
         "type_code": "asset",
@@ -1136,7 +1136,7 @@
         "side_code": "corp",
         "stripped_text": "Resolve 1 of the following. If the Runner is tagged, you may resolve both instead.  Gain 3 credits.  Draw 3 cards.",
         "stripped_title": "Predictive Planogram",
-        "text": "Resolve 1 of the following. If the Runner is tagged, you may resolve both instead.\n• Gain 3[credit].\n• Draw 3 cards.",
+        "text": "Resolve 1 of the following. If the Runner is tagged, you may resolve both instead.<ul><li>Gain 3[credit].</li><li>Draw 3 cards.</li></ul>",
         "title": "Predictive Planogram",
         "type_code": "operation",
         "uniqueness": false
@@ -1289,7 +1289,7 @@
         "deck_limit": 3,
         "faction_code": "weyland-consortium",
         "faction_cost": 1,
-        "flavor": "\"If the government spent 1% of the funding they provide us tracking where the other 99% went, my colleagues and I would be in prison...\n...but that is a very big <strong>if</strong>.\"\n—Huey DeMora, W-Con public-private facilitation seminar",
+        "flavor": "\"If the government spent 1% of the funding they provide us tracking where the other 99% went, my colleagues and I would be in prison…\n…but that is a very big <strong>if</strong>.\"\n—Huey DeMora, W-Con public-private facilitation seminar",
         "illustrator": "David Lei",
         "keywords": "Transaction",
         "pack_code": "sg",
