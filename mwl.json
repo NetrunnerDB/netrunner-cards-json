@@ -1684,7 +1684,12 @@
         },
         "code": "standard-ban-list-20-06",
         "date_start": "2020-06-26",
-        "name": "Standard Ban List 20.06"
+        "name": "Standard Ban List 20.06",
+        "subtypes": {
+            "current": {
+                "deck_limit": 0
+            }
+        }
     },
     {
         "cards": {
@@ -1919,7 +1924,12 @@
         },
         "code": "standard-ban-list-20-09",
         "date_start": "2020-09-25",
-        "name": "Standard Ban List 20.09"
+        "name": "Standard Ban List 20.09",
+        "subtypes": {
+            "current": {
+                "deck_limit": 0
+            }
+        }
     },
     {
         "cards": {
@@ -2157,7 +2167,12 @@
         },
         "code": "standard-ban-list-21-04",
         "date_start": "2021-04-09",
-        "name": "Standard Ban List 21.04"
+        "name": "Standard Ban List 21.04",
+        "subtypes": {
+            "current": {
+                "deck_limit": 0
+            }
+        }
     },
     {
         "cards": {
@@ -2386,7 +2401,12 @@
         },
         "code": "standard-ban-list-21-05",
         "date_start": "2021-05-01",
-        "name": "Standard Ban List 21.05"
+        "name": "Standard Ban List 21.05",
+        "subtypes": {
+            "current": {
+                "deck_limit": 0
+            }
+        }
     },
     {
         "cards": {
@@ -2636,6 +2656,11 @@
         },
         "code": "standard-ban-list-21-06",
         "date_start": "2021-06-19",
-        "name": "Standard Ban List 21.06"
+        "name": "Standard Ban List 21.06",
+        "subtypes": {
+            "current": {
+                "deck_limit": 0
+            }
+        }
     }
 ]
