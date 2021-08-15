@@ -334,9 +334,9 @@
         "position": 17,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "Whenever you encounter a piece of ice that was just rezzed, lose all credits in your credit pool. Gain credits equal to the rez cost of that ice.",
+        "stripped_text": "Whenever you encounter a piece of ice after an approach during which that ice was rezzed, lose all credits in your credit pool. Gain credits equal to the rez cost of that ice.",
         "stripped_title": "Nasir Meidan: Cyber Explorer",
-        "text": "Whenever you encounter a piece of ice that was just rezzed, lose all credits in your credit pool. Gain credits equal to the rez cost of that ice.",
+        "text": "Whenever you encounter a piece of ice after an approach during which that ice was rezzed, lose all credits in your credit pool. Gain credits equal to the rez cost of that ice.",
         "title": "Nasir Meidan: Cyber Explorer",
         "type_code": "identity",
         "uniqueness": false
@@ -393,9 +393,9 @@
         "position": 20,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "Whenever you make a successful run on R&D, instead of accessing cards, you may install Eden Shard from your grip, ignoring all costs. trash: The Corp draws 2 cards. Limit 1 per deck.",
+        "stripped_text": "Whenever you make a successful run on R&D, instead of breaching R&D, you may install this program from your grip, ignoring all costs. trash: The Corp draws 2 cards. Limit 1 per deck.",
         "stripped_title": "Eden Shard",
-        "text": "Whenever you make a successful run on R&D, instead of accessing cards, you may install Eden Shard from your grip, ignoring all costs.\n[trash]: The Corp draws 2 cards.\nLimit 1 per deck.",
+        "text": "Whenever you make a successful run on R&D, instead of breaching R&D, you may install this program from your grip, ignoring all costs.\n<strong>[trash]:</strong> The Corp draws 2 cards.\nLimit 1 per deck.",
         "title": "Eden Shard",
         "type_code": "resource",
         "uniqueness": true

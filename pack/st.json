@@ -114,9 +114,9 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 3,
-        "stripped_text": "3 credits: Break up to 3 code gate subroutines. 3 credits: +5 strength.",
+        "stripped_text": "Interface -> 3click: Break up to 3 code gate subroutines. 3click: +5 strength.",
         "stripped_title": "Leviathan",
-        "text": "3[credit]: Break up to 3 <strong>code gate</strong> subroutines.\n3[credit]: +5 strength.",
+        "text": "Interface -> <strong>3[click]:</strong> Break up to 3 <strong>code gate</strong> subroutines.\n<strong>3[click]:</strong> +5 strength.",
         "title": "Leviathan",
         "type_code": "program",
         "uniqueness": false
@@ -153,9 +153,9 @@
         "position": 28,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "Whenever you make a successful run on Archives, instead of accessing cards you may choose 1 faceup card from Archives and add it to the top of R&D.",
+        "stripped_text": "Whenever you make a successful run on Archives, instead of breaching Archives, you may add 1 faceup card from Archives to the top of R&D.",
         "stripped_title": "Record Reconstructor",
-        "text": "Whenever you make a successful run on Archives, instead of accessing cards you may choose 1 faceup card from Archives and add it to the top of R&D.",
+        "text": "Whenever you make a successful run on Archives, instead of breaching Archives, you may add 1 faceup card from Archives to the top of R&D.",
         "title": "Record Reconstructor",
         "type_code": "hardware",
         "uniqueness": false

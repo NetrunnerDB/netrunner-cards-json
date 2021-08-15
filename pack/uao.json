@@ -13,9 +13,9 @@
         "quantity": 3,
         "side_code": "corp",
         "strength": 3,
-        "stripped_text": "Players cannot trash this ice. Subroutine The Corp looks at the top 5 cards of R&D and may install 1 of those cards, ignoring all install costs. Subroutine The Corp may install a card from Archives or HQ (paying all costs). Errata from CR 1.4",
+        "stripped_text": "Players cannot trash this ice. Subroutine Look at the top 5 cards of R&D. You may install 1 of those cards, ignoring the install cost. Subroutine You may install 1 card from Archives or HQ.",
         "stripped_title": "Architect",
-        "text": "Players cannot trash this ice.\n[subroutine] The Corp looks at the top 5 cards of R&D and may install 1 of those cards, ignoring all install costs.\n[subroutine] The Corp may install a card from Archives or HQ (paying all costs).\n<errata>Errata from CR 1.4</errata>",
+        "text": "Players cannot trash this ice.\n[subroutine] Look at the top 5 cards of R&D. You may install 1 of those cards, ignoring the install cost.\n[subroutine] You may install 1 card from Archives or HQ.",
         "title": "Architect",
         "type_code": "ice",
         "uniqueness": false
@@ -333,9 +333,9 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "stripped_text": "1 credit: Break any number of sentry subroutines. Use this ability only by spending a credit from a stealth card. 1 credit: +7 strength. Use this ability only by spending a credit from a stealth card.",
+        "stripped_text": "Interface -> 1click: Break any number of sentry subroutines. Use this ability only by spending a credit from a stealth card. 1click: +7 strength. Use this ability only by spending a credit from a stealth card.",
         "stripped_title": "Switchblade",
-        "text": "1[credit]: Break any number of <strong>sentry</strong> subroutines. Use this ability only by spending a credit from a <strong>stealth</strong> card.\n1[credit]: +7 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
+        "text": "Interface -> <strong>1[click]:</strong> Break any number of <strong>sentry</strong> subroutines. Use this ability only by spending a credit from a <strong>stealth</strong> card.\n<strong>1[click]:</strong> +7 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
         "title": "Switchblade",
         "type_code": "program",
         "uniqueness": false
