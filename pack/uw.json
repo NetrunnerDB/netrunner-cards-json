@@ -94,9 +94,9 @@
         "position": 65,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "+1{link} Interrupt -> trash: Prevent 1 tag. trash: Remove 1 tag. Limit 1 console per player.",
+        "stripped_text": "+1 link Interrupt -> trash: Prevent 1 tag. trash: Remove 1 tag. Limit 1 console per player.",
         "stripped_title": "Forger",
-        "text": "+1{link}\n[interrupt] -> <strong>[trash]:</strong> Prevent 1 tag.\n<strong>[trash]:</strong> Remove 1 tag.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+1[link]\n[interrupt] -> <strong>[trash]:</strong> Prevent 1 tag.\n<strong>[trash]:</strong> Remove 1 tag.\nLimit 1 <strong>console</strong> per player.",
         "title": "Forger",
         "type_code": "hardware",
         "uniqueness": false
@@ -115,9 +115,9 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "stripped_text": "If you have at least 2{link}, the memory cost of this program is 0 mu, even if it is not installed. Interface -> 2click: Break any number of code gate subroutines. 2click: +3 strength.",
+        "stripped_text": "If you have at least 2 link, the memory cost of this program is 0 mu, even if it is not installed. Interface -> 2 credits: Break any number of code gate subroutines. 2 credits: +3 strength.",
         "stripped_title": "Shiv",
-        "text": "If you have at least 2{link}, the memory cost of this program is 0[mu], even if it is not installed.\nInterface -> <strong>2[click]:</strong> Break any number of <strong>code gate</strong> subroutines.\n<strong>2[click]:</strong> +3 strength.",
+        "text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nInterface -> <strong>2[credit]:</strong> Break any number of <strong>code gate</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.",
         "title": "Shiv",
         "type_code": "program",
         "uniqueness": false

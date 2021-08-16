@@ -52,9 +52,9 @@
         "position": 23,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "click, trash: Run any server. If successful, instead of breaching the attacked server, pay Xclick if able, where X is equal to the number of tags you have. If you do, choose a number less than or equal to X. Access that many cards in and/or in the root of the attacked server. (If you cannot pay, you will not access anything.)",
+        "stripped_text": "click, trash: Run any server. If successful, instead of breaching the attacked server, pay X credits if able, where X is equal to the number of tags you have. If you do, choose a number less than or equal to X. Access that many cards in and/or in the root of the attacked server. (If you cannot pay, you will not access anything.)",
         "stripped_title": "Counter Surveillance",
-        "text": "<strong>[click]</strong>, <strong>[trash]:</strong> Run any server. If successful, instead of breaching the attacked server, pay X[click] if able, where X is equal to the number of tags you have. If you do, choose a number less than or equal to X. Access that many cards in and/or in the root of the attacked server. <em>(If you cannot pay, you will not access anything.)</em>",
+        "text": "<strong>[click]</strong>, <strong>[trash]:</strong> Run any server. If successful, instead of breaching the attacked server, pay X[credit] if able, where X is equal to the number of tags you have. If you do, choose a number less than or equal to X. Access that many cards in and/or in the root of the attacked server. <em>(If you cannot pay, you will not access anything.)</em>",
         "title": "Counter Surveillance",
         "type_code": "resource",
         "uniqueness": false
@@ -308,9 +308,9 @@
         "position": 36,
         "quantity": 3,
         "side_code": "corp",
-        "stripped_text": "After you resolve this operation, end your action phase. Install this operation on a connection resource as a hosted condition counter with \"The Runner is considered to have 1 additional tag. Host connection gains 'click, 2click: Trash this card.'\"",
+        "stripped_text": "After you resolve this operation, end your action phase. Install this operation on a connection resource as a hosted condition counter with \"The Runner is considered to have 1 additional tag. Host connection gains 'click, 2 credits: Trash this card.'\"",
         "stripped_title": "MCA Informant",
-        "text": "After you resolve this operation, end your action phase.\nInstall this operation on a <strong>connection</strong> resource as a hosted condition counter with \"The Runner is considered to have 1 additional tag. Host connection gains '<strong>[click]</strong>, <strong>2[click]:</strong> Trash this card.'\"",
+        "text": "After you resolve this operation, end your action phase.\nInstall this operation on a <strong>connection</strong> resource as a hosted condition counter with \"The Runner is considered to have 1 additional tag. Host connection gains '<strong>[click]</strong>, <strong>2[credit]:</strong> Trash this card.'\"",
         "title": "MCA Informant",
         "type_code": "operation",
         "uniqueness": false

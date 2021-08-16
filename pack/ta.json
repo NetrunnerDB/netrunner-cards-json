@@ -12,9 +12,9 @@
         "position": 21,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "Run HQ. If successful, instead of breaching HQ, you may spend Xclick. If you do, the Corp loses Xclick. If you spent credits, take 1 tag.",
+        "stripped_text": "Run HQ. If successful, instead of breaching HQ, you may spend X credits. If you do, the Corp loses X credits. If you spent credits, take 1 tag.",
         "stripped_title": "Vamp",
-        "text": "Run HQ. If successful, instead of breaching HQ, you may spend X[click]. If you do, the Corp loses X[click]. If you spent credits, take 1 tag.",
+        "text": "Run HQ. If successful, instead of breaching HQ, you may spend X[credit]. If you do, the Corp loses X[credit]. If you spent credits, take 1 tag.",
         "title": "Vamp",
         "type_code": "event",
         "uniqueness": false
@@ -130,9 +130,9 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 1,
-        "stripped_text": "Interface -> 1click: Break 1 barrier subroutine. 1click: +1 strength. Whenever you use this program to break a subroutine, this program gets +1 strength for the remainder of this run.",
+        "stripped_text": "Interface -> 1 credit: Break 1 barrier subroutine. 1 credit: +1 strength. Whenever you use this program to break a subroutine, this program gets +1 strength for the remainder of this run.",
         "stripped_title": "Snowball",
-        "text": "Interface -> <strong>1[click]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[click]:</strong> +1 strength.\nWhenever you use this program to break a subroutine, this program gets +1 strength for the remainder of this run.",
+        "text": "Interface -> <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.\nWhenever you use this program to break a subroutine, this program gets +1 strength for the remainder of this run.",
         "title": "Snowball",
         "type_code": "program",
         "uniqueness": false

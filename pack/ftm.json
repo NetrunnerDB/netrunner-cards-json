@@ -33,9 +33,9 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 2,
-        "stripped_text": "Interface -> 1click: Break 1 subroutine on a piece of ice that has a rez cost of 5 or greater. 1click: +1 strength. 2click: Swap this program with a deva program from your grip.",
+        "stripped_text": "Interface -> 1 credit: Break 1 subroutine on a piece of ice that has a rez cost of 5 or greater. 1 credit: +1 strength. 2 credits: Swap this program with a deva program from your grip.",
         "stripped_title": "Aghora",
-        "text": "Interface -> <strong>1[click]:</strong> Break 1 subroutine on a piece of ice that has a rez cost of 5 or greater.\n<strong>1[click]:</strong> +1 strength.\n<strong>2[click]:</strong> Swap this program with a <strong>deva</strong> program from your grip.",
+        "text": "Interface -> <strong>1[credit]:</strong> Break 1 subroutine on a piece of ice that has a rez cost of 5 or greater.\n<strong>1[credit]:</strong> +1 strength.\n<strong>2[credit]:</strong> Swap this program with a <strong>deva</strong> program from your grip.",
         "title": "Aghora",
         "type_code": "program",
         "uniqueness": true
@@ -111,9 +111,9 @@
         "quantity": 3,
         "side_code": "runner",
         "strength": 0,
-        "stripped_text": "Whenever this program fully breaks a barrier, add that barrier to HQ. Interface -> 2click: Break 1 barrier subroutine. 1click: +1 strength.",
+        "stripped_text": "Whenever this program fully breaks a barrier, add that barrier to HQ. Interface -> 2 credits: Break 1 barrier subroutine. 1 credit: +1 strength.",
         "stripped_title": "Ankusa",
-        "text": "Whenever this program fully breaks a <strong>barrier</strong>, add that <strong>barrier</strong> to HQ.\nInterface -> <strong>2[click]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[click]:</strong> +1 strength.",
+        "text": "Whenever this program fully breaks a <strong>barrier</strong>, add that <strong>barrier</strong> to HQ.\nInterface -> <strong>2[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
         "title": "Ankusa",
         "type_code": "program",
         "uniqueness": false
