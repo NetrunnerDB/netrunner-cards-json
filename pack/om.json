@@ -32,9 +32,9 @@
         "position": 2,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "click: Host Pawn on an outermost piece of ice protecting a central server. Whenever you make a successful run while Pawn is hosted on a piece of ice, move Pawn to the piece of ice directly after the current ice hosting Pawn, if able; otherwise, trash Pawn instead and install a Caissa program from your grip or heap, ignoring all costs. Errata from FAQ 3.0.1",
+        "stripped_text": "click: Host this program on the outermost piece of ice protecting a central server. Whenever you make a successful run while this program is hosted on a piece of ice, move it to the next inward piece of ice, if able. If you cannot, trash this program and install 1 other Caissa program from your grip or heap, ignoring all costs.",
         "stripped_title": "Pawn",
-        "text": "[click]: Host Pawn on an outermost piece of ice protecting a central server.\nWhenever you make a successful run while Pawn is hosted on a piece of ice, move Pawn to the piece of ice directly after the current ice hosting Pawn, if able; otherwise, trash Pawn instead and install a <strong>Caïssa</strong> program from your grip or heap, ignoring all costs.\n<errata>Errata from FAQ 3.0.1</errata>",
+        "text": "<strong>[click]:</strong> Host this program on the outermost piece of ice protecting a central server.\nWhenever you make a successful run while this program is hosted on a piece of ice, move it to the next inward piece of ice, if able. If you cannot, trash this program and install 1 other <strong>Caïssa</strong> program from your grip or heap, ignoring all costs.",
         "title": "Pawn",
         "type_code": "program",
         "uniqueness": false
