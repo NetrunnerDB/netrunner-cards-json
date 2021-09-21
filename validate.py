@@ -11,6 +11,8 @@ PACK_DIR="pack"
 SCHEMA_DIR="schema"
 formatting_errors = 0
 validation_errors = 0
+text_by_card_title = dict()
+stripped_text_by_card_title = dict()
 
 def check_dir_access(path):
     if not os.path.isdir(path):
@@ -192,6 +194,7 @@ def validate_card(args, card, card_schema, pack_code, factions_data, types_data,
 
 def validate_cards(args, packs_data, factions_data, types_data, sides_data):
     global validation_errors
+    global text_by_card_title
 
     card_schema_path = os.path.join(args.schema_path, "card_schema.json")
 
@@ -210,7 +213,29 @@ def validate_cards(args, packs_data, factions_data, types_data, sides_data):
             continue
 
         for card in pack_data:
+            if card.get('title') not in text_by_card_title:
+                text_by_card_title[card.get('title')] = set()
+            text_by_card_title[card.get('title')].add(card.get('text'))
+            if card.get('title') not in stripped_text_by_card_title:
+                stripped_text_by_card_title[card.get('title')] = set()
+            stripped_text_by_card_title[card.get('title')].add(card.get('stripped_text'))
             validate_card(args, card, CARD_SCHEMA, p["code"], factions_data, types_data, sides_data)
+
+    for card in text_by_card_title:
+        if len(text_by_card_title[card]) > 1:
+            verbose_print(args, "ERROR\n",2)
+            verbose_print(args, "Validation error for card '%s': Found %d different versions of text.\n" % (card, len(text_by_card_title[card])))
+            for text in text_by_card_title[card]:
+                verbose_print(args, "    '%s'\n" % (text))
+            validation_errors += 1
+    for card in stripped_text_by_card_title:
+        if len(stripped_text_by_card_title[card]) > 1:
+            verbose_print(args, "ERROR\n",2)
+            verbose_print(args, "Validation error for card '%s': Found %d different versions of stripped_text.\n" % (card, len(stripped_text_by_card_title[card])))
+            for stripped_text in stripped_text_by_card_title[card]:
+                verbose_print(args, "    '%s'\n" % (stripped_text))
+            validation_errors += 1
+
 
 def validate_cycles(args, cycles_data):
     global validation_errors
