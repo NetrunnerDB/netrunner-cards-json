@@ -35,7 +35,7 @@
         "strength": 2,
         "stripped_text": "Interface -> 1 credit: Break 1 subroutine on a piece of ice that has a rez cost of 5 or greater. 1 credit: +1 strength. 2 credits: Swap this program with a deva program from your grip.",
         "stripped_title": "Aghora",
-        "text": "Interface -> <strong>1[credit]:</strong> Break 1 subroutine on a piece of ice that has a rez cost of 5 or greater.\n<strong>1[credit]:</strong> +1 strength.\n<strong>2[credit]:</strong> Swap this program with a <strong>deva</strong> program from your grip.",
+        "text": "Interface → <strong>1[credit]:</strong> Break 1 subroutine on a piece of ice that has a rez cost of 5 or greater.\n<strong>1[credit]:</strong> +1 strength.\n<strong>2[credit]:</strong> Swap this program with a <strong>deva</strong> program from your grip.",
         "title": "Aghora",
         "type_code": "program",
         "uniqueness": true
@@ -113,7 +113,7 @@
         "strength": 0,
         "stripped_text": "Whenever this program fully breaks a barrier, add that barrier to HQ. Interface -> 2 credits: Break 1 barrier subroutine. 1 credit: +1 strength.",
         "stripped_title": "Ankusa",
-        "text": "Whenever this program fully breaks a <strong>barrier</strong>, add that <strong>barrier</strong> to HQ.\nInterface -> <strong>2[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
+        "text": "Whenever this program fully breaks a <strong>barrier</strong>, add that <strong>barrier</strong> to HQ.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
         "title": "Ankusa",
         "type_code": "program",
         "uniqueness": false
@@ -269,7 +269,7 @@
         "position": 109,
         "quantity": 3,
         "side_code": "corp",
-        "stripped_text": "This card costs 0 influence if you have 6 or more non-alliance cards in your deck. As an additional cost to rez Ibrahim Salem, forfeit an agenda. When your turn begins, name a card type. Look at the Runner's grip and trash 1 card in it of the named type.",
+        "stripped_text": "This card costs 0 influence if you have 6 or more non-alliance  cards in your deck. As an additional cost to rez Ibrahim Salem, forfeit an agenda. When your turn begins, name a card type. Look at the Runner's grip and trash 1 card in it of the named type.",
         "stripped_title": "Ibrahim Salem",
         "text": "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [nbn] cards in your deck.\nAs an additional cost to rez Ibrahim Salem, forfeit an agenda.\nWhen your turn begins, name a card type. Look at the Runner's grip and trash 1 card in it of the named type.",
         "title": "Ibrahim Salem",

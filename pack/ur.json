@@ -116,7 +116,7 @@
         "strength": 0,
         "stripped_text": "Interface -> 2 credits: Break any number of sentry subroutines. Interface -> 0 credits: Break 1 sentry subroutine. Use this ability only if you have 3 or more installed virtual resources. 3 credits: +3 strength.",
         "stripped_title": "Odore",
-        "text": "Interface -> <strong>2[credit]:</strong> Break any number of <strong>sentry</strong> subroutines.\nInterface -> <strong>0[credit]:</strong> Break 1 <strong>sentry</strong> subroutine. Use this ability only if you have 3 or more installed <strong>virtual</strong> resources.\n<strong>3[credit]:</strong> +3 strength.",
+        "text": "Interface → <strong>2[credit]:</strong> Break any number of <strong>sentry</strong> subroutines.\nInterface → <strong>0[credit]:</strong> Break 1 <strong>sentry</strong> subroutine. Use this ability only if you have 3 or more installed <strong>virtual</strong> resources.\n<strong>3[credit]:</strong> +3 strength.",
         "title": "Odore",
         "type_code": "program",
         "uniqueness": false
@@ -274,7 +274,7 @@
         "strength": 2,
         "stripped_text": "Whenever you encounter a sentry, you may pay 2 credits to bypass it. Use this ability only once per turn and only by spending credits from stealth cards. Interface -> 1 credit: Break up to 2 sentry subroutines. 1 credit: +2 strength. Use this ability only by spending a credit from a stealth card.",
         "stripped_title": "Afterimage",
-        "text": "Whenever you encounter a <strong>sentry</strong>, you may pay 2[credit] to bypass it. Use this ability only once per turn and only by spending credits from <strong>stealth</strong> cards.\nInterface -> <strong>1[credit]:</strong> Break up to 2 <strong>sentry</strong> subroutines.\n<strong>1[credit]:</strong> +2 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
+        "text": "Whenever you encounter a <strong>sentry</strong>, you may pay 2[credit] to bypass it. Use this ability only once per turn and only by spending credits from <strong>stealth</strong> cards.\nInterface → <strong>1[credit]:</strong> Break up to 2 <strong>sentry</strong> subroutines.\n<strong>1[credit]:</strong> +2 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
         "title": "Afterimage",
         "type_code": "program",
         "uniqueness": false
@@ -296,7 +296,7 @@
         "strength": 2,
         "stripped_text": "Interface -> 2 credits: Break up to 2 barrier subroutines. 2 credits: +2 strength. The first time each turn this program fully breaks a piece of ice, gain 1 credit.",
         "stripped_title": "Makler",
-        "text": "Interface -> <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +2 strength.\nThe first time each turn this program fully breaks a piece of ice, gain 1[credit].",
+        "text": "Interface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +2 strength.\nThe first time each turn this program fully breaks a piece of ice, gain 1[credit].",
         "title": "Makler",
         "type_code": "program",
         "uniqueness": false
@@ -437,7 +437,7 @@
         "strength": 2,
         "stripped_text": "When you install this program, for the remainder of the turn it gains \"Interface -> 0 credits: Break 1 code gate subroutine.\" Interface -> 2 credits: Break up to 2 code gate subroutines. 1 credit: +1 strength.",
         "stripped_title": "Euler",
-        "text": "When you install this program, for the remainder of the turn it gains \"Interface -> <strong>0[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\"\nInterface -> <strong>2[credit]:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength.",
+        "text": "When you install this program, for the remainder of the turn it gains \"Interface → <strong>0[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\"\nInterface → <strong>2[credit]:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength.",
         "title": "Euler",
         "type_code": "program",
         "uniqueness": false
@@ -480,7 +480,7 @@
         "strength": 2,
         "stripped_text": "When you install this program, for the remainder of the turn it gains \"Interface -> 1 credit: Break 1 barrier subroutine.\" Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +3 strength. Use this ability only by spending a credit from a stealth card.",
         "stripped_title": "Penrose",
-        "text": "When you install this program, for the remainder of the turn it gains \"Interface -> <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\"\nInterface -> <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +3 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
+        "text": "When you install this program, for the remainder of the turn it gains \"Interface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\"\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +3 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
         "title": "Penrose",
         "type_code": "program",
         "uniqueness": false
@@ -634,9 +634,9 @@
         "position": 97,
         "quantity": 3,
         "side_code": "corp",
-        "stripped_text": "Interrupt -> When this agenda would be added to the Runner's score area from anywhere except Archives, instead it is added to their score area with 4 hosted agenda counters. While this agenda is in the Runner's score area with 1 or more hosted agenda counters, it is worth 0 agenda points and gains \"When the Runner's turn begins, remove 1 hosted agenda counter.\"",
+        "stripped_text": "Interrupt - When this agenda would be added to the Runner's score area from anywhere except Archives, instead it is added to their score area with 4 hosted agenda counters. While this agenda is in the Runner's score area with 1 or more hosted agenda counters, it is worth 0 agenda points and gains \"When the Runner's turn begins, remove 1 hosted agenda counter.\"",
         "stripped_title": "Project Vacheron",
-        "text": "[interrupt] -> When this agenda would be added to the Runner's score area from anywhere except Archives, instead it is added to their score area with 4 hosted agenda counters.\nWhile this agenda is in the Runner's score area with 1 or more hosted agenda counters, it is worth 0 agenda points and gains \"When the Runner's turn begins, remove 1 hosted agenda counter.\"",
+        "text": "[interrupt] – When this agenda would be added to the Runner's score area from anywhere except Archives, instead it is added to their score area with 4 hosted agenda counters.\nWhile this agenda is in the Runner's score area with 1 or more hosted agenda counters, it is worth 0 agenda points and gains \"When the Runner's turn begins, remove 1 hosted agenda counter.\"",
         "title": "Project Vacheron",
         "type_code": "agenda",
         "uniqueness": false
@@ -838,9 +838,9 @@
         "position": 107,
         "quantity": 3,
         "side_code": "corp",
-        "stripped_text": "Interrupt -> Whenever you would do 1 or more net damage, you may prevent 1 net damage. If you do, place 1 power counter on this asset and gain 3 credits. click click,trash: Do 1 net damage for each hosted power counter.",
+        "stripped_text": "Interrupt - Whenever you would do 1 or more net damage, you may prevent 1 net damage. If you do, place 1 power counter on this asset and gain 3 credits. click click,trash: Do 1 net damage for each hosted power counter.",
         "stripped_title": "Prana Condenser",
-        "text": "[interrupt] -> Whenever you would do 1 or more net damage, you may prevent 1 net damage. If you do, place 1 power counter on this asset and gain 3[credit].\n<strong>[click][click]</strong>,<strong>[trash]:</strong> Do 1 net damage for each hosted power counter.",
+        "text": "[interrupt] – Whenever you would do 1 or more net damage, you may prevent 1 net damage. If you do, place 1 power counter on this asset and gain 3[credit].\n<strong>[click][click]</strong>,<strong>[trash]:</strong> Do 1 net damage for each hosted power counter.",
         "title": "Prāna Condenser",
         "trash_cost": 4,
         "type_code": "asset",
