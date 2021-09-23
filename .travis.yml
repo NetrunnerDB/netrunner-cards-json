@@ -1,11 +1,7 @@
 language: python
 python:
-- '2.7'
+- '3.7'
 install:
-- pip install -U functools32
 - pip install -U jsonschema
 script:
 - python ./validate.py
-notifications:
-  slack:
-    secure: cgB7llnHD2jQZ9NnampqbmQ0BgqndMLiVGofpoufW31q/UcI7nUHMV5TuwLG6mST/Cl+QA7Owuu86ZVkr8Cc8XsRPcJ0kk6CAdqr0qVLK3pAgfjvkrc8RzwaWtRKngPl373PPLpmX7e0kOcOPKHIPWLRhgPmsPse86MYNlG9xuJQz8Smxpz68SdCwZ4/AJnCnj7c1WuBPtbseXY/9KU40yiAaBJkT9btTOJHpUNvEQJqNK1X+F67GRy7I9tvmpaODZWDslv37DrSCNp4kZAhvBQL+Tslbg42zL/g6VxwhjQiKfMoR+O30BGGpHrDBppVrhAcEiXqFGqG583vvdeu4IpNVE1UDlb/fRSXnpD+E4qey3RJyZTPG1EtjBwFyvY5BwPtU1qy4itQVwZR5nmuomppmFUyzVL+FFsXrGvLzsgDAhkJ0v6fsfTCfcmSEukfLGVljNJ6lmAr5KClGvd1KdNFrHq7uRtSjqaBvfqewNozsT2iXDOvg+odpjJd23JHVaN77t0FbG7o6k9I5t5AMb6JOtvPuMtOzWAg1XtIB1Ev+IKTU6FOt2XemcK2zWQ47P/XSmhPp3GVKxNIkq2rEq0F3AtFM/6pyVDsRX9eV8UFIzJCzfL8BuODiNSRcDN1D3V51y0jFuAqgHnYN/AtnWhCZClHaMJJvgkflQDVVeE=

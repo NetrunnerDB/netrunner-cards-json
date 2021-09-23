@@ -71,7 +71,7 @@
         "position": 4,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "+1 mu Interrupt Once per turn, when you would play or install a card, you may trash 1 card from your grip to lower the play or install cost by 2. Limit 1 console per player. Errata from CR 1.4",
+        "stripped_text": "+1 mu Interrupt - Once per turn, when you would play or install a card, you may trash 1 card from your grip to lower the play or install cost by 2. Limit 1 console per player. Errata from CR 1.4",
         "stripped_title": "Patchwork",
         "text": "+1[mu]\n[interrupt] – Once per turn, when you would play or install a card, you may trash 1 card from your grip to lower the play or install cost by 2.\nLimit 1 <strong>console</strong> per player.\n<errata>Errata from CR 1.4</errata>",
         "title": "Patchwork",
@@ -113,7 +113,7 @@
         "strength": 5,
         "stripped_text": "This program gets -1 strength for each card in your grip. Interface -> 2 credits: Break any number of code gate subroutines.",
         "stripped_title": "Cradle",
-        "text": "This program gets -1 strength for each card in your grip.\nInterface -> <strong>2[credit]:</strong> Break any number of <strong>code gate</strong> subroutines.",
+        "text": "This program gets -1 strength for each card in your grip.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>code gate</strong> subroutines.",
         "title": "Cradle",
         "type_code": "program",
         "uniqueness": false
@@ -235,7 +235,7 @@
         "strength": 1,
         "stripped_text": "Interface -> 1 credit: Break up to 2 barrier subroutines. 2 credits: +3 strength. Whenever an encounter ends, if you used this program to break a subroutine during that encounter, the Corp gains 2 credits.",
         "stripped_title": "Tycoon",
-        "text": "Interface -> <strong>1[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, the Corp gains 2[credit].",
+        "text": "Interface → <strong>1[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, the Corp gains 2[credit].",
         "title": "Tycoon",
         "type_code": "program",
         "uniqueness": false
@@ -374,7 +374,7 @@
         "strength": 2,
         "stripped_text": "2 credits: Host this program on a piece of ice. Interface -> 1 credit: Break up to 2 subroutines on host sentry. 2 credits: +3 strength.",
         "stripped_title": "Ika",
-        "text": "<strong>2[credit]:</strong> Host this program on a piece of ice.\nInterface -> <strong>1[credit]:</strong> Break up to 2 subroutines on host <strong>sentry</strong>.\n<strong>2[credit]:</strong> +3 strength.",
+        "text": "<strong>2[credit]:</strong> Host this program on a piece of ice.\nInterface → <strong>1[credit]:</strong> Break up to 2 subroutines on host <strong>sentry</strong>.\n<strong>2[credit]:</strong> +3 strength.",
         "title": "Ika",
         "type_code": "program",
         "uniqueness": false

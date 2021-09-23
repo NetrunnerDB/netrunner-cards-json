@@ -797,7 +797,7 @@
         "strength": 2,
         "stripped_text": "Interface -> 1 credit: Break 1 subroutine. You cannot access cards for the remainder of this run. 1 credit: +1 strength.",
         "stripped_title": "Eater",
-        "text": "Interface -> <strong>1[credit]:</strong> Break 1 subroutine. You cannot access cards for the remainder of this run.\n<strong>1[credit]:</strong> +1 strength.",
+        "text": "Interface → <strong>1[credit]:</strong> Break 1 subroutine. You cannot access cards for the remainder of this run.\n<strong>1[credit]:</strong> +1 strength.",
         "title": "Eater",
         "type_code": "program",
         "uniqueness": false
@@ -857,9 +857,9 @@
         "position": 43,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "You can install virus programs onto this program. Limit 1 hosted program. The memory cost of the hosted program does not count against your memory limit. Interrupt -> Whenever virus counters would be purged, prevent 1 virus counter on the hosted program from being removed.",
+        "stripped_text": "You can install virus programs onto this program. Limit 1 hosted program. The memory cost of the hosted program does not count against your memory limit. Interrupt - Whenever virus counters would be purged, prevent 1 virus counter on the hosted program from being removed.",
         "stripped_title": "Progenitor",
-        "text": "You can install <strong>virus</strong> programs onto this program. Limit 1 hosted program.\nThe memory cost of the hosted program does not count against your memory limit.\n[interrupt] -> Whenever virus counters would be purged, prevent 1 virus counter on the hosted program from being removed.",
+        "text": "You can install <strong>virus</strong> programs onto this program. Limit 1 hosted program.\nThe memory cost of the hosted program does not count against your memory limit.\n[interrupt] – Whenever virus counters would be purged, prevent 1 virus counter on the hosted program from being removed.",
         "title": "Progenitor",
         "type_code": "program",
         "uniqueness": false
@@ -876,9 +876,9 @@
         "position": 44,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "Interrupt -> Whenever you would access a card in Archives, you may instead remove it from the game. Use this ability only once each time you breach Archives.",
+        "stripped_text": "Interrupt - Whenever you would access a card in Archives, you may instead remove it from the game. Use this ability only once each time you breach Archives.",
         "stripped_title": "Archives Interface",
-        "text": "[interrupt] -> Whenever you would access a card in Archives, you may instead remove it from the game. Use this ability only once each time you breach Archives.",
+        "text": "[interrupt] – Whenever you would access a card in Archives, you may instead remove it from the game. Use this ability only once each time you breach Archives.",
         "title": "Archives Interface",
         "type_code": "hardware",
         "uniqueness": false

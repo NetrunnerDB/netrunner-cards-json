@@ -658,7 +658,7 @@
         "strength": 11,
         "stripped_text": "Interface -> Trash 1 installed card: Break 1 \"Subroutine End the run.\" subroutine.",
         "stripped_title": "Endless Hunger",
-        "text": "Interface -> <strong>Trash 1 installed card:</strong> Break 1 \"[subroutine] End the run.\" subroutine.",
+        "text": "Interface → <strong>Trash 1 installed card:</strong> Break 1 \"[subroutine] End the run.\" subroutine.",
         "title": "Endless Hunger",
         "type_code": "program",
         "uniqueness": false
@@ -675,7 +675,7 @@
         "position": 34,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "Interrupt When this program would be trashed, turn it facedown instead of adding it to your heap. (It is still considered trashed.) Errata from CR 1.4",
+        "stripped_text": "Interrupt - When this program would be trashed, turn it facedown instead of adding it to your heap. (It is still considered trashed.) Errata from CR 1.4",
         "stripped_title": "Harbinger",
         "text": "[interrupt] – When this program would be trashed, turn it facedown instead of adding it to your heap. <em>(It is still considered trashed.)</em>\n<errata>Errata from CR 1.4</errata>",
         "title": "Harbinger",
@@ -955,7 +955,7 @@
         "strength": 1,
         "stripped_text": "If you have at least 2 link, the memory cost of this program is 0 mu, even if it is not installed. Interface -> 2 credits: Break any number of code gate subroutines. 2 credits: +3 strength.",
         "stripped_title": "GS Striker M1",
-        "text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nInterface -> <strong>2[credit]:</strong> Break any number of <strong>code gate</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.",
+        "text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>code gate</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.",
         "title": "GS Striker M1",
         "type_code": "program",
         "uniqueness": false
@@ -977,7 +977,7 @@
         "strength": 1,
         "stripped_text": "If you have at least 2 link, the memory cost of this program is 0 mu, even if it is not installed. Interface -> 2 credits: Break any number of sentry subroutines. 2 credits: +3 strength.",
         "stripped_title": "GS Shrike M2",
-        "text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nInterface -> <strong>2[credit]:</strong> Break any number of <strong>sentry</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.",
+        "text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>sentry</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.",
         "title": "GS Shrike M2",
         "type_code": "program",
         "uniqueness": false
@@ -999,7 +999,7 @@
         "strength": 1,
         "stripped_text": "If you have at least 2 link, the memory cost of this program is 0 mu, even if it is not installed. Interface -> 2 credits: Break any number of barrier subroutines. 2 credits: +3 strength.",
         "stripped_title": "GS Sherman M3",
-        "text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nInterface -> <strong>2[credit]:</strong> Break any number of <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.",
+        "text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.",
         "title": "GS Sherman M3",
         "type_code": "program",
         "uniqueness": false

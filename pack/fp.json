@@ -34,7 +34,7 @@
         "strength": null,
         "stripped_text": "Interface -> 2 credits: Break 1 subroutine. X is equal to the number of hosted virus counters. When your turn begins, you may pay 1 credit to place 1 virus counter on this program.",
         "stripped_title": "Darwin",
-        "text": "Interface -> 2[credit]: Break 1 subroutine.\nX is equal to the number of hosted virus counters.\nWhen your turn begins, you may pay 1[credit] to place 1 virus counter on this program.",
+        "text": "Interface → 2[credit]: Break 1 subroutine.\nX is equal to the number of hosted virus counters.\nWhen your turn begins, you may pay 1[credit] to place 1 virus counter on this program.",
         "title": "Darwin",
         "type_code": "program",
         "uniqueness": false
@@ -76,7 +76,7 @@
         "strength": 2,
         "stripped_text": "Interface -> 0 credits: Break 1 sentry subroutine. 1 credit: +1 strength. Whenever an encounter ends, if you used this program to break a subroutine during that encounter, trash this program.",
         "stripped_title": "Faerie",
-        "text": "Interface -> 0[credit]: Break 1 <strong>sentry</strong> subroutine.\n1[credit]: +1 strength.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, trash this program.",
+        "text": "Interface → 0[credit]: Break 1 <strong>sentry</strong> subroutine.\n1[credit]: +1 strength.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, trash this program.",
         "title": "Faerie",
         "type_code": "program",
         "uniqueness": false

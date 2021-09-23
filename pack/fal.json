@@ -136,7 +136,7 @@
         "strength": 1,
         "stripped_text": "Interface -> 1 credit: Break 1 subroutine. 1 credit: +1 strength. This program can only interface with the outermost piece of ice protecting a server.",
         "stripped_title": "Alpha",
-        "text": "Interface -> <strong>1[credit]:</strong> Break 1 subroutine.\n<strong>1[credit]:</strong> +1 strength.\nThis program can only interface with the outermost piece of ice protecting a server.",
+        "text": "Interface → <strong>1[credit]:</strong> Break 1 subroutine.\n<strong>1[credit]:</strong> +1 strength.\nThis program can only interface with the outermost piece of ice protecting a server.",
         "title": "Alpha",
         "type_code": "program",
         "uniqueness": false
@@ -158,7 +158,7 @@
         "strength": 1,
         "stripped_text": "Interface -> 1 credit: Break 1 subroutine. 1 credit: +1 strength. This program can only interface with the innermost piece of ice protecting a server",
         "stripped_title": "Omega",
-        "text": "Interface -> <strong>1[credit]:</strong> Break 1 subroutine.\n<strong>1[credit]:</strong> +1 strength.\nThis program can only interface with the innermost piece of ice protecting a server",
+        "text": "Interface → <strong>1[credit]:</strong> Break 1 subroutine.\n<strong>1[credit]:</strong> +1 strength.\nThis program can only interface with the innermost piece of ice protecting a server",
         "title": "Omega",
         "type_code": "program",
         "uniqueness": false
@@ -215,7 +215,7 @@
         "side_code": "corp",
         "stripped_text": "Persistent -> As an additional cost to steal an agenda from this server, the Runner must spend click. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)",
         "stripped_title": "Strongbox",
-        "text": "Persistent -> As an additional cost to steal an agenda from this server, the Runner must spend [click]. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
+        "text": "Persistent → As an additional cost to steal an agenda from this server, the Runner must spend [click]. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
         "title": "Strongbox",
         "trash_cost": 1,
         "type_code": "upgrade",

@@ -192,6 +192,54 @@ def validate_card(args, card, card_schema, pack_code, factions_data, types_data,
         validation_errors += 1
         verbose_print(args, "%s\n" % e.message, 0)
 
+def verify_stripped_text_is_ascii(args, card, pack_code):
+    global validation_errors
+
+    stripped_text = card.get('stripped_text', '')
+    try:
+        stripped_text.encode('ascii')
+    except UnicodeEncodeError:
+        verbose_print(args, "ERROR\n", 2)
+        verbose_print(
+            args,
+            "Stripped text contains non-ascii characters in card: (pack code: '{}' title: '{}' stripped_text '{}')\n".format(
+                pack_code,
+                card['title'],
+                stripped_text,
+            ),
+            0,
+        )
+        validation_errors += 1
+
+def verify_text_has_fancy_text(args, card, pack_code):
+    global validation_errors
+
+    text = card.get('text', '')
+    if ('[interrupt]' in text) and ('[interrupt] – ' not in text):
+        verbose_print(args, "ERROR\n", 2)
+        verbose_print(
+            args,
+            "Incorrect interrupt text in card: (pack code: '{}' title: '{}' text '{}')\n".format(
+                pack_code,
+                card['title'],
+                text,
+            ),
+            0,
+        )
+        validation_errors += 1
+    if ('Interface' in text) and (('Interface ->' in text) or ('Interface →' not in text)):
+        verbose_print(args, "ERROR\n", 2)
+        verbose_print(
+            args,
+            "Incorrect interface text in card: (pack code: '{}' title: '{}' text '{}')\n".format(
+                pack_code,
+                card['title'],
+                text,
+            ),
+            0,
+        )
+        validation_errors += 1
+
 def validate_cards(args, packs_data, factions_data, types_data, sides_data):
     global validation_errors
     global text_by_card_title
@@ -220,6 +268,8 @@ def validate_cards(args, packs_data, factions_data, types_data, sides_data):
                 stripped_text_by_card_title[card.get('title')] = set()
             stripped_text_by_card_title[card.get('title')].add(card.get('stripped_text'))
             validate_card(args, card, CARD_SCHEMA, p["code"], factions_data, types_data, sides_data)
+            verify_stripped_text_is_ascii(args, card, p["code"])
+            verify_text_has_fancy_text(args, card, p["code"])
 
     for card in text_by_card_title:
         if len(text_by_card_title[card]) > 1:
