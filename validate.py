@@ -215,7 +215,7 @@ def verify_text_has_fancy_text(args, card, pack_code):
     global validation_errors
 
     text = card.get('text', '')
-    if ('[interrupt]' in text) and ('[interrupt] – ' not in text):
+    if ('[interrupt]' in text) and ('[interrupt] →' not in text):
         verbose_print(args, "ERROR\n", 2)
         verbose_print(
             args,
