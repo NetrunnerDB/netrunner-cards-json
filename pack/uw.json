@@ -94,9 +94,9 @@
         "position": 65,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "+1 link Interrupt - trash: Prevent 1 tag. trash: Remove 1 tag. Limit 1 console per player.",
+        "stripped_text": "+1 link Interrupt -> trash: Prevent 1 tag. trash: Remove 1 tag. Limit 1 console per player.",
         "stripped_title": "Forger",
-        "text": "+1[link]\n[interrupt] – <strong>[trash]:</strong> Prevent 1 tag.\n<strong>[trash]:</strong> Remove 1 tag.\nLimit 1 <strong>console</strong> per player.",
+        "text": "+1[link]\n[interrupt] → <strong>[trash]:</strong> Prevent 1 tag.\n<strong>[trash]:</strong> Remove 1 tag.\nLimit 1 <strong>console</strong> per player.",
         "title": "Forger",
         "type_code": "hardware",
         "uniqueness": false
@@ -235,9 +235,9 @@
         "position": 72,
         "quantity": 3,
         "side_code": "corp",
-        "stripped_text": "This card is not trashed until another current is played or an agenda is stolen. Interrupt - The first time each turn the Runner would suffer brain damage, increase that damage by 1.",
+        "stripped_text": "This card is not trashed until another current is played or an agenda is stolen. Interrupt -> The first time each turn the Runner would suffer brain damage, increase that damage by 1.",
         "stripped_title": "Defective Brainchips",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\n[interrupt] – The first time each turn the Runner would suffer brain damage, increase that damage by 1.",
+        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\n[interrupt] → The first time each turn the Runner would suffer brain damage, increase that damage by 1.",
         "title": "Defective Brainchips",
         "type_code": "operation",
         "uniqueness": false
