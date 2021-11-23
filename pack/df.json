@@ -352,9 +352,9 @@
         "position": 18,
         "quantity": 3,
         "side_code": "runner",
-        "stripped_text": "When your discard phase ends, if you installed this resource this turn, draw 4 cards. Interrupt -> The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, add 1 of them to the bottom of your stack.",
+        "stripped_text": "When your discard phase ends, if you installed this resource this turn, draw 4 cards. interrupt -> The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, if you drew at least 2, add 1 of them to the bottom of your stack.",
         "stripped_title": "The Class Act",
-        "text": "When your discard phase ends, if you installed this resource this turn, draw 4 cards.\n[interrupt] → The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, add 1 of them to the bottom of your stack.",
+        "text": "When your discard phase ends, if you installed this resource this turn, draw 4 cards.\n[interrupt] → The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, if you drew at least 2, add 1 of them to the bottom of your stack.",
         "title": "The Class Act",
         "type_code": "resource",
         "uniqueness": true
