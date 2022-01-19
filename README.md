@@ -15,6 +15,15 @@ The above script requires python package `jsonschema` which can be installed usi
 
 You can also just try to follow the style existing files use when editing entries. They are all formatted and checked using the script above.
 
+## Unstable Changes
+
+Work has begun on a new version of NetrunnerDB and we have learned a lot about the data and formats we need.
+
+New changes are coming to the files in this repo and this section lists data that is not yet stable.
+Use at your own risk because we reserve the right to change our minds suddenly.  :)
+
+* set_types.json - categorization for sets (nee packs).
+
 ## Description of properties in schemas
 
 Required properties are in **bold**.

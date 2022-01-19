@@ -113,6 +113,16 @@ def load_cycles(args):
 
     return cycles_data
 
+def load_set_types(args):
+    verbose_print(args, "Loading set types file...\n", 1)
+    set_types_path = os.path.join(args.base_path, "set_types.json")
+    set_types_data = load_json_file(args, set_types_path)
+
+    if not validate_set_types(args, set_types_data):
+        return None
+
+    return set_types_data
+
 def load_packs(args, cycles_data):
     verbose_print(args, "Loading pack index file...\n", 1)
     packs_path = os.path.join(args.base_path, "packs.json")
@@ -312,6 +322,41 @@ def validate_cycles(args, cycles_data):
             verbose_print(args, "Validation error in cycle: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
             validation_errors += 1
             verbose_print(args, "%s\n" % e.message, 0)
+            retval = False
+
+    return retval
+
+def validate_set_types(args, set_types_data):
+    global validation_errors
+
+    verbose_print(args, "Validating set types file...\n", 1)
+    set_type_schema_path = os.path.join(args.schema_path, "set_types_schema.json")
+    SET_TYPE_SCHEMA = load_json_file(args, set_type_schema_path)
+    if not isinstance(set_types_data, list):
+        verbose_print(args, "Insides of set_type index file are not a list!\n", 0)
+        return False
+    if not SET_TYPE_SCHEMA:
+        return False
+    if not check_json_schema(args, SET_TYPE_SCHEMA, set_type_schema_path):
+        return False
+
+    retval = True
+    for t in set_types_data:
+        try:
+            verbose_print(args, "Validating set_type %s... " % t.get("name"), 2)
+            jsonschema.validate(t, SET_TYPE_SCHEMA)
+            verbose_print(args, "OK\n", 2)
+        except jsonschema.ValidationError as e:
+            verbose_print(args, "ERROR\n",2)
+            verbose_print(args, "Validation error in set_type: (code: '%s' name: '%s')\n" % (t.get("code"), t.get("name")), 0)
+            validation_errors += 1
+            verbose_print(args, "%s\n" % e.message, 0)
+            retval = False
+        # Enforce the formatting on the values.
+        if t.get("name").replace(' ', '_').lower() != t.get("code"):
+            verbose_print(args, "ERROR\n",2)
+            verbose_print(args, "Validation error in set_type, code/name mismatch: (code: '%s' name: '%s')\n" % (t.get("code"), t.get("name")), 0)
+            validation_errors += 1
             retval = False
 
     return retval
@@ -529,6 +574,8 @@ def main():
     check_all_translations(args)
 
     cycles = load_cycles(args)
+
+    set_types = load_set_types(args)
 
     packs = load_packs(args, cycles)
 
