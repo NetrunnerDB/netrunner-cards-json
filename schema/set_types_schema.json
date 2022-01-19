@@ -1,0 +1,22 @@
+{
+    "$id": "https://github.com/NetrunnerDB/netrunner-cards-json/blob/master/schema/set_types_schema.json",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "additionalProperties": false,
+    "properties": {
+        "code": {
+            "description": "Name transformed to lowercase with _ instead of spaces.",
+            "minLength": 1,
+            "type": "string"
+        },
+        "name": {
+            "description": "Name of the type of set.",
+            "minLength": 1,
+            "type": "string"
+        }
+    },
+    "required": [
+        "code",
+        "name"
+    ],
+    "type": "object"
+}
