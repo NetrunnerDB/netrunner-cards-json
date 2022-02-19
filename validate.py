@@ -57,9 +57,11 @@ def custom_card_check(args, card, pack_code, factions_data, types_data, sides_da
     if card["type_code"] not in allowed_types:
         raise jsonschema.ValidationError("Type code '%s' of the card '%s' doesn't match any valid types for side '%s'." % (card["type_code"], card["code"], card["side_code"]))
 
-def custom_pack_check(args, pack, cycles_data):
+def custom_pack_check(args, pack, cycles_data, set_types_data):
     if pack["cycle_code"] not in [c["code"] for c in cycles_data]:
         raise jsonschema.ValidationError("Cycle code '%s' of the pack '%s' doesn't match any valid cycle code." % (pack["cycle_code"], pack["code"]))
+    if pack["type"] not in [t["code"] for t in set_types_data]:
+        raise jsonschema.ValidationError("Set type '%s' of the pack '%s' doesn't match any valid set type code." % (pack["type"], pack["code"]))
 
 def format_json(json_data):
     formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
@@ -124,12 +126,12 @@ def load_set_types(args):
 
     return set_types_data
 
-def load_packs(args, cycles_data):
+def load_packs(args, cycles_data, set_types_data):
     verbose_print(args, "Loading pack index file...\n", 1)
     packs_path = os.path.join(args.base_path, "packs.json")
     packs_data = load_json_file(args, packs_path)
 
-    if not validate_packs(args, packs_data, cycles_data):
+    if not validate_packs(args, packs_data, cycles_data, set_types_data):
         return None
 
     for p in packs_data:
@@ -362,7 +364,7 @@ def validate_set_types(args, set_types_data):
 
     return retval
 
-def validate_packs(args, packs_data, cycles_data):
+def validate_packs(args, packs_data, cycles_data, set_types_data):
     global validation_errors
 
     verbose_print(args, "Validating pack index file...\n", 1)
@@ -381,7 +383,7 @@ def validate_packs(args, packs_data, cycles_data):
         try:
             verbose_print(args, "Validating pack %s... " % p.get("name"), 2)
             jsonschema.validate(p, PACK_SCHEMA)
-            custom_pack_check(args, p, cycles_data)
+            custom_pack_check(args, p, cycles_data, set_types_data)
             verbose_print(args, "OK\n", 2)
         except jsonschema.ValidationError as e:
             verbose_print(args, "ERROR\n",2)
@@ -578,7 +580,7 @@ def main():
 
     set_types = load_set_types(args)
 
-    packs = load_packs(args, cycles)
+    packs = load_packs(args, cycles, set_types)
 
     factions = load_factions(args)
 

@@ -49,6 +49,10 @@
                     "type": "null"
                 }
             ]
+        },
+        "type": {
+            "minLength": 1,
+            "type": "string"
         }
     },
     "required": [
@@ -57,7 +61,8 @@
         "name",
         "position",
         "date_release",
-        "size"
+        "size",
+        "type"
     ],
     "type": "object"
 }
