@@ -1,0 +1,21 @@
+{
+    "card_type_id": "ice",
+    "cost": 7,
+    "deck_limit": 3,
+    "faction_id": "weyland-consortium",
+    "id": "trebuchet",
+    "influence_cost": 3,
+    "side_id": "corp",
+    "strength": 6,
+    "stripped_text": "When you rez this ice, take 1 bad publicity. Subroutine Trash 1 installed Runner card. Subroutine Trace 6 If successful, the Runner cannot steal or trash Corp cards for the remainder of the run.",
+    "stripped_title": "Trebuchet",
+    "subtypes": [
+        "sentry",
+        "illicit",
+        "destroyer",
+        "tracer"
+    ],
+    "text": "When you rez this ice, take 1 bad publicity.\n[subroutine] Trash 1 installed Runner card.\n[subroutine] <trace>Trace 6</trace> If successful, the Runner cannot steal or trash Corp cards for the remainder of the run.",
+    "title": "Trebuchet",
+    "uniqueness": false
+}

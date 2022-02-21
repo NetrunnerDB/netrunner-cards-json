@@ -1,0 +1,18 @@
+{
+    "card_type_id": "asset",
+    "cost": 1,
+    "deck_limit": 3,
+    "faction_id": "neutral-corp",
+    "id": "launch-campaign",
+    "influence_cost": 0,
+    "side_id": "corp",
+    "stripped_text": "Place 6 credits from the bank on Launch Campaign when it is rezzed. When there are no credits left on Launch Campaign, trash it. When your turn begins, take 2 credits from Launch Campaign.",
+    "stripped_title": "Launch Campaign",
+    "subtypes": [
+        "advertisement"
+    ],
+    "text": "Place 6[credit] from the bank on Launch Campaign when it is rezzed. When there are no credits left on Launch Campaign, trash it.\nWhen your turn begins, take 2[credit] from Launch Campaign.",
+    "title": "Launch Campaign",
+    "trash_cost": 2,
+    "uniqueness": false
+}

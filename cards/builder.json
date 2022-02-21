@@ -1,0 +1,18 @@
+{
+    "card_type_id": "ice",
+    "cost": 2,
+    "deck_limit": 3,
+    "faction_id": "weyland-consortium",
+    "id": "builder",
+    "influence_cost": 1,
+    "side_id": "corp",
+    "strength": 4,
+    "stripped_text": "click: Move this piece of ice to the outermost position protecting any server. Subroutine Place 1 advancement token on a piece of ice protecting this server that can be advanced. Subroutine Place 1 advancement token on a piece of ice protecting this server that can be advanced.",
+    "stripped_title": "Builder",
+    "subtypes": [
+        "code_gate"
+    ],
+    "text": "[click]: Move this piece of ice to the outermost position protecting any server.\n[subroutine] Place 1 advancement token on a piece of ice protecting this server that can be advanced.\n[subroutine] Place 1 advancement token on a piece of ice protecting this server that can be advanced.",
+    "title": "Builder",
+    "uniqueness": false
+}

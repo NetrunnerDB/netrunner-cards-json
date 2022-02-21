@@ -1,0 +1,17 @@
+{
+    "card_type_id": "hardware",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "anarch",
+    "id": "gachapon",
+    "influence_cost": 2,
+    "side_id": "runner",
+    "stripped_text": "trash: Set aside the top 6 cards of your stack. You may install 1 program or virtual resource from among the set aside cards, paying 2 credits less. Shuffle 3 of the remaining cards into your stack, then remove the rest from the game.",
+    "stripped_title": "Gachapon",
+    "subtypes": [
+        "chip"
+    ],
+    "text": "[trash]: Set aside the top 6 cards of your stack. You may install 1 program or <strong>virtual</strong> resource from among the set aside cards, paying 2[credit] less. Shuffle 3 of the remaining cards into your stack, then remove the rest from the game.",
+    "title": "Gachapon",
+    "uniqueness": false
+}

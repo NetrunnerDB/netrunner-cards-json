@@ -1,0 +1,20 @@
+{
+    "card_type_id": "ice",
+    "cost": 1,
+    "deck_limit": 3,
+    "faction_id": "nbn",
+    "id": "data-hound",
+    "influence_cost": 1,
+    "side_id": "corp",
+    "strength": 2,
+    "stripped_text": "Subroutine Trace 2 If successful, look at a number of cards from the top of the Runner's stack equal to the amount by which your trace strength exceeded his or her link strength. Trash 1 of those cards, and arrange the rest in any order.",
+    "stripped_title": "Data Hound",
+    "subtypes": [
+        "sentry",
+        "tracer",
+        "observer"
+    ],
+    "text": "[subroutine] <trace>Trace 2</trace> If successful, look at a number of cards from the top of the Runner's stack equal to the amount by which your trace strength exceeded his or her link strength. Trash 1 of those cards, and arrange the rest in any order.",
+    "title": "Data Hound",
+    "uniqueness": false
+}

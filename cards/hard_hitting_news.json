@@ -1,0 +1,17 @@
+{
+    "card_type_id": "operation",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "nbn",
+    "id": "hard-hitting-news",
+    "influence_cost": 2,
+    "side_id": "corp",
+    "stripped_text": "After you resolve this operation, end your action phase. Play only if the Runner made a run during his or her last turn. Trace 4 If successful, give the Runner 4 tags.",
+    "stripped_title": "Hard-Hitting News",
+    "subtypes": [
+        "terminal"
+    ],
+    "text": "After you resolve this operation, end your action phase.\nPlay only if the Runner made a run during his or her last turn.\n<trace>Trace 4</trace> If successful, give the Runner 4 tags.",
+    "title": "Hard-Hitting News",
+    "uniqueness": false
+}

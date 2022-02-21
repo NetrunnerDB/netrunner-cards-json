@@ -1,0 +1,20 @@
+{
+    "card_type_id": "program",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "shaper",
+    "id": "echelon",
+    "influence_cost": 1,
+    "memory_cost": 1,
+    "side_id": "runner",
+    "strength": 0,
+    "stripped_text": "This program gets +1 strength for each installed icebreaker (including this one). Interface -> 1 credit: Break 1 sentry subroutine. 3 credits: +2 strength.",
+    "stripped_title": "Echelon",
+    "subtypes": [
+        "icebreaker",
+        "killer"
+    ],
+    "text": "This program gets +1 strength for each installed <strong>icebreaker</strong> <em>(including this one)</em>.\nInterface → 1[credit]: Break 1 <strong>sentry</strong> subroutine.\n3[credit]: +2 strength.",
+    "title": "Echelon",
+    "uniqueness": false
+}

@@ -1,0 +1,19 @@
+{
+    "card_type_id": "upgrade",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "jinteki",
+    "id": "la-costa-grid",
+    "influence_cost": 3,
+    "side_id": "corp",
+    "stripped_text": "Remote server only. When your turn begins, place 1 advancement counter on 1 card installed in the root of this server. Limit 1 region per server.",
+    "stripped_title": "La Costa Grid",
+    "subtypes": [
+        "region",
+        "seedy"
+    ],
+    "text": "Remote server only.\nWhen your turn begins, place 1 advancement counter on 1 card installed in the root of this server.\nLimit 1 <strong>region</strong> per server.",
+    "title": "La Costa Grid",
+    "trash_cost": 4,
+    "uniqueness": false
+}

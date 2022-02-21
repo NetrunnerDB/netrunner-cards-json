@@ -1,0 +1,21 @@
+{
+    "card_type_id": "program",
+    "cost": 4,
+    "deck_limit": 3,
+    "faction_id": "anarch",
+    "id": "god-of-war",
+    "influence_cost": 3,
+    "memory_cost": 1,
+    "side_id": "runner",
+    "strength": 0,
+    "stripped_text": "When your turn begins, you may take 1 tag to place 2 virus counters on this program. Interface -> Hosted virus counter: Break 1 subroutine. 2 credits: +1 strength.",
+    "stripped_title": "God of War",
+    "subtypes": [
+        "icebreaker",
+        "ai",
+        "virus"
+    ],
+    "text": "When your turn begins, you may take 1 tag to place 2 virus counters on this program.\nInterface → <strong>Hosted virus counter:</strong> Break 1 subroutine.\n<strong>2[credit]:</strong> +1 strength.",
+    "title": "God of War",
+    "uniqueness": false
+}

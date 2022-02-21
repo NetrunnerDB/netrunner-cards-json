@@ -1,0 +1,18 @@
+{
+    "card_type_id": "program",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "anarch",
+    "id": "pawn",
+    "influence_cost": 1,
+    "memory_cost": 0,
+    "side_id": "runner",
+    "stripped_text": "click: Host this program on the outermost piece of ice protecting a central server. Whenever you make a successful run while this program is hosted on a piece of ice, move it to the next inward piece of ice, if able. If you cannot, trash this program and install 1 other Caissa program from your grip or heap, ignoring all costs.",
+    "stripped_title": "Pawn",
+    "subtypes": [
+        "caissa"
+    ],
+    "text": "<strong>[click]:</strong> Host this program on the outermost piece of ice protecting a central server.\nWhenever you make a successful run while this program is hosted on a piece of ice, move it to the next inward piece of ice, if able. If you cannot, trash this program and install 1 other <strong>Caïssa</strong> program from your grip or heap, ignoring all costs.",
+    "title": "Pawn",
+    "uniqueness": false
+}

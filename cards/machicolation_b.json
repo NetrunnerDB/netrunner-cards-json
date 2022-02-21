@@ -1,0 +1,20 @@
+{
+    "card_type_id": "ice",
+    "cost": 6,
+    "deck_limit": 3,
+    "faction_id": "neutral-corp",
+    "id": "machicolation-b",
+    "influence_cost": 0,
+    "side_id": "corp",
+    "strength": 4,
+    "stripped_text": "Subroutine Trash 1 resource. Subroutine Trash 1 resource. Subroutine Do 1 net damage. Subroutine The Runner loses click, if able. End the run.",
+    "stripped_title": "Machicolation B",
+    "subtypes": [
+        "code_gate",
+        "destroyer",
+        "ap"
+    ],
+    "text": "[subroutine] Trash 1 resource.\n[subroutine] Trash 1 resource.\n[subroutine] Do 1 net damage.\n[subroutine] The Runner loses [click], if able. End the run.",
+    "title": "Machicolation B",
+    "uniqueness": false
+}

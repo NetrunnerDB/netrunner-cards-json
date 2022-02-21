@@ -1,0 +1,18 @@
+{
+    "card_type_id": "upgrade",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "jinteki",
+    "id": "valley-grid",
+    "influence_cost": 2,
+    "side_id": "corp",
+    "stripped_text": "Whenever the Runner fully breaks a piece of ice protecting this server, they get -1 maximum hand size until the beginning of your next turn. Limit 1 region per server.",
+    "stripped_title": "Valley Grid",
+    "subtypes": [
+        "region"
+    ],
+    "text": "Whenever the Runner fully breaks a piece of ice protecting this server, they get -1 maximum hand size until the beginning of your next turn.\nLimit 1 <strong>region</strong> per server.",
+    "title": "Valley Grid",
+    "trash_cost": 3,
+    "uniqueness": false
+}

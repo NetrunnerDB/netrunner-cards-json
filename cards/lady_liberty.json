@@ -1,0 +1,19 @@
+{
+    "card_type_id": "asset",
+    "cost": 5,
+    "deck_limit": 1,
+    "faction_id": "neutral-corp",
+    "id": "lady-liberty",
+    "influence_cost": 0,
+    "side_id": "corp",
+    "stripped_text": "When your turn begins, place 1 power counter on Lady Liberty. click, click, click: Add an agenda from HQ to your score area worth agenda points equal to the exact number of hosted power counters. Limit 1 region per server. Limit 1 per deck.",
+    "stripped_title": "Lady Liberty",
+    "subtypes": [
+        "region",
+        "ritzy"
+    ],
+    "text": "When your turn begins, place 1 power counter on Lady Liberty.\n[click], [click], [click]: Add an agenda from HQ to your score area worth agenda points equal to the exact number of hosted power counters.\nLimit 1 <strong>region</strong> per server.\nLimit 1 per deck.",
+    "title": "Lady Liberty",
+    "trash_cost": 4,
+    "uniqueness": true
+}

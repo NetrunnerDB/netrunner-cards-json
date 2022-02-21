@@ -1,0 +1,17 @@
+{
+    "card_type_id": "resource",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "neutral-runner",
+    "id": "smartware-distributor",
+    "influence_cost": 0,
+    "side_id": "runner",
+    "stripped_text": "click: Place 3 credits on this resource. When your turn begins, take 1 credit from this resource.",
+    "stripped_title": "Smartware Distributor",
+    "subtypes": [
+        "connection"
+    ],
+    "text": "[click]: Place 3[credit] on this resource.\nWhen your turn begins, take 1[credit] from this resource.",
+    "title": "Smartware Distributor",
+    "uniqueness": false
+}

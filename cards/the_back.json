@@ -1,0 +1,18 @@
+{
+    "card_type_id": "resource",
+    "cost": 1,
+    "deck_limit": 3,
+    "faction_id": "criminal",
+    "id": "the-back",
+    "influence_cost": 4,
+    "side_id": "runner",
+    "stripped_text": "The first time each turn you use hardware during a run, place 1 power counter on this resource. click, remove this resource from the game: Shuffle up to X cards with trash abilities from your heap into your stack. X is double the number of hosted power counters.",
+    "stripped_title": "The Back",
+    "subtypes": [
+        "job",
+        "location"
+    ],
+    "text": "The first time each turn you use hardware during a run, place 1 power counter on this resource.\n[click], <strong>remove this resource from the game:</strong> Shuffle up to X cards with [trash] abilities from your heap into your stack. X is double the number of hosted power counters.",
+    "title": "The Back",
+    "uniqueness": true
+}

@@ -1,0 +1,21 @@
+{
+    "card_type_id": "program",
+    "cost": 1,
+    "deck_limit": 3,
+    "faction_id": "criminal",
+    "id": "crowbar",
+    "influence_cost": 2,
+    "memory_cost": 1,
+    "side_id": "runner",
+    "strength": 0,
+    "stripped_text": "If you have at least 2 link, the memory cost of this program is 0 mu, even if it is not installed. This program gets +1 strength for each installed icebreaker. Interface -> trash: Break up to 3 code gate subroutines.",
+    "stripped_title": "Crowbar",
+    "subtypes": [
+        "icebreaker",
+        "decoder",
+        "cloud"
+    ],
+    "text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nThis program gets +1 strength for each installed <strong>icebreaker</strong>.\nInterface → <strong>[trash]:</strong> Break up to 3 <strong>code gate</strong> subroutines.",
+    "title": "Crowbar",
+    "uniqueness": false
+}

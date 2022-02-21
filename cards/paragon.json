@@ -1,0 +1,17 @@
+{
+    "card_type_id": "hardware",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "criminal",
+    "id": "paragon",
+    "influence_cost": 2,
+    "side_id": "runner",
+    "stripped_text": "+1 mu The first time you make a successful run each turn, you may gain 1 credit and look at the top card of your stack. If you do, you may add that card to the bottom of your stack. Limit 1 console per player.",
+    "stripped_title": "Paragon",
+    "subtypes": [
+        "console"
+    ],
+    "text": "+1[mu]\nThe first time you make a successful run each turn, you may gain 1[credit] and look at the top card of your stack. If you do, you may add that card to the bottom of your stack.\nLimit 1 <strong>console</strong> per player.",
+    "title": "Paragon",
+    "uniqueness": true
+}

@@ -1,0 +1,17 @@
+{
+    "card_type_id": "event",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "neutral-runner",
+    "id": "corporate-scandal",
+    "influence_cost": 1,
+    "side_id": "runner",
+    "stripped_text": "This card is not trashed until another current is played or an agenda is scored. The Corp has 1 additional bad publicity (even if they have 0).",
+    "stripped_title": "Corporate Scandal",
+    "subtypes": [
+        "current"
+    ],
+    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp has 1 additional bad publicity (even if they have 0).",
+    "title": "Corporate Scandal",
+    "uniqueness": false
+}

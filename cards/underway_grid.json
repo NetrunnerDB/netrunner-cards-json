@@ -1,0 +1,18 @@
+{
+    "card_type_id": "upgrade",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "neutral-corp",
+    "id": "underway-grid",
+    "influence_cost": 0,
+    "side_id": "corp",
+    "stripped_text": "Ice protecting this server cannot be bypassed. Cards in the root of and/or protecting this server cannot be exposed. Limit 1 region per server.",
+    "stripped_title": "Underway Grid",
+    "subtypes": [
+        "region"
+    ],
+    "text": "Ice protecting this server cannot be bypassed.\nCards in the root of and/or protecting this server cannot be exposed.\nLimit 1 <strong>region</strong> per server.",
+    "title": "Underway Grid",
+    "trash_cost": 3,
+    "uniqueness": false
+}

@@ -1,0 +1,18 @@
+{
+    "card_type_id": "ice",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "nbn",
+    "id": "tmi",
+    "influence_cost": 1,
+    "side_id": "corp",
+    "strength": 5,
+    "stripped_text": "When you rez TMI, trace 2 if unsuccessful, derez TMI. Subroutine End the run.",
+    "stripped_title": "TMI",
+    "subtypes": [
+        "barrier"
+    ],
+    "text": "When you rez TMI, <trace>trace 2</trace> if unsuccessful, derez TMI.\n[subroutine] End the run.",
+    "title": "TMI",
+    "uniqueness": false
+}

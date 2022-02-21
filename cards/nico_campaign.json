@@ -1,0 +1,18 @@
+{
+    "card_type_id": "asset",
+    "cost": 2,
+    "deck_limit": 3,
+    "faction_id": "haas-bioroid",
+    "id": "nico-campaign",
+    "influence_cost": 2,
+    "side_id": "corp",
+    "stripped_text": "When you rez this asset, load 9 credits onto it. When it is empty, trash it and draw 1 card. When your turn begins, take 3 credits from this asset.",
+    "stripped_title": "Nico Campaign",
+    "subtypes": [
+        "advertisement"
+    ],
+    "text": "When you rez this asset, load 9[credit] onto it. When it is empty, trash it and draw 1 card.\nWhen your turn begins, take 3[credit] from this asset.",
+    "title": "Nico Campaign",
+    "trash_cost": 2,
+    "uniqueness": false
+}

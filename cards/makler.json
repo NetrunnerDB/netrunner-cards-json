@@ -1,0 +1,20 @@
+{
+    "card_type_id": "program",
+    "cost": 5,
+    "deck_limit": 3,
+    "faction_id": "criminal",
+    "id": "makler",
+    "influence_cost": 2,
+    "memory_cost": 1,
+    "side_id": "runner",
+    "strength": 2,
+    "stripped_text": "Interface -> 2 credits: Break up to 2 barrier subroutines. 2 credits: +2 strength. The first time each turn this program fully breaks a piece of ice, gain 1 credit.",
+    "stripped_title": "Makler",
+    "subtypes": [
+        "icebreaker",
+        "fracter"
+    ],
+    "text": "Interface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +2 strength.\nThe first time each turn this program fully breaks a piece of ice, gain 1[credit].",
+    "title": "Makler",
+    "uniqueness": false
+}

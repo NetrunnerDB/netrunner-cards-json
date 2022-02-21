@@ -1,0 +1,17 @@
+{
+    "card_type_id": "event",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "criminal",
+    "id": "drive-by",
+    "influence_cost": 2,
+    "side_id": "runner",
+    "stripped_text": "As an additional cost to play this event, spend click. Expose 1 card installed in the root of a remote server. If you do and that card is an asset or upgrade, trash it.",
+    "stripped_title": "Drive By",
+    "subtypes": [
+        "double"
+    ],
+    "text": "As an additional cost to play this event, spend [click].\nExpose 1 card installed in the root of a remote server. If you do and that card is an asset or upgrade, trash it.",
+    "title": "Drive By",
+    "uniqueness": false
+}

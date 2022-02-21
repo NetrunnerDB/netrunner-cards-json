@@ -1,0 +1,18 @@
+{
+    "card_type_id": "upgrade",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "nbn",
+    "id": "bernice-mai",
+    "influence_cost": 2,
+    "side_id": "corp",
+    "stripped_text": "Whenever there is a successful run on this server, trace 5 if successful, give the Runner 1 tag. If unsuccessful, trash Bernice Mai.",
+    "stripped_title": "Bernice Mai",
+    "subtypes": [
+        "sysop"
+    ],
+    "text": "Whenever there is a successful run on this server, <trace>trace 5</trace> if successful, give the Runner 1 tag. If unsuccessful, trash Bernice Mai.",
+    "title": "Bernice Mai",
+    "trash_cost": 3,
+    "uniqueness": true
+}

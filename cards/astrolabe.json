@@ -1,0 +1,17 @@
+{
+    "card_type_id": "hardware",
+    "cost": 1,
+    "deck_limit": 3,
+    "faction_id": "shaper",
+    "id": "astrolabe",
+    "influence_cost": 2,
+    "side_id": "runner",
+    "stripped_text": "+1 mu Draw 1 card whenever the Corp creates a server. Limit 1 console per player.",
+    "stripped_title": "Astrolabe",
+    "subtypes": [
+        "console"
+    ],
+    "text": "+1[mu]\nDraw 1 card whenever the Corp creates a server.\nLimit 1 <strong>console</strong> per player.",
+    "title": "Astrolabe",
+    "uniqueness": true
+}

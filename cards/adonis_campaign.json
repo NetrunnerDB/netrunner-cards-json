@@ -1,0 +1,18 @@
+{
+    "card_type_id": "asset",
+    "cost": 4,
+    "deck_limit": 3,
+    "faction_id": "haas-bioroid",
+    "id": "adonis-campaign",
+    "influence_cost": 2,
+    "side_id": "corp",
+    "stripped_text": "Put 12 credits from the bank on Adonis Campaign when rezzed. When there are no credits left on Adonis Campaign, trash it. Take 3 credits from Adonis Campaign when your turn begins.",
+    "stripped_title": "Adonis Campaign",
+    "subtypes": [
+        "advertisement"
+    ],
+    "text": "Put 12[credit] from the bank on Adonis Campaign when rezzed. When there are no credits left on Adonis Campaign, trash it.\nTake 3[credit] from Adonis Campaign when your turn begins.",
+    "title": "Adonis Campaign",
+    "trash_cost": 3,
+    "uniqueness": false
+}

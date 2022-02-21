@@ -1,0 +1,18 @@
+{
+    "card_type_id": "asset",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "weyland-consortium",
+    "id": "sealed-vault",
+    "influence_cost": 1,
+    "side_id": "corp",
+    "stripped_text": "1 credit: Move any number of credits from your credit pool to this asset. click: Take any number of credits from this asset. trash: Take any number of credits from this asset.",
+    "stripped_title": "Sealed Vault",
+    "subtypes": [
+        "facility"
+    ],
+    "text": "<strong>1[credit]:</strong> Move any number of credits from your credit pool to this asset.\n<strong>[click]:</strong> Take any number of credits from this asset.\n<strong>[trash]:</strong> Take any number of credits from this asset.",
+    "title": "Sealed Vault",
+    "trash_cost": 8,
+    "uniqueness": false
+}

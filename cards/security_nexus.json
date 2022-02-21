@@ -1,0 +1,17 @@
+{
+    "card_type_id": "hardware",
+    "cost": 8,
+    "deck_limit": 3,
+    "faction_id": "sunny-lebeau",
+    "id": "security-nexus",
+    "influence_cost": 3,
+    "side_id": "runner",
+    "stripped_text": "+1 mu +1 link Once per turn, when you encounter a piece of ice, you may force the Corp to \"trace 5 If successful, give the Runner 1 tag and end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\" Limit 1 console per player.",
+    "stripped_title": "Security Nexus",
+    "subtypes": [
+        "console"
+    ],
+    "text": "+1[mu] +1[link]\nOnce per turn, when you encounter a piece of ice, you may force the Corp to \"<trace>trace 5</trace> If successful, give the Runner 1 tag and end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\"\nLimit 1 <strong>console</strong> per player.",
+    "title": "Security Nexus",
+    "uniqueness": true
+}

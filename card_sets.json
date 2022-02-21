@@ -1,0 +1,614 @@
+[
+    {
+        "id": "draft",
+        "name": "Draft",
+        "date_release": null,
+        "position": 1,
+        "size": null,
+        "card_cycle_id": "draft",
+        "card_set_type_id": "draft"
+    },
+    {
+        "id": "core-set",
+        "name": "Core Set",
+        "date_release": "2012-09-06",
+        "position": 1,
+        "size": 113,
+        "card_cycle_id": "core",
+        "card_set_type_id": "core"
+    },
+    {
+        "id": "what-lies-ahead",
+        "name": "What Lies Ahead",
+        "date_release": "2012-12-14",
+        "position": 1,
+        "size": 20,
+        "card_cycle_id": "genesis",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "trace-amount",
+        "name": "Trace Amount",
+        "date_release": "2013-01-09",
+        "position": 2,
+        "size": 20,
+        "card_cycle_id": "genesis",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "cyber-exodus",
+        "name": "Cyber Exodus",
+        "date_release": "2013-02-14",
+        "position": 3,
+        "size": 20,
+        "card_cycle_id": "genesis",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "a-study-in-static",
+        "name": "A Study in Static",
+        "date_release": "2013-03-21",
+        "position": 4,
+        "size": 20,
+        "card_cycle_id": "genesis",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "humanity-s-shadow",
+        "name": "Humanity's Shadow",
+        "date_release": "2013-05-02",
+        "position": 5,
+        "size": 20,
+        "card_cycle_id": "genesis",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "future-proof",
+        "name": "Future Proof",
+        "date_release": "2013-05-30",
+        "position": 6,
+        "size": 20,
+        "card_cycle_id": "genesis",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "creation-and-control",
+        "name": "Creation and Control",
+        "date_release": "2013-07-29",
+        "position": 1,
+        "size": 55,
+        "card_cycle_id": "creation-and-control",
+        "card_set_type_id": "deluxe"
+    },
+    {
+        "id": "opening-moves",
+        "name": "Opening Moves",
+        "date_release": "2013-09-27",
+        "position": 1,
+        "size": 20,
+        "card_cycle_id": "spin",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "second-thoughts",
+        "name": "Second Thoughts",
+        "date_release": "2013-11-07",
+        "position": 2,
+        "size": 20,
+        "card_cycle_id": "spin",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "mala-tempora",
+        "name": "Mala Tempora",
+        "date_release": "2013-12-13",
+        "position": 3,
+        "size": 20,
+        "card_cycle_id": "spin",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "true-colors",
+        "name": "True Colors",
+        "date_release": "2014-01-17",
+        "position": 4,
+        "size": 20,
+        "card_cycle_id": "spin",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "fear-and-loathing",
+        "name": "Fear and Loathing",
+        "date_release": "2014-02-21",
+        "position": 5,
+        "size": 20,
+        "card_cycle_id": "spin",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "double-time",
+        "name": "Double Time",
+        "date_release": "2014-03-28",
+        "position": 6,
+        "size": 20,
+        "card_cycle_id": "spin",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "honor-and-profit",
+        "name": "Honor and Profit",
+        "date_release": "2014-05-02",
+        "position": 1,
+        "size": 55,
+        "card_cycle_id": "honor-and-profit",
+        "card_set_type_id": "deluxe"
+    },
+    {
+        "id": "upstalk",
+        "name": "Upstalk",
+        "date_release": "2014-07-25",
+        "position": 1,
+        "size": 20,
+        "card_cycle_id": "lunar",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "the-spaces-between",
+        "name": "The Spaces Between",
+        "date_release": "2014-08-15",
+        "position": 2,
+        "size": 20,
+        "card_cycle_id": "lunar",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "first-contact",
+        "name": "First Contact",
+        "date_release": "2014-09-15",
+        "position": 3,
+        "size": 20,
+        "card_cycle_id": "lunar",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "up-and-over",
+        "name": "Up and Over",
+        "date_release": "2014-10-16",
+        "position": 4,
+        "size": 20,
+        "card_cycle_id": "lunar",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "all-that-remains",
+        "name": "All That Remains",
+        "date_release": "2014-11-13",
+        "position": 5,
+        "size": 20,
+        "card_cycle_id": "lunar",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "the-source",
+        "name": "The Source",
+        "date_release": "2014-12-18",
+        "position": 6,
+        "size": 20,
+        "card_cycle_id": "lunar",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "order-and-chaos",
+        "name": "Order and Chaos",
+        "date_release": "2015-01-28",
+        "position": 1,
+        "size": 55,
+        "card_cycle_id": "order-and-chaos",
+        "card_set_type_id": "deluxe"
+    },
+    {
+        "id": "the-valley",
+        "name": "The Valley",
+        "date_release": "2015-04-03",
+        "position": 1,
+        "size": 20,
+        "card_cycle_id": "sansan",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "breaker-bay",
+        "name": "Breaker Bay",
+        "date_release": "2015-04-24",
+        "position": 2,
+        "size": 20,
+        "card_cycle_id": "sansan",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "chrome-city",
+        "name": "Chrome City",
+        "date_release": "2015-05-29",
+        "position": 3,
+        "size": 20,
+        "card_cycle_id": "sansan",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "the-underway",
+        "name": "The Underway",
+        "date_release": "2015-07-02",
+        "position": 4,
+        "size": 20,
+        "card_cycle_id": "sansan",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "old-hollywood",
+        "name": "Old Hollywood",
+        "date_release": "2015-08-06",
+        "position": 5,
+        "size": 20,
+        "card_cycle_id": "sansan",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "the-universe-of-tomorrow",
+        "name": "The Universe of Tomorrow",
+        "date_release": "2015-09-03",
+        "position": 6,
+        "size": 20,
+        "card_cycle_id": "sansan",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "data-and-destiny",
+        "name": "Data and Destiny",
+        "date_release": "2015-10-29",
+        "position": 1,
+        "size": 55,
+        "card_cycle_id": "data-and-destiny",
+        "card_set_type_id": "deluxe"
+    },
+    {
+        "id": "kala-ghoda",
+        "name": "Kala Ghoda",
+        "date_release": "2016-01-29",
+        "position": 1,
+        "size": 19,
+        "card_cycle_id": "mumbad",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "business-first",
+        "name": "Business First",
+        "date_release": "2016-03-11",
+        "position": 2,
+        "size": 19,
+        "card_cycle_id": "mumbad",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "democracy-and-dogma",
+        "name": "Democracy and Dogma",
+        "date_release": "2016-04-01",
+        "position": 3,
+        "size": 19,
+        "card_cycle_id": "mumbad",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "salsette-island",
+        "name": "Salsette Island",
+        "date_release": "2016-04-28",
+        "position": 4,
+        "size": 19,
+        "card_cycle_id": "mumbad",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "the-liberated-mind",
+        "name": "The Liberated Mind",
+        "date_release": "2016-05-26",
+        "position": 5,
+        "size": 19,
+        "card_cycle_id": "mumbad",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "fear-the-masses",
+        "name": "Fear the Masses",
+        "date_release": "2016-06-16",
+        "position": 6,
+        "size": 19,
+        "card_cycle_id": "mumbad",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "23-seconds",
+        "name": "23 Seconds",
+        "date_release": "2016-07-14",
+        "position": 1,
+        "size": 20,
+        "card_cycle_id": "flashpoint",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "blood-money",
+        "name": "Blood Money",
+        "date_release": "2016-08-11",
+        "position": 2,
+        "size": 20,
+        "card_cycle_id": "flashpoint",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "escalation",
+        "name": "Escalation",
+        "date_release": "2016-10-06",
+        "position": 3,
+        "size": 20,
+        "card_cycle_id": "flashpoint",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "intervention",
+        "name": "Intervention",
+        "date_release": "2016-11-03",
+        "position": 4,
+        "size": 20,
+        "card_cycle_id": "flashpoint",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "martial-law",
+        "name": "Martial Law",
+        "date_release": "2016-12-08",
+        "position": 5,
+        "size": 20,
+        "card_cycle_id": "flashpoint",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "quorum",
+        "name": "Quorum",
+        "date_release": "2017-01-12",
+        "position": 6,
+        "size": 20,
+        "card_cycle_id": "flashpoint",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "daedalus-complex",
+        "name": "Daedalus Complex",
+        "date_release": "2017-02-23",
+        "position": 1,
+        "size": 20,
+        "card_cycle_id": "red-sand",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "station-one",
+        "name": "Station One",
+        "date_release": "2017-03-23",
+        "position": 2,
+        "size": 20,
+        "card_cycle_id": "red-sand",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "terminal-directive-campaign",
+        "name": "Terminal Directive Campaign",
+        "date_release": "2017-04-27",
+        "position": 2,
+        "size": 18,
+        "card_cycle_id": "terminal-directive",
+        "card_set_type_id": "campaign"
+    },
+    {
+        "id": "terminal-directive-cards",
+        "name": "Terminal Directive Cards",
+        "date_release": "2017-04-27",
+        "position": 1,
+        "size": 57,
+        "card_cycle_id": "terminal-directive",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "earth-s-scion",
+        "name": "Earth's Scion",
+        "date_release": "2017-05-25",
+        "position": 3,
+        "size": 20,
+        "card_cycle_id": "red-sand",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "blood-and-water",
+        "name": "Blood and Water",
+        "date_release": "2017-06-22",
+        "position": 4,
+        "size": 20,
+        "card_cycle_id": "red-sand",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "free-mars",
+        "name": "Free Mars",
+        "date_release": "2017-07-20",
+        "position": 5,
+        "size": 20,
+        "card_cycle_id": "red-sand",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "crimson-dust",
+        "name": "Crimson Dust",
+        "date_release": "2017-08-17",
+        "position": 6,
+        "size": 20,
+        "card_cycle_id": "red-sand",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "revised-core-set",
+        "name": "Revised Core Set",
+        "date_release": "2017-12-14",
+        "position": 1,
+        "size": 132,
+        "card_cycle_id": "core2",
+        "card_set_type_id": "core"
+    },
+    {
+        "id": "sovereign-sight",
+        "name": "Sovereign Sight",
+        "date_release": "2017-12-28",
+        "position": 1,
+        "size": 20,
+        "card_cycle_id": "kitara",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "down-the-white-nile",
+        "name": "Down the White Nile",
+        "date_release": "2018-02-01",
+        "position": 2,
+        "size": 20,
+        "card_cycle_id": "kitara",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "council-of-the-crest",
+        "name": "Council of the Crest",
+        "date_release": "2018-03-01",
+        "position": 3,
+        "size": 20,
+        "card_cycle_id": "kitara",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "the-devil-and-the-dragon",
+        "name": "The Devil and the Dragon",
+        "date_release": "2018-04-05",
+        "position": 4,
+        "size": 20,
+        "card_cycle_id": "kitara",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "whispers-in-nalubaale",
+        "name": "Whispers in Nalubaale",
+        "date_release": "2018-05-03",
+        "position": 5,
+        "size": 20,
+        "card_cycle_id": "kitara",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "kampala-ascendent",
+        "name": "Kampala Ascendent",
+        "date_release": "2018-05-31",
+        "position": 6,
+        "size": 20,
+        "card_cycle_id": "kitara",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "reign-and-reverie",
+        "name": "Reign and Reverie",
+        "date_release": "2018-06-28",
+        "position": 1,
+        "size": 58,
+        "card_cycle_id": "reign-and-reverie",
+        "card_set_type_id": "deluxe"
+    },
+    {
+        "id": "magnum-opus",
+        "name": "Magnum Opus",
+        "date_release": "2018-09-07",
+        "position": 1,
+        "size": 8,
+        "card_cycle_id": "magnum-opus",
+        "card_set_type_id": "expansion"
+    },
+    {
+        "id": "napd-multiplayer",
+        "name": "NAPD Multiplayer",
+        "date_release": "2018-09-07",
+        "position": 1,
+        "size": 1,
+        "card_cycle_id": "napd",
+        "card_set_type_id": "promo"
+    },
+    {
+        "id": "system-core-2019",
+        "name": "System Core 2019",
+        "date_release": "2018-12-21",
+        "position": 1,
+        "size": 147,
+        "card_cycle_id": "sc19",
+        "card_set_type_id": "core"
+    },
+    {
+        "id": "downfall",
+        "name": "Downfall",
+        "date_release": "2019-03-18",
+        "position": 1,
+        "size": 65,
+        "card_cycle_id": "ashes",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "magnum-opus-reprint",
+        "name": "Magnum Opus Reprint",
+        "date_release": "2019-07-24",
+        "position": 1,
+        "size": 6,
+        "card_cycle_id": "magnum-opus-reprint",
+        "card_set_type_id": "expansion"
+    },
+    {
+        "id": "uprising-booster-pack",
+        "name": "Uprising Booster Pack",
+        "date_release": "2019-09-09",
+        "position": 2,
+        "size": 7,
+        "card_cycle_id": "ashes",
+        "card_set_type_id": "expansion"
+    },
+    {
+        "id": "uprising",
+        "name": "Uprising",
+        "date_release": "2019-12-31",
+        "position": 3,
+        "size": 65,
+        "card_cycle_id": "ashes",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "salvaged-memories",
+        "name": "Salvaged Memories",
+        "date_release": "2020-12-18",
+        "position": 1,
+        "size": 18,
+        "card_cycle_id": "salvaged-memories",
+        "card_set_type_id": "data_pack"
+    },
+    {
+        "id": "system-gateway",
+        "name": "System Gateway",
+        "date_release": "2021-03-28",
+        "position": 1,
+        "size": 77,
+        "card_cycle_id": "system-gateway",
+        "card_set_type_id": "core"
+    },
+    {
+        "id": "system-update-2021",
+        "name": "System Update 2021",
+        "date_release": "2021-03-28",
+        "position": 1,
+        "size": 82,
+        "card_cycle_id": "system-update-2021",
+        "card_set_type_id": "core"
+    }
+]

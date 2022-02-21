@@ -1,0 +1,17 @@
+{
+    "card_type_id": "event",
+    "cost": 1,
+    "deck_limit": 3,
+    "faction_id": "shaper",
+    "id": "game-day",
+    "influence_cost": 3,
+    "side_id": "runner",
+    "stripped_text": "As an additional cost to play this event, spend click. If you have fewer cards in your grip than your maximum hand size, draw cards until you have cards in your grip equal to your maximum hand size.",
+    "stripped_title": "Game Day",
+    "subtypes": [
+        "double"
+    ],
+    "text": "As an additional cost to play this event, spend [click].\nIf you have fewer cards in your grip than your maximum hand size, draw cards until you have cards in your grip equal to your maximum hand size.",
+    "title": "Game Day",
+    "uniqueness": false
+}

@@ -1,0 +1,20 @@
+{
+    "card_type_id": "ice",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "jinteki",
+    "id": "swordsman",
+    "influence_cost": 1,
+    "side_id": "corp",
+    "strength": 2,
+    "stripped_text": "The Runner cannot break subroutines on this ice using AI programs. Subroutine Trash 1 installed AI program. Subroutine Do 1 net damage.",
+    "stripped_title": "Swordsman",
+    "subtypes": [
+        "sentry",
+        "ap",
+        "destroyer"
+    ],
+    "text": "The Runner cannot break subroutines on this ice using <strong>AI</strong> programs.\n[subroutine] Trash 1 installed <strong>AI</strong> program.\n[subroutine] Do 1 net damage.",
+    "title": "Swordsman",
+    "uniqueness": false
+}

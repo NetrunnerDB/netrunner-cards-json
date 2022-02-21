@@ -1,0 +1,19 @@
+{
+    "card_type_id": "event",
+    "cost": 3,
+    "deck_limit": 1,
+    "faction_id": "neutral-runner",
+    "id": "watch-the-world-burn",
+    "influence_cost": 1,
+    "side_id": "runner",
+    "stripped_text": "After you resolve this event, end your action phase. Make a run on a remote server. If successful, remove the first non-agenda card that you access from the game. Until the game ends, whenever you access a copy of that card, remove it from the game. Limit 1 per deck.",
+    "stripped_title": "Watch the World Burn",
+    "subtypes": [
+        "orgcrime",
+        "run",
+        "terminal"
+    ],
+    "text": "After you resolve this event, end your action phase.\nMake a run on a remote server. If successful, remove the first non-agenda card that you access from the game.\nUntil the game ends, whenever you access a copy of that card, remove it from the game.\nLimit 1 per deck.",
+    "title": "Watch the World Burn",
+    "uniqueness": false
+}

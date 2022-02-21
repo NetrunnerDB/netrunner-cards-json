@@ -1,0 +1,18 @@
+{
+    "card_type_id": "operation",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "haas-bioroid",
+    "id": "next-activation-command",
+    "influence_cost": 3,
+    "side_id": "corp",
+    "stripped_text": "Play only if there is no active lockdown. This operation is not trashed until your next turn begins. The Runner cannot use non-icebreaker cards to break subroutines. Each piece of ice has +2 strength.",
+    "stripped_title": "NEXT Activation Command",
+    "subtypes": [
+        "lockdown"
+    ],
+    "text": "Play only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nThe Runner cannot use non-<strong>icebreaker</strong> cards to break subroutines. Each piece of ice has +2 strength.",
+    "title": "NEXT Activation Command",
+    "trash_cost": 4,
+    "uniqueness": false
+}

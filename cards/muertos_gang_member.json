@@ -1,0 +1,17 @@
+{
+    "card_type_id": "resource",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "criminal",
+    "id": "muertos-gang-member",
+    "influence_cost": 2,
+    "side_id": "runner",
+    "stripped_text": "When you install Muertos Gang Member, the Corp must derez a card. When Muertos Gang Member is uninstalled, the Corp may rez a card, ignoring the rez cost. trash: Draw 1 card.",
+    "stripped_title": "Muertos Gang Member",
+    "subtypes": [
+        "connection"
+    ],
+    "text": "When you install Muertos Gang Member, the Corp must derez a card.\nWhen Muertos Gang Member is uninstalled, the Corp may rez a card, ignoring the rez cost.\n[trash]: Draw 1 card.",
+    "title": "Muertos Gang Member",
+    "uniqueness": false
+}

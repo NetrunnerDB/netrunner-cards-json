@@ -1,0 +1,18 @@
+{
+    "card_type_id": "asset",
+    "cost": 1,
+    "deck_limit": 3,
+    "faction_id": "weyland-consortium",
+    "id": "wall-to-wall",
+    "influence_cost": 3,
+    "side_id": "corp",
+    "stripped_text": "When your turn begins, if you have any other rezzed assets, resolve 1 of the following; otherwise, resolve up to 3: * Draw 1 card. * Gain 1 credit. * Place 1 advancement token on a piece of ice. * Add this asset to HQ.",
+    "stripped_title": "Wall to Wall",
+    "subtypes": [
+        "advertisement"
+    ],
+    "text": "When your turn begins, if you have any other rezzed assets, resolve 1 of the following; otherwise, resolve up to 3:<ul><li>Draw 1 card.</li><li>Gain 1[credit].</li><li>Place 1 advancement token on a piece of ice.</li><li>Add this asset to HQ.</li></ul>",
+    "title": "Wall to Wall",
+    "trash_cost": 3,
+    "uniqueness": true
+}

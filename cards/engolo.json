@@ -1,0 +1,20 @@
+{
+    "card_type_id": "program",
+    "cost": 5,
+    "deck_limit": 3,
+    "faction_id": "shaper",
+    "id": "engolo",
+    "influence_cost": 4,
+    "memory_cost": 2,
+    "side_id": "runner",
+    "strength": 2,
+    "stripped_text": "Whenever you encounter a piece of ice, you may pay 2 credits. If you do, it gains code gate for the remainder of that encounter. Use this ability only once per turn. Interface -> 1 credit: Break 1 code gate subroutine. 2 credits: +4 strength.",
+    "stripped_title": "Engolo",
+    "subtypes": [
+        "icebreaker",
+        "decoder"
+    ],
+    "text": "Whenever you encounter a piece of ice, you may pay 2[credit]. If you do, it gains <strong>code gate</strong> for the remainder of that encounter. Use this ability only once per turn.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> +4 strength.",
+    "title": "Engolo",
+    "uniqueness": false
+}
