@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "anarch",
-    "id": "null-whistleblower",
+    "id": "null_whistleblower",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 45,
     "side_id": "runner",
     "stripped_text": "Once per turn, when you encounter a piece of ice, you may trash 1 card from your grip. If you do, that ice has -2 strength for the remainder of this run.",
@@ -13,6 +14,5 @@
         "natural"
     ],
     "text": "Once per turn, when you encounter a piece of ice, you may trash 1 card from your grip. If you do, that ice has -2 strength for the remainder of this run.",
-    "title": "Null: Whistleblower",
-    "uniqueness": false
+    "title": "Null: Whistleblower"
 }

@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "amazon-industrial-zone",
+    "id": "amazon_industrial_zone",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Whenever you install a piece of ice protecting this server, you may immediately rez it, lowering its rez cost by 3. Limit 1 region per server.",
     "stripped_title": "Amazon Industrial Zone",
@@ -13,6 +14,5 @@
     ],
     "text": "Whenever you install a piece of ice protecting this server, you may immediately rez it, lowering its rez cost by 3.\nLimit 1 <strong>region</strong> per server.",
     "title": "Amazon Industrial Zone",
-    "trash_cost": 2,
-    "uniqueness": false
+    "trash_cost": 2
 }

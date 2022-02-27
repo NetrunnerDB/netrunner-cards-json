@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "prisec",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "If the Runner accesses Prisec while installed, you may pay 2 credits to give the Runner 1 tag and do 1 meat damage.",
     "stripped_title": "Prisec",
@@ -13,6 +14,5 @@
     ],
     "text": "If the Runner accesses Prisec while installed, you may pay 2[credit] to give the Runner 1 tag and do 1 meat damage.",
     "title": "Prisec",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

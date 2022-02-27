@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "restructure",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Gain 15 credits.",
     "stripped_title": "Restructure",
@@ -12,6 +13,5 @@
         "transaction"
     ],
     "text": "Gain 15[credit].",
-    "title": "Restructure",
-    "uniqueness": false
+    "title": "Restructure"
 }

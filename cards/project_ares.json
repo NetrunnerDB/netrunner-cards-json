@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "project-ares",
+    "id": "project_ares",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score Project Ares, the Runner trashes 1 of his or her installed cards for each advancement token on Project Ares over 4. If the Runner trashes at least 1 card, take 1 bad publicity.",
     "stripped_title": "Project Ares",
@@ -12,6 +13,5 @@
         "security"
     ],
     "text": "When you score Project Ares, the Runner trashes 1 of his or her installed cards for each advancement token on Project Ares over 4. If the Runner trashes at least 1 card, take 1 bad publicity.",
-    "title": "Project Ares",
-    "uniqueness": false
+    "title": "Project Ares"
 }

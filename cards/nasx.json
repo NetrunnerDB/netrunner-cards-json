@@ -5,11 +5,11 @@
     "faction_id": "neutral-corp",
     "id": "nasx",
     "influence_cost": 0,
+    "is_unique": true,
     "side_id": "corp",
     "stripped_text": "Gain 1 credit when your turn begins. Whenever you gain credits through a card ability other than from NASX, you may spend up to 2 credits to place that many power counters on NASX. click,trash: Gain 2 credits for each power counter on NASX.",
     "stripped_title": "NASX",
     "text": "Gain 1[credit] when your turn begins.\nWhenever you gain credits through a card ability other than from NASX, you may spend up to 2[credit] to place that many power counters on NASX.\n[click],[trash]: Gain 2[credit] for each power counter on NASX.",
     "title": "NASX",
-    "trash_cost": 4,
-    "uniqueness": true
+    "trash_cost": 4
 }

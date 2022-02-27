@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "shaper",
-    "id": "lat-ethical-freelancer",
+    "id": "lat_ethical_freelancer",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 45,
     "side_id": "runner",
     "stripped_text": "When your turn ends, if you have the same number of cards in your grip as the Corp has in HQ, you may draw 1 card.",
@@ -13,6 +14,5 @@
         "natural"
     ],
     "text": "When your turn ends, if you have the same number of cards in your grip as the Corp has in HQ, you may draw 1 card.",
-    "title": "Lat: Ethical Freelancer",
-    "uniqueness": false
+    "title": "Lat: Ethical Freelancer"
 }

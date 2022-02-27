@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "xanadu",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "The rez cost of each piece of ice is increased by 1 credit.",
     "stripped_title": "Xanadu",
@@ -12,6 +13,5 @@
         "virtual"
     ],
     "text": "The rez cost of each piece of ice is increased by 1[credit].",
-    "title": "Xanadu",
-    "uniqueness": true
+    "title": "Xanadu"
 }

@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "clone-retirement",
+    "id": "clone_retirement",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score Clone Retirement, you may remove 1 bad publicity. When the Runner steals Clone Retirement, the Corp takes 1 bad publicity.",
     "stripped_title": "Clone Retirement",
@@ -12,6 +13,5 @@
         "initiative"
     ],
     "text": "When you score Clone Retirement, you may remove 1 bad publicity.\nWhen the Runner steals Clone Retirement, the Corp takes 1 bad publicity.",
-    "title": "Clone Retirement",
-    "uniqueness": false
+    "title": "Clone Retirement"
 }

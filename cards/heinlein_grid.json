@@ -3,8 +3,9 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "heinlein-grid",
+    "id": "heinlein_grid",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "If the Runner loses or spends a click during a run on this server, he or she loses all credits in his or her credit pool. Limit 1 region per server.",
     "stripped_title": "Heinlein Grid",
@@ -13,6 +14,5 @@
     ],
     "text": "If the Runner loses or spends a click during a run on this server, he or she loses all credits in his or her credit pool.\nLimit 1 <strong>region</strong> per server.",
     "title": "Heinlein Grid",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "mca-informant",
+    "id": "mca_informant",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "After you resolve this operation, end your action phase. Install this operation on a connection resource as a hosted condition counter with \"The Runner is considered to have 1 additional tag. Host connection gains 'click, 2 credits: Trash this card.'\"",
     "stripped_title": "MCA Informant",
@@ -12,6 +13,5 @@
         "terminal"
     ],
     "text": "After you resolve this operation, end your action phase.\nInstall this operation on a <strong>connection</strong> resource as a hosted condition counter with \"The Runner is considered to have 1 additional tag. Host connection gains '<strong>[click]</strong>, <strong>2[credit]:</strong> Trash this card.'\"",
-    "title": "MCA Informant",
-    "uniqueness": false
+    "title": "MCA Informant"
 }

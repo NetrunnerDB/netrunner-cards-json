@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "commercialization",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Choose a piece of ice. Gain 1 credit for each advancement token on that ice.",
     "stripped_title": "Commercialization",
@@ -12,6 +13,5 @@
         "transaction"
     ],
     "text": "Choose a piece of ice. Gain 1[credit] for each advancement token on that ice.",
-    "title": "Commercialization",
-    "uniqueness": false
+    "title": "Commercialization"
 }

@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "chum",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Subroutine The next piece of ice the Runner encounters during this run gets +2 strength. When that encounter ends, if the Runner did not fully break that ice, do 3 net damage.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "[subroutine] The next piece of ice the Runner encounters during this run gets +2 strength. When that encounter ends, if the Runner did not fully break that ice, do 3 net damage.",
-    "title": "Chum",
-    "uniqueness": false
+    "title": "Chum"
 }

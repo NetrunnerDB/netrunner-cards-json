@@ -5,6 +5,7 @@
     "deck_limit": 3,
     "faction_id": "nbn",
     "id": "bellona",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "As an additional cost to steal this agenda, the Runner must pay 5 credits. When you score this agenda, gain 5 credits.",
     "stripped_title": "Bellona",
@@ -12,6 +13,5 @@
         "expansion"
     ],
     "text": "As an additional cost to steal this agenda, the Runner must pay 5[credit].\nWhen you score this agenda, gain 5[credit].",
-    "title": "Bellona",
-    "uniqueness": false
+    "title": "Bellona"
 }

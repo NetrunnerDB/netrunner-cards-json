@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "psychokinesis",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "After you resolve this operation, end your action phase. Look at the top 5 cards of R&D. If any of those cards are agendas, assets, or upgrades, you may install 1 of those cards in a remote server.",
     "stripped_title": "Psychokinesis",
@@ -12,6 +13,5 @@
         "terminal"
     ],
     "text": "After you resolve this operation, end your action phase.\nLook at the top 5 cards of R&D. If any of those cards are agendas, assets, or upgrades, you may install 1 of those cards in a remote server.",
-    "title": "Psychokinesis",
-    "uniqueness": false
+    "title": "Psychokinesis"
 }

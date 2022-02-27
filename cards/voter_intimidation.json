@@ -3,8 +3,9 @@
     "cost": 1,
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "voter-intimidation",
+    "id": "voter_intimidation",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Play only if there is an agenda in the Runner's score area. You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, trash 1 resource.",
     "stripped_title": "Voter Intimidation",
@@ -13,6 +14,5 @@
         "psi"
     ],
     "text": "Play only if there is an agenda in the Runner's score area.\nYou and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, trash 1 resource.",
-    "title": "Voter Intimidation",
-    "uniqueness": false
+    "title": "Voter Intimidation"
 }

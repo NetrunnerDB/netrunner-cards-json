@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "neurospike",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Do X net damage, where X is equal to the sum of the printed agenda points on agendas you scored this turn.",
     "stripped_title": "Neurospike",
@@ -12,6 +13,5 @@
         "gray_ops"
     ],
     "text": "Do X net damage, where X is equal to the sum of the printed agenda points on agendas you scored this turn.",
-    "title": "Neurospike",
-    "uniqueness": false
+    "title": "Neurospike"
 }

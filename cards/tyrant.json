@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "tyrant",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Tyrant can be advanced only while rezzed and gains \"Subroutine End the run.\" for each advancement token on it.",
@@ -13,6 +14,5 @@
         "barrier"
     ],
     "text": "Tyrant can be advanced only while rezzed and gains \"[subroutine] End the run.\" for each advancement token on it.",
-    "title": "Tyrant",
-    "uniqueness": false
+    "title": "Tyrant"
 }

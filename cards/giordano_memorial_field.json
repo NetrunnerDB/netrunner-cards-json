@@ -3,8 +3,9 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "giordano-memorial-field",
+    "id": "giordano_memorial_field",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "corp",
     "stripped_text": "Whenever there is a successful run on this server, end the run unless the Runner pays 2 credits for each agenda in his or her score area.",
     "stripped_title": "Giordano Memorial Field",
@@ -13,6 +14,5 @@
     ],
     "text": "Whenever there is a successful run on this server, end the run unless the Runner pays 2[credit] for each agenda in his or her score area.",
     "title": "Giordano Memorial Field",
-    "trash_cost": 3,
-    "uniqueness": true
+    "trash_cost": 3
 }

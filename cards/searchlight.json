@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "searchlight",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight. Subroutine Trace X If successful, give the Runner 1 tag. Subroutine Trace X If successful, give the Runner 1 tag.",
@@ -15,6 +16,5 @@
         "observer"
     ],
     "text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.",
-    "title": "Searchlight",
-    "uniqueness": false
+    "title": "Searchlight"
 }

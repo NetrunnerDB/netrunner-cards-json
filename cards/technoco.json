@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "technoco",
     "influence_cost": 0,
+    "is_unique": true,
     "side_id": "corp",
     "stripped_text": "The install cost of each program, piece of hardware, and virtual resource is increased by 1. Whenever the Runner installs a program, piece of hardware, or virtual resource, you may gain 1 credit.",
     "stripped_title": "TechnoCo",
@@ -13,6 +14,5 @@
     ],
     "text": "The install cost of each program, piece of hardware, and <strong>virtual</strong> resource is increased by 1.\nWhenever the Runner installs a program, piece of hardware, or <strong>virtual</strong> resource, you may gain 1[credit].",
     "title": "TechnoCo",
-    "trash_cost": 2,
-    "uniqueness": true
+    "trash_cost": 2
 }

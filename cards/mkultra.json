@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "mkultra",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 1,
@@ -15,6 +16,5 @@
         "killer"
     ],
     "text": "Whenever you encounter a <strong>sentry</strong>, you may install this program from your heap.\n<strong>3[credit]:</strong> +2 strength. Then, if this program can interface with the <strong>sentry</strong> you are encountering, break up to 2 subroutines.",
-    "title": "MKUltra",
-    "uniqueness": false
+    "title": "MKUltra"
 }

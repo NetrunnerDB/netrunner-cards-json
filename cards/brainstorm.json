@@ -5,6 +5,7 @@
     "faction_id": "haas-bioroid",
     "id": "brainstorm",
     "influence_cost": 4,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 2,
     "stripped_text": "When the Runner encounters Brainstorm, it gains \"Subroutine Do 1 brain damage.\" for each card in the Runner's grip for the remainder of this run.",
@@ -14,6 +15,5 @@
         "ap"
     ],
     "text": "When the Runner encounters Brainstorm, it gains \"[subroutine] Do 1 brain damage.\" for each card in the Runner's grip for the remainder of this run.",
-    "title": "Brainstorm",
-    "uniqueness": false
+    "title": "Brainstorm"
 }

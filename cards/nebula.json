@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "nebula",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 5,
     "stripped_text": "Nebula can be advanced and its rez cost is lowered by 3 for each advancement token on it. Subroutine Trash 1 program.",
@@ -14,6 +15,5 @@
         "destroyer"
     ],
     "text": "Nebula can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Trash 1 program.",
-    "title": "Nebula",
-    "uniqueness": false
+    "title": "Nebula"
 }

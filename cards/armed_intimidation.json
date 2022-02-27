@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "armed-intimidation",
+    "id": "armed_intimidation",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score Armed Intimidation, the Runner must either suffer 5 meat damage or take 2 tags.",
     "stripped_title": "Armed Intimidation",
@@ -12,6 +13,5 @@
         "security"
     ],
     "text": "When you score Armed Intimidation, the Runner must either suffer 5 meat damage or take 2 tags.",
-    "title": "Armed Intimidation",
-    "uniqueness": false
+    "title": "Armed Intimidation"
 }

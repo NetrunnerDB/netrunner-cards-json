@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "sadyojata",
     "influence_cost": 2,
+    "is_unique": true,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -16,6 +17,5 @@
         "deva"
     ],
     "text": "Interface → <strong>1[credit]:</strong> Break 1 subroutine on a piece of ice with 3 or more subtypes.\n<strong>1[credit]:</strong> +1 strength.\n<strong>2[credit]:</strong> Swap this program with a <strong>deva</strong> program from your grip.",
-    "title": "Sadyojata",
-    "uniqueness": true
+    "title": "Sadyojata"
 }

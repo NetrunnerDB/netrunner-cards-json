@@ -4,8 +4,9 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "neutral-corp",
-    "id": "cyberdex-sandbox",
+    "id": "cyberdex_sandbox",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "The first time each turn you purge virus counters, gain 4 credits. When you score this agenda, you may purge virus counters.",
     "stripped_title": "Cyberdex Sandbox",
@@ -13,6 +14,5 @@
         "security"
     ],
     "text": "The first time each turn you purge virus counters, gain 4[credit].\nWhen you score this agenda, you may purge virus counters.",
-    "title": "Cyberdex Sandbox",
-    "uniqueness": false
+    "title": "Cyberdex Sandbox"
 }

@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "e3-feedback-implants",
+    "id": "e3_feedback_implants",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Whenever you break a subroutine on a piece of ice, you may pay 1 credit to break 1 subroutine on that ice. Errata from FAQ 3.0.1",
     "stripped_title": "e3 Feedback Implants",
@@ -12,6 +13,5 @@
         "mod"
     ],
     "text": "Whenever you break a subroutine on a piece of ice, you may pay 1[credit] to break 1 subroutine on that ice.\n<errata>Errata from FAQ 3.0.1</errata>",
-    "title": "e3 Feedback Implants",
-    "uniqueness": false
+    "title": "e3 Feedback Implants"
 }

@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "tiered-subscription",
+    "id": "tiered_subscription",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "The first time each turn a run begins, gain 1 credit.",
     "stripped_title": "Tiered Subscription",
@@ -13,6 +14,5 @@
     ],
     "text": "The first time each turn a run begins, gain 1[credit].",
     "title": "Tiered Subscription",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

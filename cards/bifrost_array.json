@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "bifrost-array",
+    "id": "bifrost_array",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score Bifrost Array, you may trigger the \"when scored\" ability of another agenda that is not a copy of Bifrost Array in your score area.",
     "stripped_title": "Bifrost Array",
@@ -12,6 +13,5 @@
         "initiative"
     ],
     "text": "When you score Bifrost Array, you may trigger the \"when scored\" ability of another agenda that is not a copy of Bifrost Array in your score area.",
-    "title": "Bifrost Array",
-    "uniqueness": false
+    "title": "Bifrost Array"
 }

@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "sage",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 2,
     "side_id": "runner",
     "strength": 0,
@@ -16,6 +17,5 @@
         "fracter"
     ],
     "text": "This program gets +1 strength for each unused MU.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>code gate</strong> or 1 <strong>barrier</strong> subroutine.",
-    "title": "Sage",
-    "uniqueness": false
+    "title": "Sage"
 }

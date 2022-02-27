@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "amina",
     "influence_cost": 4,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 3,
@@ -15,6 +16,5 @@
         "decoder"
     ],
     "text": "Interface → <strong>2[credit]:</strong> Break up to 3 <strong>code gate</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.\nThe first time each turn this program fully breaks a piece of ice, the Corp loses 1[credit].",
-    "title": "Amina",
-    "uniqueness": false
+    "title": "Amina"
 }

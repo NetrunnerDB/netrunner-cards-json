@@ -5,11 +5,11 @@
     "faction_id": "nbn",
     "id": "blacklist",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Cards cannot leave the Runner's heap for any reason.",
     "stripped_title": "Blacklist",
     "text": "Cards cannot leave the Runner's heap for any reason.",
     "title": "Blacklist",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

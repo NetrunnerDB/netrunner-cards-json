@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "envelope",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "Subroutine Do 1 net damage. Subroutine End the run.",
@@ -14,6 +15,5 @@
         "ap"
     ],
     "text": "[subroutine] Do 1 net damage.\n[subroutine] End the run.",
-    "title": "Envelope",
-    "uniqueness": false
+    "title": "Envelope"
 }

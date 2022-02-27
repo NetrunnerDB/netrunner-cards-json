@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "omega",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 1,
@@ -15,6 +16,5 @@
         "ai"
     ],
     "text": "Interface → <strong>1[credit]:</strong> Break 1 subroutine.\n<strong>1[credit]:</strong> +1 strength.\nThis program can only interface with the innermost piece of ice protecting a server",
-    "title": "Omega",
-    "uniqueness": false
+    "title": "Omega"
 }

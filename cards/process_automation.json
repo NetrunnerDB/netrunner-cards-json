@@ -3,12 +3,12 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "neutral-runner",
-    "id": "process-automation",
+    "id": "process_automation",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Gain 2 credits and draw 1 card.",
     "stripped_title": "Process Automation",
     "text": "Gain 2[credit] and draw 1 card.",
-    "title": "Process Automation",
-    "uniqueness": false
+    "title": "Process Automation"
 }

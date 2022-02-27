@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "harvester",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "Subroutine The Runner draws 3 cards and then discards down to his or her maximum hand size. Subroutine The Runner draws 3 cards and then discards down to his or her maximum hand size.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "[subroutine] The Runner draws 3 cards and then discards down to his or her maximum hand size.\n[subroutine] The Runner draws 3 cards and then discards down to his or her maximum hand size.",
-    "title": "Harvester",
-    "uniqueness": false
+    "title": "Harvester"
 }

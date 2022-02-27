@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "guard",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 2,
     "stripped_text": "Guard cannot be bypassed. Subroutine End the run.",
@@ -13,6 +14,5 @@
         "sentry"
     ],
     "text": "Guard cannot be bypassed.\n[subroutine] End the run.",
-    "title": "Guard",
-    "uniqueness": false
+    "title": "Guard"
 }

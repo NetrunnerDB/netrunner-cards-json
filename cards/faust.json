@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "faust",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "ai"
     ],
     "text": "Interface → <strong>Trash a card from your grip:</strong> Break 1 subroutine.\n<strong>Trash a card from your grip:</strong> +2 strength.",
-    "title": "Faust",
-    "uniqueness": false
+    "title": "Faust"
 }

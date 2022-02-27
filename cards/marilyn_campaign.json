@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "marilyn-campaign",
+    "id": "marilyn_campaign",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you rez this asset, load 8 credits onto it. When it is empty, trash it. When your turn begins, take 2 credits from this asset. Interrupt -> When this asset would be trashed, you may shuffle it into R&D instead of adding it to Archives. (It is still considered trashed.)",
     "stripped_title": "Marilyn Campaign",
@@ -13,6 +14,5 @@
     ],
     "text": "When you rez this asset, load 8[credit] onto it. When it is empty, trash it.\nWhen your turn begins, take 2[credit] from this asset.\n[interrupt] → When this asset would be trashed, you may shuffle it into R&D instead of adding it to Archives. <em>(It is still considered trashed.)</em>",
     "title": "Marilyn Campaign",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

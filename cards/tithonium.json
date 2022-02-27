@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "tithonium",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 5,
     "stripped_text": "You may forfeit an agenda to rez Tithonium instead of paying its rez cost. Tithonium cannot host cards. Subroutine Trash 1 program. Subroutine Trash 1 program. Subroutine Trash 1 resource and end the run.",
@@ -14,6 +15,5 @@
         "destroyer"
     ],
     "text": "You may forfeit an agenda to rez Tithonium instead of paying its rez cost.\nTithonium cannot host cards.\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 resource and end the run.",
-    "title": "Tithonium",
-    "uniqueness": false
+    "title": "Tithonium"
 }

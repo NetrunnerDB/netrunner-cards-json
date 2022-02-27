@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "whitespace",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 0,
     "stripped_text": "Subroutine The Runner loses 3 credits. Subroutine If the Runner has 6 credits or less, end the run.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "[subroutine] The Runner loses 3[credit].\n[subroutine] If the Runner has 6[credit] or less, end the run.",
-    "title": "Whitespace",
-    "uniqueness": false
+    "title": "Whitespace"
 }

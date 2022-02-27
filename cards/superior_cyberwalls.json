@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "superior-cyberwalls",
+    "id": "superior_cyberwalls",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "All barrier ice have +1 strength. When you score Superior Cyberwalls, gain 1 credit for each rezzed barrier.",
     "stripped_title": "Superior Cyberwalls",
@@ -12,6 +13,5 @@
         "security"
     ],
     "text": "All <strong>barrier</strong> ice have +1 strength.\nWhen you score Superior Cyberwalls, gain 1[credit] for each rezzed <strong>barrier</strong>.",
-    "title": "Superior Cyberwalls",
-    "uniqueness": false
+    "title": "Superior Cyberwalls"
 }

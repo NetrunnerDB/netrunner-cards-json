@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "mantle",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "1 recurring credit Spend hosted credits to use hardware and programs.",
@@ -13,6 +14,5 @@
         "stealth"
     ],
     "text": "1[recurring-credit]\nSpend hosted credits to use hardware and programs.",
-    "title": "Mantle",
-    "uniqueness": false
+    "title": "Mantle"
 }

@@ -5,6 +5,7 @@
     "faction_id": "nbn",
     "id": "resistor",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 0,
     "stripped_text": "Resistor has +1 strength for each tag the Runner has. Subroutine Trace 4 If successful, end the run.",
@@ -14,6 +15,5 @@
         "tracer"
     ],
     "text": "Resistor has +1 strength for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, end the run.",
-    "title": "Resistor",
-    "uniqueness": false
+    "title": "Resistor"
 }

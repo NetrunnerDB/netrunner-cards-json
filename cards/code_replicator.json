@@ -3,13 +3,13 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "code-replicator",
+    "id": "code_replicator",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Whenever the Runner passes a rezzed piece of ice protecting this server, you may trash this upgrade. If you do, the Runner must approach that ice again. They may jack out.",
     "stripped_title": "Code Replicator",
     "text": "Whenever the Runner passes a rezzed piece of ice protecting this server, you may trash this upgrade. If you do, the Runner must approach that ice again. They may jack out.",
     "title": "Code Replicator",
-    "trash_cost": 2,
-    "uniqueness": false
+    "trash_cost": 2
 }

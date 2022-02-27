@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "blue-level-clearance",
+    "id": "blue_level_clearance",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "As an additional cost to play this operation, spend click. Gain 5 credits and draw 2 cards.",
     "stripped_title": "Blue Level Clearance",
@@ -13,6 +14,5 @@
         "transaction"
     ],
     "text": "As an additional cost to play this operation, spend [click].\nGain 5[credit] and draw 2 cards.",
-    "title": "Blue Level Clearance",
-    "uniqueness": false
+    "title": "Blue Level Clearance"
 }

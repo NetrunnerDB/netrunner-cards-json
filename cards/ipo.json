@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "ipo",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "After you resolve this operation, end your action phase. Gain 13 credits.",
     "stripped_title": "IPO",
@@ -13,6 +14,5 @@
         "transaction"
     ],
     "text": "After you resolve this operation, end your action phase.\nGain 13[credit].",
-    "title": "IPO",
-    "uniqueness": false
+    "title": "IPO"
 }

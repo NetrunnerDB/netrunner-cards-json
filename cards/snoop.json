@@ -5,6 +5,7 @@
     "faction_id": "nbn",
     "id": "snoop",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 6,
     "stripped_text": "When the Runner encounters Snoop, reveal all cards in the Runner's grip. Hosted power counter: Reveal all cards in the Runner's grip. Trash 1 of those cards. Subroutine Trace 3 If successful, place 1 power counter on Snoop.",
@@ -14,6 +15,5 @@
         "tracer"
     ],
     "text": "When the Runner encounters Snoop, reveal all cards in the Runner's grip.\n<strong>Hosted power counter:</strong> Reveal all cards in the Runner's grip. Trash 1 of those cards.\n[subroutine] <trace>Trace 3</trace> If successful, place 1 power counter on Snoop.",
-    "title": "Snoop",
-    "uniqueness": false
+    "title": "Snoop"
 }

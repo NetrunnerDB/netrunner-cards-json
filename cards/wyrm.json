@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "wyrm",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 1,
@@ -15,6 +16,5 @@
         "ai"
     ],
     "text": "Interface → <strong>3[credit]:</strong> Break 1 subroutine on a piece of ice with 0 or less strength.\nInterface → <strong>1[credit]:</strong> The ice you are encountering gets -1 strength for the remainder of this encounter.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Wyrm",
-    "uniqueness": false
+    "title": "Wyrm"
 }

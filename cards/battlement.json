@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "battlement",
     "influence_cost": 4,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 2,
     "stripped_text": "Subroutine End the run. Subroutine End the run.",
@@ -13,6 +14,5 @@
         "barrier"
     ],
     "text": "[subroutine]End the run.\n[subroutine]End the run.",
-    "title": "Battlement",
-    "uniqueness": false
+    "title": "Battlement"
 }

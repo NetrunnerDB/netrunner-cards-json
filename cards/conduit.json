@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "conduit",
     "influence_cost": 4,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "Whenever a successful run on R&D ends, you may place 1 virus counter on this program. click: Run R&D. If successful, access X additional cards when you breach R&D. X is equal to the number of hosted virus counters.",
@@ -13,6 +14,5 @@
         "virus"
     ],
     "text": "Whenever a successful run on R&D ends, you may place 1 virus counter on this program.\n[click]: Run R&D. If successful, access X additional cards when you breach R&D. X is equal to the number of hosted virus counters.",
-    "title": "Conduit",
-    "uniqueness": false
+    "title": "Conduit"
 }

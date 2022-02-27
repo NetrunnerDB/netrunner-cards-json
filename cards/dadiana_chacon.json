@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "neutral-runner",
-    "id": "dadiana-chacon",
+    "id": "dadiana_chacon",
     "influence_cost": 0,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "When your turn begins, gain 1 credit if you have fewer than 6 credits. Whenever you have 0 credits, trash Dadiana Chacon and take 3 meat damage.",
     "stripped_title": "Dadiana Chacon",
@@ -12,6 +13,5 @@
         "connection"
     ],
     "text": "When your turn begins, gain 1[credit] if you have fewer than 6[credit].\nWhenever you have 0[credit], trash Dadiana Chacon and take 3 meat damage.",
-    "title": "Dadiana Chacon",
-    "uniqueness": true
+    "title": "Dadiana Chacon"
 }

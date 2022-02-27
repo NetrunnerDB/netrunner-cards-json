@@ -5,6 +5,7 @@
     "faction_id": "nbn",
     "id": "uroboros",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Subroutine Trace 4 If successful, the Runner cannot make another run this turn. Subroutine Trace 4 If successful, end the run.",
@@ -14,6 +15,5 @@
         "tracer"
     ],
     "text": "[subroutine] <trace>Trace 4</trace> If successful, the Runner cannot make another run this turn.\n[subroutine] <trace>Trace 4</trace> If successful, end the run.",
-    "title": "Uroboros",
-    "uniqueness": false
+    "title": "Uroboros"
 }

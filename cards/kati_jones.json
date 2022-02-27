@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "neutral-runner",
-    "id": "kati-jones",
+    "id": "kati_jones",
     "influence_cost": 0,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "You cannot use Kati Jones more than once per turn. click: Place 3 credits from the bank on Kati Jones. click: Take all credits from Kati Jones.",
     "stripped_title": "Kati Jones",
@@ -12,6 +13,5 @@
         "connection"
     ],
     "text": "You cannot use Kati Jones more than once per turn.\n[click]: Place 3[credit] from the bank on Kati Jones.\n[click]: Take all credits from Kati Jones.",
-    "title": "Kati Jones",
-    "uniqueness": true
+    "title": "Kati Jones"
 }

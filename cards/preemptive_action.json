@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "neutral-corp",
-    "id": "preemptive-action",
+    "id": "preemptive_action",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "After you resolve this operation, end your action phase. Shuffle 3 cards from Archives into R&D. Remove Preemptive Action from the game instead of trashing it.",
     "stripped_title": "Preemptive Action",
@@ -12,6 +13,5 @@
         "terminal"
     ],
     "text": "After you resolve this operation, end your action phase.\nShuffle 3 cards from Archives into R&D. Remove Preemptive Action from the game instead of trashing it.",
-    "title": "Preemptive Action",
-    "uniqueness": false
+    "title": "Preemptive Action"
 }

@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "glut-cipher",
+    "id": "glut_cipher",
     "influence_cost": 4,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Run Archives. If successful, instead of breaching Archives, the Corp adds exactly 5 cards from Archives to HQ, if able. If they do, they trash 5 cards from HQ at random.",
     "stripped_title": "Glut Cipher",
@@ -13,6 +14,5 @@
         "sabotage"
     ],
     "text": "Run Archives. If successful, instead of breaching Archives, the Corp adds exactly 5 cards from Archives to HQ, if able. If they do, they trash 5 cards from HQ at random.",
-    "title": "Glut Cipher",
-    "uniqueness": false
+    "title": "Glut Cipher"
 }

@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "retribution",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Play only if the Runner is tagged. Trash 1 installed program or piece of hardware.",
     "stripped_title": "Retribution",
@@ -12,6 +13,5 @@
         "gray_ops"
     ],
     "text": "Play only if the Runner is tagged.\nTrash 1 installed program or piece of hardware.",
-    "title": "Retribution",
-    "uniqueness": false
+    "title": "Retribution"
 }

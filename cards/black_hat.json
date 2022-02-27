@@ -3,12 +3,12 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "sunny-lebeau",
-    "id": "black-hat",
+    "id": "black_hat",
     "influence_cost": 5,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "The Corp must trace[4]. If unsuccessful, for the remainder of the turn, access 2 additional cards whenever you breach HQ or R&D.",
     "stripped_title": "Black Hat",
     "text": "The Corp must trace[4]. If unsuccessful, for the remainder of the turn, access 2 additional cards whenever you breach HQ or R&D.",
-    "title": "Black Hat",
-    "uniqueness": false
+    "title": "Black Hat"
 }

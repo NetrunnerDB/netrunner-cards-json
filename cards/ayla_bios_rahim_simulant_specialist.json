@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "shaper",
-    "id": "ayla-bios-rahim-simulant-specialist",
+    "id": "ayla_bios_rahim_simulant_specialist",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 45,
     "side_id": "runner",
     "stripped_text": "Before drawing your starting hand, set aside the top 6 cards of your stack facedown. (You may look at those cards at any time.) Shuffle 2 of those cards into your stack. click: Add 1 card set aside with this identity to your grip.",
@@ -13,6 +14,5 @@
         "natural"
     ],
     "text": "Before drawing your starting hand, set aside the top 6 cards of your stack facedown. <em>(You may look at those cards at any time.)</em> Shuffle 2 of those cards into your stack.\n[click]: Add 1 card set aside with this identity to your grip.",
-    "title": "Ayla \"Bios\" Rahim: Simulant Specialist",
-    "uniqueness": false
+    "title": "Ayla \"Bios\" Rahim: Simulant Specialist"
 }

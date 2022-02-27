@@ -5,11 +5,11 @@
     "faction_id": "haas-bioroid",
     "id": "strongbox",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Persistent -> As an additional cost to steal an agenda from this server, the Runner must spend click. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)",
     "stripped_title": "Strongbox",
     "text": "Persistent → As an additional cost to steal an agenda from this server, the Runner must spend [click]. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
     "title": "Strongbox",
-    "trash_cost": 1,
-    "uniqueness": false
+    "trash_cost": 1
 }

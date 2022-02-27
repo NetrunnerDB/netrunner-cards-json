@@ -3,8 +3,9 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "ravana-1-0",
+    "id": "ravana_1_0",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 5,
     "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Resolve 1 subroutine on another rezzed bioroid ice. Subroutine Resolve 1 subroutine on another rezzed bioroid ice.",
@@ -14,6 +15,5 @@
         "bioroid"
     ],
     "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Resolve 1 subroutine on another rezzed <strong>bioroid</strong> ice.\n[subroutine] Resolve 1 subroutine on another rezzed <strong>bioroid</strong> ice.",
-    "title": "Ravana 1.0",
-    "uniqueness": false
+    "title": "Ravana 1.0"
 }

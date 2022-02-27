@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "tri-maf-contact",
+    "id": "tri_maf_contact",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "You cannot use Tri-maf Contact more than once per turn. click: Gain 2 credits. When Tri-maf Contact is trashed, suffer 3 meat damage.",
     "stripped_title": "Tri-maf Contact",
@@ -12,6 +13,5 @@
         "connection"
     ],
     "text": "You cannot use Tri-maf Contact more than once per turn.\n[click]: Gain 2[credit].\nWhen Tri-maf Contact is trashed, suffer 3 meat damage.",
-    "title": "Tri-maf Contact",
-    "uniqueness": false
+    "title": "Tri-maf Contact"
 }

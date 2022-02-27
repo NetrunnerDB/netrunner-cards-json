@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "fisk-investment-seminar",
+    "id": "fisk_investment_seminar",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Play only as your first click. Each player draws 3 cards.",
     "stripped_title": "Fisk Investment Seminar",
@@ -12,6 +13,5 @@
         "priority"
     ],
     "text": "Play only as your first [click].\nEach player draws 3 cards.",
-    "title": "Fisk Investment Seminar",
-    "uniqueness": false
+    "title": "Fisk Investment Seminar"
 }

@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "improved-protein-source",
+    "id": "improved_protein_source",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When Improved Protein Source is scored or stolen, the Runner gains 4 credits.",
     "stripped_title": "Improved Protein Source",
@@ -12,6 +13,5 @@
         "research"
     ],
     "text": "When Improved Protein Source is scored or stolen, the Runner gains 4[credit].",
-    "title": "Improved Protein Source",
-    "uniqueness": false
+    "title": "Improved Protein Source"
 }

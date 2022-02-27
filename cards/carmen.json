@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "carmen",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "killer"
     ],
     "text": "If you made a successful run this turn, this program costs 2[credit] less to install.\nInterface → 1[credit]: Break 1 <strong>sentry</strong> subroutine.\n2[credit]: +3 strength.",
-    "title": "Carmen",
-    "uniqueness": false
+    "title": "Carmen"
 }

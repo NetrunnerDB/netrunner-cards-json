@@ -4,11 +4,11 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "government-contracts",
+    "id": "government_contracts",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "click, click: Gain 4 credits.",
     "stripped_title": "Government Contracts",
     "text": "[click], [click]: Gain 4[credit].",
-    "title": "Government Contracts",
-    "uniqueness": false
+    "title": "Government Contracts"
 }

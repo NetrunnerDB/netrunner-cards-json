@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "tapwrm",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "Install only if you made a successful run on a central server this turn. When your turn begins, gain 1 credit for every 5 credits in the Corp's credit pool. Trash Tapwrm if the Corp purges virus counters.",
@@ -13,6 +14,5 @@
         "virus"
     ],
     "text": "Install only if you made a successful run on a central server this turn.\nWhen your turn begins, gain 1[credit] for every 5[credit] in the Corp's credit pool.\nTrash Tapwrm if the Corp purges virus counters.",
-    "title": "Tapwrm",
-    "uniqueness": false
+    "title": "Tapwrm"
 }

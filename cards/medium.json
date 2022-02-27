@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "medium",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "Whenever you make a successful run on R&D, place 1 virus counter on this program. Whenever you breach R&D, choose a number less than the number of hosted virus counters. Access that many additional cards.",
@@ -13,6 +14,5 @@
         "virus"
     ],
     "text": "Whenever you make a successful run on R&D, place 1 virus counter on this program.\nWhenever you breach R&D, choose a number less than the number of hosted virus counters. Access that many additional cards.",
-    "title": "Medium",
-    "uniqueness": false
+    "title": "Medium"
 }

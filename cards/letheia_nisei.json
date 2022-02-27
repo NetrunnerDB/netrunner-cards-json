@@ -3,8 +3,9 @@
     "cost": 1,
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "letheia-nisei",
+    "id": "letheia_nisei",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "corp",
     "stripped_text": "The first time each run the Runner approaches this server, you and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, you may trash this upgrade. If you do, the Runner moves to the outermost position of this server. The Runner may jack out.",
     "stripped_title": "Letheia Nisei",
@@ -14,6 +15,5 @@
     ],
     "text": "The first time each run the Runner approaches this server, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, you may trash this upgrade. If you do, the Runner moves to the outermost position of this server. The Runner may jack out.",
     "title": "Letheia Nisei",
-    "trash_cost": 2,
-    "uniqueness": true
+    "trash_cost": 2
 }

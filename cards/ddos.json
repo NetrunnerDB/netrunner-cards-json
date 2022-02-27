@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "ddos",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "trash: The Corp cannot rez the outermost piece of ice during a run on any server this turn.",
     "stripped_title": "DDoS",
@@ -12,6 +13,5 @@
         "virtual"
     ],
     "text": "[trash]: The Corp cannot rez the outermost piece of ice during a run on any server this turn.",
-    "title": "DDoS",
-    "uniqueness": false
+    "title": "DDoS"
 }

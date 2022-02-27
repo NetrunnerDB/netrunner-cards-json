@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "bailiff",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 0,
     "stripped_text": "Whenever the Runner breaks a subroutine on Bailiff, gain 1 credit. Subroutine End the run.",
@@ -13,6 +14,5 @@
         "barrier"
     ],
     "text": "Whenever the Runner breaks a subroutine on Bailiff, gain 1[credit].\n[subroutine] End the run.",
-    "title": "Bailiff",
-    "uniqueness": false
+    "title": "Bailiff"
 }

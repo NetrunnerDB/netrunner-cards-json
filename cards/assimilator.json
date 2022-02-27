@@ -5,6 +5,7 @@
     "faction_id": "apex",
     "id": "assimilator",
     "influence_cost": 5,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "click,click: Turn one of your facedown installed cards faceup. If that card is an event, trash it.",
     "stripped_title": "Assimilator",
@@ -12,6 +13,5 @@
         "virtual"
     ],
     "text": "[click],[click]: Turn one of your facedown installed cards faceup. If that card is an event, trash it.",
-    "title": "Assimilator",
-    "uniqueness": false
+    "title": "Assimilator"
 }

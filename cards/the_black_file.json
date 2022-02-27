@@ -3,8 +3,9 @@
     "cost": 5,
     "deck_limit": 1,
     "faction_id": "criminal",
-    "id": "the-black-file",
+    "id": "the_black_file",
     "influence_cost": 4,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "The Corp cannot win the game except if you are flatlined. When your turn begins, place 1 power counter on this resource. If there are 3 or more hosted power counters, remove this resource from the game. Limit 1 per deck.",
     "stripped_title": "The Black File",
@@ -12,6 +13,5 @@
         "virtual"
     ],
     "text": "The Corp cannot win the game except if you are flatlined.\nWhen your turn begins, place 1 power counter on this resource. If there are 3 or more hosted power counters, remove this resource from the game.\nLimit 1 per deck.",
-    "title": "The Black File",
-    "uniqueness": true
+    "title": "The Black File"
 }

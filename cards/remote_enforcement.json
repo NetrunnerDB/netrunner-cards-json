@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "remote-enforcement",
+    "id": "remote_enforcement",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score Remote Enforcement, you may search R&D for a piece of ice, install it protecting a remote server (paying its install cost), and rez it, ignoring its rez cost, then shuffle R&D.",
     "stripped_title": "Remote Enforcement",
@@ -12,6 +13,5 @@
         "security"
     ],
     "text": "When you score Remote Enforcement, you may search R&D for a piece of ice, install it protecting a remote server (paying its install cost), and rez it, ignoring its rez cost, then shuffle R&D.",
-    "title": "Remote Enforcement",
-    "uniqueness": false
+    "title": "Remote Enforcement"
 }

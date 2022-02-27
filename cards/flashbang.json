@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "flashbang",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 0,
@@ -15,6 +16,5 @@
         "killer"
     ],
     "text": "Interface → <strong>6[credit]:</strong> Derez the <strong>sentry</strong> you are encountering.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Flashbang",
-    "uniqueness": false
+    "title": "Flashbang"
 }

@@ -5,6 +5,7 @@
     "faction_id": "haas-bioroid",
     "id": "viper",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Subroutine Trace 3 If successful, the Runner loses click, if able. Subroutine Trace 3 If successful, end the run.",
@@ -14,6 +15,5 @@
         "tracer"
     ],
     "text": "[subroutine] <trace>Trace 3</trace> If successful, the Runner loses [click], if able.\n[subroutine] <trace>Trace 3</trace> If successful, end the run.",
-    "title": "Viper",
-    "uniqueness": false
+    "title": "Viper"
 }

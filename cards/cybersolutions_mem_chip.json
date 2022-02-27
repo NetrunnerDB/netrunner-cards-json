@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "cybersolutions-mem-chip",
+    "id": "cybersolutions_mem_chip",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "+2 mu",
     "stripped_title": "CyberSolutions Mem Chip",
@@ -12,6 +13,5 @@
         "chip"
     ],
     "text": "+2[mu]",
-    "title": "CyberSolutions Mem Chip",
-    "uniqueness": false
+    "title": "CyberSolutions Mem Chip"
 }

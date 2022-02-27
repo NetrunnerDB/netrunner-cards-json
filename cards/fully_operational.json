@@ -3,12 +3,12 @@
     "cost": 1,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "fully-operational",
+    "id": "fully_operational",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Gain 2 credits or draw 2 cards. Repeat this process for each remote server that has a card in its root and is protected by ice.",
     "stripped_title": "Fully Operational",
     "text": "Gain 2[credit] or draw 2 cards. Repeat this process for each remote server that has a card in its root and is protected by ice.",
-    "title": "Fully Operational",
-    "uniqueness": false
+    "title": "Fully Operational"
 }

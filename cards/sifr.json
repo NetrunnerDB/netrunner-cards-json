@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "sifr",
     "influence_cost": 1,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+2 mu Once per turn, when you encounter a piece of ice, you may reduce your maximum hand size by 1 until the beginning of your next turn. If you do, the strength of that ice is lowered to 0 for the remainder of the encounter. Limit 1 console per player.",
     "stripped_title": "Sifr",
@@ -12,6 +13,5 @@
         "console"
     ],
     "text": "+2[mu]\nOnce per turn, when you encounter a piece of ice, you may reduce your maximum hand size by 1 until the beginning of your next turn. If you do, the strength of that ice is lowered to 0 for the remainder of the encounter.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Şifr",
-    "uniqueness": true
+    "title": "Şifr"
 }

@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "swarm",
     "influence_cost": 4,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 5,
     "stripped_text": "When you rez Swarm, take 1 bad publicity. Swarm can be advanced and gains \"Subroutine Trash 1 program unless the Runner pays 3 credits.\" for each advancement token on it.",
@@ -15,6 +16,5 @@
         "illicit"
     ],
     "text": "When you rez Swarm, take 1 bad publicity.\nSwarm can be advanced and gains \"[subroutine] Trash 1 program unless the Runner pays 3[credit].\" for each advancement token on it.",
-    "title": "Swarm",
-    "uniqueness": false
+    "title": "Swarm"
 }

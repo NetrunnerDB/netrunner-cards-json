@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "cleaver",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 3,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "Interface → 1[credit]: Break up to 2 <strong>barrier</strong> subroutines.\n2[credit]: +1 strength.",
-    "title": "Cleaver",
-    "uniqueness": false
+    "title": "Cleaver"
 }

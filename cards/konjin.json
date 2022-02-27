@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "konjin",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "When the Runner encounters this ice, you and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, you may force the Runner to encounter another rezzed piece of ice. (When that encounter ends, if the run has not ended, finish encountering this ice.)",
@@ -14,6 +15,5 @@
         "psi"
     ],
     "text": "When the Runner encounters this ice, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, you may force the Runner to encounter another rezzed piece of ice. <em>(When that encounter ends, if the run has not ended, finish encountering this ice.)</em>",
-    "title": "Konjin",
-    "uniqueness": true
+    "title": "Konjin"
 }

@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "dhegdheer",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 0,
     "side_id": "runner",
     "stripped_text": "You can install other programs onto this program. Each program installed this way costs 1 credit less to install. Limit 1 hosted program. The memory cost of the hosted program does not count against your memory limit.",
@@ -13,6 +14,5 @@
         "daemon"
     ],
     "text": "You can install other programs onto this program. Each program installed this way costs 1[credit] less to install. Limit 1 hosted program.\nThe memory cost of the hosted program does not count against your memory limit.",
-    "title": "Dhegdheer",
-    "uniqueness": false
+    "title": "Dhegdheer"
 }

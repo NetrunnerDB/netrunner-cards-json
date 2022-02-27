@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "scheherazade",
     "influence_cost": 1,
+    "is_unique": true,
     "memory_cost": 0,
     "side_id": "runner",
     "stripped_text": "Scheherazade can host any number of programs. Whenever you install a program on Scheherazade, gain 1 credit.",
@@ -13,6 +14,5 @@
         "daemon"
     ],
     "text": "Scheherazade can host any number of programs.\nWhenever you install a program on Scheherazade, gain 1[credit].",
-    "title": "Scheherazade",
-    "uniqueness": true
+    "title": "Scheherazade"
 }

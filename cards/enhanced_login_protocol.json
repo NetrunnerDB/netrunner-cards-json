@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "enhanced-login-protocol",
+    "id": "enhanced_login_protocol",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "This card is not trashed until another current is played or an agenda is stolen. As an additional cost to make the first run not made through a card ability on his or her turn, the Runner must spend click.",
     "stripped_title": "Enhanced Login Protocol",
@@ -12,6 +13,5 @@
         "current"
     ],
     "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to make the first run not made through a card ability on his or her turn, the Runner must spend [click].",
-    "title": "Enhanced Login Protocol",
-    "uniqueness": false
+    "title": "Enhanced Login Protocol"
 }

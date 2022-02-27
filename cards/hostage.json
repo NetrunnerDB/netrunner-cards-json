@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "hostage",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "As an additional cost to play this event, spend click. Search your stack for a connection, reveal it, and add it to your grip. You may install that connection (paying its install cost). Shuffle your stack.",
     "stripped_title": "Hostage",
@@ -12,6 +13,5 @@
         "double"
     ],
     "text": "As an additional cost to play this event, spend [click].\nSearch your stack for a <strong>connection</strong>, reveal it, and add it to your grip. You may install that <strong>connection</strong> (paying its install cost). Shuffle your stack.",
-    "title": "Hostage",
-    "uniqueness": false
+    "title": "Hostage"
 }

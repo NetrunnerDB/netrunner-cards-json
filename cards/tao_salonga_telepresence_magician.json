@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "shaper",
-    "id": "tao-salonga-telepresence-magician",
+    "id": "tao_salonga_telepresence_magician",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 40,
     "side_id": "runner",
     "stripped_text": "Whenever an agenda is scored or stolen, you may swap 2 installed pieces of ice.",
@@ -13,6 +14,5 @@
         "natural"
     ],
     "text": "Whenever an agenda is scored or stolen, you may swap 2 installed pieces of ice.",
-    "title": "Tāo Salonga: Telepresence Magician",
-    "uniqueness": false
+    "title": "Tāo Salonga: Telepresence Magician"
 }

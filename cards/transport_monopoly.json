@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "transport-monopoly",
+    "id": "transport_monopoly",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score this agenda, place 2 agenda counters on it. Hosted agenda counter: This run cannot be declared successful. (This effect does not cause the run to become unsuccessful.) Use this ability only once per turn.",
     "stripped_title": "Transport Monopoly",
@@ -12,6 +13,5 @@
         "initiative"
     ],
     "text": "When you score this agenda, place 2 agenda counters on it.\n<strong>Hosted agenda counter:</strong> This run cannot be declared successful. <em>(This effect does not cause the run to become unsuccessful.)</em> Use this ability only once per turn.",
-    "title": "Transport Monopoly",
-    "uniqueness": false
+    "title": "Transport Monopoly"
 }

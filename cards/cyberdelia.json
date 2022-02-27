@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "cyberdelia",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "+1 mu The first time each turn you fully break a piece of ice, gain 1 credit.",
     "stripped_title": "Cyberdelia",
@@ -12,6 +13,5 @@
         "chip"
     ],
     "text": "+1[mu]\nThe first time each turn you fully break a piece of ice, gain 1[credit].",
-    "title": "Cyberdelia",
-    "uniqueness": false
+    "title": "Cyberdelia"
 }

@@ -5,6 +5,7 @@
     "faction_id": "haas-bioroid",
     "id": "nightdancer",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Subroutine The Runner loses click, if able. You have an additional click to spend during your next turn. Subroutine The Runner loses click, if able. You have an additional click to spend during your next turn.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn.\n[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn.",
-    "title": "Nightdancer",
-    "uniqueness": false
+    "title": "Nightdancer"
 }

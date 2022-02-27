@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "doppelganger",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+1 mu Once per turn, you may immediately make another run when a successful run ends. Limit 1 console per player.",
     "stripped_title": "Doppelganger",
@@ -12,6 +13,5 @@
         "console"
     ],
     "text": "+1[mu]\nOnce per turn, you may immediately make another run when a successful run ends.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Doppelgänger",
-    "uniqueness": true
+    "title": "Doppelgänger"
 }

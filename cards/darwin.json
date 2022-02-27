@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "darwin",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": "null",
@@ -16,6 +17,5 @@
         "virus"
     ],
     "text": "Interface → 2[credit]: Break 1 subroutine.\nX is equal to the number of hosted virus counters.\nWhen your turn begins, you may pay 1[credit] to place 1 virus counter on this program.",
-    "title": "Darwin",
-    "uniqueness": false
+    "title": "Darwin"
 }

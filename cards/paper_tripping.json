@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "paper-tripping",
+    "id": "paper_tripping",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Play only as your first click. Remove all tags.",
     "stripped_title": "Paper Tripping",
@@ -12,6 +13,5 @@
         "priority"
     ],
     "text": "Play only as your first [click].\nRemove all tags.",
-    "title": "Paper Tripping",
-    "uniqueness": false
+    "title": "Paper Tripping"
 }

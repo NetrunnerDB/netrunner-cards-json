@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "friday-chip",
+    "id": "friday_chip",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Whenever you trash a Corp card, you may place 1 virus counter on Friday Chip. When your turn begins, you may move 1 hosted virus counter to a virus program.",
     "stripped_title": "Friday Chip",
@@ -12,6 +13,5 @@
         "chip"
     ],
     "text": "Whenever you trash a Corp card, you may place 1 virus counter on Friday Chip.\nWhen your turn begins, you may move 1 hosted virus counter to a <strong>virus</strong> program.",
-    "title": "Friday Chip",
-    "uniqueness": false
+    "title": "Friday Chip"
 }

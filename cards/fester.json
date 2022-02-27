@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "fester",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Whenever the Corp purges virus counters, he or she loses 2 credits, if able.",
     "stripped_title": "Fester",
@@ -12,6 +13,5 @@
         "virtual"
     ],
     "text": "Whenever the Corp purges virus counters, he or she loses 2[credit], if able.",
-    "title": "Fester",
-    "uniqueness": false
+    "title": "Fester"
 }

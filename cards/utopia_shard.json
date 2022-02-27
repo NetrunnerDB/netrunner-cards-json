@@ -3,8 +3,9 @@
     "cost": 7,
     "deck_limit": 1,
     "faction_id": "neutral-runner",
-    "id": "utopia-shard",
+    "id": "utopia_shard",
     "influence_cost": 1,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "Whenever you make a successful run on HQ, instead of breaching HQ, you may install this program from your grip, ignoring all costs. trash: The Corp discards 2 cards from HQ at random. Limit 1 per deck.",
     "stripped_title": "Utopia Shard",
@@ -13,6 +14,5 @@
         "source"
     ],
     "text": "Whenever you make a successful run on HQ, instead of breaching HQ, you may install this program from your grip, ignoring all costs.\n<strong>[trash]:</strong> The Corp discards 2 cards from HQ at random.\nLimit 1 per deck.",
-    "title": "Utopia Shard",
-    "uniqueness": true
+    "title": "Utopia Shard"
 }

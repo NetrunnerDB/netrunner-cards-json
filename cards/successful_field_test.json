@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "successful-field-test",
+    "id": "successful_field_test",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score Successful Field Test, install any number of cards from HQ, ignoring all costs.",
     "stripped_title": "Successful Field Test",
@@ -12,6 +13,5 @@
         "research"
     ],
     "text": "When you score Successful Field Test, install any number of cards from HQ, ignoring all costs.",
-    "title": "Successful Field Test",
-    "uniqueness": false
+    "title": "Successful Field Test"
 }

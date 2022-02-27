@@ -3,8 +3,9 @@
     "cost": 5,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "yog-0",
+    "id": "yog_0",
     "influence_cost": 1,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 3,
@@ -15,6 +16,5 @@
         "decoder"
     ],
     "text": "Interface → <strong>0[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.",
-    "title": "Yog.0",
-    "uniqueness": false
+    "title": "Yog.0"
 }

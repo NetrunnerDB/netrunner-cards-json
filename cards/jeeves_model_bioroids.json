@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "jeeves-model-bioroids",
+    "id": "jeeves_model_bioroids",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "corp",
     "stripped_text": "This card costs 0 influence if you have 6 or more non-alliance haas-bioroid cards in your deck. The first time you spend 3click on the same action each turn, gain click.",
     "stripped_title": "Jeeves Model Bioroids",
@@ -13,6 +14,5 @@
     ],
     "text": "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [haas-bioroid] cards in your deck.\nThe first time you spend 3[click] on the same action each turn, gain [click].",
     "title": "Jeeves Model Bioroids",
-    "trash_cost": 5,
-    "uniqueness": true
+    "trash_cost": 5
 }

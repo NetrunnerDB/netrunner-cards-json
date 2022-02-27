@@ -3,8 +3,9 @@
     "cost": 7,
     "deck_limit": 1,
     "faction_id": "neutral-runner",
-    "id": "eden-shard",
+    "id": "eden_shard",
     "influence_cost": 1,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "Whenever you make a successful run on R&D, instead of breaching R&D, you may install this program from your grip, ignoring all costs. trash: The Corp draws 2 cards. Limit 1 per deck.",
     "stripped_title": "Eden Shard",
@@ -13,6 +14,5 @@
         "source"
     ],
     "text": "Whenever you make a successful run on R&D, instead of breaching R&D, you may install this program from your grip, ignoring all costs.\n<strong>[trash]:</strong> The Corp draws 2 cards.\nLimit 1 per deck.",
-    "title": "Eden Shard",
-    "uniqueness": true
+    "title": "Eden Shard"
 }

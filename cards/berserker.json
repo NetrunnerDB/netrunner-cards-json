@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "berserker",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "Whenever you encounter a <strong>barrier</strong>, for the remainder of that encounter this program gets +1 strength for each subroutine on that <strong>barrier</strong>.\nInterface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.",
-    "title": "Berserker",
-    "uniqueness": false
+    "title": "Berserker"
 }

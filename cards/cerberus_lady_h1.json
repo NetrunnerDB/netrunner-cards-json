@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "cerberus-lady-h1",
+    "id": "cerberus_lady_h1",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 3,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "When you install this program, place 4 power counters on it.\nInterface → <strong>Hosted power counter:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Cerberus \"Lady\" H1",
-    "uniqueness": false
+    "title": "Cerberus \"Lady\" H1"
 }

@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "rime",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 0,
     "stripped_text": "During runs on this server, you can rez this ice any time you could rez non-ice cards. Each piece of ice protecting this server has +1 strength. Subroutine The Runner loses 1 credit.",
@@ -13,6 +14,5 @@
         "mythic"
     ],
     "text": "During runs on this server, you can rez this ice any time you could rez non-ice cards.\nEach piece of ice protecting this server has +1 strength.\n[subroutine] The Runner loses 1[credit].",
-    "title": "Rime",
-    "uniqueness": false
+    "title": "Rime"
 }

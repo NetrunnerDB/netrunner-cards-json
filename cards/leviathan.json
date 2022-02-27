@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "leviathan",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 3,
@@ -15,6 +16,5 @@
         "decoder"
     ],
     "text": "Interface → <strong>3[credit]:</strong> Break up to 3 <strong>code gate</strong> subroutines.\n<strong>3[credit]:</strong> +5 strength.",
-    "title": "Leviathan",
-    "uniqueness": false
+    "title": "Leviathan"
 }

@@ -3,8 +3,9 @@
     "cost": 1,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "tech-trader",
+    "id": "tech_trader",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Whenever you use a trash ability, gain 1 credit.",
     "stripped_title": "Tech Trader",
@@ -12,6 +13,5 @@
         "connection"
     ],
     "text": "Whenever you use a [trash] ability, gain 1[credit].",
-    "title": "Tech Trader",
-    "uniqueness": false
+    "title": "Tech Trader"
 }

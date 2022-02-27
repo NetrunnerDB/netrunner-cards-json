@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "peregrine",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "decoder"
     ],
     "text": "Interface → 1[credit]: Break 1 <strong>code gate</strong> subroutine.\n<strong>3[credit]:</strong> +3 strength.\n<strong>2[credit]</strong>, </strong>add this program to your grip:</strong> Derez 1 <strong>code gate</strong> this program fully broke during this encounter.",
-    "title": "Peregrine",
-    "uniqueness": false
+    "title": "Peregrine"
 }

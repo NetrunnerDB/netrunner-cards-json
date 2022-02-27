@@ -3,12 +3,12 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "anonymous-tip",
+    "id": "anonymous_tip",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Draw 3 cards.",
     "stripped_title": "Anonymous Tip",
     "text": "Draw 3 cards.",
-    "title": "Anonymous Tip",
-    "uniqueness": false
+    "title": "Anonymous Tip"
 }

@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "ip-block",
+    "id": "ip_block",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "When the Runner encounters IP Block, give him or her 1 tag if there is an installed AI. Subroutine Trace 3 If successful, give the Runner 1 tag. Subroutine End the run if the Runner is tagged.",
@@ -14,6 +15,5 @@
         "tracer"
     ],
     "text": "When the Runner encounters IP Block, give him or her 1 tag if there is an installed <strong>AI</strong>.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
-    "title": "IP Block",
-    "uniqueness": false
+    "title": "IP Block"
 }

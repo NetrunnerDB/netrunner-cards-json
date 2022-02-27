@@ -5,6 +5,7 @@
     "faction_id": "nbn",
     "id": "flare",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 6,
     "stripped_text": "Subroutine Trace 6 If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.",
@@ -15,6 +16,5 @@
         "ap"
     ],
     "text": "[subroutine]<trace>Trace 6</trace> If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.",
-    "title": "Flare",
-    "uniqueness": false
+    "title": "Flare"
 }

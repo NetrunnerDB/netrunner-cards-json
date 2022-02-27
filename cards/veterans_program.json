@@ -4,8 +4,9 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "neutral-corp",
-    "id": "veterans-program",
+    "id": "veterans_program",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score Veterans Program, you may remove up to 2 bad publicity.",
     "stripped_title": "Veterans Program",
@@ -13,6 +14,5 @@
         "initiative"
     ],
     "text": "When you score Veterans Program, you may remove up to 2 bad publicity.",
-    "title": "Veterans Program",
-    "uniqueness": false
+    "title": "Veterans Program"
 }

@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "surat-city-grid",
+    "id": "surat_city_grid",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Whenever you rez another card in the root of or protecting this server, you may rez 1 card, paying 2 credits less. Limit 1 region per server.",
     "stripped_title": "Surat City Grid",
@@ -13,6 +14,5 @@
     ],
     "text": "Whenever you rez another card in the root of or protecting this server, you may rez 1 card, paying 2[credit] less.\nLimit 1 <strong>region</strong> per server.",
     "title": "Surat City Grid",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

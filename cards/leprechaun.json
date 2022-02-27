@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "leprechaun",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "Leprechaun can host up to 2 programs. The memory costs of hosted programs do not count against your memory limit.",
@@ -13,6 +14,5 @@
         "daemon"
     ],
     "text": "Leprechaun can host up to 2 programs. The memory costs of hosted programs do not count against your memory limit.",
-    "title": "Leprechaun",
-    "uniqueness": false
+    "title": "Leprechaun"
 }

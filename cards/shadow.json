@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "shadow",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 1,
     "stripped_text": "Shadow can be advanced and has +1 strength for each advancement token on it. Subroutine The Corp gains 2 credits. Subroutine Trace 3 If successful, give the Runner 1 tag.",
@@ -14,6 +15,5 @@
         "tracer"
     ],
     "text": "Shadow can be advanced and has +1 strength for each advancement token on it.\n[subroutine] The Corp gains 2[credit].\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
-    "title": "Shadow",
-    "uniqueness": false
+    "title": "Shadow"
 }

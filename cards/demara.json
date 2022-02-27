@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "demara",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 1,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "Interface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.\n<strong>[trash]:</strong> Bypass the <strong>barrier</strong> you are encountering.",
-    "title": "Demara",
-    "uniqueness": false
+    "title": "Demara"
 }

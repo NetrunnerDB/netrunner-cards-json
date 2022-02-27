@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "crash-space",
+    "id": "crash_space",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "2 recurring credits Use these credits to pay for removing tags. trash: Prevent up to 3 meat damage.",
     "stripped_title": "Crash Space",
@@ -12,6 +13,5 @@
         "location"
     ],
     "text": "2[recurring-credit]\nUse these credits to pay for removing tags.\n[trash]: Prevent up to 3 meat damage.",
-    "title": "Crash Space",
-    "uniqueness": false
+    "title": "Crash Space"
 }

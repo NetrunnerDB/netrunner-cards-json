@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "lycan",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "Lycan can be advanced. While Lycan has an odd number of advancement tokens on it, it gains code gate and loses sentry. Subroutine Trash 1 program.",
@@ -15,6 +16,5 @@
         "morph"
     ],
     "text": "Lycan can be advanced.\nWhile Lycan has an odd number of advancement tokens on it, it gains <strong>code gate</strong> and loses <strong>sentry</strong>.\n[subroutine] Trash 1 program.",
-    "title": "Lycan",
-    "uniqueness": false
+    "title": "Lycan"
 }

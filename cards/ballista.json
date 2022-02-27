@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "ballista",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Subroutine Trash 1 installed program or end the run.",
@@ -14,6 +15,5 @@
         "destroyer"
     ],
     "text": "[subroutine] Trash 1 installed program or end the run.",
-    "title": "Ballista",
-    "uniqueness": false
+    "title": "Ballista"
 }

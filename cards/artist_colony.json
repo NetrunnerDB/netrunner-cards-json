@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "artist-colony",
+    "id": "artist_colony",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Forfeit 1 agenda: Search your stack for 1 program, resource, or piece of hardware. Install that card.",
     "stripped_title": "Artist Colony",
@@ -12,6 +13,5 @@
         "location"
     ],
     "text": "<strong>Forfeit 1 agenda:</strong> Search your stack for 1 program, resource, or piece of hardware. Install that card.",
-    "title": "Artist Colony",
-    "uniqueness": false
+    "title": "Artist Colony"
 }

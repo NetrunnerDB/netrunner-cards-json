@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "odore",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 0,
@@ -15,6 +16,5 @@
         "killer"
     ],
     "text": "Interface → <strong>2[credit]:</strong> Break any number of <strong>sentry</strong> subroutines.\nInterface → <strong>0[credit]:</strong> Break 1 <strong>sentry</strong> subroutine. Use this ability only if you have 3 or more installed <strong>virtual</strong> resources.\n<strong>3[credit]:</strong> +3 strength.",
-    "title": "Odore",
-    "uniqueness": false
+    "title": "Odore"
 }

@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "neutral-runner",
-    "id": "corporate-defector",
+    "id": "corporate_defector",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Interrupt -> Whenever the Corp would draw a card with a basic action, reveal that card. Errata from CR 1.4",
     "stripped_title": "Corporate Defector",
@@ -12,6 +13,5 @@
         "connection"
     ],
     "text": "[interrupt] → Whenever the Corp would draw a card with a basic action, reveal that card.\n<errata>Errata from CR 1.4</errata>",
-    "title": "Corporate Defector",
-    "uniqueness": false
+    "title": "Corporate Defector"
 }

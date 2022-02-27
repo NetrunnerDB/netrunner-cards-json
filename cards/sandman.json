@@ -5,6 +5,7 @@
     "faction_id": "nbn",
     "id": "sandman",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "Subroutine Add an installed Runner card to the grip. Subroutine Add an installed Runner card to the grip.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "[subroutine]Add an installed Runner card to the grip.\n[subroutine]Add an installed Runner card to the grip.",
-    "title": "Sandman",
-    "uniqueness": false
+    "title": "Sandman"
 }

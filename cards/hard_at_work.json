@@ -3,12 +3,12 @@
     "cost": 5,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "hard-at-work",
+    "id": "hard_at_work",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "When your turn begins, gain 2 credits and lose click.",
     "stripped_title": "Hard at Work",
     "text": "When your turn begins, gain 2[credit] and lose [click].",
-    "title": "Hard at Work",
-    "uniqueness": false
+    "title": "Hard at Work"
 }

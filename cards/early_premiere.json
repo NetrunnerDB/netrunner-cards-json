@@ -3,13 +3,13 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "early-premiere",
+    "id": "early_premiere",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When your turn begins, you may pay 1 credit. If you do, place 1 advancement counter on 1 card you can advance in the root of a server.",
     "stripped_title": "Early Premiere",
     "text": "When your turn begins, you may pay 1[credit]. If you do, place 1 advancement counter on 1 card you can advance in the root of a server.",
     "title": "Early Premiere",
-    "trash_cost": 2,
-    "uniqueness": false
+    "trash_cost": 2
 }

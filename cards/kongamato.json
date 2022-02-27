@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "kongamato",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "trash: Break the first subroutine on the encountered piece of ice.",
     "stripped_title": "Kongamato",
@@ -12,6 +13,5 @@
         "virtual"
     ],
     "text": "[trash]: Break the first subroutine on the encountered piece of ice.",
-    "title": "Kongamato",
-    "uniqueness": false
+    "title": "Kongamato"
 }

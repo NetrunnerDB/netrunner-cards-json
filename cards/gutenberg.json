@@ -5,6 +5,7 @@
     "faction_id": "nbn",
     "id": "gutenberg",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "Gutenberg has +3 strength while protecting R&D. Subroutine Trace 7 If successful, give the Runner 1 tag.",
@@ -14,6 +15,5 @@
         "tracer"
     ],
     "text": "Gutenberg has +3 strength while protecting R&D.\n[subroutine] <trace>Trace 7</trace> If successful, give the Runner 1 tag.",
-    "title": "Gutenberg",
-    "uniqueness": false
+    "title": "Gutenberg"
 }

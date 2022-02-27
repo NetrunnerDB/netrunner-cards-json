@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "cerebral-overwriter",
+    "id": "cerebral_overwriter",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "You can advance this asset. When the Runner accesses this asset, you may pay 3 credits. If you do, do 1 brain damage for each hosted advancement token.",
     "stripped_title": "Cerebral Overwriter",
@@ -13,6 +14,5 @@
     ],
     "text": "You can advance this asset.\nWhen the Runner accesses this asset, you may pay 3[credit]. If you do, do 1 brain damage for each hosted advancement token.",
     "title": "Cerebral Overwriter",
-    "trash_cost": 0,
-    "uniqueness": false
+    "trash_cost": 0
 }

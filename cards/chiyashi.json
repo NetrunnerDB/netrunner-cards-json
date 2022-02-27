@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "chiyashi",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 8,
     "stripped_text": "Whenever the Runner breaks a subroutine on Chiyashi while there is an AI installed, trash the top 2 cards of the Runner's stack. Subroutine Do 2 net damage. Subroutine Do 2 net damage. Subroutine End the run.",
@@ -14,6 +15,5 @@
         "ap"
     ],
     "text": "Whenever the Runner breaks a subroutine on Chiyashi while there is an <strong>AI</strong> installed, trash the top 2 cards of the Runner's stack.\n[subroutine] Do 2 net damage.\n[subroutine] Do 2 net damage.\n[subroutine] End the run.",
-    "title": "Chiyashi",
-    "uniqueness": false
+    "title": "Chiyashi"
 }

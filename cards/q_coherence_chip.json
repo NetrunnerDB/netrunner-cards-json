@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "neutral-runner",
-    "id": "q-coherence-chip",
+    "id": "q_coherence_chip",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "+1 mu When an installed program is trashed, trash this hardware.",
     "stripped_title": "Q-Coherence Chip",
@@ -12,6 +13,5 @@
         "chip"
     ],
     "text": "+1[mu]\nWhen an installed program is trashed, trash this hardware.",
-    "title": "Q-Coherence Chip",
-    "uniqueness": false
+    "title": "Q-Coherence Chip"
 }

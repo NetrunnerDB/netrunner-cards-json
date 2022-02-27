@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "cordyceps",
     "influence_cost": 4,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "When you install this program, place 2 virus counters on it. Whenever you make a successful run on a central server, you may remove 1 hosted virus counter to swap a piece of ice protecting that server with another installed piece of ice. Use this ability only once per turn.",
@@ -13,6 +14,5 @@
         "virus"
     ],
     "text": "When you install this program, place 2 virus counters on it.\nWhenever you make a successful run on a central server, you may remove 1 hosted virus counter to swap a piece of ice protecting that server with another installed piece of ice. Use this ability only once per turn.",
-    "title": "Cordyceps",
-    "uniqueness": false
+    "title": "Cordyceps"
 }

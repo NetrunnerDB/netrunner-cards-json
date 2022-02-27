@@ -5,6 +5,7 @@
     "faction_id": "neutral-runner",
     "id": "mayfly",
     "influence_cost": 0,
+    "is_unique": false,
     "memory_cost": 2,
     "side_id": "runner",
     "strength": 1,
@@ -15,6 +16,5 @@
         "ai"
     ],
     "text": "Interface → 1[credit]: Break 1 subroutine. When this run ends, trash this program.\n1[credit]: +1 strength.",
-    "title": "Mayfly",
-    "uniqueness": false
+    "title": "Mayfly"
 }

@@ -3,13 +3,13 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "sneakdoor-beta",
+    "id": "sneakdoor_beta",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 2,
     "side_id": "runner",
     "stripped_text": "click: Run Archives. If that run would be declared successful, change the attacked server to HQ for the remainder of that run.",
     "stripped_title": "Sneakdoor Beta",
     "text": "[click]: Run Archives. If that run would be declared successful, change the attacked server to HQ for the remainder of that run.",
-    "title": "Sneakdoor Beta",
-    "uniqueness": false
+    "title": "Sneakdoor Beta"
 }

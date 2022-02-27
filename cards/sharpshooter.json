@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "sharpshooter",
     "influence_cost": 1,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 3,
@@ -14,6 +15,5 @@
         "icebreaker"
     ],
     "text": "Interface → <strong>[trash]:</strong> Break any number of <strong>destroyer</strong> subroutines.\n<strong>1[credit]:</strong> +2 strength.",
-    "title": "Sharpshooter",
-    "uniqueness": false
+    "title": "Sharpshooter"
 }

@@ -2,8 +2,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "nbn",
-    "id": "acme-consulting-the-truth-you-need",
+    "id": "acme_consulting_the_truth_you_need",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 45,
     "side_id": "corp",
     "stripped_text": "The Runner is considered to have 1 additional tag (even if they have 0) during encounters with the outermost piece of ice protecting any server.",
@@ -12,6 +13,5 @@
         "subsidiary"
     ],
     "text": "The Runner is considered to have 1 additional tag (even if they have 0) during encounters with the outermost piece of ice protecting any server.",
-    "title": "Acme Consulting: The Truth You Need",
-    "uniqueness": false
+    "title": "Acme Consulting: The Truth You Need"
 }

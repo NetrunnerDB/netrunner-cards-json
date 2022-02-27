@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "atman",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 0,
@@ -15,6 +16,5 @@
         "ai"
     ],
     "text": "When you install this program, you may pay X[credit] to place X power counters on it.\nThis program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\nInterface → 1[credit]: Break 1 subroutine.",
-    "title": "Atman",
-    "uniqueness": false
+    "title": "Atman"
 }

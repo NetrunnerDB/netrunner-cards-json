@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "logos",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+1 mu Your maximum hand size is increased by 1. Whenever the Corp scores an agenda, you may search your stack for a card and add it to your grip. Shuffle your stack. Limit 1 console per player.",
     "stripped_title": "Logos",
@@ -12,6 +13,5 @@
         "console"
     ],
     "text": "+1[mu]\nYour maximum hand size is increased by 1.\nWhenever the Corp scores an agenda, you may search your stack for a card and add it to your grip. Shuffle your stack.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Logos",
-    "uniqueness": true
+    "title": "Logos"
 }

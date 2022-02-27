@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "datasucker",
     "influence_cost": 1,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "Whenever you make a successful run on a central server, place 1 virus counter on Datasucker. Hosted virus counter: Rezzed piece of ice currently being encountered has -1 strength until the end of the encounter.",
@@ -13,6 +14,5 @@
         "virus"
     ],
     "text": "Whenever you make a successful run on a central server, place 1 virus counter on Datasucker.\n<strong>Hosted virus counter:</strong> Rezzed piece of ice currently being encountered has -1 strength until the end of the encounter.",
-    "title": "Datasucker",
-    "uniqueness": false
+    "title": "Datasucker"
 }

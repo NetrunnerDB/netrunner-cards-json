@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "daredevil",
     "influence_cost": 1,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+2 mu The first time you initiate a run on a server protected by 2 or more pieces of ice each turn, draw 2 cards. Limit 1 console per player.",
     "stripped_title": "Daredevil",
@@ -12,6 +13,5 @@
         "console"
     ],
     "text": "+2[mu]\nThe first time you initiate a run on a server protected by 2 or more pieces of ice each turn, draw 2 cards.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Daredevil",
-    "uniqueness": true
+    "title": "Daredevil"
 }

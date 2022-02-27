@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "marker",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "Subroutine The next piece of ice the Runner encounters gains \"Subroutine End the run.\" after all its other subroutines for the remainder of this run.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "[subroutine] The next piece of ice the Runner encounters gains \"[subroutine] End the run.\" after all its other subroutines for the remainder of this run.",
-    "title": "Marker",
-    "uniqueness": false
+    "title": "Marker"
 }

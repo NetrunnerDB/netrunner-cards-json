@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "cyber-cypher",
+    "id": "cyber_cypher",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 4,
@@ -15,6 +16,5 @@
         "decoder"
     ],
     "text": "When you install this program, choose a server. Use this program only during runs on the chosen server.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Cyber-Cypher",
-    "uniqueness": false
+    "title": "Cyber-Cypher"
 }

@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "keiko",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+2 mu The first time each turn you spend credits from or install a companion, gain 1 credit. Limit 1 console per player.",
     "stripped_title": "Keiko",
@@ -13,6 +14,5 @@
         "companion"
     ],
     "text": "+2[mu]\nThe first time each turn you spend credits from or install a <strong>companion</strong>, gain 1[credit].\nLimit 1 <strong>console</strong> per player.",
-    "title": "Keiko",
-    "uniqueness": true
+    "title": "Keiko"
 }

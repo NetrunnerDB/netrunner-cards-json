@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "merlin",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "When the Runner encounters Merlin, you may reveal up to 2 grail ice from HQ. For the remainder of this run, Merlin gains the subroutines of the revealed ice in the order of your choice. Subroutine Do 2 net damage.",
@@ -15,6 +16,5 @@
         "ap"
     ],
     "text": "When the Runner encounters Merlin, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Merlin gains the subroutines of the revealed ice in the order of your choice.\n[subroutine] Do 2 net damage.",
-    "title": "Merlin",
-    "uniqueness": false
+    "title": "Merlin"
 }

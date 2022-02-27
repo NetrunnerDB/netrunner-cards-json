@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "peeping-tom",
+    "id": "peeping_tom",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "When the Runner encounters this ice, choose a card type, then reveal all cards in the grip. For the remainder of this run, this ice gains \"Subroutine End the run unless the Runner takes 1 tag.\" for each revealed card of the chosen type.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "When the Runner encounters this ice, choose a card type, then reveal all cards in the grip. For the remainder of this run, this ice gains \"[subroutine] End the run unless the Runner takes 1 tag.\" for each revealed card of the chosen type.",
-    "title": "Peeping Tom",
-    "uniqueness": false
+    "title": "Peeping Tom"
 }

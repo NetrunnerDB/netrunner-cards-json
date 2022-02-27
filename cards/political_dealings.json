@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "political-dealings",
+    "id": "political_dealings",
     "influence_cost": 4,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Whenever you draw an agenda, you may reveal and install it.",
     "stripped_title": "Political Dealings",
@@ -13,6 +14,5 @@
     ],
     "text": "Whenever you draw an agenda, you may reveal and install it.",
     "title": "Political Dealings",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

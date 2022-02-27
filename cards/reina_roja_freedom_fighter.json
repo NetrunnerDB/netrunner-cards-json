@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "anarch",
-    "id": "reina-roja-freedom-fighter",
+    "id": "reina_roja_freedom_fighter",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 45,
     "side_id": "runner",
     "stripped_text": "The first piece of ice the Corp rezzes each turn costs 1 credit more to rez.",
@@ -14,6 +15,5 @@
         "g_mod"
     ],
     "text": "The first piece of ice the Corp rezzes each turn costs 1[credit] more to rez.",
-    "title": "Reina Roja: Freedom Fighter",
-    "uniqueness": false
+    "title": "Reina Roja: Freedom Fighter"
 }

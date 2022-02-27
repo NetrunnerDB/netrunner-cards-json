@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "algo-trading",
+    "id": "algo_trading",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "When your turn begins, you may move up to 3 credits from your credit pool to Algo Trading. When your turn begins, place 2 credits on Algo Trading from the bank if there are at least 6 credits on it. click,trash: Take all credits from Algo Trading.",
     "stripped_title": "Algo Trading",
@@ -12,6 +13,5 @@
         "job"
     ],
     "text": "When your turn begins, you may move up to 3[credit] from your credit pool to Algo Trading.\nWhen your turn begins, place 2[credit] on Algo Trading from the bank if there are at least 6[credit] on it.\n[click],[trash]: Take all credits from Algo Trading.",
-    "title": "Algo Trading",
-    "uniqueness": false
+    "title": "Algo Trading"
 }

@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "lean-and-mean",
+    "id": "lean_and_mean",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Make a run. If you have 3 or fewer programs installed, all icebreakers have +2 strength during this run.",
     "stripped_title": "Lean and Mean",
@@ -12,6 +13,5 @@
         "run"
     ],
     "text": "Make a run. If you have 3 or fewer programs installed, all <strong>icebreakers</strong> have +2 strength during this run.",
-    "title": "Lean and Mean",
-    "uniqueness": false
+    "title": "Lean and Mean"
 }

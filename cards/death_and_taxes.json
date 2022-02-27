@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "death-and-taxes",
+    "id": "death_and_taxes",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "This card is not trashed until another current is played or an agenda is stolen. Whenever the Runner installs a card or trashes an installed card, you may gain 1 credit.",
     "stripped_title": "Death and Taxes",
@@ -13,6 +14,5 @@
         "transaction"
     ],
     "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhenever the Runner installs a card or trashes an installed card, you may gain 1[credit].",
-    "title": "Death and Taxes",
-    "uniqueness": false
+    "title": "Death and Taxes"
 }

@@ -3,8 +3,9 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "synthetic-blood",
+    "id": "synthetic_blood",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "The first time you take damage each turn, draw 1 card.",
     "stripped_title": "Synthetic Blood",
@@ -12,6 +13,5 @@
         "genetics"
     ],
     "text": "The first time you take damage each turn, draw 1 card.",
-    "title": "Synthetic Blood",
-    "uniqueness": true
+    "title": "Synthetic Blood"
 }

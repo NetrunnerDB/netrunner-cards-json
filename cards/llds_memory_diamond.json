@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "llds-memory-diamond",
+    "id": "llds_memory_diamond",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "+1 mu, +1 link Your maximum hand size is increased by 1.",
     "stripped_title": "LLDS Memory Diamond",
@@ -12,6 +13,5 @@
         "mod"
     ],
     "text": "+1[mu], +1[link]\nYour maximum hand size is increased by 1.",
-    "title": "LLDS Memory Diamond",
-    "uniqueness": false
+    "title": "LLDS Memory Diamond"
 }

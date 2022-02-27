@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "yagura",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 0,
     "stripped_text": "Subroutine Look at the top card of R&D. You may add that card to the bottom of R&D. Subroutine Do 1 net damage.",
@@ -14,6 +15,5 @@
         "ap"
     ],
     "text": "[subroutine] Look at the top card of R&D. You may add that card to the bottom of R&D.\n[subroutine] Do 1 net damage.",
-    "title": "Yagura",
-    "uniqueness": false
+    "title": "Yagura"
 }

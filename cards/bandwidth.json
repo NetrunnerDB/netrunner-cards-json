@@ -5,6 +5,7 @@
     "faction_id": "nbn",
     "id": "bandwidth",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 5,
     "stripped_text": "Subroutine Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "[subroutine] Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag.",
-    "title": "Bandwidth",
-    "uniqueness": false
+    "title": "Bandwidth"
 }

@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "zed-1-0",
+    "id": "zed_1_0",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 1,
     "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine If the Runner has lost a click to break a subroutine during this run, do 1 brain damage. Subroutine If the Runner has lost a click to break a subroutine during this run, do 1 brain damage.",
@@ -15,6 +16,5 @@
         "ap"
     ],
     "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] If the Runner has lost a [click] to break a subroutine during this run, do 1 brain damage.\n[subroutine] If the Runner has lost a [click] to break a subroutine during this run, do 1 brain damage.",
-    "title": "Zed 1.0",
-    "uniqueness": false
+    "title": "Zed 1.0"
 }

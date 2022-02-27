@@ -3,13 +3,13 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "neutral-corp",
-    "id": "server-diagnostics",
+    "id": "server_diagnostics",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Gain 2 credits when your turn begins. Trash Server Diagnostics when you install a piece of ice.",
     "stripped_title": "Server Diagnostics",
     "text": "Gain 2[credit] when your turn begins.\nTrash Server Diagnostics when you install a piece of ice.",
     "title": "Server Diagnostics",
-    "trash_cost": 2,
-    "uniqueness": false
+    "trash_cost": 2
 }

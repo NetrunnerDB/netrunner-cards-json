@@ -3,8 +3,9 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "woman-in-the-red-dress",
+    "id": "woman_in_the_red_dress",
     "influence_cost": 4,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "When your turn begins, reveal the top card of R&D. The Corp may draw that card.",
     "stripped_title": "Woman in the Red Dress",
@@ -13,6 +14,5 @@
         "virtual"
     ],
     "text": "When your turn begins, reveal the top card of R&D. The Corp may draw that card.",
-    "title": "Woman in the Red Dress",
-    "uniqueness": true
+    "title": "Woman in the Red Dress"
 }

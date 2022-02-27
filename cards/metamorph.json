@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "metamorph",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Subroutine Swap 2 other installed pieces of ice or 2 of your installed non-ice cards.",
@@ -14,6 +15,5 @@
         "observer"
     ],
     "text": "[subroutine] Swap 2 other installed pieces of ice or 2 of your installed non-ice cards.",
-    "title": "Metamorph",
-    "uniqueness": false
+    "title": "Metamorph"
 }

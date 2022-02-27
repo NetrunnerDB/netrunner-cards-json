@@ -3,8 +3,9 @@
     "cost": 14,
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "curtain-wall",
+    "id": "curtain_wall",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 6,
     "stripped_text": "If Curtain Wall is the outermost piece of ice protecting a server, it has +4 strength. Subroutine End the run. Subroutine End the run. Subroutine End the run.",
@@ -13,6 +14,5 @@
         "barrier"
     ],
     "text": "If Curtain Wall is the outermost piece of ice protecting a server, it has +4 strength.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.",
-    "title": "Curtain Wall",
-    "uniqueness": false
+    "title": "Curtain Wall"
 }

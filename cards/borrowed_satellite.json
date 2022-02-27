@@ -3,8 +3,9 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "borrowed-satellite",
+    "id": "borrowed_satellite",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "+1 link Your maximum hand size is increased by 1.",
     "stripped_title": "Borrowed Satellite",
@@ -12,6 +13,5 @@
         "link"
     ],
     "text": "+1[link]\nYour maximum hand size is increased by 1.",
-    "title": "Borrowed Satellite",
-    "uniqueness": false
+    "title": "Borrowed Satellite"
 }

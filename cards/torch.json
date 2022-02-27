@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "torch",
     "influence_cost": 4,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 4,
@@ -15,6 +16,5 @@
         "decoder"
     ],
     "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Torch",
-    "uniqueness": false
+    "title": "Torch"
 }

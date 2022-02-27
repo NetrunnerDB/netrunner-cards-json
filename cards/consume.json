@@ -5,6 +5,7 @@
     "faction_id": "apex",
     "id": "consume",
     "influence_cost": 5,
+    "is_unique": false,
     "memory_cost": 0,
     "side_id": "runner",
     "stripped_text": "Whenever you trash a Corp card, you may place 1 virus counter on Consume. click: Gain 2 credits for each hosted virus counter, then remove all virus counters from Consume.",
@@ -13,6 +14,5 @@
         "virus"
     ],
     "text": "Whenever you trash a Corp card, you may place 1 virus counter on Consume.\n[click]: Gain 2[credit] for each hosted virus counter, then remove all virus counters from Consume.",
-    "title": "Consume",
-    "uniqueness": false
+    "title": "Consume"
 }

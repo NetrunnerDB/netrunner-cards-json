@@ -2,8 +2,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "weyland-consortium",
-    "id": "fringe-applications-tomorrow-today",
+    "id": "fringe_applications_tomorrow_today",
     "influence_limit": "null",
+    "is_unique": false,
     "minimum_deck_size": 30,
     "side_id": "corp",
     "stripped_text": "Draft format only. If you have more weyland-consortium cards rezzed than any other faction, when the Runner's turn begins, place an advancement token on a piece of ice.",
@@ -12,6 +13,5 @@
         "division"
     ],
     "text": "Draft format only.\nIf you have more [weyland-consortium] cards rezzed than any other faction, when the Runner's turn begins, place an advancement token on a piece of ice.",
-    "title": "Fringe Applications: Tomorrow, Today",
-    "uniqueness": false
+    "title": "Fringe Applications: Tomorrow, Today"
 }

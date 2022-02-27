@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "restructured-datapool",
+    "id": "restructured_datapool",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "click: Trace 2 If successful, give the Runner 1 tag.",
     "stripped_title": "Restructured Datapool",
@@ -12,6 +13,5 @@
         "initiative"
     ],
     "text": "[click]: <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
-    "title": "Restructured Datapool",
-    "uniqueness": false
+    "title": "Restructured Datapool"
 }

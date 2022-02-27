@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "blackat",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 3,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine. If you spent a credit from a <strong>stealth</strong> card to use this ability, instead break up to 3 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +1 strength. If you spent at least 1 credit from a <strong>stealth</strong> card to use this ability, instead +2 strength.",
-    "title": "BlacKat",
-    "uniqueness": false
+    "title": "BlacKat"
 }

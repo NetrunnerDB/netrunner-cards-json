@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 6,
     "faction_id": "criminal",
-    "id": "spy-camera",
+    "id": "spy_camera",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "click: Look at the top X cards of your stack and arrange them in any order. X is the number of copies of Spy Camera installed. trash: Look at the top card of R&D. Limit 6 per deck.",
     "stripped_title": "Spy Camera",
@@ -12,6 +13,5 @@
         "consumer_grade"
     ],
     "text": "[click]: Look at the top X cards of your stack and arrange them in any order. X is the number of copies of Spy Camera installed.\n[trash]: Look at the top card of R&D.\nLimit 6 per deck.",
-    "title": "Spy Camera",
-    "uniqueness": false
+    "title": "Spy Camera"
 }

@@ -3,8 +3,9 @@
     "cost": 8,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "morning-star",
+    "id": "morning_star",
     "influence_cost": 4,
+    "is_unique": false,
     "memory_cost": 2,
     "side_id": "runner",
     "strength": 5,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "Interface → <strong>1[credit]:</strong> Break any number of <strong>barrier</strong> subroutines.",
-    "title": "Morning Star",
-    "uniqueness": false
+    "title": "Morning Star"
 }

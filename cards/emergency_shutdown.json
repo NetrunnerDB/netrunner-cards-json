@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "emergency-shutdown",
+    "id": "emergency_shutdown",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Play only if you made a successful run on HQ this turn. Derez 1 installed piece of ice.",
     "stripped_title": "Emergency Shutdown",
@@ -12,6 +13,5 @@
         "sabotage"
     ],
     "text": "Play only if you made a successful run on HQ this turn.\nDerez 1 installed piece of ice.",
-    "title": "Emergency Shutdown",
-    "uniqueness": false
+    "title": "Emergency Shutdown"
 }

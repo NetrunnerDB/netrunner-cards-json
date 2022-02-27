@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "oaktown-renovation",
+    "id": "oaktown_renovation",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Install only faceup. (This agenda is neither rezzed nor unrezzed.) Whenever you advance this agenda, gain 2 credits. If there are 5 or more hosted advancement counters (including the counter just placed), gain 3 credits instead.",
     "stripped_title": "Oaktown Renovation",
@@ -13,6 +14,5 @@
         "initiative"
     ],
     "text": "Install only faceup. <em>(This agenda is neither rezzed nor unrezzed.)</em>\nWhenever you advance this agenda, gain 2[credit]. If there are 5 or more hosted advancement counters <em>(including the counter just placed)</em>, gain 3[credit] instead.",
-    "title": "Oaktown Renovation",
-    "uniqueness": false
+    "title": "Oaktown Renovation"
 }

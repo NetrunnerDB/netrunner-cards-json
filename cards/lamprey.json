@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "lamprey",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "Whenever you make a successful run on HQ, the Corp loses 1 credit. Trash Lamprey if the Corp purges virus counters.",
@@ -13,6 +14,5 @@
         "virus"
     ],
     "text": "Whenever you make a successful run on HQ, the Corp loses 1[credit].\nTrash Lamprey if the Corp purges virus counters.",
-    "title": "Lamprey",
-    "uniqueness": false
+    "title": "Lamprey"
 }

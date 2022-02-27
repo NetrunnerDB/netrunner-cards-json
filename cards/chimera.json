@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "chimera",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 0,
     "stripped_text": "When you rez Chimera, choose sentry, code gate, or barrier. Chimera gains that subtype until derezzed. When a turn ends, derez Chimera. Subroutine End the run.",
@@ -13,6 +14,5 @@
         "mythic"
     ],
     "text": "When you rez Chimera, choose <strong>sentry</strong>, <strong>code gate</strong>, or <strong>barrier</strong>. Chimera gains that subtype until derezzed.\nWhen a turn ends, derez Chimera.\n[subroutine] End the run.",
-    "title": "Chimera",
-    "uniqueness": false
+    "title": "Chimera"
 }

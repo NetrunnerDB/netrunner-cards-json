@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "advanced-concept-hopper",
+    "id": "advanced_concept_hopper",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "The first time the Runner initiates a run each turn, you may draw 1 card or gain 1 credit.",
     "stripped_title": "Advanced Concept Hopper",
@@ -12,6 +13,5 @@
         "research"
     ],
     "text": "The first time the Runner initiates a run each turn, you may draw 1 card or gain 1[credit].",
-    "title": "Advanced Concept Hopper",
-    "uniqueness": false
+    "title": "Advanced Concept Hopper"
 }

@@ -3,8 +3,9 @@
     "cost": 5,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "battering-ram",
+    "id": "battering_ram",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 2,
     "side_id": "runner",
     "strength": 3,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "Interface → <strong>2[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength for the remainder of this run.",
-    "title": "Battering Ram",
-    "uniqueness": false
+    "title": "Battering Ram"
 }

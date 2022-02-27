@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "mobius",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Make a run on R&D. If successful, you may make another run on R&D when this run ends. If the second run is successful, gain 4 credits.",
     "stripped_title": "Mobius",
@@ -12,6 +13,5 @@
         "run"
     ],
     "text": "Make a run on R&D. If successful, you may make another run on R&D when this run ends. If the second run is successful, gain 4[credit].",
-    "title": "Möbius",
-    "uniqueness": false
+    "title": "Möbius"
 }

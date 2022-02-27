@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "cookbook",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "Whenever you install a virus program, you may place 1 virus counter on it.",
     "stripped_title": "Cookbook",
@@ -12,6 +13,5 @@
         "virtual"
     ],
     "text": "Whenever you install a <strong>virus</strong> program, you may place 1 virus counter on it.",
-    "title": "Cookbook",
-    "uniqueness": true
+    "title": "Cookbook"
 }

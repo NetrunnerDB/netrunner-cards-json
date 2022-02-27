@@ -3,8 +3,9 @@
     "cost": 6,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "nerine-2-0",
+    "id": "nerine_2_0",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. You may draw 1 card. Subroutine Do 1 brain damage. You may draw 1 card.",
@@ -15,6 +16,5 @@
         "ap"
     ],
     "text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage. You may draw 1 card.\n[subroutine] Do 1 brain damage. You may draw 1 card.",
-    "title": "Nerine 2.0",
-    "uniqueness": false
+    "title": "Nerine 2.0"
 }

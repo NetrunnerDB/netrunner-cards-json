@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "garrote",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 2,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "killer"
     ],
     "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Garrote",
-    "uniqueness": false
+    "title": "Garrote"
 }

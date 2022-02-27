@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "neutral-runner",
-    "id": "the-masque-cyber-general",
+    "id": "the_masque_cyber_general",
     "influence_limit": "null",
+    "is_unique": false,
     "minimum_deck_size": 30,
     "side_id": "runner",
     "stripped_text": "Draft format only.",
@@ -13,6 +14,5 @@
         "natural"
     ],
     "text": "Draft format only.",
-    "title": "The Masque: Cyber General",
-    "uniqueness": false
+    "title": "The Masque: Cyber General"
 }

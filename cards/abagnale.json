@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "abagnale",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "decoder"
     ],
     "text": "Interface → 1[credit]: Break 1 <strong>code gate</strong> subroutine.\n2[credit]: +2 strength.\n[trash]: Bypass the <strong>code gate</strong> you are encountering.",
-    "title": "Abagnale",
-    "uniqueness": false
+    "title": "Abagnale"
 }

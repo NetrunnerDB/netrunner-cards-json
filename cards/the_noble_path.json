@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "the-noble-path",
+    "id": "the_noble_path",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Trash your grip. Make a run. Prevent all damage during this run.",
     "stripped_title": "The Noble Path",
@@ -12,6 +13,5 @@
         "run"
     ],
     "text": "Trash your grip. Make a run. Prevent all damage during this run.",
-    "title": "The Noble Path",
-    "uniqueness": false
+    "title": "The Noble Path"
 }

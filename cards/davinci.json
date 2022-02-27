@@ -5,11 +5,11 @@
     "faction_id": "shaper",
     "id": "davinci",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "Whenever you make a successful run, place 1 power counter on DaVinci. trash: Install a card from your grip with an install cost equal to or less than the number of power counters on DaVinci, ignoring the install cost.",
     "stripped_title": "DaVinci",
     "text": "Whenever you make a successful run, place 1 power counter on DaVinci.\n[trash]: Install a card from your grip with an install cost equal to or less than the number of power counters on DaVinci, ignoring the install cost.",
-    "title": "DaVinci",
-    "uniqueness": false
+    "title": "DaVinci"
 }

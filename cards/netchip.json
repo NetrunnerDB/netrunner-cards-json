@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "netchip",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "NetChip can host a program with a memory cost less than or equal to the number of copies of NetChip installed. The memory cost of the hosted program does not count against your memory limit. Limit 6 per deck.",
     "stripped_title": "NetChip",
@@ -13,6 +14,5 @@
         "chip"
     ],
     "text": "NetChip can host a program with a memory cost less than or equal to the number of copies of NetChip installed. The memory cost of the hosted program does not count against your memory limit.\nLimit 6 per deck.",
-    "title": "NetChip",
-    "uniqueness": false
+    "title": "NetChip"
 }

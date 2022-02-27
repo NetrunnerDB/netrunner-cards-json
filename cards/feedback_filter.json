@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "feedback-filter",
+    "id": "feedback_filter",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "3 credits: Prevent 1 net damage. trash: Prevent up to 2 brain damage.",
     "stripped_title": "Feedback Filter",
@@ -12,6 +13,5 @@
         "gear"
     ],
     "text": "3[credit]: Prevent 1 net damage.\n[trash]: Prevent up to 2 brain damage.",
-    "title": "Feedback Filter",
-    "uniqueness": false
+    "title": "Feedback Filter"
 }

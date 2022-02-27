@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "exchange-of-information",
+    "id": "exchange_of_information",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Play only if the Runner is tagged. Swap an agenda in your score area with an agenda in the Runner's score area.",
     "stripped_title": "Exchange of Information",
@@ -12,6 +13,5 @@
         "gray_ops"
     ],
     "text": "Play only if the Runner is tagged.\nSwap an agenda in your score area with an agenda in the Runner's score area.",
-    "title": "Exchange of Information",
-    "uniqueness": false
+    "title": "Exchange of Information"
 }

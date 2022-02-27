@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "eater",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "ai"
     ],
     "text": "Interface → <strong>1[credit]:</strong> Break 1 subroutine. You cannot access cards for the remainder of this run.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Eater",
-    "uniqueness": false
+    "title": "Eater"
 }

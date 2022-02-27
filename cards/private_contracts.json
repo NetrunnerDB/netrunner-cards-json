@@ -3,8 +3,9 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "neutral-corp",
-    "id": "private-contracts",
+    "id": "private_contracts",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Place 14 credits from the bank on Private Contracts when it is rezzed. When there are no credits left on Private Contracts, trash it. click: Take 2 credits from Private Contracts.",
     "stripped_title": "Private Contracts",
@@ -13,6 +14,5 @@
     ],
     "text": "Place 14[credit] from the bank on Private Contracts when it is rezzed. When there are no credits left on Private Contracts, trash it.\n[click]: Take 2[credit] from Private Contracts.",
     "title": "Private Contracts",
-    "trash_cost": 5,
-    "uniqueness": false
+    "trash_cost": 5
 }

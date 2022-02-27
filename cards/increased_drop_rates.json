@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "increased-drop-rates",
+    "id": "increased_drop_rates",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "While the Runner is accessing this card from R&D, they must reveal it. When the Runner accesses this card, remove 1 bad publicity unless they take 1 tag.",
     "stripped_title": "Increased Drop Rates",
@@ -13,6 +14,5 @@
     ],
     "text": "While the Runner is accessing this card from R&D, they must reveal it.\nWhen the Runner accesses this card, remove 1 bad publicity unless they take 1 tag.",
     "title": "Increased Drop Rates",
-    "trash_cost": 2,
-    "uniqueness": false
+    "trash_cost": 2
 }

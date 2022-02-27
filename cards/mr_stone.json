@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "mr-stone",
+    "id": "mr_stone",
     "influence_cost": 4,
+    "is_unique": true,
     "side_id": "corp",
     "stripped_text": "Whenever the Runner takes 1 or more tags, do 1 meat damage.",
     "stripped_title": "Mr. Stone",
@@ -13,6 +14,5 @@
     ],
     "text": "Whenever the Runner takes 1 or more tags, do 1 meat damage.",
     "title": "Mr. Stone",
-    "trash_cost": 2,
-    "uniqueness": true
+    "trash_cost": 2
 }

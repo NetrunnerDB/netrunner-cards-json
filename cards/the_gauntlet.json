@@ -3,8 +3,9 @@
     "cost": 5,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "the-gauntlet",
+    "id": "the_gauntlet",
     "influence_cost": 1,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+2 mu Whenever you breach HQ during a run, access 1 additional card for each piece of ice protecting HQ that you fully broke during that run. Limit 1 console per player.",
     "stripped_title": "The Gauntlet",
@@ -12,6 +13,5 @@
         "console"
     ],
     "text": "+2[mu]\nWhenever you breach HQ during a run, access 1 additional card for each piece of ice protecting HQ that you fully broke during that run.\nLimit 1 <strong>console</strong> per player.",
-    "title": "The Gauntlet",
-    "uniqueness": true
+    "title": "The Gauntlet"
 }

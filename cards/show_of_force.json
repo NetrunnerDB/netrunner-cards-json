@@ -4,8 +4,9 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "neutral-corp",
-    "id": "show-of-force",
+    "id": "show_of_force",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score Show of Force, do 2 meat damage.",
     "stripped_title": "Show of Force",
@@ -13,6 +14,5 @@
         "security"
     ],
     "text": "When you score Show of Force, do 2 meat damage.",
-    "title": "Show of Force",
-    "uniqueness": false
+    "title": "Show of Force"
 }

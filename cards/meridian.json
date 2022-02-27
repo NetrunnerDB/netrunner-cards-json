@@ -5,6 +5,7 @@
     "faction_id": "haas-bioroid",
     "id": "meridian",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Subroutine Gain 4 credits and end the run unless the Runner adds Meridian to his or her score area as an agenda worth -1 agenda point.",
@@ -13,6 +14,5 @@
         "barrier"
     ],
     "text": "[subroutine] Gain 4[credit] and end the run unless the Runner adds Meridian to his or her score area as an agenda worth -1 agenda point.",
-    "title": "Meridian",
-    "uniqueness": false
+    "title": "Meridian"
 }

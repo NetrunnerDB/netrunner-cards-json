@@ -3,12 +3,12 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "standard-procedure",
+    "id": "standard_procedure",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Play only if the Runner made a successful run on his or her last turn. Name a card type, then reveal the grip. Gain 2 credits for each card in the grip that has the named type.",
     "stripped_title": "Standard Procedure",
     "text": "Play only if the Runner made a successful run on his or her last turn.\nName a card type, then reveal the grip. Gain 2[credit] for each card in the grip that has the named type.",
-    "title": "Standard Procedure",
-    "uniqueness": false
+    "title": "Standard Procedure"
 }

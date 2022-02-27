@@ -3,13 +3,13 @@
     "cost": 5,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "city-surveillance",
+    "id": "city_surveillance",
     "influence_cost": 4,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When the Runner's turn begins, give the Runner 1 tag unless he or she pays 1 credit.",
     "stripped_title": "City Surveillance",
     "text": "When the Runner's turn begins, give the Runner 1 tag unless he or she pays 1[credit].",
     "title": "City Surveillance",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

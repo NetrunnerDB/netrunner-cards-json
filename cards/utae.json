@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "utae",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 1,
@@ -15,6 +16,5 @@
         "decoder"
     ],
     "text": "Interface → <strong>X[credit]:</strong> Break X <strong>code gate</strong> subroutines. Use this ability only once per run.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine. Use this ability only if you have 3 or more installed <strong>virtual</strong> resources.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Utae",
-    "uniqueness": false
+    "title": "Utae"
 }

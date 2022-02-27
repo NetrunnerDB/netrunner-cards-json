@@ -5,11 +5,11 @@
     "faction_id": "shaper",
     "id": "paintbrush",
     "influence_cost": 4,
+    "is_unique": false,
     "memory_cost": 2,
     "side_id": "runner",
     "stripped_text": "click: Choose a rezzed piece of ice. That ice gains sentry, code gate or barrier until the end of the next run this turn.",
     "stripped_title": "Paintbrush",
     "text": "[click]: Choose a rezzed piece of ice. That ice gains <strong>sentry</strong>, <strong>code gate</strong> or <strong>barrier</strong> until the end of the next run this turn.",
-    "title": "Paintbrush",
-    "uniqueness": false
+    "title": "Paintbrush"
 }

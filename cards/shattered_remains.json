@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "neutral-corp",
-    "id": "shattered-remains",
+    "id": "shattered_remains",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Shattered Remains can be advanced. If you pay 1 credit when the Runner accesses Shattered Remains, trash 1 piece of hardware for each advancement token on Shattered Remains.",
     "stripped_title": "Shattered Remains",
@@ -13,6 +14,5 @@
     ],
     "text": "Shattered Remains can be advanced.\nIf you pay 1[credit] when the Runner accesses Shattered Remains, trash 1 piece of hardware for each advancement token on Shattered Remains.",
     "title": "Shattered Remains",
-    "trash_cost": 0,
-    "uniqueness": false
+    "trash_cost": 0
 }

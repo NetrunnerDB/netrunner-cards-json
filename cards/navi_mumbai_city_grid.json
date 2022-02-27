@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "navi-mumbai-city-grid",
+    "id": "navi_mumbai_city_grid",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "During runs on this server, the Runner cannot use paid abilities on their installed cards except for mid-access abilities and abilities on icebreakers. Limit 1 region per server.",
     "stripped_title": "Navi Mumbai City Grid",
@@ -13,6 +14,5 @@
     ],
     "text": "During runs on this server, the Runner cannot use paid abilities on their installed cards except for mid-access abilities and abilities on <strong>icebreakers</strong>.\nLimit 1 <strong>region</strong> per server.",
     "title": "Navi Mumbai City Grid",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

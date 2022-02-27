@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "adam",
-    "id": "safety-first",
+    "id": "safety_first",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "Your maximum hand size is reduced by 2. When your turn ends, draw 1 card if you do not have cards in your grip equal to or greater than your maximum hand size.",
     "stripped_title": "Safety First",
@@ -13,6 +14,5 @@
         "virtual"
     ],
     "text": "Your maximum hand size is reduced by 2.\nWhen your turn ends, draw 1 card if you do not have cards in your grip equal to or greater than your maximum hand size.",
-    "title": "Safety First",
-    "uniqueness": true
+    "title": "Safety First"
 }

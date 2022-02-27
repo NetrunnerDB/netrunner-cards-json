@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "decoy",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "trash: Avoid receiving 1 tag.",
     "stripped_title": "Decoy",
@@ -12,6 +13,5 @@
         "connection"
     ],
     "text": "[trash]: Avoid receiving 1 tag.",
-    "title": "Decoy",
-    "uniqueness": false
+    "title": "Decoy"
 }

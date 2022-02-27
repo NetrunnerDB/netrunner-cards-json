@@ -5,6 +5,7 @@
     "faction_id": "haas-bioroid",
     "id": "loki",
     "influence_cost": 5,
+    "is_unique": true,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "When the Runner encounters this ice, choose another rezzed piece of ice. For the remainder of this run, this ice gains the subtypes of the chosen ice and gains the subroutines of that ice in order before all its other subroutines. Subroutine The Runner must either end the run or shuffle all cards from the grip into the stack.",
@@ -13,6 +14,5 @@
         "bioroid"
     ],
     "text": "When the Runner encounters this ice, choose another rezzed piece of ice. For the remainder of this run, this ice gains the subtypes of the chosen ice and gains the subroutines of that ice in order before all its other subroutines.\n[subroutine] The Runner must either end the run or shuffle all cards from the grip into the stack.",
-    "title": "Loki",
-    "uniqueness": true
+    "title": "Loki"
 }

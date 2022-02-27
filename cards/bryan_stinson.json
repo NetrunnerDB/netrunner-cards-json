@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "bryan-stinson",
+    "id": "bryan_stinson",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "corp",
     "stripped_text": "While the Runner has fewer than 6 credits, Bryan Stinson gains \"click: Play a transaction operation from Archives, ignoring all costs. Remove that transaction from the game instead of trashing it.\"",
     "stripped_title": "Bryan Stinson",
@@ -13,6 +14,5 @@
     ],
     "text": "While the Runner has fewer than 6[credit], Bryan Stinson gains \"[click]: Play a <strong>transaction</strong> operation from Archives, ignoring all costs. Remove that <strong>transaction</strong> from the game instead of trashing it.\"",
     "title": "Bryan Stinson",
-    "trash_cost": 5,
-    "uniqueness": true
+    "trash_cost": 5
 }

@@ -5,6 +5,7 @@
     "faction_id": "haas-bioroid",
     "id": "holmegaard",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 5,
     "stripped_text": "Subroutine Trace[4]. If successful, the Runner cannot access cards or breach the attacked server for the remainder of this run. Subroutine Trash 1 installed icebreaker.",
@@ -15,6 +16,5 @@
         "destroyer"
     ],
     "text": "[subroutine] Trace[4]. If successful, the Runner cannot access cards or breach the attacked server for the remainder of this run.\n[subroutine] Trash 1 installed <strong>icebreaker</strong>.",
-    "title": "Holmegaard",
-    "uniqueness": false
+    "title": "Holmegaard"
 }

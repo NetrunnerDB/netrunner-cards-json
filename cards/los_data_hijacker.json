@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "criminal",
-    "id": "los-data-hijacker",
+    "id": "los_data_hijacker",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 45,
     "side_id": "runner",
     "stripped_text": "The first time the Corp rezzes a piece of ice each turn, gain 2 credits.",
@@ -13,6 +14,5 @@
         "g_mod"
     ],
     "text": "The first time the Corp rezzes a piece of ice each turn, gain 2[credit].",
-    "title": "Los: Data Hijacker",
-    "uniqueness": false
+    "title": "Los: Data Hijacker"
 }

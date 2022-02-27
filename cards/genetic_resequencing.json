@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "genetic-resequencing",
+    "id": "genetic_resequencing",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score Genetic Resequencing, you may place 1 agenda counter on an agenda in your score area.",
     "stripped_title": "Genetic Resequencing",
@@ -12,6 +13,5 @@
         "research"
     ],
     "text": "When you score Genetic Resequencing, you may place 1 agenda counter on an agenda in your score area.",
-    "title": "Genetic Resequencing",
-    "uniqueness": false
+    "title": "Genetic Resequencing"
 }

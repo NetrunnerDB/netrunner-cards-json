@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "hot-pursuit",
+    "id": "hot_pursuit",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Make a run on HQ. If successful, gain 9 credits and take 1 tag.",
     "stripped_title": "Hot Pursuit",
@@ -12,6 +13,5 @@
         "run"
     ],
     "text": "Make a run on HQ. If successful, gain 9[credit] and take 1 tag.",
-    "title": "Hot Pursuit",
-    "uniqueness": false
+    "title": "Hot Pursuit"
 }

@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "grim",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 5,
     "stripped_text": "When you rez Grim, take 1 bad publicity. Subroutine Trash 1 program.",
@@ -15,6 +16,5 @@
         "illicit"
     ],
     "text": "When you rez Grim, take 1 bad publicity.\n[subroutine] Trash 1 program.",
-    "title": "Grim",
-    "uniqueness": false
+    "title": "Grim"
 }

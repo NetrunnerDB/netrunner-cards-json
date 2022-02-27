@@ -3,8 +3,9 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "neutral-runner",
-    "id": "donut-taganes",
+    "id": "donut_taganes",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "The play cost of operations and events is increased by 1.",
     "stripped_title": "Donut Taganes",
@@ -12,6 +13,5 @@
         "connection"
     ],
     "text": "The play cost of operations and events is increased by 1.",
-    "title": "Donut Taganes",
-    "uniqueness": true
+    "title": "Donut Taganes"
 }

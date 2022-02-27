@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "red-tape",
+    "id": "red_tape",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 5,
     "stripped_text": "Subroutine All ice has +3 strength for the remainder of this run.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "[subroutine] All ice has +3 strength for the remainder of this run.",
-    "title": "Red Tape",
-    "uniqueness": false
+    "title": "Red Tape"
 }

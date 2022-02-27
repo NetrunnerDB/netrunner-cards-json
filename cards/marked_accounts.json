@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "marked-accounts",
+    "id": "marked_accounts",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When your turn begins, take 1 credit from Marked Accounts, if able. click: Place 3 credits from the bank on Marked Accounts.",
     "stripped_title": "Marked Accounts",
@@ -13,6 +14,5 @@
     ],
     "text": "When your turn begins, take 1[credit] from Marked Accounts, if able.\n[click]: Place 3[credit] from the bank on Marked Accounts.",
     "title": "Marked Accounts",
-    "trash_cost": 5,
-    "uniqueness": false
+    "trash_cost": 5
 }

@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "gravedigger",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger. click, hosted virus counter: The Corp trashes the top card of R&D.",
@@ -13,6 +14,5 @@
         "virus"
     ],
     "text": "Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger.\n[click], <strong>hosted virus counter:</strong> The Corp trashes the top card of R&D.",
-    "title": "Gravedigger",
-    "uniqueness": false
+    "title": "Gravedigger"
 }

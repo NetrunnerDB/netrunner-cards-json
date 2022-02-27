@@ -5,6 +5,7 @@
     "deck_limit": 3,
     "faction_id": "nbn",
     "id": "tgtbt",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "If TGTBT is accessed from R&D, the Runner must reveal it. When the Runner accesses TGTBT, give the Runner 1 tag.",
     "stripped_title": "TGTBT",
@@ -12,6 +13,5 @@
         "ambush"
     ],
     "text": "If TGTBT is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses TGTBT, give the Runner 1 tag.",
-    "title": "TGTBT",
-    "uniqueness": false
+    "title": "TGTBT"
 }

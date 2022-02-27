@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "mirror",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+2 mu Whenever you make a successful run on R&D, you may replace 1 spent recurring credit. Limit 1 console per player.",
     "stripped_title": "Mirror",
@@ -12,6 +13,5 @@
         "console"
     ],
     "text": "+2[mu]\nWhenever you make a successful run on R&D, you may replace 1 spent recurring credit.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Mirror",
-    "uniqueness": true
+    "title": "Mirror"
 }

@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "explode-a-palooza",
+    "id": "explode_a_palooza",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "If Explode-a-palooza is accessed from R&D, the Runner must reveal it. When the Runner accesses Explode-a-palooza, you may gain 5 credits.",
     "stripped_title": "Explode-a-palooza",
@@ -12,6 +13,5 @@
         "sensie"
     ],
     "text": "If Explode-a-palooza is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Explode-a-palooza, you may gain 5[credit].",
-    "title": "Explode-a-palooza",
-    "uniqueness": false
+    "title": "Explode-a-palooza"
 }

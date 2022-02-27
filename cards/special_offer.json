@@ -3,8 +3,9 @@
     "cost": 1,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "special-offer",
+    "id": "special_offer",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "Subroutine The Corp gains 5 credits. Trash Special Offer.",
@@ -14,6 +15,5 @@
         "advertisement"
     ],
     "text": "[subroutine] The Corp gains 5[credit]. Trash Special Offer.",
-    "title": "Special Offer",
-    "uniqueness": false
+    "title": "Special Offer"
 }

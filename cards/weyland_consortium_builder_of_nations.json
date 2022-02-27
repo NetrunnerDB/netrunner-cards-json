@@ -2,8 +2,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "weyland-consortium",
-    "id": "weyland-consortium-builder-of-nations",
+    "id": "weyland_consortium_builder_of_nations",
     "influence_limit": 12,
+    "is_unique": false,
     "minimum_deck_size": 40,
     "side_id": "corp",
     "stripped_text": "The first time each turn an encounter with an advanced piece of ice ends, do 1 meat damage.",
@@ -12,6 +13,5 @@
         "megacorp"
     ],
     "text": "The first time each turn an encounter with an advanced piece of ice ends, do 1 meat damage.",
-    "title": "Weyland Consortium: Builder of Nations",
-    "uniqueness": false
+    "title": "Weyland Consortium: Builder of Nations"
 }

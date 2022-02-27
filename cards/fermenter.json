@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "fermenter",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "When you install this program and when your turn begins, place 1 virus counter on this program. click, trash: Gain 2 credits for each hosted virus counter.",
@@ -13,6 +14,5 @@
         "virus"
     ],
     "text": "When you install this program and when your turn begins, place 1 virus counter on this program.\n[click], [trash]: Gain 2[credit] for each hosted virus counter.",
-    "title": "Fermenter",
-    "uniqueness": false
+    "title": "Fermenter"
 }

@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "corroder",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "Interface → 1[credit]: Break 1 <strong>barrier</strong> subroutine.\n1[credit]: +1 strength.",
-    "title": "Corroder",
-    "uniqueness": false
+    "title": "Corroder"
 }

@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "insight",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "As an additional cost to play this event, spend click. The Corp may look at the top 4 cards of R&D and arrange them in any order. Reveal the top 4 cards of R&D.",
     "stripped_title": "Insight",
@@ -12,6 +13,5 @@
         "double"
     ],
     "text": "As an additional cost to play this event, spend [click].\nThe Corp may look at the top 4 cards of R&D and arrange them in any order.\nReveal the top 4 cards of R&D.",
-    "title": "Insight",
-    "uniqueness": false
+    "title": "Insight"
 }

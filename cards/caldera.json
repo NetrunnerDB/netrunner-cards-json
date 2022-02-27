@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "caldera",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "3 credits: Prevent 1 net or brain damage.",
     "stripped_title": "Caldera",
@@ -12,6 +13,5 @@
         "virtual"
     ],
     "text": "3[credit]: Prevent 1 net or brain damage.",
-    "title": "Caldera",
-    "uniqueness": false
+    "title": "Caldera"
 }

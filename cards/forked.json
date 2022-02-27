@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "forked",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Run any server. The first time you fully break a sentry during that run, trash that sentry.",
     "stripped_title": "Forked",
@@ -13,6 +14,5 @@
         "sabotage"
     ],
     "text": "Run any server. The first time you fully break a <strong>sentry</strong> during that run, trash that <strong>sentry</strong>.",
-    "title": "Forked",
-    "uniqueness": false
+    "title": "Forked"
 }

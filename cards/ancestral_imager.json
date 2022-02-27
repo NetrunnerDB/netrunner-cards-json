@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "ancestral-imager",
+    "id": "ancestral_imager",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Whenever the Runner jacks out, do 1 net damage.",
     "stripped_title": "Ancestral Imager",
@@ -12,6 +13,5 @@
         "security"
     ],
     "text": "Whenever the Runner jacks out, do 1 net damage.",
-    "title": "Ancestral Imager",
-    "uniqueness": false
+    "title": "Ancestral Imager"
 }

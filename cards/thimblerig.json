@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "thimblerig",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 0,
     "stripped_text": "When your turn begins and whenever the Runner passes this ice, you may swap this ice with another installed piece of ice. Subroutine End the run.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "When your turn begins and whenever the Runner passes this ice, you may swap this ice with another installed piece of ice.\n[subroutine] End the run.",
-    "title": "Thimblerig",
-    "uniqueness": false
+    "title": "Thimblerig"
 }

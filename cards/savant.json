@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "savant",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 2,
     "side_id": "runner",
     "strength": 1,
@@ -16,6 +17,5 @@
         "decoder"
     ],
     "text": "This program gets +1 strength for each unused MU.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>sentry</strong> or 2 <strong>code gate</strong> subroutines.",
-    "title": "Savant",
-    "uniqueness": false
+    "title": "Savant"
 }

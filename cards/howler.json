@@ -5,6 +5,7 @@
     "faction_id": "haas-bioroid",
     "id": "howler",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 0,
     "stripped_text": "Subroutine You may install and rez a piece of bioroid ice from HQ or Archives, ignoring all costs, placing it directly behind Howler. If you do, derez that piece of ice and trash Howler after the run is completed.",
@@ -13,6 +14,5 @@
         "trap"
     ],
     "text": "[subroutine] You may install and rez a piece of <strong>bioroid</strong> ice from HQ or Archives, ignoring all costs, placing it directly behind Howler. If you do, derez that piece of ice and trash Howler after the run is completed.",
-    "title": "Howler",
-    "uniqueness": false
+    "title": "Howler"
 }

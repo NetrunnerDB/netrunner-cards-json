@@ -5,6 +5,7 @@
     "deck_limit": 3,
     "faction_id": "jinteki",
     "id": "jumon",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When your turn ends, place 2 advancement counters on 1 card in the root of a remote server.",
     "stripped_title": "Jumon",
@@ -12,6 +13,5 @@
         "research"
     ],
     "text": "When your turn ends, place 2 advancement counters on 1 card in the root of a remote server.",
-    "title": "Jumon",
-    "uniqueness": false
+    "title": "Jumon"
 }

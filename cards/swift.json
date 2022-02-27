@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "swift",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+1 mu The first time each turn you play a run event, gain click. Limit 1 console per player.",
     "stripped_title": "Swift",
@@ -13,6 +14,5 @@
         "vehicle"
     ],
     "text": "+1[mu]\nThe first time each turn you play a <strong>run</strong> event, gain [click].\nLimit 1 <strong>console</strong> per player.",
-    "title": "Swift",
-    "uniqueness": true
+    "title": "Swift"
 }

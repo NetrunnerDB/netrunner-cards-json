@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "breach",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "Interface → <strong>2[credit]:</strong> Break up to 3 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +4 strength.\nThis program cannot interface with ice protecting a remote server.",
-    "title": "Breach",
-    "uniqueness": false
+    "title": "Breach"
 }

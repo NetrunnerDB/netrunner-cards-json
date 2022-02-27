@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "jackson-howard",
+    "id": "jackson_howard",
     "influence_cost": 1,
+    "is_unique": true,
     "side_id": "corp",
     "stripped_text": "click: Draw 2 cards. Remove Jackson Howard from the game: Shuffle up to 3 cards from Archives into R&D.",
     "stripped_title": "Jackson Howard",
@@ -13,6 +14,5 @@
     ],
     "text": "[click]: Draw 2 cards.\n<strong>Remove Jackson Howard from the game:</strong> Shuffle up to 3 cards from Archives into R&D.",
     "title": "Jackson Howard",
-    "trash_cost": 3,
-    "uniqueness": true
+    "trash_cost": 3
 }

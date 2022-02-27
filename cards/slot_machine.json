@@ -3,8 +3,9 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "slot-machine",
+    "id": "slot_machine",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 5,
     "stripped_text": "When the Runner encounters this ice, they put the top card of the stack on the bottom, then you reveal the top 3 cards of the stack. Subroutine The Runner loses 3 credits. Subroutine If you revealed 2 or more cards that share a type when this encounter began, gain 3 credits. Subroutine If you revealed 3 or more cards that share a type when this encounter began, place 3 advancement tokens on an installed card.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "When the Runner encounters this ice, they put the top card of the stack on the bottom, then you reveal the top 3 cards of the stack.\n[subroutine] The Runner loses 3[credit].\n[subroutine] If you revealed 2 or more cards that share a type when this encounter began, gain 3[credit].\n[subroutine] If you revealed 3 or more cards that share a type when this encounter began, place 3 advancement tokens on an installed card.",
-    "title": "Slot Machine",
-    "uniqueness": false
+    "title": "Slot Machine"
 }

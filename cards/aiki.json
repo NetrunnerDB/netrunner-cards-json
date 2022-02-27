@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "aiki",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "Subroutine You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, the Runner draws 2 cards. Subroutine Do 1 net damage. Subroutine Do 1 net damage.",
@@ -15,6 +16,5 @@
         "ap"
     ],
     "text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, the Runner draws 2 cards.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.",
-    "title": "Aiki",
-    "uniqueness": false
+    "title": "Aiki"
 }

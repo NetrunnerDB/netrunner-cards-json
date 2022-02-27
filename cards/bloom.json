@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "bloom",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "Subroutine You may install a piece of ice from HQ protecting another server, ignoring all costs. Subroutine You may install a piece of ice from HQ in the next innermost position, protecting this server, ignoring all costs.",
@@ -14,6 +15,5 @@
         "observer"
     ],
     "text": "[subroutine] You may install a piece of ice from HQ protecting another server, ignoring all costs.\n[subroutine] You may install a piece of ice from HQ in the next innermost position, protecting this server, ignoring all costs.",
-    "title": "Bloom",
-    "uniqueness": false
+    "title": "Bloom"
 }

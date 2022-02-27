@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "euler",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "decoder"
     ],
     "text": "When you install this program, for the remainder of the turn it gains \"Interface → <strong>0[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\"\nInterface → <strong>2[credit]:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Euler",
-    "uniqueness": false
+    "title": "Euler"
 }

@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "gordian-blade",
+    "id": "gordian_blade",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "decoder"
     ],
     "text": "Interface → 1[credit]: Break 1 <strong>code gate</strong> subroutine.\n1[credit]: +1 strength for the remainder of this run.",
-    "title": "Gordian Blade",
-    "uniqueness": false
+    "title": "Gordian Blade"
 }

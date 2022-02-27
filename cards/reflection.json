@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "reflection",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+1 mu +1 link Whenever you jack out, the Corp reveals 1 card from HQ at random. Limit 1 console per player.",
     "stripped_title": "Reflection",
@@ -12,6 +13,5 @@
         "console"
     ],
     "text": " +1[mu] +1[link]\nWhenever you jack out, the Corp reveals 1 card from HQ at random.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Reflection",
-    "uniqueness": true
+    "title": "Reflection"
 }

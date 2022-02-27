@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "winchester",
     "influence_cost": 4,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "While this ice is protecting HQ, it gains \"Subroutine Trace 3 If successful, end the run.\" after all its other subroutines. Subroutine Trace 4 If successful, trash 1 installed program. Subroutine Trace 3 If successful, trash 1 installed piece of hardware.",
@@ -15,6 +16,5 @@
         "destroyer"
     ],
     "text": "While this ice is protecting HQ, it gains \"[subroutine] <trace>Trace 3</trace> If successful, end the run.\" after all its other subroutines.\n[subroutine] <trace>Trace 4</trace> If successful, trash 1 installed program.\n[subroutine] <trace>Trace 3</trace> If successful, trash 1 installed piece of hardware.",
-    "title": "Winchester",
-    "uniqueness": false
+    "title": "Winchester"
 }

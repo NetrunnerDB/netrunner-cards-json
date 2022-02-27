@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "project-wotan",
+    "id": "project_wotan",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Place 3 agenda counters on Project Wotan when you score it. Hosted agenda counter: Choose a rezzed piece of bioroid ice currently being approached. For the remainder of this run, that ice gains \"Subroutine End the run.\" after all its other subroutines.",
     "stripped_title": "Project Wotan",
@@ -12,6 +13,5 @@
         "research"
     ],
     "text": "Place 3 agenda counters on Project Wotan when you score it.\n<strong>Hosted agenda counter:</strong> Choose a rezzed piece of <strong>bioroid</strong> ice currently being approached. For the remainder of this run, that ice gains \"[subroutine] End the run.\" after all its other subroutines.",
-    "title": "Project Wotan",
-    "uniqueness": false
+    "title": "Project Wotan"
 }

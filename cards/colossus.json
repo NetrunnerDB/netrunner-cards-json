@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "colossus",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "You can advance this ice. It has +1 strength for each hosted advancement token. Subroutine Give the Runner 1 tag. If there are 3 or more hosted advancement tokens, instead give the Runner 2 tags. Subroutine Trash 1 installed program. If there are 3 or more hosted advancement tokens, instead trash 1 installed program and 1 installed resource.",
@@ -14,6 +15,5 @@
         "destroyer"
     ],
     "text": "You can advance this ice. It has +1 strength for each hosted advancement token.\n[subroutine] Give the Runner 1 tag. If there are 3 or more hosted advancement tokens, instead give the Runner 2 tags.\n[subroutine] Trash 1 installed program. If there are 3 or more hosted advancement tokens, instead trash 1 installed program and 1 installed resource.",
-    "title": "Colossus",
-    "uniqueness": false
+    "title": "Colossus"
 }

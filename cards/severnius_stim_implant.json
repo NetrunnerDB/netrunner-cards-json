@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "severnius-stim-implant",
+    "id": "severnius_stim_implant",
     "influence_cost": 4,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "click: Trash 2 or more cards from your grip. Run HQ or R&D. Whenever you breach that server during this run, access 1 additional card for every 2 cards you trashed.",
     "stripped_title": "Severnius Stim Implant",
@@ -12,6 +13,5 @@
         "cybernetic"
     ],
     "text": "<strong>[click]:</strong> Trash 2 or more cards from your grip. Run HQ or R&D. Whenever you breach that server during this run, access 1 additional card for every 2 cards you trashed.",
-    "title": "Severnius Stim Implant",
-    "uniqueness": false
+    "title": "Severnius Stim Implant"
 }

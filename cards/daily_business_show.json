@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "daily-business-show",
+    "id": "daily_business_show",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Interrupt -> The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, add 1 of them to the bottom of R&D.",
     "stripped_title": "Daily Business Show",
@@ -13,6 +14,5 @@
     ],
     "text": "[interrupt] → The first time each turn you would draw any number of cards, increase the number of cards you will draw by 1. When you draw those cards, add 1 of them to the bottom of R&D.",
     "title": "Daily Business Show",
-    "trash_cost": 4,
-    "uniqueness": false
+    "trash_cost": 4
 }

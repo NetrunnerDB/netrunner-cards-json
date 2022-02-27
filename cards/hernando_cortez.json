@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "hernando-cortez",
+    "id": "hernando_cortez",
     "influence_cost": 1,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "If the Corp has at least 10 credits, as an additional cost to rez each piece of ice, the Corp must spend credits equal to the number of subroutines on that ice.",
     "stripped_title": "Hernando Cortez",
@@ -12,6 +13,5 @@
         "connection"
     ],
     "text": "If the Corp has at least 10[credit], as an additional cost to rez each piece of ice, the Corp must spend credits equal to the number of subroutines on that ice.",
-    "title": "Hernando Cortez",
-    "uniqueness": true
+    "title": "Hernando Cortez"
 }

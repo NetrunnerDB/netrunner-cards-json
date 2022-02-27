@@ -5,6 +5,7 @@
     "faction_id": "nbn",
     "id": "wraparound",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 0,
     "stripped_text": "While there are no installed fracter programs, this ice gets +7 strength. Subroutine End the run.",
@@ -13,6 +14,5 @@
         "barrier"
     ],
     "text": "While there are no installed <strong>fracter</strong> programs, this ice gets +7 strength.\n[subroutine] End the run.",
-    "title": "Wraparound",
-    "uniqueness": false
+    "title": "Wraparound"
 }

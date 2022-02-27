@@ -4,8 +4,9 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "neutral-corp",
-    "id": "corporate-war",
+    "id": "corporate_war",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "If you have at least 7 credits when you score Corporate War, gain 7 credits; otherwise, lose all credits in your credit pool.",
     "stripped_title": "Corporate War",
@@ -13,6 +14,5 @@
         "expansion"
     ],
     "text": "If you have at least 7[credit] when you score Corporate War, gain 7[credit]; otherwise, lose all credits in your credit pool.",
-    "title": "Corporate War",
-    "uniqueness": false
+    "title": "Corporate War"
 }

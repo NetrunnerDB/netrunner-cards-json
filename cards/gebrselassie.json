@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "gebrselassie",
     "influence_cost": 4,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "click: Host this hardware on an installed non-AI icebreaker. Abilities that increase host icebreaker's strength last for the remainder of the turn (instead of any shorter duration).",
     "stripped_title": "Gebrselassie",
@@ -12,6 +13,5 @@
         "mod"
     ],
     "text": "[click]: Host this hardware on an installed non-AI <strong>icebreaker</strong>.\nAbilities that increase host icebreaker's strength last for the remainder of the turn <em>(instead of any shorter duration)</em>.",
-    "title": "Gebrselassie",
-    "uniqueness": true
+    "title": "Gebrselassie"
 }

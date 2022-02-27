@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "criminal",
-    "id": "liza-talking-thunder-prominent-legislator",
+    "id": "liza_talking_thunder_prominent_legislator",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 50,
     "side_id": "runner",
     "stripped_text": "The first time you make a successful run on a central server each turn, draw 2 cards and take 1 tag.",
@@ -13,6 +14,5 @@
         "g_mod"
     ],
     "text": "The first time you make a successful run on a central server each turn, draw 2 cards and take 1 tag.",
-    "title": "Liza Talking Thunder: Prominent Legislator",
-    "uniqueness": false
+    "title": "Liza Talking Thunder: Prominent Legislator"
 }

@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "hive",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "This ice loses 1 of its printed \"Subroutine End the run.\" subroutines for each agenda point in your score area. Subroutine End the run. Subroutine End the run. Subroutine End the run. Subroutine End the run. Subroutine End the run.",
@@ -13,6 +14,5 @@
         "barrier"
     ],
     "text": "This ice loses 1 of its printed \"[subroutine] End the run.\" subroutines for each agenda point in your score area.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.",
-    "title": "Hive",
-    "uniqueness": false
+    "title": "Hive"
 }

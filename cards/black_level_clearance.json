@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "black-level-clearance",
+    "id": "black_level_clearance",
     "influence_cost": 5,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Whenever there is a successful run on this server, the Runner must either take 1 brain damage or jack out. If the Runner jacks out, gain 5 credits, draw 1 card, and trash Black Level Clearance.",
     "stripped_title": "Black Level Clearance",
@@ -13,6 +14,5 @@
     ],
     "text": "Whenever there is a successful run on this server, the Runner must either take 1 brain damage or jack out. If the Runner jacks out, gain 5[credit], draw 1 card, and trash Black Level Clearance.",
     "title": "Black Level Clearance",
-    "trash_cost": 1,
-    "uniqueness": false
+    "trash_cost": 1
 }

@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "better-citizen-program",
+    "id": "better_citizen_program",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "The first time the Runner plays a run event or installs an icebreaker program each turn, you may give the Runner 1 tag.",
     "stripped_title": "Better Citizen Program",
@@ -12,6 +13,5 @@
         "initiative"
     ],
     "text": "The first time the Runner plays a <strong>run</strong> event or installs an <strong>icebreaker</strong> program each turn, you may give the Runner 1 tag.",
-    "title": "Better Citizen Program",
-    "uniqueness": false
+    "title": "Better Citizen Program"
 }

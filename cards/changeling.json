@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "changeling",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Changeling can be advanced. While Changeling has an odd number of advancement tokens on it, it gains sentry and loses barrier. Subroutine End the run.",
@@ -14,6 +15,5 @@
         "morph"
     ],
     "text": "Changeling can be advanced.\nWhile Changeling has an odd number of advancement tokens on it, it gains <strong>sentry</strong> and loses <strong>barrier</strong>.\n[subroutine] End the run.",
-    "title": "Changeling",
-    "uniqueness": false
+    "title": "Changeling"
 }

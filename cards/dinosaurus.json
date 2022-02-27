@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "dinosaurus",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "Dinosaurus can host a single non-AI icebreaker. The memory cost of the hosted icebreaker does not count against your memory limit. Hosted icebreaker has +2 strength. Limit 1 console per player.",
     "stripped_title": "Dinosaurus",
@@ -12,6 +13,5 @@
         "console"
     ],
     "text": "Dinosaurus can host a single non-<strong>AI icebreaker</strong>. The memory cost of the hosted <strong>icebreaker</strong> does not count against your memory limit.\nHosted <strong>icebreaker</strong> has +2 strength.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Dinosaurus",
-    "uniqueness": true
+    "title": "Dinosaurus"
 }

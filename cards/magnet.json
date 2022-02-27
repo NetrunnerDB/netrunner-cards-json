@@ -5,6 +5,7 @@
     "faction_id": "haas-bioroid",
     "id": "magnet",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "When you rez this ice, choose 1 installed program hosted on a piece of ice. Move that program onto this ice. Each hosted program loses all abilities. Subroutine End the run.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "When you rez this ice, choose 1 installed program hosted on a piece of ice. Move that program onto this ice.\nEach hosted program loses all abilities.\n[subroutine] End the run.",
-    "title": "Magnet",
-    "uniqueness": false
+    "title": "Magnet"
 }

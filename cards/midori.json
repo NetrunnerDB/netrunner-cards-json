@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "midori",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "corp",
     "stripped_text": "Whenever the Runner approaches a piece of ice protecting this server, you may swap that ice with 1 piece of ice from HQ. (The new ice is installed unrezzed.) If you do, the Runner may jack out. Use this ability only once per run.",
     "stripped_title": "Midori",
@@ -13,6 +14,5 @@
     ],
     "text": "Whenever the Runner approaches a piece of ice protecting this server, you may swap that ice with 1 piece of ice from HQ. <em>(The new ice is installed unrezzed.)</em> If you do, the Runner may jack out. Use this ability only once per run.",
     "title": "Midori",
-    "trash_cost": 3,
-    "uniqueness": true
+    "trash_cost": 3
 }

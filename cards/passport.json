@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "passport",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "decoder"
     ],
     "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> +2 strength.\nThis program cannot interface with ice protecting a remote server.",
-    "title": "Passport",
-    "uniqueness": false
+    "title": "Passport"
 }

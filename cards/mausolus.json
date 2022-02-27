@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "mausolus",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 5,
     "stripped_text": "Mausolus can be advanced. If Mausolus has 3 or more advancement tokens on it, do the parenthetical text instead (otherwise, do not resolve it). Subroutine The Corp gains 1 credit. (The Corp gains 3 credits.) Subroutine Do 1 net damage. (Do 3 net damage.) Subroutine Give the Runner 1 tag. (Give the Runner 1 tag and end the run.)",
@@ -14,6 +15,5 @@
         "ap"
     ],
     "text": "Mausolus can be advanced.\nIf Mausolus has 3 or more advancement tokens on it, do the parenthetical text instead (otherwise, do not resolve it).\n[subroutine] The Corp gains 1[credit]. (The Corp gains 3[credit].)\n[subroutine] Do 1 net damage. (Do 3 net damage.)\n[subroutine] Give the Runner 1 tag. (Give the Runner 1 tag and end the run.)",
-    "title": "Mausolus",
-    "uniqueness": false
+    "title": "Mausolus"
 }

@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "bukhgalter",
     "influence_cost": 4,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 1,
@@ -15,6 +16,5 @@
         "killer"
     ],
     "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.\nThe first time each turn this program fully breaks a piece of ice, gain 2[credit].",
-    "title": "Bukhgalter",
-    "uniqueness": false
+    "title": "Bukhgalter"
 }

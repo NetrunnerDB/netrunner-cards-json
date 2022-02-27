@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "ika",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "killer"
     ],
     "text": "<strong>2[credit]:</strong> Host this program on a piece of ice.\nInterface → <strong>1[credit]:</strong> Break up to 2 subroutines on host <strong>sentry</strong>.\n<strong>2[credit]:</strong> +3 strength.",
-    "title": "Ika",
-    "uniqueness": false
+    "title": "Ika"
 }

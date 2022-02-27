@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "flame-out",
+    "id": "flame_out",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "Flame-out can host a single program. When you install Flame-out, place 9 credits on it. Use these credits to pay for using hosted program. When a turn ends in which you used credits on Flame-out, trash hosted program.",
     "stripped_title": "Flame-out",
@@ -12,6 +13,5 @@
         "mod"
     ],
     "text": "Flame-out can host a single program.\nWhen you install Flame-out, place 9[credit] on it. Use these credits to pay for using hosted program.\nWhen a turn ends in which you used credits on Flame-out, trash hosted program.",
-    "title": "Flame-out",
-    "uniqueness": true
+    "title": "Flame-out"
 }

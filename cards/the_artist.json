@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "the-artist",
+    "id": "the_artist",
     "influence_cost": 5,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "Use each ability on this resource only once per turn. click: Gain 2 credits. click: Install a program or piece of hardware, paying 1 credit less.",
     "stripped_title": "The Artist",
@@ -12,6 +13,5 @@
         "connection"
     ],
     "text": "Use each ability on this resource only once per turn.\n[click]: Gain 2[credit].\n[click]: Install a program or piece of hardware, paying 1[credit] less.",
-    "title": "The Artist",
-    "uniqueness": true
+    "title": "The Artist"
 }

@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "galahad",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 1,
     "stripped_text": "When the Runner encounters Galahad, you may reveal up to 2 grail ice from HQ. For the remainder of this run, Galahad gains the subroutines of the revealed ice in the order of your choice. Subroutine End the run.",
@@ -14,6 +15,5 @@
         "grail"
     ],
     "text": "When the Runner encounters Galahad, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Galahad gains the subroutines of the revealed ice in the order of your choice.\n[subroutine] End the run.",
-    "title": "Galahad",
-    "uniqueness": false
+    "title": "Galahad"
 }

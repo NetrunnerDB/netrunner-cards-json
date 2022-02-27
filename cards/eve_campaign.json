@@ -3,8 +3,9 @@
     "cost": 5,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "eve-campaign",
+    "id": "eve_campaign",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Place 16 credits from the bank on Eve Campaign when it is rezzed. When there are no credits left on Eve Campaign, trash it. When your turn begins, take 2 credits from Eve Campaign.",
     "stripped_title": "Eve Campaign",
@@ -13,6 +14,5 @@
     ],
     "text": "Place 16[credit] from the bank on Eve Campaign when it is rezzed. When there are no credits left on Eve Campaign, trash it.\nWhen your turn begins, take 2[credit] from Eve Campaign.",
     "title": "Eve Campaign",
-    "trash_cost": 5,
-    "uniqueness": false
+    "trash_cost": 5
 }

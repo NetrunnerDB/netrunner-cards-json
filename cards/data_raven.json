@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "data-raven",
+    "id": "data_raven",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "When the Runner encounters Data Raven, he or she must either take 1 tag or end the run. Hosted power counter: Give the Runner 1 tag. Subroutine Trace 3 If successful, place 1 power counter on Data Raven.",
@@ -15,6 +16,5 @@
         "observer"
     ],
     "text": "When the Runner encounters Data Raven, he or she must either take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] <trace>Trace 3</trace> If successful, place 1 power counter on Data Raven.",
-    "title": "Data Raven",
-    "uniqueness": false
+    "title": "Data Raven"
 }

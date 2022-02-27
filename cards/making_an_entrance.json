@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "making-an-entrance",
+    "id": "making_an_entrance",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Play only as your first click. Look at the top 6 cards of your stack. You may trash any of those cards and arrange the rest in any order.",
     "stripped_title": "Making an Entrance",
@@ -12,6 +13,5 @@
         "priority"
     ],
     "text": "Play only as your first [click].\nLook at the top 6 cards of your stack. You may trash any of those cards and arrange the rest in any order.",
-    "title": "Making an Entrance",
-    "uniqueness": false
+    "title": "Making an Entrance"
 }

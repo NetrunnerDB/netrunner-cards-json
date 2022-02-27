@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "diwan",
     "influence_cost": 1,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "When you install this program, choose a server. As an additional cost to install a card in the root of or protecting that server, the Corp must pay 1 credit. When the Corp purges virus counters, trash this program.",
@@ -13,6 +14,5 @@
         "virus"
     ],
     "text": "When you install this program, choose a server. As an additional cost to install a card in the root of or protecting that server, the Corp must pay 1[credit].\nWhen the Corp purges virus counters, trash this program.",
-    "title": "Diwan",
-    "uniqueness": false
+    "title": "Diwan"
 }

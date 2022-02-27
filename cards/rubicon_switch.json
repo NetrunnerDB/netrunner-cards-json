@@ -3,12 +3,12 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "rubicon-switch",
+    "id": "rubicon_switch",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "click, X credits: Derez 1 piece of ice with printed rez cost X credits that was rezzed this turn. Use this ability only once per turn.",
     "stripped_title": "Rubicon Switch",
     "text": "<strong>[click]</strong>, <strong>X[credit]:</strong> Derez 1 piece of ice with printed rez cost X[credit] that was rezzed this turn. Use this ability only once per turn.",
-    "title": "Rubicon Switch",
-    "uniqueness": true
+    "title": "Rubicon Switch"
 }

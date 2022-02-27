@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "god-of-war",
+    "id": "god_of_war",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 0,
@@ -16,6 +17,5 @@
         "virus"
     ],
     "text": "When your turn begins, you may take 1 tag to place 2 virus counters on this program.\nInterface → <strong>Hosted virus counter:</strong> Break 1 subroutine.\n<strong>2[credit]:</strong> +1 strength.",
-    "title": "God of War",
-    "uniqueness": false
+    "title": "God of War"
 }

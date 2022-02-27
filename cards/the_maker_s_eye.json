@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "the-maker-s-eye",
+    "id": "the_maker_s_eye",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Run R&D. If successful, access 2 additional cards when you breach R&D.",
     "stripped_title": "The Maker's Eye",
@@ -12,6 +13,5 @@
         "run"
     ],
     "text": "Run R&D. If successful, access 2 additional cards when you breach R&D.",
-    "title": "The Maker's Eye",
-    "uniqueness": false
+    "title": "The Maker's Eye"
 }

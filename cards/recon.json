@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "recon",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Make a run. You may jack out when you encounter the first piece of ice.",
     "stripped_title": "Recon",
@@ -12,6 +13,5 @@
         "run"
     ],
     "text": "Make a run. You may jack out when you encounter the first piece of ice.",
-    "title": "Recon",
-    "uniqueness": false
+    "title": "Recon"
 }

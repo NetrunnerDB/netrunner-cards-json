@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "whirlpool",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 1,
     "stripped_text": "Subroutine The Runner cannot jack out for the remainder of this run. Trash Whirlpool.",
@@ -13,6 +14,5 @@
         "trap"
     ],
     "text": "[subroutine] The Runner cannot jack out for the remainder of this run. Trash Whirlpool.",
-    "title": "Whirlpool",
-    "uniqueness": false
+    "title": "Whirlpool"
 }

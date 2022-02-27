@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "grimoire",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+2 mu Whenever you install a virus program, place 1 virus counter on that program. Limit 1 console per player.",
     "stripped_title": "Grimoire",
@@ -12,6 +13,5 @@
         "console"
     ],
     "text": "+2[mu]\nWhenever you install a <strong>virus</strong> program, place 1 virus counter on that program.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Grimoire",
-    "uniqueness": true
+    "title": "Grimoire"
 }

@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "pelangi",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "When you install this program, place 2 virus counters on it. Hosted virus counter: Choose an ice subtype. The ice you are encountering gains that subtype for the remainder of the encounter. Use this ability only once per turn.",
@@ -13,6 +14,5 @@
         "virus"
     ],
     "text": "When you install this program, place 2 virus counters on it.\n<strong>Hosted virus counter</strong>: Choose an ice subtype. The ice you are encountering gains that subtype for the remainder of the encounter. Use this ability only once per turn.",
-    "title": "Pelangi",
-    "uniqueness": false
+    "title": "Pelangi"
 }

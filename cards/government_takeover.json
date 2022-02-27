@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 1,
     "faction_id": "weyland-consortium",
-    "id": "government-takeover",
+    "id": "government_takeover",
+    "is_unique": true,
     "side_id": "corp",
     "stripped_text": "click: Gain 3 credits. Limit 1 Government Takeover per deck.",
     "stripped_title": "Government Takeover",
@@ -12,6 +13,5 @@
         "expansion"
     ],
     "text": "[click]: Gain 3[credit].\nLimit 1 Government Takeover per deck.",
-    "title": "Government Takeover",
-    "uniqueness": true
+    "title": "Government Takeover"
 }

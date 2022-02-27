@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "neutral-runner",
-    "id": "t400-memory-diamond",
+    "id": "t400_memory_diamond",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "+1 mu You get +1 maximum hand size.",
     "stripped_title": "T400 Memory Diamond",
@@ -12,6 +13,5 @@
         "chip"
     ],
     "text": "+1[mu]\nYou get +1 maximum hand size.",
-    "title": "T400 Memory Diamond",
-    "uniqueness": false
+    "title": "T400 Memory Diamond"
 }

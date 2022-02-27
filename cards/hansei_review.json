@@ -3,8 +3,9 @@
     "cost": 5,
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "hansei-review",
+    "id": "hansei_review",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Gain 10 credits. If there are any cards in HQ, trash 1 of them.",
     "stripped_title": "Hansei Review",
@@ -12,6 +13,5 @@
         "transaction"
     ],
     "text": "Gain 10[credit]. If there are any cards in HQ, trash 1 of them.",
-    "title": "Hansei Review",
-    "uniqueness": false
+    "title": "Hansei Review"
 }

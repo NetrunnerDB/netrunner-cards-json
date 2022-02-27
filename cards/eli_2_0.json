@@ -3,8 +3,9 @@
     "cost": 5,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "eli-2-0",
+    "id": "eli_2_0",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine You may draw 1 card. Subroutine End the run. Subroutine End the run.",
@@ -14,6 +15,5 @@
         "bioroid"
     ],
     "text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] You may draw 1 card.\n[subroutine] End the run.\n[subroutine] End the run.",
-    "title": "Eli 2.0",
-    "uniqueness": false
+    "title": "Eli 2.0"
 }

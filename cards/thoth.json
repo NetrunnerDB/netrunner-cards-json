@@ -5,6 +5,7 @@
     "faction_id": "nbn",
     "id": "thoth",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "corp",
     "strength": 6,
     "stripped_text": "When the Runner encounters Thoth, give him or her 1 tag. Subroutine Trace 4 If successful, do 1 net damage for each tag the Runner has. Subroutine Trace 4 If successful, the Runner loses 1 credit for each tag he or she has.",
@@ -14,6 +15,5 @@
         "tracer"
     ],
     "text": "When the Runner encounters Thoth, give him or her 1 tag.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, the Runner loses 1[credit] for each tag he or she has.",
-    "title": "Thoth",
-    "uniqueness": true
+    "title": "Thoth"
 }

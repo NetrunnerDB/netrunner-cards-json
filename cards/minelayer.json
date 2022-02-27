@@ -5,6 +5,7 @@
     "faction_id": "haas-bioroid",
     "id": "minelayer",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Subroutine You may install a piece of ice from HQ as the outermost piece of ice protecting this server, ignoring all install costs.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "[subroutine] You may install a piece of ice from HQ as the outermost piece of ice protecting this server, ignoring all install costs.",
-    "title": "Minelayer",
-    "uniqueness": false
+    "title": "Minelayer"
 }

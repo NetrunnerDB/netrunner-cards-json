@@ -3,8 +3,9 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "adjusted-chronotype",
+    "id": "adjusted_chronotype",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "The first time each turn you lose click except by paying the trigger cost of a paid ability, gain click.",
     "stripped_title": "Adjusted Chronotype",
@@ -12,6 +13,5 @@
         "genetics"
     ],
     "text": "The first time each turn you lose [click] except by paying the trigger cost of a paid ability, gain [click].",
-    "title": "Adjusted Chronotype",
-    "uniqueness": true
+    "title": "Adjusted Chronotype"
 }

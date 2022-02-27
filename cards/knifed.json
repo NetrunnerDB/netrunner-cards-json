@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "knifed",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Run any server. The first time you fully break a barrier during that run, trash that barrier.",
     "stripped_title": "Knifed",
@@ -13,6 +14,5 @@
         "sabotage"
     ],
     "text": "Run any server. The first time you fully break a <strong>barrier</strong> during that run, trash that <strong>barrier</strong>.",
-    "title": "Knifed",
-    "uniqueness": false
+    "title": "Knifed"
 }

@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "owl",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 1,
     "stripped_text": "Subroutine Add 1 installed program to the top of the stack.",
@@ -13,6 +14,5 @@
         "sentry"
     ],
     "text": "[subroutine] Add 1 installed program to the top of the stack.",
-    "title": "Owl",
-    "uniqueness": false
+    "title": "Owl"
 }

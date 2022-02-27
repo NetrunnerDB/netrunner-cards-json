@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "salsette-slums",
+    "id": "salsette_slums",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Access -> Pay the trash cost of the card you are accessing: Remove it from the game. Use this ability only once per turn.",
     "stripped_title": "Salsette Slums",
@@ -13,6 +14,5 @@
         "seedy"
     ],
     "text": "Access → <strong>Pay the trash cost of the card you are accessing:</strong> Remove it from the game. Use this ability only once per turn.",
-    "title": "Salsette Slums",
-    "uniqueness": false
+    "title": "Salsette Slums"
 }

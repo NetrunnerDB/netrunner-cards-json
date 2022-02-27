@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "ronin",
     "influence_cost": 4,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "You can advance this asset. click, trash: Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters.",
     "stripped_title": "Ronin",
@@ -13,6 +14,5 @@
     ],
     "text": "You can advance this asset.\n[click], [trash]: Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters.",
     "title": "Ronin",
-    "trash_cost": 2,
-    "uniqueness": false
+    "trash_cost": 2
 }

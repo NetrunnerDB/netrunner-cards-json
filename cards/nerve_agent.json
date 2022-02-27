@@ -3,8 +3,9 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "nerve-agent",
+    "id": "nerve_agent",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "stripped_text": "Whenever you make a successful run on HQ, place 1 virus counter on this program. Whenever you breach HQ, choose a number less than the number of hosted virus counters. Access that many additional cards.",
@@ -13,6 +14,5 @@
         "virus"
     ],
     "text": "Whenever you make a successful run on HQ, place 1 virus counter on this program.\nWhenever you breach HQ, choose a number less than the number of hosted virus counters. Access that many additional cards.",
-    "title": "Nerve Agent",
-    "uniqueness": false
+    "title": "Nerve Agent"
 }

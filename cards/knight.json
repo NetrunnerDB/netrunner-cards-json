@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "knight",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 7,
@@ -16,6 +17,5 @@
         "caissa"
     ],
     "text": "Interface → <strong>2[credit]:</strong> Break 1 subroutine on host ice.\n<strong>[click]:</strong> Host this program on a piece of ice that is not hosting a <strong>Caïssa</strong> and is not directly inward or outward from this program's current host ice.",
-    "title": "Knight",
-    "uniqueness": false
+    "title": "Knight"
 }

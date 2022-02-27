@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "data-dealer",
+    "id": "data_dealer",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "click, forfeit 1 agenda: Gain 9 credits.",
     "stripped_title": "Data Dealer",
@@ -13,6 +14,5 @@
         "seedy"
     ],
     "text": "<strong>[click]</strong>, <strong>forfeit 1 agenda:</strong> Gain 9[credit].",
-    "title": "Data Dealer",
-    "uniqueness": false
+    "title": "Data Dealer"
 }

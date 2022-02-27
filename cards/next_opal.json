@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "next-opal",
+    "id": "next_opal",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 3,
     "stripped_text": "This ice gains \"Subroutine You may install 1 card from HQ.\" for each rezzed piece of NEXT ice.",
@@ -15,6 +16,5 @@
         "next"
     ],
     "text": "This ice gains \"[subroutine] You may install 1 card from HQ.\" for each rezzed piece of <strong>NEXT</strong> ice.",
-    "title": "NEXT Opal",
-    "uniqueness": false
+    "title": "NEXT Opal"
 }

@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "fractal-threat-matrix",
+    "id": "fractal_threat_matrix",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Each time all the subroutines are broken on a piece of ice protecting this server, trash the top 2 cards of the stack.",
     "stripped_title": "Fractal Threat Matrix",
@@ -13,6 +14,5 @@
     ],
     "text": "Each time all the subroutines are broken on a piece of ice protecting this server, trash the top 2 cards of the stack.",
     "title": "Fractal Threat Matrix",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

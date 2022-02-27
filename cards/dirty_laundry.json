@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "neutral-runner",
-    "id": "dirty-laundry",
+    "id": "dirty_laundry",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Run any server. When that run ends, if it was successful, gain 5 credits.",
     "stripped_title": "Dirty Laundry",
@@ -12,6 +13,5 @@
         "run"
     ],
     "text": "Run any server. When that run ends, if it was successful, gain 5[credit].",
-    "title": "Dirty Laundry",
-    "uniqueness": false
+    "title": "Dirty Laundry"
 }

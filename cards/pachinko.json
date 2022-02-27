@@ -5,6 +5,7 @@
     "faction_id": "nbn",
     "id": "pachinko",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Subroutine End the run if the Runner is tagged. Subroutine End the run if the Runner is tagged.",
@@ -13,6 +14,5 @@
         "barrier"
     ],
     "text": "[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.",
-    "title": "Pachinko",
-    "uniqueness": false
+    "title": "Pachinko"
 }

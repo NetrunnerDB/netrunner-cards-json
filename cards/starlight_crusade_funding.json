@@ -3,12 +3,12 @@
     "cost": 1,
     "deck_limit": 3,
     "faction_id": "neutral-runner",
-    "id": "starlight-crusade-funding",
+    "id": "starlight_crusade_funding",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "When your turn begins, lose click. Ignore any additional costs on each double event you play.",
     "stripped_title": "Starlight Crusade Funding",
     "text": "When your turn begins, lose [click].\nIgnore any additional costs on each <strong>double</strong> event you play.",
-    "title": "Starlight Crusade Funding",
-    "uniqueness": false
+    "title": "Starlight Crusade Funding"
 }

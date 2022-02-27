@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "crypt",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Whenever you make a successful run on Archives, you may place 1 virus counter on Crypt. click, trash, 3 hosted virus counters: Search your stack for a virus program and install it (paying its install cost), then shuffle your stack.",
     "stripped_title": "Crypt",
@@ -12,6 +13,5 @@
         "virtual"
     ],
     "text": "Whenever you make a successful run on Archives, you may place 1 virus counter on Crypt.\n[click], [trash], <strong>3 hosted virus counters</strong>: Search your stack for a <strong>virus</strong> program and install it (paying its install cost), then shuffle your stack.",
-    "title": "Crypt",
-    "uniqueness": false
+    "title": "Crypt"
 }

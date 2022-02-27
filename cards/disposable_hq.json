@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "disposable-hq",
+    "id": "disposable_hq",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "If Disposable HQ is accessed from R&D, the Runner must reveal it. When the Runner accesses Disposable HQ, you may add any number of cards from HQ to the bottom of R&D.",
     "stripped_title": "Disposable HQ",
@@ -13,6 +14,5 @@
     ],
     "text": "If Disposable HQ is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Disposable HQ, you may add any number of cards from HQ to the bottom of R&D.",
     "title": "Disposable HQ",
-    "trash_cost": 5,
-    "uniqueness": false
+    "trash_cost": 5
 }

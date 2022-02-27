@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "fumiko-yamamori",
+    "id": "fumiko_yamamori",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "corp",
     "stripped_text": "Whenever you and the Runner reveal secretly spent credits, do 1 meat damage if you and the Runner spent a different number of credits.",
     "stripped_title": "Fumiko Yamamori",
@@ -13,6 +14,5 @@
     ],
     "text": "Whenever you and the Runner reveal secretly spent credits, do 1 meat damage if you and the Runner spent a different number of credits.",
     "title": "Fumiko Yamamori",
-    "trash_cost": 4,
-    "uniqueness": true
+    "trash_cost": 4
 }

@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "patron",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "When your turn begins, you may choose a server. The first time this turn you make a successful run on the chosen server, instead of breaching it, draw 2 cards.",
     "stripped_title": "Patron",
@@ -12,6 +13,5 @@
         "connection"
     ],
     "text": "When your turn begins, you may choose a server. The first time this turn you make a successful run on the chosen server, instead of breaching it, draw 2 cards.",
-    "title": "Patron",
-    "uniqueness": false
+    "title": "Patron"
 }

@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "house-of-knives",
+    "id": "house_of_knives",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score this agenda, place 3 agenda counters on it. Hosted agenda counter: Do 1 net damage. Use this ability only during a run and only once per run.",
     "stripped_title": "House of Knives",
@@ -12,6 +13,5 @@
         "security"
     ],
     "text": "When you score this agenda, place 3 agenda counters on it.\n<strong>Hosted agenda counter:</strong> Do 1 net damage. Use this ability only during a run and only once per run.",
-    "title": "House of Knives",
-    "uniqueness": false
+    "title": "House of Knives"
 }

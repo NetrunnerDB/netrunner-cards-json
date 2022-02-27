@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "knobkierie",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+3 mu Use the MU on Knobkierie only for virus programs. The first time you make a successful run each turn, you may place 1 virus counter on an installed virus program. Limit 1 console per player.",
     "stripped_title": "Knobkierie",
@@ -12,6 +13,5 @@
         "console"
     ],
     "text": "+3[mu]\nUse the MU on Knobkierie only for <strong>virus</strong> programs.\nThe first time you make a successful run each turn, you may place 1 virus counter on an installed <strong>virus</strong> program.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Knobkierie",
-    "uniqueness": true
+    "title": "Knobkierie"
 }

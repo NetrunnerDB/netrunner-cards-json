@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "laamb",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 2,
     "side_id": "runner",
     "strength": 2,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "Whenever you encounter a piece of ice, you may pay 2[credit]. If you do, it gains <strong>barrier</strong> for the remainder of that encounter. Use this ability only once per turn.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>barrier</strong> subroutines.\n<strong>3[credit]:</strong> +6 strength.",
-    "title": "Laamb",
-    "uniqueness": false
+    "title": "Laamb"
 }

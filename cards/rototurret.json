@@ -5,6 +5,7 @@
     "faction_id": "haas-bioroid",
     "id": "rototurret",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 0,
     "stripped_text": "Subroutine Trash 1 installed program. Subroutine End the run.",
@@ -14,6 +15,5 @@
         "destroyer"
     ],
     "text": "[subroutine] Trash 1 installed program.\n[subroutine] End the run.",
-    "title": "Rototurret",
-    "uniqueness": false
+    "title": "Rototurret"
 }

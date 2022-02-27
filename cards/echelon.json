@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "echelon",
     "influence_cost": 1,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 0,
@@ -15,6 +16,5 @@
         "killer"
     ],
     "text": "This program gets +1 strength for each installed <strong>icebreaker</strong> <em>(including this one)</em>.\nInterface → 1[credit]: Break 1 <strong>sentry</strong> subroutine.\n3[credit]: +2 strength.",
-    "title": "Echelon",
-    "uniqueness": false
+    "title": "Echelon"
 }

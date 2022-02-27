@@ -3,13 +3,13 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "defense-construct",
+    "id": "defense_construct",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Defense Construct can be advanced. trash: Add 1 facedown card from Archives to HQ for each advancement token on Defense Construct. Use this ability only during a run on Archives.",
     "stripped_title": "Defense Construct",
     "text": "Defense Construct can be advanced.\n[trash]: Add 1 facedown card from Archives to HQ for each advancement token on Defense Construct. Use this ability only during a run on Archives.",
     "title": "Defense Construct",
-    "trash_cost": 0,
-    "uniqueness": false
+    "trash_cost": 0
 }

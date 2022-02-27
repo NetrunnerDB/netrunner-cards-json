@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "primary-transmission-dish",
+    "id": "primary_transmission_dish",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "3 recurring credits Use these credits during traces.",
     "stripped_title": "Primary Transmission Dish",
@@ -13,6 +14,5 @@
     ],
     "text": "3[recurring-credit]\nUse these credits during traces.",
     "title": "Primary Transmission Dish",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

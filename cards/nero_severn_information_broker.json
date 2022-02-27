@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "criminal",
-    "id": "nero-severn-information-broker",
+    "id": "nero_severn_information_broker",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 45,
     "side_id": "runner",
     "stripped_text": "Once per turn, you may jack out when you encounter a sentry.",
@@ -13,6 +14,5 @@
         "natural"
     ],
     "text": "Once per turn, you may jack out when you encounter a <strong>sentry</strong>.",
-    "title": "Nero Severn: Information Broker",
-    "uniqueness": false
+    "title": "Nero Severn: Information Broker"
 }

@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "ninja",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 0,
@@ -15,6 +16,5 @@
         "killer"
     ],
     "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>3[credit]:</strong> +5 strength.",
-    "title": "Ninja",
-    "uniqueness": false
+    "title": "Ninja"
 }

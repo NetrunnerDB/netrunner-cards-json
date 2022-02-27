@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "modded",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Install a program or piece of hardware, lowering the install cost by 3.",
     "stripped_title": "Modded",
@@ -12,6 +13,5 @@
         "mod"
     ],
     "text": "Install a program or piece of hardware, lowering the install cost by 3.",
-    "title": "Modded",
-    "uniqueness": false
+    "title": "Modded"
 }

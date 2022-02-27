@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "anarch",
-    "id": "noise-hacker-extraordinaire",
+    "id": "noise_hacker_extraordinaire",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 45,
     "side_id": "runner",
     "stripped_text": "Whenever you install a virus program, the Corp trashes the top card of R&D.",
@@ -13,6 +14,5 @@
         "g_mod"
     ],
     "text": "Whenever you install a <strong>virus</strong> program, the Corp trashes the top card of R&D.",
-    "title": "Noise: Hacker Extraordinaire",
-    "uniqueness": false
+    "title": "Noise: Hacker Extraordinaire"
 }

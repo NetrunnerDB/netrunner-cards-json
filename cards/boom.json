@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "boom",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Play only if the Runner has at least 2 tags. As an additional cost to play this operation, spend click. Do 7 meat damage.",
     "stripped_title": "BOOM!",
@@ -14,6 +15,5 @@
     ],
     "text": "Play only if the Runner has at least 2 tags.\nAs an additional cost to play this operation, spend [click].\nDo 7 meat damage.",
     "title": "BOOM!",
-    "trash_cost": 1,
-    "uniqueness": false
+    "trash_cost": 1
 }

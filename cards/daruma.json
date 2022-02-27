@@ -5,11 +5,11 @@
     "faction_id": "jinteki",
     "id": "daruma",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When the Runner approaches this server, you may trash this upgrade. If you do, choose 1 card in the root of another server or 1 agenda, asset, or upgrade in HQ. Swap that card with 1 card in the root of this server. If you swap cards this way, the Runner may jack out.",
     "stripped_title": "Daruma",
     "text": "When the Runner approaches this server, you may trash this upgrade. If you do, choose 1 card in the root of another server or 1 agenda, asset, or upgrade in HQ. Swap that card with 1 card in the root of this server. If you swap cards this way, the Runner may jack out.",
     "title": "Daruma",
-    "trash_cost": 2,
-    "uniqueness": false
+    "trash_cost": 2
 }

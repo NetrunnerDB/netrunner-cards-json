@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "lockdown",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 5,
     "stripped_text": "Subroutine The Runner cannot draw cards for the remainder of this turn.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "[subroutine] The Runner cannot draw cards for the remainder of this turn.",
-    "title": "Lockdown",
-    "uniqueness": false
+    "title": "Lockdown"
 }

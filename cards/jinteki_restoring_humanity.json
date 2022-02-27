@@ -2,8 +2,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "jinteki",
-    "id": "jinteki-restoring-humanity",
+    "id": "jinteki_restoring_humanity",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 40,
     "side_id": "corp",
     "stripped_text": "When your discard phase ends, if there is a facedown card in Archives, gain 1 credit.",
@@ -12,6 +13,5 @@
         "megacorp"
     ],
     "text": "When your discard phase ends, if there is a facedown card in Archives, gain 1[credit].",
-    "title": "Jinteki: Restoring Humanity",
-    "uniqueness": false
+    "title": "Jinteki: Restoring Humanity"
 }

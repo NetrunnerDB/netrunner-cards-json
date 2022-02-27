@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "tsurugi",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 2,
     "stripped_text": "Subroutine End the run unless the Corp pays 1 credit. Subroutine Do 1 net damage. Subroutine Do 1 net damage. Subroutine Do 1 net damage.",
@@ -14,6 +15,5 @@
         "ap"
     ],
     "text": "[subroutine] End the run unless the Corp pays 1[credit].\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.",
-    "title": "Tsurugi",
-    "uniqueness": false
+    "title": "Tsurugi"
 }

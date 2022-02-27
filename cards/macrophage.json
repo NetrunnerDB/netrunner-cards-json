@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "macrophage",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 7,
     "stripped_text": "Subroutine Trace 4 If successful, purge virus counters. Subroutine Trace 3 If successful, trash 1 virus. Subroutine Trace 2 If successful, remove a virus in the heap from the game. Subroutine Trace 1 If successful, end the run.",
@@ -14,6 +15,5 @@
         "tracer"
     ],
     "text": "[subroutine] <trace>Trace 4</trace> If successful, purge virus counters.\n[subroutine] <trace>Trace 3</trace> If successful, trash 1 <strong>virus</strong>.\n[subroutine] <trace>Trace 2</trace> If successful, remove a <strong>virus</strong> in the heap from the game.\n[subroutine] <trace>Trace 1</trace> If successful, end the run.",
-    "title": "Macrophage",
-    "uniqueness": false
+    "title": "Macrophage"
 }

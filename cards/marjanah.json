@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "marjanah",
     "influence_cost": 1,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 1,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "Interface → 2[credit]: Break 1 <strong>barrier</strong> subroutine. If you made a successful run this turn, this ability costs 1[credit] less to use.\n1[credit]: +1 strength.",
-    "title": "Marjanah",
-    "uniqueness": false
+    "title": "Marjanah"
 }

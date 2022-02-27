@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "veritas",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 2,
     "stripped_text": "Subroutine The Corp gains 2 credits. Subroutine The Runner loses 2 credits. Subroutine Trace 2 If successful, give the Runner 1 tag.",
@@ -14,6 +15,5 @@
         "tracer"
     ],
     "text": "[subroutine] The Corp gains 2[credit].\n[subroutine] The Runner loses 2[credit].\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
-    "title": "Veritas",
-    "uniqueness": false
+    "title": "Veritas"
 }

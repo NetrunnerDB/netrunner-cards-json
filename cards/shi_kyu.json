@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "shi-kyu",
+    "id": "shi_kyu",
     "influence_cost": 4,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When the Runner accesses Shi.Kyu, you may pay X credits. The Runner must take either X net damage or add Shi.Kyu to his or her score area as an agenda worth -1 agenda point. Ignore this ability if the Runner accesses Shi.Kyu from R&D.",
     "stripped_title": "Shi.Kyu",
@@ -13,6 +14,5 @@
     ],
     "text": "When the Runner accesses Shi.Kyū, you may pay X[credit]. The Runner must take either X net damage or add Shi.Kyū to his or her score area as an agenda worth -1 agenda point. Ignore this ability if the Runner accesses Shi.Kyū from R&D.",
     "title": "Shi.Kyū",
-    "trash_cost": 0,
-    "uniqueness": false
+    "trash_cost": 0
 }

@@ -5,6 +5,7 @@
     "faction_id": "haas-bioroid",
     "id": "hagen",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 6,
     "stripped_text": "This ice has -1 strength for each installed icebreaker. Subroutine Trash 1 program that is not a decoder, fracter, or killer. Subroutine End the run.",
@@ -14,6 +15,5 @@
         "destroyer"
     ],
     "text": "This ice has -1 strength for each installed <strong>icebreaker</strong>.\n[subroutine] Trash 1 program that is not a <strong>decoder</strong>, <strong>fracter</strong>, or <strong>killer</strong>.\n[subroutine] End the run.",
-    "title": "Hagen",
-    "uniqueness": false
+    "title": "Hagen"
 }

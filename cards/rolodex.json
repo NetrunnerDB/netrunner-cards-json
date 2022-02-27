@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "rolodex",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "When you install Rolodex, look at the top 5 cards of your stack and arrange them in any order. When Rolodex is trashed, trash the top 3 cards of your stack.",
     "stripped_title": "Rolodex",
@@ -12,6 +13,5 @@
         "virtual"
     ],
     "text": "When you install Rolodex, look at the top 5 cards of your stack and arrange them in any order.\nWhen Rolodex is trashed, trash the top 3 cards of your stack.",
-    "title": "Rolodex",
-    "uniqueness": false
+    "title": "Rolodex"
 }

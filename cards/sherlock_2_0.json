@@ -3,8 +3,9 @@
     "cost": 7,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "sherlock-2-0",
+    "id": "sherlock_2_0",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 6,
     "stripped_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack. Subroutine Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack. Subroutine Give the Runner 1 tag.",
@@ -15,6 +16,5 @@
         "tracer"
     ],
     "text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine] Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine] Give the Runner 1 tag.",
-    "title": "Sherlock 2.0",
-    "uniqueness": false
+    "title": "Sherlock 2.0"
 }

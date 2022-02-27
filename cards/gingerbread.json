@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "gingerbread",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -14,6 +15,5 @@
         "icebreaker"
     ],
     "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>tracer</strong> subroutine.\n<strong>2[credit]:</strong> +3 strength.",
-    "title": "Gingerbread",
-    "uniqueness": false
+    "title": "Gingerbread"
 }

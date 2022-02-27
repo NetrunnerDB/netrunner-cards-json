@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "project-beale",
+    "id": "project_beale",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score this agenda, place 1 agenda counter on it for every 2 hosted advancement counters past 3. This agenda is worth 1 more agenda point for each hosted agenda counter.",
     "stripped_title": "Project Beale",
@@ -12,6 +13,5 @@
         "research"
     ],
     "text": "When you score this agenda, place 1 agenda counter on it for every 2 hosted advancement counters past 3.\nThis agenda is worth 1 more agenda point for each hosted agenda counter.",
-    "title": "Project Beale",
-    "uniqueness": false
+    "title": "Project Beale"
 }

@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "shaper",
-    "id": "cold-read",
+    "id": "cold_read",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Place 4 credits on this event, then run any server. You can spend hosted credits during that run. When that run ends, trash 1 program you used during that run. Trashing a program this way cannot be prevented.",
     "stripped_title": "Cold Read",
@@ -13,6 +14,5 @@
         "stealth"
     ],
     "text": "Place 4[credit] on this event, then run any server. You can spend hosted credits during that run. When that run ends, trash 1 program you used during that run. Trashing a program this way cannot be prevented.",
-    "title": "Cold Read",
-    "uniqueness": false
+    "title": "Cold Read"
 }

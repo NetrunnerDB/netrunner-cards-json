@@ -5,6 +5,7 @@
     "faction_id": "neutral-corp",
     "id": "freelancer",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Play only if the Runner is tagged. Trash up to 2 resources.",
     "stripped_title": "Freelancer",
@@ -12,6 +13,5 @@
         "gray_ops"
     ],
     "text": "Play only if the Runner is tagged.\nTrash up to 2 resources.",
-    "title": "Freelancer",
-    "uniqueness": false
+    "title": "Freelancer"
 }

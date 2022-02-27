@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "adam",
-    "id": "emergent-creativity",
+    "id": "emergent_creativity",
     "influence_cost": 5,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "As an additional cost to play this event, spend click. Trash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X credits less. X is equal to the total install cost of the trashed cards.",
     "stripped_title": "Emergent Creativity",
@@ -12,6 +13,5 @@
         "double"
     ],
     "text": "As an additional cost to play this event, spend [click].\nTrash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X[credit] less. X is equal to the total install cost of the trashed cards.",
-    "title": "Emergent Creativity",
-    "uniqueness": false
+    "title": "Emergent Creativity"
 }

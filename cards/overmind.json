@@ -5,6 +5,7 @@
     "faction_id": "neutral-runner",
     "id": "overmind",
     "influence_cost": 0,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 0,
@@ -15,6 +16,5 @@
         "ai"
     ],
     "text": "When you install this program, place 1 power counter on it for each unused MU. <em>(Place counters after this program's MU cost applies.)</em>\nInterface → <strong>Hosted power counter:</strong> Break 1 subroutine.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Overmind",
-    "uniqueness": false
+    "title": "Overmind"
 }

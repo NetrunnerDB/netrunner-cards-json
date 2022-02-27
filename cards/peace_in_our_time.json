@@ -3,8 +3,9 @@
     "cost": 1,
     "deck_limit": 3,
     "faction_id": "neutral-runner",
-    "id": "peace-in-our-time",
+    "id": "peace_in_our_time",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Play only as your first click and only if the Corp scored no agendas during his or her last turn. Gain 10 credits. The Corp gains 5 credits. You cannot initiate any runs this turn.",
     "stripped_title": "Peace in Our Time",
@@ -12,6 +13,5 @@
         "priority"
     ],
     "text": "Play only as your first [click] and only if the Corp scored no agendas during his or her last turn.\nGain 10[credit]. The Corp gains 5[credit]. You cannot initiate any runs this turn.",
-    "title": "Peace in Our Time",
-    "uniqueness": false
+    "title": "Peace in Our Time"
 }

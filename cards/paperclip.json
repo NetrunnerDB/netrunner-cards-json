@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "paperclip",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 1,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "Whenever you encounter a <strong>barrier</strong>, you may install this program from your heap.\n<strong>X[credit]:</strong> +X strength. Then, if this program can interface with the <strong>barrier</strong> you are encountering, break up to X subroutines.",
-    "title": "Paperclip",
-    "uniqueness": false
+    "title": "Paperclip"
 }

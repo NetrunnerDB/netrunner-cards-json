@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "license-acquisition",
+    "id": "license_acquisition",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score this agenda, you may reveal 1 asset or upgrade in HQ or Archives. Install and rez that card, ignoring all costs.",
     "stripped_title": "License Acquisition",
@@ -12,6 +13,5 @@
         "expansion"
     ],
     "text": "When you score this agenda, you may reveal 1 asset or upgrade in HQ or Archives. Install and rez that card, ignoring all costs.",
-    "title": "License Acquisition",
-    "uniqueness": false
+    "title": "License Acquisition"
 }

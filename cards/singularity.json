@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "singularity",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "As an additional cost to play this event, spend click. Run a remote server. If successful, instead of breaching that server, trash all cards installed in the root of that server.",
     "stripped_title": "Singularity",
@@ -13,6 +14,5 @@
         "run"
     ],
     "text": "As an additional cost to play this event, spend [click].\nRun a remote server. If successful, instead of breaching that server, trash all cards installed in the root of that server.",
-    "title": "Singularity",
-    "uniqueness": false
+    "title": "Singularity"
 }

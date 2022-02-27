@@ -4,11 +4,11 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "cfc-excavation-contract",
+    "id": "cfc_excavation_contract",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score CFC Excavation Contract, gain 2 credits for each rezzed bioroid.",
     "stripped_title": "CFC Excavation Contract",
     "text": "When you score CFC Excavation Contract, gain 2[credit] for each rezzed <strong>bioroid</strong>.",
-    "title": "CFC Excavation Contract",
-    "uniqueness": false
+    "title": "CFC Excavation Contract"
 }

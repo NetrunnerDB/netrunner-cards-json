@@ -5,6 +5,7 @@
     "faction_id": "neutral-runner",
     "id": "bazaar",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Whenever you install a piece of hardware from your grip, you may install another copy of that hardware from your grip (paying all costs).",
     "stripped_title": "Bazaar",
@@ -13,6 +14,5 @@
         "ritzy"
     ],
     "text": "Whenever you install a piece of hardware from your grip, you may install another copy of that hardware from your grip (paying all costs).",
-    "title": "Bazaar",
-    "uniqueness": false
+    "title": "Bazaar"
 }

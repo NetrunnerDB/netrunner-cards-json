@@ -2,8 +2,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "haas-bioroid",
-    "id": "haas-bioroid-architects-of-tomorrow",
+    "id": "haas_bioroid_architects_of_tomorrow",
     "influence_limit": 12,
+    "is_unique": false,
     "minimum_deck_size": 45,
     "side_id": "corp",
     "stripped_text": "The first time each turn the Runner passes a rezzed piece of bioroid ice, you may rez 1 bioroid card, paying 4 credits less.",
@@ -12,6 +13,5 @@
         "megacorp"
     ],
     "text": "The first time each turn the Runner passes a rezzed piece of <strong>bioroid</strong> ice, you may rez 1 <strong>bioroid</strong> card, paying 4[credit] less.",
-    "title": "Haas-Bioroid: Architects of Tomorrow",
-    "uniqueness": false
+    "title": "Haas-Bioroid: Architects of Tomorrow"
 }

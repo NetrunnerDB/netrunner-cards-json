@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "bloodletter",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 4,
     "stripped_text": "Subroutine The Runner must either trash 1 program or trash the top 2 cards from his or her stack.",
@@ -14,6 +15,5 @@
         "destroyer"
     ],
     "text": "[subroutine] The Runner must either trash 1 program or trash the top 2 cards from his or her stack.",
-    "title": "Bloodletter",
-    "uniqueness": false
+    "title": "Bloodletter"
 }

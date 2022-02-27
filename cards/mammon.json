@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "mammon",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 0,
@@ -15,6 +16,5 @@
         "ai"
     ],
     "text": "Interface → <strong>Hosted power counter:</strong> Break 1 subroutine.\n<strong>2[credit]:</strong> +2 strength.\nWhen your turn begins, you may pay X[credit] to place X power counters on this program.\nWhen your turn ends, remove all hosted power counters.",
-    "title": "Mammon",
-    "uniqueness": false
+    "title": "Mammon"
 }

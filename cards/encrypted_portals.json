@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "encrypted-portals",
+    "id": "encrypted_portals",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "All code gate ice have +1 strength. When you score Encrypted Portals, gain 1 credit for each rezzed code gate.",
     "stripped_title": "Encrypted Portals",
@@ -12,6 +13,5 @@
         "security"
     ],
     "text": "All <strong>code gate</strong> ice have +1 strength.\nWhen you score Encrypted Portals, gain 1[credit] for each rezzed <strong>code gate</strong>.",
-    "title": "Encrypted Portals",
-    "uniqueness": false
+    "title": "Encrypted Portals"
 }

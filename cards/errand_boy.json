@@ -3,8 +3,9 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "errand-boy",
+    "id": "errand_boy",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 1,
     "stripped_text": "Subroutine The Corp gains 1 credit or draws 1 card. Subroutine The Corp gains 1 credit or draws 1 card. Subroutine The Corp gains 1 credit or draws 1 card.",
@@ -13,6 +14,5 @@
         "sentry"
     ],
     "text": "[subroutine] The Corp gains 1[credit] or draws 1 card.\n[subroutine] The Corp gains 1[credit] or draws 1 card.\n[subroutine] The Corp gains 1[credit] or draws 1 card.",
-    "title": "Errand Boy",
-    "uniqueness": false
+    "title": "Errand Boy"
 }

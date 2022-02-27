@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "creeper",
     "influence_cost": 1,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 2,
@@ -16,6 +17,5 @@
         "cloud"
     ],
     "text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Creeper",
-    "uniqueness": false
+    "title": "Creeper"
 }

@@ -3,8 +3,9 @@
     "cost": 3,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "rip-deal",
+    "id": "rip_deal",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Run HQ. If successful, when you determine the number of cards in HQ you are allowed to access during this run's breach of HQ, you may add that many cards from your heap to your grip. If you do, you cannot access any cards in HQ during this breach. (You can still access cards in the root of HQ.) When the run ends, remove this event from the game.",
     "stripped_title": "Rip Deal",
@@ -12,6 +13,5 @@
         "run"
     ],
     "text": "Run HQ. If successful, when you determine the number of cards in HQ you are allowed to access during this run's breach of HQ, you may add that many cards from your heap to your grip. If you do, you cannot access any cards in HQ during this breach. <em>(You can still access cards in the root of HQ.)</em>\nWhen the run ends, remove this event from the game.",
-    "title": "Rip Deal",
-    "uniqueness": false
+    "title": "Rip Deal"
 }

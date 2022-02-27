@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "research-station",
+    "id": "research_station",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Install only in the root of HQ. Your maximum hand size is +2.",
     "stripped_title": "Research Station",
@@ -13,6 +14,5 @@
     ],
     "text": "Install only in the root of HQ.\nYour maximum hand size is +2.",
     "title": "Research Station",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

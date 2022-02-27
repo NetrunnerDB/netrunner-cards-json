@@ -3,12 +3,12 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "fast-break",
+    "id": "fast_break",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Gain X credits. Draw up to X cards. Install up to X cards in the root of and/or protecting a single remote server. X is equal to the number of agendas in the Runner's score area.",
     "stripped_title": "Fast Break",
     "text": "Gain X[credit]. Draw up to X cards. Install up to X cards in the root of and/or protecting a single remote server. X is equal to the number of agendas in the Runner's score area.",
-    "title": "Fast Break",
-    "uniqueness": false
+    "title": "Fast Break"
 }

@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "always-have-a-backup-plan",
+    "id": "always_have_a_backup_plan",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Run any server. When that run ends, if it was unsuccessful, you may run that server again, ignoring any additional costs to run. During the second run, when you encounter the last ice you encountered in the first run, bypass it.",
     "stripped_title": "Always Have a Backup Plan",
@@ -12,6 +13,5 @@
         "run"
     ],
     "text": "Run any server. When that run ends, if it was unsuccessful, you may run that server again, ignoring any additional costs to run. During the second run, when you encounter the last ice you encountered in the first run, bypass it.",
-    "title": "Always Have a Backup Plan",
-    "uniqueness": false
+    "title": "Always Have a Backup Plan"
 }

@@ -3,8 +3,9 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "off-campus-apartment",
+    "id": "off_campus_apartment",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Off-Campus Apartment can host any number of connections. Whenever you install a connection on Off-Campus Apartment, draw 1 card.",
     "stripped_title": "Off-Campus Apartment",
@@ -12,6 +13,5 @@
         "location"
     ],
     "text": "Off-Campus Apartment can host any number of <strong>connections</strong>.\nWhenever you install a <strong>connection</strong> on Off-Campus Apartment, draw 1 card.",
-    "title": "Off-Campus Apartment",
-    "uniqueness": false
+    "title": "Off-Campus Apartment"
 }

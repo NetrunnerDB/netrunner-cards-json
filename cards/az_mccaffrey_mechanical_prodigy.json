@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "criminal",
-    "id": "az-mccaffrey-mechanical-prodigy",
+    "id": "az_mccaffrey_mechanical_prodigy",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 45,
     "side_id": "runner",
     "stripped_text": "The first job resource, connection resource, or piece of hardware you install each turn costs 1 credit less to install.",
@@ -13,6 +14,5 @@
         "cyborg"
     ],
     "text": "The first <strong>job</strong> resource, <strong>connection</strong> resource, or piece of hardware you install each turn costs 1[credit] less to install.",
-    "title": "Az McCaffrey: Mechanical Prodigy",
-    "uniqueness": false
+    "title": "Az McCaffrey: Mechanical Prodigy"
 }

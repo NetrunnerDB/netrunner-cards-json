@@ -5,6 +5,7 @@
     "faction_id": "weyland-consortium",
     "id": "wormhole",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 7,
     "stripped_text": "Wormhole can be advanced and its rez cost is lowered by 3 for each advancement token on it. Subroutine Resolve a subroutine on another piece of rezzed ice.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "Wormhole can be advanced and its rez cost is lowered by 3 for each advancement token on it.\n[subroutine] Resolve a subroutine on another piece of rezzed ice.",
-    "title": "Wormhole",
-    "uniqueness": false
+    "title": "Wormhole"
 }

@@ -3,8 +3,9 @@
     "cost": 5,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "little-engine",
+    "id": "little_engine",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 7,
     "stripped_text": "Subroutine End the run. Subroutine End the run. Subroutine The Runner gains 5 credits.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] The Runner gains 5[credit].",
-    "title": "Little Engine",
-    "uniqueness": false
+    "title": "Little Engine"
 }

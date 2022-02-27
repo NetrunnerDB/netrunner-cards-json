@@ -3,8 +3,9 @@
     "cost": 1,
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "trojan-horse",
+    "id": "trojan_horse",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Play only if the Runner accessed at least 1 card during his or her last turn. Trace 4 If successful, trash 1 installed program with an install cost equal to or less than the amount by which your trace strength exceeded the Runner's link strength.",
     "stripped_title": "Trojan Horse",
@@ -12,6 +13,5 @@
         "gray_ops"
     ],
     "text": "Play only if the Runner accessed at least 1 card during his or her last turn.\n<trace>Trace 4</trace> If successful, trash 1 installed program with an install cost equal to or less than the amount by which your trace strength exceeded the Runner's link strength.",
-    "title": "Trojan Horse",
-    "uniqueness": false
+    "title": "Trojan Horse"
 }

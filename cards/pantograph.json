@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "pantograph",
     "influence_cost": 3,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+1 mu Whenever an agenda is scored or stolen, gain 1 credit. Then, you may install 1 card from your grip. Limit 1 console per player.",
     "stripped_title": "Pantograph",
@@ -12,6 +13,5 @@
         "console"
     ],
     "text": "+1[mu]\nWhenever an agenda is scored or stolen, gain 1[credit]. Then, you may install 1 card from your grip.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Pantograph",
-    "uniqueness": true
+    "title": "Pantograph"
 }

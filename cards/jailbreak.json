@@ -5,6 +5,7 @@
     "faction_id": "neutral-runner",
     "id": "jailbreak",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Run HQ or R&D. If successful, draw 1 card and when you breach the attacked server, access 1 additional card.",
     "stripped_title": "Jailbreak",
@@ -12,6 +13,5 @@
         "run"
     ],
     "text": "Run HQ or R&D. If successful, draw 1 card and when you breach the attacked server, access 1 additional card.",
-    "title": "Jailbreak",
-    "uniqueness": false
+    "title": "Jailbreak"
 }

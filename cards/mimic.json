@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "mimic",
     "influence_cost": 1,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 3,
@@ -15,6 +16,5 @@
         "killer"
     ],
     "text": "Interface → 1[credit]: Break 1 <strong>sentry</strong> subroutine.",
-    "title": "Mimic",
-    "uniqueness": false
+    "title": "Mimic"
 }

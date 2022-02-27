@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "yusuf",
     "influence_cost": 2,
+    "is_unique": false,
     "memory_cost": 2,
     "side_id": "runner",
     "strength": 3,
@@ -16,6 +17,5 @@
         "virus"
     ],
     "text": "Whenever you make a successful run, you may place 1 virus counter on this program.\nInterface → <strong>Any virus counter:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>Any virus counter:</strong> +1 strength.",
-    "title": "Yusuf",
-    "uniqueness": false
+    "title": "Yusuf"
 }

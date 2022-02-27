@@ -5,6 +5,7 @@
     "faction_id": "anarch",
     "id": "skulljack",
     "influence_cost": 2,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "When you install Skulljack, suffer 1 brain damage. The trash cost of all cards is lowered by 1.",
     "stripped_title": "Skulljack",
@@ -12,6 +13,5 @@
         "cybernetic"
     ],
     "text": "When you install Skulljack, suffer 1 brain damage.\nThe trash cost of all cards is lowered by 1.",
-    "title": "Skulljack",
-    "uniqueness": true
+    "title": "Skulljack"
 }

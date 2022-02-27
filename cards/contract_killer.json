@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "weyland-consortium",
-    "id": "contract-killer",
+    "id": "contract_killer",
     "influence_cost": 4,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Contract Killer can be advanced. If there are at least 2 advancement tokens on Contract Killer, it gains: \"click, trash: Trash a connection or do 2 meat damage.\"",
     "stripped_title": "Contract Killer",
@@ -13,6 +14,5 @@
     ],
     "text": "Contract Killer can be advanced.\nIf there are at least 2 advancement tokens on Contract Killer, it gains: \"[click], [trash]: Trash a <strong>connection</strong> or do 2 meat damage.\"",
     "title": "Contract Killer",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

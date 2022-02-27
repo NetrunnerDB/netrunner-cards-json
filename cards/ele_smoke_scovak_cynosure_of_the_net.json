@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "shaper",
-    "id": "ele-smoke-scovak-cynosure-of-the-net",
+    "id": "ele_smoke_scovak_cynosure_of_the_net",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 40,
     "side_id": "runner",
     "stripped_text": "1 recurring credit Use this credit to pay for using icebreakers.",
@@ -14,6 +15,5 @@
         "stealth"
     ],
     "text": "1[recurring-credit]\nUse this credit to pay for using <strong>icebreakers</strong>.",
-    "title": "Ele \"Smoke\" Scovak: Cynosure of the Net",
-    "uniqueness": false
+    "title": "Ele \"Smoke\" Scovak: Cynosure of the Net"
 }

@@ -5,6 +5,7 @@
     "faction_id": "criminal",
     "id": "polyhistor",
     "influence_cost": 4,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "+1 mu, +1 link The first time each turn you pass all of the ice protecting HQ, you may draw 1 card to force the Corp to draw 1 card. Limit 1 console per player.",
     "stripped_title": "Polyhistor",
@@ -12,6 +13,5 @@
         "console"
     ],
     "text": "+1[mu], +1[link]\nThe first time each turn you pass all of the ice protecting HQ, you may draw 1 card to force the Corp to draw 1 card.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Polyhistor",
-    "uniqueness": true
+    "title": "Polyhistor"
 }

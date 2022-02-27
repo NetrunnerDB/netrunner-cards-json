@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "nbn",
-    "id": "aryabhata-tech",
+    "id": "aryabhata_tech",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "Whenever there is a successful trace, gain 1 credit and the Runner loses 1 credit.",
     "stripped_title": "Aryabhata Tech",
@@ -13,6 +14,5 @@
     ],
     "text": "Whenever there is a successful trace, gain 1[credit] and the Runner loses 1[credit].",
     "title": "Aryabhata Tech",
-    "trash_cost": 3,
-    "uniqueness": false
+    "trash_cost": 3
 }

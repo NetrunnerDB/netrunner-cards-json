@@ -5,6 +5,7 @@
     "faction_id": "jinteki",
     "id": "sensei",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "strength": 5,
     "stripped_text": "Subroutine For the remainder of this run, each piece of ice encountered except Sensei gains \"Subroutine End the run\" after all its other subroutines.",
@@ -13,6 +14,5 @@
         "code_gate"
     ],
     "text": "[subroutine] For the remainder of this run, each piece of ice encountered except Sensei gains \"[subroutine] End the run\" after all its other subroutines.",
-    "title": "Sensei",
-    "uniqueness": false
+    "title": "Sensei"
 }

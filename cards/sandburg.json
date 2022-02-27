@@ -5,11 +5,11 @@
     "faction_id": "neutral-corp",
     "id": "sandburg",
     "influence_cost": 0,
+    "is_unique": true,
     "side_id": "corp",
     "stripped_text": "If you have at least 10 credits, each piece of ice has +1 strength for every 5 credits in your credit pool.",
     "stripped_title": "Sandburg",
     "text": "If you have at least 10[credit], each piece of ice has +1 strength for every 5[credit] in your credit pool.",
     "title": "Sandburg",
-    "trash_cost": 4,
-    "uniqueness": true
+    "trash_cost": 4
 }

@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "ankusa",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 1,
     "side_id": "runner",
     "strength": 0,
@@ -15,6 +16,5 @@
         "fracter"
     ],
     "text": "Whenever this program fully breaks a <strong>barrier</strong>, add that <strong>barrier</strong> to HQ.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Ankusa",
-    "uniqueness": false
+    "title": "Ankusa"
 }

@@ -3,12 +3,12 @@
     "cost": 0,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "labor-rights",
+    "id": "labor_rights",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Trash the top 3 cards of your stack. Shuffle 3 cards from your heap into your stack. Draw 1 card. Remove this event from the game instead of trashing it.",
     "stripped_title": "Labor Rights",
     "text": "Trash the top 3 cards of your stack. Shuffle 3 cards from your heap into your stack. Draw 1 card. Remove this event from the game instead of trashing it.",
-    "title": "Labor Rights",
-    "uniqueness": false
+    "title": "Labor Rights"
 }

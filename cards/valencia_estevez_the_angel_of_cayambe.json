@@ -3,8 +3,9 @@
     "card_type_id": "identity",
     "deck_limit": 1,
     "faction_id": "anarch",
-    "id": "valencia-estevez-the-angel-of-cayambe",
+    "id": "valencia_estevez_the_angel_of_cayambe",
     "influence_limit": 15,
+    "is_unique": false,
     "minimum_deck_size": 50,
     "side_id": "runner",
     "stripped_text": "The Corp starts the game with 1 bad publicity.",
@@ -13,6 +14,5 @@
         "natural"
     ],
     "text": "The Corp starts the game with 1 bad publicity.",
-    "title": "Valencia Estevez: The Angel of Cayambe",
-    "uniqueness": false
+    "title": "Valencia Estevez: The Angel of Cayambe"
 }

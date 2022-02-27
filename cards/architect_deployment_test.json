@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "architect-deployment-test",
+    "id": "architect_deployment_test",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score this agenda, look at the top 5 cards of R&D. You may install and rez 1 of those cards, ignoring all costs.",
     "stripped_title": "Architect Deployment Test",
@@ -12,6 +13,5 @@
         "research"
     ],
     "text": "When you score this agenda, look at the top 5 cards of R&D. You may install and rez 1 of those cards, ignoring all costs.",
-    "title": "Architect Deployment Test",
-    "uniqueness": false
+    "title": "Architect Deployment Test"
 }

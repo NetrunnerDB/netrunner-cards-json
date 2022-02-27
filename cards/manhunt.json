@@ -5,6 +5,7 @@
     "faction_id": "nbn",
     "id": "manhunt",
     "influence_cost": 3,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "This card is not trashed until another current is played or an agenda is stolen. The first time the Runner makes a successful run each turn, trace 2 if successful, give the Runner 1 tag.",
     "stripped_title": "Manhunt",
@@ -12,6 +13,5 @@
         "current"
     ],
     "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe first time the Runner makes a successful run each turn, <trace>trace 2</trace> if successful, give the Runner 1 tag.",
-    "title": "Manhunt",
-    "uniqueness": false
+    "title": "Manhunt"
 }

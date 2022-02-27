@@ -3,12 +3,12 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "neutral-runner",
-    "id": "populist-rally",
+    "id": "populist_rally",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Play only if you have at least 1 seedy card installed. The Corp has 1 fewer click to spend on his or her next turn.",
     "stripped_title": "Populist Rally",
     "text": "Play only if you have at least 1 <strong>seedy</strong> card installed.\nThe Corp has 1 fewer [click] to spend on his or her next turn.",
-    "title": "Populist Rally",
-    "uniqueness": false
+    "title": "Populist Rally"
 }

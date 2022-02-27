@@ -4,8 +4,9 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "neutral-corp",
-    "id": "evidence-collection-2",
+    "id": "evidence_collection_2",
     "influence_cost": 0,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you win a game with Evidence Collection in your score area, reveal set 5.",
     "stripped_title": "Evidence Collection 2",
@@ -13,6 +14,5 @@
         "research"
     ],
     "text": "When you win a game with Evidence Collection in your score area, reveal set 5.",
-    "title": "Evidence Collection 2",
-    "uniqueness": false
+    "title": "Evidence Collection 2"
 }

@@ -5,6 +5,7 @@
     "faction_id": "shaper",
     "id": "maven",
     "influence_cost": 3,
+    "is_unique": false,
     "memory_cost": 2,
     "side_id": "runner",
     "strength": 0,
@@ -15,6 +16,5 @@
         "ai"
     ],
     "text": "This program gets +1 strength for each installed program.\nInterface → <strong>2[credit]:</strong> Break 1 subroutine.",
-    "title": "Maven",
-    "uniqueness": false
+    "title": "Maven"
 }

@@ -3,8 +3,9 @@
     "cost": 1,
     "deck_limit": 3,
     "faction_id": "neutral-runner",
-    "id": "guru-davinder",
+    "id": "guru_davinder",
     "influence_cost": 1,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "Prevent all net and meat damage. Whenever Guru Davinder prevents at least 1 net or meat damage, trash him unless you pay 4 credits.",
     "stripped_title": "Guru Davinder",
@@ -12,6 +13,5 @@
         "connection"
     ],
     "text": "Prevent all net and meat damage.\nWhenever Guru Davinder prevents at least 1 net or meat damage, trash him unless you pay 4[credit].",
-    "title": "Guru Davinder",
-    "uniqueness": true
+    "title": "Guru Davinder"
 }

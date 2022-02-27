@@ -3,8 +3,9 @@
     "cost": 2,
     "deck_limit": 3,
     "faction_id": "haas-bioroid",
-    "id": "friends-in-high-places",
+    "id": "friends_in_high_places",
     "influence_cost": 1,
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "After you resolve this operation, end your action phase. Install up to 2 cards from Archives (paying all install costs).",
     "stripped_title": "Friends in High Places",
@@ -12,6 +13,5 @@
         "terminal"
     ],
     "text": "After you resolve this operation, end your action phase.\nInstall up to 2 cards from Archives (paying all install costs).",
-    "title": "Friends in High Places",
-    "uniqueness": false
+    "title": "Friends in High Places"
 }

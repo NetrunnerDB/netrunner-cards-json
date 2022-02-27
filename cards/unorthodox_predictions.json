@@ -4,7 +4,8 @@
     "card_type_id": "agenda",
     "deck_limit": 3,
     "faction_id": "jinteki",
-    "id": "unorthodox-predictions",
+    "id": "unorthodox_predictions",
+    "is_unique": false,
     "side_id": "corp",
     "stripped_text": "When you score Unorthodox Predictions, choose sentry, code gate or barrier. Subroutines on ice of the chosen type cannot be broken until the beginning of your next turn.",
     "stripped_title": "Unorthodox Predictions",
@@ -12,6 +13,5 @@
         "security"
     ],
     "text": "When you score Unorthodox Predictions, choose <strong>sentry</strong>, <strong>code gate</strong> or <strong>barrier</strong>. Subroutines on ice of the chosen type cannot be broken until the beginning of your next turn.",
-    "title": "Unorthodox Predictions",
-    "uniqueness": false
+    "title": "Unorthodox Predictions"
 }

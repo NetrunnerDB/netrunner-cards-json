@@ -3,12 +3,12 @@
     "cost": 1,
     "deck_limit": 3,
     "faction_id": "anarch",
-    "id": "chop-bot-3000",
+    "id": "chop_bot_3000",
     "influence_cost": 1,
+    "is_unique": true,
     "side_id": "runner",
     "stripped_text": "When your turn begins, you may trash another of your installed cards. If you do, draw 1 card or remove 1 tag.",
     "stripped_title": "Chop Bot 3000",
     "text": "When your turn begins, you may trash another of your installed cards. If you do, draw 1 card or remove 1 tag.",
-    "title": "Chop Bot 3000",
-    "uniqueness": true
+    "title": "Chop Bot 3000"
 }

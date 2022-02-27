@@ -3,12 +3,12 @@
     "cost": 4,
     "deck_limit": 3,
     "faction_id": "criminal",
-    "id": "hq-interface",
+    "id": "hq_interface",
     "influence_cost": 2,
+    "is_unique": false,
     "side_id": "runner",
     "stripped_text": "Whenever you breach HQ, access 1 additional card.",
     "stripped_title": "HQ Interface",
     "text": "Whenever you breach HQ, access 1 additional card.",
-    "title": "HQ Interface",
-    "uniqueness": false
+    "title": "HQ Interface"
 }
