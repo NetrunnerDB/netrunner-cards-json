@@ -8,6 +8,7 @@ import {
 	getCardsJson,
 } from "../../src/index";
 import { expect } from "chai";
+var should = require('chai').should();
 
 describe("example test", function() {
 	it("getCyclesJson", function() {
@@ -33,7 +34,7 @@ describe("example test", function() {
 		expect(files).to.be.an.instanceof(Array);
 		expect(files).to.have.length.greaterThan(0);
 		for (const file of files) {
-			expect(file).to.have.keys("cards", "code", "date_start", "name");
+			file.should.include.keys("cards", "code", "date_start", "name");
 		}
 	});
 
@@ -67,7 +68,7 @@ describe("example test", function() {
 		expect(files).to.be.an.instanceof(Array);
 		expect(files).to.have.length.greaterThan(0);
 		for (const file of files) {
-			expect(file).to.have.keys("code", "cycles", "date_start", "name");
+			expect(file).to.have.keys("code", "date_start", "rotated", "name");
 		}
 	});
 
