@@ -1,0 +1,17 @@
+{
+    "card_type_id": "event",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "neutral-runner",
+    "id": "lucky_find",
+    "influence_cost": 2,
+    "is_unique": false,
+    "side_id": "runner",
+    "stripped_text": "As an additional cost to play this event, spend click. Gain 9 credits.",
+    "stripped_title": "Lucky Find",
+    "subtypes": [
+        "double"
+    ],
+    "text": "As an additional cost to play this event, spend [click].\nGain 9[credit].",
+    "title": "Lucky Find"
+}

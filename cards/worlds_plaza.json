@@ -1,0 +1,18 @@
+{
+    "card_type_id": "asset",
+    "cost": 2,
+    "deck_limit": 3,
+    "faction_id": "weyland-consortium",
+    "id": "worlds_plaza",
+    "influence_cost": 5,
+    "is_unique": true,
+    "side_id": "corp",
+    "stripped_text": "Worlds Plaza can host up to 3 assets. click: Install an asset from HQ on Worlds Plaza and rez it, lowering its rez cost by 2, if able.",
+    "stripped_title": "Worlds Plaza",
+    "subtypes": [
+        "facility"
+    ],
+    "text": "Worlds Plaza can host up to 3 assets.\n[click]: Install an asset from HQ on Worlds Plaza and rez it, lowering its rez cost by 2, if able.",
+    "title": "Worlds Plaza",
+    "trash_cost": 5
+}

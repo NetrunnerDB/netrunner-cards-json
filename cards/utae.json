@@ -1,0 +1,20 @@
+{
+    "card_type_id": "program",
+    "cost": 2,
+    "deck_limit": 3,
+    "faction_id": "anarch",
+    "id": "utae",
+    "influence_cost": 2,
+    "is_unique": false,
+    "memory_cost": 1,
+    "side_id": "runner",
+    "strength": 1,
+    "stripped_text": "Interface -> X credits: Break X code gate subroutines. Use this ability only once per run. Interface -> 1 credit: Break 1 code gate subroutine. Use this ability only if you have 3 or more installed virtual resources. 1 credit: +1 strength.",
+    "stripped_title": "Utae",
+    "subtypes": [
+        "icebreaker",
+        "decoder"
+    ],
+    "text": "Interface → <strong>X[credit]:</strong> Break X <strong>code gate</strong> subroutines. Use this ability only once per run.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine. Use this ability only if you have 3 or more installed <strong>virtual</strong> resources.\n<strong>1[credit]:</strong> +1 strength.",
+    "title": "Utae"
+}

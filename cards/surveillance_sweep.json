@@ -1,0 +1,17 @@
+{
+    "card_type_id": "operation",
+    "cost": 2,
+    "deck_limit": 3,
+    "faction_id": "nbn",
+    "id": "surveillance_sweep",
+    "influence_cost": 3,
+    "is_unique": false,
+    "side_id": "corp",
+    "stripped_text": "This card is not trashed until another current is played or an agenda is stolen. The Runner must spend credits first for each trace attempt during a run.",
+    "stripped_title": "Surveillance Sweep",
+    "subtypes": [
+        "current"
+    ],
+    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe Runner must spend credits first for each trace attempt during a run.",
+    "title": "Surveillance Sweep"
+}

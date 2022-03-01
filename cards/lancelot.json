@@ -1,0 +1,20 @@
+{
+    "card_type_id": "ice",
+    "cost": 4,
+    "deck_limit": 3,
+    "faction_id": "neutral-corp",
+    "id": "lancelot",
+    "influence_cost": 1,
+    "is_unique": false,
+    "side_id": "corp",
+    "strength": 2,
+    "stripped_text": "When the Runner encounters Lancelot, you may reveal up to 2 grail ice from HQ. For the remainder of this run, Lancelot gains the subroutines of the revealed ice in the order of your choice. Subroutine Trash 1 program.",
+    "stripped_title": "Lancelot",
+    "subtypes": [
+        "sentry",
+        "grail",
+        "destroyer"
+    ],
+    "text": "When the Runner encounters Lancelot, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Lancelot gains the subroutines of the revealed ice in the order of your choice.\n[subroutine] Trash 1 program.",
+    "title": "Lancelot"
+}

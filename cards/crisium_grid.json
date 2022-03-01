@@ -1,0 +1,18 @@
+{
+    "card_type_id": "upgrade",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "weyland-consortium",
+    "id": "crisium_grid",
+    "influence_cost": 1,
+    "is_unique": false,
+    "side_id": "corp",
+    "stripped_text": "Runs against this server cannot be declared successful. (This effect does not cause runs to become unsuccessful.) Limit 1 region per server.",
+    "stripped_title": "Crisium Grid",
+    "subtypes": [
+        "region"
+    ],
+    "text": "Runs against this server cannot be declared successful. <em>(This effect does not cause runs to become unsuccessful.)</em>\nLimit 1 <strong>region</strong> per server.",
+    "title": "Crisium Grid",
+    "trash_cost": 5
+}

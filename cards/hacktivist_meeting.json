@@ -1,0 +1,17 @@
+{
+    "card_type_id": "event",
+    "cost": 1,
+    "deck_limit": 3,
+    "faction_id": "anarch",
+    "id": "hacktivist_meeting",
+    "influence_cost": 2,
+    "is_unique": false,
+    "side_id": "runner",
+    "stripped_text": "This card is not trashed until another current is played or an agenda is scored. As an additional cost to rez non-ice cards, the Corp must randomly trash a card from HQ.",
+    "stripped_title": "Hacktivist Meeting",
+    "subtypes": [
+        "current"
+    ],
+    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nAs an additional cost to rez non-ice cards, the Corp must randomly trash a card from HQ.",
+    "title": "Hacktivist Meeting"
+}

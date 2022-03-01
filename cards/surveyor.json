@@ -1,0 +1,19 @@
+{
+    "card_type_id": "ice",
+    "cost": 5,
+    "deck_limit": 3,
+    "faction_id": "weyland-consortium",
+    "id": "surveyor",
+    "influence_cost": 2,
+    "is_unique": false,
+    "side_id": "corp",
+    "strength": "null",
+    "stripped_text": "X is twice the number of ice protecting this server. Subroutine Trace X If successful, give the Runner 2 tags. Subroutine Trace X If successful, end the run.",
+    "stripped_title": "Surveyor",
+    "subtypes": [
+        "sentry",
+        "tracer"
+    ],
+    "text": "X is twice the number of ice protecting this server.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 2 tags.\n[subroutine]<trace>Trace X</trace> If successful, end the run.",
+    "title": "Surveyor"
+}

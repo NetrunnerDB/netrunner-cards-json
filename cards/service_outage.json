@@ -1,0 +1,17 @@
+{
+    "card_type_id": "operation",
+    "cost": 1,
+    "deck_limit": 3,
+    "faction_id": "nbn",
+    "id": "service_outage",
+    "influence_cost": 1,
+    "is_unique": false,
+    "side_id": "corp",
+    "stripped_text": "This card is not trashed until another current is played or an agenda is stolen. As an additional cost to make the first run on his or her turn (even through a card ability), the Runner must spend 1 credit.",
+    "stripped_title": "Service Outage",
+    "subtypes": [
+        "current"
+    ],
+    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to make the first run on his or her turn (even through a card ability), the Runner must spend 1[credit].",
+    "title": "Service Outage"
+}

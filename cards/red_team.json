@@ -1,0 +1,17 @@
+{
+    "card_type_id": "resource",
+    "cost": 5,
+    "deck_limit": 3,
+    "faction_id": "criminal",
+    "id": "red_team",
+    "influence_cost": 2,
+    "is_unique": false,
+    "side_id": "runner",
+    "stripped_text": "When you install this resource, load 12 credits onto it. When it is empty, trash it. click: Run a central server you have not run this turn. If successful, take 3 credits from this resource.",
+    "stripped_title": "Red Team",
+    "subtypes": [
+        "job"
+    ],
+    "text": "When you install this resource, load 12[credit] onto it. When it is empty, trash it.\n[click]: Run a central server you have not run this turn. If successful, take 3[credit] from this resource.",
+    "title": "Red Team"
+}

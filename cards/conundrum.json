@@ -1,0 +1,18 @@
+{
+    "card_type_id": "ice",
+    "cost": 8,
+    "deck_limit": 3,
+    "faction_id": "neutral-corp",
+    "id": "conundrum",
+    "influence_cost": 0,
+    "is_unique": false,
+    "side_id": "corp",
+    "strength": 4,
+    "stripped_text": "Conundrum has +3 strength if there is an installed AI. Subroutine The Runner trashes an installed program. Subroutine The Runner loses click, if able. Subroutine End the run.",
+    "stripped_title": "Conundrum",
+    "subtypes": [
+        "code_gate"
+    ],
+    "text": "Conundrum has +3 strength if there is an installed <strong>AI</strong>.\n[subroutine] The Runner trashes an installed program.\n[subroutine] The Runner loses [click], if able.\n[subroutine] End the run.",
+    "title": "Conundrum"
+}

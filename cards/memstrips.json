@@ -1,0 +1,17 @@
+{
+    "card_type_id": "hardware",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "anarch",
+    "id": "memstrips",
+    "influence_cost": 2,
+    "is_unique": false,
+    "side_id": "runner",
+    "stripped_text": "+3 mu Use the MU on MemStrips only for virus programs.",
+    "stripped_title": "MemStrips",
+    "subtypes": [
+        "chip"
+    ],
+    "text": "+3[mu]\nUse the MU on MemStrips only for <strong>virus</strong> programs.",
+    "title": "MemStrips"
+}

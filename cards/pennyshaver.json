@@ -1,0 +1,17 @@
+{
+    "card_type_id": "hardware",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "criminal",
+    "id": "pennyshaver",
+    "influence_cost": 3,
+    "is_unique": true,
+    "side_id": "runner",
+    "stripped_text": "+1 mu Whenever you make a successful run, place 1 credit on this hardware. click: Place 1 credit on this hardware, then take all credits from it. Limit 1 console per player.",
+    "stripped_title": "Pennyshaver",
+    "subtypes": [
+        "console"
+    ],
+    "text": "+1[mu]\nWhenever you make a successful run, place 1[credit] on this hardware.\n[click]: Place 1[credit] on this hardware, then take all credits from it.\nLimit 1 <strong>console</strong> per player.",
+    "title": "Pennyshaver"
+}
