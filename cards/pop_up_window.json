@@ -1,0 +1,19 @@
+{
+    "card_type_id": "ice",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "nbn",
+    "id": "pop_up_window",
+    "influence_cost": 1,
+    "is_unique": false,
+    "side_id": "corp",
+    "strength": 0,
+    "stripped_text": "When the Runner encounters this ice, gain 1 credit. Subroutine End the run unless the Runner pays 1 credit.",
+    "stripped_title": "Pop-up Window",
+    "subtypes": [
+        "code_gate",
+        "advertisement"
+    ],
+    "text": "When the Runner encounters this ice, gain 1[credit].\n[subroutine] End the run unless the Runner pays 1[credit].",
+    "title": "Pop-up Window"
+}

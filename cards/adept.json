@@ -1,0 +1,21 @@
+{
+    "card_type_id": "program",
+    "cost": 5,
+    "deck_limit": 3,
+    "faction_id": "shaper",
+    "id": "adept",
+    "influence_cost": 3,
+    "is_unique": false,
+    "memory_cost": 2,
+    "side_id": "runner",
+    "strength": 2,
+    "stripped_text": "This program gets +1 strength for each unused MU. Interface -> 2 credits: Break 1 sentry or barrier subroutine.",
+    "stripped_title": "Adept",
+    "subtypes": [
+        "icebreaker",
+        "fracter",
+        "killer"
+    ],
+    "text": "This program gets +1 strength for each unused MU.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>sentry</strong> or <strong>barrier</strong> subroutine.",
+    "title": "Adept"
+}

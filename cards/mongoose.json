@@ -1,0 +1,20 @@
+{
+    "card_type_id": "program",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "criminal",
+    "id": "mongoose",
+    "influence_cost": 2,
+    "is_unique": false,
+    "memory_cost": 1,
+    "side_id": "runner",
+    "strength": 1,
+    "stripped_text": "You cannot use this program to break subroutines on more than one ice per run. Interface -> 1 credit: Break up to 2 sentry subroutines. 2 credits: +2 strength.",
+    "stripped_title": "Mongoose",
+    "subtypes": [
+        "icebreaker",
+        "killer"
+    ],
+    "text": "You cannot use this program to break subroutines on more than one ice per run.\nInterface → <strong>1[credit]:</strong> Break up to 2 <strong>sentry</strong> subroutines.\n<strong>2[credit]:</strong> +2 strength.",
+    "title": "Mongoose"
+}

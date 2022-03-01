@@ -1,0 +1,17 @@
+{
+    "card_type_id": "event",
+    "cost": 2,
+    "deck_limit": 3,
+    "faction_id": "anarch",
+    "id": "scrubbed",
+    "influence_cost": 2,
+    "is_unique": false,
+    "side_id": "runner",
+    "stripped_text": "This card is not trashed until another current is played or an agenda is scored. The first piece of ice encountered each turn has -2 strength for the remainder of the run.",
+    "stripped_title": "Scrubbed",
+    "subtypes": [
+        "current"
+    ],
+    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe first piece of ice encountered each turn has -2 strength for the remainder of the run.",
+    "title": "Scrubbed"
+}

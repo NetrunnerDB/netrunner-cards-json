@@ -1,0 +1,17 @@
+{
+    "advancement_requirement": 5,
+    "agenda_points": 3,
+    "card_type_id": "agenda",
+    "deck_limit": 3,
+    "faction_id": "haas-bioroid",
+    "id": "voting_machine_initiative",
+    "is_unique": false,
+    "side_id": "corp",
+    "stripped_text": "Place 3 agenda counters on Voting Machine Initiative when you score it. When the Runner's turn begins, you may spend 1 hosted agenda counter. If you do, the Runner loses click, if able.",
+    "stripped_title": "Voting Machine Initiative",
+    "subtypes": [
+        "initiative"
+    ],
+    "text": "Place 3 agenda counters on Voting Machine Initiative when you score it.\nWhen the Runner's turn begins, you may spend 1 hosted agenda counter. If you do, the Runner loses [click], if able.",
+    "title": "Voting Machine Initiative"
+}

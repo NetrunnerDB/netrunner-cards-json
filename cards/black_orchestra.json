@@ -1,0 +1,20 @@
+{
+    "card_type_id": "program",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "anarch",
+    "id": "black_orchestra",
+    "influence_cost": 2,
+    "is_unique": false,
+    "memory_cost": 1,
+    "side_id": "runner",
+    "strength": 2,
+    "stripped_text": "Whenever you encounter a code gate, you may install this program from your heap. 3 credits: +2 strength. Then, if this program can interface with the code gate you are encountering, break up to 2 subroutines.",
+    "stripped_title": "Black Orchestra",
+    "subtypes": [
+        "icebreaker",
+        "decoder"
+    ],
+    "text": "Whenever you encounter a <strong>code gate</strong>, you may install this program from your heap.\n<strong>3[credit]:</strong> +2 strength. Then, if this program can interface with the <strong>code gate</strong> you are encountering, break up to 2 subroutines.",
+    "title": "Black Orchestra"
+}

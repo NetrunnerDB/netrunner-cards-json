@@ -1,0 +1,18 @@
+{
+    "card_type_id": "asset",
+    "cost": 2,
+    "deck_limit": 3,
+    "faction_id": "nbn",
+    "id": "broadcast_square",
+    "influence_cost": 3,
+    "is_unique": true,
+    "side_id": "corp",
+    "stripped_text": "Whenever you are about to take at least 1 bad publicity, trace 3 if successful, avoid taking the bad publicity.",
+    "stripped_title": "Broadcast Square",
+    "subtypes": [
+        "facility"
+    ],
+    "text": "Whenever you are about to take at least 1 bad publicity, <trace>trace 3</trace> if successful, avoid taking the bad publicity.",
+    "title": "Broadcast Square",
+    "trash_cost": 5
+}

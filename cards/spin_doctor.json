@@ -1,0 +1,18 @@
+{
+    "card_type_id": "asset",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "nbn",
+    "id": "spin_doctor",
+    "influence_cost": 1,
+    "is_unique": true,
+    "side_id": "corp",
+    "stripped_text": "When you rez this asset, draw 2 cards. Remove this asset from the game: Shuffle up to 2 cards from Archives into R&D.",
+    "stripped_title": "Spin Doctor",
+    "subtypes": [
+        "character"
+    ],
+    "text": "When you rez this asset, draw 2 cards.\n<strong>Remove this asset from the game:</strong> Shuffle up to 2 cards from Archives into R&D.",
+    "title": "Spin Doctor",
+    "trash_cost": 2
+}
