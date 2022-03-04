@@ -1,0 +1,18 @@
+{
+    "card_type_id": "event",
+    "cost": 2,
+    "deck_limit": 3,
+    "faction_id": "anarch",
+    "id": "spooned",
+    "influence_cost": 3,
+    "is_unique": false,
+    "side_id": "runner",
+    "stripped_text": "Run any server. The first time you fully break a code gate during that run, trash that code gate.",
+    "stripped_title": "Spooned",
+    "subtypes": [
+        "run",
+        "sabotage"
+    ],
+    "text": "Run any server. The first time you fully break a <strong>code gate</strong> during that run, trash that <strong>code gate</strong>.",
+    "title": "Spooned"
+}

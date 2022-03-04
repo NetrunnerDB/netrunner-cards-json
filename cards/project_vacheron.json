@@ -1,0 +1,17 @@
+{
+    "advancement_requirement": 5,
+    "agenda_points": 3,
+    "card_type_id": "agenda",
+    "deck_limit": 3,
+    "faction_id": "haas-bioroid",
+    "id": "project_vacheron",
+    "is_unique": false,
+    "side_id": "corp",
+    "stripped_text": "Interrupt -> When this agenda would be added to the Runner's score area from anywhere except Archives, instead it is added to their score area with 4 hosted agenda counters. While this agenda is in the Runner's score area with 1 or more hosted agenda counters, it is worth 0 agenda points and gains \"When the Runner's turn begins, remove 1 hosted agenda counter.\"",
+    "stripped_title": "Project Vacheron",
+    "subtypes": [
+        "research"
+    ],
+    "text": "[interrupt] → When this agenda would be added to the Runner's score area from anywhere except Archives, instead it is added to their score area with 4 hosted agenda counters.\nWhile this agenda is in the Runner's score area with 1 or more hosted agenda counters, it is worth 0 agenda points and gains \"When the Runner's turn begins, remove 1 hosted agenda counter.\"",
+    "title": "Project Vacheron"
+}

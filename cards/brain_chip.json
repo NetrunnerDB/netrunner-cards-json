@@ -1,0 +1,17 @@
+{
+    "card_type_id": "hardware",
+    "cost": 2,
+    "deck_limit": 3,
+    "faction_id": "adam",
+    "id": "brain_chip",
+    "influence_cost": 3,
+    "is_unique": true,
+    "side_id": "runner",
+    "stripped_text": "+X mu Your maximum hand size is increased by X. X is equal to the number of agenda points you have. Limit 1 console per player.",
+    "stripped_title": "Brain Chip",
+    "subtypes": [
+        "console"
+    ],
+    "text": "+X[mu]\nYour maximum hand size is increased by X.\nX is equal to the number of agenda points you have.\nLimit 1 <strong>console</strong> per player.",
+    "title": "Brain Chip"
+}

@@ -1,0 +1,17 @@
+{
+    "advancement_requirement": 3,
+    "agenda_points": 1,
+    "card_type_id": "agenda",
+    "deck_limit": 3,
+    "faction_id": "jinteki",
+    "id": "water_monopoly",
+    "is_unique": false,
+    "side_id": "corp",
+    "stripped_text": "The install cost of each non-virtual resource is increased by 1.",
+    "stripped_title": "Water Monopoly",
+    "subtypes": [
+        "initiative"
+    ],
+    "text": "The install cost of each non-<strong>virtual</strong> resource is increased by 1.",
+    "title": "Water Monopoly"
+}

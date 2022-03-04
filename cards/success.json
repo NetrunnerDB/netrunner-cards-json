@@ -1,0 +1,17 @@
+{
+    "card_type_id": "operation",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "weyland-consortium",
+    "id": "success",
+    "influence_cost": 2,
+    "is_unique": false,
+    "side_id": "corp",
+    "stripped_text": "As an additional cost to play this operation, forfeit an agenda and spend click click. Advance a card X times. X equals the advancement requirement of the agenda just forfeited.",
+    "stripped_title": "Success",
+    "subtypes": [
+        "triple"
+    ],
+    "text": "As an additional cost to play this operation, forfeit an agenda and spend [click][click].\nAdvance a card X times. X equals the advancement requirement of the agenda just forfeited.",
+    "title": "Success"
+}

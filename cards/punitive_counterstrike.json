@@ -1,0 +1,17 @@
+{
+    "card_type_id": "operation",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "weyland-consortium",
+    "id": "punitive_counterstrike",
+    "influence_cost": 2,
+    "is_unique": false,
+    "side_id": "corp",
+    "stripped_text": "Trace 5. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn.",
+    "stripped_title": "Punitive Counterstrike",
+    "subtypes": [
+        "black_ops"
+    ],
+    "text": "<trace>Trace 5</trace>. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn.",
+    "title": "Punitive Counterstrike"
+}

@@ -1,0 +1,18 @@
+{
+    "card_type_id": "event",
+    "cost": 3,
+    "deck_limit": 3,
+    "faction_id": "criminal",
+    "id": "cbi_raid",
+    "influence_cost": 2,
+    "is_unique": false,
+    "side_id": "runner",
+    "stripped_text": "Run HQ. If successful, instead of breaching HQ, the Corp adds all cards in HQ to the top of R&D in the order of their choice.",
+    "stripped_title": "CBI Raid",
+    "subtypes": [
+        "run",
+        "sabotage"
+    ],
+    "text": "Run HQ. If successful, instead of breaching HQ, the Corp adds all cards in HQ to the top of R&D in the order of their choice.",
+    "title": "CBI Raid"
+}

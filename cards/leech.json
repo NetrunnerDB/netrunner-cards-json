@@ -1,0 +1,18 @@
+{
+    "card_type_id": "program",
+    "cost": 1,
+    "deck_limit": 3,
+    "faction_id": "anarch",
+    "id": "leech",
+    "influence_cost": 1,
+    "is_unique": false,
+    "memory_cost": 1,
+    "side_id": "runner",
+    "stripped_text": "Whenever you make a successful run on a central server, place 1 virus counter on this program. Hosted virus counter: The ice you are encountering gets -1 strength for the remainder of this encounter.",
+    "stripped_title": "Leech",
+    "subtypes": [
+        "virus"
+    ],
+    "text": "Whenever you make a successful run on a central server, place 1 virus counter on this program.\n<strong>Hosted virus counter:</strong> The ice you are encountering gets -1 strength for the remainder of this encounter.",
+    "title": "Leech"
+}

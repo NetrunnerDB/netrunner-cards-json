@@ -1,0 +1,18 @@
+{
+    "card_type_id": "asset",
+    "cost": 2,
+    "deck_limit": 3,
+    "faction_id": "jinteki",
+    "id": "chairman_hiro",
+    "influence_cost": 5,
+    "is_unique": true,
+    "side_id": "corp",
+    "stripped_text": "The Runner's maximum hand size is reduced by 2. If Chairman Hiro is trashed while being accessed, add him to the Runner's score area as an agenda worth 2 agenda points.",
+    "stripped_title": "Chairman Hiro",
+    "subtypes": [
+        "executive"
+    ],
+    "text": "The Runner's maximum hand size is reduced by 2.\nIf Chairman Hiro is trashed while being accessed, add him to the Runner's score area as an agenda worth 2 agenda points.",
+    "title": "Chairman Hiro",
+    "trash_cost": 6
+}

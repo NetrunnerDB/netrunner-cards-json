@@ -1,0 +1,21 @@
+{
+    "card_type_id": "program",
+    "cost": 5,
+    "deck_limit": 3,
+    "faction_id": "neutral-runner",
+    "id": "crypsis",
+    "influence_cost": 0,
+    "is_unique": false,
+    "memory_cost": 1,
+    "side_id": "runner",
+    "strength": 0,
+    "stripped_text": "Interface -> 1 credit: Break 1 subroutine. 1 credit: +1 strength. click: Place 1 virus counter on this program. Whenever an encounter ends, if you used this program to break a subroutine during that encounter, remove 1 hosted virus counter or trash this program.",
+    "stripped_title": "Crypsis",
+    "subtypes": [
+        "icebreaker",
+        "ai",
+        "virus"
+    ],
+    "text": "Interface → <strong>1[credit]:</strong> Break 1 subroutine.\n<strong>1[credit]:</strong> +1 strength.\n<strong>[click]:</strong> Place 1 virus counter on this program.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, remove 1 hosted virus counter or trash this program.",
+    "title": "Crypsis"
+}

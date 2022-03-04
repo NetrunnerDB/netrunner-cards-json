@@ -1,0 +1,20 @@
+{
+    "card_type_id": "ice",
+    "cost": 5,
+    "deck_limit": 3,
+    "faction_id": "nbn",
+    "id": "muckraker",
+    "influence_cost": 3,
+    "is_unique": false,
+    "side_id": "corp",
+    "strength": 3,
+    "stripped_text": "When you rez Muckraker, take 1 bad publicity. Subroutine Trace 1 If successful, give the Runner 1 tag. Subroutine Trace 2 If successful, give the Runner 1 tag. Subroutine Trace 3 If successful, give the Runner 1 tag. Subroutine End the run if the Runner is tagged.",
+    "stripped_title": "Muckraker",
+    "subtypes": [
+        "sentry",
+        "tracer",
+        "illicit"
+    ],
+    "text": "When you rez Muckraker, take 1 bad publicity.\n[subroutine] <trace>Trace 1</trace> If successful, give the Runner 1 tag.\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
+    "title": "Muckraker"
+}

@@ -1,0 +1,18 @@
+{
+    "card_type_id": "upgrade",
+    "cost": 0,
+    "deck_limit": 3,
+    "faction_id": "haas-bioroid",
+    "id": "cold_site_server",
+    "influence_cost": 3,
+    "is_unique": false,
+    "side_id": "corp",
+    "stripped_text": "click: Place 1 power counter on this upgrade. As an additional cost to run this server, the Runner must spend 1click and 1 credit for each hosted power counter. When your turn begins, remove all hosted power counters.",
+    "stripped_title": "Cold Site Server",
+    "subtypes": [
+        "facility"
+    ],
+    "text": "[click]: Place 1 power counter on this upgrade.\nAs an additional cost to run this server, the Runner must spend 1[click] and 1[credit] for each hosted power counter.\nWhen your turn begins, remove all hosted power counters.",
+    "title": "Cold Site Server",
+    "trash_cost": 3
+}

@@ -1,0 +1,21 @@
+{
+    "card_type_id": "ice",
+    "cost": 5,
+    "deck_limit": 3,
+    "faction_id": "haas-bioroid",
+    "id": "ichi_1_0",
+    "influence_cost": 2,
+    "is_unique": false,
+    "side_id": "corp",
+    "strength": 4,
+    "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace[1]. If successful, give the Runner 1 tag and do 1 brain damage.",
+    "stripped_title": "Ichi 1.0",
+    "subtypes": [
+        "sentry",
+        "bioroid",
+        "tracer",
+        "destroyer"
+    ],
+    "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] Trace[1]. If successful, give the Runner 1 tag and do 1 brain damage.",
+    "title": "Ichi 1.0"
+}
