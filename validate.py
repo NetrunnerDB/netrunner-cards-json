@@ -597,11 +597,12 @@ def main():
 
     check_mwl(args)
 
-    sys.stdout.write("Found %s formatting and %s validation errors\n" % (formatting_errors, validation_errors))
+    sys.stdout.write(f"Found {formatting_errors} formatting and {validation_errors} validation errors\n")
     if formatting_errors == 0 and validation_errors == 0:
         sys.exit(0)
     else:
         sys.exit(1)
+
 
 if __name__ == "__main__":
     main()

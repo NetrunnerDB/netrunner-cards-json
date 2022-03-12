@@ -7,6 +7,7 @@ import {
 	getRotationsJson,
 	getCardsJson,
 } from "../../src/index";
+import "mocha";
 import { expect } from "chai";
 
 describe("example test", function() {

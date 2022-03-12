@@ -6,7 +6,7 @@ function makeReader(filename: string) {
 
 	return function(): Record<string, any>[] {
 		if (json.length === 0) {
-			let path = resolve(__dirname, '..', filename + '.json');
+			const path = resolve(__dirname, '..', filename + '.json');
 			json = JSON.parse(fs.readFileSync(path, 'utf-8'));
 		}
 		return json;
