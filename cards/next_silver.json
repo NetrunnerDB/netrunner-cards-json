@@ -1,19 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "haas-bioroid",
-    "id": "next_silver",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 1,
-    "stripped_text": "NEXT Silver gains \"Subroutine End the run.\" for each rezzed piece of NEXT ice.",
-    "stripped_title": "NEXT Silver",
-    "subtypes": [
-        "barrier",
-        "next"
-    ],
-    "text": "NEXT Silver gains \"[subroutine] End the run.\" for each rezzed piece of <strong>NEXT</strong> ice.",
-    "title": "NEXT Silver"
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "next_silver",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 1,
+  "stripped_text": "NEXT Silver gains \"Subroutine End the run.\" for each rezzed piece of NEXT ice.",
+  "stripped_title": "NEXT Silver",
+  "subtypes": ["barrier", "next"],
+  "text": "NEXT Silver gains \"[subroutine] End the run.\" for each rezzed piece of <strong>NEXT</strong> ice.",
+  "title": "NEXT Silver"
 }

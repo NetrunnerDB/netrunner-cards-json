@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 3,
-    "agenda_points": 2,
-    "card_type_id": "agenda",
-    "deck_limit": 1,
-    "faction_id": "haas-bioroid",
-    "id": "luminal_transubstantiation",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When you score this agenda, gain click click click. You cannot score agendas for the remainder of the turn. Limit 1 per deck.",
-    "stripped_title": "Luminal Transubstantiation",
-    "subtypes": [
-        "research"
-    ],
-    "text": "When you score this agenda, gain [click][click][click]. You cannot score agendas for the remainder of the turn.\nLimit 1 per deck.",
-    "title": "Luminal Transubstantiation"
+  "advancement_requirement": 3,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 1,
+  "faction_id": "haas-bioroid",
+  "id": "luminal_transubstantiation",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you score this agenda, gain click click click. You cannot score agendas for the remainder of the turn. Limit 1 per deck.",
+  "stripped_title": "Luminal Transubstantiation",
+  "subtypes": ["research"],
+  "text": "When you score this agenda, gain [click][click][click]. You cannot score agendas for the remainder of the turn.\nLimit 1 per deck.",
+  "title": "Luminal Transubstantiation"
 }

@@ -1,18 +1,16 @@
 {
-    "card_type_id": "asset",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "clyde_van_rite",
-    "influence_cost": 2,
-    "is_unique": true,
-    "side_id": "corp",
-    "stripped_text": "When your turn begins, the Runner must pay 1 credit or trash the top card of the stack.",
-    "stripped_title": "Clyde Van Rite",
-    "subtypes": [
-        "executive"
-    ],
-    "text": "When your turn begins, the Runner must pay 1[credit] or trash the top card of the stack.",
-    "title": "Clyde Van Rite",
-    "trash_cost": 3
+  "card_type_id": "asset",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "clyde_van_rite",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "When your turn begins, the Runner must pay 1 credit or trash the top card of the stack.",
+  "stripped_title": "Clyde Van Rite",
+  "subtypes": ["executive"],
+  "text": "When your turn begins, the Runner must pay 1[credit] or trash the top card of the stack.",
+  "title": "Clyde Van Rite",
+  "trash_cost": 3
 }

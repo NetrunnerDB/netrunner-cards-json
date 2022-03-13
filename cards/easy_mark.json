@@ -1,17 +1,15 @@
 {
-    "card_type_id": "event",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "criminal",
-    "id": "easy_mark",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "Gain 3 credits.",
-    "stripped_title": "Easy Mark",
-    "subtypes": [
-        "job"
-    ],
-    "text": "Gain 3[credit].",
-    "title": "Easy Mark"
+  "card_type_id": "event",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "easy_mark",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Gain 3 credits.",
+  "stripped_title": "Easy Mark",
+  "subtypes": ["job"],
+  "text": "Gain 3[credit].",
+  "title": "Easy Mark"
 }

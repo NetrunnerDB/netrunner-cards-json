@@ -1,18 +1,16 @@
 {
-    "card_type_id": "asset",
-    "cost": 6,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "the_root",
-    "influence_cost": 3,
-    "is_unique": true,
-    "side_id": "corp",
-    "stripped_text": "3 recurring credits Use these credits to advance, install, and rez cards.",
-    "stripped_title": "The Root",
-    "subtypes": [
-        "beanstalk"
-    ],
-    "text": "3[recurring-credit]\nUse these credits to advance, install, and rez cards.",
-    "title": "The Root",
-    "trash_cost": 4
+  "card_type_id": "asset",
+  "cost": 6,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "the_root",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "3 recurring credits Use these credits to advance, install, and rez cards.",
+  "stripped_title": "The Root",
+  "subtypes": ["beanstalk"],
+  "text": "3[recurring-credit]\nUse these credits to advance, install, and rez cards.",
+  "title": "The Root",
+  "trash_cost": 4
 }

@@ -1,126 +1,126 @@
 [
-    {
-        "code": "10058",
-        "flavor": "Manchmal erkennst du in nur einem Augenblick, wer deine Freunde wirklich sind.",
-        "keywords": "Priorität",
-        "text": "Kann nur als erster [click] gespielt werden.\nSieh dir die obersten 6 Karten deines Stapels an. Du kannst nach Belieben Karten davon zerstören und den Rest in beliebiger Reihenfolge zurücklegen.",
-        "title": "Seinen Auftritt haben"
-    },
-    {
-        "code": "10059",
-        "flavor": "\"Unterschätze diese Leute nur auf eigene Gefahr.\" -Akshare Sareen",
-        "keywords": "Ort - Zwielicht",
-        "text": "Einmal pro Zug, wenn du die Zerstörungskosten der Karte zahlst, auf die du zugreifst, entferne die betreffende Karte aus dem Spiel.",
-        "title": "Slums von Salsette"
-    },
-    {
-        "code": "10060",
-        "flavor": "Je mehr Partys sie besuchte, desto mehr vertrauten sie ihr. Je mehr sie ihr vertrauten, desto unterhaltsamer wurden ihre Betrügereien.",
-        "text": "Ziehe 1 Karte. Du erhältst 1[credit] für jede Kopie von Exklusive Partys in deiner Ablage.\nMaximal 6 pro Deck.",
-        "title": "Exklusive Partys"
-    },
-    {
-        "code": "10061",
-        "flavor": "Der Erhalter.",
-        "keywords": "Ice-Brecher - KI - Deva",
-        "text": "1[credit]: Schalte eine Subroutine auf einem Ice mit genau 1 Subroutine aus.\n1[credit]: +1 Stärke.\n2[credit]: Tausche Vamadeva gegen ein <strong>Deva</strong>-Programm aus deinem Griff aus.",
-        "title": "Vamadeva"
-    },
-    {
-        "code": "10062",
-        "keywords": "Ice-Brecher - KI",
-        "text": "1[credit]: Schalte bis zu 2 Subroutinen eines Ice aus.\n2[credit]: +1 Stärke.\nSobald eine Begegnung mit einem Ice endet, in der du Brahman verwendet hast, um eine Subroutine auszuschalten, lege 1 installiertes Programm, das kein <strong>Virus</strong> ist, oben auf deinen Stapel.",
-        "title": "Brahman"
-    },
-    {
-        "code": "10063",
-        "flavor": "\"Wer sich Zwergelefanten leisten kann, kann sich auch leisten, mein Freund zu sein.\" -Fake-ir",
-        "keywords": "Kontakt",
-        "text": "Wenn dein Zug beginnt, kannst du ein System auswählen.\nWenn du zum ersten Mal in diesem Zug einen erfolgreichen Run auf dieses System durchführst, ziehe 2 Karten, statt auf Karten zuzugreifen.",
-        "title": "Mäzen"
-    },
-    {
-        "code": "10064",
-        "flavor": "\"Versuch doch mal meinen neuen Schlitten.\" -2xTiger",
-        "keywords": "Fahrzeug",
-        "text": "+1[link]\n[trash]: Ziehe 3 Karten.",
-        "title": "Sport-Hopper"
-    },
-    {
-        "code": "10065",
-        "flavor": "In der heutigen Zeit des digitalen Vollsim-Browsing und weithin verfügbarer Nanofertigung benötigt man schon eine besonders verdrehte Person, um so richtig körperlich einkaufen zu gehen. Es gibt Millionen davon.",
-        "keywords": "Ort - Protzig",
-        "text": "Immer wenn du eine Hardware aus deinem Griff installierst, kannst du eine weitere Kopie dieser Hardware aus deinem Griff installieren (zahle alle Kosten).",
-        "title": "Basar"
-    },
-    {
-        "code": "10066",
-        "keywords": "Sicherheit",
-        "text": "Immer wenn der Runner seinen Stapel durchsucht oder eine Karte aus seiner Ablage installiert, muss er eine zufällige Karte aus seinem Griff zerstören.",
-        "title": "Persönlichkeitsprofile"
-    },
-    {
-        "code": "10067",
-        "flavor": "\"Sehr wohl, Sir.\"",
-        "keywords": "Bündnis",
-        "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [haas-bioroid]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\nImmer wenn du zum ersten Mal in einem Zug 3[click] für dieselbe Aktion ausgibst, erhältst du 1[click].",
-        "title": "Bioroiden-Modell Jeeves"
-    },
-    {
-        "code": "10068",
-        "keywords": "Bündnis - Führungskraft",
-        "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [jinteki]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\nEinmal pro Zug kannst du [click] verlieren, wenn du eine Karte ziehst. Falls du dies tust, decke diese Karte und eine Karte derselben Art im Archiv auf und tausche diese Karten aus.",
-        "title": "Raman Rai"
-    },
-    {
-        "code": "10069",
-        "flavor": "\"Verbinde zwei Wahrheiten. Verbinde zwei Programme. Alles ist eins.\"",
-        "keywords": "Code-Zugang - Psi",
-        "text": "[subroutine] Du und der Runner zahlen verborgen 0[credit], 1[credit], oder 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheidet, verliert der Runner 2[credit].\n[subroutine] Führe eine Subroutine auf einem geladenen <strong>Psi</strong>-Ice aus.",
-        "title": "Upayoga"
-    },
-    {
-        "code": "10070",
-        "flavor": "\"Wenn die Welt immer kleiner wird, wird Kommunikation zur wichtigsten Technologie.\" - Ramesh Gupta, Ökonomie der Einen Welt",
-        "keywords": "Protzig",
-        "text": "Bei jedem erfolgreichen Aufspüren erhältst du 1[credit] und der Runner verliert 1[credit].",
-        "title": "Aryabhata Tech"
-    },
-    {
-        "code": "10071",
-        "keywords": "Bündnis - Graue Ops",
-        "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [nbn]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\nBenenne eine Karte. Der Runner deckt seinen Griff auf und zerstört alle Kopien der genannten Karte in seinem Griff.",
-        "title": "Salems Gastfreundschaft"
-    },
-    {
-        "code": "10072",
-        "keywords": "Bündnis - Protzig",
-        "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [weyland-consortium]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\n[click]: Durchsuche F&E nach einer <strong>Führungskraft</strong>, einem <strong>Sysop</strong> oder einem <strong>Charakter</strong>, decke sie auf und füge sie dem HQ hinzu. Mische F&E.",
-        "title": "Vermittlung für Führungskräfte"
-    },
-    {
-        "code": "10073",
-        "flavor": "\"Weise investierter Reichtum ist verdienter Reichtum.\" -Das Neue Evangelium des Wohlstands",
-        "text": "Immer wenn du eine Karte lädst oder spielst, die nicht zu deiner Fraktion gehört (einschließlich Börse der Indischen Union), erhältst du 1[credit].",
-        "title": "Börse der Indischen Union"
-    },
-    {
-        "code": "10074",
-        "flavor": "Naja Naja ist der König aller Schlangen.",
-        "keywords": "Wächter - Zerstörer - AP",
-        "text": "[subroutine] Zerstöre 1 Programm.\n[subroutine] Verursache 2 Netz-Schaden.",
-        "title": "Kobra"
-    },
-    {
-        "code": "10075",
-        "flavor": "Es ist genau derselbe Kaffee, aber der Preis ist definitiv ein anderer.",
-        "text": "Durchsuche F&E nach einer beliebigen Anzahl Kopien einer Karte, decke sie auf und füge sie dem HQ hinzu. Mische F&E.",
-        "title": "Lokale Produktlinie"
-    },
-    {
-        "code": "10076",
-        "keywords": "Bündnis",
-        "text": "Diese Karte kostet 0 Einfluss, falls du 7 oder mehr Aktivposten in deinem Deck hast.\nFalls der Runner auf Virtuelle Mumbad-Tour zugreift, wenn es installiert ist, muss er dieses Upgrade zerstören, falls möglich.",
-        "title": "Virtuelle Mumbad-Tour"
-    }
+  {
+    "code": "10058",
+    "flavor": "Manchmal erkennst du in nur einem Augenblick, wer deine Freunde wirklich sind.",
+    "keywords": "Priorität",
+    "text": "Kann nur als erster [click] gespielt werden.\nSieh dir die obersten 6 Karten deines Stapels an. Du kannst nach Belieben Karten davon zerstören und den Rest in beliebiger Reihenfolge zurücklegen.",
+    "title": "Seinen Auftritt haben"
+  },
+  {
+    "code": "10059",
+    "flavor": "\"Unterschätze diese Leute nur auf eigene Gefahr.\" -Akshare Sareen",
+    "keywords": "Ort - Zwielicht",
+    "text": "Einmal pro Zug, wenn du die Zerstörungskosten der Karte zahlst, auf die du zugreifst, entferne die betreffende Karte aus dem Spiel.",
+    "title": "Slums von Salsette"
+  },
+  {
+    "code": "10060",
+    "flavor": "Je mehr Partys sie besuchte, desto mehr vertrauten sie ihr. Je mehr sie ihr vertrauten, desto unterhaltsamer wurden ihre Betrügereien.",
+    "text": "Ziehe 1 Karte. Du erhältst 1[credit] für jede Kopie von Exklusive Partys in deiner Ablage.\nMaximal 6 pro Deck.",
+    "title": "Exklusive Partys"
+  },
+  {
+    "code": "10061",
+    "flavor": "Der Erhalter.",
+    "keywords": "Ice-Brecher - KI - Deva",
+    "text": "1[credit]: Schalte eine Subroutine auf einem Ice mit genau 1 Subroutine aus.\n1[credit]: +1 Stärke.\n2[credit]: Tausche Vamadeva gegen ein <strong>Deva</strong>-Programm aus deinem Griff aus.",
+    "title": "Vamadeva"
+  },
+  {
+    "code": "10062",
+    "keywords": "Ice-Brecher - KI",
+    "text": "1[credit]: Schalte bis zu 2 Subroutinen eines Ice aus.\n2[credit]: +1 Stärke.\nSobald eine Begegnung mit einem Ice endet, in der du Brahman verwendet hast, um eine Subroutine auszuschalten, lege 1 installiertes Programm, das kein <strong>Virus</strong> ist, oben auf deinen Stapel.",
+    "title": "Brahman"
+  },
+  {
+    "code": "10063",
+    "flavor": "\"Wer sich Zwergelefanten leisten kann, kann sich auch leisten, mein Freund zu sein.\" -Fake-ir",
+    "keywords": "Kontakt",
+    "text": "Wenn dein Zug beginnt, kannst du ein System auswählen.\nWenn du zum ersten Mal in diesem Zug einen erfolgreichen Run auf dieses System durchführst, ziehe 2 Karten, statt auf Karten zuzugreifen.",
+    "title": "Mäzen"
+  },
+  {
+    "code": "10064",
+    "flavor": "\"Versuch doch mal meinen neuen Schlitten.\" -2xTiger",
+    "keywords": "Fahrzeug",
+    "text": "+1[link]\n[trash]: Ziehe 3 Karten.",
+    "title": "Sport-Hopper"
+  },
+  {
+    "code": "10065",
+    "flavor": "In der heutigen Zeit des digitalen Vollsim-Browsing und weithin verfügbarer Nanofertigung benötigt man schon eine besonders verdrehte Person, um so richtig körperlich einkaufen zu gehen. Es gibt Millionen davon.",
+    "keywords": "Ort - Protzig",
+    "text": "Immer wenn du eine Hardware aus deinem Griff installierst, kannst du eine weitere Kopie dieser Hardware aus deinem Griff installieren (zahle alle Kosten).",
+    "title": "Basar"
+  },
+  {
+    "code": "10066",
+    "keywords": "Sicherheit",
+    "text": "Immer wenn der Runner seinen Stapel durchsucht oder eine Karte aus seiner Ablage installiert, muss er eine zufällige Karte aus seinem Griff zerstören.",
+    "title": "Persönlichkeitsprofile"
+  },
+  {
+    "code": "10067",
+    "flavor": "\"Sehr wohl, Sir.\"",
+    "keywords": "Bündnis",
+    "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [haas-bioroid]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\nImmer wenn du zum ersten Mal in einem Zug 3[click] für dieselbe Aktion ausgibst, erhältst du 1[click].",
+    "title": "Bioroiden-Modell Jeeves"
+  },
+  {
+    "code": "10068",
+    "keywords": "Bündnis - Führungskraft",
+    "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [jinteki]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\nEinmal pro Zug kannst du [click] verlieren, wenn du eine Karte ziehst. Falls du dies tust, decke diese Karte und eine Karte derselben Art im Archiv auf und tausche diese Karten aus.",
+    "title": "Raman Rai"
+  },
+  {
+    "code": "10069",
+    "flavor": "\"Verbinde zwei Wahrheiten. Verbinde zwei Programme. Alles ist eins.\"",
+    "keywords": "Code-Zugang - Psi",
+    "text": "[subroutine] Du und der Runner zahlen verborgen 0[credit], 1[credit], oder 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheidet, verliert der Runner 2[credit].\n[subroutine] Führe eine Subroutine auf einem geladenen <strong>Psi</strong>-Ice aus.",
+    "title": "Upayoga"
+  },
+  {
+    "code": "10070",
+    "flavor": "\"Wenn die Welt immer kleiner wird, wird Kommunikation zur wichtigsten Technologie.\" - Ramesh Gupta, Ökonomie der Einen Welt",
+    "keywords": "Protzig",
+    "text": "Bei jedem erfolgreichen Aufspüren erhältst du 1[credit] und der Runner verliert 1[credit].",
+    "title": "Aryabhata Tech"
+  },
+  {
+    "code": "10071",
+    "keywords": "Bündnis - Graue Ops",
+    "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [nbn]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\nBenenne eine Karte. Der Runner deckt seinen Griff auf und zerstört alle Kopien der genannten Karte in seinem Griff.",
+    "title": "Salems Gastfreundschaft"
+  },
+  {
+    "code": "10072",
+    "keywords": "Bündnis - Protzig",
+    "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [weyland-consortium]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\n[click]: Durchsuche F&E nach einer <strong>Führungskraft</strong>, einem <strong>Sysop</strong> oder einem <strong>Charakter</strong>, decke sie auf und füge sie dem HQ hinzu. Mische F&E.",
+    "title": "Vermittlung für Führungskräfte"
+  },
+  {
+    "code": "10073",
+    "flavor": "\"Weise investierter Reichtum ist verdienter Reichtum.\" -Das Neue Evangelium des Wohlstands",
+    "text": "Immer wenn du eine Karte lädst oder spielst, die nicht zu deiner Fraktion gehört (einschließlich Börse der Indischen Union), erhältst du 1[credit].",
+    "title": "Börse der Indischen Union"
+  },
+  {
+    "code": "10074",
+    "flavor": "Naja Naja ist der König aller Schlangen.",
+    "keywords": "Wächter - Zerstörer - AP",
+    "text": "[subroutine] Zerstöre 1 Programm.\n[subroutine] Verursache 2 Netz-Schaden.",
+    "title": "Kobra"
+  },
+  {
+    "code": "10075",
+    "flavor": "Es ist genau derselbe Kaffee, aber der Preis ist definitiv ein anderer.",
+    "text": "Durchsuche F&E nach einer beliebigen Anzahl Kopien einer Karte, decke sie auf und füge sie dem HQ hinzu. Mische F&E.",
+    "title": "Lokale Produktlinie"
+  },
+  {
+    "code": "10076",
+    "keywords": "Bündnis",
+    "text": "Diese Karte kostet 0 Einfluss, falls du 7 oder mehr Aktivposten in deinem Deck hast.\nFalls der Runner auf Virtuelle Mumbad-Tour zugreift, wenn es installiert ist, muss er dieses Upgrade zerstören, falls möglich.",
+    "title": "Virtuelle Mumbad-Tour"
+  }
 ]

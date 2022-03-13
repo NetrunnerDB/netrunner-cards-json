@@ -1,17 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "neutral-runner",
-    "id": "the_source",
-    "influence_cost": 2,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "The advancement requirement of all agendas is increased by 1. As an additional cost to steal an agenda, you must pay 3 credits. Trash The Source when an agenda is scored or stolen.",
-    "stripped_title": "The Source",
-    "subtypes": [
-        "connection"
-    ],
-    "text": "The advancement requirement of all agendas is increased by 1.\nAs an additional cost to steal an agenda, you must pay 3[credit].\nTrash The Source when an agenda is scored or stolen.",
-    "title": "The Source"
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "neutral-runner",
+  "id": "the_source",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "The advancement requirement of all agendas is increased by 1. As an additional cost to steal an agenda, you must pay 3 credits. Trash The Source when an agenda is scored or stolen.",
+  "stripped_title": "The Source",
+  "subtypes": ["connection"],
+  "text": "The advancement requirement of all agendas is increased by 1.\nAs an additional cost to steal an agenda, you must pay 3[credit].\nTrash The Source when an agenda is scored or stolen.",
+  "title": "The Source"
 }

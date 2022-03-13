@@ -1,17 +1,15 @@
 {
-    "card_type_id": "operation",
-    "cost": 1,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "oversight_ai",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Rez a piece of ice, ignoring all costs, and install Oversight AI on that ice as a hosted condition counter with the text \"Trash host ice if all its subroutines are broken during a single encounter.\"",
-    "stripped_title": "Oversight AI",
-    "subtypes": [
-        "condition"
-    ],
-    "text": "Rez a piece of ice, ignoring all costs, and install Oversight AI on that ice as a hosted condition counter with the text \"Trash host ice if all its subroutines are broken during a single encounter.\"",
-    "title": "Oversight AI"
+  "card_type_id": "operation",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "oversight_ai",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Rez a piece of ice, ignoring all costs, and install Oversight AI on that ice as a hosted condition counter with the text \"Trash host ice if all its subroutines are broken during a single encounter.\"",
+  "stripped_title": "Oversight AI",
+  "subtypes": ["condition"],
+  "text": "Rez a piece of ice, ignoring all costs, and install Oversight AI on that ice as a hosted condition counter with the text \"Trash host ice if all its subroutines are broken during a single encounter.\"",
+  "title": "Oversight AI"
 }

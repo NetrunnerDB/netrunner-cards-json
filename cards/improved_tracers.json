@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 3,
-    "agenda_points": 1,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "improved_tracers",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "All tracer ice have +1 strength. The base trace strength of each subroutine is increased by 1.",
-    "stripped_title": "Improved Tracers",
-    "subtypes": [
-        "security"
-    ],
-    "text": "All <strong>tracer</strong> ice have +1 strength.\nThe base trace strength of each subroutine is increased by 1.",
-    "title": "Improved Tracers"
+  "advancement_requirement": 3,
+  "agenda_points": 1,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "improved_tracers",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "All tracer ice have +1 strength. The base trace strength of each subroutine is increased by 1.",
+  "stripped_title": "Improved Tracers",
+  "subtypes": ["security"],
+  "text": "All <strong>tracer</strong> ice have +1 strength.\nThe base trace strength of each subroutine is increased by 1.",
+  "title": "Improved Tracers"
 }

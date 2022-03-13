@@ -1,19 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "bloodletter",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 4,
-    "stripped_text": "Subroutine The Runner must either trash 1 program or trash the top 2 cards from his or her stack.",
-    "stripped_title": "Bloodletter",
-    "subtypes": [
-        "sentry",
-        "destroyer"
-    ],
-    "text": "[subroutine] The Runner must either trash 1 program or trash the top 2 cards from his or her stack.",
-    "title": "Bloodletter"
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "bloodletter",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "Subroutine The Runner must either trash 1 program or trash the top 2 cards from his or her stack.",
+  "stripped_title": "Bloodletter",
+  "subtypes": ["sentry", "destroyer"],
+  "text": "[subroutine] The Runner must either trash 1 program or trash the top 2 cards from his or her stack.",
+  "title": "Bloodletter"
 }

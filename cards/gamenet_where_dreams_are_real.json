@@ -1,17 +1,15 @@
 {
-    "card_type_id": "identity",
-    "deck_limit": 1,
-    "faction_id": "nbn",
-    "id": "gamenet_where_dreams_are_real",
-    "influence_limit": 17,
-    "is_unique": false,
-    "minimum_deck_size": 45,
-    "side_id": "corp",
-    "stripped_text": "Whenever a Corp card ability causes the Runner to spend or lose at least 1 credit during a run, gain 1 credit.",
-    "stripped_title": "GameNET: Where Dreams are Real",
-    "subtypes": [
-        "division"
-    ],
-    "text": "Whenever a Corp card ability causes the Runner to spend or lose at least 1[credit] during a run, gain 1[credit].",
-    "title": "GameNET: Where Dreams are Real"
+  "card_type_id": "identity",
+  "deck_limit": 1,
+  "faction_id": "nbn",
+  "id": "gamenet_where_dreams_are_real",
+  "influence_limit": 17,
+  "is_unique": false,
+  "minimum_deck_size": 45,
+  "side_id": "corp",
+  "stripped_text": "Whenever a Corp card ability causes the Runner to spend or lose at least 1 credit during a run, gain 1 credit.",
+  "stripped_title": "GameNET: Where Dreams are Real",
+  "subtypes": ["division"],
+  "text": "Whenever a Corp card ability causes the Runner to spend or lose at least 1[credit] during a run, gain 1[credit].",
+  "title": "GameNET: Where Dreams are Real"
 }

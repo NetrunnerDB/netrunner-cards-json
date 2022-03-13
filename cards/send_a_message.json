@@ -1,18 +1,16 @@
 {
-    "advancement_requirement": 5,
-    "agenda_points": 3,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "neutral-corp",
-    "id": "send_a_message",
-    "influence_cost": 0,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When this agenda is scored or stolen, you may rez 1 installed piece of ice, ignoring all costs.",
-    "stripped_title": "Send a Message",
-    "subtypes": [
-        "security"
-    ],
-    "text": "When this agenda is scored or stolen, you may rez 1 installed piece of ice, ignoring all costs.",
-    "title": "Send a Message"
+  "advancement_requirement": 5,
+  "agenda_points": 3,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "send_a_message",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When this agenda is scored or stolen, you may rez 1 installed piece of ice, ignoring all costs.",
+  "stripped_title": "Send a Message",
+  "subtypes": ["security"],
+  "text": "When this agenda is scored or stolen, you may rez 1 installed piece of ice, ignoring all costs.",
+  "title": "Send a Message"
 }

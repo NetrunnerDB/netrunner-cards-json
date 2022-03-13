@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 7,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "pharos",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 5,
-    "stripped_text": "You can advance this ice. It gets +5 strength while there are 3 or more hosted advancement counters. Subroutine Give the Runner 1 tag. Subroutine End the run. Subroutine End the run.",
-    "stripped_title": "Pharos",
-    "subtypes": [
-        "barrier"
-    ],
-    "text": "You can advance this ice. It gets +5 strength while there are 3 or more hosted advancement counters.\n[subroutine] Give the Runner 1 tag.\n[subroutine] End the run.\n[subroutine] End the run.",
-    "title": "Pharos"
+  "card_type_id": "ice",
+  "cost": 7,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "pharos",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "You can advance this ice. It gets +5 strength while there are 3 or more hosted advancement counters. Subroutine Give the Runner 1 tag. Subroutine End the run. Subroutine End the run.",
+  "stripped_title": "Pharos",
+  "subtypes": ["barrier"],
+  "text": "You can advance this ice. It gets +5 strength while there are 3 or more hosted advancement counters.\n[subroutine] Give the Runner 1 tag.\n[subroutine] End the run.\n[subroutine] End the run.",
+  "title": "Pharos"
 }

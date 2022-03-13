@@ -1,20 +1,17 @@
 {
-    "card_type_id": "program",
-    "cost": 5,
-    "deck_limit": 3,
-    "faction_id": "shaper",
-    "id": "fawkes",
-    "influence_cost": 2,
-    "is_unique": false,
-    "memory_cost": 1,
-    "side_id": "runner",
-    "strength": 1,
-    "stripped_text": "Interface -> 1 credit: Break 1 sentry subroutine. X credits: +X strength for the remainder of this run. Use this ability only by spending at least 1 credit from a stealth card.",
-    "stripped_title": "Fawkes",
-    "subtypes": [
-        "icebreaker",
-        "killer"
-    ],
-    "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>X[credit]:</strong> +X strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card.",
-    "title": "Fawkes"
+  "card_type_id": "program",
+  "cost": 5,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "fawkes",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 1,
+  "stripped_text": "Interface -> 1 credit: Break 1 sentry subroutine. X credits: +X strength for the remainder of this run. Use this ability only by spending at least 1 credit from a stealth card.",
+  "stripped_title": "Fawkes",
+  "subtypes": ["icebreaker", "killer"],
+  "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>X[credit]:</strong> +X strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card.",
+  "title": "Fawkes"
 }

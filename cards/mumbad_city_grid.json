@@ -1,18 +1,16 @@
 {
-    "card_type_id": "upgrade",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "mumbad_city_grid",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Whenever the Runner passes a piece of ice protecting this server, you may swap that ice with another piece of ice protecting this server. Limit 1 region per server.",
-    "stripped_title": "Mumbad City Grid",
-    "subtypes": [
-        "region"
-    ],
-    "text": "Whenever the Runner passes a piece of ice protecting this server, you may swap that ice with another piece of ice protecting this server.\nLimit 1 <strong>region</strong> per server.",
-    "title": "Mumbad City Grid",
-    "trash_cost": 3
+  "card_type_id": "upgrade",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "mumbad_city_grid",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Whenever the Runner passes a piece of ice protecting this server, you may swap that ice with another piece of ice protecting this server. Limit 1 region per server.",
+  "stripped_title": "Mumbad City Grid",
+  "subtypes": ["region"],
+  "text": "Whenever the Runner passes a piece of ice protecting this server, you may swap that ice with another piece of ice protecting this server.\nLimit 1 <strong>region</strong> per server.",
+  "title": "Mumbad City Grid",
+  "trash_cost": 3
 }

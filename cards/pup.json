@@ -1,19 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 1,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "pup",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 0,
-    "stripped_text": "Subroutine Do 1 net damage unless the Runner pays 1 credit. Subroutine Do 1 net damage unless the Runner pays 1 credit.",
-    "stripped_title": "Pup",
-    "subtypes": [
-        "sentry",
-        "ap"
-    ],
-    "text": "[subroutine] Do 1 net damage unless the Runner pays 1[credit].\n[subroutine] Do 1 net damage unless the Runner pays 1[credit].",
-    "title": "Pup"
+  "card_type_id": "ice",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "pup",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 0,
+  "stripped_text": "Subroutine Do 1 net damage unless the Runner pays 1 credit. Subroutine Do 1 net damage unless the Runner pays 1 credit.",
+  "stripped_title": "Pup",
+  "subtypes": ["sentry", "ap"],
+  "text": "[subroutine] Do 1 net damage unless the Runner pays 1[credit].\n[subroutine] Do 1 net damage unless the Runner pays 1[credit].",
+  "title": "Pup"
 }

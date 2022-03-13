@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 8,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "tollbooth",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 5,
-    "stripped_text": "When the Runner encounters this ice, they must pay 3 credits, if able. If they do not, end the run. Subroutine End the run.",
-    "stripped_title": "Tollbooth",
-    "subtypes": [
-        "code_gate"
-    ],
-    "text": "When the Runner encounters this ice, they must pay 3[credit], if able. If they do not, end the run.\n[subroutine] End the run.",
-    "title": "Tollbooth"
+  "card_type_id": "ice",
+  "cost": 8,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "tollbooth",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "When the Runner encounters this ice, they must pay 3 credits, if able. If they do not, end the run. Subroutine End the run.",
+  "stripped_title": "Tollbooth",
+  "subtypes": ["code_gate"],
+  "text": "When the Runner encounters this ice, they must pay 3[credit], if able. If they do not, end the run.\n[subroutine] End the run.",
+  "title": "Tollbooth"
 }

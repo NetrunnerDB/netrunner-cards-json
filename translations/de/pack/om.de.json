@@ -1,134 +1,134 @@
 [
-    {
-        "code": "04001",
-        "flavor": "\"Eindringen in Bioroiden ist nicht unmöglich, auch wenn Haas-Bioroid lautstark etwas anderes behauptet. Aber es ist gefährlich.\" -Noise",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nGib eine Agenda auf. Falls du dies tust, verpasse dem Kon 1 negative Publicity.",
-        "title": "Schuld zuschieben"
-    },
-    {
-        "code": "04002",
-        "keywords": "Caïssa",
-        "text": "[click]: Hoste Bauer auf dem äußersten Ice, das ein zentrales System schützt.\nImmer, wenn du einen erfolgreichen Run durchführst, während Bauer auf einem Ice gehostet ist, verschiebe Bauer auf das Ice direkt hinter dem Ice, das Bauer derzeit hostet, falls möglich; anderenfalls zerstöre Bauer und installiere ein <strong>Caïssa</strong>-Programm aus deinem Griff oder deiner Ablage, ohne die Kosten dafür zu bezahlen.",
-        "title": "Bauer"
-    },
-    {
-        "code": "04003",
-        "keywords": "Caïssa",
-        "text": "[click]: Hoste Turm auf einem Ice, das kein <strong>Caïssa</strong>-Programm hostet. Falls er bereits gehostet ist, kann Turm nur auf einem Ice gehostet werden, das entweder dieses System schützt, oder auf Ice, das ein anderes System schützt und sich dort in derselben Position (von innen gezählt) befindet.\nDie Ladekosten für jedes Ice, das dieses System schützt, werden um 2 erhöht.",
-        "title": "Turm"
-    },
-    {
-        "code": "04004",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nDurchsuche deinen Stapel nach einem <strong>Kontakt</strong>, decke ihn auf und füge ihn deinem Griff hinzu. Du kannst diesen <strong>Kontakt</strong> installieren (die Installationskosten müssen bezahlt werden). Mische deinen Stapel",
-        "title": "Geisel"
-    },
-    {
-        "code": "04005",
-        "flavor": "Einfaches Prinzip, ein Virus, der kleine Geldmengen von ihrem Konto auf deins flließen lässt.",
-        "keywords": "Virus",
-        "text": "Immer wenn der Kon [click] ausgibt, um 1 Karte zu ziehen, oder 1[credit] zu erhalten (nicht durch die Fähigkeit einer Karte), lege 1 Viruszähler auf Gorman Tropf v1.\n[click], [trash]: Erhalte 1[credit] für jeden Viruszähler auf Gorman Tropf v1.",
-        "title": "Gorman Tropf v1"
-    },
-    {
-        "code": "04006",
-        "flavor": "\"Eigentlich habe ich ihn für jemand anderen entwickelt, aber er war so nützlich, dass ich beschlossen habe, ihn für mich zu behalten.\" -Kate \"Mac\" McCaffrey",
-        "keywords": "Chip - Heimlichkeit",
-        "text": "1[recurring-credit]\nVerwende diesen Credit, um für die Verwendung von <strong>Decodern</strong> zu bezahlen.",
-        "title": "Dietrich"
-    },
-    {
-        "code": "04007",
-        "flavor": "\"Und wenn dieses Ice frei sein möchte?\" -Rielle \"Kit\" Peddler",
-        "text": "Immer, wenn du an einem ungeladenen Ice vorbeikommst, kannst du Störecho zerstören. Falls du das tust, muss der Kon dieses Ice laden oder es dem HQ hinzufügen.",
-        "title": "Störecho"
-    },
-    {
-        "code": "04008",
-        "flavor": "Normale Menschen - geistig gesunde Menschen - wählen kein Leben in der Cyberkriminalität. Wer kann schon sagen, was diese gestörten Hirne wirklich antreibt? Eine eingebildete Kränkung, persönliches Versagen, das auf Außenstehende geschoben wird, oder der häufigste Grund, die Gier nach Geld?\n-Michael Muhama\nGedanken zur Cyberkriminalität",
-        "text": "Wenn dein Zug beginnt, kannst du dir die oberste Karte deines Stapels ansehen.",
-        "title": "Motivation"
-    },
-    {
-        "code": "04009",
-        "flavor": "\"Ich hab den ganzen Tag online mit hübschen Babes rumgehangen. Mach dir keine Sorgen, die Verbindungen sind sauber. Dafür garantiere ich.\"",
-        "keywords": "Kontakt",
-        "text": "Beim ersten erfolgreichen Run in deinem Zug, ziehe 1 Karte.\nBeim ersten nicht erfolgreichen Run in deinem Zug bekommst du eine Markierung verpasst.",
-        "title": "John Masanori"
-    },
-    {
-        "code": "04010",
-        "flavor": "Wer will einen Krieg beginnen?",
-        "keywords": "Sicherheit",
-        "text": "Wenn du die Punkte für Projekt Ares erzielst, muss der Runner 1 seiner installierten Karten für jeden auf Projekt Ares liegenden Entwicklungszähler über 4 zerstören. Falls der Runner mindestens 1 Karte zerstört, erhältst du 1 negative Publicity.",
-        "title": "Projekt Ares"
-    },
-    {
-        "code": "04011",
-        "flavor": "Ice von NEXT Design bietet anspruchsvollen Unternehmen eine Ice-Lösung, die bei Eindringlingen ein beängstigendes Gefühl von Sicherheitspräsenz hervorruft.",
-        "keywords": "Code-Zugang - NEXT",
-        "text": "NEXT Bronze hat +1 Stärke für jedes geladene <strong>NEXT</strong> Ice.\n[subroutine] Beende den Run.",
-        "title": "NEXT Bronze"
-    },
-    {
-        "code": "04012",
-        "flavor": "Nachdem Miranda Rhapsody mit so einer Mini-Giraffe rumlief, wollte plötzlich jeder so ein Vieh.",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nDecke bis zu 5 Karten im HQ für den Runner auf. Du erhältst 2[credit] für jede so aufgedeckte Karte.",
-        "title": "Promi-Geschenk"
-    },
-    {
-        "code": "04013",
-        "flavor": "Himitsu-Bako ist eine einfache Ice-Barriere, die wie ein digitales Rätselkästchen aussieht. Ihre Besonderheit liegt in ihrer einfachen Handhabung beim Deinstallieren und erneutem Installieren in einem anderen System, sodass plötzlich barrieren auftauchen, wo der Eindringling sie nicht erwartet hätte, was für ein merkwürdiges Gefühl von Déjà-vu sorgt.",
-        "keywords": "Barriere",
-        "text": "1[credit]: Füge Himitsu-Bako dem HQ hinzu.\n[subroutine] Beende den Run.",
-        "title": "Himitsu-Bako"
-    },
-    {
-        "code": "04014",
-        "flavor": "\"Was man über die Presse wissen muss, ist, dass hinter der nächsten Ecke immer schon eine bessere Geschichte wartet. Sie haben schon bald woanders Blut gewittert und die Welt hat mich vergessen. Aber ich habe nichts vergessen.\" -Der Professor",
-        "keywords": "Sicherheit",
-        "text": "Wenn du die Punkte für Rufmord erzielst, zerstöre 1 Ressource (kann nicht verhindert werden).",
-        "title": "Rufmord"
-    },
-    {
-        "code": "04015",
-        "flavor": "\"Mein Job ist es, dafür zu sorgen, dass unsere Produkte die perfekten Gefährten und Edutainment für die Verbraucher von morgen sind.\"",
-        "keywords": "Führungskraft",
-        "text": "[click]: Ziehe 2 Karten.\n<strong>Entferne Jackson Howard vom Spiel</strong>: Mische bis zu 3 Karten aus dem Archiv in F&E.",
-        "title": "Jackson Howard"
-    },
-    {
-        "code": "04016",
-        "keywords": "Verdoppeln - Graue Ops",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\n<trace>Aufspüren 2</trace> Bei Erfolg decke den Griff des Runners auf und zerstöre eine Anzahl Ressourcen und/oder Ereignisse daraus, die der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entspricht. Bei Misserfolg erhältst du 1 negative Publicity.",
-        "title": "Verletzung der Privatsphäre"
-    },
-    {
-        "code": "04017",
-        "flavor": "Wasser in unterseeische Magmaspalten zu pumpen erzeugt eine riesige Menge Energie. Was wiederum ein guter Nebenverdienst ist.",
-        "keywords": "Erweiterung",
-        "text": "Lege 2 Agendazähler auf Geothermisches Fracking, wenn du die Punkte dafür erzielst.\n[click], <strong>Gehosteter Agendazähler</strong>: Erhalte 7[credit] und 1 negative Publicity.",
-        "title": "Geothermisches Fracking"
-    },
-    {
-        "code": "04018",
-        "keywords": "Wächter - Zerstörer - Illegal",
-        "text": "Sobald du Schwarm lädst, erhältst du 1 negative Publicity.\nSchwarm kann entwickelt werden und erhält \"[subroutine] Zerstöre 1 Programm falls der Runner nicht 3[credit] zahlt.\" für jeden Entwicklungsmarker auf diesem Ice.",
-        "title": "Schwarm"
-    },
-    {
-        "code": "04019",
-        "flavor": "Deine freie Testversion ist abgelaufen.\nAuf die Vollversion upgraden?",
-        "text": "Lösche alle Viruszähler.",
-        "title": "Cyberdex-Testversion"
-    },
-    {
-        "code": "04020",
-        "flavor": "\"Die Legende nach gehört der Grimm zu den Mythen von sogenannten „Schwarzen Hunden“, die im gälischen und englischen Sprachraum häufig anzutreffen sind. Faszinierend an ihm ist, dass er den Sprung ins Netz geschafft hat, wo er als Programm weiter lebt. Das, so erzählt man sich, Jagd auf Ahnungslose macht.\" - Der Professor",
-        "keywords": "Wächter - Zerstörer - Illegal",
-        "text": "Wenn du Grimm lädst, erhältst du 1 negative Publicity.\n[subroutine] Zerstöre 1 Programm.",
-        "title": "Grimm"
-    }
+  {
+    "code": "04001",
+    "flavor": "\"Eindringen in Bioroiden ist nicht unmöglich, auch wenn Haas-Bioroid lautstark etwas anderes behauptet. Aber es ist gefährlich.\" -Noise",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nGib eine Agenda auf. Falls du dies tust, verpasse dem Kon 1 negative Publicity.",
+    "title": "Schuld zuschieben"
+  },
+  {
+    "code": "04002",
+    "keywords": "Caïssa",
+    "text": "[click]: Hoste Bauer auf dem äußersten Ice, das ein zentrales System schützt.\nImmer, wenn du einen erfolgreichen Run durchführst, während Bauer auf einem Ice gehostet ist, verschiebe Bauer auf das Ice direkt hinter dem Ice, das Bauer derzeit hostet, falls möglich; anderenfalls zerstöre Bauer und installiere ein <strong>Caïssa</strong>-Programm aus deinem Griff oder deiner Ablage, ohne die Kosten dafür zu bezahlen.",
+    "title": "Bauer"
+  },
+  {
+    "code": "04003",
+    "keywords": "Caïssa",
+    "text": "[click]: Hoste Turm auf einem Ice, das kein <strong>Caïssa</strong>-Programm hostet. Falls er bereits gehostet ist, kann Turm nur auf einem Ice gehostet werden, das entweder dieses System schützt, oder auf Ice, das ein anderes System schützt und sich dort in derselben Position (von innen gezählt) befindet.\nDie Ladekosten für jedes Ice, das dieses System schützt, werden um 2 erhöht.",
+    "title": "Turm"
+  },
+  {
+    "code": "04004",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nDurchsuche deinen Stapel nach einem <strong>Kontakt</strong>, decke ihn auf und füge ihn deinem Griff hinzu. Du kannst diesen <strong>Kontakt</strong> installieren (die Installationskosten müssen bezahlt werden). Mische deinen Stapel",
+    "title": "Geisel"
+  },
+  {
+    "code": "04005",
+    "flavor": "Einfaches Prinzip, ein Virus, der kleine Geldmengen von ihrem Konto auf deins flließen lässt.",
+    "keywords": "Virus",
+    "text": "Immer wenn der Kon [click] ausgibt, um 1 Karte zu ziehen, oder 1[credit] zu erhalten (nicht durch die Fähigkeit einer Karte), lege 1 Viruszähler auf Gorman Tropf v1.\n[click], [trash]: Erhalte 1[credit] für jeden Viruszähler auf Gorman Tropf v1.",
+    "title": "Gorman Tropf v1"
+  },
+  {
+    "code": "04006",
+    "flavor": "\"Eigentlich habe ich ihn für jemand anderen entwickelt, aber er war so nützlich, dass ich beschlossen habe, ihn für mich zu behalten.\" -Kate \"Mac\" McCaffrey",
+    "keywords": "Chip - Heimlichkeit",
+    "text": "1[recurring-credit]\nVerwende diesen Credit, um für die Verwendung von <strong>Decodern</strong> zu bezahlen.",
+    "title": "Dietrich"
+  },
+  {
+    "code": "04007",
+    "flavor": "\"Und wenn dieses Ice frei sein möchte?\" -Rielle \"Kit\" Peddler",
+    "text": "Immer, wenn du an einem ungeladenen Ice vorbeikommst, kannst du Störecho zerstören. Falls du das tust, muss der Kon dieses Ice laden oder es dem HQ hinzufügen.",
+    "title": "Störecho"
+  },
+  {
+    "code": "04008",
+    "flavor": "Normale Menschen - geistig gesunde Menschen - wählen kein Leben in der Cyberkriminalität. Wer kann schon sagen, was diese gestörten Hirne wirklich antreibt? Eine eingebildete Kränkung, persönliches Versagen, das auf Außenstehende geschoben wird, oder der häufigste Grund, die Gier nach Geld?\n-Michael Muhama\nGedanken zur Cyberkriminalität",
+    "text": "Wenn dein Zug beginnt, kannst du dir die oberste Karte deines Stapels ansehen.",
+    "title": "Motivation"
+  },
+  {
+    "code": "04009",
+    "flavor": "\"Ich hab den ganzen Tag online mit hübschen Babes rumgehangen. Mach dir keine Sorgen, die Verbindungen sind sauber. Dafür garantiere ich.\"",
+    "keywords": "Kontakt",
+    "text": "Beim ersten erfolgreichen Run in deinem Zug, ziehe 1 Karte.\nBeim ersten nicht erfolgreichen Run in deinem Zug bekommst du eine Markierung verpasst.",
+    "title": "John Masanori"
+  },
+  {
+    "code": "04010",
+    "flavor": "Wer will einen Krieg beginnen?",
+    "keywords": "Sicherheit",
+    "text": "Wenn du die Punkte für Projekt Ares erzielst, muss der Runner 1 seiner installierten Karten für jeden auf Projekt Ares liegenden Entwicklungszähler über 4 zerstören. Falls der Runner mindestens 1 Karte zerstört, erhältst du 1 negative Publicity.",
+    "title": "Projekt Ares"
+  },
+  {
+    "code": "04011",
+    "flavor": "Ice von NEXT Design bietet anspruchsvollen Unternehmen eine Ice-Lösung, die bei Eindringlingen ein beängstigendes Gefühl von Sicherheitspräsenz hervorruft.",
+    "keywords": "Code-Zugang - NEXT",
+    "text": "NEXT Bronze hat +1 Stärke für jedes geladene <strong>NEXT</strong> Ice.\n[subroutine] Beende den Run.",
+    "title": "NEXT Bronze"
+  },
+  {
+    "code": "04012",
+    "flavor": "Nachdem Miranda Rhapsody mit so einer Mini-Giraffe rumlief, wollte plötzlich jeder so ein Vieh.",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nDecke bis zu 5 Karten im HQ für den Runner auf. Du erhältst 2[credit] für jede so aufgedeckte Karte.",
+    "title": "Promi-Geschenk"
+  },
+  {
+    "code": "04013",
+    "flavor": "Himitsu-Bako ist eine einfache Ice-Barriere, die wie ein digitales Rätselkästchen aussieht. Ihre Besonderheit liegt in ihrer einfachen Handhabung beim Deinstallieren und erneutem Installieren in einem anderen System, sodass plötzlich barrieren auftauchen, wo der Eindringling sie nicht erwartet hätte, was für ein merkwürdiges Gefühl von Déjà-vu sorgt.",
+    "keywords": "Barriere",
+    "text": "1[credit]: Füge Himitsu-Bako dem HQ hinzu.\n[subroutine] Beende den Run.",
+    "title": "Himitsu-Bako"
+  },
+  {
+    "code": "04014",
+    "flavor": "\"Was man über die Presse wissen muss, ist, dass hinter der nächsten Ecke immer schon eine bessere Geschichte wartet. Sie haben schon bald woanders Blut gewittert und die Welt hat mich vergessen. Aber ich habe nichts vergessen.\" -Der Professor",
+    "keywords": "Sicherheit",
+    "text": "Wenn du die Punkte für Rufmord erzielst, zerstöre 1 Ressource (kann nicht verhindert werden).",
+    "title": "Rufmord"
+  },
+  {
+    "code": "04015",
+    "flavor": "\"Mein Job ist es, dafür zu sorgen, dass unsere Produkte die perfekten Gefährten und Edutainment für die Verbraucher von morgen sind.\"",
+    "keywords": "Führungskraft",
+    "text": "[click]: Ziehe 2 Karten.\n<strong>Entferne Jackson Howard vom Spiel</strong>: Mische bis zu 3 Karten aus dem Archiv in F&E.",
+    "title": "Jackson Howard"
+  },
+  {
+    "code": "04016",
+    "keywords": "Verdoppeln - Graue Ops",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\n<trace>Aufspüren 2</trace> Bei Erfolg decke den Griff des Runners auf und zerstöre eine Anzahl Ressourcen und/oder Ereignisse daraus, die der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entspricht. Bei Misserfolg erhältst du 1 negative Publicity.",
+    "title": "Verletzung der Privatsphäre"
+  },
+  {
+    "code": "04017",
+    "flavor": "Wasser in unterseeische Magmaspalten zu pumpen erzeugt eine riesige Menge Energie. Was wiederum ein guter Nebenverdienst ist.",
+    "keywords": "Erweiterung",
+    "text": "Lege 2 Agendazähler auf Geothermisches Fracking, wenn du die Punkte dafür erzielst.\n[click], <strong>Gehosteter Agendazähler</strong>: Erhalte 7[credit] und 1 negative Publicity.",
+    "title": "Geothermisches Fracking"
+  },
+  {
+    "code": "04018",
+    "keywords": "Wächter - Zerstörer - Illegal",
+    "text": "Sobald du Schwarm lädst, erhältst du 1 negative Publicity.\nSchwarm kann entwickelt werden und erhält \"[subroutine] Zerstöre 1 Programm falls der Runner nicht 3[credit] zahlt.\" für jeden Entwicklungsmarker auf diesem Ice.",
+    "title": "Schwarm"
+  },
+  {
+    "code": "04019",
+    "flavor": "Deine freie Testversion ist abgelaufen.\nAuf die Vollversion upgraden?",
+    "text": "Lösche alle Viruszähler.",
+    "title": "Cyberdex-Testversion"
+  },
+  {
+    "code": "04020",
+    "flavor": "\"Die Legende nach gehört der Grimm zu den Mythen von sogenannten „Schwarzen Hunden“, die im gälischen und englischen Sprachraum häufig anzutreffen sind. Faszinierend an ihm ist, dass er den Sprung ins Netz geschafft hat, wo er als Programm weiter lebt. Das, so erzählt man sich, Jagd auf Ahnungslose macht.\" - Der Professor",
+    "keywords": "Wächter - Zerstörer - Illegal",
+    "text": "Wenn du Grimm lädst, erhältst du 1 negative Publicity.\n[subroutine] Zerstöre 1 Programm.",
+    "title": "Grimm"
+  }
 ]

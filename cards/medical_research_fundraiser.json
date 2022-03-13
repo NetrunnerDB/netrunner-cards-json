@@ -1,17 +1,15 @@
 {
-    "card_type_id": "operation",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "medical_research_fundraiser",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Gain 8 credits. The Runner gains 3 credits.",
-    "stripped_title": "Medical Research Fundraiser",
-    "subtypes": [
-        "transaction"
-    ],
-    "text": "Gain 8[credit]. The Runner gains 3[credit].",
-    "title": "Medical Research Fundraiser"
+  "card_type_id": "operation",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "medical_research_fundraiser",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Gain 8 credits. The Runner gains 3 credits.",
+  "stripped_title": "Medical Research Fundraiser",
+  "subtypes": ["transaction"],
+  "text": "Gain 8[credit]. The Runner gains 3[credit].",
+  "title": "Medical Research Fundraiser"
 }

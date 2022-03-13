@@ -1,18 +1,16 @@
 {
-    "base_link": 0,
-    "card_type_id": "identity",
-    "deck_limit": 1,
-    "faction_id": "criminal",
-    "id": "boris_syfr_kovac_crafty_veteran",
-    "influence_limit": "null",
-    "is_unique": false,
-    "minimum_deck_size": 30,
-    "side_id": "runner",
-    "stripped_text": "Draft format only. If you have more criminal cards installed than any other faction, when your turn begins, remove 1 tag.",
-    "stripped_title": "Boris \"Syfr\" Kovac: Crafty Veteran",
-    "subtypes": [
-        "cyborg"
-    ],
-    "text": "Draft format only.\nIf you have more [criminal] cards installed than any other faction, when your turn begins, remove 1 tag.",
-    "title": "Boris \"Syfr\" Kovac: Crafty Veteran"
+  "base_link": 0,
+  "card_type_id": "identity",
+  "deck_limit": 1,
+  "faction_id": "criminal",
+  "id": "boris_syfr_kovac_crafty_veteran",
+  "influence_limit": "null",
+  "is_unique": false,
+  "minimum_deck_size": 30,
+  "side_id": "runner",
+  "stripped_text": "Draft format only. If you have more criminal cards installed than any other faction, when your turn begins, remove 1 tag.",
+  "stripped_title": "Boris \"Syfr\" Kovac: Crafty Veteran",
+  "subtypes": ["cyborg"],
+  "text": "Draft format only.\nIf you have more [criminal] cards installed than any other faction, when your turn begins, remove 1 tag.",
+  "title": "Boris \"Syfr\" Kovac: Crafty Veteran"
 }

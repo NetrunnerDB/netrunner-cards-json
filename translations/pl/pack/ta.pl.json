@@ -1,128 +1,128 @@
 [
-    {
-        "code": "02021",
-        "flavor": "W wyrzucaniu kredytów była pewna schadenfreude.",
-        "keywords": "Skok - Sabotaż",
-        "text": "Przeprowadź skok na HQ. Jeśli jest udany, zamiast uzyskać dostęp do kart, możesz zapłacić X[credit], aby korp stracił do X[credit], następnie otrzymujesz 1 tag.",
-        "title": "Wamp"
-    },
-    {
-        "code": "02022",
-        "flavor": "Łatwiej wydawać cudze pieniądze.",
-        "text": "Gdy instalujesz Uwolnione konto, połóż na nim 16[credit]. Skasuj Uwolnione konto, gdy nie ma na nim kredytów.\n[click]: Weź 4[credit] z Uwolnionego konta.",
-        "title": "Uwolnione konto"
-    },
-    {
-        "code": "02023",
-        "flavor": "T minus 13 sekund. Leela musiała się spieszyć. Podłączyła przewód i włączyła ekran. 7 sekund. Wewnętrzne SLD nadal startowało. 4 sekundy. Interfejs zaiskrzył pomarańczową poświatą. 2 sekundy. Jedno dotknięcie i była w środku.",
-        "text": "Ujawnij do 2 kart.",
-        "title": "Połączenie z satelitą"
-    },
-    {
-        "code": "02024",
-        "flavor": "Linia implantów CyberSolutions e3 jest dedykowana pamięci mięśniowej i odpowiedzi autonomicznej, co pozwala mózgowi skupić się na procesach intelektualnych.",
-        "keywords": "Mod",
-        "text": "Zawsze gdy złamiesz podprogram lodu, możesz zapłacić 1[credit], aby złamać 1 dodatkowy podprogram tego lodu.",
-        "title": "Implanty dotykowe e3"
-    },
-    {
-        "code": "02025",
-        "keywords": "Kontakt - Połączenie",
-        "text": "1[recurring-credit]\nUżyj tego kredytu podczas namierzania.\nPobierasz 1[credit] zawsze gdy korp rezuje lód.",
-        "title": "Szantażowany pracownik"
-    },
-    {
-        "code": "02026",
-        "flavor": "Gdy jesteś aż tak dobry, ciężko nie przyciągać grona fanów.",
-        "text": "Zagraj tylko, jeśli przeprowadziłeś w tej turze udany skok na R&D, HQ, i Archiwa.\nDodaj Rozgłos do swojego obszaru punktowania jako projekt warty 1 punkt projektu.",
-        "title": "Rozgłos"
-    },
-    {
-        "code": "02027",
-        "flavor": "\"Jeśli śnieżka stanie się duża, możesz z niej zrobić bałwana!\" - Teoria Chaosu",
-        "keywords": "Lodołamacz - Młot",
-        "text": "1[credit]: Złam podprogram <strong>bariery</strong>.\n1[credit]: +1 siły.\nZawsze gdy użyjesz Śnieżki do złamania podprogramu, do końca skoku ma ona +1 siły.",
-        "title": "Śnieżka"
-    },
-    {
-        "code": "02028",
-        "flavor": "Archaiczna, ale niezawodna.",
-        "keywords": "Chip - Połączenie",
-        "text": "+1[mu], +1[link]",
-        "title": "Kość pamięci Dysona"
-    },
-    {
-        "code": "02029",
-        "flavor": "Klucz do przyszłości leży w przeszłości.",
-        "text": "Koszt skasowania wszystkich zainstalowanych kart jest większy o 1.",
-        "title": "Protokół szyfrowania"
-    },
-    {
-        "code": "02030",
-        "keywords": "Strażnik - Bioroid - Tropiciel",
-        "text": "Runner może wydać [click], aby złamać dowolny podprogram Sherlocka 1.0.\n[subroutine] <trace>Trace 4</trace> Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.\n[subroutine] <trace>Trace 4</trace> Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.",
-        "title": "Sherlock 1.0"
-    },
-    {
-        "code": "02031",
-        "keywords": "Megakorp",
-        "text": "Runner nie może przeprowadzać skoków na zdalne serwery. Zignoruj tę zdolność do końca tury zawsze, gdy runner przeprowadzi skok na serwer centralny.",
-        "title": "Jinteki: Replika ideału"
-    },
-    {
-        "code": "02032",
-        "keywords": "Zasadzka",
-        "text": "Runner musi odsłonić Embrionalną AI, jeśli uzyska do niej dostęp z R&D.\nGdy runner uzyska dostęp do Embrionalnej AI, zadaj 2 obrażenia sprzętu. Zignoruj tę zdolność, jeśli runner uzyska dostęp do Embrionalnej AI z Archiwów.\nAby wykraść Embrionalną AI, runner musi zapłacić dodatkowy koszt wynoszący 2[credit].",
-        "title": "Embrionalna AI"
-    },
-    {
-        "code": "02033",
-        "flavor": "Pic na wodę.",
-        "text": "Przesuń do 2 żetonów zaawansowania z jednej karty na inną zainstalowaną kartę, którą można awansować.",
-        "title": "Złudzenie optyczne"
-    },
-    {
-        "code": "02034",
-        "flavor": "Pokój i przemoc. Obydwa muszą prowadzić do tego samego.",
-        "keywords": "Brama kodowa",
-        "text": "[subroutine] Do końca tego skoku każdy napotkany lód oprócz Senseia otrzymuje \"[subroutine] Zakończ skok\" po wszystkich swoich podprogramach.",
-        "title": "Sensei"
-    },
-    {
-        "code": "02035",
-        "flavor": "Dba o twoje interesy od roku 1984.",
-        "keywords": "Szara operacja",
-        "text": "Zagraj tylko, jeśli runner jest otagowany.\nDaj runnerowi 2 tagi.",
-        "title": "Wielki brat"
-    },
-    {
-        "code": "02036",
-        "flavor": "Klony szepczą, że ChiLo to wolna ziemia obiecana.",
-        "keywords": "Region",
-        "text": "Zawsze gdy namierzanie podczas skoku na ten serwer jest udane, daj runnerowi 1 tag.\nLimit 1 <strong>regionu</strong> na serwer.",
-        "title": "Sieć miejska ChiLo"
-    },
-    {
-        "code": "02037",
-        "text": "Zagraj tylko jeśli w swojej ostatniej turze runner przeprowadził udany skok.\n<trace>Trace 2</trace> Jeśli udane, skasuj 1 sprzęt o koszcie instalacji mniejszym bądź równym różnicy siły namierzania i siły połączenia.",
-        "title": "Przeciążenie sieci energetycznej"
-    },
-    {
-        "code": "02038",
-        "keywords": "Region",
-        "text": "Zawsze gdy instalujesz lód chroniący ten serwer, możesz go natychmiast zrezować, obniżając jego koszt zrezowania o 3.\nLimit 1 <strong>regionu</strong> na serwer.",
-        "title": "Amazońska strefa przemysłowa"
-    },
-    {
-        "code": "02039",
-        "text": "Gdy zapunktujesz Wypoczynek dla kierownictwa, połóż na nim 1 znacznik projektu i wtasuj HQ do R&D.\n[click], <strong>hostowany znacznik projektu</strong>: Dobierz 5 kart.",
-        "title": "Wypoczynek dla kierownictwa"
-    },
-    {
-        "code": "02040",
-        "flavor": "Bez kontraktu. Tylko uścisk dłoni i garść budowlanego C-6.",
-        "keywords": "Szara operacja",
-        "text": "Zagraj tylko, jeśli runner jest otagowany.\nSkasuj do 2 zasobów.",
-        "title": "Wolny strzelec"
-    }
+  {
+    "code": "02021",
+    "flavor": "W wyrzucaniu kredytów była pewna schadenfreude.",
+    "keywords": "Skok - Sabotaż",
+    "text": "Przeprowadź skok na HQ. Jeśli jest udany, zamiast uzyskać dostęp do kart, możesz zapłacić X[credit], aby korp stracił do X[credit], następnie otrzymujesz 1 tag.",
+    "title": "Wamp"
+  },
+  {
+    "code": "02022",
+    "flavor": "Łatwiej wydawać cudze pieniądze.",
+    "text": "Gdy instalujesz Uwolnione konto, połóż na nim 16[credit]. Skasuj Uwolnione konto, gdy nie ma na nim kredytów.\n[click]: Weź 4[credit] z Uwolnionego konta.",
+    "title": "Uwolnione konto"
+  },
+  {
+    "code": "02023",
+    "flavor": "T minus 13 sekund. Leela musiała się spieszyć. Podłączyła przewód i włączyła ekran. 7 sekund. Wewnętrzne SLD nadal startowało. 4 sekundy. Interfejs zaiskrzył pomarańczową poświatą. 2 sekundy. Jedno dotknięcie i była w środku.",
+    "text": "Ujawnij do 2 kart.",
+    "title": "Połączenie z satelitą"
+  },
+  {
+    "code": "02024",
+    "flavor": "Linia implantów CyberSolutions e3 jest dedykowana pamięci mięśniowej i odpowiedzi autonomicznej, co pozwala mózgowi skupić się na procesach intelektualnych.",
+    "keywords": "Mod",
+    "text": "Zawsze gdy złamiesz podprogram lodu, możesz zapłacić 1[credit], aby złamać 1 dodatkowy podprogram tego lodu.",
+    "title": "Implanty dotykowe e3"
+  },
+  {
+    "code": "02025",
+    "keywords": "Kontakt - Połączenie",
+    "text": "1[recurring-credit]\nUżyj tego kredytu podczas namierzania.\nPobierasz 1[credit] zawsze gdy korp rezuje lód.",
+    "title": "Szantażowany pracownik"
+  },
+  {
+    "code": "02026",
+    "flavor": "Gdy jesteś aż tak dobry, ciężko nie przyciągać grona fanów.",
+    "text": "Zagraj tylko, jeśli przeprowadziłeś w tej turze udany skok na R&D, HQ, i Archiwa.\nDodaj Rozgłos do swojego obszaru punktowania jako projekt warty 1 punkt projektu.",
+    "title": "Rozgłos"
+  },
+  {
+    "code": "02027",
+    "flavor": "\"Jeśli śnieżka stanie się duża, możesz z niej zrobić bałwana!\" - Teoria Chaosu",
+    "keywords": "Lodołamacz - Młot",
+    "text": "1[credit]: Złam podprogram <strong>bariery</strong>.\n1[credit]: +1 siły.\nZawsze gdy użyjesz Śnieżki do złamania podprogramu, do końca skoku ma ona +1 siły.",
+    "title": "Śnieżka"
+  },
+  {
+    "code": "02028",
+    "flavor": "Archaiczna, ale niezawodna.",
+    "keywords": "Chip - Połączenie",
+    "text": "+1[mu], +1[link]",
+    "title": "Kość pamięci Dysona"
+  },
+  {
+    "code": "02029",
+    "flavor": "Klucz do przyszłości leży w przeszłości.",
+    "text": "Koszt skasowania wszystkich zainstalowanych kart jest większy o 1.",
+    "title": "Protokół szyfrowania"
+  },
+  {
+    "code": "02030",
+    "keywords": "Strażnik - Bioroid - Tropiciel",
+    "text": "Runner może wydać [click], aby złamać dowolny podprogram Sherlocka 1.0.\n[subroutine] <trace>Trace 4</trace> Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.\n[subroutine] <trace>Trace 4</trace> Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.",
+    "title": "Sherlock 1.0"
+  },
+  {
+    "code": "02031",
+    "keywords": "Megakorp",
+    "text": "Runner nie może przeprowadzać skoków na zdalne serwery. Zignoruj tę zdolność do końca tury zawsze, gdy runner przeprowadzi skok na serwer centralny.",
+    "title": "Jinteki: Replika ideału"
+  },
+  {
+    "code": "02032",
+    "keywords": "Zasadzka",
+    "text": "Runner musi odsłonić Embrionalną AI, jeśli uzyska do niej dostęp z R&D.\nGdy runner uzyska dostęp do Embrionalnej AI, zadaj 2 obrażenia sprzętu. Zignoruj tę zdolność, jeśli runner uzyska dostęp do Embrionalnej AI z Archiwów.\nAby wykraść Embrionalną AI, runner musi zapłacić dodatkowy koszt wynoszący 2[credit].",
+    "title": "Embrionalna AI"
+  },
+  {
+    "code": "02033",
+    "flavor": "Pic na wodę.",
+    "text": "Przesuń do 2 żetonów zaawansowania z jednej karty na inną zainstalowaną kartę, którą można awansować.",
+    "title": "Złudzenie optyczne"
+  },
+  {
+    "code": "02034",
+    "flavor": "Pokój i przemoc. Obydwa muszą prowadzić do tego samego.",
+    "keywords": "Brama kodowa",
+    "text": "[subroutine] Do końca tego skoku każdy napotkany lód oprócz Senseia otrzymuje \"[subroutine] Zakończ skok\" po wszystkich swoich podprogramach.",
+    "title": "Sensei"
+  },
+  {
+    "code": "02035",
+    "flavor": "Dba o twoje interesy od roku 1984.",
+    "keywords": "Szara operacja",
+    "text": "Zagraj tylko, jeśli runner jest otagowany.\nDaj runnerowi 2 tagi.",
+    "title": "Wielki brat"
+  },
+  {
+    "code": "02036",
+    "flavor": "Klony szepczą, że ChiLo to wolna ziemia obiecana.",
+    "keywords": "Region",
+    "text": "Zawsze gdy namierzanie podczas skoku na ten serwer jest udane, daj runnerowi 1 tag.\nLimit 1 <strong>regionu</strong> na serwer.",
+    "title": "Sieć miejska ChiLo"
+  },
+  {
+    "code": "02037",
+    "text": "Zagraj tylko jeśli w swojej ostatniej turze runner przeprowadził udany skok.\n<trace>Trace 2</trace> Jeśli udane, skasuj 1 sprzęt o koszcie instalacji mniejszym bądź równym różnicy siły namierzania i siły połączenia.",
+    "title": "Przeciążenie sieci energetycznej"
+  },
+  {
+    "code": "02038",
+    "keywords": "Region",
+    "text": "Zawsze gdy instalujesz lód chroniący ten serwer, możesz go natychmiast zrezować, obniżając jego koszt zrezowania o 3.\nLimit 1 <strong>regionu</strong> na serwer.",
+    "title": "Amazońska strefa przemysłowa"
+  },
+  {
+    "code": "02039",
+    "text": "Gdy zapunktujesz Wypoczynek dla kierownictwa, połóż na nim 1 znacznik projektu i wtasuj HQ do R&D.\n[click], <strong>hostowany znacznik projektu</strong>: Dobierz 5 kart.",
+    "title": "Wypoczynek dla kierownictwa"
+  },
+  {
+    "code": "02040",
+    "flavor": "Bez kontraktu. Tylko uścisk dłoni i garść budowlanego C-6.",
+    "keywords": "Szara operacja",
+    "text": "Zagraj tylko, jeśli runner jest otagowany.\nSkasuj do 2 zasobów.",
+    "title": "Wolny strzelec"
+  }
 ]

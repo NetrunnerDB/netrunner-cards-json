@@ -1,19 +1,16 @@
 {
-    "card_type_id": "operation",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "hyoubu_precog_manifold",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Play only if there is no active lockdown. This operation is not trashed until your next turn begins. Choose a server. Whenever the Runner makes a successful run on the chosen server, you and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, end the run.",
-    "stripped_title": "Hyoubu Precog Manifold",
-    "subtypes": [
-        "lockdown",
-        "psi"
-    ],
-    "text": "Play only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nChoose a server.\nWhenever the Runner makes a successful run on the chosen server, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, end the run.",
-    "title": "Hyoubu Precog Manifold",
-    "trash_cost": 4
+  "card_type_id": "operation",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "hyoubu_precog_manifold",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Play only if there is no active lockdown. This operation is not trashed until your next turn begins. Choose a server. Whenever the Runner makes a successful run on the chosen server, you and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, end the run.",
+  "stripped_title": "Hyoubu Precog Manifold",
+  "subtypes": ["lockdown", "psi"],
+  "text": "Play only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nChoose a server.\nWhenever the Runner makes a successful run on the chosen server, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, end the run.",
+  "title": "Hyoubu Precog Manifold",
+  "trash_cost": 4
 }

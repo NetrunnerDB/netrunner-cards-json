@@ -1,20 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 5,
-    "deck_limit": 3,
-    "faction_id": "haas-bioroid",
-    "id": "sagittarius",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 4,
-    "stripped_text": "Subroutine Trace 2 If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program.",
-    "stripped_title": "Sagittarius",
-    "subtypes": [
-        "sentry",
-        "tracer",
-        "destroyer"
-    ],
-    "text": "[subroutine] <trace>Trace 2</trace> If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program.",
-    "title": "Sagittarius"
+  "card_type_id": "ice",
+  "cost": 5,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "sagittarius",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "Subroutine Trace 2 If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program.",
+  "stripped_title": "Sagittarius",
+  "subtypes": ["sentry", "tracer", "destroyer"],
+  "text": "[subroutine] <trace>Trace 2</trace> If successful, trash 1 program. If your trace strength is 5 or greater, trash 1 program.",
+  "title": "Sagittarius"
 }

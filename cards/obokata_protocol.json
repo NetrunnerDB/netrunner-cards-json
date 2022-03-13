@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 5,
-    "agenda_points": 3,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "obokata_protocol",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "As an additional cost to steal Obokata Protocol, the Runner must suffer 4 net damage.",
-    "stripped_title": "Obokata Protocol",
-    "subtypes": [
-        "ambush"
-    ],
-    "text": "As an additional cost to steal Obokata Protocol, the Runner must suffer 4 net damage.",
-    "title": "Obokata Protocol"
+  "advancement_requirement": 5,
+  "agenda_points": 3,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "obokata_protocol",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "As an additional cost to steal Obokata Protocol, the Runner must suffer 4 net damage.",
+  "stripped_title": "Obokata Protocol",
+  "subtypes": ["ambush"],
+  "text": "As an additional cost to steal Obokata Protocol, the Runner must suffer 4 net damage.",
+  "title": "Obokata Protocol"
 }

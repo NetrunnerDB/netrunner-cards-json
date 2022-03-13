@@ -1,18 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 7,
-    "deck_limit": 1,
-    "faction_id": "neutral-runner",
-    "id": "hades_shard",
-    "influence_cost": 1,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "Whenever you make a successful run on Archives, instead of breaching Archives, you may install this resource from your grip, ignoring all costs. trash: Breach Archives. You cannot access cards in the root of Archives during this breach. Limit 1 per deck.",
-    "stripped_title": "Hades Shard",
-    "subtypes": [
-        "virtual",
-        "source"
-    ],
-    "text": "Whenever you make a successful run on Archives, instead of breaching Archives, you may install this resource from your grip, ignoring all costs.\n<strong>[trash]:</strong> Breach Archives. You cannot access cards in the root of Archives during this breach.\nLimit 1 per deck.",
-    "title": "Hades Shard"
+  "card_type_id": "resource",
+  "cost": 7,
+  "deck_limit": 1,
+  "faction_id": "neutral-runner",
+  "id": "hades_shard",
+  "influence_cost": 1,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "Whenever you make a successful run on Archives, instead of breaching Archives, you may install this resource from your grip, ignoring all costs. trash: Breach Archives. You cannot access cards in the root of Archives during this breach. Limit 1 per deck.",
+  "stripped_title": "Hades Shard",
+  "subtypes": ["virtual", "source"],
+  "text": "Whenever you make a successful run on Archives, instead of breaching Archives, you may install this resource from your grip, ignoring all costs.\n<strong>[trash]:</strong> Breach Archives. You cannot access cards in the root of Archives during this breach.\nLimit 1 per deck.",
+  "title": "Hades Shard"
 }

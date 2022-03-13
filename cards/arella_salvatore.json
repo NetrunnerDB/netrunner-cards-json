@@ -1,18 +1,16 @@
 {
-    "card_type_id": "upgrade",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "arella_salvatore",
-    "influence_cost": 3,
-    "is_unique": true,
-    "side_id": "corp",
-    "stripped_text": "Whenever an agenda is scored from this server, you may install a card from HQ, ignoring all costs, and place 1 advancement token on it.",
-    "stripped_title": "Arella Salvatore",
-    "subtypes": [
-        "sysop"
-    ],
-    "text": "Whenever an agenda is scored from this server, you may install a card from HQ, ignoring all costs, and place 1 advancement token on it.",
-    "title": "Arella Salvatore",
-    "trash_cost": 5
+  "card_type_id": "upgrade",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "arella_salvatore",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "Whenever an agenda is scored from this server, you may install a card from HQ, ignoring all costs, and place 1 advancement token on it.",
+  "stripped_title": "Arella Salvatore",
+  "subtypes": ["sysop"],
+  "text": "Whenever an agenda is scored from this server, you may install a card from HQ, ignoring all costs, and place 1 advancement token on it.",
+  "title": "Arella Salvatore",
+  "trash_cost": 5
 }

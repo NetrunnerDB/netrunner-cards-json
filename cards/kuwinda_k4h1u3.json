@@ -1,18 +1,16 @@
 {
-    "card_type_id": "asset",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "haas-bioroid",
-    "id": "kuwinda_k4h1u3",
-    "influence_cost": 4,
-    "is_unique": true,
-    "side_id": "corp",
-    "stripped_text": "When your turn begins, you may trace X If successful, do 1 brain damage and trash Kuwinda K4H1U3. If unsuccessful, place 1 power counter on Kuwinda K4H1U3. X is the number of power counters on Kuwinda K4H1U3.",
-    "stripped_title": "Kuwinda K4H1U3",
-    "subtypes": [
-        "bioroid"
-    ],
-    "text": "When your turn begins, you may <trace>trace X</trace> If successful, do 1 brain damage and trash Kuwinda K4H1U3. If unsuccessful, place 1 power counter on Kuwinda K4H1U3.\nX is the number of power counters on Kuwinda K4H1U3.",
-    "title": "Kuwinda K4H1U3",
-    "trash_cost": 3
+  "card_type_id": "asset",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "kuwinda_k4h1u3",
+  "influence_cost": 4,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "When your turn begins, you may trace X If successful, do 1 brain damage and trash Kuwinda K4H1U3. If unsuccessful, place 1 power counter on Kuwinda K4H1U3. X is the number of power counters on Kuwinda K4H1U3.",
+  "stripped_title": "Kuwinda K4H1U3",
+  "subtypes": ["bioroid"],
+  "text": "When your turn begins, you may <trace>trace X</trace> If successful, do 1 brain damage and trash Kuwinda K4H1U3. If unsuccessful, place 1 power counter on Kuwinda K4H1U3.\nX is the number of power counters on Kuwinda K4H1U3.",
+  "title": "Kuwinda K4H1U3",
+  "trash_cost": 3
 }

@@ -1,134 +1,134 @@
 [
-    {
-        "code": "04081",
-        "flavor": "Dieser Glücksmoment. Dieses Gefühl, etwas vollbracht zu haben. Diese Gewissheit, dass es einen Sinn hat.\nWas kommt als nächstes?",
-        "text": "Kann nur gespielt werden, falls du in diesem Zug je einen erfolgreichen Run auf F&E, HQ und Archive durchgeführt hast.\nGreife auf 1 installierte Karte zu.",
-        "title": "Quest erledigt"
-    },
-    {
-        "code": "04082",
-        "flavor": "Kons virtuell zur Ader zu lassen, ist eher eine Wissenschaft als eine Kunst. Etwas zu viel kann einen Führerschein in die Stadt der Hirntoten ohne Rückfahrkarte bedeuten. Etwas zu wenig und du hättest gleich einen Run auf ein leeres System durchführen können.",
-        "keywords": "Virus",
-        "text": "Immer, wenn du einen erfolgreichen Run durchführst, lege 1 Viruszähler auf Blutung.\n[click], <strong>2 gehostete Viruszähler</strong>: Der Kon zerstört 1 Karte aus dem HQ.",
-        "title": "Blutung"
-    },
-    {
-        "code": "04083",
-        "flavor": "Halte dich an deinen Plan und alles ist in Ordnung. Halte dich an deinen Plan.",
-        "keywords": "Kontakt",
-        "text": "Wenn eine Operation vom Typ <strong>Graue Ops</strong> oder <strong>Schwarze Ops</strong> zerstört wird, nachdem sie durchgeführt worden ist, kannst du dem Kon 1 negative Publicity geben und bekommst eine Markierung verpasst.\n[trash]: Ziehe 1 Karte für jeden Punkt negative Publicity, den der Kon hat.",
-        "title": "Tallie Perrault"
-    },
-    {
-        "code": "04084",
-        "flavor": "\"Wenn du jemanden suchst, der etwas praktische veranlagt ist, such nach mir.\" -Silhouette",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nDecke alle Karten im HQ auf.",
-        "title": "Chefetage verwanzen"
-    },
-    {
-        "code": "04085",
-        "flavor": "Die macht eines konzentrierten Geistes ist mehr, als man erfassen kann.",
-        "keywords": "Konsole",
-        "text": "+2[mu]\nImmer, wenn du eine Karte enthüllst, muss der Kon sie laden, indem er ihre Ladekosten bezahlt, falls möglich.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Schuft"
-    },
-    {
-        "code": "04086",
-        "flavor": "\"CyberSolutions ist ein langweiliger Name für ein Unternehmen, das so ausgereifte Produkte herstellt. Ihre Speicherchips sind mit einigen komplizierten Funktionen ausgestattet und über ihre M/MI-Implantate höre ich auch nur Gutes. Vor etwa einem Jahr ist mir sogar zu Ohren gekommen, dass sie dabei sind, eigene Androiden zu entwickeln. Ich frage mich, was daraus geworden ist.\" -Kate \"Mac\" McCaffrey",
-        "keywords": "Chip",
-        "text": "+2[mu]",
-        "title": "CyberSolutions-Speicherchip"
-    },
-    {
-        "code": "04087",
-        "flavor": "Der Anfang...",
-        "keywords": "Ice-Brecher - KI",
-        "text": "1[credit]: Schalte eine Subroutine eines Ice aus.\n1[credit]: +1 Stärke.\nAlpha kann nur beim äußersten Ice, das ein System schützt, verwendet werden.",
-        "title": "Alpha"
-    },
-    {
-        "code": "04088",
-        "flavor": "…und das Ende?",
-        "keywords": "Ice-Brecher - KI",
-        "text": "1[credit]: Schalte eine Subroutine eines Ice aus.\n1[credit]: +1 Stärke.\nOmega kann nur beim innersten Ice, das ein System schützt, verwendet werden.",
-        "title": "Omega"
-    },
-    {
-        "code": "04089",
-        "keywords": "Run",
-        "text": "Kann nur gespielt werden, falls der Kon mindestens 1 negative Publicity hat.\nFühre einen Run durch. Der Kon kann für die Dauer dieses Runs kein Ice laden.",
-        "title": "Erpressung"
-    },
-    {
-        "code": "04090",
-        "flavor": "Die Sicherheitsfreigabe Bla-Eins existiert nicht. Und falls sie existieren sollte, würde deine Freigabe nicht ausreichen, um etwas darüber zu wissen.",
-        "keywords": "Verdoppeln - Transaktion",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nErhalte 5[credit] und ziehe 2 Karten.",
-        "title": "Sicherheitsfreigabe Blau"
-    },
-    {
-        "code": "04091",
-        "text": "Jedes Mal, wenn der Runner auf eine Agenda auf diesem System zugreift, muss er [click] als zusätzliche Kosten bezahlen, um sie zu stehlen. Das gilt auch in dem Run, bei dem der Runner Tresor zerstört.",
-        "title": "Tresor"
-    },
-    {
-        "code": "04092",
-        "keywords": "Führungskraft",
-        "text": "Toshiyuki Sakai kann entwickelt werden.\nFalls auf Toshiyuki Sakai zugegriffen wird, solange er installiert ist, kannst du ihn gegen eine Agenda oder einen Aktivposten aus dem HQ austauschen. Die neue Agenda oder der neue Aktivposten wird ungeladen installiert und behält die Entwicklungsmarker von Toshiyuki Sakai. Der Runner kann sich entscheiden, nicht auf die neue Karte zuzugreifen.",
-        "title": "Toshiyuki Sakai"
-    },
-    {
-        "code": "04093",
-        "flavor": "Der 'Cyberkrieg' ist ein Informationskrieg, und in so einem Krieg kann eine Vorwarnung genauso gut sein wie ein Vernichtungsschlag.\n-Michael Muhama,\nGedanken zur Cyberkriminalität",
-        "keywords": "Code-Zugang - AP",
-        "text": "[subroutine] Sieh dir die oberste Karte von F&E an. Du kannst diese Karte unter F&E legen.\n[subroutine] Verursache 1 Netz-Schaden.",
-        "title": "Yagura"
-    },
-    {
-        "code": "04094",
-        "flavor": "Er öffnete vorsichtig den Deckel und im Dämmerlicht zuckten Reflexionen auf dem Tantō. Die Führungskraft deutete auf die Klinge. Es sah so aus, als würde seine Redezeit dieses Mal … beschnitten werden.",
-        "text": "Zerstöre einen deiner isntallierten <strong>Sysops</strong>, <strong>Führungskräfte</strong>, oder <strong>Klone</strong>. Falls du das tust, entferne bis zu 2 negative Publicity.",
-        "title": "Das Gesicht wiederherstellen"
-    },
-    {
-        "code": "04095",
-        "keywords": "Forschung",
-        "text": "Wenn der Runner markiert ist, wenn du die Punkte für Marktforschung erzielst, lege 1 Agendazähler darauf.\nMarktforschung ist 1 zusätzlichen Agendapunkt wet, solange ein Agendazähler darauf liegt.",
-        "title": "Marktforschung"
-    },
-    {
-        "code": "04096",
-        "flavor": "\"Geniale Achterbahn, vorausgesetzt, deine Stims passen\" -Noise",
-        "keywords": "Barriere",
-        "text": "Falls kein <strong>Fracter</strong> installiert ist, hat Multi-Loop +7 Stärke.\n[subroutine] Beende den Run.",
-        "title": "Multi-Loop"
-    },
-    {
-        "code": "04097",
-        "flavor": "<strong>G</strong>eothermische <strong>R</strong>essourcen-<strong>N</strong>utzungs- und <strong>D</strong>atenanalyse-<strong>L</strong>aboratorien",
-        "keywords": "Abteilung",
-        "text": "Du beginnst das Spiel mit 10[credit] und 1 negativen Publicity.",
-        "title": "GRNDL: Entfesselte Gewalten"
-    },
-    {
-        "code": "04098",
-        "flavor": "\"Ich hab euch ausdrücklich gewarnt, dass Lecks abgedichtet werden müssen.\"",
-        "keywords": "Sicherheit",
-        "text": "Sobald du die Punkte für Vulcan-Vertuschung erzielst, verursache 2 Körper-Schaden.\nWenn der Runner Vulcan-Vertuschung stiehlt, erhältst du 1  negative Publicity.",
-        "title": "Vulcan-Vertuschung"
-    },
-    {
-        "code": "04099",
-        "flavor": "GRNDL-Raffinerien verarbeiten zahlreiche verschiedene seltene Elemente, die während des Fracking-Prozesses gefördert werden.",
-        "keywords": "Anlage",
-        "text": "GRNDL-Raffinerie kann entwickelt werden.\n[click], [trash]: Erhalte 4[credit] für jeden Entwicklungsmarker auf GRNDL-Raffinerie.",
-        "title": "GRNDL-Raffinerie"
-    },
-    {
-        "code": "04100",
-        "keywords": "Graue Ops",
-        "text": "Erhalte 1[credit]. Erhalte [click], falls du in diesem Zug noch keine weitere Kopie von Unterschwellige Botschaften gespielt hast.\nFalls der Runner in seinem letzten Zug keinen Run durchgeführt hat, kannst du Unterschwellige Botschaften vom Archiv wieder dem HQ hinzufügen, wenn dein Zug beginnt.",
-        "title": "Unterschwellige Botschaften"
-    }
+  {
+    "code": "04081",
+    "flavor": "Dieser Glücksmoment. Dieses Gefühl, etwas vollbracht zu haben. Diese Gewissheit, dass es einen Sinn hat.\nWas kommt als nächstes?",
+    "text": "Kann nur gespielt werden, falls du in diesem Zug je einen erfolgreichen Run auf F&E, HQ und Archive durchgeführt hast.\nGreife auf 1 installierte Karte zu.",
+    "title": "Quest erledigt"
+  },
+  {
+    "code": "04082",
+    "flavor": "Kons virtuell zur Ader zu lassen, ist eher eine Wissenschaft als eine Kunst. Etwas zu viel kann einen Führerschein in die Stadt der Hirntoten ohne Rückfahrkarte bedeuten. Etwas zu wenig und du hättest gleich einen Run auf ein leeres System durchführen können.",
+    "keywords": "Virus",
+    "text": "Immer, wenn du einen erfolgreichen Run durchführst, lege 1 Viruszähler auf Blutung.\n[click], <strong>2 gehostete Viruszähler</strong>: Der Kon zerstört 1 Karte aus dem HQ.",
+    "title": "Blutung"
+  },
+  {
+    "code": "04083",
+    "flavor": "Halte dich an deinen Plan und alles ist in Ordnung. Halte dich an deinen Plan.",
+    "keywords": "Kontakt",
+    "text": "Wenn eine Operation vom Typ <strong>Graue Ops</strong> oder <strong>Schwarze Ops</strong> zerstört wird, nachdem sie durchgeführt worden ist, kannst du dem Kon 1 negative Publicity geben und bekommst eine Markierung verpasst.\n[trash]: Ziehe 1 Karte für jeden Punkt negative Publicity, den der Kon hat.",
+    "title": "Tallie Perrault"
+  },
+  {
+    "code": "04084",
+    "flavor": "\"Wenn du jemanden suchst, der etwas praktische veranlagt ist, such nach mir.\" -Silhouette",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nDecke alle Karten im HQ auf.",
+    "title": "Chefetage verwanzen"
+  },
+  {
+    "code": "04085",
+    "flavor": "Die macht eines konzentrierten Geistes ist mehr, als man erfassen kann.",
+    "keywords": "Konsole",
+    "text": "+2[mu]\nImmer, wenn du eine Karte enthüllst, muss der Kon sie laden, indem er ihre Ladekosten bezahlt, falls möglich.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Schuft"
+  },
+  {
+    "code": "04086",
+    "flavor": "\"CyberSolutions ist ein langweiliger Name für ein Unternehmen, das so ausgereifte Produkte herstellt. Ihre Speicherchips sind mit einigen komplizierten Funktionen ausgestattet und über ihre M/MI-Implantate höre ich auch nur Gutes. Vor etwa einem Jahr ist mir sogar zu Ohren gekommen, dass sie dabei sind, eigene Androiden zu entwickeln. Ich frage mich, was daraus geworden ist.\" -Kate \"Mac\" McCaffrey",
+    "keywords": "Chip",
+    "text": "+2[mu]",
+    "title": "CyberSolutions-Speicherchip"
+  },
+  {
+    "code": "04087",
+    "flavor": "Der Anfang...",
+    "keywords": "Ice-Brecher - KI",
+    "text": "1[credit]: Schalte eine Subroutine eines Ice aus.\n1[credit]: +1 Stärke.\nAlpha kann nur beim äußersten Ice, das ein System schützt, verwendet werden.",
+    "title": "Alpha"
+  },
+  {
+    "code": "04088",
+    "flavor": "…und das Ende?",
+    "keywords": "Ice-Brecher - KI",
+    "text": "1[credit]: Schalte eine Subroutine eines Ice aus.\n1[credit]: +1 Stärke.\nOmega kann nur beim innersten Ice, das ein System schützt, verwendet werden.",
+    "title": "Omega"
+  },
+  {
+    "code": "04089",
+    "keywords": "Run",
+    "text": "Kann nur gespielt werden, falls der Kon mindestens 1 negative Publicity hat.\nFühre einen Run durch. Der Kon kann für die Dauer dieses Runs kein Ice laden.",
+    "title": "Erpressung"
+  },
+  {
+    "code": "04090",
+    "flavor": "Die Sicherheitsfreigabe Bla-Eins existiert nicht. Und falls sie existieren sollte, würde deine Freigabe nicht ausreichen, um etwas darüber zu wissen.",
+    "keywords": "Verdoppeln - Transaktion",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nErhalte 5[credit] und ziehe 2 Karten.",
+    "title": "Sicherheitsfreigabe Blau"
+  },
+  {
+    "code": "04091",
+    "text": "Jedes Mal, wenn der Runner auf eine Agenda auf diesem System zugreift, muss er [click] als zusätzliche Kosten bezahlen, um sie zu stehlen. Das gilt auch in dem Run, bei dem der Runner Tresor zerstört.",
+    "title": "Tresor"
+  },
+  {
+    "code": "04092",
+    "keywords": "Führungskraft",
+    "text": "Toshiyuki Sakai kann entwickelt werden.\nFalls auf Toshiyuki Sakai zugegriffen wird, solange er installiert ist, kannst du ihn gegen eine Agenda oder einen Aktivposten aus dem HQ austauschen. Die neue Agenda oder der neue Aktivposten wird ungeladen installiert und behält die Entwicklungsmarker von Toshiyuki Sakai. Der Runner kann sich entscheiden, nicht auf die neue Karte zuzugreifen.",
+    "title": "Toshiyuki Sakai"
+  },
+  {
+    "code": "04093",
+    "flavor": "Der 'Cyberkrieg' ist ein Informationskrieg, und in so einem Krieg kann eine Vorwarnung genauso gut sein wie ein Vernichtungsschlag.\n-Michael Muhama,\nGedanken zur Cyberkriminalität",
+    "keywords": "Code-Zugang - AP",
+    "text": "[subroutine] Sieh dir die oberste Karte von F&E an. Du kannst diese Karte unter F&E legen.\n[subroutine] Verursache 1 Netz-Schaden.",
+    "title": "Yagura"
+  },
+  {
+    "code": "04094",
+    "flavor": "Er öffnete vorsichtig den Deckel und im Dämmerlicht zuckten Reflexionen auf dem Tantō. Die Führungskraft deutete auf die Klinge. Es sah so aus, als würde seine Redezeit dieses Mal … beschnitten werden.",
+    "text": "Zerstöre einen deiner isntallierten <strong>Sysops</strong>, <strong>Führungskräfte</strong>, oder <strong>Klone</strong>. Falls du das tust, entferne bis zu 2 negative Publicity.",
+    "title": "Das Gesicht wiederherstellen"
+  },
+  {
+    "code": "04095",
+    "keywords": "Forschung",
+    "text": "Wenn der Runner markiert ist, wenn du die Punkte für Marktforschung erzielst, lege 1 Agendazähler darauf.\nMarktforschung ist 1 zusätzlichen Agendapunkt wet, solange ein Agendazähler darauf liegt.",
+    "title": "Marktforschung"
+  },
+  {
+    "code": "04096",
+    "flavor": "\"Geniale Achterbahn, vorausgesetzt, deine Stims passen\" -Noise",
+    "keywords": "Barriere",
+    "text": "Falls kein <strong>Fracter</strong> installiert ist, hat Multi-Loop +7 Stärke.\n[subroutine] Beende den Run.",
+    "title": "Multi-Loop"
+  },
+  {
+    "code": "04097",
+    "flavor": "<strong>G</strong>eothermische <strong>R</strong>essourcen-<strong>N</strong>utzungs- und <strong>D</strong>atenanalyse-<strong>L</strong>aboratorien",
+    "keywords": "Abteilung",
+    "text": "Du beginnst das Spiel mit 10[credit] und 1 negativen Publicity.",
+    "title": "GRNDL: Entfesselte Gewalten"
+  },
+  {
+    "code": "04098",
+    "flavor": "\"Ich hab euch ausdrücklich gewarnt, dass Lecks abgedichtet werden müssen.\"",
+    "keywords": "Sicherheit",
+    "text": "Sobald du die Punkte für Vulcan-Vertuschung erzielst, verursache 2 Körper-Schaden.\nWenn der Runner Vulcan-Vertuschung stiehlt, erhältst du 1  negative Publicity.",
+    "title": "Vulcan-Vertuschung"
+  },
+  {
+    "code": "04099",
+    "flavor": "GRNDL-Raffinerien verarbeiten zahlreiche verschiedene seltene Elemente, die während des Fracking-Prozesses gefördert werden.",
+    "keywords": "Anlage",
+    "text": "GRNDL-Raffinerie kann entwickelt werden.\n[click], [trash]: Erhalte 4[credit] für jeden Entwicklungsmarker auf GRNDL-Raffinerie.",
+    "title": "GRNDL-Raffinerie"
+  },
+  {
+    "code": "04100",
+    "keywords": "Graue Ops",
+    "text": "Erhalte 1[credit]. Erhalte [click], falls du in diesem Zug noch keine weitere Kopie von Unterschwellige Botschaften gespielt hast.\nFalls der Runner in seinem letzten Zug keinen Run durchgeführt hat, kannst du Unterschwellige Botschaften vom Archiv wieder dem HQ hinzufügen, wenn dein Zug beginnt.",
+    "title": "Unterschwellige Botschaften"
+  }
 ]

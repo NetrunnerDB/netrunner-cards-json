@@ -1,18 +1,16 @@
 {
-    "card_type_id": "asset",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "public_health_portal",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When your turn begins, reveal the top card of R&D and gain 2 credits.",
-    "stripped_title": "Public Health Portal",
-    "subtypes": [
-        "facility"
-    ],
-    "text": "When your turn begins, reveal the top card of R&D and gain 2[credit].",
-    "title": "Public Health Portal",
-    "trash_cost": 2
+  "card_type_id": "asset",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "public_health_portal",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When your turn begins, reveal the top card of R&D and gain 2 credits.",
+  "stripped_title": "Public Health Portal",
+  "subtypes": ["facility"],
+  "text": "When your turn begins, reveal the top card of R&D and gain 2[credit].",
+  "title": "Public Health Portal",
+  "trash_cost": 2
 }

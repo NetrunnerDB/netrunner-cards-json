@@ -1,19 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 4,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "negotiator",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 3,
-    "stripped_text": "The Runner can pay 2 credits to break any subroutine on Negotiator. Subroutine The Corp gains 2 credits. Subroutine Trash 1 program.",
-    "stripped_title": "Negotiator",
-    "subtypes": [
-        "sentry",
-        "destroyer"
-    ],
-    "text": "The Runner can pay 2[credit] to break any subroutine on Negotiator.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trash 1 program.",
-    "title": "Negotiator"
+  "card_type_id": "ice",
+  "cost": 4,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "negotiator",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "The Runner can pay 2 credits to break any subroutine on Negotiator. Subroutine The Corp gains 2 credits. Subroutine Trash 1 program.",
+  "stripped_title": "Negotiator",
+  "subtypes": ["sentry", "destroyer"],
+  "text": "The Runner can pay 2[credit] to break any subroutine on Negotiator.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trash 1 program.",
+  "title": "Negotiator"
 }

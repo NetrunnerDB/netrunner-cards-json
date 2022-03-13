@@ -1,127 +1,127 @@
 [
-    {
-        "code": "12101",
-        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nDer Kon muss 5[credit] zahlen oder 1 Negative Publicity nehmen. Entferne Bergbau-Unfall aus dem Spiel, statt sie zu zerstören.",
-        "title": "Bergbau-Unfall"
-    },
-    {
-        "code": "12102",
-        "keywords": "Kybernetik",
-        "text": "Wenn du Respirozyten installierst, nimmst du 1 Körper-Schaden.\nWenn du zum ersten Mal während eines Zuges 0 Karten in deinem Griff hast, ziehe 1 Karte und lege einen Wirkungszähler auf Respirozyten. Sobald Respirozyten 3 oder mehr Wirkungszähler hat, zerstöre sie.",
-        "title": "Respirozyten"
-    },
-    {
-        "code": "12103",
-        "flavor": "Vanadis, ein marsianischer Waffenhersteller, gehörte zu den ersten Anlagen, die während des Krieges vom Orbit aus angegriffen wurden.",
-        "keywords": "Clan",
-        "text": "[trash]: Der Kon zerstört die obersten X Karten von F&E. X ist die Menge Schaden, den du in diesem Zug genommen hast. Verwende diese Fähigkeit sofort, nachdem du Schaden genommen hast.",
-        "title": "Geborgenes Vanadis-Waffenlager"
-    },
-    {
-        "code": "12104",
-        "keywords": "Ice-Brecher - KI - Virus",
-        "text": "Immer wenn du eine Karte enthüllst oder auf Karten zugreifst und keine davon stiehlst oder zerstörst, lege 1 Viruszähler auf Aumakua.\nAumakua hat +1 Stärke für jeden Viruszähler darauf.\n1[credit]: Schalte eine Subroutine eines Ice aus.",
-        "title": "Aumakua"
-    },
-    {
-        "code": "12105",
-        "flavor": "Die elektrischen Impulse schnitten durch das Netz und spürten Los' Standort auf. Als sie auf seine Verteidigung trafen, verbrauchten sie sich auf dem Weg bergauf.",
-        "keywords": "Virtuell",
-        "text": "3[credit]: Verhindere 1 Netz- oder Hirn-Schaden.",
-        "title": "Vulkankrater"
-    },
-    {
-        "code": "12106",
-        "keywords": "Run",
-        "text": "Führe einen Run durch. Immer wenn du während dieses Runs auf ein Ice triffst, darfst du ein Programm von deinem Griff installieren, ohne die Kosten dafür zu bezahlen. Sobald der Run endet, zerstöre alle Programme, die du mit Dianas Jagd installiert hast.",
-        "title": "Dianas Jagd"
-    },
-    {
-        "code": "12107",
-        "flavor": "\"Ich nutze die kosmische Kraft - eine galaktische Macht, die das Netz verändern kann!\" - S'onge Galaxy",
-        "text": "Tausche 2 ungeladene Ice miteinander.",
-        "title": "Umformen"
-    },
-    {
-        "code": "12108",
-        "flavor": "\"Ein wirklich passender Name\" - g00ru",
-        "keywords": "Virtuell",
-        "text": "<strong>Zerstöre eine Karte aus deinem Griff</strong>: Verhindere, dass eine andere installierte Karte derselben Kartenart vom Kon zerstört wird.",
-        "title": "Dummy-Box"
-    },
-    {
-        "code": "12109",
-        "flavor": "Er war plötzlich sehr motiviert, vertrauliche Informationen weiterzugeben.",
-        "keywords": "Kontakt",
-        "text": "Immer wenn der Kon [click] ausgibt, um eine Karte zu ziehen (nicht durch Kartenfähigkeiten), decke jene Karte auf.",
-        "title": "Konzern-Überläufer"
-    },
-    {
-        "code": "12110",
-        "flavor": "\"Sicher haben wir auch menschliche Arbeitskräfte - sie sind einfacher zu ersetzen\" - Emil Merk",
-        "text": "Sobald du die Punkte für CFC-Abbauvertrag erzielst, erhältst du 2[credit] für jeden geladenen <strong>Bioroid</strong>.",
-        "title": "CFC-Abbauvertrag"
-    },
-    {
-        "code": "12111",
-        "text": "[click]: Lege 1 Wirkungszähler auf MCA-Sparpolitik. Sobald der nächste Zug des Runners beginnt, verliert er [click]. Verwende diese Fähigkeit nur ein Mal pro Zug.\n[click], [trash], <strong>3 gehostete Wirkungszähler</strong>: du erhältst [click], [click], [click], [click].",
-        "title": "MCA-Sparpolitik"
-    },
-    {
-        "code": "12112",
-        "text": "Installiere und lade 1 Karte aus dem Archiv (und zahle die Kosten dafür). Entferne alle anderen Kopien dieser Karte im Archiv aus dem Spiel.",
-        "title": "Wiederherstellen"
-    },
-    {
-        "code": "12113",
-        "keywords": "Hinterhalt",
-        "text": "Falls von F&E auf Geborstene Kuppel zugegriffen wird, muss der Runner sie aufdecken.\nSobald der Runner auf Geborstene Kuppel zugreift, füge 1 Körper-Schaden zu und zerstöre die oberste Karte des Stapels.",
-        "title": "Geborstene Kuppel"
-    },
-    {
-        "code": "12114",
-        "flavor": "Als der Datensturm vorbei war, sah die Landschaft anders aus und sie hatte sich hoffnungslos verirrt.",
-        "keywords": "Falle - Deflektor",
-        "text": "[subroutine] Verschiebe Sandsturm so, dass es das äußerste Ice ist, das ein anderes System schützt. (Der Runner führt seinen Run von der neuen Position aus auf das neue System durch). Zerstöre Sandsturm.",
-        "title": "Sandsturm"
-    },
-    {
-        "code": "12115",
-        "flavor": "Nur NBNs Sicherheitsteams waren mit Systemen ausgerüstet, die den Datenfluss lesen und ins Netz sehen konnten.",
-        "keywords": "Sicherheit",
-        "text": "Wenn der Runner zum ersten Mal in seinem Zug eine Kon-Karte zerstört, verpasse ihm 1 Markierung.",
-        "title": "AR-Verbesserte Sicherheit"
-    },
-    {
-        "code": "12116",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nDie Ausspielkosten für jede Operation und jedes Ereignis werden um 1 erhöht.\nWenn der Runner zum ersten Mal in einem Zug ein Ereignis spielt, erhältst du 1[credit].",
-        "title": "Stromverknappung"
-    },
-    {
-        "code": "12117",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\n<trace>Aufspüren 1</trace> Bei Erfolg verpasse dem Runner 1 Markierung für jede Markierung, die er bereits hat. Falls der Runner keine Markierung hat, verpasse ihm 1 Markierung.",
-        "title": "Bedrohungsstufe Alpha"
-    },
-    {
-        "code": "12118",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nInstalliere ein Ice aus dem HQ, um eine ausgelagertes System zu schützen, ohne die Kosten dafür zu bezahlen. Lege 3 Entwicklungsmarker auf dieses Ice.",
-        "title": "Vorrangiges Bauprojekt"
-    },
-    {
-        "code": "12119",
-        "flavor": "\"Ich bette rekursive Datenschleifen in die Entweder/Oder-Entscheidungs-Subroutinen jedes Ice ein.\" - Anson Rose",
-        "keywords": "Sicherheitsprotokoll",
-        "text": "Jedes Mal, wenn alle Subroutinen auf einem Ice, das dieses System schützt, ausgeschaltet werden, zerstöre die obersten 2 Karten des Stapels.",
-        "title": "Fraktale Bedrohungsmatrix"
-    },
-    {
-        "code": "12120",
-        "flavor": "Ein Geistesbild davon ließ sich im Rauschen seiner BMI ausmachen. Er hoffte, niemals wieder wirklich darauf zu treffen.",
-        "keywords": "Code-Zugang",
-        "text": "Rätsel hat +3 Stärke, falls eine <strong>KI</strong> installiert ist.\n[subroutine] Der Runner zerstört ein installiertes Programm.\n[subroutine] Der Runner verliert [click], falls möglich.\n[subroutine] Beende den Run.",
-        "title": "Rätsel"
-    }
+  {
+    "code": "12101",
+    "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nDer Kon muss 5[credit] zahlen oder 1 Negative Publicity nehmen. Entferne Bergbau-Unfall aus dem Spiel, statt sie zu zerstören.",
+    "title": "Bergbau-Unfall"
+  },
+  {
+    "code": "12102",
+    "keywords": "Kybernetik",
+    "text": "Wenn du Respirozyten installierst, nimmst du 1 Körper-Schaden.\nWenn du zum ersten Mal während eines Zuges 0 Karten in deinem Griff hast, ziehe 1 Karte und lege einen Wirkungszähler auf Respirozyten. Sobald Respirozyten 3 oder mehr Wirkungszähler hat, zerstöre sie.",
+    "title": "Respirozyten"
+  },
+  {
+    "code": "12103",
+    "flavor": "Vanadis, ein marsianischer Waffenhersteller, gehörte zu den ersten Anlagen, die während des Krieges vom Orbit aus angegriffen wurden.",
+    "keywords": "Clan",
+    "text": "[trash]: Der Kon zerstört die obersten X Karten von F&E. X ist die Menge Schaden, den du in diesem Zug genommen hast. Verwende diese Fähigkeit sofort, nachdem du Schaden genommen hast.",
+    "title": "Geborgenes Vanadis-Waffenlager"
+  },
+  {
+    "code": "12104",
+    "keywords": "Ice-Brecher - KI - Virus",
+    "text": "Immer wenn du eine Karte enthüllst oder auf Karten zugreifst und keine davon stiehlst oder zerstörst, lege 1 Viruszähler auf Aumakua.\nAumakua hat +1 Stärke für jeden Viruszähler darauf.\n1[credit]: Schalte eine Subroutine eines Ice aus.",
+    "title": "Aumakua"
+  },
+  {
+    "code": "12105",
+    "flavor": "Die elektrischen Impulse schnitten durch das Netz und spürten Los' Standort auf. Als sie auf seine Verteidigung trafen, verbrauchten sie sich auf dem Weg bergauf.",
+    "keywords": "Virtuell",
+    "text": "3[credit]: Verhindere 1 Netz- oder Hirn-Schaden.",
+    "title": "Vulkankrater"
+  },
+  {
+    "code": "12106",
+    "keywords": "Run",
+    "text": "Führe einen Run durch. Immer wenn du während dieses Runs auf ein Ice triffst, darfst du ein Programm von deinem Griff installieren, ohne die Kosten dafür zu bezahlen. Sobald der Run endet, zerstöre alle Programme, die du mit Dianas Jagd installiert hast.",
+    "title": "Dianas Jagd"
+  },
+  {
+    "code": "12107",
+    "flavor": "\"Ich nutze die kosmische Kraft - eine galaktische Macht, die das Netz verändern kann!\" - S'onge Galaxy",
+    "text": "Tausche 2 ungeladene Ice miteinander.",
+    "title": "Umformen"
+  },
+  {
+    "code": "12108",
+    "flavor": "\"Ein wirklich passender Name\" - g00ru",
+    "keywords": "Virtuell",
+    "text": "<strong>Zerstöre eine Karte aus deinem Griff</strong>: Verhindere, dass eine andere installierte Karte derselben Kartenart vom Kon zerstört wird.",
+    "title": "Dummy-Box"
+  },
+  {
+    "code": "12109",
+    "flavor": "Er war plötzlich sehr motiviert, vertrauliche Informationen weiterzugeben.",
+    "keywords": "Kontakt",
+    "text": "Immer wenn der Kon [click] ausgibt, um eine Karte zu ziehen (nicht durch Kartenfähigkeiten), decke jene Karte auf.",
+    "title": "Konzern-Überläufer"
+  },
+  {
+    "code": "12110",
+    "flavor": "\"Sicher haben wir auch menschliche Arbeitskräfte - sie sind einfacher zu ersetzen\" - Emil Merk",
+    "text": "Sobald du die Punkte für CFC-Abbauvertrag erzielst, erhältst du 2[credit] für jeden geladenen <strong>Bioroid</strong>.",
+    "title": "CFC-Abbauvertrag"
+  },
+  {
+    "code": "12111",
+    "text": "[click]: Lege 1 Wirkungszähler auf MCA-Sparpolitik. Sobald der nächste Zug des Runners beginnt, verliert er [click]. Verwende diese Fähigkeit nur ein Mal pro Zug.\n[click], [trash], <strong>3 gehostete Wirkungszähler</strong>: du erhältst [click], [click], [click], [click].",
+    "title": "MCA-Sparpolitik"
+  },
+  {
+    "code": "12112",
+    "text": "Installiere und lade 1 Karte aus dem Archiv (und zahle die Kosten dafür). Entferne alle anderen Kopien dieser Karte im Archiv aus dem Spiel.",
+    "title": "Wiederherstellen"
+  },
+  {
+    "code": "12113",
+    "keywords": "Hinterhalt",
+    "text": "Falls von F&E auf Geborstene Kuppel zugegriffen wird, muss der Runner sie aufdecken.\nSobald der Runner auf Geborstene Kuppel zugreift, füge 1 Körper-Schaden zu und zerstöre die oberste Karte des Stapels.",
+    "title": "Geborstene Kuppel"
+  },
+  {
+    "code": "12114",
+    "flavor": "Als der Datensturm vorbei war, sah die Landschaft anders aus und sie hatte sich hoffnungslos verirrt.",
+    "keywords": "Falle - Deflektor",
+    "text": "[subroutine] Verschiebe Sandsturm so, dass es das äußerste Ice ist, das ein anderes System schützt. (Der Runner führt seinen Run von der neuen Position aus auf das neue System durch). Zerstöre Sandsturm.",
+    "title": "Sandsturm"
+  },
+  {
+    "code": "12115",
+    "flavor": "Nur NBNs Sicherheitsteams waren mit Systemen ausgerüstet, die den Datenfluss lesen und ins Netz sehen konnten.",
+    "keywords": "Sicherheit",
+    "text": "Wenn der Runner zum ersten Mal in seinem Zug eine Kon-Karte zerstört, verpasse ihm 1 Markierung.",
+    "title": "AR-Verbesserte Sicherheit"
+  },
+  {
+    "code": "12116",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nDie Ausspielkosten für jede Operation und jedes Ereignis werden um 1 erhöht.\nWenn der Runner zum ersten Mal in einem Zug ein Ereignis spielt, erhältst du 1[credit].",
+    "title": "Stromverknappung"
+  },
+  {
+    "code": "12117",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\n<trace>Aufspüren 1</trace> Bei Erfolg verpasse dem Runner 1 Markierung für jede Markierung, die er bereits hat. Falls der Runner keine Markierung hat, verpasse ihm 1 Markierung.",
+    "title": "Bedrohungsstufe Alpha"
+  },
+  {
+    "code": "12118",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nInstalliere ein Ice aus dem HQ, um eine ausgelagertes System zu schützen, ohne die Kosten dafür zu bezahlen. Lege 3 Entwicklungsmarker auf dieses Ice.",
+    "title": "Vorrangiges Bauprojekt"
+  },
+  {
+    "code": "12119",
+    "flavor": "\"Ich bette rekursive Datenschleifen in die Entweder/Oder-Entscheidungs-Subroutinen jedes Ice ein.\" - Anson Rose",
+    "keywords": "Sicherheitsprotokoll",
+    "text": "Jedes Mal, wenn alle Subroutinen auf einem Ice, das dieses System schützt, ausgeschaltet werden, zerstöre die obersten 2 Karten des Stapels.",
+    "title": "Fraktale Bedrohungsmatrix"
+  },
+  {
+    "code": "12120",
+    "flavor": "Ein Geistesbild davon ließ sich im Rauschen seiner BMI ausmachen. Er hoffte, niemals wieder wirklich darauf zu treffen.",
+    "keywords": "Code-Zugang",
+    "text": "Rätsel hat +3 Stärke, falls eine <strong>KI</strong> installiert ist.\n[subroutine] Der Runner zerstört ein installiertes Programm.\n[subroutine] Der Runner verliert [click], falls möglich.\n[subroutine] Beende den Run.",
+    "title": "Rätsel"
+  }
 ]

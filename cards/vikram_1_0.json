@@ -1,21 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 6,
-    "deck_limit": 3,
-    "faction_id": "haas-bioroid",
-    "id": "vikram_1_0",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 5,
-    "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Runner cannot use programs for the remainder of this run. Subroutine Trace[4]. If successful, do 1 brain damage. Subroutine Trace[4]. If successful, do 1 brain damage.",
-    "stripped_title": "Vikram 1.0",
-    "subtypes": [
-        "sentry",
-        "bioroid",
-        "tracer",
-        "ap"
-    ],
-    "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner cannot use programs for the remainder of this run.\n[subroutine] Trace[4]. If successful, do 1 brain damage.\n[subroutine] Trace[4]. If successful, do 1 brain damage.",
-    "title": "Vikram 1.0"
+  "card_type_id": "ice",
+  "cost": 6,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "vikram_1_0",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Runner cannot use programs for the remainder of this run. Subroutine Trace[4]. If successful, do 1 brain damage. Subroutine Trace[4]. If successful, do 1 brain damage.",
+  "stripped_title": "Vikram 1.0",
+  "subtypes": ["sentry", "bioroid", "tracer", "ap"],
+  "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner cannot use programs for the remainder of this run.\n[subroutine] Trace[4]. If successful, do 1 brain damage.\n[subroutine] Trace[4]. If successful, do 1 brain damage.",
+  "title": "Vikram 1.0"
 }

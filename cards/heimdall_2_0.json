@@ -1,20 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 11,
-    "deck_limit": 3,
-    "faction_id": "haas-bioroid",
-    "id": "heimdall_2_0",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 7,
-    "stripped_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage and end the run. Subroutine End the run.",
-    "stripped_title": "Heimdall 2.0",
-    "subtypes": [
-        "barrier",
-        "bioroid",
-        "ap"
-    ],
-    "text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage and end the run.\n[subroutine] End the run.",
-    "title": "Heimdall 2.0"
+  "card_type_id": "ice",
+  "cost": 11,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "heimdall_2_0",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 7,
+  "stripped_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage and end the run. Subroutine End the run.",
+  "stripped_title": "Heimdall 2.0",
+  "subtypes": ["barrier", "bioroid", "ap"],
+  "text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage and end the run.\n[subroutine] End the run.",
+  "title": "Heimdall 2.0"
 }

@@ -1,18 +1,16 @@
 {
-    "card_type_id": "upgrade",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "intake",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "If Intake is accessed from R&D, the Runner must reveal it. When the Runner accesses Intake, trace 4 If successful, add an installed program or virtual resource to the grip. Ignore this ability if the Runner accesses Intake from Archives.",
-    "stripped_title": "Intake",
-    "subtypes": [
-        "ambush"
-    ],
-    "text": "If Intake is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Intake, <trace>trace 4</trace> If successful, add an installed program or <strong>virtual</strong> resource to the grip. Ignore this ability if the Runner accesses Intake from Archives.",
-    "title": "Intake",
-    "trash_cost": 0
+  "card_type_id": "upgrade",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "intake",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "If Intake is accessed from R&D, the Runner must reveal it. When the Runner accesses Intake, trace 4 If successful, add an installed program or virtual resource to the grip. Ignore this ability if the Runner accesses Intake from Archives.",
+  "stripped_title": "Intake",
+  "subtypes": ["ambush"],
+  "text": "If Intake is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Intake, <trace>trace 4</trace> If successful, add an installed program or <strong>virtual</strong> resource to the grip. Ignore this ability if the Runner accesses Intake from Archives.",
+  "title": "Intake",
+  "trash_cost": 0
 }

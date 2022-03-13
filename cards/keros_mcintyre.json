@@ -1,17 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "criminal",
-    "id": "keros_mcintyre",
-    "influence_cost": 3,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "The first time you derez a piece of ice each turn, gain 2 credits.",
-    "stripped_title": "Keros Mcintyre",
-    "subtypes": [
-        "connection"
-    ],
-    "text": "The first time you derez a piece of ice each turn, gain 2[credit].",
-    "title": "Keros Mcintyre"
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "keros_mcintyre",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "The first time you derez a piece of ice each turn, gain 2 credits.",
+  "stripped_title": "Keros Mcintyre",
+  "subtypes": ["connection"],
+  "text": "The first time you derez a piece of ice each turn, gain 2[credit].",
+  "title": "Keros Mcintyre"
 }

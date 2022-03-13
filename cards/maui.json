@@ -1,17 +1,15 @@
 {
-    "card_type_id": "hardware",
-    "cost": 5,
-    "deck_limit": 3,
-    "faction_id": "criminal",
-    "id": "maui",
-    "influence_cost": 2,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "+2 mu X recurring credits Use these credits during runs on HQ. X is the number of pieces of ice protecting HQ. Limit 1 console per player.",
-    "stripped_title": "Maui",
-    "subtypes": [
-        "console"
-    ],
-    "text": "+2[mu]\nX[recurring-credit]\nUse these credits during runs on HQ. X is the number of pieces of ice protecting HQ.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Māui"
+  "card_type_id": "hardware",
+  "cost": 5,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "maui",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "+2 mu X recurring credits Use these credits during runs on HQ. X is the number of pieces of ice protecting HQ. Limit 1 console per player.",
+  "stripped_title": "Maui",
+  "subtypes": ["console"],
+  "text": "+2[mu]\nX[recurring-credit]\nUse these credits during runs on HQ. X is the number of pieces of ice protecting HQ.\nLimit 1 <strong>console</strong> per player.",
+  "title": "Māui"
 }

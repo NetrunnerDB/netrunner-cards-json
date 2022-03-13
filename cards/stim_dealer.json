@@ -1,17 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 4,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "stim_dealer",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain click.",
-    "stripped_title": "Stim Dealer",
-    "subtypes": [
-        "connection"
-    ],
-    "text": "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain [click].",
-    "title": "Stim Dealer"
+  "card_type_id": "resource",
+  "cost": 4,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "stim_dealer",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain click.",
+  "stripped_title": "Stim Dealer",
+  "subtypes": ["connection"],
+  "text": "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain [click].",
+  "title": "Stim Dealer"
 }

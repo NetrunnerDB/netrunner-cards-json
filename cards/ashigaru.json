@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 9,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "ashigaru",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 4,
-    "stripped_text": "Ashigaru gains \"Subroutine End the run.\" for each card in HQ.",
-    "stripped_title": "Ashigaru",
-    "subtypes": [
-        "barrier"
-    ],
-    "text": "Ashigaru gains \"[subroutine] End the run.\" for each card in HQ.",
-    "title": "Ashigaru"
+  "card_type_id": "ice",
+  "cost": 9,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "ashigaru",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "Ashigaru gains \"Subroutine End the run.\" for each card in HQ.",
+  "stripped_title": "Ashigaru",
+  "subtypes": ["barrier"],
+  "text": "Ashigaru gains \"[subroutine] End the run.\" for each card in HQ.",
+  "title": "Ashigaru"
 }

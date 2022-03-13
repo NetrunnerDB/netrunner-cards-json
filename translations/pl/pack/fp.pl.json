@@ -1,135 +1,135 @@
 [
-    {
-        "code": "02101",
-        "keywords": "Skok",
-        "text": "Przeprowadź skok na Archiwa. Jeśli jest udany, zamiast uzyskania dostępu kart możesz zainstalować program ze swojej sterty, ignorując wszystkie koszty.",
-        "title": "Skok na odzysk"
-    },
-    {
-        "code": "02102",
-        "keywords": "Lodołamacz - AI - Wirus",
-        "text": "2[credit]: Złam podprogram lodu.\nX to liczba znaczników wirusa leżących na Darwinie.\nGdy zaczynasz turę, możesz zapłacić 1[credit], aby umieścić 1 znacznik wirusa na Darwinie.",
-        "title": "Darwin"
-    },
-    {
-        "code": "02103",
-        "flavor": "Dwukierunkowe rozwiązywanie jednokierunkowego problemu, odwrócenie wycieku danych, w skrócie OWD, nosi nazwę wprowadzającą w błąd. W istocie nie następuje żadne odwrócenie danych, a raczej powstaje równoległe połączenie z początkowym źródłem.",
-        "keywords": "Wirtualne - Sabotaż",
-        "text": "Zainstaluj tylko, jeśli przeprowadziłeś w tej turze udany skok na serwer centralny.\nJeśli jesteś otagowany, Odwrócenie wycieku danych zyskuje \"[click]: Korp kasuje wierzchnią kartę z R&D.\"",
-        "title": "Odwrócenie wycieku danych"
-    },
-    {
-        "code": "02104",
-        "flavor": "Wierzysz we wróżki?",
-        "keywords": "Lodołamacz - Zabójca",
-        "text": "0[credit]: Złam podprogram <strong>strażnika</strong>.\n1[credit]: +1 siły.\nGdy skończy się spotkanie, w trakcie którego użyłeś Wróżki do złamania podprogramu, skasuj Wróżkę.",
-        "title": "Wróżka"
-    },
-    {
-        "code": "02105",
-        "flavor": "- Zawsze chętnie pomagamy, panie Santiago.\n- Jestem wdzięczny, panie Li.\n- Będziemy w kontakcie, A, Gabriel...\n- Tak?\n- Nie wyjeżdżaj z miasta.",
-        "keywords": "Kontakt",
-        "text": "[click]: Dobierz 2 karty. Dodaj 1 z nich na spód swojego stosu.",
-        "title": "Pan Li"
-    },
-    {
-        "code": "02106",
-        "flavor": "Raz na jakiś czas potrzeba odrobinę korporacyjnej restrukturyzacji.",
-        "keywords": "Skok",
-        "text": "Przeprowadź skok na R&D. Jeśli jest udany, uzyskać dostęp do kart, możesz obejrzeć 5 kart z wierzchu R&D i ułożyć je w dowolnej kolejności.",
-        "title": "Indeksacja"
-    },
-    {
-        "code": "02107",
-        "flavor": "Najlepiej używać na własnym biurku.",
-        "text": "Zawsze gdy uzyskasz dostęp do kart z R&D, uzyskujesz dostęp do 1 dodatkowej karty z R&D.",
-        "title": "Interfejs R&D"
-    },
-    {
-        "code": "02108",
-        "keywords": "Wirus",
-        "text": "Zawsze gdy przeprowadzisz udany skok na R&D, połóż 1 znacznik wirusa na Głębokiej myśli.\nJeśli na Głębokiej myśli leżą przynajmniej 3 znaczniki wirusa, zyskuje ona \"Gdy zaczynasz swoją turę, możesz obejrzeć wierzchnią kartę z R&D.\"",
-        "title": "Głęboka myśl"
-    },
-    {
-        "code": "02109",
-        "flavor": "\"New Angeles to klejnot współczesnej cywilizacji, a inne narody podziwiają jego władze.\" - Burmistrz Wells",
-        "keywords": "Miejsce - Rząd",
-        "text": "2[credit]: Pomiń 1 tag.\nSkasuj Ratusz Miasta New Angeles, gdy wykradniesz projekt.",
-        "title": "Ratusz Miasta New Angeles"
-    },
-    {
-        "code": "02110",
-        "flavor": "\"To niezgodne z zasadami. Stwórcy będą się gniewać.\"",
-        "keywords": "Bariera - Bioroid",
-        "text": "Runner może wydać [click], by złamać dowolny podprogram Eli 1.0.\n[subroutine] Zakończ skok.\n[subroutine] Zakończ skok.",
-        "title": "Eli 1.0"
-    },
-    {
-        "code": "02111",
-        "flavor": "Znane z luksusowych skoczków i pysznej kiszonej kapusty.",
-        "keywords": "Region",
-        "text": "Runner musi wydać [click] jako dodatkowy koszt przeprowadzenia skoku na ten serwer.\nLimit 1 <strong>regionu</strong> na serwer.",
-        "title": "Zagłębie Ruhry"
-    },
-    {
-        "code": "02112",
-        "flavor": "Będę ci służyć... przez pewien czas.",
-        "keywords": "Wrogi",
-        "text": "Ronina można awansować.\nJeśli na Roninie leżą przynajmniej 4 żetony zaawansowania, zyskuje on \"[click], [trash]: Zadaj 3 obrażenia sprzętu.\"",
-        "title": "Ronin"
-    },
-    {
-        "code": "02113",
-        "flavor": "\"Ktoś tu jest chyba niegrzeczny...\"",
-        "keywords": "Sysop",
-        "text": "Raz na skok, gdy runner podchodzi do lodu chroniącego ten serwer, możesz zamienić ten lód z lodem z HQ. Nowy lód instalujesz odrezowany.",
-        "title": "Midori"
-    },
-    {
-        "code": "02114",
-        "flavor": "*z pewnymi ograniczeniami. Przeszukaj tą kartę, by uzyskać więcej informacji.",
-        "keywords": "Megakorp",
-        "text": "Twój limit kart na ręce jest większy o 1.",
-        "title": "NBN: Świat jest twój*"
-    },
-    {
-        "code": "02115",
-        "keywords": "Badania",
-        "text": "Gdy zapunktujesz Project Beale, połóż na nim 1 znacznik projektu za każde 2 leżące na nim żetony zaawansowania powyżej 3.\nProject Beale jest warty 1 dodatkowy punkt projektu za każdy leżący na nim znacznik projektu.",
-        "title": "Projekt Beale"
-    },
-    {
-        "code": "02116",
-        "text": "Zagraj tylko, jeśli runner wykradł projekt w swojej poprzedniej turze.\n<trace>Trace 6</trace> Jeśli udane, daj runnerowi tagi w liczbie równej różnicy siły namierzania i siły połączenia.",
-        "title": "Nieplanowana zmiana ramówki"
-    },
-    {
-        "code": "02117",
-        "flavor": "Jasne światło rozkwitło i konsola zgasła. Wtedy poczuła dym.",
-        "keywords": "Strażnik - Tropiciel - AP",
-        "text": "[subroutine]<trace>Trace 6</trace> Jeśli udane, skasuj 1 sprzęt, zadaj 2 obrażenia ciała (nie można ich zablokować) i zakończ skok.",
-        "title": "Flara"
-    },
-    {
-        "code": "02118",
-        "flavor": "To naprawdę stały zespół",
-        "keywords": "Wrogi",
-        "text": "Jeśli runner jest otagowany, Stały zespół reagowania zyskuje: \"Zawsze gdy kończy się udany skok, zadaj 2 obrażenia ciała.\"",
-        "title": "Stały zespół reagowania"
-    },
-    {
-        "code": "02119",
-        "flavor": "\"Gdybym miał określić je jednym słowem, powiedziałbym '****sko irytujące.'\" - Magik",
-        "keywords": "Strażnik - Niszczyciel",
-        "text": "[subroutine] <trace>Trace 0</trace> Jeśli udane, runner kasuje 1 program.",
-        "title": "Burke Bugs"
-    },
-    {
-        "code": "02120",
-        "flavor": "Wojnę korporacji można było wygrać na kilka sposobów. Jednym z nich było wyjęcie bazooki.",
-        "keywords": "Ekspansja",
-        "text": "Jeśli masz przynajmniej 7[credit], gdy zapunktujesz Wojnę korporacji, pobierz 7[credit]; jeśli nie, tracisz wszystkie kredyty ze swojej puli kredytów.",
-        "title": "Wojna korporacji"
-    }
+  {
+    "code": "02101",
+    "keywords": "Skok",
+    "text": "Przeprowadź skok na Archiwa. Jeśli jest udany, zamiast uzyskania dostępu kart możesz zainstalować program ze swojej sterty, ignorując wszystkie koszty.",
+    "title": "Skok na odzysk"
+  },
+  {
+    "code": "02102",
+    "keywords": "Lodołamacz - AI - Wirus",
+    "text": "2[credit]: Złam podprogram lodu.\nX to liczba znaczników wirusa leżących na Darwinie.\nGdy zaczynasz turę, możesz zapłacić 1[credit], aby umieścić 1 znacznik wirusa na Darwinie.",
+    "title": "Darwin"
+  },
+  {
+    "code": "02103",
+    "flavor": "Dwukierunkowe rozwiązywanie jednokierunkowego problemu, odwrócenie wycieku danych, w skrócie OWD, nosi nazwę wprowadzającą w błąd. W istocie nie następuje żadne odwrócenie danych, a raczej powstaje równoległe połączenie z początkowym źródłem.",
+    "keywords": "Wirtualne - Sabotaż",
+    "text": "Zainstaluj tylko, jeśli przeprowadziłeś w tej turze udany skok na serwer centralny.\nJeśli jesteś otagowany, Odwrócenie wycieku danych zyskuje \"[click]: Korp kasuje wierzchnią kartę z R&D.\"",
+    "title": "Odwrócenie wycieku danych"
+  },
+  {
+    "code": "02104",
+    "flavor": "Wierzysz we wróżki?",
+    "keywords": "Lodołamacz - Zabójca",
+    "text": "0[credit]: Złam podprogram <strong>strażnika</strong>.\n1[credit]: +1 siły.\nGdy skończy się spotkanie, w trakcie którego użyłeś Wróżki do złamania podprogramu, skasuj Wróżkę.",
+    "title": "Wróżka"
+  },
+  {
+    "code": "02105",
+    "flavor": "- Zawsze chętnie pomagamy, panie Santiago.\n- Jestem wdzięczny, panie Li.\n- Będziemy w kontakcie, A, Gabriel...\n- Tak?\n- Nie wyjeżdżaj z miasta.",
+    "keywords": "Kontakt",
+    "text": "[click]: Dobierz 2 karty. Dodaj 1 z nich na spód swojego stosu.",
+    "title": "Pan Li"
+  },
+  {
+    "code": "02106",
+    "flavor": "Raz na jakiś czas potrzeba odrobinę korporacyjnej restrukturyzacji.",
+    "keywords": "Skok",
+    "text": "Przeprowadź skok na R&D. Jeśli jest udany, uzyskać dostęp do kart, możesz obejrzeć 5 kart z wierzchu R&D i ułożyć je w dowolnej kolejności.",
+    "title": "Indeksacja"
+  },
+  {
+    "code": "02107",
+    "flavor": "Najlepiej używać na własnym biurku.",
+    "text": "Zawsze gdy uzyskasz dostęp do kart z R&D, uzyskujesz dostęp do 1 dodatkowej karty z R&D.",
+    "title": "Interfejs R&D"
+  },
+  {
+    "code": "02108",
+    "keywords": "Wirus",
+    "text": "Zawsze gdy przeprowadzisz udany skok na R&D, połóż 1 znacznik wirusa na Głębokiej myśli.\nJeśli na Głębokiej myśli leżą przynajmniej 3 znaczniki wirusa, zyskuje ona \"Gdy zaczynasz swoją turę, możesz obejrzeć wierzchnią kartę z R&D.\"",
+    "title": "Głęboka myśl"
+  },
+  {
+    "code": "02109",
+    "flavor": "\"New Angeles to klejnot współczesnej cywilizacji, a inne narody podziwiają jego władze.\" - Burmistrz Wells",
+    "keywords": "Miejsce - Rząd",
+    "text": "2[credit]: Pomiń 1 tag.\nSkasuj Ratusz Miasta New Angeles, gdy wykradniesz projekt.",
+    "title": "Ratusz Miasta New Angeles"
+  },
+  {
+    "code": "02110",
+    "flavor": "\"To niezgodne z zasadami. Stwórcy będą się gniewać.\"",
+    "keywords": "Bariera - Bioroid",
+    "text": "Runner może wydać [click], by złamać dowolny podprogram Eli 1.0.\n[subroutine] Zakończ skok.\n[subroutine] Zakończ skok.",
+    "title": "Eli 1.0"
+  },
+  {
+    "code": "02111",
+    "flavor": "Znane z luksusowych skoczków i pysznej kiszonej kapusty.",
+    "keywords": "Region",
+    "text": "Runner musi wydać [click] jako dodatkowy koszt przeprowadzenia skoku na ten serwer.\nLimit 1 <strong>regionu</strong> na serwer.",
+    "title": "Zagłębie Ruhry"
+  },
+  {
+    "code": "02112",
+    "flavor": "Będę ci służyć... przez pewien czas.",
+    "keywords": "Wrogi",
+    "text": "Ronina można awansować.\nJeśli na Roninie leżą przynajmniej 4 żetony zaawansowania, zyskuje on \"[click], [trash]: Zadaj 3 obrażenia sprzętu.\"",
+    "title": "Ronin"
+  },
+  {
+    "code": "02113",
+    "flavor": "\"Ktoś tu jest chyba niegrzeczny...\"",
+    "keywords": "Sysop",
+    "text": "Raz na skok, gdy runner podchodzi do lodu chroniącego ten serwer, możesz zamienić ten lód z lodem z HQ. Nowy lód instalujesz odrezowany.",
+    "title": "Midori"
+  },
+  {
+    "code": "02114",
+    "flavor": "*z pewnymi ograniczeniami. Przeszukaj tą kartę, by uzyskać więcej informacji.",
+    "keywords": "Megakorp",
+    "text": "Twój limit kart na ręce jest większy o 1.",
+    "title": "NBN: Świat jest twój*"
+  },
+  {
+    "code": "02115",
+    "keywords": "Badania",
+    "text": "Gdy zapunktujesz Project Beale, połóż na nim 1 znacznik projektu za każde 2 leżące na nim żetony zaawansowania powyżej 3.\nProject Beale jest warty 1 dodatkowy punkt projektu za każdy leżący na nim znacznik projektu.",
+    "title": "Projekt Beale"
+  },
+  {
+    "code": "02116",
+    "text": "Zagraj tylko, jeśli runner wykradł projekt w swojej poprzedniej turze.\n<trace>Trace 6</trace> Jeśli udane, daj runnerowi tagi w liczbie równej różnicy siły namierzania i siły połączenia.",
+    "title": "Nieplanowana zmiana ramówki"
+  },
+  {
+    "code": "02117",
+    "flavor": "Jasne światło rozkwitło i konsola zgasła. Wtedy poczuła dym.",
+    "keywords": "Strażnik - Tropiciel - AP",
+    "text": "[subroutine]<trace>Trace 6</trace> Jeśli udane, skasuj 1 sprzęt, zadaj 2 obrażenia ciała (nie można ich zablokować) i zakończ skok.",
+    "title": "Flara"
+  },
+  {
+    "code": "02118",
+    "flavor": "To naprawdę stały zespół",
+    "keywords": "Wrogi",
+    "text": "Jeśli runner jest otagowany, Stały zespół reagowania zyskuje: \"Zawsze gdy kończy się udany skok, zadaj 2 obrażenia ciała.\"",
+    "title": "Stały zespół reagowania"
+  },
+  {
+    "code": "02119",
+    "flavor": "\"Gdybym miał określić je jednym słowem, powiedziałbym '****sko irytujące.'\" - Magik",
+    "keywords": "Strażnik - Niszczyciel",
+    "text": "[subroutine] <trace>Trace 0</trace> Jeśli udane, runner kasuje 1 program.",
+    "title": "Burke Bugs"
+  },
+  {
+    "code": "02120",
+    "flavor": "Wojnę korporacji można było wygrać na kilka sposobów. Jednym z nich było wyjęcie bazooki.",
+    "keywords": "Ekspansja",
+    "text": "Jeśli masz przynajmniej 7[credit], gdy zapunktujesz Wojnę korporacji, pobierz 7[credit]; jeśli nie, tracisz wszystkie kredyty ze swojej puli kredytów.",
+    "title": "Wojna korporacji"
+  }
 ]

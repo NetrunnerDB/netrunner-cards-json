@@ -1,19 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 1,
-    "deck_limit": 3,
-    "faction_id": "neutral-corp",
-    "id": "draco",
-    "influence_cost": 0,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 0,
-    "stripped_text": "When you rez Draco, you may pay X credits to place X power counters on it. Draco has +1 strength for each power counter on it. Subroutine Trace 2 If successful, give the Runner 1 tag and end the run.",
-    "stripped_title": "Draco",
-    "subtypes": [
-        "sentry",
-        "tracer"
-    ],
-    "text": "When you rez Dracō, you may pay X[credit] to place X power counters on it.\nDracō has +1 strength for each power counter on it.\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag and end the run.",
-    "title": "Dracō"
+  "card_type_id": "ice",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "draco",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 0,
+  "stripped_text": "When you rez Draco, you may pay X credits to place X power counters on it. Draco has +1 strength for each power counter on it. Subroutine Trace 2 If successful, give the Runner 1 tag and end the run.",
+  "stripped_title": "Draco",
+  "subtypes": ["sentry", "tracer"],
+  "text": "When you rez Dracō, you may pay X[credit] to place X power counters on it.\nDracō has +1 strength for each power counter on it.\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag and end the run.",
+  "title": "Dracō"
 }

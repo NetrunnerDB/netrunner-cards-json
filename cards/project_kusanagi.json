@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 2,
-    "agenda_points": 0,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "project_kusanagi",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When you score Project Kusanagi, place 1 agenda counter on it for each advancement token on it over 2. Hosted agenda counter: Choose 1 piece of ice to gain \"Subroutine Do 1 net damage.\" after all its other subroutines for the remainder of this run.",
-    "stripped_title": "Project Kusanagi",
-    "subtypes": [
-        "security"
-    ],
-    "text": "When you score Project Kusanagi, place 1 agenda counter on it for each advancement token on it over 2.\n<strong>Hosted agenda counter:</strong> Choose 1 piece of ice to gain \"[subroutine] Do 1 net damage.\" after all its other subroutines for the remainder of this run.",
-    "title": "Project Kusanagi"
+  "advancement_requirement": 2,
+  "agenda_points": 0,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "project_kusanagi",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you score Project Kusanagi, place 1 agenda counter on it for each advancement token on it over 2. Hosted agenda counter: Choose 1 piece of ice to gain \"Subroutine Do 1 net damage.\" after all its other subroutines for the remainder of this run.",
+  "stripped_title": "Project Kusanagi",
+  "subtypes": ["security"],
+  "text": "When you score Project Kusanagi, place 1 agenda counter on it for each advancement token on it over 2.\n<strong>Hosted agenda counter:</strong> Choose 1 piece of ice to gain \"[subroutine] Do 1 net damage.\" after all its other subroutines for the remainder of this run.",
+  "title": "Project Kusanagi"
 }

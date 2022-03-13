@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 4,
-    "agenda_points": 2,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "new_construction",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Install only faceup. (This agenda is neither rezzed nor unrezzed.) Whenever you advance this agenda, you may install 1 card from HQ in the root of a new server. If there are 5 or more hosted advancement counters, rez that card, ignoring all costs.",
-    "stripped_title": "New Construction",
-    "subtypes": [
-        "public"
-    ],
-    "text": "Install only faceup. <em>(This agenda is neither rezzed nor unrezzed.)</em>\nWhenever you advance this agenda, you may install 1 card from HQ in the root of a new server. If there are 5 or more hosted advancement counters, rez that card, ignoring all costs.",
-    "title": "New Construction"
+  "advancement_requirement": 4,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "new_construction",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Install only faceup. (This agenda is neither rezzed nor unrezzed.) Whenever you advance this agenda, you may install 1 card from HQ in the root of a new server. If there are 5 or more hosted advancement counters, rez that card, ignoring all costs.",
+  "stripped_title": "New Construction",
+  "subtypes": ["public"],
+  "text": "Install only faceup. <em>(This agenda is neither rezzed nor unrezzed.)</em>\nWhenever you advance this agenda, you may install 1 card from HQ in the root of a new server. If there are 5 or more hosted advancement counters, rez that card, ignoring all costs.",
+  "title": "New Construction"
 }

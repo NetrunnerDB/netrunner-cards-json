@@ -1,17 +1,15 @@
 {
-    "card_type_id": "identity",
-    "deck_limit": 1,
-    "faction_id": "haas-bioroid",
-    "id": "next_design_guarding_the_net",
-    "influence_limit": 12,
-    "is_unique": false,
-    "minimum_deck_size": 45,
-    "side_id": "corp",
-    "stripped_text": "Before taking your first turn, you may install up to 3 pieces of ice, with no more than a single piece of ice per server. Draw until you have 5 cards in HQ.",
-    "stripped_title": "NEXT Design: Guarding the Net",
-    "subtypes": [
-        "division"
-    ],
-    "text": "Before taking your first turn, you may install up to 3 pieces of ice, with no more than a single piece of ice per server. Draw until you have 5 cards in HQ.",
-    "title": "NEXT Design: Guarding the Net"
+  "card_type_id": "identity",
+  "deck_limit": 1,
+  "faction_id": "haas-bioroid",
+  "id": "next_design_guarding_the_net",
+  "influence_limit": 12,
+  "is_unique": false,
+  "minimum_deck_size": 45,
+  "side_id": "corp",
+  "stripped_text": "Before taking your first turn, you may install up to 3 pieces of ice, with no more than a single piece of ice per server. Draw until you have 5 cards in HQ.",
+  "stripped_title": "NEXT Design: Guarding the Net",
+  "subtypes": ["division"],
+  "text": "Before taking your first turn, you may install up to 3 pieces of ice, with no more than a single piece of ice per server. Draw until you have 5 cards in HQ.",
+  "title": "NEXT Design: Guarding the Net"
 }

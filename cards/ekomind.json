@@ -1,17 +1,15 @@
 {
-    "card_type_id": "hardware",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "ekomind",
-    "influence_cost": 3,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "Your memory limit is equal to the number of cards in your grip. Limit 1 console per player.",
-    "stripped_title": "Ekomind",
-    "subtypes": [
-        "console"
-    ],
-    "text": "Your memory limit is equal to the number of cards in your grip.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Ekomind"
+  "card_type_id": "hardware",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "ekomind",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "Your memory limit is equal to the number of cards in your grip. Limit 1 console per player.",
+  "stripped_title": "Ekomind",
+  "subtypes": ["console"],
+  "text": "Your memory limit is equal to the number of cards in your grip.\nLimit 1 <strong>console</strong> per player.",
+  "title": "Ekomind"
 }

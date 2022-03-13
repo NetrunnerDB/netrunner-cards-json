@@ -1,18 +1,16 @@
 {
-    "card_type_id": "upgrade",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "chilo_city_grid",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Whenever there is a successful trace during a run on this server, give the Runner 1 tag. Limit 1 region per server.",
-    "stripped_title": "ChiLo City Grid",
-    "subtypes": [
-        "region"
-    ],
-    "text": "Whenever there is a successful trace during a run on this server, give the Runner 1 tag.\nLimit 1 <strong>region</strong> per server.",
-    "title": "ChiLo City Grid",
-    "trash_cost": 6
+  "card_type_id": "upgrade",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "chilo_city_grid",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Whenever there is a successful trace during a run on this server, give the Runner 1 tag. Limit 1 region per server.",
+  "stripped_title": "ChiLo City Grid",
+  "subtypes": ["region"],
+  "text": "Whenever there is a successful trace during a run on this server, give the Runner 1 tag.\nLimit 1 <strong>region</strong> per server.",
+  "title": "ChiLo City Grid",
+  "trash_cost": 6
 }

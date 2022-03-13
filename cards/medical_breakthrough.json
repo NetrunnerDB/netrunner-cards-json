@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 4,
-    "agenda_points": 2,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "medical_breakthrough",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Lower the advancement requirement of each Medical Breakthrough by 1. This ability is active even while Medical Breakthrough is in the Runner's score area.",
-    "stripped_title": "Medical Breakthrough",
-    "subtypes": [
-        "research"
-    ],
-    "text": "Lower the advancement requirement of each Medical Breakthrough by 1. This ability is active even while Medical Breakthrough is in the Runner's score area.",
-    "title": "Medical Breakthrough"
+  "advancement_requirement": 4,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "medical_breakthrough",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Lower the advancement requirement of each Medical Breakthrough by 1. This ability is active even while Medical Breakthrough is in the Runner's score area.",
+  "stripped_title": "Medical Breakthrough",
+  "subtypes": ["research"],
+  "text": "Lower the advancement requirement of each Medical Breakthrough by 1. This ability is active even while Medical Breakthrough is in the Runner's score area.",
+  "title": "Medical Breakthrough"
 }

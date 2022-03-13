@@ -1,18 +1,16 @@
 {
-    "advancement_requirement": 5,
-    "agenda_points": 3,
-    "card_type_id": "agenda",
-    "deck_limit": 1,
-    "faction_id": "neutral-corp",
-    "id": "hades_fragment",
-    "influence_cost": 0,
-    "is_unique": true,
-    "side_id": "corp",
-    "stripped_text": "When your turn begins, you may add 1 card from Archives to the bottom of R&D. Limit 1 per deck.",
-    "stripped_title": "Hades Fragment",
-    "subtypes": [
-        "source"
-    ],
-    "text": "When your turn begins, you may add 1 card from Archives to the bottom of R&D.\nLimit 1 per deck.",
-    "title": "Hades Fragment"
+  "advancement_requirement": 5,
+  "agenda_points": 3,
+  "card_type_id": "agenda",
+  "deck_limit": 1,
+  "faction_id": "neutral-corp",
+  "id": "hades_fragment",
+  "influence_cost": 0,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "When your turn begins, you may add 1 card from Archives to the bottom of R&D. Limit 1 per deck.",
+  "stripped_title": "Hades Fragment",
+  "subtypes": ["source"],
+  "text": "When your turn begins, you may add 1 card from Archives to the bottom of R&D.\nLimit 1 per deck.",
+  "title": "Hades Fragment"
 }

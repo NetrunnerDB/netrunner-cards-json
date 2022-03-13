@@ -1,130 +1,130 @@
 [
-    {
-        "code": "08021",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nAls zusätzliche Kosten zum Laden einer Karte, die kein Ice ist, muss der Kon eine zufällige Karte aus dem HQ zerstören.",
-        "title": "Hacktivisten-Treffen"
-    },
-    {
-        "code": "08022",
-        "flavor": "Normalerweise pennt man bei Freunden auf dem Sofa. In diesem Fall aber pennt man auf einem Serverpark.",
-        "keywords": "Ort",
-        "text": "Wohnung außerhalb des Campus kann eine beliebige Anzahl <strong>Kontakte</strong> hosten.\nSobald du einen <strong>Kontakt</strong> auf Wohnung außerhalb des Campus hostest, ziehe 1 Karte.",
-        "title": "Wohnung ausserhalb des Campus"
-    },
-    {
-        "code": "08023",
-        "flavor": "\"Du kannst Jinteki helfen, die Zukunft zu gestalten. Deine Zukunft.\"",
-        "text": "Installiere eine Ressource aus deinem Griff und senke die Installationskosten um 3.",
-        "title": "Karrieremesse"
-    },
-    {
-        "code": "08024",
-        "text": "Lege 4 Wirkungszähler auf Computer im Wohnheim, wenn du ihn installierst.\n[click], <strong>gehosteter Wirkungszähler</strong>: Führe einen Run durch. Vermeide alle Markierungen für den Rest dieses Runs.",
-        "title": "Computer im Wohnheim"
-    },
-    {
-        "code": "08025",
-        "keywords": "G-Mod",
-        "text": "Sobald du zum ersten Mal in einem Zug eine Karte installierst, kannst du eine andere Karte derselben Art aus deinem Griff installieren (und die Installationskosten dafür bezahlen).",
-        "title": "Hayley Kaplan: Universalgelehrte"
-    },
-    {
-        "code": "08026",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nFalls du weniger Karten in deinem Griff hast, als dein Handkartenlimit beträgt, ziehe Karten, bis die Anzahl der Karten in deinem Griff deinem Handkartenlimit entspricht.",
-        "title": "Spieltag"
-    },
-    {
-        "code": "08027",
-        "keywords": "Konsole",
-        "text": "+1[mu]\nSobald du in einem Zug zum ersten Mal ein Ereignis spielst, darfst du ein anderes Ereignis spielen (ohne einen Click auszugeben) nachdem das erste abgehandelt ist.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Comet"
-    },
-    {
-        "code": "08028",
-        "flavor": "\"Sobald du die Quellcodes der Vorlesungen heruntergeladen hast, führt dieses Programm eine statistische Analyse aus und fasst die wichtigsten Konzepte zusammen.\" -Hayley Kaplan",
-        "keywords": "Ice-Brecher - Decoder",
-        "text": "Studienführer hat +1 Stärke für jeden darauf liegenden Wirkungszähler.\n1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[credit]: Lege 1 Wirkungszähler auf  Studienführer.",
-        "title": "Studienführer"
-    },
-    {
-        "code": "08029",
-        "keywords": "Ort",
-        "text": "Zerstöre alle auf London-Bibliothek gehosteten Programme, sobald dein Zug endet.\n[click]: Installiere ein Programm, das kein <strong>Virus</strong> ist, aus deinem Griff auf London-Bibliothek, ohne die Installationskosten zu bezahlen.\n[click]: Füge ein Programm von London-Bibliothek deinem Griff hinzu.",
-        "title": "London-Bibliothek"
-    },
-    {
-        "code": "08030",
-        "flavor": "\"Es gibt ganze Generationen, die niemals das Zentrum ihrer Megapolis verlassen haben. Ihr Gesichtsausdruck, wenn sie zum ersten Mal Sterne sehen, ist wirklich phänomenal.\" -Professor Darren Fin, Astronomie",
-        "keywords": "Ort",
-        "text": "[click], [click]: Durchsuche deinen Stapel nach einer Hardware, decke sie auf und füge sie deinem Griff hinzu. Mische deinen Stapel.",
-        "title": "Tyson-Observatorium"
-    },
-    {
-        "code": "08031",
-        "flavor": "\"So viel zu tun. So wenig Zeit.\"",
-        "text": "Wenn dein Zug beginnt, verlierst du [click].\nDein Handkartenlimit wird um 5 erhöht.",
-        "title": "Strandparty"
-    },
-    {
-        "code": "08032",
-        "flavor": "\"Meine Forschungen könnten Ihrem Konzern Milliarden einbringen. Oh klar, und natürlich Leben retten.\"",
-        "keywords": "Forschung",
-        "text": "Wenn du die Punkte für Forschungsstipendien erzielst, kannst du die Punkte für eine weitere installierte Kopie von Forschungsstipendien erzielen.",
-        "title": "Forschungsstipendien"
-    },
-    {
-        "code": "08033",
-        "flavor": "Als Alan Turing vorschlug, einem Computer beizubringen, menschlich zu sein, legte er damit den Grundstein für künstliche Intelligenz.",
-        "keywords": "Code-Zugang",
-        "text": "Turing hat +3 Stärke, solange es ein ausgelagertes System schützt.\nDer Runner kann keine <strong>KI</strong>-Programme verwenden, um Subroutinen auf Turing auszuschalten.\n[subroutine] Beende den Run, falls der Runner nicht [click][click][click] zahlt.",
-        "title": "Turing"
-    },
-    {
-        "code": "08034",
-        "flavor": "Crick und seine Mitarbeiter leiteten mit der Kartierung der DANN-Struktur die Ära der modernen Genetik ein.",
-        "keywords": "Code-Zugang",
-        "text": "Crick hat +3 Stärke, solange es das Archiv schützt.\n[subroutine] Installiere eine Karte aus dem Archiv (und zahle ihre Installationskosten).",
-        "title": "Crick"
-    },
-    {
-        "code": "08035",
-        "flavor": "\"Mein Skript kann den Kobayashi-Algorithmus in .12 Sekunden ausführen.\"",
-        "text": "Durchsuche F&E nach X verschiedenen <strong>Sysops</strong> (verschiedene Namen), decke sie auf und füge sie dem HQ hinzu. Mische F&E.",
-        "title": "Anwerbungstour"
-    },
-    {
-        "code": "08036",
-        "flavor": "Offiziell gibt es keine schwarze Liste. Das wäre illegal. Inoffiziell gibt es eine Liste und wenn man darauf landet, kann es einen die Karriere kosten.",
-        "text": "Karten können unter keinen Umständen die Ablage des Runners verlassen.",
-        "title": "Schwarze Liste"
-    },
-    {
-        "code": "08037",
-        "flavor": "Johannes Gutenberg entfachte die erste Informationsrevolution durch die Erfindung der Druckmaschine mit beweglichen Lettern.",
-        "keywords": "Wächter - Spürhund",
-        "text": "Gutenberg hat +3 Stärke, solange es F&E schützt.\n[subroutine] <trace>Aufspüren 7</trace> Verpasse dem Runner bei Erfolg 1 Markierung.",
-        "title": "Gutenberg"
-    },
-    {
-        "code": "08038",
-        "flavor": "Manchmal fühlt man die Kosten der Ausbildung am deutlichsten im Magen.",
-        "text": "Als zusätzliche Kosten für das Spielen eines Ereignisses, von dem sich eine Kopie in seiner Ablage befindet, muss der Runner 2[credit] bezahlen.",
-        "title": "Studienkredit"
-    },
-    {
-        "code": "08039",
-        "flavor": "Meru Mati hat die Grenzen der Physik durch die Entwicklung der ersten Fulleren-Megastruktur, einer 300 Meter langen Wand, ausgedehnt.",
-        "keywords": "Barriere",
-        "text": "Meru Mati hat +3 Stärke, solange es HQ schützt.\n[subroutine] Beende den Run.",
-        "title": "Meru Mati"
-    },
-    {
-        "code": "08040",
-        "flavor": "Nach dem Großen Beben änderte sich der Wert einiger Grundstücke deutlich. Einige stellten fest, dass sie jetzt Grundstücke am Strand hatten. Andere besaßen welche unter Wasser.",
-        "keywords": "Region",
-        "text": "Die Ladekosten von Karten in diesem System werden um 5 gesenkt.\nMaximal 1 <strong>Region</strong> pro System.",
-        "title": "Breaker Bay-Netz"
-    }
+  {
+    "code": "08021",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nAls zusätzliche Kosten zum Laden einer Karte, die kein Ice ist, muss der Kon eine zufällige Karte aus dem HQ zerstören.",
+    "title": "Hacktivisten-Treffen"
+  },
+  {
+    "code": "08022",
+    "flavor": "Normalerweise pennt man bei Freunden auf dem Sofa. In diesem Fall aber pennt man auf einem Serverpark.",
+    "keywords": "Ort",
+    "text": "Wohnung außerhalb des Campus kann eine beliebige Anzahl <strong>Kontakte</strong> hosten.\nSobald du einen <strong>Kontakt</strong> auf Wohnung außerhalb des Campus hostest, ziehe 1 Karte.",
+    "title": "Wohnung ausserhalb des Campus"
+  },
+  {
+    "code": "08023",
+    "flavor": "\"Du kannst Jinteki helfen, die Zukunft zu gestalten. Deine Zukunft.\"",
+    "text": "Installiere eine Ressource aus deinem Griff und senke die Installationskosten um 3.",
+    "title": "Karrieremesse"
+  },
+  {
+    "code": "08024",
+    "text": "Lege 4 Wirkungszähler auf Computer im Wohnheim, wenn du ihn installierst.\n[click], <strong>gehosteter Wirkungszähler</strong>: Führe einen Run durch. Vermeide alle Markierungen für den Rest dieses Runs.",
+    "title": "Computer im Wohnheim"
+  },
+  {
+    "code": "08025",
+    "keywords": "G-Mod",
+    "text": "Sobald du zum ersten Mal in einem Zug eine Karte installierst, kannst du eine andere Karte derselben Art aus deinem Griff installieren (und die Installationskosten dafür bezahlen).",
+    "title": "Hayley Kaplan: Universalgelehrte"
+  },
+  {
+    "code": "08026",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nFalls du weniger Karten in deinem Griff hast, als dein Handkartenlimit beträgt, ziehe Karten, bis die Anzahl der Karten in deinem Griff deinem Handkartenlimit entspricht.",
+    "title": "Spieltag"
+  },
+  {
+    "code": "08027",
+    "keywords": "Konsole",
+    "text": "+1[mu]\nSobald du in einem Zug zum ersten Mal ein Ereignis spielst, darfst du ein anderes Ereignis spielen (ohne einen Click auszugeben) nachdem das erste abgehandelt ist.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Comet"
+  },
+  {
+    "code": "08028",
+    "flavor": "\"Sobald du die Quellcodes der Vorlesungen heruntergeladen hast, führt dieses Programm eine statistische Analyse aus und fasst die wichtigsten Konzepte zusammen.\" -Hayley Kaplan",
+    "keywords": "Ice-Brecher - Decoder",
+    "text": "Studienführer hat +1 Stärke für jeden darauf liegenden Wirkungszähler.\n1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[credit]: Lege 1 Wirkungszähler auf  Studienführer.",
+    "title": "Studienführer"
+  },
+  {
+    "code": "08029",
+    "keywords": "Ort",
+    "text": "Zerstöre alle auf London-Bibliothek gehosteten Programme, sobald dein Zug endet.\n[click]: Installiere ein Programm, das kein <strong>Virus</strong> ist, aus deinem Griff auf London-Bibliothek, ohne die Installationskosten zu bezahlen.\n[click]: Füge ein Programm von London-Bibliothek deinem Griff hinzu.",
+    "title": "London-Bibliothek"
+  },
+  {
+    "code": "08030",
+    "flavor": "\"Es gibt ganze Generationen, die niemals das Zentrum ihrer Megapolis verlassen haben. Ihr Gesichtsausdruck, wenn sie zum ersten Mal Sterne sehen, ist wirklich phänomenal.\" -Professor Darren Fin, Astronomie",
+    "keywords": "Ort",
+    "text": "[click], [click]: Durchsuche deinen Stapel nach einer Hardware, decke sie auf und füge sie deinem Griff hinzu. Mische deinen Stapel.",
+    "title": "Tyson-Observatorium"
+  },
+  {
+    "code": "08031",
+    "flavor": "\"So viel zu tun. So wenig Zeit.\"",
+    "text": "Wenn dein Zug beginnt, verlierst du [click].\nDein Handkartenlimit wird um 5 erhöht.",
+    "title": "Strandparty"
+  },
+  {
+    "code": "08032",
+    "flavor": "\"Meine Forschungen könnten Ihrem Konzern Milliarden einbringen. Oh klar, und natürlich Leben retten.\"",
+    "keywords": "Forschung",
+    "text": "Wenn du die Punkte für Forschungsstipendien erzielst, kannst du die Punkte für eine weitere installierte Kopie von Forschungsstipendien erzielen.",
+    "title": "Forschungsstipendien"
+  },
+  {
+    "code": "08033",
+    "flavor": "Als Alan Turing vorschlug, einem Computer beizubringen, menschlich zu sein, legte er damit den Grundstein für künstliche Intelligenz.",
+    "keywords": "Code-Zugang",
+    "text": "Turing hat +3 Stärke, solange es ein ausgelagertes System schützt.\nDer Runner kann keine <strong>KI</strong>-Programme verwenden, um Subroutinen auf Turing auszuschalten.\n[subroutine] Beende den Run, falls der Runner nicht [click][click][click] zahlt.",
+    "title": "Turing"
+  },
+  {
+    "code": "08034",
+    "flavor": "Crick und seine Mitarbeiter leiteten mit der Kartierung der DANN-Struktur die Ära der modernen Genetik ein.",
+    "keywords": "Code-Zugang",
+    "text": "Crick hat +3 Stärke, solange es das Archiv schützt.\n[subroutine] Installiere eine Karte aus dem Archiv (und zahle ihre Installationskosten).",
+    "title": "Crick"
+  },
+  {
+    "code": "08035",
+    "flavor": "\"Mein Skript kann den Kobayashi-Algorithmus in .12 Sekunden ausführen.\"",
+    "text": "Durchsuche F&E nach X verschiedenen <strong>Sysops</strong> (verschiedene Namen), decke sie auf und füge sie dem HQ hinzu. Mische F&E.",
+    "title": "Anwerbungstour"
+  },
+  {
+    "code": "08036",
+    "flavor": "Offiziell gibt es keine schwarze Liste. Das wäre illegal. Inoffiziell gibt es eine Liste und wenn man darauf landet, kann es einen die Karriere kosten.",
+    "text": "Karten können unter keinen Umständen die Ablage des Runners verlassen.",
+    "title": "Schwarze Liste"
+  },
+  {
+    "code": "08037",
+    "flavor": "Johannes Gutenberg entfachte die erste Informationsrevolution durch die Erfindung der Druckmaschine mit beweglichen Lettern.",
+    "keywords": "Wächter - Spürhund",
+    "text": "Gutenberg hat +3 Stärke, solange es F&E schützt.\n[subroutine] <trace>Aufspüren 7</trace> Verpasse dem Runner bei Erfolg 1 Markierung.",
+    "title": "Gutenberg"
+  },
+  {
+    "code": "08038",
+    "flavor": "Manchmal fühlt man die Kosten der Ausbildung am deutlichsten im Magen.",
+    "text": "Als zusätzliche Kosten für das Spielen eines Ereignisses, von dem sich eine Kopie in seiner Ablage befindet, muss der Runner 2[credit] bezahlen.",
+    "title": "Studienkredit"
+  },
+  {
+    "code": "08039",
+    "flavor": "Meru Mati hat die Grenzen der Physik durch die Entwicklung der ersten Fulleren-Megastruktur, einer 300 Meter langen Wand, ausgedehnt.",
+    "keywords": "Barriere",
+    "text": "Meru Mati hat +3 Stärke, solange es HQ schützt.\n[subroutine] Beende den Run.",
+    "title": "Meru Mati"
+  },
+  {
+    "code": "08040",
+    "flavor": "Nach dem Großen Beben änderte sich der Wert einiger Grundstücke deutlich. Einige stellten fest, dass sie jetzt Grundstücke am Strand hatten. Andere besaßen welche unter Wasser.",
+    "keywords": "Region",
+    "text": "Die Ladekosten von Karten in diesem System werden um 5 gesenkt.\nMaximal 1 <strong>Region</strong> pro System.",
+    "title": "Breaker Bay-Netz"
+  }
 ]

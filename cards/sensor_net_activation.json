@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 3,
-    "agenda_points": 1,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "haas-bioroid",
-    "id": "sensor_net_activation",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Place 1 agenda counter on Sensor Net Activation when you score it. Hosted agenda counter: Rez a bioroid, ignoring all costs. When the turn ends, derez that bioroid.",
-    "stripped_title": "Sensor Net Activation",
-    "subtypes": [
-        "security"
-    ],
-    "text": "Place 1 agenda counter on Sensor Net Activation when you score it.\n<strong>Hosted agenda counter:</strong> Rez a <strong>bioroid</strong>, ignoring all costs. When the turn ends, derez that <strong>bioroid</strong>.",
-    "title": "Sensor Net Activation"
+  "advancement_requirement": 3,
+  "agenda_points": 1,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "sensor_net_activation",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Place 1 agenda counter on Sensor Net Activation when you score it. Hosted agenda counter: Rez a bioroid, ignoring all costs. When the turn ends, derez that bioroid.",
+  "stripped_title": "Sensor Net Activation",
+  "subtypes": ["security"],
+  "text": "Place 1 agenda counter on Sensor Net Activation when you score it.\n<strong>Hosted agenda counter:</strong> Rez a <strong>bioroid</strong>, ignoring all costs. When the turn ends, derez that <strong>bioroid</strong>.",
+  "title": "Sensor Net Activation"
 }

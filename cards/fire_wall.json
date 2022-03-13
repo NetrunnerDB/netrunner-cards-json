@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 5,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "fire_wall",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 5,
-    "stripped_text": "Fire Wall can be advanced and gains +1 strength for each advancement token on it. Subroutine End the run.",
-    "stripped_title": "Fire Wall",
-    "subtypes": [
-        "barrier"
-    ],
-    "text": "Fire Wall can be advanced and gains +1 strength for each advancement token on it.\n[subroutine] End the run.",
-    "title": "Fire Wall"
+  "card_type_id": "ice",
+  "cost": 5,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "fire_wall",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "Fire Wall can be advanced and gains +1 strength for each advancement token on it. Subroutine End the run.",
+  "stripped_title": "Fire Wall",
+  "subtypes": ["barrier"],
+  "text": "Fire Wall can be advanced and gains +1 strength for each advancement token on it.\n[subroutine] End the run.",
+  "title": "Fire Wall"
 }

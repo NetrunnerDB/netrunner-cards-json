@@ -1,15 +1,15 @@
 {
-    "card_type_id": "asset",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "c_i_fund",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When your turn begins, you may move up to 3 credits from your credit pool to C.I. Fund. When your turn begins, place 2 credits on C.I. Fund from the bank if there are at least 6 credits on it. 2 credits,trash: Take all credits from C.I. Fund.",
-    "stripped_title": "C.I. Fund",
-    "text": "When your turn begins, you may move up to 3[credit] from your credit pool to C.I. Fund.\nWhen your turn begins, place 2[credit] on C.I. Fund from the bank if there are at least 6[credit] on it.\n2[credit],[trash]: Take all credits from C.I. Fund.",
-    "title": "C.I. Fund",
-    "trash_cost": 2
+  "card_type_id": "asset",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "c_i_fund",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When your turn begins, you may move up to 3 credits from your credit pool to C.I. Fund. When your turn begins, place 2 credits on C.I. Fund from the bank if there are at least 6 credits on it. 2 credits,trash: Take all credits from C.I. Fund.",
+  "stripped_title": "C.I. Fund",
+  "text": "When your turn begins, you may move up to 3[credit] from your credit pool to C.I. Fund.\nWhen your turn begins, place 2[credit] on C.I. Fund from the bank if there are at least 6[credit] on it.\n2[credit],[trash]: Take all credits from C.I. Fund.",
+  "title": "C.I. Fund",
+  "trash_cost": 2
 }

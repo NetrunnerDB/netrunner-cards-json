@@ -1,132 +1,132 @@
 [
-    {
-        "code": "11061",
-        "flavor": "\"When your opponent is weak, strike. If you do not, he will become strong.\" - the Playbook",
-        "keywords": "Sabotage",
-        "text": "Play only if you made a successful run this turn.\nTrash an unrezzed piece of ice you passed during the last run you made this turn.",
-        "title": "En Passant"
-    },
-    {
-        "code": "11062",
-        "flavor": "Omar goes through four, five keyboards per week, no two from the same decade.",
-        "text": "Look at the top 10 cards of your stack. If any of those cards are programs, you may install one of them, lowering the install cost by 5. Trash the rest of those cards.",
-        "title": "Frantic Coding"
-    },
-    {
-        "code": "11063",
-        "keywords": "Console",
-        "text": "+2[mu]\nWhenever you access cards from HQ during a run, access 1 additional card for each piece of ice protecting HQ that you broke all subroutines on during this run.\nLimit 1 <strong>console</strong> per player.",
-        "title": "The Gauntlet"
-    },
-    {
-        "code": "11064",
-        "flavor": "Spiraling even higher, every feature of cyberspace sprawled before it.",
-        "keywords": "Icebreaker - Fracter",
-        "text": "1[credit]: Break <strong>barrier</strong> subroutine.\n2[credit]: +2 strength.\n2[credit], <strong>return Saker to your grip</strong>: Derez a <strong>barrier</strong>. Use this ability only after using Saker to break all the subroutines on that <strong>barrier</strong> during a single encounter.",
-        "title": "Saker"
-    },
-    {
-        "code": "11065",
-        "flavor": "\"I used to run stims, simsensies, the usual. I was scum. Now I run water. I'm a fragging hero.\"",
-        "keywords": "Connection",
-        "text": "[click],[click]: Draw 3 cards. Shuffle 1 card from your grip into your stack.",
-        "title": "Blockade Runner"
-    },
-    {
-        "code": "11066",
-        "flavor": "\"Nothing up my sleeve...\"",
-        "keywords": "G-Mod - Stealth",
-        "text": "1[recurring-credit]\nUse this credit to pay for using <strong>icebreakers</strong>.",
-        "title": "Ele \"Smoke\" Scovak: Cynosure of the Net"
-    },
-    {
-        "code": "11067",
-        "flavor": "\"I usually find something interesting in there. Just not what I was looking for.\"",
-        "text": "Whenever you make a successful run on R&D, instead of accessing cards, you may choose 1 of the top 5 cards of R&D and access it. You cannot access any other cards in R&D during this run.",
-        "title": "Top Hat"
-    },
-    {
-        "code": "11068",
-        "flavor": "The personality must be bigger than the prop.",
-        "keywords": "Icebreaker - Fracter",
-        "text": "1[credit]: Break <strong>barrier</strong> subroutine.\n3[credit]: +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card.",
-        "title": "Blackstone"
-    },
-    {
-        "code": "11069",
-        "flavor": "\"Take this to Inez Delgado in Netcrimes. No one else.\"",
-        "keywords": "Current",
-        "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhile secretly spending credits, players cannot spend 2[credit].",
-        "title": "Government Investigations"
-    },
-    {
-        "code": "11070",
-        "flavor": "\"The Starlight Meditation Booths are available to refugees for free for the duration of the crisis.\"",
-        "keywords": "Location",
-        "text": "If you are tagged when your turn ends, force the Corp to \"<trace>Trace 1</trace> If unsuccessful, the Runner removes 1 tag.\"\n[trash],<strong>trash all cards in your grip:</strong> Prevent all meat damage.",
-        "title": "Citadel Sanctuary"
-    },
-    {
-        "code": "11071",
-        "flavor": "\"I let the bioroids do a ride-along via remote, so they can see what pain really looks like.\" -Agent Valkyrie",
-        "keywords": "Condition",
-        "text": "Install Wetwork Refit on a rezzed piece of <strong>bioroid</strong> ice as a condition counter with the text \"Host ice gains \"[subroutine] Do 1 brain damage.\" before all its other subroutines.\"",
-        "title": "Wetwork Refit"
-    },
-    {
-        "code": "11072",
-        "keywords": "Megacorp",
-        "text": "The first time the Runner passes a rezzed piece of <strong>bioroid</strong> ice each turn, you may rez a <strong>bioroid</strong>, lowering its rez cost by 4.",
-        "title": "Haas-Bioroid: Architects of Tomorrow"
-    },
-    {
-        "code": "11073",
-        "flavor": "\"Does an alliance with the yakuza truly seem so strange? They are honorable businessmen, and women, just like us.\" -Rin Kimura, Chief NA Security",
-        "keywords": "Character",
-        "text": "Whenever you and the Runner reveal secretly spent credits, do 1 meat damage if you and the Runner spent a different number of credits.",
-        "title": "Fumiko Yamamori"
-    },
-    {
-        "code": "11074",
-        "flavor": "\"Keep your head down, keep moving, try not to attract attention.\"",
-        "text": "As an additional cost to play this operation, trash the top card of R&D.\nDraw 3 cards. Add 3 cards from HQ to the top of R&D in any order.",
-        "title": "Hasty Relocation"
-    },
-    {
-        "code": "11075",
-        "keywords": "Barrier",
-        "text": "When the Runner encounters Data Ward, he or she must pay 3[credit] or take 1 tag.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.",
-        "title": "Data Ward"
-    },
-    {
-        "code": "11076",
-        "flavor": "Falstaff-337B; decrypt-ok; loc:0.258500, -79.920791 -ok; auth-ok; msg:KAR kill authority requested y/n?",
-        "text": "If the Runner is tagged, Drone Screen gains \"Whenever the Runner initiates a run on this server, <trace>Trace 3</trace> If successful, do 1 meat damage (cannot be prevented).\"",
-        "title": "Drone Screen"
-    },
-    {
-        "code": "11077",
-        "keywords": "Character",
-        "text": "Whenever an encounter with a piece of ice ends, place 1 power counter on Chief Slee for each unbroken subroutine on the encountered piece of ice.\n[click], <strong>5 hosted power counters</strong>: Do 5 meat damage.",
-        "title": "Chief Slee"
-    },
-    {
-        "code": "11078",
-        "keywords": "Barrier - Illicit",
-        "text": "When you rez Bulwark, take 1 bad publicity.\nWhen the Runner encounters Bulwark, gain 2[credit] if there is an installed <strong>AI</strong>.\n[subroutine] The Runner trashes 1 program.\n[subroutine] The Corp gains 2[credit]. End the run.\n[subroutine] The Corp gains 2[credit]. End the run.",
-        "title": "Bulwark"
-    },
-    {
-        "code": "11079",
-        "flavor": "When a shooting war threatens, the prudent course is to shoot first.",
-        "keywords": "Gray Ops",
-        "text": "Trash 1 installed card with an install cost equal to or less than the number of tags the Runner has.",
-        "title": "Best Defense"
-    },
-    {
-        "code": "11080",
-        "keywords": "Terminal",
-        "text": "After you resolve this operation, end your action phase.\nShuffle 3 cards from Archives into R&D. Remove Preemptive Action from the game instead of trashing it.",
-        "title": "Preemptive Action"
-    }
+  {
+    "code": "11061",
+    "flavor": "\"When your opponent is weak, strike. If you do not, he will become strong.\" - the Playbook",
+    "keywords": "Sabotage",
+    "text": "Play only if you made a successful run this turn.\nTrash an unrezzed piece of ice you passed during the last run you made this turn.",
+    "title": "En Passant"
+  },
+  {
+    "code": "11062",
+    "flavor": "Omar goes through four, five keyboards per week, no two from the same decade.",
+    "text": "Look at the top 10 cards of your stack. If any of those cards are programs, you may install one of them, lowering the install cost by 5. Trash the rest of those cards.",
+    "title": "Frantic Coding"
+  },
+  {
+    "code": "11063",
+    "keywords": "Console",
+    "text": "+2[mu]\nWhenever you access cards from HQ during a run, access 1 additional card for each piece of ice protecting HQ that you broke all subroutines on during this run.\nLimit 1 <strong>console</strong> per player.",
+    "title": "The Gauntlet"
+  },
+  {
+    "code": "11064",
+    "flavor": "Spiraling even higher, every feature of cyberspace sprawled before it.",
+    "keywords": "Icebreaker - Fracter",
+    "text": "1[credit]: Break <strong>barrier</strong> subroutine.\n2[credit]: +2 strength.\n2[credit], <strong>return Saker to your grip</strong>: Derez a <strong>barrier</strong>. Use this ability only after using Saker to break all the subroutines on that <strong>barrier</strong> during a single encounter.",
+    "title": "Saker"
+  },
+  {
+    "code": "11065",
+    "flavor": "\"I used to run stims, simsensies, the usual. I was scum. Now I run water. I'm a fragging hero.\"",
+    "keywords": "Connection",
+    "text": "[click],[click]: Draw 3 cards. Shuffle 1 card from your grip into your stack.",
+    "title": "Blockade Runner"
+  },
+  {
+    "code": "11066",
+    "flavor": "\"Nothing up my sleeve...\"",
+    "keywords": "G-Mod - Stealth",
+    "text": "1[recurring-credit]\nUse this credit to pay for using <strong>icebreakers</strong>.",
+    "title": "Ele \"Smoke\" Scovak: Cynosure of the Net"
+  },
+  {
+    "code": "11067",
+    "flavor": "\"I usually find something interesting in there. Just not what I was looking for.\"",
+    "text": "Whenever you make a successful run on R&D, instead of accessing cards, you may choose 1 of the top 5 cards of R&D and access it. You cannot access any other cards in R&D during this run.",
+    "title": "Top Hat"
+  },
+  {
+    "code": "11068",
+    "flavor": "The personality must be bigger than the prop.",
+    "keywords": "Icebreaker - Fracter",
+    "text": "1[credit]: Break <strong>barrier</strong> subroutine.\n3[credit]: +4 strength for the remainder of this run. Use this ability only by spending at least 1 credit from a <strong>stealth</strong> card.",
+    "title": "Blackstone"
+  },
+  {
+    "code": "11069",
+    "flavor": "\"Take this to Inez Delgado in Netcrimes. No one else.\"",
+    "keywords": "Current",
+    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhile secretly spending credits, players cannot spend 2[credit].",
+    "title": "Government Investigations"
+  },
+  {
+    "code": "11070",
+    "flavor": "\"The Starlight Meditation Booths are available to refugees for free for the duration of the crisis.\"",
+    "keywords": "Location",
+    "text": "If you are tagged when your turn ends, force the Corp to \"<trace>Trace 1</trace> If unsuccessful, the Runner removes 1 tag.\"\n[trash],<strong>trash all cards in your grip:</strong> Prevent all meat damage.",
+    "title": "Citadel Sanctuary"
+  },
+  {
+    "code": "11071",
+    "flavor": "\"I let the bioroids do a ride-along via remote, so they can see what pain really looks like.\" -Agent Valkyrie",
+    "keywords": "Condition",
+    "text": "Install Wetwork Refit on a rezzed piece of <strong>bioroid</strong> ice as a condition counter with the text \"Host ice gains \"[subroutine] Do 1 brain damage.\" before all its other subroutines.\"",
+    "title": "Wetwork Refit"
+  },
+  {
+    "code": "11072",
+    "keywords": "Megacorp",
+    "text": "The first time the Runner passes a rezzed piece of <strong>bioroid</strong> ice each turn, you may rez a <strong>bioroid</strong>, lowering its rez cost by 4.",
+    "title": "Haas-Bioroid: Architects of Tomorrow"
+  },
+  {
+    "code": "11073",
+    "flavor": "\"Does an alliance with the yakuza truly seem so strange? They are honorable businessmen, and women, just like us.\" -Rin Kimura, Chief NA Security",
+    "keywords": "Character",
+    "text": "Whenever you and the Runner reveal secretly spent credits, do 1 meat damage if you and the Runner spent a different number of credits.",
+    "title": "Fumiko Yamamori"
+  },
+  {
+    "code": "11074",
+    "flavor": "\"Keep your head down, keep moving, try not to attract attention.\"",
+    "text": "As an additional cost to play this operation, trash the top card of R&D.\nDraw 3 cards. Add 3 cards from HQ to the top of R&D in any order.",
+    "title": "Hasty Relocation"
+  },
+  {
+    "code": "11075",
+    "keywords": "Barrier",
+    "text": "When the Runner encounters Data Ward, he or she must pay 3[credit] or take 1 tag.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.",
+    "title": "Data Ward"
+  },
+  {
+    "code": "11076",
+    "flavor": "Falstaff-337B; decrypt-ok; loc:0.258500, -79.920791 -ok; auth-ok; msg:KAR kill authority requested y/n?",
+    "text": "If the Runner is tagged, Drone Screen gains \"Whenever the Runner initiates a run on this server, <trace>Trace 3</trace> If successful, do 1 meat damage (cannot be prevented).\"",
+    "title": "Drone Screen"
+  },
+  {
+    "code": "11077",
+    "keywords": "Character",
+    "text": "Whenever an encounter with a piece of ice ends, place 1 power counter on Chief Slee for each unbroken subroutine on the encountered piece of ice.\n[click], <strong>5 hosted power counters</strong>: Do 5 meat damage.",
+    "title": "Chief Slee"
+  },
+  {
+    "code": "11078",
+    "keywords": "Barrier - Illicit",
+    "text": "When you rez Bulwark, take 1 bad publicity.\nWhen the Runner encounters Bulwark, gain 2[credit] if there is an installed <strong>AI</strong>.\n[subroutine] The Runner trashes 1 program.\n[subroutine] The Corp gains 2[credit]. End the run.\n[subroutine] The Corp gains 2[credit]. End the run.",
+    "title": "Bulwark"
+  },
+  {
+    "code": "11079",
+    "flavor": "When a shooting war threatens, the prudent course is to shoot first.",
+    "keywords": "Gray Ops",
+    "text": "Trash 1 installed card with an install cost equal to or less than the number of tags the Runner has.",
+    "title": "Best Defense"
+  },
+  {
+    "code": "11080",
+    "keywords": "Terminal",
+    "text": "After you resolve this operation, end your action phase.\nShuffle 3 cards from Archives into R&D. Remove Preemptive Action from the game instead of trashing it.",
+    "title": "Preemptive Action"
+  }
 ]

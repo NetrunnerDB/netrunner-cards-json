@@ -1,18 +1,16 @@
 {
-    "advancement_requirement": 3,
-    "agenda_points": 2,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "neutral-corp",
-    "id": "evidence_collection",
-    "influence_cost": 0,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When you win a game with Evidence Collection in your score area, reveal set 2.",
-    "stripped_title": "Evidence Collection",
-    "subtypes": [
-        "research"
-    ],
-    "text": "When you win a game with Evidence Collection in your score area, reveal set 2.",
-    "title": "Evidence Collection"
+  "advancement_requirement": 3,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "evidence_collection",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you win a game with Evidence Collection in your score area, reveal set 2.",
+  "stripped_title": "Evidence Collection",
+  "subtypes": ["research"],
+  "text": "When you win a game with Evidence Collection in your score area, reveal set 2.",
+  "title": "Evidence Collection"
 }

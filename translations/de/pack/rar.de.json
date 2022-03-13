@@ -1,374 +1,374 @@
 [
-    {
-        "code": "22001",
-        "flavor": "\"Verdammt, bin ich gut.\"",
-        "keywords": "Natürlich",
-        "text": "Sobald dein Zug beginnt, erhältst du 1[credit], falls du 2 oder weniger Karten in deinem Griff hast.",
-        "title": "Nathaniel \"Mücke\" Hall: Einfach einmalig"
-    },
-    {
-        "code": "22002",
-        "flavor": "Alle Wege führen nach Rom.",
-        "keywords": "Run",
-        "text": "Führe einen Run auf das Archiv durch. Bei Erfolg greife auf 1 Karte aus dem HQ zu, nachdem du auf das Archiv zugegriffen hast, und greife dann auf die oberste Karte von F&E zu.",
-        "title": "Teile und herrsche"
-    },
-    {
-        "code": "22003",
-        "flavor": "\"Das war's wert!\"",
-        "text": "Zerstöre deinen Griff.\nDu erhältst 10[credit].",
-        "title": "Versuchskaninchen"
-    },
-    {
-        "code": "22004",
-        "keywords": "Konsole",
-        "text": "+1[mu]\nEin Mal pro Zug darfst du, sobald du eine Karte spielen oder installieren würdest, 1 Karte aus deinem Griff zerstören, um die Ausspiel- oder Installationskosten um 2 zu senken.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Flickwerk"
-    },
-    {
-        "code": "22005",
-        "text": "Immer wenn der Kon ein System erschafft, verliert er 1[credit].\nImmer wenn du einen erfolgreichen Run auf das Archiv durchführst, darfst du Übernommener Router zerstören, um den Kon zu zwingen 3[credit] zu verlieren.",
-        "title": "Übernommener Router"
-    },
-    {
-        "code": "22006",
-        "flavor": "... Klack ... Klack ... Klack ...",
-        "keywords": "Ice-Brecher - Decoder",
-        "text": "Kugelstosspendel hat -1 Stärke für jede Karte in deinem Griff.\n2[credit]: Schalte eine beliebige Anzahl von Subroutinen eines <strong>Code-Zugangs</strong> aus.",
-        "title": "Kugelstosspendel"
-    },
-    {
-        "code": "22007",
-        "flavor": "Das Vermögen eines Anderen.",
-        "keywords": "Ort - Zwielichtig",
-        "text": "Wenn zum ersten Mal in einem Zug ein Programm oder eine Hardware zerstört wird (an einem beliebigen Ort), darfst du 1 Wirkungszähler auf Distrikt 99 legen.\n[click], <strong>3 gehostete Wirkungszähler</strong>: Füge eine Karte, die mit der Fraktion deiner Identität übereinstimmt, aus deiner Ablage deinem Griff hinzu.",
-        "title": "Distrikt 99"
-    },
-    {
-        "code": "22008",
-        "flavor": "\"Denken Sie, Sie wären der erste, der versucht mich fertigzumachen?\"",
-        "keywords": "G-mod",
-        "text": "Wenn du zum ersten Mal in einem Zug einen erfolgreichen Run auf ein zentrales System durchführst, ziehe 2 Karten und bekomme 1 Markierung verpasst.",
-        "title": "Liza Talking Thunder: Prominente Abgeordnete"
-    },
-    {
-        "code": "22009",
-        "flavor": "\"Wir haben Sie umzingelt! Diesmal aber wirklich.\"",
-        "keywords": "Run",
-        "text": "Führe einen Run auf das HQ durch. Bei Erfolg erhältst du 9[credit] und bekommst 1 Markierung verpasst.",
-        "title": "Wilde Verfolgungsjagd"
-    },
-    {
-        "code": "22010",
-        "keywords": "Konsole",
-        "text": "+1[mu]\nWenn du zum ersten Mal in einem Zug einen erfolgreichen Run durchführst, darfst du 1[credit] erhalten und dir die oberste Karte deines Stapels ansehen. Falls du dies tust, darfst du jene Karte unter deinen Stapel legen.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Paragon"
-    },
-    {
-        "code": "22011",
-        "flavor": "\"Das Aufkommen der Cryptowährung hat das Bankwesen deutlich verkompliziert. Die Finanzkriminalität hat mit der Entwicklung nicht nur Schritt halten können, im Gegenteil: sie ist geradezu explodiert.\"\n-Nach dem Flash: Die Geschichte eines Krieges, der nie stattfand.",
-        "text": "Immer wenn du einen erfolgreichen Run durchführst, darfst du 1[credit] aus der Bank auf Finanzielle Mittel legen.\n[trash]: Nimm alle Credits von Finanzielle Mittel.",
-        "title": "Finanzielle Mittel"
-    },
-    {
-        "code": "22012",
-        "flavor": "\"Eigentlich ist jedes Ice nur eine Art Bezahlschranke.\"\n-Liza Talking Thunder",
-        "keywords": "Ice-Brecher - Fracter",
-        "text": "Immer wenn eine Begegnung mit einem Ice endet, in dem du Magnat verwendet hast, um eine Subroutine auszuschalten, erhält der Kon 2[credit].\n1[credit]: Schalte bis zu 3 Subroutinen einer <strong>Barriere</strong> aus.\n2[credit]: +3 Stärke.",
-        "title": "Magnat"
-    },
-    {
-        "code": "22013",
-        "flavor": "Ein wirklich stilvolles Alibi.",
-        "keywords": "Ort - Protzig",
-        "text": "Wenn du zum ersten Mal in einem Zug eine Markierung vermeidest oder entfernst, darfst du eine Karte aus deinem Griff installieren und die Installationskosten dafür um 1 senken.",
-        "title": "Thunder-Kunstgalerie"
-    },
-    {
-        "code": "22014",
-        "flavor": "\"Sollte ich es nicht ausschalten können, kenne ich jemanden, der es ganz bestimmt schafft.\"",
-        "keywords": "Kontakt",
-        "text": "Lege 12[credit] aus der Bank auf Miss Bones, sobald diese Karte installiert wird. Sobald keine Credits mehr auf Miss Bones liegen, zerstöre sie.\nVerwende diese Credits, um installierte Karten zu zerstören.",
-        "title": "Miss Bones"
-    },
-    {
-        "code": "22015",
-        "keywords": "Klon",
-        "text": "Immer wenn du auf Karten von F&E zugreifst, geben du und der Kon geheim 0[credit], 1[credit] oder 2[credit] aus. Deckt die ausgegebenen Credits auf. Falls du und der Kon dieselbe Anzahl Cedits ausgeben haben, greife auf 1 zusätzliche Karte von F&E zu.",
-        "title": "Akiko Nisei: Durchgedreht"
-    },
-    {
-        "code": "22016",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Kosten, um dieses Ereignis zu spielen, gib [click] aus.\nDer Kon darf sich die obersten 4 Karten von F&E ansehen und sie in einer beliebigen Reigenfolge zurücklegen.\nDecke die obersten 4 Karten von F&E auf.",
-        "title": "Erkenntnis"
-    },
-    {
-        "code": "22017",
-        "keywords": "Konsole",
-        "text": "+1[mu]\nImmer wenn du einen erfolgreichen Run auf F&E durchführst, darfst du 1 Wirkungszähler auf Inneres Auge legen.\n[click], <strong>3 gehostete Wirkungszähler</strong>: Greife auf die oberste Karte von F&E zu.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Inneres Auge"
-    },
-    {
-        "code": "22018",
-        "flavor": "\"Was machst du da?\"\n\"Die eigentlich Frage ist, was mache ich nicht?\"",
-        "text": "Wenn du zum ersten Mal in einem Zug eine Karte zerstörst, auf die du zugreifst, darfst du Wirkungszähler in Höhe der Zerstörungskosten jener Karte auf Mâché legen.\n3 <strong>gehostete Wirkungszähler</strong>: Ziehe 1 Karte.",
-        "title": "Mâché"
-    },
-    {
-        "code": "22019",
-        "flavor": "\"Runs bestehen aus Metaphern, aus Symbolen, und bohren sich in die entlegensten Winkel der Seele. Manchmal mit Tentakeln.\" -Akiko Nisei",
-        "keywords": "Ice-Brecher - Killer",
-        "text": "2[credit]: Hoste Ika auf einem Ice.\n1[credit]: Schalte bis zu 2 Subroutinen auf dem hostenden <strong>Wächter</strong> aus.\n2[credit]: +3 Stärke.",
-        "title": "Ika"
-    },
-    {
-        "code": "22020",
-        "flavor": "Die Reise ist die Belohnung.",
-        "text": "Kyuban kann nur auf einem Ice installiert werden.\nImmer wenn du an dem hostenden Ice vorbeikommst, erhältst du 2[credit].",
-        "title": "Kyuban"
-    },
-    {
-        "code": "22021",
-        "flavor": "\"Atme, Mädchen. Atme.\" Mike erschien in ihrem Sichtfeld, als sie Akikos Tränen fortwischte. \"Was hast du gesehen?\"\n\"Ich ...\", zögerte Akiko. \"Alles.\"",
-        "keywords": "Kontakt",
-        "text": "Wenn zum ersten Mal in einem Zug ein erfolgreicher Run auf F&E endet, darfst du für jede Karte 1[credit] erhalten, auf die du von F&E zugegriffen hast.",
-        "title": "Mentalistin Mike"
-    },
-    {
-        "code": "22022",
-        "flavor": "\"Deine Gegenwart gibt mir das Gefühl, alles schaffen zu können!\"",
-        "text": "Sobald dein Zug beginnt, darfst du 2[credit] zahlen, um [click] zu erhalten. Falls du dies tust, zerstöre Algernon, sobald dein Zug endet, falls du in diesem Zug keinen erfolgreichen Run durchgeführt hast.",
-        "title": "Algernon"
-    },
-    {
-        "code": "22023",
-        "keywords": "Run",
-        "text": "Führe einen Run auf das Archiv durch. Bei Erfolg installiere, statt auf Karten zuzugreifen, bis zu 5 Karten verdeckt aus deiner Ablage. Entferne Neustart aus dem Spiel, statt diese Karte zu zerstören.",
-        "title": "Neustart"
-    },
-    {
-        "code": "22024",
-        "flavor": "\"Na, hast du in letzter Zeit etwas Spannendes gehört, Miriam?\"",
-        "text": "Senke die Ausspielkosten für Bürobedarf um 1 für jeden [link], die du hast.\nDu erhältst 4[credit] oder ziehst 4 Karten.",
-        "title": "Bürobedarf"
-    },
-    {
-        "code": "22025",
-        "keywords": "Kontakt",
-        "text": "Hoste eine <strong>G-Mod</strong>-Identität, die nicht mit der Fraktion deiner Identität übereinstimmt, auf DJ Fenris, sobald diese Karte installiert wird.\nDJ Fenris erhält den Text der gehosteten Identität.\nNur 1 pro Deck.",
-        "title": "DJ Fenris"
-    },
-    {
-        "code": "22026",
-        "flavor": "Mach mehr draus!",
-        "keywords": "Tochterunternehmen",
-        "text": "Immer wenn du die Punkte für eine Agenda erzielst oder sie gestohlen wird, erhältst du 2[credit] oder ziehst 2 Karten.",
-        "title": "Sportsmetal: Gib alles oder gib auf"
-    },
-    {
-        "code": "22027",
-        "flavor": "\"Unsere Analyse zeigt große Zustimmung für das Projekt; was die Öffentliche Hand als auch die Privatwirtschaft betrifft.\"",
-        "keywords": "Erweiterung",
-        "text": "Sobald du die Punkte für Hyperloop-Erweiterung erzielst oder sie gestohlen wird, erhält der Kon 3[credit].",
-        "title": "Hyperloop-Erweiterung"
-    },
-    {
-        "code": "22028",
-        "flavor": "Du überquerst ihn nicht - er überquert dich.",
-        "keywords": "Barriere",
-        "text": "[subroutine] Du erhältst 4[credit] und beendest den Run, falls der Runner nicht Meridian als Agenda mit dem Wert -1 Agendapunkte seiner Punktezone hinzufügt.",
-        "title": "Meridian"
-    },
-    {
-        "code": "22029",
-        "flavor": "Banane wer?",
-        "keywords": "Code-Zugang",
-        "text": "Torwächter hat +6 Stärke, falls du diese Karte in diesem Zug geladen hast.\n[subroutine] Ziehe bis zu 3 Karten. Decke bis zu 3 Agenden in HQ und/oder Archiv auf. Mische dann jene Agenden in F&E.\n[subroutine] Beende den Run.",
-        "title": "Torwächter"
-    },
-    {
-        "code": "22030",
-        "flavor": "Falls das nicht klappt, versuch es mit einer Umkehr der Polarität.",
-        "text": "Entlade eine beliebige Anzahl Karten. Du darfst eine Karte laden und ihre Ladekosten dafür um 3 für jede so entladene Karte senken.",
-        "title": "Energie umlenken"
-    },
-    {
-        "code": "22031",
-        "flavor": "\"Meine Gute! Er brennt förmlich!\"",
-        "text": "Du erhältst X[credit]. Ziehe bis zu X Karten. Installiere bis zu X Karten in genau ein ausgelagertes System und/oder dieses System schützend (und zahle alle Installationskosten). X ist die Anzahl der Agenden in der Punktezone des Runners.",
-        "title": "Tempogegenstoss"
-    },
-    {
-        "code": "22032",
-        "flavor": "Coach Waldens Team-Ansprachen waren bekannt dafür, immer besser zu werden, je weiter seine Mannschaft hinten lag.",
-        "text": "Du erhältst [click] für jede Agenda in der Punktezone des Runners. Entferne Spielwende aus dem Spiel, statt diese Karte zu zerstören.",
-        "title": "Spielwende"
-    },
-    {
-        "code": "22033",
-        "flavor": "Die Welt hat sich verändert. Die Preise für Lizenzen nicht.",
-        "keywords": "Anlage",
-        "text": "Immer wenn eine erfolgreicher Run auf dieses System durchgeführt wird, beende den Run, falls der Runner nicht 2[credit] für jede Agenda in seiner Punktezone zahlt.",
-        "title": "Giordano-Gedenk-Stadion"
-    },
-    {
-        "code": "22034",
-        "keywords": "Abteilung",
-        "text": "[click], 1[credit]: Installiere eine Karte aus dem HQ in ein ausgelagertes System und lege dann 1 Entwicklungsmarker darauf. Du kannst jene Karte nicht vor Beginn deines nächsten Zuges laden oder die Punkte für sie erzielen.",
-        "title": "Saraswati Mnemonics: Endlose Erforschung"
-    },
-    {
-        "code": "22035",
-        "flavor": "\"Jumon, allzu Jumon...\"",
-        "keywords": "Forschung",
-        "text": "Sobald dein Zug endet, lege 2 Entwicklungsmarker auf eine in einem System installierte Karte.",
-        "title": "Jumon"
-    },
-    {
-        "code": "22036",
-        "flavor": "\"Nachschaffung ist ein wichtiger Teil unserer geplanten Wartungsarbeiten.\"",
-        "keywords": "Charakter",
-        "text": "Sobald dein Zug beginnt, darfst du einen Entwicklungsmarker von einer installierten Karte entfernen, um 3[credit] zu erhalten.",
-        "title": "API-S-Imkerin Isobel"
-    },
-    {
-        "code": "22037",
-        "keywords": "Ambush",
-        "text": "Neurostasis kann entwickelt werden.\nFalls du 3[credit] zahlst, sobald der Runner auf Neurostasis zugreift, wähle 1 installierte Runner-Karte für jeden Entwicklungsmarker auf Neurostasis. Der Runner muss die gewählten Karten in den Stapel mischen.",
-        "title": "Neurostasis"
-    },
-    {
-        "code": "22038",
-        "flavor": "\"Wenn dir der Sysop eine Verbindung anbietet, möchte er, dass du sie nutzt. Aber wenn du das tun solltest, was der Sysop möchte, dann würdest du gar nicht erst versuchen ins System einzubrechen.\" -Wie man eine Liquidierung vermeidet",
-        "keywords": "Wächter",
-        "text": "[subroutine] Du darfst bis zu 3 Entwicklungsmarker auf eine in einem System installierte Karte legen. Falls du dies tust, greift der Runner auf jene Karte zu, falls er nicht 3[credit] zahlt.",
-        "title": "Otoroshi"
-    },
-    {
-        "code": "22039",
-        "flavor": "Treten Sie näher!",
-        "keywords": "Code-Zugang",
-        "text": "Sobald dein Zug beginnt oder immer wenn der Runner an Hütchenspiel vorbeikommt, darfst du Hütchenspiel gegen ein anderes installiertes Ice austauschen.\n[subroutine] Beende den Run.",
-        "title": "Hütchenspiel"
-    },
-    {
-        "code": "22040",
-        "keywords": "Vergeltung - Graue Ops",
-        "text": "Kann nur gespielt werden, falls der Runner während seines letzten Zuges eine Kon-Karte zerstört hat.\nWähle eine installierte Kon-Karte. Der Runner darf auf jene Karte zugreifen. Falls er dies tut, entferne Hangeki aus dem Spiel, statt diese Karte zu zerstören; ansonsten füge Hangeki als Agenda mit dem Wert -1 Agendapunkte der Punktezone des Runners hinzu.",
-        "title": "Hangeki"
-    },
-    {
-        "code": "22041",
-        "text": "Sobald sich der Runner diesem System annähert, darfst du Daruma zerstören. Falls du dies tust, tausche eine Karte, die in diesem System installiert ist, entweder gegen eine andere Karte, die in einem System installiert ist, oder gegen eine Agenda, einen Aktivposten oder Upgrade aus dem HQ aus.",
-        "title": "Daruma"
-    },
-    {
-        "code": "22042",
-        "keywords": "Tochterunternehmen",
-        "text": "Der Runner wird während Begegnungen mit dem äußersten Ice, das ein beliebiges System schützt, behandelt, als ob er 1 zusätzliche Markierung hätte (selbst wenn er 0 hat).",
-        "title": "Acme Consulting: Die Wahrheit, die du brauchst"
-    },
-    {
-        "code": "22043",
-        "flavor": "Nur halb so nervig wie ihr reales Vorbild.",
-        "keywords": "Initiative",
-        "text": "Sobald du die Punkte für Die Fliege an der Wand erzielst, verpasse dem Runner 1 Markierung.",
-        "title": "Die Fliege an der Wand"
-    },
-    {
-        "code": "22044",
-        "flavor": "\"Was ist so besonders an dieser Sonderkommission?\"\n\"Nun, zunächst einmal ihre finanziellen Mittel.\"",
-        "text": "Sobald dein Zug beginnt, darfst du SK zerstören, um <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
-        "title": "SK"
-    },
-    {
-        "code": "22045",
-        "flavor": "\"Das Wettstarren habe ich verloren. Genau wie alle sieben Revanche-Partien.\" -Kabonesa Wu",
-        "keywords": "Code-Zugang",
-        "text": "Sobald der Runner auf Spanner trifft, benenne eine Kartenart und decke dann alle Karten im Griff auf. Spanner erhält für jede aufgedeckte Karte der benannten Kartenart \"[subroutine] Beende den Run, falls der Runner sich nicht 1 Markierung verpasst bekommen lässt.\".",
-        "title": "Spanner"
-    },
-    {
-        "code": "22046",
-        "keywords": "Wächter - AP",
-        "text": "[subroutine] Verursache 3 Netz-Schaden, falls der Runner markiert ist; verpasse dem Runner ansonsten 1 Markierung.\n[subroutine] Du erhältst 5[credit], falls der Runner markiert ist; verpasse dem Runner ansonsten 1 Markierung.\n[subroutine] Beende den Run, falls der Runner markiert ist; verpasse dem Runner ansonsten 1 Markierung.\n",
-        "title": "Hydra"
-    },
-    {
-        "code": "22047",
-        "flavor": "\"Nein, der Ton ist in Ordnung. Es scheint sich nur nie abzuschalten.\"",
-        "keywords": "Graue Ops - Bedingung",
-        "text": "Installiere Abhöraktion auf einem Ice als gehosteten Bedingungszähler mit dem Text: \"Immer wenn der Runner auf das hostende Ice trifft, <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.\"",
-        "title": "Abhöraktion"
-    },
-    {
-        "code": "22048",
-        "flavor": "\"Gute Nachrichten, Ma'am. Wir konnten die Compliance-Schulung erfolgreich mit nur minimalem Widerstand abschließen.\"",
-        "text": "Ziehe 2 Karten. Decke bis zu 2 Agenden aus dem HQ und/oder Archiv auf. Du erhältst 2[credit] für jede so aufgedeckte Agenda. Mische dann jene Agenden in F&E.",
-        "title": "Gesinnungsanpassung"
-    },
-    {
-        "code": "22049",
-        "flavor": "\"Prost, Philbert.\"",
-        "keywords": "Sysop",
-        "text": "Immer wenn die Punkte für eine Agenda in diesem System erzielt werden, darfst du eine Karte aus dem HQ installieren, ohne die Kosten dafür zu zahlen, und 1 Entwicklungsmarker darauf legen.",
-        "title": "Arella Salvatore"
-    },
-    {
-        "code": "22050",
-        "flavor": "Wir machen es auf unsere Weise.",
-        "keywords": "Tochterunternehmen",
-        "text": "Du erhältst 3[credit], immer wenn du mindestens 1 Negative Publicity erhältst.",
-        "title": "Das Outfit: Im Familienbesitz und familiengeführt"
-    },
-    {
-        "code": "22051",
-        "keywords": "Sicherheit",
-        "text": "Sobald du die Punkte für Am hellichten Tag erzielst, darfst du 1 Negative Publicity erhalten. Lege 1 Agendazähler für jeden Punkt Negative Publicity, den du hast, auf Am hellichten Tag.\n[click], <strong>gehosteter Agendazähler</strong>: Verursache 2 Körper-Schaden. Verwende diese Fähigkeit nur ein Mal pro Zug.",
-        "title": "Am hellichten Tag"
-    },
-    {
-        "code": "22052",
-        "text": "Lege 3 Wirkungszähler auf Stumpfsinnige Plackerei, sobald diese Karte geladen wird. Sobald sich keine Wirkungszähler mehr auf Stumpfsinnige Plackerei befindet, zerstöre sie.\n[click], <strong>gehosteter Wirkungszähler</strong>: Decke eine Agenda aus dem HQ oder Archiv auf. Du erhältst Credits in Höhe der Agendapunkte der Agenda. Mische sie dann in F&E.",
-        "title": "Stumpfsinnige Plackerei"
-    },
-    {
-        "code": "22053",
-        "keywords": "Barriere",
-        "text": "Blockchain erhält für je 2 offene <strong>Transaktion</strong>-Operation im Archiv \"[subroutine] Der Kon erhält 1[credit] und der Runner verliert 1[credit].\" vor allen seinen anderen Subroutinen.\n[subroutine] Der Kon erhält 1[credit] und der Runner verliert 1[credit].\n[subroutine] Beende den Run.",
-        "title": "Blockchain"
-    },
-    {
-        "code": "22054",
-        "flavor": "Ein Ort voller Verwesung und Tod, eine phasenverschobene Ebene, ein Ort, an dem Monster leben.",
-        "keywords": "Wächter - AP",
-        "text": "Sobald sich der Runner einem System annähert, darfst du Ameisennest laden. Falls du dies tust, verschiebe es auf die innerste Position in jenem System. Der Runner trifft nun darauf.\n[subroutine] Beende den Run, falls der Runner nicht 2 Netz-Schaden erleidet.",
-        "title": "Ameisennest"
-    },
-    {
-        "code": "22055",
-        "flavor": "\"Es wirkt zwar wie ein Fehler, aber ich bin mir sicher, dass sie diese Lücken absichtlich offen gelassen haben.\" -Mücke",
-        "text": "Decke eine <strong>Barriere</strong> aus dem HQ auf. Installiere und lade sie, ohne die Kosten zu zahlen.",
-        "title": "Bausteine"
-    },
-    {
-        "code": "22056",
-        "flavor": "\"Das ist Erpressung!\"\n\"Ich würde es eher als Nötigung bezeichnen.\"",
-        "keywords": "Transaktion - Illegal",
-        "text": "Kann nur gespielt werden, falls du weniger als 10[credit] hast.\nDu erhältst 7[credit] und 1 Negative Publicity.",
-        "title": "Zu gross zum Scheitern"
-    },
-    {
-        "code": "22057",
-        "keywords": "Graue Ops - Illegal",
-        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug auf mindestens 1 Karte zugegriffen hat.\nZerstöre 1 <strong>Kontakt</strong>-Ressource und erhalte 1 Negative Publicity.",
-        "title": "Vor den Bus schubsen"
-    },
-    {
-        "code": "22058",
-        "keywords": "Region - Protzig",
-        "text": "Sobald dein Zug beginnt, lege 1 Wirkungszähler auf Freiheitsstatue.\n[click], [click], [click]: Füge eine Agenda, die genauso viele Agendapunkte wert ist wie die exakte Anzahl gehosteter Wirkungszähler auf dieser Karte, aus dem HQ deiner Punktezone hinzu.\nNur 1 <strong>Region</strong> pro Server.\nNur 1 pro Deck.",
-        "title": "Freiheitsstatue"
-    }
+  {
+    "code": "22001",
+    "flavor": "\"Verdammt, bin ich gut.\"",
+    "keywords": "Natürlich",
+    "text": "Sobald dein Zug beginnt, erhältst du 1[credit], falls du 2 oder weniger Karten in deinem Griff hast.",
+    "title": "Nathaniel \"Mücke\" Hall: Einfach einmalig"
+  },
+  {
+    "code": "22002",
+    "flavor": "Alle Wege führen nach Rom.",
+    "keywords": "Run",
+    "text": "Führe einen Run auf das Archiv durch. Bei Erfolg greife auf 1 Karte aus dem HQ zu, nachdem du auf das Archiv zugegriffen hast, und greife dann auf die oberste Karte von F&E zu.",
+    "title": "Teile und herrsche"
+  },
+  {
+    "code": "22003",
+    "flavor": "\"Das war's wert!\"",
+    "text": "Zerstöre deinen Griff.\nDu erhältst 10[credit].",
+    "title": "Versuchskaninchen"
+  },
+  {
+    "code": "22004",
+    "keywords": "Konsole",
+    "text": "+1[mu]\nEin Mal pro Zug darfst du, sobald du eine Karte spielen oder installieren würdest, 1 Karte aus deinem Griff zerstören, um die Ausspiel- oder Installationskosten um 2 zu senken.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Flickwerk"
+  },
+  {
+    "code": "22005",
+    "text": "Immer wenn der Kon ein System erschafft, verliert er 1[credit].\nImmer wenn du einen erfolgreichen Run auf das Archiv durchführst, darfst du Übernommener Router zerstören, um den Kon zu zwingen 3[credit] zu verlieren.",
+    "title": "Übernommener Router"
+  },
+  {
+    "code": "22006",
+    "flavor": "... Klack ... Klack ... Klack ...",
+    "keywords": "Ice-Brecher - Decoder",
+    "text": "Kugelstosspendel hat -1 Stärke für jede Karte in deinem Griff.\n2[credit]: Schalte eine beliebige Anzahl von Subroutinen eines <strong>Code-Zugangs</strong> aus.",
+    "title": "Kugelstosspendel"
+  },
+  {
+    "code": "22007",
+    "flavor": "Das Vermögen eines Anderen.",
+    "keywords": "Ort - Zwielichtig",
+    "text": "Wenn zum ersten Mal in einem Zug ein Programm oder eine Hardware zerstört wird (an einem beliebigen Ort), darfst du 1 Wirkungszähler auf Distrikt 99 legen.\n[click], <strong>3 gehostete Wirkungszähler</strong>: Füge eine Karte, die mit der Fraktion deiner Identität übereinstimmt, aus deiner Ablage deinem Griff hinzu.",
+    "title": "Distrikt 99"
+  },
+  {
+    "code": "22008",
+    "flavor": "\"Denken Sie, Sie wären der erste, der versucht mich fertigzumachen?\"",
+    "keywords": "G-mod",
+    "text": "Wenn du zum ersten Mal in einem Zug einen erfolgreichen Run auf ein zentrales System durchführst, ziehe 2 Karten und bekomme 1 Markierung verpasst.",
+    "title": "Liza Talking Thunder: Prominente Abgeordnete"
+  },
+  {
+    "code": "22009",
+    "flavor": "\"Wir haben Sie umzingelt! Diesmal aber wirklich.\"",
+    "keywords": "Run",
+    "text": "Führe einen Run auf das HQ durch. Bei Erfolg erhältst du 9[credit] und bekommst 1 Markierung verpasst.",
+    "title": "Wilde Verfolgungsjagd"
+  },
+  {
+    "code": "22010",
+    "keywords": "Konsole",
+    "text": "+1[mu]\nWenn du zum ersten Mal in einem Zug einen erfolgreichen Run durchführst, darfst du 1[credit] erhalten und dir die oberste Karte deines Stapels ansehen. Falls du dies tust, darfst du jene Karte unter deinen Stapel legen.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Paragon"
+  },
+  {
+    "code": "22011",
+    "flavor": "\"Das Aufkommen der Cryptowährung hat das Bankwesen deutlich verkompliziert. Die Finanzkriminalität hat mit der Entwicklung nicht nur Schritt halten können, im Gegenteil: sie ist geradezu explodiert.\"\n-Nach dem Flash: Die Geschichte eines Krieges, der nie stattfand.",
+    "text": "Immer wenn du einen erfolgreichen Run durchführst, darfst du 1[credit] aus der Bank auf Finanzielle Mittel legen.\n[trash]: Nimm alle Credits von Finanzielle Mittel.",
+    "title": "Finanzielle Mittel"
+  },
+  {
+    "code": "22012",
+    "flavor": "\"Eigentlich ist jedes Ice nur eine Art Bezahlschranke.\"\n-Liza Talking Thunder",
+    "keywords": "Ice-Brecher - Fracter",
+    "text": "Immer wenn eine Begegnung mit einem Ice endet, in dem du Magnat verwendet hast, um eine Subroutine auszuschalten, erhält der Kon 2[credit].\n1[credit]: Schalte bis zu 3 Subroutinen einer <strong>Barriere</strong> aus.\n2[credit]: +3 Stärke.",
+    "title": "Magnat"
+  },
+  {
+    "code": "22013",
+    "flavor": "Ein wirklich stilvolles Alibi.",
+    "keywords": "Ort - Protzig",
+    "text": "Wenn du zum ersten Mal in einem Zug eine Markierung vermeidest oder entfernst, darfst du eine Karte aus deinem Griff installieren und die Installationskosten dafür um 1 senken.",
+    "title": "Thunder-Kunstgalerie"
+  },
+  {
+    "code": "22014",
+    "flavor": "\"Sollte ich es nicht ausschalten können, kenne ich jemanden, der es ganz bestimmt schafft.\"",
+    "keywords": "Kontakt",
+    "text": "Lege 12[credit] aus der Bank auf Miss Bones, sobald diese Karte installiert wird. Sobald keine Credits mehr auf Miss Bones liegen, zerstöre sie.\nVerwende diese Credits, um installierte Karten zu zerstören.",
+    "title": "Miss Bones"
+  },
+  {
+    "code": "22015",
+    "keywords": "Klon",
+    "text": "Immer wenn du auf Karten von F&E zugreifst, geben du und der Kon geheim 0[credit], 1[credit] oder 2[credit] aus. Deckt die ausgegebenen Credits auf. Falls du und der Kon dieselbe Anzahl Cedits ausgeben haben, greife auf 1 zusätzliche Karte von F&E zu.",
+    "title": "Akiko Nisei: Durchgedreht"
+  },
+  {
+    "code": "22016",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Kosten, um dieses Ereignis zu spielen, gib [click] aus.\nDer Kon darf sich die obersten 4 Karten von F&E ansehen und sie in einer beliebigen Reigenfolge zurücklegen.\nDecke die obersten 4 Karten von F&E auf.",
+    "title": "Erkenntnis"
+  },
+  {
+    "code": "22017",
+    "keywords": "Konsole",
+    "text": "+1[mu]\nImmer wenn du einen erfolgreichen Run auf F&E durchführst, darfst du 1 Wirkungszähler auf Inneres Auge legen.\n[click], <strong>3 gehostete Wirkungszähler</strong>: Greife auf die oberste Karte von F&E zu.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Inneres Auge"
+  },
+  {
+    "code": "22018",
+    "flavor": "\"Was machst du da?\"\n\"Die eigentlich Frage ist, was mache ich nicht?\"",
+    "text": "Wenn du zum ersten Mal in einem Zug eine Karte zerstörst, auf die du zugreifst, darfst du Wirkungszähler in Höhe der Zerstörungskosten jener Karte auf Mâché legen.\n3 <strong>gehostete Wirkungszähler</strong>: Ziehe 1 Karte.",
+    "title": "Mâché"
+  },
+  {
+    "code": "22019",
+    "flavor": "\"Runs bestehen aus Metaphern, aus Symbolen, und bohren sich in die entlegensten Winkel der Seele. Manchmal mit Tentakeln.\" -Akiko Nisei",
+    "keywords": "Ice-Brecher - Killer",
+    "text": "2[credit]: Hoste Ika auf einem Ice.\n1[credit]: Schalte bis zu 2 Subroutinen auf dem hostenden <strong>Wächter</strong> aus.\n2[credit]: +3 Stärke.",
+    "title": "Ika"
+  },
+  {
+    "code": "22020",
+    "flavor": "Die Reise ist die Belohnung.",
+    "text": "Kyuban kann nur auf einem Ice installiert werden.\nImmer wenn du an dem hostenden Ice vorbeikommst, erhältst du 2[credit].",
+    "title": "Kyuban"
+  },
+  {
+    "code": "22021",
+    "flavor": "\"Atme, Mädchen. Atme.\" Mike erschien in ihrem Sichtfeld, als sie Akikos Tränen fortwischte. \"Was hast du gesehen?\"\n\"Ich ...\", zögerte Akiko. \"Alles.\"",
+    "keywords": "Kontakt",
+    "text": "Wenn zum ersten Mal in einem Zug ein erfolgreicher Run auf F&E endet, darfst du für jede Karte 1[credit] erhalten, auf die du von F&E zugegriffen hast.",
+    "title": "Mentalistin Mike"
+  },
+  {
+    "code": "22022",
+    "flavor": "\"Deine Gegenwart gibt mir das Gefühl, alles schaffen zu können!\"",
+    "text": "Sobald dein Zug beginnt, darfst du 2[credit] zahlen, um [click] zu erhalten. Falls du dies tust, zerstöre Algernon, sobald dein Zug endet, falls du in diesem Zug keinen erfolgreichen Run durchgeführt hast.",
+    "title": "Algernon"
+  },
+  {
+    "code": "22023",
+    "keywords": "Run",
+    "text": "Führe einen Run auf das Archiv durch. Bei Erfolg installiere, statt auf Karten zuzugreifen, bis zu 5 Karten verdeckt aus deiner Ablage. Entferne Neustart aus dem Spiel, statt diese Karte zu zerstören.",
+    "title": "Neustart"
+  },
+  {
+    "code": "22024",
+    "flavor": "\"Na, hast du in letzter Zeit etwas Spannendes gehört, Miriam?\"",
+    "text": "Senke die Ausspielkosten für Bürobedarf um 1 für jeden [link], die du hast.\nDu erhältst 4[credit] oder ziehst 4 Karten.",
+    "title": "Bürobedarf"
+  },
+  {
+    "code": "22025",
+    "keywords": "Kontakt",
+    "text": "Hoste eine <strong>G-Mod</strong>-Identität, die nicht mit der Fraktion deiner Identität übereinstimmt, auf DJ Fenris, sobald diese Karte installiert wird.\nDJ Fenris erhält den Text der gehosteten Identität.\nNur 1 pro Deck.",
+    "title": "DJ Fenris"
+  },
+  {
+    "code": "22026",
+    "flavor": "Mach mehr draus!",
+    "keywords": "Tochterunternehmen",
+    "text": "Immer wenn du die Punkte für eine Agenda erzielst oder sie gestohlen wird, erhältst du 2[credit] oder ziehst 2 Karten.",
+    "title": "Sportsmetal: Gib alles oder gib auf"
+  },
+  {
+    "code": "22027",
+    "flavor": "\"Unsere Analyse zeigt große Zustimmung für das Projekt; was die Öffentliche Hand als auch die Privatwirtschaft betrifft.\"",
+    "keywords": "Erweiterung",
+    "text": "Sobald du die Punkte für Hyperloop-Erweiterung erzielst oder sie gestohlen wird, erhält der Kon 3[credit].",
+    "title": "Hyperloop-Erweiterung"
+  },
+  {
+    "code": "22028",
+    "flavor": "Du überquerst ihn nicht - er überquert dich.",
+    "keywords": "Barriere",
+    "text": "[subroutine] Du erhältst 4[credit] und beendest den Run, falls der Runner nicht Meridian als Agenda mit dem Wert -1 Agendapunkte seiner Punktezone hinzufügt.",
+    "title": "Meridian"
+  },
+  {
+    "code": "22029",
+    "flavor": "Banane wer?",
+    "keywords": "Code-Zugang",
+    "text": "Torwächter hat +6 Stärke, falls du diese Karte in diesem Zug geladen hast.\n[subroutine] Ziehe bis zu 3 Karten. Decke bis zu 3 Agenden in HQ und/oder Archiv auf. Mische dann jene Agenden in F&E.\n[subroutine] Beende den Run.",
+    "title": "Torwächter"
+  },
+  {
+    "code": "22030",
+    "flavor": "Falls das nicht klappt, versuch es mit einer Umkehr der Polarität.",
+    "text": "Entlade eine beliebige Anzahl Karten. Du darfst eine Karte laden und ihre Ladekosten dafür um 3 für jede so entladene Karte senken.",
+    "title": "Energie umlenken"
+  },
+  {
+    "code": "22031",
+    "flavor": "\"Meine Gute! Er brennt förmlich!\"",
+    "text": "Du erhältst X[credit]. Ziehe bis zu X Karten. Installiere bis zu X Karten in genau ein ausgelagertes System und/oder dieses System schützend (und zahle alle Installationskosten). X ist die Anzahl der Agenden in der Punktezone des Runners.",
+    "title": "Tempogegenstoss"
+  },
+  {
+    "code": "22032",
+    "flavor": "Coach Waldens Team-Ansprachen waren bekannt dafür, immer besser zu werden, je weiter seine Mannschaft hinten lag.",
+    "text": "Du erhältst [click] für jede Agenda in der Punktezone des Runners. Entferne Spielwende aus dem Spiel, statt diese Karte zu zerstören.",
+    "title": "Spielwende"
+  },
+  {
+    "code": "22033",
+    "flavor": "Die Welt hat sich verändert. Die Preise für Lizenzen nicht.",
+    "keywords": "Anlage",
+    "text": "Immer wenn eine erfolgreicher Run auf dieses System durchgeführt wird, beende den Run, falls der Runner nicht 2[credit] für jede Agenda in seiner Punktezone zahlt.",
+    "title": "Giordano-Gedenk-Stadion"
+  },
+  {
+    "code": "22034",
+    "keywords": "Abteilung",
+    "text": "[click], 1[credit]: Installiere eine Karte aus dem HQ in ein ausgelagertes System und lege dann 1 Entwicklungsmarker darauf. Du kannst jene Karte nicht vor Beginn deines nächsten Zuges laden oder die Punkte für sie erzielen.",
+    "title": "Saraswati Mnemonics: Endlose Erforschung"
+  },
+  {
+    "code": "22035",
+    "flavor": "\"Jumon, allzu Jumon...\"",
+    "keywords": "Forschung",
+    "text": "Sobald dein Zug endet, lege 2 Entwicklungsmarker auf eine in einem System installierte Karte.",
+    "title": "Jumon"
+  },
+  {
+    "code": "22036",
+    "flavor": "\"Nachschaffung ist ein wichtiger Teil unserer geplanten Wartungsarbeiten.\"",
+    "keywords": "Charakter",
+    "text": "Sobald dein Zug beginnt, darfst du einen Entwicklungsmarker von einer installierten Karte entfernen, um 3[credit] zu erhalten.",
+    "title": "API-S-Imkerin Isobel"
+  },
+  {
+    "code": "22037",
+    "keywords": "Ambush",
+    "text": "Neurostasis kann entwickelt werden.\nFalls du 3[credit] zahlst, sobald der Runner auf Neurostasis zugreift, wähle 1 installierte Runner-Karte für jeden Entwicklungsmarker auf Neurostasis. Der Runner muss die gewählten Karten in den Stapel mischen.",
+    "title": "Neurostasis"
+  },
+  {
+    "code": "22038",
+    "flavor": "\"Wenn dir der Sysop eine Verbindung anbietet, möchte er, dass du sie nutzt. Aber wenn du das tun solltest, was der Sysop möchte, dann würdest du gar nicht erst versuchen ins System einzubrechen.\" -Wie man eine Liquidierung vermeidet",
+    "keywords": "Wächter",
+    "text": "[subroutine] Du darfst bis zu 3 Entwicklungsmarker auf eine in einem System installierte Karte legen. Falls du dies tust, greift der Runner auf jene Karte zu, falls er nicht 3[credit] zahlt.",
+    "title": "Otoroshi"
+  },
+  {
+    "code": "22039",
+    "flavor": "Treten Sie näher!",
+    "keywords": "Code-Zugang",
+    "text": "Sobald dein Zug beginnt oder immer wenn der Runner an Hütchenspiel vorbeikommt, darfst du Hütchenspiel gegen ein anderes installiertes Ice austauschen.\n[subroutine] Beende den Run.",
+    "title": "Hütchenspiel"
+  },
+  {
+    "code": "22040",
+    "keywords": "Vergeltung - Graue Ops",
+    "text": "Kann nur gespielt werden, falls der Runner während seines letzten Zuges eine Kon-Karte zerstört hat.\nWähle eine installierte Kon-Karte. Der Runner darf auf jene Karte zugreifen. Falls er dies tut, entferne Hangeki aus dem Spiel, statt diese Karte zu zerstören; ansonsten füge Hangeki als Agenda mit dem Wert -1 Agendapunkte der Punktezone des Runners hinzu.",
+    "title": "Hangeki"
+  },
+  {
+    "code": "22041",
+    "text": "Sobald sich der Runner diesem System annähert, darfst du Daruma zerstören. Falls du dies tust, tausche eine Karte, die in diesem System installiert ist, entweder gegen eine andere Karte, die in einem System installiert ist, oder gegen eine Agenda, einen Aktivposten oder Upgrade aus dem HQ aus.",
+    "title": "Daruma"
+  },
+  {
+    "code": "22042",
+    "keywords": "Tochterunternehmen",
+    "text": "Der Runner wird während Begegnungen mit dem äußersten Ice, das ein beliebiges System schützt, behandelt, als ob er 1 zusätzliche Markierung hätte (selbst wenn er 0 hat).",
+    "title": "Acme Consulting: Die Wahrheit, die du brauchst"
+  },
+  {
+    "code": "22043",
+    "flavor": "Nur halb so nervig wie ihr reales Vorbild.",
+    "keywords": "Initiative",
+    "text": "Sobald du die Punkte für Die Fliege an der Wand erzielst, verpasse dem Runner 1 Markierung.",
+    "title": "Die Fliege an der Wand"
+  },
+  {
+    "code": "22044",
+    "flavor": "\"Was ist so besonders an dieser Sonderkommission?\"\n\"Nun, zunächst einmal ihre finanziellen Mittel.\"",
+    "text": "Sobald dein Zug beginnt, darfst du SK zerstören, um <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+    "title": "SK"
+  },
+  {
+    "code": "22045",
+    "flavor": "\"Das Wettstarren habe ich verloren. Genau wie alle sieben Revanche-Partien.\" -Kabonesa Wu",
+    "keywords": "Code-Zugang",
+    "text": "Sobald der Runner auf Spanner trifft, benenne eine Kartenart und decke dann alle Karten im Griff auf. Spanner erhält für jede aufgedeckte Karte der benannten Kartenart \"[subroutine] Beende den Run, falls der Runner sich nicht 1 Markierung verpasst bekommen lässt.\".",
+    "title": "Spanner"
+  },
+  {
+    "code": "22046",
+    "keywords": "Wächter - AP",
+    "text": "[subroutine] Verursache 3 Netz-Schaden, falls der Runner markiert ist; verpasse dem Runner ansonsten 1 Markierung.\n[subroutine] Du erhältst 5[credit], falls der Runner markiert ist; verpasse dem Runner ansonsten 1 Markierung.\n[subroutine] Beende den Run, falls der Runner markiert ist; verpasse dem Runner ansonsten 1 Markierung.\n",
+    "title": "Hydra"
+  },
+  {
+    "code": "22047",
+    "flavor": "\"Nein, der Ton ist in Ordnung. Es scheint sich nur nie abzuschalten.\"",
+    "keywords": "Graue Ops - Bedingung",
+    "text": "Installiere Abhöraktion auf einem Ice als gehosteten Bedingungszähler mit dem Text: \"Immer wenn der Runner auf das hostende Ice trifft, <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.\"",
+    "title": "Abhöraktion"
+  },
+  {
+    "code": "22048",
+    "flavor": "\"Gute Nachrichten, Ma'am. Wir konnten die Compliance-Schulung erfolgreich mit nur minimalem Widerstand abschließen.\"",
+    "text": "Ziehe 2 Karten. Decke bis zu 2 Agenden aus dem HQ und/oder Archiv auf. Du erhältst 2[credit] für jede so aufgedeckte Agenda. Mische dann jene Agenden in F&E.",
+    "title": "Gesinnungsanpassung"
+  },
+  {
+    "code": "22049",
+    "flavor": "\"Prost, Philbert.\"",
+    "keywords": "Sysop",
+    "text": "Immer wenn die Punkte für eine Agenda in diesem System erzielt werden, darfst du eine Karte aus dem HQ installieren, ohne die Kosten dafür zu zahlen, und 1 Entwicklungsmarker darauf legen.",
+    "title": "Arella Salvatore"
+  },
+  {
+    "code": "22050",
+    "flavor": "Wir machen es auf unsere Weise.",
+    "keywords": "Tochterunternehmen",
+    "text": "Du erhältst 3[credit], immer wenn du mindestens 1 Negative Publicity erhältst.",
+    "title": "Das Outfit: Im Familienbesitz und familiengeführt"
+  },
+  {
+    "code": "22051",
+    "keywords": "Sicherheit",
+    "text": "Sobald du die Punkte für Am hellichten Tag erzielst, darfst du 1 Negative Publicity erhalten. Lege 1 Agendazähler für jeden Punkt Negative Publicity, den du hast, auf Am hellichten Tag.\n[click], <strong>gehosteter Agendazähler</strong>: Verursache 2 Körper-Schaden. Verwende diese Fähigkeit nur ein Mal pro Zug.",
+    "title": "Am hellichten Tag"
+  },
+  {
+    "code": "22052",
+    "text": "Lege 3 Wirkungszähler auf Stumpfsinnige Plackerei, sobald diese Karte geladen wird. Sobald sich keine Wirkungszähler mehr auf Stumpfsinnige Plackerei befindet, zerstöre sie.\n[click], <strong>gehosteter Wirkungszähler</strong>: Decke eine Agenda aus dem HQ oder Archiv auf. Du erhältst Credits in Höhe der Agendapunkte der Agenda. Mische sie dann in F&E.",
+    "title": "Stumpfsinnige Plackerei"
+  },
+  {
+    "code": "22053",
+    "keywords": "Barriere",
+    "text": "Blockchain erhält für je 2 offene <strong>Transaktion</strong>-Operation im Archiv \"[subroutine] Der Kon erhält 1[credit] und der Runner verliert 1[credit].\" vor allen seinen anderen Subroutinen.\n[subroutine] Der Kon erhält 1[credit] und der Runner verliert 1[credit].\n[subroutine] Beende den Run.",
+    "title": "Blockchain"
+  },
+  {
+    "code": "22054",
+    "flavor": "Ein Ort voller Verwesung und Tod, eine phasenverschobene Ebene, ein Ort, an dem Monster leben.",
+    "keywords": "Wächter - AP",
+    "text": "Sobald sich der Runner einem System annähert, darfst du Ameisennest laden. Falls du dies tust, verschiebe es auf die innerste Position in jenem System. Der Runner trifft nun darauf.\n[subroutine] Beende den Run, falls der Runner nicht 2 Netz-Schaden erleidet.",
+    "title": "Ameisennest"
+  },
+  {
+    "code": "22055",
+    "flavor": "\"Es wirkt zwar wie ein Fehler, aber ich bin mir sicher, dass sie diese Lücken absichtlich offen gelassen haben.\" -Mücke",
+    "text": "Decke eine <strong>Barriere</strong> aus dem HQ auf. Installiere und lade sie, ohne die Kosten zu zahlen.",
+    "title": "Bausteine"
+  },
+  {
+    "code": "22056",
+    "flavor": "\"Das ist Erpressung!\"\n\"Ich würde es eher als Nötigung bezeichnen.\"",
+    "keywords": "Transaktion - Illegal",
+    "text": "Kann nur gespielt werden, falls du weniger als 10[credit] hast.\nDu erhältst 7[credit] und 1 Negative Publicity.",
+    "title": "Zu gross zum Scheitern"
+  },
+  {
+    "code": "22057",
+    "keywords": "Graue Ops - Illegal",
+    "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug auf mindestens 1 Karte zugegriffen hat.\nZerstöre 1 <strong>Kontakt</strong>-Ressource und erhalte 1 Negative Publicity.",
+    "title": "Vor den Bus schubsen"
+  },
+  {
+    "code": "22058",
+    "keywords": "Region - Protzig",
+    "text": "Sobald dein Zug beginnt, lege 1 Wirkungszähler auf Freiheitsstatue.\n[click], [click], [click]: Füge eine Agenda, die genauso viele Agendapunkte wert ist wie die exakte Anzahl gehosteter Wirkungszähler auf dieser Karte, aus dem HQ deiner Punktezone hinzu.\nNur 1 <strong>Region</strong> pro Server.\nNur 1 pro Deck.",
+    "title": "Freiheitsstatue"
+  }
 ]

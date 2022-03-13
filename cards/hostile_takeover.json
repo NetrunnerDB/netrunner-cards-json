@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 2,
-    "agenda_points": 1,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "hostile_takeover",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When you score this agenda, gain 7 credits and take 1 bad publicity.",
-    "stripped_title": "Hostile Takeover",
-    "subtypes": [
-        "expansion"
-    ],
-    "text": "When you score this agenda, gain 7[credit] and take 1 bad publicity.",
-    "title": "Hostile Takeover"
+  "advancement_requirement": 2,
+  "agenda_points": 1,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "hostile_takeover",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you score this agenda, gain 7 credits and take 1 bad publicity.",
+  "stripped_title": "Hostile Takeover",
+  "subtypes": ["expansion"],
+  "text": "When you score this agenda, gain 7[credit] and take 1 bad publicity.",
+  "title": "Hostile Takeover"
 }

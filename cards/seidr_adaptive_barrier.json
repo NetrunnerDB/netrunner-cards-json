@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 4,
-    "deck_limit": 3,
-    "faction_id": "haas-bioroid",
-    "id": "seidr_adaptive_barrier",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 2,
-    "stripped_text": "Seidr Adaptive Barrier has +1 strength for each piece of ice protecting this server. Subroutine End the run.",
-    "stripped_title": "Seidr Adaptive Barrier",
-    "subtypes": [
-        "barrier"
-    ],
-    "text": "Seidr Adaptive Barrier has +1 strength for each piece of ice protecting this server.\n[subroutine] End the run.",
-    "title": "Seidr Adaptive Barrier"
+  "card_type_id": "ice",
+  "cost": 4,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "seidr_adaptive_barrier",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 2,
+  "stripped_text": "Seidr Adaptive Barrier has +1 strength for each piece of ice protecting this server. Subroutine End the run.",
+  "stripped_title": "Seidr Adaptive Barrier",
+  "subtypes": ["barrier"],
+  "text": "Seidr Adaptive Barrier has +1 strength for each piece of ice protecting this server.\n[subroutine] End the run.",
+  "title": "Seidr Adaptive Barrier"
 }

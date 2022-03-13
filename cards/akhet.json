@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "akhet",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 2,
-    "stripped_text": "You can advance this ice. While there are 3 or more hosted advancement tokens, this ice has +3 strength and the Runner cannot break more than 1 of its printed subroutines during each encounter. Subroutine Gain 1 credit. Place 1 advancement token on an installed card. Subroutine End the run.",
-    "stripped_title": "Akhet",
-    "subtypes": [
-        "barrier"
-    ],
-    "text": "You can advance this ice.\nWhile there are 3 or more hosted advancement tokens, this ice has +3 strength and the Runner cannot break more than 1 of its printed subroutines during each encounter.\n[subroutine] Gain 1[credit]. Place 1 advancement token on an installed card.\n[subroutine] End the run.",
-    "title": "Akhet"
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "akhet",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 2,
+  "stripped_text": "You can advance this ice. While there are 3 or more hosted advancement tokens, this ice has +3 strength and the Runner cannot break more than 1 of its printed subroutines during each encounter. Subroutine Gain 1 credit. Place 1 advancement token on an installed card. Subroutine End the run.",
+  "stripped_title": "Akhet",
+  "subtypes": ["barrier"],
+  "text": "You can advance this ice.\nWhile there are 3 or more hosted advancement tokens, this ice has +3 strength and the Runner cannot break more than 1 of its printed subroutines during each encounter.\n[subroutine] Gain 1[credit]. Place 1 advancement token on an installed card.\n[subroutine] End the run.",
+  "title": "Akhet"
 }

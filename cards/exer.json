@@ -1,18 +1,16 @@
 {
-    "card_type_id": "program",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "exer",
-    "influence_cost": 3,
-    "is_unique": false,
-    "memory_cost": 1,
-    "side_id": "runner",
-    "stripped_text": "Whenever you breach R&D, access 1 additional card. When the Corp purges virus counters, trash this program.",
-    "stripped_title": "eXer",
-    "subtypes": [
-        "virus"
-    ],
-    "text": "Whenever you breach R&D, access 1 additional card.\nWhen the Corp purges virus counters, trash this program.",
-    "title": "eXer"
+  "card_type_id": "program",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "exer",
+  "influence_cost": 3,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "Whenever you breach R&D, access 1 additional card. When the Corp purges virus counters, trash this program.",
+  "stripped_title": "eXer",
+  "subtypes": ["virus"],
+  "text": "Whenever you breach R&D, access 1 additional card.\nWhen the Corp purges virus counters, trash this program.",
+  "title": "eXer"
 }

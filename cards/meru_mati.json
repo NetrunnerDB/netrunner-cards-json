@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "meru_mati",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 1,
-    "stripped_text": "Meru Mati has +3 strength while protecting HQ. Subroutine End the run.",
-    "stripped_title": "Meru Mati",
-    "subtypes": [
-        "barrier"
-    ],
-    "text": "Meru Mati has +3 strength while protecting HQ.\n[subroutine] End the run.",
-    "title": "Meru Mati"
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "meru_mati",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 1,
+  "stripped_text": "Meru Mati has +3 strength while protecting HQ. Subroutine End the run.",
+  "stripped_title": "Meru Mati",
+  "subtypes": ["barrier"],
+  "text": "Meru Mati has +3 strength while protecting HQ.\n[subroutine] End the run.",
+  "title": "Meru Mati"
 }

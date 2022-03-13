@@ -1,19 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 4,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "envelope",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 3,
-    "stripped_text": "Subroutine Do 1 net damage. Subroutine End the run.",
-    "stripped_title": "Envelope",
-    "subtypes": [
-        "barrier",
-        "ap"
-    ],
-    "text": "[subroutine] Do 1 net damage.\n[subroutine] End the run.",
-    "title": "Envelope"
+  "card_type_id": "ice",
+  "cost": 4,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "envelope",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "Subroutine Do 1 net damage. Subroutine End the run.",
+  "stripped_title": "Envelope",
+  "subtypes": ["barrier", "ap"],
+  "text": "[subroutine] Do 1 net damage.\n[subroutine] End the run.",
+  "title": "Envelope"
 }

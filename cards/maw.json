@@ -1,17 +1,15 @@
 {
-    "card_type_id": "hardware",
-    "cost": 6,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "maw",
-    "influence_cost": 3,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "+2 mu The first time each turn you access a card not in Archives and do not steal or trash it, the Corp must trash 1 card from HQ at random. Limit 1 console per player.",
-    "stripped_title": "Maw",
-    "subtypes": [
-        "console"
-    ],
-    "text": "+2[mu]\nThe first time each turn you access a card not in Archives and do not steal or trash it, the Corp must trash 1 card from HQ at random.\nLimit 1 <strong>console</strong> per player.",
-    "title": "Maw"
+  "card_type_id": "hardware",
+  "cost": 6,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "maw",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "+2 mu The first time each turn you access a card not in Archives and do not steal or trash it, the Corp must trash 1 card from HQ at random. Limit 1 console per player.",
+  "stripped_title": "Maw",
+  "subtypes": ["console"],
+  "text": "+2[mu]\nThe first time each turn you access a card not in Archives and do not steal or trash it, the Corp must trash 1 card from HQ at random.\nLimit 1 <strong>console</strong> per player.",
+  "title": "Maw"
 }

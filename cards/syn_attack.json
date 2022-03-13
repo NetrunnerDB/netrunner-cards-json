@@ -1,17 +1,15 @@
 {
-    "card_type_id": "event",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "criminal",
-    "id": "syn_attack",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "As an additional cost to play this event, spend click. The Corp must either discard 2 cards or draw 4 cards.",
-    "stripped_title": "SYN Attack",
-    "subtypes": [
-        "double"
-    ],
-    "text": "As an additional cost to play this event, spend [click].\nThe Corp must either discard 2 cards or draw 4 cards.",
-    "title": "SYN Attack"
+  "card_type_id": "event",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "syn_attack",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "As an additional cost to play this event, spend click. The Corp must either discard 2 cards or draw 4 cards.",
+  "stripped_title": "SYN Attack",
+  "subtypes": ["double"],
+  "text": "As an additional cost to play this event, spend [click].\nThe Corp must either discard 2 cards or draw 4 cards.",
+  "title": "SYN Attack"
 }

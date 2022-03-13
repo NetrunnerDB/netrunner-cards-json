@@ -1,17 +1,15 @@
 {
-    "card_type_id": "hardware",
-    "cost": 4,
-    "deck_limit": 3,
-    "faction_id": "criminal",
-    "id": "zamba",
-    "influence_cost": 3,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "+2 mu Whenever a Corp card is exposed, you may gain 1 credit. Limit 1 console per player.",
-    "stripped_title": "Zamba",
-    "subtypes": [
-        "console"
-    ],
-    "text": "+2[mu]\nWhenever a Corp card is exposed, you may gain 1[credit].\nLimit 1 <strong>console</strong> per player.",
-    "title": "Zamba"
+  "card_type_id": "hardware",
+  "cost": 4,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "zamba",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "+2 mu Whenever a Corp card is exposed, you may gain 1 credit. Limit 1 console per player.",
+  "stripped_title": "Zamba",
+  "subtypes": ["console"],
+  "text": "+2[mu]\nWhenever a Corp card is exposed, you may gain 1[credit].\nLimit 1 <strong>console</strong> per player.",
+  "title": "Zamba"
 }

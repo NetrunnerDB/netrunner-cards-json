@@ -1,19 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "news_hound",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 4,
-    "stripped_text": "If a current is active, News Hound gains \"Subroutine End the run.\" after all its other subroutines. Subroutine Trace 3 If successful, give the Runner 1 tag.",
-    "stripped_title": "News Hound",
-    "subtypes": [
-        "sentry",
-        "tracer"
-    ],
-    "text": "If a <strong>current</strong> is active, News Hound gains \"[subroutine] End the run.\" after all its other subroutines.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
-    "title": "News Hound"
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "news_hound",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "If a current is active, News Hound gains \"Subroutine End the run.\" after all its other subroutines. Subroutine Trace 3 If successful, give the Runner 1 tag.",
+  "stripped_title": "News Hound",
+  "subtypes": ["sentry", "tracer"],
+  "text": "If a <strong>current</strong> is active, News Hound gains \"[subroutine] End the run.\" after all its other subroutines.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
+  "title": "News Hound"
 }

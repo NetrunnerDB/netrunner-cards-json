@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 5,
-    "agenda_points": 3,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "the_cleaners",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Interrupt -> Whenever you would do meat damage, increase that damage by 1. Errata from CR 1.4",
-    "stripped_title": "The Cleaners",
-    "subtypes": [
-        "security"
-    ],
-    "text": "[interrupt] → Whenever you would do meat damage, increase that damage by 1.\n<errata>Errata from CR 1.4</errata>",
-    "title": "The Cleaners"
+  "advancement_requirement": 5,
+  "agenda_points": 3,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "the_cleaners",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Interrupt -> Whenever you would do meat damage, increase that damage by 1. Errata from CR 1.4",
+  "stripped_title": "The Cleaners",
+  "subtypes": ["security"],
+  "text": "[interrupt] → Whenever you would do meat damage, increase that damage by 1.\n<errata>Errata from CR 1.4</errata>",
+  "title": "The Cleaners"
 }

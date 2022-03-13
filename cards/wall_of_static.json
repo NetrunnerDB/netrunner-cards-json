@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "neutral-corp",
-    "id": "wall_of_static",
-    "influence_cost": 0,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 3,
-    "stripped_text": "Subroutine End the run.",
-    "stripped_title": "Wall of Static",
-    "subtypes": [
-        "barrier"
-    ],
-    "text": "[subroutine] End the run.",
-    "title": "Wall of Static"
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "wall_of_static",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "Subroutine End the run.",
+  "stripped_title": "Wall of Static",
+  "subtypes": ["barrier"],
+  "text": "[subroutine] End the run.",
+  "title": "Wall of Static"
 }

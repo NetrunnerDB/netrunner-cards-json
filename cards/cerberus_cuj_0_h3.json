@@ -1,20 +1,17 @@
 {
-    "card_type_id": "program",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "cerberus_cuj_0_h3",
-    "influence_cost": 3,
-    "is_unique": false,
-    "memory_cost": 1,
-    "side_id": "runner",
-    "strength": 0,
-    "stripped_text": "When you install this program, place 4 power counters on it. Interface -> Hosted power counter: Break up to 2 sentry subroutines. 1 credit: +1 strength.",
-    "stripped_title": "Cerberus \"Cuj.0\" H3",
-    "subtypes": [
-        "icebreaker",
-        "killer"
-    ],
-    "text": "When you install this program, place 4 power counters on it.\nInterface → <strong>Hosted power counter:</strong> Break up to 2 <strong>sentry</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Cerberus \"Cuj.0\" H3"
+  "card_type_id": "program",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "cerberus_cuj_0_h3",
+  "influence_cost": 3,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 0,
+  "stripped_text": "When you install this program, place 4 power counters on it. Interface -> Hosted power counter: Break up to 2 sentry subroutines. 1 credit: +1 strength.",
+  "stripped_title": "Cerberus \"Cuj.0\" H3",
+  "subtypes": ["icebreaker", "killer"],
+  "text": "When you install this program, place 4 power counters on it.\nInterface → <strong>Hosted power counter:</strong> Break up to 2 <strong>sentry</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength.",
+  "title": "Cerberus \"Cuj.0\" H3"
 }

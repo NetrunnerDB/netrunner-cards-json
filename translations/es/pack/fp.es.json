@@ -1,135 +1,135 @@
 [
-    {
-        "code": "02101",
-        "keywords": "Incursión",
-        "text": "Realiza una incursión contra los Archivos. Si tiene éxito, en lugar de acceder a las cartas, puedes instalar un programa desde tu Pila ignorando todos los costes.",
-        "title": "Incursión De Recuperación"
-    },
-    {
-        "code": "02102",
-        "keywords": "Rompehielos - IA - Virus",
-        "text": "2[credit]: Rompe una subrutina de hielo.\nX es la cantidad de contadores de virus que hay sobre Darwin.\nCuando comience tu turno, puedes pagar 1[credit] para colocar 1 contador de virus sobre Darwin.",
-        "title": "Darwin"
-    },
-    {
-        "code": "02103",
-        "flavor": "Una solución de doble sentido para un problema de sentido único. La inversión de filtrado de datos, o IFD, tiene un nombre poco apropiado. En realidad no se invierte nada, sólo se crea un enlace paralelo punto a punto con la fuente inicial.",
-        "keywords": "Virtual - Sabotaje",
-        "text": "Instala esta carta sólo si has realizado una incursión con éxito contra un servidor central en este turno.\nSi estás marcado, Inversión De Filtrado De Datos gana \"[click]: La Corporación destruye la carta superior de I+D.\"",
-        "title": "Inversión De Filtrado De Datos"
-    },
-    {
-        "code": "02104",
-        "flavor": "¿Crees en las hadas?",
-        "keywords": "Rompehielos - Asesino",
-        "text": "0[credit]: Rompe una subrutina <strong>centinela</strong>.\n1[credit]: +1 punto de fuerza.\nCuando termine un enfrentamiento con un hielo en el que usases Hada para romper una subrutina, destruye Hada.",
-        "title": "Hada"
-    },
-    {
-        "code": "02105",
-        "flavor": "\"Siempre estamos dispuestos a ayudar, Sr. Santiago.\" \"Se lo agradezco, Sr. Li.\" \"Estaremos en contacto. Y Gabriel...\" \"¿Si?\" \"No salgas de la ciudad.\"",
-        "keywords": "Contacto",
-        "text": "[click]: Roba 2 cartas. Añade 1 de estas cartas a la parte inferior de tu Montón.",
-        "title": "Sr. Li"
-    },
-    {
-        "code": "02106",
-        "flavor": "De vez en cuando hace falta un poco de reestructuración corporativa.",
-        "keywords": "Incursión",
-        "text": "Realiza una incursión contra I+D. Si tiene éxito, en lugar de acceder a las cartas, puedes mirar las 5 cartas superiores de I+D y colocarlas en cualquier orden.",
-        "title": "Indexado"
-    },
-    {
-        "code": "02107",
-        "flavor": "Funciona mejor en tu propio escritorio.",
-        "text": "Siempre que accedas a cartas de I+D, accede a 1 carta adicional de I+D.",
-        "title": "Interfaz De I+D"
-    },
-    {
-        "code": "02108",
-        "keywords": "Virus",
-        "text": "Siempre que realices una incursión con éxito contra I+D, coloca 1 contador de virus sobre Pensamiento Profundo.\nSi hay al menos 3 contadores de virus sobre Pensamiento Profundo, gana: \"Cuando comience tu turno, puedes mirar la carta superior de I+D.\"",
-        "title": "Pensamiento Profundo"
-    },
-    {
-        "code": "02109",
-        "flavor": "\"Nueva Ángeles es la joya de la civilización moderna, y su gobierno es la envidia de las naciones.\" - Wells, Ayuntamiento de Nueva Ángeles",
-        "keywords": "Ubicación - Gobiertno",
-        "text": "2[credit]: Evita 1 marca.\nDestruye Ayuntamiento De Nueva Ángeles cuando robes un plan.",
-        "title": "Ayuntamiento De Nueva Ángeles"
-    },
-    {
-        "code": "02110",
-        "flavor": "\"Va contra las reglas. Los creadores se enfadarán.\"",
-        "keywords": "Barrera - Bioroide",
-        "text": "El Runner puede gastar [click] para romper cualquier subrutina de Eli 1.0.\n[subroutine] Termina la incursión.\n[subroutine] Termina la incursión. ",
-        "title": "Eli 1.0"
-    },
-    {
-        "code": "02111",
-        "flavor": "Conocido por sus saltadores de lujo y un chucrut delicioso.",
-        "keywords": "Región",
-        "text": "Como coste adicional para realizar una incursión contra este servidor, el Runner debe gastar [click].\nLímite de 1 <strong>región</strong> por servidor.",
-        "title": "Valle Del Ruhr"
-    },
-    {
-        "code": "02112",
-        "flavor": "\"Te serviré... durante un tiempo.\"",
-        "keywords": "Hostil",
-        "text": "Ronin puede ser avanzado.\nSi hay al menos 4 fichas de Avance sobre Ronin, gana \"[click], [trash]: Inflige 3 puntos de daño de red.\"",
-        "title": "Ronin"
-    },
-    {
-        "code": "02113",
-        "flavor": "\"Parece que alguien se está portando mal...\"",
-        "keywords": "Sysop",
-        "text": "Una vez por incursión, cuando el Runner se aproxime a un hielo que proteja este servidor, puedes intercambiar ese hielo con un hielo de la SC. El nuevo hielo se instala suspendido.",
-        "title": "Midori"
-    },
-    {
-        "code": "02114",
-        "flavor": "*Pueden aplicarse algunas restricciones. Escanea esta tarjeta para más información.",
-        "keywords": "Megacorporación",
-        "text": "Tu tamaño de mano máximo aumenta en 1.",
-        "title": "NBN: El Mundo Es Tuyo*"
-    },
-    {
-        "code": "02115",
-        "keywords": "Investigación",
-        "text": "Cuando puntúes Proyecto Beale, coloca 1 contador de plan sobre la carta por cada 2 fichas de Avance que tenga por encima de 3.\nProyecto Beale vale 1 punto de plan adicional por cada contador de plan que tenga.",
-        "title": "Proyecto Beale"
-    },
-    {
-        "code": "02116",
-        "text": "Juega esta carta sólo si el Runner robó un plan durante su último turno.\n<trace>Rastreo 6</trace> Si tien éxito, dale al Runner tantas marcas como la cantidad por la que tu fuerza de rastreo superaba su fuerza de enlace.",
-        "title": "Sustituciones De Mitad De Temporada"
-    },
-    {
-        "code": "02117",
-        "flavor": "Se encendió una brillante luz y la consola se apagó. Fue entonces cuando olió el humo.",
-        "keywords": "Centinela - Rastreador - AP",
-        "text": "[subroutine] <trace>Rastreo 6</trace> Si tiene éxito, destruye 1 hardware, inflige 2 puntos de daño físico (no puede ser prevenido) y termina la incursión.",
-        "title": "Bengala"
-    },
-    {
-        "code": "02118",
-        "flavor": "No les llaman dedicados por nada.",
-        "keywords": "Hostil",
-        "text": "Si el Runner está marcado, Equipo De Respuesta Dedicado gana: \"Siempre que termine una incursión con éxito, inflige 2 puntos de daño físico.\"",
-        "title": "Equipo De Respuesta Dedicado"
-    },
-    {
-        "code": "02119",
-        "flavor": "\"Si tuviera que describir los bichos con una palabra, sería 'pu** incordio'.\"",
-        "keywords": "Centinela - Destructor",
-        "text": "[subroutine] <trace>Rastreo 0</trace> Si tiene éxito, el Runner destruye 1 programa.",
-        "title": "Bichos De Burke"
-    },
-    {
-        "code": "02120",
-        "flavor": "Había varias formas de ganar una guerra corporativa. Una de ellas era sacar los lanzamisiles.",
-        "keywords": "Expansión",
-        "text": "Si tienes al menos 7[credit] cuando puntúes Guerra Corporativa, gana 7[credit]; Si no es así, pierde todos los créditos de tu reserva de créditos.",
-        "title": "Guerra Corporativa"
-    }
+  {
+    "code": "02101",
+    "keywords": "Incursión",
+    "text": "Realiza una incursión contra los Archivos. Si tiene éxito, en lugar de acceder a las cartas, puedes instalar un programa desde tu Pila ignorando todos los costes.",
+    "title": "Incursión De Recuperación"
+  },
+  {
+    "code": "02102",
+    "keywords": "Rompehielos - IA - Virus",
+    "text": "2[credit]: Rompe una subrutina de hielo.\nX es la cantidad de contadores de virus que hay sobre Darwin.\nCuando comience tu turno, puedes pagar 1[credit] para colocar 1 contador de virus sobre Darwin.",
+    "title": "Darwin"
+  },
+  {
+    "code": "02103",
+    "flavor": "Una solución de doble sentido para un problema de sentido único. La inversión de filtrado de datos, o IFD, tiene un nombre poco apropiado. En realidad no se invierte nada, sólo se crea un enlace paralelo punto a punto con la fuente inicial.",
+    "keywords": "Virtual - Sabotaje",
+    "text": "Instala esta carta sólo si has realizado una incursión con éxito contra un servidor central en este turno.\nSi estás marcado, Inversión De Filtrado De Datos gana \"[click]: La Corporación destruye la carta superior de I+D.\"",
+    "title": "Inversión De Filtrado De Datos"
+  },
+  {
+    "code": "02104",
+    "flavor": "¿Crees en las hadas?",
+    "keywords": "Rompehielos - Asesino",
+    "text": "0[credit]: Rompe una subrutina <strong>centinela</strong>.\n1[credit]: +1 punto de fuerza.\nCuando termine un enfrentamiento con un hielo en el que usases Hada para romper una subrutina, destruye Hada.",
+    "title": "Hada"
+  },
+  {
+    "code": "02105",
+    "flavor": "\"Siempre estamos dispuestos a ayudar, Sr. Santiago.\" \"Se lo agradezco, Sr. Li.\" \"Estaremos en contacto. Y Gabriel...\" \"¿Si?\" \"No salgas de la ciudad.\"",
+    "keywords": "Contacto",
+    "text": "[click]: Roba 2 cartas. Añade 1 de estas cartas a la parte inferior de tu Montón.",
+    "title": "Sr. Li"
+  },
+  {
+    "code": "02106",
+    "flavor": "De vez en cuando hace falta un poco de reestructuración corporativa.",
+    "keywords": "Incursión",
+    "text": "Realiza una incursión contra I+D. Si tiene éxito, en lugar de acceder a las cartas, puedes mirar las 5 cartas superiores de I+D y colocarlas en cualquier orden.",
+    "title": "Indexado"
+  },
+  {
+    "code": "02107",
+    "flavor": "Funciona mejor en tu propio escritorio.",
+    "text": "Siempre que accedas a cartas de I+D, accede a 1 carta adicional de I+D.",
+    "title": "Interfaz De I+D"
+  },
+  {
+    "code": "02108",
+    "keywords": "Virus",
+    "text": "Siempre que realices una incursión con éxito contra I+D, coloca 1 contador de virus sobre Pensamiento Profundo.\nSi hay al menos 3 contadores de virus sobre Pensamiento Profundo, gana: \"Cuando comience tu turno, puedes mirar la carta superior de I+D.\"",
+    "title": "Pensamiento Profundo"
+  },
+  {
+    "code": "02109",
+    "flavor": "\"Nueva Ángeles es la joya de la civilización moderna, y su gobierno es la envidia de las naciones.\" - Wells, Ayuntamiento de Nueva Ángeles",
+    "keywords": "Ubicación - Gobiertno",
+    "text": "2[credit]: Evita 1 marca.\nDestruye Ayuntamiento De Nueva Ángeles cuando robes un plan.",
+    "title": "Ayuntamiento De Nueva Ángeles"
+  },
+  {
+    "code": "02110",
+    "flavor": "\"Va contra las reglas. Los creadores se enfadarán.\"",
+    "keywords": "Barrera - Bioroide",
+    "text": "El Runner puede gastar [click] para romper cualquier subrutina de Eli 1.0.\n[subroutine] Termina la incursión.\n[subroutine] Termina la incursión. ",
+    "title": "Eli 1.0"
+  },
+  {
+    "code": "02111",
+    "flavor": "Conocido por sus saltadores de lujo y un chucrut delicioso.",
+    "keywords": "Región",
+    "text": "Como coste adicional para realizar una incursión contra este servidor, el Runner debe gastar [click].\nLímite de 1 <strong>región</strong> por servidor.",
+    "title": "Valle Del Ruhr"
+  },
+  {
+    "code": "02112",
+    "flavor": "\"Te serviré... durante un tiempo.\"",
+    "keywords": "Hostil",
+    "text": "Ronin puede ser avanzado.\nSi hay al menos 4 fichas de Avance sobre Ronin, gana \"[click], [trash]: Inflige 3 puntos de daño de red.\"",
+    "title": "Ronin"
+  },
+  {
+    "code": "02113",
+    "flavor": "\"Parece que alguien se está portando mal...\"",
+    "keywords": "Sysop",
+    "text": "Una vez por incursión, cuando el Runner se aproxime a un hielo que proteja este servidor, puedes intercambiar ese hielo con un hielo de la SC. El nuevo hielo se instala suspendido.",
+    "title": "Midori"
+  },
+  {
+    "code": "02114",
+    "flavor": "*Pueden aplicarse algunas restricciones. Escanea esta tarjeta para más información.",
+    "keywords": "Megacorporación",
+    "text": "Tu tamaño de mano máximo aumenta en 1.",
+    "title": "NBN: El Mundo Es Tuyo*"
+  },
+  {
+    "code": "02115",
+    "keywords": "Investigación",
+    "text": "Cuando puntúes Proyecto Beale, coloca 1 contador de plan sobre la carta por cada 2 fichas de Avance que tenga por encima de 3.\nProyecto Beale vale 1 punto de plan adicional por cada contador de plan que tenga.",
+    "title": "Proyecto Beale"
+  },
+  {
+    "code": "02116",
+    "text": "Juega esta carta sólo si el Runner robó un plan durante su último turno.\n<trace>Rastreo 6</trace> Si tien éxito, dale al Runner tantas marcas como la cantidad por la que tu fuerza de rastreo superaba su fuerza de enlace.",
+    "title": "Sustituciones De Mitad De Temporada"
+  },
+  {
+    "code": "02117",
+    "flavor": "Se encendió una brillante luz y la consola se apagó. Fue entonces cuando olió el humo.",
+    "keywords": "Centinela - Rastreador - AP",
+    "text": "[subroutine] <trace>Rastreo 6</trace> Si tiene éxito, destruye 1 hardware, inflige 2 puntos de daño físico (no puede ser prevenido) y termina la incursión.",
+    "title": "Bengala"
+  },
+  {
+    "code": "02118",
+    "flavor": "No les llaman dedicados por nada.",
+    "keywords": "Hostil",
+    "text": "Si el Runner está marcado, Equipo De Respuesta Dedicado gana: \"Siempre que termine una incursión con éxito, inflige 2 puntos de daño físico.\"",
+    "title": "Equipo De Respuesta Dedicado"
+  },
+  {
+    "code": "02119",
+    "flavor": "\"Si tuviera que describir los bichos con una palabra, sería 'pu** incordio'.\"",
+    "keywords": "Centinela - Destructor",
+    "text": "[subroutine] <trace>Rastreo 0</trace> Si tiene éxito, el Runner destruye 1 programa.",
+    "title": "Bichos De Burke"
+  },
+  {
+    "code": "02120",
+    "flavor": "Había varias formas de ganar una guerra corporativa. Una de ellas era sacar los lanzamisiles.",
+    "keywords": "Expansión",
+    "text": "Si tienes al menos 7[credit] cuando puntúes Guerra Corporativa, gana 7[credit]; Si no es así, pierde todos los créditos de tu reserva de créditos.",
+    "title": "Guerra Corporativa"
+  }
 ]

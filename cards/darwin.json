@@ -1,21 +1,17 @@
 {
-    "card_type_id": "program",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "darwin",
-    "influence_cost": 3,
-    "is_unique": false,
-    "memory_cost": 1,
-    "side_id": "runner",
-    "strength": "null",
-    "stripped_text": "Interface -> 2 credits: Break 1 subroutine. X is equal to the number of hosted virus counters. When your turn begins, you may pay 1 credit to place 1 virus counter on this program.",
-    "stripped_title": "Darwin",
-    "subtypes": [
-        "icebreaker",
-        "ai",
-        "virus"
-    ],
-    "text": "Interface → 2[credit]: Break 1 subroutine.\nX is equal to the number of hosted virus counters.\nWhen your turn begins, you may pay 1[credit] to place 1 virus counter on this program.",
-    "title": "Darwin"
+  "card_type_id": "program",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "darwin",
+  "influence_cost": 3,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": "null",
+  "stripped_text": "Interface -> 2 credits: Break 1 subroutine. X is equal to the number of hosted virus counters. When your turn begins, you may pay 1 credit to place 1 virus counter on this program.",
+  "stripped_title": "Darwin",
+  "subtypes": ["icebreaker", "ai", "virus"],
+  "text": "Interface → 2[credit]: Break 1 subroutine.\nX is equal to the number of hosted virus counters.\nWhen your turn begins, you may pay 1[credit] to place 1 virus counter on this program.",
+  "title": "Darwin"
 }

@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 4,
-    "deck_limit": 3,
-    "faction_id": "neutral-corp",
-    "id": "guard",
-    "influence_cost": 0,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 2,
-    "stripped_text": "Guard cannot be bypassed. Subroutine End the run.",
-    "stripped_title": "Guard",
-    "subtypes": [
-        "sentry"
-    ],
-    "text": "Guard cannot be bypassed.\n[subroutine] End the run.",
-    "title": "Guard"
+  "card_type_id": "ice",
+  "cost": 4,
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "guard",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 2,
+  "stripped_text": "Guard cannot be bypassed. Subroutine End the run.",
+  "stripped_title": "Guard",
+  "subtypes": ["sentry"],
+  "text": "Guard cannot be bypassed.\n[subroutine] End the run.",
+  "title": "Guard"
 }

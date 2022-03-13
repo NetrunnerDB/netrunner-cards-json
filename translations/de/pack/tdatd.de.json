@@ -1,134 +1,134 @@
 [
-    {
-        "code": "21061",
-        "flavor": "\"Hast du schon mal einen Server kotzen sehen?\"",
-        "keywords": "Run - Sabotage",
-        "text": "Führe einen Run auf das Archiv durch. Bei Erfolg zwinge, statt auf Karten zuzugreifen, den Kon falls möglich dazu, 5 Karten im Archiv zu wählen und dem HQ hinzuzufügen. Dann zerstöre genau so viele zufällige Karten im HQ.",
-        "title": "Ziffernflut"
-    },
-    {
-        "code": "21062",
-        "keywords": "Konsole",
-        "text": "+3[mu]\nVerwende die SE auf Knobkierrie nur für <strong>Virus</strong>-Programme.\nWenn du zum ersten Mal in einem Zug einen erfolgreichen Run durchführst, darfst du 1 Viruszähler auf ein installiertes <strong>Virus</strong>-Programm legen.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Knobkierrie"
-    },
-    {
-        "code": "21063",
-        "flavor": "\"Gibt es etwas Besseres als Geld ohne Gegenleistung?\"",
-        "keywords": "Natürlich",
-        "text": "Wenn der Kon zum ersten Mal in einem Zug eine Karte installierst, darfst du jene Karte enthüllen, falls der Kon nicht 1[credit] zahlt.",
-        "title": "419: Amoralischer Betrüger"
-    },
-    {
-        "code": "21064",
-        "flavor": "\"Es tut mir leid, Sir, wir haben sie nicht erwartet! Sie sehen nicht so aus wie in meiner Erinnerung ...\"\n\"Ein neuer Haarschnitt.\"",
-        "text": "Benenne eine Kartenart. Enthülle eine Karte in einem ausgelagerten System. Dann erhältst du 5[credit], falls die enthüllte Karte die benannte Kartenart hat.",
-        "title": "Gefälschte Referenzen"
-    },
-    {
-        "code": "21065",
-        "keywords": "Job",
-        "text": "Lege 18[credit] aus der Bank auf Illegaler Aktienhandel, sobald die Karte installiert wird. Sobald keine Credits mehr auf Illegaler Aktienhandel sind, zerstöre sie.\n[click], [click]: Nimm 6[credit] von Illegaler Aktienhandel und du bekommst 1 Markierung verpasst.",
-        "title": "Illegaler Aktienhandel"
-    },
-    {
-        "code": "21066",
-        "flavor": "Zumindest war diesmal die Grafik familientauglich.",
-        "keywords": "Run",
-        "text": "Führe einen Run auf ein ausgelagertes System durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen, den Kon dazu zwingen, alle Karten in jenem System in F&E zu mischen.",
-        "title": "Weil ich es kann"
-    },
-    {
-        "code": "21067",
-        "flavor": "Mit Geschwindigkeit kommt man rein, mit Intuition wieder hinaus.",
-        "text": "Lege 3 Wirkungszähler auf Nyashia, sobald die Karte installiert wird.\nImmer wenn du auf Karten von F&E zugreifst, darfst du 1 gehosteten Wirkungszähler entfernen, um auf 1 zusätzliche Karte von F&E zuzugreifen.",
-        "title": "Nyashia"
-    },
-    {
-        "code": "21068",
-        "flavor": "\"Es hat das Gitternetz 'gefressen'? Was soll das überhaupt bedeuten?\"\n- Nkiru Qiū, Sysop der Asa-Gruppe",
-        "keywords": "Virus",
-        "text": "Immer wenn du eine Kon-Karte zerstörst, darfst du 1 Viruszähler auf Verschlingen legen.\n[click]: Du erhältst 2[credit] für jeden gehosteten Viruszähler. Dann entferne alle Viruszähler von Verschlingen.",
-        "title": "Verschlingen"
-    },
-    {
-        "code": "21069",
-        "flavor": "Als Aufspürer-Modell G21V ist Malia Z0L0K4 unübertroffen darin, zugewiesene Ziele zu finden und sie zu überwältigen.",
-        "keywords": "Bioroid",
-        "text": "Sobald du Malia Z0L0K4 lädst, wähle eine installierte nicht-<strong>virtuelle</strong> Ressource. Die Textbox jener Ressource ist leer.",
-        "title": "Malia Z0L0K4"
-    },
-    {
-        "code": "21070",
-        "flavor": "\"Mach dir keine Sorgen, er wird nichts spüren. Wahrscheinlich nicht.\"",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nImmer wenn auf eine Agenda zugegriffen oder die Punkte für sie erzielt werden, <trace>Aufspüren 3</trace> Bei Erfolg, verursache 1 Hirn-Schaden.",
-        "title": "Notausschalter"
-    },
-    {
-        "code": "21071",
-        "keywords": "Hinterhalt",
-        "text": "Falls von F&E auf Tempus zugegriffen wird, muss der Runner diese Karte aufdecken.\nSobald der Runner auf Tempus zugreift, <trace>Aufspüren 3</trace> Bei Erfolg verliert der Runner [click][click] oder erleidet 1 Hirn-Schaden. Ignoriere diese Fähigkeit, falls der Runner vom Archiv auf Tempus zugreift.",
-        "title": "Tempus"
-    },
-    {
-        "code": "21072",
-        "flavor": "Vieles wird hinein gebracht. Nichts kommt heraus.",
-        "keywords": "Extern",
-        "text": "Kann nur in einem ausgelagerten System installiert werden.\nGewebebank kann entwickelt werden.\n[trash], <strong>2 gehostete Entwicklungsmarker:</strong>\nBeende den Run.",
-        "title": "Gewebebank"
-    },
-    {
-        "code": "21073",
-        "keywords": "Falle",
-        "text": "[subroutine] Sieh dir die obersten 3 Karten von F&E an und lege sie entweder in beliebiger Reihenfolge zurück oder mische F&E. Du darfst 1 Karte ziehen.\n[subroutine] Du darfst 1 Karte im HQ zerstören. Falls du dies tust, zerstöre 1 Ressource. Zerstöre Sadaka.",
-        "title": "Sadaka"
-    },
-    {
-        "code": "21074",
-        "flavor": "\"Hat eigentlich irgendwann jemand eine davon gelesen?\" - 419",
-        "keywords": "Barriere",
-        "text": "[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.",
-        "title": "Endlose EULA"
-    },
-    {
-        "code": "21075",
-        "flavor": "Dein erster Hund, dein Lieblingsessen, der Name deiner Mutter. Was du liebst, was du hasst, was du fürchtest. Hoffnung und Träume, Schmerzen und Leid. All das, wirklich alles, entgleitet dir.",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine]Füge eine installierte Runner-Karte dem Griff hinzu.\n[subroutine]Füge eine installierte Runner-Karte dem Griff hinzu.",
-        "title": "Sandmann"
-    },
-    {
-        "code": "21076",
-        "flavor": "Azmari EdTechs beliebteste Dozentin Amani Senau überträgt regelmäßig Sendungen für Millionen von Studenten.",
-        "keywords": "Charakter",
-        "text": "Immer wenn die Punkte für eine Agenda erzielt werden oder sie gestohlen wird, darfst du <trace>Aufspüren X</trace> Bei Erfolg füge eine installierte Runner-Karte dem Griff hinzu. X entspricht den benötigten Entwicklungen der Agenda, für welche die Punkte erzielt worden sind oder die gestohlen worden ist.",
-        "title": "Amani Senai"
-    },
-    {
-        "code": "21077",
-        "keywords": "Abteilung",
-        "text": "Sobald dein Zug endet, darfst du ein Ice ohne Entwicklungsmarker darauf wählen. Falls du dies tust, lege für jeden Agendapunkt auf allen installierten offenen Agenda 1 Entwicklungsmarker auf jenes Ice.",
-        "title": "SSO Industries: Treibstoff für Innovationen"
-    },
-    {
-        "code": "21078",
-        "keywords": "Öffentlich",
-        "text": "Installiere Stadtentwicklungsprojekt offen.\nSobald der Runner auf Stadtentwicklungsprojekt zugreift, solange es installiert ist, verursache 2 Körper-Schaden und 1 zusätzlichen Körper-Schaden für jeden Entwicklungsmarker darauf.",
-        "title": "Stadtentwicklungsprojekt"
-    },
-    {
-        "code": "21079",
-        "flavor": "In Gestalt gebrachte Macht.",
-        "keywords": "Code-Zugang",
-        "text": "Sobald der Runner auf Oduduwa trifft, lege 1 Entwicklungsmarker darauf. Du darfst X Entwicklungsmarker auf ein anderes Ice legen. X ist die Anzahl der Entwicklungsmarker auf Oduduwa.\n[subroutine]Beende den Run.\n[subroutine]Beende den Run.",
-        "title": "Oduduwa"
-    },
-    {
-        "code": "21080",
-        "flavor": "Sie erledigt den Job. Und noch einiges mehr.",
-        "keywords": "Charakter",
-        "text": "Sobald dein Zug beginnt, darfst du Rashida Jaheem zerstören, um 3[credit] zu erhalten und 3 Karten zu ziehen.",
-        "title": "Rashida Jaheem"
-    }
+  {
+    "code": "21061",
+    "flavor": "\"Hast du schon mal einen Server kotzen sehen?\"",
+    "keywords": "Run - Sabotage",
+    "text": "Führe einen Run auf das Archiv durch. Bei Erfolg zwinge, statt auf Karten zuzugreifen, den Kon falls möglich dazu, 5 Karten im Archiv zu wählen und dem HQ hinzuzufügen. Dann zerstöre genau so viele zufällige Karten im HQ.",
+    "title": "Ziffernflut"
+  },
+  {
+    "code": "21062",
+    "keywords": "Konsole",
+    "text": "+3[mu]\nVerwende die SE auf Knobkierrie nur für <strong>Virus</strong>-Programme.\nWenn du zum ersten Mal in einem Zug einen erfolgreichen Run durchführst, darfst du 1 Viruszähler auf ein installiertes <strong>Virus</strong>-Programm legen.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Knobkierrie"
+  },
+  {
+    "code": "21063",
+    "flavor": "\"Gibt es etwas Besseres als Geld ohne Gegenleistung?\"",
+    "keywords": "Natürlich",
+    "text": "Wenn der Kon zum ersten Mal in einem Zug eine Karte installierst, darfst du jene Karte enthüllen, falls der Kon nicht 1[credit] zahlt.",
+    "title": "419: Amoralischer Betrüger"
+  },
+  {
+    "code": "21064",
+    "flavor": "\"Es tut mir leid, Sir, wir haben sie nicht erwartet! Sie sehen nicht so aus wie in meiner Erinnerung ...\"\n\"Ein neuer Haarschnitt.\"",
+    "text": "Benenne eine Kartenart. Enthülle eine Karte in einem ausgelagerten System. Dann erhältst du 5[credit], falls die enthüllte Karte die benannte Kartenart hat.",
+    "title": "Gefälschte Referenzen"
+  },
+  {
+    "code": "21065",
+    "keywords": "Job",
+    "text": "Lege 18[credit] aus der Bank auf Illegaler Aktienhandel, sobald die Karte installiert wird. Sobald keine Credits mehr auf Illegaler Aktienhandel sind, zerstöre sie.\n[click], [click]: Nimm 6[credit] von Illegaler Aktienhandel und du bekommst 1 Markierung verpasst.",
+    "title": "Illegaler Aktienhandel"
+  },
+  {
+    "code": "21066",
+    "flavor": "Zumindest war diesmal die Grafik familientauglich.",
+    "keywords": "Run",
+    "text": "Führe einen Run auf ein ausgelagertes System durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen, den Kon dazu zwingen, alle Karten in jenem System in F&E zu mischen.",
+    "title": "Weil ich es kann"
+  },
+  {
+    "code": "21067",
+    "flavor": "Mit Geschwindigkeit kommt man rein, mit Intuition wieder hinaus.",
+    "text": "Lege 3 Wirkungszähler auf Nyashia, sobald die Karte installiert wird.\nImmer wenn du auf Karten von F&E zugreifst, darfst du 1 gehosteten Wirkungszähler entfernen, um auf 1 zusätzliche Karte von F&E zuzugreifen.",
+    "title": "Nyashia"
+  },
+  {
+    "code": "21068",
+    "flavor": "\"Es hat das Gitternetz 'gefressen'? Was soll das überhaupt bedeuten?\"\n- Nkiru Qiū, Sysop der Asa-Gruppe",
+    "keywords": "Virus",
+    "text": "Immer wenn du eine Kon-Karte zerstörst, darfst du 1 Viruszähler auf Verschlingen legen.\n[click]: Du erhältst 2[credit] für jeden gehosteten Viruszähler. Dann entferne alle Viruszähler von Verschlingen.",
+    "title": "Verschlingen"
+  },
+  {
+    "code": "21069",
+    "flavor": "Als Aufspürer-Modell G21V ist Malia Z0L0K4 unübertroffen darin, zugewiesene Ziele zu finden und sie zu überwältigen.",
+    "keywords": "Bioroid",
+    "text": "Sobald du Malia Z0L0K4 lädst, wähle eine installierte nicht-<strong>virtuelle</strong> Ressource. Die Textbox jener Ressource ist leer.",
+    "title": "Malia Z0L0K4"
+  },
+  {
+    "code": "21070",
+    "flavor": "\"Mach dir keine Sorgen, er wird nichts spüren. Wahrscheinlich nicht.\"",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nImmer wenn auf eine Agenda zugegriffen oder die Punkte für sie erzielt werden, <trace>Aufspüren 3</trace> Bei Erfolg, verursache 1 Hirn-Schaden.",
+    "title": "Notausschalter"
+  },
+  {
+    "code": "21071",
+    "keywords": "Hinterhalt",
+    "text": "Falls von F&E auf Tempus zugegriffen wird, muss der Runner diese Karte aufdecken.\nSobald der Runner auf Tempus zugreift, <trace>Aufspüren 3</trace> Bei Erfolg verliert der Runner [click][click] oder erleidet 1 Hirn-Schaden. Ignoriere diese Fähigkeit, falls der Runner vom Archiv auf Tempus zugreift.",
+    "title": "Tempus"
+  },
+  {
+    "code": "21072",
+    "flavor": "Vieles wird hinein gebracht. Nichts kommt heraus.",
+    "keywords": "Extern",
+    "text": "Kann nur in einem ausgelagerten System installiert werden.\nGewebebank kann entwickelt werden.\n[trash], <strong>2 gehostete Entwicklungsmarker:</strong>\nBeende den Run.",
+    "title": "Gewebebank"
+  },
+  {
+    "code": "21073",
+    "keywords": "Falle",
+    "text": "[subroutine] Sieh dir die obersten 3 Karten von F&E an und lege sie entweder in beliebiger Reihenfolge zurück oder mische F&E. Du darfst 1 Karte ziehen.\n[subroutine] Du darfst 1 Karte im HQ zerstören. Falls du dies tust, zerstöre 1 Ressource. Zerstöre Sadaka.",
+    "title": "Sadaka"
+  },
+  {
+    "code": "21074",
+    "flavor": "\"Hat eigentlich irgendwann jemand eine davon gelesen?\" - 419",
+    "keywords": "Barriere",
+    "text": "[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.\n[subroutine]Beende den Run, falls der Runner nicht 1 [credit] zahlt.",
+    "title": "Endlose EULA"
+  },
+  {
+    "code": "21075",
+    "flavor": "Dein erster Hund, dein Lieblingsessen, der Name deiner Mutter. Was du liebst, was du hasst, was du fürchtest. Hoffnung und Träume, Schmerzen und Leid. All das, wirklich alles, entgleitet dir.",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine]Füge eine installierte Runner-Karte dem Griff hinzu.\n[subroutine]Füge eine installierte Runner-Karte dem Griff hinzu.",
+    "title": "Sandmann"
+  },
+  {
+    "code": "21076",
+    "flavor": "Azmari EdTechs beliebteste Dozentin Amani Senau überträgt regelmäßig Sendungen für Millionen von Studenten.",
+    "keywords": "Charakter",
+    "text": "Immer wenn die Punkte für eine Agenda erzielt werden oder sie gestohlen wird, darfst du <trace>Aufspüren X</trace> Bei Erfolg füge eine installierte Runner-Karte dem Griff hinzu. X entspricht den benötigten Entwicklungen der Agenda, für welche die Punkte erzielt worden sind oder die gestohlen worden ist.",
+    "title": "Amani Senai"
+  },
+  {
+    "code": "21077",
+    "keywords": "Abteilung",
+    "text": "Sobald dein Zug endet, darfst du ein Ice ohne Entwicklungsmarker darauf wählen. Falls du dies tust, lege für jeden Agendapunkt auf allen installierten offenen Agenda 1 Entwicklungsmarker auf jenes Ice.",
+    "title": "SSO Industries: Treibstoff für Innovationen"
+  },
+  {
+    "code": "21078",
+    "keywords": "Öffentlich",
+    "text": "Installiere Stadtentwicklungsprojekt offen.\nSobald der Runner auf Stadtentwicklungsprojekt zugreift, solange es installiert ist, verursache 2 Körper-Schaden und 1 zusätzlichen Körper-Schaden für jeden Entwicklungsmarker darauf.",
+    "title": "Stadtentwicklungsprojekt"
+  },
+  {
+    "code": "21079",
+    "flavor": "In Gestalt gebrachte Macht.",
+    "keywords": "Code-Zugang",
+    "text": "Sobald der Runner auf Oduduwa trifft, lege 1 Entwicklungsmarker darauf. Du darfst X Entwicklungsmarker auf ein anderes Ice legen. X ist die Anzahl der Entwicklungsmarker auf Oduduwa.\n[subroutine]Beende den Run.\n[subroutine]Beende den Run.",
+    "title": "Oduduwa"
+  },
+  {
+    "code": "21080",
+    "flavor": "Sie erledigt den Job. Und noch einiges mehr.",
+    "keywords": "Charakter",
+    "text": "Sobald dein Zug beginnt, darfst du Rashida Jaheem zerstören, um 3[credit] zu erhalten und 3 Karten zu ziehen.",
+    "title": "Rashida Jaheem"
+  }
 ]

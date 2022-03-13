@@ -1,17 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "criminal",
-    "id": "miss_bones",
-    "influence_cost": 2,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "Place 12 credits from the bank on Miss Bones when she is installed. When there are no credits left on Miss Bones, trash her. Use these credits to trash installed cards.",
-    "stripped_title": "Miss Bones",
-    "subtypes": [
-        "connection"
-    ],
-    "text": "Place 12[credit] from the bank on Miss Bones when she is installed. When there are no credits left on Miss Bones, trash her.\nUse these credits to trash installed cards.",
-    "title": "Miss Bones"
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "miss_bones",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "Place 12 credits from the bank on Miss Bones when she is installed. When there are no credits left on Miss Bones, trash her. Use these credits to trash installed cards.",
+  "stripped_title": "Miss Bones",
+  "subtypes": ["connection"],
+  "text": "Place 12[credit] from the bank on Miss Bones when she is installed. When there are no credits left on Miss Bones, trash her.\nUse these credits to trash installed cards.",
+  "title": "Miss Bones"
 }

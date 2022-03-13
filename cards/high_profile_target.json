@@ -1,17 +1,15 @@
 {
-    "card_type_id": "operation",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "high_profile_target",
-    "influence_cost": 5,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Play only if the Runner is tagged. Do 2 meat damage for each tag the Runner has.",
-    "stripped_title": "High-Profile Target",
-    "subtypes": [
-        "black_ops"
-    ],
-    "text": "Play only if the Runner is tagged.\nDo 2 meat damage for each tag the Runner has.",
-    "title": "High-Profile Target"
+  "card_type_id": "operation",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "high_profile_target",
+  "influence_cost": 5,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Play only if the Runner is tagged. Do 2 meat damage for each tag the Runner has.",
+  "stripped_title": "High-Profile Target",
+  "subtypes": ["black_ops"],
+  "text": "Play only if the Runner is tagged.\nDo 2 meat damage for each tag the Runner has.",
+  "title": "High-Profile Target"
 }

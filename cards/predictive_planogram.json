@@ -1,17 +1,15 @@
 {
-    "card_type_id": "operation",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "predictive_planogram",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Resolve 1 of the following. If the Runner is tagged, you may resolve both instead. * Gain 3 credits. * Draw 3 cards.",
-    "stripped_title": "Predictive Planogram",
-    "subtypes": [
-        "transaction"
-    ],
-    "text": "Resolve 1 of the following. If the Runner is tagged, you may resolve both instead.<ul><li>Gain 3[credit].</li><li>Draw 3 cards.</li></ul>",
-    "title": "Predictive Planogram"
+  "card_type_id": "operation",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "predictive_planogram",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Resolve 1 of the following. If the Runner is tagged, you may resolve both instead. * Gain 3 credits. * Draw 3 cards.",
+  "stripped_title": "Predictive Planogram",
+  "subtypes": ["transaction"],
+  "text": "Resolve 1 of the following. If the Runner is tagged, you may resolve both instead.<ul><li>Gain 3[credit].</li><li>Draw 3 cards.</li></ul>",
+  "title": "Predictive Planogram"
 }

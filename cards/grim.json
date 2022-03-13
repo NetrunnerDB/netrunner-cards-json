@@ -1,20 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 5,
-    "deck_limit": 3,
-    "faction_id": "neutral-corp",
-    "id": "grim",
-    "influence_cost": 0,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 5,
-    "stripped_text": "When you rez Grim, take 1 bad publicity. Subroutine Trash 1 program.",
-    "stripped_title": "Grim",
-    "subtypes": [
-        "sentry",
-        "destroyer",
-        "illicit"
-    ],
-    "text": "When you rez Grim, take 1 bad publicity.\n[subroutine] Trash 1 program.",
-    "title": "Grim"
+  "card_type_id": "ice",
+  "cost": 5,
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "grim",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "When you rez Grim, take 1 bad publicity. Subroutine Trash 1 program.",
+  "stripped_title": "Grim",
+  "subtypes": ["sentry", "destroyer", "illicit"],
+  "text": "When you rez Grim, take 1 bad publicity.\n[subroutine] Trash 1 program.",
+  "title": "Grim"
 }

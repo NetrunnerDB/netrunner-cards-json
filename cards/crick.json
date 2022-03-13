@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 1,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "crick",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 3,
-    "stripped_text": "Crick has +3 strength while protecting Archives. Subroutine Install a card from Archives (paying its install cost).",
-    "stripped_title": "Crick",
-    "subtypes": [
-        "code_gate"
-    ],
-    "text": "Crick has +3 strength while protecting Archives.\n[subroutine] Install a card from Archives (paying its install cost).",
-    "title": "Crick"
+  "card_type_id": "ice",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "crick",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "Crick has +3 strength while protecting Archives. Subroutine Install a card from Archives (paying its install cost).",
+  "stripped_title": "Crick",
+  "subtypes": ["code_gate"],
+  "text": "Crick has +3 strength while protecting Archives.\n[subroutine] Install a card from Archives (paying its install cost).",
+  "title": "Crick"
 }

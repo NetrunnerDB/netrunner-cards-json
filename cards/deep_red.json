@@ -1,17 +1,15 @@
 {
-    "card_type_id": "hardware",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "deep_red",
-    "influence_cost": 1,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "+3 mu Use the MU on Deep Red only for Caissa programs. Whenever you install a Caissa program, you may trigger its click ability without spending click. Limit 1 console per player.",
-    "stripped_title": "Deep Red",
-    "subtypes": [
-        "console"
-    ],
-    "text": "+3[mu]\nUse the MU on Deep Red only for <strong>Caïssa</strong> programs.\nWhenever you install a <strong>Caïssa</strong> program, you may trigger its [click] ability without spending [click].\nLimit 1 <strong>console</strong> per player.",
-    "title": "Deep Red"
+  "card_type_id": "hardware",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "deep_red",
+  "influence_cost": 1,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "+3 mu Use the MU on Deep Red only for Caissa programs. Whenever you install a Caissa program, you may trigger its click ability without spending click. Limit 1 console per player.",
+  "stripped_title": "Deep Red",
+  "subtypes": ["console"],
+  "text": "+3[mu]\nUse the MU on Deep Red only for <strong>Caïssa</strong> programs.\nWhenever you install a <strong>Caïssa</strong> program, you may trigger its [click] ability without spending [click].\nLimit 1 <strong>console</strong> per player.",
+  "title": "Deep Red"
 }

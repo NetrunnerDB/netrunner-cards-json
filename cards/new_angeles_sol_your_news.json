@@ -1,17 +1,15 @@
 {
-    "card_type_id": "identity",
-    "deck_limit": 1,
-    "faction_id": "nbn",
-    "id": "new_angeles_sol_your_news",
-    "influence_limit": 15,
-    "is_unique": false,
-    "minimum_deck_size": 45,
-    "side_id": "corp",
-    "stripped_text": "Whenever an agenda is scored or stolen, you may play 1 current from HQ or Archives (paying its play cost).",
-    "stripped_title": "New Angeles Sol: Your News",
-    "subtypes": [
-        "division"
-    ],
-    "text": "Whenever an agenda is scored or stolen, you may play 1 <strong>current</strong> from HQ or Archives (paying its play cost).",
-    "title": "New Angeles Sol: Your News"
+  "card_type_id": "identity",
+  "deck_limit": 1,
+  "faction_id": "nbn",
+  "id": "new_angeles_sol_your_news",
+  "influence_limit": 15,
+  "is_unique": false,
+  "minimum_deck_size": 45,
+  "side_id": "corp",
+  "stripped_text": "Whenever an agenda is scored or stolen, you may play 1 current from HQ or Archives (paying its play cost).",
+  "stripped_title": "New Angeles Sol: Your News",
+  "subtypes": ["division"],
+  "text": "Whenever an agenda is scored or stolen, you may play 1 <strong>current</strong> from HQ or Archives (paying its play cost).",
+  "title": "New Angeles Sol: Your News"
 }

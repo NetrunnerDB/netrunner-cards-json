@@ -1,17 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "shaper",
-    "id": "order_of_sol",
-    "influence_cost": 1,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "The first time you have no credits in your credit pool each turn, gain 1 credit.",
-    "stripped_title": "Order of Sol",
-    "subtypes": [
-        "location"
-    ],
-    "text": "The first time you have no credits in your credit pool each turn, gain 1[credit].",
-    "title": "Order of Sol"
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "order_of_sol",
+  "influence_cost": 1,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "The first time you have no credits in your credit pool each turn, gain 1 credit.",
+  "stripped_title": "Order of Sol",
+  "subtypes": ["location"],
+  "text": "The first time you have no credits in your credit pool each turn, gain 1[credit].",
+  "title": "Order of Sol"
 }

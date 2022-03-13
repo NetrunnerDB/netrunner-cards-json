@@ -1,18 +1,16 @@
 {
-    "card_type_id": "program",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "botulus",
-    "influence_cost": 3,
-    "is_unique": false,
-    "memory_cost": 1,
-    "side_id": "runner",
-    "stripped_text": "Install only on a piece of ice. When you install this program and when your turn begins, place 1 virus counter on this program. Hosted virus counter: Break 1 subroutine on host ice.",
-    "stripped_title": "Botulus",
-    "subtypes": [
-        "virus"
-    ],
-    "text": "Install only on a piece of ice.\nWhen you install this program and when your turn begins, place 1 virus counter on this program.\n<strong>Hosted virus counter:</strong> Break 1 subroutine on host ice.",
-    "title": "Botulus"
+  "card_type_id": "program",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "botulus",
+  "influence_cost": 3,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "Install only on a piece of ice. When you install this program and when your turn begins, place 1 virus counter on this program. Hosted virus counter: Break 1 subroutine on host ice.",
+  "stripped_title": "Botulus",
+  "subtypes": ["virus"],
+  "text": "Install only on a piece of ice.\nWhen you install this program and when your turn begins, place 1 virus counter on this program.\n<strong>Hosted virus counter:</strong> Break 1 subroutine on host ice.",
+  "title": "Botulus"
 }
