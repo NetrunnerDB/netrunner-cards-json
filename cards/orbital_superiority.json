@@ -1,18 +1,16 @@
 {
-    "advancement_requirement": 4,
-    "agenda_points": 2,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "neutral-corp",
-    "id": "orbital_superiority",
-    "influence_cost": 0,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When you score this agenda, if the Runner is tagged, do 4 meat damage; otherwise, give the Runner 1 tag.",
-    "stripped_title": "Orbital Superiority",
-    "subtypes": [
-        "security"
-    ],
-    "text": "When you score this agenda, if the Runner is tagged, do 4 meat damage; otherwise, give the Runner 1 tag.",
-    "title": "Orbital Superiority"
+  "advancement_requirement": 4,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "orbital_superiority",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you score this agenda, if the Runner is tagged, do 4 meat damage; otherwise, give the Runner 1 tag.",
+  "stripped_title": "Orbital Superiority",
+  "subtypes": ["security"],
+  "text": "When you score this agenda, if the Runner is tagged, do 4 meat damage; otherwise, give the Runner 1 tag.",
+  "title": "Orbital Superiority"
 }

@@ -1,17 +1,15 @@
 {
-    "card_type_id": "event",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "shaper",
-    "id": "eureka",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "As an additional cost to play this event, spend click. Reveal the top card of your stack. You may install that card, lowering the install cost by 10 credits, if able; otherwise, trash it.",
-    "stripped_title": "Eureka!",
-    "subtypes": [
-        "double"
-    ],
-    "text": "As an additional cost to play this event, spend [click].\nReveal the top card of your stack. You may install that card, lowering the install cost by 10[credit], if able; otherwise, trash it.",
-    "title": "Eureka!"
+  "card_type_id": "event",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "eureka",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "As an additional cost to play this event, spend click. Reveal the top card of your stack. You may install that card, lowering the install cost by 10 credits, if able; otherwise, trash it.",
+  "stripped_title": "Eureka!",
+  "subtypes": ["double"],
+  "text": "As an additional cost to play this event, spend [click].\nReveal the top card of your stack. You may install that card, lowering the install cost by 10[credit], if able; otherwise, trash it.",
+  "title": "Eureka!"
 }

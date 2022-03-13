@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "wraparound",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 0,
-    "stripped_text": "While there are no installed fracter programs, this ice gets +7 strength. Subroutine End the run.",
-    "stripped_title": "Wraparound",
-    "subtypes": [
-        "barrier"
-    ],
-    "text": "While there are no installed <strong>fracter</strong> programs, this ice gets +7 strength.\n[subroutine] End the run.",
-    "title": "Wraparound"
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "wraparound",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 0,
+  "stripped_text": "While there are no installed fracter programs, this ice gets +7 strength. Subroutine End the run.",
+  "stripped_title": "Wraparound",
+  "subtypes": ["barrier"],
+  "text": "While there are no installed <strong>fracter</strong> programs, this ice gets +7 strength.\n[subroutine] End the run.",
+  "title": "Wraparound"
 }

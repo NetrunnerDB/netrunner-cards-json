@@ -1,17 +1,15 @@
 {
-    "card_type_id": "event",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "shaper",
-    "id": "compile",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "Make a run. The first time you encounter a piece of ice during this run, you may search your stack or heap for a program and install it, ignoring all costs. When the run ends, add that program to the bottom of your stack if it is still installed.",
-    "stripped_title": "Compile",
-    "subtypes": [
-        "run"
-    ],
-    "text": "Make a run. The first time you encounter a piece of ice during this run, you may search your stack or heap for a program and install it, ignoring all costs. When the run ends, add that program to the bottom of your stack if it is still installed.",
-    "title": "Compile"
+  "card_type_id": "event",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "compile",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Make a run. The first time you encounter a piece of ice during this run, you may search your stack or heap for a program and install it, ignoring all costs. When the run ends, add that program to the bottom of your stack if it is still installed.",
+  "stripped_title": "Compile",
+  "subtypes": ["run"],
+  "text": "Make a run. The first time you encounter a piece of ice during this run, you may search your stack or heap for a program and install it, ignoring all costs. When the run ends, add that program to the bottom of your stack if it is still installed.",
+  "title": "Compile"
 }

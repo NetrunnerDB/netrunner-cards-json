@@ -1,18 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 1,
-    "deck_limit": 3,
-    "faction_id": "neutral-runner",
-    "id": "ghost_runner",
-    "influence_cost": 0,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "Place 3 credits on Ghost Runner when it is installed. When there are no credits left on Ghost Runner, trash it. You can use the credits on Ghost Runner during a run.",
-    "stripped_title": "Ghost Runner",
-    "subtypes": [
-        "stealth",
-        "virtual"
-    ],
-    "text": "Place 3[credit] on Ghost Runner when it is installed. When there are no credits left on Ghost Runner, trash it.\nYou can use the credits on Ghost Runner during a run.",
-    "title": "Ghost Runner"
+  "card_type_id": "resource",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "neutral-runner",
+  "id": "ghost_runner",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Place 3 credits on Ghost Runner when it is installed. When there are no credits left on Ghost Runner, trash it. You can use the credits on Ghost Runner during a run.",
+  "stripped_title": "Ghost Runner",
+  "subtypes": ["stealth", "virtual"],
+  "text": "Place 3[credit] on Ghost Runner when it is installed. When there are no credits left on Ghost Runner, trash it.\nYou can use the credits on Ghost Runner during a run.",
+  "title": "Ghost Runner"
 }

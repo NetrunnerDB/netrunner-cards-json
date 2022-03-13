@@ -1,19 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "data_mine",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 2,
-    "stripped_text": "Subroutine Do 1 net damage. Trash Data Mine.",
-    "stripped_title": "Data Mine",
-    "subtypes": [
-        "trap",
-        "ap"
-    ],
-    "text": "[subroutine] Do 1 net damage. Trash Data Mine.",
-    "title": "Data Mine"
+  "card_type_id": "ice",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "data_mine",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 2,
+  "stripped_text": "Subroutine Do 1 net damage. Trash Data Mine.",
+  "stripped_title": "Data Mine",
+  "subtypes": ["trap", "ap"],
+  "text": "[subroutine] Do 1 net damage. Trash Data Mine.",
+  "title": "Data Mine"
 }

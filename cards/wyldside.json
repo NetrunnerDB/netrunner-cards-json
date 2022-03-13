@@ -1,18 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "wyldside",
-    "influence_cost": 3,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "When your turn begins, draw 2 cards and lose click.",
-    "stripped_title": "Wyldside",
-    "subtypes": [
-        "location",
-        "seedy"
-    ],
-    "text": "When your turn begins, draw 2 cards and lose [click].",
-    "title": "Wyldside"
+  "card_type_id": "resource",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "wyldside",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "When your turn begins, draw 2 cards and lose click.",
+  "stripped_title": "Wyldside",
+  "subtypes": ["location", "seedy"],
+  "text": "When your turn begins, draw 2 cards and lose [click].",
+  "title": "Wyldside"
 }

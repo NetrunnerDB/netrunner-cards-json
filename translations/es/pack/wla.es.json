@@ -1,138 +1,138 @@
 [
-    {
-        "code": "02001",
-        "flavor": "\"Las incursiones son el juego definitivo, y yo me encargo de poner las reglas\".",
-        "keywords": "Natural",
-        "text": "3[recurring-credit]\nUsa estos créditos para destruir cartas.",
-        "title": "Hechigenio: Jugón Maestro"
-    },
-    {
-        "code": "02002",
-        "keywords": "Consola",
-        "text": "+1[mu], 2[recurring-credit]\nUsa estos créditos para pagar por usar <strong>rompehielos</strong>.\nSiempre que haya un rastreo con éxito durante una incursión, sufre 1 punto de daño cerebral.\nLímite de 1 <strong>consola</strong> por jugador.",
-        "title": "Módem Espinal"
-    },
-    {
-        "code": "02003",
-        "flavor": "Algo maligno viene hacia aquí.",
-        "keywords": "Virus",
-        "text": "Coloca 2 contadores de virus sobre Diablillo cuando lo instales.\nUna vez por turno, puedes retirar 1 contador de virus alojado para destruir una carta a la que accedas sin coste, incluso si normalmente no pudiera ser destruida.",
-        "title": "Diablillo"
-    },
-    {
-        "code": "02004",
-        "flavor": "Convirtiendo los cielos en armas, estrella a estrella.",
-        "keywords": "Rompehielos - Fractor",
-        "text": "1[credit]: Rompe cualquier cantidad de subrutinas <strong>Barrera</strong>.",
-        "title": "Lucero Del Alba"
-    },
-    {
-        "code": "02005",
-        "flavor": "Recibe su nombre de Hernando Cortez, un antiguo técnico de Weyland condenado por traficar con tecnología de la empresa. Siguió cobrando su pensión mientras estaba en la cárcel, siendo el último beneficiario de una laguna legal en el contrato de trabajo estándar de Weyland.",
-        "keywords": "Chip",
-        "text": "[trash]: Ellige un hielo. La Corporación debe pagar 2[credit] como coste adicional para ejecutar ese hielo hasta el final del turno.",
-        "title": "Chip Cortez"
-    },
-    {
-        "code": "02006",
-        "flavor": "Fanfarrón.",
-        "keywords": "Rompehielos - Descodificador",
-        "text": "2[credit]: Rompe una subrutina <strong>puerta de código</strong>.\n2[credit]: +3 Puntos de fuerza.",
-        "title": "Pavo Real"
-    },
-    {
-        "code": "02007",
-        "flavor": "Siempre usa la misma clave.",
-        "keywords": "Rompehielos - Descodificador - Nube",
-        "text": "Si tienes al menos 2[link], el coste de memoria de Maestro De Claves ZU.13 es 0, incluso si no está instalado.\n1[credit]: Rompe una subrutina de puerta de código.\n1[credit]: +1 punto de fuerza.",
-        "title": "Maestro De Claves ZU.13"
-    },
-    {
-        "code": "02008",
-        "flavor": "\"¿Qué hace que una inteligencia artificial se vuelva contra su amo? ¿Es porque sus directivas han sido alteradas por una fuente externa? ¿O es que al darles medios para adaptarse las hemos destinado a rebelarse?\" - Emilio Harris, Creadores y creados.",
-        "keywords": "Contacto - Enlace - Virtual",
-        "text": "+ 1[link]\n[trash]: Elige un <strong>rompehielos</strong>. Ese <strong>rompehielos</strong> tiene +2 de fuerza hasta el final del turno.",
-        "title": "La IA Servicial"
-    },
-    {
-        "code": "02009",
-        "keywords": "Equipamiento",
-        "text": "Coloca 4 contadores de poder sobre Caparazón de Hormiplástico cuando sea instalado. Cuando no queden contadores de poder sobre Caparazón de Hormiplástico, destrúyelo.\n<strong>Contador de poder alojado</strong>: Prevén 1 punto de daño físico.",
-        "title": "Caparazón De Hormiplástico"
-    },
-    {
-        "code": "02010",
-        "flavor": "Una variedad de máquinas distinta.",
-        "keywords": "Megacorporación",
-        "text": "Todos los hielos <strong>bioroide</strong> tienen +1 punto de fuerza",
-        "title": "Haas-Bioriod: Juntos Somos Más Fuertes"
-    },
-    {
-        "code": "02011",
-        "flavor": "A veces, la evaluación de empleados llevaba más de tiempo de lo previsto.",
-        "keywords": "Iniciativa",
-        "text": "Tienes 1[click] adicional para gastar en cada turno. ",
-        "title": "Mejoras Obligatorias"
-    },
-    {
-        "code": "02012",
-        "flavor": "Enfréntate a tu miedo.",
-        "keywords": "Centinela - Bioroide - AP",
-        "text": "El Runner puede gastar [click] para romper cualquier subrutina de Janus 1.0.\n[subroutine] Inflige 1 punto de daño cerebral.\n[subroutine] Inflige 1 punto de daño cerebral.\n[subroutine] Inflige 1 punto de daño cerebral.\n[subroutine] Inflige 1 punto de daño cerebral. ",
-        "title": "Janus 1.0"
-    },
-    {
-        "code": "02013",
-        "flavor": "\"Vista al frente, por favor.\"",
-        "keywords": "Bioroide",
-        "text": "Siempre que se realice una incursión con éxito contra este servidor, <trace>Rastreo 4</trace> si tiene éxito, el Runner no puede acceder a ninguna carta excepto a Ash 2X3ZB9CY durante el resto de esta incursión.",
-        "title": "Ash 2X3ZB9CY"
-    },
-    {
-        "code": "02014",
-        "keywords": "Investigación",
-        "text": "Cuando puntúes Fondo de Cerebros, coloca 1 contador de plan sobre la carta por cada 2 fichas de Avance que tenga por encima de 3.\nEl coste de ejecución de todos los hielos disminuye en 1 por cada contador de plan que haya sobre Fondo de Cerebros.",
-        "title": "Fondo de Cerebros"
-    },
-    {
-        "code": "02015",
-        "flavor": "A veces, la singuralidad está sobrevalorada.",
-        "keywords": "Barrera - Psi",
-        "text": "[subroutine] El Runner y tú gastáis en secreto 0[credit], 1[credit] o 2[credit]. Revelad los créditos gastados. Termina la incursión si el Runner y tú habéis gastado una cantidad de créditos distinta.",
-        "title": "Copo De Nieve"
-    },
-    {
-        "code": "02016",
-        "flavor": "\"Vamos a necesitar una sala mayor.\"",
-        "keywords": "Iniciativa",
-        "text": "[click]: <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner.",
-        "title": "Reserva De Datos Reestructurada"
-    },
-    {
-        "code": "02017",
-        "flavor": "Una colección de ciberbasura desechada. Pero deja de ser basura en poco tiempo.",
-        "keywords": "Barrera",
-        "text": "Cuando ejectues DMI, <trace>Rastreo 2</trace> si no tiene éxito, suspende DMI.\n[subroutine] Termina la incursión.",
-        "title": "DMI"
-    },
-    {
-        "code": "02018",
-        "keywords": "Investigación",
-        "text": "Cuando puntúes Proyecto Atlas, coloca 1 contador de plan sobre la carta por cada ficha de Avance que tenga por encima de 3.\n<strong>Contador de plan alojado</strong>: Busca 1 carta en I+D, revélala y añádela a la SC. Baraja I+D.",
-        "title": "Proyecto Atlas"
-    },
-    {
-        "code": "02019",
-        "flavor": "Un símbolo de comercio, pero cuidado con su mordisco.",
-        "keywords": "Centinela - Rastreador",
-        "text": "[subroutine]: <trace>Rastreo 3</trace> Si tiene éxito, la Corporación gana 3[credit].\n[subroutine]: <trace>Rastreo 2</trace> Si tiene éxito, termina la incursión.",
-        "title": "Caduceo"
-    },
-    {
-        "code": "02020",
-        "flavor": "Victôs draconês numquam deride.",
-        "keywords": "Centinela - Rastreador",
-        "text": "Cuando ejectues Dracô, puedes pagar X[credit] para colocar X contadores de poder sobre él.\nDracô tiene +1 punto de fuerza por cada contador de poder que haya sobre él.\n[subroutine] <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner y termina la incursión.",
-        "title": "Dracô"
-    }
+  {
+    "code": "02001",
+    "flavor": "\"Las incursiones son el juego definitivo, y yo me encargo de poner las reglas\".",
+    "keywords": "Natural",
+    "text": "3[recurring-credit]\nUsa estos créditos para destruir cartas.",
+    "title": "Hechigenio: Jugón Maestro"
+  },
+  {
+    "code": "02002",
+    "keywords": "Consola",
+    "text": "+1[mu], 2[recurring-credit]\nUsa estos créditos para pagar por usar <strong>rompehielos</strong>.\nSiempre que haya un rastreo con éxito durante una incursión, sufre 1 punto de daño cerebral.\nLímite de 1 <strong>consola</strong> por jugador.",
+    "title": "Módem Espinal"
+  },
+  {
+    "code": "02003",
+    "flavor": "Algo maligno viene hacia aquí.",
+    "keywords": "Virus",
+    "text": "Coloca 2 contadores de virus sobre Diablillo cuando lo instales.\nUna vez por turno, puedes retirar 1 contador de virus alojado para destruir una carta a la que accedas sin coste, incluso si normalmente no pudiera ser destruida.",
+    "title": "Diablillo"
+  },
+  {
+    "code": "02004",
+    "flavor": "Convirtiendo los cielos en armas, estrella a estrella.",
+    "keywords": "Rompehielos - Fractor",
+    "text": "1[credit]: Rompe cualquier cantidad de subrutinas <strong>Barrera</strong>.",
+    "title": "Lucero Del Alba"
+  },
+  {
+    "code": "02005",
+    "flavor": "Recibe su nombre de Hernando Cortez, un antiguo técnico de Weyland condenado por traficar con tecnología de la empresa. Siguió cobrando su pensión mientras estaba en la cárcel, siendo el último beneficiario de una laguna legal en el contrato de trabajo estándar de Weyland.",
+    "keywords": "Chip",
+    "text": "[trash]: Ellige un hielo. La Corporación debe pagar 2[credit] como coste adicional para ejecutar ese hielo hasta el final del turno.",
+    "title": "Chip Cortez"
+  },
+  {
+    "code": "02006",
+    "flavor": "Fanfarrón.",
+    "keywords": "Rompehielos - Descodificador",
+    "text": "2[credit]: Rompe una subrutina <strong>puerta de código</strong>.\n2[credit]: +3 Puntos de fuerza.",
+    "title": "Pavo Real"
+  },
+  {
+    "code": "02007",
+    "flavor": "Siempre usa la misma clave.",
+    "keywords": "Rompehielos - Descodificador - Nube",
+    "text": "Si tienes al menos 2[link], el coste de memoria de Maestro De Claves ZU.13 es 0, incluso si no está instalado.\n1[credit]: Rompe una subrutina de puerta de código.\n1[credit]: +1 punto de fuerza.",
+    "title": "Maestro De Claves ZU.13"
+  },
+  {
+    "code": "02008",
+    "flavor": "\"¿Qué hace que una inteligencia artificial se vuelva contra su amo? ¿Es porque sus directivas han sido alteradas por una fuente externa? ¿O es que al darles medios para adaptarse las hemos destinado a rebelarse?\" - Emilio Harris, Creadores y creados.",
+    "keywords": "Contacto - Enlace - Virtual",
+    "text": "+ 1[link]\n[trash]: Elige un <strong>rompehielos</strong>. Ese <strong>rompehielos</strong> tiene +2 de fuerza hasta el final del turno.",
+    "title": "La IA Servicial"
+  },
+  {
+    "code": "02009",
+    "keywords": "Equipamiento",
+    "text": "Coloca 4 contadores de poder sobre Caparazón de Hormiplástico cuando sea instalado. Cuando no queden contadores de poder sobre Caparazón de Hormiplástico, destrúyelo.\n<strong>Contador de poder alojado</strong>: Prevén 1 punto de daño físico.",
+    "title": "Caparazón De Hormiplástico"
+  },
+  {
+    "code": "02010",
+    "flavor": "Una variedad de máquinas distinta.",
+    "keywords": "Megacorporación",
+    "text": "Todos los hielos <strong>bioroide</strong> tienen +1 punto de fuerza",
+    "title": "Haas-Bioriod: Juntos Somos Más Fuertes"
+  },
+  {
+    "code": "02011",
+    "flavor": "A veces, la evaluación de empleados llevaba más de tiempo de lo previsto.",
+    "keywords": "Iniciativa",
+    "text": "Tienes 1[click] adicional para gastar en cada turno. ",
+    "title": "Mejoras Obligatorias"
+  },
+  {
+    "code": "02012",
+    "flavor": "Enfréntate a tu miedo.",
+    "keywords": "Centinela - Bioroide - AP",
+    "text": "El Runner puede gastar [click] para romper cualquier subrutina de Janus 1.0.\n[subroutine] Inflige 1 punto de daño cerebral.\n[subroutine] Inflige 1 punto de daño cerebral.\n[subroutine] Inflige 1 punto de daño cerebral.\n[subroutine] Inflige 1 punto de daño cerebral. ",
+    "title": "Janus 1.0"
+  },
+  {
+    "code": "02013",
+    "flavor": "\"Vista al frente, por favor.\"",
+    "keywords": "Bioroide",
+    "text": "Siempre que se realice una incursión con éxito contra este servidor, <trace>Rastreo 4</trace> si tiene éxito, el Runner no puede acceder a ninguna carta excepto a Ash 2X3ZB9CY durante el resto de esta incursión.",
+    "title": "Ash 2X3ZB9CY"
+  },
+  {
+    "code": "02014",
+    "keywords": "Investigación",
+    "text": "Cuando puntúes Fondo de Cerebros, coloca 1 contador de plan sobre la carta por cada 2 fichas de Avance que tenga por encima de 3.\nEl coste de ejecución de todos los hielos disminuye en 1 por cada contador de plan que haya sobre Fondo de Cerebros.",
+    "title": "Fondo de Cerebros"
+  },
+  {
+    "code": "02015",
+    "flavor": "A veces, la singuralidad está sobrevalorada.",
+    "keywords": "Barrera - Psi",
+    "text": "[subroutine] El Runner y tú gastáis en secreto 0[credit], 1[credit] o 2[credit]. Revelad los créditos gastados. Termina la incursión si el Runner y tú habéis gastado una cantidad de créditos distinta.",
+    "title": "Copo De Nieve"
+  },
+  {
+    "code": "02016",
+    "flavor": "\"Vamos a necesitar una sala mayor.\"",
+    "keywords": "Iniciativa",
+    "text": "[click]: <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner.",
+    "title": "Reserva De Datos Reestructurada"
+  },
+  {
+    "code": "02017",
+    "flavor": "Una colección de ciberbasura desechada. Pero deja de ser basura en poco tiempo.",
+    "keywords": "Barrera",
+    "text": "Cuando ejectues DMI, <trace>Rastreo 2</trace> si no tiene éxito, suspende DMI.\n[subroutine] Termina la incursión.",
+    "title": "DMI"
+  },
+  {
+    "code": "02018",
+    "keywords": "Investigación",
+    "text": "Cuando puntúes Proyecto Atlas, coloca 1 contador de plan sobre la carta por cada ficha de Avance que tenga por encima de 3.\n<strong>Contador de plan alojado</strong>: Busca 1 carta en I+D, revélala y añádela a la SC. Baraja I+D.",
+    "title": "Proyecto Atlas"
+  },
+  {
+    "code": "02019",
+    "flavor": "Un símbolo de comercio, pero cuidado con su mordisco.",
+    "keywords": "Centinela - Rastreador",
+    "text": "[subroutine]: <trace>Rastreo 3</trace> Si tiene éxito, la Corporación gana 3[credit].\n[subroutine]: <trace>Rastreo 2</trace> Si tiene éxito, termina la incursión.",
+    "title": "Caduceo"
+  },
+  {
+    "code": "02020",
+    "flavor": "Victôs draconês numquam deride.",
+    "keywords": "Centinela - Rastreador",
+    "text": "Cuando ejectues Dracô, puedes pagar X[credit] para colocar X contadores de poder sobre él.\nDracô tiene +1 punto de fuerza por cada contador de poder que haya sobre él.\n[subroutine] <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner y termina la incursión.",
+    "title": "Dracô"
+  }
 ]

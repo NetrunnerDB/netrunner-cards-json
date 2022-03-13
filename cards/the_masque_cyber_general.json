@@ -1,18 +1,16 @@
 {
-    "base_link": 0,
-    "card_type_id": "identity",
-    "deck_limit": 1,
-    "faction_id": "neutral-runner",
-    "id": "the_masque_cyber_general",
-    "influence_limit": "null",
-    "is_unique": false,
-    "minimum_deck_size": 30,
-    "side_id": "runner",
-    "stripped_text": "Draft format only.",
-    "stripped_title": "The Masque: Cyber General",
-    "subtypes": [
-        "natural"
-    ],
-    "text": "Draft format only.",
-    "title": "The Masque: Cyber General"
+  "base_link": 0,
+  "card_type_id": "identity",
+  "deck_limit": 1,
+  "faction_id": "neutral-runner",
+  "id": "the_masque_cyber_general",
+  "influence_limit": "null",
+  "is_unique": false,
+  "minimum_deck_size": 30,
+  "side_id": "runner",
+  "stripped_text": "Draft format only.",
+  "stripped_title": "The Masque: Cyber General",
+  "subtypes": ["natural"],
+  "text": "Draft format only.",
+  "title": "The Masque: Cyber General"
 }

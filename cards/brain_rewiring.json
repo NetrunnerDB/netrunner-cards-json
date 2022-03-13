@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 3,
-    "agenda_points": 1,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "haas-bioroid",
-    "id": "brain_rewiring",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When you score Brain Rewiring, you may pay X credits to force the Runner to add X cards from his or her grip to the bottom of his or her stack at random then draw 1 card.",
-    "stripped_title": "Brain Rewiring",
-    "subtypes": [
-        "security"
-    ],
-    "text": "When you score Brain Rewiring, you may pay X[credit] to force the Runner to add X cards from his or her grip to the bottom of his or her stack at random then draw 1 card.",
-    "title": "Brain Rewiring"
+  "advancement_requirement": 3,
+  "agenda_points": 1,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "brain_rewiring",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you score Brain Rewiring, you may pay X credits to force the Runner to add X cards from his or her grip to the bottom of his or her stack at random then draw 1 card.",
+  "stripped_title": "Brain Rewiring",
+  "subtypes": ["security"],
+  "text": "When you score Brain Rewiring, you may pay X[credit] to force the Runner to add X cards from his or her grip to the bottom of his or her stack at random then draw 1 card.",
+  "title": "Brain Rewiring"
 }

@@ -1,130 +1,130 @@
 [
-    {
-        "code": "21041",
-        "flavor": "\"Amateure tarnen es als ,zufälligen Verlust von Datenpaketen'. Das tun sie aus Sicherheitsgründen. Sie tun es aus Angst. Aber warum sollten wir uns klein machen? Wir werden diese Konzernokratie zu Fall bringen, Stück für Stück! Sie sind nicht diejenigen, vor denen man Angst haben muss. Sondern wir!\"\n- Freedom Khumalo",
-        "keywords": "Virus",
-        "text": "Immer wenn du auf eine Karte von F&E zugreifst, greife auf 1 zusätzliche Karte zu.\nZerstöre eXer, falls der Kon Viruszähler löscht.",
-        "title": "eXer"
-    },
-    {
-        "code": "21042",
-        "flavor": "\"Es macht all die schlimmen Dinge, die du tust, so viel besser.\"\n- g00ru",
-        "keywords": "Chip",
-        "text": "Immer wenn du eine Kon-Karte zerstörst, darfst du 1 Viruszähler auf Freitagschip legen.\nSobald dein Zug beginnt, darfst du 1 gehosteten Viruszähler auf ein <strong>Virus</strong>-Programm verschieben.",
-        "title": "Freitagschip"
-    },
-    {
-        "code": "21043",
-        "flavor": "Der Geruch von Verwesung wurde mit jedem Schritt stärker.",
-        "keywords": "Virtuell",
-        "text": "Immer wenn du einen erfolgreichen Run auf das Archiv durchführst, darfst du 1 Viruszähler auf Gruft legen.\n[click], [trash], <strong>3 gehostete Viruszähler</strong>: Durchsuche deinen Stapel nach einem <strong>Virus</strong>-Programm und installiere es (und bezahle die Installationskosten). Mische dann deinen Stapel.",
-        "title": "Gruft"
-    },
-    {
-        "code": "21044",
-        "flavor": "Man sollte meinen, dass jemand ein Programm namens \"Karrieremöglichkeiten als Hacker\" schon früher bemerkt hätte.",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nWenn du zum ersten Mal in einem Zug eine Karte installierst, verliert der Kon 1[credit].",
-        "title": "Konzern-\"Stipendium\""
-    },
-    {
-        "code": "21045",
-        "flavor": "\"Geh weg! Ich bin nicht da!\"",
-        "keywords": "Virtuell",
-        "text": "Wenn du zum ersten Mal in einem Zug eine beliebige Anzahl Markierungen verpasst bekommen oder eine beliebige Menge Netz-Schaden erleiden würdest, darfst du Niemand zu Hause zerstören, um den Kon zu \"<trace>Aufspüren 0</trace> Bei Misserfolg vermeidet der Runner eine beliebige Anzahl Markierungen oder verhindert eine beliebige Menge Netz-Schaden.\" zu zwingen",
-        "title": "Niemand zu Hause"
-    },
-    {
-        "code": "21046",
-        "keywords": "Run",
-        "text": "Führe einen Run auf ein ausgelagertes System durch. Sobald der Run endet und falls der Run erfolgreich war, erhältst du [click] und fügst Marathon deinem Griff hinzu, statt diese Karte zu zerstören. Du darfst für den Rest des Zuges keinen weiteren Run auf jenes System durchführen.",
-        "title": "Marathon"
-    },
-    {
-        "code": "21047",
-        "flavor": "Die Beute sieht nur ein leichtes Kräuseln auf dem Wasser, bevor sie vom Gbahali in einem Stück verschlungen wird.",
-        "keywords": "Virtuell",
-        "text": "[trash]: Schalte die letzte Subroutine auf dem Ice aus, auf das du gerade triffst.",
-        "title": "Gbahali"
-    },
-    {
-        "code": "21048",
-        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nZwinge den Kon zu \"<trace>Aufspüren 3</trace> Bei Misserfolg decke alle Karten von HQ auf. Der Runner darf bis zu 2 Karten der aufgedeckten Karten wählen. Mische diese Karten in F&E.\"",
-        "title": "White-Hat-Angriff"
-    },
-    {
-        "code": "21049",
-        "keywords": "Bioroid",
-        "text": "Sobald dein Zug beginnt, darfst du <trace>Aufspüren X</trace> Bei Erfolg verursache 1 Hirn-Schaden und zerstöre Kuwinda K4H1U3. Bei Misserfolg lege 1 Wirkungszähler auf Kuwinda K4H1U3.\nX ist die Anzahl der Wirkungszähler auf Kuwinda K4H1U3.",
-        "title": "Kuwinda K4H1U3"
-    },
-    {
-        "code": "21050",
-        "flavor": "Immer die passende Schutzstufe für sämtliche Sicherheitsbedürfnisse.",
-        "keywords": "Code-Zugang - NEXT",
-        "text": "X ist die Anzahl aller geladenen <strong>NEXT</strong>-Ice.\n[subroutine] Ziehe bis zu X Karten.\n[subroutine] Füge bis zu X Karten aus dem Archiv dem HQ hinzu.\n[subroutine] Mische bis zu X Karten aus dem HQ in F&E.",
-        "title": "NEXT Saphir"
-    },
-    {
-        "code": "21051",
-        "keywords": "Wächter - AP",
-        "text": "Immer wenn eine Begegnung mit Anansi endet, verursache 3 Netz-Schaden, falls der Runner nicht alle Subroutinen darauf ausgeschaltet hat.\n[subroutine] Siehe dir die obersten 5 Karten von F&E an und lege sie in beliebiger Reihenfolge zurück.\n[subroutine] Du darfst 1 Karte ziehen. Der Runner darf 2[credit] zahlen, um 1 Karte zu ziehen.\n[subroutine] Verursache 1 Netz-Schaden.",
-        "title": "Anansi"
-    },
-    {
-        "code": "21052",
-        "flavor": "für (;;)",
-        "text": "Sobald der Runner an einem geladenen Ice vorbeikommt, das dieses System schützt, darfst du Code-Replikator zerstören, um den Runner dazu zu zwingen, sich jenem Ice erneut zu nähern",
-        "title": "Code-Replikator"
-    },
-    {
-        "code": "21053",
-        "text": "Wähle 1:<ul><li>Lösche Viruszähler. Zerstöre 1 Karte oben vom Stapel für je 3 entfernte Viruszähler.</li><li>Du erhältst 2[credit].</li></ul>",
-        "title": "Reverse Infektion"
-    },
-    {
-        "code": "21054",
-        "keywords": "Abteilung",
-        "text": "Sobald dein Zug endet, darfst du eine Kartenart benennen. Du erhältst 2[credit], wenn der Runner zum ersten Mal in einem Zug eine Karte der zuletzt so benannten Art spielt oder installiert.",
-        "title": "Azmari EdTech: Die Zukunft gestalten"
-    },
-    {
-        "code": "21055",
-        "flavor": "Beherrsche jedes Thema in unter 30 Minuten!*\n*Azmari EdTech übernimmt keine Haftung für veränderte Erinnerungen oder Funktionseinschränkungen des Temporallappens. Der Grad der Beherrschung kann unterschiedlich sein.",
-        "keywords": "Initiative",
-        "text": "Als zusätzliche Kosten, um Titelmühle zu stehlen, muss der Runner 2 installierte Runner-Karten in den Stapel mischen.",
-        "title": "Titelmühle"
-    },
-    {
-        "code": "21056",
-        "flavor": "\"Willkommen bei Azmari Mail! Sie haben 4.196 ungelesene Nachrichten.\"",
-        "text": "Sobald dein Zug beginnt, zieht der Runner 1 Karte. Dann darfst du 1[credit] für je 2 Karten im Griff erhalten.",
-        "title": "Personalisiertes Portal"
-    },
-    {
-        "code": "21057",
-        "flavor": "\"So wie ich das sehe, hast du zwei Möglichkeiten: stirb hier oder stirb auf der Flucht. Mir würde beides Spaß machen.\"",
-        "keywords": "Sicherheit",
-        "text": "Sobald du die Punkte für Bewaffnete Einschüchterung erzielst, erleidet der Runner entweder 5 Körper-Schaden oder bekommt 2 Markierungen.",
-        "title": "Bewaffnete Einschüchterung"
-    },
-    {
-        "code": "21058",
-        "flavor": "Die einzigen Dinge, die unvermeidlich sind.",
-        "keywords": "Aktuell - Transaktion",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nImmer wenn der Runner eine Karte installiert oder eine installierte Karte zerstört, darfst du 1[credit] erhalten.",
-        "title": "Tod und Steuern"
-    },
-    {
-        "code": "21059",
-        "keywords": "Graue Ops",
-        "text": "Kann nur gespielt werden, falls der Runner während seines letztens Zuges auf mindestens 1 Karte zugegriffen hat.\n<trace>Aufspüren 4</trace> Bei Erfolg zerstöre 1 installiertes Programm mit Installationskosten, die höchstens der Differenz zwischen deiner Aufspürstärke und der Verbindungstärke des Runners entsprechen.",
-        "title": "Trojanisches Pferd"
-    },
-    {
-        "code": "21060",
-        "keywords": "Konzern",
-        "text": "Die Installationskosten jedes Programms, jeder Hardware und jeder <strong>virtuellen</strong> Ressource werden um 1 erhöht.\nImmer wenn der Runner ein Programm, eine Hardware oder eine <strong>virtuelle</strong> Ressource installiert, darfst du 1[credit] erhalten.",
-        "title": "TechnoCo"
-    }
+  {
+    "code": "21041",
+    "flavor": "\"Amateure tarnen es als ,zufälligen Verlust von Datenpaketen'. Das tun sie aus Sicherheitsgründen. Sie tun es aus Angst. Aber warum sollten wir uns klein machen? Wir werden diese Konzernokratie zu Fall bringen, Stück für Stück! Sie sind nicht diejenigen, vor denen man Angst haben muss. Sondern wir!\"\n- Freedom Khumalo",
+    "keywords": "Virus",
+    "text": "Immer wenn du auf eine Karte von F&E zugreifst, greife auf 1 zusätzliche Karte zu.\nZerstöre eXer, falls der Kon Viruszähler löscht.",
+    "title": "eXer"
+  },
+  {
+    "code": "21042",
+    "flavor": "\"Es macht all die schlimmen Dinge, die du tust, so viel besser.\"\n- g00ru",
+    "keywords": "Chip",
+    "text": "Immer wenn du eine Kon-Karte zerstörst, darfst du 1 Viruszähler auf Freitagschip legen.\nSobald dein Zug beginnt, darfst du 1 gehosteten Viruszähler auf ein <strong>Virus</strong>-Programm verschieben.",
+    "title": "Freitagschip"
+  },
+  {
+    "code": "21043",
+    "flavor": "Der Geruch von Verwesung wurde mit jedem Schritt stärker.",
+    "keywords": "Virtuell",
+    "text": "Immer wenn du einen erfolgreichen Run auf das Archiv durchführst, darfst du 1 Viruszähler auf Gruft legen.\n[click], [trash], <strong>3 gehostete Viruszähler</strong>: Durchsuche deinen Stapel nach einem <strong>Virus</strong>-Programm und installiere es (und bezahle die Installationskosten). Mische dann deinen Stapel.",
+    "title": "Gruft"
+  },
+  {
+    "code": "21044",
+    "flavor": "Man sollte meinen, dass jemand ein Programm namens \"Karrieremöglichkeiten als Hacker\" schon früher bemerkt hätte.",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nWenn du zum ersten Mal in einem Zug eine Karte installierst, verliert der Kon 1[credit].",
+    "title": "Konzern-\"Stipendium\""
+  },
+  {
+    "code": "21045",
+    "flavor": "\"Geh weg! Ich bin nicht da!\"",
+    "keywords": "Virtuell",
+    "text": "Wenn du zum ersten Mal in einem Zug eine beliebige Anzahl Markierungen verpasst bekommen oder eine beliebige Menge Netz-Schaden erleiden würdest, darfst du Niemand zu Hause zerstören, um den Kon zu \"<trace>Aufspüren 0</trace> Bei Misserfolg vermeidet der Runner eine beliebige Anzahl Markierungen oder verhindert eine beliebige Menge Netz-Schaden.\" zu zwingen",
+    "title": "Niemand zu Hause"
+  },
+  {
+    "code": "21046",
+    "keywords": "Run",
+    "text": "Führe einen Run auf ein ausgelagertes System durch. Sobald der Run endet und falls der Run erfolgreich war, erhältst du [click] und fügst Marathon deinem Griff hinzu, statt diese Karte zu zerstören. Du darfst für den Rest des Zuges keinen weiteren Run auf jenes System durchführen.",
+    "title": "Marathon"
+  },
+  {
+    "code": "21047",
+    "flavor": "Die Beute sieht nur ein leichtes Kräuseln auf dem Wasser, bevor sie vom Gbahali in einem Stück verschlungen wird.",
+    "keywords": "Virtuell",
+    "text": "[trash]: Schalte die letzte Subroutine auf dem Ice aus, auf das du gerade triffst.",
+    "title": "Gbahali"
+  },
+  {
+    "code": "21048",
+    "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nZwinge den Kon zu \"<trace>Aufspüren 3</trace> Bei Misserfolg decke alle Karten von HQ auf. Der Runner darf bis zu 2 Karten der aufgedeckten Karten wählen. Mische diese Karten in F&E.\"",
+    "title": "White-Hat-Angriff"
+  },
+  {
+    "code": "21049",
+    "keywords": "Bioroid",
+    "text": "Sobald dein Zug beginnt, darfst du <trace>Aufspüren X</trace> Bei Erfolg verursache 1 Hirn-Schaden und zerstöre Kuwinda K4H1U3. Bei Misserfolg lege 1 Wirkungszähler auf Kuwinda K4H1U3.\nX ist die Anzahl der Wirkungszähler auf Kuwinda K4H1U3.",
+    "title": "Kuwinda K4H1U3"
+  },
+  {
+    "code": "21050",
+    "flavor": "Immer die passende Schutzstufe für sämtliche Sicherheitsbedürfnisse.",
+    "keywords": "Code-Zugang - NEXT",
+    "text": "X ist die Anzahl aller geladenen <strong>NEXT</strong>-Ice.\n[subroutine] Ziehe bis zu X Karten.\n[subroutine] Füge bis zu X Karten aus dem Archiv dem HQ hinzu.\n[subroutine] Mische bis zu X Karten aus dem HQ in F&E.",
+    "title": "NEXT Saphir"
+  },
+  {
+    "code": "21051",
+    "keywords": "Wächter - AP",
+    "text": "Immer wenn eine Begegnung mit Anansi endet, verursache 3 Netz-Schaden, falls der Runner nicht alle Subroutinen darauf ausgeschaltet hat.\n[subroutine] Siehe dir die obersten 5 Karten von F&E an und lege sie in beliebiger Reihenfolge zurück.\n[subroutine] Du darfst 1 Karte ziehen. Der Runner darf 2[credit] zahlen, um 1 Karte zu ziehen.\n[subroutine] Verursache 1 Netz-Schaden.",
+    "title": "Anansi"
+  },
+  {
+    "code": "21052",
+    "flavor": "für (;;)",
+    "text": "Sobald der Runner an einem geladenen Ice vorbeikommt, das dieses System schützt, darfst du Code-Replikator zerstören, um den Runner dazu zu zwingen, sich jenem Ice erneut zu nähern",
+    "title": "Code-Replikator"
+  },
+  {
+    "code": "21053",
+    "text": "Wähle 1:<ul><li>Lösche Viruszähler. Zerstöre 1 Karte oben vom Stapel für je 3 entfernte Viruszähler.</li><li>Du erhältst 2[credit].</li></ul>",
+    "title": "Reverse Infektion"
+  },
+  {
+    "code": "21054",
+    "keywords": "Abteilung",
+    "text": "Sobald dein Zug endet, darfst du eine Kartenart benennen. Du erhältst 2[credit], wenn der Runner zum ersten Mal in einem Zug eine Karte der zuletzt so benannten Art spielt oder installiert.",
+    "title": "Azmari EdTech: Die Zukunft gestalten"
+  },
+  {
+    "code": "21055",
+    "flavor": "Beherrsche jedes Thema in unter 30 Minuten!*\n*Azmari EdTech übernimmt keine Haftung für veränderte Erinnerungen oder Funktionseinschränkungen des Temporallappens. Der Grad der Beherrschung kann unterschiedlich sein.",
+    "keywords": "Initiative",
+    "text": "Als zusätzliche Kosten, um Titelmühle zu stehlen, muss der Runner 2 installierte Runner-Karten in den Stapel mischen.",
+    "title": "Titelmühle"
+  },
+  {
+    "code": "21056",
+    "flavor": "\"Willkommen bei Azmari Mail! Sie haben 4.196 ungelesene Nachrichten.\"",
+    "text": "Sobald dein Zug beginnt, zieht der Runner 1 Karte. Dann darfst du 1[credit] für je 2 Karten im Griff erhalten.",
+    "title": "Personalisiertes Portal"
+  },
+  {
+    "code": "21057",
+    "flavor": "\"So wie ich das sehe, hast du zwei Möglichkeiten: stirb hier oder stirb auf der Flucht. Mir würde beides Spaß machen.\"",
+    "keywords": "Sicherheit",
+    "text": "Sobald du die Punkte für Bewaffnete Einschüchterung erzielst, erleidet der Runner entweder 5 Körper-Schaden oder bekommt 2 Markierungen.",
+    "title": "Bewaffnete Einschüchterung"
+  },
+  {
+    "code": "21058",
+    "flavor": "Die einzigen Dinge, die unvermeidlich sind.",
+    "keywords": "Aktuell - Transaktion",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nImmer wenn der Runner eine Karte installiert oder eine installierte Karte zerstört, darfst du 1[credit] erhalten.",
+    "title": "Tod und Steuern"
+  },
+  {
+    "code": "21059",
+    "keywords": "Graue Ops",
+    "text": "Kann nur gespielt werden, falls der Runner während seines letztens Zuges auf mindestens 1 Karte zugegriffen hat.\n<trace>Aufspüren 4</trace> Bei Erfolg zerstöre 1 installiertes Programm mit Installationskosten, die höchstens der Differenz zwischen deiner Aufspürstärke und der Verbindungstärke des Runners entsprechen.",
+    "title": "Trojanisches Pferd"
+  },
+  {
+    "code": "21060",
+    "keywords": "Konzern",
+    "text": "Die Installationskosten jedes Programms, jeder Hardware und jeder <strong>virtuellen</strong> Ressource werden um 1 erhöht.\nImmer wenn der Runner ein Programm, eine Hardware oder eine <strong>virtuelle</strong> Ressource installiert, darfst du 1[credit] erhalten.",
+    "title": "TechnoCo"
+  }
 ]

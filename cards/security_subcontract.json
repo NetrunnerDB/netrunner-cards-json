@@ -1,18 +1,16 @@
 {
-    "card_type_id": "asset",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "security_subcontract",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "click, trash a rezzed piece of ice: Gain 4 credits.",
-    "stripped_title": "Security Subcontract",
-    "subtypes": [
-        "transaction"
-    ],
-    "text": "[click], <strong>trash a rezzed piece of ice:</strong> Gain 4[credit].",
-    "title": "Security Subcontract",
-    "trash_cost": 3
+  "card_type_id": "asset",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "security_subcontract",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "click, trash a rezzed piece of ice: Gain 4 credits.",
+  "stripped_title": "Security Subcontract",
+  "subtypes": ["transaction"],
+  "text": "[click], <strong>trash a rezzed piece of ice:</strong> Gain 4[credit].",
+  "title": "Security Subcontract",
+  "trash_cost": 3
 }

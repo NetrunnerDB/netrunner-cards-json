@@ -1,21 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 7,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "shinobi",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 5,
-    "stripped_text": "When you rez Shinobi, take 1 bad publicity. Subroutine Trace 1 If successful, do 1 net damage. Subroutine Trace 2 If successful, do 2 net damage. Subroutine Trace 3 If successful, do 3 net damage and end the run.",
-    "stripped_title": "Shinobi",
-    "subtypes": [
-        "sentry",
-        "tracer",
-        "ap",
-        "illicit"
-    ],
-    "text": "When you rez Shinobi, take 1 bad publicity.\n[subroutine] <trace>Trace 1</trace> If successful, do 1 net damage.\n[subroutine] <trace>Trace 2</trace> If successful, do 2 net damage.\n[subroutine] <trace>Trace 3</trace> If successful, do 3 net damage and end the run.",
-    "title": "Shinobi"
+  "card_type_id": "ice",
+  "cost": 7,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "shinobi",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "When you rez Shinobi, take 1 bad publicity. Subroutine Trace 1 If successful, do 1 net damage. Subroutine Trace 2 If successful, do 2 net damage. Subroutine Trace 3 If successful, do 3 net damage and end the run.",
+  "stripped_title": "Shinobi",
+  "subtypes": ["sentry", "tracer", "ap", "illicit"],
+  "text": "When you rez Shinobi, take 1 bad publicity.\n[subroutine] <trace>Trace 1</trace> If successful, do 1 net damage.\n[subroutine] <trace>Trace 2</trace> If successful, do 2 net damage.\n[subroutine] <trace>Trace 3</trace> If successful, do 3 net damage and end the run.",
+  "title": "Shinobi"
 }

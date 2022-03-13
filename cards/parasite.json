@@ -1,18 +1,16 @@
 {
-    "card_type_id": "program",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "parasite",
-    "influence_cost": 2,
-    "is_unique": false,
-    "memory_cost": 1,
-    "side_id": "runner",
-    "stripped_text": "Install Parasite only on a rezzed piece of ice. Host ice has -1 strength for each virus counter on Parasite and is trashed if its strength is 0 or less. When your turn begins, place 1 virus counter on Parasite.",
-    "stripped_title": "Parasite",
-    "subtypes": [
-        "virus"
-    ],
-    "text": "Install Parasite only on a rezzed piece of ice.\nHost ice has -1 strength for each virus counter on Parasite and is trashed if its strength is 0 or less.\nWhen your turn begins, place 1 virus counter on Parasite.",
-    "title": "Parasite"
+  "card_type_id": "program",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "parasite",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "Install Parasite only on a rezzed piece of ice. Host ice has -1 strength for each virus counter on Parasite and is trashed if its strength is 0 or less. When your turn begins, place 1 virus counter on Parasite.",
+  "stripped_title": "Parasite",
+  "subtypes": ["virus"],
+  "text": "Install Parasite only on a rezzed piece of ice.\nHost ice has -1 strength for each virus counter on Parasite and is trashed if its strength is 0 or less.\nWhen your turn begins, place 1 virus counter on Parasite.",
+  "title": "Parasite"
 }

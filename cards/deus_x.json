@@ -1,19 +1,17 @@
 {
-    "card_type_id": "program",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "shaper",
-    "id": "deus_x",
-    "influence_cost": 1,
-    "is_unique": false,
-    "memory_cost": 1,
-    "side_id": "runner",
-    "strength": 10,
-    "stripped_text": "Interface -> trash: Break any number of AP subroutines. Interrupt -> trash: Prevent any amount of net damage.",
-    "stripped_title": "Deus X",
-    "subtypes": [
-        "icebreaker"
-    ],
-    "text": "Interface → <strong>[trash]:</strong> Break any number of <strong>AP</strong> subroutines.\n[interrupt] → <strong>[trash]:</strong> Prevent any amount of net damage.",
-    "title": "Deus X"
+  "card_type_id": "program",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "deus_x",
+  "influence_cost": 1,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 10,
+  "stripped_text": "Interface -> trash: Break any number of AP subroutines. Interrupt -> trash: Prevent any amount of net damage.",
+  "stripped_title": "Deus X",
+  "subtypes": ["icebreaker"],
+  "text": "Interface → <strong>[trash]:</strong> Break any number of <strong>AP</strong> subroutines.\n[interrupt] → <strong>[trash]:</strong> Prevent any amount of net damage.",
+  "title": "Deus X"
 }

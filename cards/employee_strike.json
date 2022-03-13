@@ -1,17 +1,15 @@
 {
-    "card_type_id": "event",
-    "cost": 1,
-    "deck_limit": 3,
-    "faction_id": "neutral-runner",
-    "id": "employee_strike",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "This card is not trashed until another current is played or an agenda is scored. The Corp's identity text box is blank.",
-    "stripped_title": "Employee Strike",
-    "subtypes": [
-        "current"
-    ],
-    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's identity text box is blank.",
-    "title": "Employee Strike"
+  "card_type_id": "event",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "neutral-runner",
+  "id": "employee_strike",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "This card is not trashed until another current is played or an agenda is scored. The Corp's identity text box is blank.",
+  "stripped_title": "Employee Strike",
+  "subtypes": ["current"],
+  "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's identity text box is blank.",
+  "title": "Employee Strike"
 }

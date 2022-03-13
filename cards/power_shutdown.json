@@ -1,17 +1,15 @@
 {
-    "card_type_id": "operation",
-    "cost": 1,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "power_shutdown",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Play only if the Runner made a run during his or her last turn. Trash X cards from the top of R&D. The Runner trashes 1 installed program or piece of hardware with an install cost of X or less.",
-    "stripped_title": "Power Shutdown",
-    "subtypes": [
-        "gray_ops"
-    ],
-    "text": "Play only if the Runner made a run during his or her last turn.\nTrash X cards from the top of R&D. The Runner trashes 1 installed program or piece of hardware with an install cost of X or less.",
-    "title": "Power Shutdown"
+  "card_type_id": "operation",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "power_shutdown",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Play only if the Runner made a run during his or her last turn. Trash X cards from the top of R&D. The Runner trashes 1 installed program or piece of hardware with an install cost of X or less.",
+  "stripped_title": "Power Shutdown",
+  "subtypes": ["gray_ops"],
+  "text": "Play only if the Runner made a run during his or her last turn.\nTrash X cards from the top of R&D. The Runner trashes 1 installed program or piece of hardware with an install cost of X or less.",
+  "title": "Power Shutdown"
 }

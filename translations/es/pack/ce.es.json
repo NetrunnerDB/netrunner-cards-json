@@ -1,130 +1,130 @@
 [
-    {
-        "code": "02041",
-        "keywords": "Virus",
-        "text": "Siempre que realices una incursión con éxito contra la SC, coloca 1 contador de virus sobre Agente Nervioso.\nCada contador de virus después del primero que haya sobre Agente Nervioso, te permite acceder a 1 carta adicional de la SC siempre que accedas a cartas de la SC.",
-        "title": "Agente Nervioso"
-    },
-    {
-        "code": "02042",
-        "flavor": "\"Mis aumentos tienen garantía de por vida, y el riesgo merece la pena.\"",
-        "keywords": "Contacto",
-        "text": "Cuando comience tu turno, puedes ganar [click]. Si lo haces, recibes 1 marca cuando acabe este turno.",
-        "title": "Joshua B."
-    },
-    {
-        "code": "02043",
-        "flavor": "\"Considéralo un collar eléctrico virtual para castigar a mascotas corporativas.\" - Andrómeda",
-        "keywords": "Sabotaje",
-        "text": "Juega esta carta sólo si has realizado una incursión con éxito contra la SC en este turno.\nSuspende un hielo.",
-        "title": "Apagado De Emergencia"
-    },
-    {
-        "code": "02044",
-        "flavor": "Ligero y ajustado a tu figura, es como una piel a prueba de balas.",
-        "keywords": "Equipamiento",
-        "text": "Prevén el primer daño físico de cada turno.",
-        "title": "Body Blindado Muresh"
-    },
-    {
-        "code": "02045",
-        "flavor": "\"Un chivato es el mejor amigo de una chica.\" - Andrómeda",
-        "text": "Una vez por incursión, puedes exponer un hielo suspendido cuando te aproximes a él. Luego puedes desenchufarte.",
-        "title": "Chivato"
-    },
-    {
-        "code": "02046",
-        "flavor": "\"¿Te he presentado a Dinosaurio?\"",
-        "keywords": "Mod-g",
-        "text": "+ 1[mu]",
-        "title": "Teoría Del Caos"
-    },
-    {
-        "code": "02047",
-        "text": "Busca un programa en tu Montón o en tu Pila. Instala el programa ignorando todos los costes. Baraja tu Montón si lo buscaste ahí. Cuando acabe este turno, añade el programa a la parte superior de tu Montón si sigue instalado.",
-        "title": "Ejecución De Prueba"
-    },
-    {
-        "code": "02048",
-        "keywords": "Consola",
-        "text": "Dinosaurio puede alojar un solo <strong>rompehielos</strong> que no sea <strong>IA</strong>. El coste de memoria del <strong>rompehielos</strong> alojado no cuenta para tu límite de memoria.\nEl <strong>rompehielos</strong> alojado tiene +2 puntos de fuerza.\nLímite de 1 <strong>consola</strong> por jugador.",
-        "title": "Dinosaurio"
-    },
-    {
-        "code": "02049",
-        "keywords": "Ubicación",
-        "text": "[click]: Aloja un programa o hardware de tu Empuñadura en Taller Personal y coloca sobre él una cantidad de contadores de poder igual a su coste de instalación.\n1[credit]: Retira 1 contador de poder de una carta alojada.\nCuando comience tu turno, retira 1 contador de poder de una carta alojada.\nCuando no queden contadores de poder sobre una carta alojada, instálala ignorando todos los costes.",
-        "title": "Taller Personal"
-    },
-    {
-        "code": "02050",
-        "flavor": "\"Doy gracias por que el daño cerebral sea reversible. Con el apoyo de la ciudad de Nueva Ángeles, espero estar recuperada y practicando mi arte muy pronto.\" - Kate \"Mac\" McCaffrey",
-        "text": "Tu tamaño de mano máximo aumenta en 2.",
-        "title": "Simpatía Pública"
-    },
-    {
-        "code": "02051",
-        "keywords": "Investigación",
-        "text": "Cuando puntúes Proyecto Vitruvio, coloca 1 contador de plan sobre la carta por cada ficha de Avance que tenga por encima de 3.\n<strong>Contador de plan alojado</strong>: Añade 1 carta desde los Archivos a la SC.",
-        "title": "Proyecto Vitruvio"
-    },
-    {
-        "code": "02052",
-        "flavor": "No me pises.",
-        "keywords": "Puerta De Código - Rastreador",
-        "text": "[subroutine] <trace>Rastreo 3</trace> Si tiene éxito, el Runner pierde [click] si puede.\n[subroutine] <trace>Rastreo 3</trace> Si tiene éxito, termina la incursión.",
-        "title": "Víbora"
-    },
-    {
-        "code": "02053",
-        "keywords": "Emboscada",
-        "text": "Si el Borde Del Mundo está instalado y pagas 3[credit] cuando el Runner acceda a él, inflige 1 daño cerebral por cada hielo que proteja este servidor.",
-        "title": "El Borde Del Mundo"
-    },
-    {
-        "code": "02054",
-        "flavor": "\"No puedes decir que has realizado incursiones hasta haber visto el cibersol descendiendo tras la Gran Ciudad, con el espacio que tienes a tu alrededor lleno de colores que no puedes ni imaginar.\" - Kate \"Mac\" McCaffrey",
-        "text": "Elige un servidor. Coloca los hielos que protejan ese servidor en cualquier orden.",
-        "title": "Puesta De Sol"
-    },
-    {
-        "code": "02055",
-        "keywords": "Transacción",
-        "text": "Cuando comience tu turno, coge 1[credit] de Cuentas Marcadas si puedes.\n[click]: Coloca 3[credit] del banco sobre Cuentras Marcadas.",
-        "title": "Cuentas Marcadas"
-    },
-    {
-        "code": "02056",
-        "flavor": "\"Intenta cerrarla. Adelante. Mira lo que hace.\" - Teoría del Caos.",
-        "keywords": "Puerta De Código - Anuncio",
-        "text": "Cuando el Runner se enfrente a Ventana Emergente, ganas 1[credit].\n[subroutine] Termina la incursión a menos que el Runner pague 1[credit].",
-        "title": "Ventana Emergente"
-    },
-    {
-        "code": "02057",
-        "flavor": "Chop chop",
-        "keywords": "Centinela - AP",
-        "text": "Leñador puede ser avanzado sólo mientras esté ejecutado y gana \"[subroutine] Inflige 1 daño de red.\" por cada ficha de avance que tenga.",
-        "title": "Leñador"
-    },
-    {
-        "code": "02058",
-        "flavor": "Los ingresos de la División de Aplicaciones Marginales aumentaron un 37% en un año, después de que los altos cargos descubrieran que la mayoría de sus productos podían venderse como juguetes muy divertidos.",
-        "keywords": "Transacción",
-        "text": "Elige un hielo. Gana 1[credit] por cada ficha de Avance que haya sobre ese hielo.",
-        "title": "Comercialización"
-    },
-    {
-        "code": "02059",
-        "keywords": "Transacción",
-        "text": "Coloca 14[credit] del banco sobre Contratos Privados cuando los ejecutes. Cuando no queden créditos en Contratos Privados, destrúyelos.\n[click]: Coge 2[credit] de Contratos Privados.",
-        "title": "Contratos Privados"
-    },
-    {
-        "code": "02060",
-        "flavor": "Tres cabezas. Y una enorme jaqueca.",
-        "keywords": "Mítico",
-        "text": "Cuando ejecutes Quimera, elige <strong>centinela</strong>, <strong>puerta de código</strong> o <strong>barrera</strong>. Quimera gana ese subtipo hasta que sea suspendida.\nCuando termine un turno, suspende Quimera.\n[subroutine] Termina la incursión.",
-        "title": "Quimera"
-    }
+  {
+    "code": "02041",
+    "keywords": "Virus",
+    "text": "Siempre que realices una incursión con éxito contra la SC, coloca 1 contador de virus sobre Agente Nervioso.\nCada contador de virus después del primero que haya sobre Agente Nervioso, te permite acceder a 1 carta adicional de la SC siempre que accedas a cartas de la SC.",
+    "title": "Agente Nervioso"
+  },
+  {
+    "code": "02042",
+    "flavor": "\"Mis aumentos tienen garantía de por vida, y el riesgo merece la pena.\"",
+    "keywords": "Contacto",
+    "text": "Cuando comience tu turno, puedes ganar [click]. Si lo haces, recibes 1 marca cuando acabe este turno.",
+    "title": "Joshua B."
+  },
+  {
+    "code": "02043",
+    "flavor": "\"Considéralo un collar eléctrico virtual para castigar a mascotas corporativas.\" - Andrómeda",
+    "keywords": "Sabotaje",
+    "text": "Juega esta carta sólo si has realizado una incursión con éxito contra la SC en este turno.\nSuspende un hielo.",
+    "title": "Apagado De Emergencia"
+  },
+  {
+    "code": "02044",
+    "flavor": "Ligero y ajustado a tu figura, es como una piel a prueba de balas.",
+    "keywords": "Equipamiento",
+    "text": "Prevén el primer daño físico de cada turno.",
+    "title": "Body Blindado Muresh"
+  },
+  {
+    "code": "02045",
+    "flavor": "\"Un chivato es el mejor amigo de una chica.\" - Andrómeda",
+    "text": "Una vez por incursión, puedes exponer un hielo suspendido cuando te aproximes a él. Luego puedes desenchufarte.",
+    "title": "Chivato"
+  },
+  {
+    "code": "02046",
+    "flavor": "\"¿Te he presentado a Dinosaurio?\"",
+    "keywords": "Mod-g",
+    "text": "+ 1[mu]",
+    "title": "Teoría Del Caos"
+  },
+  {
+    "code": "02047",
+    "text": "Busca un programa en tu Montón o en tu Pila. Instala el programa ignorando todos los costes. Baraja tu Montón si lo buscaste ahí. Cuando acabe este turno, añade el programa a la parte superior de tu Montón si sigue instalado.",
+    "title": "Ejecución De Prueba"
+  },
+  {
+    "code": "02048",
+    "keywords": "Consola",
+    "text": "Dinosaurio puede alojar un solo <strong>rompehielos</strong> que no sea <strong>IA</strong>. El coste de memoria del <strong>rompehielos</strong> alojado no cuenta para tu límite de memoria.\nEl <strong>rompehielos</strong> alojado tiene +2 puntos de fuerza.\nLímite de 1 <strong>consola</strong> por jugador.",
+    "title": "Dinosaurio"
+  },
+  {
+    "code": "02049",
+    "keywords": "Ubicación",
+    "text": "[click]: Aloja un programa o hardware de tu Empuñadura en Taller Personal y coloca sobre él una cantidad de contadores de poder igual a su coste de instalación.\n1[credit]: Retira 1 contador de poder de una carta alojada.\nCuando comience tu turno, retira 1 contador de poder de una carta alojada.\nCuando no queden contadores de poder sobre una carta alojada, instálala ignorando todos los costes.",
+    "title": "Taller Personal"
+  },
+  {
+    "code": "02050",
+    "flavor": "\"Doy gracias por que el daño cerebral sea reversible. Con el apoyo de la ciudad de Nueva Ángeles, espero estar recuperada y practicando mi arte muy pronto.\" - Kate \"Mac\" McCaffrey",
+    "text": "Tu tamaño de mano máximo aumenta en 2.",
+    "title": "Simpatía Pública"
+  },
+  {
+    "code": "02051",
+    "keywords": "Investigación",
+    "text": "Cuando puntúes Proyecto Vitruvio, coloca 1 contador de plan sobre la carta por cada ficha de Avance que tenga por encima de 3.\n<strong>Contador de plan alojado</strong>: Añade 1 carta desde los Archivos a la SC.",
+    "title": "Proyecto Vitruvio"
+  },
+  {
+    "code": "02052",
+    "flavor": "No me pises.",
+    "keywords": "Puerta De Código - Rastreador",
+    "text": "[subroutine] <trace>Rastreo 3</trace> Si tiene éxito, el Runner pierde [click] si puede.\n[subroutine] <trace>Rastreo 3</trace> Si tiene éxito, termina la incursión.",
+    "title": "Víbora"
+  },
+  {
+    "code": "02053",
+    "keywords": "Emboscada",
+    "text": "Si el Borde Del Mundo está instalado y pagas 3[credit] cuando el Runner acceda a él, inflige 1 daño cerebral por cada hielo que proteja este servidor.",
+    "title": "El Borde Del Mundo"
+  },
+  {
+    "code": "02054",
+    "flavor": "\"No puedes decir que has realizado incursiones hasta haber visto el cibersol descendiendo tras la Gran Ciudad, con el espacio que tienes a tu alrededor lleno de colores que no puedes ni imaginar.\" - Kate \"Mac\" McCaffrey",
+    "text": "Elige un servidor. Coloca los hielos que protejan ese servidor en cualquier orden.",
+    "title": "Puesta De Sol"
+  },
+  {
+    "code": "02055",
+    "keywords": "Transacción",
+    "text": "Cuando comience tu turno, coge 1[credit] de Cuentas Marcadas si puedes.\n[click]: Coloca 3[credit] del banco sobre Cuentras Marcadas.",
+    "title": "Cuentas Marcadas"
+  },
+  {
+    "code": "02056",
+    "flavor": "\"Intenta cerrarla. Adelante. Mira lo que hace.\" - Teoría del Caos.",
+    "keywords": "Puerta De Código - Anuncio",
+    "text": "Cuando el Runner se enfrente a Ventana Emergente, ganas 1[credit].\n[subroutine] Termina la incursión a menos que el Runner pague 1[credit].",
+    "title": "Ventana Emergente"
+  },
+  {
+    "code": "02057",
+    "flavor": "Chop chop",
+    "keywords": "Centinela - AP",
+    "text": "Leñador puede ser avanzado sólo mientras esté ejecutado y gana \"[subroutine] Inflige 1 daño de red.\" por cada ficha de avance que tenga.",
+    "title": "Leñador"
+  },
+  {
+    "code": "02058",
+    "flavor": "Los ingresos de la División de Aplicaciones Marginales aumentaron un 37% en un año, después de que los altos cargos descubrieran que la mayoría de sus productos podían venderse como juguetes muy divertidos.",
+    "keywords": "Transacción",
+    "text": "Elige un hielo. Gana 1[credit] por cada ficha de Avance que haya sobre ese hielo.",
+    "title": "Comercialización"
+  },
+  {
+    "code": "02059",
+    "keywords": "Transacción",
+    "text": "Coloca 14[credit] del banco sobre Contratos Privados cuando los ejecutes. Cuando no queden créditos en Contratos Privados, destrúyelos.\n[click]: Coge 2[credit] de Contratos Privados.",
+    "title": "Contratos Privados"
+  },
+  {
+    "code": "02060",
+    "flavor": "Tres cabezas. Y una enorme jaqueca.",
+    "keywords": "Mítico",
+    "text": "Cuando ejecutes Quimera, elige <strong>centinela</strong>, <strong>puerta de código</strong> o <strong>barrera</strong>. Quimera gana ese subtipo hasta que sea suspendida.\nCuando termine un turno, suspende Quimera.\n[subroutine] Termina la incursión.",
+    "title": "Quimera"
+  }
 ]

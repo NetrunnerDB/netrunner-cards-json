@@ -1,18 +1,16 @@
 {
-    "advancement_requirement": 5,
-    "agenda_points": 3,
-    "card_type_id": "agenda",
-    "deck_limit": 1,
-    "faction_id": "neutral-corp",
-    "id": "utopia_fragment",
-    "influence_cost": 0,
-    "is_unique": true,
-    "side_id": "corp",
-    "stripped_text": "As an additional cost to steal an agenda, the Runner must pay 2 credits for each advancement token on that agenda. Limit 1 per deck.",
-    "stripped_title": "Utopia Fragment",
-    "subtypes": [
-        "source"
-    ],
-    "text": "As an additional cost to steal an agenda, the Runner must pay 2[credit] for each advancement token on that agenda.\nLimit 1 per deck.",
-    "title": "Utopia Fragment"
+  "advancement_requirement": 5,
+  "agenda_points": 3,
+  "card_type_id": "agenda",
+  "deck_limit": 1,
+  "faction_id": "neutral-corp",
+  "id": "utopia_fragment",
+  "influence_cost": 0,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "As an additional cost to steal an agenda, the Runner must pay 2 credits for each advancement token on that agenda. Limit 1 per deck.",
+  "stripped_title": "Utopia Fragment",
+  "subtypes": ["source"],
+  "text": "As an additional cost to steal an agenda, the Runner must pay 2[credit] for each advancement token on that agenda.\nLimit 1 per deck.",
+  "title": "Utopia Fragment"
 }

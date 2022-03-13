@@ -1,18 +1,15 @@
 {
-    "card_type_id": "operation",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "hangeki",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Play only if the Runner trashed a Corp card during his or her last turn. Choose an installed Corp card. The Runner may access that card. If he or she does, remove Hangeki from the game instead of trashing it; otherwise, add Hangeki to the Runner's score area as an agenda worth -1 agenda point.",
-    "stripped_title": "Hangeki",
-    "subtypes": [
-        "reprisal",
-        "gray_ops"
-    ],
-    "text": "Play only if the Runner trashed a Corp card during his or her last turn.\nChoose an installed Corp card. The Runner may access that card. If he or she does, remove Hangeki from the game instead of trashing it; otherwise, add Hangeki to the Runner's score area as an agenda worth -1 agenda point.",
-    "title": "Hangeki"
+  "card_type_id": "operation",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "hangeki",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Play only if the Runner trashed a Corp card during his or her last turn. Choose an installed Corp card. The Runner may access that card. If he or she does, remove Hangeki from the game instead of trashing it; otherwise, add Hangeki to the Runner's score area as an agenda worth -1 agenda point.",
+  "stripped_title": "Hangeki",
+  "subtypes": ["reprisal", "gray_ops"],
+  "text": "Play only if the Runner trashed a Corp card during his or her last turn.\nChoose an installed Corp card. The Runner may access that card. If he or she does, remove Hangeki from the game instead of trashing it; otherwise, add Hangeki to the Runner's score area as an agenda worth -1 agenda point.",
+  "title": "Hangeki"
 }

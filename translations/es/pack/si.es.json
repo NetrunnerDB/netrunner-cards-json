@@ -1,126 +1,126 @@
 [
-    {
-        "code": "10058",
-        "flavor": "A veces te das cuenta en un instante de quienes son tus amigos de verdad.",
-        "keywords": "Prioridad",
-        "text": "Juega esta carta sólo al gastar tu primer [click].\nMira las 6 primeras cartas de tu Montón. Puedes destruir cualquiera de esas cartas y colocar el resto en cualquier orden.",
-        "title": "Hacer Una Gran Entrada"
-    },
-    {
-        "code": "10059",
-        "flavor": "\"Subestima a esta gente por tu cuenta y riesgo.\" -Akshara Sareen",
-        "keywords": "Ubicación - Sórdido",
-        "text": "Una vez por turno, cuando pagues el coste de destrucción de una carta a la que accedas, puedes retirar esa carta de la partida en lugar de destruirla.",
-        "title": "Chabolas de Salsette"
-    },
-    {
-        "code": "10060",
-        "flavor": "La confianza de los demás en ella aumentaba con cada fiesta a la que asistía. Cuando más confiaba en ella, más entretenidas se volvían sus estafas.",
-        "text": "Roba 1 carta. Gana 1[credit] por cada copia de Fiesta Exclusiva que haya en tu Pila.\nLímite de 6 por mazo.",
-        "title": "Fiesta Exclusiva"
-    },
-    {
-        "code": "10061",
-        "flavor": "La preservadora.",
-        "keywords": "Rompehielos - IA - Deva",
-        "text": "1[credit]: Rompe una subrutina de un hielo que tenga exactamente 1 subrutina.\n1[credit]: +1 punto de fueza.\n2[credit]: Intercambia Vamadeva con un programa <strong>deva</strong> de tu Empuñadura.",
-        "title": "Vamadeva"
-    },
-    {
-        "code": "10062",
-        "keywords": "Rompehielos - IA",
-        "text": "1[credit]: Rompe un máximo de 2 subrutinas de un hielo.\n2[credit]: +1 punto de fuerza.\nSiempre que termine un enfrentamiento con un huelo en el que hayas usado Brahmán para romper una subrutina, añade 1 programa instalado que no sea <strong>virus</strong> a la parte superior de tu Montón.",
-        "title": "Brahmán"
-    },
-    {
-        "code": "10063",
-        "flavor": "\"Cualquiera que pueda permitirse unos elefantes enanos puede permitirse ser mi amigo.\" -Fake-ir",
-        "keywords": "Contacto",
-        "text": "Cuando comience tu turno, puedes elegir un servidor.\nLa primera vez que realices una incursión con éxito contra ese servidor en este turno, en lugar de acceder a cartas, roba 2 cartas.",
-        "title": "Mecenas"
-    },
-    {
-        "code": "10064",
-        "flavor": "\"Mira mi nuevo buga.\" -2xTiger",
-        "keywords": "Vehículo",
-        "text": "+1[link]\n[trash]: Roba 3 cartas.",
-        "title": "Saltador Deportivo"
-    },
-    {
-        "code": "10065",
-        "flavor": "En estos días de navegación digital de simulación total y nanomontaje disponible en todas partes, hay que estar un poco loco para ir de compras de forma física. Pero hay millones de locos.",
-        "keywords": "Ubicación - Lujoso",
-        "text": "Siempre que instales un hardware desde tu Empuñadura, puedes instalar otra copia de ese hardware desde tu Empuñadura pagando todos los costes.",
-        "title": "Bazar"
-    },
-    {
-        "code": "10066",
-        "keywords": "Seguridad",
-        "text": "Siempre que el Runner busque en su Montón o instale una carta desde su pila, debe destruir una carta de su Empuñadura al azar.",
-        "title": "Perfiles de Personalidad"
-    },
-    {
-        "code": "10067",
-        "flavor": "\"Muy bien, señor.\"",
-        "keywords": "Alianza",
-        "text": "Esta carta cuesta 0 puntos de influencia si tienes 6 o más cartas [hass-bioroid] que no sean <strong>alianza</strong> en tu mazo.\nLa primera vez que gastes 3[click] en la misma acción en cada turno, gana [click].",
-        "title": "Bioroides Modelo Jeeves"
-    },
-    {
-        "code": "10068",
-        "keywords": "Alianza - Ejecutivo",
-        "text": "Esta carta cuesta 0 puntos de influencia si tienes 6 o más cartas [jinteki] que no sean <strong>alianza</strong> en tu mazo.\nUna vez por turno, puedes perder [click] cuando robes una carta. Si lo haces, revela esa carta y una carta de los Archivos del mismo tipo, y luego intercámbialas.",
-        "title": "Raman Rai"
-    },
-    {
-        "code": "10069",
-        "flavor": "\"Conecta dos verdades. Conecta dos programas. Todo es uno.\"",
-        "keywords": "Puerta de código - Psi",
-        "text": "[subroutine] El runner y tú gastáis en secreto 0[credit]. 1[credit] o 2[credit]. Revelad los créditos gastados. Si el Runner y tú habéis gastado una cantidad de créditos distina, el Runner pierde 2[credit].\n[subroutine] Resuelve una subrutina de un hielo <strong>psi</strong> ejecutado.",
-        "title": "Upayoga"
-    },
-    {
-        "code": "10070",
-        "flavor": "\"A medida que el mundo se hace más pequeño, las comunicaciones se convierten en la tecnología más esencia.\" -Ramesh Gupta, Una Economía Mundial",
-        "keywords": "Lujoso",
-        "text": "Siempre que haya un rastreo con éxito, gana 1[credit] y el Runner pierde 1[credit].",
-        "title": "Tecnología Aryabhata"
-    },
-    {
-        "code": "10071",
-        "keywords": "Alianza - Operaciones clandestinas",
-        "text": "Esta carta cuesta 0 puntos de influencia si tienes 6 o más cartas [nbn] que no sean <strong>alianza</strong> en tu mazo.\nNombra una carta. El Runner revela su Empuñadura y destruye todas las copias de la carta nombrada de su Empuñadura.",
-        "title": "Hospitalidad de Salem"
-    },
-    {
-        "code": "10072",
-        "keywords": "Alianza - Lujoso",
-        "text": "Esta carta cuesta 0 puntos de influencia si tienes 6 o más cartas [weyland-consortium] que no sean <strong>alianza</strong> en tu mazo.\n[click]: Busca en I+D un <strong>ejecutivo</strong>,<strong>sysop</strong> o <strong>personaje</strong>, revélalo y añádelo a la SC. Baraja I+D.",
-        "title": "Firma de Búsqueda de Ejecutivos"
-    },
-    {
-        "code": "10073",
-        "flavor": "\"La riqueza bien invertida es riqueza ganada.\" -El Nuevo Evangelio de la Riqueza",
-        "text": "Siempre que ejecutes o juegues una carta que no sea de tu facción (incluyendo Bolsa de Valores de la Unión India), gana 1[credit].",
-        "title": "Bolsa de Valores de la Unión India"
-    },
-    {
-        "code": "10074",
-        "flavor": "El naja naja es el rey de las serpientes.",
-        "keywords": "Centinela - Destructor - AP",
-        "text": "[subroutine] Destruye 1 programa.\n[subroutine] Inflige 2 puntos de daño de red.",
-        "title": "Cobra"
-    },
-    {
-        "code": "10075",
-        "flavor": "Es exactamente el mismo café, pero el precio es muy distinto.",
-        "text": "Busca en I+D cualquier cantidad de copias de una carta, revélalas y añádelas a la SC. Baraja I+D.",
-        "title": "Línea de Producción Localizada"
-    },
-    {
-        "code": "10076",
-        "keywords": "Alianza",
-        "text": "Esta carta cuesta 0 puntos de influencia si tienes 7 o más ventajas en tu mazo.\nSi el Runner accede a Visita Virtual de Mumbad mientras esté instalada, debe destruirla si es posible.",
-        "title": "Visita Virtual de Mumbad"
-    }
+  {
+    "code": "10058",
+    "flavor": "A veces te das cuenta en un instante de quienes son tus amigos de verdad.",
+    "keywords": "Prioridad",
+    "text": "Juega esta carta sólo al gastar tu primer [click].\nMira las 6 primeras cartas de tu Montón. Puedes destruir cualquiera de esas cartas y colocar el resto en cualquier orden.",
+    "title": "Hacer Una Gran Entrada"
+  },
+  {
+    "code": "10059",
+    "flavor": "\"Subestima a esta gente por tu cuenta y riesgo.\" -Akshara Sareen",
+    "keywords": "Ubicación - Sórdido",
+    "text": "Una vez por turno, cuando pagues el coste de destrucción de una carta a la que accedas, puedes retirar esa carta de la partida en lugar de destruirla.",
+    "title": "Chabolas de Salsette"
+  },
+  {
+    "code": "10060",
+    "flavor": "La confianza de los demás en ella aumentaba con cada fiesta a la que asistía. Cuando más confiaba en ella, más entretenidas se volvían sus estafas.",
+    "text": "Roba 1 carta. Gana 1[credit] por cada copia de Fiesta Exclusiva que haya en tu Pila.\nLímite de 6 por mazo.",
+    "title": "Fiesta Exclusiva"
+  },
+  {
+    "code": "10061",
+    "flavor": "La preservadora.",
+    "keywords": "Rompehielos - IA - Deva",
+    "text": "1[credit]: Rompe una subrutina de un hielo que tenga exactamente 1 subrutina.\n1[credit]: +1 punto de fueza.\n2[credit]: Intercambia Vamadeva con un programa <strong>deva</strong> de tu Empuñadura.",
+    "title": "Vamadeva"
+  },
+  {
+    "code": "10062",
+    "keywords": "Rompehielos - IA",
+    "text": "1[credit]: Rompe un máximo de 2 subrutinas de un hielo.\n2[credit]: +1 punto de fuerza.\nSiempre que termine un enfrentamiento con un huelo en el que hayas usado Brahmán para romper una subrutina, añade 1 programa instalado que no sea <strong>virus</strong> a la parte superior de tu Montón.",
+    "title": "Brahmán"
+  },
+  {
+    "code": "10063",
+    "flavor": "\"Cualquiera que pueda permitirse unos elefantes enanos puede permitirse ser mi amigo.\" -Fake-ir",
+    "keywords": "Contacto",
+    "text": "Cuando comience tu turno, puedes elegir un servidor.\nLa primera vez que realices una incursión con éxito contra ese servidor en este turno, en lugar de acceder a cartas, roba 2 cartas.",
+    "title": "Mecenas"
+  },
+  {
+    "code": "10064",
+    "flavor": "\"Mira mi nuevo buga.\" -2xTiger",
+    "keywords": "Vehículo",
+    "text": "+1[link]\n[trash]: Roba 3 cartas.",
+    "title": "Saltador Deportivo"
+  },
+  {
+    "code": "10065",
+    "flavor": "En estos días de navegación digital de simulación total y nanomontaje disponible en todas partes, hay que estar un poco loco para ir de compras de forma física. Pero hay millones de locos.",
+    "keywords": "Ubicación - Lujoso",
+    "text": "Siempre que instales un hardware desde tu Empuñadura, puedes instalar otra copia de ese hardware desde tu Empuñadura pagando todos los costes.",
+    "title": "Bazar"
+  },
+  {
+    "code": "10066",
+    "keywords": "Seguridad",
+    "text": "Siempre que el Runner busque en su Montón o instale una carta desde su pila, debe destruir una carta de su Empuñadura al azar.",
+    "title": "Perfiles de Personalidad"
+  },
+  {
+    "code": "10067",
+    "flavor": "\"Muy bien, señor.\"",
+    "keywords": "Alianza",
+    "text": "Esta carta cuesta 0 puntos de influencia si tienes 6 o más cartas [hass-bioroid] que no sean <strong>alianza</strong> en tu mazo.\nLa primera vez que gastes 3[click] en la misma acción en cada turno, gana [click].",
+    "title": "Bioroides Modelo Jeeves"
+  },
+  {
+    "code": "10068",
+    "keywords": "Alianza - Ejecutivo",
+    "text": "Esta carta cuesta 0 puntos de influencia si tienes 6 o más cartas [jinteki] que no sean <strong>alianza</strong> en tu mazo.\nUna vez por turno, puedes perder [click] cuando robes una carta. Si lo haces, revela esa carta y una carta de los Archivos del mismo tipo, y luego intercámbialas.",
+    "title": "Raman Rai"
+  },
+  {
+    "code": "10069",
+    "flavor": "\"Conecta dos verdades. Conecta dos programas. Todo es uno.\"",
+    "keywords": "Puerta de código - Psi",
+    "text": "[subroutine] El runner y tú gastáis en secreto 0[credit]. 1[credit] o 2[credit]. Revelad los créditos gastados. Si el Runner y tú habéis gastado una cantidad de créditos distina, el Runner pierde 2[credit].\n[subroutine] Resuelve una subrutina de un hielo <strong>psi</strong> ejecutado.",
+    "title": "Upayoga"
+  },
+  {
+    "code": "10070",
+    "flavor": "\"A medida que el mundo se hace más pequeño, las comunicaciones se convierten en la tecnología más esencia.\" -Ramesh Gupta, Una Economía Mundial",
+    "keywords": "Lujoso",
+    "text": "Siempre que haya un rastreo con éxito, gana 1[credit] y el Runner pierde 1[credit].",
+    "title": "Tecnología Aryabhata"
+  },
+  {
+    "code": "10071",
+    "keywords": "Alianza - Operaciones clandestinas",
+    "text": "Esta carta cuesta 0 puntos de influencia si tienes 6 o más cartas [nbn] que no sean <strong>alianza</strong> en tu mazo.\nNombra una carta. El Runner revela su Empuñadura y destruye todas las copias de la carta nombrada de su Empuñadura.",
+    "title": "Hospitalidad de Salem"
+  },
+  {
+    "code": "10072",
+    "keywords": "Alianza - Lujoso",
+    "text": "Esta carta cuesta 0 puntos de influencia si tienes 6 o más cartas [weyland-consortium] que no sean <strong>alianza</strong> en tu mazo.\n[click]: Busca en I+D un <strong>ejecutivo</strong>,<strong>sysop</strong> o <strong>personaje</strong>, revélalo y añádelo a la SC. Baraja I+D.",
+    "title": "Firma de Búsqueda de Ejecutivos"
+  },
+  {
+    "code": "10073",
+    "flavor": "\"La riqueza bien invertida es riqueza ganada.\" -El Nuevo Evangelio de la Riqueza",
+    "text": "Siempre que ejecutes o juegues una carta que no sea de tu facción (incluyendo Bolsa de Valores de la Unión India), gana 1[credit].",
+    "title": "Bolsa de Valores de la Unión India"
+  },
+  {
+    "code": "10074",
+    "flavor": "El naja naja es el rey de las serpientes.",
+    "keywords": "Centinela - Destructor - AP",
+    "text": "[subroutine] Destruye 1 programa.\n[subroutine] Inflige 2 puntos de daño de red.",
+    "title": "Cobra"
+  },
+  {
+    "code": "10075",
+    "flavor": "Es exactamente el mismo café, pero el precio es muy distinto.",
+    "text": "Busca en I+D cualquier cantidad de copias de una carta, revélalas y añádelas a la SC. Baraja I+D.",
+    "title": "Línea de Producción Localizada"
+  },
+  {
+    "code": "10076",
+    "keywords": "Alianza",
+    "text": "Esta carta cuesta 0 puntos de influencia si tienes 7 o más ventajas en tu mazo.\nSi el Runner accede a Visita Virtual de Mumbad mientras esté instalada, debe destruirla si es posible.",
+    "title": "Visita Virtual de Mumbad"
+  }
 ]

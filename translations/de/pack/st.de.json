@@ -1,132 +1,132 @@
 [
-    {
-        "code": "04021",
-        "keywords": "Caïssa",
-        "text": "[click]: Hoste Läufer auf einem Ice, auf dem aktuell kein anderes <strong>Caïssa</strong>-Programm gehostet ist. Falls Läufer bereits auf einem anderen Ice gehostet ist, kann das Programm nur wie folgt gehostet werden:\n- auf einem Ice, das ein zentrales System schützt, wenn der schon gehostete Läufer auf einem Ice eines ausgelagerten Servers gehostet ist.\n- auf einem Ice, das einen ausgelagerten Server schützt, wenn der schon gehostete Läufer auf einem Ice eines zentralen Systems gehostet ist.\nDas hostende Ice hat -2 Stärke.",
-        "title": "Läufer"
-    },
-    {
-        "code": "04022",
-        "flavor": "Die Installation von 1001 Programmen sichert dir einen Platz in der Rumeshalle für Hacker, oder würde es zumindest, wenn es sowas tatsächlich gäbe.",
-        "keywords": "Daemon",
-        "text": "Scheherazade kann eine beliebige Anzahl Programme hosten.\nImmer wenn du ein Programm auf Scheherazade installierst, erhältst du 1[credit].",
-        "title": "Scheherazade"
-    },
-    {
-        "code": "04023",
-        "flavor": "Noise entschied sich wieder zur Schule zu gehen. Er bewarb sich für Forschungsstipendien an den fünfzehn angesehensten Universitäten. Dann hackte er sich in ihre Systeme und gewährte sie sich. Zeit fürs Frühstück.",
-        "text": "Wenn dein Zug beginnt, erhältst du 2[credit] und verlierst [click].",
-        "title": "Schwer bei der Arbeit"
-    },
-    {
-        "code": "04024",
-        "flavor": "Wie in der realen Welt ist es manchmal am Besten einen Klon für die Drecksarbeit vorzuschicken.",
-        "keywords": "Run",
-        "text": "Füre einen Run durch. Du kannst dich ausstöpseln, sobald du auf das erste Ice triffst.",
-        "title": "Aufklärung"
-    },
-    {
-        "code": "04025",
-        "flavor": "Man sollt die Trittbrettfahrer-Option nur sehr vorsichtig einsetzen, wenn man nicht am falschen Ende vom Cyberspace landen will.",
-        "text": "Immer, wenn du an einem Ice vorbeikommst, kannst du Trittbrettfahrer zerstören. Falls du das tust, wähle eine andere geladene Kopie dieses Ice, die ein beliebiges System schützt. Der Run wird fortgesetzt, als ob du gerade an dem gewählten Ice vorbeigekommen wärst (du führst den Run jetzt von der neuen Position aus durch).",
-        "title": "Trittbrettfahrer"
-    },
-    {
-        "code": "04026",
-        "flavor": "Er ist höllisch effizient, und wir sprechen da von \"effizient\" im wirklich großen Stil. Der Wal-Avatar ist entweder ein nettes Extra oder eine tragische Fehlnutzung der Arbeitszeit der Programmierer, abhängig davon, wen man fragt.\n -BT's Anleitung zum Ice-brechen",
-        "keywords": "Ice-Brecher - Decoder",
-        "text": "3[credit]: Schalte bis zu 3 Subroutinen eines <strong>Code-Zugangs</strong> aus.\n3[credit]: +5 Stärke.",
-        "title": "Leviathan"
-    },
-    {
-        "code": "04027",
-        "flavor": "\"Ich habe eine Überraschung für dich.\"",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis, zahle [click].\nDecke die oberste Karte deines Stapels auf. Wenn diese Karte installierbar ist, kannst du sie mit um bis zu 10[credit] gesenkten Kosten installieren. Wenn du sie nicht installieren kannst oder willst, zerstöre diese Karte.",
-        "title": "Heureka!"
-    },
-    {
-        "code": "04028",
-        "flavor": "\"Warum werden Daten gelöscht? Vielleicht wollen sie nicht, dass man sie findet. Oder vielleicht sind sie einfach nutzlos. Was du wirklich willst, sind die nutzlosen Daten.\" - Der Professor",
-        "text": "Immer wenn du einen erfolgreichen Run aufs Archiv durchführst, kannst du, statt auf Karten zuzugreifen, 1 aufgedeckte Karte im Archiv wählen und oben zu F&E hinzufügen.",
-        "title": "Datenrettung"
-    },
-    {
-        "code": "04029",
-        "flavor": "Ein StimmPAD ist ein persönliches Zugriffsgerät, dem die meisten Funktionen fehlen. Eigentlich kann man samit nur Anrufe erledigen und seine Kontakte organisieren. Der einzige Grund dafür, eines zu haben, ist die Ananymität - natürlich ist das für eine bestimmte Art von personen Grund genug.",
-        "keywords": "Ausstattung",
-        "text": "1[recurring-credit]\nVerwende diesen Credit, um Ereignisse zu spielen.",
-        "title": "Prepaid StimmPAD"
-    },
-    {
-        "code": "04030",
-        "keywords": "Barriere - Bioroid",
-        "text": "[subroutine] Beende den Run, falls der Runner nicht [click][click] zahlt.\n[subroutine] Beende den Run, falls der Runner nicht 3[credit] zahlt.\n[subroutine] Beende den Run, falls der Runner nicht ein installiertes Programm zerstört.\n[subroutine] Beende den Run, falls der Runner nicht 1 Hirn-Schaden nimmt.",
-        "title": "Wotan"
-    },
-    {
-        "code": "04031",
-        "keywords": "Schwarze Ops",
-        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug eine Ressource installiert hat.\n<trace>Aufspüren 2</trace> Bei Erfolg füge 1 installierte Ressource oben dem Stapel des Runners hinzu. Bei Misserfolg erhältst du 1 negative Publicity.",
-        "title": "Hellion Alpha-Test"
-    },
-    {
-        "code": "04032",
-        "flavor": "\"Sie nennen es 'Ruhestand'. Ich nenne es 'Euthanasie'.\" -Ken \"Express\" Tenma",
-        "keywords": "Initiative",
-        "text": "Wenn du die Punkte für Klon-Ruhestand erzielst, kannst du 1 negative Publicity entfernen.\nWenn der Runner Klon-Ruhestand stiehlt, erhält der Kon 1 negative Publicity.",
-        "title": "Klon-Ruhestand"
-    },
-    {
-        "code": "04033",
-        "flavor": "Ein Programm zu schreiben, das den Turing-Test besteht, ist einfach. Der Gibso-Akamatsu-Test setzt die Schwelle schon höher an und die einzigen Kis, die bisher damit klarkommen, waren die Androiden. Selbst einige Menschen sollen schon durchgefallen sein.",
-        "keywords": "Wächter - Zerstörer - AP",
-        "text": "Der Runner kann keine <strong>KI</strong>-Programme verwenden, um Subroutinen auf Schwertkämpfer auszuschalten.\n[subroutine] Zerstöre 1 <strong>KI</strong>-Programm.\n[subroutine] Verursache 1 Netz-Schaden.",
-        "title": "Schwertkämpfer"
-    },
-    {
-        "code": "04034",
-        "flavor": "Er quittierte den Empfang mit vor Vorfreude zitternden Händen.",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nLege bis zu 2 Entwicklungsmarker auf eine Karte, die entwickelt werden kann.",
-        "title": "Lieferung aus SanSan"
-    },
-    {
-        "code": "04035",
-        "keywords": "Wächter - Spürhund - Illegal",
-        "text": "Wenn du Skandalreporter lädst, erhälst du 1 negative Publicity.\n[subroutine] <trace>Aufspüren 1</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine] <trace>Aufspüren 2</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine] <trace>Aufspüren 3</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine] Beende den Run, falls der Runner markiert ist.",
-        "title": "Skandalreporter"
-    },
-    {
-        "code": "04036",
-        "flavor": "\"Ich setze immer Bioroiden ein, weil ich ihr Gedächtnis löschen oder ihnen einfach das Hirn wegpusten kann, wenn der Job erledigt ist. Keine Zeugen heißt halt keine Zeugen.\"",
-        "keywords": "Sicherheit",
-        "text": "Immer, wenn du Körper-Schaden verursacht, verursache 1 zusätzlichen Körper-Schaden.",
-        "title": "Die Cleaner"
-    },
-    {
-        "code": "04037",
-        "flavor": "\"Nimms nicht persönlich. Urbane Erneuerung ist in der modernen Welt umumgänglich. Es ist das Zuhause von irgend jemanden und dass es deins ist, macht keinen Unterschied.\"",
-        "keywords": "Führungskraft",
-        "text": "Wenn due Elizabeth Mills lädst, entferne 1 negative Publicity.\n[click], [trash]: Zerstöre 1 <strong>Ort</strong>. Du erhältst 1 negative Publicity.",
-        "title": "Elizabeth Mills"
-    },
-    {
-        "code": "04038",
-        "text": "Kann nur auf einem ausgelagerten System installiert werden.\nDer Runner kann keinen Run auf dieses System starten.\nImmer, wenn der Runner einen erfolgreiche Run aufs HQ durchführt, zerstöre Vom Netz genommen.",
-        "title": "Vom Netz genommen"
-    },
-    {
-        "code": "04039",
-        "flavor": "Es war verblüffend einfach, Credits zu verdienen...\nSolange einem egal war, wie man sie verdiente.",
-        "text": "Wenn du die Punkte für Preistreiberei erzielst, erhältst du bis zu 3 negative Publicity. Du erhältst 5[credit] für jede so erhaltenen Negative Publicity.",
-        "title": "Preistreiberei"
-    },
-    {
-        "code": "04040",
-        "flavor": "Es gibt viele Begriffe für die Mitarbeiter der Verwaltungsabteilung. Aber wenn du deinen Job magst, sprichst du sie einfach mit „Sir“ oder „Ma'am“ an.",
-        "keywords": "Transaktion",
-        "text": "Erhalte 15[credit].",
-        "title": "Umstrukturierung"
-    }
+  {
+    "code": "04021",
+    "keywords": "Caïssa",
+    "text": "[click]: Hoste Läufer auf einem Ice, auf dem aktuell kein anderes <strong>Caïssa</strong>-Programm gehostet ist. Falls Läufer bereits auf einem anderen Ice gehostet ist, kann das Programm nur wie folgt gehostet werden:\n- auf einem Ice, das ein zentrales System schützt, wenn der schon gehostete Läufer auf einem Ice eines ausgelagerten Servers gehostet ist.\n- auf einem Ice, das einen ausgelagerten Server schützt, wenn der schon gehostete Läufer auf einem Ice eines zentralen Systems gehostet ist.\nDas hostende Ice hat -2 Stärke.",
+    "title": "Läufer"
+  },
+  {
+    "code": "04022",
+    "flavor": "Die Installation von 1001 Programmen sichert dir einen Platz in der Rumeshalle für Hacker, oder würde es zumindest, wenn es sowas tatsächlich gäbe.",
+    "keywords": "Daemon",
+    "text": "Scheherazade kann eine beliebige Anzahl Programme hosten.\nImmer wenn du ein Programm auf Scheherazade installierst, erhältst du 1[credit].",
+    "title": "Scheherazade"
+  },
+  {
+    "code": "04023",
+    "flavor": "Noise entschied sich wieder zur Schule zu gehen. Er bewarb sich für Forschungsstipendien an den fünfzehn angesehensten Universitäten. Dann hackte er sich in ihre Systeme und gewährte sie sich. Zeit fürs Frühstück.",
+    "text": "Wenn dein Zug beginnt, erhältst du 2[credit] und verlierst [click].",
+    "title": "Schwer bei der Arbeit"
+  },
+  {
+    "code": "04024",
+    "flavor": "Wie in der realen Welt ist es manchmal am Besten einen Klon für die Drecksarbeit vorzuschicken.",
+    "keywords": "Run",
+    "text": "Füre einen Run durch. Du kannst dich ausstöpseln, sobald du auf das erste Ice triffst.",
+    "title": "Aufklärung"
+  },
+  {
+    "code": "04025",
+    "flavor": "Man sollt die Trittbrettfahrer-Option nur sehr vorsichtig einsetzen, wenn man nicht am falschen Ende vom Cyberspace landen will.",
+    "text": "Immer, wenn du an einem Ice vorbeikommst, kannst du Trittbrettfahrer zerstören. Falls du das tust, wähle eine andere geladene Kopie dieses Ice, die ein beliebiges System schützt. Der Run wird fortgesetzt, als ob du gerade an dem gewählten Ice vorbeigekommen wärst (du führst den Run jetzt von der neuen Position aus durch).",
+    "title": "Trittbrettfahrer"
+  },
+  {
+    "code": "04026",
+    "flavor": "Er ist höllisch effizient, und wir sprechen da von \"effizient\" im wirklich großen Stil. Der Wal-Avatar ist entweder ein nettes Extra oder eine tragische Fehlnutzung der Arbeitszeit der Programmierer, abhängig davon, wen man fragt.\n -BT's Anleitung zum Ice-brechen",
+    "keywords": "Ice-Brecher - Decoder",
+    "text": "3[credit]: Schalte bis zu 3 Subroutinen eines <strong>Code-Zugangs</strong> aus.\n3[credit]: +5 Stärke.",
+    "title": "Leviathan"
+  },
+  {
+    "code": "04027",
+    "flavor": "\"Ich habe eine Überraschung für dich.\"",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis, zahle [click].\nDecke die oberste Karte deines Stapels auf. Wenn diese Karte installierbar ist, kannst du sie mit um bis zu 10[credit] gesenkten Kosten installieren. Wenn du sie nicht installieren kannst oder willst, zerstöre diese Karte.",
+    "title": "Heureka!"
+  },
+  {
+    "code": "04028",
+    "flavor": "\"Warum werden Daten gelöscht? Vielleicht wollen sie nicht, dass man sie findet. Oder vielleicht sind sie einfach nutzlos. Was du wirklich willst, sind die nutzlosen Daten.\" - Der Professor",
+    "text": "Immer wenn du einen erfolgreichen Run aufs Archiv durchführst, kannst du, statt auf Karten zuzugreifen, 1 aufgedeckte Karte im Archiv wählen und oben zu F&E hinzufügen.",
+    "title": "Datenrettung"
+  },
+  {
+    "code": "04029",
+    "flavor": "Ein StimmPAD ist ein persönliches Zugriffsgerät, dem die meisten Funktionen fehlen. Eigentlich kann man samit nur Anrufe erledigen und seine Kontakte organisieren. Der einzige Grund dafür, eines zu haben, ist die Ananymität - natürlich ist das für eine bestimmte Art von personen Grund genug.",
+    "keywords": "Ausstattung",
+    "text": "1[recurring-credit]\nVerwende diesen Credit, um Ereignisse zu spielen.",
+    "title": "Prepaid StimmPAD"
+  },
+  {
+    "code": "04030",
+    "keywords": "Barriere - Bioroid",
+    "text": "[subroutine] Beende den Run, falls der Runner nicht [click][click] zahlt.\n[subroutine] Beende den Run, falls der Runner nicht 3[credit] zahlt.\n[subroutine] Beende den Run, falls der Runner nicht ein installiertes Programm zerstört.\n[subroutine] Beende den Run, falls der Runner nicht 1 Hirn-Schaden nimmt.",
+    "title": "Wotan"
+  },
+  {
+    "code": "04031",
+    "keywords": "Schwarze Ops",
+    "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug eine Ressource installiert hat.\n<trace>Aufspüren 2</trace> Bei Erfolg füge 1 installierte Ressource oben dem Stapel des Runners hinzu. Bei Misserfolg erhältst du 1 negative Publicity.",
+    "title": "Hellion Alpha-Test"
+  },
+  {
+    "code": "04032",
+    "flavor": "\"Sie nennen es 'Ruhestand'. Ich nenne es 'Euthanasie'.\" -Ken \"Express\" Tenma",
+    "keywords": "Initiative",
+    "text": "Wenn du die Punkte für Klon-Ruhestand erzielst, kannst du 1 negative Publicity entfernen.\nWenn der Runner Klon-Ruhestand stiehlt, erhält der Kon 1 negative Publicity.",
+    "title": "Klon-Ruhestand"
+  },
+  {
+    "code": "04033",
+    "flavor": "Ein Programm zu schreiben, das den Turing-Test besteht, ist einfach. Der Gibso-Akamatsu-Test setzt die Schwelle schon höher an und die einzigen Kis, die bisher damit klarkommen, waren die Androiden. Selbst einige Menschen sollen schon durchgefallen sein.",
+    "keywords": "Wächter - Zerstörer - AP",
+    "text": "Der Runner kann keine <strong>KI</strong>-Programme verwenden, um Subroutinen auf Schwertkämpfer auszuschalten.\n[subroutine] Zerstöre 1 <strong>KI</strong>-Programm.\n[subroutine] Verursache 1 Netz-Schaden.",
+    "title": "Schwertkämpfer"
+  },
+  {
+    "code": "04034",
+    "flavor": "Er quittierte den Empfang mit vor Vorfreude zitternden Händen.",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nLege bis zu 2 Entwicklungsmarker auf eine Karte, die entwickelt werden kann.",
+    "title": "Lieferung aus SanSan"
+  },
+  {
+    "code": "04035",
+    "keywords": "Wächter - Spürhund - Illegal",
+    "text": "Wenn du Skandalreporter lädst, erhälst du 1 negative Publicity.\n[subroutine] <trace>Aufspüren 1</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine] <trace>Aufspüren 2</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine] <trace>Aufspüren 3</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine] Beende den Run, falls der Runner markiert ist.",
+    "title": "Skandalreporter"
+  },
+  {
+    "code": "04036",
+    "flavor": "\"Ich setze immer Bioroiden ein, weil ich ihr Gedächtnis löschen oder ihnen einfach das Hirn wegpusten kann, wenn der Job erledigt ist. Keine Zeugen heißt halt keine Zeugen.\"",
+    "keywords": "Sicherheit",
+    "text": "Immer, wenn du Körper-Schaden verursacht, verursache 1 zusätzlichen Körper-Schaden.",
+    "title": "Die Cleaner"
+  },
+  {
+    "code": "04037",
+    "flavor": "\"Nimms nicht persönlich. Urbane Erneuerung ist in der modernen Welt umumgänglich. Es ist das Zuhause von irgend jemanden und dass es deins ist, macht keinen Unterschied.\"",
+    "keywords": "Führungskraft",
+    "text": "Wenn due Elizabeth Mills lädst, entferne 1 negative Publicity.\n[click], [trash]: Zerstöre 1 <strong>Ort</strong>. Du erhältst 1 negative Publicity.",
+    "title": "Elizabeth Mills"
+  },
+  {
+    "code": "04038",
+    "text": "Kann nur auf einem ausgelagerten System installiert werden.\nDer Runner kann keinen Run auf dieses System starten.\nImmer, wenn der Runner einen erfolgreiche Run aufs HQ durchführt, zerstöre Vom Netz genommen.",
+    "title": "Vom Netz genommen"
+  },
+  {
+    "code": "04039",
+    "flavor": "Es war verblüffend einfach, Credits zu verdienen...\nSolange einem egal war, wie man sie verdiente.",
+    "text": "Wenn du die Punkte für Preistreiberei erzielst, erhältst du bis zu 3 negative Publicity. Du erhältst 5[credit] für jede so erhaltenen Negative Publicity.",
+    "title": "Preistreiberei"
+  },
+  {
+    "code": "04040",
+    "flavor": "Es gibt viele Begriffe für die Mitarbeiter der Verwaltungsabteilung. Aber wenn du deinen Job magst, sprichst du sie einfach mit „Sir“ oder „Ma'am“ an.",
+    "keywords": "Transaktion",
+    "text": "Erhalte 15[credit].",
+    "title": "Umstrukturierung"
+  }
 ]

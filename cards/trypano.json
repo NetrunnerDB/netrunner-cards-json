@@ -1,18 +1,16 @@
 {
-    "card_type_id": "program",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "trypano",
-    "influence_cost": 3,
-    "is_unique": false,
-    "memory_cost": 1,
-    "side_id": "runner",
-    "stripped_text": "Install Trypano only on a piece of ice. When Trypano has 5 or more virus counters on it, trash host ice. When your turn begins, you may place 1 virus counter on Trypano.",
-    "stripped_title": "Trypano",
-    "subtypes": [
-        "virus"
-    ],
-    "text": "Install Trypano only on a piece of ice.\nWhen Trypano has 5 or more virus counters on it, trash host ice.\nWhen your turn begins, you may place 1 virus counter on Trypano.",
-    "title": "Trypano"
+  "card_type_id": "program",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "trypano",
+  "influence_cost": 3,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "Install Trypano only on a piece of ice. When Trypano has 5 or more virus counters on it, trash host ice. When your turn begins, you may place 1 virus counter on Trypano.",
+  "stripped_title": "Trypano",
+  "subtypes": ["virus"],
+  "text": "Install Trypano only on a piece of ice.\nWhen Trypano has 5 or more virus counters on it, trash host ice.\nWhen your turn begins, you may place 1 virus counter on Trypano.",
+  "title": "Trypano"
 }

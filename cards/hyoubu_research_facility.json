@@ -1,18 +1,16 @@
 {
-    "card_type_id": "asset",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "hyoubu_research_facility",
-    "influence_cost": 3,
-    "is_unique": true,
-    "side_id": "corp",
-    "stripped_text": "The first time each turn you reveal secretly spent credits, gain that many credits.",
-    "stripped_title": "Hyoubu Research Facility",
-    "subtypes": [
-        "facility"
-    ],
-    "text": "The first time each turn you reveal secretly spent credits, gain that many credits.",
-    "title": "Hyoubu Research Facility",
-    "trash_cost": 4
+  "card_type_id": "asset",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "hyoubu_research_facility",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "The first time each turn you reveal secretly spent credits, gain that many credits.",
+  "stripped_title": "Hyoubu Research Facility",
+  "subtypes": ["facility"],
+  "text": "The first time each turn you reveal secretly spent credits, gain that many credits.",
+  "title": "Hyoubu Research Facility",
+  "trash_cost": 4
 }

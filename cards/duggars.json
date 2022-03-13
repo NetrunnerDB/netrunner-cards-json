@@ -1,18 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "duggars",
-    "influence_cost": 4,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "click,click,click,click: Draw 10 cards.",
-    "stripped_title": "Duggar's",
-    "subtypes": [
-        "location",
-        "seedy"
-    ],
-    "text": "[click],[click],[click],[click]: Draw 10 cards.",
-    "title": "Duggar's"
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "duggars",
+  "influence_cost": 4,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "click,click,click,click: Draw 10 cards.",
+  "stripped_title": "Duggar's",
+  "subtypes": ["location", "seedy"],
+  "text": "[click],[click],[click],[click]: Draw 10 cards.",
+  "title": "Duggar's"
 }

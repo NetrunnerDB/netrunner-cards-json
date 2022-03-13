@@ -1,17 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "criminal",
-    "id": "grifter",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "When your turn ends, gain 1 credit if you made a successful run this turn; otherwise, trash Grifter.",
-    "stripped_title": "Grifter",
-    "subtypes": [
-        "virtual"
-    ],
-    "text": "When your turn ends, gain 1[credit] if you made a successful run this turn; otherwise, trash Grifter.",
-    "title": "Grifter"
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "grifter",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "When your turn ends, gain 1 credit if you made a successful run this turn; otherwise, trash Grifter.",
+  "stripped_title": "Grifter",
+  "subtypes": ["virtual"],
+  "text": "When your turn ends, gain 1[credit] if you made a successful run this turn; otherwise, trash Grifter.",
+  "title": "Grifter"
 }

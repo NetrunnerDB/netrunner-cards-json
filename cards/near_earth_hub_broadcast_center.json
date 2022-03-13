@@ -1,17 +1,15 @@
 {
-    "card_type_id": "identity",
-    "deck_limit": 1,
-    "faction_id": "nbn",
-    "id": "near_earth_hub_broadcast_center",
-    "influence_limit": 17,
-    "is_unique": false,
-    "minimum_deck_size": 45,
-    "side_id": "corp",
-    "stripped_text": "The first time each turn you create a remote server, draw 1 card.",
-    "stripped_title": "Near-Earth Hub: Broadcast Center",
-    "subtypes": [
-        "division"
-    ],
-    "text": "The first time each turn you create a remote server, draw 1 card.",
-    "title": "Near-Earth Hub: Broadcast Center"
+  "card_type_id": "identity",
+  "deck_limit": 1,
+  "faction_id": "nbn",
+  "id": "near_earth_hub_broadcast_center",
+  "influence_limit": 17,
+  "is_unique": false,
+  "minimum_deck_size": 45,
+  "side_id": "corp",
+  "stripped_text": "The first time each turn you create a remote server, draw 1 card.",
+  "stripped_title": "Near-Earth Hub: Broadcast Center",
+  "subtypes": ["division"],
+  "text": "The first time each turn you create a remote server, draw 1 card.",
+  "title": "Near-Earth Hub: Broadcast Center"
 }

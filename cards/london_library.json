@@ -1,17 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "shaper",
-    "id": "london_library",
-    "influence_cost": 2,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "Trash all programs hosted on London Library when your turn ends. click: Install a non-virus program from your grip on London Library, ignoring the install cost. click: Add a program on London Library to your grip.",
-    "stripped_title": "London Library",
-    "subtypes": [
-        "location"
-    ],
-    "text": "Trash all programs hosted on London Library when your turn ends.\n[click]: Install a non-<strong>virus</strong> program from your grip on London Library, ignoring the install cost.\n[click]: Add a program on London Library to your grip.",
-    "title": "London Library"
+  "card_type_id": "resource",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "london_library",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "Trash all programs hosted on London Library when your turn ends. click: Install a non-virus program from your grip on London Library, ignoring the install cost. click: Add a program on London Library to your grip.",
+  "stripped_title": "London Library",
+  "subtypes": ["location"],
+  "text": "Trash all programs hosted on London Library when your turn ends.\n[click]: Install a non-<strong>virus</strong> program from your grip on London Library, ignoring the install cost.\n[click]: Add a program on London Library to your grip.",
+  "title": "London Library"
 }

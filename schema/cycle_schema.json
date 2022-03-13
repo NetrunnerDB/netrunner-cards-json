@@ -1,34 +1,28 @@
 {
-    "$id": "https://github.com/Alsciende/netrunner-cards-json/blob/master/schema/cycle_schema.json",
-    "$schema": "http://json-schema.org/draft-04/schema#",
-    "additionalProperties": false,
-    "properties": {
-        "code": {
-            "minLength": 1,
-            "type": "string"
-        },
-        "name": {
-            "minLength": 1,
-            "type": "string"
-        },
-        "position": {
-            "minimum": 0,
-            "type": "integer"
-        },
-        "rotated": {
-            "type": "boolean"
-        },
-        "size": {
-            "minimum": 1,
-            "type": "integer"
-        }
+  "$id": "https://github.com/Alsciende/netrunner-cards-json/blob/master/schema/cycle_schema.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "additionalProperties": false,
+  "properties": {
+    "code": {
+      "minLength": 1,
+      "type": "string"
     },
-    "required": [
-        "code",
-        "name",
-        "position",
-        "size",
-        "rotated"
-    ],
-    "type": "object"
+    "name": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "position": {
+      "minimum": 0,
+      "type": "integer"
+    },
+    "rotated": {
+      "type": "boolean"
+    },
+    "size": {
+      "minimum": 1,
+      "type": "integer"
+    }
+  },
+  "required": ["code", "name", "position", "size", "rotated"],
+  "type": "object"
 }

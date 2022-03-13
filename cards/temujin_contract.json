@@ -1,17 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 4,
-    "deck_limit": 3,
-    "faction_id": "criminal",
-    "id": "temujin_contract",
-    "influence_cost": 2,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "Choose a server and place 20 credits from the bank on Temujin Contract when you install it. When there are no credits left on Temujin Contract, trash it. Whenever you make a successful run on the chosen server, take 4 credits from Temujin Contract.",
-    "stripped_title": "Temujin Contract",
-    "subtypes": [
-        "job"
-    ],
-    "text": "Choose a server and place 20[credit] from the bank on Temüjin Contract when you install it. When there are no credits left on Temüjin Contract, trash it.\nWhenever you make a successful run on the chosen server, take 4[credit] from Temüjin Contract.",
-    "title": "Temüjin Contract"
+  "card_type_id": "resource",
+  "cost": 4,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "temujin_contract",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "Choose a server and place 20 credits from the bank on Temujin Contract when you install it. When there are no credits left on Temujin Contract, trash it. Whenever you make a successful run on the chosen server, take 4 credits from Temujin Contract.",
+  "stripped_title": "Temujin Contract",
+  "subtypes": ["job"],
+  "text": "Choose a server and place 20[credit] from the bank on Temüjin Contract when you install it. When there are no credits left on Temüjin Contract, trash it.\nWhenever you make a successful run on the chosen server, take 4[credit] from Temüjin Contract.",
+  "title": "Temüjin Contract"
 }

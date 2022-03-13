@@ -1,20 +1,17 @@
 {
-    "card_type_id": "program",
-    "cost": 6,
-    "deck_limit": 3,
-    "faction_id": "shaper",
-    "id": "inversificator",
-    "influence_cost": 3,
-    "is_unique": false,
-    "memory_cost": 1,
-    "side_id": "runner",
-    "strength": 2,
-    "stripped_text": "The first time each turn you pass a piece of ice after an encounter during which this program fully broke that ice, you may swap it with another installed piece of ice. Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength.",
-    "stripped_title": "Inversificator",
-    "subtypes": [
-        "icebreaker",
-        "decoder"
-    ],
-    "text": "The first time each turn you pass a piece of ice after an encounter during which this program fully broke that ice, you may swap it with another installed piece of ice.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
-    "title": "Inversificator"
+  "card_type_id": "program",
+  "cost": 6,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "inversificator",
+  "influence_cost": 3,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 2,
+  "stripped_text": "The first time each turn you pass a piece of ice after an encounter during which this program fully broke that ice, you may swap it with another installed piece of ice. Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength.",
+  "stripped_title": "Inversificator",
+  "subtypes": ["icebreaker", "decoder"],
+  "text": "The first time each turn you pass a piece of ice after an encounter during which this program fully broke that ice, you may swap it with another installed piece of ice.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
+  "title": "Inversificator"
 }

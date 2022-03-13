@@ -1,18 +1,16 @@
 {
-    "card_type_id": "asset",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "shannon_claire",
-    "influence_cost": 2,
-    "is_unique": true,
-    "side_id": "corp",
-    "stripped_text": "click: Draw 1 card from the bottom of R&D. trash: Search R&D or Archives for an agenda and reveal it. Shuffle the rest of R&D if you searched it. Add the agenda to the bottom of R&D.",
-    "stripped_title": "Shannon Claire",
-    "subtypes": [
-        "character"
-    ],
-    "text": "[click]: Draw 1 card from the bottom of R&D.\n[trash]: Search R&D or Archives for an agenda and reveal it. Shuffle the rest of R&D if you searched it. Add the agenda to the bottom of R&D.",
-    "title": "Shannon Claire",
-    "trash_cost": 3
+  "card_type_id": "asset",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "shannon_claire",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "click: Draw 1 card from the bottom of R&D. trash: Search R&D or Archives for an agenda and reveal it. Shuffle the rest of R&D if you searched it. Add the agenda to the bottom of R&D.",
+  "stripped_title": "Shannon Claire",
+  "subtypes": ["character"],
+  "text": "[click]: Draw 1 card from the bottom of R&D.\n[trash]: Search R&D or Archives for an agenda and reveal it. Shuffle the rest of R&D if you searched it. Add the agenda to the bottom of R&D.",
+  "title": "Shannon Claire",
+  "trash_cost": 3
 }

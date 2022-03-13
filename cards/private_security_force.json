@@ -1,18 +1,16 @@
 {
-    "advancement_requirement": 4,
-    "agenda_points": 2,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "neutral-corp",
-    "id": "private_security_force",
-    "influence_cost": 0,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "If the Runner is tagged, Private Security Force gains: \"click: Do 1 meat damage.\"",
-    "stripped_title": "Private Security Force",
-    "subtypes": [
-        "security"
-    ],
-    "text": "If the Runner is tagged, Private Security Force gains: \"[click]: Do 1 meat damage.\"",
-    "title": "Private Security Force"
+  "advancement_requirement": 4,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "private_security_force",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "If the Runner is tagged, Private Security Force gains: \"click: Do 1 meat damage.\"",
+  "stripped_title": "Private Security Force",
+  "subtypes": ["security"],
+  "text": "If the Runner is tagged, Private Security Force gains: \"[click]: Do 1 meat damage.\"",
+  "title": "Private Security Force"
 }

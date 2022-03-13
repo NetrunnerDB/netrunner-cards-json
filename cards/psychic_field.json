@@ -1,19 +1,16 @@
 {
-    "card_type_id": "asset",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "psychic_field",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "If the Runner exposes or accesses Psychic Field while installed, you and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, do 1 net damage for each card in the Runner's grip.",
-    "stripped_title": "Psychic Field",
-    "subtypes": [
-        "ambush",
-        "psi"
-    ],
-    "text": "If the Runner exposes or accesses Psychic Field while installed, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, do 1 net damage for each card in the Runner's grip.",
-    "title": "Psychic Field",
-    "trash_cost": 2
+  "card_type_id": "asset",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "psychic_field",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "If the Runner exposes or accesses Psychic Field while installed, you and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, do 1 net damage for each card in the Runner's grip.",
+  "stripped_title": "Psychic Field",
+  "subtypes": ["ambush", "psi"],
+  "text": "If the Runner exposes or accesses Psychic Field while installed, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, do 1 net damage for each card in the Runner's grip.",
+  "title": "Psychic Field",
+  "trash_cost": 2
 }

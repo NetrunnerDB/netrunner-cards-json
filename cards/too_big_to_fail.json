@@ -1,19 +1,16 @@
 {
-    "card_type_id": "operation",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "too_big_to_fail",
-    "influence_cost": 4,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Play only if you have fewer than 10 credits. Gain 7 credits and take 1 bad publicity.",
-    "stripped_title": "Too Big to Fail",
-    "subtypes": [
-        "transaction",
-        "illicit"
-    ],
-    "text": "Play only if you have fewer than 10[credit].\nGain 7[credit] and take 1 bad publicity.",
-    "title": "Too Big to Fail",
-    "trash_cost": 5
+  "card_type_id": "operation",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "too_big_to_fail",
+  "influence_cost": 4,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Play only if you have fewer than 10 credits. Gain 7 credits and take 1 bad publicity.",
+  "stripped_title": "Too Big to Fail",
+  "subtypes": ["transaction", "illicit"],
+  "text": "Play only if you have fewer than 10[credit].\nGain 7[credit] and take 1 bad publicity.",
+  "title": "Too Big to Fail",
+  "trash_cost": 5
 }

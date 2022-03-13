@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 3,
-    "agenda_points": 1,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "ancestral_imager",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Whenever the Runner jacks out, do 1 net damage.",
-    "stripped_title": "Ancestral Imager",
-    "subtypes": [
-        "security"
-    ],
-    "text": "Whenever the Runner jacks out, do 1 net damage.",
-    "title": "Ancestral Imager"
+  "advancement_requirement": 3,
+  "agenda_points": 1,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "ancestral_imager",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Whenever the Runner jacks out, do 1 net damage.",
+  "stripped_title": "Ancestral Imager",
+  "subtypes": ["security"],
+  "text": "Whenever the Runner jacks out, do 1 net damage.",
+  "title": "Ancestral Imager"
 }

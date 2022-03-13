@@ -1,21 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 6,
-    "deck_limit": 3,
-    "faction_id": "haas-bioroid",
-    "id": "zed_2_0",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 4,
-    "stripped_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed piece of hardware. Subroutine Trash 1 installed piece of hardware. Subroutine If the Runner has lost a click to break a subroutine during this run, do 2 brain damage.",
-    "stripped_title": "Zed 2.0",
-    "subtypes": [
-        "sentry",
-        "bioroid",
-        "ap",
-        "destroyer"
-    ],
-    "text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed piece of hardware.\n[subroutine] Trash 1 installed piece of hardware.\n[subroutine] If the Runner has lost a [click] to break a subroutine during this run, do 2 brain damage.",
-    "title": "Zed 2.0"
+  "card_type_id": "ice",
+  "cost": 6,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "zed_2_0",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed piece of hardware. Subroutine Trash 1 installed piece of hardware. Subroutine If the Runner has lost a click to break a subroutine during this run, do 2 brain damage.",
+  "stripped_title": "Zed 2.0",
+  "subtypes": ["sentry", "bioroid", "ap", "destroyer"],
+  "text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed piece of hardware.\n[subroutine] Trash 1 installed piece of hardware.\n[subroutine] If the Runner has lost a [click] to break a subroutine during this run, do 2 brain damage.",
+  "title": "Zed 2.0"
 }

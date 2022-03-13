@@ -1,17 +1,15 @@
 {
-    "card_type_id": "event",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "criminal",
-    "id": "leave_no_trace",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "Make a run. When the run ends, derez all ice that was rezzed during this run.",
-    "stripped_title": "Leave No Trace",
-    "subtypes": [
-        "run"
-    ],
-    "text": "Make a run. When the run ends, derez all ice that was rezzed during this run.",
-    "title": "Leave No Trace"
+  "card_type_id": "event",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "leave_no_trace",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Make a run. When the run ends, derez all ice that was rezzed during this run.",
+  "stripped_title": "Leave No Trace",
+  "subtypes": ["run"],
+  "text": "Make a run. When the run ends, derez all ice that was rezzed during this run.",
+  "title": "Leave No Trace"
 }

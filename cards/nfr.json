@@ -1,20 +1,17 @@
 {
-    "card_type_id": "program",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "nfr",
-    "influence_cost": 3,
-    "is_unique": false,
-    "memory_cost": 1,
-    "side_id": "runner",
-    "strength": 1,
-    "stripped_text": "Whenever this program fully breaks a piece of ice, place 1 power counter on this program. This program gets +1 strength for each power counter on it. Interface -> 1 credit: Break 1 barrier subroutine.",
-    "stripped_title": "Nfr",
-    "subtypes": [
-        "icebreaker",
-        "fracter"
-    ],
-    "text": "Whenever this program fully breaks a piece of ice, place 1 power counter on this program.\nThis program gets +1 strength for each power counter on it.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.",
-    "title": "Nfr"
+  "card_type_id": "program",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "nfr",
+  "influence_cost": 3,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 1,
+  "stripped_text": "Whenever this program fully breaks a piece of ice, place 1 power counter on this program. This program gets +1 strength for each power counter on it. Interface -> 1 credit: Break 1 barrier subroutine.",
+  "stripped_title": "Nfr",
+  "subtypes": ["icebreaker", "fracter"],
+  "text": "Whenever this program fully breaks a piece of ice, place 1 power counter on this program.\nThis program gets +1 strength for each power counter on it.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.",
+  "title": "Nfr"
 }

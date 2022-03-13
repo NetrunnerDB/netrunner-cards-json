@@ -1,18 +1,16 @@
 {
-    "card_type_id": "upgrade",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "cayambe_grid",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When your turn begins, place 1 advancement token on a piece of ice protecting this server. Whenever the Runner approaches this server, end the run unless they pay 2 credits for each advanced piece of ice protecting this server. Limit 1 region per server.",
-    "stripped_title": "Cayambe Grid",
-    "subtypes": [
-        "region"
-    ],
-    "text": "When your turn begins, place 1 advancement token on a piece of ice protecting this server.\nWhenever the Runner approaches this server, end the run unless they pay 2[credit] for each advanced piece of ice protecting this server.\nLimit 1 <strong>region</strong> per server.",
-    "title": "Cayambe Grid",
-    "trash_cost": 3
+  "card_type_id": "upgrade",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "cayambe_grid",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When your turn begins, place 1 advancement token on a piece of ice protecting this server. Whenever the Runner approaches this server, end the run unless they pay 2 credits for each advanced piece of ice protecting this server. Limit 1 region per server.",
+  "stripped_title": "Cayambe Grid",
+  "subtypes": ["region"],
+  "text": "When your turn begins, place 1 advancement token on a piece of ice protecting this server.\nWhenever the Runner approaches this server, end the run unless they pay 2[credit] for each advanced piece of ice protecting this server.\nLimit 1 <strong>region</strong> per server.",
+  "title": "Cayambe Grid",
+  "trash_cost": 3
 }

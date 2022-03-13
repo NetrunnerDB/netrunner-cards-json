@@ -1,19 +1,15 @@
 {
-    "card_type_id": "event",
-    "cost": 1,
-    "deck_limit": 3,
-    "faction_id": "criminal",
-    "id": "diversion_of_funds",
-    "influence_cost": 5,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "As an additional cost to play this event, spend click. Run HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5 credits, then you gain 1 credit for each credit lost.",
-    "stripped_title": "Diversion of Funds",
-    "subtypes": [
-        "double",
-        "run",
-        "sabotage"
-    ],
-    "text": "As an additional cost to play this event, spend [click].\nRun HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5[credit], then you gain 1[credit] for each credit lost.",
-    "title": "Diversion of Funds"
+  "card_type_id": "event",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "diversion_of_funds",
+  "influence_cost": 5,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "As an additional cost to play this event, spend click. Run HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5 credits, then you gain 1 credit for each credit lost.",
+  "stripped_title": "Diversion of Funds",
+  "subtypes": ["double", "run", "sabotage"],
+  "text": "As an additional cost to play this event, spend [click].\nRun HQ. If successful, instead of breaching HQ, you may force the Corp to lose up to 5[credit], then you gain 1[credit] for each credit lost.",
+  "title": "Diversion of Funds"
 }

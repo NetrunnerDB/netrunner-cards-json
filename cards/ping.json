@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "ping",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 1,
-    "stripped_text": "When you rez this ice during a run against this server, give the Runner 1 tag. Subroutine End the run.",
-    "stripped_title": "Ping",
-    "subtypes": [
-        "barrier"
-    ],
-    "text": "When you rez this ice during a run against this server, give the Runner 1 tag.\n[subroutine] End the run.",
-    "title": "Ping"
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "ping",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 1,
+  "stripped_text": "When you rez this ice during a run against this server, give the Runner 1 tag. Subroutine End the run.",
+  "stripped_title": "Ping",
+  "subtypes": ["barrier"],
+  "text": "When you rez this ice during a run against this server, give the Runner 1 tag.\n[subroutine] End the run.",
+  "title": "Ping"
 }

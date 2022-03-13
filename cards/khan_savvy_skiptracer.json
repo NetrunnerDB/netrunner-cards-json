@@ -1,18 +1,16 @@
 {
-    "base_link": 0,
-    "card_type_id": "identity",
-    "deck_limit": 1,
-    "faction_id": "criminal",
-    "id": "khan_savvy_skiptracer",
-    "influence_limit": 12,
-    "is_unique": false,
-    "minimum_deck_size": 40,
-    "side_id": "runner",
-    "stripped_text": "The first time you pass a piece of ice each turn, you may install an icebreaker from your hand, lowering the install cost by 1.",
-    "stripped_title": "Khan: Savvy Skiptracer",
-    "subtypes": [
-        "natural"
-    ],
-    "text": "The first time you pass a piece of ice each turn, you may install an <strong>icebreaker</strong> from your hand, lowering the install cost by 1.",
-    "title": "Khan: Savvy Skiptracer"
+  "base_link": 0,
+  "card_type_id": "identity",
+  "deck_limit": 1,
+  "faction_id": "criminal",
+  "id": "khan_savvy_skiptracer",
+  "influence_limit": 12,
+  "is_unique": false,
+  "minimum_deck_size": 40,
+  "side_id": "runner",
+  "stripped_text": "The first time you pass a piece of ice each turn, you may install an icebreaker from your hand, lowering the install cost by 1.",
+  "stripped_title": "Khan: Savvy Skiptracer",
+  "subtypes": ["natural"],
+  "text": "The first time you pass a piece of ice each turn, you may install an <strong>icebreaker</strong> from your hand, lowering the install cost by 1.",
+  "title": "Khan: Savvy Skiptracer"
 }

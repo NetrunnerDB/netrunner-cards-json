@@ -1,125 +1,125 @@
 [
-    {
-        "code": "12061",
-        "flavor": "Jarogniews Agent Provocateur.",
-        "keywords": "Cyborg",
-        "text": "Wenn du zum ersten Mal in einem Zug einen erfolgreichen Run auf das Archiv durchführst, muss der Kon 1 Karte aus dem HQ zerstören.",
-        "title": "Alice Merchant: Clan-Aufwieglerin"
-    },
-    {
-        "code": "12062",
-        "keywords": "Clan - Kontakt",
-        "text": "Sobald du Jarogniew-Söldner installierst, bekommst du 1 Markierung verpasst. Lege 3 Wirkungszähler plus 1 zusätzliche Wirkungszähler für jede deiner Markierung auf Jarogniew-Söldner. Sobald sich keine Wirkungszähler mehr auf Jarogniew-Söldner befinden, zersöre die Karte.\nDer Kon kann Jarogniew-Söldner nicht zerstören, solange eine weitere Ressource installiert ist.\n<strong>Gehosteter Wirkungszähler:</strong> Verhindere 1 Köper-Schaden.",
-        "title": "Jarogniew-Söldner"
-    },
-    {
-        "code": "12063",
-        "keywords": "Konsole",
-        "text": "+2[mu]\nX[recurring-credit]\nVerwende diese Credits nur während Runs auf das HQ. X ist die Anzahl an Ice, die das HQ beschützen.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Māui"
-    },
-    {
-        "code": "12064",
-        "flavor": "Alles, was man bei einem Notfall braucht.",
-        "text": "Lege X Wirkungszähler auf Fluchtgepäck, sobald du es installierst. Falls du am Ende deines Zuges keine Karten in deinem Griff hast, ziehe 1 Karte für jeden Zähler auf Fluchtgepäck und zerstöre es dann.",
-        "title": "Fluchtgepäck"
-    },
-    {
-        "code": "12065",
-        "flavor": "\"Ich mache mir nicht mehr die Mühe, nach dem Grund zu fragen - er sagt ihn mir nie - aber wenn ich raten soll, liegt es daran, dass er etwas veruntreut und meine Runs als Deckung dafür nutzt. Nicht, dass mir das was ausmacht. Seine Credits kann ich genau so gut ausgeben wie die jedes anderen auch.\" - Moth",
-        "text": "Wenn du zum ersten Mal in einem Zug ein Ice lädst, erhälst du 2[credit].",
-        "title": "Keros Mcintyre"
-    },
-    {
-        "code": "12066",
-        "flavor": "\"Die Risiken, die man eingeht, machen die Sache erst interessant!\" - Kabonesa Wu",
-        "keywords": "Konsole",
-        "text": "+2[mu]\nWenn du zum ersten Mal in deinem Zug einen Run auf ein System startest, das von 2 oder mehr Ice geschützt wird, ziehe 2 Karten.\nNur 1 <strong>Konsole</strong> pro Spieler",
-        "title": "Draufgänger"
-    },
-    {
-        "code": "12067",
-        "keywords": "Ice-Brecher - Decoder",
-        "text": "Immer wenn du Massenbeschleunigung nutzt, um alle Subroutinen auf einem Ice in einer einzigen Begegnung auszuschalten, werden die ersten 3 Subroutinen auf dem nächsten Ice, auf das du während dieses Runs triffst, nicht ausgeführt.\n2[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +1 Stärke",
-        "title": "Massenbeschleunigung"
-    },
-    {
-        "code": "12068",
-        "keywords": "Bioroid",
-        "text": "Immer wenn der Runner 1 oder mehr Karten zerstört, die sich in diesem System befinden oder es beschützen (einschließlich Warroid-Spurensucher), <trace>Aufspüren 4</trace> Bei Erfolg muss der Runner 2 seiner installierten Karten zerstören.",
-        "title": "Warroid-Spurensucher"
-    },
-    {
-        "code": "12069",
-        "text": "Sobald der Runner auf Loki trifft, wähle ein anderes geladenes Ice. Bis zum Ende des Runs erhält Loki die Unterarten dieses Ice und die Subroutinen dieses Ice vor allen anderen Subroutinen von Loki.\n[subroutine] Beende den Run, falls der Runner nicht seinen Griff in seinen Stapel mischt.",
-        "title": "Loki"
-    },
-    {
-        "code": "12070",
-        "flavor": "\"Eine gezielte Anwendung von Stress kann zu umwälzenden Veränderungen führen.\" - Aus den Anweisungen für Praktikanten bei Tennin",
-        "keywords": "Hinterhalt",
-        "text": "Der Runner muss 4 Netz-Schaden als zusätzliche Kosten nehmen, um Obokata-Protokoll zu stehlen.",
-        "title": "Obokata-Protokoll"
-    },
-    {
-        "code": "12071",
-        "keywords": "Code-Zugang - Deflektor",
-        "text": "Falls der Runner die aufgedruckte Subroutine auf Mirāju ausschaltet, führt er seinen Run nun auf das Archiv durch, statt an Mirāju vorbeizukommen, und nähert sich falls vorhanden dem äußersten Ice. Entlade Mirāju.\n[subroutine] Der Kon darf 1 Karte ziehen. Mische dann 1 Karte aus dem HQ in F&E.",
-        "title": "Mirāju"
-    },
-    {
-        "code": "12072",
-        "text": "Spiele diese Karte nur, falls der Runner in seinem letzten Zug keinen erfolgreichen Run durchgeführt hat.\nLege 2 Entwicklungsmarker auf 1 Karte.",
-        "title": "Tennin-Lieferung"
-    },
-    {
-        "code": "12073",
-        "flavor": "\"Natürlich können worte verletzen.\" - Bex Gleeson",
-        "keywords": "Initiative",
-        "text": "[click]: Du erhälst 1[credit] für jede Markierung des Runners. Verwende diese Fähigkeit nur ein Mal pro Zug.",
-        "title": "Gift und Galle Spucken"
-    },
-    {
-        "code": "12074",
-        "keywords": "Initiative",
-        "text": "Sobald du Punkte für Umerziehung erzielst, lege eine beliebige Anzahl Karten vom HQ unter F&E und ziehe genauso viele Karten. Der Runner legt falls möglich dieselbe Anzahl zufälliger Karten von seinem Griff auf den Stapel.",
-        "title": "Umerziehung"
-    },
-    {
-        "code": "12075",
-        "flavor": "\"Es geht nur um P.M.: Proft Machen.\" - Eryn Nielle",
-        "text": "Sobald du ein Ice lädst, das dieses System schützt, <trace>Aufspüren 2</trace> Bei Erfolg erhält der Kon 1[credit].",
-        "title": "Datenfluss-Überwacher"
-    },
-    {
-        "code": "12076",
-        "flavor": "\"Ich habe einen Felsen!\" - Charles \"Mad Dog\" Brun, Kometen-Jockey",
-        "text": "Wenn du die Punkte für Terraforming durch Meteoriten erzielst, darfst du 7[credit] erhalten. Falls der Runner mindestens 2 Markierungen hat, darfst du stattdessen 7 Körper-Schaden zufügen.",
-        "title": "Terraforming durch Meteoriten"
-    },
-    {
-        "code": "12077",
-        "text": "Sobald du die Punkte für Pattsituation erzielst, zerstört abwechseld jeder Spieler, beginnend mit dem Runner, 1 installierte Karte, bis sich 1 Spieler weigert eine Karte zu zerstören. Falls sich der Runner weigert, ziehst du 1 Karte und erhälst 5[credit].",
-        "title": "Pattsituation"
-    },
-    {
-        "code": "12078",
-        "flavor": "Der Unterschied zwischen Überleben und Florieren besteht in einem erfolgreichen Terraforming.",
-        "keywords": "Verdreifachen",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation gib eine Agenda auf und zahle [click], [click].\nEntwickle eine Karte X Mal. X entspricht die Entwicklungskosten der gerade aufgegeben Agenda.",
-        "title": "Erfolg"
-    },
-    {
-        "code": "12079",
-        "flavor": "\"Whampoa ist der größte und fieseste erdbasierte Bergbaukonzern auf dem Mars. Sie ersetzen die Mineralien im Boden mit unglaublicher Geschwindigkeit durch Müll und Leichen.\" - Alice Merchant",
-        "keywords": "Konzern",
-        "text": "<strong>Zerstöre 1 Karte vom HQ:</strong> Lege 1 Karte aus dem Archiv unter F&E. Verwende diese Fähigkeit nur ein Mal pro Zug.",
-        "title": "Abbau durch Whampoa"
-    },
-    {
-        "code": "12080",
-        "keywords": "Transaktion",
-        "text": "Du erhälst 2[credit] für jede Karte mit mindestens 1 Entwicklungsmarker darauf.",
-        "title": "Massenkommerzialisierung"
-    }
+  {
+    "code": "12061",
+    "flavor": "Jarogniews Agent Provocateur.",
+    "keywords": "Cyborg",
+    "text": "Wenn du zum ersten Mal in einem Zug einen erfolgreichen Run auf das Archiv durchführst, muss der Kon 1 Karte aus dem HQ zerstören.",
+    "title": "Alice Merchant: Clan-Aufwieglerin"
+  },
+  {
+    "code": "12062",
+    "keywords": "Clan - Kontakt",
+    "text": "Sobald du Jarogniew-Söldner installierst, bekommst du 1 Markierung verpasst. Lege 3 Wirkungszähler plus 1 zusätzliche Wirkungszähler für jede deiner Markierung auf Jarogniew-Söldner. Sobald sich keine Wirkungszähler mehr auf Jarogniew-Söldner befinden, zersöre die Karte.\nDer Kon kann Jarogniew-Söldner nicht zerstören, solange eine weitere Ressource installiert ist.\n<strong>Gehosteter Wirkungszähler:</strong> Verhindere 1 Köper-Schaden.",
+    "title": "Jarogniew-Söldner"
+  },
+  {
+    "code": "12063",
+    "keywords": "Konsole",
+    "text": "+2[mu]\nX[recurring-credit]\nVerwende diese Credits nur während Runs auf das HQ. X ist die Anzahl an Ice, die das HQ beschützen.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Māui"
+  },
+  {
+    "code": "12064",
+    "flavor": "Alles, was man bei einem Notfall braucht.",
+    "text": "Lege X Wirkungszähler auf Fluchtgepäck, sobald du es installierst. Falls du am Ende deines Zuges keine Karten in deinem Griff hast, ziehe 1 Karte für jeden Zähler auf Fluchtgepäck und zerstöre es dann.",
+    "title": "Fluchtgepäck"
+  },
+  {
+    "code": "12065",
+    "flavor": "\"Ich mache mir nicht mehr die Mühe, nach dem Grund zu fragen - er sagt ihn mir nie - aber wenn ich raten soll, liegt es daran, dass er etwas veruntreut und meine Runs als Deckung dafür nutzt. Nicht, dass mir das was ausmacht. Seine Credits kann ich genau so gut ausgeben wie die jedes anderen auch.\" - Moth",
+    "text": "Wenn du zum ersten Mal in einem Zug ein Ice lädst, erhälst du 2[credit].",
+    "title": "Keros Mcintyre"
+  },
+  {
+    "code": "12066",
+    "flavor": "\"Die Risiken, die man eingeht, machen die Sache erst interessant!\" - Kabonesa Wu",
+    "keywords": "Konsole",
+    "text": "+2[mu]\nWenn du zum ersten Mal in deinem Zug einen Run auf ein System startest, das von 2 oder mehr Ice geschützt wird, ziehe 2 Karten.\nNur 1 <strong>Konsole</strong> pro Spieler",
+    "title": "Draufgänger"
+  },
+  {
+    "code": "12067",
+    "keywords": "Ice-Brecher - Decoder",
+    "text": "Immer wenn du Massenbeschleunigung nutzt, um alle Subroutinen auf einem Ice in einer einzigen Begegnung auszuschalten, werden die ersten 3 Subroutinen auf dem nächsten Ice, auf das du während dieses Runs triffst, nicht ausgeführt.\n2[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +1 Stärke",
+    "title": "Massenbeschleunigung"
+  },
+  {
+    "code": "12068",
+    "keywords": "Bioroid",
+    "text": "Immer wenn der Runner 1 oder mehr Karten zerstört, die sich in diesem System befinden oder es beschützen (einschließlich Warroid-Spurensucher), <trace>Aufspüren 4</trace> Bei Erfolg muss der Runner 2 seiner installierten Karten zerstören.",
+    "title": "Warroid-Spurensucher"
+  },
+  {
+    "code": "12069",
+    "text": "Sobald der Runner auf Loki trifft, wähle ein anderes geladenes Ice. Bis zum Ende des Runs erhält Loki die Unterarten dieses Ice und die Subroutinen dieses Ice vor allen anderen Subroutinen von Loki.\n[subroutine] Beende den Run, falls der Runner nicht seinen Griff in seinen Stapel mischt.",
+    "title": "Loki"
+  },
+  {
+    "code": "12070",
+    "flavor": "\"Eine gezielte Anwendung von Stress kann zu umwälzenden Veränderungen führen.\" - Aus den Anweisungen für Praktikanten bei Tennin",
+    "keywords": "Hinterhalt",
+    "text": "Der Runner muss 4 Netz-Schaden als zusätzliche Kosten nehmen, um Obokata-Protokoll zu stehlen.",
+    "title": "Obokata-Protokoll"
+  },
+  {
+    "code": "12071",
+    "keywords": "Code-Zugang - Deflektor",
+    "text": "Falls der Runner die aufgedruckte Subroutine auf Mirāju ausschaltet, führt er seinen Run nun auf das Archiv durch, statt an Mirāju vorbeizukommen, und nähert sich falls vorhanden dem äußersten Ice. Entlade Mirāju.\n[subroutine] Der Kon darf 1 Karte ziehen. Mische dann 1 Karte aus dem HQ in F&E.",
+    "title": "Mirāju"
+  },
+  {
+    "code": "12072",
+    "text": "Spiele diese Karte nur, falls der Runner in seinem letzten Zug keinen erfolgreichen Run durchgeführt hat.\nLege 2 Entwicklungsmarker auf 1 Karte.",
+    "title": "Tennin-Lieferung"
+  },
+  {
+    "code": "12073",
+    "flavor": "\"Natürlich können worte verletzen.\" - Bex Gleeson",
+    "keywords": "Initiative",
+    "text": "[click]: Du erhälst 1[credit] für jede Markierung des Runners. Verwende diese Fähigkeit nur ein Mal pro Zug.",
+    "title": "Gift und Galle Spucken"
+  },
+  {
+    "code": "12074",
+    "keywords": "Initiative",
+    "text": "Sobald du Punkte für Umerziehung erzielst, lege eine beliebige Anzahl Karten vom HQ unter F&E und ziehe genauso viele Karten. Der Runner legt falls möglich dieselbe Anzahl zufälliger Karten von seinem Griff auf den Stapel.",
+    "title": "Umerziehung"
+  },
+  {
+    "code": "12075",
+    "flavor": "\"Es geht nur um P.M.: Proft Machen.\" - Eryn Nielle",
+    "text": "Sobald du ein Ice lädst, das dieses System schützt, <trace>Aufspüren 2</trace> Bei Erfolg erhält der Kon 1[credit].",
+    "title": "Datenfluss-Überwacher"
+  },
+  {
+    "code": "12076",
+    "flavor": "\"Ich habe einen Felsen!\" - Charles \"Mad Dog\" Brun, Kometen-Jockey",
+    "text": "Wenn du die Punkte für Terraforming durch Meteoriten erzielst, darfst du 7[credit] erhalten. Falls der Runner mindestens 2 Markierungen hat, darfst du stattdessen 7 Körper-Schaden zufügen.",
+    "title": "Terraforming durch Meteoriten"
+  },
+  {
+    "code": "12077",
+    "text": "Sobald du die Punkte für Pattsituation erzielst, zerstört abwechseld jeder Spieler, beginnend mit dem Runner, 1 installierte Karte, bis sich 1 Spieler weigert eine Karte zu zerstören. Falls sich der Runner weigert, ziehst du 1 Karte und erhälst 5[credit].",
+    "title": "Pattsituation"
+  },
+  {
+    "code": "12078",
+    "flavor": "Der Unterschied zwischen Überleben und Florieren besteht in einem erfolgreichen Terraforming.",
+    "keywords": "Verdreifachen",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation gib eine Agenda auf und zahle [click], [click].\nEntwickle eine Karte X Mal. X entspricht die Entwicklungskosten der gerade aufgegeben Agenda.",
+    "title": "Erfolg"
+  },
+  {
+    "code": "12079",
+    "flavor": "\"Whampoa ist der größte und fieseste erdbasierte Bergbaukonzern auf dem Mars. Sie ersetzen die Mineralien im Boden mit unglaublicher Geschwindigkeit durch Müll und Leichen.\" - Alice Merchant",
+    "keywords": "Konzern",
+    "text": "<strong>Zerstöre 1 Karte vom HQ:</strong> Lege 1 Karte aus dem Archiv unter F&E. Verwende diese Fähigkeit nur ein Mal pro Zug.",
+    "title": "Abbau durch Whampoa"
+  },
+  {
+    "code": "12080",
+    "keywords": "Transaktion",
+    "text": "Du erhälst 2[credit] für jede Karte mit mindestens 1 Entwicklungsmarker darauf.",
+    "title": "Massenkommerzialisierung"
+  }
 ]

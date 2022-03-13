@@ -1,18 +1,16 @@
 {
-    "card_type_id": "upgrade",
-    "cost": 1,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "georgia_emelyov",
-    "influence_cost": 2,
-    "is_unique": true,
-    "side_id": "corp",
-    "stripped_text": "Whenever the Runner makes an unsuccessful run on this server, do 1 net damage. 2 credits: Move Georgia Emelyov to another server.",
-    "stripped_title": "Georgia Emelyov",
-    "subtypes": [
-        "sysop"
-    ],
-    "text": "Whenever the Runner makes an unsuccessful run on this server, do 1 net damage.\n2[credit]: Move Georgia Emelyov to another server.",
-    "title": "Georgia Emelyov",
-    "trash_cost": 3
+  "card_type_id": "upgrade",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "georgia_emelyov",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "Whenever the Runner makes an unsuccessful run on this server, do 1 net damage. 2 credits: Move Georgia Emelyov to another server.",
+  "stripped_title": "Georgia Emelyov",
+  "subtypes": ["sysop"],
+  "text": "Whenever the Runner makes an unsuccessful run on this server, do 1 net damage.\n2[credit]: Move Georgia Emelyov to another server.",
+  "title": "Georgia Emelyov",
+  "trash_cost": 3
 }

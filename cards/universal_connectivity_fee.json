@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "universal_connectivity_fee",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 2,
-    "stripped_text": "Subroutine If the Runner is not tagged, they lose 1 credit. If the Runner is tagged, they lose all credits in their credit pool and you trash this ice. Errata from CR 1.4",
-    "stripped_title": "Universal Connectivity Fee",
-    "subtypes": [
-        "trap"
-    ],
-    "text": "[subroutine] If the Runner is not tagged, they lose 1[credit]. If the Runner is tagged, they lose all credits in their credit pool and you trash this ice.\n<errata>Errata from CR 1.4</errata>",
-    "title": "Universal Connectivity Fee"
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "universal_connectivity_fee",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 2,
+  "stripped_text": "Subroutine If the Runner is not tagged, they lose 1 credit. If the Runner is tagged, they lose all credits in their credit pool and you trash this ice. Errata from CR 1.4",
+  "stripped_title": "Universal Connectivity Fee",
+  "subtypes": ["trap"],
+  "text": "[subroutine] If the Runner is not tagged, they lose 1[credit]. If the Runner is tagged, they lose all credits in their credit pool and you trash this ice.\n<errata>Errata from CR 1.4</errata>",
+  "title": "Universal Connectivity Fee"
 }

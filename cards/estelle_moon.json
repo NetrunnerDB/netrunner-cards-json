@@ -1,18 +1,16 @@
 {
-    "card_type_id": "asset",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "haas-bioroid",
-    "id": "estelle_moon",
-    "influence_cost": 2,
-    "is_unique": true,
-    "side_id": "corp",
-    "stripped_text": "Whenever you install a card in the root of a remote server, place 1 power counter on this asset. trash: For each power counter on this asset, gain 2 credits and draw 1 card.",
-    "stripped_title": "Estelle Moon",
-    "subtypes": [
-        "executive"
-    ],
-    "text": "Whenever you install a card in the root of a remote server, place 1 power counter on this asset.\n<strong>[trash]:</strong> For each power counter on this asset, gain 2[credit] and draw 1 card.",
-    "title": "Estelle Moon",
-    "trash_cost": 3
+  "card_type_id": "asset",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "estelle_moon",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "Whenever you install a card in the root of a remote server, place 1 power counter on this asset. trash: For each power counter on this asset, gain 2 credits and draw 1 card.",
+  "stripped_title": "Estelle Moon",
+  "subtypes": ["executive"],
+  "text": "Whenever you install a card in the root of a remote server, place 1 power counter on this asset.\n<strong>[trash]:</strong> For each power counter on this asset, gain 2[credit] and draw 1 card.",
+  "title": "Estelle Moon",
+  "trash_cost": 3
 }

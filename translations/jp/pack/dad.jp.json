@@ -1,387 +1,387 @@
 [
-    {
-        "code": "09001",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09002",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09003",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09004",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09005",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09006",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09007",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09008",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09009",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09010",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09011",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09012",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09013",
-        "flavor": null,
-        "keywords": "コードゲート - トレーサー - 待ち伏せ",
-        "text": "アークエンジェルがR&Dからアクセスされた場合、ランナーはそれを公開する。\nランナーがアークエンジェルにアクセスした時、君が3[credit]を支払った場合、そのランナーはただちにそれにエンカウントする。この能力は、ランナーがアーカイブのアークエンジェルにアクセスした場合は無視する。\n<trace>トレース 6</trace> - 成功した場合、ランナーのインストール状態のカード1枚をそのランナーのグリップに加える。",
-        "title": "アークエンジェル"
-    },
-    {
-        "code": "09014",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09015",
-        "flavor": null,
-        "keywords": "バリア - トレーサー",
-        "text": "ランナーのタグ1つにつき、レジスターは強度+1。\n[subroutine] <trace>トレース 4</trace> - 成功した場合、ランの終了。",
-        "title": "レジスター"
-    },
-    {
-        "code": "09016",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09017",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09018",
-        "flavor": null,
-        "keywords": "セントリー - トレーサー",
-        "text": "ランナーがターンパイクにエンカウントした時、そのランナーは1[credit]を失う。\n[subroutine] <trace>トレース 5</trace> - 成功した場合、ランナーにタグを1つ与える。",
-        "title": "ターンパイク"
-    },
-    {
-        "code": "09019",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09020",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09021",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09022",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09023",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09024",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09025",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09026",
-        "flavor": null,
-        "keywords": "構想",
-        "text": "世界食料構想は、ランナーの得点エリアにある間は計画ポイントが1少なくなる。",
-        "title": "世界食料構想"
-    },
-    {
-        "code": "09027",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09028",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09029",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09030",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09031",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09032",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09033",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09034",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09035",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09036",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09037",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09038",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09039",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09040",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09041",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09042",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09043",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09044",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09045",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09046",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09047",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09048",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09049",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09050",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09051",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09052",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09053",
-        "flavor": null,
-        "keywords": "現状",
-        "text": "このカードは、他の<strong>現状</strong>がプレイされるか計画書が得点されるまでトラッシュされない。\nコーポのIDのテキスト枠は空白である。",
-        "title": "従業員のストライキ"
-    },
-    {
-        "code": "09054",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "09055",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    }
+  {
+    "code": "09001",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09002",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09003",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09004",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09005",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09006",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09007",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09008",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09009",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09010",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09011",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09012",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09013",
+    "flavor": null,
+    "keywords": "コードゲート - トレーサー - 待ち伏せ",
+    "text": "アークエンジェルがR&Dからアクセスされた場合、ランナーはそれを公開する。\nランナーがアークエンジェルにアクセスした時、君が3[credit]を支払った場合、そのランナーはただちにそれにエンカウントする。この能力は、ランナーがアーカイブのアークエンジェルにアクセスした場合は無視する。\n<trace>トレース 6</trace> - 成功した場合、ランナーのインストール状態のカード1枚をそのランナーのグリップに加える。",
+    "title": "アークエンジェル"
+  },
+  {
+    "code": "09014",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09015",
+    "flavor": null,
+    "keywords": "バリア - トレーサー",
+    "text": "ランナーのタグ1つにつき、レジスターは強度+1。\n[subroutine] <trace>トレース 4</trace> - 成功した場合、ランの終了。",
+    "title": "レジスター"
+  },
+  {
+    "code": "09016",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09017",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09018",
+    "flavor": null,
+    "keywords": "セントリー - トレーサー",
+    "text": "ランナーがターンパイクにエンカウントした時、そのランナーは1[credit]を失う。\n[subroutine] <trace>トレース 5</trace> - 成功した場合、ランナーにタグを1つ与える。",
+    "title": "ターンパイク"
+  },
+  {
+    "code": "09019",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09020",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09021",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09022",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09023",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09024",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09025",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09026",
+    "flavor": null,
+    "keywords": "構想",
+    "text": "世界食料構想は、ランナーの得点エリアにある間は計画ポイントが1少なくなる。",
+    "title": "世界食料構想"
+  },
+  {
+    "code": "09027",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09028",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09029",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09030",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09031",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09032",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09033",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09034",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09035",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09036",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09037",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09038",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09039",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09040",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09041",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09042",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09043",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09044",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09045",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09046",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09047",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09048",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09049",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09050",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09051",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09052",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09053",
+    "flavor": null,
+    "keywords": "現状",
+    "text": "このカードは、他の<strong>現状</strong>がプレイされるか計画書が得点されるまでトラッシュされない。\nコーポのIDのテキスト枠は空白である。",
+    "title": "従業員のストライキ"
+  },
+  {
+    "code": "09054",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "09055",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  }
 ]

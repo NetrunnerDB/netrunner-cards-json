@@ -1,18 +1,16 @@
 {
-    "advancement_requirement": 5,
-    "agenda_points": 3,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "neutral-corp",
-    "id": "ssl_endorsement",
-    "influence_cost": 0,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When SSL Endorsement is scored or stolen, place 9 credits from the bank on it. When the Corp's turn begins, he or she may take 3 credits from SSL Endorsement. This ability is active even while SSL Endorsement is in the Runner's score area.",
-    "stripped_title": "SSL Endorsement",
-    "subtypes": [
-        "initiative"
-    ],
-    "text": "When SSL Endorsement is scored or stolen, place 9[credit] from the bank on it.\nWhen the Corp's turn begins, he or she may take 3[credit] from SSL Endorsement. This ability is active even while SSL Endorsement is in the Runner's score area.",
-    "title": "SSL Endorsement"
+  "advancement_requirement": 5,
+  "agenda_points": 3,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "ssl_endorsement",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When SSL Endorsement is scored or stolen, place 9 credits from the bank on it. When the Corp's turn begins, he or she may take 3 credits from SSL Endorsement. This ability is active even while SSL Endorsement is in the Runner's score area.",
+  "stripped_title": "SSL Endorsement",
+  "subtypes": ["initiative"],
+  "text": "When SSL Endorsement is scored or stolen, place 9[credit] from the bank on it.\nWhen the Corp's turn begins, he or she may take 3[credit] from SSL Endorsement. This ability is active even while SSL Endorsement is in the Runner's score area.",
+  "title": "SSL Endorsement"
 }

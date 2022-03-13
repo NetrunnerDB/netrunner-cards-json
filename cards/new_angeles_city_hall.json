@@ -1,18 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 1,
-    "deck_limit": 3,
-    "faction_id": "neutral-runner",
-    "id": "new_angeles_city_hall",
-    "influence_cost": 0,
-    "is_unique": true,
-    "side_id": "runner",
-    "stripped_text": "2 credits: Avoid 1 tag. Trash New Angeles City Hall when you steal an agenda.",
-    "stripped_title": "New Angeles City Hall",
-    "subtypes": [
-        "location",
-        "government"
-    ],
-    "text": "2[credit]: Avoid 1 tag.\nTrash New Angeles City Hall when you steal an agenda.",
-    "title": "New Angeles City Hall"
+  "card_type_id": "resource",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "neutral-runner",
+  "id": "new_angeles_city_hall",
+  "influence_cost": 0,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "2 credits: Avoid 1 tag. Trash New Angeles City Hall when you steal an agenda.",
+  "stripped_title": "New Angeles City Hall",
+  "subtypes": ["location", "government"],
+  "text": "2[credit]: Avoid 1 tag.\nTrash New Angeles City Hall when you steal an agenda.",
+  "title": "New Angeles City Hall"
 }

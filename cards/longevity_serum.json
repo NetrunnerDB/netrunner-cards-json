@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 3,
-    "agenda_points": 2,
-    "card_type_id": "agenda",
-    "deck_limit": 1,
-    "faction_id": "jinteki",
-    "id": "longevity_serum",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When you score this agenda, trash any number of cards from HQ. Shuffle up to 3 cards from Archives into R&D. Limit 1 per deck.",
-    "stripped_title": "Longevity Serum",
-    "subtypes": [
-        "research"
-    ],
-    "text": "When you score this agenda, trash any number of cards from HQ. Shuffle up to 3 cards from Archives into R&D.\nLimit 1 per deck.",
-    "title": "Longevity Serum"
+  "advancement_requirement": 3,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 1,
+  "faction_id": "jinteki",
+  "id": "longevity_serum",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you score this agenda, trash any number of cards from HQ. Shuffle up to 3 cards from Archives into R&D. Limit 1 per deck.",
+  "stripped_title": "Longevity Serum",
+  "subtypes": ["research"],
+  "text": "When you score this agenda, trash any number of cards from HQ. Shuffle up to 3 cards from Archives into R&D.\nLimit 1 per deck.",
+  "title": "Longevity Serum"
 }

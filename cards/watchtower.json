@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 4,
-    "deck_limit": 3,
-    "faction_id": "weyland-consortium",
-    "id": "watchtower",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 3,
-    "stripped_text": "Subroutine Search R&D for a card and add it to HQ. Shuffle R&D.",
-    "stripped_title": "Watchtower",
-    "subtypes": [
-        "code_gate"
-    ],
-    "text": "[subroutine] Search R&D for a card and add it to HQ. Shuffle R&D.",
-    "title": "Watchtower"
+  "card_type_id": "ice",
+  "cost": 4,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "watchtower",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "Subroutine Search R&D for a card and add it to HQ. Shuffle R&D.",
+  "stripped_title": "Watchtower",
+  "subtypes": ["code_gate"],
+  "text": "[subroutine] Search R&D for a card and add it to HQ. Shuffle R&D.",
+  "title": "Watchtower"
 }

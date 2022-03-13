@@ -1,18 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 4,
-    "deck_limit": 3,
-    "faction_id": "neutral-corp",
-    "id": "datapike",
-    "influence_cost": 0,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 2,
-    "stripped_text": "Subroutine The Runner must pay 2 credits, if able. If the Runner cannot pay 2 credits, end the run. Subroutine End the run.",
-    "stripped_title": "Datapike",
-    "subtypes": [
-        "code_gate"
-    ],
-    "text": "[subroutine] The Runner must pay 2[credit], if able. If the Runner cannot pay 2[credit], end the run.\n[subroutine] End the run.",
-    "title": "Datapike"
+  "card_type_id": "ice",
+  "cost": 4,
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "datapike",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 2,
+  "stripped_text": "Subroutine The Runner must pay 2 credits, if able. If the Runner cannot pay 2 credits, end the run. Subroutine End the run.",
+  "stripped_title": "Datapike",
+  "subtypes": ["code_gate"],
+  "text": "[subroutine] The Runner must pay 2[credit], if able. If the Runner cannot pay 2[credit], end the run.\n[subroutine] End the run.",
+  "title": "Datapike"
 }

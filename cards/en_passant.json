@@ -1,17 +1,15 @@
 {
-    "card_type_id": "event",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "en_passant",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "Play only if you made a successful run this turn. Trash 1 unrezzed piece of ice you passed during your last run.",
-    "stripped_title": "En Passant",
-    "subtypes": [
-        "sabotage"
-    ],
-    "text": "Play only if you made a successful run this turn.\nTrash 1 unrezzed piece of ice you passed during your last run.",
-    "title": "En Passant"
+  "card_type_id": "event",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "en_passant",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Play only if you made a successful run this turn. Trash 1 unrezzed piece of ice you passed during your last run.",
+  "stripped_title": "En Passant",
+  "subtypes": ["sabotage"],
+  "text": "Play only if you made a successful run this turn.\nTrash 1 unrezzed piece of ice you passed during your last run.",
+  "title": "En Passant"
 }

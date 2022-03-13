@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 4,
-    "agenda_points": 2,
-    "card_type_id": "agenda",
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "nisei_mk_ii",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When you score this agenda, place 1 agenda counter on it. Hosted agenda counter: End the run.",
-    "stripped_title": "Nisei MK II",
-    "subtypes": [
-        "initiative"
-    ],
-    "text": "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter:</strong> End the run.",
-    "title": "Nisei MK II"
+  "advancement_requirement": 4,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "nisei_mk_ii",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you score this agenda, place 1 agenda counter on it. Hosted agenda counter: End the run.",
+  "stripped_title": "Nisei MK II",
+  "subtypes": ["initiative"],
+  "text": "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter:</strong> End the run.",
+  "title": "Nisei MK II"
 }

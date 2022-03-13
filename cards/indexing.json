@@ -1,17 +1,15 @@
 {
-    "card_type_id": "event",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "shaper",
-    "id": "indexing",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "Run R&D. If successful, instead of breaching R&D, you may look at the top 5 cards of R&D and arrange them in any order.",
-    "stripped_title": "Indexing",
-    "subtypes": [
-        "run"
-    ],
-    "text": "Run R&D. If successful, instead of breaching R&D, you may look at the top 5 cards of R&D and arrange them in any order.",
-    "title": "Indexing"
+  "card_type_id": "event",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "indexing",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Run R&D. If successful, instead of breaching R&D, you may look at the top 5 cards of R&D and arrange them in any order.",
+  "stripped_title": "Indexing",
+  "subtypes": ["run"],
+  "text": "Run R&D. If successful, instead of breaching R&D, you may look at the top 5 cards of R&D and arrange them in any order.",
+  "title": "Indexing"
 }

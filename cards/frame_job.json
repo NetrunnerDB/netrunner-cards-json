@@ -1,17 +1,15 @@
 {
-    "card_type_id": "event",
-    "cost": 1,
-    "deck_limit": 3,
-    "faction_id": "anarch",
-    "id": "frame_job",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "As an additional cost to play this event, spend click. Forfeit an agenda. If you do, give the Corp 1 bad publicity.",
-    "stripped_title": "Frame Job",
-    "subtypes": [
-        "double"
-    ],
-    "text": "As an additional cost to play this event, spend [click].\nForfeit an agenda. If you do, give the Corp 1 bad publicity.",
-    "title": "Frame Job"
+  "card_type_id": "event",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "frame_job",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "As an additional cost to play this event, spend click. Forfeit an agenda. If you do, give the Corp 1 bad publicity.",
+  "stripped_title": "Frame Job",
+  "subtypes": ["double"],
+  "text": "As an additional cost to play this event, spend [click].\nForfeit an agenda. If you do, give the Corp 1 bad publicity.",
+  "title": "Frame Job"
 }

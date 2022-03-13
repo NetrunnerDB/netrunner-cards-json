@@ -1,17 +1,15 @@
 {
-    "card_type_id": "resource",
-    "cost": 3,
-    "deck_limit": 3,
-    "faction_id": "neutral-runner",
-    "id": "inside_man",
-    "influence_cost": 0,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "2 recurring credits Use these credits to install hardware.",
-    "stripped_title": "Inside Man",
-    "subtypes": [
-        "connection"
-    ],
-    "text": "2[recurring-credit]\nUse these credits to install hardware.",
-    "title": "Inside Man"
+  "card_type_id": "resource",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "neutral-runner",
+  "id": "inside_man",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "2 recurring credits Use these credits to install hardware.",
+  "stripped_title": "Inside Man",
+  "subtypes": ["connection"],
+  "text": "2[recurring-credit]\nUse these credits to install hardware.",
+  "title": "Inside Man"
 }

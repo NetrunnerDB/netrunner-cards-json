@@ -1,17 +1,15 @@
 {
-    "card_type_id": "operation",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "market_forces",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Play only if the Runner is tagged. The Runner loses 3 credits for each tag he or she has, then you gain 1 credit for each credit lost.",
-    "stripped_title": "Market Forces",
-    "subtypes": [
-        "gray_ops"
-    ],
-    "text": "Play only if the Runner is tagged.\nThe Runner loses 3[credit] for each tag he or she has, then you gain 1[credit] for each credit lost.",
-    "title": "Market Forces"
+  "card_type_id": "operation",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "market_forces",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Play only if the Runner is tagged. The Runner loses 3 credits for each tag he or she has, then you gain 1 credit for each credit lost.",
+  "stripped_title": "Market Forces",
+  "subtypes": ["gray_ops"],
+  "text": "Play only if the Runner is tagged.\nThe Runner loses 3[credit] for each tag he or she has, then you gain 1[credit] for each credit lost.",
+  "title": "Market Forces"
 }

@@ -1,19 +1,16 @@
 {
-    "card_type_id": "operation",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "hatchet_job",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "As an additional cost to play this operation, spend click. Trace 5 If successful, add an installed non-virtual card to the Runner's grip.",
-    "stripped_title": "Hatchet Job",
-    "subtypes": [
-        "double",
-        "gray_ops"
-    ],
-    "text": "As an additional cost to play this operation, spend [click].\n<trace>Trace 5</trace> If successful, add an installed non-<strong>virtual</strong> card to the Runner's grip.",
-    "title": "Hatchet Job",
-    "trash_cost": 0
+  "card_type_id": "operation",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "hatchet_job",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "As an additional cost to play this operation, spend click. Trace 5 If successful, add an installed non-virtual card to the Runner's grip.",
+  "stripped_title": "Hatchet Job",
+  "subtypes": ["double", "gray_ops"],
+  "text": "As an additional cost to play this operation, spend [click].\n<trace>Trace 5</trace> If successful, add an installed non-<strong>virtual</strong> card to the Runner's grip.",
+  "title": "Hatchet Job",
+  "trash_cost": 0
 }

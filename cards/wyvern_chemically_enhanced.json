@@ -1,18 +1,16 @@
 {
-    "base_link": 0,
-    "card_type_id": "identity",
-    "deck_limit": 1,
-    "faction_id": "anarch",
-    "id": "wyvern_chemically_enhanced",
-    "influence_limit": "null",
-    "is_unique": false,
-    "minimum_deck_size": 30,
-    "side_id": "runner",
-    "stripped_text": "Draft format only. You must maintain the order of your heap. Whenever you trash a Corp card, if you have more {anarch} cards installed than any other faction, shuffle the top card of your heap into your stack.",
-    "stripped_title": "Wyvern: Chemically Enhanced",
-    "subtypes": [
-        "g_mod"
-    ],
-    "text": "Draft format only.\nYou must maintain the order of your heap.\nWhenever you trash a Corp card, if you have more {anarch} cards installed than any other faction, shuffle the top card of your heap into your stack.",
-    "title": "Wyvern: Chemically Enhanced"
+  "base_link": 0,
+  "card_type_id": "identity",
+  "deck_limit": 1,
+  "faction_id": "anarch",
+  "id": "wyvern_chemically_enhanced",
+  "influence_limit": "null",
+  "is_unique": false,
+  "minimum_deck_size": 30,
+  "side_id": "runner",
+  "stripped_text": "Draft format only. You must maintain the order of your heap. Whenever you trash a Corp card, if you have more {anarch} cards installed than any other faction, shuffle the top card of your heap into your stack.",
+  "stripped_title": "Wyvern: Chemically Enhanced",
+  "subtypes": ["g_mod"],
+  "text": "Draft format only.\nYou must maintain the order of your heap.\nWhenever you trash a Corp card, if you have more {anarch} cards installed than any other faction, shuffle the top card of your heap into your stack.",
+  "title": "Wyvern: Chemically Enhanced"
 }

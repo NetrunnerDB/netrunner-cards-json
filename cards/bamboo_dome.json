@@ -1,18 +1,16 @@
 {
-    "card_type_id": "upgrade",
-    "cost": 1,
-    "deck_limit": 3,
-    "faction_id": "jinteki",
-    "id": "bamboo_dome",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "Install only in the root of R&D. click: Reveal the top 3 cards of R&D. Secretly choose 1 to add to HQ. Return the others to the top of R&D, in any order. Limit 1 region per server.",
-    "stripped_title": "Bamboo Dome",
-    "subtypes": [
-        "region"
-    ],
-    "text": "Install only in the root of R&D.\n[click]: Reveal the top 3 cards of R&D. Secretly choose 1 to add to HQ. Return the others to the top of R&D, in any order.\nLimit 1 <strong>region</strong> per server.",
-    "title": "Bamboo Dome",
-    "trash_cost": 2
+  "card_type_id": "upgrade",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "bamboo_dome",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Install only in the root of R&D. click: Reveal the top 3 cards of R&D. Secretly choose 1 to add to HQ. Return the others to the top of R&D, in any order. Limit 1 region per server.",
+  "stripped_title": "Bamboo Dome",
+  "subtypes": ["region"],
+  "text": "Install only in the root of R&D.\n[click]: Reveal the top 3 cards of R&D. Secretly choose 1 to add to HQ. Return the others to the top of R&D, in any order.\nLimit 1 <strong>region</strong> per server.",
+  "title": "Bamboo Dome",
+  "trash_cost": 2
 }

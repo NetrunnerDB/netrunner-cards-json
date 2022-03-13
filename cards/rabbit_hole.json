@@ -1,17 +1,15 @@
 {
-    "card_type_id": "hardware",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "shaper",
-    "id": "rabbit_hole",
-    "influence_cost": 1,
-    "is_unique": false,
-    "side_id": "runner",
-    "stripped_text": "+1 link When Rabbit Hole is installed, you may search your stack for another copy of Rabbit Hole and install it by paying its install cost. Shuffle your stack.",
-    "stripped_title": "Rabbit Hole",
-    "subtypes": [
-        "link"
-    ],
-    "text": "+1[link]\nWhen Rabbit Hole is installed, you may search your stack for another copy of Rabbit Hole and install it by paying its install cost. Shuffle your stack.",
-    "title": "Rabbit Hole"
+  "card_type_id": "hardware",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "rabbit_hole",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "+1 link When Rabbit Hole is installed, you may search your stack for another copy of Rabbit Hole and install it by paying its install cost. Shuffle your stack.",
+  "stripped_title": "Rabbit Hole",
+  "subtypes": ["link"],
+  "text": "+1[link]\nWhen Rabbit Hole is installed, you may search your stack for another copy of Rabbit Hole and install it by paying its install cost. Shuffle your stack.",
+  "title": "Rabbit Hole"
 }

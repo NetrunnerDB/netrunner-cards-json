@@ -1,21 +1,17 @@
 {
-    "card_type_id": "program",
-    "cost": 0,
-    "deck_limit": 3,
-    "faction_id": "criminal",
-    "id": "shiv",
-    "influence_cost": 2,
-    "is_unique": false,
-    "memory_cost": 1,
-    "side_id": "runner",
-    "strength": 0,
-    "stripped_text": "If you have at least 2 link, the memory cost of this program is 0 mu, even if it is not installed. This program gets +1 strength for each installed icebreaker. Interface -> trash: Break up to 3 sentry subroutines.",
-    "stripped_title": "Shiv",
-    "subtypes": [
-        "icebreaker",
-        "killer",
-        "cloud"
-    ],
-    "text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nThis program gets +1 strength for each installed <strong>icebreaker</strong>.\nInterface → <strong>[trash]:</strong> Break up to 3 <strong>sentry</strong> subroutines.",
-    "title": "Shiv"
+  "card_type_id": "program",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "shiv",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 0,
+  "stripped_text": "If you have at least 2 link, the memory cost of this program is 0 mu, even if it is not installed. This program gets +1 strength for each installed icebreaker. Interface -> trash: Break up to 3 sentry subroutines.",
+  "stripped_title": "Shiv",
+  "subtypes": ["icebreaker", "killer", "cloud"],
+  "text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nThis program gets +1 strength for each installed <strong>icebreaker</strong>.\nInterface → <strong>[trash]:</strong> Break up to 3 <strong>sentry</strong> subroutines.",
+  "title": "Shiv"
 }

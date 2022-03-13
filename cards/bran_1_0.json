@@ -1,19 +1,16 @@
 {
-    "card_type_id": "ice",
-    "cost": 6,
-    "deck_limit": 3,
-    "faction_id": "haas-bioroid",
-    "id": "bran_1_0",
-    "influence_cost": 2,
-    "is_unique": false,
-    "side_id": "corp",
-    "strength": 6,
-    "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine You may install 1 piece of ice from HQ or Archives directly inward from this ice, ignoring all costs. Subroutine End the run. Subroutine End the run.",
-    "stripped_title": "Bran 1.0",
-    "subtypes": [
-        "barrier",
-        "bioroid"
-    ],
-    "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] You may install 1 piece of ice from HQ or Archives directly inward from this ice, ignoring all costs.\n[subroutine] End the run.\n[subroutine] End the run.",
-    "title": "Brân 1.0"
+  "card_type_id": "ice",
+  "cost": 6,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "bran_1_0",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 6,
+  "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine You may install 1 piece of ice from HQ or Archives directly inward from this ice, ignoring all costs. Subroutine End the run. Subroutine End the run.",
+  "stripped_title": "Bran 1.0",
+  "subtypes": ["barrier", "bioroid"],
+  "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] You may install 1 piece of ice from HQ or Archives directly inward from this ice, ignoring all costs.\n[subroutine] End the run.\n[subroutine] End the run.",
+  "title": "Brân 1.0"
 }

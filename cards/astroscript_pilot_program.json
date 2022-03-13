@@ -1,17 +1,15 @@
 {
-    "advancement_requirement": 3,
-    "agenda_points": 2,
-    "card_type_id": "agenda",
-    "deck_limit": 1,
-    "faction_id": "nbn",
-    "id": "astroscript_pilot_program",
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "When you score this agenda, place 1 agenda counter on it. Hosted agenda counter: Place 1 advancement counter on 1 installed card that you can advance. Limit 1 per deck.",
-    "stripped_title": "AstroScript Pilot Program",
-    "subtypes": [
-        "initiative"
-    ],
-    "text": "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter:</strong> Place 1 advancement counter on 1 installed card that you can advance.\nLimit 1 per deck.",
-    "title": "AstroScript Pilot Program"
+  "advancement_requirement": 3,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 1,
+  "faction_id": "nbn",
+  "id": "astroscript_pilot_program",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you score this agenda, place 1 agenda counter on it. Hosted agenda counter: Place 1 advancement counter on 1 installed card that you can advance. Limit 1 per deck.",
+  "stripped_title": "AstroScript Pilot Program",
+  "subtypes": ["initiative"],
+  "text": "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter:</strong> Place 1 advancement counter on 1 installed card that you can advance.\nLimit 1 per deck.",
+  "title": "AstroScript Pilot Program"
 }

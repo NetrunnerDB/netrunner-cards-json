@@ -1,17 +1,15 @@
 {
-    "card_type_id": "operation",
-    "cost": 2,
-    "deck_limit": 3,
-    "faction_id": "nbn",
-    "id": "media_blitz",
-    "influence_cost": 3,
-    "is_unique": false,
-    "side_id": "corp",
-    "stripped_text": "This card is not trashed until another current is played or an agenda is stolen. Choose an agenda in the Runner's score area. Media Blitz gains the text of that agenda.",
-    "stripped_title": "Media Blitz",
-    "subtypes": [
-        "current"
-    ],
-    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nChoose an agenda in the Runner's score area. Media Blitz gains the text of that agenda.",
-    "title": "Media Blitz"
+  "card_type_id": "operation",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "media_blitz",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "This card is not trashed until another current is played or an agenda is stolen. Choose an agenda in the Runner's score area. Media Blitz gains the text of that agenda.",
+  "stripped_title": "Media Blitz",
+  "subtypes": ["current"],
+  "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nChoose an agenda in the Runner's score area. Media Blitz gains the text of that agenda.",
+  "title": "Media Blitz"
 }
