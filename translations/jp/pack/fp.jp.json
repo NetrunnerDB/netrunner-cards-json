@@ -1,142 +1,142 @@
 [
-    {
-        "code": "02101",
-        "flavor": null,
-        "keywords": "ラン",
-        "text": "アーカイブにランを行う。成功した場合、カードにアクセスする代わりに、君のヒープにあるプログラム1つをすべてのコストを無視してインストールしてよい。",
-        "title": "回収ラン"
-    },
-    {
-        "code": "02102",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02103",
-        "flavor": null,
-        "keywords": "仮想 - 破壊工作",
-        "text": "君がこのターンに中央サーバーへのランに成功していた場合にのみインストールする。\n君がタグされている場合、データ漏洩逆流は「[click]：コーポはR&Dの一番上のカードをトラッシュする。」を得る。",
-        "title": "データ漏洩逆流"
-    },
-    {
-        "code": "02104",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02105",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02106",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02107",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02108",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02109",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02110",
-        "flavor": null,
-        "keywords": "バリア - バイオロイド",
-        "text": "ランナーは[click]を消費することで、イーライ1.0上のサブルーチンを1つブレイクできる。\n[subroutine] ランの終了。\n[subroutine] ランの終了。",
-        "title": "イーライ1.0"
-    },
-    {
-        "code": "02111",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02112",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02113",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02114",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02115",
-        "flavor": null,
-        "keywords": "研究",
-        "text": "君がビール計画を得点した時、その上の3個を超えるアドバンストークン2個につき、その上に計画カウンターを1個置く。\nビール計画は、それの上の計画カウンター1個につき、1計画ポイントが追加される。",
-        "title": "ビール計画"
-    },
-    {
-        "code": "02116",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02117",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02118",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02119",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    },
-    {
-        "code": "02120",
-        "flavor": null,
-        "keywords": null,
-        "text": null,
-        "title": null
-    }
+  {
+    "code": "02101",
+    "flavor": null,
+    "keywords": "ラン",
+    "text": "アーカイブにランを行う。成功した場合、カードにアクセスする代わりに、君のヒープにあるプログラム1つをすべてのコストを無視してインストールしてよい。",
+    "title": "回収ラン"
+  },
+  {
+    "code": "02102",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02103",
+    "flavor": null,
+    "keywords": "仮想 - 破壊工作",
+    "text": "君がこのターンに中央サーバーへのランに成功していた場合にのみインストールする。\n君がタグされている場合、データ漏洩逆流は「[click]：コーポはR&Dの一番上のカードをトラッシュする。」を得る。",
+    "title": "データ漏洩逆流"
+  },
+  {
+    "code": "02104",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02105",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02106",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02107",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02108",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02109",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02110",
+    "flavor": null,
+    "keywords": "バリア - バイオロイド",
+    "text": "ランナーは[click]を消費することで、イーライ1.0上のサブルーチンを1つブレイクできる。\n[subroutine] ランの終了。\n[subroutine] ランの終了。",
+    "title": "イーライ1.0"
+  },
+  {
+    "code": "02111",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02112",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02113",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02114",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02115",
+    "flavor": null,
+    "keywords": "研究",
+    "text": "君がビール計画を得点した時、その上の3個を超えるアドバンストークン2個につき、その上に計画カウンターを1個置く。\nビール計画は、それの上の計画カウンター1個につき、1計画ポイントが追加される。",
+    "title": "ビール計画"
+  },
+  {
+    "code": "02116",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02117",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02118",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02119",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  },
+  {
+    "code": "02120",
+    "flavor": null,
+    "keywords": null,
+    "text": null,
+    "title": null
+  }
 ]

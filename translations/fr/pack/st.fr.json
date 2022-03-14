@@ -1,132 +1,132 @@
 [
-    {
-        "code": "04021",
-        "keywords": "Caïssa",
-        "text": "[click]: Hébergez le Fou sur une glace qui n'héberge pas de <strong>Caïssa</strong>. S'il est déjà hébergé, le Fou ne peut être hébergé que sur une glace qui protège un serveur central si le Fou est sur une glace qui protège un serveur distant, ou sur une glace protégeant un serveur distant si le Fou est sur une glace protégeant un serveur central.\nLa glace hôte à -2 en force.",
-        "title": "Bishop"
-    },
-    {
-        "code": "04022",
-        "flavor": "Installer 1001 programmes vous ferait entrer au Panthéon des Pirates… si une telle institution existait.",
-        "keywords": "Démon",
-        "text": "Schéhérazade peut héberger n'importe quel nombre de programmes. (le coût en mémoire des programmes hébergés comptre dans votre limite de mémoire.)\nÀ chaque fois que vous installez un programme sur Schéhérazade, gagnez 1[credit].",
-        "title": "Scheherazade"
-    },
-    {
-        "code": "04023",
-        "flavor": "Noise avait décidé de retourner à l'école. Il avait postulé à des bourses de recherche dans quinze des plus prestigieuses universités. Qu'il avait ensuite piratées pour approuver ses candidatures. C'était l'heure du petit déjeuner.",
-        "text": "Au début de votre tour, gagnez 2[credit] et perdez 1[click].",
-        "title": "En Plein Boulot"
-    },
-    {
-        "code": "04024",
-        "flavor": "Comme dans le monde réel, il vaut parfois mieux envoyer un clone faire le sale boulot.",
-        "keywords": "Piratage",
-        "text": "Lancez un piratage. Vous pouvez débrancher lorsque vous rencontrez la première glace.",
-        "title": "Reconnaissance"
-    },
-    {
-        "code": "04025",
-        "flavor": "La fonction du copieur devrait être utilisée avec beaucoup de précautions, sous peine de se retrouver à l'autre bout du cyberspace.",
-        "text": "À chaque fois que vous passez une glace, vous pouvez effacer le Copieur. Si vous le faites, choisissez un autre exemplaire activé de cette glace qui protège n'importe quel serveur. Le piratage continue comme si vous veniez de passer la glace choisie (votre piratage continue depuis cette nouvelle position).",
-        "title": "Copieur"
-    },
-    {
-        "code": "04026",
-        "flavor": "C'est très efficace, pour certaines grandes valeurs d'«efficace». L'avatar de baleine est soit bien pensé, soit une regrettable interprétation des heures de programmation, selon la personne à qui vous posez la question - Comment briser la glace, par BT",
-        "keywords": "Brise-glace - Décrypteur",
-        "text": "3[credit]: Neutralisez jusqu'à 3 routines <strong>verrou</strong>.\n3[credit]: force +5.",
-        "title": "Leviathan"
-    },
-    {
-        "code": "04027",
-        "flavor": "\"J'ai une surprise pour toi.\"",
-        "keywords": "Double",
-        "text": "Dépensez [click] comme coût additionnel pour jouer cet événement.\nRévélez la première carte de votre pile. Vous pouvez installer cette carte en diminuant son coût d'installation de 10[credit], si possible; sinon, effacez-la.",
-        "title": "Eurêka!"
-    },
-    {
-        "code": "04028",
-        "flavor": "\"Pourquoi ces données sont-elles effacées ? Peut-être qu'ils ne veulent pas qu'on les trouve. Ou peut-être qu'elles sont inutiles. Ce sont des données inutiles que tu cherches.\" - Le Professeur",
-        "text": "À chaque fois que vous réussissez un piratage sur les Archives, au lieu d'accéder à des cartes, vous pouvez choisir une carte face visible des  Archives et la mettre sur R&D.",
-        "title": "Reconstructeur d'Enregistrement"
-    },
-    {
-        "code": "04029",
-        "flavor": "Un VocoPAD est un appareil de connexion personnel dont on a enlevé la plupart des fonctions. Il sert surtout à faire des appels vocaux et à gérer vos contacts. La seule raison d'en avoir un est de vouloir rester anonyme, ce qui pour certaines personnes, est une raison bien suffisante.",
-        "keywords": "Equipement",
-        "text": "1[recurring-credit]\nN'utilisez ce crédit que pour payer des événements.",
-        "title": "Vocopad Prépayé"
-    },
-    {
-        "code": "04030",
-        "keywords": "Barrière - Bioroïde",
-        "text": "[subroutine] Arrêtez le piratage, sauf si le Runner dépense [click][click].\n[subroutine] Arrêtez le piratage, sauf si le Runner paye 3[credit].\n[subroutine] Arrêtez le piratage, sauf si le Runner efface 1 programme installé.\n[subroutine] Arrêtez le piratage, sauf si le Runner prend 1 dégât Neuro.",
-        "title": "Wotan"
-    },
-    {
-        "code": "04031",
-        "keywords": "Illégale",
-        "text": "Jouable uniquement si le Runner a installé une ressource lors de son dernier tour.\n<trace>Traque 2</trace> Si la traque est réussie, mettez 1 ressource installée au sommet de la pile du Runner. Si la traque est ratée, prenez 1 pion Mauvaise Presse.",
-        "title": "Test Hellion Alpha"
-    },
-    {
-        "code": "04032",
-        "flavor": "\"Ils appellent ça 'la retraite'. J'appelle ça 'une euthanasie'.\" - Ken \"Express\" Tenma",
-        "keywords": "Initiative",
-        "text": "Lorsque vous finalisez Retraite de Clone, vous pouvez retirer 1 pion Mauvaise Presse.\nSi le Runner vole Retraite de Clone, prenez 1 pion Mauvaise Presse.",
-        "title": "Retraite de Clone"
-    },
-    {
-        "code": "04033",
-        "flavor": "Écrire un programme capable de passer le test de Turing est facile. Le test Gibson-Akamatsu est un peu plus relevé, et les seules IA à le réussir, pour le moment, sont celles des androïdes. Il parait que même certains humains l'ont raté.",
-        "keywords": "Sentinelle - Destructeur - AP",
-        "text": "Le Runner ne peut pas utiliser de programme <strong>IA</strong> pour neutraliser les routine de l'Épéiste.\n[subroutine] Effacez 1 programme <strong>IA</strong>.\n[subroutine] Infligez 1 dégât Réseau.",
-        "title": "Épéiste"
-    },
-    {
-        "code": "04034",
-        "flavor": "Il signa le reçu, les mains tremblantes d'impatience.",
-        "keywords": "Double",
-        "text": "Dépensez [click] comme coût additionnel pour jouer cette opération.\nMettez jusqu'à 2 pions Avancement sur une carte qui peut être avancée.",
-        "title": "Livraison de SanSan"
-    },
-    {
-        "code": "04035",
-        "keywords": "Sentinelle - Traqueur - Illicite",
-        "text": "Lorsque vous activez le Fouineur, prenez 1 pion Mauvaise Presse.\n[subroutine] <trace>Traque 1</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] <trace>Traque 2</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] <trace>Traque 3</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] Arrêtez le piratage si le Runner est tagué.",
-        "title": "Fouineur"
-    },
-    {
-        "code": "04036",
-        "flavor": "\"J'utilise des bioroïdes parce que je peux effacer leur mémoire, ou tout simplement leur exploser la cervelle une fois le boulot terminé. Quand je dis 'pas de témoin', ça veut dire 'pas de témoin'.\"",
-        "keywords": "Securité",
-        "text": "À chaque fois que vous faites des dégâts Hémo, faites 1 dégât Hémo supplémentaire.",
-        "title": "Les Nettoyeurs"
-    },
-    {
-        "code": "04037",
-        "flavor": "\"Ça n'a rien de personnel. La réhabilitation urbaine est une nécessité du monde moderne. C'est toujours la maison de quelqu'un, la vôtre ne fait pas exception.\"",
-        "keywords": "Cadre",
-        "text": "Lorsque vous activez Elizabeth Mills, retirez 1 pion Mauvaise Presse.\n[click], [trash]: Effacez 1 <strong>lieu</strong>. Prenez 1 pion Mauvaise Presse.",
-        "title": "Elizabeth Mills"
-    },
-    {
-        "code": "04038",
-        "text": "À installer uniquement sur un serveur distant.\nLe Runner ne peut pas lancer de piratage sur ce serveur.\nLorsque le Runner réussi un piratage sur le QG, effacez Hors-réseau.",
-        "title": "Hors-Réseau"
-    },
-    {
-        "code": "04039",
-        "flavor": "C'était étonnament facile de faire des créds… si vous ne vous souciiez pas de la facon dont vous les faisiez.",
-        "text": "Lorsque vous finalisez Affairisme, prenez jusqu'à 3 pions Mauvaise Presse. Gagnez 5[credit] pour chaque pion Mauvaise Presse pris.",
-        "title": "Affairisme"
-    },
-    {
-        "code": "04040",
-        "flavor": "Il y a pas mal de noms pour ceux qui travaillent dans le Département de la Direction. Mais, si tu aimes ton boulot, tu les appelles simplement \"monsieur\" ou \"m'dame\".",
-        "keywords": "Transaction",
-        "text": "Gagnez 15[credit].",
-        "title": "Restructuration"
-    }
+  {
+    "code": "04021",
+    "keywords": "Caïssa",
+    "text": "[click]: Hébergez le Fou sur une glace qui n'héberge pas de <strong>Caïssa</strong>. S'il est déjà hébergé, le Fou ne peut être hébergé que sur une glace qui protège un serveur central si le Fou est sur une glace qui protège un serveur distant, ou sur une glace protégeant un serveur distant si le Fou est sur une glace protégeant un serveur central.\nLa glace hôte à -2 en force.",
+    "title": "Bishop"
+  },
+  {
+    "code": "04022",
+    "flavor": "Installer 1001 programmes vous ferait entrer au Panthéon des Pirates… si une telle institution existait.",
+    "keywords": "Démon",
+    "text": "Schéhérazade peut héberger n'importe quel nombre de programmes. (le coût en mémoire des programmes hébergés comptre dans votre limite de mémoire.)\nÀ chaque fois que vous installez un programme sur Schéhérazade, gagnez 1[credit].",
+    "title": "Scheherazade"
+  },
+  {
+    "code": "04023",
+    "flavor": "Noise avait décidé de retourner à l'école. Il avait postulé à des bourses de recherche dans quinze des plus prestigieuses universités. Qu'il avait ensuite piratées pour approuver ses candidatures. C'était l'heure du petit déjeuner.",
+    "text": "Au début de votre tour, gagnez 2[credit] et perdez 1[click].",
+    "title": "En Plein Boulot"
+  },
+  {
+    "code": "04024",
+    "flavor": "Comme dans le monde réel, il vaut parfois mieux envoyer un clone faire le sale boulot.",
+    "keywords": "Piratage",
+    "text": "Lancez un piratage. Vous pouvez débrancher lorsque vous rencontrez la première glace.",
+    "title": "Reconnaissance"
+  },
+  {
+    "code": "04025",
+    "flavor": "La fonction du copieur devrait être utilisée avec beaucoup de précautions, sous peine de se retrouver à l'autre bout du cyberspace.",
+    "text": "À chaque fois que vous passez une glace, vous pouvez effacer le Copieur. Si vous le faites, choisissez un autre exemplaire activé de cette glace qui protège n'importe quel serveur. Le piratage continue comme si vous veniez de passer la glace choisie (votre piratage continue depuis cette nouvelle position).",
+    "title": "Copieur"
+  },
+  {
+    "code": "04026",
+    "flavor": "C'est très efficace, pour certaines grandes valeurs d'«efficace». L'avatar de baleine est soit bien pensé, soit une regrettable interprétation des heures de programmation, selon la personne à qui vous posez la question - Comment briser la glace, par BT",
+    "keywords": "Brise-glace - Décrypteur",
+    "text": "3[credit]: Neutralisez jusqu'à 3 routines <strong>verrou</strong>.\n3[credit]: force +5.",
+    "title": "Leviathan"
+  },
+  {
+    "code": "04027",
+    "flavor": "\"J'ai une surprise pour toi.\"",
+    "keywords": "Double",
+    "text": "Dépensez [click] comme coût additionnel pour jouer cet événement.\nRévélez la première carte de votre pile. Vous pouvez installer cette carte en diminuant son coût d'installation de 10[credit], si possible; sinon, effacez-la.",
+    "title": "Eurêka!"
+  },
+  {
+    "code": "04028",
+    "flavor": "\"Pourquoi ces données sont-elles effacées ? Peut-être qu'ils ne veulent pas qu'on les trouve. Ou peut-être qu'elles sont inutiles. Ce sont des données inutiles que tu cherches.\" - Le Professeur",
+    "text": "À chaque fois que vous réussissez un piratage sur les Archives, au lieu d'accéder à des cartes, vous pouvez choisir une carte face visible des  Archives et la mettre sur R&D.",
+    "title": "Reconstructeur d'Enregistrement"
+  },
+  {
+    "code": "04029",
+    "flavor": "Un VocoPAD est un appareil de connexion personnel dont on a enlevé la plupart des fonctions. Il sert surtout à faire des appels vocaux et à gérer vos contacts. La seule raison d'en avoir un est de vouloir rester anonyme, ce qui pour certaines personnes, est une raison bien suffisante.",
+    "keywords": "Equipement",
+    "text": "1[recurring-credit]\nN'utilisez ce crédit que pour payer des événements.",
+    "title": "Vocopad Prépayé"
+  },
+  {
+    "code": "04030",
+    "keywords": "Barrière - Bioroïde",
+    "text": "[subroutine] Arrêtez le piratage, sauf si le Runner dépense [click][click].\n[subroutine] Arrêtez le piratage, sauf si le Runner paye 3[credit].\n[subroutine] Arrêtez le piratage, sauf si le Runner efface 1 programme installé.\n[subroutine] Arrêtez le piratage, sauf si le Runner prend 1 dégât Neuro.",
+    "title": "Wotan"
+  },
+  {
+    "code": "04031",
+    "keywords": "Illégale",
+    "text": "Jouable uniquement si le Runner a installé une ressource lors de son dernier tour.\n<trace>Traque 2</trace> Si la traque est réussie, mettez 1 ressource installée au sommet de la pile du Runner. Si la traque est ratée, prenez 1 pion Mauvaise Presse.",
+    "title": "Test Hellion Alpha"
+  },
+  {
+    "code": "04032",
+    "flavor": "\"Ils appellent ça 'la retraite'. J'appelle ça 'une euthanasie'.\" - Ken \"Express\" Tenma",
+    "keywords": "Initiative",
+    "text": "Lorsque vous finalisez Retraite de Clone, vous pouvez retirer 1 pion Mauvaise Presse.\nSi le Runner vole Retraite de Clone, prenez 1 pion Mauvaise Presse.",
+    "title": "Retraite de Clone"
+  },
+  {
+    "code": "04033",
+    "flavor": "Écrire un programme capable de passer le test de Turing est facile. Le test Gibson-Akamatsu est un peu plus relevé, et les seules IA à le réussir, pour le moment, sont celles des androïdes. Il parait que même certains humains l'ont raté.",
+    "keywords": "Sentinelle - Destructeur - AP",
+    "text": "Le Runner ne peut pas utiliser de programme <strong>IA</strong> pour neutraliser les routine de l'Épéiste.\n[subroutine] Effacez 1 programme <strong>IA</strong>.\n[subroutine] Infligez 1 dégât Réseau.",
+    "title": "Épéiste"
+  },
+  {
+    "code": "04034",
+    "flavor": "Il signa le reçu, les mains tremblantes d'impatience.",
+    "keywords": "Double",
+    "text": "Dépensez [click] comme coût additionnel pour jouer cette opération.\nMettez jusqu'à 2 pions Avancement sur une carte qui peut être avancée.",
+    "title": "Livraison de SanSan"
+  },
+  {
+    "code": "04035",
+    "keywords": "Sentinelle - Traqueur - Illicite",
+    "text": "Lorsque vous activez le Fouineur, prenez 1 pion Mauvaise Presse.\n[subroutine] <trace>Traque 1</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] <trace>Traque 2</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] <trace>Traque 3</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] Arrêtez le piratage si le Runner est tagué.",
+    "title": "Fouineur"
+  },
+  {
+    "code": "04036",
+    "flavor": "\"J'utilise des bioroïdes parce que je peux effacer leur mémoire, ou tout simplement leur exploser la cervelle une fois le boulot terminé. Quand je dis 'pas de témoin', ça veut dire 'pas de témoin'.\"",
+    "keywords": "Securité",
+    "text": "À chaque fois que vous faites des dégâts Hémo, faites 1 dégât Hémo supplémentaire.",
+    "title": "Les Nettoyeurs"
+  },
+  {
+    "code": "04037",
+    "flavor": "\"Ça n'a rien de personnel. La réhabilitation urbaine est une nécessité du monde moderne. C'est toujours la maison de quelqu'un, la vôtre ne fait pas exception.\"",
+    "keywords": "Cadre",
+    "text": "Lorsque vous activez Elizabeth Mills, retirez 1 pion Mauvaise Presse.\n[click], [trash]: Effacez 1 <strong>lieu</strong>. Prenez 1 pion Mauvaise Presse.",
+    "title": "Elizabeth Mills"
+  },
+  {
+    "code": "04038",
+    "text": "À installer uniquement sur un serveur distant.\nLe Runner ne peut pas lancer de piratage sur ce serveur.\nLorsque le Runner réussi un piratage sur le QG, effacez Hors-réseau.",
+    "title": "Hors-Réseau"
+  },
+  {
+    "code": "04039",
+    "flavor": "C'était étonnament facile de faire des créds… si vous ne vous souciiez pas de la facon dont vous les faisiez.",
+    "text": "Lorsque vous finalisez Affairisme, prenez jusqu'à 3 pions Mauvaise Presse. Gagnez 5[credit] pour chaque pion Mauvaise Presse pris.",
+    "title": "Affairisme"
+  },
+  {
+    "code": "04040",
+    "flavor": "Il y a pas mal de noms pour ceux qui travaillent dans le Département de la Direction. Mais, si tu aimes ton boulot, tu les appelles simplement \"monsieur\" ou \"m'dame\".",
+    "keywords": "Transaction",
+    "text": "Gagnez 15[credit].",
+    "title": "Restructuration"
+  }
 ]

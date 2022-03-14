@@ -1,131 +1,131 @@
 [
-    {
-        "code": "06001",
-        "text": "[click][click][click]: Lege 1 Agendazähler auf Schläfer im Hauspersonal.\nSchläfer im Hauspersonal ist 1 Agendapunkt wert, solange mindestens 1 Agendazähler darauf liegt.",
-        "title": "Schläfer im Hauspersonal"
-    },
-    {
-        "code": "06002",
-        "flavor": "Die Netzwerkfähigkeiten von NEXT-Ice sind unerreicht.",
-        "keywords": "Barriere - NEXT",
-        "text": "NEXT Silber erhält: \"[subroutine] Beende den Run.\" für jedes geladene <strong>NEXT</strong>-Ice.",
-        "title": "NEXT Silber"
-    },
-    {
-        "code": "06003",
-        "flavor": "\"Chi-Resonanzaufzeichnungen haben ein völlig neues Feld für die Netzwerksicherheit geschaffen. Es ist zwingende Perfektion\" -Akitaro Watanabe",
-        "keywords": "Code-Zugang",
-        "text": "Die Stärke von Lotusfeld kann nicht gesenkt werden.\n[subroutine] Beende den Run.",
-        "title": "Lotusfeld"
-    },
-    {
-        "code": "06004",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zerstöre ein geladenes Ice.\nDecke Karten oben von F&E auf, bis du ein Ice aufdeckst. Installiere und lade das Ice an derselben Position wie das zerstörte Ice, ohne die Kosten zu bezahlen. Mische F&E.",
-        "title": "Mutieren"
-    },
-    {
-        "code": "06005",
-        "flavor": "Nur die Nachrichten, die du brauchst.",
-        "keywords": "Abteilung",
-        "text": "Für das erste neu erschaffene System jedes Zuges ziehe 1 Karte.",
-        "title": "Erdnaher Knoten: Übertragungszentrum"
-    },
-    {
-        "code": "06006",
-        "flavor": "Funktioniert besser als ein mit Alufolie ausgeschlagener Regenschirm und eine Bierdose.",
-        "text": "3[recurring-credit]\nVerwende diese Credits während des Aufspürens.",
-        "title": "Primäre Übertragungsantenne"
-    },
-    {
-        "code": "06007",
-        "flavor": "Auf dem halben Weg upstalk ist Midway mit seinen Mikrogravitations-Hotels und exklusiven Restaurants selbst ein interessantes Ziel.",
-        "keywords": "Beanstalk - Region",
-        "text": "Jeds Mal, wenn der Runner einen <strong>Ice-Brecher</strong> verwendet, um mindestens 1 Subroutine während des Runs auf dieses System auszuschalten, muss er 1[credit] als zusätzliche Kosten zahlen.\nMaximal 1 <strong>Region</strong> pro System.",
-        "title": "Netz der Midway Station"
-    },
-    {
-        "code": "06008",
-        "flavor": "Sie hielten es für unmöglich, so etwas zu bauen. Hielten es für eine reine Fantasie. Sie nannten Jack Weyland einen Narren und sagten, er hätte auch die Narren in Washington gekauft. Aber Jahr um Jahr wuchs die Graphenstruktur und „sie“ verstummten.",
-        "keywords": "Beanstalk",
-        "text": "3[recurring-credit]\nVerwende diese Credits, um Karten zu entwickeln, zu installieren und zu laden.",
-        "title": "Die Wurzel"
-    },
-    {
-        "code": "06009",
-        "flavor": "Taurus versprach Stärke, bot aber nur Zorn.",
-        "keywords": "Wächter - Spürhund",
-        "text": "[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg zerstöre 1 Hardware. Falls deine Aufspürstärke 5 oder mehr ist, zerstöre 1 Hardware.",
-        "title": "Taurus"
-    },
-    {
-        "code": "06010",
-        "flavor": "Am ersten Tag blies Sie Daten in die Leere, die dort wie mit Juwelen besetzte Sterne hingen. Am zweiten Tag sprach Sie Ordnung in die Daten, und sie flossen von Bächen in Ströme und von Strömen in riesige Flüsse. Am dritten Tag erschuf sie Unabhängigkeit in der Ordnung und sie nahm zu und ab, ganz nach eigenem Willen - Der Gesang des Helios",
-        "keywords": "Mythisch",
-        "text": "Muttergöttin erhält die Unterarten von allem anderen Ice.\n[subroutine] Beende den Run.",
-        "title": "Muttergöttin"
-    },
-    {
-        "code": "06011",
-        "flavor": "E, der den Schild der Ehre trägt",
-        "keywords": "Barriere - Gral",
-        "text": "Sobald der Runner auf Galahad trifft, darfst du bis zu 2 <strong>Gral</strong>-Ice vom HQ aufdecken. Für den Rest des Runs erhält Galahad die Subroutinen des aufgedeckten Ice in der Reihenfolge deiner Wahl.\n[subroutine] Beende den Run.",
-        "title": "Galahad"
-    },
-    {
-        "code": "06012",
-        "flavor": "Unter Sysops auch bekannt als Malware 0-394-41525-6, von den Runnern nur \"Schlecht Zeiten\" genannt.",
-        "keywords": "Graue Ops",
-        "text": "Kann nur gespielt werden, falls der Runner markiert ist.\nDas Speicherlimit des Runners wird bis zum Ende des Zugs um 2 gesenkt.",
-        "title": "Schlechte Zeiten"
-    },
-    {
-        "code": "06013",
-        "keywords": "Priorität",
-        "text": "Kann nur als erster [click] gespielt werden.\nWähle ein System. Der Kon kann ein Ice, das dieses System schützt, laden. Falls er das nicht tut, führe einen Run auf das System durch, während dem der Kon kein Ice laden kann.",
-        "title": "Cyber-Bedrohung"
-    },
-    {
-        "code": "06014",
-        "keywords": "Virus",
-        "text": "Immer, wenn du einen erfolgreichen Run auf HQ durchführst, verliert der Kon 1[credit].\nZerstöre Neunauge, falls der Kon Viruszähler löscht.",
-        "title": "Neunauge"
-    },
-    {
-        "code": "06015",
-        "flavor": "Alles begann vor seinen Augen zu verschwimmen, als er die Referenzen nun schon zum wohl fünfzigsten Mal kopierte. Vielleicht wäre eine Genom-Anpassung einfacher gewesen.",
-        "keywords": "Priorität",
-        "text": "Kann nur als erster [click] gespielt werden.\nEntferne alle Markierungen.",
-        "title": "Identitätsdiebstahl"
-    },
-    {
-        "code": "06016",
-        "flavor": "\"Öffentliche Netzwerke, Verkaufsautomaten - es gibt lauter schlecht gesicherte Energiequellen in der Stadt. Nutz einfach eine davon und du hast ausreichend Saft, wenn du ihn brauchst. Außerdem gibt es so auch eine kleine Vorwarnung, wenn das Stromnetz anfängt sich seltsam zu verhalten.\" -Gabriel Santiago",
-        "text": "Du erhältst 1[credit], immer, wenn ein Aufspüren gestartet wird.",
-        "title": "Stromdiebstahl"
-    },
-    {
-        "code": "06017",
-        "keywords": "Cyborg",
-        "text": "Immer wenn du auf ein Ice triffst, das gerade geladen worden ist, verlierst du alle Credits in deinem Credit-Vorrat. Du erhältst Credits in Höhe der Ladekosten dieses Ice.",
-        "title": "Nasir Meidan: Cyber-Entdecker"
-    },
-    {
-        "code": "06018",
-        "keywords": "Priorität",
-        "text": "Kann nur als erster [click] gespielt werden.\nWähle ein ungeladenes Ice, Falls der Kon dieses Ice in diesem Zug lädt, erhältst du Credits in Höhe von dessen Ladekosten.",
-        "title": "Soziale Manipulation"
-    },
-    {
-        "code": "06019",
-        "flavor": "\"Ich hab mal gesehen, wie einer eine siebenfach verschachtelte Daemon-Struktur startete. Ohne guten Grund, nur einfach, weil er es konnte. Natürlich stürzte der Root-Prozeß ab und er verlor alles. Ich frag mich, was er inzwischen so macht?\" -Kate \"Mac\" McCaffrey",
-        "keywords": "Daemon",
-        "text": "Leprechaun kann bis zu 2 Programme hosten.\nDie Speicherkosten der gehosteten Programme zählen nicht gegen dein Speicherlimit.",
-        "title": "Leprechaun"
-    },
-    {
-        "code": "06020",
-        "keywords": "Virtuell - Quelle",
-        "text": "Immer wenn du einen erfolgreichen Run auf F&E durchführst, darfst du, statt auf Karten zuzugreifen, Scherbe von Eden aus deinem Griff installieren ohne die Kosten zu bezahlen.\n[trash]: Der Kon zieht 2 Karten.\nNur 1 pro Deck.",
-        "title": "Scherbe von Eden"
-    }
+  {
+    "code": "06001",
+    "text": "[click][click][click]: Lege 1 Agendazähler auf Schläfer im Hauspersonal.\nSchläfer im Hauspersonal ist 1 Agendapunkt wert, solange mindestens 1 Agendazähler darauf liegt.",
+    "title": "Schläfer im Hauspersonal"
+  },
+  {
+    "code": "06002",
+    "flavor": "Die Netzwerkfähigkeiten von NEXT-Ice sind unerreicht.",
+    "keywords": "Barriere - NEXT",
+    "text": "NEXT Silber erhält: \"[subroutine] Beende den Run.\" für jedes geladene <strong>NEXT</strong>-Ice.",
+    "title": "NEXT Silber"
+  },
+  {
+    "code": "06003",
+    "flavor": "\"Chi-Resonanzaufzeichnungen haben ein völlig neues Feld für die Netzwerksicherheit geschaffen. Es ist zwingende Perfektion\" -Akitaro Watanabe",
+    "keywords": "Code-Zugang",
+    "text": "Die Stärke von Lotusfeld kann nicht gesenkt werden.\n[subroutine] Beende den Run.",
+    "title": "Lotusfeld"
+  },
+  {
+    "code": "06004",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zerstöre ein geladenes Ice.\nDecke Karten oben von F&E auf, bis du ein Ice aufdeckst. Installiere und lade das Ice an derselben Position wie das zerstörte Ice, ohne die Kosten zu bezahlen. Mische F&E.",
+    "title": "Mutieren"
+  },
+  {
+    "code": "06005",
+    "flavor": "Nur die Nachrichten, die du brauchst.",
+    "keywords": "Abteilung",
+    "text": "Für das erste neu erschaffene System jedes Zuges ziehe 1 Karte.",
+    "title": "Erdnaher Knoten: Übertragungszentrum"
+  },
+  {
+    "code": "06006",
+    "flavor": "Funktioniert besser als ein mit Alufolie ausgeschlagener Regenschirm und eine Bierdose.",
+    "text": "3[recurring-credit]\nVerwende diese Credits während des Aufspürens.",
+    "title": "Primäre Übertragungsantenne"
+  },
+  {
+    "code": "06007",
+    "flavor": "Auf dem halben Weg upstalk ist Midway mit seinen Mikrogravitations-Hotels und exklusiven Restaurants selbst ein interessantes Ziel.",
+    "keywords": "Beanstalk - Region",
+    "text": "Jeds Mal, wenn der Runner einen <strong>Ice-Brecher</strong> verwendet, um mindestens 1 Subroutine während des Runs auf dieses System auszuschalten, muss er 1[credit] als zusätzliche Kosten zahlen.\nMaximal 1 <strong>Region</strong> pro System.",
+    "title": "Netz der Midway Station"
+  },
+  {
+    "code": "06008",
+    "flavor": "Sie hielten es für unmöglich, so etwas zu bauen. Hielten es für eine reine Fantasie. Sie nannten Jack Weyland einen Narren und sagten, er hätte auch die Narren in Washington gekauft. Aber Jahr um Jahr wuchs die Graphenstruktur und „sie“ verstummten.",
+    "keywords": "Beanstalk",
+    "text": "3[recurring-credit]\nVerwende diese Credits, um Karten zu entwickeln, zu installieren und zu laden.",
+    "title": "Die Wurzel"
+  },
+  {
+    "code": "06009",
+    "flavor": "Taurus versprach Stärke, bot aber nur Zorn.",
+    "keywords": "Wächter - Spürhund",
+    "text": "[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg zerstöre 1 Hardware. Falls deine Aufspürstärke 5 oder mehr ist, zerstöre 1 Hardware.",
+    "title": "Taurus"
+  },
+  {
+    "code": "06010",
+    "flavor": "Am ersten Tag blies Sie Daten in die Leere, die dort wie mit Juwelen besetzte Sterne hingen. Am zweiten Tag sprach Sie Ordnung in die Daten, und sie flossen von Bächen in Ströme und von Strömen in riesige Flüsse. Am dritten Tag erschuf sie Unabhängigkeit in der Ordnung und sie nahm zu und ab, ganz nach eigenem Willen - Der Gesang des Helios",
+    "keywords": "Mythisch",
+    "text": "Muttergöttin erhält die Unterarten von allem anderen Ice.\n[subroutine] Beende den Run.",
+    "title": "Muttergöttin"
+  },
+  {
+    "code": "06011",
+    "flavor": "E, der den Schild der Ehre trägt",
+    "keywords": "Barriere - Gral",
+    "text": "Sobald der Runner auf Galahad trifft, darfst du bis zu 2 <strong>Gral</strong>-Ice vom HQ aufdecken. Für den Rest des Runs erhält Galahad die Subroutinen des aufgedeckten Ice in der Reihenfolge deiner Wahl.\n[subroutine] Beende den Run.",
+    "title": "Galahad"
+  },
+  {
+    "code": "06012",
+    "flavor": "Unter Sysops auch bekannt als Malware 0-394-41525-6, von den Runnern nur \"Schlecht Zeiten\" genannt.",
+    "keywords": "Graue Ops",
+    "text": "Kann nur gespielt werden, falls der Runner markiert ist.\nDas Speicherlimit des Runners wird bis zum Ende des Zugs um 2 gesenkt.",
+    "title": "Schlechte Zeiten"
+  },
+  {
+    "code": "06013",
+    "keywords": "Priorität",
+    "text": "Kann nur als erster [click] gespielt werden.\nWähle ein System. Der Kon kann ein Ice, das dieses System schützt, laden. Falls er das nicht tut, führe einen Run auf das System durch, während dem der Kon kein Ice laden kann.",
+    "title": "Cyber-Bedrohung"
+  },
+  {
+    "code": "06014",
+    "keywords": "Virus",
+    "text": "Immer, wenn du einen erfolgreichen Run auf HQ durchführst, verliert der Kon 1[credit].\nZerstöre Neunauge, falls der Kon Viruszähler löscht.",
+    "title": "Neunauge"
+  },
+  {
+    "code": "06015",
+    "flavor": "Alles begann vor seinen Augen zu verschwimmen, als er die Referenzen nun schon zum wohl fünfzigsten Mal kopierte. Vielleicht wäre eine Genom-Anpassung einfacher gewesen.",
+    "keywords": "Priorität",
+    "text": "Kann nur als erster [click] gespielt werden.\nEntferne alle Markierungen.",
+    "title": "Identitätsdiebstahl"
+  },
+  {
+    "code": "06016",
+    "flavor": "\"Öffentliche Netzwerke, Verkaufsautomaten - es gibt lauter schlecht gesicherte Energiequellen in der Stadt. Nutz einfach eine davon und du hast ausreichend Saft, wenn du ihn brauchst. Außerdem gibt es so auch eine kleine Vorwarnung, wenn das Stromnetz anfängt sich seltsam zu verhalten.\" -Gabriel Santiago",
+    "text": "Du erhältst 1[credit], immer, wenn ein Aufspüren gestartet wird.",
+    "title": "Stromdiebstahl"
+  },
+  {
+    "code": "06017",
+    "keywords": "Cyborg",
+    "text": "Immer wenn du auf ein Ice triffst, das gerade geladen worden ist, verlierst du alle Credits in deinem Credit-Vorrat. Du erhältst Credits in Höhe der Ladekosten dieses Ice.",
+    "title": "Nasir Meidan: Cyber-Entdecker"
+  },
+  {
+    "code": "06018",
+    "keywords": "Priorität",
+    "text": "Kann nur als erster [click] gespielt werden.\nWähle ein ungeladenes Ice, Falls der Kon dieses Ice in diesem Zug lädt, erhältst du Credits in Höhe von dessen Ladekosten.",
+    "title": "Soziale Manipulation"
+  },
+  {
+    "code": "06019",
+    "flavor": "\"Ich hab mal gesehen, wie einer eine siebenfach verschachtelte Daemon-Struktur startete. Ohne guten Grund, nur einfach, weil er es konnte. Natürlich stürzte der Root-Prozeß ab und er verlor alles. Ich frag mich, was er inzwischen so macht?\" -Kate \"Mac\" McCaffrey",
+    "keywords": "Daemon",
+    "text": "Leprechaun kann bis zu 2 Programme hosten.\nDie Speicherkosten der gehosteten Programme zählen nicht gegen dein Speicherlimit.",
+    "title": "Leprechaun"
+  },
+  {
+    "code": "06020",
+    "keywords": "Virtuell - Quelle",
+    "text": "Immer wenn du einen erfolgreichen Run auf F&E durchführst, darfst du, statt auf Karten zuzugreifen, Scherbe von Eden aus deinem Griff installieren ohne die Kosten zu bezahlen.\n[trash]: Der Kon zieht 2 Karten.\nNur 1 pro Deck.",
+    "title": "Scherbe von Eden"
+  }
 ]

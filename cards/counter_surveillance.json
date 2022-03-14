@@ -1,0 +1,15 @@
+{
+  "card_type_id": "resource",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "counter_surveillance",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "click, trash: Run any server. If successful, instead of breaching the attacked server, pay X credits if able, where X is equal to the number of tags you have. If you do, choose a number less than or equal to X. Access that many cards in and/or in the root of the attacked server. (If you cannot pay, you will not access anything.)",
+  "stripped_title": "Counter Surveillance",
+  "subtypes": ["clan"],
+  "text": "<strong>[click]</strong>, <strong>[trash]:</strong> Run any server. If successful, instead of breaching the attacked server, pay X[credit] if able, where X is equal to the number of tags you have. If you do, choose a number less than or equal to X. Access that many cards in and/or in the root of the attacked server. <em>(If you cannot pay, you will not access anything.)</em>",
+  "title": "Counter Surveillance"
+}

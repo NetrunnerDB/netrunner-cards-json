@@ -1,0 +1,15 @@
+{
+  "card_type_id": "operation",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "bioroid_efficiency_research",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Rez a piece of bioroid ice, ignoring all costs, and install Bioroid Efficiency Research on that ice as a hosted condition counter with the text \"Trash Bioroid Efficiency Research and derez host ice if all of its subroutines are broken during a single encounter.\"",
+  "stripped_title": "Bioroid Efficiency Research",
+  "subtypes": ["condition"],
+  "text": "Rez a piece of <strong>bioroid</strong> ice, ignoring all costs, and install Bioroid Efficiency Research on that ice as a hosted condition counter with the text \"Trash Bioroid Efficiency Research and derez host ice if all of its subroutines are broken during a single encounter.\"",
+  "title": "Bioroid Efficiency Research"
+}

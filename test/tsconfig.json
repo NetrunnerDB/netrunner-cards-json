@@ -1,18 +1,12 @@
 {
-	"extends": "../tsconfig.json",
-	"compilerOptions": {
-		"baseUrl": "./",
-		"module": "commonjs",
-		"strictPropertyInitialization": false,
-		"isolatedModules": false,
-		"typeRoots" : [
-			"../node_modules/@types"
-		]
-	},
-	"exclude": [
-		"../node_modules"
-	],
-	"include": [
-		"./**/*.ts"
-	]
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "./",
+    "module": "commonjs",
+    "strictPropertyInitialization": false,
+    "isolatedModules": false,
+    "typeRoots": ["../node_modules/@types"]
+  },
+  "exclude": ["../node_modules"],
+  "include": ["./**/*.ts"]
 }

@@ -1,122 +1,122 @@
 [
-    {
-        "code": "10020",
-        "flavor": "\"No! Non farla esplodere QUI DENTRO!\"",
-        "keywords": "Bomba",
-        "text": "[trash]: La Corp non può materializzare più di 1 pezzo di ghiaccio per il resto di questa incursione. Questa capacità è utilizzabile solo durante un'incursione.",
-        "title": "Congegno EMP"
-    },
-    {
-        "code": "10021",
-        "keywords": "Virus",
-        "text": "Quando Diwan viene installato, scegli un server.\nCome costo aggiuntivo per installare una carta in un server o a protezione di quel server, la Corp deve pagare 1[credit].\nElimina Diwan se la Corp epura segnalini virus.",
-        "title": "Diwan"
-    },
-    {
-        "code": "10022",
-        "keywords": "Incursione - Sabotaggio",
-        "text": "Effettua un'incursione del QG. Se riuscita, invece di accedere alle carte, la Corp aggiunge tutte le carte nel QG in cima a R&S, nell'ordine di sua scelta.",
-        "title": "Irruzione nel CBI"
-    },
-    {
-        "code": "10023",
-        "flavor": "\"Perché sbarazzarsi di una prova perfettamente valida quando invece puoi venderla?\"",
-        "keywords": "Contatto",
-        "text": "Ogni volta che usi una capacità [trash], ottieni 1[credit].",
-        "title": "Rivenditore di Tecnologia"
-    },
-    {
-        "code": "10024",
-        "keywords": "Fascia Consumatori - Chip",
-        "text": "NetChip può ospitare un programma con un costo di memoria pari o inferiore al numero di copie di NetChip installate.\nIl costo di memoria del programma ospitato non conta ai fini di determinare il tuo limite di memoria. Limite di 6 per mazzo.",
-        "title": "NetChip"
-    },
-    {
-        "code": "10025",
-        "flavor": "\"Possiamo essere indignati, ma non certo sorpresi.\" - Sunder",
-        "keywords": "Corrente",
-        "text": "Questa carta non viene eliminata finché un'altra <strong>corrente</strong> non viene giocata o un obiettivo non viene rimosso.\nLa corp ha 1 cattiva pubblicità aggiuntiva (anche se ne ha 0).",
-        "title": "Scandalo Corporativo"
-    },
-    {
-        "code": "10026",
-        "flavor": "\"Le corporazioni saranno anche più forti di ognuno di noi, ma non sono più forti di tutti noi.\" -Akshara Sareen",
-        "text": "Giocabile solo se hai almeno 1 carta <strong>malfamato</strong> instllata.\nLa Corp ha 1[click] in meno da spendere nel suo prossimo turno.",
-        "title": "Adunata Populista"
-    },
-    {
-        "code": "10027",
-        "keywords": "Struttura",
-        "text": "Quando materializzi Catena di Montaggio Avanzata, ottieni 3[credit].\n[trash]: Installa una carta che non sia un obiettivo dal QG (pagandone il costo di installazione). Non puoi usare questa capacità durante un'incursione.",
-        "title": "Catena di Montaggio Avanzata"
-    },
-    {
-        "code": "10028",
-        "text": "Ogni volta che materializzi una carta, colloca 1 segnalino potenza su Lakshmi Smartfabrics.\n <strong>X segnalini potenza ospitati</strong>: Rivela un obiettivo del valore di X punti dal QG. In Runner non può rubare copie di quell'obiettivo per il resto di questo turno.",
-        "title": "Lakshmi Smartfabrics"
-    },
-    {
-        "code": "10029",
-        "keywords": "Alleanza",
-        "text": "Questa carta costa 0 influenza se hai 6 o più carte [haas-bioroid] che non siano <strong>alleanza</strong> nel tuo mazzo.\n Elimina un asset o un aggiornamento materializzato. Se lo fai, ottieni un numero di crediti pari al suo costo di eliminazione.",
-        "title": "Prodotto Ritirato"
-    },
-    {
-        "code": "10030",
-        "flavor": "Siamo Ciò Che Mangiamo.",
-        "keywords": "Divisione",
-        "text": "Ogni turno, la prima volta che il Runner pesca una carta, ottieni 1[credit].",
-        "title": "Pālanā Foods: Crescita Sostenibile"
-    },
-    {
-        "code": "10031",
-        "flavor": "Costosi da costruire, ma smisuratamente più efficaci delle coltivazioni tradizionali, gli agroplex sono l'emblema dell'inevitabile inglobamento dell'industria alimentare da parte delle corporazioni.",
-        "keywords": "Struttura",
-        "text": "Quando il tuo turno ha inizio, ogni giocatore pesca una carta.",
-        "title": "Agroplex di Pālanā"
-    },
-    {
-        "code": "10032",
-        "flavor": "\"Possiamo aiutare gli altri, e allo stesso tempo aiutare noi stessi.\" -Soraiya Suresh, VP Programmi Pubblici",
-        "keywords": "Portale Codificato",
-        "text": "[subroutine] Il Runner pesca 3 carte e poi scarta fino a rientrare nel limite massimo della sua mano.\n[subroutine] Il Runner pesca 3 carte e poi scarta fino a rientrare nel limite massimo della sua mano.",
-        "title": "Mietitore"
-    },
-    {
-        "code": "10033",
-        "flavor": "I dati, e non il cibo, sono uno dei principali beni esportati dal distretto di Gujarat di Mumbad.",
-        "keywords": "Espansione",
-        "text": "Il limite massimo della tua mano aumenta di 2.",
-        "title": "Coltura Dati Remota"
-    },
-    {
-        "code": "10034",
-        "keywords": "Imboscata",
-        "text": "Se il Runner accede al QG Sacrificabile da R&S, deve rivelarlo.\nQuando il Runner accede a QG Sacrificabile, puoi aggiungere un qualsiasi numero di carte dal QG al fondo di R&S.",
-        "title": "QG Sacrificabile"
-    },
-    {
-        "code": "10035",
-        "keywords": "Pubblico",
-        "text": "Installa Nuova Costruzione a faccia in su.\nOgni volta che fai progredire Nuova Costruzione, puoi installare una carta dal QG in un nuovo server (e materializzare quella carta ignorandone tutti i costi, se ci sono 5 o più gettoni progresso su Nuova Costruzione).",
-        "title": "Nuova Costruzione"
-    },
-    {
-        "code": "10036",
-        "text": "Quando il tuo turno ha inizio, colloca 1 gettone progresso su Compagnia Edile di Mumbad.\n 2[credit]: Sposta 1 gettone progresso da Compagnia Edile di Mumbad a una carta a faccia in su.",
-        "title": "Compagnia Edile di Mumbad"
-    },
-    {
-        "code": "10037",
-        "flavor": "\"Tu ce l'hai. Noi lo vendiamo. Loro lo comprano. Tutti felici.\"",
-        "keywords": "Espansione",
-        "text": "Quando riscuoti il punteggio di Squadra di Vendita Corporativa, colloca 10 [credit] su di essa.\n Quando il turnodi ogni giocatore ha inizio, prendi 1[credit] da Squadra di Vendita Corporativa.",
-        "title": "Squadra di Vendita Corporativa"
-    },
-    {
-        "code": "10038",
-        "keywords": "Alleanza - Struttura",
-        "text": "Questa carta costa 0 influenza se hai 3 Campagna Pubblicitaria PAD nel tuo mazzo.\n[click]: Colloca 1 gettone progresso su questa carta.\nNon puoi riscuotere il punteggio di quella carta finché il tuo prossimo turno non ha inizio.",
-        "title": "Fabbrica di PAD"
-    }
+  {
+    "code": "10020",
+    "flavor": "\"No! Non farla esplodere QUI DENTRO!\"",
+    "keywords": "Bomba",
+    "text": "[trash]: La Corp non può materializzare più di 1 pezzo di ghiaccio per il resto di questa incursione. Questa capacità è utilizzabile solo durante un'incursione.",
+    "title": "Congegno EMP"
+  },
+  {
+    "code": "10021",
+    "keywords": "Virus",
+    "text": "Quando Diwan viene installato, scegli un server.\nCome costo aggiuntivo per installare una carta in un server o a protezione di quel server, la Corp deve pagare 1[credit].\nElimina Diwan se la Corp epura segnalini virus.",
+    "title": "Diwan"
+  },
+  {
+    "code": "10022",
+    "keywords": "Incursione - Sabotaggio",
+    "text": "Effettua un'incursione del QG. Se riuscita, invece di accedere alle carte, la Corp aggiunge tutte le carte nel QG in cima a R&S, nell'ordine di sua scelta.",
+    "title": "Irruzione nel CBI"
+  },
+  {
+    "code": "10023",
+    "flavor": "\"Perché sbarazzarsi di una prova perfettamente valida quando invece puoi venderla?\"",
+    "keywords": "Contatto",
+    "text": "Ogni volta che usi una capacità [trash], ottieni 1[credit].",
+    "title": "Rivenditore di Tecnologia"
+  },
+  {
+    "code": "10024",
+    "keywords": "Fascia Consumatori - Chip",
+    "text": "NetChip può ospitare un programma con un costo di memoria pari o inferiore al numero di copie di NetChip installate.\nIl costo di memoria del programma ospitato non conta ai fini di determinare il tuo limite di memoria. Limite di 6 per mazzo.",
+    "title": "NetChip"
+  },
+  {
+    "code": "10025",
+    "flavor": "\"Possiamo essere indignati, ma non certo sorpresi.\" - Sunder",
+    "keywords": "Corrente",
+    "text": "Questa carta non viene eliminata finché un'altra <strong>corrente</strong> non viene giocata o un obiettivo non viene rimosso.\nLa corp ha 1 cattiva pubblicità aggiuntiva (anche se ne ha 0).",
+    "title": "Scandalo Corporativo"
+  },
+  {
+    "code": "10026",
+    "flavor": "\"Le corporazioni saranno anche più forti di ognuno di noi, ma non sono più forti di tutti noi.\" -Akshara Sareen",
+    "text": "Giocabile solo se hai almeno 1 carta <strong>malfamato</strong> instllata.\nLa Corp ha 1[click] in meno da spendere nel suo prossimo turno.",
+    "title": "Adunata Populista"
+  },
+  {
+    "code": "10027",
+    "keywords": "Struttura",
+    "text": "Quando materializzi Catena di Montaggio Avanzata, ottieni 3[credit].\n[trash]: Installa una carta che non sia un obiettivo dal QG (pagandone il costo di installazione). Non puoi usare questa capacità durante un'incursione.",
+    "title": "Catena di Montaggio Avanzata"
+  },
+  {
+    "code": "10028",
+    "text": "Ogni volta che materializzi una carta, colloca 1 segnalino potenza su Lakshmi Smartfabrics.\n <strong>X segnalini potenza ospitati</strong>: Rivela un obiettivo del valore di X punti dal QG. In Runner non può rubare copie di quell'obiettivo per il resto di questo turno.",
+    "title": "Lakshmi Smartfabrics"
+  },
+  {
+    "code": "10029",
+    "keywords": "Alleanza",
+    "text": "Questa carta costa 0 influenza se hai 6 o più carte [haas-bioroid] che non siano <strong>alleanza</strong> nel tuo mazzo.\n Elimina un asset o un aggiornamento materializzato. Se lo fai, ottieni un numero di crediti pari al suo costo di eliminazione.",
+    "title": "Prodotto Ritirato"
+  },
+  {
+    "code": "10030",
+    "flavor": "Siamo Ciò Che Mangiamo.",
+    "keywords": "Divisione",
+    "text": "Ogni turno, la prima volta che il Runner pesca una carta, ottieni 1[credit].",
+    "title": "Pālanā Foods: Crescita Sostenibile"
+  },
+  {
+    "code": "10031",
+    "flavor": "Costosi da costruire, ma smisuratamente più efficaci delle coltivazioni tradizionali, gli agroplex sono l'emblema dell'inevitabile inglobamento dell'industria alimentare da parte delle corporazioni.",
+    "keywords": "Struttura",
+    "text": "Quando il tuo turno ha inizio, ogni giocatore pesca una carta.",
+    "title": "Agroplex di Pālanā"
+  },
+  {
+    "code": "10032",
+    "flavor": "\"Possiamo aiutare gli altri, e allo stesso tempo aiutare noi stessi.\" -Soraiya Suresh, VP Programmi Pubblici",
+    "keywords": "Portale Codificato",
+    "text": "[subroutine] Il Runner pesca 3 carte e poi scarta fino a rientrare nel limite massimo della sua mano.\n[subroutine] Il Runner pesca 3 carte e poi scarta fino a rientrare nel limite massimo della sua mano.",
+    "title": "Mietitore"
+  },
+  {
+    "code": "10033",
+    "flavor": "I dati, e non il cibo, sono uno dei principali beni esportati dal distretto di Gujarat di Mumbad.",
+    "keywords": "Espansione",
+    "text": "Il limite massimo della tua mano aumenta di 2.",
+    "title": "Coltura Dati Remota"
+  },
+  {
+    "code": "10034",
+    "keywords": "Imboscata",
+    "text": "Se il Runner accede al QG Sacrificabile da R&S, deve rivelarlo.\nQuando il Runner accede a QG Sacrificabile, puoi aggiungere un qualsiasi numero di carte dal QG al fondo di R&S.",
+    "title": "QG Sacrificabile"
+  },
+  {
+    "code": "10035",
+    "keywords": "Pubblico",
+    "text": "Installa Nuova Costruzione a faccia in su.\nOgni volta che fai progredire Nuova Costruzione, puoi installare una carta dal QG in un nuovo server (e materializzare quella carta ignorandone tutti i costi, se ci sono 5 o più gettoni progresso su Nuova Costruzione).",
+    "title": "Nuova Costruzione"
+  },
+  {
+    "code": "10036",
+    "text": "Quando il tuo turno ha inizio, colloca 1 gettone progresso su Compagnia Edile di Mumbad.\n 2[credit]: Sposta 1 gettone progresso da Compagnia Edile di Mumbad a una carta a faccia in su.",
+    "title": "Compagnia Edile di Mumbad"
+  },
+  {
+    "code": "10037",
+    "flavor": "\"Tu ce l'hai. Noi lo vendiamo. Loro lo comprano. Tutti felici.\"",
+    "keywords": "Espansione",
+    "text": "Quando riscuoti il punteggio di Squadra di Vendita Corporativa, colloca 10 [credit] su di essa.\n Quando il turnodi ogni giocatore ha inizio, prendi 1[credit] da Squadra di Vendita Corporativa.",
+    "title": "Squadra di Vendita Corporativa"
+  },
+  {
+    "code": "10038",
+    "keywords": "Alleanza - Struttura",
+    "text": "Questa carta costa 0 influenza se hai 3 Campagna Pubblicitaria PAD nel tuo mazzo.\n[click]: Colloca 1 gettone progresso su questa carta.\nNon puoi riscuotere il punteggio di quella carta finché il tuo prossimo turno non ha inizio.",
+    "title": "Fabbrica di PAD"
+  }
 ]

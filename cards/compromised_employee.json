@@ -1,0 +1,15 @@
+{
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "compromised_employee",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "1 recurring credit Use this credit during traces. Gain 1 credit whenever the Corp rezzes a piece of ice.",
+  "stripped_title": "Compromised Employee",
+  "subtypes": ["connection", "link"],
+  "text": "1[recurring-credit]\nUse this credit during traces.\nGain 1[credit] whenever the Corp rezzes a piece of ice.",
+  "title": "Compromised Employee"
+}

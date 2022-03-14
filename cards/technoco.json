@@ -1,0 +1,16 @@
+{
+  "card_type_id": "asset",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "technoco",
+  "influence_cost": 0,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "The install cost of each program, piece of hardware, and virtual resource is increased by 1. Whenever the Runner installs a program, piece of hardware, or virtual resource, you may gain 1 credit.",
+  "stripped_title": "TechnoCo",
+  "subtypes": ["corporation"],
+  "text": "The install cost of each program, piece of hardware, and <strong>virtual</strong> resource is increased by 1.\nWhenever the Runner installs a program, piece of hardware, or <strong>virtual</strong> resource, you may gain 1[credit].",
+  "title": "TechnoCo",
+  "trash_cost": 2
+}

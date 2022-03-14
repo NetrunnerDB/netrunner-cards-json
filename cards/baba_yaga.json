@@ -1,0 +1,17 @@
+{
+  "card_type_id": "program",
+  "cost": 5,
+  "deck_limit": 3,
+  "faction_id": "neutral-runner",
+  "id": "baba_yaga",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 0,
+  "stripped_text": "You may host any number of non-AI icebreaker programs on this program. This program gains the paid abilities of all hosted icebreaker programs.",
+  "stripped_title": "Baba Yaga",
+  "subtypes": ["icebreaker", "ai"],
+  "text": "You may host any number of non-<strong>AI</strong> <strong>icebreaker</strong> programs on this program.\nThis program gains the paid abilities of all hosted <strong>icebreaker</strong> programs.",
+  "title": "Baba Yaga"
+}

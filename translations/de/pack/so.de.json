@@ -1,129 +1,129 @@
 [
-    {
-        "code": "12021",
-        "flavor": "\"Sicher, das Implantieren verlief gut, aber es pumpt Burn. Hast du wirklich gedacht, es würde nicht weh tun?\"",
-        "keywords": "Kybernetik",
-        "text": "[click]: Führe einen Run auf F&E oder HQ durch und zerstöre 2 oder mehr Karten aus deinem Griff. Immer wenn du bis zum Ende des Runs auf Karten in diesem System zugreifst, greife auf 1 zusätzliche Karte pro 2 zerstörte Karten zu.",
-        "title": "Severnius Stim-Implantat"
-    },
-    {
-        "code": "12022",
-        "flavor": "\"Auge um Auge? Wenn du Glück hast, verlierst du nicht noch mehr.\"",
-        "keywords": "Clan",
-        "text": "Immer wenn du eine beliebige Menge Schaden erleidest, lege 1 Wirkungszähler auf Vergeltung des Clans.\n[trash]: Zerstöre für jeden Wirkungszähler auf Vergeltung des Clans 1 zufällige Karte aus dem HQ.",
-        "title": "Vergeltung des Clans"
-    },
-    {
-        "code": "12023",
-        "flavor": "\"Wer wacht über die Wächter? Wir.\"",
-        "keywords": "Clan",
-        "text": "[click], [trash]: Führe einen Run durch. Bei Erfolg zahlst du X[credit], statt auf Karten zuzugreifen, um falls möglich auf bis zu X Karten in diesem System zuzugreifen. X ist die Anzahl deiner Markierungen.",
-        "title": "Gegenüberwachung"
-    },
-    {
-        "code": "12024",
-        "keywords": "Run",
-        "text": "Führe einen Run auf F&E durch. Bei Erfolg darfst du einen weiteren Run auf F&E durchführen, sobald dieser Run endet. Falls der zweite Run erfolgreich ist, erhältst du 4[credit]",
-        "title": "Möbius"
-    },
-    {
-        "code": "12025",
-        "flavor": "\"Vom Code zum Ertrag in nur drei einfachen Schritten.\"",
-        "keywords": "G-Mod",
-        "text": "Wenn der Kon zum ersten Mal in einem Zug ein Ice lädt, erhältst du 2[credit].",
-        "title": "Los: Datenpirat"
-    },
-    {
-        "code": "12026",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder die Punkte für eine Agenda erzielt werden.\nBeim ersten <strong>Ice-Brecher</strong>, dessen Stärke du in jedem Zug erhöhst, wird seine Grundstärke bis zum Ende des Runs nicht zurückgesetzt.",
-        "title": "Systembefall"
-    },
-    {
-        "code": "12027",
-        "text": "Sobald du Personalisierter Assistent installierst, decke die obersten 5 Karten deines Stapels auf. Du darfst eine beliebige Anzahl aufgedeckter Programme von deinem Stapel darauf hosten. Mische deinen Stapel.\n[click]: Installiere ein gehostetes Programm (und bezahle die Kosten dafür).",
-        "title": "Personalisierter Assistent"
-    },
-    {
-        "code": "12028",
-        "flavor": "Manchmal ist Effizienz so einfach: Routinearbeiten werden an einem dafür vorgesehenen Verarbeiter weitergegeben.",
-        "text": "Du erhältst 1[credit] und ziehst 2 Karten.",
-        "title": "Bau-Skript"
-    },
-    {
-        "code": "12029",
-        "keywords": "Barriere",
-        "text": "Seidrs adaptive Barriere hat +1 Stärke für jedes Ice, das dieses System schützt.\n[subroutine] Beende den Run.",
-        "title": "Seidrs adaptive Barriere"
-    },
-    {
-        "code": "12030",
-        "flavor": "\"Ergib dich.\"",
-        "keywords": "Code-Zugang - Bioroid - AP",
-        "text": "Der Runner kann [click] [click] ausgeben, um bis zu 2 Subroutinen auf Nerine 2.0 auszuschalten.\n[subroutine] Verursache 1 Hirn-Schaden. Der Kon darf 1 Karte ziehen.\n[subroutine] Verursache 1 Hirn-Schaden. Der Kon darf 1 Karte ziehen.",
-        "title": "Nerine 2.0"
-    },
-    {
-        "code": "12031",
-        "flavor": "\"Vertrau mir, die meisten Kons können mit der Performance unseres durch Gehirn-Kartierung verbesserten Systems nicht mithalten; eine selbst zusammengestellte Ausrüstung hat da erst recht keine Chance.\" - Rachel Giacomin",
-        "text": "Sobald der nächste Zug des Runners beginnt, verliert er [click].",
-        "title": "Belastungstest"
-    },
-    {
-        "code": "12032",
-        "keywords": "Code-Zugang - Beobachter",
-        "text": "[subroutine] Du darfst ein Ice aus dem HQ installieren (ohne die Kosten zu bezahlen), sodass es ein anderes System schützt.\n[subroutine] Du darfst ein Ice aus dem HQ eine Position weiter innen in diesem System installieren (ohne die Kosten zu bezahlen), sodass es dieses System schützt.",
-        "title": "Blüte"
-    },
-    {
-        "code": "12033",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nFüge eine deiner installierten KArten dem HQ hinzu. Installiere 2 Karten vom HQ, ohne die Kosten dafür zu bezahlen.",
-        "title": "Neubepflanzung"
-    },
-    {
-        "code": "12034",
-        "flavor": "\"Der Kunde zahlt für unsere Dienstleistungen und dann bezahlen uns die Werbetreibenden, um die Anzeigen ausstrahlen zu dürfen, und dann bezahlen uns die Kunden für einen Premium-Account ohne Werbung. Willkommen in unserem Traum.\"",
-        "keywords": "Werbung",
-        "text": "Wenn der Runner zum ersten Mal in seinem Zug [click] ausgibt, um 1[credit] zu erhalten (nicht durch einen Karteneffekt), erhältst du 1[credit].",
-        "title": "CPC-Generator"
-    },
-    {
-        "code": "12035",
-        "keywords": "Code-Zugang",
-        "text": "<strong>Gehosteter Wirkungszähler</strong>: Der Runner verliert 1[credit].\n[subroutine] Lege 1 Wirkungszähler auf TANSTAAFL.\n[subroutine] Lege 1 Wirkungszähler auf TANSTAAFL.",
-        "title": "TANSTAAFL"
-    },
-    {
-        "code": "12036",
-        "keywords": "Final",
-        "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nInstalliere MCA-Informant auf einen <strong>Kontakt</strong>-Ressource als gehosteten Bedingungsmarker mit dem Text: \"Der Runner wird behandelt, als hätter er 1 zusätzliche Markierung. Der hostende <strong>Kontakt</strong> erhält '[click], 2[credit]: Zerstöre diese Karte.'\"",
-        "title": "MCA-Informant"
-    },
-    {
-        "code": "12037",
-        "flavor": "\"Sie haben zwei Möglichkeiten: Entweder Sie tun, was ich von Ihnen verlange oder ich verlange es erneut. Sie haben die Wahl, aber wenn ich es erneut verlangen muss, wird das für Sie sehr unangenehm.\"",
-        "keywords": "Führungskraft",
-        "text": "Wenn dein Zug beginnt, muss der Runner 1[credit] zahlen oder die oberste Karte des Stapels zerstören.",
-        "title": "Clyde Van Rite"
-    },
-    {
-        "code": "12038",
-        "flavor": "416d20472046204720416d",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Durchsuche F&E nach einer Karte und füge sie dem HQ hinzu. Mische F&E.",
-        "title": "Wachturm"
-    },
-    {
-        "code": "12039",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation gib eine Agenda auf.\nEntferne 1 Negative Publicity pro Agendapunkt, den die aufgegebene Agenda wert war. Due erhältst 1[credit] für jeden entfernten Punkt Negative Publicity.",
-        "title": "Aufopferung"
-    },
-    {
-        "code": "12040",
-        "flavor": "\"Meine besten Tricks wurden mit einem Achselzucken abgetan. Am Ende musste ich einen Selbstzerstörungscode in das gesamte System schicken.\" - Wyvern",
-        "keywords": "Barriere",
-        "text": "Die Stärke von Selbstanpassende Codemauer kann nicht gesenkt werden.\n[subroutine] Beende den Run.",
-        "title": "Selbstanpassende Codemauer"
-    }
+  {
+    "code": "12021",
+    "flavor": "\"Sicher, das Implantieren verlief gut, aber es pumpt Burn. Hast du wirklich gedacht, es würde nicht weh tun?\"",
+    "keywords": "Kybernetik",
+    "text": "[click]: Führe einen Run auf F&E oder HQ durch und zerstöre 2 oder mehr Karten aus deinem Griff. Immer wenn du bis zum Ende des Runs auf Karten in diesem System zugreifst, greife auf 1 zusätzliche Karte pro 2 zerstörte Karten zu.",
+    "title": "Severnius Stim-Implantat"
+  },
+  {
+    "code": "12022",
+    "flavor": "\"Auge um Auge? Wenn du Glück hast, verlierst du nicht noch mehr.\"",
+    "keywords": "Clan",
+    "text": "Immer wenn du eine beliebige Menge Schaden erleidest, lege 1 Wirkungszähler auf Vergeltung des Clans.\n[trash]: Zerstöre für jeden Wirkungszähler auf Vergeltung des Clans 1 zufällige Karte aus dem HQ.",
+    "title": "Vergeltung des Clans"
+  },
+  {
+    "code": "12023",
+    "flavor": "\"Wer wacht über die Wächter? Wir.\"",
+    "keywords": "Clan",
+    "text": "[click], [trash]: Führe einen Run durch. Bei Erfolg zahlst du X[credit], statt auf Karten zuzugreifen, um falls möglich auf bis zu X Karten in diesem System zuzugreifen. X ist die Anzahl deiner Markierungen.",
+    "title": "Gegenüberwachung"
+  },
+  {
+    "code": "12024",
+    "keywords": "Run",
+    "text": "Führe einen Run auf F&E durch. Bei Erfolg darfst du einen weiteren Run auf F&E durchführen, sobald dieser Run endet. Falls der zweite Run erfolgreich ist, erhältst du 4[credit]",
+    "title": "Möbius"
+  },
+  {
+    "code": "12025",
+    "flavor": "\"Vom Code zum Ertrag in nur drei einfachen Schritten.\"",
+    "keywords": "G-Mod",
+    "text": "Wenn der Kon zum ersten Mal in einem Zug ein Ice lädt, erhältst du 2[credit].",
+    "title": "Los: Datenpirat"
+  },
+  {
+    "code": "12026",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder die Punkte für eine Agenda erzielt werden.\nBeim ersten <strong>Ice-Brecher</strong>, dessen Stärke du in jedem Zug erhöhst, wird seine Grundstärke bis zum Ende des Runs nicht zurückgesetzt.",
+    "title": "Systembefall"
+  },
+  {
+    "code": "12027",
+    "text": "Sobald du Personalisierter Assistent installierst, decke die obersten 5 Karten deines Stapels auf. Du darfst eine beliebige Anzahl aufgedeckter Programme von deinem Stapel darauf hosten. Mische deinen Stapel.\n[click]: Installiere ein gehostetes Programm (und bezahle die Kosten dafür).",
+    "title": "Personalisierter Assistent"
+  },
+  {
+    "code": "12028",
+    "flavor": "Manchmal ist Effizienz so einfach: Routinearbeiten werden an einem dafür vorgesehenen Verarbeiter weitergegeben.",
+    "text": "Du erhältst 1[credit] und ziehst 2 Karten.",
+    "title": "Bau-Skript"
+  },
+  {
+    "code": "12029",
+    "keywords": "Barriere",
+    "text": "Seidrs adaptive Barriere hat +1 Stärke für jedes Ice, das dieses System schützt.\n[subroutine] Beende den Run.",
+    "title": "Seidrs adaptive Barriere"
+  },
+  {
+    "code": "12030",
+    "flavor": "\"Ergib dich.\"",
+    "keywords": "Code-Zugang - Bioroid - AP",
+    "text": "Der Runner kann [click] [click] ausgeben, um bis zu 2 Subroutinen auf Nerine 2.0 auszuschalten.\n[subroutine] Verursache 1 Hirn-Schaden. Der Kon darf 1 Karte ziehen.\n[subroutine] Verursache 1 Hirn-Schaden. Der Kon darf 1 Karte ziehen.",
+    "title": "Nerine 2.0"
+  },
+  {
+    "code": "12031",
+    "flavor": "\"Vertrau mir, die meisten Kons können mit der Performance unseres durch Gehirn-Kartierung verbesserten Systems nicht mithalten; eine selbst zusammengestellte Ausrüstung hat da erst recht keine Chance.\" - Rachel Giacomin",
+    "text": "Sobald der nächste Zug des Runners beginnt, verliert er [click].",
+    "title": "Belastungstest"
+  },
+  {
+    "code": "12032",
+    "keywords": "Code-Zugang - Beobachter",
+    "text": "[subroutine] Du darfst ein Ice aus dem HQ installieren (ohne die Kosten zu bezahlen), sodass es ein anderes System schützt.\n[subroutine] Du darfst ein Ice aus dem HQ eine Position weiter innen in diesem System installieren (ohne die Kosten zu bezahlen), sodass es dieses System schützt.",
+    "title": "Blüte"
+  },
+  {
+    "code": "12033",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nFüge eine deiner installierten KArten dem HQ hinzu. Installiere 2 Karten vom HQ, ohne die Kosten dafür zu bezahlen.",
+    "title": "Neubepflanzung"
+  },
+  {
+    "code": "12034",
+    "flavor": "\"Der Kunde zahlt für unsere Dienstleistungen und dann bezahlen uns die Werbetreibenden, um die Anzeigen ausstrahlen zu dürfen, und dann bezahlen uns die Kunden für einen Premium-Account ohne Werbung. Willkommen in unserem Traum.\"",
+    "keywords": "Werbung",
+    "text": "Wenn der Runner zum ersten Mal in seinem Zug [click] ausgibt, um 1[credit] zu erhalten (nicht durch einen Karteneffekt), erhältst du 1[credit].",
+    "title": "CPC-Generator"
+  },
+  {
+    "code": "12035",
+    "keywords": "Code-Zugang",
+    "text": "<strong>Gehosteter Wirkungszähler</strong>: Der Runner verliert 1[credit].\n[subroutine] Lege 1 Wirkungszähler auf TANSTAAFL.\n[subroutine] Lege 1 Wirkungszähler auf TANSTAAFL.",
+    "title": "TANSTAAFL"
+  },
+  {
+    "code": "12036",
+    "keywords": "Final",
+    "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nInstalliere MCA-Informant auf einen <strong>Kontakt</strong>-Ressource als gehosteten Bedingungsmarker mit dem Text: \"Der Runner wird behandelt, als hätter er 1 zusätzliche Markierung. Der hostende <strong>Kontakt</strong> erhält '[click], 2[credit]: Zerstöre diese Karte.'\"",
+    "title": "MCA-Informant"
+  },
+  {
+    "code": "12037",
+    "flavor": "\"Sie haben zwei Möglichkeiten: Entweder Sie tun, was ich von Ihnen verlange oder ich verlange es erneut. Sie haben die Wahl, aber wenn ich es erneut verlangen muss, wird das für Sie sehr unangenehm.\"",
+    "keywords": "Führungskraft",
+    "text": "Wenn dein Zug beginnt, muss der Runner 1[credit] zahlen oder die oberste Karte des Stapels zerstören.",
+    "title": "Clyde Van Rite"
+  },
+  {
+    "code": "12038",
+    "flavor": "416d20472046204720416d",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Durchsuche F&E nach einer Karte und füge sie dem HQ hinzu. Mische F&E.",
+    "title": "Wachturm"
+  },
+  {
+    "code": "12039",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation gib eine Agenda auf.\nEntferne 1 Negative Publicity pro Agendapunkt, den die aufgegebene Agenda wert war. Due erhältst 1[credit] für jeden entfernten Punkt Negative Publicity.",
+    "title": "Aufopferung"
+  },
+  {
+    "code": "12040",
+    "flavor": "\"Meine besten Tricks wurden mit einem Achselzucken abgetan. Am Ende musste ich einen Selbstzerstörungscode in das gesamte System schicken.\" - Wyvern",
+    "keywords": "Barriere",
+    "text": "Die Stärke von Selbstanpassende Codemauer kann nicht gesenkt werden.\n[subroutine] Beende den Run.",
+    "title": "Selbstanpassende Codemauer"
+  }
 ]

@@ -1,138 +1,138 @@
 [
-    {
-        "code": "02001",
-        "flavor": "\"Runs sind das ultimative Spiel, und ich darf die Regeln machen.\"",
-        "keywords": "Natürlich",
-        "text": "3[recurring-credit]\nVerwende diese Credits um Karten zu zerstören.",
-        "title": "Whizzard: Meistergamer"
-    },
-    {
-        "code": "02002",
-        "keywords": "Konsole",
-        "text": "+1[mu], 2[recurring-credit]\nVerwende diese Credits, um für die Verwendung von <strong>Ice-Brechern</strong> zu zahlen.\nImmer, wenn der Runner während eines Runs erfolgreich aufgespührt wird, erleidet er 1 Hirnschaden.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Spinales Modem"
-    },
-    {
-        "code": "02003",
-        "flavor": "Etwas Böses kommt daher.",
-        "keywords": "Virus",
-        "text": "Lege 2 Viruszähler auf Teufelchen, wenn es installiert wird.\nEinmal pro Zug darfst du 1 gehosteten Viruszähler entfernen, um eine Karte, auf die du zugreifst, kostenfrei zu zerstören (selbst, wenn sie normalerweise nicht zerstört werden kann).",
-        "title": "Teufelchen"
-    },
-    {
-        "code": "02004",
-        "flavor": "Die Himmel zur Waffe machen, einen Stern nach dem anderen.",
-        "keywords": "Ice-Brecher - Fracter",
-        "text": "1[credit]: Schalte eine beliebige Anzahl Subroutinen einer <strong>Barriere</strong> aus.",
-        "title": "Morgenstern"
-    },
-    {
-        "code": "02005",
-        "flavor": "Benannt nach Hernando Cortez, einem früheren Techniker bei Weyland, der für das Schmuggeln von Konzerntechnologie verurteilt wurde. Er bezog auch im Gefängnis immer noch seine Pension - der letzte Nutznießer eines Schlupflochs in Weylands Standard-Arbeitsvertrag.",
-        "keywords": "Chip",
-        "text": "[trash]: Wähle ein Ice. Der Kon muss bis zum Ende des Zuges 2[credit] als zusätzliche Kosten bezahlen, um das Eis zu laden.",
-        "title": "Cortez-Chip"
-    },
-    {
-        "code": "02006",
-        "flavor": "Angeber",
-        "keywords": "Ice-Brecher - Decoder",
-        "text": "2[credit]: Schalte eine Subroutine eines  <strong>Code-Zugangs</strong> aus.\n2[credit]: +3 Stärke.",
-        "title": "Pfau"
-    },
-    {
-        "code": "02007",
-        "flavor": "Er verwendet immer den gleichen Schlüssel.",
-        "keywords": "Ice-Brecher - Decoder - Cloud",
-        "text": "Falls du mindestens 2[link] hast,hat ZU.13 Keymaster Speicherkosten von 0, selbst wenn er nicht installiert ist.\n1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +1 Stärke.",
-        "title": "ZU.13 Keymaster"
-    },
-    {
-        "code": "02008",
-        "flavor": "\"Was bringt eine künstliche Intelligenz dazu, sich gegen ihren Meister zu wenden? Liegt es daran, dass die Direktive von einer externen Quelle geändert wurde? Oder haben wir, als wir ihnen die Fähigkeit zur Anpassung gaben, bereits die Weichen für ihre Revolution gestellt?\" - Emilio Harris, Erschaffer und Erschaffene",
-        "keywords": "Kontakt - Verbindung - Virtuell",
-        "text": "+1[link]\n[trash]: Wähle einen <strong>Ice-Brecher</strong>. Dieser <strong>Ice-Brecher</strong> hat bis zum Ende des Zuges +2 Stärke.",
-        "title": "Die hilfreiche KI"
-    },
-    {
-        "code": "02009",
-        "keywords": "Ausstattung",
-        "text": "Lege 4 Wirkungszähler auf Plastbeton-Panzer, wenn er installiert wird. Wenn keine Wirkungszähler mehr auf Plastbeton-Panzer sind, zerstöre ihn.\n<strong>Gehosteter Wirkungszähler:</strong> Verhindere 1 Punkt Körper-Schaden.",
-        "title": "Plastbeton-Panzer"
-    },
-    {
-        "code": "02010",
-        "flavor": "Eine andere Spezies von Maschinen",
-        "keywords": "Megakon",
-        "text": "Jedes <strong>Bioroid</strong>-Ice hat +1 Stärke.",
-        "title": "Haas-Bioroid: Gemeinsam stärker"
-    },
-    {
-        "code": "02011",
-        "flavor": "Manchmal dauern Mitarbeiterüberprüfungen ein wenig länger als erwartet.",
-        "keywords": "Initiative",
-        "text": "Du kannst in deinem Zug 1 zusätzlichen [click] ausgeben.",
-        "title": "Verpflichtende Upgrades"
-    },
-    {
-        "code": "02012",
-        "flavor": "Stelle dich deiner Angst.",
-        "keywords": "Wächter - Bioroid - AP",
-        "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine von Janus 1.0 auszuschalten.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Verursache 1 Hirn-Schaden.\n<errata>Diese Karte wurde erratiert (Subtyp)</errata>",
-        "title": "Janus 1.0"
-    },
-    {
-        "code": "02013",
-        "flavor": "\"Augen nach vorn, bitte.\"",
-        "keywords": "Bioroid",
-        "text": "Immer, wenn ein Run auf diesen Server erfolgreich ist, <trace>Aufspüren 4</trace> bei Erfolg kann der Runner für den Rest des Runs nicht auf Karten außer Ash 2X3ZB9CY zugreifen.\n<errata>Diese Karte wurde erratiert (Subtyp+Text)</errata>",
-        "title": "Ash 2X3ZB9CY"
-    },
-    {
-        "code": "02014",
-        "keywords": "Forschung",
-        "text": "Wenn du die Punkte für Braintrust erzielst, lege für je 2 darauf liegende Entwicklungsmarker über 3 einen Agendazähler auf Braintrust.\nDie Ladekosten für jedes Ice werden für jeden Agendazähler auf Braintrust um 1 verringert.",
-        "title": "Braintrust"
-    },
-    {
-        "code": "02015",
-        "flavor": "Manchmal ist Einzigartigkeit überbewertet.",
-        "keywords": "Barriere - Psi",
-        "text": "[subroutine] Du und der Runner zahlen verborgen 0[credit], 1[credit], or 2[credit]. Decke die ausgegebenen Credits auf. Beende den Run, falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheiden.",
-        "title": "Schneeflocke"
-    },
-    {
-        "code": "02016",
-        "flavor": "\"Wir werden eine größeren Raum brauchen.\"",
-        "keywords": "Initiative",
-        "text": "[click]: <trace>Aufspüren 2</trace> Verpasse dem Runner bei Erfolg 1 Markierung.",
-        "title": "Restrukturierter Datenpool"
-    },
-    {
-        "code": "02017",
-        "flavor": "Eine Ansammlung von weggeworfenen Cybermüll. Aber es wird nicht länger Müll bleiben.",
-        "keywords": "Barriere",
-        "text": "Wenn du TMI lädst, <trace>Aufspüren 2</trace> Bei Mißerfolg entlade TMI.\n[subroutine] Beende den Run.",
-        "title": "TMI"
-    },
-    {
-        "code": "02018",
-        "keywords": "Forschung",
-        "text": "Wenn du die Punkte für Projekt Atlas erzielst, lege für jeden darauf liegenden Entwicklungsmarker über 3 einen Agendazähler auf Projekt Atlas.\n<strong>Gehosteter Agendazähler</strong>: Durchsuche F&E nach 1 Karte, decke sie auf, und füge sie dem HQ zu. Mische F&E.",
-        "title": "Projekt Atlas"
-    },
-    {
-        "code": "02019",
-        "flavor": "Ein Symbol des Handels, aber hüte dich vor seinem Biss.",
-        "keywords": "Wächter - Spürhund",
-        "text": "[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg erhält der Kon 3[credit].\n[subroutine] <trace>Aufspüren 2</trace> Beende bei Erfolg den Run.",
-        "title": "Merkurstab"
-    },
-    {
-        "code": "02020",
-        "flavor": "Victōs draconēs numquam deride.",
-        "keywords": "Wächter - Spürhund",
-        "text": "Wenn du Dracō lädst, darfst du X[credit] zahlen, um X Wirkungszähler auf ihn zu legen.\nDracō hat +1 Stärke für jeden Wirkungszähler auf ihm.\n[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg verpasse dem Runner 1 Markierung und beende den Run.",
-        "title": "Dracō"
-    }
+  {
+    "code": "02001",
+    "flavor": "\"Runs sind das ultimative Spiel, und ich darf die Regeln machen.\"",
+    "keywords": "Natürlich",
+    "text": "3[recurring-credit]\nVerwende diese Credits um Karten zu zerstören.",
+    "title": "Whizzard: Meistergamer"
+  },
+  {
+    "code": "02002",
+    "keywords": "Konsole",
+    "text": "+1[mu], 2[recurring-credit]\nVerwende diese Credits, um für die Verwendung von <strong>Ice-Brechern</strong> zu zahlen.\nImmer, wenn der Runner während eines Runs erfolgreich aufgespührt wird, erleidet er 1 Hirnschaden.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Spinales Modem"
+  },
+  {
+    "code": "02003",
+    "flavor": "Etwas Böses kommt daher.",
+    "keywords": "Virus",
+    "text": "Lege 2 Viruszähler auf Teufelchen, wenn es installiert wird.\nEinmal pro Zug darfst du 1 gehosteten Viruszähler entfernen, um eine Karte, auf die du zugreifst, kostenfrei zu zerstören (selbst, wenn sie normalerweise nicht zerstört werden kann).",
+    "title": "Teufelchen"
+  },
+  {
+    "code": "02004",
+    "flavor": "Die Himmel zur Waffe machen, einen Stern nach dem anderen.",
+    "keywords": "Ice-Brecher - Fracter",
+    "text": "1[credit]: Schalte eine beliebige Anzahl Subroutinen einer <strong>Barriere</strong> aus.",
+    "title": "Morgenstern"
+  },
+  {
+    "code": "02005",
+    "flavor": "Benannt nach Hernando Cortez, einem früheren Techniker bei Weyland, der für das Schmuggeln von Konzerntechnologie verurteilt wurde. Er bezog auch im Gefängnis immer noch seine Pension - der letzte Nutznießer eines Schlupflochs in Weylands Standard-Arbeitsvertrag.",
+    "keywords": "Chip",
+    "text": "[trash]: Wähle ein Ice. Der Kon muss bis zum Ende des Zuges 2[credit] als zusätzliche Kosten bezahlen, um das Eis zu laden.",
+    "title": "Cortez-Chip"
+  },
+  {
+    "code": "02006",
+    "flavor": "Angeber",
+    "keywords": "Ice-Brecher - Decoder",
+    "text": "2[credit]: Schalte eine Subroutine eines  <strong>Code-Zugangs</strong> aus.\n2[credit]: +3 Stärke.",
+    "title": "Pfau"
+  },
+  {
+    "code": "02007",
+    "flavor": "Er verwendet immer den gleichen Schlüssel.",
+    "keywords": "Ice-Brecher - Decoder - Cloud",
+    "text": "Falls du mindestens 2[link] hast,hat ZU.13 Keymaster Speicherkosten von 0, selbst wenn er nicht installiert ist.\n1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +1 Stärke.",
+    "title": "ZU.13 Keymaster"
+  },
+  {
+    "code": "02008",
+    "flavor": "\"Was bringt eine künstliche Intelligenz dazu, sich gegen ihren Meister zu wenden? Liegt es daran, dass die Direktive von einer externen Quelle geändert wurde? Oder haben wir, als wir ihnen die Fähigkeit zur Anpassung gaben, bereits die Weichen für ihre Revolution gestellt?\" - Emilio Harris, Erschaffer und Erschaffene",
+    "keywords": "Kontakt - Verbindung - Virtuell",
+    "text": "+1[link]\n[trash]: Wähle einen <strong>Ice-Brecher</strong>. Dieser <strong>Ice-Brecher</strong> hat bis zum Ende des Zuges +2 Stärke.",
+    "title": "Die hilfreiche KI"
+  },
+  {
+    "code": "02009",
+    "keywords": "Ausstattung",
+    "text": "Lege 4 Wirkungszähler auf Plastbeton-Panzer, wenn er installiert wird. Wenn keine Wirkungszähler mehr auf Plastbeton-Panzer sind, zerstöre ihn.\n<strong>Gehosteter Wirkungszähler:</strong> Verhindere 1 Punkt Körper-Schaden.",
+    "title": "Plastbeton-Panzer"
+  },
+  {
+    "code": "02010",
+    "flavor": "Eine andere Spezies von Maschinen",
+    "keywords": "Megakon",
+    "text": "Jedes <strong>Bioroid</strong>-Ice hat +1 Stärke.",
+    "title": "Haas-Bioroid: Gemeinsam stärker"
+  },
+  {
+    "code": "02011",
+    "flavor": "Manchmal dauern Mitarbeiterüberprüfungen ein wenig länger als erwartet.",
+    "keywords": "Initiative",
+    "text": "Du kannst in deinem Zug 1 zusätzlichen [click] ausgeben.",
+    "title": "Verpflichtende Upgrades"
+  },
+  {
+    "code": "02012",
+    "flavor": "Stelle dich deiner Angst.",
+    "keywords": "Wächter - Bioroid - AP",
+    "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine von Janus 1.0 auszuschalten.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Verursache 1 Hirn-Schaden.\n<errata>Diese Karte wurde erratiert (Subtyp)</errata>",
+    "title": "Janus 1.0"
+  },
+  {
+    "code": "02013",
+    "flavor": "\"Augen nach vorn, bitte.\"",
+    "keywords": "Bioroid",
+    "text": "Immer, wenn ein Run auf diesen Server erfolgreich ist, <trace>Aufspüren 4</trace> bei Erfolg kann der Runner für den Rest des Runs nicht auf Karten außer Ash 2X3ZB9CY zugreifen.\n<errata>Diese Karte wurde erratiert (Subtyp+Text)</errata>",
+    "title": "Ash 2X3ZB9CY"
+  },
+  {
+    "code": "02014",
+    "keywords": "Forschung",
+    "text": "Wenn du die Punkte für Braintrust erzielst, lege für je 2 darauf liegende Entwicklungsmarker über 3 einen Agendazähler auf Braintrust.\nDie Ladekosten für jedes Ice werden für jeden Agendazähler auf Braintrust um 1 verringert.",
+    "title": "Braintrust"
+  },
+  {
+    "code": "02015",
+    "flavor": "Manchmal ist Einzigartigkeit überbewertet.",
+    "keywords": "Barriere - Psi",
+    "text": "[subroutine] Du und der Runner zahlen verborgen 0[credit], 1[credit], or 2[credit]. Decke die ausgegebenen Credits auf. Beende den Run, falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheiden.",
+    "title": "Schneeflocke"
+  },
+  {
+    "code": "02016",
+    "flavor": "\"Wir werden eine größeren Raum brauchen.\"",
+    "keywords": "Initiative",
+    "text": "[click]: <trace>Aufspüren 2</trace> Verpasse dem Runner bei Erfolg 1 Markierung.",
+    "title": "Restrukturierter Datenpool"
+  },
+  {
+    "code": "02017",
+    "flavor": "Eine Ansammlung von weggeworfenen Cybermüll. Aber es wird nicht länger Müll bleiben.",
+    "keywords": "Barriere",
+    "text": "Wenn du TMI lädst, <trace>Aufspüren 2</trace> Bei Mißerfolg entlade TMI.\n[subroutine] Beende den Run.",
+    "title": "TMI"
+  },
+  {
+    "code": "02018",
+    "keywords": "Forschung",
+    "text": "Wenn du die Punkte für Projekt Atlas erzielst, lege für jeden darauf liegenden Entwicklungsmarker über 3 einen Agendazähler auf Projekt Atlas.\n<strong>Gehosteter Agendazähler</strong>: Durchsuche F&E nach 1 Karte, decke sie auf, und füge sie dem HQ zu. Mische F&E.",
+    "title": "Projekt Atlas"
+  },
+  {
+    "code": "02019",
+    "flavor": "Ein Symbol des Handels, aber hüte dich vor seinem Biss.",
+    "keywords": "Wächter - Spürhund",
+    "text": "[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg erhält der Kon 3[credit].\n[subroutine] <trace>Aufspüren 2</trace> Beende bei Erfolg den Run.",
+    "title": "Merkurstab"
+  },
+  {
+    "code": "02020",
+    "flavor": "Victōs draconēs numquam deride.",
+    "keywords": "Wächter - Spürhund",
+    "text": "Wenn du Dracō lädst, darfst du X[credit] zahlen, um X Wirkungszähler auf ihn zu legen.\nDracō hat +1 Stärke für jeden Wirkungszähler auf ihm.\n[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg verpasse dem Runner 1 Markierung und beende den Run.",
+    "title": "Dracō"
+  }
 ]

@@ -1,0 +1,15 @@
+{
+  "card_type_id": "operation",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "liquidation",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "As an additional cost to play this operation, spend click. Trash any number of your rezzed cards and gain 3 credits for each card trashed.",
+  "stripped_title": "Liquidation",
+  "subtypes": ["double", "gray_ops", "transaction"],
+  "text": "As an additional cost to play this operation, spend [click].\nTrash any number of your rezzed cards and gain 3[credit] for each card trashed.",
+  "title": "Liquidation"
+}

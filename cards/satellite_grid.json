@@ -1,0 +1,16 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "satellite_grid",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Each piece of ice protecting this server is considered to have 1 additional advancement token on it. Limit 1 region per server.",
+  "stripped_title": "Satellite Grid",
+  "subtypes": ["region"],
+  "text": "Each piece of ice protecting this server is considered to have 1 additional advancement token on it.\nLimit 1 <strong>region</strong> per server.",
+  "title": "Satellite Grid",
+  "trash_cost": 3
+}

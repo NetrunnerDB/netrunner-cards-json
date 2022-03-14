@@ -1,132 +1,132 @@
 [
-    {
-        "code": "06021",
-        "keywords": "Abteilung",
-        "text": "Lädst du zum ersten Mal in einem Zug ein Ice, darfst du F&E nach einer weiteren Kopie von diesem Ice durchsuchen, sie aufdecken und dem HQ hinzufügen. Mische F&E.",
-        "title": "Die Giesserei: Den Prozess veredeln"
-    },
-    {
-        "code": "06022",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird..\nAls zusätzliche Kosten für den ersten Run in seinem Zug, der nicht durch die Fähigkeit einer Karte durchgeführt wird, muss der Runner [click] ausgeben.",
-        "title": "Erweitertes Login-Protokoll"
-    },
-    {
-        "code": "06023",
-        "flavor": "\"Anlagen auf dem Mond zu haben, hat viele Vorteile. Zum Beispiel weniger Verkehr.\" -Direktorin Hass",
-        "keywords": "Region",
-        "text": "Falls der Runner während eines Runs auf dieses System einen Klick verliert oder ausgibt, verliert er alle Credits in seinem Credit-Vorrat.\nMaximal 1 <strong>Region</strong> pro System.",
-        "title": "Netz von Heinlein"
-    },
-    {
-        "code": "06024",
-        "flavor": "\"Binäre Berechnungen sind überflüssig. Ich verwende eine quarternäre Struktur für dieses System, es ist unserer DNA nachgebildet. Nun, zumindest meiner DNA.\" -Doktor Endo, Forscher bei Jinteki",
-        "keywords": "Sicherheit",
-        "text": "Alles Ice mit <strong>Code-zugang</strong> hat +1 Stärke.\nWenn du die Punkte für Verschlüsselte Portale erzielst, erhältst du 1[credit] für jeden geladenen <strong>Code-Zugang</strong>.",
-        "title": "Verschlüsselte Portale"
-    },
-    {
-        "code": "06025",
-        "flavor": "Ihre Augen hatten die Farbe eines Vidscreeens, der auf einen toten Kanal eingestellt ist.",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nDie Textbox der Identität des Runners ist leer.",
-        "title": "Zerebrales Grundrauschen"
-    },
-    {
-        "code": "06026",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nNenne eine Karte. Du erhältst jedes Mal 10[credit], wenn der Runner eine Kopie dieser Karte spielt oder installiert.",
-        "title": "Gezieltes Marketing"
-    },
-    {
-        "code": "06027",
-        "flavor": "Überflute den Runner einfach mit genug Daten und sie hören auf, irgend eine Bedeutung zu haben.",
-        "keywords": "Wächter - Spürhund",
-        "text": "Wenn der Runner auf Informationsüberflutung trifft, <trace>Aufspüren 1</trace> verpasse dem Runner bei Erfolg 1 Markierung.\nInformationsüberflutung erhält \"[subroutine] Der Runner zerstört 1 seiner installierten Karten\" für jede Markierung des Runners.",
-        "title": "Informationsüberflutung"
-    },
-    {
-        "code": "06028",
-        "keywords": "Aktuell - Transaktion",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nDu erhältst jedes Mal 1[credit] wenn der Runner einen erfolgreichen Run durchführt.",
-        "title": "Paywall-Implementierung"
-    },
-    {
-        "code": "06029",
-        "flavor": "Nichts ist undurchdringlich. Der Trick ist es, die Kosten für das Eindringen so hoch zu machen, dass es sich nicht lohnt.",
-        "keywords": "Anlage",
-        "text": "1[credit]: Verschiebe eine beliebige Anzahl Credits aus deinem Credit-Vorrat auf Versiegelter Tresor.\n[click] oder [trash]: Verschiebe eine beliebige Anzahl Vredits von Versiegelter Tresor in deinen Credit-Vorrat.",
-        "title": "Versiegelter Tresor"
-    },
-    {
-        "code": "06030",
-        "keywords": "Quelle",
-        "text": "Ignoriere die Installationskosten des ersten Ice, das du in jedem Zug installierst.\nNur 1 pro Deck.",
-        "title": "Eden-Fragment"
-    },
-    {
-        "code": "06031",
-        "flavor": "\"Es ist mir egal, wie gut deine Konsole oder wie raffiniert deine Ausrüstung ist. Der Lag bei einem Run von der Erde aus auf den Mond kann tödlich sein.\" -Leela Patel",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nAlles <strong>Ice</strong> hat +1 Stärke.",
-        "title": "Lag-Zeit"
-    },
-    {
-        "code": "06032",
-        "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird, darfst du Irrlicht zerstören. Falls du das tust, wähle einen <strong>Ice-Brecher</strong>, der verwendet wurde, um mindestens 1 Subroutine während dieses Runs auszuschalten. Der Runner legt diesen <strong>Ice-Brecher</strong> unter seinen Stapel.",
-        "title": "Irrlicht"
-    },
-    {
-        "code": "06033",
-        "flavor": "Manchmal ist ein einzelner Stein völlig ausreichend.",
-        "text": "Lege 3 Wirkungszähler auf D4v1d wenn er installiert wird.\n<strong>Gehosteter Wirkungszähler</strong>: Schalte eine Subroutine eines Ice aus, das eine Stärke von 5 oder mehr hat.",
-        "title": "D4v1d"
-    },
-    {
-        "code": "06034",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nDas erste Ice, auf das du jeden Zug triffst hat für den Rest des Runs -2 Stärke.",
-        "title": "Geschrubbt"
-    },
-    {
-        "code": "06035",
-        "flavor": "In diesem Geschäft muss man Dinge vorhersehen. Wenn du nicht drei Schritte voraus bist, bist du drei Schritte hinterher.",
-        "keywords": "Priorität",
-        "text": "Kann nur als erster [click] gespielt werden.\nWenn dieser Zug endet, erhältst du 2[credit] für jeden darin erfolgreich durchgeführten Run.",
-        "title": "Drei Schritte voraus"
-    },
-    {
-        "code": "06036",
-        "flavor": "Was aufsteigt, muss auch wieder runter kommen.",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nDer Kon kann nicht mehr als 1 Ice in jedem Zug installieren.",
-        "title": "Ungeplante Wartungsarbeiten"
-    },
-    {
-        "code": "06037",
-        "flavor": "\"Die Leute sagen immer wieder, 'Nur Bares ist Wahres' in unserem Geschäft, als ob es in Zeiten von DNA-Schnüfflern und Microtracern nicht zurückzuverfolgen wäre. Digitale Credits können genauso anonym sein und sie sind auch genauso leicht zu fälschen.\" -Silhouette",
-        "keywords": "Virus",
-        "text": "Lege 3 Viruszähler auf Cache, wenn er installiert wird.\n<strong>Gehosteter Viruszähler</strong>: Du erhältst 1[credit].",
-        "title": "Cache"
-    },
-    {
-        "code": "06038",
-        "flavor": "Fünfzehn Sekunden Ruhm.",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\n1[recurring-credit]\nVerwende diesen Credit währen eines Runs.",
-        "title": "Netzpromi"
-    },
-    {
-        "code": "06039",
-        "flavor": "Zunächst war der Regulator nicht sehr beliebt und wurde von Runnern, die Energiepuffer verwendeten um ihre Ausrüstung zu schützen, völlig übersehen. Aber es fand schon bald ein interessiertes Publikum, als Smoke einen Run auf einen Server von Blue Sun durchführte und ihn dazu verwendete, online zu bleiben und gleichzeitig wiederholt Spannungsspitzen von 50.000 Volt und mehr abzuleiten.",
-        "text": "3[credit] oder [trash]: Verhindere, dass eine installierte Hardware zerstört wird.",
-        "title": "LLDS Energieregulator"
-    },
-    {
-        "code": "06040",
-        "flavor": "In den Zwischenräumen zwischen den Daten - bleiben die gefangenen Seelen der Vergangenheit dort bestehen?",
-        "keywords": "Heimlichkeit - Virtuell",
-        "text": "Lege 3[credit] auf Geister-Runner, wenn er installiert wird. Wenn keine Credits mehr auf Geister-Runner sind, zerstöre ihn.\nDu kannst die Credits auf Geister-Runner während eines Runs verwenden.",
-        "title": "Geister- Runner"
-    }
+  {
+    "code": "06021",
+    "keywords": "Abteilung",
+    "text": "Lädst du zum ersten Mal in einem Zug ein Ice, darfst du F&E nach einer weiteren Kopie von diesem Ice durchsuchen, sie aufdecken und dem HQ hinzufügen. Mische F&E.",
+    "title": "Die Giesserei: Den Prozess veredeln"
+  },
+  {
+    "code": "06022",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird..\nAls zusätzliche Kosten für den ersten Run in seinem Zug, der nicht durch die Fähigkeit einer Karte durchgeführt wird, muss der Runner [click] ausgeben.",
+    "title": "Erweitertes Login-Protokoll"
+  },
+  {
+    "code": "06023",
+    "flavor": "\"Anlagen auf dem Mond zu haben, hat viele Vorteile. Zum Beispiel weniger Verkehr.\" -Direktorin Hass",
+    "keywords": "Region",
+    "text": "Falls der Runner während eines Runs auf dieses System einen Klick verliert oder ausgibt, verliert er alle Credits in seinem Credit-Vorrat.\nMaximal 1 <strong>Region</strong> pro System.",
+    "title": "Netz von Heinlein"
+  },
+  {
+    "code": "06024",
+    "flavor": "\"Binäre Berechnungen sind überflüssig. Ich verwende eine quarternäre Struktur für dieses System, es ist unserer DNA nachgebildet. Nun, zumindest meiner DNA.\" -Doktor Endo, Forscher bei Jinteki",
+    "keywords": "Sicherheit",
+    "text": "Alles Ice mit <strong>Code-zugang</strong> hat +1 Stärke.\nWenn du die Punkte für Verschlüsselte Portale erzielst, erhältst du 1[credit] für jeden geladenen <strong>Code-Zugang</strong>.",
+    "title": "Verschlüsselte Portale"
+  },
+  {
+    "code": "06025",
+    "flavor": "Ihre Augen hatten die Farbe eines Vidscreeens, der auf einen toten Kanal eingestellt ist.",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nDie Textbox der Identität des Runners ist leer.",
+    "title": "Zerebrales Grundrauschen"
+  },
+  {
+    "code": "06026",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nNenne eine Karte. Du erhältst jedes Mal 10[credit], wenn der Runner eine Kopie dieser Karte spielt oder installiert.",
+    "title": "Gezieltes Marketing"
+  },
+  {
+    "code": "06027",
+    "flavor": "Überflute den Runner einfach mit genug Daten und sie hören auf, irgend eine Bedeutung zu haben.",
+    "keywords": "Wächter - Spürhund",
+    "text": "Wenn der Runner auf Informationsüberflutung trifft, <trace>Aufspüren 1</trace> verpasse dem Runner bei Erfolg 1 Markierung.\nInformationsüberflutung erhält \"[subroutine] Der Runner zerstört 1 seiner installierten Karten\" für jede Markierung des Runners.",
+    "title": "Informationsüberflutung"
+  },
+  {
+    "code": "06028",
+    "keywords": "Aktuell - Transaktion",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nDu erhältst jedes Mal 1[credit] wenn der Runner einen erfolgreichen Run durchführt.",
+    "title": "Paywall-Implementierung"
+  },
+  {
+    "code": "06029",
+    "flavor": "Nichts ist undurchdringlich. Der Trick ist es, die Kosten für das Eindringen so hoch zu machen, dass es sich nicht lohnt.",
+    "keywords": "Anlage",
+    "text": "1[credit]: Verschiebe eine beliebige Anzahl Credits aus deinem Credit-Vorrat auf Versiegelter Tresor.\n[click] oder [trash]: Verschiebe eine beliebige Anzahl Vredits von Versiegelter Tresor in deinen Credit-Vorrat.",
+    "title": "Versiegelter Tresor"
+  },
+  {
+    "code": "06030",
+    "keywords": "Quelle",
+    "text": "Ignoriere die Installationskosten des ersten Ice, das du in jedem Zug installierst.\nNur 1 pro Deck.",
+    "title": "Eden-Fragment"
+  },
+  {
+    "code": "06031",
+    "flavor": "\"Es ist mir egal, wie gut deine Konsole oder wie raffiniert deine Ausrüstung ist. Der Lag bei einem Run von der Erde aus auf den Mond kann tödlich sein.\" -Leela Patel",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nAlles <strong>Ice</strong> hat +1 Stärke.",
+    "title": "Lag-Zeit"
+  },
+  {
+    "code": "06032",
+    "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird, darfst du Irrlicht zerstören. Falls du das tust, wähle einen <strong>Ice-Brecher</strong>, der verwendet wurde, um mindestens 1 Subroutine während dieses Runs auszuschalten. Der Runner legt diesen <strong>Ice-Brecher</strong> unter seinen Stapel.",
+    "title": "Irrlicht"
+  },
+  {
+    "code": "06033",
+    "flavor": "Manchmal ist ein einzelner Stein völlig ausreichend.",
+    "text": "Lege 3 Wirkungszähler auf D4v1d wenn er installiert wird.\n<strong>Gehosteter Wirkungszähler</strong>: Schalte eine Subroutine eines Ice aus, das eine Stärke von 5 oder mehr hat.",
+    "title": "D4v1d"
+  },
+  {
+    "code": "06034",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nDas erste Ice, auf das du jeden Zug triffst hat für den Rest des Runs -2 Stärke.",
+    "title": "Geschrubbt"
+  },
+  {
+    "code": "06035",
+    "flavor": "In diesem Geschäft muss man Dinge vorhersehen. Wenn du nicht drei Schritte voraus bist, bist du drei Schritte hinterher.",
+    "keywords": "Priorität",
+    "text": "Kann nur als erster [click] gespielt werden.\nWenn dieser Zug endet, erhältst du 2[credit] für jeden darin erfolgreich durchgeführten Run.",
+    "title": "Drei Schritte voraus"
+  },
+  {
+    "code": "06036",
+    "flavor": "Was aufsteigt, muss auch wieder runter kommen.",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nDer Kon kann nicht mehr als 1 Ice in jedem Zug installieren.",
+    "title": "Ungeplante Wartungsarbeiten"
+  },
+  {
+    "code": "06037",
+    "flavor": "\"Die Leute sagen immer wieder, 'Nur Bares ist Wahres' in unserem Geschäft, als ob es in Zeiten von DNA-Schnüfflern und Microtracern nicht zurückzuverfolgen wäre. Digitale Credits können genauso anonym sein und sie sind auch genauso leicht zu fälschen.\" -Silhouette",
+    "keywords": "Virus",
+    "text": "Lege 3 Viruszähler auf Cache, wenn er installiert wird.\n<strong>Gehosteter Viruszähler</strong>: Du erhältst 1[credit].",
+    "title": "Cache"
+  },
+  {
+    "code": "06038",
+    "flavor": "Fünfzehn Sekunden Ruhm.",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\n1[recurring-credit]\nVerwende diesen Credit währen eines Runs.",
+    "title": "Netzpromi"
+  },
+  {
+    "code": "06039",
+    "flavor": "Zunächst war der Regulator nicht sehr beliebt und wurde von Runnern, die Energiepuffer verwendeten um ihre Ausrüstung zu schützen, völlig übersehen. Aber es fand schon bald ein interessiertes Publikum, als Smoke einen Run auf einen Server von Blue Sun durchführte und ihn dazu verwendete, online zu bleiben und gleichzeitig wiederholt Spannungsspitzen von 50.000 Volt und mehr abzuleiten.",
+    "text": "3[credit] oder [trash]: Verhindere, dass eine installierte Hardware zerstört wird.",
+    "title": "LLDS Energieregulator"
+  },
+  {
+    "code": "06040",
+    "flavor": "In den Zwischenräumen zwischen den Daten - bleiben die gefangenen Seelen der Vergangenheit dort bestehen?",
+    "keywords": "Heimlichkeit - Virtuell",
+    "text": "Lege 3[credit] auf Geister-Runner, wenn er installiert wird. Wenn keine Credits mehr auf Geister-Runner sind, zerstöre ihn.\nDu kannst die Credits auf Geister-Runner während eines Runs verwenden.",
+    "title": "Geister- Runner"
+  }
 ]

@@ -1,0 +1,15 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "self_destruct",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Remote server only. trash: Trash all cards installed in the root of or protecting this server. Trace[X], where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server.",
+  "stripped_title": "Self-destruct",
+  "text": "Remote server only.\n<strong>[trash]:</strong> Trash all cards installed in the root of or protecting this server. Trace[X], where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server.",
+  "title": "Self-destruct",
+  "trash_cost": 0
+}

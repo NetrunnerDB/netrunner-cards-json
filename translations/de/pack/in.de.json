@@ -1,132 +1,132 @@
 [
-    {
-        "code": "11061",
-        "flavor": "\"Wenn der Gegner schwach ist, schlag zu. Tust du das nicht, wird er stärker.\" - Playbook",
-        "keywords": "Sabotage",
-        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run durchgeführt hast.\nZerstöre ein ungeladenes Ice, an dem du im letzten Run, den du in diesem Zug durchgeführt hast, vorbeigekommen bist.",
-        "title": "En Passant"
-    },
-    {
-        "code": "11062",
-        "flavor": "Omar verschleißt vier oder fünf Tastaturen pro Woche, nicht zwei davon stammen aus der selben Dekade.",
-        "text": "Sieh dir die obersten 10 Karten deines Stapels an. Falls Programme darunter sind, kannst du eins davon installieren und die Installationskosten dafür um 5 senken. Zerstöre den Rest dieser Karten.",
-        "title": "Hektisches Programmieren"
-    },
-    {
-        "code": "11063",
-        "keywords": "Konsole",
-        "text": "+2[mu]\nImmer wenn du während eines Runs auf Karten im HQ zugreifst, greife auf 1 zusätzliche Karte für jedes Ice zu, welches das HQ schützt und bei dem du während dieses Runs alle Subroutinen ausgeschaltet hast.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Fehdehandschuh"
-    },
-    {
-        "code": "11064",
-        "flavor": "Während er sich immer höher schraubte, breitete sich der gesamte Cyberspace vor ihm aus.",
-        "keywords": "Ice-Brecher - Fracter",
-        "text": "1[crecit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n2[credit]: +2 Stärke.\n2[credit], <strong>nimm Sakerfalke zurück in deinen Griff</strong>: Entlade eine <strong>Barriere</strong>. Verwende diese Fähigkeit nur, nachdem du Sakerfalke verwendet hast, um alle Subroutinen auf dieser <strong>Barriere</strong> während einer einzigen Begegnung auszuschalten.",
-        "title": "Sakerfalke"
-    },
-    {
-        "code": "11065",
-        "flavor": "\"Früher habe ich Stims und Simsinn-Chips geschmuggelt; den üblichen Kram halt. Jetzt ist es eben Wasser. Und ich bin ein verdammter Held.\"",
-        "keywords": "Kontakt",
-        "text": "[click], [click]: Ziehe 3 Karten. Mische 1 Karte aus deinem Griff in deinen Stapel.",
-        "title": "Blockadebrecher"
-    },
-    {
-        "code": "11066",
-        "flavor": "\"Kein Ass im Ärmel...\"",
-        "keywords": "G-Mod - Heimlichkeit",
-        "text": "1[recurring-credit]\nVerwende diesen Credit, um für die Verwendung von <strong>Ice-Brechern</strong> zu zahlen.",
-        "title": "Ele \"Smoke\" Scovak"
-    },
-    {
-        "code": "11067",
-        "flavor": "\"Eigentlich finde ich immer etwas Interessantes da drin. Nur halt nicht das, wonach ich gesucht habe.\"",
-        "text": "Immer wenn du einen erfolgreichen Run auf F&E durchgeführt hast, kannst du, statt auf Karten zuzugreifen, 1 der obersten 5 Karten von F&E auswählen und darauf zugreifen. Du kannst während dieses Runs auf keine weiteren Karten in F&E zugreifen.",
-        "title": "Zylinder"
-    },
-    {
-        "code": "11068",
-        "flavor": "Die Persönlichkeit muss größer sein als die Stütze.",
-        "keywords": "Ice-Brecher - Fracter",
-        "text": "1[crecit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n3[credit]: +4 Stärke für den Rest des Runs. Diese Fähigkeit kann nur verwendet werden, wenn dafür mindestens 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgegeben wurde.",
-        "title": "Blackstone"
-    },
-    {
-        "code": "11069",
-        "flavor": "\"Bring das zu Inez Delgado in der Abteilung Netzkriminalität. Gib es keinem anderen.\"",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nWenn die Spieler geheim Credits ausgeben, können sie nicht 2[credit] ausgeben.",
-        "title": "Regierungsuntersuchung"
-    },
-    {
-        "code": "11070",
-        "flavor": "\"Die Meditationsboxen von Starlight stehen Flüchtlingen für die gesamte Dauer der Krise kostenlos zur Verfügung.\"",
-        "keywords": "Ort",
-        "text": "Falls du markiert bist, wenn dein Zug endet, zwinge den Kon zu \"<trace>Aufspüren 1</trace> Bei Misserfolg entfernt der Runner 1 Markierung.\"\n[trash], <strong>zerstöre alle Karten in deinem Griff</strong>: Verhindere allen Körper-Schaden.",
-        "title": "Asyl in der Zitadelle"
-    },
-    {
-        "code": "11071",
-        "flavor": "\"Ich lasse die Bioroiden per Fensteuerung virtuell dabei sein, damit sie sehen, wie Schmerz wirklich aussieht.\" - Agent Valkyrie",
-        "keywords": "Bedingung",
-        "text": "Installiere Attentäter-Modifikation auf ein geladenes Bioroid-Ice als Bedingungsmarker mit dem Text: \"Das hostende Ice erhält '[subroutine] Verursache 1 Hirn-Schaden.' vor seine übrigen Subroutinen.\"",
-        "title": "Attentäter-Modifikation"
-    },
-    {
-        "code": "11072",
-        "keywords": "Megakon",
-        "text": "Wenn der Runner in einem Zug zum ersten Mal an einem geladenen Bioroid-Ice vorbeikommt, darfst du einen <strong>Bioroid</strong> laden und dabei dessen Ladekosten um 4 senken.",
-        "title": "Haas-Bioroid: Architekten der Zukunft"
-    },
-    {
-        "code": "11073",
-        "flavor": "\"Klingt eine Allianz mit den Yakuza wirklich so seltsam? Das sind ehrenwerte Geschäftsmänner und -frauen, genau wie wir.\" - Rin Kimura, Leiterin NA-Sicherheit",
-        "keywords": "Charakter",
-        "text": "Immer wenn du und der Runner geheim ausgegebene Credits aufdecken, verursache 1 Körper-Schaden, falls du und der Runner unterschiedlich viele Credits ausgegeben haben.",
-        "title": "Fumiko Yamamori"
-    },
-    {
-        "code": "11074",
-        "flavor": "\"Halte den Kopf gesenkt, geh weiter, versuch keine Aufmerksamkeit zu erregen.\"",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation, zerstöre die oberste Karte von F&E.\nZiehe 3 Karten. Lege 3 Karten vom HQ in beliebiger Reihenfolge oben auf F&E.",
-        "title": "Hastige Verlagerung"
-    },
-    {
-        "code": "11075",
-        "keywords": "Barriere",
-        "text": "Wenn der Runner auf Datensiegel trifft, muss er 3[credit] zahlen oder er bekommt 1 Markierung verpasst.\n[subroutine] Beende den Run, falls der Runner markiert ist.\n[subroutine] Beende den Run, falls der Runner markiert ist.\n[subroutine] Beende den Run, falls der Runner markiert ist.\n[subroutine] Beende den Run, falls der Runner markiert ist.",
-        "title": "Datensiegel"
-    },
-    {
-        "code": "11076",
-        "flavor": "Falstaff-337B; decrypt-ok; loc:0.258500, -79.920791 -ok; auth-ok; msg:KAR kill authority requested y/n?",
-        "text": "Falls der Runner markiert ist, erhält Drohnenschirm \"Immer wenn der Runner einen Run auf dieses System startet, <trace>Aufspüren 3</trace> Bei Erfolg verursache 1 Körper-Schaden (kann nicht verhindert werden).\"",
-        "title": "Drohnenschirm"
-    },
-    {
-        "code": "11077",
-        "keywords": "Charakter",
-        "text": "Immer wenn eine Begegnung mit einem Ice endet, lege 1 Wirkungszähler für jede nicht ausgeschaltete Subroutine auf dem Ice, auf das der Runner getroffen ist, auf Chief Slee.\n[click], <strong>5 Wirkungszähler</strong>: Verursache 5 Körper-Schaden.",
-        "title": "Chief Slee"
-    },
-    {
-        "code": "11078",
-        "keywords": "Barriere - Illegal",
-        "text": "Wenn du Bollwerk lädst, erhälst du 1 negative Publicity.\nWenn der Runner auf Bollwerk trifft, erhälst du 2[credit], falls eine <strong>KI</strong> installiert ist.\n[subroutine] Der Runner zerstört 1 Programm.\n[subroutine] Der Kon erhält 2[credit]. Beende den Run.\n[subroutine] Der Kon erhält 2[credit]. Beende den Run.",
-        "title": "Bollwerk"
-    },
-    {
-        "code": "11079",
-        "flavor": "Wenn ein Schusswechsel droht, ist es weise, zuerst zu schießen.",
-        "keywords": "Graue Ops",
-        "text": "Zerstöre 1 installierte Karte, deren Installationskosten gleich oder niedriger der Anzahl der Markierungen sind, die der Runner hat.",
-        "title": "Beste Verteidigung"
-    },
-    {
-        "code": "11080",
-        "keywords": "Final",
-        "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nMische 3 Karten aus dem Archiv in F&E. Entferne Präventiv-Aktion aus dem Spiel, statt sie zu zerstören.",
-        "title": "Präventiv-Aktion"
-    }
+  {
+    "code": "11061",
+    "flavor": "\"Wenn der Gegner schwach ist, schlag zu. Tust du das nicht, wird er stärker.\" - Playbook",
+    "keywords": "Sabotage",
+    "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run durchgeführt hast.\nZerstöre ein ungeladenes Ice, an dem du im letzten Run, den du in diesem Zug durchgeführt hast, vorbeigekommen bist.",
+    "title": "En Passant"
+  },
+  {
+    "code": "11062",
+    "flavor": "Omar verschleißt vier oder fünf Tastaturen pro Woche, nicht zwei davon stammen aus der selben Dekade.",
+    "text": "Sieh dir die obersten 10 Karten deines Stapels an. Falls Programme darunter sind, kannst du eins davon installieren und die Installationskosten dafür um 5 senken. Zerstöre den Rest dieser Karten.",
+    "title": "Hektisches Programmieren"
+  },
+  {
+    "code": "11063",
+    "keywords": "Konsole",
+    "text": "+2[mu]\nImmer wenn du während eines Runs auf Karten im HQ zugreifst, greife auf 1 zusätzliche Karte für jedes Ice zu, welches das HQ schützt und bei dem du während dieses Runs alle Subroutinen ausgeschaltet hast.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Fehdehandschuh"
+  },
+  {
+    "code": "11064",
+    "flavor": "Während er sich immer höher schraubte, breitete sich der gesamte Cyberspace vor ihm aus.",
+    "keywords": "Ice-Brecher - Fracter",
+    "text": "1[crecit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n2[credit]: +2 Stärke.\n2[credit], <strong>nimm Sakerfalke zurück in deinen Griff</strong>: Entlade eine <strong>Barriere</strong>. Verwende diese Fähigkeit nur, nachdem du Sakerfalke verwendet hast, um alle Subroutinen auf dieser <strong>Barriere</strong> während einer einzigen Begegnung auszuschalten.",
+    "title": "Sakerfalke"
+  },
+  {
+    "code": "11065",
+    "flavor": "\"Früher habe ich Stims und Simsinn-Chips geschmuggelt; den üblichen Kram halt. Jetzt ist es eben Wasser. Und ich bin ein verdammter Held.\"",
+    "keywords": "Kontakt",
+    "text": "[click], [click]: Ziehe 3 Karten. Mische 1 Karte aus deinem Griff in deinen Stapel.",
+    "title": "Blockadebrecher"
+  },
+  {
+    "code": "11066",
+    "flavor": "\"Kein Ass im Ärmel...\"",
+    "keywords": "G-Mod - Heimlichkeit",
+    "text": "1[recurring-credit]\nVerwende diesen Credit, um für die Verwendung von <strong>Ice-Brechern</strong> zu zahlen.",
+    "title": "Ele \"Smoke\" Scovak"
+  },
+  {
+    "code": "11067",
+    "flavor": "\"Eigentlich finde ich immer etwas Interessantes da drin. Nur halt nicht das, wonach ich gesucht habe.\"",
+    "text": "Immer wenn du einen erfolgreichen Run auf F&E durchgeführt hast, kannst du, statt auf Karten zuzugreifen, 1 der obersten 5 Karten von F&E auswählen und darauf zugreifen. Du kannst während dieses Runs auf keine weiteren Karten in F&E zugreifen.",
+    "title": "Zylinder"
+  },
+  {
+    "code": "11068",
+    "flavor": "Die Persönlichkeit muss größer sein als die Stütze.",
+    "keywords": "Ice-Brecher - Fracter",
+    "text": "1[crecit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n3[credit]: +4 Stärke für den Rest des Runs. Diese Fähigkeit kann nur verwendet werden, wenn dafür mindestens 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgegeben wurde.",
+    "title": "Blackstone"
+  },
+  {
+    "code": "11069",
+    "flavor": "\"Bring das zu Inez Delgado in der Abteilung Netzkriminalität. Gib es keinem anderen.\"",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nWenn die Spieler geheim Credits ausgeben, können sie nicht 2[credit] ausgeben.",
+    "title": "Regierungsuntersuchung"
+  },
+  {
+    "code": "11070",
+    "flavor": "\"Die Meditationsboxen von Starlight stehen Flüchtlingen für die gesamte Dauer der Krise kostenlos zur Verfügung.\"",
+    "keywords": "Ort",
+    "text": "Falls du markiert bist, wenn dein Zug endet, zwinge den Kon zu \"<trace>Aufspüren 1</trace> Bei Misserfolg entfernt der Runner 1 Markierung.\"\n[trash], <strong>zerstöre alle Karten in deinem Griff</strong>: Verhindere allen Körper-Schaden.",
+    "title": "Asyl in der Zitadelle"
+  },
+  {
+    "code": "11071",
+    "flavor": "\"Ich lasse die Bioroiden per Fensteuerung virtuell dabei sein, damit sie sehen, wie Schmerz wirklich aussieht.\" - Agent Valkyrie",
+    "keywords": "Bedingung",
+    "text": "Installiere Attentäter-Modifikation auf ein geladenes Bioroid-Ice als Bedingungsmarker mit dem Text: \"Das hostende Ice erhält '[subroutine] Verursache 1 Hirn-Schaden.' vor seine übrigen Subroutinen.\"",
+    "title": "Attentäter-Modifikation"
+  },
+  {
+    "code": "11072",
+    "keywords": "Megakon",
+    "text": "Wenn der Runner in einem Zug zum ersten Mal an einem geladenen Bioroid-Ice vorbeikommt, darfst du einen <strong>Bioroid</strong> laden und dabei dessen Ladekosten um 4 senken.",
+    "title": "Haas-Bioroid: Architekten der Zukunft"
+  },
+  {
+    "code": "11073",
+    "flavor": "\"Klingt eine Allianz mit den Yakuza wirklich so seltsam? Das sind ehrenwerte Geschäftsmänner und -frauen, genau wie wir.\" - Rin Kimura, Leiterin NA-Sicherheit",
+    "keywords": "Charakter",
+    "text": "Immer wenn du und der Runner geheim ausgegebene Credits aufdecken, verursache 1 Körper-Schaden, falls du und der Runner unterschiedlich viele Credits ausgegeben haben.",
+    "title": "Fumiko Yamamori"
+  },
+  {
+    "code": "11074",
+    "flavor": "\"Halte den Kopf gesenkt, geh weiter, versuch keine Aufmerksamkeit zu erregen.\"",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation, zerstöre die oberste Karte von F&E.\nZiehe 3 Karten. Lege 3 Karten vom HQ in beliebiger Reihenfolge oben auf F&E.",
+    "title": "Hastige Verlagerung"
+  },
+  {
+    "code": "11075",
+    "keywords": "Barriere",
+    "text": "Wenn der Runner auf Datensiegel trifft, muss er 3[credit] zahlen oder er bekommt 1 Markierung verpasst.\n[subroutine] Beende den Run, falls der Runner markiert ist.\n[subroutine] Beende den Run, falls der Runner markiert ist.\n[subroutine] Beende den Run, falls der Runner markiert ist.\n[subroutine] Beende den Run, falls der Runner markiert ist.",
+    "title": "Datensiegel"
+  },
+  {
+    "code": "11076",
+    "flavor": "Falstaff-337B; decrypt-ok; loc:0.258500, -79.920791 -ok; auth-ok; msg:KAR kill authority requested y/n?",
+    "text": "Falls der Runner markiert ist, erhält Drohnenschirm \"Immer wenn der Runner einen Run auf dieses System startet, <trace>Aufspüren 3</trace> Bei Erfolg verursache 1 Körper-Schaden (kann nicht verhindert werden).\"",
+    "title": "Drohnenschirm"
+  },
+  {
+    "code": "11077",
+    "keywords": "Charakter",
+    "text": "Immer wenn eine Begegnung mit einem Ice endet, lege 1 Wirkungszähler für jede nicht ausgeschaltete Subroutine auf dem Ice, auf das der Runner getroffen ist, auf Chief Slee.\n[click], <strong>5 Wirkungszähler</strong>: Verursache 5 Körper-Schaden.",
+    "title": "Chief Slee"
+  },
+  {
+    "code": "11078",
+    "keywords": "Barriere - Illegal",
+    "text": "Wenn du Bollwerk lädst, erhälst du 1 negative Publicity.\nWenn der Runner auf Bollwerk trifft, erhälst du 2[credit], falls eine <strong>KI</strong> installiert ist.\n[subroutine] Der Runner zerstört 1 Programm.\n[subroutine] Der Kon erhält 2[credit]. Beende den Run.\n[subroutine] Der Kon erhält 2[credit]. Beende den Run.",
+    "title": "Bollwerk"
+  },
+  {
+    "code": "11079",
+    "flavor": "Wenn ein Schusswechsel droht, ist es weise, zuerst zu schießen.",
+    "keywords": "Graue Ops",
+    "text": "Zerstöre 1 installierte Karte, deren Installationskosten gleich oder niedriger der Anzahl der Markierungen sind, die der Runner hat.",
+    "title": "Beste Verteidigung"
+  },
+  {
+    "code": "11080",
+    "keywords": "Final",
+    "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nMische 3 Karten aus dem Archiv in F&E. Entferne Präventiv-Aktion aus dem Spiel, statt sie zu zerstören.",
+    "title": "Präventiv-Aktion"
+  }
 ]

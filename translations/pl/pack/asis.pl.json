@@ -1,135 +1,135 @@
 [
-    {
-        "code": "02061",
-        "flavor": "\"Uratował mi skórę nie raz, ale zostawia paskudne uczucie déjà vu.\" - Magik",
-        "text": "[trash]: Zablokuj namierzanie. To namierzanie rozpoczyna się ponownie z bazową siłą namierzania równą 0.",
-        "title": "Zakłócacz"
-    },
-    {
-        "code": "02062",
-        "flavor": "Zawsze uderza dwa razy.",
-        "keywords": "Lodołamacz - Dekoder",
-        "text": "2[credit]: Złam do 2 podprogramów <strong>bramy kodowej</strong>.\n1[credit]: +1 siły.",
-        "title": "Siła natury"
-    },
-    {
-        "code": "02063",
-        "flavor": "\"Bezmyślne narzędzia zniszczenia i nic ponadto. Za to całkiem mili faceci. Mam drapaczy wśród najlepszych kumpli.\" - Ji \"Jazgot\" Reilly",
-        "keywords": "Kontakt - Podejrzany",
-        "text": "2[recurring-credit]\nUżyj tych kredytów do kasowania kart.",
-        "title": "Drapacz"
-    },
-    {
-        "code": "02064",
-        "flavor": "Podwójny ubaw.",
-        "keywords": "Konsola",
-        "text": "+1[mu]\nRaz na turę, gdy skończysz udany skok, możesz natychmiast przeprowadzić następny skok.\nLimit 1 <strong>konsoli</strong> na gracza.",
-        "title": "Doppelgänger"
-    },
-    {
-        "code": "02065",
-        "flavor": "Najsilniejszy klej w cyberprzestrzeni.",
-        "text": "[trash]: Odrezuj jeden lód. Użyj tej zdolności tylko, jeśli złamałeś wszystkie podprogramy tego lodu podczas jednego spotkania.",
-        "title": "Crescentus"
-    },
-    {
-        "code": "02066",
-        "flavor": "To było niespodziewane.",
-        "keywords": "Lodołamacz",
-        "text": "[trash]: Złam dowolną liczbę podprogramów <strong>AP</strong>.\n[trash]: Zablokuj dowolną liczbę obrażeń sprzętu.",
-        "title": "Deus X"
-    },
-    {
-        "code": "02067",
-        "flavor": "\"Nie obchodzą mnie badania. Z własnego doświadczenia wiem, że mogę wypijać trzy puszki Diesela na godzinę przez dwanaście godzin, zanim dostanę zawału.\" -zasłyszane za pięć dwunasta",
-        "text": "[click], [trash]: Otrzymujesz [click] [click].",
-        "title": "Zarwana noc"
-    },
-    {
-        "code": "02068",
-        "flavor": "Niewielu pracowników korporacji ma tak szeroki dostęp, jak dozorcy. Większość korpów głupio uważa, że są oni zbyt bezmyślni, by z niego skorzystać.",
-        "keywords": "Kontakt",
-        "text": "2[recurring-credit]\nUżyj tych kredytów do instalacji sprzętu.",
-        "title": "Kontakt wewnątrz"
-    },
-    {
-        "code": "02069",
-        "flavor": "\"Mój szef szczodrze nagradza dobrze wykonaną pracę. Radzę kontynuować, jeśli nie chcesz kłopotów.\"",
-        "keywords": "Kontakt",
-        "text": "Gdy zaczynasz turę, pobierz 1[credit] jeśli masz przynajmniej 2[link].",
-        "title": "Kontakt w półświatku"
-    },
-    {
-        "code": "02070",
-        "flavor": "Zielony-dwa to najwyższy poziom bezpieczeństwa, do którego może uzyskać dostęp korp. Legalnie, w każdym razie.",
-        "keywords": "Transakcja",
-        "text": "Pobierz 3[credit] i dobierz 1 kartę.",
-        "title": "Zielony poziom dostępu"
-    },
-    {
-        "code": "02071",
-        "flavor": "Czas po prostu ucieka.",
-        "keywords": "Brama kodowa",
-        "text": "[subroutine] Runner traci [click], jeśli może.\n[subroutine] Runner traci [click], jeśli może.\n[subroutine] Runner traci [click], jeśli może.",
-        "title": "Klepsydra"
-    },
-    {
-        "code": "02072",
-        "flavor": "tak cicho, nawet\nkwiaty wiśni nie drgną,\ngdy brzmi dzwon świątyni\n - Fuhaku",
-        "keywords": "Placówka",
-        "text": "2[recurring-credit]\nUżyj tych kredytów do rezowania lodu.",
-        "title": "Serwer dedykowany"
-    },
-    {
-        "code": "02073",
-        "keywords": "Brama kodowa - Deflektor - Psi",
-        "text": "[subroutine] Ty i runner w tajemnicy wydajecie 0[credit], 1[credit] lub 2[credit]. Ujawnijcie wydane kredyty. Jeśli ty i runner wydaliście różną liczbę kredytów, przesuń Ropuchę tak, aby stała się najdalszym lodem chroniącym inny serwer (runner kontynuuje skok od tej nowej pozycji, i przeprowadza teraz skok na ten nowy serwer).",
-        "title": "Ropucha"
-    },
-    {
-        "code": "02074",
-        "flavor": "Gdzie jedno się kończy, drugie się zaczyna.",
-        "keywords": "Strażnik - Tropiciel",
-        "text": "[subroutine] <trace>Trace 4</trace> Jeśli udane, runner nie może w tej turze wykonywać skoków.\n[subroutine] <trace>Trace 4</trace> Jeśli udane, zakończ skok.",
-        "title": "Uroboros"
-    },
-    {
-        "code": "02075",
-        "flavor": "To jest sieć. My tu pracujemy. Jesteśmy gliniarzami.",
-        "text": "X[recurring-credit]\nUżyj tych kredytów podczas namierzania. X to liczba połączeń runnera.",
-        "title": "Policja sieciowa"
-    },
-    {
-        "code": "02076",
-        "flavor": "Tworzymy cyberprzestrzeń.",
-        "keywords": "Megakorp",
-        "text": "1[recurring-credit]\nUżyj tego kredytu do awansowania lodu.",
-        "title": "Weyland Consortium: Bo to my ją zbudowaliśmy"
-    },
-    {
-        "code": "02077",
-        "flavor": "Kontrakt rządowy naprawdę ciężko stracić.",
-        "text": "[click], [click]: Pobierz 4[credit].",
-        "title": "Kontrakty rządowe"
-    },
-    {
-        "code": "02078",
-        "flavor": "Nie przejdziesz.",
-        "keywords": "Bariera",
-        "text": "Zrezowany Tyran może być awansowany i otrzymuje \"[subroutine] Zakończ skok.\" za każdy leżący na nim żeton zaawansowania.",
-        "title": "Tyran"
-    },
-    {
-        "code": "02079",
-        "keywords": "Warunek",
-        "text": "Zrezuj lód, ignorując wszelkie koszty i zainstaluj na nim Nadzorczą AI jako hostowany znacznik warunku z tekstem \"Skasuj hostujący lód, jeśli wszystkie jego podprogramy zostaną złamane w trakcie jednego spotkania.\"",
-        "title": "Nadzorcza AI"
-    },
-    {
-        "code": "02080",
-        "flavor": "Budynek nie wyglądał na główną siedzibę wielomiliardowej firmy. Pewnie dlatego, że nią nie był.",
-        "keywords": "Ochrona",
-        "text": "<strong>Poświęć Fałszywy trop</strong>: Runner traci [click][click], jeśli może.",
-        "title": "Fałszywy trop"
-    }
+  {
+    "code": "02061",
+    "flavor": "\"Uratował mi skórę nie raz, ale zostawia paskudne uczucie déjà vu.\" - Magik",
+    "text": "[trash]: Zablokuj namierzanie. To namierzanie rozpoczyna się ponownie z bazową siłą namierzania równą 0.",
+    "title": "Zakłócacz"
+  },
+  {
+    "code": "02062",
+    "flavor": "Zawsze uderza dwa razy.",
+    "keywords": "Lodołamacz - Dekoder",
+    "text": "2[credit]: Złam do 2 podprogramów <strong>bramy kodowej</strong>.\n1[credit]: +1 siły.",
+    "title": "Siła natury"
+  },
+  {
+    "code": "02063",
+    "flavor": "\"Bezmyślne narzędzia zniszczenia i nic ponadto. Za to całkiem mili faceci. Mam drapaczy wśród najlepszych kumpli.\" - Ji \"Jazgot\" Reilly",
+    "keywords": "Kontakt - Podejrzany",
+    "text": "2[recurring-credit]\nUżyj tych kredytów do kasowania kart.",
+    "title": "Drapacz"
+  },
+  {
+    "code": "02064",
+    "flavor": "Podwójny ubaw.",
+    "keywords": "Konsola",
+    "text": "+1[mu]\nRaz na turę, gdy skończysz udany skok, możesz natychmiast przeprowadzić następny skok.\nLimit 1 <strong>konsoli</strong> na gracza.",
+    "title": "Doppelgänger"
+  },
+  {
+    "code": "02065",
+    "flavor": "Najsilniejszy klej w cyberprzestrzeni.",
+    "text": "[trash]: Odrezuj jeden lód. Użyj tej zdolności tylko, jeśli złamałeś wszystkie podprogramy tego lodu podczas jednego spotkania.",
+    "title": "Crescentus"
+  },
+  {
+    "code": "02066",
+    "flavor": "To było niespodziewane.",
+    "keywords": "Lodołamacz",
+    "text": "[trash]: Złam dowolną liczbę podprogramów <strong>AP</strong>.\n[trash]: Zablokuj dowolną liczbę obrażeń sprzętu.",
+    "title": "Deus X"
+  },
+  {
+    "code": "02067",
+    "flavor": "\"Nie obchodzą mnie badania. Z własnego doświadczenia wiem, że mogę wypijać trzy puszki Diesela na godzinę przez dwanaście godzin, zanim dostanę zawału.\" -zasłyszane za pięć dwunasta",
+    "text": "[click], [trash]: Otrzymujesz [click] [click].",
+    "title": "Zarwana noc"
+  },
+  {
+    "code": "02068",
+    "flavor": "Niewielu pracowników korporacji ma tak szeroki dostęp, jak dozorcy. Większość korpów głupio uważa, że są oni zbyt bezmyślni, by z niego skorzystać.",
+    "keywords": "Kontakt",
+    "text": "2[recurring-credit]\nUżyj tych kredytów do instalacji sprzętu.",
+    "title": "Kontakt wewnątrz"
+  },
+  {
+    "code": "02069",
+    "flavor": "\"Mój szef szczodrze nagradza dobrze wykonaną pracę. Radzę kontynuować, jeśli nie chcesz kłopotów.\"",
+    "keywords": "Kontakt",
+    "text": "Gdy zaczynasz turę, pobierz 1[credit] jeśli masz przynajmniej 2[link].",
+    "title": "Kontakt w półświatku"
+  },
+  {
+    "code": "02070",
+    "flavor": "Zielony-dwa to najwyższy poziom bezpieczeństwa, do którego może uzyskać dostęp korp. Legalnie, w każdym razie.",
+    "keywords": "Transakcja",
+    "text": "Pobierz 3[credit] i dobierz 1 kartę.",
+    "title": "Zielony poziom dostępu"
+  },
+  {
+    "code": "02071",
+    "flavor": "Czas po prostu ucieka.",
+    "keywords": "Brama kodowa",
+    "text": "[subroutine] Runner traci [click], jeśli może.\n[subroutine] Runner traci [click], jeśli może.\n[subroutine] Runner traci [click], jeśli może.",
+    "title": "Klepsydra"
+  },
+  {
+    "code": "02072",
+    "flavor": "tak cicho, nawet\nkwiaty wiśni nie drgną,\ngdy brzmi dzwon świątyni\n - Fuhaku",
+    "keywords": "Placówka",
+    "text": "2[recurring-credit]\nUżyj tych kredytów do rezowania lodu.",
+    "title": "Serwer dedykowany"
+  },
+  {
+    "code": "02073",
+    "keywords": "Brama kodowa - Deflektor - Psi",
+    "text": "[subroutine] Ty i runner w tajemnicy wydajecie 0[credit], 1[credit] lub 2[credit]. Ujawnijcie wydane kredyty. Jeśli ty i runner wydaliście różną liczbę kredytów, przesuń Ropuchę tak, aby stała się najdalszym lodem chroniącym inny serwer (runner kontynuuje skok od tej nowej pozycji, i przeprowadza teraz skok na ten nowy serwer).",
+    "title": "Ropucha"
+  },
+  {
+    "code": "02074",
+    "flavor": "Gdzie jedno się kończy, drugie się zaczyna.",
+    "keywords": "Strażnik - Tropiciel",
+    "text": "[subroutine] <trace>Trace 4</trace> Jeśli udane, runner nie może w tej turze wykonywać skoków.\n[subroutine] <trace>Trace 4</trace> Jeśli udane, zakończ skok.",
+    "title": "Uroboros"
+  },
+  {
+    "code": "02075",
+    "flavor": "To jest sieć. My tu pracujemy. Jesteśmy gliniarzami.",
+    "text": "X[recurring-credit]\nUżyj tych kredytów podczas namierzania. X to liczba połączeń runnera.",
+    "title": "Policja sieciowa"
+  },
+  {
+    "code": "02076",
+    "flavor": "Tworzymy cyberprzestrzeń.",
+    "keywords": "Megakorp",
+    "text": "1[recurring-credit]\nUżyj tego kredytu do awansowania lodu.",
+    "title": "Weyland Consortium: Bo to my ją zbudowaliśmy"
+  },
+  {
+    "code": "02077",
+    "flavor": "Kontrakt rządowy naprawdę ciężko stracić.",
+    "text": "[click], [click]: Pobierz 4[credit].",
+    "title": "Kontrakty rządowe"
+  },
+  {
+    "code": "02078",
+    "flavor": "Nie przejdziesz.",
+    "keywords": "Bariera",
+    "text": "Zrezowany Tyran może być awansowany i otrzymuje \"[subroutine] Zakończ skok.\" za każdy leżący na nim żeton zaawansowania.",
+    "title": "Tyran"
+  },
+  {
+    "code": "02079",
+    "keywords": "Warunek",
+    "text": "Zrezuj lód, ignorując wszelkie koszty i zainstaluj na nim Nadzorczą AI jako hostowany znacznik warunku z tekstem \"Skasuj hostujący lód, jeśli wszystkie jego podprogramy zostaną złamane w trakcie jednego spotkania.\"",
+    "title": "Nadzorcza AI"
+  },
+  {
+    "code": "02080",
+    "flavor": "Budynek nie wyglądał na główną siedzibę wielomiliardowej firmy. Pewnie dlatego, że nią nie był.",
+    "keywords": "Ochrona",
+    "text": "<strong>Poświęć Fałszywy trop</strong>: Runner traci [click][click], jeśli może.",
+    "title": "Fałszywy trop"
+  }
 ]

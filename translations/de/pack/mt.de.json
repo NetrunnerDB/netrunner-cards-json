@@ -1,133 +1,133 @@
 [
-    {
-        "code": "04041",
-        "flavor": "\"Das Brett zu analysieren, wird nicht helfen. Dein Fehler war, zu glauben, wir würden das gleiche Spiel spielen.\"",
-        "keywords": "Cyborg - G-mod",
-        "text": "Die Ladekosten für das erste Ice, das in jedem Zug geladen wird, werden um 1 erhöht.",
-        "title": "Reina Roja: Freiheitskämpferin"
-    },
-    {
-        "code": "04042",
-        "keywords": "Konsole",
-        "text": "+3[mu]\nVerwende die SE auf Deep Red nur für <strong>Caïssa</strong>-Programme.\nImmer, wenn du ein <strong>Caïssa</strong>-Programm installierst, kannst du dessen [click] Fertigkeit auslösen, ohne [click] auszugeben.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Deep Red"
-    },
-    {
-        "code": "04043",
-        "flavor": "Bewegungskrieg' ist eine Doktrin, um das Gleichgewicht des Feindes nachhaltig zu stören. Sie funktioniert im Cyberspace genauso gut wie im realen Leben.",
-        "keywords": "Ice-Brecher - KI - Caïssa",
-        "text": "2[credit]: Schalte eine Subroutine auf dem hostenden Ice aus.\n[click]: Hoste Springer auf einem Ice, das noch keine <strong>Caïssa</strong>-Programme hostet. Falls er bereits gehostet ist, kann Springer nur auf einem Ice gehostet werden, das nicht direkt vor oder hinter dem Ice installiert ist, das Springer derzeit hostet.",
-        "title": "Springer"
-    },
-    {
-        "code": "04044",
-        "keywords": "Verdoppeln - Run",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nFühre einen Run durch. Während dieses Runs muss der Kon X[credit] als zusätzliche Kosten für das Laden jedes Ice zahlen. X sind die Ladekosten des Ice.",
-        "title": "Den Rücken freihalten"
-    },
-    {
-        "code": "04045",
-        "flavor": "In einer Schlacht ist Wissen schon der halbe Sieg. Zumindest die einfachere Hälfte.",
-        "text": "[click]: Führe einen Run auf HQ durch. Bei Erfolg kannst du, statt auf Karten zuzugreifen, alle Karten im HQ aufdecken.",
-        "title": "Experten-Plananalysen"
-    },
-    {
-        "code": "04046",
-        "flavor": "Mit modernen Holo-Sekretärinnen können hereinkommende Daten ohne Eingriffe durch menschliche Anwender gefiltert, sortiert, markiert und sogar verkauft werden. Wenn man die Zettabytes an Daten bedenkt, die bei einem erfolgreichen Run möglicherweise durch die Ausrüstung des Runners fließen, könnte man menschliche Anwender wirklich nur für nutzloses Zielwerk halten.",
-        "keywords": "Virtuell",
-        "text": "Wenn dein Zug endet, erhältst du 1[credit], falls du einen erfolgreichen Run durchgeführt hast; ansonsten zerstöre Trickbetrüger.",
-        "title": "Trickbetrüger"
-    },
-    {
-        "code": "04047",
-        "flavor": "Der Kern des Netzes. Eine blendende Sphäre aus Licht, voller Energie und knisternder Flammen. Dahinter befanden sich nur funkelnde Datenbits in einem Feld aus Dunkelheit. Kein Hacker wagte es, sich dem Kern zu nähern, außer einem. Er kehrte mit einem flackernden Code wieder, einer Fackel, entzündet am Feuer des Kerns selbst. Die dunklen Orte im Cyberspace waren nicht länger dunkel und die Legende vom g00ru war geboren.",
-        "keywords": "Ice-Brecher - Decoder",
-        "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +1 Stärke.",
-        "title": "Fackel"
-    },
-    {
-        "code": "04048",
-        "flavor": "Das Aussehen kann täuschen.",
-        "keywords": "Kontakt - Virtuell",
-        "text": "Wenn dein Zug beginnt, decke die oberste Karte von F&E auf. Der Kon darf diese Karte ziehen.",
-        "title": "Die Frau im roten Kleid"
-    },
-    {
-        "code": "04049",
-        "flavor": "\"Flint? Der ist ausgebrannt. Ein nutzloser Alkoholiker, auf den die Abteilung nur Zeit und Geld verschwendet.\" -Louis Blaine, NAPD Detective.\n\"Einer der besten Detectives auf der Liste meiner Pis.\" -Richard Harrison, NAPD Captain.",
-        "keywords": "Kontakt",
-        "text": "Immer, wenn der Kon mindestens 1 negative Publicity erhält, greife auf 1 Karte im HQ zu.\n[trash]: Enthülle 1 Karte.",
-        "title": "Raymond Flint"
-    },
-    {
-        "code": "04050",
-        "flavor": "„Selbst mit einem virtuellen Ball gilt es als unhöflich nicht  \"Achtung!\" zu rufen!“",
-        "keywords": "Führungskraft",
-        "text": "[click]: Füge eine deiner installierten Karten dem HQ zu.",
-        "title": "Isabel McGuire"
-    },
-    {
-        "code": "04051",
-        "flavor": "Ich bin nicht hier, um Spielchen zu spielen. Das Spiel ist vorbei.",
-        "keywords": "Code-Zugang - Bioroid",
-        "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Hudson 1.0 auszuschalten.\n[subroutine] Der Runner kann während seines Runs auf nicht mehr als 1 Karte zugreifen.\n[subroutine] Der Runner kann während seines Runs auf nicht mehr als 1 Karte zugreifen.",
-        "title": "Hudson 1.0"
-    },
-    {
-        "code": "04052",
-        "flavor": "\"Mein Auswertung zeigt, dass dies … über den üblichen Rahmen hinausgeht. Nein es sprengt den Rahmen. Das zählt als darüber hinaus gehen, oder?\"",
-        "text": "Sie dir die obersten 3 Karten von F&E an. Falls sich unter diesen Karten Operationen befinden, kannst du sie spielen (Die Ausspielkosten müssen bezahlt werden), alle zusätzlichen Kosten werden dabei ignoriert. Zerstöre den Rest der ungespielten Karten, die du dir angesehen hast.",
-        "title": "Beschleunigte Diagnostik"
-    },
-    {
-        "code": "04053",
-        "keywords": "Sicherheit",
-        "text": "Wenn du die Punkte für Unorthodoxe Vorraussagen erzielst, wähle <strong>Wächter</strong>, <strong>Code-Zugang</strong> oder <strong>Barriere</strong>. Subroutinen auf Ice der gewählten Unterart können bis zum Beginn deines nächsten Zuges nicht ausgeschaltet werden.",
-        "title": "Unorthodoxe Voraussagen"
-    },
-    {
-        "code": "04054",
-        "flavor": "Genau so schön wie gefährlich.\nUnd es ist sehr gefährlich.",
-        "text": "Wenn der Runner zum ersten mal in seinem Zug mindestens 1[click] bezahlt, erhältst du 2[credit], falls der Runner nicht gerade einen Run auf dieses System gestarte hat.",
-        "title": "Sonnentau"
-    },
-    {
-        "code": "04055",
-        "flavor": "Wer überwacht die Wächter?\nWahrscheinlich eine andere Kamera.",
-        "text": "Wenn der Zug des Runners beginn, verpasse dem Runner 1 Markierung, falls er nicht 1[credit] zahlt.",
-        "title": "Stadtüberwachung"
-    },
-    {
-        "code": "04056",
-        "keywords": "Wächter - Spürhund",
-        "text": "Wenn der Runner auf Schnüffler trifft, decke alle Karten im Griff des Runners auf.\n<strong>Gehosteter Wirkungszähler:</strong> Decke alle Karten im Griff des Runners auf. Zerstöre 1 dieser Karten.\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg lege 1 Wirkungszähler auf Schnüffler.",
-        "title": "Schnüffler"
-    },
-    {
-        "code": "04057",
-        "flavor": "Sprichs mal ganz schnell aus.",
-        "keywords": "Code-Zugang",
-        "text": "Ireress erhält \"[subroutine] Der Runner verliert 1[credit]\" für jeden Punkt negative Publicity, den du hast.",
-        "title": "Ireress"
-    },
-    {
-        "code": "04058",
-        "keywords": "Graue Ops",
-        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug einen Run durchgeführt hat.\nZerstöre die X obersten karten von F&E. Der Runner zerstört 1 installiertes Programm oder Hardware mit Installationskosten von X oder weniger.",
-        "title": "Stromabschaltung"
-    },
-    {
-        "code": "04059",
-        "flavor": "Unter Druck knickt sie um.",
-        "keywords": "Barriere",
-        "text": "Falls während einer einzelnen Begegnung alle Subroutinen auf Papierwand ausgeschaltet worden sind, zerstöre Papierwand.\n[subroutine] Beende den Run.",
-        "title": "Papierwand"
-    },
-    {
-        "code": "04060",
-        "flavor": "Sie sind die einzigen Arbeitskräfte, die noch weniger kosten als Klone.\"",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nInstalliere eine Karte, die keine Operation ist, aus dem Archiv oder HQ, ohne die Installationskosten zu bezahlen.",
-        "title": "Praktikanten"
-    }
+  {
+    "code": "04041",
+    "flavor": "\"Das Brett zu analysieren, wird nicht helfen. Dein Fehler war, zu glauben, wir würden das gleiche Spiel spielen.\"",
+    "keywords": "Cyborg - G-mod",
+    "text": "Die Ladekosten für das erste Ice, das in jedem Zug geladen wird, werden um 1 erhöht.",
+    "title": "Reina Roja: Freiheitskämpferin"
+  },
+  {
+    "code": "04042",
+    "keywords": "Konsole",
+    "text": "+3[mu]\nVerwende die SE auf Deep Red nur für <strong>Caïssa</strong>-Programme.\nImmer, wenn du ein <strong>Caïssa</strong>-Programm installierst, kannst du dessen [click] Fertigkeit auslösen, ohne [click] auszugeben.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Deep Red"
+  },
+  {
+    "code": "04043",
+    "flavor": "Bewegungskrieg' ist eine Doktrin, um das Gleichgewicht des Feindes nachhaltig zu stören. Sie funktioniert im Cyberspace genauso gut wie im realen Leben.",
+    "keywords": "Ice-Brecher - KI - Caïssa",
+    "text": "2[credit]: Schalte eine Subroutine auf dem hostenden Ice aus.\n[click]: Hoste Springer auf einem Ice, das noch keine <strong>Caïssa</strong>-Programme hostet. Falls er bereits gehostet ist, kann Springer nur auf einem Ice gehostet werden, das nicht direkt vor oder hinter dem Ice installiert ist, das Springer derzeit hostet.",
+    "title": "Springer"
+  },
+  {
+    "code": "04044",
+    "keywords": "Verdoppeln - Run",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nFühre einen Run durch. Während dieses Runs muss der Kon X[credit] als zusätzliche Kosten für das Laden jedes Ice zahlen. X sind die Ladekosten des Ice.",
+    "title": "Den Rücken freihalten"
+  },
+  {
+    "code": "04045",
+    "flavor": "In einer Schlacht ist Wissen schon der halbe Sieg. Zumindest die einfachere Hälfte.",
+    "text": "[click]: Führe einen Run auf HQ durch. Bei Erfolg kannst du, statt auf Karten zuzugreifen, alle Karten im HQ aufdecken.",
+    "title": "Experten-Plananalysen"
+  },
+  {
+    "code": "04046",
+    "flavor": "Mit modernen Holo-Sekretärinnen können hereinkommende Daten ohne Eingriffe durch menschliche Anwender gefiltert, sortiert, markiert und sogar verkauft werden. Wenn man die Zettabytes an Daten bedenkt, die bei einem erfolgreichen Run möglicherweise durch die Ausrüstung des Runners fließen, könnte man menschliche Anwender wirklich nur für nutzloses Zielwerk halten.",
+    "keywords": "Virtuell",
+    "text": "Wenn dein Zug endet, erhältst du 1[credit], falls du einen erfolgreichen Run durchgeführt hast; ansonsten zerstöre Trickbetrüger.",
+    "title": "Trickbetrüger"
+  },
+  {
+    "code": "04047",
+    "flavor": "Der Kern des Netzes. Eine blendende Sphäre aus Licht, voller Energie und knisternder Flammen. Dahinter befanden sich nur funkelnde Datenbits in einem Feld aus Dunkelheit. Kein Hacker wagte es, sich dem Kern zu nähern, außer einem. Er kehrte mit einem flackernden Code wieder, einer Fackel, entzündet am Feuer des Kerns selbst. Die dunklen Orte im Cyberspace waren nicht länger dunkel und die Legende vom g00ru war geboren.",
+    "keywords": "Ice-Brecher - Decoder",
+    "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +1 Stärke.",
+    "title": "Fackel"
+  },
+  {
+    "code": "04048",
+    "flavor": "Das Aussehen kann täuschen.",
+    "keywords": "Kontakt - Virtuell",
+    "text": "Wenn dein Zug beginnt, decke die oberste Karte von F&E auf. Der Kon darf diese Karte ziehen.",
+    "title": "Die Frau im roten Kleid"
+  },
+  {
+    "code": "04049",
+    "flavor": "\"Flint? Der ist ausgebrannt. Ein nutzloser Alkoholiker, auf den die Abteilung nur Zeit und Geld verschwendet.\" -Louis Blaine, NAPD Detective.\n\"Einer der besten Detectives auf der Liste meiner Pis.\" -Richard Harrison, NAPD Captain.",
+    "keywords": "Kontakt",
+    "text": "Immer, wenn der Kon mindestens 1 negative Publicity erhält, greife auf 1 Karte im HQ zu.\n[trash]: Enthülle 1 Karte.",
+    "title": "Raymond Flint"
+  },
+  {
+    "code": "04050",
+    "flavor": "„Selbst mit einem virtuellen Ball gilt es als unhöflich nicht  \"Achtung!\" zu rufen!“",
+    "keywords": "Führungskraft",
+    "text": "[click]: Füge eine deiner installierten Karten dem HQ zu.",
+    "title": "Isabel McGuire"
+  },
+  {
+    "code": "04051",
+    "flavor": "Ich bin nicht hier, um Spielchen zu spielen. Das Spiel ist vorbei.",
+    "keywords": "Code-Zugang - Bioroid",
+    "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Hudson 1.0 auszuschalten.\n[subroutine] Der Runner kann während seines Runs auf nicht mehr als 1 Karte zugreifen.\n[subroutine] Der Runner kann während seines Runs auf nicht mehr als 1 Karte zugreifen.",
+    "title": "Hudson 1.0"
+  },
+  {
+    "code": "04052",
+    "flavor": "\"Mein Auswertung zeigt, dass dies … über den üblichen Rahmen hinausgeht. Nein es sprengt den Rahmen. Das zählt als darüber hinaus gehen, oder?\"",
+    "text": "Sie dir die obersten 3 Karten von F&E an. Falls sich unter diesen Karten Operationen befinden, kannst du sie spielen (Die Ausspielkosten müssen bezahlt werden), alle zusätzlichen Kosten werden dabei ignoriert. Zerstöre den Rest der ungespielten Karten, die du dir angesehen hast.",
+    "title": "Beschleunigte Diagnostik"
+  },
+  {
+    "code": "04053",
+    "keywords": "Sicherheit",
+    "text": "Wenn du die Punkte für Unorthodoxe Vorraussagen erzielst, wähle <strong>Wächter</strong>, <strong>Code-Zugang</strong> oder <strong>Barriere</strong>. Subroutinen auf Ice der gewählten Unterart können bis zum Beginn deines nächsten Zuges nicht ausgeschaltet werden.",
+    "title": "Unorthodoxe Voraussagen"
+  },
+  {
+    "code": "04054",
+    "flavor": "Genau so schön wie gefährlich.\nUnd es ist sehr gefährlich.",
+    "text": "Wenn der Runner zum ersten mal in seinem Zug mindestens 1[click] bezahlt, erhältst du 2[credit], falls der Runner nicht gerade einen Run auf dieses System gestarte hat.",
+    "title": "Sonnentau"
+  },
+  {
+    "code": "04055",
+    "flavor": "Wer überwacht die Wächter?\nWahrscheinlich eine andere Kamera.",
+    "text": "Wenn der Zug des Runners beginn, verpasse dem Runner 1 Markierung, falls er nicht 1[credit] zahlt.",
+    "title": "Stadtüberwachung"
+  },
+  {
+    "code": "04056",
+    "keywords": "Wächter - Spürhund",
+    "text": "Wenn der Runner auf Schnüffler trifft, decke alle Karten im Griff des Runners auf.\n<strong>Gehosteter Wirkungszähler:</strong> Decke alle Karten im Griff des Runners auf. Zerstöre 1 dieser Karten.\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg lege 1 Wirkungszähler auf Schnüffler.",
+    "title": "Schnüffler"
+  },
+  {
+    "code": "04057",
+    "flavor": "Sprichs mal ganz schnell aus.",
+    "keywords": "Code-Zugang",
+    "text": "Ireress erhält \"[subroutine] Der Runner verliert 1[credit]\" für jeden Punkt negative Publicity, den du hast.",
+    "title": "Ireress"
+  },
+  {
+    "code": "04058",
+    "keywords": "Graue Ops",
+    "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug einen Run durchgeführt hat.\nZerstöre die X obersten karten von F&E. Der Runner zerstört 1 installiertes Programm oder Hardware mit Installationskosten von X oder weniger.",
+    "title": "Stromabschaltung"
+  },
+  {
+    "code": "04059",
+    "flavor": "Unter Druck knickt sie um.",
+    "keywords": "Barriere",
+    "text": "Falls während einer einzelnen Begegnung alle Subroutinen auf Papierwand ausgeschaltet worden sind, zerstöre Papierwand.\n[subroutine] Beende den Run.",
+    "title": "Papierwand"
+  },
+  {
+    "code": "04060",
+    "flavor": "Sie sind die einzigen Arbeitskräfte, die noch weniger kosten als Klone.\"",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nInstalliere eine Karte, die keine Operation ist, aus dem Archiv oder HQ, ohne die Installationskosten zu bezahlen.",
+    "title": "Praktikanten"
+  }
 ]

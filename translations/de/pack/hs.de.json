@@ -1,132 +1,132 @@
 [
-    {
-        "code": "02081",
-        "flavor": "Um den vollen Effekt zu erleben,\nmusst du laut \"Stromstoß\" brüllen.",
-        "text": "Kann nur gespielt werden, falls du in diesem Zug mindestens 1 Viruszähler auf ein Programm gelegt hast.\nLege 2 Viruszähler auf dieses Programm.",
-        "title": "Stromstoss"
-    },
-    {
-        "code": "02082",
-        "flavor": "Alle sollen rufen: Gebt acht! Gebt acht!\nSeine blitzenden Augen, sein flutendes Haar!\nDreifachen Kreis um ihn man bau,\nAugen in heilige Furcht man schließ!\nDenn er aß vom Honigtau,\nUnd trank Milch vom Paradies.\n-Samuel Taylor Coleridge",
-        "keywords": "Virtuell",
-        "text": "Die Ladekosten für jedes Ice werden um 1 erhöht.",
-        "title": "Xanadu"
-    },
-    {
-        "code": "02083",
-        "flavor": "\"Ich bin in den besten kreisen unterwegs.\"",
-        "keywords": "Natürlich",
-        "text": "Du ziehst eine Starthand von 9 Karten.",
-        "title": "Andromeda: Enteigneter Ristie"
-    },
-    {
-        "code": "02084",
-        "flavor": "Sie zog es vor, ihre Geschäfte in Clubs abzuwickeln. Irgendwas an den Lichtern und den Tänzern vernebelte den Einfaltspinseln der Konzerne, mit denen sie sich dort traf, die Sinne.",
-        "text": "Entferne 1 Markierung. Wenn du 1[credit] zahlst, darfst du Kontaktnetz knüpfen deinem Griff hinzufügen, statt es zu zerstören.",
-        "title": "Kontaktnetz knüpfen"
-    },
-    {
-        "code": "02085",
-        "flavor": "Wenn du niemanden da drin kennst, finde jemanden da drin, der auf Schreibtischdekoration steht.",
-        "text": "Immer, wenn du im HQ auf Karten zugreifst, greife auf 1 zusätzliche Karte im HQ zu.",
-        "title": "HQ Interface"
-    },
-    {
-        "code": "02086",
-        "keywords": "Virus",
-        "text": "X[recurring-credit]\nVerwende diese Credits in Runs auf HQ. X ist die Zahl der Viruszähler auf Pheromone.\nImmer, wenn du einen erfolgreichen Run auf HQ durchführst, lege 1 Viruszähler auf Pheromone.",
-        "title": "Pheromone"
-    },
-    {
-        "code": "02087",
-        "flavor": "Sie an ihrem PAD. Ich mit meiner Ausrüstung.\nGedämpfte Lichter. Eingängiger Jazz.\nDas ist wahre Liebe.",
-        "text": "Ziehe 5 Karten.",
-        "title": "Zweisamkeit"
-    },
-    {
-        "code": "02088",
-        "flavor": "Brauchst du wirklich noch eins?",
-        "text": "Immer, wenn du eine Hardware installierst (einschließlich Replikator), darfst du deinen Stapel nach einer weiteren Kopie dieser Hardware durchsuchen, sie aufdecken und deinem Griff hinzufügen. Mische deinen Stapel.",
-        "title": "Replikator"
-    },
-    {
-        "code": "02089",
-        "flavor": "\"Die kltzekleine Spinne krabbelt hoch die Datenrinne...\"\n-Chaostheorie",
-        "keywords": "Ice-Brecher - Killer - Cloud",
-        "text": "Falls du mindestens 2[link] hast, sind die Speicherkosten von Krabbelviech 0, auch, falls er nicht installiert ist.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[credit]: +1 Stärke",
-        "title": "Krabbelviech"
-    },
-    {
-        "code": "02090",
-        "flavor": "Frühere Versionen der Krake erwiesen sich als unersättliche, Ice-verschlingende Räuber. Eigentlich hat sich nicht viel geändert.",
-        "text": "Kann nur gespielt werden, falls du in diesem Zug eine Agenda gestohlen hast.\nWähle ein System. Der Kon zerstört 1 Ice, das dieses System schützt.",
-        "title": "Krake"
-    },
-    {
-        "code": "02091",
-        "flavor": "\"Ihr seid nicht die einzige Art von Runnern in New Angeles.\"",
-        "keywords": "Kontakt",
-        "text": "Du kannst Kati Jones nicht öfter als einmal pro Zug verwenden.\n[click]: Lege 3[credit] aus der Bank auf Kati Jones.\n[click]: Nimm alles Credits von Kati Jones.",
-        "title": "Kati Jones"
-    },
-    {
-        "code": "02092",
-        "keywords": "Werbung",
-        "text": "Lege 16[credit] aus der Credit-Bank auf Eva-Kampagne, wenn sie geladen wird. Wenn keine Credits mehr auf Eva-Kampagne sind, zerstöre sie.\nNimm 2[credit] von Eva-Kampagne, wenn dein Zug beginnt.",
-        "title": "Eva-Kampagne"
-    },
-    {
-        "code": "02093",
-        "flavor": "Auch bekannt als „die Hölle für Entwickler“",
-        "text": "Mische 1 Karte aus dem HQ in F&E.",
-        "title": "Überarbeitung"
-    },
-    {
-        "code": "02094",
-        "flavor": "\"Dieses Ice ist Scheiße.\" -g00ru",
-        "keywords": "Falle",
-        "text": "[subroutine] Der Runner kann sich für den Rest dieses Runs nicht ausstöpseln. Zerstöre Strudel.",
-        "title": "Strudel"
-    },
-    {
-        "code": "02095",
-        "flavor": "Trotz seines Aussehens ist das Hokusai-Netz die berüchtigste Forschungsanlage bei Jinteki.",
-        "keywords": "Region",
-        "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird, verursache 1 Netz-Schaden.\nMaximal 1 <strong>Region</strong> pro System.",
-        "title": "Hokusai-Netz"
-    },
-    {
-        "code": "02096",
-        "flavor": "Schnüffel",
-        "keywords": "Wächter - Spürhund - Beobachter",
-        "text": "[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg sieh dir eine Anzahl Karten oben vom Stapel des Runners an, die der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entspricht. Zerstöre 1 dieser Karten und lege den Rest in beliebniger Reihenfolge zurück.",
-        "title": "Datenspürhund"
-    },
-    {
-        "code": "02097",
-        "flavor": "Die Welt kontrollieren, einen Bildschirm nach dem anderen.",
-        "keywords": "Sysop",
-        "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird,<trace>Aufspüren 5</trace> Bei Erfolg verpasse dem Runner 1 Markierung. Bei Misserfolg, zerstöre Bernice Mai.",
-        "title": "Bernice Mai"
-    },
-    {
-        "code": "02098",
-        "flavor": "Du bist hier nicht mehr in Kansas.",
-        "keywords": "Code-Zugang - Spürhund",
-        "text": "Bergung kann nur entwickelt werden, solange es geladen ist, und erhält “[subroutine] <trace>Trace 2</trace> Bei Erfolg verpasse dem Runner 1 Markierung“ für jeden Entwicklungszähler auf ihm.",
-        "title": "Bergung"
-    },
-    {
-        "code": "02099",
-        "flavor": "\"Ein Job, den man nur einmal gemacht hat, ist ein Job, den man richtig gemacht hat.\"",
-        "keywords": "Sysop",
-        "text": "2[recurring-credit]\nVerwende diese Credits, um Karten zu entwickeln, die sich in diesem System befinden, oder es beschützen.",
-        "title": "Simone Diego"
-    },
-    {
-        "code": "02100",
-        "flavor": "\"Das ist so was ähnliches wie ein Anagramm.\"\n  -Entwickler Phoenix",
-        "text": "<trace>Aufspüren 7</trace> Bei Erfolg zerstöre 1 <strong>virtuelle</strong> Ressource oder 1 <strong>Verbindung</strong>.",
-        "title": "Foxfire"
-    }
+  {
+    "code": "02081",
+    "flavor": "Um den vollen Effekt zu erleben,\nmusst du laut \"Stromstoß\" brüllen.",
+    "text": "Kann nur gespielt werden, falls du in diesem Zug mindestens 1 Viruszähler auf ein Programm gelegt hast.\nLege 2 Viruszähler auf dieses Programm.",
+    "title": "Stromstoss"
+  },
+  {
+    "code": "02082",
+    "flavor": "Alle sollen rufen: Gebt acht! Gebt acht!\nSeine blitzenden Augen, sein flutendes Haar!\nDreifachen Kreis um ihn man bau,\nAugen in heilige Furcht man schließ!\nDenn er aß vom Honigtau,\nUnd trank Milch vom Paradies.\n-Samuel Taylor Coleridge",
+    "keywords": "Virtuell",
+    "text": "Die Ladekosten für jedes Ice werden um 1 erhöht.",
+    "title": "Xanadu"
+  },
+  {
+    "code": "02083",
+    "flavor": "\"Ich bin in den besten kreisen unterwegs.\"",
+    "keywords": "Natürlich",
+    "text": "Du ziehst eine Starthand von 9 Karten.",
+    "title": "Andromeda: Enteigneter Ristie"
+  },
+  {
+    "code": "02084",
+    "flavor": "Sie zog es vor, ihre Geschäfte in Clubs abzuwickeln. Irgendwas an den Lichtern und den Tänzern vernebelte den Einfaltspinseln der Konzerne, mit denen sie sich dort traf, die Sinne.",
+    "text": "Entferne 1 Markierung. Wenn du 1[credit] zahlst, darfst du Kontaktnetz knüpfen deinem Griff hinzufügen, statt es zu zerstören.",
+    "title": "Kontaktnetz knüpfen"
+  },
+  {
+    "code": "02085",
+    "flavor": "Wenn du niemanden da drin kennst, finde jemanden da drin, der auf Schreibtischdekoration steht.",
+    "text": "Immer, wenn du im HQ auf Karten zugreifst, greife auf 1 zusätzliche Karte im HQ zu.",
+    "title": "HQ Interface"
+  },
+  {
+    "code": "02086",
+    "keywords": "Virus",
+    "text": "X[recurring-credit]\nVerwende diese Credits in Runs auf HQ. X ist die Zahl der Viruszähler auf Pheromone.\nImmer, wenn du einen erfolgreichen Run auf HQ durchführst, lege 1 Viruszähler auf Pheromone.",
+    "title": "Pheromone"
+  },
+  {
+    "code": "02087",
+    "flavor": "Sie an ihrem PAD. Ich mit meiner Ausrüstung.\nGedämpfte Lichter. Eingängiger Jazz.\nDas ist wahre Liebe.",
+    "text": "Ziehe 5 Karten.",
+    "title": "Zweisamkeit"
+  },
+  {
+    "code": "02088",
+    "flavor": "Brauchst du wirklich noch eins?",
+    "text": "Immer, wenn du eine Hardware installierst (einschließlich Replikator), darfst du deinen Stapel nach einer weiteren Kopie dieser Hardware durchsuchen, sie aufdecken und deinem Griff hinzufügen. Mische deinen Stapel.",
+    "title": "Replikator"
+  },
+  {
+    "code": "02089",
+    "flavor": "\"Die kltzekleine Spinne krabbelt hoch die Datenrinne...\"\n-Chaostheorie",
+    "keywords": "Ice-Brecher - Killer - Cloud",
+    "text": "Falls du mindestens 2[link] hast, sind die Speicherkosten von Krabbelviech 0, auch, falls er nicht installiert ist.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[credit]: +1 Stärke",
+    "title": "Krabbelviech"
+  },
+  {
+    "code": "02090",
+    "flavor": "Frühere Versionen der Krake erwiesen sich als unersättliche, Ice-verschlingende Räuber. Eigentlich hat sich nicht viel geändert.",
+    "text": "Kann nur gespielt werden, falls du in diesem Zug eine Agenda gestohlen hast.\nWähle ein System. Der Kon zerstört 1 Ice, das dieses System schützt.",
+    "title": "Krake"
+  },
+  {
+    "code": "02091",
+    "flavor": "\"Ihr seid nicht die einzige Art von Runnern in New Angeles.\"",
+    "keywords": "Kontakt",
+    "text": "Du kannst Kati Jones nicht öfter als einmal pro Zug verwenden.\n[click]: Lege 3[credit] aus der Bank auf Kati Jones.\n[click]: Nimm alles Credits von Kati Jones.",
+    "title": "Kati Jones"
+  },
+  {
+    "code": "02092",
+    "keywords": "Werbung",
+    "text": "Lege 16[credit] aus der Credit-Bank auf Eva-Kampagne, wenn sie geladen wird. Wenn keine Credits mehr auf Eva-Kampagne sind, zerstöre sie.\nNimm 2[credit] von Eva-Kampagne, wenn dein Zug beginnt.",
+    "title": "Eva-Kampagne"
+  },
+  {
+    "code": "02093",
+    "flavor": "Auch bekannt als „die Hölle für Entwickler“",
+    "text": "Mische 1 Karte aus dem HQ in F&E.",
+    "title": "Überarbeitung"
+  },
+  {
+    "code": "02094",
+    "flavor": "\"Dieses Ice ist Scheiße.\" -g00ru",
+    "keywords": "Falle",
+    "text": "[subroutine] Der Runner kann sich für den Rest dieses Runs nicht ausstöpseln. Zerstöre Strudel.",
+    "title": "Strudel"
+  },
+  {
+    "code": "02095",
+    "flavor": "Trotz seines Aussehens ist das Hokusai-Netz die berüchtigste Forschungsanlage bei Jinteki.",
+    "keywords": "Region",
+    "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird, verursache 1 Netz-Schaden.\nMaximal 1 <strong>Region</strong> pro System.",
+    "title": "Hokusai-Netz"
+  },
+  {
+    "code": "02096",
+    "flavor": "Schnüffel",
+    "keywords": "Wächter - Spürhund - Beobachter",
+    "text": "[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg sieh dir eine Anzahl Karten oben vom Stapel des Runners an, die der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entspricht. Zerstöre 1 dieser Karten und lege den Rest in beliebniger Reihenfolge zurück.",
+    "title": "Datenspürhund"
+  },
+  {
+    "code": "02097",
+    "flavor": "Die Welt kontrollieren, einen Bildschirm nach dem anderen.",
+    "keywords": "Sysop",
+    "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird,<trace>Aufspüren 5</trace> Bei Erfolg verpasse dem Runner 1 Markierung. Bei Misserfolg, zerstöre Bernice Mai.",
+    "title": "Bernice Mai"
+  },
+  {
+    "code": "02098",
+    "flavor": "Du bist hier nicht mehr in Kansas.",
+    "keywords": "Code-Zugang - Spürhund",
+    "text": "Bergung kann nur entwickelt werden, solange es geladen ist, und erhält “[subroutine] <trace>Trace 2</trace> Bei Erfolg verpasse dem Runner 1 Markierung“ für jeden Entwicklungszähler auf ihm.",
+    "title": "Bergung"
+  },
+  {
+    "code": "02099",
+    "flavor": "\"Ein Job, den man nur einmal gemacht hat, ist ein Job, den man richtig gemacht hat.\"",
+    "keywords": "Sysop",
+    "text": "2[recurring-credit]\nVerwende diese Credits, um Karten zu entwickeln, die sich in diesem System befinden, oder es beschützen.",
+    "title": "Simone Diego"
+  },
+  {
+    "code": "02100",
+    "flavor": "\"Das ist so was ähnliches wie ein Anagramm.\"\n  -Entwickler Phoenix",
+    "text": "<trace>Aufspüren 7</trace> Bei Erfolg zerstöre 1 <strong>virtuelle</strong> Ressource oder 1 <strong>Verbindung</strong>.",
+    "title": "Foxfire"
+  }
 ]

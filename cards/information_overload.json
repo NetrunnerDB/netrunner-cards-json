@@ -1,0 +1,16 @@
+{
+  "card_type_id": "ice",
+  "cost": 6,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "information_overload",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "When the Runner encounters Information Overload, trace 1 if the trace is successful, give the Runner 1 tag. Information Overload gains \"Subroutine The Runner trashes 1 of his or her installed cards.\" for each tag the Runner has.",
+  "stripped_title": "Information Overload",
+  "subtypes": ["sentry", "tracer"],
+  "text": "When the Runner encounters Information Overload, <trace>trace 1</trace> if the trace is successful, give the Runner 1 tag.\nInformation Overload gains \"[subroutine] The Runner trashes 1 of his or her installed cards.\" for each tag the Runner has.",
+  "title": "Information Overload"
+}

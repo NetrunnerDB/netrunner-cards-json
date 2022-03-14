@@ -1,0 +1,15 @@
+{
+  "card_type_id": "event",
+  "cost": "null",
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "bribery",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Make a run. During this run, the Corp must pay X credits as an additional cost to rez the first unrezzed piece of ice approached.",
+  "stripped_title": "Bribery",
+  "subtypes": ["run"],
+  "text": "Make a run. During this run, the Corp must pay X[credit] as an additional cost to rez the first unrezzed piece of ice approached.",
+  "title": "Bribery"
+}

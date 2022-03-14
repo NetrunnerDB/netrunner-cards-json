@@ -1,0 +1,16 @@
+{
+  "card_type_id": "ice",
+  "cost": 8,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "next_gold",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "X is the number of rezzed NEXT ice. Subroutine Do X net damage. Subroutine Trash X programs.",
+  "stripped_title": "NEXT Gold",
+  "subtypes": ["sentry", "next", "ap", "destroyer"],
+  "text": "X is the number of rezzed <strong>NEXT</strong> ice.\n[subroutine] Do X net damage.\n[subroutine] Trash X programs.",
+  "title": "NEXT Gold"
+}

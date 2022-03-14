@@ -1,0 +1,16 @@
+{
+  "card_type_id": "ice",
+  "cost": 7,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "blockchain",
+  "influence_cost": 4,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "Blockchain gains \"Subroutine The Corp gains 1 credit and the Runner loses 1 credit.\" before all its other subroutines for every 2 faceup transaction operations in Archives. Subroutine The Corp gains 1 credit and the Runner loses 1 credit. Subroutine End the run.",
+  "stripped_title": "Blockchain",
+  "subtypes": ["barrier"],
+  "text": "Blockchain gains \"[subroutine] The Corp gains 1[credit] and the Runner loses 1[credit].\" before all its other subroutines for every 2 faceup <strong>transaction</strong> operations in Archives.\n[subroutine] The Corp gains 1[credit] and the Runner loses 1[credit].\n[subroutine] End the run.",
+  "title": "Blockchain"
+}

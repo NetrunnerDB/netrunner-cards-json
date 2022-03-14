@@ -1,0 +1,16 @@
+{
+  "card_type_id": "program",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "incubator",
+  "influence_cost": 3,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "When your turn begins, place 1 virus counter on Incubator. click, trash: Move all virus counters from Incubator to another installed virus program.",
+  "stripped_title": "Incubator",
+  "subtypes": ["virus"],
+  "text": "When your turn begins, place 1 virus counter on Incubator.\n[click], [trash]: Move all virus counters from Incubator to another installed <strong>virus</strong> program.",
+  "title": "Incubator"
+}

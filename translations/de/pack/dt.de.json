@@ -1,134 +1,134 @@
 [
-    {
-        "code": "04101",
-        "keywords": "Verdoppeln - Run",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nFühre einen Run auf ein ausgelagertes System durch. Bei Erfolg kannst du, statt auf Karten zuzugreifen, alle Karten in diesem System zerstören, ohne die Kosten dafür zu bezahlen (selbst, wenn sie normalerweise nicht zerstört werden können).",
-        "title": "Singularität"
-    },
-    {
-        "code": "04102",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nLege bis zu 3 Entwicklungsmarker auf eine ungeladene Karte in einem ausgelagerten System. Du erhältst 2[credit] für jeden gelegten Entwicklungsmarker. Du kannst in diesem Zug nicht auf diese Karte zugreifen.",
-        "title": "Damengambit"
-    },
-    {
-        "code": "04103",
-        "flavor": "Der Dyson-Fraktalgenerator ist ein nutzloser Klumpen Silizium, er produziert nur rein zufällige Ergebnisse. Was für ein Verrückter steckt sich das ein? Wofür braucht man echte Zufallszahlen?\n-John Masanori",
-        "keywords": "Chip - Heimlichkeit",
-        "text": "1[recurring-credit]\nVerwende diesen Credit, um für die Verwendung von <strong>Fractern</strong> zu bezahlen.",
-        "title": "Dyson-Fraktalgenerator"
-    },
-    {
-        "code": "04104",
-        "flavor": "Nimm Moores Gesetz, iteriere es über ein Jahrhundert oder zwei und kombiniere es mit Quantencomputertechnologie. Du gelangst an einen Punkt, an dem du eine Software auf einer Hardware-Plattform schreibst, die du gleichzeitig entwickelst. Genau aufeinander abgestimmt. In was für einer aufregenden Zeit wir leben!\n-William Knuth, Babbages Turm",
-        "keywords": "Chip - Heimlichkeit",
-        "text": "1[recurring-credit]\nVerwende diesen Credit, um für die Verwendung von <strong>Killern</strong> zu bezahlen.",
-        "title": "Schalldämpfer"
-    },
-    {
-        "code": "04105",
-        "flavor": "\"Vorhersagende Algorithmen, die dir das Programm holen, das du brauchst, bevor du überhaupt weißt, dass du es brauchst. Meine zweitliebste Dame.\" -Gabriel Santiago",
-        "text": "Du kannst Savoir-faire nicht öfter als einmal pro Zug verwenden.\n2[credit]: Installiere ein Programm aus deinem Griff und bezahle die Installationskosten.",
-        "title": "Savoir-faire"
-    },
-    {
-        "code": "04106",
-        "flavor": "Es gibt gute, ehrliche, hart arbeitende Polizisten beim NAPD. Beamte, die ihr Bestes geben, um die Schuldigen der Gerechtigkeit zuzuführen und die Unschuldigen zu schützen. zum Glück für die Kriminellen gibt es deutlich mehr von der anderen Art. Von der Art, mit der man viel einfacher arbeiten kann.",
-        "keywords": "Kontakt",
-        "text": "[trash]: Verhindere, dass eine andere installierte Ressource zerstört wird.\n[trash]: Erhalte 2[credit].",
-        "title": "Sündenbock"
-    },
-    {
-        "code": "04107",
-        "flavor": "\"Hast du gedacht, ich mache Scherze, als ich gesagt habe, ich könnte mich da im Schlaf einhacken?\" -Chaostheorie",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nDu erhältst 2[credit]. Du erhältst 1 zusätzlichen [credit] für jedes <strong>Verdoppeln</strong>-Ereignis in deiner Ablage.",
-        "title": "Power Nap"
-    },
-    {
-        "code": "04108",
-        "flavor": "\"Selbstgeschriebener Code ist wie von Hand gemaltes Kunstwerk. Du kannst die Pinselstriche sehen und damit auch den Künstler. Und danach siehst du alles in einem ganz neuen Licht.\" -Kate \"Mac\" McCaffrey",
-        "text": "[click]: Wähle ein geladenes Ice. Dieses Ice erhält <strong>Wächter</strong>, <strong>Code-Zugang</strong> oder <strong>Barriere</strong> bis zum Ende des nächsten Runs in diesem Zug.",
-        "title": "Pinsel"
-    },
-    {
-        "code": "04109",
-        "flavor": "Datenjäger zahlen immer Höchstpreise für alte Laufwerke. Je unnützer die Daten sind, desto lukrativer wird das Geschäft.",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nErhalte 9[credit].",
-        "title": "Glücksfund"
-    },
-    {
-        "code": "04110",
-        "flavor": "Wenn man mal drin ist, führt der einzige Weg nach draußen durch deinen eigenen Geist.",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Die maximale Handkartenzahl des Runners wird bis zum Beginn des nächsten Zuges des Kons um 2 gesenkt.",
-        "title": "Gyri-Labyrinth"
-    },
-    {
-        "code": "04111",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nBennene eine Karte außer Reklamation. Decke eine beliebige Anzahl von Kopien der genannten Karte aus dem Archiv auf und füge sie dem HQ zu.",
-        "title": "Reklamation"
-    },
-    {
-        "code": "04112",
-        "flavor": "Nachdem die berüchtigte Ho-meh Verbrechensserie dort in einem Kugelhagel endete, sind die Touristen in noch größerer Zahl zum Broadcast Square geströmt. So war das halt im Simsinn.",
-        "keywords": "Anlage",
-        "text": "Immer, wenn du 1 negative Publicity erhalten würdest, <trace>Aufspüren 3</trace> bei Erfolg vermeidest du es, die negative Publicity zu erhalten.",
-        "title": "Broadcast Square"
-    },
-    {
-        "code": "04113",
-        "flavor": "Das einzige, was noch schlimmer ist, als gefeuert und durch einen jüngeren, billigeren Arbeiter ersetzt zu werden? Durch einen Androiden ersetzt zu werden.",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nMische alle Karten aus dem HQ in F&E. Ziehe 5 Karten.",
-        "title": "Konzern-Umbesetzungen"
-    },
-    {
-        "code": "04114",
-        "flavor": "Der erste Klon-Detective beim NAPD.",
-        "keywords": "Klon - Psi",
-        "text": "Immer, wenn der Runner an allem Ice, das dieses System schützt, vorbeigekommen ist, geben du und der Runner geheim 0[credit], 1[credit], or 2[credit] aus. Falls sich die Anzahl der von dir und dem Runner ausgegebenen Credits unterscheiden, beende den Run.",
-        "title": "Caprice Nisei"
-    },
-    {
-        "code": "04115",
-        "keywords": "Wächter - Spürhund - AP - Illegal",
-        "text": "Wenn du Shinobi lädst, erhältst du 1 negative Publicity.\n[subroutine] <trace>Aufspüren 1</trace> Bei Erfolg verursache 1 Netz-Schaden.\n[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg verursache 2 Netz-Schaden.\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verursache 3 Netz-Schaden und beende den Run.",
-        "title": "Shinobi"
-    },
-    {
-        "code": "04116",
-        "flavor": "\"Eigentlich tut es selbst nichts. Es markiert dich einfach nur als Eindringling und sorgt so dafür, dass das nächste Ice die ganze Arbeit macht.\" -Kate \"Mac\" McCaffrey",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Das nächste Ice, auf das der Runner trifft. erhält \"[subroutine] Beende den Run.\" für den Rest des Runs hinter seinen anderen Subroutinen.",
-        "title": "Markierer"
-    },
-    {
-        "code": "04117",
-        "keywords": "Barriere",
-        "text": "Bienenstock verliert eine \"[subroutine] Beende den Run.\"-Subroutine für jeden Agendapunkt in der Punktezone des Kons.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
-        "title": "Bienenstock"
-    },
-    {
-        "code": "04118",
-        "flavor": "\"Jetzt wollen wir darüber reden, wie wenig dir wirklich von den Ereignissen zwischen dem sechsten und sechzehnten Juni im Gedächtnis geblieben ist.\"",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nEntferne bis zu 2 negative Publicity.",
-        "title": "Zeugen beeinflussen"
-    },
-    {
-        "code": "04119",
-        "keywords": "Sicherheit",
-        "text": "Die benötigten Entwicklungen von NAPD-Vertrag werden für jeden Punkt negative Publicity, die der Kon hat, um 1 erhöht.\nDer Runner muss 4[credit] als zusätzliche Kosten zahlen, um NAPD-Vertrag zu stehlen.",
-        "title": "NAPD-Vertrag"
-    },
-    {
-        "code": "04120",
-        "flavor": "Wenn es groß ist, möchte es zwei Subroutinen haben.",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Beende den Run.",
-        "title": "Dilemma"
-    }
+  {
+    "code": "04101",
+    "keywords": "Verdoppeln - Run",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nFühre einen Run auf ein ausgelagertes System durch. Bei Erfolg kannst du, statt auf Karten zuzugreifen, alle Karten in diesem System zerstören, ohne die Kosten dafür zu bezahlen (selbst, wenn sie normalerweise nicht zerstört werden können).",
+    "title": "Singularität"
+  },
+  {
+    "code": "04102",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nLege bis zu 3 Entwicklungsmarker auf eine ungeladene Karte in einem ausgelagerten System. Du erhältst 2[credit] für jeden gelegten Entwicklungsmarker. Du kannst in diesem Zug nicht auf diese Karte zugreifen.",
+    "title": "Damengambit"
+  },
+  {
+    "code": "04103",
+    "flavor": "Der Dyson-Fraktalgenerator ist ein nutzloser Klumpen Silizium, er produziert nur rein zufällige Ergebnisse. Was für ein Verrückter steckt sich das ein? Wofür braucht man echte Zufallszahlen?\n-John Masanori",
+    "keywords": "Chip - Heimlichkeit",
+    "text": "1[recurring-credit]\nVerwende diesen Credit, um für die Verwendung von <strong>Fractern</strong> zu bezahlen.",
+    "title": "Dyson-Fraktalgenerator"
+  },
+  {
+    "code": "04104",
+    "flavor": "Nimm Moores Gesetz, iteriere es über ein Jahrhundert oder zwei und kombiniere es mit Quantencomputertechnologie. Du gelangst an einen Punkt, an dem du eine Software auf einer Hardware-Plattform schreibst, die du gleichzeitig entwickelst. Genau aufeinander abgestimmt. In was für einer aufregenden Zeit wir leben!\n-William Knuth, Babbages Turm",
+    "keywords": "Chip - Heimlichkeit",
+    "text": "1[recurring-credit]\nVerwende diesen Credit, um für die Verwendung von <strong>Killern</strong> zu bezahlen.",
+    "title": "Schalldämpfer"
+  },
+  {
+    "code": "04105",
+    "flavor": "\"Vorhersagende Algorithmen, die dir das Programm holen, das du brauchst, bevor du überhaupt weißt, dass du es brauchst. Meine zweitliebste Dame.\" -Gabriel Santiago",
+    "text": "Du kannst Savoir-faire nicht öfter als einmal pro Zug verwenden.\n2[credit]: Installiere ein Programm aus deinem Griff und bezahle die Installationskosten.",
+    "title": "Savoir-faire"
+  },
+  {
+    "code": "04106",
+    "flavor": "Es gibt gute, ehrliche, hart arbeitende Polizisten beim NAPD. Beamte, die ihr Bestes geben, um die Schuldigen der Gerechtigkeit zuzuführen und die Unschuldigen zu schützen. zum Glück für die Kriminellen gibt es deutlich mehr von der anderen Art. Von der Art, mit der man viel einfacher arbeiten kann.",
+    "keywords": "Kontakt",
+    "text": "[trash]: Verhindere, dass eine andere installierte Ressource zerstört wird.\n[trash]: Erhalte 2[credit].",
+    "title": "Sündenbock"
+  },
+  {
+    "code": "04107",
+    "flavor": "\"Hast du gedacht, ich mache Scherze, als ich gesagt habe, ich könnte mich da im Schlaf einhacken?\" -Chaostheorie",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nDu erhältst 2[credit]. Du erhältst 1 zusätzlichen [credit] für jedes <strong>Verdoppeln</strong>-Ereignis in deiner Ablage.",
+    "title": "Power Nap"
+  },
+  {
+    "code": "04108",
+    "flavor": "\"Selbstgeschriebener Code ist wie von Hand gemaltes Kunstwerk. Du kannst die Pinselstriche sehen und damit auch den Künstler. Und danach siehst du alles in einem ganz neuen Licht.\" -Kate \"Mac\" McCaffrey",
+    "text": "[click]: Wähle ein geladenes Ice. Dieses Ice erhält <strong>Wächter</strong>, <strong>Code-Zugang</strong> oder <strong>Barriere</strong> bis zum Ende des nächsten Runs in diesem Zug.",
+    "title": "Pinsel"
+  },
+  {
+    "code": "04109",
+    "flavor": "Datenjäger zahlen immer Höchstpreise für alte Laufwerke. Je unnützer die Daten sind, desto lukrativer wird das Geschäft.",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nErhalte 9[credit].",
+    "title": "Glücksfund"
+  },
+  {
+    "code": "04110",
+    "flavor": "Wenn man mal drin ist, führt der einzige Weg nach draußen durch deinen eigenen Geist.",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Die maximale Handkartenzahl des Runners wird bis zum Beginn des nächsten Zuges des Kons um 2 gesenkt.",
+    "title": "Gyri-Labyrinth"
+  },
+  {
+    "code": "04111",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nBennene eine Karte außer Reklamation. Decke eine beliebige Anzahl von Kopien der genannten Karte aus dem Archiv auf und füge sie dem HQ zu.",
+    "title": "Reklamation"
+  },
+  {
+    "code": "04112",
+    "flavor": "Nachdem die berüchtigte Ho-meh Verbrechensserie dort in einem Kugelhagel endete, sind die Touristen in noch größerer Zahl zum Broadcast Square geströmt. So war das halt im Simsinn.",
+    "keywords": "Anlage",
+    "text": "Immer, wenn du 1 negative Publicity erhalten würdest, <trace>Aufspüren 3</trace> bei Erfolg vermeidest du es, die negative Publicity zu erhalten.",
+    "title": "Broadcast Square"
+  },
+  {
+    "code": "04113",
+    "flavor": "Das einzige, was noch schlimmer ist, als gefeuert und durch einen jüngeren, billigeren Arbeiter ersetzt zu werden? Durch einen Androiden ersetzt zu werden.",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nMische alle Karten aus dem HQ in F&E. Ziehe 5 Karten.",
+    "title": "Konzern-Umbesetzungen"
+  },
+  {
+    "code": "04114",
+    "flavor": "Der erste Klon-Detective beim NAPD.",
+    "keywords": "Klon - Psi",
+    "text": "Immer, wenn der Runner an allem Ice, das dieses System schützt, vorbeigekommen ist, geben du und der Runner geheim 0[credit], 1[credit], or 2[credit] aus. Falls sich die Anzahl der von dir und dem Runner ausgegebenen Credits unterscheiden, beende den Run.",
+    "title": "Caprice Nisei"
+  },
+  {
+    "code": "04115",
+    "keywords": "Wächter - Spürhund - AP - Illegal",
+    "text": "Wenn du Shinobi lädst, erhältst du 1 negative Publicity.\n[subroutine] <trace>Aufspüren 1</trace> Bei Erfolg verursache 1 Netz-Schaden.\n[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg verursache 2 Netz-Schaden.\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verursache 3 Netz-Schaden und beende den Run.",
+    "title": "Shinobi"
+  },
+  {
+    "code": "04116",
+    "flavor": "\"Eigentlich tut es selbst nichts. Es markiert dich einfach nur als Eindringling und sorgt so dafür, dass das nächste Ice die ganze Arbeit macht.\" -Kate \"Mac\" McCaffrey",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Das nächste Ice, auf das der Runner trifft. erhält \"[subroutine] Beende den Run.\" für den Rest des Runs hinter seinen anderen Subroutinen.",
+    "title": "Markierer"
+  },
+  {
+    "code": "04117",
+    "keywords": "Barriere",
+    "text": "Bienenstock verliert eine \"[subroutine] Beende den Run.\"-Subroutine für jeden Agendapunkt in der Punktezone des Kons.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
+    "title": "Bienenstock"
+  },
+  {
+    "code": "04118",
+    "flavor": "\"Jetzt wollen wir darüber reden, wie wenig dir wirklich von den Ereignissen zwischen dem sechsten und sechzehnten Juni im Gedächtnis geblieben ist.\"",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nEntferne bis zu 2 negative Publicity.",
+    "title": "Zeugen beeinflussen"
+  },
+  {
+    "code": "04119",
+    "keywords": "Sicherheit",
+    "text": "Die benötigten Entwicklungen von NAPD-Vertrag werden für jeden Punkt negative Publicity, die der Kon hat, um 1 erhöht.\nDer Runner muss 4[credit] als zusätzliche Kosten zahlen, um NAPD-Vertrag zu stehlen.",
+    "title": "NAPD-Vertrag"
+  },
+  {
+    "code": "04120",
+    "flavor": "Wenn es groß ist, möchte es zwei Subroutinen haben.",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Beende den Run.",
+    "title": "Dilemma"
+  }
 ]

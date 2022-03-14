@@ -1,135 +1,135 @@
 [
-    {
-        "code": "02101",
-        "keywords": "Run",
-        "text": "Führe einen Run auf das Archiv durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen, ein Programm aus deiner Ablage installieren, ohne die Kosten zu bezahlen",
-        "title": "Bergungs-Run"
-    },
-    {
-        "code": "02102",
-        "keywords": "Ice-Brecher - AI - Virus",
-        "text": "2[credit]: Schalte eine Subroutine eines Ice aus..\nX ist die Anzahl der Viruszähler auf Darwin.\nWenn dein Zug beginnt, kannst du 1[credit] zahlen, um 1 Viruszähler auf Darwin zu legen.",
-        "title": "Darwin"
-    },
-    {
-        "code": "02103",
-        "flavor": "Die in beide Richtungen funktionierende Lösung für ein Problem, das nur in eine Richtung besteht. Datenleck umdrehen, oder kurz DLU, ist eigentlich falsch benannt. Die Daten werden nicht wirklich umgedreht, nur ein parallele Peer-to-Peer Verbindung zur ursprünglichen Quelle erschaffen.",
-        "keywords": "Virtuell - Sabotage",
-        "text": "Kann nur installiert werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nFalls du markiert bist, erhält Datenleck umdrehen \"[click]: Der Kon zerstört die oberste Karte von F&E.\"",
-        "title": "Datenleck umdrehen"
-    },
-    {
-        "code": "02104",
-        "flavor": "Glaubst du an Feen?",
-        "keywords": "Ice-Brecher - Killer",
-        "text": "0[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[credit]: +1 Stärke.\nEndet eine Begegnung mit einem Ice, in der du Fee verwendet hast, um eine Subroutine auszuschalten, zerstöre Fee.",
-        "title": "Fee"
-    },
-    {
-        "code": "02105",
-        "flavor": "\"Wir sind immer glücklich, helfen zu könenn, Mr. Santiago.\"\n\"Ich weiß das zu schätzen, Mr. Li.\"\n\"Wir bleiben in Verbindung. Und, Gabriel…\"\n\"Ja?\"\n\"Verlassen Sie die Stadt nicht.\"",
-        "keywords": "Kontakt",
-        "text": "[click]: Ziehe 2 Karten. Lege 1 dieser Karten unter deinen Stapel.",
-        "title": "Mr. Li"
-    },
-    {
-        "code": "02106",
-        "flavor": "Ab und zu ist ein wenig Umstrukturierung im Konzern einfach nötig.",
-        "keywords": "Run",
-        "text": "Führe einen Run auf F&E durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen, die obersten 5 Karten von F&E ansehen und in beliebiger Reihenfolge zurücklegen.",
-        "title": "Indexierung"
-    },
-    {
-        "code": "02107",
-        "flavor": "Funktioniert ab besten an deinem eigenen Schreibtisch.",
-        "text": "Immer, wenn du von F&E aus auf Karten zugreifst, greife auf 1 zusätzliche Karte von F&E zu.",
-        "title": "F&E Interface"
-    },
-    {
-        "code": "02108",
-        "keywords": "Virus",
-        "text": "Immer, wenn du einen erfolgreichen Run auf F&E durchführst, lege 1 Viruszähler auf Deep Thought.\nFalls mindestens 3 Viruszähler auf Deep Thought liegen, erhält es \"Wenn dein Zug beginnt, darfst du dir die oberste Karte von F&E ansehen.\"",
-        "title": "Deep Thought"
-    },
-    {
-        "code": "02109",
-        "flavor": "\"New Angeles ist das Juwel der modernen Zivilisation, und auf seine Regierung sind viele Nationen neidisch.\" -Bürgermeister Wells",
-        "keywords": "Ort - Regierung",
-        "text": "2[credit]: Vermeide 1 Markierung.\nZerstöre Rathaus von New Angeles, wenn du eine Agenda stiehlst.",
-        "title": "Rathaus von New Angeles"
-    },
-    {
-        "code": "02110",
-        "flavor": "\"Das ist gegen die Regeln.\nDie Schöpfer werden böse mit mir sein.\"",
-        "keywords": "Barriere - Bioroid",
-        "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Eli 1.0 zu brechen.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
-        "title": "Eli 1.0"
-    },
-    {
-        "code": "02111",
-        "flavor": "Bekannt für Luxus Hopper und leckeres Sauerkraut.",
-        "keywords": "Region",
-        "text": "Als zusätzliche Kosten, um einen Run auf dieses System durchzuführen, muss der Runner [click] ausgeben.\nMaximal 1 <strong>Region</strong> pro System.",
-        "title": "Ruhrgebiet"
-    },
-    {
-        "code": "02112",
-        "flavor": "Ich werde Euch dienen…\nZumindest vorübergehend.",
-        "keywords": "Feind",
-        "text": "Ronin kann entwickelt werden.\nFalls mindestens 4 Entwicklungszähler auf Ronin sind, erhält er\n\"[click], [trash]: Verursache 3 Netz-Schaden.\"",
-        "title": "Ronin"
-    },
-    {
-        "code": "02113",
-        "flavor": "\"Sieht so aus, als ob jemand ungezogen wäre…\"",
-        "keywords": "Sysop",
-        "text": "Einmal pro Run darfst du, wenn der Runner sich einem Ice annähert, das dieses System schützt, dieses Ice gegen ein Ice vom HQ austauschen. Das neue Ice wird ungeladen installiert.",
-        "title": "Midori"
-    },
-    {
-        "code": "02114",
-        "flavor": "*Einige Einschränkungen können zur Anwendung kommen.\nScanne diese Karte, um mehr zu erfahren.",
-        "keywords": "Megakon",
-        "text": "Deine maximale Handkartenzahl wird um 1 erhöht.",
-        "title": "NBN: Die Welt gehört dir*"
-    },
-    {
-        "code": "02115",
-        "keywords": "Forschung",
-        "text": "Wenn du die Punkte für Projekt Beale erzielst, lege für je 2 darauf liegende Entwicklungsmarker über 3 einen Agendazähler auf Projekt Beale.\nProjekt Beale ist 1 zusätzlichen Agendapunkt für jeden Agendazähler darauf wert.",
-        "title": "Projekt Beale"
-    },
-    {
-        "code": "02116",
-        "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug eine Agenda gestohlen hat.\n<trace>Aufspüren 6</trace> Bei Erfolg verpasse dem Runner Markierungen in Höhe der Differenz zwischen deiner Aufspürstärke und seiner Verbindungsstärke.",
-        "title": "Unerwartete Auswechslung"
-    },
-    {
-        "code": "02117",
-        "flavor": "Ein helles Licht erstrahlte, und dann wurde die Konsole dunkel. Das war der Moment, in dem sie Rauch roch.",
-        "keywords": "Wächter - Spürhund - AP",
-        "text": "[subroutine]<trace>Aufspüren 6</trace>Bei Erfolg zerstöre 1 Hardware, verursache 2 Körperschaden (können nicht verhindert werden) und beende den Run.",
-        "title": "Flare"
-    },
-    {
-        "code": "02118",
-        "flavor": "Sie nennen sie nicht ohne Grund Spezialisten.",
-        "keywords": "Feind",
-        "text": "Falls der Runner markiert ist, erhält Spezialisiertes Reaktionsteam „Immer, wenn ein erfolgreicher Run endet, verursache 2 Körper-Schaden.“",
-        "title": "Spezialisiertes Reaktionsteam"
-    },
-    {
-        "code": "02119",
-        "flavor": "\"Wenn ich diese Käfer mit einem Wort beschreiben müsste, wäre das wohl sch... nervig.'\" -Whizzard",
-        "keywords": "Wächter - Zerstörer",
-        "text": "[subroutine] <trace>Aufspüren 0</trace> Bei Erfolg zerstört der Runner 1 Programm.",
-        "title": "Burke-Käfer"
-    },
-    {
-        "code": "02120",
-        "flavor": "Es gab verschiedene Wege, einen Konzernkrieg zu gewinnen. Einer davon war es, die Bazookas rauszuholen.",
-        "keywords": "Erweiterung",
-        "text": "Falls du mindestens 7[credit] hast, wenn du die Punkte für Konzernkrieg erzielst, erhalte 7[credit]. Anderenfalls verliere alle Credits in deinem Credit-Vorrat.",
-        "title": "Konzernkrieg"
-    }
+  {
+    "code": "02101",
+    "keywords": "Run",
+    "text": "Führe einen Run auf das Archiv durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen, ein Programm aus deiner Ablage installieren, ohne die Kosten zu bezahlen",
+    "title": "Bergungs-Run"
+  },
+  {
+    "code": "02102",
+    "keywords": "Ice-Brecher - AI - Virus",
+    "text": "2[credit]: Schalte eine Subroutine eines Ice aus..\nX ist die Anzahl der Viruszähler auf Darwin.\nWenn dein Zug beginnt, kannst du 1[credit] zahlen, um 1 Viruszähler auf Darwin zu legen.",
+    "title": "Darwin"
+  },
+  {
+    "code": "02103",
+    "flavor": "Die in beide Richtungen funktionierende Lösung für ein Problem, das nur in eine Richtung besteht. Datenleck umdrehen, oder kurz DLU, ist eigentlich falsch benannt. Die Daten werden nicht wirklich umgedreht, nur ein parallele Peer-to-Peer Verbindung zur ursprünglichen Quelle erschaffen.",
+    "keywords": "Virtuell - Sabotage",
+    "text": "Kann nur installiert werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nFalls du markiert bist, erhält Datenleck umdrehen \"[click]: Der Kon zerstört die oberste Karte von F&E.\"",
+    "title": "Datenleck umdrehen"
+  },
+  {
+    "code": "02104",
+    "flavor": "Glaubst du an Feen?",
+    "keywords": "Ice-Brecher - Killer",
+    "text": "0[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[credit]: +1 Stärke.\nEndet eine Begegnung mit einem Ice, in der du Fee verwendet hast, um eine Subroutine auszuschalten, zerstöre Fee.",
+    "title": "Fee"
+  },
+  {
+    "code": "02105",
+    "flavor": "\"Wir sind immer glücklich, helfen zu könenn, Mr. Santiago.\"\n\"Ich weiß das zu schätzen, Mr. Li.\"\n\"Wir bleiben in Verbindung. Und, Gabriel…\"\n\"Ja?\"\n\"Verlassen Sie die Stadt nicht.\"",
+    "keywords": "Kontakt",
+    "text": "[click]: Ziehe 2 Karten. Lege 1 dieser Karten unter deinen Stapel.",
+    "title": "Mr. Li"
+  },
+  {
+    "code": "02106",
+    "flavor": "Ab und zu ist ein wenig Umstrukturierung im Konzern einfach nötig.",
+    "keywords": "Run",
+    "text": "Führe einen Run auf F&E durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen, die obersten 5 Karten von F&E ansehen und in beliebiger Reihenfolge zurücklegen.",
+    "title": "Indexierung"
+  },
+  {
+    "code": "02107",
+    "flavor": "Funktioniert ab besten an deinem eigenen Schreibtisch.",
+    "text": "Immer, wenn du von F&E aus auf Karten zugreifst, greife auf 1 zusätzliche Karte von F&E zu.",
+    "title": "F&E Interface"
+  },
+  {
+    "code": "02108",
+    "keywords": "Virus",
+    "text": "Immer, wenn du einen erfolgreichen Run auf F&E durchführst, lege 1 Viruszähler auf Deep Thought.\nFalls mindestens 3 Viruszähler auf Deep Thought liegen, erhält es \"Wenn dein Zug beginnt, darfst du dir die oberste Karte von F&E ansehen.\"",
+    "title": "Deep Thought"
+  },
+  {
+    "code": "02109",
+    "flavor": "\"New Angeles ist das Juwel der modernen Zivilisation, und auf seine Regierung sind viele Nationen neidisch.\" -Bürgermeister Wells",
+    "keywords": "Ort - Regierung",
+    "text": "2[credit]: Vermeide 1 Markierung.\nZerstöre Rathaus von New Angeles, wenn du eine Agenda stiehlst.",
+    "title": "Rathaus von New Angeles"
+  },
+  {
+    "code": "02110",
+    "flavor": "\"Das ist gegen die Regeln.\nDie Schöpfer werden böse mit mir sein.\"",
+    "keywords": "Barriere - Bioroid",
+    "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Eli 1.0 zu brechen.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
+    "title": "Eli 1.0"
+  },
+  {
+    "code": "02111",
+    "flavor": "Bekannt für Luxus Hopper und leckeres Sauerkraut.",
+    "keywords": "Region",
+    "text": "Als zusätzliche Kosten, um einen Run auf dieses System durchzuführen, muss der Runner [click] ausgeben.\nMaximal 1 <strong>Region</strong> pro System.",
+    "title": "Ruhrgebiet"
+  },
+  {
+    "code": "02112",
+    "flavor": "Ich werde Euch dienen…\nZumindest vorübergehend.",
+    "keywords": "Feind",
+    "text": "Ronin kann entwickelt werden.\nFalls mindestens 4 Entwicklungszähler auf Ronin sind, erhält er\n\"[click], [trash]: Verursache 3 Netz-Schaden.\"",
+    "title": "Ronin"
+  },
+  {
+    "code": "02113",
+    "flavor": "\"Sieht so aus, als ob jemand ungezogen wäre…\"",
+    "keywords": "Sysop",
+    "text": "Einmal pro Run darfst du, wenn der Runner sich einem Ice annähert, das dieses System schützt, dieses Ice gegen ein Ice vom HQ austauschen. Das neue Ice wird ungeladen installiert.",
+    "title": "Midori"
+  },
+  {
+    "code": "02114",
+    "flavor": "*Einige Einschränkungen können zur Anwendung kommen.\nScanne diese Karte, um mehr zu erfahren.",
+    "keywords": "Megakon",
+    "text": "Deine maximale Handkartenzahl wird um 1 erhöht.",
+    "title": "NBN: Die Welt gehört dir*"
+  },
+  {
+    "code": "02115",
+    "keywords": "Forschung",
+    "text": "Wenn du die Punkte für Projekt Beale erzielst, lege für je 2 darauf liegende Entwicklungsmarker über 3 einen Agendazähler auf Projekt Beale.\nProjekt Beale ist 1 zusätzlichen Agendapunkt für jeden Agendazähler darauf wert.",
+    "title": "Projekt Beale"
+  },
+  {
+    "code": "02116",
+    "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug eine Agenda gestohlen hat.\n<trace>Aufspüren 6</trace> Bei Erfolg verpasse dem Runner Markierungen in Höhe der Differenz zwischen deiner Aufspürstärke und seiner Verbindungsstärke.",
+    "title": "Unerwartete Auswechslung"
+  },
+  {
+    "code": "02117",
+    "flavor": "Ein helles Licht erstrahlte, und dann wurde die Konsole dunkel. Das war der Moment, in dem sie Rauch roch.",
+    "keywords": "Wächter - Spürhund - AP",
+    "text": "[subroutine]<trace>Aufspüren 6</trace>Bei Erfolg zerstöre 1 Hardware, verursache 2 Körperschaden (können nicht verhindert werden) und beende den Run.",
+    "title": "Flare"
+  },
+  {
+    "code": "02118",
+    "flavor": "Sie nennen sie nicht ohne Grund Spezialisten.",
+    "keywords": "Feind",
+    "text": "Falls der Runner markiert ist, erhält Spezialisiertes Reaktionsteam „Immer, wenn ein erfolgreicher Run endet, verursache 2 Körper-Schaden.“",
+    "title": "Spezialisiertes Reaktionsteam"
+  },
+  {
+    "code": "02119",
+    "flavor": "\"Wenn ich diese Käfer mit einem Wort beschreiben müsste, wäre das wohl sch... nervig.'\" -Whizzard",
+    "keywords": "Wächter - Zerstörer",
+    "text": "[subroutine] <trace>Aufspüren 0</trace> Bei Erfolg zerstört der Runner 1 Programm.",
+    "title": "Burke-Käfer"
+  },
+  {
+    "code": "02120",
+    "flavor": "Es gab verschiedene Wege, einen Konzernkrieg zu gewinnen. Einer davon war es, die Bazookas rauszuholen.",
+    "keywords": "Erweiterung",
+    "text": "Falls du mindestens 7[credit] hast, wenn du die Punkte für Konzernkrieg erzielst, erhalte 7[credit]. Anderenfalls verliere alle Credits in deinem Credit-Vorrat.",
+    "title": "Konzernkrieg"
+  }
 ]

@@ -1,0 +1,15 @@
+{
+  "card_type_id": "event",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "rumor_mill",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "This card is not trashed until another current is played or an agenda is scored. The text box of each unique non-region asset and upgrade is blank.",
+  "stripped_title": "Rumor Mill",
+  "subtypes": ["current"],
+  "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe text box of each unique non-<strong>region</strong> asset and upgrade is blank.",
+  "title": "Rumor Mill"
+}
