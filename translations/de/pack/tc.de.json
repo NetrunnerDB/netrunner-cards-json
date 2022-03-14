@@ -1,133 +1,133 @@
 [
-    {
-        "code": "04061",
-        "flavor": "In der Anleitung steht, dass es die wichtigsten Daten aussiebt.“Wichtig“ hat sich dabei als sehr relative Begriff erwiesen.",
-        "text": "[click]: Führe einen Run auf F&E durch. Bei Erfolg kannst du, statt auf Karten zuzugreifen, die obersten 3 Karten von F&E ansehen. Zerstöre 1 dieser Karten, ohne die Kosten dafür zu bezahlen (selbst, wenn sie normalerweise nicht zerstört werden kann) und der Kon mischt F&E.",
-        "title": "Schlüsselloch"
-    },
-    {
-        "code": "04062",
-        "flavor": "\"Sie nennen mich eine Terroristin, um den Leuten Angst einzujagen. Vielleicht sollten sie ihre Suche nach Terroristen damit beginnen, in den Spiegel zu schauen.\" -Reina Roja",
-        "text": "Wenn der Zug des Kons beginnt, bekommst du 1 Markierung verpasst, falls du keine hast.\nWenn dein Zug beginnt, verpasse dem Kon 1 negative Publicity, falls er keine hat.",
-        "title": "Aktivisten-Unterstützung"
-    },
-    {
-        "code": "04063",
-        "flavor": "Profis brauchen nicht ihre Anwälte anzurufen. Profis haben ihre Sekretärin entsprechend ausgestattet, um es für sie zu tun, falls sie irgendwann keinen Zugang zum Netz haben.",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nEntferne bis zu 2 Markierungen und ziehe 3 Karten.",
-        "title": "Einen Anwalt verlangen"
-    },
-    {
-        "code": "04064",
-        "flavor": "„Wollen Sie sich das mal ansehen?“",
-        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf HQ durchgeführt hast.\nVerhindere allen Schaden bis zum Beginn deines nächsten Zuges, wenn der Kon nicht 2 negative Publicity nimmt.",
-        "title": "Druckmittel"
-    },
-    {
-        "code": "04065",
-        "flavor": "Die erste verbriefte Ice-Brecher war nur ein bis dahin einzigartiges Skript, um die Anforderung nach der Sicherheit auf einem Gibson-3-Datenwächter zu umgehen. Garotte hat mehr als 20.000 mal so viel Daten wie dieser erst Ice-Brecher, aber die Idee bleibt die gleiche: Trenne die Energiequelle vom Netzwerk und schlag dann zu.",
-        "keywords": "Ice-Brecher - Killer",
-        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[credit]: +1 Stärke.",
-        "title": "Garrote"
-    },
-    {
-        "code": "04066",
-        "flavor": "LLDS Unlimited entstand an dem Tag, an dem zwei Entwickler die Frage beantworteten \"Warum macht niemand Diesel für Computer?\"",
-        "keywords": "Chip",
-        "text": "Immer, wenn du einen <strong>Ice-Brecher</strong> installierst, hat dieser <strong>Ice-Brecher</strong> +1 Stärke bis zum Ende des Zuges.",
-        "title": "LLDS Prozessor"
-    },
-    {
-        "code": "04067",
-        "flavor": "\"Ice-Brecher zur einmaligen Nutzung sind bei vielen meiner Protégés beliebt. Sie haben einfach nicht die Geduld für die Jagd.\" - Der Professor",
-        "keywords": "Ice-Brecher",
-        "text": "[trash]: Schalte eine beliebige Anzahl von Subroutinen auf <strong>Zerstörern</strong> aus.\n1[credit]: +2 Stärke.",
-        "title": "Scharfschütze"
-    },
-    {
-        "code": "04068",
-        "flavor": "\"Wenn man erst einmal Perfektion erreicht hat, was kommt dann?\" - Der Professor",
-        "text": "[click]: Zerstöre eine beliebige Anzahl von Karten aus deinem Griff. Für jede zerstörte Karte, von der du eine weitere Kopie installiert hast, ziehe 1 Karte.",
-        "title": "Schlussstein"
-    },
-    {
-        "code": "04069",
-        "flavor": "\"Ich spreche gern von 'Traditionellen Werten für eine moderne Zeit.' Krieg im Weltraum und von Menschenhand erschaffenes Leben, Maschinen, die intelligent genug sind, um zu fragen, ob sie Seelen haben…Religion ist heute noch genauso wichtig und bedeutsam wie zu jeder anderen Zeit in der Geschichte der Menschheit. Wir müssen uns erheben um diesen neuen Herausforderungen zu begegnen. Und wir müssen glauben.\"",
-        "text": "Wenn dein Zug beginnt, verlierst du [click].\nIgnoriere alle zusätzlichen Kosten auf <strong>Verdoppeln</strong>-Ereignissen, die du spielst.",
-        "title": "Förderung des Sternenlicht-Kreuzzuges"
-    },
-    {
-        "code": "04070",
-        "keywords": "Werbung",
-        "text": "Lege 3 Wirkungszähler auf Rex-Kampagne, sobald sie geladen wird. Sobald sich keine Wirkungszähler mehr auf Rex-Kampagne befinden, zerstöre sie und entferne entweder 1 negative Publicity oder erhalte 5[credit].\nWenn dein Zug beginnt, entferne 1 Wirkungszähler von der Rex-Kampagne.",
-        "title": "Rex-Kampagne"
-    },
-    {
-        "code": "04071",
-        "flavor": "Da die Berichte über Hirnschäden bei Veteranen ansteigen, stehen Mensch-/Maschine-Interfaces unter schärferer Beobachtung durch die Öffentlichkeit. Dass bestimmte Programme dem Anwender unheilbare Schäden zufügen können, ist längst keine Verschwörungstheorie mehr, sondern eine allgemein anerkannte Wahrheit.",
-        "keywords": "Wächter - AP - Illegal",
-        "text": "Wenn du Fenris lädst, erhältst du 1 negative Publicity.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Beende den Run.",
-        "title": "Fenris"
-    },
-    {
-        "code": "04072",
-        "flavor": "Der Knopf schien überhaupt keine Funktion zu haben. Deshalb drückte er ihn wieder. Und wieder. Und wieder.",
-        "text": "Kann nur im Root des HQ installiert werden.\n1[credit]: Ziehe 1 Karte. Verwende diese Fähigkeit nur während eines Runs auf das HQ.",
-        "title": "Panikknopf"
-    },
-    {
-        "code": "04073",
-        "keywords": "Hinterhalt",
-        "text": "Falls von F&E auf Schock! zugegriffen wird, muss der Runner diesen aufdecken.\nWenn der Runner auf Schock! zugreift, verursache 1 Netz-Schaden, selbst wenn dieser nicht installiert ist.",
-        "title": "Schock!"
-    },
-    {
-        "code": "04074",
-        "flavor": "\"Das Ice ist so gefährlich, dass es Sicherheitsprotokolle hat. Denk darüber nach.\" -g00ru",
-        "keywords": "Wächter - AP",
-        "text": "[subroutine] Beende den Run, falls der Kon nicht 1[credit] zahlt.\n[subroutine] Verursache 1 Netz-Schaden.\n[subroutine] Verursache 1 Netz-Schaden.\n[subroutine] Verursache 1 Netz-Schaden.",
-        "title": "Tsurugi"
-    },
-    {
-        "code": "04075",
-        "flavor": "\"Dieser verdammte Rabe hat gekrächzt, als ich vorbeigegangen bin. Ich hätte es wissen müssen, too good to be true.\"",
-        "keywords": "Hinterhalt",
-        "text": "Falls vom F&E auf TGTBT zugegriffen wird, muss der Runner es aufdecken.\nWenn der Runner auf TGTBT zugreift, verpasse dem Runner 1 Markierung.",
-        "title": "TGTBT"
-    },
-    {
-        "code": "04076",
-        "flavor": "\"Lass mich das mal zusammenfassen. Eure Zielgruppe sind 15 bis 19 Jahre alte, g-moddete Immigranten mit nur einem Elternteil, einem verfügbaren Monatseinkommen über 2k, mit Noten von 2 und besser, offener Persönlichkeit und einem Freund, der einen G-Affen besitzt?\"\n\"Genau. Ist das ein Problem?\"\n\"Nein, überhaupt nicht. Ich verstehe nur nicht, warum eure Liste so kurz ist.\"",
-        "text": "Du erhältst 1[credit] für jede Karte im Griff des Runners.",
-        "title": "Einschaltquotenforschung"
-    },
-    {
-        "code": "04077",
-        "flavor": "Dieses Ice tarnt sich als eine Reihe von elektronischen Transaktionen, die das Geld des Runners durch etwa tausend nicht-existente Käufe und Erstattungen binden. Das System der Banken, Konten zu sperren und zu prüfen, führt dazu, dass der Runner kein Geld zur Verfügung hat, auch wenn kein Credit das System wirklich verlässt. U.A.W.G. Hat auch den unangenehmen Nachteil, dass es legal ist … streng genommen.",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Der Runner kann für den Rest dieses Runs keine Credits ausgeben.",
-        "title": "U.A.W.G."
-    },
-    {
-        "code": "04078",
-        "flavor": "[subroutine] Beende das Spiel.\nNur ein Scherz.",
-        "keywords": "Barriere",
-        "text": "Falls Kurtine das äußerste Ice ist, das dieses System schützt, hat es +4 Stärke.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
-        "title": "Kurtine"
-    },
-    {
-        "code": "04079",
-        "flavor": "\"ich würde sagen, es ist nicht persönlich, aber auch Konzerne sind eben doch nur Menschen.\"",
-        "keywords": "Schwarze Ops",
-        "text": "<trace>Aufspüren 5</trace> Bei Erfolg füge dem Runner Körper-Schaden in Höhe der Agendapunkte auf den Agendas zu, die er in seinem letzten Zug gestohlen hat.",
-        "title": "Vergeltungsmassnahme"
-    },
-    {
-        "code": "04080",
-        "flavor": "Glieder sind einfach zu ersetzen.\nErinnerungen sind da schon schwieriger.",
-        "keywords": "Initiative",
-        "text": "Wenn du die Punkte für Veteranenprogramm erzielst, kannst du bis zu 2 negative Publicity entfernen.",
-        "title": "Veteranenprogramm"
-    }
+  {
+    "code": "04061",
+    "flavor": "In der Anleitung steht, dass es die wichtigsten Daten aussiebt.“Wichtig“ hat sich dabei als sehr relative Begriff erwiesen.",
+    "text": "[click]: Führe einen Run auf F&E durch. Bei Erfolg kannst du, statt auf Karten zuzugreifen, die obersten 3 Karten von F&E ansehen. Zerstöre 1 dieser Karten, ohne die Kosten dafür zu bezahlen (selbst, wenn sie normalerweise nicht zerstört werden kann) und der Kon mischt F&E.",
+    "title": "Schlüsselloch"
+  },
+  {
+    "code": "04062",
+    "flavor": "\"Sie nennen mich eine Terroristin, um den Leuten Angst einzujagen. Vielleicht sollten sie ihre Suche nach Terroristen damit beginnen, in den Spiegel zu schauen.\" -Reina Roja",
+    "text": "Wenn der Zug des Kons beginnt, bekommst du 1 Markierung verpasst, falls du keine hast.\nWenn dein Zug beginnt, verpasse dem Kon 1 negative Publicity, falls er keine hat.",
+    "title": "Aktivisten-Unterstützung"
+  },
+  {
+    "code": "04063",
+    "flavor": "Profis brauchen nicht ihre Anwälte anzurufen. Profis haben ihre Sekretärin entsprechend ausgestattet, um es für sie zu tun, falls sie irgendwann keinen Zugang zum Netz haben.",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nEntferne bis zu 2 Markierungen und ziehe 3 Karten.",
+    "title": "Einen Anwalt verlangen"
+  },
+  {
+    "code": "04064",
+    "flavor": "„Wollen Sie sich das mal ansehen?“",
+    "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf HQ durchgeführt hast.\nVerhindere allen Schaden bis zum Beginn deines nächsten Zuges, wenn der Kon nicht 2 negative Publicity nimmt.",
+    "title": "Druckmittel"
+  },
+  {
+    "code": "04065",
+    "flavor": "Die erste verbriefte Ice-Brecher war nur ein bis dahin einzigartiges Skript, um die Anforderung nach der Sicherheit auf einem Gibson-3-Datenwächter zu umgehen. Garotte hat mehr als 20.000 mal so viel Daten wie dieser erst Ice-Brecher, aber die Idee bleibt die gleiche: Trenne die Energiequelle vom Netzwerk und schlag dann zu.",
+    "keywords": "Ice-Brecher - Killer",
+    "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n1[credit]: +1 Stärke.",
+    "title": "Garrote"
+  },
+  {
+    "code": "04066",
+    "flavor": "LLDS Unlimited entstand an dem Tag, an dem zwei Entwickler die Frage beantworteten \"Warum macht niemand Diesel für Computer?\"",
+    "keywords": "Chip",
+    "text": "Immer, wenn du einen <strong>Ice-Brecher</strong> installierst, hat dieser <strong>Ice-Brecher</strong> +1 Stärke bis zum Ende des Zuges.",
+    "title": "LLDS Prozessor"
+  },
+  {
+    "code": "04067",
+    "flavor": "\"Ice-Brecher zur einmaligen Nutzung sind bei vielen meiner Protégés beliebt. Sie haben einfach nicht die Geduld für die Jagd.\" - Der Professor",
+    "keywords": "Ice-Brecher",
+    "text": "[trash]: Schalte eine beliebige Anzahl von Subroutinen auf <strong>Zerstörern</strong> aus.\n1[credit]: +2 Stärke.",
+    "title": "Scharfschütze"
+  },
+  {
+    "code": "04068",
+    "flavor": "\"Wenn man erst einmal Perfektion erreicht hat, was kommt dann?\" - Der Professor",
+    "text": "[click]: Zerstöre eine beliebige Anzahl von Karten aus deinem Griff. Für jede zerstörte Karte, von der du eine weitere Kopie installiert hast, ziehe 1 Karte.",
+    "title": "Schlussstein"
+  },
+  {
+    "code": "04069",
+    "flavor": "\"Ich spreche gern von 'Traditionellen Werten für eine moderne Zeit.' Krieg im Weltraum und von Menschenhand erschaffenes Leben, Maschinen, die intelligent genug sind, um zu fragen, ob sie Seelen haben…Religion ist heute noch genauso wichtig und bedeutsam wie zu jeder anderen Zeit in der Geschichte der Menschheit. Wir müssen uns erheben um diesen neuen Herausforderungen zu begegnen. Und wir müssen glauben.\"",
+    "text": "Wenn dein Zug beginnt, verlierst du [click].\nIgnoriere alle zusätzlichen Kosten auf <strong>Verdoppeln</strong>-Ereignissen, die du spielst.",
+    "title": "Förderung des Sternenlicht-Kreuzzuges"
+  },
+  {
+    "code": "04070",
+    "keywords": "Werbung",
+    "text": "Lege 3 Wirkungszähler auf Rex-Kampagne, sobald sie geladen wird. Sobald sich keine Wirkungszähler mehr auf Rex-Kampagne befinden, zerstöre sie und entferne entweder 1 negative Publicity oder erhalte 5[credit].\nWenn dein Zug beginnt, entferne 1 Wirkungszähler von der Rex-Kampagne.",
+    "title": "Rex-Kampagne"
+  },
+  {
+    "code": "04071",
+    "flavor": "Da die Berichte über Hirnschäden bei Veteranen ansteigen, stehen Mensch-/Maschine-Interfaces unter schärferer Beobachtung durch die Öffentlichkeit. Dass bestimmte Programme dem Anwender unheilbare Schäden zufügen können, ist längst keine Verschwörungstheorie mehr, sondern eine allgemein anerkannte Wahrheit.",
+    "keywords": "Wächter - AP - Illegal",
+    "text": "Wenn du Fenris lädst, erhältst du 1 negative Publicity.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Beende den Run.",
+    "title": "Fenris"
+  },
+  {
+    "code": "04072",
+    "flavor": "Der Knopf schien überhaupt keine Funktion zu haben. Deshalb drückte er ihn wieder. Und wieder. Und wieder.",
+    "text": "Kann nur im Root des HQ installiert werden.\n1[credit]: Ziehe 1 Karte. Verwende diese Fähigkeit nur während eines Runs auf das HQ.",
+    "title": "Panikknopf"
+  },
+  {
+    "code": "04073",
+    "keywords": "Hinterhalt",
+    "text": "Falls von F&E auf Schock! zugegriffen wird, muss der Runner diesen aufdecken.\nWenn der Runner auf Schock! zugreift, verursache 1 Netz-Schaden, selbst wenn dieser nicht installiert ist.",
+    "title": "Schock!"
+  },
+  {
+    "code": "04074",
+    "flavor": "\"Das Ice ist so gefährlich, dass es Sicherheitsprotokolle hat. Denk darüber nach.\" -g00ru",
+    "keywords": "Wächter - AP",
+    "text": "[subroutine] Beende den Run, falls der Kon nicht 1[credit] zahlt.\n[subroutine] Verursache 1 Netz-Schaden.\n[subroutine] Verursache 1 Netz-Schaden.\n[subroutine] Verursache 1 Netz-Schaden.",
+    "title": "Tsurugi"
+  },
+  {
+    "code": "04075",
+    "flavor": "\"Dieser verdammte Rabe hat gekrächzt, als ich vorbeigegangen bin. Ich hätte es wissen müssen, too good to be true.\"",
+    "keywords": "Hinterhalt",
+    "text": "Falls vom F&E auf TGTBT zugegriffen wird, muss der Runner es aufdecken.\nWenn der Runner auf TGTBT zugreift, verpasse dem Runner 1 Markierung.",
+    "title": "TGTBT"
+  },
+  {
+    "code": "04076",
+    "flavor": "\"Lass mich das mal zusammenfassen. Eure Zielgruppe sind 15 bis 19 Jahre alte, g-moddete Immigranten mit nur einem Elternteil, einem verfügbaren Monatseinkommen über 2k, mit Noten von 2 und besser, offener Persönlichkeit und einem Freund, der einen G-Affen besitzt?\"\n\"Genau. Ist das ein Problem?\"\n\"Nein, überhaupt nicht. Ich verstehe nur nicht, warum eure Liste so kurz ist.\"",
+    "text": "Du erhältst 1[credit] für jede Karte im Griff des Runners.",
+    "title": "Einschaltquotenforschung"
+  },
+  {
+    "code": "04077",
+    "flavor": "Dieses Ice tarnt sich als eine Reihe von elektronischen Transaktionen, die das Geld des Runners durch etwa tausend nicht-existente Käufe und Erstattungen binden. Das System der Banken, Konten zu sperren und zu prüfen, führt dazu, dass der Runner kein Geld zur Verfügung hat, auch wenn kein Credit das System wirklich verlässt. U.A.W.G. Hat auch den unangenehmen Nachteil, dass es legal ist … streng genommen.",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Der Runner kann für den Rest dieses Runs keine Credits ausgeben.",
+    "title": "U.A.W.G."
+  },
+  {
+    "code": "04078",
+    "flavor": "[subroutine] Beende das Spiel.\nNur ein Scherz.",
+    "keywords": "Barriere",
+    "text": "Falls Kurtine das äußerste Ice ist, das dieses System schützt, hat es +4 Stärke.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
+    "title": "Kurtine"
+  },
+  {
+    "code": "04079",
+    "flavor": "\"ich würde sagen, es ist nicht persönlich, aber auch Konzerne sind eben doch nur Menschen.\"",
+    "keywords": "Schwarze Ops",
+    "text": "<trace>Aufspüren 5</trace> Bei Erfolg füge dem Runner Körper-Schaden in Höhe der Agendapunkte auf den Agendas zu, die er in seinem letzten Zug gestohlen hat.",
+    "title": "Vergeltungsmassnahme"
+  },
+  {
+    "code": "04080",
+    "flavor": "Glieder sind einfach zu ersetzen.\nErinnerungen sind da schon schwieriger.",
+    "keywords": "Initiative",
+    "text": "Wenn du die Punkte für Veteranenprogramm erzielst, kannst du bis zu 2 negative Publicity entfernen.",
+    "title": "Veteranenprogramm"
+  }
 ]

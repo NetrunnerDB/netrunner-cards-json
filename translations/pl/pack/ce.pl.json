@@ -1,130 +1,130 @@
 [
-    {
-        "code": "02041",
-        "keywords": "Wirus",
-        "text": "Zawsze gdy przeprowadzisz udany skok na HQ, połóż 1 znacznik wirusa na Środku paraliżującym.\nKażdy znacznik wirusa na Środku paraliżującym powyżej pierwszego, pozwala ci uzyskać dostęp do 1 dodatkowej karty z HQ, zawsze gdy uzyskujesz dostęp do kart z HQ.",
-        "title": "Środek paraliżujący"
-    },
-    {
-        "code": "02042",
-        "flavor": "\"Moje rozszerzenia mają dożywotnią gwarancję i są warte tego ryzyka.\"",
-        "keywords": "Kontakt",
-        "text": "Gdy zaczynasz turę, możesz otrzymać [click]. Jeśli otrzymujesz, weź 1 tag, gdy kończysz turę.",
-        "title": "Joshua B."
-    },
-    {
-        "code": "02043",
-        "flavor": "\"Traktuj to jak wirtualną elektryczną obrożę do karania korporacyjnych piesków.\" - Andromeda",
-        "keywords": "Sabotaż",
-        "text": "Zagraj tylko, jeśli w tej turze przeprowadziłeś udany skok na HQ.\nOdrezuj 1 lód.",
-        "title": "Awaryjne wyłączenie"
-    },
-    {
-        "code": "02044",
-        "flavor": "Lekki i dopasowany, jak kuloodporna skóra.",
-        "keywords": "Wyposażenie",
-        "text": "W każdej turze zablokuj pierwsze obrażenie ciała.",
-        "title": "Kombinezon Muresh"
-    },
-    {
-        "code": "02045",
-        "flavor": "\"Kapuś jest najlepszym przyjacielem dziewczyny.\" - Andromeda",
-        "text": "Raz na skok, gdy podchodzisz do niezrezowanego lodu możesz go ujawnić; następnie możesz się odłączyć.",
-        "title": "Kapuś"
-    },
-    {
-        "code": "02046",
-        "flavor": "\"Poznałeś już Dinosaurusa?\"",
-        "keywords": "G-mod",
-        "text": "+1[mu]",
-        "title": "Teoria Chaosu: Cudowne dziecko"
-    },
-    {
-        "code": "02047",
-        "text": "Poszukaj programu w stosie lub stercie. Zainstaluj go, ignorując wszystkie koszty. Potasuj swój stos, jeśli w nim szukałeś. Jeśli ten program jest nadal zainstalowany, gdy kończysz turę, dodaj go na wierzch swojego stosu.",
-        "title": "Próbne uruchomienie"
-    },
-    {
-        "code": "02048",
-        "keywords": "Konsola",
-        "text": "Dinosaurus może hostować 1 <strong>lodołamacz</strong>, za wyjątkiem <strong>AI</strong>. Wymagania pamięciowe hostowanego <strong>lodołamacza</strong> nie wliczają się do twojego limitu pamięci.\nHostowany <strong>lodołamacz</strong> ma +2 siły.\nLimit 1 <strong>konsoli</strong> na gracza.",
-        "title": "Dinosaurus"
-    },
-    {
-        "code": "02049",
-        "keywords": "Miejsce",
-        "text": "[click]: Hostuj program lub sprzęt ze swojej garści na Prywatnym warsztacie i połóż na nim znaczniki zasilania w liczbie równej jego kosztowi instalacji.\n1[credit]: Usuń 1 znacznik zasilania z hostowanej karty.\nGdy zaczynasz turę, usuń 1 znacznik zasilania z hostowanej karty.\nGdy na hostowanej karcie nie ma już znaczników zasilania, zainstaluj ją, ignorując wszystkie koszty.",
-        "title": "Prywatny Warsztat"
-    },
-    {
-        "code": "02050",
-        "flavor": "\"Jestem wdzięczna losowi, że uszkodzenia mózgu są odwracalne. Dzięki wsparciu miasta New Angeles, mam nadzieję szybko stanąć na nogach i wrócić do uprawiania sztuki.\" - Kate \"Mac\" McCaffrey",
-        "text": "Twój limit kart na ręce wzrasta o 2.",
-        "title": "Współczucie opinii publicznej"
-    },
-    {
-        "code": "02051",
-        "keywords": "Badania",
-        "text": "Gdy zapunktujesz Projekt Witruwiusz, połóż na nim 1 znacznik projektu za każdy leżący na nim żeton zaawansowania powyżej 3.\n<strong>Hostowany znacznik projektu</strong>: Dodaj 1 kartę z Archiwów do HQ.",
-        "title": "Projekt Witruwiusz"
-    },
-    {
-        "code": "02052",
-        "flavor": "Nie Depcz Mnie",
-        "keywords": "Brama kodowa - Tropiciel",
-        "text": "[subroutine] <trace>Trace 3</trace> Jeśli udane, runner traci [click], jeśli może.\n[subroutine] <trace>Trace 3</trace> Jeśli udane, zakończ skok.",
-        "title": "Żmija"
-    },
-    {
-        "code": "02053",
-        "keywords": "Zasadzka",
-        "text": "Jeśli Krawędź świata jest zainstalowana, a ty zapłacisz 3[credit], gdy runner uzyska niej dostęp, zadaj 1 obrażenie mózgu za każdy lód chroniący ten serwer.",
-        "title": "Krawędź świata"
-    },
-    {
-        "code": "02054",
-        "flavor": "\"Nie wiesz, co to skok, dopóki nie zobaczysz cybersłońca opadającego za Wielkim Miastem, gdy przestrzeń wokół faluje kolorami, którymi nie możesz sobie wyobrazić.\" - Kate \"Mac\" McCaffrey",
-        "text": "Wybierz serwer. Zmień dowolnie kolejność lodów chroniących ten serwer.",
-        "title": "Zachód słońca"
-    },
-    {
-        "code": "02055",
-        "keywords": "Transakcja",
-        "text": "Gdy zaczynasz turę, weź 1[credit] z Oznaczonego konta, jeśli to możliwe.\n[click]: Połóż 3[credit] z banku na Oznaczonym koncie.",
-        "title": "Oznaczone konto"
-    },
-    {
-        "code": "02056",
-        "flavor": "\"Spróbuj je zamknąć. Śmiało. Zobacz, co zrobi.\" - Teoria Chaosu",
-        "keywords": "Brama kodowa - Reklama",
-        "text": "Gdy runner spotyka Wyskakujące okienko, pobierz 1[credit].\n[subroutine] Zakończ skok, jeśli runner nie zapłaci 1[credit].",
-        "title": "Wyskakujące okienko"
-    },
-    {
-        "code": "02057",
-        "flavor": "Ciach, ciach.",
-        "keywords": "Strażnik - AP",
-        "text": "Zrezowany Drwal może być awansowany i otrzymuje \"[subroutine] Zadaj 1 obrażenie sprzętu.\" za każdy leżący na nim żeton zaawansowania.",
-        "title": "Drwal"
-    },
-    {
-        "code": "02058",
-        "flavor": "Dział Zastosowań Pobocznych zwiększał swój dochód o 37% rocznie, od kiedy korporacja odkryła, że większość z jej projektów nadaje się na świetne zabawki.",
-        "keywords": "Transakcja",
-        "text": "Wybierz lód. Pobierz 1[credit] za każdy żeton zaawansowania leżący na tym lodzie.",
-        "title": "Komercjalizacja"
-    },
-    {
-        "code": "02059",
-        "keywords": "Transakcja",
-        "text": "Gdy rezujesz Prywatne kontrakty, połóż na nich 14[credit] z banku. Skasuj Prywatne kontrakty, gdy nie ma już na nich kredytów.\n[click]: Weź 2[credit] z Prywatnych kontraktów.",
-        "title": "Prywatne kontrakty"
-    },
-    {
-        "code": "02060",
-        "flavor": "Trzy głowy. Jeden wielki ból głowy.",
-        "keywords": "Mityczny",
-        "text": "Gdy rezujesz chimerę, wybierz <strong>strażnika</strong>, <strong>bramę kodową</strong> lub <strong>barierę</strong>. Chimera zyskuje taki podrodzaj aż do odrezowania.\nOdrezuj Chimerę, gdy kończy się tura.\n[subroutine] Zakończ skok.",
-        "title": "Chimera"
-    }
+  {
+    "code": "02041",
+    "keywords": "Wirus",
+    "text": "Zawsze gdy przeprowadzisz udany skok na HQ, połóż 1 znacznik wirusa na Środku paraliżującym.\nKażdy znacznik wirusa na Środku paraliżującym powyżej pierwszego, pozwala ci uzyskać dostęp do 1 dodatkowej karty z HQ, zawsze gdy uzyskujesz dostęp do kart z HQ.",
+    "title": "Środek paraliżujący"
+  },
+  {
+    "code": "02042",
+    "flavor": "\"Moje rozszerzenia mają dożywotnią gwarancję i są warte tego ryzyka.\"",
+    "keywords": "Kontakt",
+    "text": "Gdy zaczynasz turę, możesz otrzymać [click]. Jeśli otrzymujesz, weź 1 tag, gdy kończysz turę.",
+    "title": "Joshua B."
+  },
+  {
+    "code": "02043",
+    "flavor": "\"Traktuj to jak wirtualną elektryczną obrożę do karania korporacyjnych piesków.\" - Andromeda",
+    "keywords": "Sabotaż",
+    "text": "Zagraj tylko, jeśli w tej turze przeprowadziłeś udany skok na HQ.\nOdrezuj 1 lód.",
+    "title": "Awaryjne wyłączenie"
+  },
+  {
+    "code": "02044",
+    "flavor": "Lekki i dopasowany, jak kuloodporna skóra.",
+    "keywords": "Wyposażenie",
+    "text": "W każdej turze zablokuj pierwsze obrażenie ciała.",
+    "title": "Kombinezon Muresh"
+  },
+  {
+    "code": "02045",
+    "flavor": "\"Kapuś jest najlepszym przyjacielem dziewczyny.\" - Andromeda",
+    "text": "Raz na skok, gdy podchodzisz do niezrezowanego lodu możesz go ujawnić; następnie możesz się odłączyć.",
+    "title": "Kapuś"
+  },
+  {
+    "code": "02046",
+    "flavor": "\"Poznałeś już Dinosaurusa?\"",
+    "keywords": "G-mod",
+    "text": "+1[mu]",
+    "title": "Teoria Chaosu: Cudowne dziecko"
+  },
+  {
+    "code": "02047",
+    "text": "Poszukaj programu w stosie lub stercie. Zainstaluj go, ignorując wszystkie koszty. Potasuj swój stos, jeśli w nim szukałeś. Jeśli ten program jest nadal zainstalowany, gdy kończysz turę, dodaj go na wierzch swojego stosu.",
+    "title": "Próbne uruchomienie"
+  },
+  {
+    "code": "02048",
+    "keywords": "Konsola",
+    "text": "Dinosaurus może hostować 1 <strong>lodołamacz</strong>, za wyjątkiem <strong>AI</strong>. Wymagania pamięciowe hostowanego <strong>lodołamacza</strong> nie wliczają się do twojego limitu pamięci.\nHostowany <strong>lodołamacz</strong> ma +2 siły.\nLimit 1 <strong>konsoli</strong> na gracza.",
+    "title": "Dinosaurus"
+  },
+  {
+    "code": "02049",
+    "keywords": "Miejsce",
+    "text": "[click]: Hostuj program lub sprzęt ze swojej garści na Prywatnym warsztacie i połóż na nim znaczniki zasilania w liczbie równej jego kosztowi instalacji.\n1[credit]: Usuń 1 znacznik zasilania z hostowanej karty.\nGdy zaczynasz turę, usuń 1 znacznik zasilania z hostowanej karty.\nGdy na hostowanej karcie nie ma już znaczników zasilania, zainstaluj ją, ignorując wszystkie koszty.",
+    "title": "Prywatny Warsztat"
+  },
+  {
+    "code": "02050",
+    "flavor": "\"Jestem wdzięczna losowi, że uszkodzenia mózgu są odwracalne. Dzięki wsparciu miasta New Angeles, mam nadzieję szybko stanąć na nogach i wrócić do uprawiania sztuki.\" - Kate \"Mac\" McCaffrey",
+    "text": "Twój limit kart na ręce wzrasta o 2.",
+    "title": "Współczucie opinii publicznej"
+  },
+  {
+    "code": "02051",
+    "keywords": "Badania",
+    "text": "Gdy zapunktujesz Projekt Witruwiusz, połóż na nim 1 znacznik projektu za każdy leżący na nim żeton zaawansowania powyżej 3.\n<strong>Hostowany znacznik projektu</strong>: Dodaj 1 kartę z Archiwów do HQ.",
+    "title": "Projekt Witruwiusz"
+  },
+  {
+    "code": "02052",
+    "flavor": "Nie Depcz Mnie",
+    "keywords": "Brama kodowa - Tropiciel",
+    "text": "[subroutine] <trace>Trace 3</trace> Jeśli udane, runner traci [click], jeśli może.\n[subroutine] <trace>Trace 3</trace> Jeśli udane, zakończ skok.",
+    "title": "Żmija"
+  },
+  {
+    "code": "02053",
+    "keywords": "Zasadzka",
+    "text": "Jeśli Krawędź świata jest zainstalowana, a ty zapłacisz 3[credit], gdy runner uzyska niej dostęp, zadaj 1 obrażenie mózgu za każdy lód chroniący ten serwer.",
+    "title": "Krawędź świata"
+  },
+  {
+    "code": "02054",
+    "flavor": "\"Nie wiesz, co to skok, dopóki nie zobaczysz cybersłońca opadającego za Wielkim Miastem, gdy przestrzeń wokół faluje kolorami, którymi nie możesz sobie wyobrazić.\" - Kate \"Mac\" McCaffrey",
+    "text": "Wybierz serwer. Zmień dowolnie kolejność lodów chroniących ten serwer.",
+    "title": "Zachód słońca"
+  },
+  {
+    "code": "02055",
+    "keywords": "Transakcja",
+    "text": "Gdy zaczynasz turę, weź 1[credit] z Oznaczonego konta, jeśli to możliwe.\n[click]: Połóż 3[credit] z banku na Oznaczonym koncie.",
+    "title": "Oznaczone konto"
+  },
+  {
+    "code": "02056",
+    "flavor": "\"Spróbuj je zamknąć. Śmiało. Zobacz, co zrobi.\" - Teoria Chaosu",
+    "keywords": "Brama kodowa - Reklama",
+    "text": "Gdy runner spotyka Wyskakujące okienko, pobierz 1[credit].\n[subroutine] Zakończ skok, jeśli runner nie zapłaci 1[credit].",
+    "title": "Wyskakujące okienko"
+  },
+  {
+    "code": "02057",
+    "flavor": "Ciach, ciach.",
+    "keywords": "Strażnik - AP",
+    "text": "Zrezowany Drwal może być awansowany i otrzymuje \"[subroutine] Zadaj 1 obrażenie sprzętu.\" za każdy leżący na nim żeton zaawansowania.",
+    "title": "Drwal"
+  },
+  {
+    "code": "02058",
+    "flavor": "Dział Zastosowań Pobocznych zwiększał swój dochód o 37% rocznie, od kiedy korporacja odkryła, że większość z jej projektów nadaje się na świetne zabawki.",
+    "keywords": "Transakcja",
+    "text": "Wybierz lód. Pobierz 1[credit] za każdy żeton zaawansowania leżący na tym lodzie.",
+    "title": "Komercjalizacja"
+  },
+  {
+    "code": "02059",
+    "keywords": "Transakcja",
+    "text": "Gdy rezujesz Prywatne kontrakty, połóż na nich 14[credit] z banku. Skasuj Prywatne kontrakty, gdy nie ma już na nich kredytów.\n[click]: Weź 2[credit] z Prywatnych kontraktów.",
+    "title": "Prywatne kontrakty"
+  },
+  {
+    "code": "02060",
+    "flavor": "Trzy głowy. Jeden wielki ból głowy.",
+    "keywords": "Mityczny",
+    "text": "Gdy rezujesz chimerę, wybierz <strong>strażnika</strong>, <strong>bramę kodową</strong> lub <strong>barierę</strong>. Chimera zyskuje taki podrodzaj aż do odrezowania.\nOdrezuj Chimerę, gdy kończy się tura.\n[subroutine] Zakończ skok.",
+    "title": "Chimera"
+  }
 ]

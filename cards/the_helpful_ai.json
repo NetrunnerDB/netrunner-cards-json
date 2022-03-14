@@ -1,0 +1,15 @@
+{
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "the_helpful_ai",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "+1 link trash: Choose an icebreaker. That icebreaker has +2 strength until the end of the turn.",
+  "stripped_title": "The Helpful AI",
+  "subtypes": ["connection", "link", "virtual"],
+  "text": "+1[link]\n[trash]: Choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong> has +2 strength until the end of the turn.",
+  "title": "The Helpful AI"
+}

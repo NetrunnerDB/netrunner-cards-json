@@ -1,0 +1,16 @@
+{
+  "card_type_id": "asset",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "museum_of_history",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "This card costs 0 influence if you have 50 or more cards in your deck. When your turn begins, you may shuffle 1 card from Archives into R&D. Errata from FAQ 3.1",
+  "stripped_title": "Museum of History",
+  "subtypes": ["alliance", "ritzy"],
+  "text": "This card costs 0 influence if you have 50 or more cards in your deck.\nWhen your turn begins, you may shuffle 1 card from Archives into R&D.\n<errata>Errata from FAQ 3.1</errata>",
+  "title": "Museum of History",
+  "trash_cost": 3
+}

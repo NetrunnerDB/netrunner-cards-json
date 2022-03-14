@@ -1,0 +1,15 @@
+{
+  "card_type_id": "event",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "vamp",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Run HQ. If successful, instead of breaching HQ, you may spend X credits. If you do, the Corp loses X credits. If you spent credits, take 1 tag.",
+  "stripped_title": "Vamp",
+  "subtypes": ["run", "sabotage"],
+  "text": "Run HQ. If successful, instead of breaching HQ, you may spend X[credit]. If you do, the Corp loses X[credit]. If you spent credits, take 1 tag.",
+  "title": "Vamp"
+}

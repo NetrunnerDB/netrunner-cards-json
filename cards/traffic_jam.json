@@ -1,0 +1,15 @@
+{
+  "card_type_id": "event",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "neutral-runner",
+  "id": "traffic_jam",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "This card is not trashed until another current is played or an agenda is scored. The advancement requirement of each agenda is increased by 1 for each copy of that agenda in the Corp's score area.",
+  "stripped_title": "Traffic Jam",
+  "subtypes": ["current"],
+  "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe advancement requirement of each agenda is increased by 1 for each copy of that agenda in the Corp's score area.",
+  "title": "Traffic Jam"
+}

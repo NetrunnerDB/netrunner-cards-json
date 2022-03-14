@@ -1,745 +1,745 @@
 [
-    {
-        "code": "01001",
-        "flavor": "\"Sta' a guardare. Sara' divertente.\"",
-        "keywords": "Identita'",
-        "text": "Ogni volta che installi un programma <strong>virus</strong>, la Corp elimina la carta in cima a R&S.",
-        "title": "Noise: Hacker Straordinario"
-    },
-    {
-        "code": "01002",
-        "flavor": "Se vale la pena di farlo, vale la pena di farlo due volte.",
-        "text": "Aggiungi 1 carta (o fino a 2 carte <strong>virus</strong>) al tuo grip dal tuo heap.",
-        "title": "Déjà Vu"
-    },
-    {
-        "code": "01003",
-        "flavor": "Hai mai dato fuoco a qualcosa soltanto per vederla bruciare?",
-        "keywords": "Incursione - Sabotaggio",
-        "text": "Effettua un'incursione nel QG o in R&S. Puoi eliminare, senza nessun costo, qualsiasi carta a cui accedi (anche le carte che normalmente non potrebbero essere mai eliminate).",
-        "title": "Incursione demolitrice"
-    },
-    {
-        "code": "01004",
-        "keywords": "Incursione",
-        "text": "Effettua un'incursione e ottieni 9[credit], che puoi usare solo durante questa incursione. Dopo aver completato l'incursione, subisci 1 danno cerebrale (che non puo' essere impedito) e restituisci alla banca ciò dei 9[credit] che non hai speso.",
-        "title": "Stimhack"
-    },
-    {
-        "code": "01005",
-        "flavor": "Senza, mi sento quasi nudo.",
-        "keywords": "Chip",
-        "text": "1[recurring-credit]\nUsa questo credito per pagare l'uso dei <strong>rompighiaccio</strong> o per installare dei programmi <strong>virus</strong>.",
-        "title": "Cyberalimentatore"
-    },
-    {
-        "code": "01006",
-        "flavor": "\"il mio piccolo libro degli incantesimi.\" -The Whizzard",
-        "keywords": "Console",
-        "text": "+2[mu]\nOgni volta che installi un programma <strong>virus</strong>, colloca 1 segnalino virus su quel programma.\nLimite di 1 <strong>console</strong> per giocatore.",
-        "title": "Grimorio"
-    },
-    {
-        "code": "01007",
-        "flavor": "\"Se la prima volta non ci riesci, potenzialo e poi riprovaci.\" -g00ru",
-        "keywords": "Rompighiaccio - Frantumatore",
-        "text": "1[credit]: Infrangi subroutine <strong>barriera</strong>.\n1[credit]: forza +1.",
-        "title": "Corrosivo"
-    },
-    {
-        "code": "01008",
-        "keywords": "Virus",
-        "text": "Ogni volta che effettui un'incursione riuscita su un server centrale, colloca 1 segnalino virus su Risucchio Dati.\n<strong>Segnalino virus ospitato</strong>: Il pezzo di ghiaccio materializzato attualmente incontrato ha forza -1 fino alla fine dell'incontro.",
-        "title": "Risucchio Dati"
-    },
-    {
-        "code": "01009",
-        "keywords": "Daemon",
-        "text": "Djinn può ospitare fino a 3[mu] programmi che non siamo <strong>rompighiaccio</strong>.\nI costi di memoria dei programmi ospitati non vanno conteggiati al fine di determinare il tuo limite di memoria.\n[click], 1[credit]: Cerca nel tuo stack un programma <strong>virus</strong>, rivelalo e aggiungilo al tuo grip. Rimescola il tuo mazzo.",
-        "title": "Djinn"
-    },
-    {
-        "code": "01010",
-        "flavor": "Sembrava una perdita di pacchetti casuali. E invece...",
-        "keywords": "Virus",
-        "text": "Ogni volta che effettui un'incursione riuscita in R&S, colloca 1 segnalino virus sul Medium.\nOgni segnalino virus dopo il primo presente sul Medium ti consente di accedere a 1 carta aggiuntiva da R&S ogni volta che accedi a delle carte di R&S.",
-        "title": "Medium"
-    },
-    {
-        "code": "01011",
-        "flavor": "Il 5 novembre: il giorno in cui tutti vedranno le corrotte macchinazioni dell'oligarchia corporativa.",
-        "keywords": "Rompighiaccio - Killer",
-        "text": "1[credit]: Infrangi subroutine <strong>sentinella</strong>.",
-        "title": "Simulacro"
-    },
-    {
-        "code": "01012",
-        "keywords": "Virus",
-        "text": "Installa Parassita solo su un pezzo di ghiaccio materializzato.\nIl ghiaccio ospitante ha forza -1 per ogni segnalino virus presente su Parassita, e viene eliminato se la sua forza è pari o inferiore a 0.\nQuando il tuo turno ha inizio, colloca 1 segnalino virus su Parassita.",
-        "title": "Parassita"
-    },
-    {
-        "code": "01013",
-        "flavor": "Fuoco e icore...",
-        "keywords": "Rompighiaccio - IA",
-        "text": "3[credit]: Infrangi subroutine del ghiaccio su un pezzo di ghiaccio con forza pari o inferiore a 0.\n1[credit]: Il ghiaccio ha forza -1.\n1[credit]: Forza +1.",
-        "title": "Dragone"
-    },
-    {
-        "code": "01014",
-        "flavor": "Il database Yog.0 è una raccolta da più fonti di chiavi d'accesso carpite, trapelate e registrate. Se il codice del portale si trova nel database, sei dentro. Altrimenti, cambia portale!",
-        "keywords": "Rompighiaccio - decodificatore",
-        "text": "0[credit]: Infrangi subroutine <strong>Portale codificato</strong>.",
-        "title": "Yog.0"
-    },
-    {
-        "code": "01015",
-        "flavor": "Nell'immaginario collettivo c'è un confine invalicabile tra le corp e i runner. Nel mondo reale, le cose sono meno nette. Le corp hanno bisogno degli hacker migliori per gestire i loro network, e alcuni dei migliori hacker sono ex-runner a cui non dispiaceva l'idea di una busta paga regolare. Ma a volte la ruota gira in senso inverso, e qualcuno che faceva parte di una corp fabbrica una cosa del genere.",
-        "keywords": "Virtuale",
-        "text": "Tutti i pezzi di ghiaccio incontrati hanno la forza ridotta di 1.",
-        "title": "Incisore di ghiaccio"
-    },
-    {
-        "code": "01016",
-        "flavor": "\"Il posto migliore dove andare quando vuoi portare fuori il tuo cervello dalle fogne e portare le fogne nel cervello.\" -Ji \"Noise\" Reilly",
-        "keywords": "Luogo - Malfamato",
-        "text": "Quando il tuo turno ha inizio, pesca 2 carte e perdi [click].",
-        "title": "Wyldside"
-    },
-    {
-        "code": "01017",
-        "flavor": "\"Ma è ovvio che rubo ai ricchi. Sono loro che hanno tutti i soldi\".",
-        "keywords": "Cyborg",
-        "text": "La prima volta in un turno in cui effettui un'incursione riuscita nel QG, ottieni 2[credit].",
-        "title": "Gabriel Santiago: Professionista Consumato"
-    },
-    {
-        "code": "01018",
-        "keywords": "Incursione - Sabotaggio",
-        "text": "Effettua un'incursione nel QG. Se l'incursione è riuscita, invece di accedere alle carte puoi costringere la Corp a perdere fino a 5[credit], poi ottieni 2[credit] per ogni credito perduto e ricevi 2 tag.",
-        "title": "Conto prosciugato"
-    },
-    {
-        "code": "01019",
-        "flavor": "\"Ehi, ragazzino, se fai partire quell'affare adesso finirai per restare bruciato, e di brutto. Qui in giro ci sono dei soggetti davvero patetici. Ma fortunatamente ho il biglietto giusto per te...\"",
-        "keywords": "Colpo",
-        "text": "Ottieni 3[credit].",
-        "title": "Bersaglio facile"
-    },
-    {
-        "code": "01020",
-        "flavor": "L'isterismo dilagante nella stanza si diffuse lungo tutta la catena di comando corporativa, e i ranghi inferiori furono colti da un brutto presentimento di licenziamento imminente.",
-        "keywords": "sabotaggio",
-        "text": "Scegli un pezzo di ghiaccio smaterializzato. La Corporazione deve materializzare quel pezzo di ghiaccio o scartarlo.",
-        "title": "Ordini di attivazione falsificati"
-    },
-    {
-        "code": "01021",
-        "flavor": "\"Ehi, senti, non ti chiedo di fare niente di pericoloso. Solo di farmi entrare nell'edificio. E di dirmi qual è la stanza dove la sicurezza è più debole. E per favore, non dirmi di nuovo 'i bagni'\".",
-        "keywords": "Incursione",
-        "text": "Effettua un'incursione. Oltrepassa il primo pezzo di ghiaccio incontrato durante questa incursione.",
-        "title": "Colpo dell'interno"
-    },
-    {
-        "code": "01022",
-        "flavor": "Dopo aver monitorato febbrilmente la sua traversata del Pacifico, lenta a livelli frustranti, il pacco finalmente giunse a destinazione nelle ore successive...",
-        "text": "Cerca un <strong>rompighiaccio</strong>, nel tuo stack, rivelalo e aggiungilo al tuo grip. Rimescola il tuo mazzo.",
-        "title": "Ordine speciale"
-    },
-    {
-        "code": "01023",
-        "flavor": "\"Un pizzico di preparazione può portarti molto lontato\".",
-        "text": "[click], 1[credit]: Scopri 1 carta. Usa questa capacità solo se hai effettuato un'incursione riuscita nel QG in questo turno.",
-        "title": "Frangicodice Lemuria"
-    },
-    {
-        "code": "01024",
-        "keywords": "Console",
-        "text": "+1[mu]\nOttieni 1[credit] ogni volta che effettui un'incursione riuscita.\nLimite di 1 <strong>console</strong> per giocatore.",
-        "title": "Desperado"
-    },
-    {
-        "code": "01025",
-        "keywords": "Rompighiaccio - Frantumatore",
-        "text": "2[credit]: Infrangi subroutine <strong>barriera</strong>.\n2[credit]: Forza +3.",
-        "title": "Aurora"
-    },
-    {
-        "code": "01026",
-        "keywords": "Rompighiaccio - Killer",
-        "text": "1[credit]: Infrangi subroutine <strong>sentinella</strong>.\n2[credit]: Forza +1.\nQuando installi Femme Fatale, scegli un pezzo di ghiaccio installato. Quando incontri quel ghiaccio, puoi pagare 1[credit] per subroutine su quel ghiaccio al fine di oltrepassarlo.",
-        "title": "Femme fatale"
-    },
-    {
-        "code": "01027",
-        "flavor": "Il Ninja lo senti prima di vederlo... e a volte non lo vedi affatto.",
-        "keywords": "Rompighiaccio - Killer",
-        "text": "1[credit]: Infrangi subroutine <strong>sentinella</strong>.\n3[credit]: Forza +5.",
-        "title": "Ninja"
-    },
-    {
-        "code": "01028",
-        "flavor": "\"Il codice non è importante. E' dove ti porta il codice che è importante.\" -g00ru",
-        "text": "[click]: Effettua un'incursione negli Archivi. Se riuscita, considerala invece un'incursione riuscita nel QG.",
-        "title": "Accesso nascosto beta"
-    },
-    {
-        "code": "01029",
-        "keywords": "Colpo",
-        "text": "Colloca 8[credit] dalla banca al Colpo in Banca quando questo viene installato. Quando non rimane più nessun credito su Colpo in Banca, eliminalo.\nOgni volta che effettui un'incursione riuscita in un server remoto, invece di accedere alle carte, puoi prendere un numero qualsiasi di crediti da Colpo in Banca.",
-        "title": "Colpo in banca"
-    },
-    {
-        "code": "01030",
-        "flavor": "\"Il mio compagno di stanza aveva un cugino con una fidanzata al college il cui migliore amico del fratello era una assuefatto, e la mamma di quell'assuefatto una volta viveva qui. Quindi, no, non siamo degli estranei.\"",
-        "keywords": "Luogo",
-        "text": "2[recurring-credit]\nUsa questi crediti per pagare la rimozione dei tag.\n[trash]: Impedisci fino a 3 danno corpo.",
-        "title": "Rifugio abusivo"
-    },
-    {
-        "code": "01031",
-        "flavor": "Più torbido è lo spacciatore, migliore è il prezzo. Ma occhio che non sia troppo torbido. Potresti scoprire che c'è un prezzo nascosto dopo che hanno incassato il tuo pagamento.",
-        "keywords": "Contatto - Malfamato",
-        "text": "<strong>Sacrifica un obiettivo,</strong> [click]: Ottieni 9[credit].",
-        "title": "Spacciatore di dati"
-    },
-    {
-        "code": "01032",
-        "flavor": "\"Ho l'impressione che questo sia il posto sbagliato, Frank.\"\n\"Cosa te lo fa credere, D?\"\n\"I bigodini.\"",
-        "keywords": "Contatto",
-        "text": "[trash]: Evita di ricevere 1 tag.",
-        "title": "Falsa pista"
-    },
-    {
-        "code": "01033",
-        "flavor": "\"Mi stai ascoltando?\"",
-        "keywords": "Naturale",
-        "text": "Abbassa di 1 il costo di installazione del primo programma o hardware che installi a ogni turno.",
-        "title": "Kate \"Mac\" McCaffrey:Pioniere Digitale"
-    },
-    {
-        "code": "01034",
-        "flavor": "Con diesel prendi fuoco.",
-        "text": "Pesca 3 carte.",
-        "title": "Diesel"
-    },
-    {
-        "code": "01035",
-        "flavor": "Non c'è niente come un programma fatto in casa. Frutto di ore piccole, barrette di cereali e cocciutaggine. E anche più economico.",
-        "keywords": "Mod",
-        "text": "Installa un programma o un hardware, riducendo il costo di installazione di 3.",
-        "title": "Modificato"
-    },
-    {
-        "code": "01036",
-        "flavor": "\"Alcuni professionisti hanno un buon intuito, ma non riescono a vedere oltre i dati. Non riescono a vedere la matrice.\" -Ele \"Smoke\" Scovak",
-        "keywords": "Run",
-        "text": "Effettua un'incursione in R&S. Se riuscita, accedi a 2 carte aggiuntive di R&S.",
-        "title": "L'occhio del creatore"
-    },
-    {
-        "code": "01037",
-        "flavor": "\"Sai, c'è quel momento in cui tutto il mondo sembra cadere a pezzi, rimani solo tu e il tuo mod, e il mod è il mondo.\"",
-        "keywords": "Mod",
-        "text": "Scegli un pezzo di ghiaccio. Quel pezzo di ghiaccio ottiene <strong>sentinella</strong>, <strong>portale codificato</strong> e <strong>barriera</strong> fino alla fine del turno.",
-        "title": "Modifiche Anticonvenzionali"
-    },
-    {
-        "code": "01038",
-        "flavor": "La compagnia Akamatsu si fondava su tre principi: primo, fabbricare i chip di memoria più veloci sul mercato, secondo, trarne profitto, e terzo, fungere da facciata per la produzione di neuro-stimolanti illegali, E' quest'ultimo principio che forse spiega la loro fanatica fedeltà al marchio.",
-        "keywords": "Chip",
-        "text": "+1[mu]",
-        "title": "Chip di memoria Akamatsu"
-    },
-    {
-        "code": "01039",
-        "flavor": "Non è infinita, dà solo questa impressione.",
-        "keywords": "Link",
-        "text": "+1[link]\nQuando la Tana del Coniglio viene installata, puoi cercare nel tuo stack un'altra copia di Tana del Coniglio e installarla pagandone il costo di installazione. Rimescola il tuo mazzo.",
-        "title": "Tana del coniglio"
-    },
-    {
-        "code": "01040",
-        "flavor": "Uno z-loop qui, un'onda corticale lì...",
-        "keywords": "Mod",
-        "text": "Installa Il Tocco Personale solo su un <strong>rompighiaccio.</strong>\nIl <strong>rompighiaccio</strong> ospitante ha forza +1.",
-        "title": "Il tocco personale"
-    },
-    {
-        "code": "01041",
-        "keywords": "Console",
-        "text": "+2[mu] +2[link]\n2[recurring-credit]\nUsa questi crediti per pagare l'uso dei <strong>rompighiaccio.</strong>\nLimite di 1 <strong>console</strong> per giocatore.",
-        "title": "La scatola degli attrezzi"
-    },
-    {
-        "code": "01042",
-        "flavor": "\"Si chiama 'forza bruta', ed è efficace oggi quanto lo era cento anni fa\". - Kate \"Mac\" McCaffrey",
-        "keywords": "Rompighiaccio - Frantumatore",
-        "text": "2[credit]: Infrangi fino a  2 subroutine <strong>barriera</strong>.\n1[credit]: Forza +1 per il resto di questa incursione.",
-        "title": "Ariete di sfondamento"
-    },
-    {
-        "code": "01043",
-        "flavor": "Può sciogliere anche il nodo di dati più complicato.",
-        "keywords": "Rompighiaccio - decodificatore",
-        "text": "1[credit]: Infrangi subroutine <strong>portale codificato</strong>.\n1[credit]: Forza +1 per il resto di questa incursione.",
-        "title": "Lama Gordiana"
-    },
-    {
-        "code": "01044",
-        "flavor": "La Grande Opera fu completata in un piovoso giovedi pomeriggio. Non ci furoso scosse sismiche, lampi solari, o altri segni dalla terra o dal cielo a simboleggiare che il mondo era cambiato. Ma in cima al fagiolo, su Heinlein, in un singolo datacore artificiale della Cybsoft, il flusso dati tremolante di un conto iniziò a riempirsi di crediti. Crediti sani, onesti, reali, certificati dalle NU.",
-        "text": "[click]: Ottieni 2[credit].",
-        "title": "Magnum Opus"
-    },
-    {
-        "code": "01045",
-        "flavor": "Consuma energia come un terra-bot marziano, ma ti tiene concentrato.",
-        "text": "1[credit]: Impedisci il primo danno net di questo turno.",
-        "title": "Scudo Net"
-    },
-    {
-        "code": "01046",
-        "keywords": "Rompighiaccio - Killer",
-        "text": "1[credit]: Infrangi subroutine <strong>sentinella</strong>.\n2[credit]: Forza +1 per il resto di questa incursione.",
-        "title": "Tubatura"
-    },
-    {
-        "code": "01047",
-        "flavor": "Non ti conviene chiedere a Esopo del suo braccio, a meno che tu non voglia essere sommerso da un fiume di chiacchiere. E, da come ne parla, viene da chiederti perchè non si sia rimosso con il laser anche l'altro.",
-        "keywords": "Luogo - Contatto",
-        "text": "Quando il tuo turno ha inizio, puoi eliminare un'altra delle tue carte installate per ottenere 3[credit].",
-        "title": "Banco dei pegni di Esopo"
-    },
-    {
-        "code": "01048",
-        "flavor": "Le aspettative di vita di un costrutto connesso sono più o meno quelle di un moscerino. In altre parole, brevissime.",
-        "keywords": "Remoto",
-        "text": "[trash]: Impedisci l'eliminazione di un programma o di un hardware installato.",
-        "title": "Costrutto sacrificale"
-    },
-    {
-        "code": "01049",
-        "flavor": "\"Ti ricorda qualcosa, Monica?\" -John \"Animal\" McEvoy",
-        "text": "Ottieni 2[credit] o scopri 1 carta.",
-        "title": "Infiltrazione"
-    },
-    {
-        "code": "01050",
-        "flavor": "Nel suo caso, Madama Fortuna aveva la forma di un anello di manipolazione quantistica hifi che portava al dito medio.",
-        "text": "Ottieni 9[credit].",
-        "title": "Azzardo sicuro"
-    },
-    {
-        "code": "01051",
-        "keywords": "Rompighiaccio - IA - Virus",
-        "text": "1[credit]: Infrangi subroutine del ghiaccio.\n1[credit]: Forza +1.\n[click]: Colloca un segnalino virus su Crypsis.\nQuando termina un incontro con un pezzo di ghiaccio in cui hai usato Crypsis per infrangere una subroutine, rimuovi 1 segnalino virus ospitato o elimina Crypsis.",
-        "title": "Crypsis"
-    },
-    {
-        "code": "01052",
-        "flavor": "Regolò la diffusione dei display a un livello elevato e fu circondato da un cerchio di ologrammi fluttuanti. Il ping-back era solido, il livello di autorizzazione blu. Ora doveva solo trovare il luogo perfetto per un relé...",
-        "keywords": "Link",
-        "text": "+1[link]",
-        "title": "Accesso to Globalsec"
-    },
-    {
-        "code": "01053",
-        "flavor": "Lavoro noioso, ma per pagare i conti va bene.",
-        "keywords": "Colpo",
-        "text": "Colloca 12[credit] dalla banca sul Frangicodice Armitage quando viene installato. Quando non rimane più nessun credito sul Frangicodice Armitage, eliminalo.\n[click]: Prendi 2[credit] dal Frangicodice Armitage.",
-        "title": "Frangicodice Armitage"
-    },
-    {
-        "code": "01054",
-        "flavor": "Efficaci. Affidabili. Umani.",
-        "keywords": "Megacorporazione",
-        "text": "A ogni turno, la prima volta che installi una carta ottieni 1[credit].",
-        "title": "Haas-Bioroid: Progettiamo il futuro"
-    },
-    {
-        "code": "01055",
-        "keywords": "Ricerca",
-        "text": "Quando riscuoti il punteggio di Test Beta Accellerato, puoi esaminare le prime tre carte di R&S. Se tra quelle carte ci sono dei pezzi di ghiaccio, puoi installarli e materializzarli ignorando tutti i costi. Elimina le carte rimanenti che hai esaminato.",
-        "title": "Test Beta Accellerato"
-    },
-    {
-        "code": "01056",
-        "keywords": "Pubblicità",
-        "text": "Colloca 12[credit] dalla banca su Campagna Adonis quando viene materializzata. Quando non rimane più nessun credito su Campagna Adonis, eliminala.\nPrendi 3[credit] da Campagna Adonis quando il tuo turno ha inizio.",
-        "title": "Campagna Adonis"
-    },
-    {
-        "code": "01057",
-        "keywords": "Imboscata",
-        "text": "E' possibile far progredire Segreteria Aggressiva.\nSe paghi 2[credit] quando il Runner accede a Segreteria Aggressiva, elimina 1 programma per ogni segnalino progresso su Segreteria Aggressiva.",
-        "title": "Segreteria Aggressiva"
-    },
-    {
-        "code": "01058",
-        "flavor": "\"Pensi che... provino emozioni?\"",
-        "text": "Aggiungi 1 carta degli Archivi al QG.",
-        "title": "Memorie Archiviate"
-    },
-    {
-        "code": "01059",
-        "flavor": "\"Ma certamente, abbiamo sei diversi modelli Haas-Bioroide in servizio in varie posizioni soltanto in questo distaccamento. Qui alla Haas-Bioroide non esitiamo a mettere in pratica quanto raccomandiamo, e trasferiamo ciò' che viene risparmiato grazie a questa superiore efficienza ai nostri stimati clienti.\"",
-        "text": "Ottieni [click][click].",
-        "title": "Forza lavoro biotica"
-    },
-    {
-        "code": "01060",
-        "flavor": "Le nuove teste erano arrivate. Seguivano i tuoi movimenti con lo sguardo non appena sbloccavi il contenitore pressurizzato e sollevavi il coperchio.",
-        "text": "Installa immediatamente fino a 3 carte (senza spendere nessun click, ma pagando tutti costi di installazione).",
-        "title": "Spedizione dalla Mirrormorph"
-    },
-    {
-        "code": "01061",
-        "flavor": "Sento il fruscio di ogni bit che scorre nel flusso dati. Sento i sussurri delle mie madri, e i loro ordini sono legge. Al reame oltrestante è vietato accedere.",
-        "keywords": "Barriere - Bioroide - AP",
-        "text": "Il Runner può spendere [click] per infrangere una qualsiasi subroutine su Heimdall 1.0.\n[subroutine] Infligge 1 danno cerebrale.\n[subroutine] L'incursione termina.\n[subroutine] L'incursione termina.",
-        "title": "Heimdall 1.0"
-    },
-    {
-        "code": "01062",
-        "flavor": "La mia reputazione mi precederebbe, se qualcuno potesse parlarne.",
-        "keywords": "Sentinella - Bioroide - Tracciatore - Distruttore",
-        "text": "Il Runner può spendere [click] per infrangere una qualsiasi subroutine su Ichi 1.0.\n[subroutine] Elimina 1 programma.\n[subroutine] Elimina 1 programma.\n[subroutine] <trace>Tracciamento 1</trace>Se riuscito, assegna al runner 1 tag e infliggigli 1 danno cerebrale.",
-        "title": "Ichi 1.0"
-    },
-    {
-        "code": "01063",
-        "flavor": "Mi chiamo Viktor. Felice di conoscerti. Ti piacerebbe giocare con me ?",
-        "keywords": "Portale Codificato - Bioroide - AP",
-        "text": "Il Runner può spendere [click] per infrangere una qualsiasi subroutine su Viktor 1.0.\n[subroutine] Infligge 1 danno cerebrale.\n[subroutine] L'incursione termina.",
-        "title": "Viktor 1.0"
-    },
-    {
-        "code": "01064",
-        "flavor": "Whrrrrr!",
-        "keywords": "Sentinella - Distruttore",
-        "text": "[subroutine] Elimina 1 programma.\n[subroutine] L'incursione termina.",
-        "title": "Rototorretta"
-    },
-    {
-        "code": "01065",
-        "flavor": "\"Risolvo problemi.\"",
-        "keywords": "Contatto",
-        "text": "X[credit], [trash]: Scegli un pezzo di ghiaccio materializzato a protezione di questo server. Quel ghiaccio ha forza +X fino alla fine del turno.",
-        "title": "Esperto Emergenze Corporativo"
-    },
-    {
-        "code": "01066",
-        "flavor": "Floyd percepì la rabbia nell'uomo davanti a lui, che protestava furioso contro i simulanti. La sua programmazione spinse un banale concetto con cui ribattergli in cima ai suoi pensieri, e l'impulso di dargli voce fu soverchiante. Così peggiorerai soltanto le cose, pensò.",
-        "text": "Tutto il ghiaccio a protezione di questo server ha forza +1.",
-        "title": "Dati empirici"
-    },
-    {
-        "code": "01067",
-        "flavor": "Quando il tocco umano è importante.",
-        "keywords": "Megacorporazione",
-        "text": "Ogni volta che un obiettivo viene rubato o ne viene riscosso il punteggio, infliggi 1 danno net.",
-        "title": "Jinteki: Evoluzione Personale"
-    },
-    {
-        "code": "01068",
-        "keywords": "Iniziativa",
-        "text": "Colloca 1 segnalino obiettivo su Nisei MK II quando ne riscuoti il punteggio.\n<strong>Segnalino obiettivo ospitato:</strong> L'incursione termina.",
-        "title": "Nisei MK II"
-    },
-    {
-        "code": "01069",
-        "keywords": "Imboscata - Ricerca",
-        "text": "E' possibile far progredire il Progetto Junebug.\nSe paghi 1[credit] quando il Runner accede al Progetto Junebug, infliggi 2 danni net per ogni segnalino progresso sul Progetto Junebug.",
-        "title": "Progetto Junebug"
-    },
-    {
-        "code": "01070",
-        "keywords": "Imboscata",
-        "text": "Se accede a Tagliola! da R&S, il Runner deve rivelarla.\nSe paghi 4[credit] quando il Runner accede a Tagliola!, infliggi 3 danni net e assegna 1 tag al Runner. Ignora questa capacità se il Runner accede a Tagliola! dagli Archivi.",
-        "title": "Tagliola!"
-    },
-    {
-        "code": "01071",
-        "text": "Se il Runner sta per scoprire una carta, puoi materializzare Fedeltà alla Zaibatsu.\n1[credit] o [trash]: Impedisci che 1 carta venga scoperta.",
-        "title": "Fedelta' alla Zaibatsu"
-    },
-    {
-        "code": "01072",
-        "flavor": "Il difficile non è colpire la persona a cui stavi mirando. E' colpire <strong>solo</strong> la persona a cui stavi mirando.",
-        "keywords": "Operazioni Grigie",
-        "text": "Giocabile solo se il Runner ha effettuato un'incursione durante il suo ultimo turno.\nInfliggi 1 danno net.",
-        "title": "IEM Neurale"
-    },
-    {
-        "code": "01073",
-        "flavor": "C'era una nuova texture nella sua corteccia fantasma. Ma si rese conto che era lì da sempre. Era tutto e niente allo stesso tempo.",
-        "text": "Esamina le prime 5 carte di R&S e ridisponile in qualsiasi ordine.",
-        "title": "Precognizione"
-    },
-    {
-        "code": "01074",
-        "flavor": "\"Chissà dove conduce?\"",
-        "keywords": "Portale Codificato - Deflettore",
-        "text": "[subroutine] Il Runner approccia il pezzo di ghiaccio più esterno a protezione del server attaccato. Smaterializza il Portale della Cella.",
-        "title": "Porta della cella"
-    },
-    {
-        "code": "01075",
-        "flavor": "\"Hai mai avuto l'impressione di essere cibo per squali? Non ignorare quell'impressione.\" -Ji \"Noise\" Reilly",
-        "keywords": "Portale Codificato",
-        "text": "[subroutine] Il prossimo pezzo di ghiaccio incontrato dal Runner durante questa incursione ha forza +2. Infliggi 3 danni net a meno che il Runner non infranga tutte le subroutine di quel pezzo di ghiaccio.",
-        "title": "Olio su ghiaccio"
-    },
-    {
-        "code": "01076",
-        "flavor": "Accedi a FileInnocuo.datZ -> Sei sicuro? s/n",
-        "keywords": "Trappola - AP",
-        "text": "[subroutine] Infliggi 1 danno net. Elimina la Mina di Dati.",
-        "title": "Mina di dati"
-    },
-    {
-        "code": "01077",
-        "flavor": "Forgiata da Ak.wa il 23.11.79-23, Archiviata il 23.11.79-23.2 con #34k-lw3-21HH-4i.//Samurai incluso.",
-        "keywords": "Sentinella - AP",
-        "text": "[subroutine] Infliggi 3 danni net.",
-        "title": "Katana Neurale"
-    },
-    {
-        "code": "01078",
-        "flavor": "La maggior parte dei runner lavora in simulazione completa, con il rig collegato direttamente al cervello. Questo allestimento ha numerosi vantaggi, in quanto consente al runner di elaborare dati e impartire comandi assai più rapidamente di un sistema a interfaccia tattile. Ma comporta anche rischi più grandi.",
-        "keywords": "Barriera - AP",
-        "text": "[subroutine] Infliggi 2 danni net.\n[subroutine] L'incursione termina.",
-        "title": "Muro di Spine"
-    },
-    {
-        "code": "01079",
-        "flavor": "Però non chiedermi come ci riesce.",
-        "keywords": "Sysop - Eterodosso",
-        "text": "Il costo di materializzazione del ghiaccio a protezione di questo server è ridotto di 2.",
-        "title": "Akitaro Watanabe"
-    },
-    {
-        "code": "01080",
-        "flavor": "C'è sempre qualcuno che osserva.",
-        "keywords": "Megacorporazione",
-        "text": "2[recurring-credit]\nUsa questi crediti durante i tracciamenti.",
-        "title": "NBN: Creatori di notizie"
-    },
-    {
-        "code": "01081",
-        "keywords": "Iniziativa",
-        "text": "Colloca 1 segnalino obiettivo sul Programma Pilota Astroscript quando ne riscuoti il punteggio.\n<strong>Segnalino progresso ospitato:</strong> Colloca 1 segnalino progresso su una carta che è possibile far progredire.",
-        "title": "Programma Pilota AstroScript"
-    },
-    {
-        "code": "01082",
-        "text": "Quando riscuoti il punteggio di Ultime Notizie, assegna al Runner 2 tag.\nQuando il turno in cui hai riscosso il punteggio di Ultime Notizie ha termine, il Runner perde 2 tag.",
-        "title": "Ultime Notizie"
-    },
-    {
-        "code": "01083",
-        "flavor": "\"Si prega di rimanere collegati. Trasferimento proritario in corso. Un operatore verificherà pres-\"",
-        "text": "Pesca 3 carte.",
-        "title": "Segnalazione Anonima"
-    },
-    {
-        "code": "01084",
-        "keywords": "Operazioni Grigie",
-        "text": "Giocabile solo se il Runner è taggato.\nIl Runner perde tutti i crediti della sua riserva di crediti.",
-        "title": "Conto chiuso"
-    },
-    {
-        "code": "01085",
-        "flavor": "Poter accedere al più grande database di consumatori della galassia ha i suoi vantaggi.",
-        "text": "X è pari o inferiore al numero di tag posseduti dal Runner.\nColloca X segnalini progresso su una carta che puoi far progredire.",
-        "title": "Statistiche Psicografiche"
-    },
-    {
-        "code": "01086",
-        "flavor": "\"La SEA ci ha fatto notare alcuni picchi di dati, su al Castello.\" -Jerome Lock, tecnico di servizio",
-        "text": "Giocabile solo se il Runner ha effettuato un'incursione riuscita nel suo ultimo turno.\n<trace>Tracciamento 3</trace> Se riuscito, assegna al Runner 1 tag.",
-        "title": "Fonte SEA"
-    },
-    {
-        "code": "01087",
-        "keywords": "Imboscata - Struttura",
-        "text": "E' possibile far progredire il Dipartimento Fantasma.\nQuando il Runner accede al Dipartimento Fantasma, puoi assegnare al Runner 1 tag per ogni segnalino progresso presente sul Dipartimento Fantasma.",
-        "title": "Dipartimento Fantasma"
-    },
-    {
-        "code": "01088",
-        "keywords": "Sentinella - Tracciatore - Osservatore",
-        "text": "Quando il Runner incontra il Corvo di Dati, deve scegliere se ricevere un tag o terminare l'incursione.\n<strong>Segnalino potenza ospitato:</strong> Assegna al Runner 1 tag.\n[subroutine] <trace>Tracciamento 3</trace> Se riuscito, colloca 1 segnalino potenza sul Corvo di Dati.",
-        "title": "Corvo di Dati"
-    },
-    {
-        "code": "01089",
-        "flavor": "Analizzare era fantastico. Delegare i comandi si rivelò perfino migliore.",
-        "keywords": "Sentinella - Tracciatore - Osservatore",
-        "text": "Quando il Runner incontra l'Analizzatore di Matrice, puoi pagare 1 per collocare 1 segnalino progresso su una carta che è possibile far progredire.\n[subroutine] <trace>Tracciamento 2</trace> Se riuscito, assegna al Runner 1 tag.",
-        "title": "Analizzatore di Matrice"
-    },
-    {
-        "code": "01090",
-        "flavor": "\"Mai sentito parlare di comma 22?\"\n\"Ricordami di dimenticarmene.\"",
-        "keywords": "Portale Codificato",
-        "text": "Quando il Runner incontra il Casello di Pedaggio, deve pagare 3[credit], se può farlo. Se non può pagare 3[credit], l'incursione termina.\n[subroutine] L'incursione termina.",
-        "title": "Casello di Pedaggio"
-    },
-    {
-        "code": "01091",
-        "text": "Ogni volta che il Runner accede a un obiettivo di questo server, deve pagare 5[credit] come costo aggiuntivo al fine di rubarlo. Questo vale anche durante l'incursione in cui il Runner elimina lo Specchietto per le Allodole.",
-        "title": "Specchietto per le Allodole"
-    },
-    {
-        "code": "01092",
-        "flavor": "\"Ho sentito dire che la costa è bella in questo periodo dell'anno.\"\n\"Se sei nel giro giusto, è bella tutto l'anno.\"",
-        "keywords": "Regione",
-        "text": "Il requisito di progresso degli obiettivi installati su questo server è ridotto di 1.\nLimite di 1 <strong>regione</strong> per server.",
-        "title": "Griglia Cittadina SanSan"
-    },
-    {
-        "code": "01093",
-        "flavor": "La via per il cielo.",
-        "keywords": "Megacorporazione",
-        "text": "Ottieni 1[credit] ogni volta che giochi un' operazione <strong>transazione</strong>.",
-        "title": "Consorzio Weyland: Costruiamo un mondo migliore"
-    },
-    {
-        "code": "01094",
-        "flavor": "Ci sarà qualche cambiamento da queste parti.",
-        "keywords": "Espansione",
-        "text": "Quando riscuoti il punteggio di Accorpamento Ostile, ottieni 7[credit] e ricevi 1 cattiva pubblicità.",
-        "title": "Accorpamento Ostile"
-    },
-    {
-        "code": "01095",
-        "flavor": "\"Se qualche agenzia di notizie da due crediti lo trasmette, tanto meglio. Quella feccia potrebbe essersi rintanata nei vicoli di Guayaquil o nei bassifondi di BosWash. O addirittura fuori pianeta.\"",
-        "keywords": "Sicurezza",
-        "text": "Quando riscuoti il punteggio di Avviso di Taglia, puoi sacrificarlo per assegnare al Runner 1 Tag e ricevere 1 cattiva pubblicità.",
-        "title": "Avviso di Taglia"
-    },
-    {
-        "code": "01096",
-        "flavor": "\"Getta in pasto ai Federali i nostri scarti, e torneranno implorando di averne ancora.\" -Richard Polasco, VP della Cyber-Sicurezza.",
-        "keywords": "Transazione",
-        "text": "[click],elimina un pezzo di <strong>ghiaccio</strong> materializzato: Ottieni 4[credit].",
-        "title": "Subappalto di Sicurezza"
-    },
-    {
-        "code": "01097",
-        "flavor": "\"Credo che troverà i termini alquanto favorevoli.\"",
-        "text": "Giocabile solo se hai riscosso il punteggio di un obiettivo in questo turno.\nCerca 1 carta in R&S e aggiungila al QG. Rimescola R&S.",
-        "title": "Negoziati Aggressivi"
-    },
-    {
-        "code": "01098",
-        "flavor": "L'Ascensore spaziale di New Angeles, meglio noto come il Fagiolo Magico, è il più grande trionfo dell'ingegneria e dell'ingegno umano nella storia. Il Fagiolo Magico rende l'orbita terrestre accessibile a tutti... a una tariffa ragionevole.",
-        "keywords": "Transazione",
-        "text": "Ottieni 3[credit].",
-        "title": "Proventi del fagiolo magico"
-    },
-    {
-        "code": "01099",
-        "flavor": "\"Vorrei ricordare alle signore e ai signori della stampa che vari edifici rimasti danneggiati nell'esplosione erano di proprietà di compagnie sussidiarie del Consorzio Weyland...\"",
-        "keywords": "Operazioni Nere",
-        "text": "Giocabile solo se il Runner è taggato.\nInfliggi 4 danni corpo.",
-        "title": "Terra Bruciata"
-    },
-    {
-        "code": "01100",
-        "flavor": "\"E poi ci sono queste due casse. Ma sono senza eID.\"\n\"Quelle lasciale a me e scordati di averle mai viste.\"",
-        "text": "Colloca 1 segnalino progresso su ogni carta installata diversa che è possibile far progredire (fino a un massimo di 2 carte).",
-        "title": "Spedizione da Kaguya"
-    },
-    {
-        "code": "01101",
-        "flavor": "La prossima volta, leggi le Condizioni del Servizio con più attenzione. O potresti ritrovarti nella zona del pericolo.",
-        "keywords": "Sentinella - Distruttore",
-        "text": "Come costo aggiuntivo per materializzare l'Arciere, la Corp deve sacrificare un obiettivo.\n[subroutine] La Corp ottiene 2[credit].\n[subroutine] Elimina 1 programma.\n[subroutine] Elimina 1 programma.\n[subroutine] L'incursione termina.",
-        "title": "Arciere"
-    },
-    {
-        "code": "01102",
-        "flavor": "\"Era un po' megalomane, il vecchio Adriano. Però i suoi costrutti gli danno ragione.\" -g00ru",
-        "keywords": "Barriera",
-        "text": "E' possibile far progredire il Vallo di Adriano, che avrà forza +1 per ogni segnalino progresso presente su di esso.\n[subroutine] L'incursione termina.\n[subroutine] L'incursione termina.",
-        "title": "Vallo di Adriano"
-    },
-    {
-        "code": "01103",
-        "flavor": "\"Avevo chiesto del ghiaccio impenetrabile quanto un muro. Non ho capito se qualcuno giù a R&S ha un senso dell'umorismo deviato o soltanto una mente molto lineare.\" -Liz Campbell, VP Progetti Sicurezza",
-        "keywords": "Barriera",
-        "text": "E' possibile far progredire il Muro di Ghiaccio, che avrà forza +1 per ogni segnalino progresso presente su di esso.",
-        "title": "Muro di Ghiaccio"
-    },
-    {
-        "code": "01104",
-        "flavor": "Chissà quali malvagità si annidano nella memoria adamantina degli uomini? La Weyland lo sa. -cyber-graffito anonimo",
-        "keywords": "Sentinella - Tracciatore",
-        "text": "E' possibile far progredire l'Ombra, che avrà forza +1 per ogni segnalino progresso presente su di essa.\n[subroutine] La Corp ottiene 2[credit].\n[subroutine] <trace>Tracciamento 3</trace> Se riuscito, assegna al Runner 1 tag.",
-        "title": "Ombra"
-    },
-    {
-        "code": "01105",
-        "flavor": "\"Jack Weyland ha costruito il Fagiolo Magico e ha cambiato la storia della razza umana per sempre. Non vedo l'ora di scoprire cosa faranno adesso.\"",
-        "keywords": "Struttura",
-        "text": "Installabile soltanto sulla radice del QG.\n+2 al limite massimo della tua mano.",
-        "title": "Stazione di Ricerca"
-    },
-    {
-        "code": "01106",
-        "flavor": "\"Se non lo vedo sul mio terminale entro le 18:00, parecchie teste cadranno!\"",
-        "keywords": "Sicurezza",
-        "text": "Quando riscuoti il punteggio di Istanza Prioritaria, puoi materializzare un pezzo di ghiaccio ignorando tutti i costi.",
-        "title": "Istanza Prioritaria"
-    },
-    {
-        "code": "01107",
-        "flavor": "\"Costose? Non quando c'è da proteggere una fortuna vasta quanto la nostra.\"",
-        "keywords": "Sicurezza",
-        "text": "Se il Runner è taggato, Forze di Sicurezza Private ottiene \"[click]:Infliggi 1 danno corpo.\"",
-        "title": "Forze di sicurezza private"
-    },
-    {
-        "code": "01108",
-        "flavor": "\"I boss minerari sono peggiori di qualsiasi signore del crimine giù dal fagiolo. Tri-Maf, 4K, Yak, non mi importa quali organizzazioni avete laggiù. A Heinlein esiste solo una legge l' He3 deve girare.\"- Rick Henry \"il Vecchio\", clone evaso",
-        "text": "[click], [click], [click]: Ottieni 7[credit].",
-        "title": "Corp. Mineraria Melange"
-    },
-    {
-        "code": "01109",
-        "flavor": "E' come quello che hai appena comprato, ma migliore.",
-        "keywords": "Pubblicità",
-        "text": "Ottieni 1[credit] quando il tuo turno ha inizio.",
-        "title": "Campagna Pubblicitaria Pad"
-    },
-    {
-        "code": "01110",
-        "flavor": "Fondi Speculativi. Sostantivo. Un ingegnoso meccanismo per cui i ricchi diventano ancora più ricchi mentre ogni altro povero Cristo perde anche la camicia. -Dizionario degli Anarchici, Volume Chi è Che Conta ?",
-        "keywords": "Transazione",
-        "text": "Ottieni 9[credit].",
-        "title": "Fondi Speculativi"
-    },
-    {
-        "code": "01111",
-        "flavor": "\"Ehi, ehi! Svegliati, amico. Sei stato giù per un bel pò di tempo. Che cosa hai visto?\"\n\"Io... non ricordo.\"",
-        "keywords": "Portale Codificato",
-        "text": "[subroutine] Il Runner perde [click], se possibile.\n[subroutine] L'Incursione termina.",
-        "title": "Enigma"
-    },
-    {
-        "code": "01112",
-        "flavor": ".//run/hunter-tr/return=true\nclient/sec256IPv7->conferma? /y\n3926:0HB7:1001:2NB1:1601:7784:ERRORE",
-        "keywords": "Sentinella - Tracciatore - Osservatore",
-        "text": "[subroutine] <trace>Tracciamento 3</trace> Se riuscito, assegna al Runner 1 tag.",
-        "title": "Cacciatore"
-    },
-    {
-        "code": "01113",
-        "flavor": "\"Non c'è niente di peggio che vedere quella splendida sfera blu di dati che fluttua oltre la tua portata mentre il tuo collegamento si smaterializza. Secondo me lo fanno solo per prenderci in giro.\" -Ele \"Smoke\" Scovak",
-        "keywords": "Barriera",
-        "text": "[subroutine] L'Incursione termina.",
-        "title": "Muro Elettrostatico"
-    }
+  {
+    "code": "01001",
+    "flavor": "\"Sta' a guardare. Sara' divertente.\"",
+    "keywords": "Identita'",
+    "text": "Ogni volta che installi un programma <strong>virus</strong>, la Corp elimina la carta in cima a R&S.",
+    "title": "Noise: Hacker Straordinario"
+  },
+  {
+    "code": "01002",
+    "flavor": "Se vale la pena di farlo, vale la pena di farlo due volte.",
+    "text": "Aggiungi 1 carta (o fino a 2 carte <strong>virus</strong>) al tuo grip dal tuo heap.",
+    "title": "Déjà Vu"
+  },
+  {
+    "code": "01003",
+    "flavor": "Hai mai dato fuoco a qualcosa soltanto per vederla bruciare?",
+    "keywords": "Incursione - Sabotaggio",
+    "text": "Effettua un'incursione nel QG o in R&S. Puoi eliminare, senza nessun costo, qualsiasi carta a cui accedi (anche le carte che normalmente non potrebbero essere mai eliminate).",
+    "title": "Incursione demolitrice"
+  },
+  {
+    "code": "01004",
+    "keywords": "Incursione",
+    "text": "Effettua un'incursione e ottieni 9[credit], che puoi usare solo durante questa incursione. Dopo aver completato l'incursione, subisci 1 danno cerebrale (che non puo' essere impedito) e restituisci alla banca ciò dei 9[credit] che non hai speso.",
+    "title": "Stimhack"
+  },
+  {
+    "code": "01005",
+    "flavor": "Senza, mi sento quasi nudo.",
+    "keywords": "Chip",
+    "text": "1[recurring-credit]\nUsa questo credito per pagare l'uso dei <strong>rompighiaccio</strong> o per installare dei programmi <strong>virus</strong>.",
+    "title": "Cyberalimentatore"
+  },
+  {
+    "code": "01006",
+    "flavor": "\"il mio piccolo libro degli incantesimi.\" -The Whizzard",
+    "keywords": "Console",
+    "text": "+2[mu]\nOgni volta che installi un programma <strong>virus</strong>, colloca 1 segnalino virus su quel programma.\nLimite di 1 <strong>console</strong> per giocatore.",
+    "title": "Grimorio"
+  },
+  {
+    "code": "01007",
+    "flavor": "\"Se la prima volta non ci riesci, potenzialo e poi riprovaci.\" -g00ru",
+    "keywords": "Rompighiaccio - Frantumatore",
+    "text": "1[credit]: Infrangi subroutine <strong>barriera</strong>.\n1[credit]: forza +1.",
+    "title": "Corrosivo"
+  },
+  {
+    "code": "01008",
+    "keywords": "Virus",
+    "text": "Ogni volta che effettui un'incursione riuscita su un server centrale, colloca 1 segnalino virus su Risucchio Dati.\n<strong>Segnalino virus ospitato</strong>: Il pezzo di ghiaccio materializzato attualmente incontrato ha forza -1 fino alla fine dell'incontro.",
+    "title": "Risucchio Dati"
+  },
+  {
+    "code": "01009",
+    "keywords": "Daemon",
+    "text": "Djinn può ospitare fino a 3[mu] programmi che non siamo <strong>rompighiaccio</strong>.\nI costi di memoria dei programmi ospitati non vanno conteggiati al fine di determinare il tuo limite di memoria.\n[click], 1[credit]: Cerca nel tuo stack un programma <strong>virus</strong>, rivelalo e aggiungilo al tuo grip. Rimescola il tuo mazzo.",
+    "title": "Djinn"
+  },
+  {
+    "code": "01010",
+    "flavor": "Sembrava una perdita di pacchetti casuali. E invece...",
+    "keywords": "Virus",
+    "text": "Ogni volta che effettui un'incursione riuscita in R&S, colloca 1 segnalino virus sul Medium.\nOgni segnalino virus dopo il primo presente sul Medium ti consente di accedere a 1 carta aggiuntiva da R&S ogni volta che accedi a delle carte di R&S.",
+    "title": "Medium"
+  },
+  {
+    "code": "01011",
+    "flavor": "Il 5 novembre: il giorno in cui tutti vedranno le corrotte macchinazioni dell'oligarchia corporativa.",
+    "keywords": "Rompighiaccio - Killer",
+    "text": "1[credit]: Infrangi subroutine <strong>sentinella</strong>.",
+    "title": "Simulacro"
+  },
+  {
+    "code": "01012",
+    "keywords": "Virus",
+    "text": "Installa Parassita solo su un pezzo di ghiaccio materializzato.\nIl ghiaccio ospitante ha forza -1 per ogni segnalino virus presente su Parassita, e viene eliminato se la sua forza è pari o inferiore a 0.\nQuando il tuo turno ha inizio, colloca 1 segnalino virus su Parassita.",
+    "title": "Parassita"
+  },
+  {
+    "code": "01013",
+    "flavor": "Fuoco e icore...",
+    "keywords": "Rompighiaccio - IA",
+    "text": "3[credit]: Infrangi subroutine del ghiaccio su un pezzo di ghiaccio con forza pari o inferiore a 0.\n1[credit]: Il ghiaccio ha forza -1.\n1[credit]: Forza +1.",
+    "title": "Dragone"
+  },
+  {
+    "code": "01014",
+    "flavor": "Il database Yog.0 è una raccolta da più fonti di chiavi d'accesso carpite, trapelate e registrate. Se il codice del portale si trova nel database, sei dentro. Altrimenti, cambia portale!",
+    "keywords": "Rompighiaccio - decodificatore",
+    "text": "0[credit]: Infrangi subroutine <strong>Portale codificato</strong>.",
+    "title": "Yog.0"
+  },
+  {
+    "code": "01015",
+    "flavor": "Nell'immaginario collettivo c'è un confine invalicabile tra le corp e i runner. Nel mondo reale, le cose sono meno nette. Le corp hanno bisogno degli hacker migliori per gestire i loro network, e alcuni dei migliori hacker sono ex-runner a cui non dispiaceva l'idea di una busta paga regolare. Ma a volte la ruota gira in senso inverso, e qualcuno che faceva parte di una corp fabbrica una cosa del genere.",
+    "keywords": "Virtuale",
+    "text": "Tutti i pezzi di ghiaccio incontrati hanno la forza ridotta di 1.",
+    "title": "Incisore di ghiaccio"
+  },
+  {
+    "code": "01016",
+    "flavor": "\"Il posto migliore dove andare quando vuoi portare fuori il tuo cervello dalle fogne e portare le fogne nel cervello.\" -Ji \"Noise\" Reilly",
+    "keywords": "Luogo - Malfamato",
+    "text": "Quando il tuo turno ha inizio, pesca 2 carte e perdi [click].",
+    "title": "Wyldside"
+  },
+  {
+    "code": "01017",
+    "flavor": "\"Ma è ovvio che rubo ai ricchi. Sono loro che hanno tutti i soldi\".",
+    "keywords": "Cyborg",
+    "text": "La prima volta in un turno in cui effettui un'incursione riuscita nel QG, ottieni 2[credit].",
+    "title": "Gabriel Santiago: Professionista Consumato"
+  },
+  {
+    "code": "01018",
+    "keywords": "Incursione - Sabotaggio",
+    "text": "Effettua un'incursione nel QG. Se l'incursione è riuscita, invece di accedere alle carte puoi costringere la Corp a perdere fino a 5[credit], poi ottieni 2[credit] per ogni credito perduto e ricevi 2 tag.",
+    "title": "Conto prosciugato"
+  },
+  {
+    "code": "01019",
+    "flavor": "\"Ehi, ragazzino, se fai partire quell'affare adesso finirai per restare bruciato, e di brutto. Qui in giro ci sono dei soggetti davvero patetici. Ma fortunatamente ho il biglietto giusto per te...\"",
+    "keywords": "Colpo",
+    "text": "Ottieni 3[credit].",
+    "title": "Bersaglio facile"
+  },
+  {
+    "code": "01020",
+    "flavor": "L'isterismo dilagante nella stanza si diffuse lungo tutta la catena di comando corporativa, e i ranghi inferiori furono colti da un brutto presentimento di licenziamento imminente.",
+    "keywords": "sabotaggio",
+    "text": "Scegli un pezzo di ghiaccio smaterializzato. La Corporazione deve materializzare quel pezzo di ghiaccio o scartarlo.",
+    "title": "Ordini di attivazione falsificati"
+  },
+  {
+    "code": "01021",
+    "flavor": "\"Ehi, senti, non ti chiedo di fare niente di pericoloso. Solo di farmi entrare nell'edificio. E di dirmi qual è la stanza dove la sicurezza è più debole. E per favore, non dirmi di nuovo 'i bagni'\".",
+    "keywords": "Incursione",
+    "text": "Effettua un'incursione. Oltrepassa il primo pezzo di ghiaccio incontrato durante questa incursione.",
+    "title": "Colpo dell'interno"
+  },
+  {
+    "code": "01022",
+    "flavor": "Dopo aver monitorato febbrilmente la sua traversata del Pacifico, lenta a livelli frustranti, il pacco finalmente giunse a destinazione nelle ore successive...",
+    "text": "Cerca un <strong>rompighiaccio</strong>, nel tuo stack, rivelalo e aggiungilo al tuo grip. Rimescola il tuo mazzo.",
+    "title": "Ordine speciale"
+  },
+  {
+    "code": "01023",
+    "flavor": "\"Un pizzico di preparazione può portarti molto lontato\".",
+    "text": "[click], 1[credit]: Scopri 1 carta. Usa questa capacità solo se hai effettuato un'incursione riuscita nel QG in questo turno.",
+    "title": "Frangicodice Lemuria"
+  },
+  {
+    "code": "01024",
+    "keywords": "Console",
+    "text": "+1[mu]\nOttieni 1[credit] ogni volta che effettui un'incursione riuscita.\nLimite di 1 <strong>console</strong> per giocatore.",
+    "title": "Desperado"
+  },
+  {
+    "code": "01025",
+    "keywords": "Rompighiaccio - Frantumatore",
+    "text": "2[credit]: Infrangi subroutine <strong>barriera</strong>.\n2[credit]: Forza +3.",
+    "title": "Aurora"
+  },
+  {
+    "code": "01026",
+    "keywords": "Rompighiaccio - Killer",
+    "text": "1[credit]: Infrangi subroutine <strong>sentinella</strong>.\n2[credit]: Forza +1.\nQuando installi Femme Fatale, scegli un pezzo di ghiaccio installato. Quando incontri quel ghiaccio, puoi pagare 1[credit] per subroutine su quel ghiaccio al fine di oltrepassarlo.",
+    "title": "Femme fatale"
+  },
+  {
+    "code": "01027",
+    "flavor": "Il Ninja lo senti prima di vederlo... e a volte non lo vedi affatto.",
+    "keywords": "Rompighiaccio - Killer",
+    "text": "1[credit]: Infrangi subroutine <strong>sentinella</strong>.\n3[credit]: Forza +5.",
+    "title": "Ninja"
+  },
+  {
+    "code": "01028",
+    "flavor": "\"Il codice non è importante. E' dove ti porta il codice che è importante.\" -g00ru",
+    "text": "[click]: Effettua un'incursione negli Archivi. Se riuscita, considerala invece un'incursione riuscita nel QG.",
+    "title": "Accesso nascosto beta"
+  },
+  {
+    "code": "01029",
+    "keywords": "Colpo",
+    "text": "Colloca 8[credit] dalla banca al Colpo in Banca quando questo viene installato. Quando non rimane più nessun credito su Colpo in Banca, eliminalo.\nOgni volta che effettui un'incursione riuscita in un server remoto, invece di accedere alle carte, puoi prendere un numero qualsiasi di crediti da Colpo in Banca.",
+    "title": "Colpo in banca"
+  },
+  {
+    "code": "01030",
+    "flavor": "\"Il mio compagno di stanza aveva un cugino con una fidanzata al college il cui migliore amico del fratello era una assuefatto, e la mamma di quell'assuefatto una volta viveva qui. Quindi, no, non siamo degli estranei.\"",
+    "keywords": "Luogo",
+    "text": "2[recurring-credit]\nUsa questi crediti per pagare la rimozione dei tag.\n[trash]: Impedisci fino a 3 danno corpo.",
+    "title": "Rifugio abusivo"
+  },
+  {
+    "code": "01031",
+    "flavor": "Più torbido è lo spacciatore, migliore è il prezzo. Ma occhio che non sia troppo torbido. Potresti scoprire che c'è un prezzo nascosto dopo che hanno incassato il tuo pagamento.",
+    "keywords": "Contatto - Malfamato",
+    "text": "<strong>Sacrifica un obiettivo,</strong> [click]: Ottieni 9[credit].",
+    "title": "Spacciatore di dati"
+  },
+  {
+    "code": "01032",
+    "flavor": "\"Ho l'impressione che questo sia il posto sbagliato, Frank.\"\n\"Cosa te lo fa credere, D?\"\n\"I bigodini.\"",
+    "keywords": "Contatto",
+    "text": "[trash]: Evita di ricevere 1 tag.",
+    "title": "Falsa pista"
+  },
+  {
+    "code": "01033",
+    "flavor": "\"Mi stai ascoltando?\"",
+    "keywords": "Naturale",
+    "text": "Abbassa di 1 il costo di installazione del primo programma o hardware che installi a ogni turno.",
+    "title": "Kate \"Mac\" McCaffrey:Pioniere Digitale"
+  },
+  {
+    "code": "01034",
+    "flavor": "Con diesel prendi fuoco.",
+    "text": "Pesca 3 carte.",
+    "title": "Diesel"
+  },
+  {
+    "code": "01035",
+    "flavor": "Non c'è niente come un programma fatto in casa. Frutto di ore piccole, barrette di cereali e cocciutaggine. E anche più economico.",
+    "keywords": "Mod",
+    "text": "Installa un programma o un hardware, riducendo il costo di installazione di 3.",
+    "title": "Modificato"
+  },
+  {
+    "code": "01036",
+    "flavor": "\"Alcuni professionisti hanno un buon intuito, ma non riescono a vedere oltre i dati. Non riescono a vedere la matrice.\" -Ele \"Smoke\" Scovak",
+    "keywords": "Run",
+    "text": "Effettua un'incursione in R&S. Se riuscita, accedi a 2 carte aggiuntive di R&S.",
+    "title": "L'occhio del creatore"
+  },
+  {
+    "code": "01037",
+    "flavor": "\"Sai, c'è quel momento in cui tutto il mondo sembra cadere a pezzi, rimani solo tu e il tuo mod, e il mod è il mondo.\"",
+    "keywords": "Mod",
+    "text": "Scegli un pezzo di ghiaccio. Quel pezzo di ghiaccio ottiene <strong>sentinella</strong>, <strong>portale codificato</strong> e <strong>barriera</strong> fino alla fine del turno.",
+    "title": "Modifiche Anticonvenzionali"
+  },
+  {
+    "code": "01038",
+    "flavor": "La compagnia Akamatsu si fondava su tre principi: primo, fabbricare i chip di memoria più veloci sul mercato, secondo, trarne profitto, e terzo, fungere da facciata per la produzione di neuro-stimolanti illegali, E' quest'ultimo principio che forse spiega la loro fanatica fedeltà al marchio.",
+    "keywords": "Chip",
+    "text": "+1[mu]",
+    "title": "Chip di memoria Akamatsu"
+  },
+  {
+    "code": "01039",
+    "flavor": "Non è infinita, dà solo questa impressione.",
+    "keywords": "Link",
+    "text": "+1[link]\nQuando la Tana del Coniglio viene installata, puoi cercare nel tuo stack un'altra copia di Tana del Coniglio e installarla pagandone il costo di installazione. Rimescola il tuo mazzo.",
+    "title": "Tana del coniglio"
+  },
+  {
+    "code": "01040",
+    "flavor": "Uno z-loop qui, un'onda corticale lì...",
+    "keywords": "Mod",
+    "text": "Installa Il Tocco Personale solo su un <strong>rompighiaccio.</strong>\nIl <strong>rompighiaccio</strong> ospitante ha forza +1.",
+    "title": "Il tocco personale"
+  },
+  {
+    "code": "01041",
+    "keywords": "Console",
+    "text": "+2[mu] +2[link]\n2[recurring-credit]\nUsa questi crediti per pagare l'uso dei <strong>rompighiaccio.</strong>\nLimite di 1 <strong>console</strong> per giocatore.",
+    "title": "La scatola degli attrezzi"
+  },
+  {
+    "code": "01042",
+    "flavor": "\"Si chiama 'forza bruta', ed è efficace oggi quanto lo era cento anni fa\". - Kate \"Mac\" McCaffrey",
+    "keywords": "Rompighiaccio - Frantumatore",
+    "text": "2[credit]: Infrangi fino a  2 subroutine <strong>barriera</strong>.\n1[credit]: Forza +1 per il resto di questa incursione.",
+    "title": "Ariete di sfondamento"
+  },
+  {
+    "code": "01043",
+    "flavor": "Può sciogliere anche il nodo di dati più complicato.",
+    "keywords": "Rompighiaccio - decodificatore",
+    "text": "1[credit]: Infrangi subroutine <strong>portale codificato</strong>.\n1[credit]: Forza +1 per il resto di questa incursione.",
+    "title": "Lama Gordiana"
+  },
+  {
+    "code": "01044",
+    "flavor": "La Grande Opera fu completata in un piovoso giovedi pomeriggio. Non ci furoso scosse sismiche, lampi solari, o altri segni dalla terra o dal cielo a simboleggiare che il mondo era cambiato. Ma in cima al fagiolo, su Heinlein, in un singolo datacore artificiale della Cybsoft, il flusso dati tremolante di un conto iniziò a riempirsi di crediti. Crediti sani, onesti, reali, certificati dalle NU.",
+    "text": "[click]: Ottieni 2[credit].",
+    "title": "Magnum Opus"
+  },
+  {
+    "code": "01045",
+    "flavor": "Consuma energia come un terra-bot marziano, ma ti tiene concentrato.",
+    "text": "1[credit]: Impedisci il primo danno net di questo turno.",
+    "title": "Scudo Net"
+  },
+  {
+    "code": "01046",
+    "keywords": "Rompighiaccio - Killer",
+    "text": "1[credit]: Infrangi subroutine <strong>sentinella</strong>.\n2[credit]: Forza +1 per il resto di questa incursione.",
+    "title": "Tubatura"
+  },
+  {
+    "code": "01047",
+    "flavor": "Non ti conviene chiedere a Esopo del suo braccio, a meno che tu non voglia essere sommerso da un fiume di chiacchiere. E, da come ne parla, viene da chiederti perchè non si sia rimosso con il laser anche l'altro.",
+    "keywords": "Luogo - Contatto",
+    "text": "Quando il tuo turno ha inizio, puoi eliminare un'altra delle tue carte installate per ottenere 3[credit].",
+    "title": "Banco dei pegni di Esopo"
+  },
+  {
+    "code": "01048",
+    "flavor": "Le aspettative di vita di un costrutto connesso sono più o meno quelle di un moscerino. In altre parole, brevissime.",
+    "keywords": "Remoto",
+    "text": "[trash]: Impedisci l'eliminazione di un programma o di un hardware installato.",
+    "title": "Costrutto sacrificale"
+  },
+  {
+    "code": "01049",
+    "flavor": "\"Ti ricorda qualcosa, Monica?\" -John \"Animal\" McEvoy",
+    "text": "Ottieni 2[credit] o scopri 1 carta.",
+    "title": "Infiltrazione"
+  },
+  {
+    "code": "01050",
+    "flavor": "Nel suo caso, Madama Fortuna aveva la forma di un anello di manipolazione quantistica hifi che portava al dito medio.",
+    "text": "Ottieni 9[credit].",
+    "title": "Azzardo sicuro"
+  },
+  {
+    "code": "01051",
+    "keywords": "Rompighiaccio - IA - Virus",
+    "text": "1[credit]: Infrangi subroutine del ghiaccio.\n1[credit]: Forza +1.\n[click]: Colloca un segnalino virus su Crypsis.\nQuando termina un incontro con un pezzo di ghiaccio in cui hai usato Crypsis per infrangere una subroutine, rimuovi 1 segnalino virus ospitato o elimina Crypsis.",
+    "title": "Crypsis"
+  },
+  {
+    "code": "01052",
+    "flavor": "Regolò la diffusione dei display a un livello elevato e fu circondato da un cerchio di ologrammi fluttuanti. Il ping-back era solido, il livello di autorizzazione blu. Ora doveva solo trovare il luogo perfetto per un relé...",
+    "keywords": "Link",
+    "text": "+1[link]",
+    "title": "Accesso to Globalsec"
+  },
+  {
+    "code": "01053",
+    "flavor": "Lavoro noioso, ma per pagare i conti va bene.",
+    "keywords": "Colpo",
+    "text": "Colloca 12[credit] dalla banca sul Frangicodice Armitage quando viene installato. Quando non rimane più nessun credito sul Frangicodice Armitage, eliminalo.\n[click]: Prendi 2[credit] dal Frangicodice Armitage.",
+    "title": "Frangicodice Armitage"
+  },
+  {
+    "code": "01054",
+    "flavor": "Efficaci. Affidabili. Umani.",
+    "keywords": "Megacorporazione",
+    "text": "A ogni turno, la prima volta che installi una carta ottieni 1[credit].",
+    "title": "Haas-Bioroid: Progettiamo il futuro"
+  },
+  {
+    "code": "01055",
+    "keywords": "Ricerca",
+    "text": "Quando riscuoti il punteggio di Test Beta Accellerato, puoi esaminare le prime tre carte di R&S. Se tra quelle carte ci sono dei pezzi di ghiaccio, puoi installarli e materializzarli ignorando tutti i costi. Elimina le carte rimanenti che hai esaminato.",
+    "title": "Test Beta Accellerato"
+  },
+  {
+    "code": "01056",
+    "keywords": "Pubblicità",
+    "text": "Colloca 12[credit] dalla banca su Campagna Adonis quando viene materializzata. Quando non rimane più nessun credito su Campagna Adonis, eliminala.\nPrendi 3[credit] da Campagna Adonis quando il tuo turno ha inizio.",
+    "title": "Campagna Adonis"
+  },
+  {
+    "code": "01057",
+    "keywords": "Imboscata",
+    "text": "E' possibile far progredire Segreteria Aggressiva.\nSe paghi 2[credit] quando il Runner accede a Segreteria Aggressiva, elimina 1 programma per ogni segnalino progresso su Segreteria Aggressiva.",
+    "title": "Segreteria Aggressiva"
+  },
+  {
+    "code": "01058",
+    "flavor": "\"Pensi che... provino emozioni?\"",
+    "text": "Aggiungi 1 carta degli Archivi al QG.",
+    "title": "Memorie Archiviate"
+  },
+  {
+    "code": "01059",
+    "flavor": "\"Ma certamente, abbiamo sei diversi modelli Haas-Bioroide in servizio in varie posizioni soltanto in questo distaccamento. Qui alla Haas-Bioroide non esitiamo a mettere in pratica quanto raccomandiamo, e trasferiamo ciò' che viene risparmiato grazie a questa superiore efficienza ai nostri stimati clienti.\"",
+    "text": "Ottieni [click][click].",
+    "title": "Forza lavoro biotica"
+  },
+  {
+    "code": "01060",
+    "flavor": "Le nuove teste erano arrivate. Seguivano i tuoi movimenti con lo sguardo non appena sbloccavi il contenitore pressurizzato e sollevavi il coperchio.",
+    "text": "Installa immediatamente fino a 3 carte (senza spendere nessun click, ma pagando tutti costi di installazione).",
+    "title": "Spedizione dalla Mirrormorph"
+  },
+  {
+    "code": "01061",
+    "flavor": "Sento il fruscio di ogni bit che scorre nel flusso dati. Sento i sussurri delle mie madri, e i loro ordini sono legge. Al reame oltrestante è vietato accedere.",
+    "keywords": "Barriere - Bioroide - AP",
+    "text": "Il Runner può spendere [click] per infrangere una qualsiasi subroutine su Heimdall 1.0.\n[subroutine] Infligge 1 danno cerebrale.\n[subroutine] L'incursione termina.\n[subroutine] L'incursione termina.",
+    "title": "Heimdall 1.0"
+  },
+  {
+    "code": "01062",
+    "flavor": "La mia reputazione mi precederebbe, se qualcuno potesse parlarne.",
+    "keywords": "Sentinella - Bioroide - Tracciatore - Distruttore",
+    "text": "Il Runner può spendere [click] per infrangere una qualsiasi subroutine su Ichi 1.0.\n[subroutine] Elimina 1 programma.\n[subroutine] Elimina 1 programma.\n[subroutine] <trace>Tracciamento 1</trace>Se riuscito, assegna al runner 1 tag e infliggigli 1 danno cerebrale.",
+    "title": "Ichi 1.0"
+  },
+  {
+    "code": "01063",
+    "flavor": "Mi chiamo Viktor. Felice di conoscerti. Ti piacerebbe giocare con me ?",
+    "keywords": "Portale Codificato - Bioroide - AP",
+    "text": "Il Runner può spendere [click] per infrangere una qualsiasi subroutine su Viktor 1.0.\n[subroutine] Infligge 1 danno cerebrale.\n[subroutine] L'incursione termina.",
+    "title": "Viktor 1.0"
+  },
+  {
+    "code": "01064",
+    "flavor": "Whrrrrr!",
+    "keywords": "Sentinella - Distruttore",
+    "text": "[subroutine] Elimina 1 programma.\n[subroutine] L'incursione termina.",
+    "title": "Rototorretta"
+  },
+  {
+    "code": "01065",
+    "flavor": "\"Risolvo problemi.\"",
+    "keywords": "Contatto",
+    "text": "X[credit], [trash]: Scegli un pezzo di ghiaccio materializzato a protezione di questo server. Quel ghiaccio ha forza +X fino alla fine del turno.",
+    "title": "Esperto Emergenze Corporativo"
+  },
+  {
+    "code": "01066",
+    "flavor": "Floyd percepì la rabbia nell'uomo davanti a lui, che protestava furioso contro i simulanti. La sua programmazione spinse un banale concetto con cui ribattergli in cima ai suoi pensieri, e l'impulso di dargli voce fu soverchiante. Così peggiorerai soltanto le cose, pensò.",
+    "text": "Tutto il ghiaccio a protezione di questo server ha forza +1.",
+    "title": "Dati empirici"
+  },
+  {
+    "code": "01067",
+    "flavor": "Quando il tocco umano è importante.",
+    "keywords": "Megacorporazione",
+    "text": "Ogni volta che un obiettivo viene rubato o ne viene riscosso il punteggio, infliggi 1 danno net.",
+    "title": "Jinteki: Evoluzione Personale"
+  },
+  {
+    "code": "01068",
+    "keywords": "Iniziativa",
+    "text": "Colloca 1 segnalino obiettivo su Nisei MK II quando ne riscuoti il punteggio.\n<strong>Segnalino obiettivo ospitato:</strong> L'incursione termina.",
+    "title": "Nisei MK II"
+  },
+  {
+    "code": "01069",
+    "keywords": "Imboscata - Ricerca",
+    "text": "E' possibile far progredire il Progetto Junebug.\nSe paghi 1[credit] quando il Runner accede al Progetto Junebug, infliggi 2 danni net per ogni segnalino progresso sul Progetto Junebug.",
+    "title": "Progetto Junebug"
+  },
+  {
+    "code": "01070",
+    "keywords": "Imboscata",
+    "text": "Se accede a Tagliola! da R&S, il Runner deve rivelarla.\nSe paghi 4[credit] quando il Runner accede a Tagliola!, infliggi 3 danni net e assegna 1 tag al Runner. Ignora questa capacità se il Runner accede a Tagliola! dagli Archivi.",
+    "title": "Tagliola!"
+  },
+  {
+    "code": "01071",
+    "text": "Se il Runner sta per scoprire una carta, puoi materializzare Fedeltà alla Zaibatsu.\n1[credit] o [trash]: Impedisci che 1 carta venga scoperta.",
+    "title": "Fedelta' alla Zaibatsu"
+  },
+  {
+    "code": "01072",
+    "flavor": "Il difficile non è colpire la persona a cui stavi mirando. E' colpire <strong>solo</strong> la persona a cui stavi mirando.",
+    "keywords": "Operazioni Grigie",
+    "text": "Giocabile solo se il Runner ha effettuato un'incursione durante il suo ultimo turno.\nInfliggi 1 danno net.",
+    "title": "IEM Neurale"
+  },
+  {
+    "code": "01073",
+    "flavor": "C'era una nuova texture nella sua corteccia fantasma. Ma si rese conto che era lì da sempre. Era tutto e niente allo stesso tempo.",
+    "text": "Esamina le prime 5 carte di R&S e ridisponile in qualsiasi ordine.",
+    "title": "Precognizione"
+  },
+  {
+    "code": "01074",
+    "flavor": "\"Chissà dove conduce?\"",
+    "keywords": "Portale Codificato - Deflettore",
+    "text": "[subroutine] Il Runner approccia il pezzo di ghiaccio più esterno a protezione del server attaccato. Smaterializza il Portale della Cella.",
+    "title": "Porta della cella"
+  },
+  {
+    "code": "01075",
+    "flavor": "\"Hai mai avuto l'impressione di essere cibo per squali? Non ignorare quell'impressione.\" -Ji \"Noise\" Reilly",
+    "keywords": "Portale Codificato",
+    "text": "[subroutine] Il prossimo pezzo di ghiaccio incontrato dal Runner durante questa incursione ha forza +2. Infliggi 3 danni net a meno che il Runner non infranga tutte le subroutine di quel pezzo di ghiaccio.",
+    "title": "Olio su ghiaccio"
+  },
+  {
+    "code": "01076",
+    "flavor": "Accedi a FileInnocuo.datZ -> Sei sicuro? s/n",
+    "keywords": "Trappola - AP",
+    "text": "[subroutine] Infliggi 1 danno net. Elimina la Mina di Dati.",
+    "title": "Mina di dati"
+  },
+  {
+    "code": "01077",
+    "flavor": "Forgiata da Ak.wa il 23.11.79-23, Archiviata il 23.11.79-23.2 con #34k-lw3-21HH-4i.//Samurai incluso.",
+    "keywords": "Sentinella - AP",
+    "text": "[subroutine] Infliggi 3 danni net.",
+    "title": "Katana Neurale"
+  },
+  {
+    "code": "01078",
+    "flavor": "La maggior parte dei runner lavora in simulazione completa, con il rig collegato direttamente al cervello. Questo allestimento ha numerosi vantaggi, in quanto consente al runner di elaborare dati e impartire comandi assai più rapidamente di un sistema a interfaccia tattile. Ma comporta anche rischi più grandi.",
+    "keywords": "Barriera - AP",
+    "text": "[subroutine] Infliggi 2 danni net.\n[subroutine] L'incursione termina.",
+    "title": "Muro di Spine"
+  },
+  {
+    "code": "01079",
+    "flavor": "Però non chiedermi come ci riesce.",
+    "keywords": "Sysop - Eterodosso",
+    "text": "Il costo di materializzazione del ghiaccio a protezione di questo server è ridotto di 2.",
+    "title": "Akitaro Watanabe"
+  },
+  {
+    "code": "01080",
+    "flavor": "C'è sempre qualcuno che osserva.",
+    "keywords": "Megacorporazione",
+    "text": "2[recurring-credit]\nUsa questi crediti durante i tracciamenti.",
+    "title": "NBN: Creatori di notizie"
+  },
+  {
+    "code": "01081",
+    "keywords": "Iniziativa",
+    "text": "Colloca 1 segnalino obiettivo sul Programma Pilota Astroscript quando ne riscuoti il punteggio.\n<strong>Segnalino progresso ospitato:</strong> Colloca 1 segnalino progresso su una carta che è possibile far progredire.",
+    "title": "Programma Pilota AstroScript"
+  },
+  {
+    "code": "01082",
+    "text": "Quando riscuoti il punteggio di Ultime Notizie, assegna al Runner 2 tag.\nQuando il turno in cui hai riscosso il punteggio di Ultime Notizie ha termine, il Runner perde 2 tag.",
+    "title": "Ultime Notizie"
+  },
+  {
+    "code": "01083",
+    "flavor": "\"Si prega di rimanere collegati. Trasferimento proritario in corso. Un operatore verificherà pres-\"",
+    "text": "Pesca 3 carte.",
+    "title": "Segnalazione Anonima"
+  },
+  {
+    "code": "01084",
+    "keywords": "Operazioni Grigie",
+    "text": "Giocabile solo se il Runner è taggato.\nIl Runner perde tutti i crediti della sua riserva di crediti.",
+    "title": "Conto chiuso"
+  },
+  {
+    "code": "01085",
+    "flavor": "Poter accedere al più grande database di consumatori della galassia ha i suoi vantaggi.",
+    "text": "X è pari o inferiore al numero di tag posseduti dal Runner.\nColloca X segnalini progresso su una carta che puoi far progredire.",
+    "title": "Statistiche Psicografiche"
+  },
+  {
+    "code": "01086",
+    "flavor": "\"La SEA ci ha fatto notare alcuni picchi di dati, su al Castello.\" -Jerome Lock, tecnico di servizio",
+    "text": "Giocabile solo se il Runner ha effettuato un'incursione riuscita nel suo ultimo turno.\n<trace>Tracciamento 3</trace> Se riuscito, assegna al Runner 1 tag.",
+    "title": "Fonte SEA"
+  },
+  {
+    "code": "01087",
+    "keywords": "Imboscata - Struttura",
+    "text": "E' possibile far progredire il Dipartimento Fantasma.\nQuando il Runner accede al Dipartimento Fantasma, puoi assegnare al Runner 1 tag per ogni segnalino progresso presente sul Dipartimento Fantasma.",
+    "title": "Dipartimento Fantasma"
+  },
+  {
+    "code": "01088",
+    "keywords": "Sentinella - Tracciatore - Osservatore",
+    "text": "Quando il Runner incontra il Corvo di Dati, deve scegliere se ricevere un tag o terminare l'incursione.\n<strong>Segnalino potenza ospitato:</strong> Assegna al Runner 1 tag.\n[subroutine] <trace>Tracciamento 3</trace> Se riuscito, colloca 1 segnalino potenza sul Corvo di Dati.",
+    "title": "Corvo di Dati"
+  },
+  {
+    "code": "01089",
+    "flavor": "Analizzare era fantastico. Delegare i comandi si rivelò perfino migliore.",
+    "keywords": "Sentinella - Tracciatore - Osservatore",
+    "text": "Quando il Runner incontra l'Analizzatore di Matrice, puoi pagare 1 per collocare 1 segnalino progresso su una carta che è possibile far progredire.\n[subroutine] <trace>Tracciamento 2</trace> Se riuscito, assegna al Runner 1 tag.",
+    "title": "Analizzatore di Matrice"
+  },
+  {
+    "code": "01090",
+    "flavor": "\"Mai sentito parlare di comma 22?\"\n\"Ricordami di dimenticarmene.\"",
+    "keywords": "Portale Codificato",
+    "text": "Quando il Runner incontra il Casello di Pedaggio, deve pagare 3[credit], se può farlo. Se non può pagare 3[credit], l'incursione termina.\n[subroutine] L'incursione termina.",
+    "title": "Casello di Pedaggio"
+  },
+  {
+    "code": "01091",
+    "text": "Ogni volta che il Runner accede a un obiettivo di questo server, deve pagare 5[credit] come costo aggiuntivo al fine di rubarlo. Questo vale anche durante l'incursione in cui il Runner elimina lo Specchietto per le Allodole.",
+    "title": "Specchietto per le Allodole"
+  },
+  {
+    "code": "01092",
+    "flavor": "\"Ho sentito dire che la costa è bella in questo periodo dell'anno.\"\n\"Se sei nel giro giusto, è bella tutto l'anno.\"",
+    "keywords": "Regione",
+    "text": "Il requisito di progresso degli obiettivi installati su questo server è ridotto di 1.\nLimite di 1 <strong>regione</strong> per server.",
+    "title": "Griglia Cittadina SanSan"
+  },
+  {
+    "code": "01093",
+    "flavor": "La via per il cielo.",
+    "keywords": "Megacorporazione",
+    "text": "Ottieni 1[credit] ogni volta che giochi un' operazione <strong>transazione</strong>.",
+    "title": "Consorzio Weyland: Costruiamo un mondo migliore"
+  },
+  {
+    "code": "01094",
+    "flavor": "Ci sarà qualche cambiamento da queste parti.",
+    "keywords": "Espansione",
+    "text": "Quando riscuoti il punteggio di Accorpamento Ostile, ottieni 7[credit] e ricevi 1 cattiva pubblicità.",
+    "title": "Accorpamento Ostile"
+  },
+  {
+    "code": "01095",
+    "flavor": "\"Se qualche agenzia di notizie da due crediti lo trasmette, tanto meglio. Quella feccia potrebbe essersi rintanata nei vicoli di Guayaquil o nei bassifondi di BosWash. O addirittura fuori pianeta.\"",
+    "keywords": "Sicurezza",
+    "text": "Quando riscuoti il punteggio di Avviso di Taglia, puoi sacrificarlo per assegnare al Runner 1 Tag e ricevere 1 cattiva pubblicità.",
+    "title": "Avviso di Taglia"
+  },
+  {
+    "code": "01096",
+    "flavor": "\"Getta in pasto ai Federali i nostri scarti, e torneranno implorando di averne ancora.\" -Richard Polasco, VP della Cyber-Sicurezza.",
+    "keywords": "Transazione",
+    "text": "[click],elimina un pezzo di <strong>ghiaccio</strong> materializzato: Ottieni 4[credit].",
+    "title": "Subappalto di Sicurezza"
+  },
+  {
+    "code": "01097",
+    "flavor": "\"Credo che troverà i termini alquanto favorevoli.\"",
+    "text": "Giocabile solo se hai riscosso il punteggio di un obiettivo in questo turno.\nCerca 1 carta in R&S e aggiungila al QG. Rimescola R&S.",
+    "title": "Negoziati Aggressivi"
+  },
+  {
+    "code": "01098",
+    "flavor": "L'Ascensore spaziale di New Angeles, meglio noto come il Fagiolo Magico, è il più grande trionfo dell'ingegneria e dell'ingegno umano nella storia. Il Fagiolo Magico rende l'orbita terrestre accessibile a tutti... a una tariffa ragionevole.",
+    "keywords": "Transazione",
+    "text": "Ottieni 3[credit].",
+    "title": "Proventi del fagiolo magico"
+  },
+  {
+    "code": "01099",
+    "flavor": "\"Vorrei ricordare alle signore e ai signori della stampa che vari edifici rimasti danneggiati nell'esplosione erano di proprietà di compagnie sussidiarie del Consorzio Weyland...\"",
+    "keywords": "Operazioni Nere",
+    "text": "Giocabile solo se il Runner è taggato.\nInfliggi 4 danni corpo.",
+    "title": "Terra Bruciata"
+  },
+  {
+    "code": "01100",
+    "flavor": "\"E poi ci sono queste due casse. Ma sono senza eID.\"\n\"Quelle lasciale a me e scordati di averle mai viste.\"",
+    "text": "Colloca 1 segnalino progresso su ogni carta installata diversa che è possibile far progredire (fino a un massimo di 2 carte).",
+    "title": "Spedizione da Kaguya"
+  },
+  {
+    "code": "01101",
+    "flavor": "La prossima volta, leggi le Condizioni del Servizio con più attenzione. O potresti ritrovarti nella zona del pericolo.",
+    "keywords": "Sentinella - Distruttore",
+    "text": "Come costo aggiuntivo per materializzare l'Arciere, la Corp deve sacrificare un obiettivo.\n[subroutine] La Corp ottiene 2[credit].\n[subroutine] Elimina 1 programma.\n[subroutine] Elimina 1 programma.\n[subroutine] L'incursione termina.",
+    "title": "Arciere"
+  },
+  {
+    "code": "01102",
+    "flavor": "\"Era un po' megalomane, il vecchio Adriano. Però i suoi costrutti gli danno ragione.\" -g00ru",
+    "keywords": "Barriera",
+    "text": "E' possibile far progredire il Vallo di Adriano, che avrà forza +1 per ogni segnalino progresso presente su di esso.\n[subroutine] L'incursione termina.\n[subroutine] L'incursione termina.",
+    "title": "Vallo di Adriano"
+  },
+  {
+    "code": "01103",
+    "flavor": "\"Avevo chiesto del ghiaccio impenetrabile quanto un muro. Non ho capito se qualcuno giù a R&S ha un senso dell'umorismo deviato o soltanto una mente molto lineare.\" -Liz Campbell, VP Progetti Sicurezza",
+    "keywords": "Barriera",
+    "text": "E' possibile far progredire il Muro di Ghiaccio, che avrà forza +1 per ogni segnalino progresso presente su di esso.",
+    "title": "Muro di Ghiaccio"
+  },
+  {
+    "code": "01104",
+    "flavor": "Chissà quali malvagità si annidano nella memoria adamantina degli uomini? La Weyland lo sa. -cyber-graffito anonimo",
+    "keywords": "Sentinella - Tracciatore",
+    "text": "E' possibile far progredire l'Ombra, che avrà forza +1 per ogni segnalino progresso presente su di essa.\n[subroutine] La Corp ottiene 2[credit].\n[subroutine] <trace>Tracciamento 3</trace> Se riuscito, assegna al Runner 1 tag.",
+    "title": "Ombra"
+  },
+  {
+    "code": "01105",
+    "flavor": "\"Jack Weyland ha costruito il Fagiolo Magico e ha cambiato la storia della razza umana per sempre. Non vedo l'ora di scoprire cosa faranno adesso.\"",
+    "keywords": "Struttura",
+    "text": "Installabile soltanto sulla radice del QG.\n+2 al limite massimo della tua mano.",
+    "title": "Stazione di Ricerca"
+  },
+  {
+    "code": "01106",
+    "flavor": "\"Se non lo vedo sul mio terminale entro le 18:00, parecchie teste cadranno!\"",
+    "keywords": "Sicurezza",
+    "text": "Quando riscuoti il punteggio di Istanza Prioritaria, puoi materializzare un pezzo di ghiaccio ignorando tutti i costi.",
+    "title": "Istanza Prioritaria"
+  },
+  {
+    "code": "01107",
+    "flavor": "\"Costose? Non quando c'è da proteggere una fortuna vasta quanto la nostra.\"",
+    "keywords": "Sicurezza",
+    "text": "Se il Runner è taggato, Forze di Sicurezza Private ottiene \"[click]:Infliggi 1 danno corpo.\"",
+    "title": "Forze di sicurezza private"
+  },
+  {
+    "code": "01108",
+    "flavor": "\"I boss minerari sono peggiori di qualsiasi signore del crimine giù dal fagiolo. Tri-Maf, 4K, Yak, non mi importa quali organizzazioni avete laggiù. A Heinlein esiste solo una legge l' He3 deve girare.\"- Rick Henry \"il Vecchio\", clone evaso",
+    "text": "[click], [click], [click]: Ottieni 7[credit].",
+    "title": "Corp. Mineraria Melange"
+  },
+  {
+    "code": "01109",
+    "flavor": "E' come quello che hai appena comprato, ma migliore.",
+    "keywords": "Pubblicità",
+    "text": "Ottieni 1[credit] quando il tuo turno ha inizio.",
+    "title": "Campagna Pubblicitaria Pad"
+  },
+  {
+    "code": "01110",
+    "flavor": "Fondi Speculativi. Sostantivo. Un ingegnoso meccanismo per cui i ricchi diventano ancora più ricchi mentre ogni altro povero Cristo perde anche la camicia. -Dizionario degli Anarchici, Volume Chi è Che Conta ?",
+    "keywords": "Transazione",
+    "text": "Ottieni 9[credit].",
+    "title": "Fondi Speculativi"
+  },
+  {
+    "code": "01111",
+    "flavor": "\"Ehi, ehi! Svegliati, amico. Sei stato giù per un bel pò di tempo. Che cosa hai visto?\"\n\"Io... non ricordo.\"",
+    "keywords": "Portale Codificato",
+    "text": "[subroutine] Il Runner perde [click], se possibile.\n[subroutine] L'Incursione termina.",
+    "title": "Enigma"
+  },
+  {
+    "code": "01112",
+    "flavor": ".//run/hunter-tr/return=true\nclient/sec256IPv7->conferma? /y\n3926:0HB7:1001:2NB1:1601:7784:ERRORE",
+    "keywords": "Sentinella - Tracciatore - Osservatore",
+    "text": "[subroutine] <trace>Tracciamento 3</trace> Se riuscito, assegna al Runner 1 tag.",
+    "title": "Cacciatore"
+  },
+  {
+    "code": "01113",
+    "flavor": "\"Non c'è niente di peggio che vedere quella splendida sfera blu di dati che fluttua oltre la tua portata mentre il tuo collegamento si smaterializza. Secondo me lo fanno solo per prenderci in giro.\" -Ele \"Smoke\" Scovak",
+    "keywords": "Barriera",
+    "text": "[subroutine] L'Incursione termina.",
+    "title": "Muro Elettrostatico"
+  }
 ]

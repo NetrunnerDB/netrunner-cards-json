@@ -1,130 +1,130 @@
 [
-    {
-        "code": "08061",
-        "flavor": "In dieser Nacht war das System still. Ich schloss meine Augen, das leise Summen des Datenstroms lullte mich in einen Trancezustand. Als ich sie wieder öffnete, stand das Konstrukt in Gestalt eines Manns vor mir, gekleidet in viele strahlende Farben. Er war von beeindruckender Statur und seine zuckersüße Stimme drang tief in meine Seele ein.",
-        "keywords": "Ice-Brecher - KI",
-        "text": "<strong>Zerstöre eine Karte aus deinem Griff</strong>: Schalte eine Subroutine eines Ice aus.\n<strong>Zerstöre eine Karte aus deinem Griff</strong>: +2 Stärke.",
-        "title": "Faust"
-    },
-    {
-        "code": "08062",
-        "flavor": "\"Was willste kaufen?\"",
-        "keywords": "Kontakt - Zwielichtig ",
-        "text": "Wenn du Straßenhändlerin installierst, hoste die obersten 3 Karten deines Stapels verdeckt auf Straßenhändlerin (du kannst dir die Karten jederzeit ansehen).\n[trash]: Installiere 1 auf Straßenhändlerin gehostete Karte und senke dabei ihre Installationskosten um 1.",
-        "title": "Straßenhändlerin"
-    },
-    {
-        "code": "08063",
-        "flavor": "„Alles hat seinen Preis“",
-        "keywords": "G-Mod",
-        "text": "\nSobald du eine [trash] Fähigkeit nutzt, ziehe 1 Karte.",
-        "title": "Armand \"Geist\" Walker: Techlord"
-    },
-    {
-        "code": "08064",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nEnthülle 1 Karte, die in einem ausgelagerten System installiert ist. Zerstöre diese Karte, ohne Kosten zu bezahlen, falls es sich dabei um einen Aktivposten oder ein Upgrade handelt.",
-        "title": "Drive-By-Shooting"
-    },
-    {
-        "code": "08065",
-        "flavor": "Dasselbe Deck wie eine Million anderer Menschen zu verwenden, ist auch nur eine Form von Sicherheit durch Anonymität",
-        "keywords": "Konsole",
-        "text": "+1[link]\n[trash]: Vermeide oder entferne 1 Markierung.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Fälscher"
-    },
-    {
-        "code": "08066",
-        "keywords": "Ice-Brecher - Killer - Cloud",
-        "text": "Falls du mindestens 2[link] hast, sind die Speicherkosten von Improvisierter Schlitzer 0, selbst wenn es nicht installiert ist.\nImprovisierter Schlitzer hat +1 Stärke für jeden installierten  <strong>Ice-Brecher</strong>.\n[trash]: Schalte bis zu 3 Subroutinen eines <strong>Wächters</strong> aus.",
-        "title": "Improvisierter Schlitzer"
-    },
-    {
-        "code": "08067",
-        "flavor": "Muertos fürchtet das Gesetz nicht.\nMuertos ist das Gesetz.",
-        "keywords": "Virtuell",
-        "text": "Sobald der Kon die Punkte für eine Agenda erzielt, greife auf 1 Karte vom HQ zu.",
-        "title": "Gangzeichen"
-    },
-    {
-        "code": "08068",
-        "flavor": "La Senora de las Sombras gibt's und nimmts.",
-        "keywords": "Kontakt",
-        "text": "Wenn du Muertos-Gangmitglied installierst, muss der Kon eine Karte entladen.\nWenn Muertos-Gangmitglied deinstalliert wird, kann der Kon eine Karte laden, ohne die Ladekosten zu zahlen.\n[trash]: Ziehe 1 Karte.",
-        "title": "Muertos-Gangmitglied"
-    },
-    {
-        "code": "08069",
-        "keywords": "Ice-Brecher",
-        "text": "Wenn du Chamäleon installierst, benenne <strong>Wächter</strong>, <strong>Code-Zugang</strong> oder <strong>Barriere</strong>.\nFüge Chamäleon deinem Griff hinzu, wenn dein Zug endet.\n1[credit]: Schalte eine Subroutine auf einem Ice der benannten Unterart aus.",
-        "title": "Chamäleon"
-    },
-    {
-        "code": "08070",
-        "flavor": "„Er biegt die Zeit nicht wirklich. Es fühlt sich einfach nur so an. Das ist Relativität.“-Hayley Kaplan",
-        "text": "Wenn dein Zug beginnt, kannst du Hypertreiber aus dem Spiel entfernen, um [click][click][click] zu erhalten.",
-        "title": "Hypertreiber"
-    },
-    {
-        "code": "08071",
-        "flavor": "„Ist das nicht falsch?“\n„Es ist nicht illegal. Die haben das Kleingedruckte nicht gelesen.“",
-        "text": "Testgelände kann entwickelt werden.\n[trash]: Entlade 1 Karte für jeden Entwicklungsmarker auf Testgelände.",
-        "title": "Testgelände"
-    },
-    {
-        "code": "08072",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nWenn der Runner zum ersten Mal in einem Zug Hirn-Schaden nimmt, nimmt er 1 zusätzlichen Hirn-Schaden.",
-        "title": "Defekter Hirnchip"
-    },
-    {
-        "code": "08073",
-        "text": "Allel-Unterdrückung kann entwickelt werden.\n[trash]: Tausche für jeden Entwicklungsmarker auf Allel-Unterdrückung 1 Karte im HQ mit 1 Karte im Archiv aus.",
-        "title": "Allel-Unterdrückung"
-    },
-    {
-        "code": "08074",
-        "keywords": "Sysop - Psi",
-        "text": "[trash]: Du und der Runner zahlen verborgen 0[credit], 1[credit], oder 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheidet, führe 1 Subroutine auf einem geladenen Ice aus, das dieses System schützt. Verwende diese Fähigkeit nur während eines Runs auf dieses System.",
-        "title": "Marcus Batty"
-    },
-    {
-        "code": "08075",
-        "flavor": "\"Ist dein Nachbar im Geheimen ein Gewaltverbrecher? Die Antwort auf diese aufregende Frage und mehr gibt es nach der Werbepause.\" -Shannon Claire, SSN 5",
-        "text": "Enthüllung kann entwickelt werden.\n[trash]: Entferne 1 Negative Publicity für jeden Entwicklungsmarker auf Enthüllung",
-        "title": "Enthüllung"
-    },
-    {
-        "code": "08076",
-        "flavor": "Pa-pa-pa-chinko!",
-        "keywords": "Barriere",
-        "text": "[subroutine] Beende den Run, falls der Runner markiert ist.\n[subroutine] Beende den Run, falls der Runner markiert ist.",
-        "title": "Pachinko"
-    },
-    {
-        "code": "08077",
-        "keywords": "Öffentlich",
-        "text": "Installiere Sanierung von Underway offen.\nSobald du Sanierung von Underway entwickelst, zerstöre die oberste Karte des Stapels des Runners (die obersten 2 Karten, falls sich 4 oder mehr Entwicklungsmarker auf Sanierung von Underway befinden).",
-        "title": "Sanierung von Underway"
-    },
-    {
-        "code": "08078",
-        "flavor": "\"Wenn du keine Fragen gestellt bekommen willst, gib den Auftrag an jemand anderen. Ich habe zwei: Wen und wieviel?\"",
-        "keywords": "Feind",
-        "text": "Auftragsmörder kann entwickelt werden.\nFalls mindestens 2 Entwicklungsmarker auf Auftragsmörder sind, erhält er [click], [trash]: Zerstöre einen <strong>Kontakt</strong> oder verursache 2 Körper-Schaden.\"",
-        "title": "Auftragsmörder"
-    },
-    {
-        "code": "08079",
-        "flavor": "„Lass mich dir ein Geheimnis verraten. Es gibt kein undurchdringbares Ice. Es muss den Zugang erlauben, denn warum sollte das System sonst überhaupt im Netz sein? Aber das bedeutet nicht, dass sie es uns einfach machen müssen.“-g00ru",
-        "keywords": "Barriere",
-        "text": "[subroutine] Bende den Run.\n[subroutine] Bende den Run.\n[subroutine] Bende den Run.",
-        "title": "Spinnennetz"
-    },
-    {
-        "code": "08080",
-        "keywords": "Region",
-        "text": "Ice, das dieses System schützt, kann nicht umgangen werden.\nKarten, die sich in diesem System befinden oder es schützen, können nicht enthüllt werden.\nMaximal 1 <strong>Region</strong> pro System.",
-        "title": "Underway-Netz"
-    }
+  {
+    "code": "08061",
+    "flavor": "In dieser Nacht war das System still. Ich schloss meine Augen, das leise Summen des Datenstroms lullte mich in einen Trancezustand. Als ich sie wieder öffnete, stand das Konstrukt in Gestalt eines Manns vor mir, gekleidet in viele strahlende Farben. Er war von beeindruckender Statur und seine zuckersüße Stimme drang tief in meine Seele ein.",
+    "keywords": "Ice-Brecher - KI",
+    "text": "<strong>Zerstöre eine Karte aus deinem Griff</strong>: Schalte eine Subroutine eines Ice aus.\n<strong>Zerstöre eine Karte aus deinem Griff</strong>: +2 Stärke.",
+    "title": "Faust"
+  },
+  {
+    "code": "08062",
+    "flavor": "\"Was willste kaufen?\"",
+    "keywords": "Kontakt - Zwielichtig ",
+    "text": "Wenn du Straßenhändlerin installierst, hoste die obersten 3 Karten deines Stapels verdeckt auf Straßenhändlerin (du kannst dir die Karten jederzeit ansehen).\n[trash]: Installiere 1 auf Straßenhändlerin gehostete Karte und senke dabei ihre Installationskosten um 1.",
+    "title": "Straßenhändlerin"
+  },
+  {
+    "code": "08063",
+    "flavor": "„Alles hat seinen Preis“",
+    "keywords": "G-Mod",
+    "text": "\nSobald du eine [trash] Fähigkeit nutzt, ziehe 1 Karte.",
+    "title": "Armand \"Geist\" Walker: Techlord"
+  },
+  {
+    "code": "08064",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis zahle [click].\nEnthülle 1 Karte, die in einem ausgelagerten System installiert ist. Zerstöre diese Karte, ohne Kosten zu bezahlen, falls es sich dabei um einen Aktivposten oder ein Upgrade handelt.",
+    "title": "Drive-By-Shooting"
+  },
+  {
+    "code": "08065",
+    "flavor": "Dasselbe Deck wie eine Million anderer Menschen zu verwenden, ist auch nur eine Form von Sicherheit durch Anonymität",
+    "keywords": "Konsole",
+    "text": "+1[link]\n[trash]: Vermeide oder entferne 1 Markierung.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Fälscher"
+  },
+  {
+    "code": "08066",
+    "keywords": "Ice-Brecher - Killer - Cloud",
+    "text": "Falls du mindestens 2[link] hast, sind die Speicherkosten von Improvisierter Schlitzer 0, selbst wenn es nicht installiert ist.\nImprovisierter Schlitzer hat +1 Stärke für jeden installierten  <strong>Ice-Brecher</strong>.\n[trash]: Schalte bis zu 3 Subroutinen eines <strong>Wächters</strong> aus.",
+    "title": "Improvisierter Schlitzer"
+  },
+  {
+    "code": "08067",
+    "flavor": "Muertos fürchtet das Gesetz nicht.\nMuertos ist das Gesetz.",
+    "keywords": "Virtuell",
+    "text": "Sobald der Kon die Punkte für eine Agenda erzielt, greife auf 1 Karte vom HQ zu.",
+    "title": "Gangzeichen"
+  },
+  {
+    "code": "08068",
+    "flavor": "La Senora de las Sombras gibt's und nimmts.",
+    "keywords": "Kontakt",
+    "text": "Wenn du Muertos-Gangmitglied installierst, muss der Kon eine Karte entladen.\nWenn Muertos-Gangmitglied deinstalliert wird, kann der Kon eine Karte laden, ohne die Ladekosten zu zahlen.\n[trash]: Ziehe 1 Karte.",
+    "title": "Muertos-Gangmitglied"
+  },
+  {
+    "code": "08069",
+    "keywords": "Ice-Brecher",
+    "text": "Wenn du Chamäleon installierst, benenne <strong>Wächter</strong>, <strong>Code-Zugang</strong> oder <strong>Barriere</strong>.\nFüge Chamäleon deinem Griff hinzu, wenn dein Zug endet.\n1[credit]: Schalte eine Subroutine auf einem Ice der benannten Unterart aus.",
+    "title": "Chamäleon"
+  },
+  {
+    "code": "08070",
+    "flavor": "„Er biegt die Zeit nicht wirklich. Es fühlt sich einfach nur so an. Das ist Relativität.“-Hayley Kaplan",
+    "text": "Wenn dein Zug beginnt, kannst du Hypertreiber aus dem Spiel entfernen, um [click][click][click] zu erhalten.",
+    "title": "Hypertreiber"
+  },
+  {
+    "code": "08071",
+    "flavor": "„Ist das nicht falsch?“\n„Es ist nicht illegal. Die haben das Kleingedruckte nicht gelesen.“",
+    "text": "Testgelände kann entwickelt werden.\n[trash]: Entlade 1 Karte für jeden Entwicklungsmarker auf Testgelände.",
+    "title": "Testgelände"
+  },
+  {
+    "code": "08072",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nWenn der Runner zum ersten Mal in einem Zug Hirn-Schaden nimmt, nimmt er 1 zusätzlichen Hirn-Schaden.",
+    "title": "Defekter Hirnchip"
+  },
+  {
+    "code": "08073",
+    "text": "Allel-Unterdrückung kann entwickelt werden.\n[trash]: Tausche für jeden Entwicklungsmarker auf Allel-Unterdrückung 1 Karte im HQ mit 1 Karte im Archiv aus.",
+    "title": "Allel-Unterdrückung"
+  },
+  {
+    "code": "08074",
+    "keywords": "Sysop - Psi",
+    "text": "[trash]: Du und der Runner zahlen verborgen 0[credit], 1[credit], oder 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheidet, führe 1 Subroutine auf einem geladenen Ice aus, das dieses System schützt. Verwende diese Fähigkeit nur während eines Runs auf dieses System.",
+    "title": "Marcus Batty"
+  },
+  {
+    "code": "08075",
+    "flavor": "\"Ist dein Nachbar im Geheimen ein Gewaltverbrecher? Die Antwort auf diese aufregende Frage und mehr gibt es nach der Werbepause.\" -Shannon Claire, SSN 5",
+    "text": "Enthüllung kann entwickelt werden.\n[trash]: Entferne 1 Negative Publicity für jeden Entwicklungsmarker auf Enthüllung",
+    "title": "Enthüllung"
+  },
+  {
+    "code": "08076",
+    "flavor": "Pa-pa-pa-chinko!",
+    "keywords": "Barriere",
+    "text": "[subroutine] Beende den Run, falls der Runner markiert ist.\n[subroutine] Beende den Run, falls der Runner markiert ist.",
+    "title": "Pachinko"
+  },
+  {
+    "code": "08077",
+    "keywords": "Öffentlich",
+    "text": "Installiere Sanierung von Underway offen.\nSobald du Sanierung von Underway entwickelst, zerstöre die oberste Karte des Stapels des Runners (die obersten 2 Karten, falls sich 4 oder mehr Entwicklungsmarker auf Sanierung von Underway befinden).",
+    "title": "Sanierung von Underway"
+  },
+  {
+    "code": "08078",
+    "flavor": "\"Wenn du keine Fragen gestellt bekommen willst, gib den Auftrag an jemand anderen. Ich habe zwei: Wen und wieviel?\"",
+    "keywords": "Feind",
+    "text": "Auftragsmörder kann entwickelt werden.\nFalls mindestens 2 Entwicklungsmarker auf Auftragsmörder sind, erhält er [click], [trash]: Zerstöre einen <strong>Kontakt</strong> oder verursache 2 Körper-Schaden.\"",
+    "title": "Auftragsmörder"
+  },
+  {
+    "code": "08079",
+    "flavor": "„Lass mich dir ein Geheimnis verraten. Es gibt kein undurchdringbares Ice. Es muss den Zugang erlauben, denn warum sollte das System sonst überhaupt im Netz sein? Aber das bedeutet nicht, dass sie es uns einfach machen müssen.“-g00ru",
+    "keywords": "Barriere",
+    "text": "[subroutine] Bende den Run.\n[subroutine] Bende den Run.\n[subroutine] Bende den Run.",
+    "title": "Spinnennetz"
+  },
+  {
+    "code": "08080",
+    "keywords": "Region",
+    "text": "Ice, das dieses System schützt, kann nicht umgangen werden.\nKarten, die sich in diesem System befinden oder es schützen, können nicht enthüllt werden.\nMaximal 1 <strong>Region</strong> pro System.",
+    "title": "Underway-Netz"
+  }
 ]

@@ -1,135 +1,135 @@
 [
-    {
-        "code": "02061",
-        "flavor": "\"Hat meinen Arsch mehr als einmal gerettet, gibt aber ein gefährliches Gefühl von Déjà vu.\" - Whizzard",
-        "text": "[trash]: Verhindere ein Aufspüren. Das Aufspüren startet neu mit einer Grundspürstärke von 0.",
-        "title": "Störer"
-    },
-    {
-        "code": "02062",
-        "flavor": "Es schlägt immer zweimal zu.",
-        "keywords": "Ice-Brecher - Decoder",
-        "text": "2[credit]: Schalte bis zu 2 Subroutinen eines <strong>Code-Zugang</strong> aus.\n1[credit]: +1 Stärke.",
-        "title": "Naturgewalt"
-    },
-    {
-        "code": "02063",
-        "flavor": "\"Es sind hirnlose Zerstörungswerkzeuge, sonst zu nichts zu gebrauchen. Trotzdem nette Typen. Einige meine besten Freunde sind Schrubber.\" - Ji \"Noise\" Reilly",
-        "keywords": "Verbindung - Zwielichtig",
-        "text": "2[recurring-credit]\nVerwende diese Credits um Karten zu zerstören.",
-        "title": "Schrubber"
-    },
-    {
-        "code": "02064",
-        "flavor": "Doppelt so viel Spaß.",
-        "keywords": "Konsole",
-        "text": "+1[mu]\nEinmal pro Zug darfst du sofort einen weiteren Run durchführen, wenn ein erfolgreicher Run endet.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Doppelgänger"
-    },
-    {
-        "code": "02065",
-        "flavor": "Der stärkste Leim im Cyberspace.",
-        "text": "[trash]: Entlade ein Ice. Verwende diese Fähigkeit nur, nachdem du alle Subroutinen auf diesem Ice während einer einzigen Begegnung ausgeschaltet hast.",
-        "title": "Crescentus"
-    },
-    {
-        "code": "02066",
-        "flavor": "Das hab ich nicht kommen sehen.",
-        "keywords": "Ice-Brecher",
-        "text": "[trash]: Schalte eine beliebige Anzahl von Subroutinen auf <strong>AP</strong>s aus.\n[trash]: Verhindere eine beliebige menge Netz-Schaden.",
-        "title": "Deus X"
-    },
-    {
-        "code": "02067",
-        "flavor": "\"Mir doch egal, was die Studien sagen. Meiner Erfahrung nach kann ich drei Dosen Diesel pro Stunde trinken, und das zwölf Stunden lang, bevor ich einen Herzkasper bekomme.\" - Aussage in der elften Stunde.",
-        "text": "[click] und [trash]: Erhalte [click] [click].",
-        "title": "Durchgemachte Nacht"
-    },
-    {
-        "code": "02068",
-        "flavor": "Nur wenige Konzernangestellte haben so weitreichende Unbedenklichkeitserklärungen wie die Leute vom Hausmeisterteam. Die meisten Kons halten sie dummerweise für zu beschränkt, als dass sie damit Unfug treiben könnten.",
-        "keywords": "Verbindung",
-        "text": "2[recurring-credit]\nVerwende diese Credits, um Hardware zu installieren.",
-        "title": "Insider"
-    },
-    {
-        "code": "02069",
-        "flavor": "\"Mein Boss belohnt Qualitätsarbeit. Wenn du weißt, was gut für dich ist, machst du so weiter.\"",
-        "keywords": "Verbindung",
-        "text": "Wenn dein Zug beginnt, erhalte 1[credit], falls du mindestens 2[link] hast.",
-        "title": "Unterweltkontakt"
-    },
-    {
-        "code": "02070",
-        "flavor": "Grün-zwei ist die höchste Sicherheitsfreigabe, die ein Konzern erhalten kann. Naja, zumindest legal.",
-        "keywords": "Transaktion",
-        "text": "Erhalte 3[credit] und ziehe 1 Karte.",
-        "title": "Sicherheitsfreigabe Grün"
-    },
-    {
-        "code": "02071",
-        "flavor": "Die Zeit verrinnt zwischen deinen Händen",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Der Runner verliert [click], wenn möglich.\n[subroutine] Der Runner verliert [click], wenn möglich.\n[subroutine] Der Runner verliert [click], wenn möglich.",
-        "title": "Stundenglas"
-    },
-    {
-        "code": "02072",
-        "flavor": "so ruhig, so glatt\nauch an Kirschblüten rührt nicht\nDer Klang der Tempelglocke\n-Fuhaku",
-        "keywords": "Anlage",
-        "text": "2[recurring-credit]\nVerwende diese Credits um Ice zu laden.",
-        "title": "Spezialisiertes System"
-    },
-    {
-        "code": "02073",
-        "keywords": "Code-Zugang - Deflektor - Psi",
-        "text": "[subroutine]Du und der Runner zahlen verborgen 0[credit], 1[credit] or 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und dem Runner ausgegebenen Credits unterscheiden, verschiebe Ochsenfrosch, so dass er das äußerste Ice ist, das ein anderes System schützt.(Der Runner setzt seinen Run von der neuen Position aus fort und führt nun sienen Run gegen dieses neue System durch.)",
-        "title": "Ochsenfrosch"
-    },
-    {
-        "code": "02074",
-        "flavor": "Wo eine Sache endet, fängt eine andere an.",
-        "keywords": "Wächter - Spürhund",
-        "text": "[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg kann der Runner in diesem Zug keinen weiteren Run durchführen.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfikg beende den Run.",
-        "title": "Ouroboros"
-    },
-    {
-        "code": "02075",
-        "flavor": "Das ist das Netz. Wir arbeiten hier. Wir sind Polizisten.",
-        "text": "X[recurring-credit]\nVerwende diese Credits während des Aufspürens. X ist die Anzahl der Verbindungen die der Runner hat.",
-        "title": "Netzpolizei"
-    },
-    {
-        "code": "02076",
-        "flavor": "Den Cyberspace aufbauen.",
-        "keywords": "Megakon",
-        "text": "1[recurring-credit]\nVerwende diese Credits, um Ice zu entwickeln.",
-        "title": "Weyland-Konsortium: Weil wir es gebaut haben"
-    },
-    {
-        "code": "02077",
-        "flavor": "Es ist wirklich hart, einen Regierungsauftrag zu verlieren.",
-        "text": "[click], [click]: Erhalte 4[credit].",
-        "title": "Regierungsaufträge"
-    },
-    {
-        "code": "02078",
-        "flavor": "Du kommst nicht vorbei.",
-        "keywords": "Barriere",
-        "text": "Tyrann kann nur entwickelt werden, solange er geladen ist, und er erhält \"[subroutine] Beende den Run.\" für jeden Entwicklunsmarker auf ihm.",
-        "title": "Tyrann"
-    },
-    {
-        "code": "02079",
-        "keywords": "Bedingung",
-        "text": "Lade ein Ice, ohne die Kosten zu bezahlen, und installiere KI-Aufsicht auf diesem Ice als gehosteten Bedingungsmarker, mit dem Text „Zerstöre das hostende Ice, falls alle seine Subroutinen in einer einzigen Begegnung ausgeschaltet werden.“",
-        "title": "KI-Aufsicht"
-    },
-    {
-        "code": "02080",
-        "flavor": "Es sah nicht aus, wie das Hauptquartier eines milliardenschweren Konzerns. Vielleicht lags daran, dass es das auch nicht war.",
-        "keywords": "Sicherheit",
-        "text": "<strong>Aufgeben von Falsche Fährte:</strong>: Der Runner verliert [click][click], wenn möglich.",
-        "title": "Falsche Fährte"
-    }
+  {
+    "code": "02061",
+    "flavor": "\"Hat meinen Arsch mehr als einmal gerettet, gibt aber ein gefährliches Gefühl von Déjà vu.\" - Whizzard",
+    "text": "[trash]: Verhindere ein Aufspüren. Das Aufspüren startet neu mit einer Grundspürstärke von 0.",
+    "title": "Störer"
+  },
+  {
+    "code": "02062",
+    "flavor": "Es schlägt immer zweimal zu.",
+    "keywords": "Ice-Brecher - Decoder",
+    "text": "2[credit]: Schalte bis zu 2 Subroutinen eines <strong>Code-Zugang</strong> aus.\n1[credit]: +1 Stärke.",
+    "title": "Naturgewalt"
+  },
+  {
+    "code": "02063",
+    "flavor": "\"Es sind hirnlose Zerstörungswerkzeuge, sonst zu nichts zu gebrauchen. Trotzdem nette Typen. Einige meine besten Freunde sind Schrubber.\" - Ji \"Noise\" Reilly",
+    "keywords": "Verbindung - Zwielichtig",
+    "text": "2[recurring-credit]\nVerwende diese Credits um Karten zu zerstören.",
+    "title": "Schrubber"
+  },
+  {
+    "code": "02064",
+    "flavor": "Doppelt so viel Spaß.",
+    "keywords": "Konsole",
+    "text": "+1[mu]\nEinmal pro Zug darfst du sofort einen weiteren Run durchführen, wenn ein erfolgreicher Run endet.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Doppelgänger"
+  },
+  {
+    "code": "02065",
+    "flavor": "Der stärkste Leim im Cyberspace.",
+    "text": "[trash]: Entlade ein Ice. Verwende diese Fähigkeit nur, nachdem du alle Subroutinen auf diesem Ice während einer einzigen Begegnung ausgeschaltet hast.",
+    "title": "Crescentus"
+  },
+  {
+    "code": "02066",
+    "flavor": "Das hab ich nicht kommen sehen.",
+    "keywords": "Ice-Brecher",
+    "text": "[trash]: Schalte eine beliebige Anzahl von Subroutinen auf <strong>AP</strong>s aus.\n[trash]: Verhindere eine beliebige menge Netz-Schaden.",
+    "title": "Deus X"
+  },
+  {
+    "code": "02067",
+    "flavor": "\"Mir doch egal, was die Studien sagen. Meiner Erfahrung nach kann ich drei Dosen Diesel pro Stunde trinken, und das zwölf Stunden lang, bevor ich einen Herzkasper bekomme.\" - Aussage in der elften Stunde.",
+    "text": "[click] und [trash]: Erhalte [click] [click].",
+    "title": "Durchgemachte Nacht"
+  },
+  {
+    "code": "02068",
+    "flavor": "Nur wenige Konzernangestellte haben so weitreichende Unbedenklichkeitserklärungen wie die Leute vom Hausmeisterteam. Die meisten Kons halten sie dummerweise für zu beschränkt, als dass sie damit Unfug treiben könnten.",
+    "keywords": "Verbindung",
+    "text": "2[recurring-credit]\nVerwende diese Credits, um Hardware zu installieren.",
+    "title": "Insider"
+  },
+  {
+    "code": "02069",
+    "flavor": "\"Mein Boss belohnt Qualitätsarbeit. Wenn du weißt, was gut für dich ist, machst du so weiter.\"",
+    "keywords": "Verbindung",
+    "text": "Wenn dein Zug beginnt, erhalte 1[credit], falls du mindestens 2[link] hast.",
+    "title": "Unterweltkontakt"
+  },
+  {
+    "code": "02070",
+    "flavor": "Grün-zwei ist die höchste Sicherheitsfreigabe, die ein Konzern erhalten kann. Naja, zumindest legal.",
+    "keywords": "Transaktion",
+    "text": "Erhalte 3[credit] und ziehe 1 Karte.",
+    "title": "Sicherheitsfreigabe Grün"
+  },
+  {
+    "code": "02071",
+    "flavor": "Die Zeit verrinnt zwischen deinen Händen",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Der Runner verliert [click], wenn möglich.\n[subroutine] Der Runner verliert [click], wenn möglich.\n[subroutine] Der Runner verliert [click], wenn möglich.",
+    "title": "Stundenglas"
+  },
+  {
+    "code": "02072",
+    "flavor": "so ruhig, so glatt\nauch an Kirschblüten rührt nicht\nDer Klang der Tempelglocke\n-Fuhaku",
+    "keywords": "Anlage",
+    "text": "2[recurring-credit]\nVerwende diese Credits um Ice zu laden.",
+    "title": "Spezialisiertes System"
+  },
+  {
+    "code": "02073",
+    "keywords": "Code-Zugang - Deflektor - Psi",
+    "text": "[subroutine]Du und der Runner zahlen verborgen 0[credit], 1[credit] or 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und dem Runner ausgegebenen Credits unterscheiden, verschiebe Ochsenfrosch, so dass er das äußerste Ice ist, das ein anderes System schützt.(Der Runner setzt seinen Run von der neuen Position aus fort und führt nun sienen Run gegen dieses neue System durch.)",
+    "title": "Ochsenfrosch"
+  },
+  {
+    "code": "02074",
+    "flavor": "Wo eine Sache endet, fängt eine andere an.",
+    "keywords": "Wächter - Spürhund",
+    "text": "[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg kann der Runner in diesem Zug keinen weiteren Run durchführen.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfikg beende den Run.",
+    "title": "Ouroboros"
+  },
+  {
+    "code": "02075",
+    "flavor": "Das ist das Netz. Wir arbeiten hier. Wir sind Polizisten.",
+    "text": "X[recurring-credit]\nVerwende diese Credits während des Aufspürens. X ist die Anzahl der Verbindungen die der Runner hat.",
+    "title": "Netzpolizei"
+  },
+  {
+    "code": "02076",
+    "flavor": "Den Cyberspace aufbauen.",
+    "keywords": "Megakon",
+    "text": "1[recurring-credit]\nVerwende diese Credits, um Ice zu entwickeln.",
+    "title": "Weyland-Konsortium: Weil wir es gebaut haben"
+  },
+  {
+    "code": "02077",
+    "flavor": "Es ist wirklich hart, einen Regierungsauftrag zu verlieren.",
+    "text": "[click], [click]: Erhalte 4[credit].",
+    "title": "Regierungsaufträge"
+  },
+  {
+    "code": "02078",
+    "flavor": "Du kommst nicht vorbei.",
+    "keywords": "Barriere",
+    "text": "Tyrann kann nur entwickelt werden, solange er geladen ist, und er erhält \"[subroutine] Beende den Run.\" für jeden Entwicklunsmarker auf ihm.",
+    "title": "Tyrann"
+  },
+  {
+    "code": "02079",
+    "keywords": "Bedingung",
+    "text": "Lade ein Ice, ohne die Kosten zu bezahlen, und installiere KI-Aufsicht auf diesem Ice als gehosteten Bedingungsmarker, mit dem Text „Zerstöre das hostende Ice, falls alle seine Subroutinen in einer einzigen Begegnung ausgeschaltet werden.“",
+    "title": "KI-Aufsicht"
+  },
+  {
+    "code": "02080",
+    "flavor": "Es sah nicht aus, wie das Hauptquartier eines milliardenschweren Konzerns. Vielleicht lags daran, dass es das auch nicht war.",
+    "keywords": "Sicherheit",
+    "text": "<strong>Aufgeben von Falsche Fährte:</strong>: Der Runner verliert [click][click], wenn möglich.",
+    "title": "Falsche Fährte"
+  }
 ]

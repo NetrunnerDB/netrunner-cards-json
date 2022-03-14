@@ -1,38 +1,34 @@
 {
-    "$id": "https://github.com/Alsciende/netrunner-cards-json/blob/master/schema/type_schema.json",
-    "$schema": "http://json-schema.org/draft-04/schema#",
-    "additionalProperties": false,
-    "properties": {
-        "code": {
-            "minLength": 1,
-            "type": "string"
-        },
-        "is_subtype": {
-            "type": "boolean"
-        },
-        "name": {
-            "minLength": 1,
-            "type": "string"
-        },
-        "position": {
-            "type": "integer"
-        },
-        "side_code": {
-            "oneOf": [
-                {
-                    "minLength": 1,
-                    "type": "string"
-                },
-                {
-                    "type": "null"
-                }
-            ]
-        }
+  "$id": "https://github.com/Alsciende/netrunner-cards-json/blob/master/schema/type_schema.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "additionalProperties": false,
+  "properties": {
+    "code": {
+      "minLength": 1,
+      "type": "string"
     },
-    "required": [
-        "code",
-        "name",
-        "side_code"
-    ],
-    "type": "object"
+    "is_subtype": {
+      "type": "boolean"
+    },
+    "name": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "position": {
+      "type": "integer"
+    },
+    "side_code": {
+      "oneOf": [
+        {
+          "minLength": 1,
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  },
+  "required": ["code", "name", "side_code"],
+  "type": "object"
 }

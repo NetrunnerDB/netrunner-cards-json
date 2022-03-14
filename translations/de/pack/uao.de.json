@@ -1,130 +1,130 @@
 [
-    {
-        "code": "06061",
-        "flavor": "Karte entwickelt vom Weltmeister 2012 Jeremy Zwirn",
-        "keywords": "Wächter",
-        "text": "Architekt kann nicht zerstört werden, solange er installiert ist.\n[subroutine] Der Kon sieht sich die obersten 5 Karten von F&E an und darf 1 davon installieren, ohne die Kosten zu bezahlen.\n[subroutine] Der Kon darf eine Karte vom Archiv oder HQ installieren (und die Kosten dafür bezahlen).",
-        "title": "Architekt"
-    },
-    {
-        "code": "06062",
-        "flavor": "\"Systeme scharf geschaltet und einsatzbereit.\"",
-        "text": "Erhalte 1[credit] für jedes geladene Ice.",
-        "title": "Maximale Effizienz"
-    },
-    {
-        "code": "06063",
-        "keywords": "Sicherheit",
-        "text": "Lege 2 Wirkungszählers auf Labyrinthartige Systeme, wenn du die Punkte dafür erzielst.\n<strong>Gehosteter Wirkungszähler:</strong> Verhindere, dass der Runner sich ausstöpselt. Der Runner kann sich für den Rest diese Runs nicht ausstöpseln.",
-        "title": "Labyrinthartige Systeme"
-    },
-    {
-        "code": "06064",
-        "flavor": "Um durchzukommen, gehe drum herum.",
-        "keywords": "Barriere",
-        "text": "Ashigaru erhält \"[subroutine] Beende den Run.\" für jede Karte im HQ.",
-        "title": "Ashigaru"
-    },
-    {
-        "code": "06065",
-        "keywords": "Wächter - Psi - AP",
-        "text": "<strong>Gehosteter Wirkungszähler:</strong> Verursache 1 Netz-Schaden. Verwende diese Fähigkeit nur während eines Runs.\n[subroutine] Verursache 1 Netz-Schaden.\n[subroutine] Du und der Runner zahlen verborgen 0[credit], 1[credit], oder 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und dem Runner ausgegebenen Credits unterscheiden, lege 1 Wirkungszähler auf Mamba.",
-        "title": "Mamba"
-    },
-    {
-        "code": "06066",
-        "flavor": "Sich einen Namen machen hat so seine Vorteile. Aber es macht einen auch zur Zielscheibe.",
-        "keywords": "Feindlich",
-        "text": "Vertauschte Konten kann entwickelt werden.\n[click], [trash]: Der Runner verliert 4[credit] für jeden Entwicklungsmarker auf vertauschte Konten.",
-        "title": "Vertauschte Konten"
-    },
-    {
-        "code": "06067",
-        "flavor": "\"Es ist offensichtlich nur eine einmalige, kleine Gebühr. Nur, dass ich sie schon siebzehn Mal bezahlt habe.\"",
-        "keywords": "Falle",
-        "text": "[subroutine] Der Runner verliert 1[credit], außer wenn der Runner markiert ist. Falls der Runner markiert ist, verliert er alle Credits in seinem Credit-Vorrat und der Konzern zerstört Allgemeine Anschlussgebühr.",
-        "title": "Allgemeine Anschlussgebühr"
-    },
-    {
-        "code": "06068",
-        "flavor": "Unbegrenzte Energie. Vernünftige Preise.",
-        "keywords": "Kon",
-        "text": "Wenn dein Zug beginnt, darfst du 1 geladene Karte dem HQ hinzufügen und du erhältst die Credits in Höhe von dessen Ladekosten.",
-        "title": "Blue Sun: Motor der Zukunft"
-    },
-    {
-        "code": "06069",
-        "keywords": "Barriere - Verwandlung",
-        "text": "Wechselbalg kann entwickelt werden.\nSolange eine ungerade Anzahl von Entwicklungsmarkern auf Wechselbalg liegt, erhält er <strong>Wächter</strong> und verliert <strong>Barriere</strong>.\n[subroutine] Beende den Run.",
-        "title": "Wechselbalg"
-    },
-    {
-        "code": "06070",
-        "flavor": "Falls die Klone nervös waren, weil sie in einem wiederverwerteten Treibstofftank leben mussten, haben sie es doch zumindest nie erwähnt.",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nZerstöre eine beliebige Anzahl von Karten vom HQ. Du erhältst 2[credit] für jede zerstörte Karte.",
-        "title": "Wiederverwertung"
-    },
-    {
-        "code": "06071",
-        "keywords": "Quelle",
-        "text": "Wenn dein Zug beginnt, darfst du 1 Karte vom Archiv unter F&E legen.\nNur 1 pro Deck.",
-        "title": "Hades-Fragment"
-    },
-    {
-        "code": "06072",
-        "text": "[click], [click]: Lege 1 Wirkungszähler auf Razzia in den Docklands.\nDie Installationskosten der ersten Karte, die der Runner in jedem Zug installiert, werden für jeden Wirkungszähler auf Razzia in den Docklands um 1 erhöht.",
-        "title": "Razzia in den Docklands"
-    },
-    {
-        "code": "06073",
-        "flavor": "\"Wissen gibt es in den verschiedensten Formen und Ausprägungen.\" -Quetzal",
-        "text": "Decke die obersten 4 Karten deines Stapels auf und zerstöre alle aufgedeckten Programme. Du erhältst 1[credit] für jedes zerstörte Programm und fügst den Rest der aufgedeckten Karten deinem Griff hinzu.",
-        "title": "Injektion"
-    },
-    {
-        "code": "06074",
-        "flavor": "Die ersten Versuche mit Datenfaltern wurden von der traditionellen Kunst des Origami inspiriert. Genau wie ein Faltmuster der Plan für einen Kranich ist, gibt es eine Abfolge in den Daten, die bedacht werden muss, wenn man die bestmöglichen Ergebnisse erzielen will.",
-        "text": "Deine Maximale Handkartenzahl wird für jede installierte Kopie von Origami um 1 erhöht.",
-        "title": "Origami"
-    },
-    {
-        "code": "06075",
-        "flavor": "\"Du hättest wissen sollen, dass es falsch ist, daran zu kratzen…\" -Quetzal",
-        "keywords": "Virtuell",
-        "text": "Immer wenn der Kon Viruszähler löscht, verliert er wenn möglich 2[credit].",
-        "title": "Geschwür"
-    },
-    {
-        "code": "06076",
-        "flavor": "Es läuft quasi von selbst, außer wenn du in der Klemme sitzt.",
-        "text": "Installierst du während deines Zuges zum ersten Mal ein Programm aus deinem Griff, erhältst du [click].\nZerstöre Autoscripter, falls du einen nicht erfolgreichen Run durchführst.",
-        "title": "Autoscripter"
-    },
-    {
-        "code": "06077",
-        "flavor": "Klein. Kompakt. Einfach an Überwachungsprogrammen vorbeizuschmuggeln. Und es kann etwas Schaden anrichten.",
-        "keywords": "Ice-Brecher - Killer",
-        "text": "1[credit]: Schalte eine beliebige Anzahl von Subroutinen auf einem <strong>Wächter</strong> aus. Diese Fertigkeit kann nur mit Credits von einer <strong>Heimlichkeit</strong>-Karte verwendet werden.\n1[credit]: +7 Stärke. Diese Fähigkeit kann nur mit Credits von einer <strong>Heimlichkeit</strong>-Karte verwendet werden.",
-        "title": "Springmesser"
-    },
-    {
-        "code": "06078",
-        "text": "Zerstöre als zusätzliche Ausspielkosten für dieses Ereignis eine installierte Hardware.\nDu erhältst Credits in Höhe der halben Installationskosten der zerstörten Hardware (abgerundet) und darfst deinen Stapel nach einer Hardware durchsuchen, sie aufdecken und deinem Griff hinzufügen. Mische deinen Stapel.",
-        "title": "In Zahlung geben"
-    },
-    {
-        "code": "06079",
-        "flavor": "\"Es gibt kein besseres Tool zum Kartieren der leeren Räume im Netz.\" -Nasir Meidan",
-        "keywords": "Konsole",
-        "text": "+1[mu]\nZiehe 1 Karte, immer wenn der Konzern ein System erschafft.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Astrolabium"
-    },
-    {
-        "code": "06080",
-        "flavor": "\"Niedrigschwerkraftsportarten sind sehr beliebt, Spielmanipulation hat sich deshalb als sehr einträglich erwiesen.\" -Leela Patel",
-        "keywords": "Ort",
-        "text": "Lege X Wirkungszähler auf Angel-Arena, wenn sie installiert wird. Wenn keine Wirkungszähler mehr auf Angel-Arena sind, zerstöre sie.\n<strong>Gehosteter Wirkungszähler</strong>: Decke die oberste Karte deines Stapels auf. Du darfst diese Karte unter deinen Stapel legen.",
-        "title": "Angel-Arena"
-    }
+  {
+    "code": "06061",
+    "flavor": "Karte entwickelt vom Weltmeister 2012 Jeremy Zwirn",
+    "keywords": "Wächter",
+    "text": "Architekt kann nicht zerstört werden, solange er installiert ist.\n[subroutine] Der Kon sieht sich die obersten 5 Karten von F&E an und darf 1 davon installieren, ohne die Kosten zu bezahlen.\n[subroutine] Der Kon darf eine Karte vom Archiv oder HQ installieren (und die Kosten dafür bezahlen).",
+    "title": "Architekt"
+  },
+  {
+    "code": "06062",
+    "flavor": "\"Systeme scharf geschaltet und einsatzbereit.\"",
+    "text": "Erhalte 1[credit] für jedes geladene Ice.",
+    "title": "Maximale Effizienz"
+  },
+  {
+    "code": "06063",
+    "keywords": "Sicherheit",
+    "text": "Lege 2 Wirkungszählers auf Labyrinthartige Systeme, wenn du die Punkte dafür erzielst.\n<strong>Gehosteter Wirkungszähler:</strong> Verhindere, dass der Runner sich ausstöpselt. Der Runner kann sich für den Rest diese Runs nicht ausstöpseln.",
+    "title": "Labyrinthartige Systeme"
+  },
+  {
+    "code": "06064",
+    "flavor": "Um durchzukommen, gehe drum herum.",
+    "keywords": "Barriere",
+    "text": "Ashigaru erhält \"[subroutine] Beende den Run.\" für jede Karte im HQ.",
+    "title": "Ashigaru"
+  },
+  {
+    "code": "06065",
+    "keywords": "Wächter - Psi - AP",
+    "text": "<strong>Gehosteter Wirkungszähler:</strong> Verursache 1 Netz-Schaden. Verwende diese Fähigkeit nur während eines Runs.\n[subroutine] Verursache 1 Netz-Schaden.\n[subroutine] Du und der Runner zahlen verborgen 0[credit], 1[credit], oder 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und dem Runner ausgegebenen Credits unterscheiden, lege 1 Wirkungszähler auf Mamba.",
+    "title": "Mamba"
+  },
+  {
+    "code": "06066",
+    "flavor": "Sich einen Namen machen hat so seine Vorteile. Aber es macht einen auch zur Zielscheibe.",
+    "keywords": "Feindlich",
+    "text": "Vertauschte Konten kann entwickelt werden.\n[click], [trash]: Der Runner verliert 4[credit] für jeden Entwicklungsmarker auf vertauschte Konten.",
+    "title": "Vertauschte Konten"
+  },
+  {
+    "code": "06067",
+    "flavor": "\"Es ist offensichtlich nur eine einmalige, kleine Gebühr. Nur, dass ich sie schon siebzehn Mal bezahlt habe.\"",
+    "keywords": "Falle",
+    "text": "[subroutine] Der Runner verliert 1[credit], außer wenn der Runner markiert ist. Falls der Runner markiert ist, verliert er alle Credits in seinem Credit-Vorrat und der Konzern zerstört Allgemeine Anschlussgebühr.",
+    "title": "Allgemeine Anschlussgebühr"
+  },
+  {
+    "code": "06068",
+    "flavor": "Unbegrenzte Energie. Vernünftige Preise.",
+    "keywords": "Kon",
+    "text": "Wenn dein Zug beginnt, darfst du 1 geladene Karte dem HQ hinzufügen und du erhältst die Credits in Höhe von dessen Ladekosten.",
+    "title": "Blue Sun: Motor der Zukunft"
+  },
+  {
+    "code": "06069",
+    "keywords": "Barriere - Verwandlung",
+    "text": "Wechselbalg kann entwickelt werden.\nSolange eine ungerade Anzahl von Entwicklungsmarkern auf Wechselbalg liegt, erhält er <strong>Wächter</strong> und verliert <strong>Barriere</strong>.\n[subroutine] Beende den Run.",
+    "title": "Wechselbalg"
+  },
+  {
+    "code": "06070",
+    "flavor": "Falls die Klone nervös waren, weil sie in einem wiederverwerteten Treibstofftank leben mussten, haben sie es doch zumindest nie erwähnt.",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nZerstöre eine beliebige Anzahl von Karten vom HQ. Du erhältst 2[credit] für jede zerstörte Karte.",
+    "title": "Wiederverwertung"
+  },
+  {
+    "code": "06071",
+    "keywords": "Quelle",
+    "text": "Wenn dein Zug beginnt, darfst du 1 Karte vom Archiv unter F&E legen.\nNur 1 pro Deck.",
+    "title": "Hades-Fragment"
+  },
+  {
+    "code": "06072",
+    "text": "[click], [click]: Lege 1 Wirkungszähler auf Razzia in den Docklands.\nDie Installationskosten der ersten Karte, die der Runner in jedem Zug installiert, werden für jeden Wirkungszähler auf Razzia in den Docklands um 1 erhöht.",
+    "title": "Razzia in den Docklands"
+  },
+  {
+    "code": "06073",
+    "flavor": "\"Wissen gibt es in den verschiedensten Formen und Ausprägungen.\" -Quetzal",
+    "text": "Decke die obersten 4 Karten deines Stapels auf und zerstöre alle aufgedeckten Programme. Du erhältst 1[credit] für jedes zerstörte Programm und fügst den Rest der aufgedeckten Karten deinem Griff hinzu.",
+    "title": "Injektion"
+  },
+  {
+    "code": "06074",
+    "flavor": "Die ersten Versuche mit Datenfaltern wurden von der traditionellen Kunst des Origami inspiriert. Genau wie ein Faltmuster der Plan für einen Kranich ist, gibt es eine Abfolge in den Daten, die bedacht werden muss, wenn man die bestmöglichen Ergebnisse erzielen will.",
+    "text": "Deine Maximale Handkartenzahl wird für jede installierte Kopie von Origami um 1 erhöht.",
+    "title": "Origami"
+  },
+  {
+    "code": "06075",
+    "flavor": "\"Du hättest wissen sollen, dass es falsch ist, daran zu kratzen…\" -Quetzal",
+    "keywords": "Virtuell",
+    "text": "Immer wenn der Kon Viruszähler löscht, verliert er wenn möglich 2[credit].",
+    "title": "Geschwür"
+  },
+  {
+    "code": "06076",
+    "flavor": "Es läuft quasi von selbst, außer wenn du in der Klemme sitzt.",
+    "text": "Installierst du während deines Zuges zum ersten Mal ein Programm aus deinem Griff, erhältst du [click].\nZerstöre Autoscripter, falls du einen nicht erfolgreichen Run durchführst.",
+    "title": "Autoscripter"
+  },
+  {
+    "code": "06077",
+    "flavor": "Klein. Kompakt. Einfach an Überwachungsprogrammen vorbeizuschmuggeln. Und es kann etwas Schaden anrichten.",
+    "keywords": "Ice-Brecher - Killer",
+    "text": "1[credit]: Schalte eine beliebige Anzahl von Subroutinen auf einem <strong>Wächter</strong> aus. Diese Fertigkeit kann nur mit Credits von einer <strong>Heimlichkeit</strong>-Karte verwendet werden.\n1[credit]: +7 Stärke. Diese Fähigkeit kann nur mit Credits von einer <strong>Heimlichkeit</strong>-Karte verwendet werden.",
+    "title": "Springmesser"
+  },
+  {
+    "code": "06078",
+    "text": "Zerstöre als zusätzliche Ausspielkosten für dieses Ereignis eine installierte Hardware.\nDu erhältst Credits in Höhe der halben Installationskosten der zerstörten Hardware (abgerundet) und darfst deinen Stapel nach einer Hardware durchsuchen, sie aufdecken und deinem Griff hinzufügen. Mische deinen Stapel.",
+    "title": "In Zahlung geben"
+  },
+  {
+    "code": "06079",
+    "flavor": "\"Es gibt kein besseres Tool zum Kartieren der leeren Räume im Netz.\" -Nasir Meidan",
+    "keywords": "Konsole",
+    "text": "+1[mu]\nZiehe 1 Karte, immer wenn der Konzern ein System erschafft.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Astrolabium"
+  },
+  {
+    "code": "06080",
+    "flavor": "\"Niedrigschwerkraftsportarten sind sehr beliebt, Spielmanipulation hat sich deshalb als sehr einträglich erwiesen.\" -Leela Patel",
+    "keywords": "Ort",
+    "text": "Lege X Wirkungszähler auf Angel-Arena, wenn sie installiert wird. Wenn keine Wirkungszähler mehr auf Angel-Arena sind, zerstöre sie.\n<strong>Gehosteter Wirkungszähler</strong>: Decke die oberste Karte deines Stapels auf. Du darfst diese Karte unter deinen Stapel legen.",
+    "title": "Angel-Arena"
+  }
 ]

@@ -1,0 +1,16 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "khondi_plaza",
+  "influence_cost": 0,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "X recurring credits Use these credits to rez ice protecting this server. X is the number of remote servers.",
+  "stripped_title": "Khondi Plaza",
+  "subtypes": ["ritzy"],
+  "text": "X[recurring-credit]\nUse these credits to rez ice protecting this server. X is the number of remote servers.",
+  "title": "Khondi Plaza",
+  "trash_cost": 2
+}

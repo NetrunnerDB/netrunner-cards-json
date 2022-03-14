@@ -1,0 +1,15 @@
+{
+  "card_type_id": "hardware",
+  "cost": 11,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "blackguard",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "+2 mu Whenever you expose a card, the Corp must rez it by paying its rez cost, if able. Limit 1 console per player.",
+  "stripped_title": "Blackguard",
+  "subtypes": ["console"],
+  "text": "+2[mu]\nWhenever you expose a card, the Corp must rez it by paying its rez cost, if able.\nLimit 1 <strong>console</strong> per player.",
+  "title": "Blackguard"
+}

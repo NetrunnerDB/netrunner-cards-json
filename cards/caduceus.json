@@ -1,0 +1,16 @@
+{
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "caduceus",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "Subroutine Trace 3 If successful, the Corp gains 3 credits. Subroutine Trace 2 If successful, end the run.",
+  "stripped_title": "Caduceus",
+  "subtypes": ["sentry", "tracer"],
+  "text": "[subroutine] <trace>Trace 3</trace> If successful, the Corp gains 3[credit].\n[subroutine] <trace>Trace 2</trace> If successful, end the run.",
+  "title": "Caduceus"
+}

@@ -1,129 +1,129 @@
 [
-    {
-        "code": "11101",
-        "keywords": "Konsole",
-        "text": "+2[mu]\nEin Mal pro Zug, wenn du auf ein Ice triffst, kannst du dein Handkartenlimit bis zum Beginn deines nächsten Zuges um 1 senken. Falls du das tust, wird die Stärke des Ice für den Rest der Begegnung auf 0 gesenkt.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Şifr"
-    },
-    {
-        "code": "11102",
-        "flavor": "Öffne dich dem Universum.",
-        "keywords": "Ice-Breaker - Killer",
-        "text": "Wenn eine Begegnung endet, in dem du Sūnya verwendet hast, um alle Subroutinen auf diesem Ice auszuschalten, lege 1 Wirkungszähler auf Sūnya.\nSūnya hat +1 Stärke für jeden Wirkungszähler darauf.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.",
-        "title": "Sūnya"
-    },
-    {
-        "code": "11103",
-        "flavor": "\"Ein kleines Vögelchen hat mir gezwitschert, dass...\" -Khan",
-        "text": "X[credit],[trash]: Verhindere X Schaden durch eine Karte, auf die gerade zugegriffen wird.",
-        "title": "Aufklärungsdrohne"
-    },
-    {
-        "code": "11104",
-        "keywords": "Virus",
-        "text": "Kann nur installiert werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nWenn dein Zug beginnt erhälst du 1[credit] pro 5[credit] im Credit-Vorrat des Kons.\nZerstöre Tapwrm, falls der Kon Viruszähler löscht.",
-        "title": "Tapwrm"
-    },
-    {
-        "code": "11105",
-        "flavor": "\"Alles schlägt Wellen im Cyberspace. Wenn du die Wellen finden kannst, kann sich nichts verstecken.\" -Khan",
-        "text": "Wenn dein Zug beginnt, wähle ein System.\n[click],2[credit]: Führe einen Run auf das gewählte System durch. Verhindere die Ausführung der ersten Subroutine, die in diesem Run durchgeführt würde.",
-        "title": "Tracker"
-    },
-    {
-        "code": "11106",
-        "flavor": "\"Du willst im Gebiet der Los Pistoleros Geschäfte machen? Dann musst du mit mir verhandeln.\"",
-        "keywords": "Kontakt",
-        "text": "Immer wenn die Punkte für eine Agenda erzielt werden oder sie gestohlen wird, lege 2 Wirkungszähler auf Aaron Marrón.\n<strong>Gehostete Wirkungszähler:</strong> Entferne 1 Markierung und ziehe 1 Karte.",
-        "title": "Aaron Marrón"
-    },
-    {
-        "code": "11107",
-        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf F&E, HQ und Archiv durchgeführt hast.\nMache nach diesem Zug einen weiteren Zug. Entferne Zugabe aus dem Spiel, anstatt die Karte zu zerstören.",
-        "title": "Zugabe"
-    },
-    {
-        "code": "11108",
-        "flavor": "Schneller als das Auge folgen kann.",
-        "keywords": "Ice-Brecher - Killer",
-        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\nX[credit]: +X Stärke für den Rest des Runs. Diese Fähigkeit kann nur verwendet werden, wenn dafür mindestens 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgegeben wird.",
-        "title": "Fawkes"
-    },
-    {
-        "code": "11109",
-        "keywords": "Priorität",
-        "text": "Kann nur als erster [click] gespielt werden, und nur falls der Kon in seinem letzten Zug keine Punkte für Agendas erzielt hat.\nDu erhälst 10[credit]. Der Kon erhält 5[credit]. Du kannst in diesem Zug keine Runs starten.",
-        "title": "Frieden in unserer Zeit"
-    },
-    {
-        "code": "11110",
-        "keywords": "Sicherheit",
-        "text": "Lege 1 Agendazähler auf Sensornetzaktivierung, wenn du die Punkte dafür erzielst.\n<strong>Gehosteter Agendazähler:</strong> Lade ein <strong>Bioroid</strong>, ignoriere dabei sämtliche Kosten. Wenn dein Zug endet entlade diesen <strong>Bioroid</strong>.",
-        "title": "Sensornetzaktivierung"
-    },
-    {
-        "code": "11111",
-        "flavor": "Man braucht dafür einen Hexcode, biometrische Daten und muss das über einen BMI einspeisen.",
-        "keywords": "Final - Transaktion",
-        "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nErhalte 8[credit] und ziehe 4 Karten.",
-        "title": "Sicherheitsfreigabe Violett"
-    },
-    {
-        "code": "11112",
-        "flavor": "\"Ice ist nicht dafür gedacht zu töten; es soll den Runner nur verlangsamen oder verkrüppeln. Töten ist meine Aufgabe.\" - Tori Hanzō",
-        "keywords": "Barriere - AP",
-        "text": "Immer wenn der Runner eine Subroutine auf Chiyashi ausschaltet während eine <strong>KI</strong> installiert ist, zerstöre die obersten 2 Karten vom Stapel des Runners.\n[subroutine] Verursache 2 Nerz-Schaden.\n[subroutine] Verursache 2 Nerz-Schaden.\n[subroutine] Beende den Run.",
-        "title": "Chiyashi"
-    },
-    {
-        "code": "11113",
-        "keywords": "Final",
-        "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nSieh dir die obersten 5 Karten von F&E an. Falls Agendas, Aktivposten oder Upgrades darunter sind, kannst du 1 dieser Karten in ein ausgelagertes System installieren.",
-        "title": "Psychokinese"
-    },
-    {
-        "code": "11114",
-        "keywords": "Sicherheit",
-        "text": "Die Grundverbindungsstärke des Runners wird während des ersten Aufspürens in jedem Zug auf 0 gesenkt.\nImmer wenn der Runner seine Verbindungsstärke durch Zahlung von Credits erhöht, erhalte 1[credit] für jeweils 2[credit], die so ausgegeben wurden.",
-        "title": "Netzquarantäne"
-    },
-    {
-        "code": "11115",
-        "keywords": "Code Gate",
-        "text": "Falls vom F&E auf Herold zugegriffen wird, muss der Runner ihn aufdecken.\nWenn der Runner auf Herold zugreift, trifft darauf. Ignoriere diese Fähigkeit, falss der Runner vom Archiv auf Herold zugreift.\n[subroutine] Der Kon erhält 2[credit].\n[subroutine] Der Kon kann bis zu 2[credit], um genau so viele Entwicklungsmarker auf eine Karte zu legen, die entwickelt werden kann.",
-        "title": "Herold"
-    },
-    {
-        "code": "11116",
-        "flavor": "Die Wahrheit tut weh.",
-        "keywords": "Wächter - Spürhund",
-        "text": "[subroutine] Der Kon erhält 2[credit].\n[subroutine] Der Runner verliert 2[credit].\n[subroutine] <trace>Aufspüren 2</trace>Bei Erfolg verpasse dem Runner 1 Markierung.",
-        "title": "Veritas"
-    },
-    {
-        "code": "11117",
-        "flavor": "\"Mein Job? Ich biete legale Schlupflöcher und unterscheibe alles. Das zahlt sich wirklich aus.\"",
-        "keywords": "Charakter",
-        "text": "Solange der Runner weniger als 6[credit] hat, erhält Bryan Stinson gains \"[click]: Spiele eine <strong>Transatkion</strong>-Operation aus dem Archiv und ignoriere dabei sämtliche Kosten. Entferne diese <strong>Transatkion</strong> aus dem Spiel, statt sie zu zerstören.\"",
-        "title": "Bryan Stinson"
-    },
-    {
-        "code": "11118",
-        "text": "Wenn dein Zug beginnt, erhälst du 1[credit].\nImmer wenn du Credits durch die Fähigkeit einer anderen Karte als NASX erhälst, kannst du bis zu 2[credit] ausgeben, um genau so viele Wirklungszähler auf NASX zu legen.\n[click],[trash]: Erhalte 2[credit] für jeden Wirklungszähler auf NASX.",
-        "title": "NASX"
-    },
-    {
-        "code": "11119",
-        "flavor": "Eine Möglichkeit, einen Virus loszuwerden, ist, einen fieseren Virus zu besorgen.",
-        "keywords": "Code-Zugang - Spürhund",
-        "text": "[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg lösche Viruszähler.\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg zerstöre 1 <strong>Virus</strong>.\n[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg entferne einen <strong>Virus</strong> in der Ablage aus dem Spiel.\n[subroutine] <trace>Aufspüren 1</trace> Bei Erfolg beende den Run.",
-        "title": "Makrophage"
-    },
-    {
-        "code": "11120",
-        "flavor": "\"Schuldig.\"\n\"Schuldig.\"\n\"Schuldig.\"",
-        "keywords": "Wächter",
-        "text": "[subroutine] Der Runner zerstört 1 seiner installierten Karten.\n[subroutine] Der Runner zerstört 1 seiner installierten Karten.\n[subroutine] Der Runner zerstört 1 seiner installierten Karten.",
-        "title": "Tribunal"
-    }
+  {
+    "code": "11101",
+    "keywords": "Konsole",
+    "text": "+2[mu]\nEin Mal pro Zug, wenn du auf ein Ice triffst, kannst du dein Handkartenlimit bis zum Beginn deines nächsten Zuges um 1 senken. Falls du das tust, wird die Stärke des Ice für den Rest der Begegnung auf 0 gesenkt.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Şifr"
+  },
+  {
+    "code": "11102",
+    "flavor": "Öffne dich dem Universum.",
+    "keywords": "Ice-Breaker - Killer",
+    "text": "Wenn eine Begegnung endet, in dem du Sūnya verwendet hast, um alle Subroutinen auf diesem Ice auszuschalten, lege 1 Wirkungszähler auf Sūnya.\nSūnya hat +1 Stärke für jeden Wirkungszähler darauf.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.",
+    "title": "Sūnya"
+  },
+  {
+    "code": "11103",
+    "flavor": "\"Ein kleines Vögelchen hat mir gezwitschert, dass...\" -Khan",
+    "text": "X[credit],[trash]: Verhindere X Schaden durch eine Karte, auf die gerade zugegriffen wird.",
+    "title": "Aufklärungsdrohne"
+  },
+  {
+    "code": "11104",
+    "keywords": "Virus",
+    "text": "Kann nur installiert werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nWenn dein Zug beginnt erhälst du 1[credit] pro 5[credit] im Credit-Vorrat des Kons.\nZerstöre Tapwrm, falls der Kon Viruszähler löscht.",
+    "title": "Tapwrm"
+  },
+  {
+    "code": "11105",
+    "flavor": "\"Alles schlägt Wellen im Cyberspace. Wenn du die Wellen finden kannst, kann sich nichts verstecken.\" -Khan",
+    "text": "Wenn dein Zug beginnt, wähle ein System.\n[click],2[credit]: Führe einen Run auf das gewählte System durch. Verhindere die Ausführung der ersten Subroutine, die in diesem Run durchgeführt würde.",
+    "title": "Tracker"
+  },
+  {
+    "code": "11106",
+    "flavor": "\"Du willst im Gebiet der Los Pistoleros Geschäfte machen? Dann musst du mit mir verhandeln.\"",
+    "keywords": "Kontakt",
+    "text": "Immer wenn die Punkte für eine Agenda erzielt werden oder sie gestohlen wird, lege 2 Wirkungszähler auf Aaron Marrón.\n<strong>Gehostete Wirkungszähler:</strong> Entferne 1 Markierung und ziehe 1 Karte.",
+    "title": "Aaron Marrón"
+  },
+  {
+    "code": "11107",
+    "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf F&E, HQ und Archiv durchgeführt hast.\nMache nach diesem Zug einen weiteren Zug. Entferne Zugabe aus dem Spiel, anstatt die Karte zu zerstören.",
+    "title": "Zugabe"
+  },
+  {
+    "code": "11108",
+    "flavor": "Schneller als das Auge folgen kann.",
+    "keywords": "Ice-Brecher - Killer",
+    "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\nX[credit]: +X Stärke für den Rest des Runs. Diese Fähigkeit kann nur verwendet werden, wenn dafür mindestens 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgegeben wird.",
+    "title": "Fawkes"
+  },
+  {
+    "code": "11109",
+    "keywords": "Priorität",
+    "text": "Kann nur als erster [click] gespielt werden, und nur falls der Kon in seinem letzten Zug keine Punkte für Agendas erzielt hat.\nDu erhälst 10[credit]. Der Kon erhält 5[credit]. Du kannst in diesem Zug keine Runs starten.",
+    "title": "Frieden in unserer Zeit"
+  },
+  {
+    "code": "11110",
+    "keywords": "Sicherheit",
+    "text": "Lege 1 Agendazähler auf Sensornetzaktivierung, wenn du die Punkte dafür erzielst.\n<strong>Gehosteter Agendazähler:</strong> Lade ein <strong>Bioroid</strong>, ignoriere dabei sämtliche Kosten. Wenn dein Zug endet entlade diesen <strong>Bioroid</strong>.",
+    "title": "Sensornetzaktivierung"
+  },
+  {
+    "code": "11111",
+    "flavor": "Man braucht dafür einen Hexcode, biometrische Daten und muss das über einen BMI einspeisen.",
+    "keywords": "Final - Transaktion",
+    "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nErhalte 8[credit] und ziehe 4 Karten.",
+    "title": "Sicherheitsfreigabe Violett"
+  },
+  {
+    "code": "11112",
+    "flavor": "\"Ice ist nicht dafür gedacht zu töten; es soll den Runner nur verlangsamen oder verkrüppeln. Töten ist meine Aufgabe.\" - Tori Hanzō",
+    "keywords": "Barriere - AP",
+    "text": "Immer wenn der Runner eine Subroutine auf Chiyashi ausschaltet während eine <strong>KI</strong> installiert ist, zerstöre die obersten 2 Karten vom Stapel des Runners.\n[subroutine] Verursache 2 Nerz-Schaden.\n[subroutine] Verursache 2 Nerz-Schaden.\n[subroutine] Beende den Run.",
+    "title": "Chiyashi"
+  },
+  {
+    "code": "11113",
+    "keywords": "Final",
+    "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nSieh dir die obersten 5 Karten von F&E an. Falls Agendas, Aktivposten oder Upgrades darunter sind, kannst du 1 dieser Karten in ein ausgelagertes System installieren.",
+    "title": "Psychokinese"
+  },
+  {
+    "code": "11114",
+    "keywords": "Sicherheit",
+    "text": "Die Grundverbindungsstärke des Runners wird während des ersten Aufspürens in jedem Zug auf 0 gesenkt.\nImmer wenn der Runner seine Verbindungsstärke durch Zahlung von Credits erhöht, erhalte 1[credit] für jeweils 2[credit], die so ausgegeben wurden.",
+    "title": "Netzquarantäne"
+  },
+  {
+    "code": "11115",
+    "keywords": "Code Gate",
+    "text": "Falls vom F&E auf Herold zugegriffen wird, muss der Runner ihn aufdecken.\nWenn der Runner auf Herold zugreift, trifft darauf. Ignoriere diese Fähigkeit, falss der Runner vom Archiv auf Herold zugreift.\n[subroutine] Der Kon erhält 2[credit].\n[subroutine] Der Kon kann bis zu 2[credit], um genau so viele Entwicklungsmarker auf eine Karte zu legen, die entwickelt werden kann.",
+    "title": "Herold"
+  },
+  {
+    "code": "11116",
+    "flavor": "Die Wahrheit tut weh.",
+    "keywords": "Wächter - Spürhund",
+    "text": "[subroutine] Der Kon erhält 2[credit].\n[subroutine] Der Runner verliert 2[credit].\n[subroutine] <trace>Aufspüren 2</trace>Bei Erfolg verpasse dem Runner 1 Markierung.",
+    "title": "Veritas"
+  },
+  {
+    "code": "11117",
+    "flavor": "\"Mein Job? Ich biete legale Schlupflöcher und unterscheibe alles. Das zahlt sich wirklich aus.\"",
+    "keywords": "Charakter",
+    "text": "Solange der Runner weniger als 6[credit] hat, erhält Bryan Stinson gains \"[click]: Spiele eine <strong>Transatkion</strong>-Operation aus dem Archiv und ignoriere dabei sämtliche Kosten. Entferne diese <strong>Transatkion</strong> aus dem Spiel, statt sie zu zerstören.\"",
+    "title": "Bryan Stinson"
+  },
+  {
+    "code": "11118",
+    "text": "Wenn dein Zug beginnt, erhälst du 1[credit].\nImmer wenn du Credits durch die Fähigkeit einer anderen Karte als NASX erhälst, kannst du bis zu 2[credit] ausgeben, um genau so viele Wirklungszähler auf NASX zu legen.\n[click],[trash]: Erhalte 2[credit] für jeden Wirklungszähler auf NASX.",
+    "title": "NASX"
+  },
+  {
+    "code": "11119",
+    "flavor": "Eine Möglichkeit, einen Virus loszuwerden, ist, einen fieseren Virus zu besorgen.",
+    "keywords": "Code-Zugang - Spürhund",
+    "text": "[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg lösche Viruszähler.\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg zerstöre 1 <strong>Virus</strong>.\n[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg entferne einen <strong>Virus</strong> in der Ablage aus dem Spiel.\n[subroutine] <trace>Aufspüren 1</trace> Bei Erfolg beende den Run.",
+    "title": "Makrophage"
+  },
+  {
+    "code": "11120",
+    "flavor": "\"Schuldig.\"\n\"Schuldig.\"\n\"Schuldig.\"",
+    "keywords": "Wächter",
+    "text": "[subroutine] Der Runner zerstört 1 seiner installierten Karten.\n[subroutine] Der Runner zerstört 1 seiner installierten Karten.\n[subroutine] Der Runner zerstört 1 seiner installierten Karten.",
+    "title": "Tribunal"
+  }
 ]

@@ -1,0 +1,16 @@
+{
+  "card_type_id": "ice",
+  "cost": 10,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "tyr",
+  "influence_cost": 5,
+  "is_unique": true,
+  "side_id": "corp",
+  "strength": 7,
+  "stripped_text": "Lose click: Break 1 subroutine on this ice. The Corp gets +1 allotted click for their next turn. Only the Runner can use this ability. Subroutine Do 2 brain damage. Subroutine Trash 1 installed Runner card. Gain 3 credits. Subroutine End the run.",
+  "stripped_title": "Tyr",
+  "subtypes": ["sentry", "bioroid", "ap", "destroyer"],
+  "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. The Corp gets +1 allotted [click] for their next turn. Only the Runner can use this ability.\n[subroutine] Do 2 brain damage.\n[subroutine] Trash 1 installed Runner card. Gain 3[credit].\n[subroutine] End the run.",
+  "title": "Týr"
+}

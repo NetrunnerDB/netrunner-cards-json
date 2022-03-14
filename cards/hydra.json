@@ -1,0 +1,16 @@
+{
+  "card_type_id": "ice",
+  "cost": 10,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "hydra",
+  "influence_cost": 4,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 6,
+  "stripped_text": "Subroutine Do 3 net damage if the Runner is tagged; otherwise, give the Runner 1 tag. Subroutine Gain 5 credits if the Runner is tagged; otherwise, give the Runner 1 tag. Subroutine End the run if the Runner is tagged; otherwise, give the Runner 1 tag.",
+  "stripped_title": "Hydra",
+  "subtypes": ["sentry", "ap"],
+  "text": "[subroutine] Do 3 net damage if the Runner is tagged; otherwise, give the Runner 1 tag.\n[subroutine] Gain 5[credit] if the Runner is tagged; otherwise, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged; otherwise, give the Runner 1 tag.\n",
+  "title": "Hydra"
+}

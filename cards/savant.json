@@ -1,0 +1,17 @@
+{
+  "card_type_id": "program",
+  "cost": 4,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "savant",
+  "influence_cost": 3,
+  "is_unique": false,
+  "memory_cost": 2,
+  "side_id": "runner",
+  "strength": 1,
+  "stripped_text": "This program gets +1 strength for each unused MU. Interface -> 2 credits: Break 1 sentry or 2 code gate subroutines.",
+  "stripped_title": "Savant",
+  "subtypes": ["icebreaker", "killer", "decoder"],
+  "text": "This program gets +1 strength for each unused MU.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>sentry</strong> or 2 <strong>code gate</strong> subroutines.",
+  "title": "Savant"
+}

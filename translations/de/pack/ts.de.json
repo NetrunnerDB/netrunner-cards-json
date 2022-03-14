@@ -1,131 +1,131 @@
 [
-    {
-        "code": "06101",
-        "flavor": "Man braucht Energie um Energie zu erschaffen.",
-        "text": "Wenn du die Punkte für Helium-3-Vorkommen erzielst, lege bis zu 2 Wirkungszähler auf eine Karte, auf der mindestens 1 Wirkungszähler liegt.",
-        "title": "Helium-3-Vorkommen"
-    },
-    {
-        "code": "06102",
-        "flavor": "Energie aus einem auf dem Konzern gerichteten Run zu gewinnen, ist sowohl vernünftig als auch ökonomisch sinnvoll.",
-        "keywords": "Wächter",
-        "text": "[subroutine] Der Kon erhält 1[credit] oder zieht 1 Karte.\n[subroutine] Der Kon erhält 1[credit] oder zieht 1 Karte.\n[subroutine] Der Kon erhält 1[credit] oder zieht 1 Karte.",
-        "title": "Laufbursche"
-    },
-    {
-        "code": "06103",
-        "text": "[click]: Lege 1 Wirkungszähler auf IT-Abteilung.\n<strong>Gehosteter Wirkungszähler:</strong> Wähle ein geladenes Ice. Dieses Ice hat +1 Stärke bis zum Ende des Zuges für jeden Wirkungszähler (einschließlich des dafür ausgegebenen) auf IT-Abteilung.",
-        "title": "IT-Abteilung"
-    },
-    {
-        "code": "06104",
-        "flavor": "Die Schmiede darf nie erkalten.",
-        "keywords": "Barriere - Bioroid",
-        "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Markus 1.0 auszuschalten.\n[subroutine] Der Runner zuerstört 1 seiner installierten Karten.\n[subroutine] Beende den Run.",
-        "title": "Markus 1.0"
-    },
-    {
-        "code": "06105",
-        "flavor": "Erreiche das Unmögliche.",
-        "keywords": "Abteilung",
-        "text": "Die Zerstörungskosten jeder Karte werden für jede Karte im Archiv um 1 erhöht.",
-        "title": "Industrial Genomics: Wachsende Lösungen"
-    },
-    {
-        "code": "06106",
-        "flavor": "Als ein Meisterstück um Bereich der Klon- und Hardwaretechnologie gelten die von Jinteki erschaffenen Homo vacuo operae, gemeinhin Turtlebacks genannt, die über lange Zeiträume im Vakuum arbeiten können.",
-        "keywords": "Klon",
-        "text": "Du erhältst jedes Mal 1[credit], wenn du ein System erschaffst.",
-        "title": "Turtlebacks"
-    },
-    {
-        "code": "06107",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nLade 1 Ice für jede Markierung des Runners, ohne die Kosten zu bezahlen.",
-        "title": "Nach den Sternen greifen"
-    },
-    {
-        "code": "06108",
-        "flavor": "Wer hier rein will, muss den Troll-Zoll zahlen.",
-        "keywords": "Wächter",
-        "text": "Wenn der Runner auf Troll trifft, <trace>Aufspüren 2</trace> Bei Erfolg verliert der Runner [click] oder muss den Run beenden.",
-        "title": "Troll"
-    },
-    {
-        "code": "06109",
-        "flavor": "Virgo versprach Liebe,\nbot aber nur Eifersucht.",
-        "keywords": "Wächter - Spürhund",
-        "text": "[subroutine] <trace>Aufspüren 2</trace> Verpasse dem Runner bei Erfolg 1 Markierung. Falls deine Aufspürstärke 5 oder größer ist, verpasse dem Runner 1 Markierung.",
-        "title": "Virgo"
-    },
-    {
-        "code": "06110",
-        "keywords": "Quelle",
-        "text": "Als zusätzliche Kosten, um eine Agenda zu stehlen, muss der Runner 2[credit] für jeden Entwicklungsmarker auf der Agenda zahlen.\nNur 1 pro Deck.",
-        "title": "Utopia-Fragment"
-    },
-    {
-        "code": "06111",
-        "flavor": "Dort zog er das Schwert Excalibur,\nUnd über ihm, als er es zog, der Wintermond,\nDer den Rand einer langen Wolke erhellte, erschien\nUnd ließ scharf den Frost auf dem Heft glänzen:\nDenn der ganze Griff glitzerte mit funkelnden Diamanten.\nMyriaden von Topaslichtern und Zirkonen,\nUnd feinsten Edelsteinen. -Lord Tennyson",
-        "keywords": "Mythisch - Gral",
-        "text": "[subroutine] Der Runner kann in diesem Zug keinen weiteren Run durchführen.",
-        "title": "Excalibur"
-    },
-    {
-        "code": "06112",
-        "text": "Kann nur in ein ausgelagertes System installiert werden.\n[trash]: Zerstöre alle Karten, die in diesem System installiert sind, oder es beschützen und <trace>Aufspüren X</trace> Bei Erfolg verursache 3 Netz-Schaden. X ist die Anzahl zerstörter Karten. Verwende diese Fertigkeit nur während eines Runs auf dieses System.",
-        "title": "Selbstzerstörung"
-    },
-    {
-        "code": "06113",
-        "flavor": "\"Welche Schrecken brütet sie in ihrem entfremdeten Geist aus, die darauf warten, geboren zu werden? Ich würde auf einen Doppelhelix-Regenbogen mit Pandakopf wetten.\" -fakespeare",
-        "keywords": "Virus",
-        "text": "Wenn dein Zug beginnt, lege 1 Viruszähler auf Inkubator.\n[click], [trash]: Verschiebe alle Viruszähler auf ein anderes installiertes <strong>Virus</strong>-Programm.",
-        "title": "Inkubator"
-    },
-    {
-        "code": "06114",
-        "flavor": "Bohrt sich tiefer hinein als sein Gegenstück aus Alabama.",
-        "keywords": "Virus",
-        "text": "Immer, wenn der Kon mindestens 1[credit] verliert, erhältst du 1[credit].\nZerstöre Schildzecke, falls der Kon Viruszähler löscht.",
-        "title": "Schildzecke"
-    },
-    {
-        "code": "06115",
-        "keywords": "Run",
-        "text": "Führe einen Run auf F&E durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen, deinen Stapel nach einem Programm durchsuchen und es installieren. Die Installationskosten werden dabei um 3 für jedes Ice, das F&E beschützt, gesenkt; dann erhälst du 1 Markierung. Mische deinen Stapel.",
-        "title": "Code abgreifen"
-    },
-    {
-        "code": "06116",
-        "flavor": "\"Alle Programme sind untereinander verbunden. Die Daten, die durch ein laufen, laufen durch alle.\" -Rielle \"Kit\" Peddler",
-        "text": "Ziehe jedes Mal eine Karte, wenn der Kon ein Ice lädt.",
-        "title": "Kollektives Bewusstsein"
-    },
-    {
-        "code": "06117",
-        "flavor": "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης",
-        "keywords": "Ice-Brecher - Decoder - Fracter",
-        "text": "Weiser hat +1 Stärke für jede ungenutzte SE.\n2[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> oder einer <strong>Barriere</strong> aus.",
-        "title": "Weiser"
-    },
-    {
-        "code": "06118",
-        "flavor": "\"Manchmal ist es hilfreich, sich daran zu erinnern, dass man nicht die einzige Person ist, die Geld liebt.\" -Gabriel Santiago",
-        "keywords": "Run",
-        "text": "Führe einen Run durch. Während dieses Runs muss der Kon X[credit] als zusätzliche Kosten für das Laden des ersten ungeladenen Ice, auf das du triffst, zahlen.",
-        "title": "Bestechung"
-    },
-    {
-        "code": "06119",
-        "flavor": "Der Datenstrom entgleitet dir, und es fühlt sich an, wie eine zweite Geburt, wenn man sich denn an die erste erinnern könnte. Die Lungen füllen sich zum Bersten mit Luft und du atmest aus, hustend und spuckend unter dem Dämmerlicht des Raumes, das so hell scheint wie tausend Sonnen.",
-        "text": "Du erhältst 1[credit] wenn du dich ausstöpselst.",
-        "title": "Au Revoir"
-    },
-    {
-        "code": "06120",
-        "keywords": "Ort - Protzig",
-        "text": "Lege 3 Wirkungszähler auf Hotel Erdaufgang, wenn es installiert wird. Wenn keine Wirkungszähler mehr auf Hotel Erdaufgang sind, zerstöre es.\nWenn dein Zug beginnt, ziehe 2 Karten und entferne einen Wirkungszähler von Hotel Erdaufgang.",
-        "title": "Hotel Erdaufgang"
-    }
+  {
+    "code": "06101",
+    "flavor": "Man braucht Energie um Energie zu erschaffen.",
+    "text": "Wenn du die Punkte für Helium-3-Vorkommen erzielst, lege bis zu 2 Wirkungszähler auf eine Karte, auf der mindestens 1 Wirkungszähler liegt.",
+    "title": "Helium-3-Vorkommen"
+  },
+  {
+    "code": "06102",
+    "flavor": "Energie aus einem auf dem Konzern gerichteten Run zu gewinnen, ist sowohl vernünftig als auch ökonomisch sinnvoll.",
+    "keywords": "Wächter",
+    "text": "[subroutine] Der Kon erhält 1[credit] oder zieht 1 Karte.\n[subroutine] Der Kon erhält 1[credit] oder zieht 1 Karte.\n[subroutine] Der Kon erhält 1[credit] oder zieht 1 Karte.",
+    "title": "Laufbursche"
+  },
+  {
+    "code": "06103",
+    "text": "[click]: Lege 1 Wirkungszähler auf IT-Abteilung.\n<strong>Gehosteter Wirkungszähler:</strong> Wähle ein geladenes Ice. Dieses Ice hat +1 Stärke bis zum Ende des Zuges für jeden Wirkungszähler (einschließlich des dafür ausgegebenen) auf IT-Abteilung.",
+    "title": "IT-Abteilung"
+  },
+  {
+    "code": "06104",
+    "flavor": "Die Schmiede darf nie erkalten.",
+    "keywords": "Barriere - Bioroid",
+    "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Markus 1.0 auszuschalten.\n[subroutine] Der Runner zuerstört 1 seiner installierten Karten.\n[subroutine] Beende den Run.",
+    "title": "Markus 1.0"
+  },
+  {
+    "code": "06105",
+    "flavor": "Erreiche das Unmögliche.",
+    "keywords": "Abteilung",
+    "text": "Die Zerstörungskosten jeder Karte werden für jede Karte im Archiv um 1 erhöht.",
+    "title": "Industrial Genomics: Wachsende Lösungen"
+  },
+  {
+    "code": "06106",
+    "flavor": "Als ein Meisterstück um Bereich der Klon- und Hardwaretechnologie gelten die von Jinteki erschaffenen Homo vacuo operae, gemeinhin Turtlebacks genannt, die über lange Zeiträume im Vakuum arbeiten können.",
+    "keywords": "Klon",
+    "text": "Du erhältst jedes Mal 1[credit], wenn du ein System erschaffst.",
+    "title": "Turtlebacks"
+  },
+  {
+    "code": "06107",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nLade 1 Ice für jede Markierung des Runners, ohne die Kosten zu bezahlen.",
+    "title": "Nach den Sternen greifen"
+  },
+  {
+    "code": "06108",
+    "flavor": "Wer hier rein will, muss den Troll-Zoll zahlen.",
+    "keywords": "Wächter",
+    "text": "Wenn der Runner auf Troll trifft, <trace>Aufspüren 2</trace> Bei Erfolg verliert der Runner [click] oder muss den Run beenden.",
+    "title": "Troll"
+  },
+  {
+    "code": "06109",
+    "flavor": "Virgo versprach Liebe,\nbot aber nur Eifersucht.",
+    "keywords": "Wächter - Spürhund",
+    "text": "[subroutine] <trace>Aufspüren 2</trace> Verpasse dem Runner bei Erfolg 1 Markierung. Falls deine Aufspürstärke 5 oder größer ist, verpasse dem Runner 1 Markierung.",
+    "title": "Virgo"
+  },
+  {
+    "code": "06110",
+    "keywords": "Quelle",
+    "text": "Als zusätzliche Kosten, um eine Agenda zu stehlen, muss der Runner 2[credit] für jeden Entwicklungsmarker auf der Agenda zahlen.\nNur 1 pro Deck.",
+    "title": "Utopia-Fragment"
+  },
+  {
+    "code": "06111",
+    "flavor": "Dort zog er das Schwert Excalibur,\nUnd über ihm, als er es zog, der Wintermond,\nDer den Rand einer langen Wolke erhellte, erschien\nUnd ließ scharf den Frost auf dem Heft glänzen:\nDenn der ganze Griff glitzerte mit funkelnden Diamanten.\nMyriaden von Topaslichtern und Zirkonen,\nUnd feinsten Edelsteinen. -Lord Tennyson",
+    "keywords": "Mythisch - Gral",
+    "text": "[subroutine] Der Runner kann in diesem Zug keinen weiteren Run durchführen.",
+    "title": "Excalibur"
+  },
+  {
+    "code": "06112",
+    "text": "Kann nur in ein ausgelagertes System installiert werden.\n[trash]: Zerstöre alle Karten, die in diesem System installiert sind, oder es beschützen und <trace>Aufspüren X</trace> Bei Erfolg verursache 3 Netz-Schaden. X ist die Anzahl zerstörter Karten. Verwende diese Fertigkeit nur während eines Runs auf dieses System.",
+    "title": "Selbstzerstörung"
+  },
+  {
+    "code": "06113",
+    "flavor": "\"Welche Schrecken brütet sie in ihrem entfremdeten Geist aus, die darauf warten, geboren zu werden? Ich würde auf einen Doppelhelix-Regenbogen mit Pandakopf wetten.\" -fakespeare",
+    "keywords": "Virus",
+    "text": "Wenn dein Zug beginnt, lege 1 Viruszähler auf Inkubator.\n[click], [trash]: Verschiebe alle Viruszähler auf ein anderes installiertes <strong>Virus</strong>-Programm.",
+    "title": "Inkubator"
+  },
+  {
+    "code": "06114",
+    "flavor": "Bohrt sich tiefer hinein als sein Gegenstück aus Alabama.",
+    "keywords": "Virus",
+    "text": "Immer, wenn der Kon mindestens 1[credit] verliert, erhältst du 1[credit].\nZerstöre Schildzecke, falls der Kon Viruszähler löscht.",
+    "title": "Schildzecke"
+  },
+  {
+    "code": "06115",
+    "keywords": "Run",
+    "text": "Führe einen Run auf F&E durch. Bei Erfolg darfst du, statt auf Karten zuzugreifen, deinen Stapel nach einem Programm durchsuchen und es installieren. Die Installationskosten werden dabei um 3 für jedes Ice, das F&E beschützt, gesenkt; dann erhälst du 1 Markierung. Mische deinen Stapel.",
+    "title": "Code abgreifen"
+  },
+  {
+    "code": "06116",
+    "flavor": "\"Alle Programme sind untereinander verbunden. Die Daten, die durch ein laufen, laufen durch alle.\" -Rielle \"Kit\" Peddler",
+    "text": "Ziehe jedes Mal eine Karte, wenn der Kon ein Ice lädt.",
+    "title": "Kollektives Bewusstsein"
+  },
+  {
+    "code": "06117",
+    "flavor": "δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης",
+    "keywords": "Ice-Brecher - Decoder - Fracter",
+    "text": "Weiser hat +1 Stärke für jede ungenutzte SE.\n2[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> oder einer <strong>Barriere</strong> aus.",
+    "title": "Weiser"
+  },
+  {
+    "code": "06118",
+    "flavor": "\"Manchmal ist es hilfreich, sich daran zu erinnern, dass man nicht die einzige Person ist, die Geld liebt.\" -Gabriel Santiago",
+    "keywords": "Run",
+    "text": "Führe einen Run durch. Während dieses Runs muss der Kon X[credit] als zusätzliche Kosten für das Laden des ersten ungeladenen Ice, auf das du triffst, zahlen.",
+    "title": "Bestechung"
+  },
+  {
+    "code": "06119",
+    "flavor": "Der Datenstrom entgleitet dir, und es fühlt sich an, wie eine zweite Geburt, wenn man sich denn an die erste erinnern könnte. Die Lungen füllen sich zum Bersten mit Luft und du atmest aus, hustend und spuckend unter dem Dämmerlicht des Raumes, das so hell scheint wie tausend Sonnen.",
+    "text": "Du erhältst 1[credit] wenn du dich ausstöpselst.",
+    "title": "Au Revoir"
+  },
+  {
+    "code": "06120",
+    "keywords": "Ort - Protzig",
+    "text": "Lege 3 Wirkungszähler auf Hotel Erdaufgang, wenn es installiert wird. Wenn keine Wirkungszähler mehr auf Hotel Erdaufgang sind, zerstöre es.\nWenn dein Zug beginnt, ziehe 2 Karten und entferne einen Wirkungszähler von Hotel Erdaufgang.",
+    "title": "Hotel Erdaufgang"
+  }
 ]

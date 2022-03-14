@@ -1,130 +1,130 @@
 [
-    {
-        "code": "10039",
-        "keywords": "Run",
-        "text": "Führe einen Rund auf das Archiv durch. Bei Erfolg füge, statt auf Karten zuzugreifen, Politisches Graffiti als gehosteten Bedingungsmarker mit folgendem Text einer Agenda in der Punktezone des Konzerns zu: \"Diese Agenda ist -1 Agendapunkte wert. Zerstöre Politisches Graffiti, falls der Kon Viruszähler löscht.\"",
-        "title": "Politisches Graffiti"
-    },
-    {
-        "code": "10040",
-        "flavor": "\"Credits kann man überall auf der Welt ausgeben, aber es gibt auch andere Formen von Währung.\"",
-        "keywords": "Natürlich",
-        "text": "Einmal pro Zug kannst du dich ausstöpseln, wenn du auf einen <strong>Wächter</strong> triffst.",
-        "title": "Nero Severn"
-    },
-    {
-        "code": "10041",
-        "flavor": "\"Ich arbeite nach dem Prinzip 'Wissen nur bei Bedarf'. Ich habe immer Bedarf.\" - Nero Severn",
-        "keywords": "Konsole",
-        "text": "+1[mu] +1[link]\nImmer wenn du dich ausstöpselst, deckt der Kon 1 zufällige Karte vom HQ auf.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Spiegelung"
-    },
-    {
-        "code": "10042",
-        "keywords": "Endverbrauchter",
-        "text": "[click]: Sieh dir die obersten X Karten deines Stapels an und lege sie in beliebiger Reihenfolge zurück. X ist die Anzahl der installieren Kopien von Spionagekamera.\n[trash]: Sieh dir die oberste Karten von F&E an.\nMaximal 6 pro Deck.",
-        "title": "Spionagekamera"
-    },
-    {
-        "code": "10043",
-        "flavor": "Druckmittel, Geheimnisse, Zugriff und Einfluss sind genau so wertvolle Währungen wie Credits. Aber Credits funktionieren auch.",
-        "keywords": "Kontakt",
-        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf HQ durchgeführt hast.\n[trash], <strong>zahle die Zerstörungskosten einer geladenen Karte</strong>: Zerstöre diese Karte.",
-        "title": "Politischer Mitarbeiter"
-    },
-    {
-        "code": "10044",
-        "flavor": "Der Erschaffer.",
-        "keywords": "Ice-Brecher - KI - Deva",
-        "text": "1[credit]: Schalte eine Subroutine auf einem Ice mit 3 oder mehr Unterarten aus.\n1[credit]: +1 Stärke.\n2[credit]: Tausche Sadyojata gegen ein <strong>Deva</strong>-Programm aus deinem Griff aus.",
-        "title": "Sadyojata"
-    },
-    {
-        "code": "10045",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nWenn du eine Agenda stiehlst, füge \"Freiheit durch Gleichheit\" deiner Punktezone als Agenda mit dem Wert 1 Agendapunkt hinzu.",
-        "title": "\"Freiheit durch Gleichheit\""
-    },
-    {
-        "code": "10046",
-        "flavor": "\"Unsere gemeinsame Menschlichkeit ist unsere größte Stärke. Und auch durch weiteres Teilen wird unsere Stärke nicht geringer, sondern mehr.\"",
-        "keywords": "Kontakt",
-        "text": "Jeder Spieler hat 1 zusätzlichen [click], den er in seinem Zug ausgeben kann.",
-        "title": "Akshara Sareen"
-    },
-    {
-        "code": "10047",
-        "flavor": "\"Bürokratie und Verwaltungsangelegenheiten sind mittlerweile waffenfähig geworden.\"",
-        "keywords": "Kontakt",
-        "text": "Immer wenn der Kon einen Aktivposten oder ein Upgrade lädt, kannst du Credits in Höhe der Ladekosten zahlen und Stadtrat zerstören. Falls du dies tust, entlade diesen Aktivposten oder dieses Upgrade. Der Kon kann es für den Rest dieses Zuges nicht laden.",
-        "title": "Stadtrat"
-    },
-    {
-        "code": "10048",
-        "keywords": "Initiative",
-        "text": "Lege 3 Agendazähler auf Wahlmaschinen-Initiative, wenn du Punkte dafür erzielst.\nWenn der Zug des Runners beginnt, kannst du 1 gehosteten Agendazähler ausgeben. Falls du dies tust, verliert der Runner [click], wenn möglich.",
-        "title": "Wahlmaschinen-Initiative"
-    },
-    {
-        "code": "10049",
-        "flavor": "\"Unsere Forschungen ergeben, dass die Öffentlichkeit Klone für deutlich menschlicher als Bioroiden hält. Historisch gesehen war das eine Schwäche. Lasst es uns nun in eine Stärke umwandeln.\"",
-        "keywords": "Politisch",
-        "text": "Wenn dein Zug beginnt, kannst du 1 Operation aus dem Archiv dem HQ hinzufügen, falls kein Ice dieses System schützt.",
-        "title": "Bewegung für Klonwahlrecht"
-    },
-    {
-        "code": "10050",
-        "flavor": "\"Es gibt hier keinen Interessenkonflikt. Es handelt sich um komplexe Angelegenheiten mit hochtechnischen Details. Es ist nur natürlich, dass Experten die Richtlinien festlegen sollten.\"",
-        "keywords": "Politisch",
-        "text": "Wenn dein Zug beginnt, verursache 1 Netz-Schaden, falls kein Ice dieses System schützt.",
-        "title": "Bioethik-Gesellschaft"
-    },
-    {
-        "code": "10051",
-        "flavor": "\"Politik ist ein schmutziges Geschäft. Wie jedes andere Geschäft auch.\" - Krishnan Sareen",
-        "keywords": "Zwielichtig",
-        "text": "Immer wenn du eine Agenda ziehst, kannst du sie aufdecken und installieren.",
-        "title": "Politische Geschäfte"
-    },
-    {
-        "code": "10052",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder eine Agenda gestohlen wird.\nWenn du die Punkte für eine Agenda erzielst, füge \"Klone sind keine Menschen\" deiner Punktezone als Agenda mit dem Wert 1 Agendapunkt hinzu.",
-        "title": "\"Klone sind keine Menschen\""
-    },
-    {
-        "code": "10053",
-        "flavor": "Einer von Mumbads Sensie-Stars zu sein, bedeutet, ein glamouröses Leben zu führen, allerdings in der ständigen Angst, durch das organisierte Verbrechen erpresst zu werden - oder Schlimmeres.",
-        "keywords": "Politisch",
-        "text": "Wenn dein Zug beginnt, kannst du 3 Karten ziehen, falls kein Ice dieses System schützt. Falls du dies tust, lege 1 Karte vom HQ unter F&E.",
-        "title": "Sensie-Schauspielergewerkschaft"
-    },
-    {
-        "code": "10054",
-        "flavor": "\"Das Geld spricht und ich höre zu.\" - Krishnan Sareen",
-        "keywords": "Politisch",
-        "text": "Wenn dein Zug beginnt erhälst du 3[credit], falls kein Ice dieses System schützt.",
-        "title": "Ein Haufen Geschäftsbanker"
-    },
-    {
-        "code": "10055",
-        "flavor": "Mumbads öffentlicher Dienst ist eng mit allen anderen Konzernen verbunden.",
-        "keywords": "Anlage - Regierung",
-        "text": "[click]: Durchsuche F&E nach einer <strong>Bündnis</strong>-Karte, decke sie auf und spiele oder installiere sie (zahle alle Kosten). Mische F&E.",
-        "title": "Rathaus von Mumbad"
-    },
-    {
-        "code": "10056",
-        "flavor": "Effizienz bedeutet, von den Dingen zu profitieren, welche die Leute sowieso getan hätten.",
-        "keywords": "Barriere",
-        "text": "Immer wenn der Runner eine Subroutine auf Verwalter ausschaltet, erhälst du 1[credit].\n[subroutine] Beende den Run.",
-        "title": "Verwalter"
-    },
-    {
-        "code": "10057",
-        "flavor": "Das politische Zentrum Mumbads",
-        "keywords": "Region",
-        "text": "Immer wenn du eine Karte lädst, die sich in diesem System befindet oder es schützt (außer Stadtnetz von Surat selbst), kannst du eine weitere Karte laden und die Ladekosten dafür um 2 senken.\nMaximal 1 Region pro System.",
-        "title": "Stadtnetz von Surat"
-    }
+  {
+    "code": "10039",
+    "keywords": "Run",
+    "text": "Führe einen Rund auf das Archiv durch. Bei Erfolg füge, statt auf Karten zuzugreifen, Politisches Graffiti als gehosteten Bedingungsmarker mit folgendem Text einer Agenda in der Punktezone des Konzerns zu: \"Diese Agenda ist -1 Agendapunkte wert. Zerstöre Politisches Graffiti, falls der Kon Viruszähler löscht.\"",
+    "title": "Politisches Graffiti"
+  },
+  {
+    "code": "10040",
+    "flavor": "\"Credits kann man überall auf der Welt ausgeben, aber es gibt auch andere Formen von Währung.\"",
+    "keywords": "Natürlich",
+    "text": "Einmal pro Zug kannst du dich ausstöpseln, wenn du auf einen <strong>Wächter</strong> triffst.",
+    "title": "Nero Severn"
+  },
+  {
+    "code": "10041",
+    "flavor": "\"Ich arbeite nach dem Prinzip 'Wissen nur bei Bedarf'. Ich habe immer Bedarf.\" - Nero Severn",
+    "keywords": "Konsole",
+    "text": "+1[mu] +1[link]\nImmer wenn du dich ausstöpselst, deckt der Kon 1 zufällige Karte vom HQ auf.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Spiegelung"
+  },
+  {
+    "code": "10042",
+    "keywords": "Endverbrauchter",
+    "text": "[click]: Sieh dir die obersten X Karten deines Stapels an und lege sie in beliebiger Reihenfolge zurück. X ist die Anzahl der installieren Kopien von Spionagekamera.\n[trash]: Sieh dir die oberste Karten von F&E an.\nMaximal 6 pro Deck.",
+    "title": "Spionagekamera"
+  },
+  {
+    "code": "10043",
+    "flavor": "Druckmittel, Geheimnisse, Zugriff und Einfluss sind genau so wertvolle Währungen wie Credits. Aber Credits funktionieren auch.",
+    "keywords": "Kontakt",
+    "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf HQ durchgeführt hast.\n[trash], <strong>zahle die Zerstörungskosten einer geladenen Karte</strong>: Zerstöre diese Karte.",
+    "title": "Politischer Mitarbeiter"
+  },
+  {
+    "code": "10044",
+    "flavor": "Der Erschaffer.",
+    "keywords": "Ice-Brecher - KI - Deva",
+    "text": "1[credit]: Schalte eine Subroutine auf einem Ice mit 3 oder mehr Unterarten aus.\n1[credit]: +1 Stärke.\n2[credit]: Tausche Sadyojata gegen ein <strong>Deva</strong>-Programm aus deinem Griff aus.",
+    "title": "Sadyojata"
+  },
+  {
+    "code": "10045",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder die Punkte für eine Agenda erzielt werden.\nWenn du eine Agenda stiehlst, füge \"Freiheit durch Gleichheit\" deiner Punktezone als Agenda mit dem Wert 1 Agendapunkt hinzu.",
+    "title": "\"Freiheit durch Gleichheit\""
+  },
+  {
+    "code": "10046",
+    "flavor": "\"Unsere gemeinsame Menschlichkeit ist unsere größte Stärke. Und auch durch weiteres Teilen wird unsere Stärke nicht geringer, sondern mehr.\"",
+    "keywords": "Kontakt",
+    "text": "Jeder Spieler hat 1 zusätzlichen [click], den er in seinem Zug ausgeben kann.",
+    "title": "Akshara Sareen"
+  },
+  {
+    "code": "10047",
+    "flavor": "\"Bürokratie und Verwaltungsangelegenheiten sind mittlerweile waffenfähig geworden.\"",
+    "keywords": "Kontakt",
+    "text": "Immer wenn der Kon einen Aktivposten oder ein Upgrade lädt, kannst du Credits in Höhe der Ladekosten zahlen und Stadtrat zerstören. Falls du dies tust, entlade diesen Aktivposten oder dieses Upgrade. Der Kon kann es für den Rest dieses Zuges nicht laden.",
+    "title": "Stadtrat"
+  },
+  {
+    "code": "10048",
+    "keywords": "Initiative",
+    "text": "Lege 3 Agendazähler auf Wahlmaschinen-Initiative, wenn du Punkte dafür erzielst.\nWenn der Zug des Runners beginnt, kannst du 1 gehosteten Agendazähler ausgeben. Falls du dies tust, verliert der Runner [click], wenn möglich.",
+    "title": "Wahlmaschinen-Initiative"
+  },
+  {
+    "code": "10049",
+    "flavor": "\"Unsere Forschungen ergeben, dass die Öffentlichkeit Klone für deutlich menschlicher als Bioroiden hält. Historisch gesehen war das eine Schwäche. Lasst es uns nun in eine Stärke umwandeln.\"",
+    "keywords": "Politisch",
+    "text": "Wenn dein Zug beginnt, kannst du 1 Operation aus dem Archiv dem HQ hinzufügen, falls kein Ice dieses System schützt.",
+    "title": "Bewegung für Klonwahlrecht"
+  },
+  {
+    "code": "10050",
+    "flavor": "\"Es gibt hier keinen Interessenkonflikt. Es handelt sich um komplexe Angelegenheiten mit hochtechnischen Details. Es ist nur natürlich, dass Experten die Richtlinien festlegen sollten.\"",
+    "keywords": "Politisch",
+    "text": "Wenn dein Zug beginnt, verursache 1 Netz-Schaden, falls kein Ice dieses System schützt.",
+    "title": "Bioethik-Gesellschaft"
+  },
+  {
+    "code": "10051",
+    "flavor": "\"Politik ist ein schmutziges Geschäft. Wie jedes andere Geschäft auch.\" - Krishnan Sareen",
+    "keywords": "Zwielichtig",
+    "text": "Immer wenn du eine Agenda ziehst, kannst du sie aufdecken und installieren.",
+    "title": "Politische Geschäfte"
+  },
+  {
+    "code": "10052",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt wird oder eine Agenda gestohlen wird.\nWenn du die Punkte für eine Agenda erzielst, füge \"Klone sind keine Menschen\" deiner Punktezone als Agenda mit dem Wert 1 Agendapunkt hinzu.",
+    "title": "\"Klone sind keine Menschen\""
+  },
+  {
+    "code": "10053",
+    "flavor": "Einer von Mumbads Sensie-Stars zu sein, bedeutet, ein glamouröses Leben zu führen, allerdings in der ständigen Angst, durch das organisierte Verbrechen erpresst zu werden - oder Schlimmeres.",
+    "keywords": "Politisch",
+    "text": "Wenn dein Zug beginnt, kannst du 3 Karten ziehen, falls kein Ice dieses System schützt. Falls du dies tust, lege 1 Karte vom HQ unter F&E.",
+    "title": "Sensie-Schauspielergewerkschaft"
+  },
+  {
+    "code": "10054",
+    "flavor": "\"Das Geld spricht und ich höre zu.\" - Krishnan Sareen",
+    "keywords": "Politisch",
+    "text": "Wenn dein Zug beginnt erhälst du 3[credit], falls kein Ice dieses System schützt.",
+    "title": "Ein Haufen Geschäftsbanker"
+  },
+  {
+    "code": "10055",
+    "flavor": "Mumbads öffentlicher Dienst ist eng mit allen anderen Konzernen verbunden.",
+    "keywords": "Anlage - Regierung",
+    "text": "[click]: Durchsuche F&E nach einer <strong>Bündnis</strong>-Karte, decke sie auf und spiele oder installiere sie (zahle alle Kosten). Mische F&E.",
+    "title": "Rathaus von Mumbad"
+  },
+  {
+    "code": "10056",
+    "flavor": "Effizienz bedeutet, von den Dingen zu profitieren, welche die Leute sowieso getan hätten.",
+    "keywords": "Barriere",
+    "text": "Immer wenn der Runner eine Subroutine auf Verwalter ausschaltet, erhälst du 1[credit].\n[subroutine] Beende den Run.",
+    "title": "Verwalter"
+  },
+  {
+    "code": "10057",
+    "flavor": "Das politische Zentrum Mumbads",
+    "keywords": "Region",
+    "text": "Immer wenn du eine Karte lädst, die sich in diesem System befindet oder es schützt (außer Stadtnetz von Surat selbst), kannst du eine weitere Karte laden und die Ladekosten dafür um 2 senken.\nMaximal 1 Region pro System.",
+    "title": "Stadtnetz von Surat"
+  }
 ]

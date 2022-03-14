@@ -1,745 +1,745 @@
 [
-    {
-        "code": "01001",
-        "flavor": "\"Sieh hin. Das wird lustig.\"",
-        "keywords": "G-Mod",
-        "text": "Jedesmal, wenn du ein <strong>Virus-</strong>Programm installierst, zerstört der Kon die oberste Karte von F&E.",
-        "title": "Noise: Meisterhacker"
-    },
-    {
-        "code": "01002",
-        "flavor": "Was beim ersten Mal gut ist, sollte man noch mal tun.",
-        "text": "Füge 1 Karte (oder bis zu 2 <strong>Virus</strong>-Karten aus deiner Ablage deinem Griff zu.",
-        "title": "Déjà Vu"
-    },
-    {
-        "code": "01003",
-        "flavor": "Hast du je etwas in Brand gesetzt, nur um es brennen zu sehen?",
-        "keywords": "Run - Sabotage",
-        "text": "Führe einen Run auf HQ oder F&E durch. Du kannst alle Karten, auf die du Zugriff erhältst, kostenfrei zerstören (selbst, wenn die Karten normalerweise nicht zerstört werden können).",
-        "title": "Abriss-Run"
-    },
-    {
-        "code": "01004",
-        "keywords": "Run",
-        "text": "Führe einen Run durch und erhalte 9[credit], die du nur in diesem Run ausgeben darfst. Nach Beendigung des Runs nimmst du 1 Hirn-Schaden (kann nicht verhindert werden) und legst den nicht ausgegebenen Rest der 9[credit] in die Credit-Bank zurück.",
-        "title": "Stim-Hack"
-    },
-    {
-        "code": "01005",
-        "flavor": "Ich fühle mich beinahe nackt ohne das Ding.",
-        "keywords": "Chip",
-        "text": "1[recurring-credit]\nVerwende diesen Credit für die Anwendung von <strong>Ice-Brechern</strong> oder zur Installation von <strong>Virus</strong>-Programmen.",
-        "title": "Cyberfeeder"
-    },
-    {
-        "code": "01006",
-        "flavor": "\"Mein kleines Buch mit Zaubersprüchen.\" - Whizzard",
-        "keywords": "Konsole",
-        "text": "+2[mu]\nImmer wenn du ein <strong>Virus</strong>-Programm installierst, lege 1 Viruszähler auf das Programm.\nLimit 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Grimoire"
-    },
-    {
-        "code": "01007",
-        "flavor": "\"Wenn's beim ersten mal nicht klappt, pfeif' die Stärke hoch und versuch's noch mal.\" - g00ru",
-        "keywords": "Ice-Brecher - Fracter",
-        "text": "1[credit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n1[credit]: +1 Stärke.",
-        "title": "Zersetzer"
-    },
-    {
-        "code": "01008",
-        "keywords": "Virus",
-        "text": "Immer, wenn du einen Run auf ein zentrales System erfolgreich durchführst, lege 1 Viruszähler auf Datensauger.\n<strong>Gehosteter Viruszähler</strong>: Das geladene Ice, auf das du gerade triffst, hat -1 Stärke bis zum Ende der Begegnung.",
-        "title": "Datensauger"
-    },
-    {
-        "code": "01009",
-        "keywords": "Daemon",
-        "text": "Dschinn kann bis zu 3[mu] an Programmen hosten, die keine <strong>Ice-Brecher</strong> sind.\nDie Speicherkosten der Programme werden nicht auf dein Speicherlimit angerechnet.\n[click], 1[credit]: Suche in deinem Stapel nach einem <strong>Virus</strong>-Programm, zeige es und füge es deinem Griff hinzu. Mische deinen Stapel.",
-        "title": "Dschinn"
-    },
-    {
-        "code": "01010",
-        "flavor": "Es sah nach zufälligem Paketverlust aus. War es aber nicht.",
-        "keywords": "Virus",
-        "text": "Immer, wenn du einen erfolgreichen Run auf F&E durchführst, lege 1 Virusmarker auf Medium.\nJeder Viruszähler auf Medium mit Ausnahme des Ersten erlaubt dir den Zugriff auf 1 zusätzliche Karte von F&E, wenn du Zugriff auf Karten von F&E hast.",
-        "title": "Medium"
-    },
-    {
-        "code": "01011",
-        "flavor": "Der 5. November: Der Tag an dem die korrupten Machenschaften der Konzernoligarchie für alle offensichtlich sein werden.",
-        "keywords": "Ice-Brecher - Killer",
-        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.",
-        "title": "Imitator"
-    },
-    {
-        "code": "01012",
-        "keywords": "Virus",
-        "text": "Kann nur auf einem geladenen Ice installiert werden.\nDas hostende Ice hat -1 Stärke für jeden Viruszähler auf Parasit und wird zerstört, wenn seine Stärke 0 oder weniger ist.\nWenn dein Zug beginnt, lege 1 Viruszähler auf Parasit.",
-        "title": "Parasit"
-    },
-    {
-        "code": "01013",
-        "flavor": "Feuer und Drachenblut",
-        "keywords": "Ice-Brecher - KI",
-        "text": "3[credit]: Schalte eine Subroutine auf einem Ice mit einer Stärke von 0 oder weniger aus.\n1[credit]: Ein Ice hat -1 Stärke.\n1[credit]: +1 Stärke.",
-        "title": "Wyrm"
-    },
-    {
-        "code": "01014",
-        "flavor": "In der Yog.0-Datenbank wurde durch Crowdsourcing eine Unmenge an ausgespähten, gefälschten und mitgeloggten Zugangsschlüsseln zusammengetragen. Wenn sich der benötigte Zugangsschlüssel in der Datenbank befindet, bist du drin. Wenn nicht, ändere einfach den Zugang.",
-        "keywords": "Ice-Brecher - Decoder",
-        "text": "0[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.",
-        "title": "Yog.0"
-    },
-    {
-        "code": "01015",
-        "flavor": "Im öffentlichen Bewusstsein gibt es eine strikte Trennung zwischen den Kons und den Runnern. In der Realität ist diese Trennung etwas unschärfer. Die Kons brauchen die besten Hacker, um ihre Netzwerke zu betreiben, und einige der besten Hacker sind ehemalige Runner, die den Gedanken an ein regelmäßiges Gehalt gut finden. Aber manchmal läufts auch anders und jemand macht solche Dinge von innen heraus.",
-        "keywords": "Virtuell",
-        "text": "Jedes Ice, auf das du triffst, hat eine um 1 verminderte Stärke.",
-        "title": "Eisschnitzer"
-    },
-    {
-        "code": "01016",
-        "flavor": "\"Der Ort, wo du hingehen solltest, wenn du dein Hirn aus der Gosse kratzen und wieder hineinbekommen willst.\" - Ji \"Noise\" Reilly",
-        "keywords": "Ort - Zwielichtig",
-        "text": "Wenn dein Zug beginnt, ziehe 2 Karten und verliere [click].",
-        "title": "Wyldside"
-    },
-    {
-        "code": "01017",
-        "flavor": "\"Natürlich stehle ich von den Reichen. Die haben ja schließlich das ganze Geld\"",
-        "keywords": "Cyborg",
-        "text": "Wenn du zum ersten Mal in einem Zug einen erfolgreichen Run auf HQ durchführst, erhältst du 2[credit].\n<errata>Diese Karte wurde erratiert (Text)</errata>",
-        "title": "Gabriel Santiago: Vollprofi"
-    },
-    {
-        "code": "01018",
-        "keywords": "Run - Sabotage",
-        "text": "Führe einen Run auf HQ durch.Wenn du erfolgreich bist, kannst du, anstatt auf Karten zuzugreifen, den Kon zwingen, bis zu 5[credit] zu verlieren. Tust du dies, bekommst du 2 Markierungen verpasst und erhältst 2[credit] pro so verlorenen Credit.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
-        "title": "Konto Anzapfen"
-    },
-    {
-        "code": "01019",
-        "flavor": "\"He, Junge, wenn du das jetzt einschmeißt, rechne damit, gleich abgezockt zu werden. Echt ein paar erbärmliche Gestalten in dieser Gegend. Aber du hast Glück. Ich hab ordentlich Stoff dabei…\"",
-        "keywords": "Job",
-        "text": "Du erhältst 3[credit].",
-        "title": "Leichte Beute"
-    },
-    {
-        "code": "01020",
-        "flavor": "Als die Hysterie im Raum in der Hierarchie des Kons immer weiter nach oben stieg, machte sich in den unteren Rängen allmählich das ungute Gefühl breit, keine Arbeit mehr zu haben.",
-        "keywords": "Sabotage",
-        "text": "Wähle ein ungeladenes Ice. Der Kon muss es entweder laden oder zerstören.",
-        "title": "Gefälschter Aktivierungsbefehl"
-    },
-    {
-        "code": "01021",
-        "flavor": "\"Hey, höt mal, ich verlange nicht, dass du irgendetwas Gefährliches tust. Lass mich einfach nur ins Gebäude. Und sag mir, welcher Raum am wenigsten gesichert ist. Und sag bitte nich schon wieder 'das Klo'.\"",
-        "keywords": "Run",
-        "text": "Führe einen Run durch. Du umgehst das erste Ice, auf das du in diesem Run triffst.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
-        "title": "Angriff von Innen"
-    },
-    {
-        "code": "01022",
-        "flavor": "Das Paket kam nach etlichen Stunden, in denen er ungeduldig den langsamen Weg über den Pazifik beobachtet hatte, endlich an…",
-        "text": "Suche in deinem Stapel nach einem <strong>Ice-Brecher</strong>, zeige ihn und füge ihn deinem Griff zu. Mische deinen Stapel.",
-        "title": "Sonderbestellung"
-    },
-    {
-        "code": "01023",
-        "flavor": "\"Ein wenig Vorbereitung kann einen weit bringen.\" -Gabriel Santiago",
-        "text": "[click], 1[credit]: Enthülle 1 Karte. Verwende diese Fähigkeit nur, wenn du in diesem Zug einen erfolgreichen Rund auf HQ durchgeführt hast.",
-        "title": "Lemuria-Codeknacker"
-    },
-    {
-        "code": "01024",
-        "keywords": "Konsole",
-        "text": "+1[mu]\nImmer, wenn du einen erfolgreichen Run durchführst, erhältst du 1[credit].\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Desperado"
-    },
-    {
-        "code": "01025",
-        "keywords": "Ice-Brecher - Fracter",
-        "text": "2[credit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n2[credit]: +3 Stärke.",
-        "title": "Aurora"
-    },
-    {
-        "code": "01026",
-        "keywords": "Ice-Brecher - Killer",
-        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n2[credit]: +1 Stärke.\nWenn du Femme Fatale installierst, wähle ein installiertes Ice aus. Wenn du auf das Eis triffst, kannst du es umgehen, indem du für jede Subroutine auf dem Ice 1[credit] zahlst.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
-        "title": "Femme Fatale"
-    },
-    {
-        "code": "01027",
-        "flavor": "Du wirst Ninja spüren, bevor du Ninja siehst. Falls du Ninja überhaupt zu sehen bekommst.",
-        "keywords": "Ice-Brecher - Killer",
-        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n3[credit]: +5 Stärke.",
-        "title": "Ninja"
-    },
-    {
-        "code": "01028",
-        "flavor": "„Der Code ist egal. Wichtig ist, wohin der Code dich bringt.\" - g00ru",
-        "text": "[click]: Führe einen Run auf das Archiv durch. Wenn du erfolgreich bist, behandele dies stattdessen als einen erfolgreichen Run auf HQ.",
-        "title": "Geheimtür (Beta)"
-    },
-    {
-        "code": "01029",
-        "keywords": "Job",
-        "text": "Lege 8[credit] aus der Bank auf Bankeinbruch, wenn er installiert wird. Wenn keine Credits mehr auf Bankeinbruch sind, zerstöre ihn.\nImmer, wenn du einen erfolgreichen Run auf ein ausgelagertes System durchführst, kannst du, anstatt auf Karten zuzugreifen, eine beliebige Anzahl Credits von Bankeinbruch nehmen.",
-        "title": "Bankeinbruch"
-    },
-    {
-        "code": "01030",
-        "flavor": "\"Der Typ, mit dem ich mir am College ein Zimmer geteilt hab, hatte einen Cousin mit ner Freundin am College, und der beste Freund von deren Bruder war ein Junkie, und die Mutter des Junkies hat früher hier gelebt. Ja, ich denke, da ist eine Verbindung.\" -Lez \"Rockfist\" S.",
-        "keywords": "Ort",
-        "text": "2[recurring-credit]\nVerwende diese Credits zum Entfernen von Markierungen.\n[trash]: Verhindere bis zu 3 Punkte Körperschaden.",
-        "title": "Crash Space"
-    },
-    {
-        "code": "01031",
-        "flavor": "Je zwielichtiger der Dealer ist, desto besser ist der Preis. Außer, wenn der Dealer zu zwielichtig ist. Dann gibt's manchmal verborgene Gebühren, nachdem sie dir die Kohle abgenommen haben.",
-        "keywords": "Kontakt - Zwielichtig",
-        "text": "<strong>Gib eine Agenda auf,</strong> [click]: Erhalte 9[credit].",
-        "title": "Datendealer"
-    },
-    {
-        "code": "01032",
-        "flavor": "\"Ich hab das Gefühl, wir sind hier falsch, Frank.\"\n\"Was bringt dich darauf, D?\"\n\"Die Lockenwickler.“",
-        "keywords": "Kontakt",
-        "text": "[trash]: Du kannst verhindern, dass man dir 1 Markierung verpasst.",
-        "title": "Täuschziel"
-    },
-    {
-        "code": "01033",
-        "flavor": "\"Hörst du mir zu?\"",
-        "keywords": "Natürlich",
-        "text": "Senke die Installationskosten des ersten Programms oder der ersten Hardware, die du in jedem Zug installierst um 1.",
-        "title": "Kate \"Mac\" McCaffrey: Digital-Bastlerin"
-    },
-    {
-        "code": "01034",
-        "flavor": "Diesel weckt dein Feuer.",
-        "text": "Ziehe 3 Karten.",
-        "title": "Diesel"
-    },
-    {
-        "code": "01035",
-        "flavor": "Für ein selbsterstelltes Programm gibt's einfach keinen Ersatz. Erstellt in langen Nächten, mit Hilfe von Müsliriegeln und entschlossener Zielstrebigkeit. Billiger ists außerdem.",
-        "keywords": "Mod",
-        "text": "Installiere ein Programm oder ein Stück Hardware und senke die Installationskosten dafür um 3.",
-        "title": "Eigenbau"
-    },
-    {
-        "code": "01036",
-        "flavor": "\"Klar gibt es Profis mit guten Instinkten, aber sie können nicht über die Daten hinaus sehen. Sie können die Matrix nicht sehen.\" - Ele \"Smoke\" Scovak",
-        "keywords": "Run",
-        "text": "Führe einen Run auf F&E durch. Wenn du erfolgreich bist, greife auf 2 zusätzliche Karten von F&E zu.",
-        "title": "Blick des Bastlers"
-    },
-    {
-        "code": "01037",
-        "flavor": "\"Weißt du, es gibt da diesen Moment, wenn die Welt einfach verschwindet. Dann gibt es nur noch dich und dein Mod, und das Mod wird die Welt.\"",
-        "keywords": "Mod",
-        "text": "Wähle ein Ice. Das erhält <strong>Wächter</strong>, <strong>Code-Zugang</strong>, und <strong>Barriere</strong> bis zum Ende des Zuges.",
-        "title": "Bastelstunde"
-    },
-    {
-        "code": "01038",
-        "flavor": "Die Firma Akamatsu wurde auf drei Prinzipien aufgebaut. Erstens, um die schnellsten Speicherchips auf den Markt herzustellen, zweitens, um damit Profit zu machen und drittens, um als Fassade für die Herstellung illegaler Neurostims zu dienen. Das letzte Prinzip erklärt vermutlich die fanatische Markentreue.",
-        "keywords": "Chip",
-        "text": "+1[mu]",
-        "title": "Akamatsu-Speicherchip"
-    },
-    {
-        "code": "01039",
-        "flavor": "Es ist nicht endlos, es fühlt sich nur so an.",
-        "keywords": "Verbindung",
-        "text": "+1[link]\nWenn Kaninchenloch installiert wird, darfst du deinen Stapel nach einer weiteren Kopie von Kaninchenloch suchen und sie durch bezahlen der Installationskosten installieren. Mische deinen Stapel.",
-        "title": "Kaninchenloch"
-    },
-    {
-        "code": "01040",
-        "flavor": "Eine z-Schleife hier, eine Kortikalwelle da…",
-        "keywords": "Mod",
-        "text": "Persönliche Note kann nur auf einem <strong>Ice-Brecher.</strong> installiert werden.\nDer hostende <strong>Ice-Brecher</strong> hat +1 Stärke.",
-        "title": "Persönliche Note"
-    },
-    {
-        "code": "01041",
-        "keywords": "Konsole",
-        "text": "+2[mu] +2[link]\n2[recurring-credit]\nVerwende diese Credits nur uim Anwenden von <strong>Ice-Brechern.</strong>\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Toolbox"
-    },
-    {
-        "code": "01042",
-        "flavor": "\"Das nennt man 'Brute-Force-Angriff' und es ist heute noch genauso wirksam wie vor hundert Jahren.\" - Kate \"Mac\" McCaffrey",
-        "keywords": "Ice-Brecher - Fracter",
-        "text": "2[credit]: Schalte bis zu 2 Subroutinen einer <strong>Barriere</strong> aus.\n1[credit]: +1 Stärke bis zum Ende des Runs.",
-        "title": "Rammbock"
-    },
-    {
-        "code": "01043",
-        "flavor": "Sie kann auch durch die dicksten Datenknoten schneiden.",
-        "keywords": "Ice-Brecher - Decoder",
-        "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +1 Stärke bis zum Ende dieses Runs.",
-        "title": "Gordische Klinge"
-    },
-    {
-        "code": "01044",
-        "flavor": "Das Große Werk war an einem verregneten Donnerstagnachmittag fertig. Es gab keine seismischen Verschiebungen, keine Sonneneruptionen, keinen Hinweis von Erde oder Himmel darauf, dass die Welt sich verändert hatte. Aber oben in Heinlein, in einem einzelnen Datenkern der Marke Cybsoft füllten sich die Qubits eines Kontos mit Creds. Echten, knallharten, UN-zertifizierten Creds.",
-        "text": "[click]: Du erhältst 2[credit].",
-        "title": "Magnum Opus"
-    },
-    {
-        "code": "01045",
-        "flavor": "Zieht Energie wie ein Marsianischer Terraform-Bot, aber du bleibst fokussiert.",
-        "text": "1[credit]: Verhindere den ersten Punkt Netz-Schaden in diesem Zug.",
-        "title": "Netzschild"
-    },
-    {
-        "code": "01046",
-        "keywords": "Ice-Brecher - Killer",
-        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n2[credit]: +1 Stärke bis zum Ende dieses Runs.",
-        "title": "Pipeline"
-    },
-    {
-        "code": "01047",
-        "flavor": "Man hat Aesops Arm nicht erwähnt, wenn man sich keine längeren Tiraden anhören wollte. Manchmal fragte man sich bei der Art, wie er darüber redete, warum er sich den anderen Arm nicht auch hat weglasern lassen.",
-        "keywords": "Ort - Kontakt",
-        "text": "Wenn dein Zug beginnt, kannst du eine andere deiner installierten Karten zerstören, um  3[credit] zu erhalten.",
-        "title": "Aesops Leihhaus"
-    },
-    {
-        "code": "01048",
-        "flavor": "Die Lebenserwartung von so einem eingestöpselten Konstrukt ist etwa die einer Eintagsfliege. Anders ausgedrückt: kurz.",
-        "keywords": "Ausgelagert",
-        "text": "[trash]: Verhindere, dass ein installiertes Programm oder eine installierte Hardware zerstört wird.",
-        "title": "Opferkonstrukt"
-    },
-    {
-        "code": "01049",
-        "flavor": "\"Bringt das Erinnerungen zurück, Monica?\" -John \"Animal\" McEvoy",
-        "text": "Erhalte 2[credit] oder enthülle 1 Karte.",
-        "title": "Infiltration"
-    },
-    {
-        "code": "01050",
-        "flavor": "Fortuna hatte die Form eines HiFi-Quantenmanipulationsrings angenommen, den sie an ihrem Mittelfinger trug.",
-        "text": "Du erhältst 9[credit].",
-        "title": "Sichere Hand"
-    },
-    {
-        "code": "01051",
-        "keywords": "Ice-Brecher - KI - Virus",
-        "text": "1[credit]: Schalte eine Subroutine eines Ice aus.\n1[credit]: +1 Stärke.\n[click]: Lege 1 Viruszähler auf Krypsis.\nWenn eine Begegnung mit einem Ice, in der du Krypsis zum Ausschalten einer Subroutine eingesetzt hast, endet, entferne 1 gehosteten Viruszähler oder zerstöre Krypsis.",
-        "title": "Krypsis"
-    },
-    {
-        "code": "01052",
-        "flavor": "Er stellte die Symboldichte hoch, und war umgeben von einem Kreis schwebender Hologramme. Der Pingback war gut, der Sicherheitslevel Blau-Eins. Nun misste er nur noch den perfekten Platz für das Relais finden.",
-        "keywords": "Verbindung",
-        "text": "+1[link]",
-        "title": "Zugriff auf Globalsec"
-    },
-    {
-        "code": "01053",
-        "flavor": "Langweilige Arbeit, aber man kann die Rechnungen bezahlen.",
-        "keywords": "Job",
-        "text": "Lege 12[credit] aus der Bank auf Codeknacken für Armitage, wenn die Karte installiert wird. Wenn keine Credits mehr auf Codeknacken für Armitage liegen, zerstöre sie.\n[click]: Nimm 2[credit] von Coedeknacken für Armitage.",
-        "title": "Codeknacken für Armitage"
-    },
-    {
-        "code": "01054",
-        "flavor": "Effektiv. Verlässlich. Menschlich.",
-        "keywords": "Megakon",
-        "text": "Wenn du zum ersten Mal in jedem Zug eine Karte installierst, erhältst du 1[credit].\n<errata>Diese Karte wurde erratiert (Text)</errata>",
-        "title": "Haas-Bioroid: Wir bauen die Zukunft"
-    },
-    {
-        "code": "01055",
-        "keywords": "Forschung",
-        "text": "Wenn du die Punkte für Beschleunigter Betatest erzielst, darfst du dir die obersten 3 Karten von F&E ansehen. Wenn sich Ice unter diesen Karten befindet, darfst du es installieren und laden, ohne die Kosten zu bezahlen. Zerstöre den Rest der angesehenen Karten.",
-        "title": "Beschleunigter Betatest"
-    },
-    {
-        "code": "01056",
-        "keywords": "Werbung",
-        "text": "Lege 12[credit] aus der Bank auf Adonis-Kampagne, wenn sie geladen wird. Wenn keine Credits mehr auf Adonis-Kampagne liegen, zerstöre sie.\nNimm 3[credit] von Adonis-Kampagne, wenn dein zug beginnt.",
-        "title": "Adonis-Kampagne"
-    },
-    {
-        "code": "01057",
-        "keywords": "Hinterhalt",
-        "text": "Aggressiver Assistent kann entwickelt werden.\nWenn du 2[credit] zahlst, sobald der Runner auf Aggressiver Assistent zugreift, zerstöre 1 Programm für jeden Entwicklungsmarker auf  Aggressiver Assistent.",
-        "title": "Aggressiver Assistent"
-    },
-    {
-        "code": "01058",
-        "flavor": "\"Denkst du, sie … fühlen es?\"",
-        "text": "Wähle eine Karte deines Archivs und füge sie deinem HQ hinzu.",
-        "title": "Archivierte Erinnerungen"
-    },
-    {
-        "code": "01059",
-        "flavor": "\"Selbstverständlich, wir haben allein in dieser Zweigstelle sechs verschiedene Haas-Bioroid Modelle, die wir auf verschiedenen Positionen einsetzen. Hier bei Haas-Bioroid ist es uns wichtig, das Potential dessen, was wir anbieten, auch selbst zu nutzen. Und die Einsparungen durch die erhöhte Effizienz geben wir natürlich an unsere geschätzten Kunden weiter.\"",
-        "text": "Erhalte [click] [click].",
-        "title": "Bioroid-Angestellte"
-    },
-    {
-        "code": "01060",
-        "flavor": "Die neuen Köpfe waren da. Sobald du den luftdichten Container geöffnet hattest, verfolgten dich ihre Blicke auf Schritt und Tritt.",
-        "text": "Installiere sofort bis zu 3 Karten (ohne Klicks dafür auszugeben; die Installationskosten müssen bezahlt werden).",
-        "title": "MirrorMorph-Lieferung"
-    },
-    {
-        "code": "01061",
-        "flavor": "Ich höre die Verschiebung jedes einzelnen Bits im Fluß des Datenstroms. Ich höre die Einflüsterungen meiner Mütter, und was sie anordnen, ist Gesetz. Das verbotene Gebiet beginnt hier.",
-        "keywords": "Barriere - Bioroid - AP",
-        "text": "Der Runner kann[click] ausgeben, um eine beliebige Subroutine von Heimdall 1.0 auszuschalten.\n[subroutine] Verursache 1 Hirnschaden.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
-        "title": "Heimdall 1.0"
-    },
-    {
-        "code": "01062",
-        "flavor": "Mein Ruf würde mir vorauseilen, wenn es jemanden gäbe, der noch darüber sprechen könnte.",
-        "keywords": "Wächter - Bioroid - Spürhund - Zerstörer",
-        "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Ichi 1.0 auszuschalten.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] <trace>Aufspüren 1</trace> Bei Erfolg verpasse dem Runner 1 Markierung und 1 Hirnschaden.",
-        "title": "Ichi 1.0"
-    },
-    {
-        "code": "01063",
-        "flavor": "Mein Name ist Viktor. Schön, dich kennenzulernen. Möchtest du ein Spiel spielen?",
-        "keywords": "Code-Zugang - Bioroid - AP",
-        "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Viktor 1.0 auszuschalten.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Beende den Run.",
-        "title": "Viktor 1.0"
-    },
-    {
-        "code": "01064",
-        "flavor": "Whrrrrr!",
-        "keywords": "Wächter - Zerstörer",
-        "text": "[subroutine] Zerstöre 1 Programm.\n[subroutine] Beende den Run.",
-        "title": "Geschützturm"
-    },
-    {
-        "code": "01065",
-        "flavor": "\"Ich löse Probleme.\"",
-        "keywords": "Kontakt",
-        "text": "X[credit] und [trash]: Wähle ein geladenes Ice, das dieses System schützt. Das Ice hat bis zum Ende des Zuges +X Stärke.",
-        "title": "Kon-Troubleshooter"
-    },
-    {
-        "code": "01066",
-        "flavor": "Floyd konnte die Wut des Mannes vor ihm spüren, der gegen Simulierte wetterte. Seine Programmierung schob eine Routineausrede in den Vordergrund seiner Gedanken und der Drang, sie zu verwenden, war beinahe überwältigend. Das wird alles nur noch schlimmer machen, dachte er.",
-        "text": "Jedes Ice, das dieses System schützt hat +1 Stärke.",
-        "title": "Empirische Daten"
-    },
-    {
-        "code": "01067",
-        "flavor": "Die menschliche Note.",
-        "keywords": "Megakon",
-        "text": "Immern, wenn du Punkte für eine Agenda erzielst, oder dir eine Agenda gestohlen wird, verursache 1 Netz-Schaden",
-        "title": "Jinteki: Personal Evolution"
-    },
-    {
-        "code": "01068",
-        "keywords": "Initiative",
-        "text": "Lege 1 Agendazähler auf Nisei MK II, wenn du die Punkte dafür erzielst.\n<strong>Gehosteter Agendazähler:</strong> Beende den Run.",
-        "title": "Nisei MK II"
-    },
-    {
-        "code": "01069",
-        "keywords": "Hinterhalt - Forschung",
-        "text": "Projekt Junikäfer kann entwickelt werden.\nWenn du 1[credit] zahlst, sobald der Runner auf Projekt Junikäfer zugreift, verursache 2 Netz-Schaden für jeden Entwicklungsmarker auf Projekt Junikäfer.",
-        "title": "Projekt Junikäfer"
-    },
-    {
-        "code": "01070",
-        "keywords": "Hinterhalt",
-        "text": "Wenn der Runner von F&E aus auf Schlinge! Zugreift, muss er die Karte aufdecken.\nWenn du 4[credit] zahlst, sobald der Runner auf Schlinge! Zugreift, verursache 3 Netz-Schaden und verpasse dem Runner 1 Markierung. Ignoriere diesen Effekt, wenn der Runner im Archiv auf Schlinge! Zugreift.",
-        "title": "Schlinge!"
-    },
-    {
-        "code": "01071",
-        "text": "Du kannst Zaibatsu-Loyalität laden, bevor der Runner eine Karte enthüllt.\n1[credit] oder [trash]: Verhindere das Enthüllen von 1 Karte.",
-        "title": "Zaibatsu-Loyalität"
-    },
-    {
-        "code": "01072",
-        "flavor": "Der Trick ist nicht, die Person zu treffen, auf die man gezielt hat. Der Trick ist, <strong>nur</strong> die Person zu treffen, auf die man gezielt hat.",
-        "keywords": "Graue Ops",
-        "text": "Kann nur gespielt werden, wenn der Runner in seinem letzten Zug einen Run durchgeführt hat.\nVerursache 1 Netz-Schaden.",
-        "title": "Neural-EMP"
-    },
-    {
-        "code": "01073",
-        "flavor": "Da war eine neue Struktur in ihrem Phantomkortex. Neu und doch schon immer da. Sie war alles und gleichzeitig auch nichts.",
-        "text": "Sieh dir die obersten 5 Karten von F&E an und lege sie in beliebiger Reihenfolge zurück.",
-        "title": "Vorahnung"
-    },
-    {
-        "code": "01074",
-        "flavor": "\"Wo ist es hin?\"",
-        "keywords": "Code-Zugang - Deflektor",
-        "text": "[subroutine] Der Runner nähert sich dem äußersten Ice, welches das angegriffene System schützt. Bring Zellen-Portal wieder in den ungeladenen Zustand.",
-        "title": "Zellen-Portal"
-    },
-    {
-        "code": "01075",
-        "flavor": "\"Hattest du je das Gefühl, so was wie Haifischfutter zu sein? Du solltest dieses Gefühl ernst nehmen.\" - Ji \"Noise\" Reilly",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Das nächste Ice, auf das der Runner während dieses Runs trifft, hat + 2 Stärke. Verursache 3 Netz-Schaden, wenn der Runner nicht alle Subroutinen auf dem so verstärkten Ice bricht.",
-        "title": "Blutköder"
-    },
-    {
-        "code": "01076",
-        "flavor": "Zugriff auf HarmloseDatei.datZ → Sind sie sicher? J/n",
-        "keywords": "Falle - AP",
-        "text": "[subroutine] Verursache 1 Netz-Schaden. Zerstöre Datenmine.",
-        "title": "Datenmine"
-    },
-    {
-        "code": "01077",
-        "flavor": "Erstellt von Ak.wa on 23.11.79-23. Filed 23.11.79-23.2 mit #34k-lw3-21HH-4i.\n//jetzt neu mit Samurai.",
-        "keywords": "Wächter - AP",
-        "text": "[subroutine] Verursache 3 Netz-Schaden.",
-        "title": "Neural-Katana"
-    },
-    {
-        "code": "01078",
-        "flavor": "Die meisten Runner bevorzugen die Arbeit im Vollkontakt-Sim-Modus, ihre Ausrüstung verdrahten sie direkt mit ihrem Hirn. Dieser Modus hat viele Vorzüge. Der Runner kann so Daten schneller verarbeiten und Befehle eingeben als ein traditionelles Auge-Hirn-Hand-System. Aber natürlich ist das Risiko so auch größer.",
-        "keywords": "Barriere - AP",
-        "text": "[subroutine] Verursache 2 Netz-Schaden.\n[subroutine] Beende den Run.",
-        "title": "Dornenbarriere"
-    },
-    {
-        "code": "01079",
-        "flavor": "Frag lieber nicht, wie er das macht.",
-        "keywords": "Sysop - Unorthodox",
-        "text": "Die Ladekosten für Ice, das dieses System schützt werden um 2 verringert.",
-        "title": "Akitaro Watanabe"
-    },
-    {
-        "code": "01080",
-        "flavor": "„Du bist nie unbeobachtet.“",
-        "keywords": "Megakon",
-        "text": "2[recurring-credit]\nVerwende diese Credits beim Aufspüren.",
-        "title": "NBN: Wir sind die Nachrichten"
-    },
-    {
-        "code": "01081",
-        "keywords": "Initiative",
-        "text": "Lege 1 Agendazähler auf AstroScript-Pilot-Programm, wenn du die Punkte dafür erzielst.\n<strong>Gehosteter Agendazähler:</strong> Lege 1 Entwicklungsmarker auf eine Karte, die entwickelt werden kann.\n Nur 1 pro Deck.\n<errata>Diese Karte wurde erratiert (Nur 1 pro Deck.)</errata>",
-        "title": "AstroScript-PilotProgramm"
-    },
-    {
-        "code": "01082",
-        "text": "Wenn du die Punkte für Sondermeldung erzielst, verpasse dem Runner 2 Markierungen.\nWenn der Zug, in dem du die Punkte für Sondermeldung  erzielt hast, endet, verliert der Runner 2 Markierungen.",
-        "title": "Sondermeldung"
-    },
-    {
-        "code": "01083",
-        "flavor": "\"Bitte halten sie die Verbindung aufrecht. Vorrangiger Datentransfer läuft. Ein Administrator wird bald überprüf...\"",
-        "text": "Ziehe 3 Karten.",
-        "title": "Anonymer Hinweis"
-    },
-    {
-        "code": "01084",
-        "keywords": "Graue Ops",
-        "text": "Kann nur gespielt werden, wenn der Runner markiert ist.\nDer Runner verliert alle Credits in seinem Credit-Vorrat.",
-        "title": "Geplündertes Konto"
-    },
-    {
-        "code": "01085",
-        "flavor": "Zugriff auf die größte Verbraucherdatenbank des Sonnensystems zu haben, hat so seine Vorteile.",
-        "text": "X ist gleich oder weniger als die Anzahl der Markierungen, die der Runner hat.\nLege X Entwicklungsmarker auf eine Karte, die entwickelt werden kann.",
-        "title": "Psychographie"
-    },
-    {
-        "code": "01086",
-        "flavor": "\"SEA hat uns nen Tipp zu verdächtigen Datenspitzen oben im Castle gegeben.\" - Jerome Lock, diensthabender Techniker.",
-        "text": "Kann nur gespielt werden, wenn der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\n<trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
-        "title": "SEA-Informant"
-    },
-    {
-        "code": "01087",
-        "keywords": "Hinterhalt - Anlage",
-        "text": "Phantom-Filiale kann entwickelt werden.\nWenn der Runner Runner auf Phantom-Filiale zugreift, darfst du ihm 1 Markierung für jeden Entwicklungsmarker auf Phantom-Filiale verpassen.",
-        "title": "Phantom-Filiale"
-    },
-    {
-        "code": "01088",
-        "keywords": "Wächter - Spürhund - Beobachter",
-        "text": "Wenn der Runner auf Datenrabe trifft, muss er den Run beenden oder er bekommt eine Markierung verpasst.\n<strong>Gehosteter Wirkungszähler</strong> Verpasse dem Runner 1 Markierung.\n[subroutine] <trace>Aufspüren 3</trace> Wenn du erfolgreich bist, lege 1 Wirkungszähler auf Datenrabe.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
-        "title": "Datenrabe"
-    },
-    {
-        "code": "01089",
-        "flavor": "Analysieren war schon großartig. Anweisungen zu deligieren stellte sich sogar als noch besser heraus.",
-        "keywords": "Wächter - Spürhund - Beobachter",
-        "text": "Wenn der Runner auf Matrixanalyse trifft, kannst du 1[credit] bezahlen, um 1 Entwicklungsmarker auf eine Karte zu legen, die entwickelt werden kann.\n[subroutine] <trace>Aufspüren 2</trace> Wenn du Erfolg hast, verpasse dem Runner 1 Markierung.",
-        "title": "Matrixanalyse"
-    },
-    {
-        "code": "01090",
-        "flavor": "\"Schon mal was von Catch-22 gehört?\"\n\"Erinnere mich dran, es zu vergessen.\"",
-        "keywords": "Code-Zugang",
-        "text": "Wenn der Runner auf Mautstelle trifft, muss er 3[credit] zahlen. Wenn der Runner keine 3[credit] zahlen kann, beende den Run.\n[subroutine] Beende den Run.",
-        "title": "Mautstelle"
-    },
-    {
-        "code": "01091",
-        "text": "Jedesmal, wenn der Runner auf eine Agenda in diesem System zugreift, muss er 5[credit] als zusätzliche Kosten dafür zahlen, um sie zu stehlen. Das gilt auch während des Runs, in dem der Runner Falsche Spur zerstört.",
-        "title": "Falsche Spur"
-    },
-    {
-        "code": "01092",
-        "flavor": "\"Ich habe gehört, um diese Jahreszeit soll die Küste schön sein.\"\n\"Wenn du im richtigen Geschäft bist, ist sie das ganze Jahr über schön.\"",
-        "keywords": "Region",
-        "text": "Die benötigten Entwicklungen für in diesem System installierte Agendas werden um 1 gesenkt.\nMaximal 1 <strong>Region</strong> pro System.",
-        "title": "Stadtnetz von SanSan"
-    },
-    {
-        "code": "01093",
-        "flavor": "Auf dem Weg nach oben.",
-        "keywords": "Megakon",
-        "text": "Du erhältst 1[credit], immer wenn du eine <strong>Transaktions</strong>-Operation spielst.",
-        "title": "Weyland-Konsortium: Wir bauen eine bessere Welt"
-    },
-    {
-        "code": "01094",
-        "flavor": "Hier wird sich in Zukunft einiges ändern.",
-        "keywords": "Expansion",
-        "text": "Wenn du die Punkte für Feindliche Übernahme erzielst, erhältst du 7[credit] und 1 Negative Publicity.",
-        "title": "Feindliche Übernahme"
-    },
-    {
-        "code": "01095",
-        "flavor": "\"Wenn das von irgendwelchen Zwei-Creds-News aufgenommen wird, um so besser. Der Abschaum könnte in den Gassen von Guayaquil rumhängen, in den Slums von Bosh Wash oder sogar irgendwo im Weltraum.\"",
-        "keywords": "Sicherheit",
-        "text": "Wenn die die Punkte für Steckbrief erzielst, darfst du die Agenda aufgeben, um dem Runner 1 Markierung zu verpassen und 1 Punkt Negative Publicity zu erhalten.",
-        "title": "Steckbrief"
-    },
-    {
-        "code": "01096",
-        "flavor": "\"Liefere den Bullen ein paar Fetzen unserer Information und sie werden wiederkommen und mehr wollen\" - Richard Polasco, VP von Cyber-Security",
-        "keywords": "Transaktion",
-        "text": "[click] und <strong>zerstöre ein geladenes Ice</strong>: Erhalte 4[credit].",
-        "title": "Sicherheits-Subunternehmer"
-    },
-    {
-        "code": "01097",
-        "flavor": "\"Ich denke, die Bedingungen werden ihnen gefallen.\"",
-        "text": "Kann nur gespielt werden, wenn du in diesem Zug Punkte für eine Agenda erzielt hast.\nDurchsuche F&E nach 1 Karte und füge sie deinem HQ hinzu. Mische F&E.",
-        "title": "Aggressive Verhandlungen"
-    },
-    {
-        "code": "01098",
-        "flavor": "Der Weltraumlift von New Angeles, besser bekannt als der Beanstalk ist mit Abstand der größte Triumph menschlicher Baukunst und Erfindungsgabe in der Geschichte. Der Beanstalk sorgt dafür, dass jeder den Orbit erreichen kann … gegen eine kleine Gebühr.",
-        "keywords": "Transaktion",
-        "text": "Du erhältst 3[credit].",
-        "title": "Beanstalk-Lizenzgebühren"
-    },
-    {
-        "code": "01099",
-        "flavor": "\"Ich möchte die Damen und Herren der Presse daran erinnern, dass einige der Gebäude, die von der Explosion beschädigt wurden, Tochterunternehmen des Weyland-Konsortiums gehörten…\"",
-        "keywords": "Schwarze Ops",
-        "text": "Kann nur gespielt werden, wenn der Runner markiert ist.\nVerursache 4 Körperschaden.",
-        "title": "Verbrannte Erde"
-    },
-    {
-        "code": "01100",
-        "flavor": "\"Und dann sind da noch diese beiden Kisten. Keine eID.\"\n\"Überlass sie einfach mir und vergiss, dass du sie je gesehen hast.\"",
-        "text": "Lege jeweils 1 Entwicklungsmarker auf bis zu 2 verschiedene installierte Karten, die entwickelt werden können.",
-        "title": "Kaguya-Lieferung"
-    },
-    {
-        "code": "01101",
-        "flavor": "Les beim nächsten Mal die Nutzungsbedingungen sorgfältiger. Oder du wirst feststellen, dass du dich in der Gefahrenzone befindest.",
-        "keywords": "Wächter - Zerstörer",
-        "text": "Als zusätzliche Kosten für das Laden von Bogenschütze muss der Konzern eine Agenda aufgeben.\n[subroutine] Der Kon erhält 2[credit].\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Beende den Run.",
-        "title": "Bogenschütze"
-    },
-    {
-        "code": "01102",
-        "flavor": "\"Er hatte wirklich ein ganz schönes Ego, der olle Hadrian. Seine Konstrukte zeigen aber, dass das berechtigt war.\" -g00ru",
-        "keywords": "Barriere",
-        "text": "Hadrianswall kann entwickelt werden und hat + 1 Stärke für jeden Entwicklungsmarker auf ihm.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
-        "title": "Hadrianswall"
-    },
-    {
-        "code": "01103",
-        "flavor": "\"Ich habe nach einem Ice gefragt, das so undurchdringlich wie eine Wand ist. Ich bin mir nicht sicher, ob jemand unten in der F&E einen schrägen Humor hat oder die Dinge zu wörtlich nimmt.\" -Liz Campbell, VP Projektsicherheit",
-        "keywords": "Barriere",
-        "text": "Eisbarriere kann entwickelt werden und hat + 1 Stärke für jeden Entwicklungsmarker auf der Karte.\n[subroutine] Beende den Run.",
-        "title": "Eisbarriere"
-    },
-    {
-        "code": "01104",
-        "flavor": "Wer weiß schon, was Böses in den Gedächtnisdiamanten der Menschen lauert? Weyland weiß es.\n-anonymes Cybergraffiti",
-        "keywords": "Wächter - Spürhund",
-        "text": "Schatten kann entwickelt werden und hat + 1 Stärke für jeden Entwicklungsmarker auf der Karte.\n[subroutine] Der Kon erhält 2[credit].\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
-        "title": "Schatten"
-    },
-    {
-        "code": "01105",
-        "flavor": "\"Jack Weyland hat den Beanstalk gebaut und die Menschheit damit für immer verändert. Ich kanns gar nicht erwarten, zu sehen, was wir als nächstes tun werden.\"",
-        "keywords": "Anlage",
-        "text": "Kann nur in der Root des HQ installiert werden.\nDein Handkartenlimit erhöht sich um +2.",
-        "title": "Forschungsstation"
-    },
-    {
-        "code": "01106",
-        "flavor": "\"Wenn ich das nicht bis achtzehn Uhr auf dem Bildschirm habe, werden hier Köpfe rollen!\"",
-        "keywords": "Sicherheit",
-        "text": "Wenn du die Punkte für Vorrangige Anforderung erzielst, darfst du ein Ice laden, ohne die Kosten zu bezahlen.",
-        "title": "Vorrangige Anforderung"
-    },
-    {
-        "code": "01107",
-        "flavor": "\"Teuer? Nicht, wenn man so ein großes Vermögen schützen muss wie wir.\"",
-        "keywords": "Sicherheit",
-        "text": "Wenn der Runner markiert ist, erhält Privatarmee \"[click]: Verursache 1 Körperschaden.\"",
-        "title": "Privatarmee"
-    },
-    {
-        "code": "01108",
-        "flavor": "\"Die Bergwerksbosse hier sind schlimmer als irgendwelche Paten, die unten auf der Erde rummachen. Tri-maf, 4K, Yak, mir gleich, wie eure Gangs da unten heißen. In Heinlein gilt nur ein Gesetz: Das He3 muss fließen.\" -\"Old\" Rick Henry, entflohener Klon.",
-        "text": "[click], [click], [click]: Erhalte 7[credit].",
-        "title": "Melange Mining Corp."
-    },
-    {
-        "code": "01109",
-        "flavor": "Genau wie das, was du gerade gekauft hast, nur besser.",
-        "keywords": "Werbung",
-        "text": "Du erhältst 1[credit] wenn dein Zug beginnt.",
-        "title": "PAD-Kampagne"
-    },
-    {
-        "code": "01110",
-        "flavor": "Hedgefond. Substantiv. Ein ausgeklügeltes Mittel, das die Reichen noch reicher macht, auch wenn zur selben Zeit jedes andere arme AL sein letztes Hemd verliert.\n- Anarchistisches Wörterbuch, Ausgabe: Wer zählt schon mit?",
-        "keywords": "Transaktion",
-        "text": "Du erhältst 9[credit].",
-        "title": "Hedgefonds"
-    },
-    {
-        "code": "01111",
-        "flavor": "\"He, heeee! Wach auf, Alter. Du warst ziemlich lange weg. Was hast du gesehen?\"\n\"Ich…erinnere mich nicht.\"",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Der Runner verliert [click], wenn möglich.\n[subroutine] Beende den Run.",
-        "title": "Enigma"
-    },
-    {
-        "code": "01112",
-        "flavor": ".//run/hunter-tr/return=true\nclient/sec256IPv7->confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR",
-        "keywords": "Wächter - Spürhund - Beobachter",
-        "text": "[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
-        "title": "Jäger"
-    },
-    {
-        "code": "01113",
-        "flavor": "\"Es gibt nichts Schlimmeres, als diesen wunderschönen blauen Ball aus Daten gerade außerhalb deiner Reichweite zu sehen, wenn deine Verbindung zusammenbricht. Ich glaube die machen das, nur um uns zu ärgern.\" - Ele \"Smoke\" Scovak",
-        "keywords": "Barriere",
-        "text": "[subroutine] Beende den Run.",
-        "title": "Rauschbarriere"
-    }
+  {
+    "code": "01001",
+    "flavor": "\"Sieh hin. Das wird lustig.\"",
+    "keywords": "G-Mod",
+    "text": "Jedesmal, wenn du ein <strong>Virus-</strong>Programm installierst, zerstört der Kon die oberste Karte von F&E.",
+    "title": "Noise: Meisterhacker"
+  },
+  {
+    "code": "01002",
+    "flavor": "Was beim ersten Mal gut ist, sollte man noch mal tun.",
+    "text": "Füge 1 Karte (oder bis zu 2 <strong>Virus</strong>-Karten aus deiner Ablage deinem Griff zu.",
+    "title": "Déjà Vu"
+  },
+  {
+    "code": "01003",
+    "flavor": "Hast du je etwas in Brand gesetzt, nur um es brennen zu sehen?",
+    "keywords": "Run - Sabotage",
+    "text": "Führe einen Run auf HQ oder F&E durch. Du kannst alle Karten, auf die du Zugriff erhältst, kostenfrei zerstören (selbst, wenn die Karten normalerweise nicht zerstört werden können).",
+    "title": "Abriss-Run"
+  },
+  {
+    "code": "01004",
+    "keywords": "Run",
+    "text": "Führe einen Run durch und erhalte 9[credit], die du nur in diesem Run ausgeben darfst. Nach Beendigung des Runs nimmst du 1 Hirn-Schaden (kann nicht verhindert werden) und legst den nicht ausgegebenen Rest der 9[credit] in die Credit-Bank zurück.",
+    "title": "Stim-Hack"
+  },
+  {
+    "code": "01005",
+    "flavor": "Ich fühle mich beinahe nackt ohne das Ding.",
+    "keywords": "Chip",
+    "text": "1[recurring-credit]\nVerwende diesen Credit für die Anwendung von <strong>Ice-Brechern</strong> oder zur Installation von <strong>Virus</strong>-Programmen.",
+    "title": "Cyberfeeder"
+  },
+  {
+    "code": "01006",
+    "flavor": "\"Mein kleines Buch mit Zaubersprüchen.\" - Whizzard",
+    "keywords": "Konsole",
+    "text": "+2[mu]\nImmer wenn du ein <strong>Virus</strong>-Programm installierst, lege 1 Viruszähler auf das Programm.\nLimit 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Grimoire"
+  },
+  {
+    "code": "01007",
+    "flavor": "\"Wenn's beim ersten mal nicht klappt, pfeif' die Stärke hoch und versuch's noch mal.\" - g00ru",
+    "keywords": "Ice-Brecher - Fracter",
+    "text": "1[credit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n1[credit]: +1 Stärke.",
+    "title": "Zersetzer"
+  },
+  {
+    "code": "01008",
+    "keywords": "Virus",
+    "text": "Immer, wenn du einen Run auf ein zentrales System erfolgreich durchführst, lege 1 Viruszähler auf Datensauger.\n<strong>Gehosteter Viruszähler</strong>: Das geladene Ice, auf das du gerade triffst, hat -1 Stärke bis zum Ende der Begegnung.",
+    "title": "Datensauger"
+  },
+  {
+    "code": "01009",
+    "keywords": "Daemon",
+    "text": "Dschinn kann bis zu 3[mu] an Programmen hosten, die keine <strong>Ice-Brecher</strong> sind.\nDie Speicherkosten der Programme werden nicht auf dein Speicherlimit angerechnet.\n[click], 1[credit]: Suche in deinem Stapel nach einem <strong>Virus</strong>-Programm, zeige es und füge es deinem Griff hinzu. Mische deinen Stapel.",
+    "title": "Dschinn"
+  },
+  {
+    "code": "01010",
+    "flavor": "Es sah nach zufälligem Paketverlust aus. War es aber nicht.",
+    "keywords": "Virus",
+    "text": "Immer, wenn du einen erfolgreichen Run auf F&E durchführst, lege 1 Virusmarker auf Medium.\nJeder Viruszähler auf Medium mit Ausnahme des Ersten erlaubt dir den Zugriff auf 1 zusätzliche Karte von F&E, wenn du Zugriff auf Karten von F&E hast.",
+    "title": "Medium"
+  },
+  {
+    "code": "01011",
+    "flavor": "Der 5. November: Der Tag an dem die korrupten Machenschaften der Konzernoligarchie für alle offensichtlich sein werden.",
+    "keywords": "Ice-Brecher - Killer",
+    "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.",
+    "title": "Imitator"
+  },
+  {
+    "code": "01012",
+    "keywords": "Virus",
+    "text": "Kann nur auf einem geladenen Ice installiert werden.\nDas hostende Ice hat -1 Stärke für jeden Viruszähler auf Parasit und wird zerstört, wenn seine Stärke 0 oder weniger ist.\nWenn dein Zug beginnt, lege 1 Viruszähler auf Parasit.",
+    "title": "Parasit"
+  },
+  {
+    "code": "01013",
+    "flavor": "Feuer und Drachenblut",
+    "keywords": "Ice-Brecher - KI",
+    "text": "3[credit]: Schalte eine Subroutine auf einem Ice mit einer Stärke von 0 oder weniger aus.\n1[credit]: Ein Ice hat -1 Stärke.\n1[credit]: +1 Stärke.",
+    "title": "Wyrm"
+  },
+  {
+    "code": "01014",
+    "flavor": "In der Yog.0-Datenbank wurde durch Crowdsourcing eine Unmenge an ausgespähten, gefälschten und mitgeloggten Zugangsschlüsseln zusammengetragen. Wenn sich der benötigte Zugangsschlüssel in der Datenbank befindet, bist du drin. Wenn nicht, ändere einfach den Zugang.",
+    "keywords": "Ice-Brecher - Decoder",
+    "text": "0[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.",
+    "title": "Yog.0"
+  },
+  {
+    "code": "01015",
+    "flavor": "Im öffentlichen Bewusstsein gibt es eine strikte Trennung zwischen den Kons und den Runnern. In der Realität ist diese Trennung etwas unschärfer. Die Kons brauchen die besten Hacker, um ihre Netzwerke zu betreiben, und einige der besten Hacker sind ehemalige Runner, die den Gedanken an ein regelmäßiges Gehalt gut finden. Aber manchmal läufts auch anders und jemand macht solche Dinge von innen heraus.",
+    "keywords": "Virtuell",
+    "text": "Jedes Ice, auf das du triffst, hat eine um 1 verminderte Stärke.",
+    "title": "Eisschnitzer"
+  },
+  {
+    "code": "01016",
+    "flavor": "\"Der Ort, wo du hingehen solltest, wenn du dein Hirn aus der Gosse kratzen und wieder hineinbekommen willst.\" - Ji \"Noise\" Reilly",
+    "keywords": "Ort - Zwielichtig",
+    "text": "Wenn dein Zug beginnt, ziehe 2 Karten und verliere [click].",
+    "title": "Wyldside"
+  },
+  {
+    "code": "01017",
+    "flavor": "\"Natürlich stehle ich von den Reichen. Die haben ja schließlich das ganze Geld\"",
+    "keywords": "Cyborg",
+    "text": "Wenn du zum ersten Mal in einem Zug einen erfolgreichen Run auf HQ durchführst, erhältst du 2[credit].\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+    "title": "Gabriel Santiago: Vollprofi"
+  },
+  {
+    "code": "01018",
+    "keywords": "Run - Sabotage",
+    "text": "Führe einen Run auf HQ durch.Wenn du erfolgreich bist, kannst du, anstatt auf Karten zuzugreifen, den Kon zwingen, bis zu 5[credit] zu verlieren. Tust du dies, bekommst du 2 Markierungen verpasst und erhältst 2[credit] pro so verlorenen Credit.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+    "title": "Konto Anzapfen"
+  },
+  {
+    "code": "01019",
+    "flavor": "\"He, Junge, wenn du das jetzt einschmeißt, rechne damit, gleich abgezockt zu werden. Echt ein paar erbärmliche Gestalten in dieser Gegend. Aber du hast Glück. Ich hab ordentlich Stoff dabei…\"",
+    "keywords": "Job",
+    "text": "Du erhältst 3[credit].",
+    "title": "Leichte Beute"
+  },
+  {
+    "code": "01020",
+    "flavor": "Als die Hysterie im Raum in der Hierarchie des Kons immer weiter nach oben stieg, machte sich in den unteren Rängen allmählich das ungute Gefühl breit, keine Arbeit mehr zu haben.",
+    "keywords": "Sabotage",
+    "text": "Wähle ein ungeladenes Ice. Der Kon muss es entweder laden oder zerstören.",
+    "title": "Gefälschter Aktivierungsbefehl"
+  },
+  {
+    "code": "01021",
+    "flavor": "\"Hey, höt mal, ich verlange nicht, dass du irgendetwas Gefährliches tust. Lass mich einfach nur ins Gebäude. Und sag mir, welcher Raum am wenigsten gesichert ist. Und sag bitte nich schon wieder 'das Klo'.\"",
+    "keywords": "Run",
+    "text": "Führe einen Run durch. Du umgehst das erste Ice, auf das du in diesem Run triffst.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+    "title": "Angriff von Innen"
+  },
+  {
+    "code": "01022",
+    "flavor": "Das Paket kam nach etlichen Stunden, in denen er ungeduldig den langsamen Weg über den Pazifik beobachtet hatte, endlich an…",
+    "text": "Suche in deinem Stapel nach einem <strong>Ice-Brecher</strong>, zeige ihn und füge ihn deinem Griff zu. Mische deinen Stapel.",
+    "title": "Sonderbestellung"
+  },
+  {
+    "code": "01023",
+    "flavor": "\"Ein wenig Vorbereitung kann einen weit bringen.\" -Gabriel Santiago",
+    "text": "[click], 1[credit]: Enthülle 1 Karte. Verwende diese Fähigkeit nur, wenn du in diesem Zug einen erfolgreichen Rund auf HQ durchgeführt hast.",
+    "title": "Lemuria-Codeknacker"
+  },
+  {
+    "code": "01024",
+    "keywords": "Konsole",
+    "text": "+1[mu]\nImmer, wenn du einen erfolgreichen Run durchführst, erhältst du 1[credit].\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Desperado"
+  },
+  {
+    "code": "01025",
+    "keywords": "Ice-Brecher - Fracter",
+    "text": "2[credit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n2[credit]: +3 Stärke.",
+    "title": "Aurora"
+  },
+  {
+    "code": "01026",
+    "keywords": "Ice-Brecher - Killer",
+    "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n2[credit]: +1 Stärke.\nWenn du Femme Fatale installierst, wähle ein installiertes Ice aus. Wenn du auf das Eis triffst, kannst du es umgehen, indem du für jede Subroutine auf dem Ice 1[credit] zahlst.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+    "title": "Femme Fatale"
+  },
+  {
+    "code": "01027",
+    "flavor": "Du wirst Ninja spüren, bevor du Ninja siehst. Falls du Ninja überhaupt zu sehen bekommst.",
+    "keywords": "Ice-Brecher - Killer",
+    "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n3[credit]: +5 Stärke.",
+    "title": "Ninja"
+  },
+  {
+    "code": "01028",
+    "flavor": "„Der Code ist egal. Wichtig ist, wohin der Code dich bringt.\" - g00ru",
+    "text": "[click]: Führe einen Run auf das Archiv durch. Wenn du erfolgreich bist, behandele dies stattdessen als einen erfolgreichen Run auf HQ.",
+    "title": "Geheimtür (Beta)"
+  },
+  {
+    "code": "01029",
+    "keywords": "Job",
+    "text": "Lege 8[credit] aus der Bank auf Bankeinbruch, wenn er installiert wird. Wenn keine Credits mehr auf Bankeinbruch sind, zerstöre ihn.\nImmer, wenn du einen erfolgreichen Run auf ein ausgelagertes System durchführst, kannst du, anstatt auf Karten zuzugreifen, eine beliebige Anzahl Credits von Bankeinbruch nehmen.",
+    "title": "Bankeinbruch"
+  },
+  {
+    "code": "01030",
+    "flavor": "\"Der Typ, mit dem ich mir am College ein Zimmer geteilt hab, hatte einen Cousin mit ner Freundin am College, und der beste Freund von deren Bruder war ein Junkie, und die Mutter des Junkies hat früher hier gelebt. Ja, ich denke, da ist eine Verbindung.\" -Lez \"Rockfist\" S.",
+    "keywords": "Ort",
+    "text": "2[recurring-credit]\nVerwende diese Credits zum Entfernen von Markierungen.\n[trash]: Verhindere bis zu 3 Punkte Körperschaden.",
+    "title": "Crash Space"
+  },
+  {
+    "code": "01031",
+    "flavor": "Je zwielichtiger der Dealer ist, desto besser ist der Preis. Außer, wenn der Dealer zu zwielichtig ist. Dann gibt's manchmal verborgene Gebühren, nachdem sie dir die Kohle abgenommen haben.",
+    "keywords": "Kontakt - Zwielichtig",
+    "text": "<strong>Gib eine Agenda auf,</strong> [click]: Erhalte 9[credit].",
+    "title": "Datendealer"
+  },
+  {
+    "code": "01032",
+    "flavor": "\"Ich hab das Gefühl, wir sind hier falsch, Frank.\"\n\"Was bringt dich darauf, D?\"\n\"Die Lockenwickler.“",
+    "keywords": "Kontakt",
+    "text": "[trash]: Du kannst verhindern, dass man dir 1 Markierung verpasst.",
+    "title": "Täuschziel"
+  },
+  {
+    "code": "01033",
+    "flavor": "\"Hörst du mir zu?\"",
+    "keywords": "Natürlich",
+    "text": "Senke die Installationskosten des ersten Programms oder der ersten Hardware, die du in jedem Zug installierst um 1.",
+    "title": "Kate \"Mac\" McCaffrey: Digital-Bastlerin"
+  },
+  {
+    "code": "01034",
+    "flavor": "Diesel weckt dein Feuer.",
+    "text": "Ziehe 3 Karten.",
+    "title": "Diesel"
+  },
+  {
+    "code": "01035",
+    "flavor": "Für ein selbsterstelltes Programm gibt's einfach keinen Ersatz. Erstellt in langen Nächten, mit Hilfe von Müsliriegeln und entschlossener Zielstrebigkeit. Billiger ists außerdem.",
+    "keywords": "Mod",
+    "text": "Installiere ein Programm oder ein Stück Hardware und senke die Installationskosten dafür um 3.",
+    "title": "Eigenbau"
+  },
+  {
+    "code": "01036",
+    "flavor": "\"Klar gibt es Profis mit guten Instinkten, aber sie können nicht über die Daten hinaus sehen. Sie können die Matrix nicht sehen.\" - Ele \"Smoke\" Scovak",
+    "keywords": "Run",
+    "text": "Führe einen Run auf F&E durch. Wenn du erfolgreich bist, greife auf 2 zusätzliche Karten von F&E zu.",
+    "title": "Blick des Bastlers"
+  },
+  {
+    "code": "01037",
+    "flavor": "\"Weißt du, es gibt da diesen Moment, wenn die Welt einfach verschwindet. Dann gibt es nur noch dich und dein Mod, und das Mod wird die Welt.\"",
+    "keywords": "Mod",
+    "text": "Wähle ein Ice. Das erhält <strong>Wächter</strong>, <strong>Code-Zugang</strong>, und <strong>Barriere</strong> bis zum Ende des Zuges.",
+    "title": "Bastelstunde"
+  },
+  {
+    "code": "01038",
+    "flavor": "Die Firma Akamatsu wurde auf drei Prinzipien aufgebaut. Erstens, um die schnellsten Speicherchips auf den Markt herzustellen, zweitens, um damit Profit zu machen und drittens, um als Fassade für die Herstellung illegaler Neurostims zu dienen. Das letzte Prinzip erklärt vermutlich die fanatische Markentreue.",
+    "keywords": "Chip",
+    "text": "+1[mu]",
+    "title": "Akamatsu-Speicherchip"
+  },
+  {
+    "code": "01039",
+    "flavor": "Es ist nicht endlos, es fühlt sich nur so an.",
+    "keywords": "Verbindung",
+    "text": "+1[link]\nWenn Kaninchenloch installiert wird, darfst du deinen Stapel nach einer weiteren Kopie von Kaninchenloch suchen und sie durch bezahlen der Installationskosten installieren. Mische deinen Stapel.",
+    "title": "Kaninchenloch"
+  },
+  {
+    "code": "01040",
+    "flavor": "Eine z-Schleife hier, eine Kortikalwelle da…",
+    "keywords": "Mod",
+    "text": "Persönliche Note kann nur auf einem <strong>Ice-Brecher.</strong> installiert werden.\nDer hostende <strong>Ice-Brecher</strong> hat +1 Stärke.",
+    "title": "Persönliche Note"
+  },
+  {
+    "code": "01041",
+    "keywords": "Konsole",
+    "text": "+2[mu] +2[link]\n2[recurring-credit]\nVerwende diese Credits nur uim Anwenden von <strong>Ice-Brechern.</strong>\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Toolbox"
+  },
+  {
+    "code": "01042",
+    "flavor": "\"Das nennt man 'Brute-Force-Angriff' und es ist heute noch genauso wirksam wie vor hundert Jahren.\" - Kate \"Mac\" McCaffrey",
+    "keywords": "Ice-Brecher - Fracter",
+    "text": "2[credit]: Schalte bis zu 2 Subroutinen einer <strong>Barriere</strong> aus.\n1[credit]: +1 Stärke bis zum Ende des Runs.",
+    "title": "Rammbock"
+  },
+  {
+    "code": "01043",
+    "flavor": "Sie kann auch durch die dicksten Datenknoten schneiden.",
+    "keywords": "Ice-Brecher - Decoder",
+    "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +1 Stärke bis zum Ende dieses Runs.",
+    "title": "Gordische Klinge"
+  },
+  {
+    "code": "01044",
+    "flavor": "Das Große Werk war an einem verregneten Donnerstagnachmittag fertig. Es gab keine seismischen Verschiebungen, keine Sonneneruptionen, keinen Hinweis von Erde oder Himmel darauf, dass die Welt sich verändert hatte. Aber oben in Heinlein, in einem einzelnen Datenkern der Marke Cybsoft füllten sich die Qubits eines Kontos mit Creds. Echten, knallharten, UN-zertifizierten Creds.",
+    "text": "[click]: Du erhältst 2[credit].",
+    "title": "Magnum Opus"
+  },
+  {
+    "code": "01045",
+    "flavor": "Zieht Energie wie ein Marsianischer Terraform-Bot, aber du bleibst fokussiert.",
+    "text": "1[credit]: Verhindere den ersten Punkt Netz-Schaden in diesem Zug.",
+    "title": "Netzschild"
+  },
+  {
+    "code": "01046",
+    "keywords": "Ice-Brecher - Killer",
+    "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> aus.\n2[credit]: +1 Stärke bis zum Ende dieses Runs.",
+    "title": "Pipeline"
+  },
+  {
+    "code": "01047",
+    "flavor": "Man hat Aesops Arm nicht erwähnt, wenn man sich keine längeren Tiraden anhören wollte. Manchmal fragte man sich bei der Art, wie er darüber redete, warum er sich den anderen Arm nicht auch hat weglasern lassen.",
+    "keywords": "Ort - Kontakt",
+    "text": "Wenn dein Zug beginnt, kannst du eine andere deiner installierten Karten zerstören, um  3[credit] zu erhalten.",
+    "title": "Aesops Leihhaus"
+  },
+  {
+    "code": "01048",
+    "flavor": "Die Lebenserwartung von so einem eingestöpselten Konstrukt ist etwa die einer Eintagsfliege. Anders ausgedrückt: kurz.",
+    "keywords": "Ausgelagert",
+    "text": "[trash]: Verhindere, dass ein installiertes Programm oder eine installierte Hardware zerstört wird.",
+    "title": "Opferkonstrukt"
+  },
+  {
+    "code": "01049",
+    "flavor": "\"Bringt das Erinnerungen zurück, Monica?\" -John \"Animal\" McEvoy",
+    "text": "Erhalte 2[credit] oder enthülle 1 Karte.",
+    "title": "Infiltration"
+  },
+  {
+    "code": "01050",
+    "flavor": "Fortuna hatte die Form eines HiFi-Quantenmanipulationsrings angenommen, den sie an ihrem Mittelfinger trug.",
+    "text": "Du erhältst 9[credit].",
+    "title": "Sichere Hand"
+  },
+  {
+    "code": "01051",
+    "keywords": "Ice-Brecher - KI - Virus",
+    "text": "1[credit]: Schalte eine Subroutine eines Ice aus.\n1[credit]: +1 Stärke.\n[click]: Lege 1 Viruszähler auf Krypsis.\nWenn eine Begegnung mit einem Ice, in der du Krypsis zum Ausschalten einer Subroutine eingesetzt hast, endet, entferne 1 gehosteten Viruszähler oder zerstöre Krypsis.",
+    "title": "Krypsis"
+  },
+  {
+    "code": "01052",
+    "flavor": "Er stellte die Symboldichte hoch, und war umgeben von einem Kreis schwebender Hologramme. Der Pingback war gut, der Sicherheitslevel Blau-Eins. Nun misste er nur noch den perfekten Platz für das Relais finden.",
+    "keywords": "Verbindung",
+    "text": "+1[link]",
+    "title": "Zugriff auf Globalsec"
+  },
+  {
+    "code": "01053",
+    "flavor": "Langweilige Arbeit, aber man kann die Rechnungen bezahlen.",
+    "keywords": "Job",
+    "text": "Lege 12[credit] aus der Bank auf Codeknacken für Armitage, wenn die Karte installiert wird. Wenn keine Credits mehr auf Codeknacken für Armitage liegen, zerstöre sie.\n[click]: Nimm 2[credit] von Coedeknacken für Armitage.",
+    "title": "Codeknacken für Armitage"
+  },
+  {
+    "code": "01054",
+    "flavor": "Effektiv. Verlässlich. Menschlich.",
+    "keywords": "Megakon",
+    "text": "Wenn du zum ersten Mal in jedem Zug eine Karte installierst, erhältst du 1[credit].\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+    "title": "Haas-Bioroid: Wir bauen die Zukunft"
+  },
+  {
+    "code": "01055",
+    "keywords": "Forschung",
+    "text": "Wenn du die Punkte für Beschleunigter Betatest erzielst, darfst du dir die obersten 3 Karten von F&E ansehen. Wenn sich Ice unter diesen Karten befindet, darfst du es installieren und laden, ohne die Kosten zu bezahlen. Zerstöre den Rest der angesehenen Karten.",
+    "title": "Beschleunigter Betatest"
+  },
+  {
+    "code": "01056",
+    "keywords": "Werbung",
+    "text": "Lege 12[credit] aus der Bank auf Adonis-Kampagne, wenn sie geladen wird. Wenn keine Credits mehr auf Adonis-Kampagne liegen, zerstöre sie.\nNimm 3[credit] von Adonis-Kampagne, wenn dein zug beginnt.",
+    "title": "Adonis-Kampagne"
+  },
+  {
+    "code": "01057",
+    "keywords": "Hinterhalt",
+    "text": "Aggressiver Assistent kann entwickelt werden.\nWenn du 2[credit] zahlst, sobald der Runner auf Aggressiver Assistent zugreift, zerstöre 1 Programm für jeden Entwicklungsmarker auf  Aggressiver Assistent.",
+    "title": "Aggressiver Assistent"
+  },
+  {
+    "code": "01058",
+    "flavor": "\"Denkst du, sie … fühlen es?\"",
+    "text": "Wähle eine Karte deines Archivs und füge sie deinem HQ hinzu.",
+    "title": "Archivierte Erinnerungen"
+  },
+  {
+    "code": "01059",
+    "flavor": "\"Selbstverständlich, wir haben allein in dieser Zweigstelle sechs verschiedene Haas-Bioroid Modelle, die wir auf verschiedenen Positionen einsetzen. Hier bei Haas-Bioroid ist es uns wichtig, das Potential dessen, was wir anbieten, auch selbst zu nutzen. Und die Einsparungen durch die erhöhte Effizienz geben wir natürlich an unsere geschätzten Kunden weiter.\"",
+    "text": "Erhalte [click] [click].",
+    "title": "Bioroid-Angestellte"
+  },
+  {
+    "code": "01060",
+    "flavor": "Die neuen Köpfe waren da. Sobald du den luftdichten Container geöffnet hattest, verfolgten dich ihre Blicke auf Schritt und Tritt.",
+    "text": "Installiere sofort bis zu 3 Karten (ohne Klicks dafür auszugeben; die Installationskosten müssen bezahlt werden).",
+    "title": "MirrorMorph-Lieferung"
+  },
+  {
+    "code": "01061",
+    "flavor": "Ich höre die Verschiebung jedes einzelnen Bits im Fluß des Datenstroms. Ich höre die Einflüsterungen meiner Mütter, und was sie anordnen, ist Gesetz. Das verbotene Gebiet beginnt hier.",
+    "keywords": "Barriere - Bioroid - AP",
+    "text": "Der Runner kann[click] ausgeben, um eine beliebige Subroutine von Heimdall 1.0 auszuschalten.\n[subroutine] Verursache 1 Hirnschaden.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
+    "title": "Heimdall 1.0"
+  },
+  {
+    "code": "01062",
+    "flavor": "Mein Ruf würde mir vorauseilen, wenn es jemanden gäbe, der noch darüber sprechen könnte.",
+    "keywords": "Wächter - Bioroid - Spürhund - Zerstörer",
+    "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Ichi 1.0 auszuschalten.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] <trace>Aufspüren 1</trace> Bei Erfolg verpasse dem Runner 1 Markierung und 1 Hirnschaden.",
+    "title": "Ichi 1.0"
+  },
+  {
+    "code": "01063",
+    "flavor": "Mein Name ist Viktor. Schön, dich kennenzulernen. Möchtest du ein Spiel spielen?",
+    "keywords": "Code-Zugang - Bioroid - AP",
+    "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Viktor 1.0 auszuschalten.\n[subroutine] Verursache 1 Hirn-Schaden.\n[subroutine] Beende den Run.",
+    "title": "Viktor 1.0"
+  },
+  {
+    "code": "01064",
+    "flavor": "Whrrrrr!",
+    "keywords": "Wächter - Zerstörer",
+    "text": "[subroutine] Zerstöre 1 Programm.\n[subroutine] Beende den Run.",
+    "title": "Geschützturm"
+  },
+  {
+    "code": "01065",
+    "flavor": "\"Ich löse Probleme.\"",
+    "keywords": "Kontakt",
+    "text": "X[credit] und [trash]: Wähle ein geladenes Ice, das dieses System schützt. Das Ice hat bis zum Ende des Zuges +X Stärke.",
+    "title": "Kon-Troubleshooter"
+  },
+  {
+    "code": "01066",
+    "flavor": "Floyd konnte die Wut des Mannes vor ihm spüren, der gegen Simulierte wetterte. Seine Programmierung schob eine Routineausrede in den Vordergrund seiner Gedanken und der Drang, sie zu verwenden, war beinahe überwältigend. Das wird alles nur noch schlimmer machen, dachte er.",
+    "text": "Jedes Ice, das dieses System schützt hat +1 Stärke.",
+    "title": "Empirische Daten"
+  },
+  {
+    "code": "01067",
+    "flavor": "Die menschliche Note.",
+    "keywords": "Megakon",
+    "text": "Immern, wenn du Punkte für eine Agenda erzielst, oder dir eine Agenda gestohlen wird, verursache 1 Netz-Schaden",
+    "title": "Jinteki: Personal Evolution"
+  },
+  {
+    "code": "01068",
+    "keywords": "Initiative",
+    "text": "Lege 1 Agendazähler auf Nisei MK II, wenn du die Punkte dafür erzielst.\n<strong>Gehosteter Agendazähler:</strong> Beende den Run.",
+    "title": "Nisei MK II"
+  },
+  {
+    "code": "01069",
+    "keywords": "Hinterhalt - Forschung",
+    "text": "Projekt Junikäfer kann entwickelt werden.\nWenn du 1[credit] zahlst, sobald der Runner auf Projekt Junikäfer zugreift, verursache 2 Netz-Schaden für jeden Entwicklungsmarker auf Projekt Junikäfer.",
+    "title": "Projekt Junikäfer"
+  },
+  {
+    "code": "01070",
+    "keywords": "Hinterhalt",
+    "text": "Wenn der Runner von F&E aus auf Schlinge! Zugreift, muss er die Karte aufdecken.\nWenn du 4[credit] zahlst, sobald der Runner auf Schlinge! Zugreift, verursache 3 Netz-Schaden und verpasse dem Runner 1 Markierung. Ignoriere diesen Effekt, wenn der Runner im Archiv auf Schlinge! Zugreift.",
+    "title": "Schlinge!"
+  },
+  {
+    "code": "01071",
+    "text": "Du kannst Zaibatsu-Loyalität laden, bevor der Runner eine Karte enthüllt.\n1[credit] oder [trash]: Verhindere das Enthüllen von 1 Karte.",
+    "title": "Zaibatsu-Loyalität"
+  },
+  {
+    "code": "01072",
+    "flavor": "Der Trick ist nicht, die Person zu treffen, auf die man gezielt hat. Der Trick ist, <strong>nur</strong> die Person zu treffen, auf die man gezielt hat.",
+    "keywords": "Graue Ops",
+    "text": "Kann nur gespielt werden, wenn der Runner in seinem letzten Zug einen Run durchgeführt hat.\nVerursache 1 Netz-Schaden.",
+    "title": "Neural-EMP"
+  },
+  {
+    "code": "01073",
+    "flavor": "Da war eine neue Struktur in ihrem Phantomkortex. Neu und doch schon immer da. Sie war alles und gleichzeitig auch nichts.",
+    "text": "Sieh dir die obersten 5 Karten von F&E an und lege sie in beliebiger Reihenfolge zurück.",
+    "title": "Vorahnung"
+  },
+  {
+    "code": "01074",
+    "flavor": "\"Wo ist es hin?\"",
+    "keywords": "Code-Zugang - Deflektor",
+    "text": "[subroutine] Der Runner nähert sich dem äußersten Ice, welches das angegriffene System schützt. Bring Zellen-Portal wieder in den ungeladenen Zustand.",
+    "title": "Zellen-Portal"
+  },
+  {
+    "code": "01075",
+    "flavor": "\"Hattest du je das Gefühl, so was wie Haifischfutter zu sein? Du solltest dieses Gefühl ernst nehmen.\" - Ji \"Noise\" Reilly",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Das nächste Ice, auf das der Runner während dieses Runs trifft, hat + 2 Stärke. Verursache 3 Netz-Schaden, wenn der Runner nicht alle Subroutinen auf dem so verstärkten Ice bricht.",
+    "title": "Blutköder"
+  },
+  {
+    "code": "01076",
+    "flavor": "Zugriff auf HarmloseDatei.datZ → Sind sie sicher? J/n",
+    "keywords": "Falle - AP",
+    "text": "[subroutine] Verursache 1 Netz-Schaden. Zerstöre Datenmine.",
+    "title": "Datenmine"
+  },
+  {
+    "code": "01077",
+    "flavor": "Erstellt von Ak.wa on 23.11.79-23. Filed 23.11.79-23.2 mit #34k-lw3-21HH-4i.\n//jetzt neu mit Samurai.",
+    "keywords": "Wächter - AP",
+    "text": "[subroutine] Verursache 3 Netz-Schaden.",
+    "title": "Neural-Katana"
+  },
+  {
+    "code": "01078",
+    "flavor": "Die meisten Runner bevorzugen die Arbeit im Vollkontakt-Sim-Modus, ihre Ausrüstung verdrahten sie direkt mit ihrem Hirn. Dieser Modus hat viele Vorzüge. Der Runner kann so Daten schneller verarbeiten und Befehle eingeben als ein traditionelles Auge-Hirn-Hand-System. Aber natürlich ist das Risiko so auch größer.",
+    "keywords": "Barriere - AP",
+    "text": "[subroutine] Verursache 2 Netz-Schaden.\n[subroutine] Beende den Run.",
+    "title": "Dornenbarriere"
+  },
+  {
+    "code": "01079",
+    "flavor": "Frag lieber nicht, wie er das macht.",
+    "keywords": "Sysop - Unorthodox",
+    "text": "Die Ladekosten für Ice, das dieses System schützt werden um 2 verringert.",
+    "title": "Akitaro Watanabe"
+  },
+  {
+    "code": "01080",
+    "flavor": "„Du bist nie unbeobachtet.“",
+    "keywords": "Megakon",
+    "text": "2[recurring-credit]\nVerwende diese Credits beim Aufspüren.",
+    "title": "NBN: Wir sind die Nachrichten"
+  },
+  {
+    "code": "01081",
+    "keywords": "Initiative",
+    "text": "Lege 1 Agendazähler auf AstroScript-Pilot-Programm, wenn du die Punkte dafür erzielst.\n<strong>Gehosteter Agendazähler:</strong> Lege 1 Entwicklungsmarker auf eine Karte, die entwickelt werden kann.\n Nur 1 pro Deck.\n<errata>Diese Karte wurde erratiert (Nur 1 pro Deck.)</errata>",
+    "title": "AstroScript-PilotProgramm"
+  },
+  {
+    "code": "01082",
+    "text": "Wenn du die Punkte für Sondermeldung erzielst, verpasse dem Runner 2 Markierungen.\nWenn der Zug, in dem du die Punkte für Sondermeldung  erzielt hast, endet, verliert der Runner 2 Markierungen.",
+    "title": "Sondermeldung"
+  },
+  {
+    "code": "01083",
+    "flavor": "\"Bitte halten sie die Verbindung aufrecht. Vorrangiger Datentransfer läuft. Ein Administrator wird bald überprüf...\"",
+    "text": "Ziehe 3 Karten.",
+    "title": "Anonymer Hinweis"
+  },
+  {
+    "code": "01084",
+    "keywords": "Graue Ops",
+    "text": "Kann nur gespielt werden, wenn der Runner markiert ist.\nDer Runner verliert alle Credits in seinem Credit-Vorrat.",
+    "title": "Geplündertes Konto"
+  },
+  {
+    "code": "01085",
+    "flavor": "Zugriff auf die größte Verbraucherdatenbank des Sonnensystems zu haben, hat so seine Vorteile.",
+    "text": "X ist gleich oder weniger als die Anzahl der Markierungen, die der Runner hat.\nLege X Entwicklungsmarker auf eine Karte, die entwickelt werden kann.",
+    "title": "Psychographie"
+  },
+  {
+    "code": "01086",
+    "flavor": "\"SEA hat uns nen Tipp zu verdächtigen Datenspitzen oben im Castle gegeben.\" - Jerome Lock, diensthabender Techniker.",
+    "text": "Kann nur gespielt werden, wenn der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\n<trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+    "title": "SEA-Informant"
+  },
+  {
+    "code": "01087",
+    "keywords": "Hinterhalt - Anlage",
+    "text": "Phantom-Filiale kann entwickelt werden.\nWenn der Runner Runner auf Phantom-Filiale zugreift, darfst du ihm 1 Markierung für jeden Entwicklungsmarker auf Phantom-Filiale verpassen.",
+    "title": "Phantom-Filiale"
+  },
+  {
+    "code": "01088",
+    "keywords": "Wächter - Spürhund - Beobachter",
+    "text": "Wenn der Runner auf Datenrabe trifft, muss er den Run beenden oder er bekommt eine Markierung verpasst.\n<strong>Gehosteter Wirkungszähler</strong> Verpasse dem Runner 1 Markierung.\n[subroutine] <trace>Aufspüren 3</trace> Wenn du erfolgreich bist, lege 1 Wirkungszähler auf Datenrabe.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+    "title": "Datenrabe"
+  },
+  {
+    "code": "01089",
+    "flavor": "Analysieren war schon großartig. Anweisungen zu deligieren stellte sich sogar als noch besser heraus.",
+    "keywords": "Wächter - Spürhund - Beobachter",
+    "text": "Wenn der Runner auf Matrixanalyse trifft, kannst du 1[credit] bezahlen, um 1 Entwicklungsmarker auf eine Karte zu legen, die entwickelt werden kann.\n[subroutine] <trace>Aufspüren 2</trace> Wenn du Erfolg hast, verpasse dem Runner 1 Markierung.",
+    "title": "Matrixanalyse"
+  },
+  {
+    "code": "01090",
+    "flavor": "\"Schon mal was von Catch-22 gehört?\"\n\"Erinnere mich dran, es zu vergessen.\"",
+    "keywords": "Code-Zugang",
+    "text": "Wenn der Runner auf Mautstelle trifft, muss er 3[credit] zahlen. Wenn der Runner keine 3[credit] zahlen kann, beende den Run.\n[subroutine] Beende den Run.",
+    "title": "Mautstelle"
+  },
+  {
+    "code": "01091",
+    "text": "Jedesmal, wenn der Runner auf eine Agenda in diesem System zugreift, muss er 5[credit] als zusätzliche Kosten dafür zahlen, um sie zu stehlen. Das gilt auch während des Runs, in dem der Runner Falsche Spur zerstört.",
+    "title": "Falsche Spur"
+  },
+  {
+    "code": "01092",
+    "flavor": "\"Ich habe gehört, um diese Jahreszeit soll die Küste schön sein.\"\n\"Wenn du im richtigen Geschäft bist, ist sie das ganze Jahr über schön.\"",
+    "keywords": "Region",
+    "text": "Die benötigten Entwicklungen für in diesem System installierte Agendas werden um 1 gesenkt.\nMaximal 1 <strong>Region</strong> pro System.",
+    "title": "Stadtnetz von SanSan"
+  },
+  {
+    "code": "01093",
+    "flavor": "Auf dem Weg nach oben.",
+    "keywords": "Megakon",
+    "text": "Du erhältst 1[credit], immer wenn du eine <strong>Transaktions</strong>-Operation spielst.",
+    "title": "Weyland-Konsortium: Wir bauen eine bessere Welt"
+  },
+  {
+    "code": "01094",
+    "flavor": "Hier wird sich in Zukunft einiges ändern.",
+    "keywords": "Expansion",
+    "text": "Wenn du die Punkte für Feindliche Übernahme erzielst, erhältst du 7[credit] und 1 Negative Publicity.",
+    "title": "Feindliche Übernahme"
+  },
+  {
+    "code": "01095",
+    "flavor": "\"Wenn das von irgendwelchen Zwei-Creds-News aufgenommen wird, um so besser. Der Abschaum könnte in den Gassen von Guayaquil rumhängen, in den Slums von Bosh Wash oder sogar irgendwo im Weltraum.\"",
+    "keywords": "Sicherheit",
+    "text": "Wenn die die Punkte für Steckbrief erzielst, darfst du die Agenda aufgeben, um dem Runner 1 Markierung zu verpassen und 1 Punkt Negative Publicity zu erhalten.",
+    "title": "Steckbrief"
+  },
+  {
+    "code": "01096",
+    "flavor": "\"Liefere den Bullen ein paar Fetzen unserer Information und sie werden wiederkommen und mehr wollen\" - Richard Polasco, VP von Cyber-Security",
+    "keywords": "Transaktion",
+    "text": "[click] und <strong>zerstöre ein geladenes Ice</strong>: Erhalte 4[credit].",
+    "title": "Sicherheits-Subunternehmer"
+  },
+  {
+    "code": "01097",
+    "flavor": "\"Ich denke, die Bedingungen werden ihnen gefallen.\"",
+    "text": "Kann nur gespielt werden, wenn du in diesem Zug Punkte für eine Agenda erzielt hast.\nDurchsuche F&E nach 1 Karte und füge sie deinem HQ hinzu. Mische F&E.",
+    "title": "Aggressive Verhandlungen"
+  },
+  {
+    "code": "01098",
+    "flavor": "Der Weltraumlift von New Angeles, besser bekannt als der Beanstalk ist mit Abstand der größte Triumph menschlicher Baukunst und Erfindungsgabe in der Geschichte. Der Beanstalk sorgt dafür, dass jeder den Orbit erreichen kann … gegen eine kleine Gebühr.",
+    "keywords": "Transaktion",
+    "text": "Du erhältst 3[credit].",
+    "title": "Beanstalk-Lizenzgebühren"
+  },
+  {
+    "code": "01099",
+    "flavor": "\"Ich möchte die Damen und Herren der Presse daran erinnern, dass einige der Gebäude, die von der Explosion beschädigt wurden, Tochterunternehmen des Weyland-Konsortiums gehörten…\"",
+    "keywords": "Schwarze Ops",
+    "text": "Kann nur gespielt werden, wenn der Runner markiert ist.\nVerursache 4 Körperschaden.",
+    "title": "Verbrannte Erde"
+  },
+  {
+    "code": "01100",
+    "flavor": "\"Und dann sind da noch diese beiden Kisten. Keine eID.\"\n\"Überlass sie einfach mir und vergiss, dass du sie je gesehen hast.\"",
+    "text": "Lege jeweils 1 Entwicklungsmarker auf bis zu 2 verschiedene installierte Karten, die entwickelt werden können.",
+    "title": "Kaguya-Lieferung"
+  },
+  {
+    "code": "01101",
+    "flavor": "Les beim nächsten Mal die Nutzungsbedingungen sorgfältiger. Oder du wirst feststellen, dass du dich in der Gefahrenzone befindest.",
+    "keywords": "Wächter - Zerstörer",
+    "text": "Als zusätzliche Kosten für das Laden von Bogenschütze muss der Konzern eine Agenda aufgeben.\n[subroutine] Der Kon erhält 2[credit].\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Beende den Run.",
+    "title": "Bogenschütze"
+  },
+  {
+    "code": "01102",
+    "flavor": "\"Er hatte wirklich ein ganz schönes Ego, der olle Hadrian. Seine Konstrukte zeigen aber, dass das berechtigt war.\" -g00ru",
+    "keywords": "Barriere",
+    "text": "Hadrianswall kann entwickelt werden und hat + 1 Stärke für jeden Entwicklungsmarker auf ihm.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
+    "title": "Hadrianswall"
+  },
+  {
+    "code": "01103",
+    "flavor": "\"Ich habe nach einem Ice gefragt, das so undurchdringlich wie eine Wand ist. Ich bin mir nicht sicher, ob jemand unten in der F&E einen schrägen Humor hat oder die Dinge zu wörtlich nimmt.\" -Liz Campbell, VP Projektsicherheit",
+    "keywords": "Barriere",
+    "text": "Eisbarriere kann entwickelt werden und hat + 1 Stärke für jeden Entwicklungsmarker auf der Karte.\n[subroutine] Beende den Run.",
+    "title": "Eisbarriere"
+  },
+  {
+    "code": "01104",
+    "flavor": "Wer weiß schon, was Böses in den Gedächtnisdiamanten der Menschen lauert? Weyland weiß es.\n-anonymes Cybergraffiti",
+    "keywords": "Wächter - Spürhund",
+    "text": "Schatten kann entwickelt werden und hat + 1 Stärke für jeden Entwicklungsmarker auf der Karte.\n[subroutine] Der Kon erhält 2[credit].\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+    "title": "Schatten"
+  },
+  {
+    "code": "01105",
+    "flavor": "\"Jack Weyland hat den Beanstalk gebaut und die Menschheit damit für immer verändert. Ich kanns gar nicht erwarten, zu sehen, was wir als nächstes tun werden.\"",
+    "keywords": "Anlage",
+    "text": "Kann nur in der Root des HQ installiert werden.\nDein Handkartenlimit erhöht sich um +2.",
+    "title": "Forschungsstation"
+  },
+  {
+    "code": "01106",
+    "flavor": "\"Wenn ich das nicht bis achtzehn Uhr auf dem Bildschirm habe, werden hier Köpfe rollen!\"",
+    "keywords": "Sicherheit",
+    "text": "Wenn du die Punkte für Vorrangige Anforderung erzielst, darfst du ein Ice laden, ohne die Kosten zu bezahlen.",
+    "title": "Vorrangige Anforderung"
+  },
+  {
+    "code": "01107",
+    "flavor": "\"Teuer? Nicht, wenn man so ein großes Vermögen schützen muss wie wir.\"",
+    "keywords": "Sicherheit",
+    "text": "Wenn der Runner markiert ist, erhält Privatarmee \"[click]: Verursache 1 Körperschaden.\"",
+    "title": "Privatarmee"
+  },
+  {
+    "code": "01108",
+    "flavor": "\"Die Bergwerksbosse hier sind schlimmer als irgendwelche Paten, die unten auf der Erde rummachen. Tri-maf, 4K, Yak, mir gleich, wie eure Gangs da unten heißen. In Heinlein gilt nur ein Gesetz: Das He3 muss fließen.\" -\"Old\" Rick Henry, entflohener Klon.",
+    "text": "[click], [click], [click]: Erhalte 7[credit].",
+    "title": "Melange Mining Corp."
+  },
+  {
+    "code": "01109",
+    "flavor": "Genau wie das, was du gerade gekauft hast, nur besser.",
+    "keywords": "Werbung",
+    "text": "Du erhältst 1[credit] wenn dein Zug beginnt.",
+    "title": "PAD-Kampagne"
+  },
+  {
+    "code": "01110",
+    "flavor": "Hedgefond. Substantiv. Ein ausgeklügeltes Mittel, das die Reichen noch reicher macht, auch wenn zur selben Zeit jedes andere arme AL sein letztes Hemd verliert.\n- Anarchistisches Wörterbuch, Ausgabe: Wer zählt schon mit?",
+    "keywords": "Transaktion",
+    "text": "Du erhältst 9[credit].",
+    "title": "Hedgefonds"
+  },
+  {
+    "code": "01111",
+    "flavor": "\"He, heeee! Wach auf, Alter. Du warst ziemlich lange weg. Was hast du gesehen?\"\n\"Ich…erinnere mich nicht.\"",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Der Runner verliert [click], wenn möglich.\n[subroutine] Beende den Run.",
+    "title": "Enigma"
+  },
+  {
+    "code": "01112",
+    "flavor": ".//run/hunter-tr/return=true\nclient/sec256IPv7->confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR",
+    "keywords": "Wächter - Spürhund - Beobachter",
+    "text": "[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+    "title": "Jäger"
+  },
+  {
+    "code": "01113",
+    "flavor": "\"Es gibt nichts Schlimmeres, als diesen wunderschönen blauen Ball aus Daten gerade außerhalb deiner Reichweite zu sehen, wenn deine Verbindung zusammenbricht. Ich glaube die machen das, nur um uns zu ärgern.\" - Ele \"Smoke\" Scovak",
+    "keywords": "Barriere",
+    "text": "[subroutine] Beende den Run.",
+    "title": "Rauschbarriere"
+  }
 ]

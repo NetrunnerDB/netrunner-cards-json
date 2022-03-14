@@ -1,0 +1,16 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "helheim_servers",
+  "influence_cost": 1,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "Trash 1 card from HQ: All ice protecting this server has +2 strength until the end of the run. Use this ability only during a run on this server.",
+  "stripped_title": "Helheim Servers",
+  "subtypes": ["facility"],
+  "text": "<strong>Trash 1 card from HQ</strong>: All ice protecting this server has +2 strength until the end of the run. Use this ability only during a run on this server.",
+  "title": "Helheim Servers",
+  "trash_cost": 3
+}

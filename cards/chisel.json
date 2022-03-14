@@ -1,0 +1,16 @@
+{
+  "card_type_id": "program",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "chisel",
+  "influence_cost": 4,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "Install only on a piece of ice. Host ice has -1 strength for each hosted virus counter. When you encounter host ice, if its strength is 0 or less, trash it. Otherwise, place 1 virus counter on this program.",
+  "stripped_title": "Chisel",
+  "subtypes": ["virus"],
+  "text": "Install only on a piece of ice.\nHost ice has -1 strength for each hosted virus counter.\nWhen you encounter host ice, if its strength is 0 or less, trash it. Otherwise, place 1 virus counter on this program.",
+  "title": "Chisel"
+}

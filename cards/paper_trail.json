@@ -1,0 +1,16 @@
+{
+  "advancement_requirement": 4,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "paper_trail",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you score Paper Trail, trace 6 If successful, trash all connection and job resources.",
+  "stripped_title": "Paper Trail",
+  "subtypes": ["security"],
+  "text": "When you score Paper Trail, <trace>trace 6</trace> If successful, trash all <strong>connection</strong> and <strong>job</strong> resources.",
+  "title": "Paper Trail"
+}

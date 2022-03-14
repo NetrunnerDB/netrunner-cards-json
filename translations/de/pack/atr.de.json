@@ -1,135 +1,135 @@
 [
-    {
-        "code": "06081",
-        "flavor": "\"'Was es tut?' Es tut, was immer ich verdammt noch mal von ihm will.\" -Direktorin Haas",
-        "keywords": "Initiative",
-        "text": "Sobald du die Punkte für Bifrost-Array erzielst, darfst du eine Fähigkeit der Art \"Wenn du die Punkte erzielst\" einer anderen Agenda in deinem Punktebereich auslösen. Diese Agenda darf keine Kopie von Bifrost-Array sein. ",
-        "title": "Bifrost Array"
-    },
-    {
-        "code": "06082",
-        "flavor": "Sagittarius versprach Weitsicht,\nbrachte aber nur Bedauern",
-        "keywords": "Wächter - Spürhund - Zerstörer",
-        "text": "[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg zerstöre 1 Programm. Falls deine Aufspürstärke 5 oder mehr ist, zerstöre 1 Programm.",
-        "title": "Sagittarius"
-    },
-    {
-        "code": "06083",
-        "flavor": "\"Wenn du nur weißt, wie es ist zu erobern, aber nicht wie es ist, besiegt zu werden, wehe dir …\" -Tokugawa Ieyasu",
-        "text": "Immer, wenn der Runner eine Konzernkarte zerstört (einschließlich Feindliche Infrastruktur), verursache 1 Netz-Schaden ",
-        "title": "Feindliche Infrastruktur"
-    },
-    {
-        "code": "06084",
-        "flavor": "Gemini versprach Vergnügen,\naber bot nur Schmerz.",
-        "keywords": "Wächter - Spürhund - AP",
-        "text": "[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg verursache 1 Netz-Schaden. Falls deine Aufspürstärke 5 oder größer ist, verursache 1 Netz-Schaden.",
-        "title": "Gemini"
-    },
-    {
-        "code": "06085",
-        "flavor": "\"Wir haben siebzehn Kisten von ChiLo bekommen. Wir gehen an dem Tag auf den Markt, an dem wir die Lizenzvereinbarung unterschreiben.\"",
-        "keywords": "Erweiterung",
-        "text": "Wenn du die Punkte für Lizenzerwerb erzielst, installiere und lade einen Aktivposten oder ein Upgrade vom Archiv oder HQ, ohne die Kosten dafür zu bezahlen. ",
-        "title": "Lizenzerwerb"
-    },
-    {
-        "code": "06086",
-        "flavor": "\"Eine neue Investition jeden Morgen! Ergreifen Sie den Stier bei den Hörnern und steuern Sie selbst Ihre Zukunft.\"",
-        "keywords": "Sendung",
-        "text": "Wenn du zum ersten Mal in einem Zug eine Karte ziehst, ziehe 1 Karte zusätzlich. Lege 1 der gezogenen Karten unter F&E.",
-        "title": "Tägliche Wirtschafts-Sendung "
-    },
-    {
-        "code": "06087",
-        "flavor": "\"Unsere neuen Barrieren werden auf dem Schutt unserer Feinde errichtet\".",
-        "keywords": "Sicherheit",
-        "text": "Jedes Ice mit <strong>Barriere</strong> hat +1 Stärke.\nSobald du die Punkte für Überlegene Cybermauern erzielst, erhältst du 1[credit] für jede geladene <strong>Barriere</strong>.",
-        "title": "Überlegene Cybermauern "
-    },
-    {
-        "code": "06088",
-        "flavor": "\"Noch mal, aber dieses Mal mit weniger deutlicher Aussprache. Ein paar Tröüfchen Spucke wären vielleicht gut.\"",
-        "text": "Wenn dein Zug beginnt, darfst du eine Karte laden und dabei die Ladekosten um 1[credit] senken.\n1[credit],[trash]: Durchsuche F&E nach einem Aktivposten, decke ihn auf und füge ihn dem HQ hinzu. Mische F&E.",
-        "title": "Bootcamp für Führungskräfte "
-    },
-    {
-        "code": "06089",
-        "flavor": "\"Das ist merkwürdig. Ich bin wieder ins System eingedrungen und es schien, als würde ein völlig anderes Ice auf mich warten. Habe meinen Root-Prozeß verloren. Ich hätte ihn nicht siebenfach verschachteln sollen.\"",
-        "keywords": "Wächter - Zerstörer - Morph",
-        "text": "Lycan kann entwickelt werden\nSolange eine ungerade Anzahl von Entwicklungsmarkern auf Lycan liegt, erhält er  <strong>Code-Zugang</strong> und verliert <strong>Wächter</strong>.\n[subroutine] Zerstöre 1 Programm.",
-        "title": "Lycan"
-    },
-    {
-        "code": "06090",
-        "flavor": "Das letzte, was er sah, war die Tätowierung am Hals seines Entführers - eine merkwürdige Bestie. Sie hatte den Kopf einer Ziege, den Körper eines Löwen und den Schwanz einer Schlange. Dann bekam er einen Sack über den Kopf und es wurde dunkel um ihn.",
-        "keywords": "Graue Ops",
-        "text": "<trace>Aufspüren 3</trace> Bei Erfolg, zerstöre 1 <strong>Kontakt</strong>. Der Runner kann 1 Markierung nehmen, um das zu verhindern.",
-        "title": "Schneller Zugriff"
-    },
-    {
-        "code": "06091",
-        "flavor": "Er, der den Stab der Weisheit hält.",
-        "keywords": "Code-Zugang - Gral - AP",
-        "text": "Sobald der Runner auf Merlin trifft, darfst du bis zu 2 <strong>Gral</strong>-Ice vom HQ aufdecken. Für den Rest dieses Runs erhält Merlin die Subroutinen des aufgedeckten Ice in der Reihenfolge deiner Wahl.\n[subroutine] Verursache 2 Netz-Schaden.",
-        "title": "Merlin"
-    },
-    {
-        "code": "06092",
-        "text": "Du kannst Scheinfirma nicht mehr als ein Mal pro Zug verwenden.\n[click]: Lege 3[credit] auf Scheinfirma.\n[click]: Nimm alle Credits von Scheinfirma.",
-        "title": "Scheinfirma"
-    },
-    {
-        "code": "06093",
-        "flavor": "\"Manchmal braucht man einfach ein Hirn in einem Glas\" -g00ru",
-        "keywords": "Konsole",
-        "text": "Dein Speicherlimit entspricht der Zahl der Karten in deinem Griff\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Ekomind"
-    },
-    {
-        "code": "06094",
-        "flavor": "\"Er mag nur lebendes Fleisch.\" -MaxX",
-        "keywords": "Ice-Brecher - Killer",
-        "text": "Lege 4 Wirkungszähler auf Cerberus \"Cuj.0\" H3, wenn er installiert wird.\n<strong>Gehosteter Wirkungszähler</strong>: Schalte bis zu 2 Subroutinen eines <strong>Wächters</strong> aus.\n1[credit]: +1 Stärke.",
-        "title": "Cerberus \"Cuj.0\" H3"
-    },
-    {
-        "code": "06095",
-        "flavor": "\"Ich würde ja sagen, ich tu es wegen der Herausforderung, aber in Wahrheit ist es gar nicht so schwer.\"",
-        "keywords": "Natürlich",
-        "text": "Immer wenn die Punkte für eine Agenda erzielt werden oder sie gestohlen wird, füge 1 ungeladene Karte zum HQ hinzu. ",
-        "title": "Leela Patel: Ausgebildete Pragmatikerin"
-    },
-    {
-        "code": "06096",
-        "flavor": "\"Nützlich, um alle möglichen Sachen zu h olen … aber man sollte ein Leckerli griffbereit haben, wenn er es haben möchte.\" -Iain Stirling",
-        "keywords": "Ice-Brecher - Decoder",
-        "text": "Lege 4 Wirkungszähler auf Cerberus \"Rex\" H2 , wenn er installiert wird.\n<strong>Gehosteter Wirkungszähler</strong>: Schalte bis zu 2 Subroutinen eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +1 Stärke.",
-        "title": "Cerberus \"Rex\" H2"
-    },
-    {
-        "code": "06097",
-        "flavor": "\"Sie liefern alles überall hin. Stell aber sicher, dass du Luftlöcher verlangst, wenn du jemand wichtigen liefern lässt.\"",
-        "text": "Lege 1[credit] auf Spedition Zona Sul, wenn dein Zug beginnt.\n[click]: Nimm alle Credits von Spedition Zona Sul.\nZerstöre Spedition Zona Sul, falls du markiert bist.",
-        "title": "Spedition Zona Sul"
-    },
-    {
-        "code": "06098",
-        "flavor": "Cybsoft begann als Spieleentwickler. Schließlich gestalteten sie jedes Jahr dasselbe Spiel immer wieder neu und entwickelten, um Piraterie zu verhindern, eine spezielle Maschine, um es zu spielen. Der Profit verzehnfachte sich.",
-        "text": "1[recurring-credit]\nVerwende diesen Credit, um Programme zu installieren.",
-        "title": "Cybsoft-MacroDrive"
-    },
-    {
-        "code": "06099",
-        "flavor": "\"Wenn sie bellt, ok, Wenn sie beißt, fehlt dir mehr als nur ein Byte.\" -Chaos Theory",
-        "keywords": "Ice-Brecher - Fracter",
-        "text": "Lege 4 Wirkungszähler auf Cerberus \"Lady\" H1, wenn sie installiert wird.\n<strong>Gehosteter Wirkungszähler</strong>: Schalte bis zu 2 Subroutinen einer <strong>Barriere</strong> aus.\n1[credit]: +1 Stärke.",
-        "title": "Cerberus \"Lady\" H1"
-    },
-    {
-        "code": "06100",
-        "keywords": "Virtuell - Quelle",
-        "text": "Immer wenn du einen erfolgreichen Run auf HQ durchführst, kannst du, statt auf Karten zuzugreifen, Scherbe von Utopia aus deinem Griff installieren, ohne die Kosten zu bezahlen.\n[trash]: Der Kon legt 2 Karten zufällig vom HQ ab.\nNur 1 pro Deck.",
-        "title": "Scherbe von Utopia"
-    }
+  {
+    "code": "06081",
+    "flavor": "\"'Was es tut?' Es tut, was immer ich verdammt noch mal von ihm will.\" -Direktorin Haas",
+    "keywords": "Initiative",
+    "text": "Sobald du die Punkte für Bifrost-Array erzielst, darfst du eine Fähigkeit der Art \"Wenn du die Punkte erzielst\" einer anderen Agenda in deinem Punktebereich auslösen. Diese Agenda darf keine Kopie von Bifrost-Array sein. ",
+    "title": "Bifrost Array"
+  },
+  {
+    "code": "06082",
+    "flavor": "Sagittarius versprach Weitsicht,\nbrachte aber nur Bedauern",
+    "keywords": "Wächter - Spürhund - Zerstörer",
+    "text": "[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg zerstöre 1 Programm. Falls deine Aufspürstärke 5 oder mehr ist, zerstöre 1 Programm.",
+    "title": "Sagittarius"
+  },
+  {
+    "code": "06083",
+    "flavor": "\"Wenn du nur weißt, wie es ist zu erobern, aber nicht wie es ist, besiegt zu werden, wehe dir …\" -Tokugawa Ieyasu",
+    "text": "Immer, wenn der Runner eine Konzernkarte zerstört (einschließlich Feindliche Infrastruktur), verursache 1 Netz-Schaden ",
+    "title": "Feindliche Infrastruktur"
+  },
+  {
+    "code": "06084",
+    "flavor": "Gemini versprach Vergnügen,\naber bot nur Schmerz.",
+    "keywords": "Wächter - Spürhund - AP",
+    "text": "[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg verursache 1 Netz-Schaden. Falls deine Aufspürstärke 5 oder größer ist, verursache 1 Netz-Schaden.",
+    "title": "Gemini"
+  },
+  {
+    "code": "06085",
+    "flavor": "\"Wir haben siebzehn Kisten von ChiLo bekommen. Wir gehen an dem Tag auf den Markt, an dem wir die Lizenzvereinbarung unterschreiben.\"",
+    "keywords": "Erweiterung",
+    "text": "Wenn du die Punkte für Lizenzerwerb erzielst, installiere und lade einen Aktivposten oder ein Upgrade vom Archiv oder HQ, ohne die Kosten dafür zu bezahlen. ",
+    "title": "Lizenzerwerb"
+  },
+  {
+    "code": "06086",
+    "flavor": "\"Eine neue Investition jeden Morgen! Ergreifen Sie den Stier bei den Hörnern und steuern Sie selbst Ihre Zukunft.\"",
+    "keywords": "Sendung",
+    "text": "Wenn du zum ersten Mal in einem Zug eine Karte ziehst, ziehe 1 Karte zusätzlich. Lege 1 der gezogenen Karten unter F&E.",
+    "title": "Tägliche Wirtschafts-Sendung "
+  },
+  {
+    "code": "06087",
+    "flavor": "\"Unsere neuen Barrieren werden auf dem Schutt unserer Feinde errichtet\".",
+    "keywords": "Sicherheit",
+    "text": "Jedes Ice mit <strong>Barriere</strong> hat +1 Stärke.\nSobald du die Punkte für Überlegene Cybermauern erzielst, erhältst du 1[credit] für jede geladene <strong>Barriere</strong>.",
+    "title": "Überlegene Cybermauern "
+  },
+  {
+    "code": "06088",
+    "flavor": "\"Noch mal, aber dieses Mal mit weniger deutlicher Aussprache. Ein paar Tröüfchen Spucke wären vielleicht gut.\"",
+    "text": "Wenn dein Zug beginnt, darfst du eine Karte laden und dabei die Ladekosten um 1[credit] senken.\n1[credit],[trash]: Durchsuche F&E nach einem Aktivposten, decke ihn auf und füge ihn dem HQ hinzu. Mische F&E.",
+    "title": "Bootcamp für Führungskräfte "
+  },
+  {
+    "code": "06089",
+    "flavor": "\"Das ist merkwürdig. Ich bin wieder ins System eingedrungen und es schien, als würde ein völlig anderes Ice auf mich warten. Habe meinen Root-Prozeß verloren. Ich hätte ihn nicht siebenfach verschachteln sollen.\"",
+    "keywords": "Wächter - Zerstörer - Morph",
+    "text": "Lycan kann entwickelt werden\nSolange eine ungerade Anzahl von Entwicklungsmarkern auf Lycan liegt, erhält er  <strong>Code-Zugang</strong> und verliert <strong>Wächter</strong>.\n[subroutine] Zerstöre 1 Programm.",
+    "title": "Lycan"
+  },
+  {
+    "code": "06090",
+    "flavor": "Das letzte, was er sah, war die Tätowierung am Hals seines Entführers - eine merkwürdige Bestie. Sie hatte den Kopf einer Ziege, den Körper eines Löwen und den Schwanz einer Schlange. Dann bekam er einen Sack über den Kopf und es wurde dunkel um ihn.",
+    "keywords": "Graue Ops",
+    "text": "<trace>Aufspüren 3</trace> Bei Erfolg, zerstöre 1 <strong>Kontakt</strong>. Der Runner kann 1 Markierung nehmen, um das zu verhindern.",
+    "title": "Schneller Zugriff"
+  },
+  {
+    "code": "06091",
+    "flavor": "Er, der den Stab der Weisheit hält.",
+    "keywords": "Code-Zugang - Gral - AP",
+    "text": "Sobald der Runner auf Merlin trifft, darfst du bis zu 2 <strong>Gral</strong>-Ice vom HQ aufdecken. Für den Rest dieses Runs erhält Merlin die Subroutinen des aufgedeckten Ice in der Reihenfolge deiner Wahl.\n[subroutine] Verursache 2 Netz-Schaden.",
+    "title": "Merlin"
+  },
+  {
+    "code": "06092",
+    "text": "Du kannst Scheinfirma nicht mehr als ein Mal pro Zug verwenden.\n[click]: Lege 3[credit] auf Scheinfirma.\n[click]: Nimm alle Credits von Scheinfirma.",
+    "title": "Scheinfirma"
+  },
+  {
+    "code": "06093",
+    "flavor": "\"Manchmal braucht man einfach ein Hirn in einem Glas\" -g00ru",
+    "keywords": "Konsole",
+    "text": "Dein Speicherlimit entspricht der Zahl der Karten in deinem Griff\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Ekomind"
+  },
+  {
+    "code": "06094",
+    "flavor": "\"Er mag nur lebendes Fleisch.\" -MaxX",
+    "keywords": "Ice-Brecher - Killer",
+    "text": "Lege 4 Wirkungszähler auf Cerberus \"Cuj.0\" H3, wenn er installiert wird.\n<strong>Gehosteter Wirkungszähler</strong>: Schalte bis zu 2 Subroutinen eines <strong>Wächters</strong> aus.\n1[credit]: +1 Stärke.",
+    "title": "Cerberus \"Cuj.0\" H3"
+  },
+  {
+    "code": "06095",
+    "flavor": "\"Ich würde ja sagen, ich tu es wegen der Herausforderung, aber in Wahrheit ist es gar nicht so schwer.\"",
+    "keywords": "Natürlich",
+    "text": "Immer wenn die Punkte für eine Agenda erzielt werden oder sie gestohlen wird, füge 1 ungeladene Karte zum HQ hinzu. ",
+    "title": "Leela Patel: Ausgebildete Pragmatikerin"
+  },
+  {
+    "code": "06096",
+    "flavor": "\"Nützlich, um alle möglichen Sachen zu h olen … aber man sollte ein Leckerli griffbereit haben, wenn er es haben möchte.\" -Iain Stirling",
+    "keywords": "Ice-Brecher - Decoder",
+    "text": "Lege 4 Wirkungszähler auf Cerberus \"Rex\" H2 , wenn er installiert wird.\n<strong>Gehosteter Wirkungszähler</strong>: Schalte bis zu 2 Subroutinen eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +1 Stärke.",
+    "title": "Cerberus \"Rex\" H2"
+  },
+  {
+    "code": "06097",
+    "flavor": "\"Sie liefern alles überall hin. Stell aber sicher, dass du Luftlöcher verlangst, wenn du jemand wichtigen liefern lässt.\"",
+    "text": "Lege 1[credit] auf Spedition Zona Sul, wenn dein Zug beginnt.\n[click]: Nimm alle Credits von Spedition Zona Sul.\nZerstöre Spedition Zona Sul, falls du markiert bist.",
+    "title": "Spedition Zona Sul"
+  },
+  {
+    "code": "06098",
+    "flavor": "Cybsoft begann als Spieleentwickler. Schließlich gestalteten sie jedes Jahr dasselbe Spiel immer wieder neu und entwickelten, um Piraterie zu verhindern, eine spezielle Maschine, um es zu spielen. Der Profit verzehnfachte sich.",
+    "text": "1[recurring-credit]\nVerwende diesen Credit, um Programme zu installieren.",
+    "title": "Cybsoft-MacroDrive"
+  },
+  {
+    "code": "06099",
+    "flavor": "\"Wenn sie bellt, ok, Wenn sie beißt, fehlt dir mehr als nur ein Byte.\" -Chaos Theory",
+    "keywords": "Ice-Brecher - Fracter",
+    "text": "Lege 4 Wirkungszähler auf Cerberus \"Lady\" H1, wenn sie installiert wird.\n<strong>Gehosteter Wirkungszähler</strong>: Schalte bis zu 2 Subroutinen einer <strong>Barriere</strong> aus.\n1[credit]: +1 Stärke.",
+    "title": "Cerberus \"Lady\" H1"
+  },
+  {
+    "code": "06100",
+    "keywords": "Virtuell - Quelle",
+    "text": "Immer wenn du einen erfolgreichen Run auf HQ durchführst, kannst du, statt auf Karten zuzugreifen, Scherbe von Utopia aus deinem Griff installieren, ohne die Kosten zu bezahlen.\n[trash]: Der Kon legt 2 Karten zufällig vom HQ ab.\nNur 1 pro Deck.",
+    "title": "Scherbe von Utopia"
+  }
 ]

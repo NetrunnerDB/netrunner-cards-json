@@ -1,0 +1,16 @@
+{
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "turnpike",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "When the Runner encounters Turnpike, he or she loses 1 credit. Subroutine Trace 5 If successful, give the Runner 1 tag.",
+  "stripped_title": "Turnpike",
+  "subtypes": ["sentry", "tracer"],
+  "text": "When the Runner encounters Turnpike, he or she loses 1[credit].\n[subroutine] <trace>Trace 5</trace> If successful, give the Runner 1 tag.",
+  "title": "Turnpike"
+}

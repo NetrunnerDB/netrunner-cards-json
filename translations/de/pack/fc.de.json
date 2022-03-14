@@ -1,137 +1,137 @@
 [
-    {
-        "code": "06041",
-        "flavor": "Erschaffen durch die Vereinigung von Hirnscans von mehr als hundert der intelligentesten Menschen in der Cerebral-Datenbank von Haas-Bioroid, eingeschränkt durch seinen Mangel an Vorstellungskraft oder die Vorstellungskraft der Sysops, die sie nutzen.",
-        "keywords": "Code-Zugang",
-        "text": "Die Ladekosten von IQ werden für jede Karte im HQ um 1 erhöht.\nIQ hat +1 Stärke für jede Karte im HQ.\n[subroutine] Beende den Run.",
-        "title": "IQ"
-    },
-    {
-        "code": "06042",
-        "flavor": "Elizas Spielzeugkiste ist der vorherrschende Anbieter hochklassiger Ausschweifungen auf dem Mond, dank seiner Biodoid-Vergnügungsmodelle und anderer exotischer Spielzeuge. Jede Fantasie hat ihren Preis.",
-        "keywords": "Protzig",
-        "text": "[click],[click],[click]: Lade eine Karte, ohne die Kosten zu bezahlen.",
-        "title": "Elizas Spielzeugkiste"
-    },
-    {
-        "code": "06043",
-        "flavor": "Es gibt Leute, die glauben, der neunschwänzige Fuchs ist ein Engel in Verkleidung. Und es gibt Leute, die ihr gefolgt sind und ihr Geheimnis ergründet haben.",
-        "keywords": "Mythisch - Falle",
-        "text": "[subroutine] Der Kon darf eine Karte im HQ auswählen. Der Runner greift auf diese Karte zu. Falls er das tut zerstöre Kitsune.",
-        "title": "Kitsune"
-    },
-    {
-        "code": "06044",
-        "flavor": "Der Hafen wurde ursprünglich als abgelegener Ort errichtet, um gefährliche Verbrecher abzuladen und zu entsorgen.",
-        "keywords": "Region",
-        "text": "Der Runner kann sich nicht ausstöpseln, wenn er einen Run auf dieses System durchführt, außer er zerstört ein installiertes Programm.\nMaximal 1 <strong>Region</strong> pro System.",
-        "title": "Netz von Port Anson"
-    },
-    {
-        "code": "06045",
-        "flavor": "\"Berichten zufolge gibt es eine terroristische Bedrohung im Raumhafen Kayuga. Das NAPD hat eine Belohnung für jeden ausgesetzt, der sachdienliche Hinweise zum Aufenthaltsort der hier abgebildeten Person liefern kann. Er gilt als extrem gefährlich und ist meinem PAD und tragbarer Runnerausrüstung bewaffnet.\"",
-        "keywords": "Sendung",
-        "text": "Der Runner kann keine <strong>Aktuell</strong>-Ereignisse spielen.",
-        "title": "Die Aktuelle Nachrichten-Stunde"
-    },
-    {
-        "code": "06046",
-        "keywords": "Aktuell",
-        "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nNach dem ersten erfolgreichen Run in jedem Zug des Runners, <trace>Aufspüren 2</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
-        "title": "Menschenjagd"
-    },
-    {
-        "code": "06047",
-        "keywords": "Code-Zugang - Morph",
-        "text": "Wendigo kann entwickelt werden. Solange Wendigo eine ungerade Anzahl von Entwicklungsmarkern hat, erhält er <strong>Barriere</strong> und verliert <strong>Code-Zugang</strong>. [subroutine] Wähle ein Programm. Der Runner kann dieses Programm für den Rest des Runs nicht mehr verwenden.",
-        "title": "Wendigo"
-    },
-    {
-        "code": "06048",
-        "flavor": "Ohne die Gagarin-Fabriken bei Promontorium Agarum wäre der Mars nie kolonisiert worden.",
-        "keywords": "Region",
-        "text": "Erfolgreiche Runs auf dieses System gelten im Hinblick auf Kartenfähigkeiten weder als erfolgreich noch als nicht erfolgreich.\nMaximal 1 <strong>Region</strong> pro System.",
-        "title": "Crisium-Netz"
-    },
-    {
-        "code": "06049",
-        "flavor": "Schon ironisch, dass jene, die bestimmte Erinnerungen auslöschen wollen, sich das nicht leisten können, und jene, die es sich leisten könnten - naja, die beschäftigen sich lieber damit, Traumwein zu trinken.",
-        "keywords": "Forschung",
-        "text": "Wenn du die Punkte für Projekt Chronos erzielst, entfernt der Runner alle Karten in seiner Ablage aus dem Spiel.",
-        "title": "Projekt Chronos"
-    },
-    {
-        "code": "06050",
-        "keywords": "Hinterhalt",
-        "text": "Zerbrochene Überreste kann entwickelt werden.\nFalls du 1[credit] zahlst, wenn der Runner auf Zerbrochene Überreste zugreift, zerstöre 1 Hardware für jeden Entwicklungsmarker auf Zerbrochene Überreste.",
-        "title": "Zerbrochene Überreste"
-    },
-    {
-        "code": "06051",
-        "flavor": "Er, der das Schwert der Tapferkeit führt.",
-        "keywords": "Wächter - Gral - Zerstörer",
-        "text": "Sobald der Runner auf Lancelot trifft, darfst du bis zu 2 <strong>Gral</strong>-Ice vom HQ aufdecken. Für den Rest des Rus erhält Lancelot die Subroutinen des aufgedeckten Ice in der Reihenfolge deiner Wahl.\n[subroutine] Zerstöre 1 Programm.",
-        "title": "Lancelot"
-    },
-    {
-        "code": "06052",
-        "flavor": "\"Warum sollten wir Sklaven unseres genetischen Erbes sein?\"",
-        "keywords": "G-mod",
-        "text": "Schalte einmal pro Zug 1 Subroutine einer <strong>Barriere</strong> aus.",
-        "title": "Quetzal: Freigeist"
-    },
-    {
-        "code": "06053",
-        "flavor": "Pech für jeden Sysop, der blind genug ist, ihr über den Weg zu laufen.",
-        "keywords": "Ice-Brecher - Fracter",
-        "text": "1[credit]: Schalte 1 Subroutine einer <strong>Barriere</strong> aus (oder bis zu 3 Subroutinen, falls du 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgibst).\n2[credit]: +1 Stärke (oder +2 Stärke, falls du mindestens 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgibst).",
-        "title": "Schwarze Katze"
-    },
-    {
-        "code": "06054",
-        "flavor": "Das direkt aus dem Mondfelsen geschlagene Duggar's ist ein beliebter Treffpunkt für durchgeknallte Arbeiter und abenteuerlustige Kids der Reichen und Schönen. Ein Ort, wo man alles bekommt, was man will -  falls man weiß, an wen man sich wenden muss, und sich dabei nicht von den energiesprühenden Tänzerinnen ablenken lässt.",
-        "keywords": "Ort - Zwielichtig",
-        "text": "[click],[click],[click],[click]: Ziehe 10 Karten.",
-        "title": "Duggar's"
-    },
-    {
-        "code": "06055",
-        "keywords": "Konsole",
-        "text": "+2[mu]\nDeine maximale Handkartenzahl wird um 2 erhöht.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Box-E"
-    },
-    {
-        "code": "06056",
-        "flavor": "\"Ich kann Ihnen alles besorgen und garantiere Ihnen auch die besten Preise in der Stadt.\"",
-        "keywords": "Kontakt",
-        "text": "[click]: Hoste eine Ressource oder Hardware aus deinem Griff auf Der Besorger.\nWenn dein Zug beginnt, darfst du eine gehostete Karte installieren und dabei die Installationskosten um 2 senken.",
-        "title": "Der Bersorger"
-    },
-    {
-        "code": "06057",
-        "flavor": "\"Wenn du so aussiehst, als ob du dazugehörst, ignorieren dich andere Menschen stundenlang. Oder auch jahrelang. Erst, wenn du nicht dazupasst, fängt die Sache an, schiefzugehen.\" -Exile",
-        "keywords": "Ice-Brecher - Decoder",
-        "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +3 Stärke. Diese Fertigkeit kann nur mit Credits von einer <strong>Heimlichkeit</strong>-Karte verwendet werden.",
-        "title": "Refraktor"
-    },
-    {
-        "code": "06058",
-        "flavor": "Es gab mehrere Versuche, eine „Weltkirche“ zu erschaffen, in der alle Religionen der Menschheit zu einem harmonischen Ganzen vereint werden sollten. Die Ironie liegt natürlich darin, dass jede neue „Weltkirche“ eine weitere Spaltung im religiösen Leben der Menschheit darstellt.",
-        "keywords": "Ort",
-        "text": "Hast du zum ersten Mal in einem zug keine Credits in deinem Credit-Vorrat, erhältst du 1[credit].",
-        "title": "Orden von Sol"
-    },
-    {
-        "code": "06059",
-        "keywords": "Virtuell - Quelle",
-        "text": "Immer, wenn du einen erfolgreichen Run auf das Archiv durchführst, darfst du, statt auf Karten zuzugreifen, Scherbe des Hades aus deinem Griff installieren, ohne die Kosten zu bezahlen.\n[trash]: Greife auf alle Karten im Archiv zu.\nNur 1 pro Deck.",
-        "title": "Scherbe des Hades"
-    },
-    {
-        "code": "06060",
-        "flavor": "\"Das ist Rachel Beckman. Ihr Job ist es, Menschen am Leben zu halten.\"\nRachel lächelte. \"Nur, wenn es nicht mein Job ist, sie zu töten\"",
-        "keywords": "Kontakt",
-        "text": "Du hast in jedem Zug 1 zusätzlichen [click].\nZerstöre Rachel Beckman, wenn du markiert bist.",
-        "title": "Rachel Beckman"
-    }
+  {
+    "code": "06041",
+    "flavor": "Erschaffen durch die Vereinigung von Hirnscans von mehr als hundert der intelligentesten Menschen in der Cerebral-Datenbank von Haas-Bioroid, eingeschränkt durch seinen Mangel an Vorstellungskraft oder die Vorstellungskraft der Sysops, die sie nutzen.",
+    "keywords": "Code-Zugang",
+    "text": "Die Ladekosten von IQ werden für jede Karte im HQ um 1 erhöht.\nIQ hat +1 Stärke für jede Karte im HQ.\n[subroutine] Beende den Run.",
+    "title": "IQ"
+  },
+  {
+    "code": "06042",
+    "flavor": "Elizas Spielzeugkiste ist der vorherrschende Anbieter hochklassiger Ausschweifungen auf dem Mond, dank seiner Biodoid-Vergnügungsmodelle und anderer exotischer Spielzeuge. Jede Fantasie hat ihren Preis.",
+    "keywords": "Protzig",
+    "text": "[click],[click],[click]: Lade eine Karte, ohne die Kosten zu bezahlen.",
+    "title": "Elizas Spielzeugkiste"
+  },
+  {
+    "code": "06043",
+    "flavor": "Es gibt Leute, die glauben, der neunschwänzige Fuchs ist ein Engel in Verkleidung. Und es gibt Leute, die ihr gefolgt sind und ihr Geheimnis ergründet haben.",
+    "keywords": "Mythisch - Falle",
+    "text": "[subroutine] Der Kon darf eine Karte im HQ auswählen. Der Runner greift auf diese Karte zu. Falls er das tut zerstöre Kitsune.",
+    "title": "Kitsune"
+  },
+  {
+    "code": "06044",
+    "flavor": "Der Hafen wurde ursprünglich als abgelegener Ort errichtet, um gefährliche Verbrecher abzuladen und zu entsorgen.",
+    "keywords": "Region",
+    "text": "Der Runner kann sich nicht ausstöpseln, wenn er einen Run auf dieses System durchführt, außer er zerstört ein installiertes Programm.\nMaximal 1 <strong>Region</strong> pro System.",
+    "title": "Netz von Port Anson"
+  },
+  {
+    "code": "06045",
+    "flavor": "\"Berichten zufolge gibt es eine terroristische Bedrohung im Raumhafen Kayuga. Das NAPD hat eine Belohnung für jeden ausgesetzt, der sachdienliche Hinweise zum Aufenthaltsort der hier abgebildeten Person liefern kann. Er gilt als extrem gefährlich und ist meinem PAD und tragbarer Runnerausrüstung bewaffnet.\"",
+    "keywords": "Sendung",
+    "text": "Der Runner kann keine <strong>Aktuell</strong>-Ereignisse spielen.",
+    "title": "Die Aktuelle Nachrichten-Stunde"
+  },
+  {
+    "code": "06046",
+    "keywords": "Aktuell",
+    "text": "Diese Karte wird nicht zerstört, bis eine andere <strong>Aktuell</strong>-Karte gespielt oder eine Agenda gestohlen wird.\nNach dem ersten erfolgreichen Run in jedem Zug des Runners, <trace>Aufspüren 2</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+    "title": "Menschenjagd"
+  },
+  {
+    "code": "06047",
+    "keywords": "Code-Zugang - Morph",
+    "text": "Wendigo kann entwickelt werden. Solange Wendigo eine ungerade Anzahl von Entwicklungsmarkern hat, erhält er <strong>Barriere</strong> und verliert <strong>Code-Zugang</strong>. [subroutine] Wähle ein Programm. Der Runner kann dieses Programm für den Rest des Runs nicht mehr verwenden.",
+    "title": "Wendigo"
+  },
+  {
+    "code": "06048",
+    "flavor": "Ohne die Gagarin-Fabriken bei Promontorium Agarum wäre der Mars nie kolonisiert worden.",
+    "keywords": "Region",
+    "text": "Erfolgreiche Runs auf dieses System gelten im Hinblick auf Kartenfähigkeiten weder als erfolgreich noch als nicht erfolgreich.\nMaximal 1 <strong>Region</strong> pro System.",
+    "title": "Crisium-Netz"
+  },
+  {
+    "code": "06049",
+    "flavor": "Schon ironisch, dass jene, die bestimmte Erinnerungen auslöschen wollen, sich das nicht leisten können, und jene, die es sich leisten könnten - naja, die beschäftigen sich lieber damit, Traumwein zu trinken.",
+    "keywords": "Forschung",
+    "text": "Wenn du die Punkte für Projekt Chronos erzielst, entfernt der Runner alle Karten in seiner Ablage aus dem Spiel.",
+    "title": "Projekt Chronos"
+  },
+  {
+    "code": "06050",
+    "keywords": "Hinterhalt",
+    "text": "Zerbrochene Überreste kann entwickelt werden.\nFalls du 1[credit] zahlst, wenn der Runner auf Zerbrochene Überreste zugreift, zerstöre 1 Hardware für jeden Entwicklungsmarker auf Zerbrochene Überreste.",
+    "title": "Zerbrochene Überreste"
+  },
+  {
+    "code": "06051",
+    "flavor": "Er, der das Schwert der Tapferkeit führt.",
+    "keywords": "Wächter - Gral - Zerstörer",
+    "text": "Sobald der Runner auf Lancelot trifft, darfst du bis zu 2 <strong>Gral</strong>-Ice vom HQ aufdecken. Für den Rest des Rus erhält Lancelot die Subroutinen des aufgedeckten Ice in der Reihenfolge deiner Wahl.\n[subroutine] Zerstöre 1 Programm.",
+    "title": "Lancelot"
+  },
+  {
+    "code": "06052",
+    "flavor": "\"Warum sollten wir Sklaven unseres genetischen Erbes sein?\"",
+    "keywords": "G-mod",
+    "text": "Schalte einmal pro Zug 1 Subroutine einer <strong>Barriere</strong> aus.",
+    "title": "Quetzal: Freigeist"
+  },
+  {
+    "code": "06053",
+    "flavor": "Pech für jeden Sysop, der blind genug ist, ihr über den Weg zu laufen.",
+    "keywords": "Ice-Brecher - Fracter",
+    "text": "1[credit]: Schalte 1 Subroutine einer <strong>Barriere</strong> aus (oder bis zu 3 Subroutinen, falls du 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgibst).\n2[credit]: +1 Stärke (oder +2 Stärke, falls du mindestens 1 Credit von einer <strong>Heimlichkeit</strong>-Karte ausgibst).",
+    "title": "Schwarze Katze"
+  },
+  {
+    "code": "06054",
+    "flavor": "Das direkt aus dem Mondfelsen geschlagene Duggar's ist ein beliebter Treffpunkt für durchgeknallte Arbeiter und abenteuerlustige Kids der Reichen und Schönen. Ein Ort, wo man alles bekommt, was man will -  falls man weiß, an wen man sich wenden muss, und sich dabei nicht von den energiesprühenden Tänzerinnen ablenken lässt.",
+    "keywords": "Ort - Zwielichtig",
+    "text": "[click],[click],[click],[click]: Ziehe 10 Karten.",
+    "title": "Duggar's"
+  },
+  {
+    "code": "06055",
+    "keywords": "Konsole",
+    "text": "+2[mu]\nDeine maximale Handkartenzahl wird um 2 erhöht.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Box-E"
+  },
+  {
+    "code": "06056",
+    "flavor": "\"Ich kann Ihnen alles besorgen und garantiere Ihnen auch die besten Preise in der Stadt.\"",
+    "keywords": "Kontakt",
+    "text": "[click]: Hoste eine Ressource oder Hardware aus deinem Griff auf Der Besorger.\nWenn dein Zug beginnt, darfst du eine gehostete Karte installieren und dabei die Installationskosten um 2 senken.",
+    "title": "Der Bersorger"
+  },
+  {
+    "code": "06057",
+    "flavor": "\"Wenn du so aussiehst, als ob du dazugehörst, ignorieren dich andere Menschen stundenlang. Oder auch jahrelang. Erst, wenn du nicht dazupasst, fängt die Sache an, schiefzugehen.\" -Exile",
+    "keywords": "Ice-Brecher - Decoder",
+    "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n1[credit]: +3 Stärke. Diese Fertigkeit kann nur mit Credits von einer <strong>Heimlichkeit</strong>-Karte verwendet werden.",
+    "title": "Refraktor"
+  },
+  {
+    "code": "06058",
+    "flavor": "Es gab mehrere Versuche, eine „Weltkirche“ zu erschaffen, in der alle Religionen der Menschheit zu einem harmonischen Ganzen vereint werden sollten. Die Ironie liegt natürlich darin, dass jede neue „Weltkirche“ eine weitere Spaltung im religiösen Leben der Menschheit darstellt.",
+    "keywords": "Ort",
+    "text": "Hast du zum ersten Mal in einem zug keine Credits in deinem Credit-Vorrat, erhältst du 1[credit].",
+    "title": "Orden von Sol"
+  },
+  {
+    "code": "06059",
+    "keywords": "Virtuell - Quelle",
+    "text": "Immer, wenn du einen erfolgreichen Run auf das Archiv durchführst, darfst du, statt auf Karten zuzugreifen, Scherbe des Hades aus deinem Griff installieren, ohne die Kosten zu bezahlen.\n[trash]: Greife auf alle Karten im Archiv zu.\nNur 1 pro Deck.",
+    "title": "Scherbe des Hades"
+  },
+  {
+    "code": "06060",
+    "flavor": "\"Das ist Rachel Beckman. Ihr Job ist es, Menschen am Leben zu halten.\"\nRachel lächelte. \"Nur, wenn es nicht mein Job ist, sie zu töten\"",
+    "keywords": "Kontakt",
+    "text": "Du hast in jedem Zug 1 zusätzlichen [click].\nZerstöre Rachel Beckman, wenn du markiert bist.",
+    "title": "Rachel Beckman"
+  }
 ]

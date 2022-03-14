@@ -1,130 +1,130 @@
 [
-    {
-        "code": "21021",
-        "flavor": "Das System ist so tief gerootet, wer weiß, wie weit die Kabel reichen?",
-        "text": "Immer wenn der Kon Viruszähler löscht, darfst du 1[credit] für jeden entfernten Viruszähler erhalten und Akazie zerstören.",
-        "title": "Akazie"
-    },
-    {
-        "code": "21022",
-        "flavor": "In den Mainframe eingebettet, vermehrt es sich und verschlingt bei jeder Datenbewegung etwas.",
-        "keywords": "Virus",
-        "text": "Sobald du Pest installierst, wähle ein System.\nImmer wenn du einen erfolgreichen Run auf das gewählte System durchführst, darfst du 2 Viruszähler auf Pest legen.",
-        "title": "Pest"
-    },
-    {
-        "code": "21023",
-        "flavor": "Ein Zeitfenster von 0,19 Sekunden war alles, was er brauchte.",
-        "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nInstalliere eine Karte aus deinem Griff, senke dabei die Installationskosten um 8[credit] und du bekommst 1 Markierung verpasst.",
-        "title": "Scheckreiterei"
-    },
-    {
-        "code": "21024",
-        "flavor": "\"Er ist wohl das beste Haustier, das ich je hatte, aber ich würde ihn trotzdem für etwas besseres eintauschen.\" - 419",
-        "text": "Wenn du zum ersten Mal in einem Zug einen erfolgreichen Run auf das HQ durchführst, darfst du Wari zerstören, um eine der Unterarten <strong>Wächter</strong>, <strong>Code-Zugang</strong> oder <strong>Barriere</strong> zu benennen. Enthülle ein Ice und füge es dem HQ hinzu, falls es die benannte Unterart hat.",
-        "title": "Wari"
-    },
-    {
-        "base_link": 1,
-        "code": "21025",
-        "keywords": "G-Mod",
-        "text": "[click]: Durchsuche deinen Stapel nach einem Programm, das kein <strong>Virus</strong> ist, und installiere es. Senke dabei die Installationskosten um 1[credit]. Mische dann deinen Stapel. Falls jenes Programm immer noch installiert ist, sobald dein Zug endet, entferne es aus dem Spiel.",
-        "title": "Kabonesa Wu: Adrenalinjunkie im Netz"
-    },
-    {
-        "code": "21026",
-        "flavor": "Wenn normales Brechen es einfach nicht bringt.",
-        "text": "Immer wenn du während deiner einzigen Begegnung alle Subroutinen auf einem Ice ausschaltest, darfst du 1 Wirkungszähler auf Takobi legen.\n<strong>2 gehostete Wirkungszähler</strong>: Wähle einen <strong>Ice-Brecher</strong>, der keine <strong>KI</strong> ist. Jener <strong>Ice-Brecher</strong> hat bis zum Ende der aktuellen Begegnung +3 Stärke.",
-        "title": "Takobi"
-    },
-    {
-        "code": "21027",
-        "flavor": "Der geflügelte Schrecken Kongamato stößt von oben herab und zerfleischt seine Beute mit einem einzigen Biss.",
-        "keywords": "Virtuell",
-        "text": "[trash]: Schalte die erste Subroutine auf dem Ice aus, auf das du gerade triffst.",
-        "title": "Kongamato"
-    },
-    {
-        "code": "21028",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für dieses Ereignis gib [click] aus.\nZerstöre eine beliebige Anzahl Programm oder Hardware aus deinem Griff. Durchsuche deinen Stapel nach einem Programm oder einer Hardware und installiere die Karte. Senke dabei die Installationskosten um die Gesamt-Installationskosten der zerstörten Karten. Mische deinen Stapel.",
-        "title": "Emergente Kreativität"
-    },
-    {
-        "code": "21029",
-        "flavor": "Zwischen dem Nichts und der Unendlichkeit.",
-        "text": "Wenn du zum ersten Mal in einem Zug einen erfolgreichen Run auf das HQ oder F&E durchführst, darfst du eine Zahl benennen. Falls du dies tust, decke die nächste Karte auf, auf die du in diesem Run zugreifst. Falls sie Ladekosten, Ausspielkosten oder benötigte Bedingungen in Höhe der benannten Zahl hat, erhältst du entweder 3[credit] oder ziehst 2 Karten.",
-        "title": "RNG-Schlüssel"
-    },
-    {
-        "code": "21030",
-        "flavor": "Hexerei in den Augen der Unwissenden, Schönheit in den Augen der Weisen.",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Der Runner verliert [click], falls möglich. Du hast während deines nächsten Zuges einen zusätzlichen [click] zur Verfügung.\n[subroutine] Der Runner verliert [click], falls möglich. Du hast während deines nächsten Zuges einen zusätzlichen [click] zur Verfügung.",
-        "title": "Nachttänzer"
-    },
-    {
-        "code": "21031",
-        "flavor": "\"Hier wird der zweite Beanstalk der Welt entstehen, auch wenn ich mein Leben dafür geben muss.\" - Mirja Byanyima, Direktorin der VSEP",
-        "keywords": "Region",
-        "text": "Immer wenn du ein Ice ziehst, darfst du es aufdecken und es dieses System schützend installieren. Senke dabei die Installationskosten um 4[credit].\nNur 1 <strong>Region</strong> pro System.",
-        "title": "Stadtnetz von Jinja"
-    },
-    {
-        "code": "21032",
-        "flavor": "\"Hungrig, dehydriert und im Delirium entschied ich mich für eine Richtung und rannte, rannte tagelang, vielleicht sogar wochenlang. Ich rannte, bis meine Beine mich nicht mehr tragen konnten. Dann kroch ich. Als ich endlich draußen war, frei von dem Schleier, überprüfte ich Uhrzeit und Datum. Wie lange war ich fort, gefangen in der allumfassenden Schwärze? Es stellte sich raus, dass es nur 3 Minuten waren.\"",
-        "keywords": "Falle",
-        "text": "[subroutine] Zerstöre die obersten 3 Karten des Stapels. Zerstöre Aimor.",
-        "title": "Aimor"
-    },
-    {
-        "code": "21033",
-        "keywords": "Forschung",
-        "text": "Sobald du die Punkte für Bakterienprogrammierung erzielst oder sie gestohlen wird, darfst du dir die obersten 7 Karten von F&E ansehen, eine beliebige Anzahl davon dem HQ hinzufügen, eine beliebige Anzahl davon zerstören und den Rest in beliebiger Reihenfolge zurücklegen.",
-        "title": "Bakterienprogrammierung"
-    },
-    {
-        "code": "21034",
-        "flavor": "\"Erst als die Flecken vor meinem Augen verschwanden, erkannte ich, dass die Hälfte meiner Ausrüstung verschwunden war.\" - Kabonesa Wu",
-        "keywords": "Wächter",
-        "text": "Sobald der Runner auf Jua trifft, kann er bis zum Ende des Zuges keine Karten installieren.\n[subroutine] Wähle falls möglich 2 installierte Runner-Karten. Der Runner muss 1 dieser Karten oben auf seinen Stapel legen.",
-        "title": "Jua"
-    },
-    {
-        "code": "21035",
-        "keywords": "Vergeltung - Graue Ops",
-        "text": "Kann nur gespielt werden, falls der Runner während seines letzten Zuges mindestens 1 Kon-Karte zerstört hat.\nWähle eine installierte Runner-Karte. Der Runner muss jene Karte entweder oben auf den Stapel legen oder er bekommt 2 Markierungen verpasst. Entferne Bedrohungseinschätzung aus dem Spiel, statt diese Karte zu zerstören.",
-        "title": "Bedrohungseinschätzung"
-    },
-    {
-        "code": "21036",
-        "flavor": "Er fand es seltsam, dass drei weitere Läden für Frozen Yoghurt innerhalb einer Woche eröffnet wurden; weniger als einen Block von seinem entfernt.",
-        "keywords": "Graue Ops",
-        "text": "Kann nur gespielt werden, falls der Runner während seines letzten Zuges einen erfolgreichen Run durchgeführt hat.\nDer Runner verliert falls möglich 4[credit].",
-        "title": "Wirtschaftliche Kriegsführung"
-    },
-    {
-        "code": "21037",
-        "keywords": "Hinterhalt",
-        "text": "Falls von F&E auf Erzwungene Verbindung zugegriffen wird, muss der Runner sie aufdecken.\nSobald der Runner auf Erzwungene Verbindung zugreift, <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 2 Markierungen. Ignoriere diese Fähigkeit, falls der Runner vom Archiv auf Erzwungene Verbindung zugreift.",
-        "title": "Erzwungene Verbindung"
-    },
-    {
-        "code": "21038",
-        "keywords": "Initiative",
-        "text": "Sobald du die Punkte für SSL-Unterstützung erzielst oder sie gestohlen wird, lege 9[credit] aus der Bank darauf.\nSobald der Zug des Konns beginnt, darf er 3[credit] von SSL-Unterstützung nehmen. Diese Fähigkeit ist selbst dann aktiv, solange sich SSL-Unterstützung in der Punktezone des Runners befindet.",
-        "title": "SSL-Unterstützung"
-    },
-    {
-        "code": "21039",
-        "flavor": "\"Wer hätte geahnt, dass gemeinnützige Organisationen so einträglich sein können?\"",
-        "text": "NGO-Fassade kann entwickelt werden.\n[trash],<strong>1 gehosteter Entwicklungsmarker</strong>: Du erhältst 5[credit].\n[trash],<strong>2 gehostete Entwicklungsmarker</strong>: Du erhältst 8[credit].",
-        "title": "NGO-Fassade"
-    },
-    {
-        "code": "21040",
-        "flavor": "\"Essen. Trinken. Unterhaltung. Man braucht nicht viel, um die bürgerliche Gesellschaft zufriedenzustellen.\"",
-        "text": "Der Runner erhält 2[credit]. Zerstöre bis zu 2 Karten vom HQ und mische dann bis zu 2 Karten vom Archiv in F&E. Entferne Ablenkung der Massen aus dem Spiel, statt diese Karte zu zerstören.",
-        "title": "Ablenkung der Massen"
-    }
+  {
+    "code": "21021",
+    "flavor": "Das System ist so tief gerootet, wer weiß, wie weit die Kabel reichen?",
+    "text": "Immer wenn der Kon Viruszähler löscht, darfst du 1[credit] für jeden entfernten Viruszähler erhalten und Akazie zerstören.",
+    "title": "Akazie"
+  },
+  {
+    "code": "21022",
+    "flavor": "In den Mainframe eingebettet, vermehrt es sich und verschlingt bei jeder Datenbewegung etwas.",
+    "keywords": "Virus",
+    "text": "Sobald du Pest installierst, wähle ein System.\nImmer wenn du einen erfolgreichen Run auf das gewählte System durchführst, darfst du 2 Viruszähler auf Pest legen.",
+    "title": "Pest"
+  },
+  {
+    "code": "21023",
+    "flavor": "Ein Zeitfenster von 0,19 Sekunden war alles, was er brauchte.",
+    "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nInstalliere eine Karte aus deinem Griff, senke dabei die Installationskosten um 8[credit] und du bekommst 1 Markierung verpasst.",
+    "title": "Scheckreiterei"
+  },
+  {
+    "code": "21024",
+    "flavor": "\"Er ist wohl das beste Haustier, das ich je hatte, aber ich würde ihn trotzdem für etwas besseres eintauschen.\" - 419",
+    "text": "Wenn du zum ersten Mal in einem Zug einen erfolgreichen Run auf das HQ durchführst, darfst du Wari zerstören, um eine der Unterarten <strong>Wächter</strong>, <strong>Code-Zugang</strong> oder <strong>Barriere</strong> zu benennen. Enthülle ein Ice und füge es dem HQ hinzu, falls es die benannte Unterart hat.",
+    "title": "Wari"
+  },
+  {
+    "base_link": 1,
+    "code": "21025",
+    "keywords": "G-Mod",
+    "text": "[click]: Durchsuche deinen Stapel nach einem Programm, das kein <strong>Virus</strong> ist, und installiere es. Senke dabei die Installationskosten um 1[credit]. Mische dann deinen Stapel. Falls jenes Programm immer noch installiert ist, sobald dein Zug endet, entferne es aus dem Spiel.",
+    "title": "Kabonesa Wu: Adrenalinjunkie im Netz"
+  },
+  {
+    "code": "21026",
+    "flavor": "Wenn normales Brechen es einfach nicht bringt.",
+    "text": "Immer wenn du während deiner einzigen Begegnung alle Subroutinen auf einem Ice ausschaltest, darfst du 1 Wirkungszähler auf Takobi legen.\n<strong>2 gehostete Wirkungszähler</strong>: Wähle einen <strong>Ice-Brecher</strong>, der keine <strong>KI</strong> ist. Jener <strong>Ice-Brecher</strong> hat bis zum Ende der aktuellen Begegnung +3 Stärke.",
+    "title": "Takobi"
+  },
+  {
+    "code": "21027",
+    "flavor": "Der geflügelte Schrecken Kongamato stößt von oben herab und zerfleischt seine Beute mit einem einzigen Biss.",
+    "keywords": "Virtuell",
+    "text": "[trash]: Schalte die erste Subroutine auf dem Ice aus, auf das du gerade triffst.",
+    "title": "Kongamato"
+  },
+  {
+    "code": "21028",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für dieses Ereignis gib [click] aus.\nZerstöre eine beliebige Anzahl Programm oder Hardware aus deinem Griff. Durchsuche deinen Stapel nach einem Programm oder einer Hardware und installiere die Karte. Senke dabei die Installationskosten um die Gesamt-Installationskosten der zerstörten Karten. Mische deinen Stapel.",
+    "title": "Emergente Kreativität"
+  },
+  {
+    "code": "21029",
+    "flavor": "Zwischen dem Nichts und der Unendlichkeit.",
+    "text": "Wenn du zum ersten Mal in einem Zug einen erfolgreichen Run auf das HQ oder F&E durchführst, darfst du eine Zahl benennen. Falls du dies tust, decke die nächste Karte auf, auf die du in diesem Run zugreifst. Falls sie Ladekosten, Ausspielkosten oder benötigte Bedingungen in Höhe der benannten Zahl hat, erhältst du entweder 3[credit] oder ziehst 2 Karten.",
+    "title": "RNG-Schlüssel"
+  },
+  {
+    "code": "21030",
+    "flavor": "Hexerei in den Augen der Unwissenden, Schönheit in den Augen der Weisen.",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Der Runner verliert [click], falls möglich. Du hast während deines nächsten Zuges einen zusätzlichen [click] zur Verfügung.\n[subroutine] Der Runner verliert [click], falls möglich. Du hast während deines nächsten Zuges einen zusätzlichen [click] zur Verfügung.",
+    "title": "Nachttänzer"
+  },
+  {
+    "code": "21031",
+    "flavor": "\"Hier wird der zweite Beanstalk der Welt entstehen, auch wenn ich mein Leben dafür geben muss.\" - Mirja Byanyima, Direktorin der VSEP",
+    "keywords": "Region",
+    "text": "Immer wenn du ein Ice ziehst, darfst du es aufdecken und es dieses System schützend installieren. Senke dabei die Installationskosten um 4[credit].\nNur 1 <strong>Region</strong> pro System.",
+    "title": "Stadtnetz von Jinja"
+  },
+  {
+    "code": "21032",
+    "flavor": "\"Hungrig, dehydriert und im Delirium entschied ich mich für eine Richtung und rannte, rannte tagelang, vielleicht sogar wochenlang. Ich rannte, bis meine Beine mich nicht mehr tragen konnten. Dann kroch ich. Als ich endlich draußen war, frei von dem Schleier, überprüfte ich Uhrzeit und Datum. Wie lange war ich fort, gefangen in der allumfassenden Schwärze? Es stellte sich raus, dass es nur 3 Minuten waren.\"",
+    "keywords": "Falle",
+    "text": "[subroutine] Zerstöre die obersten 3 Karten des Stapels. Zerstöre Aimor.",
+    "title": "Aimor"
+  },
+  {
+    "code": "21033",
+    "keywords": "Forschung",
+    "text": "Sobald du die Punkte für Bakterienprogrammierung erzielst oder sie gestohlen wird, darfst du dir die obersten 7 Karten von F&E ansehen, eine beliebige Anzahl davon dem HQ hinzufügen, eine beliebige Anzahl davon zerstören und den Rest in beliebiger Reihenfolge zurücklegen.",
+    "title": "Bakterienprogrammierung"
+  },
+  {
+    "code": "21034",
+    "flavor": "\"Erst als die Flecken vor meinem Augen verschwanden, erkannte ich, dass die Hälfte meiner Ausrüstung verschwunden war.\" - Kabonesa Wu",
+    "keywords": "Wächter",
+    "text": "Sobald der Runner auf Jua trifft, kann er bis zum Ende des Zuges keine Karten installieren.\n[subroutine] Wähle falls möglich 2 installierte Runner-Karten. Der Runner muss 1 dieser Karten oben auf seinen Stapel legen.",
+    "title": "Jua"
+  },
+  {
+    "code": "21035",
+    "keywords": "Vergeltung - Graue Ops",
+    "text": "Kann nur gespielt werden, falls der Runner während seines letzten Zuges mindestens 1 Kon-Karte zerstört hat.\nWähle eine installierte Runner-Karte. Der Runner muss jene Karte entweder oben auf den Stapel legen oder er bekommt 2 Markierungen verpasst. Entferne Bedrohungseinschätzung aus dem Spiel, statt diese Karte zu zerstören.",
+    "title": "Bedrohungseinschätzung"
+  },
+  {
+    "code": "21036",
+    "flavor": "Er fand es seltsam, dass drei weitere Läden für Frozen Yoghurt innerhalb einer Woche eröffnet wurden; weniger als einen Block von seinem entfernt.",
+    "keywords": "Graue Ops",
+    "text": "Kann nur gespielt werden, falls der Runner während seines letzten Zuges einen erfolgreichen Run durchgeführt hat.\nDer Runner verliert falls möglich 4[credit].",
+    "title": "Wirtschaftliche Kriegsführung"
+  },
+  {
+    "code": "21037",
+    "keywords": "Hinterhalt",
+    "text": "Falls von F&E auf Erzwungene Verbindung zugegriffen wird, muss der Runner sie aufdecken.\nSobald der Runner auf Erzwungene Verbindung zugreift, <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 2 Markierungen. Ignoriere diese Fähigkeit, falls der Runner vom Archiv auf Erzwungene Verbindung zugreift.",
+    "title": "Erzwungene Verbindung"
+  },
+  {
+    "code": "21038",
+    "keywords": "Initiative",
+    "text": "Sobald du die Punkte für SSL-Unterstützung erzielst oder sie gestohlen wird, lege 9[credit] aus der Bank darauf.\nSobald der Zug des Konns beginnt, darf er 3[credit] von SSL-Unterstützung nehmen. Diese Fähigkeit ist selbst dann aktiv, solange sich SSL-Unterstützung in der Punktezone des Runners befindet.",
+    "title": "SSL-Unterstützung"
+  },
+  {
+    "code": "21039",
+    "flavor": "\"Wer hätte geahnt, dass gemeinnützige Organisationen so einträglich sein können?\"",
+    "text": "NGO-Fassade kann entwickelt werden.\n[trash],<strong>1 gehosteter Entwicklungsmarker</strong>: Du erhältst 5[credit].\n[trash],<strong>2 gehostete Entwicklungsmarker</strong>: Du erhältst 8[credit].",
+    "title": "NGO-Fassade"
+  },
+  {
+    "code": "21040",
+    "flavor": "\"Essen. Trinken. Unterhaltung. Man braucht nicht viel, um die bürgerliche Gesellschaft zufriedenzustellen.\"",
+    "text": "Der Runner erhält 2[credit]. Zerstöre bis zu 2 Karten vom HQ und mische dann bis zu 2 Karten vom Archiv in F&E. Entferne Ablenkung der Massen aus dem Spiel, statt diese Karte zu zerstören.",
+    "title": "Ablenkung der Massen"
+  }
 ]

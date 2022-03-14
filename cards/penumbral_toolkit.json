@@ -1,0 +1,15 @@
+{
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "penumbral_toolkit",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "This card costs 2 credits less to install if you made a successful run on HQ this turn. When you install this resource, load 4 credits onto it. When it is empty, trash it. Spend hosted credits during runs.",
+  "stripped_title": "Penumbral Toolkit",
+  "subtypes": ["stealth", "virtual"],
+  "text": "This card costs 2[credit] less to install if you made a successful run on HQ this turn.\nWhen you install this resource, load 4[credit] onto it. When it is empty, trash it.\nSpend hosted credits during runs.",
+  "title": "Penumbral Toolkit"
+}

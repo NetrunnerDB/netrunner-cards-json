@@ -1,0 +1,16 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "forced_connection",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "If Forced Connection is accessed from R&D, the Runner must reveal it. When the Runner accesses Forced Connection, trace 3 If successful, give the Runner 2 tags. Ignore this ability if the Runner accesses Forced Connection from Archives.",
+  "stripped_title": "Forced Connection",
+  "subtypes": ["ambush"],
+  "text": "If Forced Connection is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Forced Connection, <trace>trace 3</trace> If successful, give the Runner 2 tags. Ignore this ability if the Runner accesses Forced Connection from Archives.",
+  "title": "Forced Connection",
+  "trash_cost": 0
+}
