@@ -3,10 +3,10 @@
     "code": "standard",
     "name": "Standard",
     "active": "rotation-2021",
-    "rotations": [
+    "entries": [
       {
         "code": "pre-rotation",
-        "date_start": "???",
+        "date_start": "2012-09-06",
         "name": "Pre Rotation",
         "cycles": [
           "core",
@@ -20,9 +20,9 @@
           "data-and-destiny",
           "mumbad",
           "flashpoint",
-          "red-sand",
-          "terminal-directive"
-        ]
+          "red-sand"
+        ],
+        "sets": ["terminal-directive-cards"]
       },
       {
         "code": "rotation-2017",
@@ -38,11 +38,11 @@
           "mumbad",
           "flashpoint",
           "red-sand",
-          "terminal-directive",
           "core2",
           "kitara",
           "reign-and-reverie"
-        ]
+        ],
+        "sets": ["terminal-directive-cards"]
       },
       {
         "code": "rotation-2018",
@@ -125,54 +125,267 @@
   {
     "code": "startup",
     "name": "Startup",
-    "active": "",
-    "rotations": [
+    "active": "startup-ashes",
+    "entries": [
       {
         "code": "startup-ashes",
         "date_start": "2019-03-18",
         "name": "Startup (Ashes)",
-        "cycles": [
-          "system-gateway",
-          "system-update-2021",
-          "ashes"
-        ]
+        "cycles": ["system-gateway", "system-update-2021", "ashes"]
       }
     ]
   },
   {
     "code": "eternal",
     "name": "Eternal",
-    "active": "-",
-    "rotations": []
+    "active": "eternal",
+    "entries": [
+      {
+        "code": "eternal",
+        "date_start": "2012-09-06",
+        "name": "Eternal"
+      }
+    ]
   },
   {
     "code": "snapshot",
     "name": "Snapshot",
-    "active": "-",
-    "rotations": []
+    "active": "snapshot",
+    "entries": [
+      {
+        "code": "snapshot",
+        "date_start": "2018-11-16",
+        "name": "Snapshot",
+        "cycles": [
+          "creation-and-control",
+          "honor-and-profit",
+          "lunar",
+          "order-and-chaos",
+          "sansan",
+          "data-and-destiny",
+          "mumbad",
+          "flashpoint",
+          "red-sand",
+          "core2",
+          "kitara",
+          "reign-and-reverie"
+        ],
+        "sets": ["terminal-directive-cards"]
+      }
+    ]
   },
   {
     "code": "snapshot-plus",
     "name": "Snapshot+",
-    "active": "-",
-    "rotations": []
+    "active": "snapshot-plus",
+    "entries": [
+      {
+        "code": "snapshot-plus",
+        "date_start": "2018-11-16",
+        "name": "Snapshot+",
+        "cycles": [
+          "creation-and-control",
+          "honor-and-profit",
+          "lunar",
+          "order-and-chaos",
+          "sansan",
+          "data-and-destiny",
+          "mumbad",
+          "flashpoint",
+          "red-sand",
+          "core2",
+          "kitara",
+          "reign-and-reverie",
+          "magnum-opus"
+        ],
+        "sets": ["terminal-directive-cards"]
+      }
+    ]
   },
   {
     "code": "system-gateway",
-    "name": "system-gateway",
-    "active": "-",
-    "rotations": []
+    "name": "System Gateway",
+    "active": "system-gateway",
+    "entries": [
+      {
+        "code": "system-gateway",
+        "date_start": "2021-04-09",
+        "name": "System Gateway",
+        "cycles": ["system-gateway"]
+      }
+    ]
   },
   {
     "code": "ram",
     "name": "Random Access Memories",
-    "active": "-",
-    "rotations": []
+    "active": "ram-6",
+    "entries": [
+      {
+        "code": "ram-0",
+        "date_start": "2021-12-07",
+        "name": "RAM 0",
+        "cycles": ["core", "system-gateway"],
+        "sets": [
+          "humanitys-shadow",
+          "mala-tempora",
+          "double-time",
+          "upstalk",
+          "up-and-over",
+          "chrome-city",
+          "business-first",
+          "escalation",
+          "martial-law",
+          "quorum",
+          "daedalus-complex",
+          "downfall"
+        ]
+      },
+      {
+        "code": "ram-1",
+        "date_start": "2021-12-18",
+        "name": "RAM 1",
+        "cycles": ["creation-and-control", "honor-and-profit"],
+        "sets": [
+          "what-lies-ahead",
+          "fear-and-loathing",
+          "up-and-over",
+          "escalation",
+          "martial-law",
+          "quorum",
+          "daedalus-complex",
+          "earths-scion",
+          "down-the-white-nile",
+          "whispers-in-nalubaale",
+          "kampala-ascendent",
+          "downfall"
+        ]
+      },
+      {
+        "code": "ram-2",
+        "date_start": "2022-01-01",
+        "name": "RAM 2",
+        "cycles": ["core", "core2"],
+        "sets": [
+          "trace-amount",
+          "humanitys-shadow",
+          "opening-moves",
+          "all-that-remains",
+          "breaker-bay",
+          "chrome-city",
+          "the-underway",
+          "the-universe-of-tomorrow",
+          "intervention",
+          "blood-and-water",
+          "the-devil-and-the-dragon",
+          "uprising"
+        ]
+      },
+      {
+        "code": "ram-3",
+        "date_start": "2022-01-15",
+        "name": "RAM 3",
+        "cycles": ["creation-and-control", "reign-and-reverie"],
+        "sets": [
+          "a-study-in-static",
+          "mala-tempora",
+          "true-colors",
+          "upstalk",
+          "first-contact",
+          "old-hollywood",
+          "business-first",
+          "the-liberated-mind",
+          "fear-the-masses",
+          "quorum",
+          "crimson-dust",
+          "sovereign-sight"
+        ]
+      },
+      {
+        "code": "ram-4",
+        "date_start": "2022-01-29",
+        "name": "RAM 4",
+        "cycles": ["honor-and-profit", "data-and-destiny"],
+        "sets": [
+          "cyber-exodus",
+          "second-thoughts",
+          "fear-and-loathing",
+          "up-and-over",
+          "the-valley",
+          "kala-ghoda",
+          "martial-law",
+          "daedalus-complex",
+          "blood-and-water",
+          "council-of-the-crest",
+          "magnum-opus-reprint",
+          "salvaged-memories"
+        ]
+      },
+      {
+        "code": "ram-5",
+        "date_start": "2022-02-12",
+        "name": "RAM 5",
+        "cycles": ["core", "reign-and-reverie"],
+        "sets": [
+          "what-lies-ahead",
+          "future-proof",
+          "mala-tempora",
+          "upstalk",
+          "all-that-remains",
+          "the-source",
+          "the-underway",
+          "old-hollywood",
+          "salsette-island",
+          "23-seconds",
+          "station-one",
+          "the-devil-and-the-dragon"
+        ]
+      },
+      {
+        "code": "ram-6",
+        "date_start": "2022-02-26",
+        "name": "RAM 6",
+        "cycles": ["data-and-destiny", "system-gateway"],
+        "sets": [
+          "second-thoughts",
+          "double-time",
+          "fear-and-loathing",
+          "up-and-over",
+          "chrome-city",
+          "kala-ghoda",
+          "intervention",
+          "quorum",
+          "earths-scion",
+          "sovereign-sight",
+          "whispers-in-nalubaale",
+          "salvaged-memories"
+        ]
+      }
+    ]
   },
   {
-    "code": "misc",
-    "name": "Misc",
-    "active": "-",
-    "rotations": []
+    "code": "draft",
+    "name": "Draft",
+    "active": "draft",
+    "entries": [
+      {
+        "code": "draft",
+        "date_start": "2016-01-25",
+        "name": "Draft",
+        "cycles": ["draft"]
+      }
+    ]
+  },
+  {
+    "code": "napd",
+    "name": "NAPD Multiplayer",
+    "active": "napd",
+    "entries": [
+      {
+        "code": "napd",
+        "date_start": "",
+        "name": "NAPD Multiplayer",
+        "cycles": ["napd"]
+      }
+    ]
   }
 ]
