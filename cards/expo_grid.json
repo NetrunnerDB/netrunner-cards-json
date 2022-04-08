@@ -1,0 +1,16 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "weyland-consortium",
+  "id": "expo_grid",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When your turn begins, gain 1 credit if there is a rezzed asset installed in the root of this server. Limit 1 region per server.",
+  "stripped_title": "Expo Grid",
+  "subtypes": ["region"],
+  "text": "When your turn begins, gain 1[credit] if there is a rezzed asset installed in the root of this server.\nLimit 1 <strong>region</strong> per server.",
+  "title": "Expo Grid",
+  "trash_cost": 3
+}

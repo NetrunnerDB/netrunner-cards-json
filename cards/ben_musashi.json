@@ -1,0 +1,16 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "ben_musashi",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "Persistent -> As an additional cost to steal an agenda from this server, the Runner must suffer 2 net damage. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)",
+  "stripped_title": "Ben Musashi",
+  "subtypes": ["clone"],
+  "text": "Persistent → As an additional cost to steal an agenda from this server, the Runner must suffer 2 net damage. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
+  "title": "Ben Musashi",
+  "trash_cost": 3
+}

@@ -1,0 +1,16 @@
+{
+  "card_type_id": "program",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "gravedigger",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger. click, hosted virus counter: The Corp trashes the top card of R&D.",
+  "stripped_title": "Gravedigger",
+  "subtypes": ["virus"],
+  "text": "Whenever an installed Corp card is trashed, place 1 virus counter on Gravedigger.\n[click], <strong>hosted virus counter:</strong> The Corp trashes the top card of R&D.",
+  "title": "Gravedigger"
+}

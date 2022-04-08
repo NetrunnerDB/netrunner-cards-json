@@ -1,361 +1,361 @@
 [
-    {
-        "code": "03001",
-        "flavor": "Najgęstszy klaster informacji w galaktyce.",
-        "keywords": "Oddział",
-        "text": "Twój limit kart na ręce jest równy liczbie kredytów w twojej puli kredytów.",
-        "title": "Obrazowanie mózgu: Granice nieskończoności"
-    },
-    {
-        "code": "03002",
-        "flavor": "Naonczas android i android w przyszłości.",
-        "keywords": "Oddział",
-        "text": "W tej talii nie możesz umieszczać kart Jinteki.",
-        "title": "Biotyka na zamówienie: Inżynierowie sukcesu"
-    },
-    {
-        "code": "03003",
-        "keywords": "Oddział",
-        "text": "Przed swoją pierwszą turą możesz zainstalować do 3 kart lodu, ale najwyżej jedną na serwer. Dobierz do 5 kart w HQ.",
-        "title": "Model NEXT: Strażnicy Sieci"
-    },
-    {
-        "code": "03004",
-        "keywords": "Inicjatywa",
-        "text": "Gdy zapunktujesz Ulubiony projekt dyrektor Haas, możesz stworzyć nowy zdalny serwer. Zainstaluj do 3 kart z HQ i/lub Archiwów na tym serwerze i/lub chroniących ten serwer (po jednej naraz), ignorując koszt instalacji.\nLimit 1 Ulubionego projektu dyrektor Haas na talię.",
-        "title": "Ulubiony projekt dyrektor Haas"
-    },
-    {
-        "code": "03005",
-        "keywords": "Inicjatywa",
-        "text": "Gdy zapunktujesz Komisję ds. wydajności, połóż na niej 3 znaczniki projektu.\n[click], <strong>hostowany znacznik projektu</strong>: Otrzymujesz [click][click]. Do końca tej tury nie możesz awansować kart.",
-        "title": "Komisja ds. wydajności"
-    },
-    {
-        "code": "03006",
-        "keywords": "Badania",
-        "text": "Gdy zapunktujesz Projekt Wotan, połóż na nim 3 znaczniki projektu.\n<strong>Hostowany znacznik projektu</strong>: Wybierz zrezowany lód <strong>bioroid</strong>, do którego runner właśnie podchodzi. Do końca tego skoku ten lód otrzymuje: \"[subroutine]: Zakończ skok.\" jako swój ostatni podprogram.",
-        "title": "Projekt Wotan"
-    },
-    {
-        "code": "03007",
-        "flavor": "\"Dlaczego ograniczać nasze najlepsze aktywa do naszych serwerów? Wróg nie siedzi przecież biernie w domu, czekając, aż do niego przyjdziemy. My też nie powinniśmy.\" - Dyrektor Haas",
-        "keywords": "Ochrona",
-        "text": "Zawsze gdy runner otrzymuje przynajmniej 1 obrażenie mózgu, zadaj 1 obrażenie sprzętu.",
-        "title": "Program obronny Strażnik"
-    },
-    {
-        "code": "03008",
-        "flavor": "Model Alix wzorowano na bardzo skutecznej kierowniczce funduszu hedgingowego, ale miał niestety tendencję do wypalania się. Dosłownie.",
-        "keywords": "Bioroid",
-        "text": "Zawsze gdy instalujesz kartę, połóż 1 znacznik zasilania na Alix T4LB07.\n[click],[trash]: Pobierz 2[credit] za każdy znacznik zasilania na Alix T4LB07.",
-        "title": "Alix T4LB07"
-    },
-    {
-        "code": "03009",
-        "keywords": "Zasadzka",
-        "text": "Korektor mózgowy można awansować.\nJeśli zapłacisz 3[credit], gdy runner uzyska dostęp do Korektora mózgowego, zadaj 1 obrażenie mózgu za każdy znacznik zaawansowania leżący na Korektorze mózgowym.",
-        "title": "Korektor mózgowy"
-    },
-    {
-        "code": "03010",
-        "keywords": "Kierownictwo",
-        "text": "Masz 1 dodatkowy [click] do wydania w każdej turze.\nJeśli Dyrektor Haas zostanie skasowana, gdy runner uzyska do niej dostęp, dodaj ją do obszaru punktacji runnera jako projekt warty 2 punkty projektu.",
-        "title": "Dyrektor Haas"
-    },
-    {
-        "code": "03011",
-        "text": "AI arkologii Haas można awansować tylko, jeśli jest niezrezowana.\n[click], <strong>hostowany żeton zaawansowania</strong>: Otrzymujesz [click][click]. Tej zdolności możesz użyć tylko raz na turę.",
-        "title": "AI arkologii Haas"
-    },
-    {
-        "code": "03012",
-        "flavor": "Thomasa, syna pani dyrektor, wychowywano na dziedzica korporacji jeszcze przed urodzeniem. Jego ulubionym hobby jest najwyraźniej rozczarowywanie matki.",
-        "keywords": "Kierownictwo",
-        "text": "Thomasa Haasa można awansować.\n[trash]: Pobierz 2[credit] za każdy żeton zaawansowania leżący na Thomasie Haasie.",
-        "title": "Thomas Haas"
-    },
-    {
-        "code": "03013",
-        "keywords": "Warunek",
-        "text": "Zrezuj lód <strong>bioroid</strong>, ignorując wszelkie koszty i zainstaluj na nim Badania wydajności bioroidów jako hostowany znacznik warunku z tekstem \"Skasuj Badania wydajności bioroidów i odrezuj hostujący lód, jeśli wszystkie jego podprogramy zostaną złamane w trakcie jednego spotkania.\"",
-        "title": "Badania wydajności bioroidów"
-    },
-    {
-        "code": "03014",
-        "flavor": "Sukces definiujemy jako bezpieczeństwo danych, a nie bezpieczeństwo potencjalnych intruzów.",
-        "keywords": "Transakcja",
-        "text": "Zagraj tylko, jeśli runner przeprowadził w swojej ostatniej turze nieudany skok.\nPobierz 7[credit].",
-        "title": "Udany pokaz"
-    },
-    {
-        "code": "03015",
-        "flavor": "Do dalszej krainy wciąż nie ma wstępu.",
-        "keywords": "Bariera - Bioroid - AP",
-        "text": "Runner może wydać [click][click], by złamać do 2 podprogramów Heimdalla 2.0.\n[subroutine] Zadaj 1 obrażenie mózgu.\n[subroutine] Zadaj 1 obrażenie mózgu i zakończ skok.\n[subroutine] Zakończ skok.",
-        "title": "Heimdall 2.0"
-    },
-    {
-        "code": "03016",
-        "flavor": "\"Tak. Hałas mnie przestraszył i się odłączyłem. Nadal uważam, że postąpiłem słusznie.\" - g00ru",
-        "keywords": "Pułapka",
-        "text": "[subroutine] Możesz zainstalować bezpośrednio za Wyjcem i zrezować lód <strong>bioroid</strong> z HQ lub Archiwów, ignorując wszelkie koszty. Jeśli to robisz, odrezuj ten lód i skasuj Wyjca po zakończeniu tego skoku.",
-        "title": "Wyjec"
-    },
-    {
-        "code": "03017",
-        "flavor": "Gra się zmieniła.",
-        "keywords": "Strażnik - Bioroid - Niszczyciel - Tropiciel",
-        "text": "Runner może wydać [click][click], aby złamać do 2 podprogramów Ichi 2.0.\n[subroutine] Skasuj 1 program.\n[subroutine] Skasuj 1 program.\n[subroutine] <trace>Trace 3</trace> Jeśli udane, daj runnerowi 1 tag i zadaj 1 obrażenie mózgu.",
-        "title": "Ichi 2.0"
-    },
-    {
-        "code": "03018",
-        "flavor": "Czasem musisz po prostu zgadywać.",
-        "keywords": "Brama kodowa",
-        "text": "[subroutine] Możesz zainstalować lód z HQ jako najdalszy lód chroniący ten serwer, ignorując wszelkie koszty instalacji.",
-        "title": "Stawiacz min"
-    },
-    {
-        "code": "03019",
-        "keywords": "Brama kodowa - Bioroid - Tropiciel - AP",
-        "text": "Runner może wydać [click][click], aby złamać do 2 podprogramów Viktora 2.0.\n<strong>Hostowany znacznik zasilania</strong>: Zadaj 1 obrażenie mózgu.\n[subroutine] <trace>Trace 2</trace> Jeśli udane, połóż 1 znacznik zasilania na Viktorze 2.0.\n[subroutine] Zakończ skok.",
-        "title": "Viktor 2.0"
-    },
-    {
-        "code": "03020",
-        "flavor": "Umysł z mięsa! Jak on działa?",
-        "keywords": "Strażnik - Bioroid - AP",
-        "text": "Runner może wydać [click], aby złamać dowolny podprogram Zed 1.0.\n[subroutine] Jeśli runner wydał przynajmniej [click] aby złamać podprogramy podczas tego skoku, zadaj 1 obrażenie mózgu.\n[subroutine] Jeśli runner wydał przynajmniej [click] aby złamać podprogramy podczas tego skoku, zadaj 1 obrażenie mózgu.",
-        "title": "Zed 1.0"
-    },
-    {
-        "code": "03021",
-        "text": "Centrum przebudzenia może hostować lód <strong>bioroid</strong> (lód instaluje się zakryty, ignorując wszelkie koszty instalacji).\nZawsze gdy runner pokona wszystkie karty lodu, chroniące ten serwer, możesz zrezować kartę lodu z Centrum przebudzenia, obniżając koszt zrezowania o 7[credit], i zmusić runnera, by go napotkał. Skasuj ten lód po zakończeniu skoku.",
-        "title": "Centrum przebudzenia"
-    },
-    {
-        "code": "03022",
-        "keywords": "Wrogi",
-        "text": "Jeśli runner ma złamać podprogram lodu <strong>bioroid</strong> chroniącego ten serwer, możesz zrezować Dłoń Tyra.\n[trash]: Zablokuj złamanie podprogramu lodu <strong>bioroid</strong> chroniącego ten serwer.",
-        "title": "Dłoń Tyra"
-    },
-    {
-        "code": "03023",
-        "flavor": "Sprzedaj marzenie. Pokaż im, jak bardzo chcą być bogaci, a sami sobie wmówią, że kiedyś będą. Jak mogą buntować się przeciwko własnej przyszłości? - Nowa Ewangelia Bogactwa",
-        "keywords": "Ekspansja",
-        "text": "[click], [click]: Pobierz 3[credit].",
-        "title": "Arkologia Gila Hands"
-    },
-    {
-        "code": "03024",
-        "flavor": "\"Jeszcze jedna fabryka posłusznych mrówek-robotnic dla machiny korporacyjnej. Ale mają najlepszy wydział informatyki na świecie.\" - g00ru",
-        "keywords": "Elegancki",
-        "text": "[click], 1[credit]: Poszukaj lodu w R&D, odsłoń go i dodaj do HQ. Przetasuj R&D.",
-        "title": "Uniwersytet Levy'ego"
-    },
-    {
-        "code": "03025",
-        "flavor": "\"Jest tylko 5% szans, że to spowoduje ogólną awarię.\"",
-        "text": "Pobierz 2[credit], gdy zaczynasz turę.\nSkasuj Diagnostykę serwera, gdy instalujesz lód.",
-        "title": "Diagnostyka serwera"
-    },
-    {
-        "code": "03026",
-        "flavor": "Lód nie służy do tego, żeby zablokować dostęp wszystkim, ale aby wpuścić tylko niektórych. Ten lód blokuje wejście na wszystkich portach z wyjątkiem kilku - a one zmieniają się zależnie od pory dnia albo pikosekundy połączenia. Jeśli nie wiesz, którego portu użyć, nie wejdziesz i kropka.",
-        "keywords": "Bariera",
-        "text": "[subroutine] Zakończ skok.",
-        "title": "Bastion"
-    },
-    {
-        "code": "03027",
-        "flavor": "\"Tania, komercyjna ochrona danych. Tania, znaczy się, dla nich. Nie dla nas.\" - Ele \"Dym\" Scovak",
-        "keywords": "Brama kodowa",
-        "text": "[subroutine] Runner musi zapłacić 2[credit], jeśli może. Jeśli runner nie może zapłacić 2[credit], zakończ skok.\n[subroutine] Zakończ skok.",
-        "title": "Płatna infostrada"
-    },
-    {
-        "code": "03028",
-        "flavor": "\"Nie byłam; byłam; nie jestem niczym; jestem wszystkim.\"",
-        "keywords": "Cyborg",
-        "text": "W każdej turze, pierwszy lód, który napotkasz, zyskuje podrodzaj <strong>brama kodowa</strong> do końca skoku.",
-        "title": "Rielle \"Kit\" Peddler: Transczłowiek"
-    },
-    {
-        "code": "03029",
-        "flavor": "\"Nowa technologia niszczy starą.\"",
-        "keywords": "Normalny",
-        "text": "Pierwszy egzemplarz każdego programu w tej talii nie wlicza się do twojego limitu wpływu.",
-        "title": "Profesor: Strażnik wiedzy"
-    },
-    {
-        "code": "03030",
-        "flavor": "\"Potrafię to uruchomić.\"",
-        "keywords": "Normalny",
-        "text": "Zawsze gdy instalujesz program ze swojej sterty, dobierz 1 kartę.",
-        "title": "Wygnaniec: Rekin ulicy"
-    },
-    {
-        "code": "03031",
-        "keywords": "Skok",
-        "text": "Przeprowadź skok na HQ. Jeśli jest udany, zamiast uzyskania dostępu do kart, zamień miejscami dowolną liczbę kart lodu chroniącego wszystkie serwery (bez rezowania lub odrezowania). Zamiana miejsc nie może zmienić liczby kart lodu chroniących każdy serwer.",
-        "title": "Escher"
-    },
-    {
-        "code": "03032",
-        "flavor": "Łiiiii!",
-        "keywords": "Skok",
-        "text": "Przeprowadź skok. Jeśli jest udany, zamiast uzyskania dostępu do kart usuń do 3 żetonów zaawansowania z pojedynczej karty na zaatakowanym serwerze lub chroniącej go.",
-        "title": "Przejażdżka rozpoznawcza"
-    },
-    {
-        "code": "03033",
-        "flavor": "\"Ideały są wspaniałe, ale nie kupisz za nie sojowego taco.\" - Matt \"Najemnik\" Thomas",
-        "keywords": "Robota",
-        "text": "Skasuj do 5 programów ze swojej garści. Pobierz 2[credit] za każdy skasowany program.",
-        "title": "Programista na zlecenie"
-    },
-    {
-        "code": "03034",
-        "flavor": "Dla jednych śmieci.",
-        "text": "Aby zagrać tę kartę, jako dodatkowy koszt, skasuj zainstalowany program.\nZainstaluj program z garści lub sterty, obniżając koszt instalacji tego programu o koszt skasowanego programu.",
-        "title": "Śmieciarz"
-    },
-    {
-        "code": "03035",
-        "flavor": "Siedź za długo w laboratorium, a ktoś cię może zauważyć. Chyba, że jesteś kierownikiem.",
-        "text": "Wtasuj swoją garść i stertę do stosu. Dobierz 5 kart. Zamiast kasowania, usuń Laboratorium AR Levy'ego z gry.",
-        "title": "Laboratorium AR Levy'ego"
-    },
-    {
-        "code": "03036",
-        "keywords": "Konsola",
-        "text": "+3[mu]\nGdy instalujesz Monolit, zainstaluj do 3 programów z garści, obniżając koszt instalacji każdego o 4[credit].\n<strong>Skasuj program z garści</strong>: Zablokuj 1 obrażenie mózgu lub sprzętu.\nLimit 1 <strong>konsoli</strong> na gracza.",
-        "title": "Monolit"
-    },
-    {
-        "code": "03037",
-        "flavor": "Za pierwszym razem i tak trochę boli. Za drugim już nic nie czujesz. Ale nie kuś losu.",
-        "keywords": "Ekwipunek",
-        "text": "3[credit]: Zablokuj 1 obrażenie sprzętu.\n[trash]: Zablokuj do 2 obrażeń mózgu.",
-        "title": "Filtr sprzężenia"
-    },
-    {
-        "code": "03038",
-        "flavor": "Kopia zapasowa kopii zapasowej do dobry zwyczaj.",
-        "keywords": "Chip",
-        "text": "[trash]: Zainstaluj program ze swojej sterty (płacąc koszt instalacji).",
-        "title": "Chip klonujący"
-    },
-    {
-        "code": "03039",
-        "keywords": "Wyposażenie",
-        "text": "Omnidysk może hostować jeden program zajmujący 1[mu] lub mniej. Wymagania pamięciowe hostowanego program nie wliczają się do twojego limitu pamięci.\n1[recurring-credit]\nUżyj tego kredytu do płacenia za używanie hostowanego programu.",
-        "title": "Omnidysk"
-    },
-    {
-        "code": "03040",
-        "flavor": "Nasz myśli nas kształtują; stajemy się tym, o czym myślimy.",
-        "keywords": "Lodołamacz - AI",
-        "text": "Gdy instalujesz Atmana, możesz zapłacić X[credit], by umieścić na Atmanie X znaczników zasilania.\nAtman ma +1 siły za każdy leżący na nim znacznik zasilania.\n1[credit]: Złam podprogram lodu, którego siła jest równa sile Atmana.",
-        "title": "Atman"
-    },
-    {
-        "code": "03041",
-        "flavor": "\"Nie postawią żadnej kreski, która rzuci cień na ścianę...\"",
-        "keywords": "Niewykrywalny",
-        "text": "1[recurring-credit]\nUżyj tego kredytu do płacenia za używanie <strong>lodołamaczy</strong>.",
-        "title": "Zasłona"
-    },
-    {
-        "code": "03042",
-        "flavor": "\"...a gdy cień powstanie, zasłona opadnie.\" - upiór",
-        "keywords": "Lodołamacz - Zabójca",
-        "text": "1[credit]: Złam podprogram <strong>strażnika</strong>.\n1[credit]: +5 siły. Możesz użyć tej zdolności tylko wydając kredyty z karty <strong>niewykrywalnej</strong>.",
-        "title": "Sztylet"
-    },
-    {
-        "code": "03043",
-        "keywords": "Wirus",
-        "text": "Zawsze gdy przeprowadzisz udany skok na R&D, połóż 1 znacznik wirusa na Czakanie.\nJeśli na Czakanie leżą przynajmniej 3 znaczniki wirusa, trudność realizacji wszystkich projektów rośnie o 1.",
-        "title": "Czakana"
-    },
-    {
-        "code": "03044",
-        "keywords": "Lodołamacz - Dekoder",
-        "text": "1[credit]: Złam podprogram <strong>bramy kodowej</strong>.\n1[credit]: +1 siły.\nGdy instalujesz Cyber-Szyfr, wybierz serwer. Cyber-Szyfr można używać tylko podczas skoku na ten serwer.",
-        "title": "Cyber-Szyfr"
-    },
-    {
-        "code": "03045",
-        "flavor": "Idealny do zatapiania serwerów.",
-        "text": "2[recurring-credit]\nUżyj tych kredytów do kasowania aktywów.",
-        "title": "Paricia"
-    },
-    {
-        "code": "03046",
-        "flavor": "\"Upewnij się, że wskażesz w kodzie źródłowym, do której binarki ma się wkompilować. Raz wyszedłem z warsztatu na kilka minut, a jak wróciłem, to wszystkie pliki zmieniły się w filmiki z kotami.\" - Profesor",
-        "text": "2[credit], [trash]: Poszukaj programu w swoim stosie i zainstaluj go (płacąc koszt instalacji). Przetasuj swój stos.",
-        "title": "Program samomodyfikujący"
-    },
-    {
-        "code": "03047",
-        "flavor": "W świecie zewnętrznym lotos o tysiącu płatków symbolizuje obojętność na ułudę. Tutaj to miejsce narodzenia wyższej świadomości. Coś nieskończenie czystego.",
-        "text": "2[recurring-credit]\nUżyj tych kredytów do instalowania programów (nie możesz użyć Sahasrary do instalacji programu, który kasuje Sahasrarę).",
-        "title": "Sahasrara"
-    },
-    {
-        "code": "03048",
-        "flavor": "\"Inkowie wierzyli, że bóg słońca mieszka w Hanan Pacha, wyższej krainie kosmosu. Nie wiedzieli, że Hanan Pacha jeszcze po prostu nie zostało odkryte.\" - Profesor",
-        "keywords": "Lodołamacz - Młot",
-        "text": "1[credit]: Złam podprogram <strong>bariery</strong>.\n2[credit]: +1 siły do końca skoku.",
-        "title": "Inti"
-    },
-    {
-        "code": "03049",
-        "flavor": "Czasami nie liczy się, ile zapłaciłeś za warsztat, ile kredytów masz na koncie ani nawet jak dobrym jesteś runnerem. W wielu wypadkach, wystarczy uścisnąć dłoń i się przedstawić",
-        "keywords": "Kontakt",
-        "text": "[click]: Pobierz 1[credit] i dobierz 1 kartę.",
-        "title": "Zawodowe znajomości"
-    },
-    {
-        "code": "03050",
-        "flavor": "Niektórzy mają własny odbiornik satelitarny. Inni mają własnego satelitę.",
-        "keywords": "Połączenie",
-        "text": "+1[link]\nTwój limit kart na ręce jest zwiększony o 1.",
-        "title": "Pożyczony satelita"
-    },
-    {
-        "code": "03051",
-        "flavor": "\"Jeśli znasz kod źródłowy, możesz napisać program, który go pokona lub trochę go zmienić, by pracował dla ciebie. To też się sprawdza.\" - Wygnaniec",
-        "keywords": "Wirtualny",
-        "text": "Zawsze gdy korp rezuje lód, połóż 1[credit] na Analizatorze lodu.\nMożesz używać kredytów z Analizator lodu do instalowania programów.",
-        "title": "Analizator lodu"
-    },
-    {
-        "code": "03052",
-        "flavor": "Informacje przekraczały wszelkie oczekiwania. Ten cały Santiago naprawdę znał się na robocie. Zaczęła sobie wyobrażać, jakie spustoszenie może spowodować na najbliższym przyjęciu charytatywnym...",
-        "keywords": "Skok",
-        "text": "Przeprowadź skok. Po zakończeniu skoku, pobierz 5[credit], jeśli był udany.",
-        "title": "Pranie brudów"
-    },
-    {
-        "code": "03053",
-        "flavor": "\"Dla nas 'cyber-terrorysta', dla nich 'celebryta z podziemia'.\" - Michael Muhama, zawodowy ekspert.",
-        "text": "Gdy instalujesz Codzienne audycje, połóż na nich 8[credit] z banku. Skasuj Codzienne audycje, gdy nie ma już na nich kredytów.\nWeź 2[credit] z Codziennych audycji, gdy zaczynasz swoją turę.",
-        "title": "Codzienne audycje"
-    },
-    {
-        "code": "03054",
-        "flavor": "Tylko ja, filiżanka YucaBean i pakiety wysniffowane wczoraj wieczorem z Odnogi Hongkońskiej. Jak dla mnie, znakomity poranek.",
-        "text": "[click], [click], [trash]: Zagraj wydarzenie ze swojej sterty (płacąc koszt jego zagrania).",
-        "title": "Po staremu"
-    },
-    {
-        "code": "03055",
-        "flavor": "Niebezpieczna gra, ale zdecydowanie warta świeczki.",
-        "keywords": "Kontakt",
-        "text": "Trudność realizacji wszystkich projektów rośnie o 1.\nAby wykraść projekt, musisz zapłacić 3[credit] jako dodatkowy koszt.\nSkasuj Źródło, gdy projekt zostanie zapunktowany lub wykradziony.",
-        "title": "Źródło"
-    }
+  {
+    "code": "03001",
+    "flavor": "Najgęstszy klaster informacji w galaktyce.",
+    "keywords": "Oddział",
+    "text": "Twój limit kart na ręce jest równy liczbie kredytów w twojej puli kredytów.",
+    "title": "Obrazowanie mózgu: Granice nieskończoności"
+  },
+  {
+    "code": "03002",
+    "flavor": "Naonczas android i android w przyszłości.",
+    "keywords": "Oddział",
+    "text": "W tej talii nie możesz umieszczać kart Jinteki.",
+    "title": "Biotyka na zamówienie: Inżynierowie sukcesu"
+  },
+  {
+    "code": "03003",
+    "keywords": "Oddział",
+    "text": "Przed swoją pierwszą turą możesz zainstalować do 3 kart lodu, ale najwyżej jedną na serwer. Dobierz do 5 kart w HQ.",
+    "title": "Model NEXT: Strażnicy Sieci"
+  },
+  {
+    "code": "03004",
+    "keywords": "Inicjatywa",
+    "text": "Gdy zapunktujesz Ulubiony projekt dyrektor Haas, możesz stworzyć nowy zdalny serwer. Zainstaluj do 3 kart z HQ i/lub Archiwów na tym serwerze i/lub chroniących ten serwer (po jednej naraz), ignorując koszt instalacji.\nLimit 1 Ulubionego projektu dyrektor Haas na talię.",
+    "title": "Ulubiony projekt dyrektor Haas"
+  },
+  {
+    "code": "03005",
+    "keywords": "Inicjatywa",
+    "text": "Gdy zapunktujesz Komisję ds. wydajności, połóż na niej 3 znaczniki projektu.\n[click], <strong>hostowany znacznik projektu</strong>: Otrzymujesz [click][click]. Do końca tej tury nie możesz awansować kart.",
+    "title": "Komisja ds. wydajności"
+  },
+  {
+    "code": "03006",
+    "keywords": "Badania",
+    "text": "Gdy zapunktujesz Projekt Wotan, połóż na nim 3 znaczniki projektu.\n<strong>Hostowany znacznik projektu</strong>: Wybierz zrezowany lód <strong>bioroid</strong>, do którego runner właśnie podchodzi. Do końca tego skoku ten lód otrzymuje: \"[subroutine]: Zakończ skok.\" jako swój ostatni podprogram.",
+    "title": "Projekt Wotan"
+  },
+  {
+    "code": "03007",
+    "flavor": "\"Dlaczego ograniczać nasze najlepsze aktywa do naszych serwerów? Wróg nie siedzi przecież biernie w domu, czekając, aż do niego przyjdziemy. My też nie powinniśmy.\" - Dyrektor Haas",
+    "keywords": "Ochrona",
+    "text": "Zawsze gdy runner otrzymuje przynajmniej 1 obrażenie mózgu, zadaj 1 obrażenie sprzętu.",
+    "title": "Program obronny Strażnik"
+  },
+  {
+    "code": "03008",
+    "flavor": "Model Alix wzorowano na bardzo skutecznej kierowniczce funduszu hedgingowego, ale miał niestety tendencję do wypalania się. Dosłownie.",
+    "keywords": "Bioroid",
+    "text": "Zawsze gdy instalujesz kartę, połóż 1 znacznik zasilania na Alix T4LB07.\n[click],[trash]: Pobierz 2[credit] za każdy znacznik zasilania na Alix T4LB07.",
+    "title": "Alix T4LB07"
+  },
+  {
+    "code": "03009",
+    "keywords": "Zasadzka",
+    "text": "Korektor mózgowy można awansować.\nJeśli zapłacisz 3[credit], gdy runner uzyska dostęp do Korektora mózgowego, zadaj 1 obrażenie mózgu za każdy znacznik zaawansowania leżący na Korektorze mózgowym.",
+    "title": "Korektor mózgowy"
+  },
+  {
+    "code": "03010",
+    "keywords": "Kierownictwo",
+    "text": "Masz 1 dodatkowy [click] do wydania w każdej turze.\nJeśli Dyrektor Haas zostanie skasowana, gdy runner uzyska do niej dostęp, dodaj ją do obszaru punktacji runnera jako projekt warty 2 punkty projektu.",
+    "title": "Dyrektor Haas"
+  },
+  {
+    "code": "03011",
+    "text": "AI arkologii Haas można awansować tylko, jeśli jest niezrezowana.\n[click], <strong>hostowany żeton zaawansowania</strong>: Otrzymujesz [click][click]. Tej zdolności możesz użyć tylko raz na turę.",
+    "title": "AI arkologii Haas"
+  },
+  {
+    "code": "03012",
+    "flavor": "Thomasa, syna pani dyrektor, wychowywano na dziedzica korporacji jeszcze przed urodzeniem. Jego ulubionym hobby jest najwyraźniej rozczarowywanie matki.",
+    "keywords": "Kierownictwo",
+    "text": "Thomasa Haasa można awansować.\n[trash]: Pobierz 2[credit] za każdy żeton zaawansowania leżący na Thomasie Haasie.",
+    "title": "Thomas Haas"
+  },
+  {
+    "code": "03013",
+    "keywords": "Warunek",
+    "text": "Zrezuj lód <strong>bioroid</strong>, ignorując wszelkie koszty i zainstaluj na nim Badania wydajności bioroidów jako hostowany znacznik warunku z tekstem \"Skasuj Badania wydajności bioroidów i odrezuj hostujący lód, jeśli wszystkie jego podprogramy zostaną złamane w trakcie jednego spotkania.\"",
+    "title": "Badania wydajności bioroidów"
+  },
+  {
+    "code": "03014",
+    "flavor": "Sukces definiujemy jako bezpieczeństwo danych, a nie bezpieczeństwo potencjalnych intruzów.",
+    "keywords": "Transakcja",
+    "text": "Zagraj tylko, jeśli runner przeprowadził w swojej ostatniej turze nieudany skok.\nPobierz 7[credit].",
+    "title": "Udany pokaz"
+  },
+  {
+    "code": "03015",
+    "flavor": "Do dalszej krainy wciąż nie ma wstępu.",
+    "keywords": "Bariera - Bioroid - AP",
+    "text": "Runner może wydać [click][click], by złamać do 2 podprogramów Heimdalla 2.0.\n[subroutine] Zadaj 1 obrażenie mózgu.\n[subroutine] Zadaj 1 obrażenie mózgu i zakończ skok.\n[subroutine] Zakończ skok.",
+    "title": "Heimdall 2.0"
+  },
+  {
+    "code": "03016",
+    "flavor": "\"Tak. Hałas mnie przestraszył i się odłączyłem. Nadal uważam, że postąpiłem słusznie.\" - g00ru",
+    "keywords": "Pułapka",
+    "text": "[subroutine] Możesz zainstalować bezpośrednio za Wyjcem i zrezować lód <strong>bioroid</strong> z HQ lub Archiwów, ignorując wszelkie koszty. Jeśli to robisz, odrezuj ten lód i skasuj Wyjca po zakończeniu tego skoku.",
+    "title": "Wyjec"
+  },
+  {
+    "code": "03017",
+    "flavor": "Gra się zmieniła.",
+    "keywords": "Strażnik - Bioroid - Niszczyciel - Tropiciel",
+    "text": "Runner może wydać [click][click], aby złamać do 2 podprogramów Ichi 2.0.\n[subroutine] Skasuj 1 program.\n[subroutine] Skasuj 1 program.\n[subroutine] <trace>Trace 3</trace> Jeśli udane, daj runnerowi 1 tag i zadaj 1 obrażenie mózgu.",
+    "title": "Ichi 2.0"
+  },
+  {
+    "code": "03018",
+    "flavor": "Czasem musisz po prostu zgadywać.",
+    "keywords": "Brama kodowa",
+    "text": "[subroutine] Możesz zainstalować lód z HQ jako najdalszy lód chroniący ten serwer, ignorując wszelkie koszty instalacji.",
+    "title": "Stawiacz min"
+  },
+  {
+    "code": "03019",
+    "keywords": "Brama kodowa - Bioroid - Tropiciel - AP",
+    "text": "Runner może wydać [click][click], aby złamać do 2 podprogramów Viktora 2.0.\n<strong>Hostowany znacznik zasilania</strong>: Zadaj 1 obrażenie mózgu.\n[subroutine] <trace>Trace 2</trace> Jeśli udane, połóż 1 znacznik zasilania na Viktorze 2.0.\n[subroutine] Zakończ skok.",
+    "title": "Viktor 2.0"
+  },
+  {
+    "code": "03020",
+    "flavor": "Umysł z mięsa! Jak on działa?",
+    "keywords": "Strażnik - Bioroid - AP",
+    "text": "Runner może wydać [click], aby złamać dowolny podprogram Zed 1.0.\n[subroutine] Jeśli runner wydał przynajmniej [click] aby złamać podprogramy podczas tego skoku, zadaj 1 obrażenie mózgu.\n[subroutine] Jeśli runner wydał przynajmniej [click] aby złamać podprogramy podczas tego skoku, zadaj 1 obrażenie mózgu.",
+    "title": "Zed 1.0"
+  },
+  {
+    "code": "03021",
+    "text": "Centrum przebudzenia może hostować lód <strong>bioroid</strong> (lód instaluje się zakryty, ignorując wszelkie koszty instalacji).\nZawsze gdy runner pokona wszystkie karty lodu, chroniące ten serwer, możesz zrezować kartę lodu z Centrum przebudzenia, obniżając koszt zrezowania o 7[credit], i zmusić runnera, by go napotkał. Skasuj ten lód po zakończeniu skoku.",
+    "title": "Centrum przebudzenia"
+  },
+  {
+    "code": "03022",
+    "keywords": "Wrogi",
+    "text": "Jeśli runner ma złamać podprogram lodu <strong>bioroid</strong> chroniącego ten serwer, możesz zrezować Dłoń Tyra.\n[trash]: Zablokuj złamanie podprogramu lodu <strong>bioroid</strong> chroniącego ten serwer.",
+    "title": "Dłoń Tyra"
+  },
+  {
+    "code": "03023",
+    "flavor": "Sprzedaj marzenie. Pokaż im, jak bardzo chcą być bogaci, a sami sobie wmówią, że kiedyś będą. Jak mogą buntować się przeciwko własnej przyszłości? - Nowa Ewangelia Bogactwa",
+    "keywords": "Ekspansja",
+    "text": "[click], [click]: Pobierz 3[credit].",
+    "title": "Arkologia Gila Hands"
+  },
+  {
+    "code": "03024",
+    "flavor": "\"Jeszcze jedna fabryka posłusznych mrówek-robotnic dla machiny korporacyjnej. Ale mają najlepszy wydział informatyki na świecie.\" - g00ru",
+    "keywords": "Elegancki",
+    "text": "[click], 1[credit]: Poszukaj lodu w R&D, odsłoń go i dodaj do HQ. Przetasuj R&D.",
+    "title": "Uniwersytet Levy'ego"
+  },
+  {
+    "code": "03025",
+    "flavor": "\"Jest tylko 5% szans, że to spowoduje ogólną awarię.\"",
+    "text": "Pobierz 2[credit], gdy zaczynasz turę.\nSkasuj Diagnostykę serwera, gdy instalujesz lód.",
+    "title": "Diagnostyka serwera"
+  },
+  {
+    "code": "03026",
+    "flavor": "Lód nie służy do tego, żeby zablokować dostęp wszystkim, ale aby wpuścić tylko niektórych. Ten lód blokuje wejście na wszystkich portach z wyjątkiem kilku - a one zmieniają się zależnie od pory dnia albo pikosekundy połączenia. Jeśli nie wiesz, którego portu użyć, nie wejdziesz i kropka.",
+    "keywords": "Bariera",
+    "text": "[subroutine] Zakończ skok.",
+    "title": "Bastion"
+  },
+  {
+    "code": "03027",
+    "flavor": "\"Tania, komercyjna ochrona danych. Tania, znaczy się, dla nich. Nie dla nas.\" - Ele \"Dym\" Scovak",
+    "keywords": "Brama kodowa",
+    "text": "[subroutine] Runner musi zapłacić 2[credit], jeśli może. Jeśli runner nie może zapłacić 2[credit], zakończ skok.\n[subroutine] Zakończ skok.",
+    "title": "Płatna infostrada"
+  },
+  {
+    "code": "03028",
+    "flavor": "\"Nie byłam; byłam; nie jestem niczym; jestem wszystkim.\"",
+    "keywords": "Cyborg",
+    "text": "W każdej turze, pierwszy lód, który napotkasz, zyskuje podrodzaj <strong>brama kodowa</strong> do końca skoku.",
+    "title": "Rielle \"Kit\" Peddler: Transczłowiek"
+  },
+  {
+    "code": "03029",
+    "flavor": "\"Nowa technologia niszczy starą.\"",
+    "keywords": "Normalny",
+    "text": "Pierwszy egzemplarz każdego programu w tej talii nie wlicza się do twojego limitu wpływu.",
+    "title": "Profesor: Strażnik wiedzy"
+  },
+  {
+    "code": "03030",
+    "flavor": "\"Potrafię to uruchomić.\"",
+    "keywords": "Normalny",
+    "text": "Zawsze gdy instalujesz program ze swojej sterty, dobierz 1 kartę.",
+    "title": "Wygnaniec: Rekin ulicy"
+  },
+  {
+    "code": "03031",
+    "keywords": "Skok",
+    "text": "Przeprowadź skok na HQ. Jeśli jest udany, zamiast uzyskania dostępu do kart, zamień miejscami dowolną liczbę kart lodu chroniącego wszystkie serwery (bez rezowania lub odrezowania). Zamiana miejsc nie może zmienić liczby kart lodu chroniących każdy serwer.",
+    "title": "Escher"
+  },
+  {
+    "code": "03032",
+    "flavor": "Łiiiii!",
+    "keywords": "Skok",
+    "text": "Przeprowadź skok. Jeśli jest udany, zamiast uzyskania dostępu do kart usuń do 3 żetonów zaawansowania z pojedynczej karty na zaatakowanym serwerze lub chroniącej go.",
+    "title": "Przejażdżka rozpoznawcza"
+  },
+  {
+    "code": "03033",
+    "flavor": "\"Ideały są wspaniałe, ale nie kupisz za nie sojowego taco.\" - Matt \"Najemnik\" Thomas",
+    "keywords": "Robota",
+    "text": "Skasuj do 5 programów ze swojej garści. Pobierz 2[credit] za każdy skasowany program.",
+    "title": "Programista na zlecenie"
+  },
+  {
+    "code": "03034",
+    "flavor": "Dla jednych śmieci.",
+    "text": "Aby zagrać tę kartę, jako dodatkowy koszt, skasuj zainstalowany program.\nZainstaluj program z garści lub sterty, obniżając koszt instalacji tego programu o koszt skasowanego programu.",
+    "title": "Śmieciarz"
+  },
+  {
+    "code": "03035",
+    "flavor": "Siedź za długo w laboratorium, a ktoś cię może zauważyć. Chyba, że jesteś kierownikiem.",
+    "text": "Wtasuj swoją garść i stertę do stosu. Dobierz 5 kart. Zamiast kasowania, usuń Laboratorium AR Levy'ego z gry.",
+    "title": "Laboratorium AR Levy'ego"
+  },
+  {
+    "code": "03036",
+    "keywords": "Konsola",
+    "text": "+3[mu]\nGdy instalujesz Monolit, zainstaluj do 3 programów z garści, obniżając koszt instalacji każdego o 4[credit].\n<strong>Skasuj program z garści</strong>: Zablokuj 1 obrażenie mózgu lub sprzętu.\nLimit 1 <strong>konsoli</strong> na gracza.",
+    "title": "Monolit"
+  },
+  {
+    "code": "03037",
+    "flavor": "Za pierwszym razem i tak trochę boli. Za drugim już nic nie czujesz. Ale nie kuś losu.",
+    "keywords": "Ekwipunek",
+    "text": "3[credit]: Zablokuj 1 obrażenie sprzętu.\n[trash]: Zablokuj do 2 obrażeń mózgu.",
+    "title": "Filtr sprzężenia"
+  },
+  {
+    "code": "03038",
+    "flavor": "Kopia zapasowa kopii zapasowej do dobry zwyczaj.",
+    "keywords": "Chip",
+    "text": "[trash]: Zainstaluj program ze swojej sterty (płacąc koszt instalacji).",
+    "title": "Chip klonujący"
+  },
+  {
+    "code": "03039",
+    "keywords": "Wyposażenie",
+    "text": "Omnidysk może hostować jeden program zajmujący 1[mu] lub mniej. Wymagania pamięciowe hostowanego program nie wliczają się do twojego limitu pamięci.\n1[recurring-credit]\nUżyj tego kredytu do płacenia za używanie hostowanego programu.",
+    "title": "Omnidysk"
+  },
+  {
+    "code": "03040",
+    "flavor": "Nasz myśli nas kształtują; stajemy się tym, o czym myślimy.",
+    "keywords": "Lodołamacz - AI",
+    "text": "Gdy instalujesz Atmana, możesz zapłacić X[credit], by umieścić na Atmanie X znaczników zasilania.\nAtman ma +1 siły za każdy leżący na nim znacznik zasilania.\n1[credit]: Złam podprogram lodu, którego siła jest równa sile Atmana.",
+    "title": "Atman"
+  },
+  {
+    "code": "03041",
+    "flavor": "\"Nie postawią żadnej kreski, która rzuci cień na ścianę...\"",
+    "keywords": "Niewykrywalny",
+    "text": "1[recurring-credit]\nUżyj tego kredytu do płacenia za używanie <strong>lodołamaczy</strong>.",
+    "title": "Zasłona"
+  },
+  {
+    "code": "03042",
+    "flavor": "\"...a gdy cień powstanie, zasłona opadnie.\" - upiór",
+    "keywords": "Lodołamacz - Zabójca",
+    "text": "1[credit]: Złam podprogram <strong>strażnika</strong>.\n1[credit]: +5 siły. Możesz użyć tej zdolności tylko wydając kredyty z karty <strong>niewykrywalnej</strong>.",
+    "title": "Sztylet"
+  },
+  {
+    "code": "03043",
+    "keywords": "Wirus",
+    "text": "Zawsze gdy przeprowadzisz udany skok na R&D, połóż 1 znacznik wirusa na Czakanie.\nJeśli na Czakanie leżą przynajmniej 3 znaczniki wirusa, trudność realizacji wszystkich projektów rośnie o 1.",
+    "title": "Czakana"
+  },
+  {
+    "code": "03044",
+    "keywords": "Lodołamacz - Dekoder",
+    "text": "1[credit]: Złam podprogram <strong>bramy kodowej</strong>.\n1[credit]: +1 siły.\nGdy instalujesz Cyber-Szyfr, wybierz serwer. Cyber-Szyfr można używać tylko podczas skoku na ten serwer.",
+    "title": "Cyber-Szyfr"
+  },
+  {
+    "code": "03045",
+    "flavor": "Idealny do zatapiania serwerów.",
+    "text": "2[recurring-credit]\nUżyj tych kredytów do kasowania aktywów.",
+    "title": "Paricia"
+  },
+  {
+    "code": "03046",
+    "flavor": "\"Upewnij się, że wskażesz w kodzie źródłowym, do której binarki ma się wkompilować. Raz wyszedłem z warsztatu na kilka minut, a jak wróciłem, to wszystkie pliki zmieniły się w filmiki z kotami.\" - Profesor",
+    "text": "2[credit], [trash]: Poszukaj programu w swoim stosie i zainstaluj go (płacąc koszt instalacji). Przetasuj swój stos.",
+    "title": "Program samomodyfikujący"
+  },
+  {
+    "code": "03047",
+    "flavor": "W świecie zewnętrznym lotos o tysiącu płatków symbolizuje obojętność na ułudę. Tutaj to miejsce narodzenia wyższej świadomości. Coś nieskończenie czystego.",
+    "text": "2[recurring-credit]\nUżyj tych kredytów do instalowania programów (nie możesz użyć Sahasrary do instalacji programu, który kasuje Sahasrarę).",
+    "title": "Sahasrara"
+  },
+  {
+    "code": "03048",
+    "flavor": "\"Inkowie wierzyli, że bóg słońca mieszka w Hanan Pacha, wyższej krainie kosmosu. Nie wiedzieli, że Hanan Pacha jeszcze po prostu nie zostało odkryte.\" - Profesor",
+    "keywords": "Lodołamacz - Młot",
+    "text": "1[credit]: Złam podprogram <strong>bariery</strong>.\n2[credit]: +1 siły do końca skoku.",
+    "title": "Inti"
+  },
+  {
+    "code": "03049",
+    "flavor": "Czasami nie liczy się, ile zapłaciłeś za warsztat, ile kredytów masz na koncie ani nawet jak dobrym jesteś runnerem. W wielu wypadkach, wystarczy uścisnąć dłoń i się przedstawić",
+    "keywords": "Kontakt",
+    "text": "[click]: Pobierz 1[credit] i dobierz 1 kartę.",
+    "title": "Zawodowe znajomości"
+  },
+  {
+    "code": "03050",
+    "flavor": "Niektórzy mają własny odbiornik satelitarny. Inni mają własnego satelitę.",
+    "keywords": "Połączenie",
+    "text": "+1[link]\nTwój limit kart na ręce jest zwiększony o 1.",
+    "title": "Pożyczony satelita"
+  },
+  {
+    "code": "03051",
+    "flavor": "\"Jeśli znasz kod źródłowy, możesz napisać program, który go pokona lub trochę go zmienić, by pracował dla ciebie. To też się sprawdza.\" - Wygnaniec",
+    "keywords": "Wirtualny",
+    "text": "Zawsze gdy korp rezuje lód, połóż 1[credit] na Analizatorze lodu.\nMożesz używać kredytów z Analizator lodu do instalowania programów.",
+    "title": "Analizator lodu"
+  },
+  {
+    "code": "03052",
+    "flavor": "Informacje przekraczały wszelkie oczekiwania. Ten cały Santiago naprawdę znał się na robocie. Zaczęła sobie wyobrażać, jakie spustoszenie może spowodować na najbliższym przyjęciu charytatywnym...",
+    "keywords": "Skok",
+    "text": "Przeprowadź skok. Po zakończeniu skoku, pobierz 5[credit], jeśli był udany.",
+    "title": "Pranie brudów"
+  },
+  {
+    "code": "03053",
+    "flavor": "\"Dla nas 'cyber-terrorysta', dla nich 'celebryta z podziemia'.\" - Michael Muhama, zawodowy ekspert.",
+    "text": "Gdy instalujesz Codzienne audycje, połóż na nich 8[credit] z banku. Skasuj Codzienne audycje, gdy nie ma już na nich kredytów.\nWeź 2[credit] z Codziennych audycji, gdy zaczynasz swoją turę.",
+    "title": "Codzienne audycje"
+  },
+  {
+    "code": "03054",
+    "flavor": "Tylko ja, filiżanka YucaBean i pakiety wysniffowane wczoraj wieczorem z Odnogi Hongkońskiej. Jak dla mnie, znakomity poranek.",
+    "text": "[click], [click], [trash]: Zagraj wydarzenie ze swojej sterty (płacąc koszt jego zagrania).",
+    "title": "Po staremu"
+  },
+  {
+    "code": "03055",
+    "flavor": "Niebezpieczna gra, ale zdecydowanie warta świeczki.",
+    "keywords": "Kontakt",
+    "text": "Trudność realizacji wszystkich projektów rośnie o 1.\nAby wykraść projekt, musisz zapłacić 3[credit] jako dodatkowy koszt.\nSkasuj Źródło, gdy projekt zostanie zapunktowany lub wykradziony.",
+    "title": "Źródło"
+  }
 ]

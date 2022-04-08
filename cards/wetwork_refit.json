@@ -1,0 +1,15 @@
+{
+  "card_type_id": "operation",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "haas-bioroid",
+  "id": "wetwork_refit",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Install Wetwork Refit on a rezzed piece of bioroid ice as a condition counter with the text \"Host ice gains \"Subroutine Do 1 brain damage.\" before all its other subroutines.\"",
+  "stripped_title": "Wetwork Refit",
+  "subtypes": ["condition"],
+  "text": "Install Wetwork Refit on a rezzed piece of <strong>bioroid</strong> ice as a condition counter with the text \"Host ice gains \"[subroutine] Do 1 brain damage.\" before all its other subroutines.\"",
+  "title": "Wetwork Refit"
+}

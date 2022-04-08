@@ -1,130 +1,130 @@
 [
-    {
-        "code": "02041",
-        "keywords": "Virus",
-        "text": "Ogni volta che effettui un'incursione riuscita nel QG, colloca 1 segnalino virus su Agente Nervino.\nOgni segnalino virus oltre al primo presente su Agente Nervino ti permette di accedere a 1 carta aggiuntiva del QG ogni volta che accedi al QG.",
-        "title": "Agente Nervino"
-    },
-    {
-        "code": "02042",
-        "flavor": "\"I miei miglioramenti sono garantiti a vita, e comunque valgono il rischio.\"",
-        "keywords": "Contatto",
-        "text": "Quando il tuo turno ha inizio, puoi ottenere [click]. Se lo fai, ricevi 1 tag quando termina questo turno.",
-        "title": "Joshua B."
-    },
-    {
-        "code": "02043",
-        "flavor": "\"Pensalo come se fosse un collare a scossa virtuale per punire gli animali aziendali.\" -Andromeda",
-        "keywords": "Sabotaggio",
-        "text": "Giocabile solo se hai effettuato un'incursione riuscita nel QG questo turno.\nSmaterializza un pezzo di ghiaccio.",
-        "title": "Arresto D'Emergenza"
-    },
-    {
-        "code": "02044",
-        "flavor": "Leggera e calzante, è come se fosse pelle a prova di proiettile.",
-        "keywords": "Equipaggiamento",
-        "text": "Previeni il primo danno corpo ogni turno.",
-        "title": "Tuta Muresh"
-    },
-    {
-        "code": "02045",
-        "flavor": "\"Un informatore è il migliore amico di una donna.\" - Andromeda",
-        "text": "Una volta per incursione, puoi esporre un pezzo di ghiaccio smaterializzato quando lo approcci. Puoi quindi disconnetterti.",
-        "title": "Informatore"
-    },
-    {
-        "code": "02046",
-        "flavor": "\"Hai già incontrato Dinisauro?\"",
-        "keywords": "G-mod",
-        "text": "+1[mu]",
-        "title": "Chaos Theory: Giovane Prodigio"
-    },
-    {
-        "code": "02047",
-        "text": "Cerca un programma nel tuo stack o nel tuo heap. Installa quel programma, ignorandone tutti i costi. Rimescola il tuo stack se hai cercato al suo interno. Quando questo turno termina, aggiungi quel programma alla cima del tuo stack se è ancora installato.",
-        "title": "Incursione di Prova"
-    },
-    {
-        "code": "02048",
-        "keywords": "Console",
-        "text": "Dinosauro può ospitare un singolo programma <strong>rompighiaccio</strong> non-<strong>IA</strong>. Il costo di memoria del <strong>rompighiaccio</strong> ospitato non va conteggiato al fine di determinare il tuo limite di memoria.\nIl <strong>rompighiaccio</strong> ospitato ha forza +2.\nLimite di 1 <strong>Console</strong> per giocatore.",
-        "title": "Dinosauro"
-    },
-    {
-        "code": "02049",
-        "keywords": "Luogo",
-        "text": "[click]: Ospita un programma o un hardware dal tuo grip su Officina Personale e collocaci sopra tanti segnalini di potenza quanto il suo costo di installazione.\n1[credit]: Rimuovi 1 segnalino di potenza da una carta ospitata.\nQuando il tuo turno ha inizio, rimuovi 1 segnalino di potenza da una carta ospitata.\nQuando non ci sono più segnalini di potenza rimananenti su una carta ospitata, installala, ignorandone tutti i costi.",
-        "title": "Officina Personale"
-    },
-    {
-        "code": "02050",
-        "flavor": "\"Sono solo grata che il danno cerebrale sia reversibile. Con il supporto della città di New Angeles, spero di riprendermi in fretta e tornare a far pratica della mia arte molto presto.\" - Kate \"Mac\" McCaffrey",
-        "text": "Il limite massimo della tua mano è aumentato di 2.",
-        "title": "Comprensione Pubblica"
-    },
-    {
-        "code": "02051",
-        "keywords": "Ricerca",
-        "text": "Quando riscuotii il punteggio di Progetto Vitruvius, colloca 1 segnalino obiettivo su di esso per ogni gettone progresso oltre il terzo.\n<strong>Segnalino obiettivo ospitato:</strong> Aggiungi 1 carta dagli Archivi al QG.",
-        "title": "Progetto Vitruvius"
-    },
-    {
-        "code": "02052",
-        "flavor": "Non mi calpestare.",
-        "keywords": "Portale Codificato - Tracciatore",
-        "text": "[subroutine] <trace>Tracciamento 3</trace> Se riuscito, il Runner perde [click], se possibile.\n[subroutine] <trace>Tracciamento 3</trace> Se riuscito, l'incursione termina.",
-        "title": "Vipera"
-    },
-    {
-        "code": "02053",
-        "keywords": "Imboscata",
-        "text": "Se Confine del Mondo è installato e paghi 3[credit] quando il Runner vi accede, infliggi 1 danno cerebrale per ogni pezzo di ghiaccio a protezione di questo server",
-        "title": "Confine del mondo"
-    },
-    {
-        "code": "02054",
-        "flavor": "\"Non hai mai effettuato un'incursione fino a che non hai visto il cybersole calare dietro la Grande Città, lo spazio intorno a te che s'increspa di colori che non puoi neanche immaginare.\" - Kate \"Mac\" McCaffrey",
-        "text": "Scegli un server. Riordina i ghiacci a protezione di quel server in qualunque ordine.",
-        "title": "Tramonto"
-    },
-    {
-        "code": "02055",
-        "keywords": "Transazione",
-        "text": "Quando il tuo turno ha inizio, prendi 1[credit] da Conti Segnati, se possibile.\n[click]: Colloca 3[credit] dalla banca su Conti Segnati.",
-        "title": "Conti Segnati"
-    },
-    {
-        "code": "02056",
-        "flavor": "\"Prova a chiuderla. Dai. Guarda cosa fa.\" - Chaos Theory",
-        "keywords": "Portale Codificato - Pubblicità",
-        "text": "Quando il Runner incontra Finestra Pop-up, ottieni 1[credit].\n[subroutine] L'incursione termina a meno che il Runner non paghi 1[credit].",
-        "title": "Finestra Pop-up"
-    },
-    {
-        "code": "02057",
-        "flavor": "Chop chop.",
-        "keywords": "Sentinella - AP",
-        "text": "E' possibile far progredire Taglialegna solo quando è materializzato, e otterrà \"[subroutine] Infliggi 1 danno net.\" per ogni gettone progresso presente su di esso.",
-        "title": "Taglialegna"
-    },
-    {
-        "code": "02058",
-        "flavor": "Le entrate delle Applicazione della Divisione Fringe sono aumentate del 37% di anno in anno dopo che i suoi dipendenti hanno scoperto che la maggior parte dei loro progetti potevano essere giocattoli molto divertenti.",
-        "keywords": "Transazione",
-        "text": "Scegli un pezzo di ghiaccio. Ottieni 1[credit] per ogni gettone progresso presente su quel ghiaccio.",
-        "title": "Commercializzazione"
-    },
-    {
-        "code": "02059",
-        "keywords": "Transazione",
-        "text": "Colloca 14[credit] dalla banca su Contatti Privati quando viene materializzata. Quando non rimane più nessun credito su Contatti Privati. eliminali.\n[click]: Prendi 2[credit] da Contatti Privati.",
-        "title": "Contatti Privati"
-    },
-    {
-        "code": "02060",
-        "flavor": "Tre teste. Un'enorme emicrania.",
-        "keywords": "Mitico",
-        "text": "Quando materializzi Chimera, scegli tra <strong>sentinella</strong>, <strong>portale codificato</strong> o <strong>barriera</strong>.\nChimera ottiene quel sottotipo fino a quando non viene smaterializzata.\nQuando un turno termina, smaterializza Chimera.\n[subroutine] L'incursione termina.",
-        "title": "Chimera"
-    }
+  {
+    "code": "02041",
+    "keywords": "Virus",
+    "text": "Ogni volta che effettui un'incursione riuscita nel QG, colloca 1 segnalino virus su Agente Nervino.\nOgni segnalino virus oltre al primo presente su Agente Nervino ti permette di accedere a 1 carta aggiuntiva del QG ogni volta che accedi al QG.",
+    "title": "Agente Nervino"
+  },
+  {
+    "code": "02042",
+    "flavor": "\"I miei miglioramenti sono garantiti a vita, e comunque valgono il rischio.\"",
+    "keywords": "Contatto",
+    "text": "Quando il tuo turno ha inizio, puoi ottenere [click]. Se lo fai, ricevi 1 tag quando termina questo turno.",
+    "title": "Joshua B."
+  },
+  {
+    "code": "02043",
+    "flavor": "\"Pensalo come se fosse un collare a scossa virtuale per punire gli animali aziendali.\" -Andromeda",
+    "keywords": "Sabotaggio",
+    "text": "Giocabile solo se hai effettuato un'incursione riuscita nel QG questo turno.\nSmaterializza un pezzo di ghiaccio.",
+    "title": "Arresto D'Emergenza"
+  },
+  {
+    "code": "02044",
+    "flavor": "Leggera e calzante, è come se fosse pelle a prova di proiettile.",
+    "keywords": "Equipaggiamento",
+    "text": "Previeni il primo danno corpo ogni turno.",
+    "title": "Tuta Muresh"
+  },
+  {
+    "code": "02045",
+    "flavor": "\"Un informatore è il migliore amico di una donna.\" - Andromeda",
+    "text": "Una volta per incursione, puoi esporre un pezzo di ghiaccio smaterializzato quando lo approcci. Puoi quindi disconnetterti.",
+    "title": "Informatore"
+  },
+  {
+    "code": "02046",
+    "flavor": "\"Hai già incontrato Dinisauro?\"",
+    "keywords": "G-mod",
+    "text": "+1[mu]",
+    "title": "Chaos Theory: Giovane Prodigio"
+  },
+  {
+    "code": "02047",
+    "text": "Cerca un programma nel tuo stack o nel tuo heap. Installa quel programma, ignorandone tutti i costi. Rimescola il tuo stack se hai cercato al suo interno. Quando questo turno termina, aggiungi quel programma alla cima del tuo stack se è ancora installato.",
+    "title": "Incursione di Prova"
+  },
+  {
+    "code": "02048",
+    "keywords": "Console",
+    "text": "Dinosauro può ospitare un singolo programma <strong>rompighiaccio</strong> non-<strong>IA</strong>. Il costo di memoria del <strong>rompighiaccio</strong> ospitato non va conteggiato al fine di determinare il tuo limite di memoria.\nIl <strong>rompighiaccio</strong> ospitato ha forza +2.\nLimite di 1 <strong>Console</strong> per giocatore.",
+    "title": "Dinosauro"
+  },
+  {
+    "code": "02049",
+    "keywords": "Luogo",
+    "text": "[click]: Ospita un programma o un hardware dal tuo grip su Officina Personale e collocaci sopra tanti segnalini di potenza quanto il suo costo di installazione.\n1[credit]: Rimuovi 1 segnalino di potenza da una carta ospitata.\nQuando il tuo turno ha inizio, rimuovi 1 segnalino di potenza da una carta ospitata.\nQuando non ci sono più segnalini di potenza rimananenti su una carta ospitata, installala, ignorandone tutti i costi.",
+    "title": "Officina Personale"
+  },
+  {
+    "code": "02050",
+    "flavor": "\"Sono solo grata che il danno cerebrale sia reversibile. Con il supporto della città di New Angeles, spero di riprendermi in fretta e tornare a far pratica della mia arte molto presto.\" - Kate \"Mac\" McCaffrey",
+    "text": "Il limite massimo della tua mano è aumentato di 2.",
+    "title": "Comprensione Pubblica"
+  },
+  {
+    "code": "02051",
+    "keywords": "Ricerca",
+    "text": "Quando riscuotii il punteggio di Progetto Vitruvius, colloca 1 segnalino obiettivo su di esso per ogni gettone progresso oltre il terzo.\n<strong>Segnalino obiettivo ospitato:</strong> Aggiungi 1 carta dagli Archivi al QG.",
+    "title": "Progetto Vitruvius"
+  },
+  {
+    "code": "02052",
+    "flavor": "Non mi calpestare.",
+    "keywords": "Portale Codificato - Tracciatore",
+    "text": "[subroutine] <trace>Tracciamento 3</trace> Se riuscito, il Runner perde [click], se possibile.\n[subroutine] <trace>Tracciamento 3</trace> Se riuscito, l'incursione termina.",
+    "title": "Vipera"
+  },
+  {
+    "code": "02053",
+    "keywords": "Imboscata",
+    "text": "Se Confine del Mondo è installato e paghi 3[credit] quando il Runner vi accede, infliggi 1 danno cerebrale per ogni pezzo di ghiaccio a protezione di questo server",
+    "title": "Confine del mondo"
+  },
+  {
+    "code": "02054",
+    "flavor": "\"Non hai mai effettuato un'incursione fino a che non hai visto il cybersole calare dietro la Grande Città, lo spazio intorno a te che s'increspa di colori che non puoi neanche immaginare.\" - Kate \"Mac\" McCaffrey",
+    "text": "Scegli un server. Riordina i ghiacci a protezione di quel server in qualunque ordine.",
+    "title": "Tramonto"
+  },
+  {
+    "code": "02055",
+    "keywords": "Transazione",
+    "text": "Quando il tuo turno ha inizio, prendi 1[credit] da Conti Segnati, se possibile.\n[click]: Colloca 3[credit] dalla banca su Conti Segnati.",
+    "title": "Conti Segnati"
+  },
+  {
+    "code": "02056",
+    "flavor": "\"Prova a chiuderla. Dai. Guarda cosa fa.\" - Chaos Theory",
+    "keywords": "Portale Codificato - Pubblicità",
+    "text": "Quando il Runner incontra Finestra Pop-up, ottieni 1[credit].\n[subroutine] L'incursione termina a meno che il Runner non paghi 1[credit].",
+    "title": "Finestra Pop-up"
+  },
+  {
+    "code": "02057",
+    "flavor": "Chop chop.",
+    "keywords": "Sentinella - AP",
+    "text": "E' possibile far progredire Taglialegna solo quando è materializzato, e otterrà \"[subroutine] Infliggi 1 danno net.\" per ogni gettone progresso presente su di esso.",
+    "title": "Taglialegna"
+  },
+  {
+    "code": "02058",
+    "flavor": "Le entrate delle Applicazione della Divisione Fringe sono aumentate del 37% di anno in anno dopo che i suoi dipendenti hanno scoperto che la maggior parte dei loro progetti potevano essere giocattoli molto divertenti.",
+    "keywords": "Transazione",
+    "text": "Scegli un pezzo di ghiaccio. Ottieni 1[credit] per ogni gettone progresso presente su quel ghiaccio.",
+    "title": "Commercializzazione"
+  },
+  {
+    "code": "02059",
+    "keywords": "Transazione",
+    "text": "Colloca 14[credit] dalla banca su Contatti Privati quando viene materializzata. Quando non rimane più nessun credito su Contatti Privati. eliminali.\n[click]: Prendi 2[credit] da Contatti Privati.",
+    "title": "Contatti Privati"
+  },
+  {
+    "code": "02060",
+    "flavor": "Tre teste. Un'enorme emicrania.",
+    "keywords": "Mitico",
+    "text": "Quando materializzi Chimera, scegli tra <strong>sentinella</strong>, <strong>portale codificato</strong> o <strong>barriera</strong>.\nChimera ottiene quel sottotipo fino a quando non viene smaterializzata.\nQuando un turno termina, smaterializza Chimera.\n[subroutine] L'incursione termina.",
+    "title": "Chimera"
+  }
 ]

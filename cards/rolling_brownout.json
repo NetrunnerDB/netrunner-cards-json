@@ -1,0 +1,15 @@
+{
+  "card_type_id": "operation",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "id": "rolling_brownout",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "This card is not trashed until another current is played or an agenda is stolen. The play cost of each operation and event is increased by 1. The first time the Runner plays an event each turn, gain 1 credit.",
+  "stripped_title": "Rolling Brownout",
+  "subtypes": ["current"],
+  "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe play cost of each operation and event is increased by 1.\nThe first time the Runner plays an event each turn, gain 1[credit].",
+  "title": "Rolling Brownout"
+}

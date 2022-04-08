@@ -1,367 +1,367 @@
 [
-    {
-        "code": "13001",
-        "keywords": "G-Mod",
-        "text": "Immer wenn du zum ersten Mal in einem Zug einen Run auf HQ erfolgreich durchführst, darfst du 2 Karten in deiner Ablage wählen, falls möglich. Der Kon entfernt 1 aus dem Spiel; die andere wird deinem Griff hinzugefügt.",
-        "title": "Steve Cambridge: Miesterhafter Trickbetrüger"
-    },
-    {
-        "code": "13002",
-        "flavor": "\"Die Verteidigung eines Systems zu umgehen, indem man Kabel durchschneidet, nenne ich gerne oldschool.\" - Steve Cambridge",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nEntlade ein Ice mit Ladekosten von X oder weniger.",
-        "title": "Brute-Force-Hack"
-    },
-    {
-        "code": "13003",
-        "flavor": "Gezielte Attacken machen Einbrüche in Systeme so viel leichter, besonders, wenn man autorisierte Nutzer hereinlegen kann.",
-        "keywords": "Run",
-        "text": "Führe einen Run durch. Sobald du auf das innerste Ice triffst, das dieses System schützt, umgehe es.",
-        "title": "Spear-Phishing"
-    },
-    {
-        "code": "13004",
-        "flavor": "Das System mit synchronisierten Anfragen zu überfluten, führt dazu, dass es nicht mehr auf berechtigte Anfragen reagiert.",
-        "keywords": "Verdoppeln",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nDer Kon muss entweder 2 Karten ablegen oder 4 Karten ziehen.",
-        "title": "SYN-Angriff"
-    },
-    {
-        "code": "13005",
-        "keywords": "Konsole",
-        "text": "+2[mu], +1[link]\nImmer wenn du zum ersten Mal in einem Zug an allem Ice vorbeikommst, welches das HQ beschützt, darfst du 1 Karte ziehen um den Kon zu zwingen, 1 Karte zu ziehen.\nNur 1 <strong>Konsole</strong> pro Spieler.",
-        "title": "Polyhistor"
-    },
-    {
-        "code": "13006",
-        "flavor": "\"Technologie bringt Verbrechen hervor.\"",
-        "keywords": "Ice-Brecher - Decoder",
-        "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[credit]: +2 Stärke.\n[trash]: Umgehe ein <strong>Code-Zugang</strong>-Ice, auf das du gerade triffst, selbst wenn es eine höhere Stärke als Abagnale hat.",
-        "title": "Abagnale"
-    },
-    {
-        "code": "13007",
-        "flavor": "\"Prahle niemals. Lass deine Wichtigkeit einfach wortlos offensichtlich sein.\"",
-        "keywords": "Ice-Brecher - Killer",
-        "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächers</strong> aus.\n3[credit]: +5 Stärke.\n[trash]: Umgehe ein <strong>Wächer</strong>-Ice, auf das du gerade triffst, selbst wenn es eine höhere Stärke als Lustig hat.",
-        "title": "Lustig"
-    },
-    {
-        "code": "13008",
-        "flavor": "\"Es kommt nur darauf an, die richtigen Legitimationen zu 'erwerben'.\"",
-        "keywords": "Ice-Brecher - Fracter",
-        "text": "2[credit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n2[credit]: +3 Stärke.\n[trash]: Umgehe ein <strong>Barriere</strong>-Ice, auf das du gerade triffst, selbst wenn es eine höhere Stärke als Demara hat.",
-        "title": "Demara"
-    },
-    {
-        "code": "13009",
-        "keywords": "Ice-Brecher - KI",
-        "text": "<strong>Gehosteter Wirkungszähler:</strong> Schalte eine Subroutine eines Ice aus.\n2[credit]: +2 Stärke\nWenn dein Zug beginnt, darfst du X[credit] zahlen, um X Wirkungszähler auf Mammon zu legen. Wenn dein Zug endet, entferne alle gehosteten Wirkungszähler.",
-        "title": "Mammon"
-    },
-    {
-        "code": "13010",
-        "flavor": "Kenne deine Beute, ihre Schwächen und Stärken - beides wird dir zeigen, wie man ihre Verteidigung am besten umgehen kann.",
-        "keywords": "Virtual",
-        "text": "[click], [click]: Führe einen Run durch. Sobald du dich zum ersten Mal in diesem Run einem geladenen Ice näherst, darfst du Credits in Höhe der Stärke deses Ice zahlen, um es zu umgehen",
-        "title": "Charlatan"
-    },
-    {
-        "code": "13011",
-        "flavor": "Du erinnerst dich an die Zeit, als Maxi für Chacon als Buchmacher gearbeitet hat? Er stieg in dieser Welt auf und gewann einen Anschein von Reskeptabilität. Aber jetzt, als Führungskraft, arbeitet er für Menschen, die deutlich bösartiger, blutdurstiger und verdorbener sind.",
-        "keywords": "Kontakt",
-        "text": "+1[link]\n[trash]: Entlade ein Ice, das ein ausgelagertes System schützt. Verwende diese Fähigkeit nur nach einem erfolgreichen Run auf HQ.",
-        "title": "Maxwell James"
-    },
-    {
-        "code": "13012",
-        "keywords": "Natürlich",
-        "text": "Vor dem Ziehen deiner Starthand sieh dir die obersten 6 Karten deines Stapels an. Lege 4 davon als NVAM verdeckt beiseite. Mische die übrigen in deinen Stabel.\n[click]: Füge deinem Griff 1 Karte von NVRAM hinzu.",
-        "title": "Ayla \"Bios\" Rahim: Spezialistin für Simulationen"
-    },
-    {
-        "code": "13013",
-        "flavor": "Jede KI hatte die Aufgabe erhalten, die Lösung für dasselbe Problem zu finden, nur mit unterschiedlichen Veriablen.",
-        "keywords": "Priorität",
-        "text": "Kann nur als erster [click] gespielt werden.\nWähle eine Karte, die sich in einem ausgelagerten System befindet oder es schützt. Diese Karte kann in diesem Zug nicht geladen werden.",
-        "title": "Sorgfältige Planung"
-    },
-    {
-        "code": "13014",
-        "flavor": "Die Essenz eines Runs ist die Extraktion von Daten aus komplexen Systemen.",
-        "keywords": "Run",
-        "text": "Führe einen Run auf F&E durch. Bei Erfolg greife auf 1 zusätzliche Karte für jede ungenutzte SE zu (bis zu einem Maximum von 4).",
-        "title": "Intensives Data-Mining"
-    },
-    {
-        "code": "13015",
-        "flavor": "Es besteht nicht wirklich aus Diamanten, aber es ist ein Vielfaches seines Gewichts in Diamanten wert.",
-        "keywords": "Mod",
-        "text": "+1[mu], +1[link]\nDein Handkartenlimit wird um 1 erhöht.",
-        "title": "LLDS-Speicherdiamant"
-    },
-    {
-        "code": "13016",
-        "flavor": "\"Es ist mehr als nur eine 'hübsche Naniten-Pflanze'. Es ist ein komplexes, synthetisch-intelligentes, verteiltes Netzwerk und eine SEHR hübsche Naniten-Pflanze.\" - Bios",
-        "keywords": "Konsole",
-        "text": "+1[mu]\nWenn dein Zug beginnt, ziehe 1 Karte.\nNur 1 <strong>Konsole</strong> pro Spieler",
-        "title": "Ubax"
-    },
-    {
-        "code": "13017",
-        "flavor": "Μεγάλο μέρος της μάθησης δεν διδάσκει την κατανόηση.",
-        "keywords": "Ice-Brecher - Fracter - Killer",
-        "text": "Adept hat +1 Stärke für jede ungenutzte SE.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> oder einer <strong>Barriere</strong> aus.",
-        "title": "Adept"
-    },
-    {
-        "code": "13018",
-        "flavor": "Δεν υπἁρχει τίποτα μόνιμο, εκτός από την αλλαγή.",
-        "keywords": "Ice-Brecher - Killer - Decoder",
-        "text": "Savant hat +1 Stärke für jede ungenutzte SE.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> oder 2 Subroutinen eines <strong>Code-Zugangs</strong> aus.",
-        "title": "Savant"
-    },
-    {
-        "code": "13019",
-        "text": "Kann nur auf einem geladenen Ice installiert werden.\nDas hostende Ice erhält <strong>Wächter</strong>, <strong>Code-Zugang</strong> und <strong>Barriere</strong>.",
-        "title": "Egret"
-    },
-    {
-        "code": "13020",
-        "text": "Dhegdheer kann ein einziges Programm hosten.\nSobald du ein Programm auf Dhegdheer installierst, senke dessen Installationskosten um 1.\nDie Speicherkosten für das gehostete Programm zählen nicht gegen sein Speicherlimit.",
-        "title": "Dhegdheer"
-    },
-    {
-        "code": "13021",
-        "flavor": "Innovation. Iteration. Edukation.",
-        "keywords": "Ort - Protzig",
-        "text": "[click]: Decke die obersten 4 Karten deines Stapels auf. Falls unter diesen Karten Programme sind, darfst du 1 deinem Griff hunzufügen. Lege die übrigen Karten in beliebiger Reihenfolge unter deinen Stapel.",
-        "title": "Levys modernstes Labor"
-    },
-    {
-        "code": "13022",
-        "flavor": "Laguna Velasco, eine der reichsten und mächtigsten Gegenden von New Andeles, ist auch als Regierungsbezirk bekannt.",
-        "keywords": "Ort - Protzig",
-        "text": "Immer wenn du [click] zahlst, um 1 Karte zu ziehen (nicht durch Kartenfähigkeiten), ziehe 1 zusätzliche Karte.",
-        "title": "Bezierk Laguna Velasco"
-    },
-    {
-        "code": "13023",
-        "flavor": "Umstrukturierung von Arbeitsressourcen.",
-        "text": "Du erhälst 2[credit] und ziehst 1 Karte.",
-        "title": "Prozessautomatisierung"
-    },
-    {
-        "code": "13024",
-        "keywords": "Kontakt",
-        "text": "[trash], 1[credit]: Der Kon zerstört 2 zufällige Karten vom HQ. Verwende diese Fähigkeit nur, falls du in diesem Zug Körper-Schaden genommen hast.",
-        "title": "Officer Frank"
-    },
-    {
-        "code": "13025",
-        "keywords": "Kontakt",
-        "text": "[trash]: Wähle einen <strong>Ice-Brecher</strong>. Dieser <strong>Ice-Brecher</strong> hat bis zum Ende des Runs +1 Stärke für jede Karte in deinem Griff.",
-        "title": "Dekan Lister"
-    },
-    {
-        "code": "13026",
-        "flavor": "Sie hinterließ eine verschlüsselte Spur, die zu einem zufälligen Angestellten eines rivalisierenden Kons führte. Sie wusste, die faulen Sysops würden genau so hart arbeiten wie nötig, um das herauszufinden, und nicht weiter nachforschen.",
-        "text": "[trash]: Verhindere 2 Schaden.",
-        "title": "Biometrisches Spoofing"
-    },
-    {
-        "code": "13027",
-        "flavor": "Ein abscheuliches Netz voller Ausgestoßener und Ehrlosigkeit; keine Regierung und kein Kon ist in der Lage es wirksam abzuschalten. Wenn auch nur deshalb, weil viele ihrer Sysops, Führungskräfte und Geheimagenten es selbst nutzen.",
-        "text": "[click], <strong>gib eine Agenda auf:</strong> Spiele ein Ereignis aus deiner Ablage, ohne die Kosten dafür zu bezahlen.",
-        "title": "Das Schattennetz"
-    },
-    {
-        "code": "13028",
-        "flavor": "Die vergangenheit und die Zukunft verflechten.",
-        "keywords": "Abteilung",
-        "text": "Immer wenn der Runner zum ersten Mal während eines Runs [click] verliert oder ausgibt, darfst du 1 Karte aus dem Archiv oben auf F&E legen.",
-        "title": "Seidr Laboratories: Vorbestimmtes Schicksal"
-    },
-    {
-        "code": "13029",
-        "flavor": "Das unter Sicherheitsfreigabe Schwarz fallende Unter-Untergeschoss von Haas-Bioroid ist ein magischer Ort.",
-        "keywords": "Sicherheit",
-        "text": "Sobald du die Punkte für Hirnneuverdrahtung erzielst, darfst du X[credit] zahlen, um den Runner zu zwingen, X zufällige Karten aus seinem Griff unter seinen Stapel zu legen und danach 1 Karte zu ziehen.",
-        "title": "Hirnneuverdrahtung"
-    },
-    {
-        "code": "13030",
-        "keywords": "Initiative",
-        "text": "Lege 2 Agendazähler auf Freiwilliges Upgrade, sobald du die Punkte dafür erzielst.\n[click], <strong>gehosteter Agendazähler</strong>: Du erhälst [click][click]. Verwende diese Fähigkeit nur ein Mal pro Zug.",
-        "title": "Freiwilliges Upgrade"
-    },
-    {
-        "code": "13031",
-        "keywords": "Forschung",
-        "text": "Sobald du die Punkte für Erfolgreicher Feldversuch erzielst, installiere eine beliebige Anzahl Karten aus dem HQ, ohne die Kosten dafür zu bezahlen.",
-        "title": "Erfolgreicher Feldversuch"
-    },
-    {
-        "code": "13032",
-        "keywords": "Executive",
-        "text": "Whenever you install a card in a server, place 1 power counter on Estelle Moon.\n[trash]: Draw 1 card and gain 2[credit] for each power counter on Estelle Moon.",
-        "title": "Estelle Moon"
-    },
-    {
-        "code": "13033",
-        "keywords": "Werbung",
-        "text": "Lege 8[credit] auf Marilyn-Kampagne, sobald sie geladen wird. Sobald keine Credits mehr auf Marilyn-Kampagne sind, zerstöre sie.\nNimm 2[credit] von Marilyn-Kampagne, wenn dein Zug beginnt.\nFalls Marilyn-Kampagne zerstört wird, während sie installiert ist, darfst du sie in F&E mischen anstatt sie dem Archiv hinzuzufügen.",
-        "title": "Marilyn-Kampagne"
-    },
-    {
-        "code": "13034",
-        "flavor": "\"Ein neues Spiel bedeutet auch neue Regeln...\"",
-        "keywords": "Barriere - Bioroid",
-        "text": "Der Runner kann [click] [click] ausgeben, um bis zu 2 Subroutinen auf Eli 2.0 auszuschalten.\n[subroutine] Der Kon darf 1 Karte ziehen.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
-        "title": "Eli 2.0"
-    },
-    {
-        "code": "13035",
-        "flavor": "\"Es ist strenggenommen nicht illegal, einen Befragungssimulator als Blaupause für ein Ice zu verwenden.\" - Mason Bellamy",
-        "keywords": "Code-Zugang - AP - Spürhund",
-        "text": "[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verursache 1 Hirn-Schaden.",
-        "title": "Exekutive Funktionen"
-    },
-    {
-        "code": "13036",
-        "keywords": "Wächter - Spürhund - Zerstörer",
-        "text": "[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg kann der Runner während dieses Runs nicht auf Karten zugreifen.\n[subroutine] Zerstöre 1 <strong>Ice-Brecher</strong>.",
-        "title": "Holmegaard"
-    },
-    {
-        "code": "13037",
-        "flavor": "\"Das Gewebe war hypnotisierend .. schien aber nicht wirklich etwas zu tun, um mich abzuhalten. Aber irgendwie fand ich dann auch nichts Interessantes.\" - Reaver",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Der Runner verliert [click], falls möglich.\n[subroutine] Der Kon darf 1 Karte ziehen.\n[subroutine] Der Kon darf 1 Karte vom HQ oben auf F&E legen.",
-        "title": "Wandteppich"
-    },
-    {
-        "code": "13038",
-        "flavor": "\"Falls es verborgene Partitionen in diesem System gäbe, würde ich das wissen, ich leite diese Abteilung.\"",
-        "keywords": "Transaktion - Verdreifachen",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click][click].\nErhalte 10[credit] und ziehe 4 Karten. Installiere 1 Karte (und zahle die Kosten dafür).",
-        "title": "Sicherheitsfreigabe Ultraviolett"
-    },
-    {
-        "code": "13039",
-        "flavor": "Allein das Wissen um die Existenz dieses Stocks reicht aus, um ausgeknipst zu werden.",
-        "keywords": "Sicherheitsprotokoll",
-        "text": "Immer wenn ein Run auf dieses System erfolgreich ist, erhält der Runner entweder 1 Hirn-Schaden oder stöpselt sich aus. Falls der Runner sich ausstöpselt, erhälst du 5[credit], ziehst 1 Karte und zerstörst Sicherheitsfreigabe Schwarz.",
-        "title": "Sicherheitsfreigabe Schwarz"
-    },
-    {
-        "code": "13040",
-        "flavor": "\"Man sagt, er ist ein ehemaliger Runner. Ich hab keine Ahnung, ob das stimmt, aber er ist bis zu den Zähnen verchromt und scheint alle Runnertricks zu kennen.\"",
-        "keywords": "Sysop",
-        "text": "Immer wenn eine Begegnung mit einem Ice, das dieses System schützt, endet, in welcher der Runner mindestens eine Subroutine ausgeschaltet hat, verliert er falls möglich [click].",
-        "title": "Mason Bellamy"
-    },
-    {
-        "code": "13041",
-        "flavor": "Macht vor Recht.",
-        "keywords": "Tochterunternehmen",
-        "text": "Immer wenn eine Runnerkarte zerstört wird (egal aus welchem Bereich), darfst du den Runner zwingen, sie aus dem Spiel zu entfernen, statt sie seiner Ablage hinzuzufügen. Verwende diese Fähigkeit nur ein Mal pro Zug.",
-        "title": "Skorpios Defense Systems: Überzeugungskraft"
-    },
-    {
-        "code": "13042",
-        "keywords": "Sicherheit",
-        "text": "Lege 1 Agendazähler auf Gehärtete Systeme, sobald du die Punkte dafür erzielst.\n<strong>Gehosteter Agendazähler:</strong> Für den Rest des Runs muss der Runner jedes Mal eine Karte aus seinem Griff als zusätzliche Kosten zerstören, um sich auszustöpseln oder eine Subroutine auszuschalten. Verwende diese Fähigkeit nur während eines Runs.",
-        "title": "Gehärtete Systeme"
-    },
-    {
-        "code": "13043",
-        "flavor": "\"Alles, an alle ... wenn der Preis stimmt.\"",
-        "keywords": "Erweiterung",
-        "text": "Sobald du Punkte für Illegale Verkäufe erzielst, kannst du 1 Negative Publicity erhalten. Du erhälst 3[credit] für jeden Punkt Negative Publicity, den du hast.",
-        "title": "Illegale Verkäufe"
-    },
-    {
-        "code": "13044",
-        "text": "Sobald du die Punkte für Bestechungsgeld erzielst, darfst du dein Deck nach bis zu 3 Karten durchsuchen, diese aufdecken und dem HQ hinzufügen. Mische F&E.",
-        "title": "Bestechungsgeld"
-    },
-    {
-        "code": "13045",
-        "keywords": "Anlage - Illegal",
-        "text": "Falls der Runner Illegale Waffenfabrik zerstört, während sie installiert ist, erhälst du 1 Negative Publicity.\nWenn dein Zug beginnt, erhälst du 1[credit] und 1 Karte.",
-        "title": "Illegale Waffenfabrik"
-    },
-    {
-        "code": "13046",
-        "flavor": "\"VP der Abteilung für Ruhestand oder Altersbezüge? Fällt das jetzt unter Personalabteilung oder Buchhaltung\"\n\"Sowohl als auch.\"",
-        "keywords": "Führungskraft",
-        "text": "Immer wenn der Runner 1 oder mehr Markierungen verpasst bekommt, verursache 1 Körper-Schaden.",
-        "title": "Mr. Stone"
-    },
-    {
-        "code": "13047",
-        "keywords": "Wächter - Zerstörer",
-        "text": "\n[subroutine] Der Runner muss entweder 1 Programm oder die obersten 2 Karten seines Stapels zerstören.",
-        "title": "Aderlasser"
-    },
-    {
-        "code": "13048",
-        "keywords": "Wächter - Zerstörer",
-        "text": "Koloss kann entwickelt werden und hat +1 Stärke für jeden Entwicklungsmarker darauf.\nFalls sich 3 oder mehr Entwicklungsmarker auf Koloss befinden, verwende stattdessen den Text in Klammern aus (führe ihn ansonsten nicht aus).\n[subroutine] Verpasse dem Runner 1 Markierung. (Verpasse dem Runner 2 Markierungen.)\n[subroutine] Zerstöre 1 Programm. (Zerstöre 1 Programm und 1 Resource.)",
-        "title": "Koloss"
-    },
-    {
-        "code": "13049",
-        "keywords": "Barriere",
-        "text": "[subroutine] Entferne eine Karte in der Ablage aus dem Spiel.\n[subroutine] Beende den Run.",
-        "title": "Hagelsturm"
-    },
-    {
-        "code": "13050",
-        "keywords": "Code-Zugang",
-        "text": "Hortum kann entwickelt werden.\nFalls sich 3 oder mehr Entwicklungsmarker auf Hortum befinden, können seine Subroutinen nicht von <strong>KI</strong>-Programmen ausgeschaltet werden und verwende stattdessen den Text in Klammern aus (führe ihn ansonsten nicht aus).\n[subroutine] Der Kon erhält 1[credit]. (Der Kon erhält 4[credit].)\n[subroutine] Beende den Run. (Durchsuche F&E nach bis zu 2 Karten und füge sie dem HQ hinzu. Mische F&E. Beende den Run.)",
-        "title": "Hortum"
-    },
-    {
-        "code": "13051",
-        "keywords": "Verdoppeln - Graue Ops",
-        "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nKann nur gespielt werden, falls der Runner in seinem letzten Zug eine Agenda gestohlen hat.\nZerstöre 1 Karte.",
-        "title": "Jäger-Sucher"
-    },
-    {
-        "code": "13052",
-        "keywords": "Führungskraft",
-        "text": "Immer wenn der Runner an allem Ice, das dieses System schützt, vorbeikommt, bekommt er entweder 1 Markeriung verpasst oder er muss den Run beenden.",
-        "title": "K. P. Lynn"
-    },
-    {
-        "code": "13053",
-        "keywords": "Sicherheit",
-        "text": "Sobald du die Punkte für Belastende Unterlagen erzielst, <trace>Aufspüren 6</trace> Bei Erfolg zersöre alle <strong>Kontakt</strong>- und <strong>Jon</strong>-Ressourcen.",
-        "title": "Belastende Unterlagen"
-    },
-    {
-        "code": "13054",
-        "keywords": "Hinterhalt",
-        "text": "Falls von F&E auf Honigfarm zugegriffen wird, muss der Runner sie aufdecken.\nSobald der Runner auf Honigfarm zugreift, verliert er 1[credit].",
-        "title": "Honigfarm"
-    },
-    {
-        "code": "13055",
-        "text": "Wenn dein Zug beginnt, lege 2[credit] auf Langfristige Investitionen.\nFalls sich mindestens 8[credit] auf Langfristige Investitionen befinden, erhält sie \"[click]: Nimm eine beliebige Anzahl Credits von Langfristige Investitionen.\".",
-        "title": "Langfristige Investitionen"
-    },
-    {
-        "code": "13056",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Der Runner verliert [click], falls möglich.\n[subroutine] Der Runner zerstört 1 Karte aus seinem Griff.",
-        "title": "Wehr"
-    },
-    {
-        "code": "13057",
-        "keywords": "Final - Transaktion",
-        "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nDu erhälst 13[credit].",
-        "title": "Börsengang"
-    }
+  {
+    "code": "13001",
+    "keywords": "G-Mod",
+    "text": "Immer wenn du zum ersten Mal in einem Zug einen Run auf HQ erfolgreich durchführst, darfst du 2 Karten in deiner Ablage wählen, falls möglich. Der Kon entfernt 1 aus dem Spiel; die andere wird deinem Griff hinzugefügt.",
+    "title": "Steve Cambridge: Miesterhafter Trickbetrüger"
+  },
+  {
+    "code": "13002",
+    "flavor": "\"Die Verteidigung eines Systems zu umgehen, indem man Kabel durchschneidet, nenne ich gerne oldschool.\" - Steve Cambridge",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nEntlade ein Ice mit Ladekosten von X oder weniger.",
+    "title": "Brute-Force-Hack"
+  },
+  {
+    "code": "13003",
+    "flavor": "Gezielte Attacken machen Einbrüche in Systeme so viel leichter, besonders, wenn man autorisierte Nutzer hereinlegen kann.",
+    "keywords": "Run",
+    "text": "Führe einen Run durch. Sobald du auf das innerste Ice triffst, das dieses System schützt, umgehe es.",
+    "title": "Spear-Phishing"
+  },
+  {
+    "code": "13004",
+    "flavor": "Das System mit synchronisierten Anfragen zu überfluten, führt dazu, dass es nicht mehr auf berechtigte Anfragen reagiert.",
+    "keywords": "Verdoppeln",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nDer Kon muss entweder 2 Karten ablegen oder 4 Karten ziehen.",
+    "title": "SYN-Angriff"
+  },
+  {
+    "code": "13005",
+    "keywords": "Konsole",
+    "text": "+2[mu], +1[link]\nImmer wenn du zum ersten Mal in einem Zug an allem Ice vorbeikommst, welches das HQ beschützt, darfst du 1 Karte ziehen um den Kon zu zwingen, 1 Karte zu ziehen.\nNur 1 <strong>Konsole</strong> pro Spieler.",
+    "title": "Polyhistor"
+  },
+  {
+    "code": "13006",
+    "flavor": "\"Technologie bringt Verbrechen hervor.\"",
+    "keywords": "Ice-Brecher - Decoder",
+    "text": "1[credit]: Schalte eine Subroutine eines <strong>Code-Zugangs</strong> aus.\n2[credit]: +2 Stärke.\n[trash]: Umgehe ein <strong>Code-Zugang</strong>-Ice, auf das du gerade triffst, selbst wenn es eine höhere Stärke als Abagnale hat.",
+    "title": "Abagnale"
+  },
+  {
+    "code": "13007",
+    "flavor": "\"Prahle niemals. Lass deine Wichtigkeit einfach wortlos offensichtlich sein.\"",
+    "keywords": "Ice-Brecher - Killer",
+    "text": "1[credit]: Schalte eine Subroutine eines <strong>Wächers</strong> aus.\n3[credit]: +5 Stärke.\n[trash]: Umgehe ein <strong>Wächer</strong>-Ice, auf das du gerade triffst, selbst wenn es eine höhere Stärke als Lustig hat.",
+    "title": "Lustig"
+  },
+  {
+    "code": "13008",
+    "flavor": "\"Es kommt nur darauf an, die richtigen Legitimationen zu 'erwerben'.\"",
+    "keywords": "Ice-Brecher - Fracter",
+    "text": "2[credit]: Schalte eine Subroutine einer <strong>Barriere</strong> aus.\n2[credit]: +3 Stärke.\n[trash]: Umgehe ein <strong>Barriere</strong>-Ice, auf das du gerade triffst, selbst wenn es eine höhere Stärke als Demara hat.",
+    "title": "Demara"
+  },
+  {
+    "code": "13009",
+    "keywords": "Ice-Brecher - KI",
+    "text": "<strong>Gehosteter Wirkungszähler:</strong> Schalte eine Subroutine eines Ice aus.\n2[credit]: +2 Stärke\nWenn dein Zug beginnt, darfst du X[credit] zahlen, um X Wirkungszähler auf Mammon zu legen. Wenn dein Zug endet, entferne alle gehosteten Wirkungszähler.",
+    "title": "Mammon"
+  },
+  {
+    "code": "13010",
+    "flavor": "Kenne deine Beute, ihre Schwächen und Stärken - beides wird dir zeigen, wie man ihre Verteidigung am besten umgehen kann.",
+    "keywords": "Virtual",
+    "text": "[click], [click]: Führe einen Run durch. Sobald du dich zum ersten Mal in diesem Run einem geladenen Ice näherst, darfst du Credits in Höhe der Stärke deses Ice zahlen, um es zu umgehen",
+    "title": "Charlatan"
+  },
+  {
+    "code": "13011",
+    "flavor": "Du erinnerst dich an die Zeit, als Maxi für Chacon als Buchmacher gearbeitet hat? Er stieg in dieser Welt auf und gewann einen Anschein von Reskeptabilität. Aber jetzt, als Führungskraft, arbeitet er für Menschen, die deutlich bösartiger, blutdurstiger und verdorbener sind.",
+    "keywords": "Kontakt",
+    "text": "+1[link]\n[trash]: Entlade ein Ice, das ein ausgelagertes System schützt. Verwende diese Fähigkeit nur nach einem erfolgreichen Run auf HQ.",
+    "title": "Maxwell James"
+  },
+  {
+    "code": "13012",
+    "keywords": "Natürlich",
+    "text": "Vor dem Ziehen deiner Starthand sieh dir die obersten 6 Karten deines Stapels an. Lege 4 davon als NVAM verdeckt beiseite. Mische die übrigen in deinen Stabel.\n[click]: Füge deinem Griff 1 Karte von NVRAM hinzu.",
+    "title": "Ayla \"Bios\" Rahim: Spezialistin für Simulationen"
+  },
+  {
+    "code": "13013",
+    "flavor": "Jede KI hatte die Aufgabe erhalten, die Lösung für dasselbe Problem zu finden, nur mit unterschiedlichen Veriablen.",
+    "keywords": "Priorität",
+    "text": "Kann nur als erster [click] gespielt werden.\nWähle eine Karte, die sich in einem ausgelagerten System befindet oder es schützt. Diese Karte kann in diesem Zug nicht geladen werden.",
+    "title": "Sorgfältige Planung"
+  },
+  {
+    "code": "13014",
+    "flavor": "Die Essenz eines Runs ist die Extraktion von Daten aus komplexen Systemen.",
+    "keywords": "Run",
+    "text": "Führe einen Run auf F&E durch. Bei Erfolg greife auf 1 zusätzliche Karte für jede ungenutzte SE zu (bis zu einem Maximum von 4).",
+    "title": "Intensives Data-Mining"
+  },
+  {
+    "code": "13015",
+    "flavor": "Es besteht nicht wirklich aus Diamanten, aber es ist ein Vielfaches seines Gewichts in Diamanten wert.",
+    "keywords": "Mod",
+    "text": "+1[mu], +1[link]\nDein Handkartenlimit wird um 1 erhöht.",
+    "title": "LLDS-Speicherdiamant"
+  },
+  {
+    "code": "13016",
+    "flavor": "\"Es ist mehr als nur eine 'hübsche Naniten-Pflanze'. Es ist ein komplexes, synthetisch-intelligentes, verteiltes Netzwerk und eine SEHR hübsche Naniten-Pflanze.\" - Bios",
+    "keywords": "Konsole",
+    "text": "+1[mu]\nWenn dein Zug beginnt, ziehe 1 Karte.\nNur 1 <strong>Konsole</strong> pro Spieler",
+    "title": "Ubax"
+  },
+  {
+    "code": "13017",
+    "flavor": "Μεγάλο μέρος της μάθησης δεν διδάσκει την κατανόηση.",
+    "keywords": "Ice-Brecher - Fracter - Killer",
+    "text": "Adept hat +1 Stärke für jede ungenutzte SE.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> oder einer <strong>Barriere</strong> aus.",
+    "title": "Adept"
+  },
+  {
+    "code": "13018",
+    "flavor": "Δεν υπἁρχει τίποτα μόνιμο, εκτός από την αλλαγή.",
+    "keywords": "Ice-Brecher - Killer - Decoder",
+    "text": "Savant hat +1 Stärke für jede ungenutzte SE.\n2[credit]: Schalte eine Subroutine eines <strong>Wächters</strong> oder 2 Subroutinen eines <strong>Code-Zugangs</strong> aus.",
+    "title": "Savant"
+  },
+  {
+    "code": "13019",
+    "text": "Kann nur auf einem geladenen Ice installiert werden.\nDas hostende Ice erhält <strong>Wächter</strong>, <strong>Code-Zugang</strong> und <strong>Barriere</strong>.",
+    "title": "Egret"
+  },
+  {
+    "code": "13020",
+    "text": "Dhegdheer kann ein einziges Programm hosten.\nSobald du ein Programm auf Dhegdheer installierst, senke dessen Installationskosten um 1.\nDie Speicherkosten für das gehostete Programm zählen nicht gegen sein Speicherlimit.",
+    "title": "Dhegdheer"
+  },
+  {
+    "code": "13021",
+    "flavor": "Innovation. Iteration. Edukation.",
+    "keywords": "Ort - Protzig",
+    "text": "[click]: Decke die obersten 4 Karten deines Stapels auf. Falls unter diesen Karten Programme sind, darfst du 1 deinem Griff hunzufügen. Lege die übrigen Karten in beliebiger Reihenfolge unter deinen Stapel.",
+    "title": "Levys modernstes Labor"
+  },
+  {
+    "code": "13022",
+    "flavor": "Laguna Velasco, eine der reichsten und mächtigsten Gegenden von New Andeles, ist auch als Regierungsbezirk bekannt.",
+    "keywords": "Ort - Protzig",
+    "text": "Immer wenn du [click] zahlst, um 1 Karte zu ziehen (nicht durch Kartenfähigkeiten), ziehe 1 zusätzliche Karte.",
+    "title": "Bezierk Laguna Velasco"
+  },
+  {
+    "code": "13023",
+    "flavor": "Umstrukturierung von Arbeitsressourcen.",
+    "text": "Du erhälst 2[credit] und ziehst 1 Karte.",
+    "title": "Prozessautomatisierung"
+  },
+  {
+    "code": "13024",
+    "keywords": "Kontakt",
+    "text": "[trash], 1[credit]: Der Kon zerstört 2 zufällige Karten vom HQ. Verwende diese Fähigkeit nur, falls du in diesem Zug Körper-Schaden genommen hast.",
+    "title": "Officer Frank"
+  },
+  {
+    "code": "13025",
+    "keywords": "Kontakt",
+    "text": "[trash]: Wähle einen <strong>Ice-Brecher</strong>. Dieser <strong>Ice-Brecher</strong> hat bis zum Ende des Runs +1 Stärke für jede Karte in deinem Griff.",
+    "title": "Dekan Lister"
+  },
+  {
+    "code": "13026",
+    "flavor": "Sie hinterließ eine verschlüsselte Spur, die zu einem zufälligen Angestellten eines rivalisierenden Kons führte. Sie wusste, die faulen Sysops würden genau so hart arbeiten wie nötig, um das herauszufinden, und nicht weiter nachforschen.",
+    "text": "[trash]: Verhindere 2 Schaden.",
+    "title": "Biometrisches Spoofing"
+  },
+  {
+    "code": "13027",
+    "flavor": "Ein abscheuliches Netz voller Ausgestoßener und Ehrlosigkeit; keine Regierung und kein Kon ist in der Lage es wirksam abzuschalten. Wenn auch nur deshalb, weil viele ihrer Sysops, Führungskräfte und Geheimagenten es selbst nutzen.",
+    "text": "[click], <strong>gib eine Agenda auf:</strong> Spiele ein Ereignis aus deiner Ablage, ohne die Kosten dafür zu bezahlen.",
+    "title": "Das Schattennetz"
+  },
+  {
+    "code": "13028",
+    "flavor": "Die vergangenheit und die Zukunft verflechten.",
+    "keywords": "Abteilung",
+    "text": "Immer wenn der Runner zum ersten Mal während eines Runs [click] verliert oder ausgibt, darfst du 1 Karte aus dem Archiv oben auf F&E legen.",
+    "title": "Seidr Laboratories: Vorbestimmtes Schicksal"
+  },
+  {
+    "code": "13029",
+    "flavor": "Das unter Sicherheitsfreigabe Schwarz fallende Unter-Untergeschoss von Haas-Bioroid ist ein magischer Ort.",
+    "keywords": "Sicherheit",
+    "text": "Sobald du die Punkte für Hirnneuverdrahtung erzielst, darfst du X[credit] zahlen, um den Runner zu zwingen, X zufällige Karten aus seinem Griff unter seinen Stapel zu legen und danach 1 Karte zu ziehen.",
+    "title": "Hirnneuverdrahtung"
+  },
+  {
+    "code": "13030",
+    "keywords": "Initiative",
+    "text": "Lege 2 Agendazähler auf Freiwilliges Upgrade, sobald du die Punkte dafür erzielst.\n[click], <strong>gehosteter Agendazähler</strong>: Du erhälst [click][click]. Verwende diese Fähigkeit nur ein Mal pro Zug.",
+    "title": "Freiwilliges Upgrade"
+  },
+  {
+    "code": "13031",
+    "keywords": "Forschung",
+    "text": "Sobald du die Punkte für Erfolgreicher Feldversuch erzielst, installiere eine beliebige Anzahl Karten aus dem HQ, ohne die Kosten dafür zu bezahlen.",
+    "title": "Erfolgreicher Feldversuch"
+  },
+  {
+    "code": "13032",
+    "keywords": "Executive",
+    "text": "Whenever you install a card in a server, place 1 power counter on Estelle Moon.\n[trash]: Draw 1 card and gain 2[credit] for each power counter on Estelle Moon.",
+    "title": "Estelle Moon"
+  },
+  {
+    "code": "13033",
+    "keywords": "Werbung",
+    "text": "Lege 8[credit] auf Marilyn-Kampagne, sobald sie geladen wird. Sobald keine Credits mehr auf Marilyn-Kampagne sind, zerstöre sie.\nNimm 2[credit] von Marilyn-Kampagne, wenn dein Zug beginnt.\nFalls Marilyn-Kampagne zerstört wird, während sie installiert ist, darfst du sie in F&E mischen anstatt sie dem Archiv hinzuzufügen.",
+    "title": "Marilyn-Kampagne"
+  },
+  {
+    "code": "13034",
+    "flavor": "\"Ein neues Spiel bedeutet auch neue Regeln...\"",
+    "keywords": "Barriere - Bioroid",
+    "text": "Der Runner kann [click] [click] ausgeben, um bis zu 2 Subroutinen auf Eli 2.0 auszuschalten.\n[subroutine] Der Kon darf 1 Karte ziehen.\n[subroutine] Beende den Run.\n[subroutine] Beende den Run.",
+    "title": "Eli 2.0"
+  },
+  {
+    "code": "13035",
+    "flavor": "\"Es ist strenggenommen nicht illegal, einen Befragungssimulator als Blaupause für ein Ice zu verwenden.\" - Mason Bellamy",
+    "keywords": "Code-Zugang - AP - Spürhund",
+    "text": "[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verursache 1 Hirn-Schaden.",
+    "title": "Exekutive Funktionen"
+  },
+  {
+    "code": "13036",
+    "keywords": "Wächter - Spürhund - Zerstörer",
+    "text": "[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg kann der Runner während dieses Runs nicht auf Karten zugreifen.\n[subroutine] Zerstöre 1 <strong>Ice-Brecher</strong>.",
+    "title": "Holmegaard"
+  },
+  {
+    "code": "13037",
+    "flavor": "\"Das Gewebe war hypnotisierend .. schien aber nicht wirklich etwas zu tun, um mich abzuhalten. Aber irgendwie fand ich dann auch nichts Interessantes.\" - Reaver",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Der Runner verliert [click], falls möglich.\n[subroutine] Der Kon darf 1 Karte ziehen.\n[subroutine] Der Kon darf 1 Karte vom HQ oben auf F&E legen.",
+    "title": "Wandteppich"
+  },
+  {
+    "code": "13038",
+    "flavor": "\"Falls es verborgene Partitionen in diesem System gäbe, würde ich das wissen, ich leite diese Abteilung.\"",
+    "keywords": "Transaktion - Verdreifachen",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click][click].\nErhalte 10[credit] und ziehe 4 Karten. Installiere 1 Karte (und zahle die Kosten dafür).",
+    "title": "Sicherheitsfreigabe Ultraviolett"
+  },
+  {
+    "code": "13039",
+    "flavor": "Allein das Wissen um die Existenz dieses Stocks reicht aus, um ausgeknipst zu werden.",
+    "keywords": "Sicherheitsprotokoll",
+    "text": "Immer wenn ein Run auf dieses System erfolgreich ist, erhält der Runner entweder 1 Hirn-Schaden oder stöpselt sich aus. Falls der Runner sich ausstöpselt, erhälst du 5[credit], ziehst 1 Karte und zerstörst Sicherheitsfreigabe Schwarz.",
+    "title": "Sicherheitsfreigabe Schwarz"
+  },
+  {
+    "code": "13040",
+    "flavor": "\"Man sagt, er ist ein ehemaliger Runner. Ich hab keine Ahnung, ob das stimmt, aber er ist bis zu den Zähnen verchromt und scheint alle Runnertricks zu kennen.\"",
+    "keywords": "Sysop",
+    "text": "Immer wenn eine Begegnung mit einem Ice, das dieses System schützt, endet, in welcher der Runner mindestens eine Subroutine ausgeschaltet hat, verliert er falls möglich [click].",
+    "title": "Mason Bellamy"
+  },
+  {
+    "code": "13041",
+    "flavor": "Macht vor Recht.",
+    "keywords": "Tochterunternehmen",
+    "text": "Immer wenn eine Runnerkarte zerstört wird (egal aus welchem Bereich), darfst du den Runner zwingen, sie aus dem Spiel zu entfernen, statt sie seiner Ablage hinzuzufügen. Verwende diese Fähigkeit nur ein Mal pro Zug.",
+    "title": "Skorpios Defense Systems: Überzeugungskraft"
+  },
+  {
+    "code": "13042",
+    "keywords": "Sicherheit",
+    "text": "Lege 1 Agendazähler auf Gehärtete Systeme, sobald du die Punkte dafür erzielst.\n<strong>Gehosteter Agendazähler:</strong> Für den Rest des Runs muss der Runner jedes Mal eine Karte aus seinem Griff als zusätzliche Kosten zerstören, um sich auszustöpseln oder eine Subroutine auszuschalten. Verwende diese Fähigkeit nur während eines Runs.",
+    "title": "Gehärtete Systeme"
+  },
+  {
+    "code": "13043",
+    "flavor": "\"Alles, an alle ... wenn der Preis stimmt.\"",
+    "keywords": "Erweiterung",
+    "text": "Sobald du Punkte für Illegale Verkäufe erzielst, kannst du 1 Negative Publicity erhalten. Du erhälst 3[credit] für jeden Punkt Negative Publicity, den du hast.",
+    "title": "Illegale Verkäufe"
+  },
+  {
+    "code": "13044",
+    "text": "Sobald du die Punkte für Bestechungsgeld erzielst, darfst du dein Deck nach bis zu 3 Karten durchsuchen, diese aufdecken und dem HQ hinzufügen. Mische F&E.",
+    "title": "Bestechungsgeld"
+  },
+  {
+    "code": "13045",
+    "keywords": "Anlage - Illegal",
+    "text": "Falls der Runner Illegale Waffenfabrik zerstört, während sie installiert ist, erhälst du 1 Negative Publicity.\nWenn dein Zug beginnt, erhälst du 1[credit] und 1 Karte.",
+    "title": "Illegale Waffenfabrik"
+  },
+  {
+    "code": "13046",
+    "flavor": "\"VP der Abteilung für Ruhestand oder Altersbezüge? Fällt das jetzt unter Personalabteilung oder Buchhaltung\"\n\"Sowohl als auch.\"",
+    "keywords": "Führungskraft",
+    "text": "Immer wenn der Runner 1 oder mehr Markierungen verpasst bekommt, verursache 1 Körper-Schaden.",
+    "title": "Mr. Stone"
+  },
+  {
+    "code": "13047",
+    "keywords": "Wächter - Zerstörer",
+    "text": "\n[subroutine] Der Runner muss entweder 1 Programm oder die obersten 2 Karten seines Stapels zerstören.",
+    "title": "Aderlasser"
+  },
+  {
+    "code": "13048",
+    "keywords": "Wächter - Zerstörer",
+    "text": "Koloss kann entwickelt werden und hat +1 Stärke für jeden Entwicklungsmarker darauf.\nFalls sich 3 oder mehr Entwicklungsmarker auf Koloss befinden, verwende stattdessen den Text in Klammern aus (führe ihn ansonsten nicht aus).\n[subroutine] Verpasse dem Runner 1 Markierung. (Verpasse dem Runner 2 Markierungen.)\n[subroutine] Zerstöre 1 Programm. (Zerstöre 1 Programm und 1 Resource.)",
+    "title": "Koloss"
+  },
+  {
+    "code": "13049",
+    "keywords": "Barriere",
+    "text": "[subroutine] Entferne eine Karte in der Ablage aus dem Spiel.\n[subroutine] Beende den Run.",
+    "title": "Hagelsturm"
+  },
+  {
+    "code": "13050",
+    "keywords": "Code-Zugang",
+    "text": "Hortum kann entwickelt werden.\nFalls sich 3 oder mehr Entwicklungsmarker auf Hortum befinden, können seine Subroutinen nicht von <strong>KI</strong>-Programmen ausgeschaltet werden und verwende stattdessen den Text in Klammern aus (führe ihn ansonsten nicht aus).\n[subroutine] Der Kon erhält 1[credit]. (Der Kon erhält 4[credit].)\n[subroutine] Beende den Run. (Durchsuche F&E nach bis zu 2 Karten und füge sie dem HQ hinzu. Mische F&E. Beende den Run.)",
+    "title": "Hortum"
+  },
+  {
+    "code": "13051",
+    "keywords": "Verdoppeln - Graue Ops",
+    "text": "Als zusätzliche Ausspielkosten für diese Operation zahle [click].\nKann nur gespielt werden, falls der Runner in seinem letzten Zug eine Agenda gestohlen hat.\nZerstöre 1 Karte.",
+    "title": "Jäger-Sucher"
+  },
+  {
+    "code": "13052",
+    "keywords": "Führungskraft",
+    "text": "Immer wenn der Runner an allem Ice, das dieses System schützt, vorbeikommt, bekommt er entweder 1 Markeriung verpasst oder er muss den Run beenden.",
+    "title": "K. P. Lynn"
+  },
+  {
+    "code": "13053",
+    "keywords": "Sicherheit",
+    "text": "Sobald du die Punkte für Belastende Unterlagen erzielst, <trace>Aufspüren 6</trace> Bei Erfolg zersöre alle <strong>Kontakt</strong>- und <strong>Jon</strong>-Ressourcen.",
+    "title": "Belastende Unterlagen"
+  },
+  {
+    "code": "13054",
+    "keywords": "Hinterhalt",
+    "text": "Falls von F&E auf Honigfarm zugegriffen wird, muss der Runner sie aufdecken.\nSobald der Runner auf Honigfarm zugreift, verliert er 1[credit].",
+    "title": "Honigfarm"
+  },
+  {
+    "code": "13055",
+    "text": "Wenn dein Zug beginnt, lege 2[credit] auf Langfristige Investitionen.\nFalls sich mindestens 8[credit] auf Langfristige Investitionen befinden, erhält sie \"[click]: Nimm eine beliebige Anzahl Credits von Langfristige Investitionen.\".",
+    "title": "Langfristige Investitionen"
+  },
+  {
+    "code": "13056",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Der Runner verliert [click], falls möglich.\n[subroutine] Der Runner zerstört 1 Karte aus seinem Griff.",
+    "title": "Wehr"
+  },
+  {
+    "code": "13057",
+    "keywords": "Final - Transaktion",
+    "text": "Nachdem du diese Operation ausgeführt hast, beende deine Aktionsphase.\nDu erhälst 13[credit].",
+    "title": "Börsengang"
+  }
 ]

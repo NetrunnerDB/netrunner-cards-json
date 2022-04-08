@@ -1,126 +1,126 @@
 [
-    {
-        "code": "10001",
-        "flavor": "\"Auch wenn es vorher schon Anti-Konzern-Bewegungen gegeben hat, wie zum Beispiel die Maroon-Welle, ist die neue doch was ganz anders. Sie ist organisiert.\" -Ramesh Gupta, Die Ökonomie der Einen Welt",
-        "keywords": "Run - Sabotage",
-        "text": "Führe einen Run durch. Wenn der Run endet, zerstöre 1 Ice, das während dieses Runs geladen worden ist. (Regeltext beinhaltet Errata)",
-        "title": "Amok-Run"
-    },
-    {
-        "code": "10002",
-        "keywords": "Endverbraucher",
-        "text": "[trash]: Verhindere bis zu X Netz- oder Hirnschaden. Zerstöre so viele Karten oben von deinem Stapel wie Schaden verhindert wurde. X ist die Anzahl der installierten Kopien von Ramujan-Reliant 550 BMI (einschließlich der gerade zerstörten). Maximal 6 pro Deck. (Regeltext beinhaltet Errata)",
-        "title": "Ramujan-Reliant 550 BMI"
-    },
-    {
-        "code": "10003",
-        "flavor": "Der größte Trick liegt nicht im Trick selbst, sondern darin, jemanden glauben zu machen, dass es gar keinen Trick gibt. Für den normalen Sysop ist es Magie. Für den normalen Runner ist es ein gut gehütetes Berufsgeheimnis.",
-        "keywords": "Virtuell",
-        "text": "Nicht ausgeschaltete Subroutinen werden in der Reihenfolge deiner Wahl abgehandelt.",
-        "title": "Strassenmagie"
-    },
-    {
-        "code": "10004",
-        "keywords": "Run - Job",
-        "text": "Führe einen Run auf ein System mit mindestens 1 ungeladenem Ice durch. Wenn der Run endet, erhältst du 12[credit], falls er erfolgreich war.",
-        "title": "Risikojob"
-    },
-    {
-        "code": "10005",
-        "keywords": "Ice-Brecher - Killer",
-        "text": "Du kannst Mungo nicht verwenden, um Subroutinen auf mehr als einem Ice pro Run auszuschalten.\n1[credit]: Schalte bis zu 2 Subroutinen eines <strong>Wächters</strong> aus.\n2[credit]: +2 Stärke.",
-        "title": "Mungo"
-    },
-    {
-        "code": "10006",
-        "flavor": "\"Spiegelmodus ein.\"",
-        "keywords": "Natürlich",
-        "text": "Verhindere die erste Markierung in jedem Run.",
-        "title": "Jesminder Sareen: Das Mädchen hinter dem Schleier"
-    },
-    {
-        "code": "10007",
-        "keywords": "Konsole",
-        "text": "+2[mu]\nEinmal pro Zug, sofort, nachdem du auf eine Karte von F&E zugegriffen hast, kannst du diese Karte unter F&E legen. Falls du dies tust, bekommst du 1 Markierung verpasst.\nMaximal 1 Konsole pro Spieler.",
-        "title": "Maya"
-    },
-    {
-        "code": "10008",
-        "flavor": "\"Die Grundlage sollten wie die Geschichten sein, die du als Kind gelernt hast - unbewusst, unvergessen und zu zufälligen Zeitpunkten auf einmal von Bedeutung.\" - g00ru",
-        "text": "Einmal pro Zug, wenn du auf ein Ice triffst, kannst du ihm für den Rest dieses Runs 1 Unterart deiner Wahl geben, mit Ausnahme von <strong>Wächter</strong>, <strong>Code-Zugang</strong> oder <strong>Barriere</strong>.",
-        "title": "Panchatantra"
-    },
-    {
-        "code": "10009",
-        "flavor": "\"Wir können einem Mann vergeben, wenn er etwas Nützliches erschafft, solange er es nicht bewundert. Die einzige Entschuldigung für die Erschaffung einer nutzlosen Sache ist, das man diese Sache zutiefst bewundert.\" - Oscar Wilde",
-        "keywords": "Ort",
-        "text": "<strong>Gib eine Agenda auf</strong>: Durchsuche deinen Stapel nach einer Karte und installiere sie (und zahle die Installationskosten). Mische deinen Stapel.",
-        "title": "Künstlerkolonie"
-    },
-    {
-        "code": "10010",
-        "flavor": "Legionen von Software-Entwicklern wurden in ihren Hallen erschaffen.",
-        "keywords": "Ort - Protzig",
-        "text": "[click]; Lege 1 Wirkungszähler auf Chatterjee-Universität\n[click]: Installiere ein Programm aus deinem Griff und senke die Installationskosten dafür um 1 pro Wirkungszähler auf Chatterjee-Universität. Entferne 1 gehosteten Wirkungszähler.",
-        "title": "Chatterjee-Universität"
-    },
-    {
-        "code": "10011",
-        "flavor": "\"Ich will keinen Hopper. Ich hab noch nie einen gehabt. Aber jedes Mal, wenn ich mich einstöpsele, lädt dieselbe verdammte Anzeige.\" - 2xTiger",
-        "keywords": "Forschung",
-        "text": "Immer wenn der Runner zum ersten Mal in jedem Zug einen Run startet, kannst du 1 Karte ziehen oder 1[credit] erhalten.",
-        "title": "Hochmoderner Konzepthopper"
-    },
-    {
-        "code": "10012",
-        "keywords": "Wächter - Bioroid - Spürhund - AP",
-        "text": "Der Runner kann [click] zahlen, um eine beliebige Subroutine auf Vikram 1.0 auszuschalten.\n[subroutine] Der Runner kann für den Rest dieses Runs keine Programme verwenden.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verursache 1 Hirn-Schaden.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verursache 1 Hirn-Schaden.",
-        "title": "Vikram 1.0"
-    },
-    {
-        "code": "10013",
-        "flavor": "Nur, wenn wir die Vergangenheit respektieren, können wir eine bessere Zukunft schaffen.",
-        "keywords": "Bündnis",
-        "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [jinteki]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\nZiehe 3 Karten. Lege 1 Karte vom HQ oben auf F&E.",
-        "title": "Kulturerbe-Komitee"
-    },
-    {
-        "code": "10014",
-        "keywords": "Region",
-        "text": "Immer wenn der Runner an einem Ice, das dieses System schützt, vorbeikommt, kannst du dieses Ice gegen ein anderes Ice austauschen, das dieses System schützt.\nMaximal 1 <strong>Region</strong> pro System.",
-        "title": "Stadtnetz von Mumbad"
-    },
-    {
-        "code": "10015",
-        "flavor": "\"Eine Neuerwerbung hat zwei, vielleicht drei Stunden. Falls es sich nicht verkauft, stell es ein und mach mit was anderem weiter.\"",
-        "keywords": "Sendung",
-        "text": "Wenn dein Zug beginnt, kannst du dir die oberste Karte des Runner-Stapels ansehen.\n[trash]: Der Runner zerstört die oberste Karte seines Stapels.",
-        "title": "Kala Ghoda Real-TV"
-    },
-    {
-        "code": "10016",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Für den Rest des Runs muss der Runner jedes Mal 1[credit] als zusätzliches Kosten zahlen, wenn er einen <strong>Ice-Brecher</strong> verwendet, um mindestens 1 Subroutine auszuschalten.\n[subroutine] Für den Rest des Runs muss der Runner jedes Mal 1[credit] als zusätzliches Kosten zahlen, wenn er einen <strong>Ice-Brecher</strong> verwendet, um mindestens 1 Subroutine auszuschalten.",
-        "title": "Interrupt 0"
-    },
-    {
-        "code": "10017",
-        "flavor": "\"Warte mit der Eröffnung, bis du etwas wirklich Tolles zu präsentieren hast.\" - VP Global Expansion",
-        "text": "Lege 3 Wirkungsmarker auf eine aufgedeckte Karte. Du kannst bis zu deinem nächsten Zug die Punkte für diese Karte nicht erzielen.",
-        "title": "Eröffnungsfeier"
-    },
-    {
-        "code": "10018",
-        "flavor": "Die Weisesten wissen am wenigsten.",
-        "keywords": "Allianz - Anlage",
-        "text": "Diese Karte kostet 0 Einfluss, falls du 15 oder weniger Ice in deinem Deck hast.\n2[recurring-credit]\nVerwende diese Credits, um Karten zu laden.",
-        "title": "Mumba-Tempel"
-    },
-    {
-        "code": "10019",
-        "flavor": "\"Und hier sehen wir den Eisbären, einst das größte fleischfressende Landtier der Erde.\"",
-        "keywords": "Bündnis - Protzig",
-        "text": "Diese Karte kostet 0 Einfluss, falls du 50 oder mehr Karten in deinem Deck hast.\nWenn dein Zug beginnt, kannst du 1 Karte aus deinem Archiv in F&E mischen.",
-        "title": "Historisches Museum"
-    }
+  {
+    "code": "10001",
+    "flavor": "\"Auch wenn es vorher schon Anti-Konzern-Bewegungen gegeben hat, wie zum Beispiel die Maroon-Welle, ist die neue doch was ganz anders. Sie ist organisiert.\" -Ramesh Gupta, Die Ökonomie der Einen Welt",
+    "keywords": "Run - Sabotage",
+    "text": "Führe einen Run durch. Wenn der Run endet, zerstöre 1 Ice, das während dieses Runs geladen worden ist. (Regeltext beinhaltet Errata)",
+    "title": "Amok-Run"
+  },
+  {
+    "code": "10002",
+    "keywords": "Endverbraucher",
+    "text": "[trash]: Verhindere bis zu X Netz- oder Hirnschaden. Zerstöre so viele Karten oben von deinem Stapel wie Schaden verhindert wurde. X ist die Anzahl der installierten Kopien von Ramujan-Reliant 550 BMI (einschließlich der gerade zerstörten). Maximal 6 pro Deck. (Regeltext beinhaltet Errata)",
+    "title": "Ramujan-Reliant 550 BMI"
+  },
+  {
+    "code": "10003",
+    "flavor": "Der größte Trick liegt nicht im Trick selbst, sondern darin, jemanden glauben zu machen, dass es gar keinen Trick gibt. Für den normalen Sysop ist es Magie. Für den normalen Runner ist es ein gut gehütetes Berufsgeheimnis.",
+    "keywords": "Virtuell",
+    "text": "Nicht ausgeschaltete Subroutinen werden in der Reihenfolge deiner Wahl abgehandelt.",
+    "title": "Strassenmagie"
+  },
+  {
+    "code": "10004",
+    "keywords": "Run - Job",
+    "text": "Führe einen Run auf ein System mit mindestens 1 ungeladenem Ice durch. Wenn der Run endet, erhältst du 12[credit], falls er erfolgreich war.",
+    "title": "Risikojob"
+  },
+  {
+    "code": "10005",
+    "keywords": "Ice-Brecher - Killer",
+    "text": "Du kannst Mungo nicht verwenden, um Subroutinen auf mehr als einem Ice pro Run auszuschalten.\n1[credit]: Schalte bis zu 2 Subroutinen eines <strong>Wächters</strong> aus.\n2[credit]: +2 Stärke.",
+    "title": "Mungo"
+  },
+  {
+    "code": "10006",
+    "flavor": "\"Spiegelmodus ein.\"",
+    "keywords": "Natürlich",
+    "text": "Verhindere die erste Markierung in jedem Run.",
+    "title": "Jesminder Sareen: Das Mädchen hinter dem Schleier"
+  },
+  {
+    "code": "10007",
+    "keywords": "Konsole",
+    "text": "+2[mu]\nEinmal pro Zug, sofort, nachdem du auf eine Karte von F&E zugegriffen hast, kannst du diese Karte unter F&E legen. Falls du dies tust, bekommst du 1 Markierung verpasst.\nMaximal 1 Konsole pro Spieler.",
+    "title": "Maya"
+  },
+  {
+    "code": "10008",
+    "flavor": "\"Die Grundlage sollten wie die Geschichten sein, die du als Kind gelernt hast - unbewusst, unvergessen und zu zufälligen Zeitpunkten auf einmal von Bedeutung.\" - g00ru",
+    "text": "Einmal pro Zug, wenn du auf ein Ice triffst, kannst du ihm für den Rest dieses Runs 1 Unterart deiner Wahl geben, mit Ausnahme von <strong>Wächter</strong>, <strong>Code-Zugang</strong> oder <strong>Barriere</strong>.",
+    "title": "Panchatantra"
+  },
+  {
+    "code": "10009",
+    "flavor": "\"Wir können einem Mann vergeben, wenn er etwas Nützliches erschafft, solange er es nicht bewundert. Die einzige Entschuldigung für die Erschaffung einer nutzlosen Sache ist, das man diese Sache zutiefst bewundert.\" - Oscar Wilde",
+    "keywords": "Ort",
+    "text": "<strong>Gib eine Agenda auf</strong>: Durchsuche deinen Stapel nach einer Karte und installiere sie (und zahle die Installationskosten). Mische deinen Stapel.",
+    "title": "Künstlerkolonie"
+  },
+  {
+    "code": "10010",
+    "flavor": "Legionen von Software-Entwicklern wurden in ihren Hallen erschaffen.",
+    "keywords": "Ort - Protzig",
+    "text": "[click]; Lege 1 Wirkungszähler auf Chatterjee-Universität\n[click]: Installiere ein Programm aus deinem Griff und senke die Installationskosten dafür um 1 pro Wirkungszähler auf Chatterjee-Universität. Entferne 1 gehosteten Wirkungszähler.",
+    "title": "Chatterjee-Universität"
+  },
+  {
+    "code": "10011",
+    "flavor": "\"Ich will keinen Hopper. Ich hab noch nie einen gehabt. Aber jedes Mal, wenn ich mich einstöpsele, lädt dieselbe verdammte Anzeige.\" - 2xTiger",
+    "keywords": "Forschung",
+    "text": "Immer wenn der Runner zum ersten Mal in jedem Zug einen Run startet, kannst du 1 Karte ziehen oder 1[credit] erhalten.",
+    "title": "Hochmoderner Konzepthopper"
+  },
+  {
+    "code": "10012",
+    "keywords": "Wächter - Bioroid - Spürhund - AP",
+    "text": "Der Runner kann [click] zahlen, um eine beliebige Subroutine auf Vikram 1.0 auszuschalten.\n[subroutine] Der Runner kann für den Rest dieses Runs keine Programme verwenden.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verursache 1 Hirn-Schaden.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verursache 1 Hirn-Schaden.",
+    "title": "Vikram 1.0"
+  },
+  {
+    "code": "10013",
+    "flavor": "Nur, wenn wir die Vergangenheit respektieren, können wir eine bessere Zukunft schaffen.",
+    "keywords": "Bündnis",
+    "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [jinteki]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\nZiehe 3 Karten. Lege 1 Karte vom HQ oben auf F&E.",
+    "title": "Kulturerbe-Komitee"
+  },
+  {
+    "code": "10014",
+    "keywords": "Region",
+    "text": "Immer wenn der Runner an einem Ice, das dieses System schützt, vorbeikommt, kannst du dieses Ice gegen ein anderes Ice austauschen, das dieses System schützt.\nMaximal 1 <strong>Region</strong> pro System.",
+    "title": "Stadtnetz von Mumbad"
+  },
+  {
+    "code": "10015",
+    "flavor": "\"Eine Neuerwerbung hat zwei, vielleicht drei Stunden. Falls es sich nicht verkauft, stell es ein und mach mit was anderem weiter.\"",
+    "keywords": "Sendung",
+    "text": "Wenn dein Zug beginnt, kannst du dir die oberste Karte des Runner-Stapels ansehen.\n[trash]: Der Runner zerstört die oberste Karte seines Stapels.",
+    "title": "Kala Ghoda Real-TV"
+  },
+  {
+    "code": "10016",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Für den Rest des Runs muss der Runner jedes Mal 1[credit] als zusätzliches Kosten zahlen, wenn er einen <strong>Ice-Brecher</strong> verwendet, um mindestens 1 Subroutine auszuschalten.\n[subroutine] Für den Rest des Runs muss der Runner jedes Mal 1[credit] als zusätzliches Kosten zahlen, wenn er einen <strong>Ice-Brecher</strong> verwendet, um mindestens 1 Subroutine auszuschalten.",
+    "title": "Interrupt 0"
+  },
+  {
+    "code": "10017",
+    "flavor": "\"Warte mit der Eröffnung, bis du etwas wirklich Tolles zu präsentieren hast.\" - VP Global Expansion",
+    "text": "Lege 3 Wirkungsmarker auf eine aufgedeckte Karte. Du kannst bis zu deinem nächsten Zug die Punkte für diese Karte nicht erzielen.",
+    "title": "Eröffnungsfeier"
+  },
+  {
+    "code": "10018",
+    "flavor": "Die Weisesten wissen am wenigsten.",
+    "keywords": "Allianz - Anlage",
+    "text": "Diese Karte kostet 0 Einfluss, falls du 15 oder weniger Ice in deinem Deck hast.\n2[recurring-credit]\nVerwende diese Credits, um Karten zu laden.",
+    "title": "Mumba-Tempel"
+  },
+  {
+    "code": "10019",
+    "flavor": "\"Und hier sehen wir den Eisbären, einst das größte fleischfressende Landtier der Erde.\"",
+    "keywords": "Bündnis - Protzig",
+    "text": "Diese Karte kostet 0 Einfluss, falls du 50 oder mehr Karten in deinem Deck hast.\nWenn dein Zug beginnt, kannst du 1 Karte aus deinem Archiv in F&E mischen.",
+    "title": "Historisches Museum"
+  }
 ]

@@ -1,128 +1,128 @@
 [
-    {
-        "code": "02021",
-        "flavor": "Tirar créditos de esa forma producía una cierta alegría por el mal ajeno.",
-        "keywords": "Incursión - Sabotaje",
-        "text": "Realiza una incursión contra la SC. Si tiene éxito, en lugar de acceder a las cartas, puedes pagar X[credit] para obligar a la Corporación a perder un máximo de X [credit]. Luego recibes una marca.",
-        "title": "Vamp"
-    },
-    {
-        "code": "02022",
-        "flavor": "Es más fácil gastar dinero cuando no es tuyo.",
-        "text": "Coloca 16[credit] del banco sobre Cuenta Liberada cuando sea instalada. Cuando no queden créditos en Cuenta Liberada, destrúyela.\n[click]: Coge 4[credit] de Cuenta Liberada.",
-        "title": "Cuenta Liberada"
-    },
-    {
-        "code": "02023",
-        "flavor": "T menos 13 segundos. Leela tenía que hacerlo rápido. Enchufó el cable mesa y activó la pantalla. 7 segundos. El SLD interno seguía arrancando. 4 segundos. La interfaz se encendió con un brillo naranja. 2 segundos. Dio un toquecito con el dedo y entró.",
-        "text": "Expón un máximo de 2 cartas.",
-        "title": "Enlace Con Satélite"
-    },
-    {
-        "code": "02024",
-        "flavor": "Los implantes de la línea e3 de CyberSolutions emplean solamente memoria muscular y respuestas autónomas, lo que libera al cerebro para que se centre por completo en tareas cerebrales.",
-        "keywords": "Mod",
-        "text": "Siempre que rompas una subrutina de un hielo, puedes pagar 1[credit] para romper 1 subrutina adicional de ese hielo.",
-        "title": "Implantes De Retroalimentación E3"
-    },
-    {
-        "code": "02025",
-        "keywords": "Contacto - Enlace",
-        "text": "1[recurring-credit]\nUsa este crédito durante rastreos.\nGana 1[credit] siempre que la Corporación ejecute un hielo.",
-        "title": "Empleado Comprometido"
-    },
-    {
-        "code": "02026",
-        "flavor": "Cuando eres así de buena, es difícil no tener una buena cantidad de fans.",
-        "text": "Juega esta carta sólo si has realizado una incrusión con éxito contra I+D, la SC o los Archivos en este turno.\nAñade Notoriedad a tu zona de puntuación como un plan que vale 1 punto de plan.",
-        "title": "Notoriedad"
-    },
-    {
-        "code": "02027",
-        "flavor": "\"Si tu bola de nieve se hace lo suficientemente grande, ¡puedes convertirla en un hombre de nieve!\" - Teoría del Caos.",
-        "keywords": "Rompehielos - Fractor",
-        "text": "1[credit]: Rompe una subrutina barrera.\n1[credit]: +1 punto de fuerza.\nSiempre que uses Bola De Nieve para romper una subrutina, tiene +1 punto de fuerza durante el resto del turno.",
-        "title": "Bola De Nieve"
-    },
-    {
-        "code": "02028",
-        "flavor": "Arcaico, pero fiable.",
-        "keywords": "Chip - Enlace",
-        "text": "+ 1[mu], +1[link]",
-        "title": "Chip De Memoria Dyson"
-    },
-    {
-        "code": "02029",
-        "flavor": "La clave del futuro está en el pasado.",
-        "text": "El coste de destrucción de todas las cartas instaladas aumenta en 1.",
-        "title": "Protocolo De Encriptación"
-    },
-    {
-        "code": "02030",
-        "keywords": "Centinela - Bioroide - Rastreador",
-        "text": "El Runner puede gastar [click] para romper cualquier subrutina de Sherlock 1.0.\n[subroutine] <trace>Rastreo 4</trace> Si tiene éxito, añade 1 programa instalado a la parte superior del Montón del Runner.\n[subroutine] <trace>Rastreo 4</trace> Si tiene éxito, añade 1 programa instalado a la parte superior del Montón del Runner.",
-        "title": "Sherlock 1.0"
-    },
-    {
-        "code": "02031",
-        "keywords": "Megacorporación",
-        "text": "El Runner no puede realizar incursiones contra servidores remotos. Ignora esta capacidad hasta el final del turno siempre que el Runner realice una incursión contra un servidor central.",
-        "title": "Jinteki: Replicando La Perfección"
-    },
-    {
-        "code": "02032",
-        "keywords": "Emboscada",
-        "text": "Si accede a la IA Fetal desde I+D, el Runner debe revelarla.\nCuando el Runner acceda a IA Fetal, inflige 2 puntos de daño de red. Ignora esta capacidad si el Runner accede a IA Fetal desde los Archivos.\nComo coste adicional para robar IA Fetal, el Runner debe pagar 2[credit].",
-        "title": "IA Fetal"
-    },
-    {
-        "code": "02033",
-        "flavor": "Humo y espejos opcionales.",
-        "text": "Mueve un máximo de 2 fichas de Avance de una carta a otra carta instalada que pueda ser avanzada.",
-        "title": "Truco De Luz"
-    },
-    {
-        "code": "02034",
-        "flavor": "Paz y violencia. Ambas deben conducir al mismo sitio.",
-        "keywords": "Puerta De Código",
-        "text": "[subroutine] Durante el resto de esta incursión, cada hielo al que se enfrente el Runner, excepto Sensei, gana \"[subroutine] Termina la incursión\" después de todas sus demás subrutinas.",
-        "title": "Sensei"
-    },
-    {
-        "code": "02035",
-        "flavor": "Velando por tus intereses desde 1984.",
-        "keywords": "Operaciones Clandestinas",
-        "text": "Juega esta carta sólo si el Runner está marcado.\nDale 2 marcas al Runner.",
-        "title": "Gran Hermano"
-    },
-    {
-        "code": "02036",
-        "flavor": "Los clones hablan de ChiLo entre susurros como de una tierra prometida de libertad.",
-        "keywords": "Región",
-        "text": "Siempre que haya un rastreo con éxito durante una incursión contra este servidor, dale 1 marca al Runner.\nLímite de 1 <strong>región</strong> por servidor.",
-        "title": "Red Eléctrica de ChiLo"
-    },
-    {
-        "code": "02037",
-        "text": "Juega esta carta sólo si el Runner realizó una incursión con éxito durante su último turno.\n<trace>Rastreo 2</trace> Si tiene éxito, destruye 1 hardware con un coste de instalación igual o menor a la cantidad por la que tu fuerza de rastreo superaba la fuerza de enlace del Runner.",
-        "title": "Sobrecarga De La Red Eléctrica"
-    },
-    {
-        "code": "02038",
-        "keywords": "Región",
-        "text": "Siempre que instales un hielo portegiendo este servidor, puedes ejecutarlo inmediatamente, reduciendo su coste de ejecución en 3.\nLímite de 1 <strong>región</strong> por servidor.",
-        "title": "Zona Industrial Amazónica"
-    },
-    {
-        "code": "02039",
-        "text": "Cuando puntúes Retiro Ejectuvio, coloca 1 contador de plan sobre la carta, añade la SC a I+D y barájalo.\n[click], <strong>contador de plan alojado</strong>: Roba 5 cartas.",
-        "title": "Retiro Ejecutivo"
-    },
-    {
-        "code": "02040",
-        "flavor": "Sin contrato. Sólo un apretón de manos un puñado de explosivos C-6.",
-        "keywords": "Operaciones Clandestinas",
-        "text": "Juega esta carta sólo si el Runner está marcado.\nDestruye un máximo de 2 recursos.",
-        "title": "Agente Autónoma"
-    }
+  {
+    "code": "02021",
+    "flavor": "Tirar créditos de esa forma producía una cierta alegría por el mal ajeno.",
+    "keywords": "Incursión - Sabotaje",
+    "text": "Realiza una incursión contra la SC. Si tiene éxito, en lugar de acceder a las cartas, puedes pagar X[credit] para obligar a la Corporación a perder un máximo de X [credit]. Luego recibes una marca.",
+    "title": "Vamp"
+  },
+  {
+    "code": "02022",
+    "flavor": "Es más fácil gastar dinero cuando no es tuyo.",
+    "text": "Coloca 16[credit] del banco sobre Cuenta Liberada cuando sea instalada. Cuando no queden créditos en Cuenta Liberada, destrúyela.\n[click]: Coge 4[credit] de Cuenta Liberada.",
+    "title": "Cuenta Liberada"
+  },
+  {
+    "code": "02023",
+    "flavor": "T menos 13 segundos. Leela tenía que hacerlo rápido. Enchufó el cable mesa y activó la pantalla. 7 segundos. El SLD interno seguía arrancando. 4 segundos. La interfaz se encendió con un brillo naranja. 2 segundos. Dio un toquecito con el dedo y entró.",
+    "text": "Expón un máximo de 2 cartas.",
+    "title": "Enlace Con Satélite"
+  },
+  {
+    "code": "02024",
+    "flavor": "Los implantes de la línea e3 de CyberSolutions emplean solamente memoria muscular y respuestas autónomas, lo que libera al cerebro para que se centre por completo en tareas cerebrales.",
+    "keywords": "Mod",
+    "text": "Siempre que rompas una subrutina de un hielo, puedes pagar 1[credit] para romper 1 subrutina adicional de ese hielo.",
+    "title": "Implantes De Retroalimentación E3"
+  },
+  {
+    "code": "02025",
+    "keywords": "Contacto - Enlace",
+    "text": "1[recurring-credit]\nUsa este crédito durante rastreos.\nGana 1[credit] siempre que la Corporación ejecute un hielo.",
+    "title": "Empleado Comprometido"
+  },
+  {
+    "code": "02026",
+    "flavor": "Cuando eres así de buena, es difícil no tener una buena cantidad de fans.",
+    "text": "Juega esta carta sólo si has realizado una incrusión con éxito contra I+D, la SC o los Archivos en este turno.\nAñade Notoriedad a tu zona de puntuación como un plan que vale 1 punto de plan.",
+    "title": "Notoriedad"
+  },
+  {
+    "code": "02027",
+    "flavor": "\"Si tu bola de nieve se hace lo suficientemente grande, ¡puedes convertirla en un hombre de nieve!\" - Teoría del Caos.",
+    "keywords": "Rompehielos - Fractor",
+    "text": "1[credit]: Rompe una subrutina barrera.\n1[credit]: +1 punto de fuerza.\nSiempre que uses Bola De Nieve para romper una subrutina, tiene +1 punto de fuerza durante el resto del turno.",
+    "title": "Bola De Nieve"
+  },
+  {
+    "code": "02028",
+    "flavor": "Arcaico, pero fiable.",
+    "keywords": "Chip - Enlace",
+    "text": "+ 1[mu], +1[link]",
+    "title": "Chip De Memoria Dyson"
+  },
+  {
+    "code": "02029",
+    "flavor": "La clave del futuro está en el pasado.",
+    "text": "El coste de destrucción de todas las cartas instaladas aumenta en 1.",
+    "title": "Protocolo De Encriptación"
+  },
+  {
+    "code": "02030",
+    "keywords": "Centinela - Bioroide - Rastreador",
+    "text": "El Runner puede gastar [click] para romper cualquier subrutina de Sherlock 1.0.\n[subroutine] <trace>Rastreo 4</trace> Si tiene éxito, añade 1 programa instalado a la parte superior del Montón del Runner.\n[subroutine] <trace>Rastreo 4</trace> Si tiene éxito, añade 1 programa instalado a la parte superior del Montón del Runner.",
+    "title": "Sherlock 1.0"
+  },
+  {
+    "code": "02031",
+    "keywords": "Megacorporación",
+    "text": "El Runner no puede realizar incursiones contra servidores remotos. Ignora esta capacidad hasta el final del turno siempre que el Runner realice una incursión contra un servidor central.",
+    "title": "Jinteki: Replicando La Perfección"
+  },
+  {
+    "code": "02032",
+    "keywords": "Emboscada",
+    "text": "Si accede a la IA Fetal desde I+D, el Runner debe revelarla.\nCuando el Runner acceda a IA Fetal, inflige 2 puntos de daño de red. Ignora esta capacidad si el Runner accede a IA Fetal desde los Archivos.\nComo coste adicional para robar IA Fetal, el Runner debe pagar 2[credit].",
+    "title": "IA Fetal"
+  },
+  {
+    "code": "02033",
+    "flavor": "Humo y espejos opcionales.",
+    "text": "Mueve un máximo de 2 fichas de Avance de una carta a otra carta instalada que pueda ser avanzada.",
+    "title": "Truco De Luz"
+  },
+  {
+    "code": "02034",
+    "flavor": "Paz y violencia. Ambas deben conducir al mismo sitio.",
+    "keywords": "Puerta De Código",
+    "text": "[subroutine] Durante el resto de esta incursión, cada hielo al que se enfrente el Runner, excepto Sensei, gana \"[subroutine] Termina la incursión\" después de todas sus demás subrutinas.",
+    "title": "Sensei"
+  },
+  {
+    "code": "02035",
+    "flavor": "Velando por tus intereses desde 1984.",
+    "keywords": "Operaciones Clandestinas",
+    "text": "Juega esta carta sólo si el Runner está marcado.\nDale 2 marcas al Runner.",
+    "title": "Gran Hermano"
+  },
+  {
+    "code": "02036",
+    "flavor": "Los clones hablan de ChiLo entre susurros como de una tierra prometida de libertad.",
+    "keywords": "Región",
+    "text": "Siempre que haya un rastreo con éxito durante una incursión contra este servidor, dale 1 marca al Runner.\nLímite de 1 <strong>región</strong> por servidor.",
+    "title": "Red Eléctrica de ChiLo"
+  },
+  {
+    "code": "02037",
+    "text": "Juega esta carta sólo si el Runner realizó una incursión con éxito durante su último turno.\n<trace>Rastreo 2</trace> Si tiene éxito, destruye 1 hardware con un coste de instalación igual o menor a la cantidad por la que tu fuerza de rastreo superaba la fuerza de enlace del Runner.",
+    "title": "Sobrecarga De La Red Eléctrica"
+  },
+  {
+    "code": "02038",
+    "keywords": "Región",
+    "text": "Siempre que instales un hielo portegiendo este servidor, puedes ejecutarlo inmediatamente, reduciendo su coste de ejecución en 3.\nLímite de 1 <strong>región</strong> por servidor.",
+    "title": "Zona Industrial Amazónica"
+  },
+  {
+    "code": "02039",
+    "text": "Cuando puntúes Retiro Ejectuvio, coloca 1 contador de plan sobre la carta, añade la SC a I+D y barájalo.\n[click], <strong>contador de plan alojado</strong>: Roba 5 cartas.",
+    "title": "Retiro Ejecutivo"
+  },
+  {
+    "code": "02040",
+    "flavor": "Sin contrato. Sólo un apretón de manos un puñado de explosivos C-6.",
+    "keywords": "Operaciones Clandestinas",
+    "text": "Juega esta carta sólo si el Runner está marcado.\nDestruye un máximo de 2 recursos.",
+    "title": "Agente Autónoma"
+  }
 ]

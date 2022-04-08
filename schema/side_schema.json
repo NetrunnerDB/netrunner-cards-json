@@ -1,20 +1,17 @@
 {
-    "$id": "https://github.com/Alsciende/netrunner-cards-json/blob/master/schema/side_schema.json",
-    "$schema": "http://json-schema.org/draft-04/schema#",
-    "additionalProperties": false,
-    "properties": {
-        "code": {
-            "minLength": 1,
-            "type": "string"
-        },
-        "name": {
-            "minLength": 1,
-            "type": "string"
-        }
+  "$id": "https://github.com/Alsciende/netrunner-cards-json/blob/master/schema/side_schema.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "additionalProperties": false,
+  "properties": {
+    "code": {
+      "minLength": 1,
+      "type": "string"
     },
-    "required": [
-        "code",
-        "name"
-    ],
-    "type": "object"
+    "name": {
+      "minLength": 1,
+      "type": "string"
+    }
+  },
+  "required": ["code", "name"],
+  "type": "object"
 }

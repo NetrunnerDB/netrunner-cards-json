@@ -10,7 +10,6 @@ import re
 
 PACK_DIR="pack"
 SCHEMA_DIR="schema"
-formatting_errors = 0
 validation_errors = 0
 text_by_card_title = dict()
 stripped_text_by_card_title = dict()
@@ -61,15 +60,7 @@ def custom_pack_check(args, pack, cycles_data):
     if pack["cycle_code"] not in [c["code"] for c in cycles_data]:
         raise jsonschema.ValidationError("Cycle code '%s' of the pack '%s' doesn't match any valid cycle code." % (pack["cycle_code"], pack["code"]))
 
-def format_json(json_data):
-    formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
-    formatted_data = formatted_data.replace(u"\u2018", "'").replace(u"\u2019", "'")
-    formatted_data = formatted_data.replace("\\r\\n", "\\n").replace(" \\n", "\\n")
-    formatted_data += "\n"
-    return formatted_data
-
 def load_json_file(args, path):
-    global formatting_errors
     global validation_errors
     try:
         with open(path, "rb") as data_file:
@@ -82,26 +73,6 @@ def load_json_file(args, path):
         verbose_print(args, "%s\n" % e.message, 0)
         return None
 
-    verbose_print(args, "%s: Checking JSON formatting...\n" % path, 1)
-    formatted_raw_data = format_json(json_data)
-
-    if "<sup>" in formatted_raw_data:
-        verbose_print(args, "%s: File contains invalid content (<sup>)\n" % path, 0)
-        validation_errors += 1
-        return None
-
-    if formatted_raw_data != raw_data:
-        verbose_print(args, "%s: File is not correctly formatted JSON.\n" % path, 0)
-        formatting_errors += 1
-        if args.fix_formatting and len(formatted_raw_data) > 0:
-            verbose_print(args, "%s: Fixing JSON formatting...\n" % path, 0)
-            try:
-                with open(path, "wb") as json_file:
-                    bin_formatted_data = formatted_raw_data.encode("utf-8")
-                    json_file.write(bin_formatted_data)
-            except IOError as e:
-                verbose_print(args, "%s: Cannot open file to write.\n" % path, 0)
-                print(e)
     return json_data
 
 def load_cycles(args):
@@ -171,7 +142,6 @@ def load_sides(args):
 
 def parse_commandline():
     argparser = argparse.ArgumentParser(description="Validate JSON in the netrunner cards repository.")
-    argparser.add_argument("-f", "--fix_formatting", default=False, action="store_true", help="write suggested formatting changes to files")
     argparser.add_argument("-v", "--verbose", default=0, action="count", help="verbose mode")
     argparser.add_argument("-b", "--base_path", default=os.getcwd(), help="root directory of JSON repo (default: current directory)")
     argparser.add_argument("-p", "--pack_path", default=None, help=("pack directory of JSON repo (default: BASE_PATH/%s/)" % PACK_DIR))
@@ -597,8 +567,8 @@ def main():
 
     check_mwl(args)
 
-    sys.stdout.write("Found %s formatting and %s validation errors\n" % (formatting_errors, validation_errors))
-    if formatting_errors == 0 and validation_errors == 0:
+    sys.stdout.write("Found %s validation errors\n" % (validation_errors))
+    if validation_errors == 0:
         sys.exit(0)
     else:
         sys.exit(1)

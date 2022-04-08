@@ -1,125 +1,125 @@
 [
-    {
-        "code": "10077",
-        "flavor": "\"Wer nichts zu verlieren hat, hat unvorstellbare Kräfte.\" - aus dem Safran-Sutra",
-        "keywords": "Run",
-        "text": "Zerstöre deinen Griff. Führe einen Run durch. Verhindere während dieses Runs allen Schaden.",
-        "title": "Der edle Pfad"
-    },
-    {
-        "code": "10078",
-        "flavor": "\"Sie verbergen sich in unserem gemeinsamen Erbe, in der Weisheit unserer Religionen, aber täusche dich nicht, sie sind Terroristen und Verbrecher.\" - Inspector Lakhami, Abteilung für Cyberkriminalität",
-        "text": "Wenn dein Zug beginnt, erhälst du [click], falls du keine Karten in deinem Griff hast.",
-        "title": "Geleerter Geist"
-    },
-    {
-        "code": "10079",
-        "keywords": "Run",
-        "text": "Führe einen Run auf HQ durch. Bei Erfolg greifst du nicht auf Karten zu, sondern der Kon teilt alle Karten im HQ auf 2 verdeckte Stapel auf. Greife auf alle Karten in einem der Stapel zu; du kannst in diesem Run nicht auf Karten im anderen Stapel zugreifen.",
-        "title": "Informationen aussieben"
-    },
-    {
-        "code": "10080",
-        "keywords": "Run",
-        "text": "Führe einen Run durch.\nWenn dein Zug beginnt, kannst du, falls Aus der Asche sich in deiner Ablage befindet, die Karte aus dem Spiel entfernen, um einen Run durchzuführen.\nMaximal 6 pro Deck.",
-        "title": "Aus der Asche"
-    },
-    {
-        "code": "10081",
-        "flavor": "\"Löse dich von deinem Materiellen Bindungen und erkenne, dass wir alle immateriell sind.\"",
-        "keywords": "Kontakt",
-        "text": "[click], [click], [click], [click], [click], <strong>gib eine Agenda auf</strong>: Füge Befreiter Chela deiner Punktezone als Agenda mit dem Wert vn 2 Agendapunkten hinzu. Der Kon kann eine Agenda aufgeben, um dies zu verhindern. Falls er dies tut, entferne Befreiter Chela aus dem Spiel.",
-        "title": "Befreiter Chela"
-    },
-    {
-        "code": "10082",
-        "flavor": "Gerüchte behaupten, dass g00ru selbst in diesem Tempel studiert und seine Lehren dem Cyberspace hinzugeführt hat. Viele Runner sind seinem Pfad gefolgt, aber keiner hat es bis zum Ende geschafft.",
-        "keywords": "Ort - Protzig",
-        "text": "[click]: Lege 1 Wirkungszähler auf Tempel des befreiten Geistes.\n<strong>Gehosteter Wirkungszähler</strong>: Du erhälst [click]. Verwende diese Fähigkeit nur in deinem Zug und nur einmal pro Zug.",
-        "title": "Tempel des befreiten Geistes"
-    },
-    {
-        "code": "10083",
-        "flavor": "\"Wer warst du, als du erkannst hast, dass alles, was du wusstest, eine Lüge war?\"",
-        "text": "Tausche deine Identität gegen eine andere Identität derselben Fraktion. Entferne Wiedergeburt aus dem Spiel, statt sie zu zerstören.\nMaximal 1 pro Deck.",
-        "title": "Wiedergeburt"
-    },
-    {
-        "code": "10084",
-        "flavor": "\"Dieser Körper, in dem wir leben, ist flüchtig. Wir, wir alle, können ewig leben.\"",
-        "keywords": "Kontakt",
-        "text": "Verhindere allen Netz- und Körper-Schaden.\nImmer wenn Guru Davinder mindestens 1 Netz- oder Körper-Schaden verhindert, zerstöre ihn, wenn du nicht 4[credit] zahlst.",
-        "title": "Guru Davinder"
-    },
-    {
-        "code": "10085",
-        "keywords": "Virtuell",
-        "text": "Immer wenn ein Run auf HQ oder F&E endet, lege 1 Wirkungszähler auf Das drehende Rad, falls du in diesem Run keine Agendas gestohlen hast.\n<strong>2 gehostete Wirkungszähler</strong>: Für den Rest dieses Runs, greife auf 1 zusätzliche Karten aus HQ oder F&E zu.",
-        "title": "Das drehende Rad"
-    },
-    {
-        "code": "10086",
-        "flavor": "Hat jemand in letzter Zeit was von StatiX gehört? - Posting in einer geschlossenen Newsgroup für Mitglieder",
-        "keywords": "Wächter - AP",
-        "text": "Wenn der Runner auf Geistesblitz trifft, erhält dieser für den Rest des Zuges für jede Karte im Griff des Runners \"[subroutine] Verursache 1 Hirn-Schaden.\"",
-        "title": "Geistesblitz"
-    },
-    {
-        "code": "10087",
-        "keywords": "Code-Zugang - Bioroid",
-        "text": "Der Runner kann [click] zahlen, um eine beliebige Subroutine auf Ravana 1.0 auszuschalten.\n[subroutine] Führe eine Subroutine auf einem anderen geladenen <strong>Bioroid</strong>-Ice aus.\n[subroutine] Führe eine Subroutine auf einem anderen geladenen <strong>Bioroid</strong>-Ice aus.",
-        "title": "Ravana 1.0"
-    },
-    {
-        "code": "10088",
-        "keywords": "Initiative - Psi",
-        "text": "Immer wenn zum ersten Mal in einem Zug ein Run auf HQ erfolgreich durchgeführt wird, zahlen du und der Runner verborgen 0[credit], 1[credit] oder 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheidet, wählst du für den Rest dieses Runs aus, auf welche Karten im HQ der Runner zugreift.",
-        "title": "Dediziertes Neuralnetz"
-    },
-    {
-        "code": "10089",
-        "flavor": "\"Fühle, wie sich dein Bewusstsein erweitert und seins berührt. Jetzt zerstöre es.\"",
-        "keywords": "Wächter - AP",
-        "text": "[subroutine] Jeder Spieler erhält 2[credit].\n[subroutine] Du und der Runner zahlen verborgen 0[credit], 1[credit] oder 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheidet, verursache 1 Netz-Schaden für jede Karte im Griff des Runners.",
-        "title": "Chetana"
-    },
-    {
-        "code": "10090",
-        "keywords": "Initiative",
-        "text": "Immer wenn der Runner einen Run erfolgreich durchgeführt, kannst du 1 Entwicklungsmarker auf eine Karte legen, die entwickelt werden kann.",
-        "title": "Puppenspieler"
-    },
-    {
-        "code": "10091",
-        "flavor": "\"Schon erstaunlich, wie klein wir heute das Kleingedruckte machen können.\"",
-        "keywords": "Code-Zugang - Spürhund",
-        "text": "[subroutine] <trace>Aufspüren 5</trace> Bei Erfolg deckt der Runner seinen Griff auf. Zerstöre jede der Karten, deren Ausspiel- oder Installationskosten demjenigen Wert entsprechen oder niedriger sind, um den deine Aufspürstärke seiner Verbindungsstärke übertroffen hat.",
-        "title": "Verzichtserklärung"
-    },
-    {
-        "code": "10092",
-        "keywords": "Graue Ops",
-        "text": "Kann nur gespielt werden, falls der Runner markiert ist.\nTausche eine Agenda in deiner Punktezone gegen eine in der Punktezone des Runners.",
-        "title": "Informationsaustausch"
-    },
-    {
-        "code": "10093",
-        "flavor": "Bürokratie. Nomen. Ein Hütchenspiel, gespielt von den Reichen mit ihrem Wohlstand als Erbse. Der Trick dabei ist, dass es keine Erbse gibt. - Wörterbuch des Anarchos, Ausgabe Wer zählt schon mit?",
-        "keywords": "Code-Zugang",
-        "text": "[subroutine] Jedes Ice hat +3 Stärke für den Rest dieses Runs.",
-        "title": "Verwaltungskram"
-    },
-    {
-        "code": "10094",
-        "keywords": "Bündnis - Verdoppeln",
-        "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [weyland-consortium]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\nAls zusätzliche Auspielkosten für diese Operation zahle [click]. Durchsuche F&E nach einer Operation und spiele sie (zahle alle Kosten). Mische F&E.",
-        "title": "Beratungsbesuch"
-    },
-    {
-        "code": "10095",
-        "flavor": "Eine brandneue Erfindung.",
-        "keywords": "Barierre",
-        "text": "[subroutine] Beende den Run.",
-        "title": "08/15"
-    }
+  {
+    "code": "10077",
+    "flavor": "\"Wer nichts zu verlieren hat, hat unvorstellbare Kräfte.\" - aus dem Safran-Sutra",
+    "keywords": "Run",
+    "text": "Zerstöre deinen Griff. Führe einen Run durch. Verhindere während dieses Runs allen Schaden.",
+    "title": "Der edle Pfad"
+  },
+  {
+    "code": "10078",
+    "flavor": "\"Sie verbergen sich in unserem gemeinsamen Erbe, in der Weisheit unserer Religionen, aber täusche dich nicht, sie sind Terroristen und Verbrecher.\" - Inspector Lakhami, Abteilung für Cyberkriminalität",
+    "text": "Wenn dein Zug beginnt, erhälst du [click], falls du keine Karten in deinem Griff hast.",
+    "title": "Geleerter Geist"
+  },
+  {
+    "code": "10079",
+    "keywords": "Run",
+    "text": "Führe einen Run auf HQ durch. Bei Erfolg greifst du nicht auf Karten zu, sondern der Kon teilt alle Karten im HQ auf 2 verdeckte Stapel auf. Greife auf alle Karten in einem der Stapel zu; du kannst in diesem Run nicht auf Karten im anderen Stapel zugreifen.",
+    "title": "Informationen aussieben"
+  },
+  {
+    "code": "10080",
+    "keywords": "Run",
+    "text": "Führe einen Run durch.\nWenn dein Zug beginnt, kannst du, falls Aus der Asche sich in deiner Ablage befindet, die Karte aus dem Spiel entfernen, um einen Run durchzuführen.\nMaximal 6 pro Deck.",
+    "title": "Aus der Asche"
+  },
+  {
+    "code": "10081",
+    "flavor": "\"Löse dich von deinem Materiellen Bindungen und erkenne, dass wir alle immateriell sind.\"",
+    "keywords": "Kontakt",
+    "text": "[click], [click], [click], [click], [click], <strong>gib eine Agenda auf</strong>: Füge Befreiter Chela deiner Punktezone als Agenda mit dem Wert vn 2 Agendapunkten hinzu. Der Kon kann eine Agenda aufgeben, um dies zu verhindern. Falls er dies tut, entferne Befreiter Chela aus dem Spiel.",
+    "title": "Befreiter Chela"
+  },
+  {
+    "code": "10082",
+    "flavor": "Gerüchte behaupten, dass g00ru selbst in diesem Tempel studiert und seine Lehren dem Cyberspace hinzugeführt hat. Viele Runner sind seinem Pfad gefolgt, aber keiner hat es bis zum Ende geschafft.",
+    "keywords": "Ort - Protzig",
+    "text": "[click]: Lege 1 Wirkungszähler auf Tempel des befreiten Geistes.\n<strong>Gehosteter Wirkungszähler</strong>: Du erhälst [click]. Verwende diese Fähigkeit nur in deinem Zug und nur einmal pro Zug.",
+    "title": "Tempel des befreiten Geistes"
+  },
+  {
+    "code": "10083",
+    "flavor": "\"Wer warst du, als du erkannst hast, dass alles, was du wusstest, eine Lüge war?\"",
+    "text": "Tausche deine Identität gegen eine andere Identität derselben Fraktion. Entferne Wiedergeburt aus dem Spiel, statt sie zu zerstören.\nMaximal 1 pro Deck.",
+    "title": "Wiedergeburt"
+  },
+  {
+    "code": "10084",
+    "flavor": "\"Dieser Körper, in dem wir leben, ist flüchtig. Wir, wir alle, können ewig leben.\"",
+    "keywords": "Kontakt",
+    "text": "Verhindere allen Netz- und Körper-Schaden.\nImmer wenn Guru Davinder mindestens 1 Netz- oder Körper-Schaden verhindert, zerstöre ihn, wenn du nicht 4[credit] zahlst.",
+    "title": "Guru Davinder"
+  },
+  {
+    "code": "10085",
+    "keywords": "Virtuell",
+    "text": "Immer wenn ein Run auf HQ oder F&E endet, lege 1 Wirkungszähler auf Das drehende Rad, falls du in diesem Run keine Agendas gestohlen hast.\n<strong>2 gehostete Wirkungszähler</strong>: Für den Rest dieses Runs, greife auf 1 zusätzliche Karten aus HQ oder F&E zu.",
+    "title": "Das drehende Rad"
+  },
+  {
+    "code": "10086",
+    "flavor": "Hat jemand in letzter Zeit was von StatiX gehört? - Posting in einer geschlossenen Newsgroup für Mitglieder",
+    "keywords": "Wächter - AP",
+    "text": "Wenn der Runner auf Geistesblitz trifft, erhält dieser für den Rest des Zuges für jede Karte im Griff des Runners \"[subroutine] Verursache 1 Hirn-Schaden.\"",
+    "title": "Geistesblitz"
+  },
+  {
+    "code": "10087",
+    "keywords": "Code-Zugang - Bioroid",
+    "text": "Der Runner kann [click] zahlen, um eine beliebige Subroutine auf Ravana 1.0 auszuschalten.\n[subroutine] Führe eine Subroutine auf einem anderen geladenen <strong>Bioroid</strong>-Ice aus.\n[subroutine] Führe eine Subroutine auf einem anderen geladenen <strong>Bioroid</strong>-Ice aus.",
+    "title": "Ravana 1.0"
+  },
+  {
+    "code": "10088",
+    "keywords": "Initiative - Psi",
+    "text": "Immer wenn zum ersten Mal in einem Zug ein Run auf HQ erfolgreich durchgeführt wird, zahlen du und der Runner verborgen 0[credit], 1[credit] oder 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheidet, wählst du für den Rest dieses Runs aus, auf welche Karten im HQ der Runner zugreift.",
+    "title": "Dediziertes Neuralnetz"
+  },
+  {
+    "code": "10089",
+    "flavor": "\"Fühle, wie sich dein Bewusstsein erweitert und seins berührt. Jetzt zerstöre es.\"",
+    "keywords": "Wächter - AP",
+    "text": "[subroutine] Jeder Spieler erhält 2[credit].\n[subroutine] Du und der Runner zahlen verborgen 0[credit], 1[credit] oder 2[credit]. Decke die ausgegebenen Credits auf. Falls sich die Anzahl der von dir und vom Runner ausgegebenen Credits unterscheidet, verursache 1 Netz-Schaden für jede Karte im Griff des Runners.",
+    "title": "Chetana"
+  },
+  {
+    "code": "10090",
+    "keywords": "Initiative",
+    "text": "Immer wenn der Runner einen Run erfolgreich durchgeführt, kannst du 1 Entwicklungsmarker auf eine Karte legen, die entwickelt werden kann.",
+    "title": "Puppenspieler"
+  },
+  {
+    "code": "10091",
+    "flavor": "\"Schon erstaunlich, wie klein wir heute das Kleingedruckte machen können.\"",
+    "keywords": "Code-Zugang - Spürhund",
+    "text": "[subroutine] <trace>Aufspüren 5</trace> Bei Erfolg deckt der Runner seinen Griff auf. Zerstöre jede der Karten, deren Ausspiel- oder Installationskosten demjenigen Wert entsprechen oder niedriger sind, um den deine Aufspürstärke seiner Verbindungsstärke übertroffen hat.",
+    "title": "Verzichtserklärung"
+  },
+  {
+    "code": "10092",
+    "keywords": "Graue Ops",
+    "text": "Kann nur gespielt werden, falls der Runner markiert ist.\nTausche eine Agenda in deiner Punktezone gegen eine in der Punktezone des Runners.",
+    "title": "Informationsaustausch"
+  },
+  {
+    "code": "10093",
+    "flavor": "Bürokratie. Nomen. Ein Hütchenspiel, gespielt von den Reichen mit ihrem Wohlstand als Erbse. Der Trick dabei ist, dass es keine Erbse gibt. - Wörterbuch des Anarchos, Ausgabe Wer zählt schon mit?",
+    "keywords": "Code-Zugang",
+    "text": "[subroutine] Jedes Ice hat +3 Stärke für den Rest dieses Runs.",
+    "title": "Verwaltungskram"
+  },
+  {
+    "code": "10094",
+    "keywords": "Bündnis - Verdoppeln",
+    "text": "Diese Karte kostet 0 Einfluss, falls du 6 oder mehr [weyland-consortium]-Karten in deinem Deck hast, die kein <strong>Bündnis</strong> sind.\nAls zusätzliche Auspielkosten für diese Operation zahle [click]. Durchsuche F&E nach einer Operation und spiele sie (zahle alle Kosten). Mische F&E.",
+    "title": "Beratungsbesuch"
+  },
+  {
+    "code": "10095",
+    "flavor": "Eine brandneue Erfindung.",
+    "keywords": "Barierre",
+    "text": "[subroutine] Beende den Run.",
+    "title": "08/15"
+  }
 ]

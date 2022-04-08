@@ -1,0 +1,16 @@
+{
+  "advancement_requirement": 4,
+  "agenda_points": 2,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "neutral-corp",
+  "id": "napd_contract",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "The advancement requirement of NAPD Contract is increased by 1 for each bad publicity the Corp has. As an additional cost to steal NAPD Contract, the Runner must pay 4 credits.",
+  "stripped_title": "NAPD Contract",
+  "subtypes": ["security"],
+  "text": "The advancement requirement of NAPD Contract is increased by 1 for each bad publicity the Corp has.\nAs an additional cost to steal NAPD Contract, the Runner must pay 4[credit].",
+  "title": "NAPD Contract"
+}

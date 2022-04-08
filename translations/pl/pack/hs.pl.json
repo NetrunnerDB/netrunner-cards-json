@@ -1,132 +1,132 @@
 [
-    {
-        "code": "02081",
-        "flavor": "Musisz krzyknąć \"prąd\", aby efekt był pełny.",
-        "text": "Zagraj tylko, jeśli w tej turze położyłeś na programie jeden znacznik wirusa.\nPołóż na tym programie 2 znaczniki wirusa.",
-        "title": "Surge"
-    },
-    {
-        "code": "02082",
-        "flavor": "I krzykną widokiem przejęci:\nWłos jego falujący, źrenice ogniem zdjęte.\nPo trzykroć kręgiem go jak wieńcem\nOtoczmy. Niechaj zaćmi nasze oczy\nŚwiętości lęk; bo rosy on utoczył\nMiodowej, w Raju mleko pił zaklęte.\n// Samuel Taylor Coleridge\ntłum. L. Dorn",
-        "keywords": "Wirtualne",
-        "text": "Koszt zrezowania każdego lodu rośnie o 1.",
-        "title": "Xanadu"
-    },
-    {
-        "code": "02083",
-        "flavor": "\"Należę do najlepszych runnerów.\"",
-        "keywords": "Normalna",
-        "text": "Twoja ręka startowa to 9 kart.",
-        "title": "Andromeda: Wydziedziczona bogaczka"
-    },
-    {
-        "code": "02084",
-        "flavor": "Wolała prowadzić interesy w klubie. Oświetlenie i tancerki zaciemniały umysły tych korporacyjnych prostaków.",
-        "text": "Usuń 1 tag. Możesz zapłacić 1[credit], aby dodać Nawiązywanie kontaktów do garści, zamiast je skasować.",
-        "title": "Nawiązywanie kontaktów"
-    },
-    {
-        "code": "02085",
-        "flavor": "Jeśli nie znasz nikogo wewnątrz, znajdź w środku kogoś, kto lubi ozdoby na biurko.",
-        "text": "Zawsze gdy uzyskasz dostęp do kart z HQ, uzyskujesz dostęp do 1 dodatkowej karty z HQ.",
-        "title": "Interfejs HQ"
-    },
-    {
-        "code": "02086",
-        "keywords": "Wirus",
-        "text": "X[recurring-credit]\nUżyj tych kredytów podczas skoków na HQ. X to liczba znaczników wirusa leżących na Feromonach.\nZawsze gdy przeprowadzisz udany skok na HQ, połóż 1 znacznik wirusa na Feromonach.",
-        "title": "Feromony"
-    },
-    {
-        "code": "02087",
-        "flavor": "Ona ze swoim PADem. Ja przy moim warsztacie. Przyciemnione światło. Smooth jazz. Miłość kwitnie.",
-        "text": "Dobierz 5 kart.",
-        "title": "Wspólne chwile"
-    },
-    {
-        "code": "02088",
-        "flavor": "Naprawdę potrzebujesz jeszcze jednego?",
-        "text": "Zawsze gdy instalujesz sprzęt (również Replikator), możesz poszukać w swoim stosie innego egzemplarza tego sprzętu, odsłonić go i dodać do garści. Potasuj swój stos.",
-        "title": "Replikator"
-    },
-    {
-        "code": "02089",
-        "flavor": "\"Pajączek mały po rynnie danych wspinał się...\" - Teoria Chaosu",
-        "keywords": "Lodołamacz - Zabójca - Chmura",
-        "text": "Jeśli masz przynajmniej 2[link], wymagania pamięciowe Robala wynoszą 0, nawet jeśli nie jest zainstalowany.\n2[credit]: Złam podprogram <strong>strażnika</strong>.\n1[credit]: +1 siły.",
-        "title": "Robal"
-    },
-    {
-        "code": "02090",
-        "flavor": "Wczesne wersje krakena okazały się nienasyconymi bandytami pożerającymi lód. Niewiele się zmieniło.",
-        "text": "Zagraj tylko, jeśli wykradłeś projekt w tej turze.\nWybierz serwer. Korp kasuje 1 lód chroniący ten serwer.",
-        "title": "Kraken"
-    },
-    {
-        "code": "02091",
-        "flavor": "\"W New Angeles przemyca się nie tylko dane.\"",
-        "keywords": "Kontakt",
-        "text": "Nie możesz użyć Kati Jones więcej niż raz na turę.\n[click]: Połóż 3[credit] z banku na Kati Jones.\n[click]: Weź wszystkie kredyty z Kati Jones.",
-        "title": "Kati Jones"
-    },
-    {
-        "code": "02092",
-        "keywords": "Reklama",
-        "text": "Gdy rezujesz Kampanię reklamową Ewy, połóż na niej 16[credit] z banku. Skasuj Kampanię reklamową Ewy, gdy nie ma na niej kredytów.\nGdy zaczynasz turę, weź 2[credit] z Kampanii reklamowej Ewy.",
-        "title": "Kampania reklamowa Ewy"
-    },
-    {
-        "code": "02093",
-        "flavor": "Znana także jako \"piekło programistów.\"",
-        "text": "Wtasuj 1 kartę z HQ do R&D.",
-        "title": "Przeróbka"
-    },
-    {
-        "code": "02094",
-        "flavor": "\"Ten lód ssie.\" - g00ru",
-        "keywords": "Pułapka",
-        "text": "[subroutine] Runner nie może się odłączyć do końca tego skoku. Skasuj Wir.",
-        "title": "Wir"
-    },
-    {
-        "code": "02095",
-        "flavor": "Pomimo niewinnego wyglądu, Sieć Hokusai jest najbardziej niesławną placówką badawczą Jinteki.",
-        "keywords": "Region",
-        "text": "Zawsze gdy skok na ten serwer jest udany, zadaj 1 obrażenie sprzętu\nLimit 1 <strong>regionu</strong> na serwer.",
-        "title": "Sieć Hokusai"
-    },
-    {
-        "code": "02096",
-        "flavor": "Niuch.",
-        "keywords": "Strażnik - Tropiciel - Obserwator",
-        "text": "[subroutine] <trace>Trace 2</trace> Jeśli udane, obejrzyj karty z wierzchu stosu runnera w liczbie równej różnicy siły namierzania i siły połączenia. Skasuj 1 z tych kart, a resztę uporządkuj dowolnie.",
-        "title": "Ogar danych"
-    },
-    {
-        "code": "02097",
-        "flavor": "Mam świat na oku, ekran za ekranem.",
-        "keywords": "Sysop",
-        "text": "Zawsze gdy skok na ten serwer jest udany, <trace>Trace 5</trace> jeśli udane, daj runnerowi 1 tag. Jeśli nieudane, skasuj Bernice Mai.",
-        "title": "Bernice Mai"
-    },
-    {
-        "code": "02098",
-        "flavor": "Nie jesteś już w Kansas.",
-        "keywords": "Brama kodowa - Tropiciel",
-        "text": "Zrezowana Akcja ratunkowa może być awansowana i zyskuje \"[subroutine] <trace>Trace 2</trace> Jeśli udane, daj runnerowi 1 tag.\" za każdy leżący na nim żeton zaawansowania.",
-        "title": "Akcja ratunkowa"
-    },
-    {
-        "code": "02099",
-        "flavor": "\"Raz zrobić to dobrze zrobić.\"",
-        "keywords": "Sysop",
-        "text": "2[recurring-credit]\nUżyj tych kredytów do awansowania kart na tym serwerze lub chroniących go.",
-        "title": "Simone Diego"
-    },
-    {
-        "code": "02100",
-        "flavor": "\"To coś jakby anagram.\" - projektant Phoenix",
-        "text": "<trace>Trace 7</trace> Jeśli udane, skasuj 1 zasoby <strong>wirtualne</strong> lub 1 <strong>połączenie</strong>.",
-        "title": "Lisi ogień"
-    }
+  {
+    "code": "02081",
+    "flavor": "Musisz krzyknąć \"prąd\", aby efekt był pełny.",
+    "text": "Zagraj tylko, jeśli w tej turze położyłeś na programie jeden znacznik wirusa.\nPołóż na tym programie 2 znaczniki wirusa.",
+    "title": "Surge"
+  },
+  {
+    "code": "02082",
+    "flavor": "I krzykną widokiem przejęci:\nWłos jego falujący, źrenice ogniem zdjęte.\nPo trzykroć kręgiem go jak wieńcem\nOtoczmy. Niechaj zaćmi nasze oczy\nŚwiętości lęk; bo rosy on utoczył\nMiodowej, w Raju mleko pił zaklęte.\n// Samuel Taylor Coleridge\ntłum. L. Dorn",
+    "keywords": "Wirtualne",
+    "text": "Koszt zrezowania każdego lodu rośnie o 1.",
+    "title": "Xanadu"
+  },
+  {
+    "code": "02083",
+    "flavor": "\"Należę do najlepszych runnerów.\"",
+    "keywords": "Normalna",
+    "text": "Twoja ręka startowa to 9 kart.",
+    "title": "Andromeda: Wydziedziczona bogaczka"
+  },
+  {
+    "code": "02084",
+    "flavor": "Wolała prowadzić interesy w klubie. Oświetlenie i tancerki zaciemniały umysły tych korporacyjnych prostaków.",
+    "text": "Usuń 1 tag. Możesz zapłacić 1[credit], aby dodać Nawiązywanie kontaktów do garści, zamiast je skasować.",
+    "title": "Nawiązywanie kontaktów"
+  },
+  {
+    "code": "02085",
+    "flavor": "Jeśli nie znasz nikogo wewnątrz, znajdź w środku kogoś, kto lubi ozdoby na biurko.",
+    "text": "Zawsze gdy uzyskasz dostęp do kart z HQ, uzyskujesz dostęp do 1 dodatkowej karty z HQ.",
+    "title": "Interfejs HQ"
+  },
+  {
+    "code": "02086",
+    "keywords": "Wirus",
+    "text": "X[recurring-credit]\nUżyj tych kredytów podczas skoków na HQ. X to liczba znaczników wirusa leżących na Feromonach.\nZawsze gdy przeprowadzisz udany skok na HQ, połóż 1 znacznik wirusa na Feromonach.",
+    "title": "Feromony"
+  },
+  {
+    "code": "02087",
+    "flavor": "Ona ze swoim PADem. Ja przy moim warsztacie. Przyciemnione światło. Smooth jazz. Miłość kwitnie.",
+    "text": "Dobierz 5 kart.",
+    "title": "Wspólne chwile"
+  },
+  {
+    "code": "02088",
+    "flavor": "Naprawdę potrzebujesz jeszcze jednego?",
+    "text": "Zawsze gdy instalujesz sprzęt (również Replikator), możesz poszukać w swoim stosie innego egzemplarza tego sprzętu, odsłonić go i dodać do garści. Potasuj swój stos.",
+    "title": "Replikator"
+  },
+  {
+    "code": "02089",
+    "flavor": "\"Pajączek mały po rynnie danych wspinał się...\" - Teoria Chaosu",
+    "keywords": "Lodołamacz - Zabójca - Chmura",
+    "text": "Jeśli masz przynajmniej 2[link], wymagania pamięciowe Robala wynoszą 0, nawet jeśli nie jest zainstalowany.\n2[credit]: Złam podprogram <strong>strażnika</strong>.\n1[credit]: +1 siły.",
+    "title": "Robal"
+  },
+  {
+    "code": "02090",
+    "flavor": "Wczesne wersje krakena okazały się nienasyconymi bandytami pożerającymi lód. Niewiele się zmieniło.",
+    "text": "Zagraj tylko, jeśli wykradłeś projekt w tej turze.\nWybierz serwer. Korp kasuje 1 lód chroniący ten serwer.",
+    "title": "Kraken"
+  },
+  {
+    "code": "02091",
+    "flavor": "\"W New Angeles przemyca się nie tylko dane.\"",
+    "keywords": "Kontakt",
+    "text": "Nie możesz użyć Kati Jones więcej niż raz na turę.\n[click]: Połóż 3[credit] z banku na Kati Jones.\n[click]: Weź wszystkie kredyty z Kati Jones.",
+    "title": "Kati Jones"
+  },
+  {
+    "code": "02092",
+    "keywords": "Reklama",
+    "text": "Gdy rezujesz Kampanię reklamową Ewy, połóż na niej 16[credit] z banku. Skasuj Kampanię reklamową Ewy, gdy nie ma na niej kredytów.\nGdy zaczynasz turę, weź 2[credit] z Kampanii reklamowej Ewy.",
+    "title": "Kampania reklamowa Ewy"
+  },
+  {
+    "code": "02093",
+    "flavor": "Znana także jako \"piekło programistów.\"",
+    "text": "Wtasuj 1 kartę z HQ do R&D.",
+    "title": "Przeróbka"
+  },
+  {
+    "code": "02094",
+    "flavor": "\"Ten lód ssie.\" - g00ru",
+    "keywords": "Pułapka",
+    "text": "[subroutine] Runner nie może się odłączyć do końca tego skoku. Skasuj Wir.",
+    "title": "Wir"
+  },
+  {
+    "code": "02095",
+    "flavor": "Pomimo niewinnego wyglądu, Sieć Hokusai jest najbardziej niesławną placówką badawczą Jinteki.",
+    "keywords": "Region",
+    "text": "Zawsze gdy skok na ten serwer jest udany, zadaj 1 obrażenie sprzętu\nLimit 1 <strong>regionu</strong> na serwer.",
+    "title": "Sieć Hokusai"
+  },
+  {
+    "code": "02096",
+    "flavor": "Niuch.",
+    "keywords": "Strażnik - Tropiciel - Obserwator",
+    "text": "[subroutine] <trace>Trace 2</trace> Jeśli udane, obejrzyj karty z wierzchu stosu runnera w liczbie równej różnicy siły namierzania i siły połączenia. Skasuj 1 z tych kart, a resztę uporządkuj dowolnie.",
+    "title": "Ogar danych"
+  },
+  {
+    "code": "02097",
+    "flavor": "Mam świat na oku, ekran za ekranem.",
+    "keywords": "Sysop",
+    "text": "Zawsze gdy skok na ten serwer jest udany, <trace>Trace 5</trace> jeśli udane, daj runnerowi 1 tag. Jeśli nieudane, skasuj Bernice Mai.",
+    "title": "Bernice Mai"
+  },
+  {
+    "code": "02098",
+    "flavor": "Nie jesteś już w Kansas.",
+    "keywords": "Brama kodowa - Tropiciel",
+    "text": "Zrezowana Akcja ratunkowa może być awansowana i zyskuje \"[subroutine] <trace>Trace 2</trace> Jeśli udane, daj runnerowi 1 tag.\" za każdy leżący na nim żeton zaawansowania.",
+    "title": "Akcja ratunkowa"
+  },
+  {
+    "code": "02099",
+    "flavor": "\"Raz zrobić to dobrze zrobić.\"",
+    "keywords": "Sysop",
+    "text": "2[recurring-credit]\nUżyj tych kredytów do awansowania kart na tym serwerze lub chroniących go.",
+    "title": "Simone Diego"
+  },
+  {
+    "code": "02100",
+    "flavor": "\"To coś jakby anagram.\" - projektant Phoenix",
+    "text": "<trace>Trace 7</trace> Jeśli udane, skasuj 1 zasoby <strong>wirtualne</strong> lub 1 <strong>połączenie</strong>.",
+    "title": "Lisi ogień"
+  }
 ]

@@ -1,0 +1,16 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "marcus_batty",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "trash: You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, resolve 1 subroutine on a rezzed piece of ice protecting this server. Use this ability only during a run on this server.",
+  "stripped_title": "Marcus Batty",
+  "subtypes": ["sysop", "psi"],
+  "text": "[trash]: You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, resolve 1 subroutine on a rezzed piece of ice protecting this server. Use this ability only during a run on this server.",
+  "title": "Marcus Batty",
+  "trash_cost": 1
+}

@@ -1,0 +1,14 @@
+{
+  "card_type_id": "hardware",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "flip_switch",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "You cannot use this hardware during the Corp's turn. trash: Jack out. trash: Remove 1 tag. Interrupt -> trash: Reduce the base trace strength of a trace to 0. Errata from CR 1.4",
+  "stripped_title": "Flip Switch",
+  "text": "You cannot use this hardware during the Corp's turn.\n[trash]: Jack out.\n[trash]: Remove 1 tag.\n[interrupt] → [trash]: Reduce the base trace strength of a trace to 0.\n<errata>Errata from CR 1.4</errata>",
+  "title": "Flip Switch"
+}

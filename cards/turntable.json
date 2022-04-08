@@ -1,0 +1,15 @@
+{
+  "card_type_id": "hardware",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "turntable",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "+1 mu Whenever you steal an agenda, you may swap that agenda with an agenda in the Corp's score area. Limit 1 console per player.",
+  "stripped_title": "Turntable",
+  "subtypes": ["console"],
+  "text": "+1[mu]\nWhenever you steal an agenda, you may swap that agenda with an agenda in the Corp's score area.\nLimit 1 <strong>console</strong> per player.",
+  "title": "Turntable"
+}

@@ -1,0 +1,16 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "neotokyo_grid",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "The first time each turn an advancement counter is placed on a card in the root of this server, gain 1 credit. Limit 1 region per server.",
+  "stripped_title": "NeoTokyo Grid",
+  "subtypes": ["region"],
+  "text": "The first time each turn an advancement counter is placed on a card in the root of this server, gain 1[credit].\nLimit 1 <strong>region</strong> per server.",
+  "title": "NeoTokyo Grid",
+  "trash_cost": 5
+}
