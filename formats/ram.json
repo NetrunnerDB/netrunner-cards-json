@@ -1,7 +1,6 @@
 {
   "code": "ram",
   "name": "Random Access Memories",
-  "active": "ram_6",
   "snapshots": [
     {
       "card_pool": "ram_0",
@@ -28,6 +27,7 @@
       "date_start": "2022-02-12"
     },
     {
+      "active": true,
       "card_pool": "ram_6",
       "date_start": "2022-02-26"
     }

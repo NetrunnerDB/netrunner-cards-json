@@ -1,7 +1,6 @@
 {
   "code": "standard",
   "name": "Standard",
-  "active": "rotation_2021",
   "snapshots": [
     {
       "card_pool": "pre_rotation",
@@ -103,6 +102,7 @@
       "mwl": "standard_ban_list_21_06"
     },
     {
+      "active": true,
       "card_pool": "rotation_2021",
       "date_start": "2021-10-29",
       "mwl": "standard_ban_list_21_10"

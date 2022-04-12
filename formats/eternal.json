@@ -1,7 +1,6 @@
 {
   "code": "eternal",
   "name": "Eternal",
-  "active": "eternal",
   "snapshots": [
     {
       "card_pool": "eternal",
@@ -13,6 +12,7 @@
       "mwl": "eternal_points_list_1_0"
     },
     {
+      "active": true,
       "card_pool": "eternal",
       "date_start": "2021-07-10",
       "mwl": "eternal_points_list_21_11"
