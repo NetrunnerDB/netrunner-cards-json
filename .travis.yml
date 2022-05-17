@@ -1,7 +1,7 @@
 language: python
 python:
-- '3.7'
+  - "3.7"
 install:
-- pip install -U jsonschema
+  - pip install -U jsonschema
 script:
-- python ./validate.py
+  - python ./validate.py
