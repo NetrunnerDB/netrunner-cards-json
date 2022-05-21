@@ -2,6 +2,10 @@ name: Node Lint And Format
 
 on: push
 
+env:
+  # We do not need Husky hooks installed for this workflow.
+  HUSKY: 0
+  
 jobs:
   run:
     runs-on: ubuntu-latest
