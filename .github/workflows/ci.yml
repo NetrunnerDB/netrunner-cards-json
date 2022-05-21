@@ -11,6 +11,11 @@ jobs:
   format_and_lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: beauwilliams/run-node-formatter@latest
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Format and Lint
+        uses: beauwilliams/run-node-formatter@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
