@@ -6,7 +6,7 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "format": "prettier --no-color --write '{{**,.}/*.json,.*.json}'",
+    "format": "prettier --no-color --write '{{**,.}/*.json,.*.json,*.json}'",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "prepare": "husky install",
     "test": "mocha -r ts-node/register test/**/*.ts",
@@ -36,6 +36,6 @@
     "typescript": "^4.6.4"
   },
   "lint-staged": {
-    "{{**,.}/*.json,.*.json}": "prettier --write"
+    "{{**,.}/*.json,.*.json,*.json}": "prettier --write"
   }
 }
