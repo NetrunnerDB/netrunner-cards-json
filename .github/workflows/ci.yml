@@ -21,6 +21,6 @@ jobs:
         uses: creyD/prettier_action@v4.2
         with:
           # This part is also where you can pass other options, for example:
-          prettier_options: --write **/*.json
+          prettier_options: --check **/*.json
+          dry: True
           only_changed: True
-          same_commit: True
