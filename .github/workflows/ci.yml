@@ -7,8 +7,9 @@ on:
     branches:
       - main
 
-env:
-  - HUSKY: 0
+env:  
+  # We do not need Husky hooks installed for this workflow.
+  HUSKY: 0
 
 jobs:
   format_and_lint:
