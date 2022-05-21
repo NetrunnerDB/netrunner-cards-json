@@ -7,6 +7,7 @@
   "scripts": {
     "build": "tsc",
     "format": "prettier --no-color --write '{{**,.}/*.json,.*.json,*.json}'",
+    "format-check": "prettier --no-color --check '{{**,.}/*.json,.*.json,*.json}'",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "prepare": "husky install",
     "test": "mocha -r ts-node/register test/**/*.ts",
