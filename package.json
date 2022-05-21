@@ -6,16 +6,17 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
+    "format": "prettier --no-color --write '{{**,.}/*.json,.*.json}'",
+    "prepare": "husky install",
     "test": "mocha -r ts-node/register test/**/*.ts",
     "update-locales": "tsc && node dist/update-locales.js",
-    "watch": "mocha -r ts-node/register --extensions ts --watch --watch-files src,test test/**/*.ts",
-    "prepare": "husky install"
+    "watch": "mocha -r ts-node/register --extensions ts --watch --watch-files src,test test/**/*.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
-    "prettier": "^2.5.1"
+    "prettier": "^2"
   },
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
@@ -29,11 +30,11 @@
     "husky": "^7.0.4",
     "lint-staged": "^12.3.5",
     "mocha": "^9.2.1",
-    "prettier": "^2.5.1",
+    "prettier": "^2",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.3"
   },
   "lint-staged": {
-    "*.json": "prettier --write"
+    "{{**,.}/*.json,.*.json}": "prettier --write"
   }
 }
