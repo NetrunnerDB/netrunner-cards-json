@@ -7,20 +7,25 @@ on:
     branches:
       - main
 
+env:  
+  # We do not need Husky hooks installed for this workflow.
+  HUSKY: 0
+
 jobs:
-  prettier:
+  format_and_lint:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+        with: 
+          node-version: "18.x"
 
-      - name: Prettify code
-        uses: creyD/prettier_action@v4.2
-        with:
-          # This part is also where you can pass other options, for example:
-          prettier_options: --check **/*.json *.json \.*.json
-          dry: True
-          only_changed: True
+      - name: Install dependencies
+        run: npm install
+
+      - name: Format Check
+        run: npm run format-check
+        
+      - name: Lint
+        run: npm run lint
