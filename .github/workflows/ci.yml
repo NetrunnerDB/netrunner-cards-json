@@ -8,19 +8,9 @@ on:
       - main
 
 jobs:
-  prettier:
+  format_and_lint:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-
-      - name: Prettify code
-        uses: creyD/prettier_action@v4.2
-        with:
-          # This part is also where you can pass other options, for example:
-          prettier_options: --check **/*.json *.json \.*.json
-          dry: True
-          only_changed: True
+      - uses: beauwilliams/run-node-formatter@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
