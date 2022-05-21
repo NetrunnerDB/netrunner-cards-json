@@ -1,0 +1,14 @@
+[
+  {
+    "code": "startup_ashes",
+    "name": "Startup (Ashes)",
+    "cycles": ["ashes"],
+    "packs": ["sg", "su21"]
+  },
+  {
+    "code": "startup_ashes_plus",
+    "name": "Startup (Ashes+)",
+    "cycles": ["ashes"],
+    "packs": ["sg", "su21", "msbp"]
+  }
+]
