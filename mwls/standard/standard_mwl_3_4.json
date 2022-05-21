@@ -1,150 +1,56 @@
 {
-  "cards": {
-    "aesops_pawnshop": {
-      "is_restricted": 1
-    },
-    "cerebral_imaging_infinite_frontiers": {
-      "deck_limit": 0
-    },
-    "levy_ar_lab_access": {
-      "is_restricted": 1
-    },
-    "mother_goddess": {
-      "is_restricted": 1
-    },
-    "power_tap": {
-      "is_restricted": 1
-    },
-    "au_revoir": {
-      "is_restricted": 1
-    },
-    "dorm_computer": {
-      "is_restricted": 1
-    },
-    "faust": {
-      "deck_limit": 0
-    },
-    "gang_sign": {
-      "is_restricted": 1
-    },
-    "hyperdriver": {
-      "deck_limit": 0
-    },
-    "film_critic": {
-      "is_restricted": 1
-    },
-    "24_7_news_cycle": {
-      "deck_limit": 0
-    },
-    "global_food_initiative": {
-      "is_restricted": 1
-    },
-    "employee_strike": {
-      "deck_limit": 0
-    },
-    "mumba_temple": {
-      "is_restricted": 1
-    },
-    "museum_of_history": {
-      "deck_limit": 0
-    },
-    "tech_trader": {
-      "is_restricted": 1
-    },
-    "clone_suffrage_movement": {
-      "deck_limit": 0
-    },
-    "bio_ethics_association": {
-      "is_restricted": 1
-    },
-    "sensie_actors_union": {
-      "deck_limit": 0
-    },
-    "mumbad_city_hall": {
-      "deck_limit": 0
-    },
-    "zealous_judge": {
-      "deck_limit": 0
-    },
-    "gpi_net_tap": {
-      "deck_limit": 0
-    },
-    "rumor_mill": {
-      "is_restricted": 1
-    },
-    "paperclip": {
-      "is_restricted": 1
-    },
-    "temujin_contract": {
-      "deck_limit": 0
-    },
-    "jinteki_potential_unleashed": {
-      "deck_limit": 0
-    },
-    "friends_in_high_places": {
-      "deck_limit": 0
-    },
-    "sifr": {
-      "deck_limit": 0
-    },
-    "tapwrm": {
-      "deck_limit": 0
-    },
-    "aaron_marron": {
-      "deck_limit": 0
-    },
-    "bryan_stinson": {
-      "deck_limit": 0
-    },
-    "mad_dash": {
-      "is_restricted": 1
-    },
-    "inversificator": {
-      "is_restricted": 1
-    },
-    "obokata_protocol": {
-      "is_restricted": 1
-    },
-    "whampoa_reclamation": {
-      "is_restricted": 1
-    },
-    "mars_for_martians": {
-      "deck_limit": 0
-    },
-    "bloo_moose": {
-      "deck_limit": 0
-    },
-    "salvaged_vanadis_armory": {
-      "deck_limit": 0
-    },
-    "corporate_grant": {
-      "is_restricted": 1
-    },
-    "laamb": {
-      "deck_limit": 0
-    },
-    "zer0": {
-      "deck_limit": 0
-    },
-    "engolo": {
-      "is_restricted": 1
-    },
-    "mti_mwekundu_life_improved": {
-      "deck_limit": 0
-    },
-    "labor_rights": {
-      "is_restricted": 1
-    },
-    "crowdfunding": {
-      "deck_limit": 0
-    },
-    "watch_the_world_burn": {
-      "deck_limit": 0
-    },
-    "hired_help": {
-      "deck_limit": 0
-    }
-  },
+  "restricted": [
+    "aesops_pawnshop",
+    "levy_ar_lab_access",
+    "mother_goddess",
+    "power_tap",
+    "au_revoir",
+    "dorm_computer",
+    "gang_sign",
+    "film_critic",
+    "global_food_initiative",
+    "mumba_temple",
+    "tech_trader",
+    "bio_ethics_association",
+    "rumor_mill",
+    "paperclip",
+    "mad_dash",
+    "inversificator",
+    "obokata_protocol",
+    "whampoa_reclamation",
+    "corporate_grant",
+    "engolo",
+    "labor_rights"
+  ],
+  "banned": [
+    "cerebral_imaging_infinite_frontiers",
+    "faust",
+    "hyperdriver",
+    "24_7_news_cycle",
+    "employee_strike",
+    "museum_of_history",
+    "clone_suffrage_movement",
+    "sensie_actors_union",
+    "mumbad_city_hall",
+    "zealous_judge",
+    "gpi_net_tap",
+    "temujin_contract",
+    "jinteki_potential_unleashed",
+    "friends_in_high_places",
+    "sifr",
+    "tapwrm",
+    "aaron_marron",
+    "bryan_stinson",
+    "mars_for_martians",
+    "bloo_moose",
+    "salvaged_vanadis_armory",
+    "laamb",
+    "zer0",
+    "mti_mwekundu_life_improved",
+    "crowdfunding",
+    "watch_the_world_burn",
+    "hired_help"
+  ],
   "code": "standard_mwl_3_4",
   "date_start": "2019-09-20",
   "name": "Standard MWL 3.4"

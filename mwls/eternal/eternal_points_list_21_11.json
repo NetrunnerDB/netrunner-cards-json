@@ -1,161 +1,65 @@
 {
-  "cards": {
-    "salvaged_vanadis_armory": {
-      "deck_limit": 0
-    },
-    "watch_the_world_burn": {
-      "deck_limit": 0
-    },
-    "accelerated_diagnostics": {
-      "deck_limit": 0
-    },
-    "hired_help": {
-      "deck_limit": 0
-    },
-    "account_siphon": {
-      "points": 3
-    },
-    "hyperdriver": {
-      "points": 3
-    },
-    "rumor_mill": {
-      "points": 3
-    },
-    "temujin_contract": {
-      "points": 3
-    },
-    "estelle_moon": {
-      "points": 3
-    },
-    "jinteki_potential_unleashed": {
-      "points": 3
-    },
-    "mumbad_city_hall": {
-      "points": 3
-    },
-    "blackmail": {
-      "points": 2
-    },
-    "clan_vengeance": {
-      "points": 2
-    },
-    "crowdfunding": {
-      "points": 2
-    },
-    "data_leak_reversal": {
-      "points": 2
-    },
-    "ddos": {
-      "points": 2
-    },
-    "employee_strike": {
-      "points": 2
-    },
-    "false_echo": {
-      "points": 2
-    },
-    "mars_for_martians": {
-      "points": 2
-    },
-    "sifr": {
-      "points": 2
-    },
-    "tech_trader": {
-      "points": 2
-    },
-    "bio_ethics_association": {
-      "points": 2
-    },
-    "cerebral_imaging_infinite_frontiers": {
-      "points": 2
-    },
-    "friends_in_high_places": {
-      "points": 2
-    },
-    "industrial_genomics_growing_solutions": {
-      "points": 2
-    },
-    "jackson_howard": {
-      "points": 2
-    },
-    "mti_mwekundu_life_improved": {
-      "points": 2
-    },
-    "scarcity_of_resources": {
-      "points": 2
-    },
-    "sensie_actors_union": {
-      "points": 2
-    },
-    "aaron_marron": {
-      "points": 1
-    },
-    "aumakua": {
-      "points": 1
-    },
-    "bloo_moose": {
-      "points": 1
-    },
-    "counter_surveillance": {
-      "points": 1
-    },
-    "deja_vu": {
-      "points": 1
-    },
-    "film_critic": {
-      "points": 1
-    },
-    "hacktivist_meeting": {
-      "points": 1
-    },
-    "snitch": {
-      "points": 1
-    },
-    "zer0": {
-      "points": 1
-    },
-    "24_7_news_cycle": {
-      "points": 1
-    },
-    "anoetic_void": {
-      "points": 1
-    },
-    "breaking_news": {
-      "points": 1
-    },
-    "breached_dome": {
-      "points": 1
-    },
-    "caprice_nisei": {
-      "points": 1
-    },
-    "kakugo": {
-      "points": 1
-    },
-    "museum_of_history": {
-      "points": 1
-    },
-    "shock": {
-      "points": 1
-    },
-    "spin_doctor": {
-      "points": 1
-    },
-    "sting": {
-      "points": 1
-    },
-    "obokata_protocol": {
-      "points": 1
-    },
-    "project_vacheron": {
-      "points": 1
-    },
-    "violet_level_clearance": {
-      "points": 1
-    },
-    "whampoa_reclamation": {
-      "points": 1
-    }
+  "banned": [
+    "salvaged_vanadis_armory",
+    "watch_the_world_burn",
+    "accelerated_diagnostics",
+    "hired_help"
+  ],
+  "points": {
+    1: [
+      "aaron_marron",
+      "aumakua",
+      "bloo_moose",
+      "counter_surveillance",
+      "deja_vu",
+      "film_critic",
+      "hacktivist_meeting",
+      "snitch",
+      "zer0",
+      "24_7_news_cycle",
+      "anoetic_void",
+      "breaking_news",
+      "breached_dome",
+      "caprice_nisei",
+      "kakugo",
+      "museum_of_history",
+      "shock",
+      "spin_doctor",
+      "sting",
+      "obokata_protocol",
+      "project_vacheron",
+      "violet_level_clearance",
+      "whampoa_reclamation"
+    ],
+    2: [
+      "blackmail",
+      "clan_vengeance",
+      "crowdfunding",
+      "data_leak_reversal",
+      "ddos",
+      "employee_strike",
+      "false_echo",
+      "mars_for_martians",
+      "sifr",
+      "tech_trader",
+      "bio_ethics_association",
+      "cerebral_imaging_infinite_frontiers",
+      "friends_in_high_places",
+      "industrial_genomics_growing_solutions",
+      "jackson_howard",
+      "mti_mwekundu_life_improved",
+      "scarcity_of_resources",
+      "sensie_actors_union"
+    ],
+    3: [
+      "account_siphon",
+      "hyperdriver",
+      "rumor_mill",
+      "temujin_contract",
+      "estelle_moon",
+      "jinteki_potential_unleashed",
+      "mumbad_city_hall"
+    ]
   },
   "code": "eternal_points_list_21_11",
   "date_start": "2021-07-10",
