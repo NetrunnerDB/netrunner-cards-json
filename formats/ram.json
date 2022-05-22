@@ -1,0 +1,35 @@
+{
+  "code": "ram",
+  "name": "Random Access Memories",
+  "snapshots": [
+    {
+      "card_pool": "ram_0",
+      "date_start": "2021-12-07"
+    },
+    {
+      "card_pool": "ram_1",
+      "date_start": "2021-12-18"
+    },
+    {
+      "card_pool": "ram_2",
+      "date_start": "2022-01-01"
+    },
+    {
+      "card_pool": "ram_3",
+      "date_start": "2022-01-15"
+    },
+    {
+      "card_pool": "ram_4",
+      "date_start": "2022-01-29"
+    },
+    {
+      "card_pool": "ram_5",
+      "date_start": "2022-02-12"
+    },
+    {
+      "active": true,
+      "card_pool": "ram_6",
+      "date_start": "2022-02-26"
+    }
+  ]
+}
