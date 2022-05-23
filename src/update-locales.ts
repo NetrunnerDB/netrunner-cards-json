@@ -2,13 +2,12 @@ import {
 	readFileSync,
 	mkdirSync,
 	readdirSync,
-	existsSync,
 	writeFileSync,
 } from 'fs';
 import { join, resolve } from 'path';
 import { pick, union, keyBy, sortBy } from 'lodash';
 
-const [bin, script, locale] = process.argv;
+const [locale] = process.argv;
 
 const i18nDir = resolve('.', 'translations');
 const things = ['cycles', 'factions', 'packs', 'types', 'sides'];

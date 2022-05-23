@@ -7,6 +7,7 @@ import {
 	getRotationsJson,
 	getCardsJson,
 } from "../../src/index";
+import "mocha";
 import { expect } from "chai";
 
 describe("example test", function() {
@@ -33,7 +34,7 @@ describe("example test", function() {
 		expect(files).to.be.an.instanceof(Array);
 		expect(files).to.have.length.greaterThan(0);
 		for (const file of files) {
-			expect(file).to.have.keys("cards", "code", "date_start", "name");
+			expect(file).to.have.keys("cards", "code", "date_start", "name", "subtypes");
 		}
 	});
 
@@ -67,7 +68,7 @@ describe("example test", function() {
 		expect(files).to.be.an.instanceof(Array);
 		expect(files).to.have.length.greaterThan(0);
 		for (const file of files) {
-			expect(file).to.have.keys("code", "cycles", "date_start", "name");
+			expect(file).to.have.keys("code", "rotated", "date_start", "name");
 		}
 	});
 

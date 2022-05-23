@@ -14,7 +14,7 @@
     "side_code": "runner",
     "stripped_text": "click, trash, suffer 1 brain damage: Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server.",
     "stripped_title": "Light the Fire!",
-    "text": "[click], [trash], suffer 1 brain damage: Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server.",
+    "text": "<strong>[click], [trash], suffer 1 brain damage:</strong> Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server.",
     "title": "Light the Fire!",
     "type_code": "resource",
     "uniqueness": false
@@ -35,7 +35,7 @@
     "strength": 1,
     "stripped_text": "When you install this program, place 6 power counters on it. Interface -> trash or hosted power counter: Break 1 sentry subroutine. 2 credit: +3 strength.",
     "stripped_title": "Revolver",
-    "text": "When you install this program, place 6 power counters on it.\nInterface → [trash] or hosted power counter: Break 1 <strong>sentry</strong> subroutine.\n2[credit]: +3 strength.",
+    "text": "When you install this program, place 6 power counters on it.\nInterface → <strong>[trash]</strong> or <strong>hosted power counter:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>2[credit]:</strong> +3 strength.",
     "title": "Revolver",
     "type_code": "program",
     "uniqueness": false
@@ -73,7 +73,7 @@
     "strength": 4,
     "stripped_text": "When you rez this ice during a run against this server, you may derez another installed card. If you do, the Runner cannot use paid abilities printed on bioroid ice for the remainder of this turn. Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine End the run.",
     "stripped_title": "Hakarl 1.0",
-    "text": "When you rez this ice during a run against this server, you may derez another installed card. If you do, the Runner cannot use paid abilities printed on <strong>bioroid</strong> ice for the remainder of this turn.\nLose [click]: Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.",
+    "text": "When you rez this ice during a run against this server, you may derez another installed card. If you do, the Runner cannot use paid abilities printed on <strong>bioroid</strong> ice for the remainder of this turn.\n<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.",
     "title": "Hákarl 1.0",
     "type_code": "ice",
     "uniqueness": false
@@ -113,7 +113,7 @@
     "side_code": "corp",
     "stripped_text": "You can advance this upgrade. 2 hosted advancement counters: Place 2 advancement counters on another card in the root of this server that you can advance. Use this ability only once per turn. Limit 1 region per server.",
     "stripped_title": "Vladisibirsk City Grid",
-    "text": "You can advance this upgrade.\n2 hosted advancement counters: Place 2 advancement counters on another card in the root of this server that you can advance. Use this ability only once per turn.\nLimit 1 <strong>region</strong> per server.",
+    "text": "You can advance this upgrade.\n<strong>2 hosted advancement counters:</strong> Place 2 advancement counters on another card in the root of this server that you can advance. Use this ability only once per turn.\nLimit 1 <strong>region</strong> per server.",
     "title": "Vladisibirsk City Grid",
     "trash_cost": 4,
     "type_code": "upgrade",
