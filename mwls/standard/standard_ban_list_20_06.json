@@ -1,4 +1,10 @@
 {
+  "name": "Standard Ban List 20.06",
+  "code": "standard_ban_list_20_06",
+  "date_start": "2020-06-26",
+  "subtypes": {
+    "banned": ["current"]
+  },
   "banned": [
     "enhanced_login_protocol",
     "cerebral_static",
@@ -72,11 +78,5 @@
     "hired_help",
     "cayambe_grid",
     "crowdfunding"
-  ],
-  "code": "standard_ban_list_20_06",
-  "date_start": "2020-06-26",
-  "name": "Standard Ban List 20.06",
-  "subtypes": {
-    "banned": ["current"]
-  }
+  ]
 }

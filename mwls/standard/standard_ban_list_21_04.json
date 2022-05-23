@@ -1,4 +1,10 @@
 {
+  "name": "Standard Ban List 21.04",
+  "code": "standard_ban_list_21_04",
+  "date_start": "2021-04-09",
+  "subtypes": {
+    "banned": ["current"]
+  },
   "banned": [
     "enhanced_login_protocol",
     "cerebral_static",
@@ -76,11 +82,5 @@
     "gold_farmer",
     "cayambe_grid",
     "crowdfunding"
-  ],
-  "code": "standard_ban_list_21_04",
-  "date_start": "2021-04-09",
-  "name": "Standard Ban List 21.04",
-  "subtypes": {
-    "banned": ["current"]
-  }
+  ]
 }

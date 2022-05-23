@@ -1,4 +1,7 @@
 {
+  "name": "NAPD MWL 1.0",
+  "code": "napd_mwl_1_0",
+  "date_start": "2016-02-01",
   "global_penalty": {
     "1": [
       "parasite",
@@ -13,8 +16,5 @@
       "architect",
       "cerberus_lady_h1"
     ]
-  },
-  "code": "napd_mwl_1_0",
-  "date_start": "2016-02-01",
-  "name": "NAPD MWL 1.0"
+  }
 }

@@ -1,4 +1,10 @@
 {
+  "name": "Standard Ban List 21.10",
+  "code": "standard_ban_list_21_10",
+  "date_start": "2021-10-29",
+  "subtypes": {
+    "banned": ["current"]
+  },
   "banned": [
     "jinteki_personal_evolution",
     "enhanced_login_protocol",
@@ -75,11 +81,5 @@
     "gold_farmer",
     "cayambe_grid",
     "crowdfunding"
-  ],
-  "code": "standard_ban_list_21_10",
-  "date_start": "2021-10-29",
-  "name": "Standard Ban List 21.10",
-  "subtypes": {
-    "banned": ["current"]
-  }
+  ]
 }
