@@ -595,7 +595,7 @@
     "side_code": "runner",
     "stripped_text": "Whenever you make a successful run, you may trash this resource to name an agenda. The next time this run you access a copy of the named agenda, steal it, ignoring all costs. (You are no longer accessing it.)",
     "stripped_title": "Whistleblower",
-    "text": "Whenever you make a successful run, you may trash this resource to name an agenda. The next time this run you access a copy of the named agenda, steal it, ignoring all costs. <i>(You are no longer accessing it.)</i>",
+    "text": "Whenever you make a successful run, you may trash this resource to name an agenda. The next time this run you access a copy of the named agenda, steal it, ignoring all costs. <em>(You are no longer accessing it.)</em>",
     "title": "Whistleblower",
     "type_code": "resource",
     "uniqueness": true
@@ -856,7 +856,7 @@
     "side_code": "corp",
     "stripped_text": "The first time each turn you trash (from any location) a card that matches the faction of the Runner's identity, place 1 power counter on this asset. click, hosted power counter: Do 1 net damage.",
     "stripped_title": "Storgotic Resonator",
-    "text": "The first time each turn you trash <i>(from any location)</i> a card that matches the faction of the Runner's identity, place 1 power counter on this asset.\n[click]<strong>, hosted power counter:</strong> Do 1 net damage.",
+    "text": "The first time each turn you trash <em>(from any location)</em> a card that matches the faction of the Runner's identity, place 1 power counter on this asset.\n[click]<strong>, hosted power counter:</strong> Do 1 net damage.",
     "title": "Storgotic Resonator",
     "trash_cost": 2,
     "type_code": "asset",
@@ -1220,7 +1220,7 @@
     "side_code": "corp",
     "stripped_text": "As an additional cost to play this operation, spend click. Search R&D for a piece of ice and reveal it. (Shuffle R&D after searching it.) Install that ice protecting a central server, paying 3 credits less.",
     "stripped_title": "Secure and Protect",
-    "text": "As an additional cost to play this operation, spend [click].\nSearch R&D for a piece of ice and reveal it. <i>(Shuffle R&D after searching it.)</i> Install that ice protecting a central server, paying 3[credit] less.",
+    "text": "As an additional cost to play this operation, spend [click].\nSearch R&D for a piece of ice and reveal it. <em>(Shuffle R&D after searching it.)</em> Install that ice protecting a central server, paying 3[credit] less.",
     "title": "Secure and Protect",
     "type_code": "operation",
     "uniqueness": false
