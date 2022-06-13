@@ -34,6 +34,8 @@ export const getMwlJson = makeV1Reader('mwl');
 export const getRotationsJson = makeV1Reader('rotations');
 export const getSidesJson = makeV1Reader('sides');
 export const getSidesV2Json = makeV2Reader('sides');
+export const getTypesJson = makeV1Reader('types');
+export const getTypesV2Json = makeV2Reader('types');
 
 export function getCardsJson(): Record<string, any>[] {
 	const CARDS_JSON: Record<string, any>[] = [];

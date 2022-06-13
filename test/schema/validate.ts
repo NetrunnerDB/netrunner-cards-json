@@ -1,7 +1,7 @@
 import fs from "fs";
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCyclesJson, getFactionsJson, getPacksJson, getSidesJson } from "../../src/index";
+import { getCyclesJson, getFactionsJson, getPacksJson, getSidesJson, getTypesJson } from "../../src/index";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
@@ -15,7 +15,6 @@ if (!validateSidesSchema(sides)) {
   process.exit(1);
 }
 
-
 // Factions
 const faction_schema_path = resolve(__dirname, "../../schema/v1", "faction_schema.json");
 const faction_schema = JSON.parse(fs.readFileSync(faction_schema_path, "utf-8"));
@@ -25,7 +24,6 @@ if (!validateFactionsSchema(factions)) {
   console.log(validateFactionsSchema.errors);
   process.exit(1);
 }
-
 
 // Cycles
 const cycle_schema_path = resolve(__dirname, "../../schema/v1", "cycle_schema.json");
@@ -56,7 +54,6 @@ function isValidCycleCode(packCycleCode, cycleCodes) {
   return cycleCodes.has(packCycleCode);
 }
 
-// use .every with a function to check for missing cycle codes.
 let numBadPackCycleCodes = 0;
 packs.forEach(function(pack) {
   if (!isValidCycleCode(pack.cycle_code, cycleCodes)) {
@@ -68,4 +65,15 @@ packs.forEach(function(pack) {
 if (numBadPackCycleCodes) {
   process.exit(1);
 }
+
+// Types 
+const type_schema_path = resolve(__dirname, "../../schema/v1", "type_schema.json");
+const type_schema = JSON.parse(fs.readFileSync(type_schema_path, "utf-8"));
+export const validateTypesSchema: any = ajv.compile(type_schema);
+const types = getTypesJson();
+if (!validateTypesSchema(types)) {
+  console.log(validateTypesSchema.errors);
+  process.exit(1);
+}
+
 

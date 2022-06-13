@@ -1,5 +1,5 @@
 {
-  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v1/type_schema.json",
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/type_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "array",
   "items": {
@@ -10,26 +10,13 @@
         "minLength": 1,
         "type": "string"
       },
-      "is_subtype": {
-        "type": "boolean"
-      },
       "name": {
         "minLength": 1,
         "type": "string"
       },
-      "position": {
-        "type": "integer"
-      },
       "side_code": {
-        "oneOf": [
-          {
-            "minLength": 1,
-            "type": "string"
-          },
-          {
-            "type": "null"
-          }
-        ]
+        "type": "string",
+        "enum": ["corp", "runner"]
       }
     },
     "required": ["code", "name", "side_code"]

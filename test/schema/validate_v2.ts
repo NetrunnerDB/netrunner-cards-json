@@ -1,7 +1,7 @@
 import fs from "fs";
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCyclesV2Json, getFactionsV2Json, getSidesV2Json } from "../../src/index";
+import { getCyclesV2Json, getFactionsV2Json, getSidesV2Json, getTypesV2Json } from "../../src/index";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
@@ -43,5 +43,15 @@ if (!validateCycle(cycles)) {
 //            verbose_print(args, "Validation error in set_type, code/name mismatch: (code: '%s' name: '%s')\n" % (t.get("code"), t.get("name")), 0)
 //            validation_errors += 1
 //            retval = False
-//
+
+// Types 
+const type_schema_path = resolve(__dirname, "../../schema/v2", "type_schema.json");
+const type_schema = JSON.parse(fs.readFileSync(type_schema_path, "utf-8"));
+export const validateTypesSchema: any = ajv.compile(type_schema);
+const types = getTypesV2Json();
+if (!validateTypesSchema(types)) {
+  console.log(validateTypesSchema.errors);
+  process.exit(1);
+}
+
 

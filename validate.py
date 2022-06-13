@@ -113,9 +113,6 @@ def load_types(args):
     types_path = os.path.join(args.base_path, "types.json")
     types_data = load_json_file(args, types_path)
 
-    if not validate_types(args, types_data):
-        return None
-
     return types_data
 
 def load_sides(args):
@@ -284,35 +281,6 @@ def validate_set_types(args, set_types_data):
             verbose_print(args, "ERROR\n",2)
             verbose_print(args, "Validation error in set_type, code/name mismatch: (code: '%s' name: '%s')\n" % (t.get("code"), t.get("name")), 0)
             validation_errors += 1
-            retval = False
-
-    return retval
-
-def validate_types(args, types_data):
-    global validation_errors
-
-    verbose_print(args, "Validating type index file...\n", 1)
-    type_schema_path = os.path.join(args.schema_path, "type_schema.json")
-    TYPE_SCHEMA = load_json_file(args, type_schema_path)
-    if not isinstance(types_data, list):
-        verbose_print(args, "Insides of type index file are not a list!\n", 0)
-        return False
-    if not TYPE_SCHEMA:
-        return False
-    if not check_json_schema(args, TYPE_SCHEMA, type_schema_path):
-        return False
-
-    retval = True
-    for c in types_data:
-        try:
-            verbose_print(args, "Validating type %s... " % c.get("name"), 2)
-            jsonschema.validate(c, TYPE_SCHEMA)
-            verbose_print(args, "OK\n", 2)
-        except jsonschema.ValidationError as e:
-            verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in type: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
-            validation_errors += 1
-            verbose_print(args, "%s\n" % e.message, 0)
             retval = False
 
     return retval
