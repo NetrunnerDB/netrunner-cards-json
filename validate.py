@@ -41,6 +41,17 @@ def check_json_schema(args, data, path):
         verbose_print(args, "%s\n" % e.message, 0)
         return False
 
+def check_new_json_schema(args, data, path):
+    global validation_errors
+    try:
+        jsonschema.Draft202012Validator.check_schema(data)
+        return True
+    except jsonschema.exceptions.SchemaError as e:
+        verbose_print(args, "%s: Schema file is not valid Draft 4 JSON schema.\n" % path, 0)
+        validation_errors += 1
+        verbose_print(args, "%s\n" % e.message, 0)
+        return False
+
 def custom_card_check(args, card, pack_code, factions_data, types_data, sides_data):
     "Performs more in-depth sanity checks than jsonschema validator is capable of. Assumes that the basic schema validation has already completed successfully."
     if card["pack_code"] != pack_code:
@@ -279,22 +290,17 @@ def validate_cycles(args, cycles_data):
         return False
     if not CYCLE_SCHEMA:
         return False
-    if not check_json_schema(args, CYCLE_SCHEMA, cycle_schema_path):
+    if not check_new_json_schema(args, CYCLE_SCHEMA, cycle_schema_path):
         return False
 
     retval = True
-    for c in cycles_data:
-        try:
-            verbose_print(args, "Validating cycle %s... " % c.get("name"), 2)
-            jsonschema.validate(c, CYCLE_SCHEMA)
-            verbose_print(args, "OK\n", 2)
-        except jsonschema.ValidationError as e:
-            verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in cycle: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
-            validation_errors += 1
-            verbose_print(args, "%s\n" % e.message, 0)
-            retval = False
-
+    try:
+        jsonschema.validate(cycles_data, CYCLE_SCHEMA)
+    except jsonschema.ValidationError as e:
+        verbose_print(args, "ERROR\n",2)
+        validation_errors += 1
+        verbose_print(args, "%s\n" % e.message, 0)
+        retval = False
     return retval
 
 def validate_set_types(args, set_types_data):
