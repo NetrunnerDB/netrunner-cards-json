@@ -1,11 +1,20 @@
 import fs from "fs";
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCyclesJson, getFactionsJson, getPacksJson } from "../../src/index";
+import { getCyclesJson, getFactionsJson, getPacksJson, getSidesJson } from "../../src/index";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
 // Sides
+const side_schema_path = resolve(__dirname, "../../schema/v1", "side_schema.json");
+const side_schema = JSON.parse(fs.readFileSync(side_schema_path, "utf-8"));
+export const validateSidesSchema: any = ajv.compile(side_schema);
+const sides = getSidesJson();
+if (!validateSidesSchema(sides)) {
+  console.log(validateSidesSchema.errors);
+  process.exit(1);
+}
+
 
 // Factions
 const faction_schema_path = resolve(__dirname, "../../schema/v1", "faction_schema.json");
@@ -38,7 +47,7 @@ if (!validatePacksSchema(packs)) {
   process.exit(1);
 }
 
-let cycleCodes = new Set<string>();
+const cycleCodes = new Set<string>();
 cycles.forEach(function(cycle) {
   cycleCodes.add(cycle.code);
 });

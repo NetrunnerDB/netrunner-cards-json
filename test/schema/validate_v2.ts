@@ -1,9 +1,19 @@
 import fs from "fs";
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCyclesV2Json, getFactionsV2Json } from "../../src/index";
+import { getCyclesV2Json, getFactionsV2Json, getSidesV2Json } from "../../src/index";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
+
+// Sides
+const side_schema_path = resolve(__dirname, "../../schema/v2", "side_schema.json");
+const side_schema = JSON.parse(fs.readFileSync(side_schema_path, "utf-8"));
+export const validateSidesSchema: any = ajv.compile(side_schema);
+const sides = getSidesV2Json();
+if (!validateSidesSchema(sides)) {
+  console.log(validateSidesSchema.errors);
+  process.exit(1);
+}
 
 // Factions
 const faction_schema_path = resolve(__dirname, "../../schema/v2", "faction_schema.json");
