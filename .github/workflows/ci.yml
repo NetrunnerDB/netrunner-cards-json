@@ -12,7 +12,7 @@ env:
   HUSKY: 0
 
 jobs:
-  format_and_lint:
+  format_and_lint_and_test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
