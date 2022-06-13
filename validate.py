@@ -87,7 +87,7 @@ def load_cycles(args):
 
 def load_set_types(args):
     verbose_print(args, "Loading set types file...\n", 1)
-    set_types_path = os.path.join(args.base_path, "set_types.json")
+    set_types_path = os.path.join(args.base_path, "v2/set_types.json")
     set_types_data = load_json_file(args, set_types_path)
 
     if not validate_set_types(args, set_types_data):
