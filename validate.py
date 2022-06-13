@@ -41,17 +41,6 @@ def check_json_schema(args, data, path):
         verbose_print(args, "%s\n" % e.message, 0)
         return False
 
-def check_new_json_schema(args, data, path):
-    global validation_errors
-    try:
-        jsonschema.Draft202012Validator.check_schema(data)
-        return True
-    except jsonschema.exceptions.SchemaError as e:
-        verbose_print(args, "%s: Schema file is not valid Draft 4 JSON schema.\n" % path, 0)
-        validation_errors += 1
-        verbose_print(args, "%s\n" % e.message, 0)
-        return False
-
 def custom_card_check(args, card, pack_code, factions_data, types_data, sides_data):
     "Performs more in-depth sanity checks than jsonschema validator is capable of. Assumes that the basic schema validation has already completed successfully."
     if card["pack_code"] != pack_code:
