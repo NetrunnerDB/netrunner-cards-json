@@ -9,7 +9,7 @@ import sys
 import re
 
 PACK_DIR="pack"
-SCHEMA_DIR="schema"
+SCHEMA_DIR="schema/v1"
 validation_errors = 0
 text_by_card_title = dict()
 stripped_text_by_card_title = dict()
@@ -67,10 +67,6 @@ def custom_card_check(args, card, pack_code, factions_data, types_data, sides_da
     if card["type_code"] not in allowed_types:
         raise jsonschema.ValidationError("Type code '%s' of the card '%s' doesn't match any valid types for side '%s'." % (card["type_code"], card["code"], card["side_code"]))
 
-def custom_pack_check(args, pack, cycles_data):
-    if pack["cycle_code"] not in [c["code"] for c in cycles_data]:
-        raise jsonschema.ValidationError("Cycle code '%s' of the pack '%s' doesn't match any valid cycle code." % (pack["cycle_code"], pack["code"]))
-
 def load_json_file(args, path):
     global validation_errors
     try:
@@ -91,28 +87,12 @@ def load_cycles(args):
     cycles_path = os.path.join(args.base_path, "cycles.json")
     cycles_data = load_json_file(args, cycles_path)
 
-    if not validate_cycles(args, cycles_data):
-        return None
-
     return cycles_data
-
-def load_set_types(args):
-    verbose_print(args, "Loading set types file...\n", 1)
-    set_types_path = os.path.join(args.base_path, "v2/set_types.json")
-    set_types_data = load_json_file(args, set_types_path)
-
-    if not validate_set_types(args, set_types_data):
-        return None
-
-    return set_types_data
 
 def load_packs(args, cycles_data):
     verbose_print(args, "Loading pack index file...\n", 1)
     packs_path = os.path.join(args.base_path, "packs.json")
     packs_data = load_json_file(args, packs_path)
-
-    if not validate_packs(args, packs_data, cycles_data):
-        return None
 
     for p in packs_data:
         pack_filename = "{}.json".format(p["code"])
@@ -125,9 +105,6 @@ def load_factions(args):
     verbose_print(args, "Loading faction index file...\n", 1)
     factions_path = os.path.join(args.base_path, "factions.json")
     factions_data = load_json_file(args, factions_path)
-
-    if not validate_factions(args, factions_data):
-        return None
 
     return factions_data
 
@@ -279,30 +256,6 @@ def validate_cards(args, packs_data, factions_data, types_data, sides_data):
             validation_errors += 1
 
 
-def validate_cycles(args, cycles_data):
-    global validation_errors
-
-    verbose_print(args, "Validating cycle index file...\n", 1)
-    cycle_schema_path = os.path.join(args.schema_path, "cycle_schema.json")
-    CYCLE_SCHEMA = load_json_file(args, cycle_schema_path)
-    if not isinstance(cycles_data, list):
-        verbose_print(args, "Insides of cycle index file are not a list!\n", 0)
-        return False
-    if not CYCLE_SCHEMA:
-        return False
-    if not check_new_json_schema(args, CYCLE_SCHEMA, cycle_schema_path):
-        return False
-
-    retval = True
-    try:
-        jsonschema.validate(cycles_data, CYCLE_SCHEMA)
-    except jsonschema.ValidationError as e:
-        verbose_print(args, "ERROR\n",2)
-        validation_errors += 1
-        verbose_print(args, "%s\n" % e.message, 0)
-        retval = False
-    return retval
-
 def validate_set_types(args, set_types_data):
     global validation_errors
 
@@ -334,65 +287,6 @@ def validate_set_types(args, set_types_data):
             verbose_print(args, "ERROR\n",2)
             verbose_print(args, "Validation error in set_type, code/name mismatch: (code: '%s' name: '%s')\n" % (t.get("code"), t.get("name")), 0)
             validation_errors += 1
-            retval = False
-
-    return retval
-
-def validate_packs(args, packs_data, cycles_data):
-    global validation_errors
-
-    verbose_print(args, "Validating pack index file...\n", 1)
-    pack_schema_path = os.path.join(args.schema_path, "pack_schema.json")
-    PACK_SCHEMA = load_json_file(args, pack_schema_path)
-    if not isinstance(packs_data, list):
-        verbose_print(args, "Insides of pack index file are not a list!\n", 0)
-        return False
-    if not PACK_SCHEMA:
-        return False
-    if not check_json_schema(args, PACK_SCHEMA, pack_schema_path):
-        return False
-
-    retval = True
-    for p in packs_data:
-        try:
-            verbose_print(args, "Validating pack %s... " % p.get("name"), 2)
-            jsonschema.validate(p, PACK_SCHEMA)
-            custom_pack_check(args, p, cycles_data)
-            verbose_print(args, "OK\n", 2)
-        except jsonschema.ValidationError as e:
-            verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in pack: (code: '%s' name: '%s')\n" % (p.get("code"), p.get("name")), 0)
-            validation_errors += 1
-            verbose_print(args, "%s\n" % e.message, 0)
-            retval = False
-
-    return retval
-
-def validate_factions(args, factions_data):
-    global validation_errors
-
-    verbose_print(args, "Validating faction index file...\n", 1)
-    faction_schema_path = os.path.join(args.schema_path, "faction_schema.json")
-    FACTION_SCHEMA = load_json_file(args, faction_schema_path)
-    if not isinstance(factions_data, list):
-        verbose_print(args, "Insides of faction index file are not a list!\n", 0)
-        return False
-    if not FACTION_SCHEMA:
-        return False
-    if not check_json_schema(args, FACTION_SCHEMA, faction_schema_path):
-        return False
-
-    retval = True
-    for c in factions_data:
-        try:
-            verbose_print(args, "Validating faction %s... " % c.get("name"), 2)
-            jsonschema.validate(c, FACTION_SCHEMA)
-            verbose_print(args, "OK\n", 2)
-        except jsonschema.ValidationError as e:
-            verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in faction: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
-            validation_errors += 1
-            verbose_print(args, "%s\n" % e.message, 0)
             retval = False
 
     return retval
@@ -551,8 +445,6 @@ def main():
     check_all_translations(args)
 
     cycles = load_cycles(args)
-
-    set_types = load_set_types(args)
 
     packs = load_packs(args, cycles)
 

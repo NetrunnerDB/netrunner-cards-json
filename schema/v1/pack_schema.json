@@ -1,0 +1,66 @@
+{
+  "$id": "https://github.com/Alsciende/netrunner-cards-json/blob/master/schema/pack_schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "code": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "cycle_code": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "date_release": {
+        "oneOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ]
+      },
+      "ffg_id": {
+        "oneOf": [
+          {
+            "type": "integer"
+          },
+          {
+            "type": "null"
+          }
+        ]
+      },
+      "name": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "position": {
+        "minimum": 1,
+        "type": "integer"
+      },
+      "size": {
+        "oneOf": [
+          {
+            "minimum": 1,
+            "type": "integer"
+          },
+          {
+            "type": "null"
+          }
+        ]
+      }
+    },
+    "required": [
+      "code",
+      "cycle_code",
+      "name",
+      "position",
+      "date_release",
+      "size"
+    ]
+  }
+}

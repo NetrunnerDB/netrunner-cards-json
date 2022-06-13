@@ -1,0 +1,33 @@
+{
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/faction_schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "code": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "color": {
+        "description": "Faction color in hex triplet format. This can be used to display faction-specific information in the appropriate color on an HTML webpage.",
+        "maxLength": 6,
+        "minLength": 6,
+        "type": "string"
+      },
+      "is_mini": {
+        "type": "boolean"
+      },
+      "name": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "side_code": {
+        "minLength": 1,
+        "type": "string"
+      }
+    },
+    "required": ["code", "name"]
+  }
+}
