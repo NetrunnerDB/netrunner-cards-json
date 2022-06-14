@@ -41,21 +41,6 @@ def check_json_schema(args, data, path):
         verbose_print(args, "%s\n" % e.message, 0)
         return False
 
-def custom_card_check(args, card, pack_code, factions_data, types_data, sides_data):
-    "Performs more in-depth sanity checks than jsonschema validator is capable of. Assumes that the basic schema validation has already completed successfully."
-    if card["pack_code"] != pack_code:
-        raise jsonschema.ValidationError("Pack code '%s' of the card '%s' doesn't match the pack code '%s' of the file it appears in." % (card["pack_code"], card["code"], pack_code))
-    allowed_factions = [f["code"] for f in factions_data if f["side_code"] == card["side_code"]]
-    if card["faction_code"] not in allowed_factions:
-        raise jsonschema.ValidationError("Faction code '%s' of the card '%s' doesn't match any valid faction code for side '%s'." % (card["faction_code"], card["code"], card["side_code"]))
-    if card["type_code"] not in [f["code"] for f in types_data]:
-        raise jsonschema.ValidationError("Type code '%s' of the card '%s' doesn't match any valid type code." % (card["type_code"], card["code"]))
-    if card["side_code"] not in [f["code"] for f in sides_data]:
-        raise jsonschema.ValidationError("Side code '%s' of the card '%s' doesn't match any valid side code." % (card["side_code"], card["code"]))
-    allowed_types = [f["code"] for f in types_data if f["side_code"] == card["side_code"] or f["side_code"] is None]
-    if card["type_code"] not in allowed_types:
-        raise jsonschema.ValidationError("Type code '%s' of the card '%s' doesn't match any valid types for side '%s'." % (card["type_code"], card["code"], card["side_code"]))
-
 def load_json_file(args, path):
     global validation_errors
     try:
@@ -129,20 +114,6 @@ def parse_commandline():
     check_dir_access(args.pack_path)
 
     return args
-
-def validate_card(args, card, card_schema, pack_code, factions_data, types_data, sides_data):
-    global validation_errors
-
-    try:
-        verbose_print(args, "Validating card %s... " % card["title"], 2)
-        jsonschema.validate(card, card_schema)
-        custom_card_check(args, card, pack_code, factions_data, types_data, sides_data)
-        verbose_print(args, "OK\n", 2)
-    except jsonschema.ValidationError as e:
-        verbose_print(args, "ERROR\n",2)
-        verbose_print(args, "Validation error in card: (pack code: '%s' card code: '%s' title: '%s')\n" % (pack_code, card.get("code"), card.get("title")), 0)
-        validation_errors += 1
-        verbose_print(args, "%s\n" % e.message, 0)
 
 def verify_stripped_text_is_ascii(args, card, pack_code):
     global validation_errors
@@ -219,7 +190,6 @@ def validate_cards(args, packs_data, factions_data, types_data, sides_data):
             if card.get('title') not in stripped_text_by_card_title:
                 stripped_text_by_card_title[card.get('title')] = set()
             stripped_text_by_card_title[card.get('title')].add(card.get('stripped_text'))
-            validate_card(args, card, CARD_SCHEMA, p["code"], factions_data, types_data, sides_data)
             verify_stripped_text_is_ascii(args, card, p["code"])
             verify_text_has_fancy_text(args, card, p["code"])
 
@@ -238,74 +208,6 @@ def validate_cards(args, packs_data, factions_data, types_data, sides_data):
                 verbose_print(args, "    '%s'\n" % (stripped_text))
             validation_errors += 1
 
-
-def validate_set_types(args, set_types_data):
-    global validation_errors
-
-    verbose_print(args, "Validating set types file...\n", 1)
-    set_type_schema_path = os.path.join(args.schema_path, "set_types_schema.json")
-    SET_TYPE_SCHEMA = load_json_file(args, set_type_schema_path)
-    if not isinstance(set_types_data, list):
-        verbose_print(args, "Insides of set_type index file are not a list!\n", 0)
-        return False
-    if not SET_TYPE_SCHEMA:
-        return False
-    if not check_json_schema(args, SET_TYPE_SCHEMA, set_type_schema_path):
-        return False
-
-    retval = True
-    for t in set_types_data:
-        try:
-            verbose_print(args, "Validating set_type %s... " % t.get("name"), 2)
-            jsonschema.validate(t, SET_TYPE_SCHEMA)
-            verbose_print(args, "OK\n", 2)
-        except jsonschema.ValidationError as e:
-            verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in set_type: (code: '%s' name: '%s')\n" % (t.get("code"), t.get("name")), 0)
-            validation_errors += 1
-            verbose_print(args, "%s\n" % e.message, 0)
-            retval = False
-        # Enforce the formatting on the values.
-        if t.get("name").replace(' ', '_').lower() != t.get("code"):
-            verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in set_type, code/name mismatch: (code: '%s' name: '%s')\n" % (t.get("code"), t.get("name")), 0)
-            validation_errors += 1
-            retval = False
-
-    return retval
-
-def validate_rotations(args, rot_data, cycles_data):
-    global validation_errors
-
-    verbose_print(args, "Validating rotations ...\n", 1)
-    rot_schema_path = os.path.join(args.schema_path, "rotations_schema.json")
-    ROT_SCHEMA = load_json_file(args, rot_schema_path)
-    if not isinstance(rot_data, list):
-        verbose_print(args, "Insides of rotations index file are not a list!\n", 0)
-        return False
-    if not ROT_SCHEMA:
-        return False
-    if not check_json_schema(args, ROT_SCHEMA, rot_schema_path):
-        return False
-
-    retval = True
-    for r in rot_data:
-        try:
-            verbose_print(args, "Validating rotation %s... " % r.get("name"), 2)
-            jsonschema.validate(r, ROT_SCHEMA)
-            verbose_print(args, "OK\n", 2)
-        except jsonschema.ValidationError as e:
-            verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in rotation: (code: '%s' name: '%s')\n" % (r.get("code"), r.get("name")), 0)
-            validation_errors += 1
-            verbose_print(args, "%s\n" % e.message, 0)
-            retval = False
-
-        for cycle in r["rotated"]:
-            if cycle not in [f["code"] for f in cycles_data]:
-                raise jsonschema.ValidationError("Cycle code '%s' of the rotation '%s' doesn't match any valid cycle code." % (cycle, r["code"]))
-
-    return retval
 
 def check_translations_simple(args, base_translations_path, locale_name, base_file_name):
     file_name = "%s.%s.json" % (base_file_name, locale_name)
@@ -352,7 +254,6 @@ def check_rotation(args, cycles_data):
     verbose_print(args, "Loading Rotations...\n", 1)
     rot_path = os.path.join(args.base_path, "rotations.json")
     rot_data = load_json_file(args, rot_path)
-    validate_rotations(args, rot_data, cycles_data)
 
 def verbose_print(args, text, minimum_verbosity=0):
     if args.verbose >= minimum_verbosity:

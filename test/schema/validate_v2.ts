@@ -1,7 +1,7 @@
 import fs from "fs";
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCyclesV2Json, getFactionsV2Json, getSidesV2Json, getTypesV2Json } from "../../src/index";
+import { getCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json } from "../../src/index";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
@@ -36,13 +36,26 @@ if (!validateCycle(cycles)) {
   process.exit(1);
 }
 
-// For Set types
-//# Enforce the formatting on the values.
-//        if t.get("name").replace(' ', '_').lower() != t.get("code"):
-//            verbose_print(args, "ERROR\n",2)
-//            verbose_print(args, "Validation error in set_type, code/name mismatch: (code: '%s' name: '%s')\n" % (t.get("code"), t.get("name")), 0)
-//            validation_errors += 1
-//            retval = False
+// Set Types
+const set_types_schema_path = resolve(__dirname, "../../schema/v2", "set_types_schema.json");
+const set_types_schema = JSON.parse(fs.readFileSync(set_types_schema_path, "utf-8"));
+export const validateSetTypesSchema: any = ajv.compile(set_types_schema);
+const set_types = getSetTypesV2Json();
+if (!validateSetTypesSchema(set_types)) {
+  console.log(validateSetTypesSchema.errors);
+  process.exit(1);
+}
+
+let numSetTypeFormatErrors = 0;
+set_types.forEach(function(st) {
+  if (st.code != st.name.toLowerCase().replaceAll(" ", "_")) {
+    console.log(`"${st.code}" is not the proper code for "${st.name}"`);
+    numSetTypeFormatErrors++;
+  }
+});
+if (numSetTypeFormatErrors) {
+  process.exit(1);
+}
 
 // Types 
 const type_schema_path = resolve(__dirname, "../../schema/v2", "type_schema.json");

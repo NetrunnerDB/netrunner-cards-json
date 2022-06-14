@@ -1,186 +1,335 @@
 {
-  "$id": "https://github.com/Alsciende/netrunner-cards-json/blob/master/schema/card_schema.json",
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "additionalProperties": false,
-  "oneOf": [
-    {
-      "properties": {
-        "type_code": {
-          "const": "agenda"
-        }
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v1/card_schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "allOf": [
+      {
+        "title": "Faction codes must be valid for the side.",
+        "type": "object",
+        "oneOf": [
+          {
+            "properties": {
+              "side_code": {
+                "const": "corp"
+              },
+              "faction_code": {
+                "enum": [
+                  "haas-bioroid",
+                  "jinteki",
+                  "nbn",
+                  "neutral-corp",
+                  "weyland-consortium"
+                ]
+              }
+            }
+          },
+          {
+            "properties": {
+              "side_code": {
+                "const": "runner"
+              },
+              "faction_code": {
+                "enum": [
+                  "adam",
+                  "anarch",
+                  "apex",
+                  "criminal",
+                  "neutral-runner",
+                  "shaper",
+                  "sunny-lebeau"
+                ]
+              }
+            }
+          }
+        ]
       },
-      "required": ["advancement_cost", "agenda_points"]
-    },
-    {
-      "properties": {
-        "type_code": {
-          "enum": ["asset", "upgrade"]
-        }
-      },
-      "required": ["cost", "trash_cost"]
-    },
-    {
-      "properties": {
-        "type_code": {
-          "enum": ["ice"]
-        }
-      },
-      "required": ["cost", "strength"]
-    },
-    {
-      "properties": {
-        "type_code": {
-          "enum": ["event", "hardware", "operation", "program", "resource"]
-        }
-      },
-      "required": ["cost"]
-    },
-    {
-      "properties": {
-        "type_code": {
-          "const": "identity"
-        }
-      },
-      "required": ["influence_limit", "minimum_deck_size"]
-    }
-  ],
-  "properties": {
-    "advancement_cost": {
-      "minimum": 0,
-      "type": "integer"
-    },
-    "agenda_points": {
-      "minimum": 0,
-      "type": "integer"
-    },
-    "base_link": {
-      "minimum": 0,
-      "type": "integer"
-    },
-    "code": {
-      "pattern": "^[0-9]{5}$",
-      "type": "string"
-    },
-    "cost": {
-      "oneOf": [
-        {
-          "minimum": 0,
-          "type": "integer"
+      {
+        "title": "Type codes must be valid for the side.",
+        "type": "object",
+        "oneOf": [
+          {
+            "properties": {
+              "side_code": {
+                "const": "corp"
+              },
+              "type_code": {
+                "enum": [
+                  "agenda",
+                  "asset",
+                  "ice",
+                  "identity",
+                  "operation",
+                  "upgrade"
+                ]
+              }
+            }
+          },
+          {
+            "properties": {
+              "side_code": {
+                "const": "runner"
+              },
+              "type_code": {
+                "enum": ["event", "hardware", "identity", "program", "resource"]
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "oneOf": [
+      {
+        "properties": {
+          "advancement_cost": {
+            "minimum": 0,
+            "type": "integer"
+          },
+          "agenda_points": {
+            "minimum": 0,
+            "type": "integer"
+          },
+          "type_code": {
+            "const": "agenda"
+          }
         },
-        {
-          "type": "null"
-        }
-      ]
-    },
-    "deck_limit": {
-      "minimum": 1,
-      "type": "integer"
-    },
-    "faction_code": {
-      "minLength": 1,
-      "type": "string"
-    },
-    "faction_cost": {
-      "minimum": 0,
-      "type": "integer"
-    },
-    "flavor": {
-      "minLength": 1,
-      "type": "string"
-    },
-    "illustrator": {
-      "pattern": ".+",
-      "type": "string"
-    },
-    "influence_limit": {
-      "oneOf": [
-        {
-          "minimum": 0,
-          "type": "integer"
+        "required": ["advancement_cost", "agenda_points"]
+      },
+      {
+        "properties": {
+          "cost": {
+            "oneOf": [
+              {
+                "minimum": 0,
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "trash_cost": {
+            "minimum": 0,
+            "type": "integer"
+          },
+          "type_code": {
+            "enum": ["asset", "upgrade"]
+          }
         },
-        {
-          "type": "null"
-        }
-      ]
-    },
-    "keywords": {
-      "minLength": 1,
-      "type": "string"
-    },
-    "memory_cost": {
-      "minimum": 0,
-      "type": "integer"
-    },
-    "minimum_deck_size": {
-      "minimum": 0,
-      "type": "integer"
-    },
-    "pack_code": {
-      "maxLength": 5,
-      "minLength": 2,
-      "type": "string"
-    },
-    "position": {
-      "minimum": 1,
-      "type": "integer"
-    },
-    "quantity": {
-      "minimum": 1,
-      "type": "integer"
-    },
-    "side_code": {
-      "minLength": 1,
-      "type": "string"
-    },
-    "strength": {
-      "oneOf": [
-        {
-          "type": "integer"
+        "required": ["cost", "trash_cost"]
+      },
+      {
+        "properties": {
+          "cost": {
+            "oneOf": [
+              {
+                "minimum": 0,
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "strength": {
+            "oneOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "type_code": {
+            "enum": ["ice"]
+          }
         },
-        {
-          "type": "null"
-        }
-      ]
+        "required": ["cost", "strength"]
+      },
+      {
+        "properties": {
+          "cost": {
+            "oneOf": [
+              {
+                "minimum": 0,
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "type_code": {
+            "enum": ["event", "hardware", "operation", "program", "resource"]
+          }
+        },
+        "required": ["cost"]
+      },
+      {
+        "properties": {
+          "influence_limit": {
+            "oneOf": [
+              {
+                "minimum": 0,
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "minimum_deck_size": {
+            "minimum": 0,
+            "type": "integer"
+          },
+          "type_code": {
+            "const": "identity"
+          }
+        },
+        "required": ["influence_limit", "minimum_deck_size"]
+      }
+    ],
+    "properties": {
+      "advancement_cost": {
+        "minimum": 0,
+        "type": "integer"
+      },
+      "agenda_points": {
+        "minimum": 0,
+        "type": "integer"
+      },
+      "base_link": {
+        "minimum": 0,
+        "type": "integer"
+      },
+      "code": {
+        "pattern": "^[0-9]{5}$",
+        "type": "string"
+      },
+      "cost": {
+        "oneOf": [
+          {
+            "minimum": 0,
+            "type": "integer"
+          },
+          {
+            "type": "null"
+          }
+        ]
+      },
+      "deck_limit": {
+        "minimum": 1,
+        "type": "integer"
+      },
+      "faction_code": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "faction_cost": {
+        "minimum": 0,
+        "type": "integer"
+      },
+      "flavor": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "illustrator": {
+        "pattern": ".+",
+        "type": "string"
+      },
+      "influence_limit": {
+        "oneOf": [
+          {
+            "minimum": 0,
+            "type": "integer"
+          },
+          {
+            "type": "null"
+          }
+        ]
+      },
+      "keywords": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "memory_cost": {
+        "minimum": 0,
+        "type": "integer"
+      },
+      "minimum_deck_size": {
+        "minimum": 0,
+        "type": "integer"
+      },
+      "pack_code": {
+        "maxLength": 5,
+        "minLength": 2,
+        "type": "string"
+      },
+      "position": {
+        "minimum": 1,
+        "type": "integer"
+      },
+      "quantity": {
+        "minimum": 1,
+        "type": "integer"
+      },
+      "side_code": {
+        "minLength": 1,
+        "type": "string",
+        "enum": ["corp", "runner"]
+      },
+      "strength": {
+        "oneOf": [
+          {
+            "type": "integer"
+          },
+          {
+            "type": "null"
+          }
+        ]
+      },
+      "stripped_text": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "stripped_title": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "text": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "title": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "trash_cost": {
+        "minimum": 0,
+        "type": "integer"
+      },
+      "type_code": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "uniqueness": {
+        "type": "boolean"
+      }
     },
-    "stripped_text": {
-      "minLength": 1,
-      "type": "string"
-    },
-    "stripped_title": {
-      "minLength": 1,
-      "type": "string"
-    },
-    "text": {
-      "minLength": 1,
-      "type": "string"
-    },
-    "title": {
-      "minLength": 1,
-      "type": "string"
-    },
-    "trash_cost": {
-      "minimum": 0,
-      "type": "integer"
-    },
-    "type_code": {
-      "minLength": 1,
-      "type": "string"
-    },
-    "uniqueness": {
-      "type": "boolean"
-    }
-  },
-  "required": [
-    "code",
-    "faction_code",
-    "deck_limit",
-    "pack_code",
-    "position",
-    "quantity",
-    "side_code",
-    "title",
-    "type_code",
-    "uniqueness"
-  ],
-  "type": "object"
+    "required": [
+      "code",
+      "faction_code",
+      "deck_limit",
+      "pack_code",
+      "position",
+      "quantity",
+      "side_code",
+      "title",
+      "type_code",
+      "uniqueness"
+    ]
+  }
 }
