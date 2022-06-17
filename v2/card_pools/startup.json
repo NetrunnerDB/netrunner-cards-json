@@ -3,12 +3,16 @@
     "code": "startup_ashes",
     "name": "Startup (Ashes)",
     "cycles": ["ashes"],
-    "packs": ["sg", "su21"]
+    "packs": ["system_gateway", "system_update_2021"]
   },
   {
     "code": "startup_ashes_plus",
     "name": "Startup (Ashes+)",
     "cycles": ["ashes"],
-    "packs": ["sg", "su21", "msbp"]
+    "packs": [
+      "system_gateway",
+      "system_update_2021",
+      "midnight_sun_booster_pack"
+    ]
   }
 ]
