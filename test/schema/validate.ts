@@ -1,160 +1,196 @@
 import fs from "fs";
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCardsJson, getCyclesJson, getFactionsJson, getPacksJson, getRotationsJson, getSidesJson, getTypesJson } from "../../src/index";
+import { getCardsJson, getCyclesJson, getFactionsJson, getPackFilesJson, getPacksJson, getRotationsJson, getSidesJson, getTypesJson } from "../../src/index";
+
+import chai = require('chai');
+const expect = chai.expect;
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
-// Sides
-const side_schema_path = resolve(__dirname, "../../schema/v1", "side_schema.json");
-const side_schema = JSON.parse(fs.readFileSync(side_schema_path, "utf-8"));
-export const validateSidesSchema: any = ajv.compile(side_schema);
-const sides = getSidesJson();
-if (!validateSidesSchema(sides)) {
-  console.log(validateSidesSchema.errors);
-  process.exit(1);
-}
-
-// Factions
-const faction_schema_path = resolve(__dirname, "../../schema/v1", "faction_schema.json");
-const faction_schema = JSON.parse(fs.readFileSync(faction_schema_path, "utf-8"));
-export const validateFactionsSchema: any = ajv.compile(faction_schema);
-const factions = getFactionsJson();
-if (!validateFactionsSchema(factions)) {
-  console.log(validateFactionsSchema.errors);
-  process.exit(1);
-}
-
-const factionCodes = new Set<string>(factions.map(a => a.code));
-
-// Cycles
-const cycle_schema_path = resolve(__dirname, "../../schema/v1", "cycle_schema.json");
-const cycle_schema = JSON.parse(fs.readFileSync(cycle_schema_path, "utf-8"));
-export const validateCyclesSchema: any = ajv.compile(cycle_schema);
-const cycles = getCyclesJson();
-if (!validateCyclesSchema(cycles)) {
-  console.log(validateCyclesSchema.errors);
-  process.exit(1);
-}
-
-// Packs
-const pack_schema_path = resolve(__dirname, "../../schema/v1", "pack_schema.json");
-const pack_schema = JSON.parse(fs.readFileSync(pack_schema_path, "utf-8"));
-export const validatePacksSchema: any = ajv.compile(pack_schema);
-const packs = getPacksJson();
-if (!validatePacksSchema(packs)) {
-  console.log(validatePacksSchema.errors);
-  process.exit(1);
-}
-
-const cycleCodes = new Set<string>(cycles.map(a => a.code));
-
-const packCodes = new Set<string>(packs.map(a => a.code));
-
-let numBadPackCycleCodes = 0;
-packs.forEach(function(pack) {
-  packCodes.add(pack.code);
-  if (!cycleCodes.has(pack.cycle_code)) {
-    console.log(`FAIL "${pack.cycle_code}" is not a valid cycle code.`);
-    numBadPackCycleCodes++;
+function validateAgainstSchema(schema_file, data) {
+  const schema_path = resolve(__dirname, "../../schema/v1", schema_file);
+  const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
+  const validate: any = ajv.compile(schema);
+  validate(data);
+  if (validate.errors) {
+    expect.fail(ajv.errorsText(validate.errors));
   }
-});
-
-if (numBadPackCycleCodes) {
-  process.exit(1);
 }
 
-// Types 
-const type_schema_path = resolve(__dirname, "../../schema/v1", "type_schema.json");
-const type_schema = JSON.parse(fs.readFileSync(type_schema_path, "utf-8"));
-export const validateTypesSchema: any = ajv.compile(type_schema);
-const types = getTypesJson();
-if (!validateTypesSchema(types)) {
-  console.log(validateTypesSchema.errors);
-  process.exit(1);
-}
-
-const corpTypeCodes = new Set<string>(types.filter(a => a.side_code == 'corp').map(a => a.code));
-const runnerTypeCodes = new Set<string>(types.filter(a => a.side_code == 'runner').map(a => a.code));
-
-// Rotations
-const rotations_schema_path = resolve(__dirname, "../../schema/v1", "rotations_schema.json");
-const rotations_schema = JSON.parse(fs.readFileSync(rotations_schema_path, "utf-8"));
-export const validateRotationsSchema: any = ajv.compile(rotations_schema);
-const rotations = getRotationsJson();
-if (!validateRotationsSchema(rotations)) {
-  console.log(validateRotationsSchema.errors);
-  process.exit(1);
-}
-
-//    for r in rot_data:
-//        for cycle in r["rotated"]:
-//            if cycle not in [f["code"] for f in cycles_data]:
-//                raise jsonschema.ValidationError("Cycle code '%s' of the rotation '%s' doesn't match any valid cycle code." % (cycle, r["code"]))
-//
-
-let numBadRotationCycleCodes = 0;
-rotations.forEach(function(rotation) {
-  console.log("Inspecting rotations for valid cycle codes...");
-  console.log(`  ${rotation.name}...`);
-  rotation.rotated.forEach(function(cycle_code) {
-    if (!cycleCodes.has(cycle_code)) {
-      console.log(`    ${cycle_code} is not a valid cycle code!`);
-      numBadRotationCycleCodes++;
-    }
+describe('Sides', () => {
+  const sides = getSidesJson();
+  it('sides.json passes schema validation', () => {
+    validateAgainstSchema('side_schema.json', sides);
   });
 });
 
-if (numBadRotationCycleCodes) {
-  process.exit(1);
-}
+describe('Factions', () => {
+  const factions = getFactionsJson();
 
-// Cards
-const cards_schema_path = resolve(__dirname, "../../schema/v1", "card_schema.json");
-const cards_schema = JSON.parse(fs.readFileSync(cards_schema_path, "utf-8"));
-export const validateCardsSchema: any = ajv.compile(cards_schema);
-const cards = getCardsJson();
-if (!validateCardsSchema(cards)) {
-  console.log(validateCardsSchema.errors);
-  process.exit(1);
-}
-
-//    "Performs more in-depth sanity checks than jsonschema validator is capable of. Assumes that the basic schema validation has already completed successfully."
-let numBadCardFactionCodes = 0;
-let numBadCardPackCodes = 0;
-let numBadCardTypeCodes = 0;
-
-cards.forEach(function(card) {
-  if (!factionCodes.has(card.faction_code)) {
-    console.log(`FAIL "${card.faction_code}" is not a valid faction code for card "${card.title}".`);
-    numBadCardFactionCodes++;
-  }
-  if (!packCodes.has(card.pack_code)) {
-    console.log(`FAIL "${card.pack_code}" is not a valid pack code for card "${card.title}".`);
-    numBadCardPackCodes++;
-  }
-  if (card.side_code == 'corp') {
-    if (card.type_code != "identity" && !corpTypeCodes.has(card.type_code)) {
-      console.log(`FAIL "${card.type_code}" is not a valid corp type code for card "${card.title}".`);
-      numBadCardTypeCodes++;
-    }  
-  } else {
-    if (card.type_code != "identity" && !runnerTypeCodes.has(card.type_code)) {
-      console.log(`FAIL "${card.type_code}" is not a valid runner type code for card "${card.title}".`);
-      numBadCardTypeCodes++;
-    }  
-  }
+  it('factions.json passes schema validation', () => {
+    validateAgainstSchema('faction_schema.json', factions);
+  });
 });
 
-if (numBadCardPackCodes || numBadCardFactionCodes || numBadCardTypeCodes) {
-  process.exit(1);
-}
+describe('Cycles', () => {
+  const cycles = getCyclesJson();
 
-// Change this test to validate pack file by pack file.
+  it('cycles.json passes schema validation', () => {
+    validateAgainstSchema('cycle_schema.json', cycles);
+  });
+});
 
-// Pack in file matches pack file name
-//     if card["pack_code"] != pack_code:
-//        raise jsonschema.ValidationError("Pack code '%s' of the card '%s' doesn't match the pack code '%s' of the file it appears in." % (card["pack_code"], card["code"], pack_code))
+describe('Packs', () => {
+  const packs = getPacksJson();
 
+  it('packs.json passes schema validation', () => {
+    validateAgainstSchema('pack_schema.json', packs);
+  });
 
+  it('packs have valid cycle codes', () => {
+    const cycleCodes = new Set<string>(getCyclesJson().map(a => a.code));
+    packs.forEach(pack => {
+      expect(cycleCodes).to.include(pack.cycle_code, `Pack ${pack.name} has bad cycle ${pack.cycle_code}`); 
+    });
+  });
+});
 
+describe('Types', () => {
+  const types = getTypesJson();
+
+  it('types.json passes schema validation', () => {
+    validateAgainstSchema('type_schema.json', types);
+  });
+});
+
+describe('Rotations', () => {
+  const rotations = getRotationsJson();
+
+  it('rotations.json passes schema validation', () => {
+    validateAgainstSchema('rotations_schema.json', rotations);
+  });
+
+  it('rotations have valid cycle codes', () => {
+    const cycleCodes = new Set<string>(getCyclesJson().map(a => a.code));
+    rotations.forEach(rotation => {
+      rotation.rotated.forEach(cycle_code => {
+        expect(cycleCodes).to.include(cycle_code, `Rotation ${rotation.name} has bad cycle ${cycle_code}`); 
+      });
+    });
+  });
+});
+
+describe('Cards', () => {
+  const cards = getCardsJson();
+
+  it('cards.json passes schema validation', () => {
+    validateAgainstSchema('card_schema.json', cards);
+  });
+
+  it('cards have the same pack_code as the pack filename', () => {
+    const packsByCode = getPackFilesJson();
+    packsByCode.forEach((value, key) => {
+      value.forEach(card => {
+        expect(key).to.equal(card.pack_code, `${card.title} in pack/${key}.json has bad pack code ${card.pack_code}`);
+      });
+    });
+  });
+
+  it('cards have valid pack codes', () => {
+    const packCodes = new Set<string>(getPacksJson().map(a => a.code));
+    cards.forEach(card => {
+      expect(packCodes).to.include(card.pack_code, `Card ${card.title} has bad pack ${card.pack_code}`); 
+    });
+  });
+
+  function validateAttributeAcrossPrintings(cards, attribute, getter) {
+    const map = new Map<string, Set<string>>();
+    cards.forEach(card => {
+      let set = map.get(card.title);
+      if (typeof set === "undefined") {
+        set = new Set<string>();
+        map.set(card.title, set);
+      }
+      set.add(getter(card));
+    });
+  
+    map.forEach((set, title) => {
+      expect(set.size).to.equal(1, `card ${title} has varying ${attribute} across printings:\n\t${Array.from(set).join('\n\t')}`);
+    });
+  }
+
+  it('cards with multiple printings have identical required attributes', () => {
+    validateAttributeAcrossPrintings(cards, 'advancement_cost', function(card) { return card.advancement_cost });
+    validateAttributeAcrossPrintings(cards, 'agenda_points', function(card) { return card.agenda_points });
+    validateAttributeAcrossPrintings(cards, 'base_link', function(card) { return card.base_link });
+    validateAttributeAcrossPrintings(cards, 'cost', function(card) { return card.cost });
+    validateAttributeAcrossPrintings(cards, 'deck_limit', function(card) { return card.deck_limit });
+    validateAttributeAcrossPrintings(cards, 'faction_code', function(card) { return card.faction_code });
+    validateAttributeAcrossPrintings(cards, 'faction_cost', function(card) { return card.faction_cost });
+    validateAttributeAcrossPrintings(cards, 'influence_limit', function(card) { return card.influence_limit });
+    validateAttributeAcrossPrintings(cards, 'keywords', function(card) { return card.keywords });
+    validateAttributeAcrossPrintings(cards, 'memory_cost', function(card) { return card.memory_cost });
+    validateAttributeAcrossPrintings(cards, 'minimum_deck_size', function(card) { return card.minimum_deck_size });
+    validateAttributeAcrossPrintings(cards, 'side_code', function(card) { return card.side_code });
+    validateAttributeAcrossPrintings(cards, 'strength', function(card) { return card.strength });
+    validateAttributeAcrossPrintings(cards, 'stripped_text', function(card) { return card.stripped_text });
+    validateAttributeAcrossPrintings(cards, 'stripped_title', function(card) { return card.stripped_title });
+    validateAttributeAcrossPrintings(cards, 'text', function(card) { return card.text });
+    validateAttributeAcrossPrintings(cards, 'trash_cost', function(card) { return card.trash_cost });
+    validateAttributeAcrossPrintings(cards, 'type_code', function(card) { return card.type_code });
+    validateAttributeAcrossPrintings(cards, 'type_uniqueness', function(card) { return card.type_uniqueness });
+  });
+
+  it('stripped text and title are ascii only', () => {
+//def verify_stripped_text_is_ascii(args, card, pack_code):
+//    global validation_errors
+//    stripped_text = card.get('stripped_text', '')
+//    try:
+//        stripped_text.encode('ascii')
+//    except UnicodeEncodeError:
+//        verbose_print(args, "ERROR\n", 2)
+//        verbose_print(
+//            args,
+//            "Stripped text contains non-ascii characters in card: (pack code: '{}' title: '{}' stripped_text '{}')\n".format(
+//                pack_code,
+//                card['title'],
+//                stripped_text,
+//            ),
+//            0,
+//        )
+//        validation_errors += 1
+//
+  });
+
+  it('text is fancy', () => {
+//def verify_text_has_fancy_text(args, card, pack_code):
+//    global validation_errors
+//
+//    text = card.get('text', '')
+//    if ('[interrupt]' in text) and ('[interrupt] →' not in text):
+//        verbose_print(args, "ERROR\n", 2)
+//        verbose_print(
+//            args,
+//            "Incorrect interrupt text in card: (pack code: '{}' title: '{}' text '{}')\n".format(
+//                pack_code,
+//                card['title'],
+//                text,
+//            ),
+//            0,
+//        )
+//        validation_errors += 1
+//    if ('Interface' in text) and (('Interface ->' in text) or ('Interface →' not in text)):
+//        verbose_print(args, "ERROR\n", 2)
+//        verbose_print(
+//            args,
+//            "Incorrect interface text in card: (pack code: '{}' title: '{}' text '{}')\n".format(
+//                pack_code,
+//                card['title'],
+//                text,
+//            ),
+//            0,
+//        )
+//        validation_errors += 1
+  });
+});
