@@ -10,7 +10,7 @@
     "format-check": "prettier --no-color --check '{{**,.}/*.json,.*.json,*.json}'",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "prepare": "husky install",
-    "test": "mocha -r ts-node/register test/**/*.ts",
+    "test": "mocha -R list -r ts-node/register test/**/*.ts",
     "update-locales": "tsc && node dist/update-locales.js",
     "watch": "mocha -r ts-node/register --extensions ts --watch --watch-files src,test test/**/*.ts"
   },
