@@ -1,4 +1,5 @@
 import fs from "fs";
+import { Buffer } from 'node:buffer';
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
 import { getCardsJson, getCyclesJson, getFactionsJson, getPackFilesJson, getPacksJson, getRotationsJson, getSidesJson, getTypesJson } from "../../src/index";
@@ -143,54 +144,48 @@ describe('Cards', () => {
   });
 
   it('stripped text and title are ascii only', () => {
-//def verify_stripped_text_is_ascii(args, card, pack_code):
-//    global validation_errors
-//    stripped_text = card.get('stripped_text', '')
-//    try:
-//        stripped_text.encode('ascii')
-//    except UnicodeEncodeError:
-//        verbose_print(args, "ERROR\n", 2)
-//        verbose_print(
-//            args,
-//            "Stripped text contains non-ascii characters in card: (pack code: '{}' title: '{}' stripped_text '{}')\n".format(
-//                pack_code,
-//                card['title'],
-//                stripped_text,
-//            ),
-//            0,
-//        )
-//        validation_errors += 1
-//
+    cards.forEach(card => {
+      if (card.text) {
+        expect(card.stripped_text, `${card.title} stripped_text missing`).to.exist; 
+        expect(card.stripped_text, `${card.title} stripped_text should be ascii only`).to.equal(
+            Buffer.from(card.stripped_text.toString()).toString("ascii"));
+      }
+      expect(card.stripped_title, `${card.title} stripped_title should be ascii only`).to.equal(
+        Buffer.from(card.stripped_title.toString()).toString("ascii"));
+    });
   });
 
-  it('text is fancy', () => {
-//def verify_text_has_fancy_text(args, card, pack_code):
-//    global validation_errors
-//
-//    text = card.get('text', '')
-//    if ('[interrupt]' in text) and ('[interrupt] →' not in text):
-//        verbose_print(args, "ERROR\n", 2)
-//        verbose_print(
-//            args,
-//            "Incorrect interrupt text in card: (pack code: '{}' title: '{}' text '{}')\n".format(
-//                pack_code,
-//                card['title'],
-//                text,
-//            ),
-//            0,
-//        )
-//        validation_errors += 1
-//    if ('Interface' in text) and (('Interface ->' in text) or ('Interface →' not in text)):
-//        verbose_print(args, "ERROR\n", 2)
-//        verbose_print(
-//            args,
-//            "Incorrect interface text in card: (pack code: '{}' title: '{}' text '{}')\n".format(
-//                pack_code,
-//                card['title'],
-//                text,
-//            ),
-//            0,
-//        )
-//        validation_errors += 1
+  it('interface formatting is correct', () => {
+    cards.forEach(card => {
+      if (card.text) {
+        const textMatches = card.text.match(/Interface(..)?/g);
+        for (const m in textMatches) {
+          expect(textMatches[m], `${card.title} has incorrect interface formatting in text`)
+              .to.equal('Interface →');
+        }
+        const strippedTextMatches = card.stripped_text.match(/Interface(...)?/g);
+        for (const m in strippedTextMatches) {
+          expect(strippedTextMatches[m], `${card.title} has incorrect interface formatting in stripped_text`)
+              .to.equal('Interface ->');
+        }
+      }
+    });
+  });
+
+  it('interrupt formatting is correct', () => {
+    cards.forEach(card => {
+      if (card.text) {
+        const textMatches = card.text.match(/\[interrupt\](..)?/g);
+        for (const m in textMatches) {
+          expect(textMatches[m], `${card.title} has incorrect interrupt formatting in text`)
+              .to.equal('[interrupt] →');
+        }
+        const strippedTextMatches = card.stripped_text.match(/Interrupt(...)?/gi);
+        for (const m in strippedTextMatches) {
+          expect(strippedTextMatches[m], `${card.title} has incorrect interrupt formatting in stripped_text`)
+              .to.equal('Interrupt ->');
+        }
+      }
+    });
   });
 });
