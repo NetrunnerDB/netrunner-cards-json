@@ -2,7 +2,7 @@ import fs from "fs";
 import { Buffer } from 'node:buffer';
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCardsJson, getCyclesJson, getFactionsJson, getPackFilesJson, getPacksJson, getRotationsJson, getSidesJson, getTypesJson } from "../../src/index";
+import { getCardsJson, getCyclesJson, getFactionsJson, getMwlJson, getPackFilesJson, getPacksJson, getPrebuiltsJson, getRotationsJson, getSidesJson, getTypesJson } from "../../src/index";
 
 import chai = require('chai');
 const expect = chai.expect;
@@ -221,5 +221,19 @@ describe('Translations', () => {
       checkTranslationsSimple(baseTranslationsPath, localeName, 'types');
       checkTranslationsPacks(baseTranslationsPath, localeName);
     });
+  });
+});
+
+describe('Prebuilts', () => {
+  it('prebuilts.json is correct JSON', () => {
+    const prebuilts = getPrebuiltsJson();
+    expect(prebuilts).to.exist; 
+  });
+});
+
+describe('Mwl', () => {
+  it('mwl.json is correct JSON', () => {
+    const mwl = getMwlJson();
+    expect(mwl).to.exist; 
   });
 });

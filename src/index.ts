@@ -31,6 +31,7 @@ export const getPacksJson = makeV1Reader('packs');
 export const getFactionsJson = makeV1Reader('factions');
 export const getFactionsV2Json = makeV2Reader('factions');
 export const getMwlJson = makeV1Reader('mwl');
+export const getPrebuiltsJson = makeV1Reader('prebuilts');
 export const getRotationsJson = makeV1Reader('rotations');
 export const getSetTypesV2Json = makeV2Reader('set_types');
 export const getSidesJson = makeV1Reader('sides');
