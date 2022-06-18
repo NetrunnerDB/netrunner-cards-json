@@ -5,6 +5,47 @@
   "items": {
     "type": "object",
     "additionalProperties": false,
+    "allOf": [
+      {
+        "title": "Faction codes must be valid for the side.",
+        "type": "object",
+        "oneOf": [
+          {
+            "properties": {
+              "side_code": {
+                "const": "corp"
+              },
+              "code": {
+                "enum": [
+                  "agenda",
+                  "asset",
+                  "corp_identity",
+                  "ice",
+                  "operation",
+                  "upgrade"
+                ]
+              }
+            }
+          },
+          {
+            "properties": {
+              "side_code": {
+                "const": "runner"
+              },
+              "code": {
+                "enum": [
+                  "event",
+                  "hardware",
+                  "program",
+                  "resource",
+                  "runner_identity"
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ],
     "properties": {
       "code": {
         "minLength": 1,
