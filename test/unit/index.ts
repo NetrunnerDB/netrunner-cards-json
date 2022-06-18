@@ -10,7 +10,7 @@ import {
 import "mocha";
 import { expect } from "chai";
 
-describe("example test", function() {
+describe("test test", function() {
 	it("getCyclesJson", function() {
 		const files = getCyclesJson();
 		expect(files).to.be.an.instanceof(Array);
