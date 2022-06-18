@@ -3,26 +3,25 @@ Netrunner cards JSON data [![Build status](https://travis-ci.org/Alsciende/netru
 
 The goal of this repository is to store [NetrunnerDB](http://netrunnerdb.com) card data in a format that can be easily updated by multiple people and their changes reviewed.
 
-## Validating and formatting JSON
-
-Using python >=2.6, type in command line:
+## Validating JSON & Running Tests
 
 ```
-./validate.py --verbose --fix_formatting
+npm install
+npm run test
 ```
 
-The above script requires python package `jsonschema` which can be installed using `pip` via `pip install -U jsonschema`.
-
-You can also just try to follow the style existing files use when editing entries. They are all formatted and checked using the script above.
+Additionally, the repository supports `npm run format` to run the Prettier code
+formatter and `npm run lint` to run JSON and code style issues.
 
 ## Unstable Changes
 
 Work has begun on a new version of NetrunnerDB and we have learned a lot about the data and formats we need.
 
-New changes are coming to the files in this repo and this section lists data that is not yet stable.
-Use at your own risk because we reserve the right to change our minds suddenly.  :)
+The new changes live in the v2 folder.  New changes are coming to the files in
+this repo and this section lists data that is not yet stable.  Use at your own
+risk because we reserve the right to change our minds suddenly.  :)
 
-* set_types.json - categorization for sets (nee packs).
+* v2/set_types.json - categorization for sets (nee packs).
 
 ## Description of properties in schemas
 
