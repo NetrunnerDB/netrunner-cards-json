@@ -2,7 +2,7 @@ import fs from "fs";
 import { Buffer } from 'node:buffer';
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCardsJson, getCyclesJson, getFactionsJson, getMwlJson, getPackFilesJson, getPacksJson, getPrebuiltsJson, getRotationsJson, getSidesJson, getTypesJson } from "../../src/index";
+import { getCardsJson, getCyclesJson, getFactionsJson, getMwlJson, getPackFilesJson, getPacksJson, getPrebuiltsJson, getRotationsJson, getSidesJson, getTypesJson } from "../src/index";
 
 import chai = require('chai');
 const expect = chai.expect;
@@ -10,7 +10,7 @@ const expect = chai.expect;
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
 function validateAgainstSchema(schema_file, data) {
-  const schema_path = resolve(__dirname, "../../schema/v1", schema_file);
+  const schema_path = resolve(__dirname, "../schema/v1", schema_file);
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
   validate(data);
@@ -191,7 +191,7 @@ describe('Cards', () => {
 });
 
 describe('Translations', () => {
-  const baseTranslationsPath = resolve(__dirname, "../../translations");
+  const baseTranslationsPath = resolve(__dirname, "../translations");
   const translationDirs =
     fs.readdirSync(baseTranslationsPath, { withFileTypes: true })
       .filter(dirent => dirent.isDirectory())
