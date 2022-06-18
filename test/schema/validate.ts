@@ -189,3 +189,37 @@ describe('Cards', () => {
     });
   });
 });
+
+describe('Translations', () => {
+  const baseTranslationsPath = resolve(__dirname, "../../translations");
+  const translationDirs =
+    fs.readdirSync(baseTranslationsPath, { withFileTypes: true })
+      .filter(dirent => dirent.isDirectory())
+      .map(dirent => dirent.name);
+
+  function checkTranslationsSimple(baseTranslationsPath, localeName, baseFileName) {
+    const fileName = `${baseFileName}.${localeName}.json`;
+    const filePath = resolve(baseTranslationsPath, localeName, fileName);
+    const json = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    expect(json, `Translation JSON file ${filePath}`).to.exist;
+  }
+
+  function checkTranslationsPacks(baseTranslationsPath, localeName) {
+    const packsTranslationsPath = resolve(baseTranslationsPath, localeName, 'pack');
+    fs.readdirSync(packsTranslationsPath).forEach(file => {
+      const json = JSON.parse(fs.readFileSync(resolve(packsTranslationsPath, file), 'utf-8'));
+      expect(json, `Translation JSON pack file ${file}`).to.exist;
+    });
+  }
+
+  it('check translations for basic JSON correctness.', () => {
+    translationDirs.forEach((localeName) => {
+      checkTranslationsSimple(baseTranslationsPath, localeName, 'cycles');
+      checkTranslationsSimple(baseTranslationsPath, localeName, 'factions');
+      checkTranslationsSimple(baseTranslationsPath, localeName, 'packs');
+      checkTranslationsSimple(baseTranslationsPath, localeName, 'sides');
+      checkTranslationsSimple(baseTranslationsPath, localeName, 'types');
+      checkTranslationsPacks(baseTranslationsPath, localeName);
+    });
+  });
+});
