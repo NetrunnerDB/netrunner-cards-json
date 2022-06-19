@@ -1,7 +1,7 @@
 import fs from "fs";
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json } from "../src/index";
+import { getCardSubtypesV2Json, getCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
 import chai = require('chai');
 const expect = chai.expect;
 
@@ -62,7 +62,21 @@ describe('Types', () => {
 
   it('types have proper name/code format', () => {
     types.forEach(function(t) {
-      expect(t.code).to.equal(t.name.toLowerCase().replaceAll(' ', '_'));
+      expect(t.code).to.equal(textToId(t.name));
+    });
+  });
+});
+
+describe('Card Subtypes', () => {
+  const subtypes = getCardSubtypesV2Json();
+
+  it('subtypes.json passes schema validation', () => {
+    validateAgainstSchema('card_subtypes_schema.json', subtypes);
+  });
+
+  it('subtypes have proper name/code format', () => {
+    subtypes.forEach(function(s) {
+      expect(s.id).to.equal(textToId(s.name));
     });
   });
 });
