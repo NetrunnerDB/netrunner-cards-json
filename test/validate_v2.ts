@@ -130,4 +130,25 @@ describe('Printings', () => {
   });
 });
 
+describe('Card Pools', () => {
+  const cardPoolDir = resolve(__dirname, "../v2/card_pools");
+  const cardPoolFiles =
+    fs.readdirSync(cardPoolDir, { withFileTypes: true })
+      .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
+      .map(dirent => dirent.name);
+
+  const schema_path = resolve(__dirname, "../schema/v2/card_pool_schema.json");
+  const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
+  const validate: any = ajv.compile(schema);
+  it('card pool files pass schema validation', () => {
+    cardPoolFiles.forEach(file => {
+      const json = JSON.parse(fs.readFileSync(resolve(cardPoolDir, file), 'utf-8'));
+      validate(json);
+      if (validate.errors) {
+        expect.fail(`cardPool ${file}: ${ajv.errorsText(validate.errors)}`);
+      }
+    });
+  });
+});
+
 
