@@ -14,11 +14,8 @@
   {
     "card_id": "revolver",
     "card_set_id": "msbp",
-    "cost": 2,
-    "deck_limit": 3,
     "id": "32002",
     "illustrator": "Bruno Balixa",
-    "memory_cost": 1,
     "position": 2,
     "printed_is_unique": false,
     "printed_text": "When you install this program, place 6 power counters on it.\nInterface → [trash] or hosted power counter: Break 1 <strong>sentry</strong> subroutine.\n2[credit]: +3 strength.",
@@ -28,21 +25,6 @@
   {
     "card_id": "deep_dive",
     "card_set_id": "msbp",
-    "cost": 2,
-    "deck_limit": 3,
-    "id": "32003",
-    "illustrator": "Cat Shen",
-    "position": 3,
-    "printed_is_unique": false,
-    "printed_text": "Play only if you made a successful run on HQ, R&D, and Archives this turn.\nThe Corp must set aside the top 8 cards of R&D faceup. Access 1 of those cards. You may spend [click] to access another 1 of those cards. Then, the Corp shuffles the set-aside cards into R&D.",
-    "quantity": 3,
-    "stripped_printed_text": "Play only if you made a successful run on HQ, R&D, and Archives this turn. The Corp must set aside the top 8 cards of R&D faceup. Access 1 of those cards. You may spend click to access another 1 of those cards. Then, the Corp shuffles the set-aside cards into R&D."
-  },
-  {
-    "card_id": "hakarl_1_0",
-    "card_set_id": "msbp",
-    "cost": 5,
-    "deck_limit": 3,
     "id": "32004",
     "illustrator": "Jakuza",
     "position": 4,
@@ -54,8 +36,6 @@
   {
     "card_id": "anemone",
     "card_set_id": "msbp",
-    "cost": 3,
-    "deck_limit": 3,
     "flavor": "Ethereal beauty brings sweet death with only a brief touch.",
     "id": "32005",
     "illustrator": "Jack Reeves",
@@ -68,8 +48,6 @@
   {
     "card_id": "vladisibirsk_city_grid",
     "card_set_id": "msbp",
-    "cost": 3,
-    "deck_limit": 3,
     "id": "32006",
     "illustrator": "Kira L. Nguyen",
     "position": 6,
@@ -79,11 +57,8 @@
     "stripped_printed_text": "You can advance this upgrade. 2 hosted advancement counters: Place 2 advancement counters on another card in the root of this server that you can advance. Use this ability only once per turn. Limit 1 region per server."
   },
   {
-    "advancement_cost": 3,
-    "agenda_points": 2,
     "card_id": "azef_protocol",
     "card_set_id": "msbp",
-    "deck_limit": 3,
     "id": "32007",
     "illustrator": "Benjamin Giletti",
     "position": 7,

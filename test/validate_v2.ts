@@ -108,3 +108,26 @@ describe('Cards', () => {
     });
   });
 });
+
+describe('Printings', () => {
+  const printingDir = resolve(__dirname, "../v2/printings");
+  const printingFiles =
+    fs.readdirSync(printingDir, { withFileTypes: true })
+      .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
+      .map(dirent => dirent.name);
+
+  const schema_path = resolve(__dirname, "../schema/v2/printings_schema.json");
+  const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
+  const validate: any = ajv.compile(schema);
+  it('printing files pass schema validation', () => {
+    printingFiles.forEach(file => {
+      const json = JSON.parse(fs.readFileSync(resolve(printingDir, file), 'utf-8'));
+      validate(json);
+      if (validate.errors) {
+        expect.fail(`printing ${file}: ${ajv.errorsText(validate.errors)}`);
+      }
+    });
+  });
+});
+
+
