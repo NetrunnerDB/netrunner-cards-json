@@ -88,4 +88,23 @@ describe('Card Sets', () => {
   });
 });
 
+describe('Cards', () => {
+  const cardDir = resolve(__dirname, "../v2/cards");
+  const cardFiles =
+    fs.readdirSync(cardDir, { withFileTypes: true })
+      .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
+      .map(dirent => dirent.name);
 
+  const schema_path = resolve(__dirname, "../schema/v2/card_schema.json");
+  const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
+  const validate: any = ajv.compile(schema);
+  it('card files pass schema validation', () => {
+    cardFiles.forEach(file => {
+      const json = JSON.parse(fs.readFileSync(resolve(cardDir, file), 'utf-8'));
+      validate(json);
+      if (validate.errors) {
+        expect.fail(`card ${json.title}: ${ajv.errorsText(validate.errors)}`);
+      }
+    });
+  });
+});
