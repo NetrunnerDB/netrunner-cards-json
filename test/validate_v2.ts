@@ -1,7 +1,7 @@
 import fs from "fs";
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCardSubtypesV2Json, getCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
+import { getCardSetsV2Json, getCardSubtypesV2Json, getCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
 import chai = require('chai');
 const expect = chai.expect;
 
@@ -80,3 +80,12 @@ describe('Card Subtypes', () => {
     });
   });
 });
+
+describe('Card Sets', () => {
+  const sets = getCardSetsV2Json();
+  it('sets.json passes schema validation', () => {
+    validateAgainstSchema('card_set_schema.json', sets);
+  });
+});
+
+

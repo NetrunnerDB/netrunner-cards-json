@@ -1,0 +1,48 @@
+{
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/card_set_schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "id": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "card_cycle_id": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "card_set_type_id": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "date_release": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "name": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "position": {
+        "minimum": 1,
+        "type": "integer"
+      },
+      "size": {
+        "minimum": 1,
+        "type": "integer"
+      }
+    },
+    "required": [
+      "card_cycle_id",
+      "card_set_type_id",
+      "date_release",
+      "id",
+      "name",
+      "position",
+      "size"
+    ]
+  }
+}

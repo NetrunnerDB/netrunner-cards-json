@@ -25,7 +25,7 @@ function makeV2Reader(filename: string) {
   }
 }
 
-export function textToId(text) {
+export function textToId(text: string): string {
   return text
     .toLowerCase()
     // Unicode Canonical Decomposition - switching single code points to multiple code points.
@@ -43,6 +43,7 @@ export function textToId(text) {
 }
 
 export const getCardSubtypesV2Json = makeV2Reader('subtypes');
+export const getCardSetsV2Json = makeV2Reader('printings');
 export const getCyclesJson = makeV1Reader('cycles');
 export const getCyclesV2Json = makeV2Reader('cycles');
 export const getPacksJson = makeV1Reader('packs');
