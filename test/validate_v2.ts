@@ -1,7 +1,7 @@
 import fs from "fs";
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCardSetsV2Json, getCardSubtypesV2Json, getCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
+import { getCardsV2Json, getCardSetsV2Json, getCardSubtypesV2Json, getCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
 import chai = require('chai');
 const expect = chai.expect;
 
@@ -128,6 +128,29 @@ describe('Printings', () => {
       }
     });
   });
+
+  it('printing files have valid ids', () => {
+    const cardIds = new Set<string>(getCardsV2Json().map(c => c.id));
+    const cardSetIds = new Set<string>(getCardSetsV2Json().map(s => s.id));
+    const printingIds = new Set<string>();
+    printingFiles.forEach(file => {
+      const printing = JSON.parse(fs.readFileSync(resolve(printingDir, file), 'utf-8'));
+      const positions = new Set<number>();
+
+      printing.forEach(p => {
+        // Ensure that each printing id is unique
+        expect(printingIds.has(p.id), `Printing ${file} has duplicate id ${p.id} for card ${p.card_id}`).to.be.false;
+        printingIds.add(p.id);
+        // Ensure that each card id is real
+        expect(cardIds.has(p.card_id), `Printing ${file} has invalid card id ${p.card_id}`).to.be.true;
+        // Ensure that each card set id is real
+        expect(cardSetIds.has(p.card_set_id), `Printing ${file} has invalid card set id ${p.card_set_id}`).to.be.true;
+        // Ensure that each printing in the file has a unique position
+        expect(positions.has(p.position), `Printing ${file} has duplicate position ${p.position} for card ${p.card_id}`).to.be.false;
+        positions.add(p.position);
+      });
+    });
+  });
 });
 
 describe('Card Pools', () => {
@@ -150,5 +173,3 @@ describe('Card Pools', () => {
     });
   });
 });
-
-
