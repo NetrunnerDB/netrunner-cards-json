@@ -52,6 +52,12 @@
         "minLength": 1,
         "type": "string"
       },
+      "color": {
+        "description": "Faction color in hex triplet format. This can be used to display faction-specific information in the appropriate color on an HTML webpage.",
+        "maxLength": 6,
+        "minLength": 6,
+        "type": "string"
+      },
       "description": {
         "type": "string"
       },
