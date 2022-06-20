@@ -7,9 +7,9 @@
   "influence_cost": 2,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "+1 mu When your turn begins, draw 1 card if the Corp has cards in HQ equal to his or her maximum hand size. Limit 1 console per player.",
+  "stripped_text": "+1 mu When your turn begins, if the Corp has cards in HQ equal to their maximum hand size, draw 1 card. Limit 1 console per player.",
   "stripped_title": "Vigil",
   "subtypes": ["console"],
-  "text": "+1[mu]\nWhen your turn begins, draw 1 card if the Corp has cards in HQ equal to his or her maximum hand size.\nLimit 1 <strong>console</strong> per player.",
+  "text": "+1[mu]\nWhen your turn begins, if the Corp has cards in HQ equal to their maximum hand size, draw 1 card.\nLimit 1 <strong>console</strong> per player.",
   "title": "Vigil"
 }

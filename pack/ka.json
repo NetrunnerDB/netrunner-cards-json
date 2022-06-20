@@ -248,9 +248,9 @@
     "position": 113,
     "quantity": 3,
     "side_code": "corp",
-    "stripped_text": "Play only if the Runner trashed at least 1 Corp card during his or her last turn. The Runner has 3 fewer click to spend during his or her next turn. The Runner may immediately suffer 1 brain damage to prevent this. Remove Riot Suppression from the game instead of trashing it.",
+    "stripped_text": "Play only if the Runner trashed a Corp card during their last turn. The Runner may suffer 1 brain damage. If they do not, they get -3 allotted click for their next turn. Remove this operation from the game.",
     "stripped_title": "Riot Suppression",
-    "text": "Play only if the Runner trashed at least 1 Corp card during his or her last turn.\nThe Runner has 3 fewer [click] to spend during his or her next turn. The Runner may immediately suffer 1 brain damage to prevent this. Remove Riot Suppression from the game instead of trashing it.",
+    "text": "Play only if the Runner trashed a Corp card during their last turn.\nThe Runner may suffer 1 brain damage. If they do not, they get -3 allotted [click] for their next turn.\nRemove this operation from the game.",
     "title": "Riot Suppression",
     "type_code": "operation",
     "uniqueness": false
@@ -327,9 +327,9 @@
     "position": 117,
     "quantity": 3,
     "side_code": "corp",
-    "stripped_text": "Play only if the Runner is tagged. The Runner loses 3 credits for each tag he or she has, then you gain 1 credit for each credit lost.",
+    "stripped_text": "Play only if the Runner is tagged. The Runner loses 3 credits for each tag they have, then you gain 1 credit for each credit lost this way.",
     "stripped_title": "Market Forces",
-    "text": "Play only if the Runner is tagged.\nThe Runner loses 3[credit] for each tag he or she has, then you gain 1[credit] for each credit lost.",
+    "text": "Play only if the Runner is tagged.\nThe Runner loses 3[credit] for each tag they have, then you gain 1[credit] for each credit lost this way.",
     "title": "Market Forces",
     "type_code": "operation",
     "uniqueness": false
