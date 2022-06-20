@@ -319,3 +319,102 @@ describe('MWLs', () => {
     });
   });
 });
+
+describe('Formats', () => {
+  const formatPoolDir = resolve(__dirname, "../v2/formats");
+  const formatPoolFiles =
+    fs.readdirSync(formatPoolDir, { withFileTypes: true })
+      .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
+      .map(dirent => dirent.name);
+
+  const schema_path = resolve(__dirname, "../schema/v2/format_schema.json");
+  const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
+  const validate: any = ajv.compile(schema);
+  it('format files pass schema validation', () => {
+    formatPoolFiles.forEach(file => {
+      const json = JSON.parse(fs.readFileSync(resolve(formatPoolDir, file), 'utf-8'));
+      validate(json);
+      if (validate.errors) {
+        expect.fail(`formatPool ${file}: ${ajv.errorsText(validate.errors)}`);
+      }
+    });
+  });
+
+  it('format files have a single active snapshot', () => {
+    formatPoolFiles.forEach(file => {
+      let activeSnapshot = "";
+      const format = JSON.parse(fs.readFileSync(resolve(formatPoolDir, file), 'utf-8'));
+      format.snapshots.forEach(s => {
+        if (s.active) {
+          expect(activeSnapshot, `Format ${format.name} can only have one active snapshot. ${activeSnapshot} was seen before ${s.date_start} but both are marked active.`).to.be.empty;
+          activeSnapshot = s.date_start;
+        }
+      });
+    });
+  });
+
+  it('format files have unique date_start fields', () => {
+    formatPoolFiles.forEach(file => {
+      const dateStart = new Set<string>();
+      const format = JSON.parse(fs.readFileSync(resolve(formatPoolDir, file), 'utf-8'));
+      format.snapshots.forEach(s => {
+          expect(dateStart, `Format ${format.name} has a snapshot with a duplicate date_start: ${s.date_start}.`).to.not.include(s.date_start);
+          dateStart.add(s.date_start);
+      });
+    });
+  });
+
+  it('format files have valid card pools and mwls', () => {
+    const cardPoolDir = resolve(__dirname, "../v2/card_pools");
+    const cardPoolFiles =
+      fs.readdirSync(cardPoolDir, { withFileTypes: true })
+        .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
+        .map(dirent => dirent.name);
+    const cardPoolIds = new Set<string>();
+    cardPoolFiles.forEach(file => {
+      const cardPool = JSON.parse(fs.readFileSync(resolve(cardPoolDir, file), 'utf-8'));
+      cardPool.forEach(p => {
+        cardPoolIds.add(p.code);
+      });
+    });
+    formatPoolFiles.forEach(file => {
+      const format = JSON.parse(fs.readFileSync(resolve(formatPoolDir, file), 'utf-8'));
+      if (format.snapshots) {
+        format.snapshots.forEach(s => {
+          expect(cardPoolIds, `Snapshot ${format.name} has invalid card pool ${s.card_pool}`).includes(s.card_pool);
+        });
+      }
+    });
+
+    const mwlsDir = resolve(__dirname, "../v2/mwls");
+    const formatsForMwls =
+      fs.readdirSync(mwlsDir, { withFileTypes: true })
+        .filter(dirent => dirent.isDirectory())
+        .map(dirent => dirent.name);
+
+    const mwlFiles = new Array<string>();
+    formatsForMwls.forEach(format => {
+      fs.readdirSync(resolve(mwlsDir, format), { withFileTypes: true })
+        .filter(dirent => dirent.isFile())
+        .map(dirent => dirent.name).forEach(mwl => {
+          mwlFiles.push(resolve(mwlsDir, format, mwl));
+        });
+    });
+    const mwlCodes = new Set<string>();
+    mwlFiles.forEach(file => {
+      const mwl = JSON.parse(fs.readFileSync(file, 'utf-8'));
+      mwlCodes.add(mwl.code);
+    });
+    formatPoolFiles.forEach(file => {
+      const format = JSON.parse(fs.readFileSync(resolve(formatPoolDir, file), 'utf-8'));
+      if (format.snapshots) {
+        format.snapshots.forEach(s => {
+          if (s.mwl) {
+            expect(mwlCodes, `Snapshot ${format.name} has invalid mwl code ${s.mwl}`).includes(s.mwl);
+          }
+        });
+      }
+    });
+
+  });
+});
