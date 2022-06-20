@@ -89,3 +89,19 @@ export function getCardsJson(): Record<string, any>[] {
   }
   return CARDS_JSON;
 }
+
+export function getCardsV2Json(): Record<string, any>[] {
+  const CARDS_JSON: Record<string, any>[] = [];
+
+  if (CARDS_JSON.length === 0) {
+    const directory = resolve(__dirname, '..', 'v2/cards');
+    fs.readdirSync(directory).forEach(file => {
+      if (file.endsWith('.json')) {
+        const path = resolve(directory, file);
+        const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
+        CARDS_JSON.push(json);
+      }
+    });
+  }
+  return CARDS_JSON;
+}
