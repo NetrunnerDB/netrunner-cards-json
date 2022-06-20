@@ -151,4 +151,23 @@ describe('Card Pools', () => {
   });
 });
 
+describe('Formats', () => {
+  const formatPoolDir = resolve(__dirname, "../v2/formats");
+  const formatPoolFiles =
+    fs.readdirSync(formatPoolDir, { withFileTypes: true })
+      .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
+      .map(dirent => dirent.name);
 
+  const schema_path = resolve(__dirname, "../schema/v2/format_schema.json");
+  const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
+  const validate: any = ajv.compile(schema);
+  it('format files pass schema validation', () => {
+    formatPoolFiles.forEach(file => {
+      const json = JSON.parse(fs.readFileSync(resolve(formatPoolDir, file), 'utf-8'));
+      validate(json);
+      if (validate.errors) {
+        expect.fail(`formatPool ${file}: ${ajv.errorsText(validate.errors)}`);
+      }
+    });
+  });
+});
