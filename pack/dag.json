@@ -11,9 +11,9 @@
     "position": 39,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "Run Archives. If successful, instead of breaching Archives, add this event to an agenda in the Corp's score area as a hosted condition counter with \"Host agenda is worth 1 less agenda point. When the Corp purges virus counters, trash this counter.\"",
+    "stripped_text": "Run Archives. If successful, instead of breaching Archives, host this event on an agenda in the Corp's score area as a condition counter with \"Host agenda is worth 1 less agenda point. When the Corp purges virus counters, trash this counter.\"",
     "stripped_title": "Political Graffiti",
-    "text": "Run Archives. If successful, instead of breaching Archives, add this event to an agenda in the Corp's score area as a hosted condition counter with \"Host agenda is worth 1 less agenda point. When the Corp purges virus counters, trash this counter.\"",
+    "text": "Run Archives. If successful, instead of breaching Archives, host this event on an agenda in the Corp's score area as a condition counter with \"Host agenda is worth 1 less agenda point. When the Corp purges virus counters, trash this counter.\"",
     "title": "Political Graffiti",
     "type_code": "event",
     "uniqueness": false
@@ -152,9 +152,9 @@
     "position": 46,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "Each player has 1 additional click to spend during his or her turn.",
+    "stripped_text": "Each player gets +1 allotted click for each of their turns.",
     "stripped_title": "Akshara Sareen",
-    "text": "Each player has 1 additional [click] to spend during his or her turn.",
+    "text": "Each player gets +1 allotted [click] for each of their turns.",
     "title": "Akshara Sareen",
     "type_code": "resource",
     "uniqueness": true

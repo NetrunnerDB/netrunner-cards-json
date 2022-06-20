@@ -8,10 +8,10 @@
   "is_unique": false,
   "side_id": "corp",
   "strength": 2,
-  "stripped_text": "If Chrysalis is accessed from R&D, the Runner must reveal it. When the Runner accesses Chrysalis, he or she encounters it. Ignore this ability if the Runner accesses Chrysalis from Archives. Subroutine Do 2 net damage.",
+  "stripped_text": "While the Runner is accessing this ice in R&D, they must reveal it. When the Runner accesses this ice anywhere except in Archives, they encounter it. subroutine Do 2 net damage.",
   "stripped_title": "Chrysalis",
   "subtypes": ["sentry", "ap"],
-  "text": "If Chrysalis is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Chrysalis, he or she encounters it. Ignore this ability if the Runner accesses Chrysalis from Archives.\n[subroutine] Do 2 net damage.",
+  "text": "While the Runner is accessing this ice in R&D, they must reveal it.\nWhen the Runner accesses this ice anywhere except in Archives, they encounter it.\n[subroutine] Do 2 net damage.",
   "title": "Chrysalis",
   "trash_cost": 1
 }

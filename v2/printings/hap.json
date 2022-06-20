@@ -30,9 +30,9 @@
     "illustrator": "Emilio Rodriguez",
     "position": 3,
     "printed_is_unique": false,
-    "printed_text": "When your turn begins, you may place 1 advancement token on a card if the Runner did not make a successful run during his or her last turn.",
+    "printed_text": "When your turn begins, if the Runner did not make a successful run during their last turn, you may place 1 advancement counter on an installed card.",
     "quantity": 3,
-    "stripped_printed_text": "When your turn begins, you may place 1 advancement token on a card if the Runner did not make a successful run during his or her last turn."
+    "stripped_printed_text": "When your turn begins, if the Runner did not make a successful run during their last turn, you may place 1 advancement counter on an installed card."
   },
   {
     "card_id": "house_of_knives",
@@ -120,9 +120,9 @@
     "illustrator": "Alexandr Elichev",
     "position": 11,
     "printed_is_unique": false,
-    "printed_text": "When the Runner accesses Shi.Kyū, you may pay X[credit]. The Runner must take either X net damage or add Shi.Kyū to his or her score area as an agenda worth -1 agenda point. Ignore this ability if the Runner accesses Shi.Kyū from R&D.",
+    "printed_text": "When the Runner accesses this asset anywhere except in R&D, you may pay X[credit]. The Runner must either take X net damage or add this asset to their score area as an agenda worth -1 agenda point.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner accesses Shi.Kyu, you may pay X credits. The Runner must take either X net damage or add Shi.Kyu to his or her score area as an agenda worth -1 agenda point. Ignore this ability if the Runner accesses Shi.Kyu from R&D."
+    "stripped_printed_text": "When the Runner accesses this asset anywhere except in R&D, you may pay X credits. The Runner must either take X net damage or add this asset to their score area as an agenda worth -1 agenda point."
   },
   {
     "card_id": "tenma_line",
@@ -143,9 +143,9 @@
     "illustrator": "Smirtouille",
     "position": 13,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner made a successful run during his or her last turn.\nYou and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, he or she chooses to suffer 1 brain damage or take 1 tag.",
+    "printed_text": "Play only if the Runner made a successful run during their last turn.\nYou and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, they must suffer 1 brain damage or take 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner made a successful run during his or her last turn. You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, he or she chooses to suffer 1 brain damage or take 1 tag."
+    "stripped_printed_text": "Play only if the Runner made a successful run during their last turn. You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, they must suffer 1 brain damage or take 1 tag."
   },
   {
     "card_id": "medical_research_fundraiser",
@@ -178,9 +178,9 @@
     "illustrator": "Christina Davis",
     "position": 16,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] The Runner cannot break any subroutines on the next piece of ice he or she encounters during this run.\n[subroutine] The Runner cannot jack out until after encountering the next piece of ice during this run.",
+    "printed_text": "[subroutine] During the next encounter this run, the Runner cannot break subroutines on the encountered ice.\n[subroutine] The Runner cannot jack out this run until after their next encounter with a piece of ice begins.",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine The Runner cannot break any subroutines on the next piece of ice he or she encounters during this run. Subroutine The Runner cannot jack out until after encountering the next piece of ice during this run."
+    "stripped_printed_text": "subroutine During the next encounter this run, the Runner cannot break subroutines on the encountered ice. subroutine The Runner cannot jack out this run until after their next encounter with a piece of ice begins."
   },
   {
     "card_id": "komainu",

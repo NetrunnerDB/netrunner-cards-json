@@ -122,9 +122,9 @@
     "illustrator": "Pavel Kolomeyets",
     "position": 111,
     "printed_is_unique": true,
-    "printed_text": "[click]: Place 1 power counter on MCA Austerity Policy. When the Runner's next turn begins, he or she loses [click]. Use this ability only once per turn.\n[click],[trash], 3 hosted power counters: Gain [click],[click],[click],[click].",
+    "printed_text": "<strong>[click]:</strong> Place 1 power counter on this asset. When the Runner's next turn begins, they lose [click]. Use this ability only once per turn.\n[click],[trash], <strong>3 hosted power counters:</strong> Gain [click][click][click][click].",
     "quantity": 3,
-    "stripped_printed_text": "click: Place 1 power counter on MCA Austerity Policy. When the Runner's next turn begins, he or she loses click. Use this ability only once per turn. click,trash, 3 hosted power counters: Gain click,click,click,click."
+    "stripped_printed_text": " click: Place 1 power counter on this asset. When the Runner's next turn begins, they lose click. Use this ability only once per turn. click,trash, 3 hosted power counters: Gain click click click click."
   },
   {
     "card_id": "restore",
@@ -144,9 +144,9 @@
     "illustrator": "Nasrul Hakim",
     "position": 113,
     "printed_is_unique": false,
-    "printed_text": "If Breached Dome is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Breached Dome, do 1 meat damage and trash the top card of the stack.",
+    "printed_text": "While the Runner is accessing this asset in R&D, they must reveal it.\nWhen the Runner accesses this asset, do 1 meat damage and trash the top card of the stack.",
     "quantity": 3,
-    "stripped_printed_text": "If Breached Dome is accessed from R&D, the Runner must reveal it. When the Runner accesses Breached Dome, do 1 meat damage and trash the top card of the stack."
+    "stripped_printed_text": "While the Runner is accessing this asset in R&D, they must reveal it. When the Runner accesses this asset, do 1 meat damage and trash the top card of the stack."
   },
   {
     "card_id": "sand_storm",
@@ -168,9 +168,9 @@
     "illustrator": "Martin de Diego Sádaba",
     "position": 115,
     "printed_is_unique": false,
-    "printed_text": "The first time the Runner trashes a Corp card each turn, give him or her 1 tag.",
+    "printed_text": "The first time each turn the Runner trashes a Corp card, give them 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "The first time the Runner trashes a Corp card each turn, give him or her 1 tag."
+    "stripped_printed_text": "The first time each turn the Runner trashes a Corp card, give them 1 tag."
   },
   {
     "card_id": "rolling_brownout",

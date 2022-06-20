@@ -160,9 +160,9 @@
     "illustrator": "Mariusz Siergiejew",
     "position": 34,
     "printed_is_unique": false,
-    "printed_text": "When the Runner encounters Jua, he or she cannot install cards for the remainder of the turn.\n[subroutine] Choose 2 installed Runner cards, if able. The Runner must add 1 of those cards to the top of the stack.",
+    "printed_text": "When the Runner encounters this ice, they cannot install cards for the remainder of the turn.\n[subroutine] Choose 2 installed Runner cards, if able. The Runner must add 1 of the chosen cards to the top of the stack.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters Jua, he or she cannot install cards for the remainder of the turn. Subroutine Choose 2 installed Runner cards, if able. The Runner must add 1 of those cards to the top of the stack."
+    "stripped_printed_text": "When the Runner encounters this ice, they cannot install cards for the remainder of the turn. subroutine Choose 2 installed Runner cards, if able. The Runner must add 1 of the chosen cards to the top of the stack."
   },
   {
     "card_id": "threat_assessment",
@@ -171,9 +171,9 @@
     "illustrator": "Martin de Diego Sádaba",
     "position": 35,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner trashed at least 1 Corp card during his or her last turn.\nChoose an installed Runner card. The Runner must either add that card to the top of the stack or take 2 tags. Remove Threat Assessment from the game instead of trashing it.",
+    "printed_text": "Play only if the Runner trashed a Corp card during their last turn.\nChoose 1 installed Runner card. The Runner must take 2 tags or add that card to the top of the stack.\nRemove this operation from the game.",
     "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner trashed at least 1 Corp card during his or her last turn. Choose an installed Runner card. The Runner must either add that card to the top of the stack or take 2 tags. Remove Threat Assessment from the game instead of trashing it."
+    "stripped_printed_text": "Play only if the Runner trashed a Corp card during their last turn. Choose 1 installed Runner card. The Runner must take 2 tags or add that card to the top of the stack. Remove this operation from the game."
   },
   {
     "card_id": "economic_warfare",
@@ -183,9 +183,9 @@
     "illustrator": "Michał Miłkowski",
     "position": 36,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner made a successful run during his or her last turn.\nThe Runner loses 4[credit], if able.",
+    "printed_text": "Play only if the Runner made a successful run during their last turn.\nIf the Runner has at least 4[credit], they lose 4[credit].",
     "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner made a successful run during his or her last turn. The Runner loses 4 credits, if able."
+    "stripped_printed_text": "Play only if the Runner made a successful run during their last turn. If the Runner has at least 4 credits, they lose 4 credits."
   },
   {
     "card_id": "forced_connection",
@@ -194,9 +194,9 @@
     "illustrator": "Josh Corpuz",
     "position": 37,
     "printed_is_unique": false,
-    "printed_text": "If Forced Connection is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Forced Connection, <trace>trace 3</trace> If successful, give the Runner 2 tags. Ignore this ability if the Runner accesses Forced Connection from Archives.",
+    "printed_text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade anywhere except in Archives, <trace>trace 3</trace>. If successful, give the Runner 2 tags.",
     "quantity": 3,
-    "stripped_printed_text": "If Forced Connection is accessed from R&D, the Runner must reveal it. When the Runner accesses Forced Connection, trace 3 If successful, give the Runner 2 tags. Ignore this ability if the Runner accesses Forced Connection from Archives."
+    "stripped_printed_text": "While the Runner is accessing this upgrade in R&D, they must reveal it. When the Runner accesses this upgrade anywhere except in Archives, trace 3. If successful, give the Runner 2 tags."
   },
   {
     "card_id": "ssl_endorsement",
@@ -205,9 +205,9 @@
     "illustrator": "Caravan Studio",
     "position": 38,
     "printed_is_unique": false,
-    "printed_text": "When SSL Endorsement is scored or stolen, place 9[credit] from the bank on it.\nWhen the Corp's turn begins, he or she may take 3[credit] from SSL Endorsement. This ability is active even while SSL Endorsement is in the Runner's score area.",
+    "printed_text": "When this agenda is scored or stolen, place 9[credit] on it.\nWhen the Corp's turn begins, they may take 3[credit] from this agenda. This ability is active even while this agenda is in the Runner's score area.",
     "quantity": 3,
-    "stripped_printed_text": "When SSL Endorsement is scored or stolen, place 9 credits from the bank on it. When the Corp's turn begins, he or she may take 3 credits from SSL Endorsement. This ability is active even while SSL Endorsement is in the Runner's score area."
+    "stripped_printed_text": "When this agenda is scored or stolen, place 9 credits on it. When the Corp's turn begins, they may take 3 credits from this agenda. This ability is active even while this agenda is in the Runner's score area."
   },
   {
     "card_id": "ngo_front",

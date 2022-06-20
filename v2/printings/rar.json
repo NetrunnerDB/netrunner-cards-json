@@ -53,9 +53,9 @@
     "illustrator": "Angga Satriohadi",
     "position": 5,
     "printed_is_unique": true,
-    "printed_text": "Whenever the Corp creates a server, he or she loses 1[credit].\nWhenever you make a successful run on Archives, you may trash Hijacked Router to force the Corp to lose 3[credit].",
+    "printed_text": "Whenever the Corp creates a server, they lose 1[credit].\nWhenever you make a successful run on Archives, you may trash this hardware. If you do, the Corp loses 3[credit].",
     "quantity": 3,
-    "stripped_printed_text": "Whenever the Corp creates a server, he or she loses 1 credit. Whenever you make a successful run on Archives, you may trash Hijacked Router to force the Corp to lose 3 credits."
+    "stripped_printed_text": "Whenever the Corp creates a server, they lose 1 credit. Whenever you make a successful run on Archives, you may trash this hardware. If you do, the Corp loses 3 credits."
   },
   {
     "card_id": "cradle",
@@ -264,9 +264,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 23,
     "printed_is_unique": false,
-    "printed_text": "Run Archives. If successful, instead of breaching Archives, install up to 5 cards from your heap facedown.\nRemove this operation from the game.",
+    "printed_text": "Run Archives. If successful, instead of breaching Archives, install up to 5 cards from your heap facedown. \nRemove this event from the game.",
     "quantity": 3,
-    "stripped_printed_text": "Run Archives. If successful, instead of breaching Archives, install up to 5 cards from your heap facedown. Remove this operation from the game."
+    "stripped_printed_text": "Run Archives. If successful, instead of breaching Archives, install up to 5 cards from your heap facedown. Remove this event from the game."
   },
   {
     "card_id": "office_supplies",
@@ -323,9 +323,9 @@
     "illustrator": "Adam Doyle",
     "position": 28,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] Gain 4[credit] and end the run unless the Runner adds Meridian to his or her score area as an agenda worth -1 agenda point.",
+    "printed_text": "[subroutine] Gain 4[credit] and end the run unless the Runner adds this ice to their score area as an agenda worth -1 agenda point.",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine Gain 4 credits and end the run unless the Runner adds Meridian to his or her score area as an agenda worth -1 agenda point."
+    "stripped_printed_text": "subroutine Gain 4 credits and end the run unless the Runner adds this ice to their score area as an agenda worth -1 agenda point."
   },
   {
     "card_id": "gatekeeper",
@@ -383,9 +383,9 @@
     "illustrator": "Emilio Rodriguez",
     "position": 33,
     "printed_is_unique": true,
-    "printed_text": "Whenever there is a successful run on this server, end the run unless the Runner pays 2[credit] for each agenda in his or her score area.",
+    "printed_text": "Whenever the Runner makes a successful run on this server, end the run unless they pay 2[credit] for each agenda in their score area.",
     "quantity": 3,
-    "stripped_printed_text": "Whenever there is a successful run on this server, end the run unless the Runner pays 2 credits for each agenda in his or her score area."
+    "stripped_printed_text": "Whenever the Runner makes a successful run on this server, end the run unless they pay 2 credits for each agenda in their score area."
   },
   {
     "card_id": "saraswati_mnemonics_endless_exploration",
@@ -464,9 +464,9 @@
     "illustrator": "Adam S. Doyle",
     "position": 40,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner trashed a Corp card during his or her last turn.\nChoose an installed Corp card. The Runner may access that card. If he or she does, remove Hangeki from the game instead of trashing it; otherwise, add Hangeki to the Runner's score area as an agenda worth -1 agenda point.",
+    "printed_text": "Play only if the Runner trashed a Corp card during their last turn.\nChoose 1 of your installed cards. The Runner may access that card. If they do, remove this operation from the game; otherwise, add this operation to the Runner's score area as an agenda worth -1 agenda point.",
     "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner trashed a Corp card during his or her last turn. Choose an installed Corp card. The Runner may access that card. If he or she does, remove Hangeki from the game instead of trashing it; otherwise, add Hangeki to the Runner's score area as an agenda worth -1 agenda point."
+    "stripped_printed_text": "Play only if the Runner trashed a Corp card during their last turn. Choose 1 of your installed cards. The Runner may access that card. If they do, remove this operation from the game; otherwise, add this operation to the Runner's score area as an agenda worth -1 agenda point."
   },
   {
     "card_id": "daruma",
@@ -661,9 +661,9 @@
     "illustrator": "Timur Shevtsov",
     "position": 57,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner accessed at least 1 card during his or her last turn.\nTrash 1 <strong>connection</strong> resource and take 1 bad publicity.",
+    "printed_text": "Play only if the Runner accessed a card during their last turn.\nTrash 1 <strong>connection</strong> resource and take 1 bad publicity.",
     "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner accessed at least 1 card during his or her last turn. Trash 1 connection resource and take 1 bad publicity."
+    "stripped_printed_text": "Play only if the Runner accessed a card during their last turn. Trash 1 connection resource and take 1 bad publicity."
   },
   {
     "card_id": "lady_liberty",

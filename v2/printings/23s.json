@@ -6,9 +6,9 @@
     "illustrator": "Meg Owenson",
     "position": 1,
     "printed_is_unique": false,
-    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhenever the Corp draws 1 or more cards, he or she loses 1[credit] if it is not the first time he or she has drawn cards this turn.",
+    "printed_text": "This event is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhenever the Corp draws 1 or more cards, if it is not the first time they have drawn cards this turn, they lose 1[credit].",
     "quantity": 3,
-    "stripped_printed_text": "This card is not trashed until another current is played or an agenda is scored. Whenever the Corp draws 1 or more cards, he or she loses 1 credit if it is not the first time he or she has drawn cards this turn."
+    "stripped_printed_text": "This event is not trashed until another current is played or an agenda is scored. Whenever the Corp draws 1 or more cards, if it is not the first time they have drawn cards this turn, they lose 1 credit."
   },
   {
     "card_id": "null_whistleblower",
@@ -144,9 +144,9 @@
     "illustrator": "Donald Crank",
     "position": 13,
     "printed_is_unique": false,
-    "printed_text": "If Chrysalis is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Chrysalis, he or she encounters it. Ignore this ability if the Runner accesses Chrysalis from Archives.\n[subroutine] Do 2 net damage.",
+    "printed_text": "While the Runner is accessing this ice in R&D, they must reveal it.\nWhen the Runner accesses this ice anywhere except in Archives, they encounter it.\n[subroutine] Do 2 net damage.",
     "quantity": 3,
-    "stripped_printed_text": "If Chrysalis is accessed from R&D, the Runner must reveal it. When the Runner accesses Chrysalis, he or she encounters it. Ignore this ability if the Runner accesses Chrysalis from Archives. Subroutine Do 2 net damage."
+    "stripped_printed_text": "While the Runner is accessing this ice in R&D, they must reveal it. When the Runner accesses this ice anywhere except in Archives, they encounter it. subroutine Do 2 net damage."
   },
   {
     "card_id": "georgia_emelyov",
@@ -179,9 +179,9 @@
     "illustrator": "Sander Mosk",
     "position": 16,
     "printed_is_unique": false,
-    "printed_text": "After you resolve this operation, end your action phase.\nPlay only if the Runner made a run during his or her last turn.\n<trace>Trace 4</trace> If successful, give the Runner 4 tags.",
+    "printed_text": "After you resolve this operation, your action phase ends.\nPlay only if the Runner made a run during their last turn.\n<trace>Trace 4</trace>. If successful, give the Runner 4 tags.",
     "quantity": 3,
-    "stripped_printed_text": "After you resolve this operation, end your action phase. Play only if the Runner made a run during his or her last turn. Trace 4 If successful, give the Runner 4 tags."
+    "stripped_printed_text": "After you resolve this operation, your action phase ends. Play only if the Runner made a run during their last turn. Trace 4. If successful, give the Runner 4 tags."
   },
   {
     "card_id": "nbn_controlling_the_message",

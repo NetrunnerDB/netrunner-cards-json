@@ -8,9 +8,9 @@
   "is_unique": false,
   "side_id": "corp",
   "strength": 2,
-  "stripped_text": "Subroutine Trace 2 If successful, look at a number of cards from the top of the Runner's stack equal to the amount by which your trace strength exceeded his or her link strength. Trash 1 of those cards, and arrange the rest in any order.",
+  "stripped_text": "subroutine Trace 2. If successful, look at the top X cards of the stack, where X is equal to the amount by which your trace strength exceeded the Runner's link strength. Trash 1 of those cards and arrange the rest in any order.",
   "stripped_title": "Data Hound",
   "subtypes": ["sentry", "tracer", "observer"],
-  "text": "[subroutine] <trace>Trace 2</trace> If successful, look at a number of cards from the top of the Runner's stack equal to the amount by which your trace strength exceeded his or her link strength. Trash 1 of those cards, and arrange the rest in any order.",
+  "text": "[subroutine] <trace>Trace 2</trace>. If successful, look at the top X cards of the stack, where X is equal to the amount by which your trace strength exceeded the Runner's link strength. Trash 1 of those cards and arrange the rest in any order.",
   "title": "Data Hound"
 }

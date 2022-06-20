@@ -170,9 +170,9 @@
     "illustrator": "Stéphane Gantiez",
     "position": 15,
     "printed_is_unique": false,
-    "printed_text": "When your turn begins, you may look at the top card of the Runner's stack.\n[trash]: The Runner trashes the top card of his or her stack.",
+    "printed_text": "When your turn begins, you may look at the top card of the stack.\n<strong>[trash]:</strong> The Runner trashes the top card of the stack.",
     "quantity": 3,
-    "stripped_printed_text": "When your turn begins, you may look at the top card of the Runner's stack. trash: The Runner trashes the top card of his or her stack."
+    "stripped_printed_text": "When your turn begins, you may look at the top card of the stack. trash: The Runner trashes the top card of the stack."
   },
   {
     "card_id": "interrupt_0",
@@ -181,9 +181,9 @@
     "illustrator": "Adam S. Doyle",
     "position": 16,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] For the remainder of this run, the Runner must pay 1[credit] as an additional cost each time he or she uses an <strong>icebreaker</strong> to break at least 1 subroutine.\n[subroutine] For the remainder of this run, the Runner must pay 1[credit] as an additional cost each time he or she uses an <strong>icebreaker</strong> to break at least 1 subroutine.",
+    "printed_text": "[subroutine] For the remainder of this run, as an additional cost to use an <strong>icebreaker</strong> ability to break subroutines, the Runner must pay 1[credit].\n[subroutine] For the remainder of this run, as an additional cost to use an <strong>icebreaker</strong> ability to break subroutines, the Runner must pay 1[credit]",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine For the remainder of this run, the Runner must pay 1 credit as an additional cost each time he or she uses an icebreaker to break at least 1 subroutine. Subroutine For the remainder of this run, the Runner must pay 1 credit as an additional cost each time he or she uses an icebreaker to break at least 1 subroutine."
+    "stripped_printed_text": "subroutine For the remainder of this run, as an additional cost to use an icebreaker ability to break subroutines, the Runner must pay 1 credit. subroutine For the remainder of this run, as an additional cost to use an icebreaker ability to break subroutines, the Runner must pay 1 credit"
   },
   {
     "card_id": "dedication_ceremony",
@@ -217,8 +217,8 @@
     "illustrator": "Sander Mosk",
     "position": 19,
     "printed_is_unique": true,
-    "printed_text": "This card costs 0 influence if you have 50 or more cards in your deck.\nWhen your turn begins, you may shuffle 1 card from Archives into R&D.\n<errata>Errata from FAQ 3.1</errata>",
+    "printed_text": "This asset costs 0 influence if you have 50 or more cards in your deck.\nWhen your turn begins, you may shuffle 1 card from Archives into R&D.",
     "quantity": 3,
-    "stripped_printed_text": "This card costs 0 influence if you have 50 or more cards in your deck. When your turn begins, you may shuffle 1 card from Archives into R&D. Errata from FAQ 3.1"
+    "stripped_printed_text": "This asset costs 0 influence if you have 50 or more cards in your deck. When your turn begins, you may shuffle 1 card from Archives into R&D."
   }
 ]

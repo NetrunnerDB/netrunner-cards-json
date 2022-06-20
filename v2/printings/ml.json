@@ -102,9 +102,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 89,
     "printed_is_unique": true,
-    "printed_text": "[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner trashes 1 of his or her installed cards.\n[subroutine] End the run unless the Runner suffers 1 brain damage.",
+    "printed_text": "[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner trashes 1 of their installed cards.\n[subroutine] End the run unless the Runner suffers 1 brain damage.",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine End the run unless the Runner pays 4 credits. Subroutine End the run unless the Runner pays 4 credits. Subroutine End the run unless the Runner trashes 1 of his or her installed cards. Subroutine End the run unless the Runner suffers 1 brain damage."
+    "stripped_printed_text": "subroutine End the run unless the Runner pays 4 credits. subroutine End the run unless the Runner pays 4 credits. subroutine End the run unless the Runner trashes 1 of their installed cards. subroutine End the run unless the Runner suffers 1 brain damage."
   },
   {
     "card_id": "friends_in_high_places",
@@ -147,9 +147,9 @@
     "illustrator": "VIKO",
     "position": 93,
     "printed_is_unique": true,
-    "printed_text": "If the Runner has fewer than 6[credit] or fewer than 2 cards in his or her grip when there is a successful run on this server, you may look at the top 5 cards of R&D and swap 1 of those cards with a card in HQ.\nLimit 1 <strong>region</strong> per server.",
+    "printed_text": "Whenever there is a successful run on this server, if the Runner does not have at least 2 cards in the grip and 6[credit], you may look at the top 5 cards of R&D and swap 1 of those cards with 1 card in HQ.\nLimit 1 <strong>region</strong> per server.",
     "quantity": 3,
-    "stripped_printed_text": "If the Runner has fewer than 6 credits or fewer than 2 cards in his or her grip when there is a successful run on this server, you may look at the top 5 cards of R&D and swap 1 of those cards with a card in HQ. Limit 1 region per server."
+    "stripped_printed_text": "Whenever there is a successful run on this server, if the Runner does not have at least 2 cards in the grip and 6 credits, you may look at the top 5 cards of R&D and swap 1 of those cards with 1 card in HQ. Limit 1 region per server."
   },
   {
     "card_id": "ip_block",
@@ -159,9 +159,9 @@
     "illustrator": "Alexandr Elichev",
     "position": 94,
     "printed_is_unique": false,
-    "printed_text": "When the Runner encounters IP Block, give him or her 1 tag if there is an installed <strong>AI</strong>.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
+    "printed_text": "When the Runner encounters this ice, give them 1 tag if there is an installed <strong>AI</strong> program.\n[subroutine] <trace>Trace 3</trace>. If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters IP Block, give him or her 1 tag if there is an installed AI. Subroutine Trace 3 If successful, give the Runner 1 tag. Subroutine End the run if the Runner is tagged."
+    "stripped_printed_text": "When the Runner encounters this ice, give them 1 tag if there is an installed AI program. subroutine Trace 3. If successful, give the Runner 1 tag. subroutine End the run if the Runner is tagged."
   },
   {
     "card_id": "thoth",
@@ -171,9 +171,9 @@
     "illustrator": "Kari Guenther",
     "position": 95,
     "printed_is_unique": true,
-    "printed_text": "When the Runner encounters Thoth, give him or her 1 tag.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, the Runner loses 1[credit] for each tag he or she has.",
+    "printed_text": "When the Runner encounters this ice, give them 1 tag.\n[subroutine] <trace>Trace 4</trace>. If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace>. If successful, the Runner loses 1[credit] for each tag they have.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters Thoth, give him or her 1 tag. Subroutine Trace 4 If successful, do 1 net damage for each tag the Runner has. Subroutine Trace 4 If successful, the Runner loses 1 credit for each tag he or she has."
+    "stripped_printed_text": "When the Runner encounters this ice, give them 1 tag. subroutine Trace 4. If successful, do 1 net damage for each tag the Runner has. subroutine Trace 4. If successful, the Runner loses 1 credit for each tag they have."
   },
   {
     "card_id": "anson_rose",
@@ -206,9 +206,9 @@
     "illustrator": "Adam S. Doyle",
     "position": 98,
     "printed_is_unique": false,
-    "printed_text": "If Sapper is accessed from R&D, the runner must reveal it.\nWhen the Runner accesses Sapper, he or she encounters it. Ignore this ability if the Runner accesses Sapper from Archives.\n[subroutine] Trash 1 program.",
+    "printed_text": "While the Runner is accessing this ice in R&D, they must reveal it.\nWhen the Runner accesses this ice anywhere except in Archives, they encounter it.\n[subroutine] Trash 1 installed program.",
     "quantity": 3,
-    "stripped_printed_text": "If Sapper is accessed from R&D, the runner must reveal it. When the Runner accesses Sapper, he or she encounters it. Ignore this ability if the Runner accesses Sapper from Archives. Subroutine Trash 1 program."
+    "stripped_printed_text": "While the Runner is accessing this ice in R&D, they must reveal it. When the Runner accesses this ice anywhere except in Archives, they encounter it. subroutine Trash 1 installed program."
   },
   {
     "card_id": "show_of_force",

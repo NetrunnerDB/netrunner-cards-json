@@ -90,9 +90,9 @@
     "position": 100,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "As an additional cost to play this event, trash an installed connection. The Corp cannot advance cards during his or her next turn. Remove The Price of Freedom from the game instead of trashing it.",
+    "stripped_text": "As an additional cost to play this event, trash 1 installed connection resource. The Corp cannot advance cards during their next turn. Remove this event from the game.",
     "stripped_title": "The Price of Freedom",
-    "text": "As an additional cost to play this event, trash an installed <strong>connection</strong>.\nThe Corp cannot advance cards during his or her next turn. Remove The Price of Freedom from the game instead of trashing it.",
+    "text": "As an additional cost to play this event, trash 1 installed <strong>connection</strong> resource.\nThe Corp cannot advance cards during their next turn. \nRemove this event from the game.",
     "title": "The Price of Freedom",
     "type_code": "event",
     "uniqueness": false
@@ -229,9 +229,9 @@
     "position": 107,
     "quantity": 3,
     "side_code": "corp",
-    "stripped_text": "If the Runner is tagged, he or she plays with his or her grip revealed.",
+    "stripped_text": "While the Runner is tagged, they play with the grip revealed.",
     "stripped_title": "Harishchandra Ent.: Where You're the Star",
-    "text": "If the Runner is tagged, he or she plays with his or her grip revealed.",
+    "text": "While the Runner is tagged, they play with the grip revealed.",
     "title": "Harishchandra Ent.: Where You're the Star",
     "type_code": "identity",
     "uniqueness": false

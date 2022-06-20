@@ -78,9 +78,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 7,
     "printed_is_unique": false,
-    "printed_text": "If Quantum Predictive Model is accessed from R&D, the Runner must reveal it.\nIf the Runner is tagged when Quantum Predictive Model is accessed, add it to your score area.",
+    "printed_text": "While the Runner is accessing this agenda in R&D, they must reveal it.\nWhen the Runner accesses this agenda while they are tagged, add it to your score area.",
     "quantity": 3,
-    "stripped_printed_text": "If Quantum Predictive Model is accessed from R&D, the Runner must reveal it. If the Runner is tagged when Quantum Predictive Model is accessed, add it to your score area."
+    "stripped_printed_text": "While the Runner is accessing this agenda in R&D, they must reveal it. When the Runner accesses this agenda while they are tagged, add it to your score area."
   },
   {
     "card_id": "lily_lockwell",
@@ -101,9 +101,9 @@
     "illustrator": "Jessada Sutthi",
     "position": 9,
     "printed_is_unique": false,
-    "printed_text": "If News Team is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses News Team, he or she must either take 2 tags or add News Team to his or her score area as an agenda worth -1 agenda point.",
+    "printed_text": "While the Runner is accessing this asset in R&D, they must reveal it.\nWhen the Runner accesses this asset, they must either take 2 tags or add this asset to their score area as an agenda worth -1 agenda point.",
     "quantity": 3,
-    "stripped_printed_text": "If News Team is accessed from R&D, the Runner must reveal it. When the Runner accesses News Team, he or she must either take 2 tags or add News Team to his or her score area as an agenda worth -1 agenda point."
+    "stripped_printed_text": "While the Runner is accessing this asset in R&D, they must reveal it. When the Runner accesses this asset, they must either take 2 tags or add this asset to their score area as an agenda worth -1 agenda point."
   },
   {
     "card_id": "shannon_claire",
@@ -124,9 +124,9 @@
     "illustrator": "Matt Zeilinger",
     "position": 11,
     "printed_is_unique": true,
-    "printed_text": "The Runner has 1 fewer [click] to spend during his or her turn.\nIf Victoria Jenkins is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points.",
+    "printed_text": "The Runner gets -1 allotted [click] for each of their turns.  \nWhen this asset is trashed from anywhere while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points.",
     "quantity": 3,
-    "stripped_printed_text": "The Runner has 1 fewer click to spend during his or her turn. If Victoria Jenkins is trashed while being accessed, add her to the Runner's score area as an agenda worth 2 agenda points."
+    "stripped_printed_text": "The Runner gets -1 allotted click for each of their turns. When this asset is trashed from anywhere while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points."
   },
   {
     "card_id": "reality_threedee",
@@ -147,9 +147,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 13,
     "printed_is_unique": false,
-    "printed_text": "If Archangel is accessed from R&D, the Runner must reveal it.\nIf you pay 3[credit] when the Runner accesses Archangel, he or she immediately encounters it. Ignore this ability if Archangel is accessed from Archives.\n[subroutine] <trace>Trace 6</trace> If successful, add 1 installed Runner card to his or her grip.",
+    "printed_text": "While the Runner is accessing this ice in R&D, they must reveal it.\nWhen the Runner accesses this ice anywhere except in Archives, you may pay 3[credit]. If you do, they encounter it.\n[subroutine] <trace>Trace 6</trace>. If successful, add 1 installed Runner card to the grip.",
     "quantity": 3,
-    "stripped_printed_text": "If Archangel is accessed from R&D, the Runner must reveal it. If you pay 3 credits when the Runner accesses Archangel, he or she immediately encounters it. Ignore this ability if Archangel is accessed from Archives. Subroutine Trace 6 If successful, add 1 installed Runner card to his or her grip."
+    "stripped_printed_text": "While the Runner is accessing this ice in R&D, they must reveal it. When the Runner accesses this ice anywhere except in Archives, you may pay 3 credits. If you do, they encounter it. subroutine Trace 6. If successful, add 1 installed Runner card to the grip."
   },
   {
     "card_id": "news_hound",
@@ -207,9 +207,9 @@
     "illustrator": "Donald Crank",
     "position": 18,
     "printed_is_unique": false,
-    "printed_text": "When the Runner encounters Turnpike, he or she loses 1[credit].\n[subroutine] <trace>Trace 5</trace> If successful, give the Runner 1 tag.",
+    "printed_text": "When the Runner encounters this ice, they lose 1[credit].\n[subroutine] <trace>Trace 5</trace>. If successful, give the Runner 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters Turnpike, he or she loses 1 credit. Subroutine Trace 5 If successful, give the Runner 1 tag."
+    "stripped_printed_text": "When the Runner encounters this ice, they lose 1 credit. subroutine Trace 5. If successful, give the Runner 1 tag."
   },
   {
     "card_id": "24_7_news_cycle",
@@ -473,9 +473,9 @@
     "illustrator": "Lili Ibrahim",
     "position": 41,
     "printed_is_unique": true,
-    "printed_text": "The first [click] you spend each turn must be spent to play a <strong>run</strong> event or take the basic action to run a server.\n<strong>Lose [click][click]:</strong> Break 1 subroutine on the ice you are encountering. Use this ability only once per turn.",
+    "printed_text": "The first [click] you spend each turn must be spent to play a <strong>run</strong> event or take the basic action to run a server.\n<strong>Lose [click][click]:</strong> Break 1 subroutine. Use this ability only once per turn.",
     "quantity": 3,
-    "stripped_printed_text": "The first click you spend each turn must be spent to play a run event or take the basic action to run a server. Lose click click: Break 1 subroutine on the ice you are encountering. Use this ability only once per turn."
+    "stripped_printed_text": "The first click you spend each turn must be spent to play a run event or take the basic action to run a server. Lose click click: Break 1 subroutine. Use this ability only once per turn."
   },
   {
     "card_id": "dr_lovegood",
