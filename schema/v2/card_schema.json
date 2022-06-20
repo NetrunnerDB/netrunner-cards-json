@@ -57,8 +57,8 @@
               "enum": [
                 "agenda",
                 "asset",
-                "ice",
                 "corp_identity",
+                "ice",
                 "operation",
                 "upgrade"
               ]
@@ -74,9 +74,9 @@
               "enum": [
                 "event",
                 "hardware",
-                "runner_identity",
                 "program",
-                "resource"
+                "resource",
+                "runner_identity"
               ]
             }
           }
