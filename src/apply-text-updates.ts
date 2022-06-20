@@ -8,7 +8,7 @@
 
 import fs from "fs";
 import { resolve } from "path";
-const commandLineArgs = require('command-line-args');
+import commandLineArgs = require('command-line-args');
 
 const optionDefinitions = [
   { name: 'updates_file', description: 'Input file containing the text updates to apply.', alias: 'u', type: String }
