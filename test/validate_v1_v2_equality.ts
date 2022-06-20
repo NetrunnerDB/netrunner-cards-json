@@ -1,7 +1,4 @@
-import fs from "fs";
-import { basename, resolve } from "path";
-import Ajv2020 from "ajv/dist/2020"
-import { getCardsJson, getCardsV2Json, getCardSetsV2Json, getCardSubtypesV2Json, getCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
+import { getCardsJson, getCardsV2Json } from "../src/index";
 import chai = require('chai');
 const expect = chai.expect;
 
