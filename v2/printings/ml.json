@@ -104,7 +104,7 @@
     "printed_is_unique": true,
     "printed_text": "[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner trashes 1 of their installed cards.\n[subroutine] End the run unless the Runner suffers 1 brain damage.",
     "quantity": 3,
-    "stripped_printed_text": "subroutine End the run unless the Runner pays 4 credits. subroutine End the run unless the Runner pays 4 credits. subroutine End the run unless the Runner trashes 1 of their installed cards. subroutine End the run unless the Runner suffers 1 brain damage."
+    "stripped_printed_text": "Subroutine End the run unless the Runner pays 4 credits. Subroutine End the run unless the Runner pays 4 credits. Subroutine End the run unless the Runner trashes 1 of their installed cards. Subroutine End the run unless the Runner suffers 1 brain damage."
   },
   {
     "card_id": "friends_in_high_places",
@@ -161,7 +161,7 @@
     "printed_is_unique": false,
     "printed_text": "When the Runner encounters this ice, give them 1 tag if there is an installed <strong>AI</strong> program.\n[subroutine] <trace>Trace 3</trace>. If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters this ice, give them 1 tag if there is an installed AI program. subroutine Trace 3. If successful, give the Runner 1 tag. subroutine End the run if the Runner is tagged."
+    "stripped_printed_text": "When the Runner encounters this ice, give them 1 tag if there is an installed AI program. Subroutine Trace 3. If successful, give the Runner 1 tag. Subroutine End the run if the Runner is tagged."
   },
   {
     "card_id": "thoth",
@@ -173,7 +173,7 @@
     "printed_is_unique": true,
     "printed_text": "When the Runner encounters this ice, give them 1 tag.\n[subroutine] <trace>Trace 4</trace>. If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace>. If successful, the Runner loses 1[credit] for each tag they have.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters this ice, give them 1 tag. subroutine Trace 4. If successful, do 1 net damage for each tag the Runner has. subroutine Trace 4. If successful, the Runner loses 1 credit for each tag they have."
+    "stripped_printed_text": "When the Runner encounters this ice, give them 1 tag. Subroutine Trace 4. If successful, do 1 net damage for each tag the Runner has. Subroutine Trace 4. If successful, the Runner loses 1 credit for each tag they have."
   },
   {
     "card_id": "anson_rose",
@@ -208,7 +208,7 @@
     "printed_is_unique": false,
     "printed_text": "While the Runner is accessing this ice in R&D, they must reveal it.\nWhen the Runner accesses this ice anywhere except in Archives, they encounter it.\n[subroutine] Trash 1 installed program.",
     "quantity": 3,
-    "stripped_printed_text": "While the Runner is accessing this ice in R&D, they must reveal it. When the Runner accesses this ice anywhere except in Archives, they encounter it. subroutine Trash 1 installed program."
+    "stripped_printed_text": "While the Runner is accessing this ice in R&D, they must reveal it. When the Runner accesses this ice anywhere except in Archives, they encounter it. Subroutine Trash 1 installed program."
   },
   {
     "card_id": "show_of_force",
