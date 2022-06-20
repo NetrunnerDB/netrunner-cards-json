@@ -172,4 +172,47 @@ describe('Card Pools', () => {
       }
     });
   });
+
+  it('card pool files have valid ids', () => {
+    const cardCycleIds = new Set<string>(getCyclesV2Json().map(c => c.code));
+    const cardSetIds = new Set<string>(getCardSetsV2Json().map(s => s.id));
+
+    cardPoolFiles.forEach(file => {
+      const cardPool = JSON.parse(fs.readFileSync(resolve(cardPoolDir, file), 'utf-8'));
+      cardPool.forEach(p => {
+        if (p.cycles) {
+          p.cycles.forEach((cycle_id: string) => {
+            expect(cardCycleIds.has(cycle_id), `Card pool file ${file}, pool ${p.name} has invalid cycle code ${cycle_id}`).to.be.true;
+          });
+        } 
+        if (p.packs) {
+          p.packs.forEach((pack_id: string) => {
+            expect(cardSetIds.has(pack_id), `Card pool file ${file}, pool ${p.name} has invalid pack id ${pack_id}`).to.be.true;
+          });
+        } 
+      });
+    });
+  });
+
+  it('card pool files have unique codes', () => {
+    const cardPoolCodes = new Set<string>();
+    cardPoolFiles.forEach(file => {
+      const cardPool = JSON.parse(fs.readFileSync(resolve(cardPoolDir, file), 'utf-8'));
+      cardPool.forEach(p => {
+        expect(cardPoolCodes.has(p.code), `Printing ${file} has duplicate id ${p.code}`).to.be.false;
+        cardPoolCodes.add(p.code);
+      });
+    });
+  });
+
+  it('card pool files have unique names within each format', () => {
+    cardPoolFiles.forEach(file => {
+      const names = new Set<string>();
+      const cardPool = JSON.parse(fs.readFileSync(resolve(cardPoolDir, file), 'utf-8'));
+      cardPool.forEach(p => {
+        expect(names.has(p.name), `Printing ${file} has duplicate name ${p.name}`).to.be.false;
+        names.add(p.name);
+      });
+    });
+  });
 });
