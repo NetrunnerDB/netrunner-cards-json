@@ -95,7 +95,6 @@ fs.readdirSync(printingsDir).forEach(file => {
       }
     });
     if (needsUpdates) {
-      console.log(`Should write update to printing ${file}`);
       fs.writeFile(resolve(printingsDir, file), JSON.stringify(printing), err => {
         if (err) {
           console.error(err);
