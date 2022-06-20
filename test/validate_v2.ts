@@ -1,5 +1,5 @@
 import fs from "fs";
-import { resolve } from "path";
+import { basename, resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
 import { getCardsV2Json, getCardSetsV2Json, getCardSubtypesV2Json, getCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
 import chai = require('chai');
@@ -213,6 +213,109 @@ describe('Card Pools', () => {
         expect(names.has(p.name), `Printing ${file} has duplicate name ${p.name}`).to.be.false;
         names.add(p.name);
       });
+    });
+  });
+});
+
+describe('MWLs', () => {
+  const mwlsDir = resolve(__dirname, "../v2/mwls");
+  const formatsForMwls =
+    fs.readdirSync(mwlsDir, { withFileTypes: true })
+      .filter(dirent => dirent.isDirectory())
+      .map(dirent => dirent.name);
+
+  const mwlFiles = new Array<string>();
+  formatsForMwls.forEach(format => {
+    fs.readdirSync(resolve(mwlsDir, format), { withFileTypes: true })
+      .filter(dirent => dirent.isFile())
+      .map(dirent => dirent.name).forEach(mwl => {
+        mwlFiles.push(resolve(mwlsDir, format, mwl));
+      });
+  });
+
+  // TODO(plural): de-dupe this with the format code.
+  const formats =
+    fs.readdirSync(resolve(__dirname, "../v2/formats"), { withFileTypes: true })
+      .filter(dirent => dirent.isFile())
+      .map(dirent => dirent.name);
+  const formatCodes = new Set<string>();
+  formats.forEach(f => {
+    const format = JSON.parse(fs.readFileSync(resolve(__dirname, "../v2/formats", f), 'utf-8'));
+    formatCodes.add(format.code);
+  });
+
+  const cardIds = new Set<string>(getCardsV2Json().map(c => c.id));
+  const subtypes = new Set<string>(getCardSubtypesV2Json().map(c => c.id));
+
+  const schema_path = resolve(__dirname, "../schema/v2/mwl_schema.json");
+  const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
+  const validate: any = ajv.compile(schema);
+
+  it('MWL files pass schema validation', () => {
+    mwlFiles.forEach(file => {
+      const mwl = JSON.parse(fs.readFileSync(file, 'utf-8'));
+      validate(mwl);
+      if (validate.errors) {
+        expect.fail(`MWL file ${basename(file)} for ${mwl.format} format: ${ajv.errorsText(validate.errors)}`);
+      }
+    });
+  });
+
+  it('MWL files have unique codes and names', () => {
+    const mwlCodes = new Set<string>();
+    const mwlNames = new Set<string>();
+    mwlFiles.forEach(file => {
+      const mwl = JSON.parse(fs.readFileSync(file, 'utf-8'));
+      expect(mwlNames.has(mwl.name), `Mwl ${basename(file)} for format ${mwl.format} has duplicate name ${mwl.name}`).to.be.false;
+      mwlNames.add(mwl.name);
+      expect(mwlCodes.has(mwl.code), `Mwl ${basename(file)} for format ${mwl.format} has duplicate code ${mwl.name}`).to.be.false;
+      mwlCodes.add(mwl.code);
+    });
+  });
+
+  it('MWL files have valid ids', () => {
+    mwlFiles.forEach(file => {
+      const mwl = JSON.parse(fs.readFileSync(file, 'utf-8'));
+      expect(formatCodes.has(mwl.format), `Mwl ${mwl.name} has invalid format ${mwl.format}`).to.be.true;
+
+      // TODO(plural): Ensure that banned contains all cards with the given subtypes.
+      if (mwl.subtypes) {
+        mwl.subtypes.banned.forEach(s => {
+          expect(subtypes.has(s), `Mwl ${mwl.name} has invalid subtype ${s}`).to.be.true;
+        });
+      }
+
+      if (mwl.banned) {
+        mwl.banned.forEach(c => {
+          expect(cardIds.has(c), `Mwl ${mwl.name} has invalid card ${c} in banned`).to.be.true;
+        });
+      }
+      if (mwl.restricted) {
+        mwl.restricted.forEach(c => {
+          expect(cardIds.has(c), `Mwl ${mwl.name} has invalid card ${c} in restricted`).to.be.true;
+        });
+      }
+      if (mwl.universal_faction_cost) {
+        for (const cost in mwl.universal_faction_cost) {
+          mwl.universal_faction_cost[cost].forEach(card => {
+            expect(cardIds.has(card), `Mwl ${mwl.name} has invalid card ${card} in universal_faction_cost["${cost}"]`).to.be.true;
+          });
+        }
+      }
+      if (mwl.global_penalty) {
+        for (const cost in mwl.global_penalty) {
+          mwl.global_penalty[cost].forEach(card => {
+            expect(cardIds.has(card), `Mwl ${mwl.name} has invalid card ${card} in global_penalty["${cost}"]`).to.be.true;
+          });
+        }
+      }
+      if (mwl.points) {
+        for (const cost in mwl.points) {
+          mwl.points[cost].forEach(card => {
+            expect(cardIds.has(card), `Mwl ${mwl.name} has invalid card ${card} in points["${cost}"]`).to.be.true;
+          });
+        }
+      }
     });
   });
 });
