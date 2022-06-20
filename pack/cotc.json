@@ -367,9 +367,9 @@
     "position": 59,
     "quantity": 3,
     "side_code": "corp",
-    "stripped_text": "Play only if the Runner accessed at least 1 card during his or her last turn. Trace 4 If successful, trash 1 installed program with an install cost equal to or less than the amount by which your trace strength exceeded the Runner's link strength.",
+    "stripped_text": "Play only if the Runner accessed a card during their last turn. Trace 4. If successful, trash 1 installed program with an install cost of X or less, where X is equal to the amount by which your trace strength exceeded the Runner's link strength.",
     "stripped_title": "Trojan Horse",
-    "text": "Play only if the Runner accessed at least 1 card during his or her last turn.\n<trace>Trace 4</trace> If successful, trash 1 installed program with an install cost equal to or less than the amount by which your trace strength exceeded the Runner's link strength.",
+    "text": "Play only if the Runner accessed a card during their last turn.\n<trace>Trace 4</trace>. If successful, trash 1 installed program with an install cost of X or less, where X is equal to the amount by which your trace strength exceeded the Runner's link strength.",
     "title": "Trojan Horse",
     "type_code": "operation",
     "uniqueness": false

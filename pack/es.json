@@ -217,9 +217,9 @@
     "position": 51,
     "quantity": 3,
     "side_code": "corp",
-    "stripped_text": "Play only if the Runner trashed an accessed Corp card during his or her last turn. Trace 2 If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
+    "stripped_text": "Play only if the Runner trashed a card while accessing it during their last turn. Trace 2. If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
     "stripped_title": "Hellion Beta Test",
-    "text": "Play only if the Runner trashed an accessed Corp card during his or her last turn.\n<trace>Trace 2</trace> If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
+    "text": "Play only if the Runner trashed a card while accessing it during their last turn.\n<trace>Trace 2</trace>. If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
     "title": "Hellion Beta Test",
     "type_code": "operation",
     "uniqueness": false
@@ -336,9 +336,9 @@
     "position": 57,
     "quantity": 3,
     "side_code": "corp",
-    "stripped_text": "This card is not trashed until another current is played or an agenda is stolen. As an additional cost to make the first run on his or her turn (even through a card ability), the Runner must spend 1 credit.",
+    "stripped_text": "This operation is not trashed until another current is played or an agenda is stolen. As an additional cost to run for the first time during their turn, the Runner must spend 1 credit.",
     "stripped_title": "Service Outage",
-    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to make the first run on his or her turn (even through a card ability), the Runner must spend 1[credit].",
+    "text": "This operation is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to run for the first time during their turn, the Runner must spend 1[credit].",
     "title": "Service Outage",
     "type_code": "operation",
     "uniqueness": false

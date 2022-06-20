@@ -336,9 +336,9 @@
     "illustrator": "Martin de Diego Sádaba",
     "position": 29,
     "printed_is_unique": false,
-    "printed_text": "When you score Brain Rewiring, you may pay X[credit] to force the Runner to add X cards from his or her grip to the bottom of his or her stack at random then draw 1 card.",
+    "printed_text": "When you score this agenda, you may pay X[credit]. If you do, the Runner adds X cards from the grip at random to the bottom of the stack, then draws 1 card.",
     "quantity": 3,
-    "stripped_printed_text": "When you score Brain Rewiring, you may pay X credits to force the Runner to add X cards from his or her grip to the bottom of his or her stack at random then draw 1 card."
+    "stripped_printed_text": "When you score this agenda, you may pay X credits. If you do, the Runner adds X cards from the grip at random to the bottom of the stack, then draws 1 card."
   },
   {
     "card_id": "elective_upgrade",
@@ -463,9 +463,9 @@
     "illustrator": "Matt Zeilinger",
     "position": 40,
     "printed_is_unique": true,
-    "printed_text": "Whenever an encounter with a piece of ice protecting this server ends in which the Runner broke at least one subroutine, he or she loses [click], if able.",
+    "printed_text": "Whenever an encounter with a piece of ice protecting this server ends, if the Runner broke at least 1 subroutine during that encounter, they lose [click].",
     "quantity": 3,
-    "stripped_printed_text": "Whenever an encounter with a piece of ice protecting this server ends in which the Runner broke at least one subroutine, he or she loses click, if able."
+    "stripped_printed_text": "Whenever an encounter with a piece of ice protecting this server ends, if the Runner broke at least 1 subroutine during that encounter, they lose click."
   },
   {
     "card_id": "skorpios_defense_systems_persuasive_power",
@@ -486,9 +486,9 @@
     "illustrator": "Ed Mattinian",
     "position": 42,
     "printed_is_unique": false,
-    "printed_text": "Place 1 agenda counter on Armored Servers when you score it.\n<strong>Hosted agenda counter</strong>: For the remainder of this run, the Runner must trash a card from his or her grip as an additional cost to jack out or break a subroutine. Use this ability only during a run.",
+    "printed_text": "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter:</strong> For the remainder of this run, the Runner must trash 1 card from the grip as an additional cost to jack out or break a subroutine. Use this ability only during a run.",
     "quantity": 3,
-    "stripped_printed_text": "Place 1 agenda counter on Armored Servers when you score it. Hosted agenda counter: For the remainder of this run, the Runner must trash a card from his or her grip as an additional cost to jack out or break a subroutine. Use this ability only during a run."
+    "stripped_printed_text": "When you score this agenda, place 1 agenda counter on it. Hosted agenda counter: For the remainder of this run, the Runner must trash 1 card from the grip as an additional cost to jack out or break a subroutine. Use this ability only during a run."
   },
   {
     "card_id": "illicit_sales",
@@ -543,9 +543,9 @@
     "illustrator": "Alexandr Elichev",
     "position": 47,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] The Runner must either trash 1 program or trash the top 2 cards from his or her stack.",
+    "printed_text": "[subroutine] The Runner must trash either 1 installed program or the top 2 cards of the stack.",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine The Runner must either trash 1 program or trash the top 2 cards from his or her stack."
+    "stripped_printed_text": "Subroutine The Runner must trash either 1 installed program or the top 2 cards of the stack."
   },
   {
     "card_id": "colossus",
@@ -587,9 +587,9 @@
     "illustrator": "Michał Miłkowski",
     "position": 51,
     "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this operation, spend [click].\nPlay only if the Runner stole an agenda during his or her last turn.\nTrash 1 card.",
+    "printed_text": "As an additional cost to play this operation, spend [click].\nPlay only if the Runner stole an agenda during their last turn.\nTrash 1 installed card.",
     "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this operation, spend click. Play only if the Runner stole an agenda during his or her last turn. Trash 1 card."
+    "stripped_printed_text": "As an additional cost to play this operation, spend click. Play only if the Runner stole an agenda during their last turn. Trash 1 installed card."
   },
   {
     "card_id": "k_p_lynn",
@@ -598,9 +598,9 @@
     "illustrator": "Anastasia Ovchinnikova",
     "position": 52,
     "printed_is_unique": true,
-    "printed_text": "Whenever the Runner passes all of the ice protecting this server, he or she must either take 1 tag or end the run.",
+    "printed_text": "Whenever the Runner passes all of the ice protecting this server, they must take 1 tag or end the run.",
     "quantity": 3,
-    "stripped_printed_text": "Whenever the Runner passes all of the ice protecting this server, he or she must either take 1 tag or end the run."
+    "stripped_printed_text": "Whenever the Runner passes all of the ice protecting this server, they must take 1 tag or end the run."
   },
   {
     "card_id": "paper_trail",
@@ -620,9 +620,9 @@
     "illustrator": "Pavel Kolomeyets",
     "position": 54,
     "printed_is_unique": false,
-    "printed_text": "If Honeyfarm is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Honeyfarm, he or she loses 1[credit].",
+    "printed_text": "While the Runner is accessing this asset in R&D, they must reveal it.\nWhen the Runner accesses this asset, they lose 1[credit].",
     "quantity": 3,
-    "stripped_printed_text": "If Honeyfarm is accessed from R&D, the Runner must reveal it. When the Runner accesses Honeyfarm, he or she loses 1 credit."
+    "stripped_printed_text": "While the Runner is accessing this asset in R&D, they must reveal it. When the Runner accesses this asset, they lose 1 credit."
   },
   {
     "card_id": "long_term_investment",
@@ -642,9 +642,9 @@
     "illustrator": "Shawn Ye Zhongyi",
     "position": 56,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] The Runner loses [click], if able\n[subroutine] The Runner trashes 1 card from his or her grip.",
+    "printed_text": "[subroutine] The Runner loses [click].\n[subroutine] The Runner trashes 1 card from their grip.",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine The Runner loses click, if able Subroutine The Runner trashes 1 card from his or her grip."
+    "stripped_printed_text": "Subroutine The Runner loses click. Subroutine The Runner trashes 1 card from their grip."
   },
   {
     "card_id": "ipo",
