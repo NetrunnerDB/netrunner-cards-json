@@ -25,6 +25,25 @@ function makeV2Reader(filename: string) {
   }
 }
 
+export function textToId(text: string): string {
+  return text
+    .toLowerCase()
+    // Unicode Canonical Decomposition - switching single code points to multiple code points.
+    .normalize('NFD')
+    // remove non-ASCII
+    .replace(/\P{ASCII}/u, '')
+    // replace 's followed by a space or end-of-line with s and the space/end match.
+    .replace(/'s(\s|$)/gu, 's$1')
+    // split along space or punction.
+    .split(/[\s\p{P}]+/u)
+    // exclude any elements that are empty when trimmed to avoid trailing _ for the join.
+    .filter(x => x.trim() != '')
+    // Finally join back with underscores.
+    .join('_');
+}
+
+export const getCardSubtypesV2Json = makeV2Reader('subtypes');
+export const getCardSetsV2Json = makeV2Reader('printings');
 export const getCyclesJson = makeV1Reader('cycles');
 export const getCyclesV2Json = makeV2Reader('cycles');
 export const getPacksJson = makeV1Reader('packs');

@@ -1,10 +1,10 @@
 {
   "base_link": 0,
-  "card_type_id": "identity",
+  "card_type_id": "runner_identity",
   "deck_limit": 1,
   "faction_id": "neutral-runner",
   "id": "the_catalyst_convention_breaker",
-  "influence_limit": "null",
+  "influence_limit": null,
   "is_unique": false,
   "minimum_deck_size": 30,
   "side_id": "runner",

@@ -58,6 +58,9 @@
         "minLength": 6,
         "type": "string"
       },
+      "description": {
+        "type": "string"
+      },
       "is_mini": {
         "type": "boolean"
       },

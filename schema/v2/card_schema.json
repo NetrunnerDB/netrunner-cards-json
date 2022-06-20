@@ -1,0 +1,328 @@
+{
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/card_schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "allOf": [
+    {
+      "title": "Faction id must be valid for the side.",
+      "type": "object",
+      "oneOf": [
+        {
+          "properties": {
+            "side_id": {
+              "const": "corp"
+            },
+            "faction_id": {
+              "enum": [
+                "haas-bioroid",
+                "jinteki",
+                "nbn",
+                "neutral-corp",
+                "weyland-consortium"
+              ]
+            }
+          }
+        },
+        {
+          "properties": {
+            "side_id": {
+              "const": "runner"
+            },
+            "faction_id": {
+              "enum": [
+                "adam",
+                "anarch",
+                "apex",
+                "criminal",
+                "neutral-runner",
+                "shaper",
+                "sunny-lebeau"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Type codes must be valid for the side.",
+      "type": "object",
+      "oneOf": [
+        {
+          "properties": {
+            "side_id": {
+              "const": "corp"
+            },
+            "card_type_id": {
+              "enum": [
+                "agenda",
+                "asset",
+                "corp_identity",
+                "ice",
+                "operation",
+                "upgrade"
+              ]
+            }
+          }
+        },
+        {
+          "properties": {
+            "side_id": {
+              "const": "runner"
+            },
+            "card_type_id": {
+              "enum": [
+                "event",
+                "hardware",
+                "program",
+                "resource",
+                "runner_identity"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "oneOf": [
+    {
+      "properties": {
+        "advancement_requirement": {
+          "minimum": 0,
+          "type": "integer"
+        },
+        "agenda_points": {
+          "minimum": 0,
+          "type": "integer"
+        },
+        "card_type_id": {
+          "const": "agenda"
+        }
+      },
+      "required": ["advancement_requirement", "agenda_points"]
+    },
+    {
+      "properties": {
+        "cost": {
+          "oneOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "trash_cost": {
+          "minimum": 0,
+          "type": "integer"
+        },
+        "card_type_id": {
+          "enum": ["asset", "upgrade"]
+        }
+      },
+      "required": ["cost", "trash_cost"]
+    },
+    {
+      "properties": {
+        "cost": {
+          "oneOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "strength": {
+          "oneOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "card_type_id": {
+          "enum": ["ice"]
+        }
+      },
+      "required": ["cost", "strength"]
+    },
+    {
+      "properties": {
+        "cost": {
+          "oneOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "card_type_id": {
+          "enum": ["event", "hardware", "operation", "program", "resource"]
+        }
+      },
+      "required": ["cost"]
+    },
+    {
+      "properties": {
+        "influence_limit": {
+          "oneOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "minimum_deck_size": {
+          "minimum": 0,
+          "type": "integer"
+        },
+        "card_type_id": {
+          "enum": ["corp_identity", "runner_identity"]
+        }
+      },
+      "required": ["influence_limit", "minimum_deck_size"]
+    }
+  ],
+  "properties": {
+    "advancement_requirement": {
+      "minimum": 0,
+      "type": "integer"
+    },
+    "agenda_points": {
+      "minimum": 0,
+      "type": "integer"
+    },
+    "base_link": {
+      "minimum": 0,
+      "type": "integer"
+    },
+    "id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "cost": {
+      "oneOf": [
+        {
+          "minimum": 0,
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "deck_limit": {
+      "minimum": 1,
+      "type": "integer"
+    },
+    "faction_id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "influence_cost": {
+      "minimum": 0,
+      "type": "integer"
+    },
+    "flavor": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "illustrator": {
+      "pattern": ".+",
+      "type": "string"
+    },
+    "influence_limit": {
+      "oneOf": [
+        {
+          "minimum": 0,
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "keywords": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "memory_cost": {
+      "minimum": 0,
+      "type": "integer"
+    },
+    "minimum_deck_size": {
+      "minimum": 0,
+      "type": "integer"
+    },
+    "side_id": {
+      "minLength": 1,
+      "type": "string",
+      "enum": ["corp", "runner"]
+    },
+    "strength": {
+      "oneOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "stripped_text": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "stripped_title": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "text": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "title": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "trash_cost": {
+      "minimum": 0,
+      "type": "integer"
+    },
+    "card_type_id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "is_unique": {
+      "type": "boolean"
+    },
+    "subtypes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "id",
+    "faction_id",
+    "deck_limit",
+    "side_id",
+    "title",
+    "card_type_id",
+    "is_unique"
+  ]
+}

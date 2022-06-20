@@ -8,7 +8,8 @@
     "properties": {
       "code": {
         "minLength": 1,
-        "type": "string"
+        "type": "string",
+        "enum": ["corp", "runner"]
       },
       "name": {
         "minLength": 1,
