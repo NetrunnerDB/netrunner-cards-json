@@ -1,7 +1,8 @@
 import fs from "fs";
+import { Buffer } from 'node:buffer';
 import { resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCardsJson, getCyclesJson, getFactionsJson, getPackFilesJson, getPacksJson, getRotationsJson, getSidesJson, getTypesJson } from "../../src/index";
+import { getCardsJson, getCyclesJson, getFactionsJson, getMwlJson, getPackFilesJson, getPacksJson, getPrebuiltsJson, getRotationsJson, getSidesJson, getTypesJson } from "../src/index";
 
 import chai = require('chai');
 const expect = chai.expect;
@@ -9,7 +10,7 @@ const expect = chai.expect;
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
 function validateAgainstSchema(schema_file, data) {
-  const schema_path = resolve(__dirname, "../../schema/v1", schema_file);
+  const schema_path = resolve(__dirname, "../schema/v1", schema_file);
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
   validate(data);
@@ -143,54 +144,96 @@ describe('Cards', () => {
   });
 
   it('stripped text and title are ascii only', () => {
-//def verify_stripped_text_is_ascii(args, card, pack_code):
-//    global validation_errors
-//    stripped_text = card.get('stripped_text', '')
-//    try:
-//        stripped_text.encode('ascii')
-//    except UnicodeEncodeError:
-//        verbose_print(args, "ERROR\n", 2)
-//        verbose_print(
-//            args,
-//            "Stripped text contains non-ascii characters in card: (pack code: '{}' title: '{}' stripped_text '{}')\n".format(
-//                pack_code,
-//                card['title'],
-//                stripped_text,
-//            ),
-//            0,
-//        )
-//        validation_errors += 1
-//
+    cards.forEach(card => {
+      if (card.text) {
+        expect(card.stripped_text, `${card.title} stripped_text missing`).to.exist; 
+        expect(card.stripped_text, `${card.title} stripped_text should be ascii only`).to.equal(
+            Buffer.from(card.stripped_text.toString()).toString("ascii"));
+      }
+      expect(card.stripped_title, `${card.title} stripped_title should be ascii only`).to.equal(
+        Buffer.from(card.stripped_title.toString()).toString("ascii"));
+    });
   });
 
-  it('text is fancy', () => {
-//def verify_text_has_fancy_text(args, card, pack_code):
-//    global validation_errors
-//
-//    text = card.get('text', '')
-//    if ('[interrupt]' in text) and ('[interrupt] →' not in text):
-//        verbose_print(args, "ERROR\n", 2)
-//        verbose_print(
-//            args,
-//            "Incorrect interrupt text in card: (pack code: '{}' title: '{}' text '{}')\n".format(
-//                pack_code,
-//                card['title'],
-//                text,
-//            ),
-//            0,
-//        )
-//        validation_errors += 1
-//    if ('Interface' in text) and (('Interface ->' in text) or ('Interface →' not in text)):
-//        verbose_print(args, "ERROR\n", 2)
-//        verbose_print(
-//            args,
-//            "Incorrect interface text in card: (pack code: '{}' title: '{}' text '{}')\n".format(
-//                pack_code,
-//                card['title'],
-//                text,
-//            ),
-//            0,
-//        )
-//        validation_errors += 1
+  it('interface formatting is correct', () => {
+    cards.forEach(card => {
+      if (card.text) {
+        const textMatches = card.text.match(/Interface(..)?/g);
+        for (const m in textMatches) {
+          expect(textMatches[m], `${card.title} has incorrect interface formatting in text`)
+              .to.equal('Interface →');
+        }
+        const strippedTextMatches = card.stripped_text.match(/Interface(...)?/g);
+        for (const m in strippedTextMatches) {
+          expect(strippedTextMatches[m], `${card.title} has incorrect interface formatting in stripped_text`)
+              .to.equal('Interface ->');
+        }
+      }
+    });
+  });
+
+  it('interrupt formatting is correct', () => {
+    cards.forEach(card => {
+      if (card.text) {
+        const textMatches = card.text.match(/\[interrupt\](..)?/g);
+        for (const m in textMatches) {
+          expect(textMatches[m], `${card.title} has incorrect interrupt formatting in text`)
+              .to.equal('[interrupt] →');
+        }
+        const strippedTextMatches = card.stripped_text.match(/Interrupt(...)?/gi);
+        for (const m in strippedTextMatches) {
+          expect(strippedTextMatches[m], `${card.title} has incorrect interrupt formatting in stripped_text`)
+              .to.equal('Interrupt ->');
+        }
+      }
+    });
+  });
+});
+
+describe('Translations', () => {
+  const baseTranslationsPath = resolve(__dirname, "../translations");
+  const translationDirs =
+    fs.readdirSync(baseTranslationsPath, { withFileTypes: true })
+      .filter(dirent => dirent.isDirectory())
+      .map(dirent => dirent.name);
+
+  function checkTranslationsSimple(baseTranslationsPath, localeName, baseFileName) {
+    const fileName = `${baseFileName}.${localeName}.json`;
+    const filePath = resolve(baseTranslationsPath, localeName, fileName);
+    const json = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    expect(json, `Translation JSON file ${filePath}`).to.exist;
+  }
+
+  function checkTranslationsPacks(baseTranslationsPath, localeName) {
+    const packsTranslationsPath = resolve(baseTranslationsPath, localeName, 'pack');
+    fs.readdirSync(packsTranslationsPath).forEach(file => {
+      const json = JSON.parse(fs.readFileSync(resolve(packsTranslationsPath, file), 'utf-8'));
+      expect(json, `Translation JSON pack file ${file}`).to.exist;
+    });
+  }
+
+  it('check translations for basic JSON correctness.', () => {
+    translationDirs.forEach((localeName) => {
+      checkTranslationsSimple(baseTranslationsPath, localeName, 'cycles');
+      checkTranslationsSimple(baseTranslationsPath, localeName, 'factions');
+      checkTranslationsSimple(baseTranslationsPath, localeName, 'packs');
+      checkTranslationsSimple(baseTranslationsPath, localeName, 'sides');
+      checkTranslationsSimple(baseTranslationsPath, localeName, 'types');
+      checkTranslationsPacks(baseTranslationsPath, localeName);
+    });
+  });
+});
+
+describe('Prebuilts', () => {
+  it('prebuilts.json is correct JSON', () => {
+    const prebuilts = getPrebuiltsJson();
+    expect(prebuilts).to.exist; 
+  });
+});
+
+describe('Mwl', () => {
+  it('mwl.json is correct JSON', () => {
+    const mwl = getMwlJson();
+    expect(mwl).to.exist; 
   });
 });

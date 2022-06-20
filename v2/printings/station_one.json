@@ -65,9 +65,9 @@
     "illustrator": "Ethan Patrick Harris",
     "position": 26,
     "printed_is_unique": false,
-    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\n[interrupt] → The first time each turn you would increase the strength of an <strong>icebreaker</strong>, for the remainder of the run that <strong>icebreaker</strong> gains \"Abilities that increase this program's strength last for the remainder of the run instead of any other duration.\"\n<errata>Errata from CR 1.4</errata>",
+    "printed_text": "This event is not trashed until another <strong>current</strong> is played or an agenda is scored.\n[interrupt] → The first time each turn you would increase the strength of an <strong>icebreaker</strong>, for the remainder of the run that <strong>icebreaker</strong> gains \"Abilities that increase this program's strength last for the remainder of the run <em>(instead of any shorter duration)</em>.\"",
     "quantity": 3,
-    "stripped_printed_text": "This card is not trashed until another current is played or an agenda is scored. Interrupt -> The first time each turn you would increase the strength of an icebreaker, for the remainder of the run that icebreaker gains \"Abilities that increase this program's strength last for the remainder of the run instead of any other duration.\" Errata from CR 1.4"
+    "stripped_printed_text": "This event is not trashed until another current is played or an agenda is scored. Interrupt -> The first time each turn you would increase the strength of an icebreaker, for the remainder of the run that icebreaker gains \"Abilities that increase this program's strength last for the remainder of the run (instead of any shorter duration).\""
   },
   {
     "card_id": "customized_secretary",
@@ -123,9 +123,9 @@
     "illustrator": "Ed Mattinian",
     "position": 31,
     "printed_is_unique": false,
-    "printed_text": "When the Runner's next turn begins, he or she loses [click].",
+    "printed_text": "When the Runner's next turn begins, they lose [click].",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner's next turn begins, he or she loses click."
+    "stripped_printed_text": "When the Runner's next turn begins, they lose click."
   },
   {
     "card_id": "bloom",
@@ -179,9 +179,9 @@
     "illustrator": "Limetown Studios",
     "position": 36,
     "printed_is_unique": false,
-    "printed_text": "After you resolve this operation, end your action phase.\nInstall this operation on a <strong>connection</strong> resource as a hosted condition counter with \"The Runner is considered to have 1 additional tag. Host connection gains '<strong>[click]</strong>, <strong>2[credit]:</strong> Trash this card.'\"",
+    "printed_text": "After you resolve this operation, your action phase ends.\nHost this operation on an installed <strong>connection</strong> resource as a condition counter with \"The Runner is considered to have 1 additional tag. Host resource gains '<strong>[click]</strong>, <strong>2[credit]:</strong> Trash this resource.'\"",
     "quantity": 3,
-    "stripped_printed_text": "After you resolve this operation, end your action phase. Install this operation on a connection resource as a hosted condition counter with \"The Runner is considered to have 1 additional tag. Host connection gains 'click, 2 credits: Trash this card.'\""
+    "stripped_printed_text": "After you resolve this operation, your action phase ends. Host this operation on an installed connection resource as a condition counter with \"The Runner is considered to have 1 additional tag. Host resource gains ' click, 2 credits: Trash this resource.'\""
   },
   {
     "card_id": "clyde_van_rite",

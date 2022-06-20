@@ -7,9 +7,9 @@
   "influence_cost": 4,
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "Play only if the Runner trashed at least 1 Corp card during his or her last turn. The Runner has 3 fewer click to spend during his or her next turn. The Runner may immediately suffer 1 brain damage to prevent this. Remove Riot Suppression from the game instead of trashing it.",
+  "stripped_text": "Play only if the Runner trashed a Corp card during their last turn. The Runner may suffer 1 brain damage. If they do not, they get -3 allotted click for their next turn. Remove this operation from the game.",
   "stripped_title": "Riot Suppression",
   "subtypes": ["reprisal", "gray_ops"],
-  "text": "Play only if the Runner trashed at least 1 Corp card during his or her last turn.\nThe Runner has 3 fewer [click] to spend during his or her next turn. The Runner may immediately suffer 1 brain damage to prevent this. Remove Riot Suppression from the game instead of trashing it.",
+  "text": "Play only if the Runner trashed a Corp card during their last turn.\nThe Runner may suffer 1 brain damage. If they do not, they get -3 allotted [click] for their next turn.\nRemove this operation from the game.",
   "title": "Riot Suppression"
 }

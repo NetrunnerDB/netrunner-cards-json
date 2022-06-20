@@ -25,12 +25,32 @@ function makeV2Reader(filename: string) {
   }
 }
 
+export function textToId(text: string): string {
+  return text
+    .toLowerCase()
+    // Unicode Canonical Decomposition - switching single code points to multiple code points.
+    .normalize('NFD')
+    // remove non-ASCII
+    .replace(/\P{ASCII}/u, '')
+    // replace 's followed by a space or end-of-line with s and the space/end match.
+    .replace(/'s(\s|$)/gu, 's$1')
+    // split along space or punction.
+    .split(/[\s\p{P}]+/u)
+    // exclude any elements that are empty when trimmed to avoid trailing _ for the join.
+    .filter(x => x.trim() != '')
+    // Finally join back with underscores.
+    .join('_');
+}
+
+export const getCardSubtypesV2Json = makeV2Reader('subtypes');
+export const getCardSetsV2Json = makeV2Reader('printings');
 export const getCyclesJson = makeV1Reader('cycles');
 export const getCyclesV2Json = makeV2Reader('cycles');
 export const getPacksJson = makeV1Reader('packs');
 export const getFactionsJson = makeV1Reader('factions');
 export const getFactionsV2Json = makeV2Reader('factions');
 export const getMwlJson = makeV1Reader('mwl');
+export const getPrebuiltsJson = makeV1Reader('prebuilts');
 export const getRotationsJson = makeV1Reader('rotations');
 export const getSetTypesV2Json = makeV2Reader('set_types');
 export const getSidesJson = makeV1Reader('sides');
@@ -64,6 +84,22 @@ export function getCardsJson(): Record<string, any>[] {
         const path = resolve(directory, file);
         const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
         json.forEach((c: Record<string, any>) => CARDS_JSON.push(c));
+      }
+    });
+  }
+  return CARDS_JSON;
+}
+
+export function getCardsV2Json(): Record<string, any>[] {
+  const CARDS_JSON: Record<string, any>[] = [];
+
+  if (CARDS_JSON.length === 0) {
+    const directory = resolve(__dirname, '..', 'v2/cards');
+    fs.readdirSync(directory).forEach(file => {
+      if (file.endsWith('.json')) {
+        const path = resolve(directory, file);
+        const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
+        CARDS_JSON.push(json);
       }
     });
   }

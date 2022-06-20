@@ -89,9 +89,9 @@
     "position": 81,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "click,click,click,click,click, forfeit an agenda: Add Liberated Chela to your score area as an agenda worth 2 agenda points. The Corp may forfeit an agenda to prevent this. If he or she does, remove Liberated Chela from the game.",
+    "stripped_text": " click click click click click, forfeit an agenda: The Corp may forfeit an agenda to remove this resource from the game. If they do not, add this resource to your score area as an agenda worth 2 agenda points.",
     "stripped_title": "Liberated Chela",
-    "text": "[click],[click],[click],[click],[click], <strong>forfeit an agenda:</strong> Add Liberated Chela to your score area as an agenda worth 2 agenda points. The Corp may forfeit an agenda to prevent this. If he or she does, remove Liberated Chela from the game.",
+    "text": "[click][click][click][click][click], <strong>forfeit an agenda:</strong> The Corp may forfeit an agenda to remove this resource from the game. If they do not, add this resource to your score area as an agenda worth 2 agenda points.",
     "title": "Liberated Chela",
     "type_code": "resource",
     "uniqueness": false
@@ -288,9 +288,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 5,
-    "stripped_text": "Subroutine Trace 5 If successful, the Runner reveals his or her grip. Trash each of those cards with a play or install cost equal to or less than the amount by which your trace strength exceeded his or her link strength.",
+    "stripped_text": "Subroutine Trace 5. If successful, the Runner reveals the grip. Trash each card revealed this way with a play or install cost of X or less. X is equal to the amount by which your trace strength exceeded the Runner's link strength.",
     "stripped_title": "Waiver",
-    "text": "[subroutine]<trace>Trace 5</trace> If successful, the Runner reveals his or her grip. Trash each of those cards with a play or install cost equal to or less than the amount by which your trace strength exceeded his or her link strength.",
+    "text": "[subroutine] <trace>Trace 5</trace>. If successful, the Runner reveals the grip. Trash each card revealed this way with a play or install cost of X or less. X is equal to the amount by which your trace strength exceeded the Runner's link strength.",
     "title": "Waiver",
     "type_code": "ice",
     "uniqueness": false

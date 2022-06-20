@@ -8,10 +8,10 @@
   "is_unique": false,
   "side_id": "corp",
   "strength": 2,
-  "stripped_text": "If Sapper is accessed from R&D, the runner must reveal it. When the Runner accesses Sapper, he or she encounters it. Ignore this ability if the Runner accesses Sapper from Archives. Subroutine Trash 1 program.",
+  "stripped_text": "While the Runner is accessing this ice in R&D, they must reveal it. When the Runner accesses this ice anywhere except in Archives, they encounter it. Subroutine Trash 1 installed program.",
   "stripped_title": "Sapper",
   "subtypes": ["sentry", "destroyer"],
-  "text": "If Sapper is accessed from R&D, the runner must reveal it.\nWhen the Runner accesses Sapper, he or she encounters it. Ignore this ability if the Runner accesses Sapper from Archives.\n[subroutine] Trash 1 program.",
+  "text": "While the Runner is accessing this ice in R&D, they must reveal it.\nWhen the Runner accesses this ice anywhere except in Archives, they encounter it.\n[subroutine] Trash 1 installed program.",
   "title": "Sapper",
   "trash_cost": 2
 }

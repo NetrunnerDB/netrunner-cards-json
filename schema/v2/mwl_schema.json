@@ -1,0 +1,106 @@
+{
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/mwl_schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "code": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "banned": {
+      "type": "array",
+      "items": {
+        "minLength": 1,
+        "type": "string"
+      }
+    },
+    "date_start": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "subtypes": {
+      "type": "object",
+      "properties": {
+        "banned": {
+          "type": "array",
+          "items": {
+            "minLength": 1,
+            "type": "string"
+          }
+        }
+      }
+    },
+    "global_penalty": {
+      "type": "object",
+      "properties": {
+        "1": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "universal_faction_cost": {
+      "type": "object",
+      "properties": {
+        "1": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "3": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "points": {
+      "type": "object",
+      "properties": {
+        "1": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "2": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "3": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "restricted": {
+      "type": "array",
+      "items": {
+        "minLength": 1,
+        "type": "string"
+      }
+    },
+    "name": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "format": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "point_limit": {
+      "minimum": 1,
+      "type": "integer"
+    }
+  },
+  "required": ["code", "name", "date_start", "format"]
+}

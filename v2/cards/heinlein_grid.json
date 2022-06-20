@@ -7,10 +7,10 @@
   "influence_cost": 2,
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "If the Runner loses or spends a click during a run on this server, he or she loses all credits in his or her credit pool. Limit 1 region per server.",
+  "stripped_text": "Whenever the Runner loses or spends click during a run on this server, they lose all credits in their credit pool. Limit 1 region per server.",
   "stripped_title": "Heinlein Grid",
   "subtypes": ["region"],
-  "text": "If the Runner loses or spends a click during a run on this server, he or she loses all credits in his or her credit pool.\nLimit 1 <strong>region</strong> per server.",
+  "text": "Whenever the Runner loses or spends [click] during a run on this server, they lose all credits in their credit pool.\nLimit 1 <strong>region</strong> per server.",
   "title": "Heinlein Grid",
   "trash_cost": 3
 }
