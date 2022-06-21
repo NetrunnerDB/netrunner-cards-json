@@ -27,6 +27,13 @@
           "minLength": 1,
           "type": "string"
         }
+      },
+      "set_types": {
+        "type": "array",
+        "items": {
+          "minLength": 1,
+          "type": "string"
+        }
       }
     },
     "required": ["code", "name"]

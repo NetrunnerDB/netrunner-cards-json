@@ -184,12 +184,12 @@ describe('Card Pools', () => {
           p.cycles.forEach((cycle_id: string) => {
             expect(cardCycleIds.has(cycle_id), `Card pool file ${file}, pool ${p.name} has invalid cycle code ${cycle_id}`).to.be.true;
           });
-        } 
+        }
         if (p.packs) {
           p.packs.forEach((pack_id: string) => {
             expect(cardSetIds.has(pack_id), `Card pool file ${file}, pool ${p.name} has invalid pack id ${pack_id}`).to.be.true;
           });
-        } 
+        }
       });
     });
   });
