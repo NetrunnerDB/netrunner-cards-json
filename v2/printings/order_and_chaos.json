@@ -7,9 +7,9 @@
     "illustrator": "Emilio Rodriguez",
     "position": 1,
     "printed_is_unique": false,
-    "printed_text": "Whenever the Runner steals an agenda, he or she must either take 1 tag or suffer 2 meat damage.",
+    "printed_text": "Whenever the Runner steals an agenda, they must take 1 tag or suffer 2 meat damage.",
     "quantity": 3,
-    "stripped_printed_text": "Whenever the Runner steals an agenda, he or she must either take 1 tag or suffer 2 meat damage."
+    "stripped_printed_text": "Whenever the Runner steals an agenda, they must take 1 tag or suffer 2 meat damage."
   },
   {
     "card_id": "gagarin_deep_space_expanding_the_horizon",
@@ -230,9 +230,9 @@
     "illustrator": "Tey Bartolome",
     "position": 20,
     "printed_is_unique": false,
-    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe first time the Runner installs a card each turn, he or she must trash 1 card from his or her grip.",
+    "printed_text": "This operation is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe first time each turn the Runner installs a card, they trash 1 card from the grip.",
     "quantity": 3,
-    "stripped_printed_text": "This card is not trashed until another current is played or an agenda is stolen. The first time the Runner installs a card each turn, he or she must trash 1 card from his or her grip."
+    "stripped_printed_text": "This operation is not trashed until another current is played or an agenda is stolen. The first time each turn the Runner installs a card, they trash 1 card from the grip."
   },
   {
     "card_id": "patch",
@@ -383,9 +383,9 @@
     "illustrator": "Adam Schumpert",
     "position": 33,
     "printed_is_unique": false,
-    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's maximum hand size is reduced by 1 for each bad publicity he or she has.",
+    "printed_text": "This event is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp gets -1 maximum hand size for each bad publicity they have.",
     "quantity": 3,
-    "stripped_printed_text": "This card is not trashed until another current is played or an agenda is scored. The Corp's maximum hand size is reduced by 1 for each bad publicity he or she has."
+    "stripped_printed_text": "This event is not trashed until another current is played or an agenda is scored. The Corp gets -1 maximum hand size for each bad publicity they have."
   },
   {
     "card_id": "showing_off",
@@ -545,9 +545,9 @@
     "illustrator": "Lili Ibrahim",
     "position": 47,
     "printed_is_unique": true,
-    "printed_text": "+1[mu]\nWhen your turn begins, draw 1 card if the Corp has cards in HQ equal to his or her maximum hand size.\nLimit 1 <strong>console</strong> per player.",
+    "printed_text": "+1[mu]\nWhen your turn begins, if the Corp has cards in HQ equal to their maximum hand size, draw 1 card.\nLimit 1 <strong>console</strong> per player.",
     "quantity": 3,
-    "stripped_printed_text": "+1 mu When your turn begins, draw 1 card if the Corp has cards in HQ equal to his or her maximum hand size. Limit 1 console per player."
+    "stripped_printed_text": "+1 mu When your turn begins, if the Corp has cards in HQ equal to their maximum hand size, draw 1 card. Limit 1 console per player."
   },
   {
     "card_id": "human_first",

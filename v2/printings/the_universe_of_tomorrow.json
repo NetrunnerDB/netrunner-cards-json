@@ -148,9 +148,9 @@
     "illustrator": "Greg Semkow",
     "position": 113,
     "printed_is_unique": true,
-    "printed_text": "The Runner cannot draw more than 2 cards during his or her turn.",
+    "printed_text": "The Runner cannot draw more than 2 cards during each of their turns.",
     "quantity": 3,
-    "stripped_printed_text": "The Runner cannot draw more than 2 cards during his or her turn."
+    "stripped_printed_text": "The Runner cannot draw more than 2 cards during each of their turns."
   },
   {
     "card_id": "franchise_city",
@@ -160,9 +160,9 @@
     "illustrator": "Maciej Rebisz",
     "position": 114,
     "printed_is_unique": false,
-    "printed_text": "While the Runner is accessing an agenda from R&D, they must reveal it.\nWhen the Runner accesses an agenda, add this asset to your score area as an agenda worth 1 agenda point.",
+    "printed_text": "While the Runner is accessing an agenda in R&D, they must reveal it.\nWhen the Runner accesses an agenda, add this asset to your score area as an agenda worth 1 agenda point.",
     "quantity": 3,
-    "stripped_printed_text": "While the Runner is accessing an agenda from R&D, they must reveal it. When the Runner accesses an agenda, add this asset to your score area as an agenda worth 1 agenda point."
+    "stripped_printed_text": "While the Runner is accessing an agenda in R&D, they must reveal it. When the Runner accesses an agenda, add this asset to your score area as an agenda worth 1 agenda point."
   },
   {
     "card_id": "product_placement",
@@ -171,9 +171,9 @@
     "illustrator": "Matt Zeilinger",
     "position": 115,
     "printed_is_unique": false,
-    "printed_text": "If the Runner accesses Product Placement from R&D, he or she must reveal it.\nWhen the Runner accesses Product Placement, the Corp gains 2[credit]. Ignore this effect if Product Placement is accessed from Archives.",
+    "printed_text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade anywhere except in Archives, gain 2[credit].",
     "quantity": 3,
-    "stripped_printed_text": "If the Runner accesses Product Placement from R&D, he or she must reveal it. When the Runner accesses Product Placement, the Corp gains 2 credits. Ignore this effect if Product Placement is accessed from Archives."
+    "stripped_printed_text": "While the Runner is accessing this upgrade in R&D, they must reveal it. When the Runner accesses this upgrade anywhere except in Archives, gain 2 credits."
   },
   {
     "card_id": "worlds_plaza",

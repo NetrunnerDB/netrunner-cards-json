@@ -7,9 +7,9 @@
   "id": "net_quarantine",
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "The Runner's base link strength is reduced to 0 during the first trace each turn. Whenever the Runner increases his or her link strength by spending credits, gain 1 credit for every 2 credits spent.",
+  "stripped_text": "For the first trace each turn, the Runner's link is treated as 0. (They can still increase their link strength by spending credits.) Whenever the Runner spends credits to increase their link strength, gain 1 credit for every 2 credits they spent.",
   "stripped_title": "Net Quarantine",
   "subtypes": ["security"],
-  "text": "The Runner's base link strength is reduced to 0 during the first trace each turn.\nWhenever the Runner increases his or her link strength by spending credits, gain 1[credit] for every 2[credit] spent.",
+  "text": "For the first trace each turn, the Runner's [link] is treated as 0. <em>(They can still increase their link strength by spending credits.)</em>\nWhenever the Runner spends credits to increase their link strength, gain 1[credit] for every 2[credit] they spent.",
   "title": "Net Quarantine"
 }

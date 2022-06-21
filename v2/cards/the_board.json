@@ -7,10 +7,10 @@
   "influence_cost": 5,
   "is_unique": true,
   "side_id": "corp",
-  "stripped_text": "Each agenda in the Runner's score area is worth 1 fewer agenda point. If The Board is trashed while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points.",
+  "stripped_text": "Each agenda in the Runner's score area is worth 1 less agenda point. When this asset is trashed from anywhere while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points.",
   "stripped_title": "The Board",
   "subtypes": ["executive"],
-  "text": "Each agenda in the Runner's score area is worth 1 fewer agenda point.\nIf The Board is trashed while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points.",
+  "text": "Each agenda in the Runner's score area is worth 1 less agenda point.\nWhen this asset is trashed from anywhere while being accessed, add it to the Runner's score area as an agenda worth 2 agenda points.",
   "title": "The Board",
   "trash_cost": 7
 }

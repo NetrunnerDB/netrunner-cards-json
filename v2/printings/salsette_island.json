@@ -101,9 +101,9 @@
     "illustrator": "Sander Mosk",
     "position": 66,
     "printed_is_unique": false,
-    "printed_text": "Whenever the Runner searches his or her stack or installs a card from his or her heap, he or she must trash a card from his or her grip at random.",
+    "printed_text": "Whenever the Runner searches the stack or installs a card from the heap, they trash 1 card from the grip at random.",
     "quantity": 3,
-    "stripped_printed_text": "Whenever the Runner searches his or her stack or installs a card from his or her heap, he or she must trash a card from his or her grip at random."
+    "stripped_printed_text": "Whenever the Runner searches the stack or installs a card from the heap, they trash 1 card from the grip at random."
   },
   {
     "card_id": "jeeves_model_bioroids",
@@ -124,9 +124,9 @@
     "illustrator": "Kate Laird",
     "position": 68,
     "printed_is_unique": true,
-    "printed_text": "This card costs 0 influence if you have 6 or more non-alliance {jinteki} cards in your deck.\nWhenever you draw a card, you may lose [click]. If you do, reveal that card and 1 card in Archives of the same type. Swap those cards. Use this ability only once per turn.",
+    "printed_text": "This asset costs 0 influence if you have 6 or more non-<strong>alliance</strong> [jinteki] cards in your deck.\nWhenever you draw a card, you may lose [click]. If you do, reveal that card and 1 card in Archives of the same type. Swap those cards. Use this ability only once per turn.",
     "quantity": 3,
-    "stripped_printed_text": "This card costs 0 influence if you have 6 or more non-alliance {jinteki} cards in your deck. Whenever you draw a card, you may lose click. If you do, reveal that card and 1 card in Archives of the same type. Swap those cards. Use this ability only once per turn."
+    "stripped_printed_text": "This asset costs 0 influence if you have 6 or more non-alliance jinteki cards in your deck. Whenever you draw a card, you may lose click. If you do, reveal that card and 1 card in Archives of the same type. Swap those cards. Use this ability only once per turn."
   },
   {
     "card_id": "upayoga",
@@ -159,9 +159,9 @@
     "illustrator": "Samuel Leung",
     "position": 71,
     "printed_is_unique": false,
-    "printed_text": "This card costs 0 influence if you have 6 or more non-<strong>alliance</strong> [nbn] cards in your deck.\nName a card. The Runner reveals his or her grip and trashes all copies of the named card from his or her grip.",
+    "printed_text": "This operation costs 0 influence if you have 6 or more non-<strong>alliance</strong> [nbn] cards in your deck.\nChoose a card name. The Runner reveals the grip and trashes all cards with the chosen name revealed this way.",
     "quantity": 3,
-    "stripped_printed_text": "This card costs 0 influence if you have 6 or more non-alliance nbn cards in your deck. Name a card. The Runner reveals his or her grip and trashes all copies of the named card from his or her grip."
+    "stripped_printed_text": "This operation costs 0 influence if you have 6 or more non-alliance nbn cards in your deck. Choose a card name. The Runner reveals the grip and trashes all cards with the chosen name revealed this way."
   },
   {
     "card_id": "executive_search_firm",
@@ -217,8 +217,8 @@
     "illustrator": "Adam S. Doyle",
     "position": 76,
     "printed_is_unique": false,
-    "printed_text": "This card costs 0 influence if you have 7 or more assets in your deck.\nIf the Runner accesses Mumbad Virtual Tour while it is installed, he or she must trash it, if able.",
+    "printed_text": "This upgrade costs 0 influence if you have 7 or more assets in your deck.\nWhen the Runner accesses this upgrade while it is installed, they must trash it, if able.",
     "quantity": 3,
-    "stripped_printed_text": "This card costs 0 influence if you have 7 or more assets in your deck. If the Runner accesses Mumbad Virtual Tour while it is installed, he or she must trash it, if able."
+    "stripped_printed_text": "This upgrade costs 0 influence if you have 7 or more assets in your deck. When the Runner accesses this upgrade while it is installed, they must trash it, if able."
   }
 ]

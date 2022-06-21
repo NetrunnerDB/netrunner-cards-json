@@ -17,9 +17,9 @@
     "illustrator": "Lili Ibrahim",
     "position": 22,
     "printed_is_unique": false,
-    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to make the first run not made through a card ability on his or her turn, the Runner must spend [click].",
+    "printed_text": "This operation is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to take the basic action to run a server for the first time each turn, the Runner must spend [click].",
     "quantity": 3,
-    "stripped_printed_text": "This card is not trashed until another current is played or an agenda is stolen. As an additional cost to make the first run not made through a card ability on his or her turn, the Runner must spend click."
+    "stripped_printed_text": "This operation is not trashed until another current is played or an agenda is stolen. As an additional cost to take the basic action to run a server for the first time each turn, the Runner must spend click."
   },
   {
     "card_id": "heinlein_grid",
@@ -29,9 +29,9 @@
     "illustrator": "Henning Ludvigsen",
     "position": 23,
     "printed_is_unique": false,
-    "printed_text": "If the Runner loses or spends a click during a run on this server, he or she loses all credits in his or her credit pool.\nLimit 1 <strong>region</strong> per server.",
+    "printed_text": "Whenever the Runner loses or spends [click] during a run on this server, they lose all credits in their credit pool.\nLimit 1 <strong>region</strong> per server.",
     "quantity": 3,
-    "stripped_printed_text": "If the Runner loses or spends a click during a run on this server, he or she loses all credits in his or her credit pool. Limit 1 region per server."
+    "stripped_printed_text": "Whenever the Runner loses or spends click during a run on this server, they lose all credits in their credit pool. Limit 1 region per server."
   },
   {
     "card_id": "encrypted_portals",
@@ -76,9 +76,9 @@
     "illustrator": "Ed Mattinian",
     "position": 27,
     "printed_is_unique": false,
-    "printed_text": "When the Runner encounters Information Overload, <trace>trace 1</trace> if the trace is successful, give the Runner 1 tag.\nInformation Overload gains \"[subroutine] The Runner trashes 1 of his or her installed cards.\" for each tag the Runner has.",
+    "printed_text": "When the Runner encounters this ice, <trace>trace 1</trace>. If successful, give them 1 tag.\nThis ice gains \"[subroutine] The Runner trashes 1 of their installed cards.\" for each tag the Runner has.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters Information Overload, trace 1 if the trace is successful, give the Runner 1 tag. Information Overload gains \"Subroutine The Runner trashes 1 of his or her installed cards.\" for each tag the Runner has."
+    "stripped_printed_text": "When the Runner encounters this ice, trace 1. If successful, give them 1 tag. This ice gains \"Subroutine The Runner trashes 1 of their installed cards.\" for each tag the Runner has."
   },
   {
     "card_id": "paywall_implementation",
@@ -133,9 +133,9 @@
     "illustrator": "Adam S. Doyle",
     "position": 32,
     "printed_is_unique": false,
-    "printed_text": "Whenever there is a successful run on this server, you may trash Will-o'-the-Wisp. If you do, choose an <strong>icebreaker</strong> that was used to break at least 1 subroutine during this run. The Runner adds that <strong>icebreaker</strong> to the bottom of his or her stack.",
+    "printed_text": "Whenever there is a successful run on this server, you may trash this upgrade. If you do, choose 1 installed <strong>icebreaker</strong> that was used to break at least 1 subroutine during this run. The Runner adds that <strong>icebreaker</strong> to the bottom of the stack.",
     "quantity": 3,
-    "stripped_printed_text": "Whenever there is a successful run on this server, you may trash Will-o'-the-Wisp. If you do, choose an icebreaker that was used to break at least 1 subroutine during this run. The Runner adds that icebreaker to the bottom of his or her stack."
+    "stripped_printed_text": "Whenever there is a successful run on this server, you may trash this upgrade. If you do, choose 1 installed icebreaker that was used to break at least 1 subroutine during this run. The Runner adds that icebreaker to the bottom of the stack."
   },
   {
     "card_id": "d4v1d",

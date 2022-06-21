@@ -2,15 +2,8 @@
   {
     "code": "snapshot",
     "name": "Snapshot",
-    "cycles": [
-      "lunar",
-      "sansan",
-      "mumbad",
-      "flashpoint",
-      "red_sand",
-      "kitara"
-    ],
-    "sets": [
+    "cycles": ["lunar", "sansan", "mumbad", "flashpoint", "red_sand", "kitara"],
+    "packs": [
       "creation_and_control",
       "honor_and_profit",
       "order_and_chaos",
