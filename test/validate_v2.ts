@@ -83,8 +83,16 @@ describe('Card Subtypes', () => {
 
 describe('Card Sets', () => {
   const sets = getCardSetsV2Json();
+
   it('sets.json passes schema validation', () => {
     validateAgainstSchema('card_set_schema.json', sets);
+  });
+
+  it('has valid cycle ids', () => {
+    const cardCycleIds = new Set(getCyclesV2Json().map(c => c.code));
+    sets.forEach(s => {
+     expect(cardCycleIds, `Card set ${s.name} has invalid card_cycle_id ${s.card_cycle_id}`).to.include(s.card_cycle_id);
+    });
   });
 });
 
