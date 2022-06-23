@@ -9,38 +9,82 @@
       "sansan",
       "mumbad",
       "flashpoint",
-      "red-sand"
+      "red_sand"
     ],
-    "packs": ["core", "cac", "hap", "oac", "dad", "td"]
+    "packs": [
+      "core_set",
+      "creation_and_control",
+      "honor_and_profit",
+      "order_and_chaos",
+      "data_and_destiny",
+      "terminal_directive_cards"
+    ]
   },
   {
     "code": "rotation_2017",
     "name": "First Rotation",
-    "cycles": ["lunar", "sansan", "mumbad", "flashpoint", "red-sand", "kitara"],
-    "packs": ["cac", "hap", "oac", "dad", "td", "core2", "rar"]
+    "cycles": ["lunar", "sansan", "mumbad", "flashpoint", "red_sand", "kitara"],
+    "packs": [
+      "creation_and_control",
+      "honor_and_profit",
+      "order_and_chaos",
+      "data_and_destiny",
+      "terminal_directive_cards",
+      "revised_core_set",
+      "reign_and_reverie"
+    ]
   },
   {
     "code": "rotation_2018",
     "name": "Second Rotation",
-    "cycles": ["lunar", "sansan", "mumbad", "flashpoint", "red-sand", "kitara"],
-    "packs": ["cac", "hap", "oac", "dad", "rar", "mo", "sc19"]
+    "cycles": ["lunar", "sansan", "mumbad", "flashpoint", "red_sand", "kitara"],
+    "packs": [
+      "creation_and_control",
+      "honor_and_profit",
+      "order_and_chaos",
+      "data_and_destiny",
+      "reign_and_reverie",
+      "magnum_opus",
+      "system_core_2019"
+    ]
   },
   {
     "code": "rotation_2019",
     "name": "Third Rotation",
-    "cycles": ["sansan", "mumbad", "flashpoint", "red-sand", "kitara", "ashes"],
-    "packs": ["hap", "oac", "dad", "rar", "sc19", "mor"]
+    "cycles": ["sansan", "mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
+    "packs": [
+      "honor_and_profit",
+      "order_and_chaos",
+      "data_and_destiny",
+      "reign_and_reverie",
+      "magnum_opus",
+      "system_core_2019"
+    ]
   },
   {
     "code": "rotation_2020",
     "name": "Salvaged Memories",
-    "cycles": ["sansan", "mumbad", "flashpoint", "red-sand", "kitara", "ashes"],
-    "packs": ["hap", "oac", "dad", "rar", "sc19", "mor", "sm"]
+    "cycles": ["sansan", "mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
+    "packs": [
+      "honor_and_profit",
+      "order_and_chaos",
+      "data_and_destiny",
+      "reign_and_reverie",
+      "magnum_opus",
+      "system_core_2019",
+      "salvaged_memories"
+    ]
   },
   {
     "code": "rotation_2021",
     "name": "Fourth Rotation",
-    "cycles": ["mumbad", "flashpoint", "red-sand", "kitara", "ashes"],
-    "packs": ["oac", "dad", "rar", "mor", "sg"]
+    "cycles": ["mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
+    "packs": [
+      "order_and_chaos",
+      "data_and_destiny",
+      "reign_and_reverie",
+      "magnum_opus",
+      "system_gateway"
+    ]
   }
 ]
