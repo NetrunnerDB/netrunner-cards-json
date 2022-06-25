@@ -32,5 +32,8 @@ describe('card text matches between versions', () => {
         expect(stripped_text, `Stripped text mismatch for ${title}`).to.equal(v2StrippedText.get(title));
     });
   });
+});
+
+describe('printing illustrators match between versions', () => {
 
 });
