@@ -225,19 +225,19 @@ describe('Card Pools', () => {
   });
 });
 
-describe('MWLs', () => {
-  const mwlsDir = resolve(__dirname, "../v2/mwls");
-  const formatsForMwls =
-    fs.readdirSync(mwlsDir, { withFileTypes: true })
+describe('Restrictions', () => {
+  const restrictionsDir = resolve(__dirname, "../v2/restrictions");
+  const formatsForRestrictions =
+    fs.readdirSync(restrictionsDir, { withFileTypes: true })
       .filter(dirent => dirent.isDirectory())
       .map(dirent => dirent.name);
 
-  const mwlFiles = new Array<string>();
-  formatsForMwls.forEach(format => {
-    fs.readdirSync(resolve(mwlsDir, format), { withFileTypes: true })
+  const restrictionFiles = new Array<string>();
+  formatsForRestrictions.forEach(format => {
+    fs.readdirSync(resolve(restrictionsDir, format), { withFileTypes: true })
       .filter(dirent => dirent.isFile())
-      .map(dirent => dirent.name).forEach(mwl => {
-        mwlFiles.push(resolve(mwlsDir, format, mwl));
+      .map(dirent => dirent.name).forEach(restriction => {
+        restrictionFiles.push(resolve(restrictionsDir, format, restriction));
       });
   });
 
@@ -255,72 +255,72 @@ describe('MWLs', () => {
   const cardIds = new Set<string>(getCardsV2Json().map(c => c.id));
   const subtypes = new Set<string>(getCardSubtypesV2Json().map(c => c.id));
 
-  const schema_path = resolve(__dirname, "../schema/v2/mwl_schema.json");
+  const schema_path = resolve(__dirname, "../schema/v2/restriction_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
 
-  it('MWL files pass schema validation', () => {
-    mwlFiles.forEach(file => {
-      const mwl = JSON.parse(fs.readFileSync(file, 'utf-8'));
-      validate(mwl);
+  it('restriction files pass schema validation', () => {
+    restrictionFiles.forEach(file => {
+      const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
+      validate(restriction);
       if (validate.errors) {
-        expect.fail(`MWL file ${basename(file)} for ${mwl.format} format: ${ajv.errorsText(validate.errors)}`);
+        expect.fail(`Restriction file ${basename(file)} for ${restriction.format} format: ${ajv.errorsText(validate.errors)}`);
       }
     });
   });
 
-  it('MWL files have unique codes and names', () => {
-    const mwlCodes = new Set<string>();
-    const mwlNames = new Set<string>();
-    mwlFiles.forEach(file => {
-      const mwl = JSON.parse(fs.readFileSync(file, 'utf-8'));
-      expect(mwlNames.has(mwl.name), `Mwl ${basename(file)} for format ${mwl.format} has duplicate name ${mwl.name}`).to.be.false;
-      mwlNames.add(mwl.name);
-      expect(mwlCodes.has(mwl.code), `Mwl ${basename(file)} for format ${mwl.format} has duplicate code ${mwl.name}`).to.be.false;
-      mwlCodes.add(mwl.code);
+  it('restriction files have unique codes and names', () => {
+    const restrictionCodes = new Set<string>();
+    const restrictionNames = new Set<string>();
+    restrictionFiles.forEach(file => {
+      const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
+      expect(restrictionNames.has(restriction.name), `Restriction ${basename(file)} for format ${restriction.format} has duplicate name ${restriction.name}`).to.be.false;
+      restrictionNames.add(restriction.name);
+      expect(restrictionCodes.has(restriction.code), `Restriction ${basename(file)} for format ${restriction.format} has duplicate code ${restriction.name}`).to.be.false;
+      restrictionCodes.add(restriction.code);
     });
   });
 
-  it('MWL files have valid ids', () => {
-    mwlFiles.forEach(file => {
-      const mwl = JSON.parse(fs.readFileSync(file, 'utf-8'));
-      expect(formatCodes.has(mwl.format), `Mwl ${mwl.name} has invalid format ${mwl.format}`).to.be.true;
+  it('restriction files have valid ids', () => {
+    restrictionFiles.forEach(file => {
+      const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
+      expect(formatCodes.has(restriction.format), `Restriction ${restriction.name} has invalid format ${restriction.format}`).to.be.true;
 
       // TODO(plural): Ensure that banned contains all cards with the given subtypes.
-      if (mwl.subtypes) {
-        mwl.subtypes.banned.forEach(s => {
-          expect(subtypes.has(s), `Mwl ${mwl.name} has invalid subtype ${s}`).to.be.true;
+      if (restriction.subtypes) {
+        restriction.subtypes.banned.forEach(s => {
+          expect(subtypes.has(s), `Restriction ${restriction.name} has invalid subtype ${s}`).to.be.true;
         });
       }
 
-      if (mwl.banned) {
-        mwl.banned.forEach(c => {
-          expect(cardIds.has(c), `Mwl ${mwl.name} has invalid card ${c} in banned`).to.be.true;
+      if (restriction.banned) {
+        restriction.banned.forEach(c => {
+          expect(cardIds.has(c), `Restriction ${restriction.name} has invalid card ${c} in banned`).to.be.true;
         });
       }
-      if (mwl.restricted) {
-        mwl.restricted.forEach(c => {
-          expect(cardIds.has(c), `Mwl ${mwl.name} has invalid card ${c} in restricted`).to.be.true;
+      if (restriction.restricted) {
+        restriction.restricted.forEach(c => {
+          expect(cardIds.has(c), `Restriction ${restriction.name} has invalid card ${c} in restricted`).to.be.true;
         });
       }
-      if (mwl.universal_faction_cost) {
-        for (const cost in mwl.universal_faction_cost) {
-          mwl.universal_faction_cost[cost].forEach(card => {
-            expect(cardIds.has(card), `Mwl ${mwl.name} has invalid card ${card} in universal_faction_cost["${cost}"]`).to.be.true;
+      if (restriction.universal_faction_cost) {
+        for (const cost in restriction.universal_faction_cost) {
+          restriction.universal_faction_cost[cost].forEach(card => {
+            expect(cardIds.has(card), `Restriction ${restriction.name} has invalid card ${card} in universal_faction_cost["${cost}"]`).to.be.true;
           });
         }
       }
-      if (mwl.global_penalty) {
-        for (const cost in mwl.global_penalty) {
-          mwl.global_penalty[cost].forEach(card => {
-            expect(cardIds.has(card), `Mwl ${mwl.name} has invalid card ${card} in global_penalty["${cost}"]`).to.be.true;
+      if (restriction.global_penalty) {
+        for (const cost in restriction.global_penalty) {
+          restriction.global_penalty[cost].forEach(card => {
+            expect(cardIds.has(card), `Restriction ${restriction.name} has invalid card ${card} in global_penalty["${cost}"]`).to.be.true;
           });
         }
       }
-      if (mwl.points) {
-        for (const cost in mwl.points) {
-          mwl.points[cost].forEach(card => {
-            expect(cardIds.has(card), `Mwl ${mwl.name} has invalid card ${card} in points["${cost}"]`).to.be.true;
+      if (restriction.points) {
+        for (const cost in restriction.points) {
+          restriction.points[cost].forEach(card => {
+            expect(cardIds.has(card), `Restriction ${restriction.name} has invalid card ${card} in points["${cost}"]`).to.be.true;
           });
         }
       }
@@ -372,7 +372,7 @@ describe('Formats', () => {
     });
   });
 
-  it('format files have valid card pools and mwls', () => {
+  it('format files have valid card pools and restrictions', () => {
     const cardPoolDir = resolve(__dirname, "../v2/card_pools");
     const cardPoolFiles =
       fs.readdirSync(cardPoolDir, { withFileTypes: true })
@@ -394,31 +394,31 @@ describe('Formats', () => {
       }
     });
 
-    const mwlsDir = resolve(__dirname, "../v2/mwls");
-    const formatsForMwls =
-      fs.readdirSync(mwlsDir, { withFileTypes: true })
+    const restrictionsDir = resolve(__dirname, "../v2/restrictions");
+    const formatsForRestrictions =
+      fs.readdirSync(restrictionsDir, { withFileTypes: true })
         .filter(dirent => dirent.isDirectory())
         .map(dirent => dirent.name);
 
-    const mwlFiles = new Array<string>();
-    formatsForMwls.forEach(format => {
-      fs.readdirSync(resolve(mwlsDir, format), { withFileTypes: true })
+    const restrictionFiles = new Array<string>();
+    formatsForRestrictions.forEach(format => {
+      fs.readdirSync(resolve(restrictionsDir, format), { withFileTypes: true })
         .filter(dirent => dirent.isFile())
-        .map(dirent => dirent.name).forEach(mwl => {
-          mwlFiles.push(resolve(mwlsDir, format, mwl));
+        .map(dirent => dirent.name).forEach(restriction => {
+          restrictionFiles.push(resolve(restrictionsDir, format, restriction));
         });
     });
-    const mwlCodes = new Set<string>();
-    mwlFiles.forEach(file => {
-      const mwl = JSON.parse(fs.readFileSync(file, 'utf-8'));
-      mwlCodes.add(mwl.code);
+    const restrictionCodes = new Set<string>();
+    restrictionFiles.forEach(file => {
+      const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
+      restrictionCodes.add(restriction.code);
     });
     formatPoolFiles.forEach(file => {
       const format = JSON.parse(fs.readFileSync(resolve(formatPoolDir, file), 'utf-8'));
       if (format.snapshots) {
         format.snapshots.forEach(s => {
-          if (s.mwl) {
-            expect(mwlCodes, `Snapshot ${format.name} has invalid mwl code ${s.mwl}`).includes(s.mwl);
+          if (s.restriction) {
+            expect(restrictionCodes, `Snapshot ${format.name} has invalid restriction code ${s.restriction}`).includes(s.restriction);
           }
         });
       }
