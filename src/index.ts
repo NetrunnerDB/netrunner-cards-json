@@ -42,14 +42,14 @@ export function textToId(text: string): string {
     .join('_');
 }
 
-export const getCardSubtypesV2Json = makeV2Reader('subtypes');
 export const getCardSetsV2Json = makeV2Reader('printings');
+export const getCardSubtypesV2Json = makeV2Reader('subtypes');
 export const getCyclesJson = makeV1Reader('cycles');
 export const getCyclesV2Json = makeV2Reader('cycles');
-export const getPacksJson = makeV1Reader('packs');
 export const getFactionsJson = makeV1Reader('factions');
 export const getFactionsV2Json = makeV2Reader('factions');
 export const getMwlJson = makeV1Reader('mwl');
+export const getPacksJson = makeV1Reader('packs');
 export const getPrebuiltsJson = makeV1Reader('prebuilts');
 export const getRotationsJson = makeV1Reader('rotations');
 export const getSetTypesV2Json = makeV2Reader('set_types');
@@ -104,4 +104,22 @@ export function getCardsV2Json(): Record<string, any>[] {
     });
   }
   return CARDS_JSON;
+}
+
+export function getPrintingsV2Json(): Record<string, any>[] {
+  const PRINTINGS_JSON: Record<string, any>[] = [];
+
+  if (PRINTINGS_JSON.length === 0) {
+    const printingDir = resolve(__dirname, "../v2/printings");
+    const printingFiles =
+      fs.readdirSync(printingDir, { withFileTypes: true })
+        .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
+        .map(dirent => dirent.name);
+
+    printingFiles.forEach(file => {
+      const json = JSON.parse(fs.readFileSync(resolve(printingDir, file), 'utf-8'));
+      json.forEach((p: Record<string, any>) => PRINTINGS_JSON.push(p));
+    });
+  }
+  return PRINTINGS_JSON;
 }

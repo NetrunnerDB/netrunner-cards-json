@@ -99,9 +99,9 @@
     "illustrator": "Simon Boxer",
     "position": 9,
     "printed_is_unique": true,
-    "printed_text": "+1[mu]\n[interrupt] → Once per turn, when you would play or install a card, you may trash 1 card from your grip to lower the play or install cost by 2.\nLimit 1 <strong>console</strong> per player.\n<errata>Errata from CR 1.4</errata>",
+    "printed_text": "+1[mu]\n[interrupt] → Whenever you would play or install a card, you may trash 1 card from your grip. If you do, instead play or install that card paying 2[credit] less. Use this ability only once per turn.\nLimit 1 <strong>console</strong> per player.",
     "quantity": 2,
-    "stripped_printed_text": "+1 mu Interrupt -> Once per turn, when you would play or install a card, you may trash 1 card from your grip to lower the play or install cost by 2. Limit 1 console per player. Errata from CR 1.4"
+    "stripped_printed_text": "+1 mu Interrupt -> Whenever you would play or install a card, you may trash 1 card from your grip. If you do, instead play or install that card paying 2 credits less. Use this ability only once per turn. Limit 1 console per player."
   },
   {
     "card_id": "corroder",
