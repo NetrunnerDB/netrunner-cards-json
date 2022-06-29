@@ -3,21 +3,13 @@ import chai = require('chai');
 const expect = chai.expect;
 
 describe('Cards v1/v2 equality', () => {
-  const v1Cards = getCardsJson();
   const v1CardsByTitle = new Map<string, any>();
-  v1Cards.forEach(c => {
+  getCardsJson().forEach(c => {
     v1CardsByTitle.set(c.title, c);
   });
   const v2CardsByTitle = new Map<string, any>();
-  const v2Text = new Map<string, string>();
-  const v2StrippedText = new Map<string, string>();
-  const v2StrippedTitle = new Map<string, string>();
-  const v2Cards = getCardsV2Json();
-  v2Cards.forEach(c => {
+  getCardsV2Json().forEach(c => {
     v2CardsByTitle.set(c.title, c);
-    v2Text.set(c.title, c.text);
-    v2StrippedText.set(c.title, c.stripped_text);
-    v2StrippedTitle.set(c.title, c.stripped_title);
   });
 
   it('correct number of cards', () => {
@@ -43,112 +35,78 @@ describe('Cards v1/v2 equality', () => {
     });
   });
 
-  function validatev1V2Equality(fieldName, v1Getter, v2Getter) {
+  function validatev1V2Equality(fieldName, v1Field, v2Field) {
     v1CardsByTitle.forEach((c, title) => {
-        expect(v1Getter(title), `${fieldName} mismatch for ${title}`).to.equal(v2Getter(title));
+        expect(v1CardsByTitle.get(title)[v1Field], `${v2Field} mismatch for ${title}`).to.equal(v2CardsByTitle.get(title)[v2Field]);
     });
   }
 
   it('text matches', () => {
-    validatev1V2Equality('text',
-        function(title) { return v1CardsByTitle.get(title).text; }, 
-        function(title) { return v2CardsByTitle.get(title).text; }); 
+    validatev1V2Equality('text', 'text', 'text');
   });
 
   it('stripped_text matches', () => {
-    validatev1V2Equality('stripped_text',
-        function(title) { return v1CardsByTitle.get(title).stripped_text; }, 
-        function(title) { return v2CardsByTitle.get(title).stripped_text; }); 
+    validatev1V2Equality('stripped_text', 'stripped_text', 'stripped_text');
   });
 
   it('stripped_title matches', () => {
-    validatev1V2Equality('stripped_title',
-        function(title) { return v1CardsByTitle.get(title).stripped_title; }, 
-        function(title) { return v2CardsByTitle.get(title).stripped_title; }); 
+    validatev1V2Equality('stripped_title', 'stripped_title', 'stripped_title');
   });
 
   it('advancement_requirement matches', () => {
-    validatev1V2Equality('advancement_requirement',
-        function(title) { return v1CardsByTitle.get(title).advancement_cost; }, 
-        function(title) { return v2CardsByTitle.get(title).advancement_requirement; }); 
+    validatev1V2Equality('advancement_cost', 'advancement_requirement', 'advancement_cost');
   });
 
   it('agenda_points matches', () => {
-    validatev1V2Equality('agenda_points',
-        function(title) { return v1CardsByTitle.get(title).agenda_points; }, 
-        function(title) { return v2CardsByTitle.get(title).agenda_points; }); 
+    validatev1V2Equality('agenda_points', 'agenda_points', 'agenda_points');
   });
 
   it('base_link matches', () => {
-    validatev1V2Equality('base_link',
-        function(title) { return v1CardsByTitle.get(title).base_link; }, 
-        function(title) { return v2CardsByTitle.get(title).base_link; }); 
+    validatev1V2Equality('base_link', 'base_link', 'base_link');
   });
 
   it('cost matches', () => {
-    validatev1V2Equality('cost',
-        function(title) { return v1CardsByTitle.get(title).cost; }, 
-        function(title) { return v2CardsByTitle.get(title).cost; }); 
+    validatev1V2Equality('cost', 'cost', 'cost');
   });
 
   it('deck_limit matches', () => {
-    validatev1V2Equality('deck_limit',
-        function(title) { return v1CardsByTitle.get(title).deck_limit; }, 
-        function(title) { return v2CardsByTitle.get(title).deck_limit; }); 
+    validatev1V2Equality('deck_limit', 'deck_limit', 'deck_limit');
   });
 
   it('faction_id matches', () => {
-    validatev1V2Equality('faction_id',
-        function(title) { return v1CardsByTitle.get(title).faction_code; }, 
-        function(title) { return v2CardsByTitle.get(title).faction_id; }); 
+    validatev1V2Equality('faction_id', 'faction_code', 'faction_id');
   });
 
   it('influence_cost matches', () => {
-    validatev1V2Equality('influence_cost',
-        function(title) { return v1CardsByTitle.get(title).faction_cost; }, 
-        function(title) { return v2CardsByTitle.get(title).influence_cost; }); 
+    validatev1V2Equality('influence_cost', 'faction_cost', 'influence_cost');
   });
 
   it('influence_limit matches', () => {
-    validatev1V2Equality('influence_limit',
-        function(title) { return v1CardsByTitle.get(title).influence_limit; }, 
-        function(title) { return v2CardsByTitle.get(title).influence_limit; }); 
+    validatev1V2Equality('influence_limit', 'influence_limit', 'influence_limit');
   });
 
   it('memory_cost matches', () => {
-    validatev1V2Equality('memory_cost',
-        function(title) { return v1CardsByTitle.get(title).memory_cost; }, 
-        function(title) { return v2CardsByTitle.get(title).memory_cost; }); 
+    validatev1V2Equality('memory_cost', 'memory_cost', 'memory_cost');
   });
 
   it('minimum_deck_size matches', () => {
-    validatev1V2Equality('minimum_deck_size',
-        function(title) { return v1CardsByTitle.get(title).minimum_deck_size; }, 
-        function(title) { return v2CardsByTitle.get(title).minimum_deck_size; }); 
+    validatev1V2Equality('minimum_deck_size', 'minimum_deck_size', 'minimum_deck_size');
   });
 
   it('side_id matches', () => {
-    validatev1V2Equality('side_id',
-        function(title) { return v1CardsByTitle.get(title).side_code; }, 
-        function(title) { return v2CardsByTitle.get(title).side_id; }); 
+    validatev1V2Equality('side_id', 'side_code', 'side_id');
   });
 
   it('strength matches', () => {
-    validatev1V2Equality('strength',
-        function(title) { return v1CardsByTitle.get(title).strength; }, 
-        function(title) { return v2CardsByTitle.get(title).strength; }); 
+    validatev1V2Equality('strength', 'strength', 'strength');
   });
 
   it('trash_cost matches', () => {
-    validatev1V2Equality('trash_cost',
-        function(title) { return v1CardsByTitle.get(title).trash_cost; }, 
-        function(title) { return v2CardsByTitle.get(title).trash_cost; }); 
+    validatev1V2Equality('trash_cost', 'trash_cost', 'trash_cost');
   });
 
   it('is_unique matches', () => {
-    validatev1V2Equality('trash_cost',
-        function(title) { return v1CardsByTitle.get(title).uniqueness; }, 
-        function(title) { return v2CardsByTitle.get(title).is_unique; }); 
+    validatev1V2Equality('is_unique', 'uniqueness', 'is_unique');
   });
 });
 
@@ -173,9 +131,9 @@ describe('Printings v1/v2 equality', () => {
     });
   });
 
-  function validatev1V2Equality(fieldName, v1Getter, v2Getter) {
-    v1CardsByCode.forEach((c, code) => {
-        expect(v1Getter(code), `${fieldName} mismatch for ${code}`).to.equal(v2Getter(code));
+  function validatev1V2Equality(fieldName, v1Field, v2Field) {
+    v1CardsByCode.forEach((c, id) => {
+        expect(c[v1Field], `${v2Field} mismatch for ${id}`).to.equal(printingsById.get(id)[v2Field]);
     });
   }
 
@@ -191,54 +149,40 @@ describe('Printings v1/v2 equality', () => {
   sets.forEach(s => {
     setsById.set(s.id, s.name);
   });
-/*
-pack_code	card_set_id
-*/
+
   it('card set matches pack names.', () => {
     v1CardsByCode.forEach((v1, code) => {
-      expect(packsByCode.get(v1.pack_code), `Card set mismatch for printing id ${code} for ${v1CardsByCode.get(code).title}`).to.equal(setsById.get(printingsById.get(code).card_set_id));
+      expect(packsByCode.get(v1.pack_code),
+          `Card set mismatch for printing id ${code} for ${v1CardsByCode.get(code).title}`)
+        .to.equal(setsById.get(printingsById.get(code).card_set_id));
     });
   });
 
   it('flavor matches', () => {
-    validatev1V2Equality('flavor',
-        function(code) { return v1CardsByCode.get(code).flavor; }, 
-        function(code) { return printingsById.get(code).flavor; }); 
+    validatev1V2Equality('flavor', 'flavor', 'flavor');
   });
 
   it('illustrator matches', () => {
-    validatev1V2Equality('illustrator',
-        function(code) { return v1CardsByCode.get(code).illustrator; }, 
-        function(code) { return printingsById.get(code).illustrator; }); 
+    validatev1V2Equality('illustrator', 'illustrator', 'illustrator');
   });
 
   it('position matches', () => {
-    validatev1V2Equality('position',
-        function(code) { return v1CardsByCode.get(code).position; }, 
-        function(code) { return printingsById.get(code).position; }); 
+    validatev1V2Equality('position', 'position', 'position');
   });
 
   it('printed_is_unique matches', () => {
-    validatev1V2Equality('printed_is_unique',
-        function(code) { return v1CardsByCode.get(code).uniqueness; }, 
-        function(code) { return printingsById.get(code).printed_is_unique; }); 
+    validatev1V2Equality('printed_is_unique', 'uniqueness', 'printed_is_unique');
   });
 
   it('printed_text matches', () => {
-    validatev1V2Equality('printed_text',
-        function(code) { return v1CardsByCode.get(code).text; }, 
-        function(code) { return printingsById.get(code).printed_text; }); 
+    validatev1V2Equality('printed_text', 'text', 'printed_text');
   });
 
   it('quantity matches', () => {
-    validatev1V2Equality('quantity',
-        function(code) { return v1CardsByCode.get(code).quantity; }, 
-        function(code) { return printingsById.get(code).quantity; }); 
+    validatev1V2Equality('quantity', 'quantity', 'quantity');
   });
 
   it('stripped_printed_text matches', () => {
-    validatev1V2Equality('stripped_printed_text',
-        function(code) { return v1CardsByCode.get(code).stripped_text; }, 
-        function(code) { return printingsById.get(code).stripped_printed_text; }); 
+    validatev1V2Equality('stripped_printed_text', 'stripped_text', 'stripped_printed_text');
   });
 });

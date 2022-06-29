@@ -61,65 +61,57 @@ export const getTypesV2Json = makeV2Reader('types');
 export function getPackFilesJson(): Map<string, Record<string, any>[]> {
   const PACKS_JSON = new Map<string, Record<string, any>[]>();
 
-  if (PACKS_JSON.size === 0) {
-    const directory = resolve(__dirname, '..', 'pack');
-    fs.readdirSync(directory).forEach(file => {
-      if (file.endsWith('.json')) {
-        const path = resolve(directory, file);
-        const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
-                                PACKS_JSON.set(file.replace(".json", ""), json);
-      }
-    });
-  }
+  const directory = resolve(__dirname, '..', 'pack');
+  fs.readdirSync(directory).forEach(file => {
+    if (file.endsWith('.json')) {
+      const path = resolve(directory, file);
+      const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
+                              PACKS_JSON.set(file.replace(".json", ""), json);
+    }
+  });
   return PACKS_JSON;
 }
 
 export function getCardsJson(): Record<string, any>[] {
   const CARDS_JSON: Record<string, any>[] = [];
 
-  if (CARDS_JSON.length === 0) {
-    const directory = resolve(__dirname, '..', 'pack');
-    fs.readdirSync(directory).forEach(file => {
-      if (file.endsWith('.json')) {
-        const path = resolve(directory, file);
-        const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
-        json.forEach((c: Record<string, any>) => CARDS_JSON.push(c));
-      }
-    });
-  }
+  const directory = resolve(__dirname, '..', 'pack');
+  fs.readdirSync(directory).forEach(file => {
+    if (file.endsWith('.json')) {
+      const path = resolve(directory, file);
+      const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
+      json.forEach((c: Record<string, any>) => CARDS_JSON.push(c));
+    }
+  });
   return CARDS_JSON;
 }
 
 export function getCardsV2Json(): Record<string, any>[] {
   const CARDS_JSON: Record<string, any>[] = [];
 
-  if (CARDS_JSON.length === 0) {
-    const directory = resolve(__dirname, '..', 'v2/cards');
-    fs.readdirSync(directory).forEach(file => {
-      if (file.endsWith('.json')) {
-        const path = resolve(directory, file);
-        const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
-        CARDS_JSON.push(json);
-      }
-    });
-  }
+  const directory = resolve(__dirname, '..', 'v2/cards');
+  fs.readdirSync(directory).forEach(file => {
+    if (file.endsWith('.json')) {
+      const path = resolve(directory, file);
+      const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
+      CARDS_JSON.push(json);
+    }
+  });
   return CARDS_JSON;
 }
 
 export function getPrintingsV2Json(): Record<string, any>[] {
   const PRINTINGS_JSON: Record<string, any>[] = [];
 
-  if (PRINTINGS_JSON.length === 0) {
-    const printingDir = resolve(__dirname, "../v2/printings");
-    const printingFiles =
-      fs.readdirSync(printingDir, { withFileTypes: true })
-        .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
-        .map(dirent => dirent.name);
+  const printingDir = resolve(__dirname, "../v2/printings");
+  const printingFiles =
+    fs.readdirSync(printingDir, { withFileTypes: true })
+      .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
+      .map(dirent => dirent.name);
 
-    printingFiles.forEach(file => {
-      const json = JSON.parse(fs.readFileSync(resolve(printingDir, file), 'utf-8'));
-      json.forEach((p: Record<string, any>) => PRINTINGS_JSON.push(p));
-    });
-  }
+  printingFiles.forEach(file => {
+    const json = JSON.parse(fs.readFileSync(resolve(printingDir, file), 'utf-8'));
+    json.forEach((p: Record<string, any>) => PRINTINGS_JSON.push(p));
+  });
   return PRINTINGS_JSON;
 }
