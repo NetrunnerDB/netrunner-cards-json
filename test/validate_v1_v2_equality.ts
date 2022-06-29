@@ -37,7 +37,7 @@ describe('Cards v1/v2 equality', () => {
 
   function validatev1V2Equality(fieldName, v1Field, v2Field) {
     v1CardsByTitle.forEach((c, title) => {
-        expect(v1CardsByTitle.get(title)[v1Field], `${v2Field} mismatch for ${title}`).to.equal(v2CardsByTitle.get(title)[v2Field]);
+      expect(v1CardsByTitle.get(title)[v1Field], `${v2Field} mismatch for ${title}`).to.equal(v2CardsByTitle.get(title)[v2Field]);
     });
   }
 
@@ -143,7 +143,7 @@ describe('Printings v1/v2 equality', () => {
   const packsByCode = new Map<string, string>();
   packs.forEach(p => {
     packsByCode.set(p.code, p.name);
-  }); 
+  });
   const sets = getCardSetsV2Json();
   const setsById = new Map<string, string>();
   sets.forEach(s => {
