@@ -42,9 +42,9 @@
     "illustrator": "Simon Boxer",
     "position": 4,
     "printed_is_unique": true,
-    "printed_text": "+1[mu]\n[interrupt] → Once per turn, when you would play or install a card, you may trash 1 card from your grip to lower the play or install cost by 2.\nLimit 1 <strong>console</strong> per player.\n<errata>Errata from CR 1.4</errata>",
+    "printed_text": "+1[mu]\n[interrupt] → Whenever you would play or install a card, you may trash 1 card from your grip. If you do, instead play or install that card paying 2[credit] less. Use this ability only once per turn.\nLimit 1 <strong>console</strong> per player.",
     "quantity": 3,
-    "stripped_printed_text": "+1 mu Interrupt -> Once per turn, when you would play or install a card, you may trash 1 card from your grip to lower the play or install cost by 2. Limit 1 console per player. Errata from CR 1.4"
+    "stripped_printed_text": "+1 mu Interrupt -> Whenever you would play or install a card, you may trash 1 card from your grip. If you do, instead play or install that card paying 2 credits less. Use this ability only once per turn. Limit 1 console per player."
   },
   {
     "card_id": "hijacked_router",
@@ -260,6 +260,7 @@
   {
     "card_id": "reboot",
     "card_set_id": "reign_and_reverie",
+    "flavor": "I LIVE AGAIN",
     "id": "22023",
     "illustrator": "Liiga Smilshkalne",
     "position": 23,
@@ -441,9 +442,9 @@
     "illustrator": "Adam S. Doyle",
     "position": 38,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] You may place up to 3 advancement tokens on a card installed in a server. If you do, the Runner accesses that card unless he or she pays 3[credit].",
+    "printed_text": "[subroutine] You may place up to 3 advancement counters on 1 card installed in the root of a remote server. If you do, the Runner accesses that card unless they pay 3[credit].",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine You may place up to 3 advancement tokens on a card installed in a server. If you do, the Runner accesses that card unless he or she pays 3 credits."
+    "stripped_printed_text": "Subroutine You may place up to 3 advancement counters on 1 card installed in the root of a remote server. If you do, the Runner accesses that card unless they pay 3 credits."
   },
   {
     "card_id": "thimblerig",

@@ -158,6 +158,16 @@ describe('Printings', () => {
       });
     });
   });
+
+  it('printing files card_set_id match printing file names', () => {
+    printingFiles.forEach(file => {
+      const cardSetIdFromFile = basename(file).replace('.json', ''); 
+      const printing = JSON.parse(fs.readFileSync(resolve(printingDir, file), 'utf-8'));
+      printing.forEach(p => {
+        expect(cardSetIdFromFile, `card_set_id ${p.card_set_id} for ${p.card_id} / ${p.id} does not match file name of ${cardSetIdFromFile}`).to.equal(p.card_set_id);
+      });
+    });
+  });
 });
 
 describe('Card Pools', () => {
