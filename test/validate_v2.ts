@@ -1,7 +1,7 @@
 import fs from "fs";
 import { basename, resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCardsV2Json, getCardSetsV2Json, getCardSubtypesV2Json, getCardCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
+import { getCardsV2Json, getCardSetsV2Json, getCardSetTypesV2Json, getCardSubtypesV2Json, getCardCyclesV2Json, getFactionsV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
 import { expect } from "chai";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
@@ -45,10 +45,10 @@ describe('Cycles', () => {
 });
 
 describe('SetTypes', () => {
-  const set_types = getSetTypesV2Json();
+  const set_types = getCardSetTypesV2Json();
 
-  it('set_types.json passes schema validation', () => {
-    validateAgainstSchema('set_types_schema.json', set_types);
+  it('card_set_types.json passes schema validation', () => {
+    validateAgainstSchema('card_set_types_schema.json', set_types);
   });
 
   it('set_types have proper name/id format', () => {
