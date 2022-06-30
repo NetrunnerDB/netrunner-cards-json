@@ -15,11 +15,11 @@
             },
             "faction_id": {
               "enum": [
-                "haas-bioroid",
+                "haas_bioroid",
                 "jinteki",
                 "nbn",
-                "neutral-corp",
-                "weyland-consortium"
+                "neutral_corp",
+                "weyland_consortium"
               ]
             }
           }
@@ -35,9 +35,9 @@
                 "anarch",
                 "apex",
                 "criminal",
-                "neutral-runner",
+                "neutral_runner",
                 "shaper",
-                "sunny-lebeau"
+                "sunny_lebeau"
               ]
             }
           }

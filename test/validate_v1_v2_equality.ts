@@ -74,7 +74,11 @@ describe('Cards v1/v2 equality', () => {
   });
 
   it('faction_id matches', () => {
-    validate('faction_code', 'faction_id');
+    // We have standardized on underscore separators for v2, but are leaving v1 with dashes.
+    v1CardsByTitle.forEach((c, title) => {
+      expect(v1CardsByTitle.get(title).faction_code, `faction_id mismatch for ${title}`).to.equal(v2CardsByTitle.get(title).faction_id.replace('_', '-'));
+    });
+
   });
 
   it('influence_cost matches', () => {
