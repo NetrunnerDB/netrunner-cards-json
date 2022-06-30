@@ -279,7 +279,7 @@ describe('Restrictions', () => {
       const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
       validate(restriction);
       if (validate.errors) {
-        expect.fail(`Restriction file ${basename(file)} for ${restriction.format} format: ${ajv.errorsText(validate.errors)}`);
+        expect.fail(`Restriction file ${basename(file)} for ${restriction.format_id} format: ${ajv.errorsText(validate.errors)}`);
       }
     });
   });
@@ -289,9 +289,9 @@ describe('Restrictions', () => {
     const restrictionNames = new Set<string>();
     restrictionFiles.forEach(file => {
       const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
-      expect(restrictionNames.has(restriction.name), `Restriction ${basename(file)} for format ${restriction.format} has duplicate name ${restriction.name}`).to.be.false;
+      expect(restrictionNames.has(restriction.name), `Restriction ${basename(file)} for format ${restriction.format_id} has duplicate name ${restriction.name}`).to.be.false;
       restrictionNames.add(restriction.name);
-      expect(restrictionIds.has(restriction.id), `Restriction ${basename(file)} for format ${restriction.format} has duplicate id ${restriction.id}`).to.be.false;
+      expect(restrictionIds.has(restriction.id), `Restriction ${basename(file)} for format ${restriction.format_id} has duplicate id ${restriction.id}`).to.be.false;
       restrictionIds.add(restriction.id);
     });
   });
@@ -299,7 +299,7 @@ describe('Restrictions', () => {
   it('restriction files have valid ids', () => {
     restrictionFiles.forEach(file => {
       const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
-      expect(formatIds.has(restriction.format), `Restriction ${restriction.name} has invalid format ${restriction.format}`).to.be.true;
+      expect(formatIds.has(restriction.format_id), `Restriction ${restriction.name} has invalid format ${restriction.format_id}`).to.be.true;
 
       // TODO(plural): Ensure that banned contains all cards with the given subtypes.
       if (restriction.subtypes) {

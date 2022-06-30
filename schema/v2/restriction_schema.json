@@ -93,7 +93,7 @@
       "minLength": 1,
       "type": "string"
     },
-    "format": {
+    "format_id": {
       "minLength": 1,
       "type": "string"
     },
@@ -102,5 +102,5 @@
       "type": "integer"
     }
   },
-  "required": ["id", "name", "date_start", "format"]
+  "required": ["id", "name", "date_start", "format_id"]
 }
