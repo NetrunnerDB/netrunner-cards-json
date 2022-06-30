@@ -46,6 +46,7 @@ export const getCardCyclesV2Json = makeV2Reader('card_cycles');
 export const getCardSetTypesV2Json = makeV2Reader('card_set_types');
 export const getCardSetsV2Json = makeV2Reader('card_sets');
 export const getCardSubtypesV2Json = makeV2Reader('subtypes');
+export const getCardTypesV2Json = makeV2Reader('card_types');
 export const getCyclesJson = makeV1Reader('cycles');
 export const getFactionsJson = makeV1Reader('factions');
 export const getFactionsV2Json = makeV2Reader('factions');
@@ -56,7 +57,6 @@ export const getRotationsJson = makeV1Reader('rotations');
 export const getSidesJson = makeV1Reader('sides');
 export const getSidesV2Json = makeV2Reader('sides');
 export const getTypesJson = makeV1Reader('types');
-export const getTypesV2Json = makeV2Reader('types');
 
 export function getPackFilesJson(): Map<string, Record<string, any>[]> {
   const PACKS_JSON = new Map<string, Record<string, any>[]>();
