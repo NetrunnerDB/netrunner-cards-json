@@ -28,6 +28,12 @@ describe('Factions', () => {
   it('factions.json passes schema validation', () => {
     validateAgainstSchema('faction_schema.json', factions);
   });
+
+  it('have proper id format', () => {
+    factions.forEach(f => {
+      expect(f.id, `Faction ${f.name} has unexpected id ${f.id}`).to.equal(textToId(f.name));
+    });
+  });
 });
 
 describe('Cycles', () => {
