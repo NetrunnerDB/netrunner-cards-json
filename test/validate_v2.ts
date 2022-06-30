@@ -404,7 +404,7 @@ describe('Formats', () => {
       const format = JSON.parse(fs.readFileSync(resolve(formatPoolDir, file), 'utf-8'));
       if (format.snapshots) {
         format.snapshots.forEach(s => {
-          expect(cardPoolIds, `Snapshot ${format.name} has invalid card pool ${s.card_pool}`).includes(s.card_pool);
+          expect(cardPoolIds, `Snapshot ${format.name} has invalid card pool ${s.card_pool_id}`).includes(s.card_pool_id);
         });
       }
     });
@@ -432,8 +432,8 @@ describe('Formats', () => {
       const format = JSON.parse(fs.readFileSync(resolve(formatPoolDir, file), 'utf-8'));
       if (format.snapshots) {
         format.snapshots.forEach(s => {
-          if (s.restriction) {
-            expect(restrictionIds, `Snapshot ${format.name} has invalid restriction id ${s.restriction}`).includes(s.restriction);
+          if (s.restriction_id) {
+            expect(restrictionIds, `Snapshot ${format.name} has invalid restriction id ${s.restriction_id}`).includes(s.restriction_id);
           }
         });
       }

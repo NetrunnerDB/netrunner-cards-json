@@ -18,7 +18,7 @@
         "type": "object",
         "additionalProperties": false,
         "properties": {
-          "card_pool": {
+          "card_pool_id": {
             "minLength": 1,
             "type": "string"
           },
@@ -29,12 +29,12 @@
           "active": {
             "type": "boolean"
           },
-          "restriction": {
+          "restriction_id": {
             "minLength": 1,
             "type": "string"
           }
         },
-        "required": ["card_pool", "date_start"]
+        "required": ["card_pool_id", "date_start"]
       }
     }
   },
