@@ -45,7 +45,7 @@ export function textToId(text: string): string {
 export const getCardSetsV2Json = makeV2Reader('printings');
 export const getCardSubtypesV2Json = makeV2Reader('subtypes');
 export const getCyclesJson = makeV1Reader('cycles');
-export const getCyclesV2Json = makeV2Reader('cycles');
+export const getCardCyclesV2Json = makeV2Reader('card_cycles');
 export const getFactionsJson = makeV1Reader('factions');
 export const getFactionsV2Json = makeV2Reader('factions');
 export const getMwlJson = makeV1Reader('mwl');

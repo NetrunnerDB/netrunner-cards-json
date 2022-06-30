@@ -1,7 +1,7 @@
 import fs from "fs";
 import { basename, resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCardsV2Json, getCardSetsV2Json, getCardSubtypesV2Json, getCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
+import { getCardsV2Json, getCardSetsV2Json, getCardSubtypesV2Json, getCardCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
 import { expect } from "chai";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
@@ -37,10 +37,10 @@ describe('Factions', () => {
 });
 
 describe('Cycles', () => {
-  const cycles = getCyclesV2Json();
+  const cardCycles = getCardCyclesV2Json();
 
-  it('cycles.json passes schema validation', () => {
-    validateAgainstSchema('cycle_schema.json', cycles);
+  it('card_cycles.json passes schema validation', () => {
+    validateAgainstSchema('card_cycle_schema.json', cardCycles);
   });
 });
 
@@ -94,7 +94,7 @@ describe('Card Sets', () => {
   });
 
   it('has valid cycle ids', () => {
-    const cardCycleIds = new Set(getCyclesV2Json().map(c => c.id));
+    const cardCycleIds = new Set(getCardCyclesV2Json().map(c => c.id));
     sets.forEach(s => {
      expect(cardCycleIds, `Card set ${s.name} has invalid card_cycle_id ${s.card_cycle_id}`).to.include(s.card_cycle_id);
     });
@@ -197,7 +197,7 @@ describe('Card Pools', () => {
   });
 
   it('card pool files have valid ids', () => {
-    const cardCycleIds = new Set<string>(getCyclesV2Json().map(c => c.id));
+    const cardCycleIds = new Set<string>(getCardCyclesV2Json().map(c => c.id));
     const cardSetIds = new Set<string>(getCardSetsV2Json().map(s => s.id));
 
     cardPoolFiles.forEach(file => {
