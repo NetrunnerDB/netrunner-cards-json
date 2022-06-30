@@ -35,78 +35,79 @@ describe('Cards v1/v2 equality', () => {
     });
   });
 
-  function validatev1V2Equality(fieldName, v1Field, v2Field) {
+  function validate(v1Field: string, maybeV2Field?: string) {
+    const v2Field = maybeV2Field == undefined ? v1Field : maybeV2Field;
     v1CardsByTitle.forEach((c, title) => {
       expect(v1CardsByTitle.get(title)[v1Field], `${v2Field} mismatch for ${title}`).to.equal(v2CardsByTitle.get(title)[v2Field]);
     });
   }
 
   it('text matches', () => {
-    validatev1V2Equality('text', 'text', 'text');
+    validate('text');
   });
 
   it('stripped_text matches', () => {
-    validatev1V2Equality('stripped_text', 'stripped_text', 'stripped_text');
+    validate('stripped_text');
   });
 
   it('stripped_title matches', () => {
-    validatev1V2Equality('stripped_title', 'stripped_title', 'stripped_title');
+    validate('stripped_title');
   });
 
   it('advancement_requirement matches', () => {
-    validatev1V2Equality('advancement_cost', 'advancement_requirement', 'advancement_cost');
+    validate('advancement_requirement', 'advancement_cost');
   });
 
   it('agenda_points matches', () => {
-    validatev1V2Equality('agenda_points', 'agenda_points', 'agenda_points');
+    validate('agenda_points');
   });
 
   it('base_link matches', () => {
-    validatev1V2Equality('base_link', 'base_link', 'base_link');
+    validate('base_link');
   });
 
   it('cost matches', () => {
-    validatev1V2Equality('cost', 'cost', 'cost');
+    validate('cost');
   });
 
   it('deck_limit matches', () => {
-    validatev1V2Equality('deck_limit', 'deck_limit', 'deck_limit');
+    validate('deck_limit');
   });
 
   it('faction_id matches', () => {
-    validatev1V2Equality('faction_id', 'faction_code', 'faction_id');
+    validate('faction_code', 'faction_id');
   });
 
   it('influence_cost matches', () => {
-    validatev1V2Equality('influence_cost', 'faction_cost', 'influence_cost');
+    validate('faction_cost', 'influence_cost');
   });
 
   it('influence_limit matches', () => {
-    validatev1V2Equality('influence_limit', 'influence_limit', 'influence_limit');
+    validate('influence_limit');
   });
 
   it('memory_cost matches', () => {
-    validatev1V2Equality('memory_cost', 'memory_cost', 'memory_cost');
+    validate('memory_cost');
   });
 
   it('minimum_deck_size matches', () => {
-    validatev1V2Equality('minimum_deck_size', 'minimum_deck_size', 'minimum_deck_size');
+    validate('minimum_deck_size');
   });
 
   it('side_id matches', () => {
-    validatev1V2Equality('side_id', 'side_code', 'side_id');
+    validate('side_code', 'side_id');
   });
 
   it('strength matches', () => {
-    validatev1V2Equality('strength', 'strength', 'strength');
+    validate('strength');
   });
 
   it('trash_cost matches', () => {
-    validatev1V2Equality('trash_cost', 'trash_cost', 'trash_cost');
+    validate('trash_cost');
   });
 
   it('is_unique matches', () => {
-    validatev1V2Equality('is_unique', 'uniqueness', 'is_unique');
+    validate('uniqueness', 'is_unique');
   });
 });
 
@@ -131,9 +132,10 @@ describe('Printings v1/v2 equality', () => {
     });
   });
 
-  function validatev1V2Equality(fieldName, v1Field, v2Field) {
-    v1CardsByCode.forEach((c, id) => {
-        expect(c[v1Field], `${v2Field} mismatch for ${id}`).to.equal(printingsById.get(id)[v2Field]);
+  function validate(v1Field: string, maybeV2Field?: string) {
+    const v2Field = maybeV2Field == undefined ? v1Field : maybeV2Field;
+    v1CardsByCode.forEach((c, code) => {
+      expect(c[v1Field], `${v2Field} mismatch for ${code}`).to.equal(printingsById.get(code)[v2Field]);
     });
   }
 
@@ -159,30 +161,30 @@ describe('Printings v1/v2 equality', () => {
   });
 
   it('flavor matches', () => {
-    validatev1V2Equality('flavor', 'flavor', 'flavor');
+    validate('flavor');
   });
 
   it('illustrator matches', () => {
-    validatev1V2Equality('illustrator', 'illustrator', 'illustrator');
+    validate('illustrator');
   });
 
   it('position matches', () => {
-    validatev1V2Equality('position', 'position', 'position');
+    validate('position');
   });
 
   it('printed_is_unique matches', () => {
-    validatev1V2Equality('printed_is_unique', 'uniqueness', 'printed_is_unique');
+    validate('uniqueness', 'printed_is_unique');
   });
 
   it('printed_text matches', () => {
-    validatev1V2Equality('printed_text', 'text', 'printed_text');
+    validate('text', 'printed_text');
   });
 
   it('quantity matches', () => {
-    validatev1V2Equality('quantity', 'quantity', 'quantity');
+    validate('quantity');
   });
 
   it('stripped_printed_text matches', () => {
-    validatev1V2Equality('stripped_printed_text', 'stripped_text', 'stripped_printed_text');
+    validate('stripped_text', 'stripped_printed_text');
   });
 });
