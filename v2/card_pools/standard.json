@@ -1,6 +1,6 @@
 [
   {
-    "code": "pre_rotation",
+    "id": "pre_rotation",
     "name": "Pre Rotation",
     "cycles": [
       "genesis",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "code": "rotation_2017",
+    "id": "rotation_2017",
     "name": "First Rotation",
     "cycles": ["lunar", "sansan", "mumbad", "flashpoint", "red_sand", "kitara"],
     "packs": [
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "code": "rotation_2018",
+    "id": "rotation_2018",
     "name": "Second Rotation",
     "cycles": ["lunar", "sansan", "mumbad", "flashpoint", "red_sand", "kitara"],
     "packs": [
@@ -49,7 +49,7 @@
     ]
   },
   {
-    "code": "rotation_2019",
+    "id": "rotation_2019",
     "name": "Third Rotation",
     "cycles": ["sansan", "mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
     "packs": [
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "code": "rotation_2020",
+    "id": "rotation_2020",
     "name": "Salvaged Memories",
     "cycles": ["sansan", "mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
     "packs": [
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "code": "rotation_2021",
+    "id": "rotation_2021",
     "name": "Fourth Rotation",
     "cycles": ["mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
     "packs": [

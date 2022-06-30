@@ -4,7 +4,7 @@
   "type": "object",
   "additionalProperties": false,
   "properties": {
-    "code": {
+    "id": {
       "minLength": 1,
       "type": "string"
     },
@@ -102,5 +102,5 @@
       "type": "integer"
     }
   },
-  "required": ["code", "name", "date_start", "format"]
+  "required": ["id", "name", "date_start", "format"]
 }

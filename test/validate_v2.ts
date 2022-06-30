@@ -51,9 +51,9 @@ describe('SetTypes', () => {
     validateAgainstSchema('set_types_schema.json', set_types);
   });
 
-  it('set_types have proper name/code format', () => {
+  it('set_types have proper name/id format', () => {
     set_types.forEach(function(st) {
-      expect(st.code).to.equal(st.name.toLowerCase().replaceAll(' ', '_'));
+      expect(st.id).to.equal(st.name.toLowerCase().replaceAll(' ', '_'));
     });
   });
 });
@@ -65,9 +65,9 @@ describe('Types', () => {
     validateAgainstSchema('type_schema.json', types);
   });
 
-  it('types have proper name/code format', () => {
+  it('types have proper name/id format', () => {
     types.forEach(function(t) {
-      expect(t.code).to.equal(textToId(t.name));
+      expect(t.id).to.equal(textToId(t.name));
     });
   });
 });
@@ -79,7 +79,7 @@ describe('Card Subtypes', () => {
     validateAgainstSchema('card_subtypes_schema.json', subtypes);
   });
 
-  it('subtypes have proper name/code format', () => {
+  it('subtypes have proper name/id format', () => {
     subtypes.forEach(function(s) {
       expect(s.id).to.equal(textToId(s.name));
     });
@@ -94,7 +94,7 @@ describe('Card Sets', () => {
   });
 
   it('has valid cycle ids', () => {
-    const cardCycleIds = new Set(getCyclesV2Json().map(c => c.code));
+    const cardCycleIds = new Set(getCyclesV2Json().map(c => c.id));
     sets.forEach(s => {
      expect(cardCycleIds, `Card set ${s.name} has invalid card_cycle_id ${s.card_cycle_id}`).to.include(s.card_cycle_id);
     });
@@ -197,7 +197,7 @@ describe('Card Pools', () => {
   });
 
   it('card pool files have valid ids', () => {
-    const cardCycleIds = new Set<string>(getCyclesV2Json().map(c => c.code));
+    const cardCycleIds = new Set<string>(getCyclesV2Json().map(c => c.id));
     const cardSetIds = new Set<string>(getCardSetsV2Json().map(s => s.id));
 
     cardPoolFiles.forEach(file => {
@@ -205,7 +205,7 @@ describe('Card Pools', () => {
       cardPool.forEach(p => {
         if (p.cycles) {
           p.cycles.forEach((cycle_id: string) => {
-            expect(cardCycleIds.has(cycle_id), `Card pool file ${file}, pool ${p.name} has invalid cycle code ${cycle_id}`).to.be.true;
+            expect(cardCycleIds.has(cycle_id), `Card pool file ${file}, pool ${p.name} has invalid cycle id ${cycle_id}`).to.be.true;
           });
         }
         if (p.packs) {
@@ -217,13 +217,13 @@ describe('Card Pools', () => {
     });
   });
 
-  it('card pool files have unique codes', () => {
-    const cardPoolCodes = new Set<string>();
+  it('card pool files have unique ids', () => {
+    const cardPoolIds = new Set<string>();
     cardPoolFiles.forEach(file => {
       const cardPool = JSON.parse(fs.readFileSync(resolve(cardPoolDir, file), 'utf-8'));
       cardPool.forEach(p => {
-        expect(cardPoolCodes.has(p.code), `Printing ${file} has duplicate id ${p.code}`).to.be.false;
-        cardPoolCodes.add(p.code);
+        expect(cardPoolIds.has(p.id), `Printing ${file} has duplicate id ${p.id}`).to.be.false;
+        cardPoolIds.add(p.id);
       });
     });
   });
@@ -256,15 +256,15 @@ describe('Restrictions', () => {
       });
   });
 
-  // TODO(plural): de-dupe this with the format code.
+  // TODO(plural): de-dupe this with the format id.
   const formats =
     fs.readdirSync(resolve(__dirname, "../v2/formats"), { withFileTypes: true })
       .filter(dirent => dirent.isFile())
       .map(dirent => dirent.name);
-  const formatCodes = new Set<string>();
+  const formatIds = new Set<string>();
   formats.forEach(f => {
     const format = JSON.parse(fs.readFileSync(resolve(__dirname, "../v2/formats", f), 'utf-8'));
-    formatCodes.add(format.code);
+    formatIds.add(format.id);
   });
 
   const cardIds = new Set<string>(getCardsV2Json().map(c => c.id));
@@ -284,22 +284,22 @@ describe('Restrictions', () => {
     });
   });
 
-  it('restriction files have unique codes and names', () => {
-    const restrictionCodes = new Set<string>();
+  it('restriction files have unique ids and names', () => {
+    const restrictionIds = new Set<string>();
     const restrictionNames = new Set<string>();
     restrictionFiles.forEach(file => {
       const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
       expect(restrictionNames.has(restriction.name), `Restriction ${basename(file)} for format ${restriction.format} has duplicate name ${restriction.name}`).to.be.false;
       restrictionNames.add(restriction.name);
-      expect(restrictionCodes.has(restriction.code), `Restriction ${basename(file)} for format ${restriction.format} has duplicate code ${restriction.name}`).to.be.false;
-      restrictionCodes.add(restriction.code);
+      expect(restrictionIds.has(restriction.id), `Restriction ${basename(file)} for format ${restriction.format} has duplicate id ${restriction.id}`).to.be.false;
+      restrictionIds.add(restriction.id);
     });
   });
 
   it('restriction files have valid ids', () => {
     restrictionFiles.forEach(file => {
       const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
-      expect(formatCodes.has(restriction.format), `Restriction ${restriction.name} has invalid format ${restriction.format}`).to.be.true;
+      expect(formatIds.has(restriction.format), `Restriction ${restriction.name} has invalid format ${restriction.format}`).to.be.true;
 
       // TODO(plural): Ensure that banned contains all cards with the given subtypes.
       if (restriction.subtypes) {
@@ -397,7 +397,7 @@ describe('Formats', () => {
     cardPoolFiles.forEach(file => {
       const cardPool = JSON.parse(fs.readFileSync(resolve(cardPoolDir, file), 'utf-8'));
       cardPool.forEach(p => {
-        cardPoolIds.add(p.code);
+        cardPoolIds.add(p.id);
       });
     });
     formatPoolFiles.forEach(file => {
@@ -423,17 +423,17 @@ describe('Formats', () => {
           restrictionFiles.push(resolve(restrictionsDir, format, restriction));
         });
     });
-    const restrictionCodes = new Set<string>();
+    const restrictionIds = new Set<string>();
     restrictionFiles.forEach(file => {
       const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
-      restrictionCodes.add(restriction.code);
+      restrictionIds.add(restriction.id);
     });
     formatPoolFiles.forEach(file => {
       const format = JSON.parse(fs.readFileSync(resolve(formatPoolDir, file), 'utf-8'));
       if (format.snapshots) {
         format.snapshots.forEach(s => {
           if (s.restriction) {
-            expect(restrictionCodes, `Snapshot ${format.name} has invalid restriction code ${s.restriction}`).includes(s.restriction);
+            expect(restrictionIds, `Snapshot ${format.name} has invalid restriction id ${s.restriction}`).includes(s.restriction);
           }
         });
       }

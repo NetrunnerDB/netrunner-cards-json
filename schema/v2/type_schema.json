@@ -12,10 +12,10 @@
         "oneOf": [
           {
             "properties": {
-              "side_code": {
+              "side_id": {
                 "const": "corp"
               },
-              "code": {
+              "id": {
                 "enum": [
                   "agenda",
                   "asset",
@@ -29,10 +29,10 @@
           },
           {
             "properties": {
-              "side_code": {
+              "side_id": {
                 "const": "runner"
               },
-              "code": {
+              "id": {
                 "enum": [
                   "event",
                   "hardware",
@@ -47,7 +47,7 @@
       }
     ],
     "properties": {
-      "code": {
+      "id": {
         "minLength": 1,
         "type": "string"
       },
@@ -55,11 +55,11 @@
         "minLength": 1,
         "type": "string"
       },
-      "side_code": {
+      "side_id": {
         "type": "string",
         "enum": ["corp", "runner"]
       }
     },
-    "required": ["code", "name", "side_code"]
+    "required": ["id", "name", "side_id"]
   }
 }

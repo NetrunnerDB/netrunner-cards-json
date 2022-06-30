@@ -1,57 +1,57 @@
 [
   {
-    "code": "agenda",
+    "id": "agenda",
     "name": "Agenda",
-    "side_code": "corp"
+    "side_id": "corp"
   },
   {
-    "code": "asset",
+    "id": "asset",
     "name": "Asset",
-    "side_code": "corp"
+    "side_id": "corp"
   },
   {
-    "code": "corp_identity",
+    "id": "corp_identity",
     "name": "Corp Identity",
-    "side_code": "corp"
+    "side_id": "corp"
   },
   {
-    "code": "event",
+    "id": "event",
     "name": "Event",
-    "side_code": "runner"
+    "side_id": "runner"
   },
   {
-    "code": "hardware",
+    "id": "hardware",
     "name": "Hardware",
-    "side_code": "runner"
+    "side_id": "runner"
   },
   {
-    "code": "ice",
+    "id": "ice",
     "name": "Ice",
-    "side_code": "corp"
+    "side_id": "corp"
   },
   {
-    "code": "operation",
+    "id": "operation",
     "name": "Operation",
-    "side_code": "corp"
+    "side_id": "corp"
   },
   {
-    "code": "program",
+    "id": "program",
     "name": "Program",
-    "side_code": "runner"
+    "side_id": "runner"
   },
   {
-    "code": "resource",
+    "id": "resource",
     "name": "Resource",
-    "side_code": "runner"
+    "side_id": "runner"
   },
   {
-    "code": "runner_identity",
+    "id": "runner_identity",
     "name": "Runner Identity",
-    "side_code": "runner"
+    "side_id": "runner"
   },
   {
-    "code": "upgrade",
+    "id": "upgrade",
     "name": "Upgrade",
-    "side_code": "corp"
+    "side_id": "corp"
   }
 ]

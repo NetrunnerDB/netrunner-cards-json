@@ -12,7 +12,7 @@
         "oneOf": [
           {
             "properties": {
-              "side_code": {
+              "side_id": {
                 "const": "corp"
               },
               "id": {
@@ -28,7 +28,7 @@
           },
           {
             "properties": {
-              "side_code": {
+              "side_id": {
                 "const": "runner"
               },
               "id": {
@@ -68,7 +68,7 @@
         "minLength": 1,
         "type": "string"
       },
-      "side_code": {
+      "side_id": {
         "minLength": 1,
         "type": "string"
       }

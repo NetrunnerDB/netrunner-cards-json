@@ -6,7 +6,7 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {
-      "code": {
+      "id": {
         "minLength": 1,
         "type": "string",
         "enum": ["corp", "runner"]
@@ -16,6 +16,6 @@
         "type": "string"
       }
     },
-    "required": ["code", "name"]
+    "required": ["id", "name"]
   }
 }
