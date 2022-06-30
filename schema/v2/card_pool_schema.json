@@ -14,14 +14,14 @@
         "minLength": 1,
         "type": "string"
       },
-      "cycles": {
+      "cycle_ids": {
         "type": "array",
         "items": {
           "minLength": 1,
           "type": "string"
         }
       },
-      "packs": {
+      "card_set_ids": {
         "type": "array",
         "items": {
           "minLength": 1,

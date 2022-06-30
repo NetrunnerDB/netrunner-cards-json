@@ -2,14 +2,14 @@
   {
     "id": "startup_ashes",
     "name": "Startup (Ashes)",
-    "cycles": ["ashes"],
-    "packs": ["system_gateway", "system_update_2021"]
+    "cycle_ids": ["ashes"],
+    "card_set_ids": ["system_gateway", "system_update_2021"]
   },
   {
     "id": "startup_ashes_plus",
     "name": "Startup (Ashes+)",
-    "cycles": ["ashes"],
-    "packs": [
+    "cycle_ids": ["ashes"],
+    "card_set_ids": [
       "system_gateway",
       "system_update_2021",
       "midnight_sun_booster_pack"

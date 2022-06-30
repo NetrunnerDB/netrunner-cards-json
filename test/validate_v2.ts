@@ -203,14 +203,14 @@ describe('Card Pools', () => {
     cardPoolFiles.forEach(file => {
       const cardPool = JSON.parse(fs.readFileSync(resolve(cardPoolDir, file), 'utf-8'));
       cardPool.forEach(p => {
-        if (p.cycles) {
-          p.cycles.forEach((cycle_id: string) => {
+        if (p.cycle_ids) {
+          p.cycle_ids.forEach((cycle_id: string) => {
             expect(cardCycleIds.has(cycle_id), `Card pool file ${file}, pool ${p.name} has invalid cycle id ${cycle_id}`).to.be.true;
           });
         }
-        if (p.packs) {
-          p.packs.forEach((pack_id: string) => {
-            expect(cardSetIds.has(pack_id), `Card pool file ${file}, pool ${p.name} has invalid pack id ${pack_id}`).to.be.true;
+        if (p.card_set_ids) {
+          p.card_set_ids.forEach((card_set_id: string) => {
+            expect(cardSetIds.has(card_set_id), `Card pool file ${file}, pool ${p.name} has invalid card_set_id ${card_set_id}`).to.be.true;
           });
         }
       });
