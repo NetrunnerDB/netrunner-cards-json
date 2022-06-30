@@ -1,6 +1,5 @@
 import { getCardsJson, getCardSetsV2Json, getCardsV2Json, getPacksJson, getPrintingsV2Json, textToId } from "../src/index";
-import chai = require('chai');
-const expect = chai.expect;
+import { expect } from "chai";
 
 describe('Cards v1/v2 equality', () => {
   const v1CardsByTitle = new Map<string, any>();
