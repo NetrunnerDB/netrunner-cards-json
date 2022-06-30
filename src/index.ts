@@ -42,7 +42,7 @@ export function textToId(text: string): string {
     .join('_');
 }
 
-export const getCardSetsV2Json = makeV2Reader('printings');
+export const getCardSetsV2Json = makeV2Reader('card_sets');
 export const getCardSubtypesV2Json = makeV2Reader('subtypes');
 export const getCyclesJson = makeV1Reader('cycles');
 export const getCardCyclesV2Json = makeV2Reader('card_cycles');
