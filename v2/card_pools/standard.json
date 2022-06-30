@@ -2,6 +2,7 @@
   {
     "code": "pre_rotation",
     "name": "Pre Rotation",
+    "format_id": "standard",
     "cycles": [
       "genesis",
       "spin",
@@ -23,6 +24,7 @@
   {
     "code": "rotation_2017",
     "name": "First Rotation",
+    "format_id": "standard",
     "cycles": ["lunar", "sansan", "mumbad", "flashpoint", "red_sand", "kitara"],
     "packs": [
       "creation_and_control",
@@ -37,6 +39,7 @@
   {
     "code": "rotation_2018",
     "name": "Second Rotation",
+    "format_id": "standard",
     "cycles": ["lunar", "sansan", "mumbad", "flashpoint", "red_sand", "kitara"],
     "packs": [
       "creation_and_control",
@@ -51,6 +54,7 @@
   {
     "code": "rotation_2019",
     "name": "Third Rotation",
+    "format_id": "standard",
     "cycles": ["sansan", "mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
     "packs": [
       "honor_and_profit",
@@ -64,6 +68,7 @@
   {
     "code": "rotation_2020",
     "name": "Salvaged Memories",
+    "format_id": "standard",
     "cycles": ["sansan", "mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
     "packs": [
       "honor_and_profit",
@@ -78,6 +83,7 @@
   {
     "code": "rotation_2021",
     "name": "Fourth Rotation",
+    "format_id": "standard",
     "cycles": ["mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
     "packs": [
       "order_and_chaos",
