@@ -7,7 +7,7 @@
     "additionalProperties": false,
     "allOf": [
       {
-        "title": "Faction codes must be valid for the side.",
+        "title": "Faction ids must be valid for the side.",
         "type": "object",
         "oneOf": [
           {
@@ -15,13 +15,13 @@
               "side_code": {
                 "const": "corp"
               },
-              "code": {
+              "id": {
                 "enum": [
-                  "haas-bioroid",
+                  "haas_bioroid",
                   "jinteki",
                   "nbn",
-                  "neutral-corp",
-                  "weyland-consortium"
+                  "neutral_corp",
+                  "weyland_consortium"
                 ]
               }
             }
@@ -31,15 +31,15 @@
               "side_code": {
                 "const": "runner"
               },
-              "code": {
+              "id": {
                 "enum": [
                   "adam",
                   "anarch",
                   "apex",
                   "criminal",
-                  "neutral-runner",
+                  "neutral_runner",
                   "shaper",
-                  "sunny-lebeau"
+                  "sunny_lebeau"
                 ]
               }
             }
@@ -48,7 +48,7 @@
       }
     ],
     "properties": {
-      "code": {
+      "id": {
         "minLength": 1,
         "type": "string"
       },
@@ -73,6 +73,6 @@
         "type": "string"
       }
     },
-    "required": ["code", "name"]
+    "required": ["id", "name"]
   }
 }

@@ -2,8 +2,7 @@ import fs from "fs";
 import { basename, resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
 import { getCardsV2Json, getCardSetsV2Json, getCardSubtypesV2Json, getCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
-import chai = require('chai');
-const expect = chai.expect;
+import { expect } from "chai";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
@@ -28,6 +27,12 @@ describe('Factions', () => {
   const factions = getFactionsV2Json();
   it('factions.json passes schema validation', () => {
     validateAgainstSchema('faction_schema.json', factions);
+  });
+
+  it('have proper id format', () => {
+    factions.forEach(f => {
+      expect(f.id, `Faction ${f.name} has unexpected id ${f.id}`).to.equal(textToId(f.name));
+    });
   });
 });
 
@@ -156,6 +161,16 @@ describe('Printings', () => {
         // Ensure that each printing in the file has a unique position
         expect(positions.has(p.position), `Printing ${file} has duplicate position ${p.position} for card ${p.card_id}`).to.be.false;
         positions.add(p.position);
+      });
+    });
+  });
+
+  it('printing files card_set_id match printing file names', () => {
+    printingFiles.forEach(file => {
+      const cardSetIdFromFile = basename(file).replace('.json', ''); 
+      const printing = JSON.parse(fs.readFileSync(resolve(printingDir, file), 'utf-8'));
+      printing.forEach(p => {
+        expect(cardSetIdFromFile, `card_set_id ${p.card_set_id} for ${p.card_id} / ${p.id} does not match file name of ${cardSetIdFromFile}`).to.equal(p.card_set_id);
       });
     });
   });

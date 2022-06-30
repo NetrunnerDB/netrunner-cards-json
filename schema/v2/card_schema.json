@@ -15,11 +15,11 @@
             },
             "faction_id": {
               "enum": [
-                "haas-bioroid",
+                "haas_bioroid",
                 "jinteki",
                 "nbn",
-                "neutral-corp",
-                "weyland-consortium"
+                "neutral_corp",
+                "weyland_consortium"
               ]
             }
           }
@@ -35,9 +35,9 @@
                 "anarch",
                 "apex",
                 "criminal",
-                "neutral-runner",
+                "neutral_runner",
                 "shaper",
-                "sunny-lebeau"
+                "sunny_lebeau"
               ]
             }
           }
@@ -236,14 +236,6 @@
       "minimum": 0,
       "type": "integer"
     },
-    "flavor": {
-      "minLength": 1,
-      "type": "string"
-    },
-    "illustrator": {
-      "pattern": ".+",
-      "type": "string"
-    },
     "influence_limit": {
       "oneOf": [
         {
@@ -254,10 +246,6 @@
           "type": "null"
         }
       ]
-    },
-    "keywords": {
-      "minLength": 1,
-      "type": "string"
     },
     "memory_cost": {
       "minimum": 0,
