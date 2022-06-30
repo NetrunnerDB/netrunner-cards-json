@@ -19,14 +19,14 @@ function validateAgainstSchema(schema_file, data) {
 describe('Sides', () => {
   const sides = getSidesV2Json();
   it('sides.json passes schema validation', () => {
-    validateAgainstSchema('side_schema.json', sides);
+    validateAgainstSchema('sides_schema.json', sides);
   });
 });
 
 describe('Factions', () => {
   const factions = getFactionsV2Json();
   it('factions.json passes schema validation', () => {
-    validateAgainstSchema('faction_schema.json', factions);
+    validateAgainstSchema('factions_schema.json', factions);
   });
 
   it('have proper id format', () => {
@@ -40,7 +40,7 @@ describe('Cycles', () => {
   const cardCycles = getCardCyclesV2Json();
 
   it('card_cycles.json passes schema validation', () => {
-    validateAgainstSchema('card_cycle_schema.json', cardCycles);
+    validateAgainstSchema('card_cycles_schema.json', cardCycles);
   });
 });
 
@@ -62,7 +62,7 @@ describe('Types', () => {
   const types = getCardTypesV2Json();
 
   it('types.json passes schema validation', () => {
-    validateAgainstSchema('card_type_schema.json', types);
+    validateAgainstSchema('card_types_schema.json', types);
   });
 
   it('types have proper name/id format', () => {
@@ -90,7 +90,7 @@ describe('Card Sets', () => {
   const sets = getCardSetsV2Json();
 
   it('sets.json passes schema validation', () => {
-    validateAgainstSchema('card_set_schema.json', sets);
+    validateAgainstSchema('card_sets_schema.json', sets);
   });
 
   it('has valid cycle ids', () => {
@@ -108,7 +108,7 @@ describe('Cards', () => {
       .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
       .map(dirent => dirent.name);
 
-  const schema_path = resolve(__dirname, "../schema/v2/card_schema.json");
+  const schema_path = resolve(__dirname, "../schema/v2/cards_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
   it('card files pass schema validation', () => {
@@ -129,7 +129,7 @@ describe('Printings', () => {
       .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
       .map(dirent => dirent.name);
 
-  const schema_path = resolve(__dirname, "../schema/v2/card_sets_schema.json");
+  const schema_path = resolve(__dirname, "../schema/v2/printings_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
   it('printing files pass schema validation', () => {
@@ -183,7 +183,7 @@ describe('Card Pools', () => {
       .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
       .map(dirent => dirent.name);
 
-  const schema_path = resolve(__dirname, "../schema/v2/card_pool_schema.json");
+  const schema_path = resolve(__dirname, "../schema/v2/card_pools_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
   it('card pool files pass schema validation', () => {
@@ -270,7 +270,7 @@ describe('Restrictions', () => {
   const cardIds = new Set<string>(getCardsV2Json().map(c => c.id));
   const subtypes = new Set<string>(getCardSubtypesV2Json().map(c => c.id));
 
-  const schema_path = resolve(__dirname, "../schema/v2/restriction_schema.json");
+  const schema_path = resolve(__dirname, "../schema/v2/restrictions_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
 
@@ -350,7 +350,7 @@ describe('Formats', () => {
       .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
       .map(dirent => dirent.name);
 
-  const schema_path = resolve(__dirname, "../schema/v2/format_schema.json");
+  const schema_path = resolve(__dirname, "../schema/v2/formats_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
   const validate: any = ajv.compile(schema);
   it('format files pass schema validation', () => {

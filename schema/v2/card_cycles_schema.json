@@ -1,5 +1,5 @@
 {
-  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v1/side_schema.json",
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/card_cycles_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "array",
   "items": {
@@ -8,11 +8,13 @@
     "properties": {
       "id": {
         "minLength": 1,
-        "type": "string",
-        "enum": ["corp", "runner"]
+        "type": "string"
       },
       "name": {
         "minLength": 1,
+        "type": "string"
+      },
+      "description": {
         "type": "string"
       }
     },

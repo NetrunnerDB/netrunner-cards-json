@@ -1,28 +1,28 @@
 {
-  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/printings_schema.json",
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/card_sets_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "array",
   "items": {
     "type": "object",
     "additionalProperties": false,
     "properties": {
-      "card_id": {
-        "minLength": 1,
-        "type": "string"
-      },
-      "card_set_id": {
-        "minLength": 1,
-        "type": "string"
-      },
-      "flavor": {
-        "minLength": 1,
-        "type": "string"
-      },
       "id": {
         "minLength": 1,
         "type": "string"
       },
-      "illustrator": {
+      "card_cycle_id": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "card_set_type_id": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "date_release": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "name": {
         "minLength": 1,
         "type": "string"
       },
@@ -30,27 +30,19 @@
         "minimum": 1,
         "type": "integer"
       },
-      "printed_is_unique": {
-        "type": "boolean"
-      },
-      "printed_text": {
-        "type": "string"
-      },
-      "quantity": {
+      "size": {
         "minimum": 1,
         "type": "integer"
-      },
-      "stripped_printed_text": {
-        "type": "string"
       }
     },
     "required": [
-      "card_id",
-      "card_set_id",
+      "card_cycle_id",
+      "card_set_type_id",
+      "date_release",
       "id",
+      "name",
       "position",
-      "printed_is_unique",
-      "quantity"
+      "size"
     ]
   }
 }
