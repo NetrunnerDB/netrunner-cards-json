@@ -2,7 +2,7 @@
   {
     "id": "pre_rotation",
     "name": "Pre Rotation",
-    "cycle_ids": [
+    "card_cycle_ids": [
       "genesis",
       "spin",
       "lunar",
@@ -23,7 +23,7 @@
   {
     "id": "rotation_2017",
     "name": "First Rotation",
-    "cycle_ids": [
+    "card_cycle_ids": [
       "lunar",
       "sansan",
       "mumbad",
@@ -44,7 +44,7 @@
   {
     "id": "rotation_2018",
     "name": "Second Rotation",
-    "cycle_ids": [
+    "card_cycle_ids": [
       "lunar",
       "sansan",
       "mumbad",
@@ -65,7 +65,7 @@
   {
     "id": "rotation_2019",
     "name": "Third Rotation",
-    "cycle_ids": [
+    "card_cycle_ids": [
       "sansan",
       "mumbad",
       "flashpoint",
@@ -85,7 +85,7 @@
   {
     "id": "rotation_2020",
     "name": "Salvaged Memories",
-    "cycle_ids": [
+    "card_cycle_ids": [
       "sansan",
       "mumbad",
       "flashpoint",
@@ -106,7 +106,7 @@
   {
     "id": "rotation_2021",
     "name": "Fourth Rotation",
-    "cycle_ids": ["mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
+    "card_cycle_ids": ["mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
     "card_set_ids": [
       "order_and_chaos",
       "data_and_destiny",

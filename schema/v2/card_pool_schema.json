@@ -14,7 +14,7 @@
         "minLength": 1,
         "type": "string"
       },
-      "cycle_ids": {
+      "card_cycle_ids": {
         "type": "array",
         "items": {
           "minLength": 1,
