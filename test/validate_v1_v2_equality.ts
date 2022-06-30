@@ -1,6 +1,5 @@
 import { getCardsJson, getCardsV2Json } from "../src/index";
-import chai = require('chai');
-const expect = chai.expect;
+import { expect } from "chai";
 
 describe('card text matches between versions', () => {
   const v1Cards = getCardsJson();

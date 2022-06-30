@@ -2,8 +2,7 @@ import fs from "fs";
 import { basename, resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
 import { getCardsV2Json, getCardSetsV2Json, getCardSubtypesV2Json, getCyclesV2Json, getFactionsV2Json, getSetTypesV2Json, getSidesV2Json, getTypesV2Json, textToId } from "../src/index";
-import chai = require('chai');
-const expect = chai.expect;
+import { expect } from "chai";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
