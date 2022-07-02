@@ -2,12 +2,14 @@
   {
     "code": "startup_ashes",
     "name": "Startup (Ashes)",
+    "format_id": "startup",
     "cycles": ["ashes"],
     "packs": ["system_gateway", "system_update_2021"]
   },
   {
     "code": "startup_ashes_plus",
     "name": "Startup (Ashes+)",
+    "format_id": "startup",
     "cycles": ["ashes"],
     "packs": [
       "system_gateway",
