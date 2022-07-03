@@ -1,8 +1,8 @@
 [
   {
-    "code": "system_gateway",
-    "name": "System Gateway",
+    "id": "system_gateway",
     "format_id": "system_gateway",
-    "packs": ["system_gateway"]
+    "name": "System Gateway",
+    "card_set_ids": ["system_gateway"]
   }
 ]

@@ -1,13 +1,13 @@
 {
-  "code": "snapshot",
+  "id": "snapshot",
   "name": "Snapshot",
   "snapshots": [
     {
       "id": "snapshot_0",
       "active": true,
-      "card_pool": "snapshot",
+      "card_pool_id": "snapshot",
       "date_start": "2018-11-16",
-      "restriction": "snapshot_ban_list_1_0"
+      "restriction_id": "snapshot_ban_list_1_0"
     }
   ]
 }

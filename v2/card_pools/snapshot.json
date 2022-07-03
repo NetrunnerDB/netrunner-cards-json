@@ -1,10 +1,17 @@
 [
   {
-    "code": "snapshot",
-    "name": "Snapshot",
+    "id": "snapshot",
     "format_id": "snapshot",
-    "cycles": ["lunar", "sansan", "mumbad", "flashpoint", "red_sand", "kitara"],
-    "packs": [
+    "name": "Snapshot",
+    "card_cycle_ids": [
+      "lunar",
+      "sansan",
+      "mumbad",
+      "flashpoint",
+      "red_sand",
+      "kitara"
+    ],
+    "card_set_ids": [
       "creation_and_control",
       "honor_and_profit",
       "order_and_chaos",

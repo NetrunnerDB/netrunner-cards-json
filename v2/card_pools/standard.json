@@ -1,9 +1,9 @@
 [
   {
-    "code": "pre_rotation",
-    "name": "Pre Rotation",
+    "id": "pre_rotation",
     "format_id": "standard",
-    "cycles": [
+    "name": "Pre Rotation",
+    "card_cycle_ids": [
       "genesis",
       "spin",
       "lunar",
@@ -12,7 +12,7 @@
       "flashpoint",
       "red_sand"
     ],
-    "packs": [
+    "card_set_ids": [
       "core_set",
       "creation_and_control",
       "honor_and_profit",
@@ -22,11 +22,18 @@
     ]
   },
   {
-    "code": "rotation_2017",
-    "name": "First Rotation",
+    "id": "rotation_2017",
     "format_id": "standard",
-    "cycles": ["lunar", "sansan", "mumbad", "flashpoint", "red_sand", "kitara"],
-    "packs": [
+    "name": "First Rotation",
+    "card_cycle_ids": [
+      "lunar",
+      "sansan",
+      "mumbad",
+      "flashpoint",
+      "red_sand",
+      "kitara"
+    ],
+    "card_set_ids": [
       "creation_and_control",
       "honor_and_profit",
       "order_and_chaos",
@@ -37,11 +44,18 @@
     ]
   },
   {
-    "code": "rotation_2018",
-    "name": "Second Rotation",
+    "id": "rotation_2018",
     "format_id": "standard",
-    "cycles": ["lunar", "sansan", "mumbad", "flashpoint", "red_sand", "kitara"],
-    "packs": [
+    "name": "Second Rotation",
+    "card_cycle_ids": [
+      "lunar",
+      "sansan",
+      "mumbad",
+      "flashpoint",
+      "red_sand",
+      "kitara"
+    ],
+    "card_set_ids": [
       "creation_and_control",
       "honor_and_profit",
       "order_and_chaos",
@@ -52,11 +66,18 @@
     ]
   },
   {
-    "code": "rotation_2019",
-    "name": "Third Rotation",
+    "id": "rotation_2019",
     "format_id": "standard",
-    "cycles": ["sansan", "mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
-    "packs": [
+    "name": "Third Rotation",
+    "card_cycle_ids": [
+      "sansan",
+      "mumbad",
+      "flashpoint",
+      "red_sand",
+      "kitara",
+      "ashes"
+    ],
+    "card_set_ids": [
       "honor_and_profit",
       "order_and_chaos",
       "data_and_destiny",
@@ -66,11 +87,18 @@
     ]
   },
   {
-    "code": "rotation_2020",
-    "name": "Salvaged Memories",
+    "id": "rotation_2020",
     "format_id": "standard",
-    "cycles": ["sansan", "mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
-    "packs": [
+    "name": "Salvaged Memories",
+    "card_cycle_ids": [
+      "sansan",
+      "mumbad",
+      "flashpoint",
+      "red_sand",
+      "kitara",
+      "ashes"
+    ],
+    "card_set_ids": [
       "honor_and_profit",
       "order_and_chaos",
       "data_and_destiny",
@@ -81,11 +109,11 @@
     ]
   },
   {
-    "code": "rotation_2021",
-    "name": "Fourth Rotation",
+    "id": "rotation_2021",
     "format_id": "standard",
-    "cycles": ["mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
-    "packs": [
+    "name": "Fourth Rotation",
+    "card_cycle_ids": ["mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
+    "card_set_ids": [
       "order_and_chaos",
       "data_and_destiny",
       "reign_and_reverie",

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "agenda",
+    "name": "Agenda",
+    "side_id": "corp"
+  },
+  {
+    "id": "asset",
+    "name": "Asset",
+    "side_id": "corp"
+  },
+  {
+    "id": "corp_identity",
+    "name": "Corp Identity",
+    "side_id": "corp"
+  },
+  {
+    "id": "event",
+    "name": "Event",
+    "side_id": "runner"
+  },
+  {
+    "id": "hardware",
+    "name": "Hardware",
+    "side_id": "runner"
+  },
+  {
+    "id": "ice",
+    "name": "Ice",
+    "side_id": "corp"
+  },
+  {
+    "id": "operation",
+    "name": "Operation",
+    "side_id": "corp"
+  },
+  {
+    "id": "program",
+    "name": "Program",
+    "side_id": "runner"
+  },
+  {
+    "id": "resource",
+    "name": "Resource",
+    "side_id": "runner"
+  },
+  {
+    "id": "runner_identity",
+    "name": "Runner Identity",
+    "side_id": "runner"
+  },
+  {
+    "id": "upgrade",
+    "name": "Upgrade",
+    "side_id": "corp"
+  }
+]

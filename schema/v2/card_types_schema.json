@@ -1,5 +1,5 @@
 {
-  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/type_schema.json",
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/card_types_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "array",
   "items": {
@@ -7,15 +7,15 @@
     "additionalProperties": false,
     "allOf": [
       {
-        "title": "Type codes must be valid for the side.",
+        "title": "Type ids must be valid for the side.",
         "type": "object",
         "oneOf": [
           {
             "properties": {
-              "side_code": {
+              "side_id": {
                 "const": "corp"
               },
-              "code": {
+              "id": {
                 "enum": [
                   "agenda",
                   "asset",
@@ -29,10 +29,10 @@
           },
           {
             "properties": {
-              "side_code": {
+              "side_id": {
                 "const": "runner"
               },
-              "code": {
+              "id": {
                 "enum": [
                   "event",
                   "hardware",
@@ -47,7 +47,7 @@
       }
     ],
     "properties": {
-      "code": {
+      "id": {
         "minLength": 1,
         "type": "string"
       },
@@ -55,11 +55,11 @@
         "minLength": 1,
         "type": "string"
       },
-      "side_code": {
+      "side_id": {
         "type": "string",
         "enum": ["corp", "runner"]
       }
     },
-    "required": ["code", "name", "side_code"]
+    "required": ["id", "name", "side_id"]
   }
 }

@@ -1,22 +1,23 @@
 {
-  "$id": "https://github.com/NetrunnerDB/netrunner-cards-json/blob/master/schema/set_types_schema.json",
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/card_cycles_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "array",
   "items": {
     "type": "object",
     "additionalProperties": false,
     "properties": {
-      "code": {
-        "description": "Name transformed to lowercase with _ instead of spaces.",
+      "id": {
         "minLength": 1,
         "type": "string"
       },
       "name": {
-        "description": "Name of the type of set.",
         "minLength": 1,
+        "type": "string"
+      },
+      "description": {
         "type": "string"
       }
     },
-    "required": ["code", "name"]
+    "required": ["id", "name"]
   }
 }

@@ -1,11 +1,11 @@
 {
-  "code": "system_gateway",
+  "id": "system_gateway",
   "name": "System Gateway",
   "snapshots": [
     {
       "id": "system_gateway_0",
       "active": true,
-      "card_pool": "system_gateway",
+      "card_pool_id": "system_gateway",
       "date_start": "2021-04-09"
     }
   ]

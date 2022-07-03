@@ -1,5 +1,5 @@
 {
-  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/faction_schema.json",
+  "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/factions_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "array",
   "items": {
@@ -12,7 +12,7 @@
         "oneOf": [
           {
             "properties": {
-              "side_code": {
+              "side_id": {
                 "const": "corp"
               },
               "id": {
@@ -28,7 +28,7 @@
           },
           {
             "properties": {
-              "side_code": {
+              "side_id": {
                 "const": "runner"
               },
               "id": {
@@ -68,7 +68,7 @@
         "minLength": 1,
         "type": "string"
       },
-      "side_code": {
+      "side_id": {
         "minLength": 1,
         "type": "string"
       }

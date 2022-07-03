@@ -1,132 +1,132 @@
 {
-  "code": "standard",
+  "id": "standard",
   "name": "Standard",
   "snapshots": [
     {
       "id": "standard_0",
-      "card_pool": "pre_rotation",
+      "card_pool_id": "pre_rotation",
       "date_start": "2012-09-06"
     },
     {
       "id": "standard_1",
-      "card_pool": "pre_rotation",
+      "card_pool_id": "pre_rotation",
       "date_start": "2016-02-01",
-      "restriction": "napd_mwl_1_0"
+      "restriction_id": "napd_mwl_1_0"
     },
     {
       "id": "standard_2",
-      "card_pool": "pre_rotation",
+      "card_pool_id": "pre_rotation",
       "date_start": "2016-08-01",
-      "restriction": "napd_mwl_1_1"
+      "restriction_id": "napd_mwl_1_1"
     },
     {
       "id": "standard_3",
-      "card_pool": "pre_rotation",
+      "card_pool_id": "pre_rotation",
       "date_start": "2017-04-12",
-      "restriction": "napd_mwl_1_2"
+      "restriction_id": "napd_mwl_1_2"
     },
     {
       "id": "standard_4",
-      "card_pool": "rotation_2017",
+      "card_pool_id": "rotation_2017",
       "date_start": "2017-10-01",
-      "restriction": "napd_mwl_2_0"
+      "restriction_id": "napd_mwl_2_0"
     },
     {
       "id": "standard_5",
-      "card_pool": "rotation_2017",
+      "card_pool_id": "rotation_2017",
       "date_start": "2018-02-26",
-      "restriction": "napd_mwl_2_1"
+      "restriction_id": "napd_mwl_2_1"
     },
     {
       "id": "standard_6",
-      "card_pool": "rotation_2017",
+      "card_pool_id": "rotation_2017",
       "date_start": "2018-09-06",
-      "restriction": "napd_mwl_2_2"
+      "restriction_id": "napd_mwl_2_2"
     },
     {
       "id": "standard_7",
-      "card_pool": "rotation_2018",
+      "card_pool_id": "rotation_2018",
       "date_start": "2018-12-21",
-      "restriction": "standard_mwl_3_0"
+      "restriction_id": "standard_mwl_3_0"
     },
     {
       "id": "standard_8",
-      "card_pool": "rotation_2018",
+      "card_pool_id": "rotation_2018",
       "date_start": "2019-02-22",
-      "restriction": "standard_mwl_3_1"
+      "restriction_id": "standard_mwl_3_1"
     },
     {
       "id": "standard_9",
-      "card_pool": "rotation_2018",
+      "card_pool_id": "rotation_2018",
       "date_start": "2019-05-10",
-      "restriction": "standard_mwl_3_2"
+      "restriction_id": "standard_mwl_3_2"
     },
     {
       "id": "standard_10",
-      "card_pool": "rotation_2018",
+      "card_pool_id": "rotation_2018",
       "date_start": "2019-07-19",
-      "restriction": "standard_mwl_3_3"
+      "restriction_id": "standard_mwl_3_3"
     },
     {
       "id": "standard_11",
-      "card_pool": "rotation_2018",
+      "card_pool_id": "rotation_2018",
       "date_start": "2019-09-20",
-      "restriction": "standard_mwl_3_4"
+      "restriction_id": "standard_mwl_3_4"
     },
     {
       "id": "standard_12",
-      "card_pool": "rotation_2019",
+      "card_pool_id": "rotation_2019",
       "date_start": "2019-12-27",
-      "restriction": "standard_mwl_3_4"
+      "restriction_id": "standard_mwl_3_4"
     },
     {
       "id": "standard_13",
-      "card_pool": "rotation_2019",
+      "card_pool_id": "rotation_2019",
       "date_start": "2019-12-31",
-      "restriction": "standard_mwl_3_4_b"
+      "restriction_id": "standard_mwl_3_4_b"
     },
     {
       "id": "standard_14",
-      "card_pool": "rotation_2019",
+      "card_pool_id": "rotation_2019",
       "date_start": "2020-06-26",
-      "restriction": "standard_ban_list_20_06"
+      "restriction_id": "standard_ban_list_20_06"
     },
     {
       "id": "standard_15",
-      "card_pool": "rotation_2019",
+      "card_pool_id": "rotation_2019",
       "date_start": "2020-09-25",
-      "restriction": "standard_ban_list_20_09"
+      "restriction_id": "standard_ban_list_20_09"
     },
     {
       "id": "standard_16",
-      "card_pool": "rotation_2020",
+      "card_pool_id": "rotation_2020",
       "date_start": "2020-12-18",
-      "restriction": "standard_ban_list_20_09"
+      "restriction_id": "standard_ban_list_20_09"
     },
     {
       "id": "standard_17",
-      "card_pool": "rotation_2021",
+      "card_pool_id": "rotation_2021",
       "date_start": "2021-04-09",
-      "restriction": "standard_ban_list_21_04"
+      "restriction_id": "standard_ban_list_21_04"
     },
     {
       "id": "standard_18",
-      "card_pool": "rotation_2021",
+      "card_pool_id": "rotation_2021",
       "date_start": "2021-05-01",
-      "restriction": "standard_ban_list_21_05"
+      "restriction_id": "standard_ban_list_21_05"
     },
     {
       "id": "standard_19",
-      "card_pool": "rotation_2021",
+      "card_pool_id": "rotation_2021",
       "date_start": "2021-06-19",
-      "restriction": "standard_ban_list_21_06"
+      "restriction_id": "standard_ban_list_21_06"
     },
     {
       "id": "standard_20",
       "active": true,
-      "card_pool": "rotation_2021",
+      "card_pool_id": "rotation_2021",
       "date_start": "2021-10-29",
-      "restriction": "standard_ban_list_21_10"
+      "restriction_id": "standard_ban_list_21_10"
     }
   ]
 }
