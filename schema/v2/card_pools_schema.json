@@ -27,8 +27,12 @@
           "minLength": 1,
           "type": "string"
         }
+      },
+      "format_id": {
+        "minLength": 1,
+        "type": "string"
       }
     },
-    "required": ["id", "name"]
+    "required": ["id", "name", "format_id"]
   }
 }

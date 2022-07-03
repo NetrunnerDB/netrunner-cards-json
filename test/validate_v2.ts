@@ -167,7 +167,7 @@ describe('Printings', () => {
 
   it('printing files card_set_id match printing file names', () => {
     printingFiles.forEach(file => {
-      const cardSetIdFromFile = basename(file).replace('.json', ''); 
+      const cardSetIdFromFile = basename(file).replace('.json', '');
       const printing = JSON.parse(fs.readFileSync(resolve(printingDir, file), 'utf-8'));
       printing.forEach(p => {
         expect(cardSetIdFromFile, `card_set_id ${p.card_set_id} for ${p.card_id} / ${p.id} does not match file name of ${cardSetIdFromFile}`).to.equal(p.card_set_id);
@@ -235,6 +235,16 @@ describe('Card Pools', () => {
       cardPool.forEach(p => {
         expect(names.has(p.name), `Printing ${file} has duplicate name ${p.name}`).to.be.false;
         names.add(p.name);
+      });
+    });
+  });
+
+  it('card pool format_ids match the name of their file', () => {
+    cardPoolFiles.forEach(file => {
+      const expected_id = file.replace('.json', '')
+      const cardPool = JSON.parse(fs.readFileSync(resolve(cardPoolDir, file), 'utf-8'));
+      cardPool.forEach(p => {
+        expect(p.format_id, `Card pool file ${file}, pool ${p.name} has invalid format id ${p.format_id}`).to.equal(expected_id);
       });
     });
   });
@@ -438,6 +448,5 @@ describe('Formats', () => {
         });
       }
     });
-
   });
 });

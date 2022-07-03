@@ -2,6 +2,7 @@
   {
     "id": "ram_0",
     "name": "RAM 0",
+    "format_id": "ram",
     "card_set_ids": [
       "core_set",
       "system_gateway",
@@ -21,6 +22,7 @@
   },
   {
     "id": "ram_1",
+    "format_id": "ram",
     "name": "RAM 1",
     "card_set_ids": [
       "creation_and_control",
@@ -41,6 +43,7 @@
   },
   {
     "id": "ram_2",
+    "format_id": "ram",
     "name": "RAM 2",
     "card_set_ids": [
       "core_set",
@@ -61,6 +64,7 @@
   },
   {
     "id": "ram_3",
+    "format_id": "ram",
     "name": "RAM 3",
     "card_set_ids": [
       "creation_and_control",
@@ -81,6 +85,7 @@
   },
   {
     "id": "ram_4",
+    "format_id": "ram",
     "name": "RAM 4",
     "card_set_ids": [
       "honor_and_profit",
@@ -101,6 +106,7 @@
   },
   {
     "id": "ram_5",
+    "format_id": "ram",
     "name": "RAM 5",
     "card_set_ids": [
       "core_set",
@@ -121,6 +127,7 @@
   },
   {
     "id": "ram_6",
+    "format_id": "ram",
     "name": "RAM 6",
     "card_set_ids": [
       "data_and_destiny",

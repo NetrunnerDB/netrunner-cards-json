@@ -18,6 +18,10 @@
         "type": "object",
         "additionalProperties": false,
         "properties": {
+          "id": {
+            "minLength": 1,
+            "type": "string"
+          },
           "card_pool_id": {
             "minLength": 1,
             "type": "string"
