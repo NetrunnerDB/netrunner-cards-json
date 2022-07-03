@@ -7,7 +7,7 @@
     "additionalProperties": false,
     "allOf": [
       {
-        "title": "Type codes must be valid for the side.",
+        "title": "Type ids must be valid for the side.",
         "type": "object",
         "oneOf": [
           {
