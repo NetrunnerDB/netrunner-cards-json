@@ -7,9 +7,9 @@
     "illustrator": "Olie Boldador",
     "position": 1,
     "printed_is_unique": false,
-    "printed_text": "<strong>[click], [trash], suffer 1 brain damage:</strong> Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server.",
+    "printed_text": "[click], [trash], <strong>suffer 1 core damage:</strong> Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server.",
     "quantity": 3,
-    "stripped_printed_text": "click, trash, suffer 1 brain damage: Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server."
+    "stripped_printed_text": "click, trash, suffer 1 core damage: Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server."
   },
   {
     "card_id": "revolver",
@@ -18,9 +18,9 @@
     "illustrator": "Bruno Balixa",
     "position": 2,
     "printed_is_unique": false,
-    "printed_text": "When you install this program, place 6 power counters on it.\nInterface → <strong>[trash]</strong> or <strong>hosted power counter:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>2[credit]:</strong> +3 strength.",
+    "printed_text": "When you install this program, place 6 power counters on it.\nInterface → [trash] or <strong>hosted power counter:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>2[credit]:</strong> +3 strength.",
     "quantity": 3,
-    "stripped_printed_text": "When you install this program, place 6 power counters on it. Interface -> trash or hosted power counter: Break 1 sentry subroutine. 2 credit: +3 strength."
+    "stripped_printed_text": "When you install this program, place 6 power counters on it. Interface -> trash or hosted power counter: Break 1 sentry subroutine. 2 credits: +3 strength."
   },
   {
     "card_id": "deep_dive",
@@ -40,9 +40,9 @@
     "illustrator": "Jakuza",
     "position": 4,
     "printed_is_unique": false,
-    "printed_text": "When you rez this ice during a run against this server, you may derez another installed card. If you do, the Runner cannot use paid abilities printed on <strong>bioroid</strong> ice for the remainder of this turn.\n<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.",
+    "printed_text": "When you rez this ice during a run against this server, you may derez another installed card. If you do, the Runner cannot use paid abilities printed on <strong>bioroid</strong> ice for the remainder of this turn.\n<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] End the run.",
     "quantity": 3,
-    "stripped_printed_text": "When you rez this ice during a run against this server, you may derez another installed card. If you do, the Runner cannot use paid abilities printed on bioroid ice for the remainder of this turn. Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine End the run."
+    "stripped_printed_text": "When you rez this ice during a run against this server, you may derez another installed card. If you do, the Runner cannot use paid abilities printed on bioroid ice for the remainder of this turn. Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. Subroutine End the run."
   },
   {
     "card_id": "anemone",

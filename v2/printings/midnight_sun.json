@@ -1,5 +1,64 @@
 [
   {
+    "card_id": "esa_afontov_eco_insurrectionist",
+    "card_set_id": "midnight_sun",
+    "flavor": "Waiting is useless. The crisis is here; pick a side.",
+    "id": "33001",
+    "illustrator": "Benjamin Giletti",
+    "position": 1,
+    "printed_is_unique": false,
+    "printed_text": "The first time each turn you suffer core damage, you may draw 1 card and sabotage 2. <em>(The Corp trashes 2 cards of their choice from HQ and/or the top of R&D.)</em>",
+    "quantity": 1,
+    "stripped_printed_text": "The first time each turn you suffer core damage, you may draw 1 card and sabotage 2. (The Corp trashes 2 cards of their choice from HQ and/or the top of R&D.)"
+  },
+  {
+    "card_id": "chastushka",
+    "card_set_id": "midnight_sun",
+    "flavor": "We're all alike down here Androids are friends we salute Give us all a f***ing break Ol' Jack is the s*** on my boot.",
+    "id": "33002",
+    "illustrator": "Adam S. Doyle",
+    "position": 2,
+    "printed_is_unique": false,
+    "printed_text": "Run HQ. If successful, instead of breaching HQ, sabotage 4. <em>(The Corp trashes 4 cards of their choice from HQ and/or the top of R&D.)</em>",
+    "quantity": 3,
+    "stripped_printed_text": "Run HQ. If successful, instead of breaching HQ, sabotage 4. (The Corp trashes 4 cards of their choice from HQ and/or the top of R&D.)"
+  },
+  {
+    "card_id": "running_hot",
+    "card_set_id": "midnight_sun",
+    "flavor": "We can change the world, if we're willing to be changed in return.",
+    "id": "33003",
+    "illustrator": "Elizaveta Sokolova",
+    "position": 3,
+    "printed_is_unique": false,
+    "printed_text": "As an additional cost to play this event, suffer 1 core damage.\nGain [click][click][click].",
+    "quantity": 3,
+    "stripped_printed_text": "As an additional cost to play this event, suffer 1 core damage. Gain clickclickclick."
+  },
+  {
+    "card_id": "marrow",
+    "card_set_id": "midnight_sun",
+    "id": "33006",
+    "illustrator": "Martin de Diego Sádaba",
+    "position": 6,
+    "printed_is_unique": true,
+    "printed_text": "+1[mu]\nYou get +3 maximum hand size.\nWhen you install this hardware, suffer 1 core damage.\nWhenever the Corp scores an agenda, sabotage 1. <em>(The Corp trashes 1 card of their choice from HQ or the top of R&D.)</em>\nLimit 1 <strong>console</strong> per player. ",
+    "quantity": 3,
+    "stripped_printed_text": "+1mu You get +3 maximum hand size. When you install this hardware, suffer 1 core damage. Whenever the Corp scores an agenda, sabotage 1. (The Corp trashes 1 card of their choice from HQ or the top of R&D.) Limit 1 console per player. "
+  },
+  {
+    "card_id": "light_the_fire",
+    "card_set_id": "midnight_sun",
+    "flavor": "A single spark is all that it takes to destroy billions of credits... or to burn away the rot that ravages our world.",
+    "id": "33009",
+    "illustrator": "Olie Boldador",
+    "position": 9,
+    "printed_is_unique": false,
+    "printed_text": "[click], [trash], <strong>suffer 1 core damage:</strong> Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server.",
+    "quantity": 3,
+    "stripped_printed_text": "click, trash, suffer 1 core damage: Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server."
+  },
+  {
     "card_id": "pinhole_threading",
     "card_set_id": "midnight_sun",
     "flavor": "Neneciğim would be proud.",
@@ -10,5 +69,75 @@
     "printed_text": "Run any server. If successful, instead of breaching the attacked server, access 1 card in the root of another server. If that card is an agenda, you cannot steal or trash it during this access.",
     "quantity": 3,
     "stripped_printed_text": "Run any server. If successful, instead of breaching the attacked server, access 1 card in the root of another server. If that card is an agenda, you cannot steal or trash it during this access."
+  },
+  {
+    "card_id": "revolver",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"Aim with your eye. Shoot with your mind. Break with your soul.\" –Sundog",
+    "id": "33018",
+    "illustrator": "Bruno Balixa",
+    "position": 18,
+    "printed_is_unique": false,
+    "printed_text": "When you install this program, place 6 power counters on it.\nInterface → [trash] or <strong>hosted power counter:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>2[credit]:</strong> +3 strength.",
+    "quantity": 3,
+    "stripped_printed_text": "When you install this program, place 6 power counters on it. Interface -> trash or hosted power counter: Break 1 sentry subroutine. 2 credits: +3 strength."
+  },
+  {
+    "card_id": "deep_dive",
+    "card_set_id": "midnight_sun",
+    "id": "33022",
+    "illustrator": "Cat Shen",
+    "position": 22,
+    "printed_is_unique": false,
+    "printed_text": "Play only if you made a successful run on HQ, R&D, and Archives this turn.\nThe Corp must set aside the top 8 cards of R&D faceup. Access 1 of those cards. You may spend [click] to access another 1 of those cards. Then, the Corp shuffles the set-aside cards into R&D.",
+    "quantity": 3,
+    "stripped_printed_text": "Play only if you made a successful run on HQ, R&D, and Archives this turn. The Corp must set aside the top 8 cards of R&D faceup. Access 1 of those cards. You may spend click to access another 1 of those cards. Then, the Corp shuffles the set-aside cards into R&D."
+  },
+  {
+    "card_id": "hakarl_1_0",
+    "card_set_id": "midnight_sun",
+    "id": "33036",
+    "illustrator": "Jakuza",
+    "position": 36,
+    "printed_is_unique": false,
+    "printed_text": "When you rez this ice during a run against this server, you may derez another installed card. If you do, the Runner cannot use paid abilities printed on <strong>bioroid</strong> ice for the remainder of this turn.\n<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] End the run.",
+    "quantity": 3,
+    "stripped_printed_text": "When you rez this ice during a run against this server, you may derez another installed card. If you do, the Runner cannot use paid abilities printed on bioroid ice for the remainder of this turn. Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. Subroutine End the run."
+  },
+  {
+    "card_id": "anemone",
+    "card_set_id": "midnight_sun",
+    "flavor": "Ethereal beauty laced with the most elegant venom.",
+    "id": "33043",
+    "illustrator": "Jack Reeves",
+    "position": 43,
+    "printed_is_unique": false,
+    "printed_text": "When you rez this ice during a run against this server, you may trash 1 card from HQ to do 2 net damage.\n[subroutine] Do 1 net damage.",
+    "quantity": 3,
+    "stripped_printed_text": "When you rez this ice during a run against this server, you may trash 1 card from HQ to do 2 net damage. Subroutine Do 1 net damage."
+  },
+  {
+    "card_id": "vladisibirsk_city_grid",
+    "card_set_id": "midnight_sun",
+    "flavor": "Straddling the banks of the Ob River, this metropolis contains hope for a better tomorrow.",
+    "id": "33056",
+    "illustrator": "Kira L. Nguyen",
+    "position": 56,
+    "printed_is_unique": false,
+    "printed_text": "You can advance this upgrade.\n<strong>2 hosted advancement counters:</strong> Place 2 advancement counters on another card in the root of this server that you can advance. Use this ability only once per turn.\nLimit 1 <strong>region</strong> per server.",
+    "quantity": 3,
+    "stripped_printed_text": "You can advance this upgrade. 2 hosted advancement counters: Place 2 advancement counters on another card in the root of this server that you can advance. Use this ability only once per turn. Limit 1 region per server."
+  },
+  {
+    "card_id": "azef_protocol",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"Don't worry, directors, security is always willing to send agents to assist with radical asset reassignment.\" –Yakov Avdakov",
+    "id": "33058",
+    "illustrator": "Benjamin Giletti",
+    "position": 58,
+    "printed_is_unique": false,
+    "printed_text": "As an additional cost to score this agenda, trash 1 of your other installed cards.\nWhen you score this agenda, do 2 meat damage.",
+    "quantity": 3,
+    "stripped_printed_text": "As an additional cost to score this agenda, trash 1 of your other installed cards. When you score this agenda, do 2 meat damage."
   }
 ]
