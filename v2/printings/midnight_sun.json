@@ -59,6 +59,18 @@
     "stripped_printed_text": "click, trash, suffer 1 core damage: Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server."
   },
   {
+    "card_id": "nyusha_sable_sintashta_symphonic_prodigy",
+    "card_set_id": "midnight_sun",
+    "flavor": "Flaws hold both beauty and opportunity.",
+    "id": "33011",
+    "illustrator": "Benjamin Giletti",
+    "position": 11,
+    "printed_is_unique": false,
+    "printed_text": "When your turn begins, identify your mark. <em>(If you don’t have a mark, a random central server becomes your mark for this turn.)</em>\nThe first time each turn you make a successful run on your mark, gain [click].",
+    "quantity": 1,
+    "stripped_printed_text": "When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) The first time each turn you make a successful run on your mark, gain click."
+  },
+  {
     "card_id": "pinhole_threading",
     "card_set_id": "midnight_sun",
     "flavor": "Neneciğim would be proud.",
@@ -69,6 +81,29 @@
     "printed_text": "Run any server. If successful, instead of breaching the attacked server, access 1 card in the root of another server. If that card is an agenda, you cannot steal or trash it during this access.",
     "quantity": 3,
     "stripped_printed_text": "Run any server. If successful, instead of breaching the attacked server, access 1 card in the root of another server. If that card is an agenda, you cannot steal or trash it during this access."
+  },
+  {
+    "card_id": "virtuoso",
+    "card_set_id": "midnight_sun",
+    "id": "33015",
+    "illustrator": "Zoe Cohen",
+    "position": 15,
+    "printed_is_unique": true,
+    "printed_text": "+1[mu]\nWhen your turn begins, identify your mark. <em>(If you don’t have a mark, a random central server becomes your mark for this turn.)</em>\nThe first time each turn you make a successful run on your mark, if that server is HQ, access 1 additional card when you breach HQ. Otherwise, breach HQ when the run ends.\nLimit 1 <strong>console</strong> per player. ",
+    "quantity": 3,
+    "stripped_printed_text": "+1mu When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) The first time each turn you make a successful run on your mark, if that server is HQ, access 1 additional card when you breach HQ. Otherwise, breach HQ when the run ends. Limit 1 console per player. "
+  },
+  {
+    "card_id": "cezve",
+    "card_set_id": "midnight_sun",
+    "flavor": "The feel of flour-fine coffee, the scent of caramelizing sugar, the gentle heat of the flame. A ritual I never forget.",
+    "id": "33017",
+    "illustrator": "Bruno Balixa",
+    "position": 17,
+    "printed_is_unique": false,
+    "printed_text": "2[recurring-credit] <em>(When you install this card and before your turn begins, refill to 2 hosted credits.)</em>\nYou can spend hosted credits during runs on central servers.",
+    "quantity": 3,
+    "stripped_printed_text": "2 recurring credits (When you install this card and before your turn begins, refill to 2 hosted credits.) You can spend hosted credits during runs on central servers."
   },
   {
     "card_id": "revolver",
@@ -115,6 +150,18 @@
     "printed_text": "When you rez this ice during a run against this server, you may trash 1 card from HQ to do 2 net damage.\n[subroutine] Do 1 net damage.",
     "quantity": 3,
     "stripped_printed_text": "When you rez this ice during a run against this server, you may trash 1 card from HQ to do 2 net damage. Subroutine Do 1 net damage."
+  },
+  {
+    "card_id": "artificial_cryptocrash",
+    "card_set_id": "midnight_sun",
+    "flavor": "The line goes up... until we don't need it to anymore.",
+    "id": "33049",
+    "illustrator": "Wyn Lacabra",
+    "position": 49,
+    "printed_is_unique": false,
+    "printed_text": "When you score this agenda, the Runner loses 7[credit].",
+    "quantity": 3,
+    "stripped_printed_text": "When you score this agenda, the Runner loses 7 credits."
   },
   {
     "card_id": "vladisibirsk_city_grid",
