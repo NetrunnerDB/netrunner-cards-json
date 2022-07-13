@@ -71,9 +71,9 @@
     "position": 4,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "Place 9 credits on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When the run ends, suffer 1 brain damage, which cannot be prevented. Errata from CR 1.4",
+    "stripped_text": "Place 9 credits on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When the run ends, suffer 1 brain damage, which cannot be prevented.",
     "stripped_title": "Stimhack",
-    "text": "Place 9[credit] on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When the run ends, suffer 1 brain damage, which cannot be prevented.\n<errata>Errata from CR 1.4</errata>",
+    "text": "Place 9[credit] on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When the run ends, suffer 1 brain damage, which cannot be prevented.",
     "title": "Stimhack",
     "type_code": "event",
     "uniqueness": false
@@ -903,9 +903,9 @@
     "position": 45,
     "quantity": 2,
     "side_code": "runner",
-    "stripped_text": "Interrupt -> The first time each turn you would take net damage, you may pay 1 credit to prevent 1 net damage. Errata from CR 1.4",
+    "stripped_text": "Interrupt -> The first time each turn you would take net damage, you may pay 1 credit to prevent 1 net damage.",
     "stripped_title": "Net Shield",
-    "text": "[interrupt] → The first time each turn you would take net damage, you may pay 1[credit] to prevent 1 net damage.\n<errata>Errata from CR 1.4</errata>",
+    "text": "[interrupt] → The first time each turn you would take net damage, you may pay 1[credit] to prevent 1 net damage.",
     "title": "Net Shield",
     "type_code": "program",
     "uniqueness": false
