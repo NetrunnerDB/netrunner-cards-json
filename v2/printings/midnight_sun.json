@@ -36,15 +36,39 @@
     "stripped_printed_text": "As an additional cost to play this event, suffer 1 core damage. Gain clickclickclick."
   },
   {
+    "card_id": "steelskin_scarring",
+    "card_set_id": "midnight_sun",
+    "flavor": "Reactive implants reclaim the memories of our fallen comrades. Their sacrifice is our shield.",
+    "id": "33004",
+    "illustrator": "Elliott Birt",
+    "position": 4,
+    "printed_is_unique": false,
+    "printed_text": "Draw 3 cards.\nWhen this event is trashed from your grip or stack, you may draw 2 cards.",
+    "quantity": 3,
+    "stripped_printed_text": "Draw 3 cards. When this event is trashed from your grip or stack, you may draw 2 cards."
+  },
+  {
     "card_id": "marrow",
     "card_set_id": "midnight_sun",
     "id": "33006",
     "illustrator": "Martin de Diego Sádaba",
     "position": 6,
     "printed_is_unique": true,
-    "printed_text": "+1[mu]\nYou get +3 maximum hand size.\nWhen you install this hardware, suffer 1 core damage.\nWhenever the Corp scores an agenda, sabotage 1. <em>(The Corp trashes 1 card of their choice from HQ or the top of R&D.)</em>\nLimit 1 <strong>console</strong> per player. ",
+    "printed_text": "+1[mu]\nYou get +3 maximum hand size.\nWhen you install this hardware, suffer 1 core damage.\nWhenever the Corp scores an agenda, sabotage 1. <em>(The Corp trashes 1 card of their choice from HQ or the top of R&D.)</em>\nLimit 1 <strong>console</strong> per player.",
     "quantity": 3,
-    "stripped_printed_text": "+1mu You get +3 maximum hand size. When you install this hardware, suffer 1 core damage. Whenever the Corp scores an agenda, sabotage 1. (The Corp trashes 1 card of their choice from HQ or the top of R&D.) Limit 1 console per player. "
+    "stripped_printed_text": "+1mu You get +3 maximum hand size. When you install this hardware, suffer 1 core damage. Whenever the Corp scores an agenda, sabotage 1. (The Corp trashes 1 card of their choice from HQ or the top of R&D.) Limit 1 console per player."
+  },
+  {
+    "card_id": "avgustina_ivanovskaya",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"Sometimes being a union rep calls for action even more... direct.\"",
+    "id": "33008",
+    "illustrator": "Dave Lee",
+    "position": 8,
+    "printed_is_unique": true,
+    "printed_text": "The first time each turn you install a <strong>virus</strong> program, sabotage 1. <em>(The Corp trashes 1 card of their choice from HQ or the top of R&D.)</em>",
+    "quantity": 3,
+    "stripped_printed_text": "The first time each turn you install a virus program, sabotage 1. (The Corp trashes 1 card of their choice from HQ or the top of R&D.)"
   },
   {
     "card_id": "light_the_fire",
@@ -89,9 +113,9 @@
     "illustrator": "Zoe Cohen",
     "position": 15,
     "printed_is_unique": true,
-    "printed_text": "+1[mu]\nWhen your turn begins, identify your mark. <em>(If you don’t have a mark, a random central server becomes your mark for this turn.)</em>\nThe first time each turn you make a successful run on your mark, if that server is HQ, access 1 additional card when you breach HQ. Otherwise, breach HQ when the run ends.\nLimit 1 <strong>console</strong> per player. ",
+    "printed_text": "+1[mu]\nWhen your turn begins, identify your mark. <em>(If you don’t have a mark, a random central server becomes your mark for this turn.)</em>\nThe first time each turn you make a successful run on your mark, if that server is HQ, access 1 additional card when you breach HQ. Otherwise, breach HQ when the run ends.\nLimit 1 <strong>console</strong> per player.",
     "quantity": 3,
-    "stripped_printed_text": "+1mu When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) The first time each turn you make a successful run on your mark, if that server is HQ, access 1 additional card when you breach HQ. Otherwise, breach HQ when the run ends. Limit 1 console per player. "
+    "stripped_printed_text": "+1mu When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) The first time each turn you make a successful run on your mark, if that server is HQ, access 1 additional card when you breach HQ. Otherwise, breach HQ when the run ends. Limit 1 console per player."
   },
   {
     "card_id": "cezve",
@@ -118,6 +142,18 @@
     "stripped_printed_text": "When you install this program, place 6 power counters on it. Interface -> trash or hosted power counter: Break 1 sentry subroutine. 2 credits: +3 strength."
   },
   {
+    "card_id": "captain_padma_isbister_intrepid_explorer",
+    "card_set_id": "midnight_sun",
+    "flavor": "The sea is everything; its breath must remain pure and healthy.",
+    "id": "33021",
+    "illustrator": "Benjamin Giletti",
+    "position": 21,
+    "printed_is_unique": false,
+    "printed_text": "The first time each turn a run on R&D begins, you may charge 1 of your installed cards. <em>(Add 1 power counter to a card that already has one.)</em>",
+    "quantity": 1,
+    "stripped_printed_text": "The first time each turn a run on R&D begins, you may charge 1 of your installed cards. (Add 1 power counter to a card that already has one.)"
+  },
+  {
     "card_id": "deep_dive",
     "card_set_id": "midnight_sun",
     "id": "33022",
@@ -127,6 +163,29 @@
     "printed_text": "Play only if you made a successful run on HQ, R&D, and Archives this turn.\nThe Corp must set aside the top 8 cards of R&D faceup. Access 1 of those cards. You may spend [click] to access another 1 of those cards. Then, the Corp shuffles the set-aside cards into R&D.",
     "quantity": 3,
     "stripped_printed_text": "Play only if you made a successful run on HQ, R&D, and Archives this turn. The Corp must set aside the top 8 cards of R&D faceup. Access 1 of those cards. You may spend click to access another 1 of those cards. Then, the Corp shuffles the set-aside cards into R&D."
+  },
+  {
+    "card_id": "rigging_up",
+    "card_set_id": "midnight_sun",
+    "flavor": "Edie doesn't mind the noise. She's happy just being nearby.",
+    "id": "33024",
+    "illustrator": "Benjamin Giletti",
+    "position": 24,
+    "printed_is_unique": false,
+    "printed_text": "Install 1 program or piece of hardware from your grip, paying 3[credit] less. You may charge that card if able. <em>(If it has a power counter on it, add another.)</em>",
+    "quantity": 3,
+    "stripped_printed_text": "Install 1 program or piece of hardware from your grip, paying 3 credits less. You may charge that card if able. (If it has a power counter on it, add another.)"
+  },
+  {
+    "card_id": "endurance",
+    "card_set_id": "midnight_sun",
+    "id": "33025",
+    "illustrator": "Anna Butova",
+    "position": 25,
+    "printed_is_unique": true,
+    "printed_text": "+2[mu]\nWhen you install this hardware, place 3 power counters on it.\nThe first time each turn you make a successful run, place 1 power counter on this hardware.\n<strong>2 hosted power counters:</strong> Break up to 2 subroutines.\nLimit 1 <strong>console</strong> per player.",
+    "quantity": 3,
+    "stripped_printed_text": "+2mu When you install this hardware, place 3 power counters on it. The first time each turn you make a successful run, place 1 power counter on this hardware. 2 hosted power counters: Break up to 2 subroutines. Limit 1 console per player."
   },
   {
     "card_id": "hakarl_1_0",
