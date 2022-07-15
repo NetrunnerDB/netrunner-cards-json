@@ -3,6 +3,7 @@ import { basename, resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
 import { getCardCyclesV2Json, getCardsV2Json, getCardSetsV2Json, getCardSetTypesV2Json, getCardSubtypesV2Json, getCardTypesV2Json, getFactionsV2Json, getSidesV2Json, textToId } from "../src/index";
 import { expect } from "chai";
+import { execPath } from "process";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
@@ -351,6 +352,46 @@ describe('Restrictions', () => {
       }
     });
   });
+
+  it('have sorted lists', () => {
+    restrictionFiles.forEach(file => {
+      const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
+      // banned
+      if ('banned' in restriction) {
+        expect(restriction.banned, `banned list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.banned.map((e) => e).sort()); 
+      }
+      // subtypes.banned
+      if ('subtype' in restriction && 'banned' in restriction.subtype) {
+        expect(restriction.subtype.banned, `subtype.banned list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.subtype.banned.map((e) => e).sort()); 
+      }
+      // global_penalty.1
+      if ('global_penalty' in restriction && '1' in restriction.global_penalty) {
+        expect(restriction.global_penalty['1'], `global_penalty['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.global_penalty['1'].map((e) => e).sort()); 
+      }
+      // universal_faction_cost.{1,3}
+      if ('universal_faction_cost' in restriction && '1' in restriction.universal_faction_cost) {
+        expect(restriction.universal_faction_cost['1'], `universal_faction_cost['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.universal_faction_cost['1'].map((e) => e).sort()); 
+      }
+      if ('universal_faction_cost' in restriction && '3' in restriction.universal_faction_cost) {
+        expect(restriction.universal_faction_cost['3'], `universal_faction_cost['3'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.universal_faction_cost['3'].map((e) => e).sort()); 
+      }
+      // points.{1,2,3}
+      if ('points' in restriction && '1' in restriction.points) {
+        expect(restriction.points['1'], `points['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['1'].map((e) => e).sort()); 
+      }
+      if ('points' in restriction && '2' in restriction.points) {
+        expect(restriction.points['2'], `points['2'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['2'].map((e) => e).sort()); 
+      }
+      if ('points' in restriction && '3' in restriction.points) {
+        expect(restriction.points['3'], `points['3'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['3'].map((e) => e).sort()); 
+      }
+      // restricted
+      if ('restricted' in restriction) {
+        expect(restriction.restricted, `restricted list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.restricted.map((e) => e).sort()); 
+      }
+     });
+  });
+
 });
 
 describe('Formats', () => {
