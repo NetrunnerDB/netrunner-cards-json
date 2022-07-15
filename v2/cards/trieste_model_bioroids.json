@@ -1,0 +1,16 @@
+{
+  "card_type_id": "asset",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "haas_bioroid",
+  "id": "trieste_model_bioroids",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you rez this asset, choose 1 rezzed piece of bioroid ice. Runner card abilities cannot break subroutines on the chosen ice.",
+  "stripped_title": "Trieste Model Bioroids",
+  "subtypes": ["bioroid"],
+  "text": "When you rez this asset, choose 1 rezzed piece of <strong>bioroid</strong> ice.\nRunner card abilities cannot break subroutines on the chosen ice.",
+  "title": "Trieste Model Bioroids",
+  "trash_cost": 3
+}

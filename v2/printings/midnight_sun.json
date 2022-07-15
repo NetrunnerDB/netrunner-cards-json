@@ -188,6 +188,18 @@
     "stripped_printed_text": "+2mu When you install this hardware, place 3 power counters on it. The first time each turn you make a successful run, place 1 power counter on this hardware. 2 hosted power counters: Break up to 2 subroutines. Limit 1 console per player."
   },
   {
+    "card_id": "trieste_model_bioroids",
+    "card_set_id": "midnight_sun",
+    "flavor": "At depths no human tech can reach, a Trieste proxy can manipulate a mindscape with unparalleled precision.\n<champion>Designed by 2019 NISEI World Champion Oliver \"Pinsel\" Siccha</champion>",
+    "id": "33034",
+    "illustrator": "Dimik",
+    "position": 34,
+    "printed_is_unique": false,
+    "printed_text": "When you rez this asset, choose 1 rezzed piece of <strong>bioroid</strong> ice.\nRunner card abilities cannot break subroutines on the chosen ice.",
+    "quantity": 3,
+    "stripped_printed_text": "When you rez this asset, choose 1 rezzed piece of bioroid ice. Runner card abilities cannot break subroutines on the chosen ice."
+  },
+  {
     "card_id": "hakarl_1_0",
     "card_set_id": "midnight_sun",
     "id": "33036",
@@ -211,6 +223,30 @@
     "stripped_printed_text": "When you rez this ice during a run against this server, you may trash 1 card from HQ to do 2 net damage. Subroutine Do 1 net damage."
   },
   {
+    "card_id": "bathynomus",
+    "card_set_id": "midnight_sun",
+    "flavor": "Digital refuse is their food, and you should never come between an animal and its food.",
+    "id": "33044",
+    "illustrator": "Jack Reeves",
+    "position": 44,
+    "printed_is_unique": false,
+    "printed_text": "While this ice is protecting Archives, it gets +3 strength.\n[subroutine] Do 3 net damage.",
+    "quantity": 3,
+    "stripped_printed_text": "While this ice is protecting Archives, it gets +3 strength. Subroutine Do 3 net damage."
+  },
+  {
+    "card_id": "pravdivost_consulting_political_solutions",
+    "card_set_id": "midnight_sun",
+    "flavor": "Political news, fit for public consumption.",
+    "id": "33048",
+    "illustrator": "Emilio Rodriguez",
+    "position": 48,
+    "printed_is_unique": false,
+    "printed_text": "The first time each turn the Runner makes a successful run, you may place 1 advancement counter on an installed card you can advance.",
+    "quantity": 1,
+    "stripped_printed_text": "The first time each turn the Runner makes a successful run, you may place 1 advancement counter on an installed card you can advance."
+  },
+  {
     "card_id": "artificial_cryptocrash",
     "card_set_id": "midnight_sun",
     "flavor": "The line goes up... until we don't need it to anymore.",
@@ -221,6 +257,30 @@
     "printed_text": "When you score this agenda, the Runner loses 7[credit].",
     "quantity": 3,
     "stripped_printed_text": "When you score this agenda, the Runner loses 7 credits."
+  },
+  {
+    "card_id": "ubiquitous_vig",
+    "card_set_id": "midnight_sun",
+    "flavor": "They say they'll only take a handful, but oh what big hands they have!",
+    "id": "33052",
+    "illustrator": "Adam S. Doyle",
+    "position": 52,
+    "printed_is_unique": false,
+    "printed_text": "You can advance this asset.\nWhen your turn begins, gain 1[credit] for each hosted advancement counter.",
+    "quantity": 3,
+    "stripped_printed_text": "You can advance this asset. When your turn begins, gain 1 credit for each hosted advancement counter."
+  },
+  {
+    "card_id": "vasilisa",
+    "card_set_id": "midnight_sun",
+    "flavor": "No task the witch set would ever be too great, for Vasilisa had her mother's blessing.",
+    "id": "33054",
+    "illustrator": "BalanceSheet",
+    "position": 54,
+    "printed_is_unique": false,
+    "printed_text": "When the Runner encounters this ice, you may pay 1[credit]. If you do, place 1 advancement counter on an installed card you can advance.\n[subroutine] Give the Runner 1 tag.",
+    "quantity": 3,
+    "stripped_printed_text": "When the Runner encounters this ice, you may pay 1 credit. If you do, place 1 advancement counter on an installed card you can advance. Subroutine Give the Runner 1 tag."
   },
   {
     "card_id": "vladisibirsk_city_grid",
@@ -235,6 +295,18 @@
     "stripped_printed_text": "You can advance this upgrade. 2 hosted advancement counters: Place 2 advancement counters on another card in the root of this server that you can advance. Use this ability only once per turn. Limit 1 region per server."
   },
   {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "card_set_id": "midnight_sun",
+    "flavor": "Take all that is offered, and more.",
+    "id": "33057",
+    "illustrator": "Vitalii Ostaschenko",
+    "position": 57,
+    "printed_is_unique": false,
+    "printed_text": "Whenever you trash a rezzed card, except during installation, you may search R&D for 1 card with a printed rez cost exactly 1[credit] less than the trashed card's printed rez cost. Install and rez the card you found, ignoring credit costs. Use this ability only once per turn.",
+    "quantity": 1,
+    "stripped_printed_text": "Whenever you trash a rezzed card, except during installation, you may search R&D for 1 card with a printed rez cost exactly 1 credit less than the trashed card's printed rez cost. Install and rez the card you found, ignoring credit costs. Use this ability only once per turn."
+  },
+  {
     "card_id": "azef_protocol",
     "card_set_id": "midnight_sun",
     "flavor": "\"Don't worry, directors, security is always willing to send agents to assist with radical asset reassignment.\" –Yakov Avdakov",
@@ -245,5 +317,29 @@
     "printed_text": "As an additional cost to score this agenda, trash 1 of your other installed cards.\nWhen you score this agenda, do 2 meat damage.",
     "quantity": 3,
     "stripped_printed_text": "As an additional cost to score this agenda, trash 1 of your other installed cards. When you score this agenda, do 2 meat damage."
+  },
+  {
+    "card_id": "svyatogor_excavator",
+    "card_set_id": "midnight_sun",
+    "flavor": "It doesn't matter how long you've owned the land, you'd better hope there's nothing valuable beneath.",
+    "id": "33059",
+    "illustrator": "Vitalii Ostaschenko",
+    "position": 59,
+    "printed_is_unique": false,
+    "printed_text": "When your turn begins, you may trash 1 of your other installed cards. If you do, gain 3[credit].",
+    "quantity": 3,
+    "stripped_printed_text": "When your turn begins, you may trash 1 of your other installed cards. If you do, gain 3 credits."
+  },
+  {
+    "card_id": "trust_operation",
+    "card_set_id": "midnight_sun",
+    "flavor": "Identify. Contact. Entrap. Counterintelligence never changes.",
+    "id": "33065",
+    "illustrator": "Olie Boldador",
+    "position": 65,
+    "printed_is_unique": false,
+    "printed_text": "Play only if the Runner is tagged.\nTrash 1 installed resource. Install and rez 1 card from Archives, ignoring all costs.",
+    "quantity": 3,
+    "stripped_printed_text": "Play only if the Runner is tagged. Trash 1 installed resource. Install and rez 1 card from Archives, ignoring all costs."
   }
 ]
