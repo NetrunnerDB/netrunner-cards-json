@@ -3,7 +3,6 @@ import { basename, resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
 import { getCardCyclesV2Json, getCardsV2Json, getCardSetsV2Json, getCardSetTypesV2Json, getCardSubtypesV2Json, getCardTypesV2Json, getFactionsV2Json, getSidesV2Json, textToId } from "../src/index";
 import { expect } from "chai";
-import { execPath } from "process";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
 
