@@ -4,20 +4,20 @@
     "format_id": "standard",
     "name": "Pre Rotation",
     "card_cycle_ids": [
-      "genesis",
-      "spin",
-      "lunar",
-      "sansan",
-      "mumbad",
       "flashpoint",
-      "red_sand"
+      "genesis",
+      "lunar",
+      "mumbad",
+      "red_sand",
+      "sansan",
+      "spin"
     ],
     "card_set_ids": [
       "core_set",
       "creation_and_control",
+      "data_and_destiny",
       "honor_and_profit",
       "order_and_chaos",
-      "data_and_destiny",
       "terminal_directive_cards"
     ]
   },
@@ -26,21 +26,21 @@
     "format_id": "standard",
     "name": "First Rotation",
     "card_cycle_ids": [
-      "lunar",
-      "sansan",
-      "mumbad",
       "flashpoint",
+      "kitara",
+      "lunar",
+      "mumbad",
       "red_sand",
-      "kitara"
+      "sansan"
     ],
     "card_set_ids": [
       "creation_and_control",
+      "data_and_destiny",
       "honor_and_profit",
       "order_and_chaos",
-      "data_and_destiny",
-      "terminal_directive_cards",
+      "reign_and_reverie",
       "revised_core_set",
-      "reign_and_reverie"
+      "terminal_directive_cards"
     ]
   },
   {
@@ -48,20 +48,20 @@
     "format_id": "standard",
     "name": "Second Rotation",
     "card_cycle_ids": [
-      "lunar",
-      "sansan",
-      "mumbad",
       "flashpoint",
+      "kitara",
+      "lunar",
+      "mumbad",
       "red_sand",
-      "kitara"
+      "sansan"
     ],
     "card_set_ids": [
       "creation_and_control",
-      "honor_and_profit",
-      "order_and_chaos",
       "data_and_destiny",
-      "reign_and_reverie",
+      "honor_and_profit",
       "magnum_opus",
+      "order_and_chaos",
+      "reign_and_reverie",
       "system_core_2019"
     ]
   },
@@ -70,19 +70,19 @@
     "format_id": "standard",
     "name": "Third Rotation",
     "card_cycle_ids": [
-      "sansan",
-      "mumbad",
+      "ashes",
       "flashpoint",
-      "red_sand",
       "kitara",
-      "ashes"
+      "mumbad",
+      "red_sand",
+      "sansan"
     ],
     "card_set_ids": [
-      "honor_and_profit",
-      "order_and_chaos",
       "data_and_destiny",
-      "reign_and_reverie",
+      "honor_and_profit",
       "magnum_opus",
+      "order_and_chaos",
+      "reign_and_reverie",
       "system_core_2019"
     ]
   },
@@ -91,33 +91,33 @@
     "format_id": "standard",
     "name": "Salvaged Memories",
     "card_cycle_ids": [
-      "sansan",
-      "mumbad",
+      "ashes",
       "flashpoint",
-      "red_sand",
       "kitara",
-      "ashes"
+      "mumbad",
+      "red_sand",
+      "sansan"
     ],
     "card_set_ids": [
-      "honor_and_profit",
-      "order_and_chaos",
       "data_and_destiny",
-      "reign_and_reverie",
+      "honor_and_profit",
       "magnum_opus",
-      "system_core_2019",
-      "salvaged_memories"
+      "order_and_chaos",
+      "reign_and_reverie",
+      "salvaged_memories",
+      "system_core_2019"
     ]
   },
   {
     "id": "rotation_2021",
     "format_id": "standard",
     "name": "Fourth Rotation",
-    "card_cycle_ids": ["mumbad", "flashpoint", "red_sand", "kitara", "ashes"],
+    "card_cycle_ids": ["ashes", "flashpoint", "kitara", "mumbad", "red_sand"],
     "card_set_ids": [
-      "order_and_chaos",
       "data_and_destiny",
-      "reign_and_reverie",
       "magnum_opus",
+      "order_and_chaos",
+      "reign_and_reverie",
       "system_gateway"
     ]
   },

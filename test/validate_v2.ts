@@ -249,6 +249,29 @@ describe('Card Pools', () => {
       });
     });
   });
+
+  it('card pool card_cycle_ids is sorted', () => {
+    cardPoolFiles.forEach(file => {
+      const cardPool = JSON.parse(fs.readFileSync(resolve(cardPoolDir, file), 'utf-8'));
+      cardPool.forEach(p => {
+        if (p.card_cycle_ids) {
+          expect(p.card_cycle_ids, `card_cycle_ids should be sorted for card pool ${p.id} in ${file}`).to.deep.equal(p.card_cycle_ids.map((e) => e).sort());
+        }
+      });
+    });
+  });
+
+  it('card pool card_set_ids is sorted', () => {
+    cardPoolFiles.forEach(file => {
+      const cardPool = JSON.parse(fs.readFileSync(resolve(cardPoolDir, file), 'utf-8'));
+      cardPool.forEach(p => {
+        if (p.card_set_ids) {
+          expect(p.card_set_ids, `card_set_ids should be sorted for card pool ${p.id} in ${file}`).to.deep.equal(p.card_set_ids.map((e) => e).sort());
+        }
+      });
+    });
+  });
+
 });
 
 describe('Restrictions', () => {
