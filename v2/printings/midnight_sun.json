@@ -188,6 +188,30 @@
     "stripped_printed_text": "+2mu When you install this hardware, place 3 power counters on it. The first time each turn you make a successful run, place 1 power counter on this hardware. 2 hosted power counters: Break up to 2 subroutines. Limit 1 console per player."
   },
   {
+    "card_id": "midnight_3_arcology",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"The Midnight-3 glows with an inviting warmth that belies the broken promise within. All that awaits you there is a life of indentured servitude.\"\n–Sundog",
+    "id": "33032",
+    "illustrator": "Emilio Rodriguez",
+    "position": 32,
+    "printed_is_unique": false,
+    "printed_text": "When you score this agenda, draw 3 cards. Skip your discard step this turn.",
+    "quantity": 3,
+    "stripped_printed_text": "When you score this agenda, draw 3 cards. Skip your discard step this turn."
+  },
+  {
+    "card_id": "refuge_campaign",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"The promise of a new home, safe work and friendly neighbors will draw in tens of thousands of eco-refugees, no matter which corner of the world they are from.\"\n–Thule employee handbook",
+    "id": "33033",
+    "illustrator": "Kira L. Nguyen",
+    "position": 33,
+    "printed_is_unique": false,
+    "printed_text": "When your turn begins, gain 2[credit].",
+    "quantity": 3,
+    "stripped_printed_text": "When your turn begins, gain 2 credits."
+  },
+  {
     "card_id": "trieste_model_bioroids",
     "card_set_id": "midnight_sun",
     "flavor": "At depths no human tech can reach, a Trieste proxy can manipulate a mindscape with unparalleled precision.\n<champion>Designed by 2019 NISEI World Champion Oliver \"Pinsel\" Siccha</champion>",
@@ -200,6 +224,18 @@
     "stripped_printed_text": "When you rez this asset, choose 1 rezzed piece of bioroid ice. Runner card abilities cannot break subroutines on the chosen ice."
   },
   {
+    "card_id": "echo",
+    "card_set_id": "midnight_sun",
+    "flavor": "End the run. End the run. End the run. End the run.",
+    "id": "33035",
+    "illustrator": "Jakuza",
+    "position": 35,
+    "printed_is_unique": false,
+    "printed_text": "Whenever you rez a piece of <strong>harmonic</strong> ice, place 1 power counter on this ice.\nThis ice gains \"[subroutine] End the run.\" for each hosted power counter.",
+    "quantity": 3,
+    "stripped_printed_text": "Whenever you rez a piece of harmonic ice, place 1 power counter on this ice. This ice gains \"Subroutine End the run.\" for each hosted power counter."
+  },
+  {
     "card_id": "hakarl_1_0",
     "card_set_id": "midnight_sun",
     "id": "33036",
@@ -209,6 +245,18 @@
     "printed_text": "When you rez this ice during a run against this server, you may derez another installed card. If you do, the Runner cannot use paid abilities printed on <strong>bioroid</strong> ice for the remainder of this turn.\n<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] End the run.",
     "quantity": 3,
     "stripped_printed_text": "When you rez this ice during a run against this server, you may derez another installed card. If you do, the Runner cannot use paid abilities printed on bioroid ice for the remainder of this turn. Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. Subroutine End the run."
+  },
+  {
+    "card_id": "wave",
+    "card_set_id": "midnight_sun",
+    "flavor": "With networks, growth is exponential.",
+    "id": "33037",
+    "illustrator": "Jakuza",
+    "position": 37,
+    "printed_is_unique": false,
+    "printed_text": "When you rez this ice during a run against this server, you may search R&D for a piece of ice and reveal it. <em>(Shuffle R&D after searching it.)</em> Add that ice to HQ.\n[subroutine] Gain 1[credit] for each rezzed piece of <strong>harmonic</strong> ice.",
+    "quantity": 3,
+    "stripped_printed_text": "When you rez this ice during a run against this server, you may search R&D for a piece of ice and reveal it. (Shuffle R&D after searching it.) Add that ice to HQ. Subroutine Gain 1 credit for each rezzed piece of harmonic ice."
   },
   {
     "card_id": "anemone",
