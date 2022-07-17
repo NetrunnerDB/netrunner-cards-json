@@ -120,6 +120,18 @@ describe('Cards', () => {
       }
     });
   });
+
+  it('have valid subtypes', () => {
+    const subtypes = new Set<string>(getCardSubtypesV2Json().map(c => c.id));
+    cardFiles.forEach(file => {
+      const card = JSON.parse(fs.readFileSync(resolve(cardDir, file), 'utf-8'));
+      if ('subtypes' in card) {
+        card.subtypes.forEach(s => {
+          expect(subtypes.has(s), `Card '${card.id}' has invalid subtype '${s}'`).to.be.true;
+        });
+      }
+    });
+  });
 });
 
 describe('Printings', () => {
