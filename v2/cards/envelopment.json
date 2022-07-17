@@ -1,0 +1,16 @@
+{
+  "card_type_id": "ice",
+  "cost": 5,
+  "deck_limit": 3,
+  "faction_id": "weyland_consortium",
+  "id": "envelopment",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "When you rez this ice, place 4 power counters on it. When your turn begins, remove 1 hosted power counter. This ice gains \"Subroutine End the run.\" before its printed subroutine for each hosted power counter. Subroutine Trash this ice.",
+  "stripped_title": "Envelopment",
+  "subtypes": ["barrier"],
+  "text": "When you rez this ice, place 4 power counters on it.\nWhen your turn begins, remove 1 hosted power counter.\nThis ice gains \"[subroutine] End the run.\" before its printed subroutine for each hosted power counter.\n[subroutine] Trash this ice.",
+  "title": "Envelopment"
+}

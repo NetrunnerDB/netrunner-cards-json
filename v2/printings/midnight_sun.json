@@ -142,6 +142,18 @@
     "stripped_printed_text": "When you install this program, place 6 power counters on it. Interface -> trash or hosted power counter: Break 1 sentry subroutine. 2 credits: +3 strength."
   },
   {
+    "card_id": "no_free_lunch",
+    "card_set_id": "midnight_sun",
+    "flavor": "If there's anything to be learned from our android cousins, it's that there's no shortcut to perfection. Consider all your options.",
+    "id": "33020",
+    "illustrator": "Bruno Balixa",
+    "position": 20,
+    "printed_is_unique": false,
+    "printed_text": "[trash]<strong>:</strong> Gain 3[credit].\n[trash]<strong>:</strong> Remove 1 tag.",
+    "quantity": 3,
+    "stripped_printed_text": "trash: Gain 3 credits. trash: Remove 1 tag."
+  },
+  {
     "card_id": "captain_padma_isbister_intrepid_explorer",
     "card_set_id": "midnight_sun",
     "flavor": "The sea is everything; its breath must remain pure and healthy.",
@@ -259,6 +271,18 @@
     "stripped_printed_text": "When you rez this ice during a run against this server, you may search R&D for a piece of ice and reveal it. (Shuffle R&D after searching it.) Add that ice to HQ. Subroutine Gain 1 credit for each rezzed piece of harmonic ice."
   },
   {
+    "card_id": "big_deal",
+    "card_set_id": "midnight_sun",
+    "flavor": "<champion>Designed by 2018 North American Champion Sam Suied</champion>",
+    "id": "33038",
+    "illustrator": "Dimik",
+    "position": 38,
+    "printed_is_unique": false,
+    "printed_text": "After you resolve this operation, your action phase ends.\nPlace 4 advancement counters on 1 installed card. You may score that card, if able.\nRemove this operation from the game.",
+    "quantity": 3,
+    "stripped_printed_text": "After you resolve this operation, your action phase ends. Place 4 advancement counters on 1 installed card. You may score that card, if able. Remove this operation from the game."
+  },
+  {
     "card_id": "anemone",
     "card_set_id": "midnight_sun",
     "flavor": "Ethereal beauty laced with the most elegant venom.",
@@ -281,6 +305,18 @@
     "printed_text": "While this ice is protecting Archives, it gets +3 strength.\n[subroutine] Do 3 net damage.",
     "quantity": 3,
     "stripped_printed_text": "While this ice is protecting Archives, it gets +3 strength. Subroutine Do 3 net damage."
+  },
+  {
+    "card_id": "mavirus",
+    "card_set_id": "midnight_sun",
+    "flavor": "Viruses, runners; all are food to them.",
+    "id": "33047",
+    "illustrator": "Jack Reeves",
+    "position": 47,
+    "printed_is_unique": false,
+    "printed_text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade, you may purge virus counters. If this upgrade is rezzed, do 1 net damage.\n[trash]<strong>:</strong> Purge virus counters.",
+    "quantity": 3,
+    "stripped_printed_text": "While the Runner is accessing this upgrade in R&D, they must reveal it. When the Runner accesses this upgrade, you may purge virus counters. If this upgrade is rezzed, do 1 net damage. trash: Purge virus counters."
   },
   {
     "card_id": "pravdivost_consulting_political_solutions",
@@ -377,6 +413,65 @@
     "printed_text": "When your turn begins, you may trash 1 of your other installed cards. If you do, gain 3[credit].",
     "quantity": 3,
     "stripped_printed_text": "When your turn begins, you may trash 1 of your other installed cards. If you do, gain 3 credits."
+  },
+  {
+    "card_id": "envelopment",
+    "card_set_id": "midnight_sun",
+    "id": "33060",
+    "illustrator": "Scott Uminga",
+    "position": 60,
+    "printed_is_unique": false,
+    "printed_text": "When you rez this ice, place 4 power counters on it.\nWhen your turn begins, remove 1 hosted power counter.\nThis ice gains \"[subroutine] End the run.\" before its printed subroutine for each hosted power counter.\n[subroutine] Trash this ice.",
+    "quantity": 3,
+    "stripped_printed_text": "When you rez this ice, place 4 power counters on it. When your turn begins, remove 1 hosted power counter. This ice gains \"Subroutine End the run.\" before its printed subroutine for each hosted power counter. Subroutine Trash this ice."
+  },
+  {
+    "card_id": "maskirovka",
+    "card_set_id": "midnight_sun",
+    "flavor": "Confound the runner so that they cannot see our true intent.",
+    "id": "33061",
+    "illustrator": "Scott Uminga",
+    "position": 61,
+    "printed_is_unique": false,
+    "printed_text": "[subroutine] Gain 2[credit].\n[subroutine] End the run.",
+    "quantity": 3,
+    "stripped_printed_text": "Subroutine Gain 2 credits. Subroutine End the run."
+  },
+  {
+    "card_id": "stavka",
+    "card_set_id": "midnight_sun",
+    "flavor": "Centuries of military tactics compressed into a single entity.",
+    "id": "33062",
+    "illustrator": "Scott Uminga",
+    "position": 62,
+    "printed_is_unique": false,
+    "printed_text": "When you rez this ice, you may trash 1 of your other installed cards. If you do, this ice gets +5 strength for the remainder of the run.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.",
+    "quantity": 3,
+    "stripped_printed_text": "When you rez this ice, you may trash 1 of your other installed cards. If you do, this ice gets +5 strength for the remainder of the run. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program."
+  },
+  {
+    "card_id": "extract",
+    "card_set_id": "midnight_sun",
+    "flavor": "Leave nothing of value behind.",
+    "id": "33063",
+    "illustrator": "Vitalii Ostaschenko",
+    "position": 63,
+    "printed_is_unique": false,
+    "printed_text": "Gain 6[credit]. You may trash 1 of your installed cards to gain 3[credit].",
+    "quantity": 3,
+    "stripped_printed_text": "Gain 6 credits. You may trash 1 of your installed cards to gain 3 credits."
+  },
+  {
+    "card_id": "mutually_assured_destruction",
+    "card_set_id": "midnight_sun",
+    "flavor": "<champion>Designed by 2020 Asia-Pacific Champion Eric Keilback</champion>",
+    "id": "33064",
+    "illustrator": "Dimik",
+    "position": 64,
+    "printed_is_unique": false,
+    "printed_text": "As an additional cost to play this operation, spend [click][click].\nTrash any number of your rezzed cards. Give the Runner 1 tag for each card trashed this way.",
+    "quantity": 3,
+    "stripped_printed_text": "As an additional cost to play this operation, spend clickclick. Trash any number of your rezzed cards. Give the Runner 1 tag for each card trashed this way."
   },
   {
     "card_id": "trust_operation",
