@@ -84,8 +84,15 @@
       {
         "properties": {
           "advancement_cost": {
-            "minimum": 0,
-            "type": "integer"
+            "oneOf": [
+              {
+                "minimum": 0,
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ]
           },
           "agenda_points": {
             "minimum": 0,
@@ -194,8 +201,15 @@
     ],
     "properties": {
       "advancement_cost": {
-        "minimum": 0,
-        "type": "integer"
+        "oneOf": [
+          {
+            "minimum": 0,
+            "type": "integer"
+          },
+          {
+            "type": "null"
+          }
+        ]
       },
       "agenda_points": {
         "minimum": 0,
