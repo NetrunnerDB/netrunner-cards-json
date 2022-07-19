@@ -48,6 +48,18 @@
     "stripped_printed_text": "Draw 3 cards. When this event is trashed from your grip or stack, you may draw 2 cards."
   },
   {
+    "card_id": "ghosttongue",
+    "card_set_id": "midnight_sun",
+    "flavor": "Arming the resistance with disarming charm.",
+    "id": "33005",
+    "illustrator": "Martin de Diego Sádaba",
+    "position": 5,
+    "printed_is_unique": true,
+    "printed_text": "When you install this hardware, suffer 1 core damage.\nThe play cost of each event is lowered by 1[credit].",
+    "quantity": 3,
+    "stripped_printed_text": "When you install this hardware, suffer 1 core damage. The play cost of each event is lowered by 1 credit."
+  },
+  {
     "card_id": "marrow",
     "card_set_id": "midnight_sun",
     "id": "33006",
@@ -212,6 +224,30 @@
     "stripped_printed_text": "+2mu When you install this hardware, place 3 power counters on it. The first time each turn you make a successful run, place 1 power counter on this hardware. 2 hosted power counters: Break up to 2 subroutines. Limit 1 console per player."
   },
   {
+    "card_id": "daeg_first_net_cat",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"That's him at the front, then there's Scout, Jonesy, Parker, Buča, Squee, Boots... you get the idea.\"",
+    "id": "33028",
+    "illustrator": "Cat Shen",
+    "position": 28,
+    "printed_is_unique": true,
+    "printed_text": "Whenever an agenda is scored or stolen, you may charge 1 of your installed cards. <em>(Add 1 power counter to a card that already has one.)</em>",
+    "quantity": 3,
+    "stripped_printed_text": "Whenever an agenda is scored or stolen, you may charge 1 of your installed cards. (Add 1 power counter to a card that already has one.)"
+  },
+  {
+    "card_id": "environmental_testing",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"Why are we here? No one else is going to do independent testing, that's why.\"\n–Padma Isbister",
+    "id": "33029",
+    "illustrator": "Anna Butova",
+    "position": 29,
+    "printed_is_unique": false,
+    "printed_text": "Whenever you install a program or piece of hardware, place 1 power counter on this resource.\nWhen there are 4 or more hosted power counters, trash this resource and gain 9[credit].",
+    "quantity": 3,
+    "stripped_printed_text": "Whenever you install a program or piece of hardware, place 1 power counter on this resource. When there are 4 or more hosted power counters, trash this resource and gain 9 credits."
+  },
+  {
     "card_id": "midnight_3_arcology",
     "card_set_id": "midnight_sun",
     "flavor": "\"The Midnight-3 glows with an inviting warmth that belies the broken promise within. All that awaits you there is a life of indentured servitude.\"\n–Sundog",
@@ -295,6 +331,30 @@
     "stripped_printed_text": "After you resolve this operation, your action phase ends. Place 4 advancement counters on 1 installed card. You may score that card, if able. Remove this operation from the game."
   },
   {
+    "card_id": "blood_in_the_water",
+    "card_set_id": "midnight_sun",
+    "flavor": "Some tests require specific conditions.",
+    "id": "33039",
+    "illustrator": "Scott Uminga",
+    "position": 39,
+    "printed_is_unique": false,
+    "printed_text": "X is equal to the number of cards in the Runner's grip.",
+    "quantity": 3,
+    "stripped_printed_text": "X is equal to the number of cards in the Runner's grip."
+  },
+  {
+    "card_id": "bladderwort",
+    "card_set_id": "midnight_sun",
+    "flavor": "Prey and seawater sucked in, all in the space of a millisecond.",
+    "id": "33041",
+    "illustrator": "Jack Reeves",
+    "position": 41,
+    "printed_is_unique": false,
+    "printed_text": "When your turn begins, gain 1[credit]. Then, if you have 4[credit] or less, do 1 net damage.",
+    "quantity": 3,
+    "stripped_printed_text": "When your turn begins, gain 1 credit. Then, if you have 4 credits or less, do 1 net damage."
+  },
+  {
     "card_id": "anemone",
     "card_set_id": "midnight_sun",
     "flavor": "Ethereal beauty laced with the most elegant venom.",
@@ -317,6 +377,18 @@
     "printed_text": "While this ice is protecting Archives, it gets +3 strength.\n[subroutine] Do 3 net damage.",
     "quantity": 3,
     "stripped_printed_text": "While this ice is protecting Archives, it gets +3 strength. Subroutine Do 3 net damage."
+  },
+  {
+    "card_id": "mitosis",
+    "card_set_id": "midnight_sun",
+    "flavor": "One becomes many.",
+    "id": "33046",
+    "illustrator": "Emilio Rodriguez",
+    "position": 46,
+    "printed_is_unique": false,
+    "printed_text": "As an additional cost to play this operation, spend [click].\nInstall up to 2 cards from HQ, creating a new remote server each time. Place 2 advancement counters on each of those cards. You cannot score or rez either of those cards this turn.",
+    "quantity": 3,
+    "stripped_printed_text": "As an additional cost to play this operation, spend click. Install up to 2 cards from HQ, creating a new remote server each time. Place 2 advancement counters on each of those cards. You cannot score or rez either of those cards this turn."
   },
   {
     "card_id": "mavirus",
