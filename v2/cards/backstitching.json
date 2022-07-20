@@ -1,0 +1,15 @@
+{
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "backstitching",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) Whenever you encounter a piece of ice during a run on your mark, you may trash this resource to bypass that ice.",
+  "stripped_title": "Backstitching",
+  "subtypes": ["virtual"],
+  "text": "When your turn begins, identify your mark. <em>(If you don’t have a mark, a random central server becomes your mark for this turn.)</em>\nWhenever you encounter a piece of ice during a run on your mark, you may trash this resource to bypass that ice.",
+  "title": "Backstitching"
+}
