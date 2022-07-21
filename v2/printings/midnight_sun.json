@@ -71,6 +71,18 @@
     "stripped_printed_text": "+1mu You get +3 maximum hand size. When you install this hardware, suffer 1 core damage. Whenever the Corp scores an agenda, sabotage 1. (The Corp trashes 1 card of their choice from HQ or the top of R&D.) Limit 1 console per player."
   },
   {
+    "card_id": "begemot",
+    "card_set_id": "midnight_sun",
+    "flavor": "He didn't speak, but I knew exactly what he wanted, and what I had to do.",
+    "id": "33007",
+    "illustrator": "Martin de Diego Sádaba",
+    "position": 7,
+    "printed_is_unique": false,
+    "printed_text": "When you install this program, suffer 1 core damage.\nThis program gets +1 strength for each core damage you have taken this game.\nInterface → <strong>1[credit]:</strong> Break any number of <strong>barrier</strong> subroutines.",
+    "quantity": 3,
+    "stripped_printed_text": "When you install this program, suffer 1 core damage. This program gets +1 strength for each core damage you have taken this game. Interface -> 1 credit: Break any number of barrier subroutines."
+  },
+  {
     "card_id": "avgustina_ivanovskaya",
     "card_set_id": "midnight_sun",
     "flavor": "\"Sometimes being a union rep calls for action even more... direct.\"",
@@ -93,6 +105,18 @@
     "printed_text": "[click], [trash], <strong>suffer 1 core damage:</strong> Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server.",
     "quantity": 3,
     "stripped_printed_text": "click, trash, suffer 1 core damage: Run a remote server. During that run, cards in the root of the attacked server lose all abilities. When that run is successful, trash all cards in the root of the attacked server."
+  },
+  {
+    "card_id": "the_twinning",
+    "card_set_id": "midnight_sun",
+    "flavor": "All is folding back, ever back; together as one.",
+    "id": "33010",
+    "illustrator": "Adam S. Doyle",
+    "position": 10,
+    "printed_is_unique": true,
+    "printed_text": "The first time each turn you spend credits from an installed card, place 1 power counter on this resource.\nWhenever you breach HQ or R&D, you may remove up to 2 hosted power counters to access that many additional cards.",
+    "quantity": 3,
+    "stripped_printed_text": "The first time each turn you spend credits from an installed card, place 1 power counter on this resource. Whenever you breach HQ or R&D, you may remove up to 2 hosted power counters to access that many additional cards."
   },
   {
     "card_id": "nyusha_sable_sintashta_symphonic_prodigy",
@@ -237,6 +261,17 @@
     "stripped_printed_text": "Play only if you made a successful run on HQ, R&D, and Archives this turn. The Corp must set aside the top 8 cards of R&D faceup. Access 1 of those cards. You may spend click to access another 1 of those cards. Then, the Corp shuffles the set-aside cards into R&D."
   },
   {
+    "card_id": "into_the_depths",
+    "card_set_id": "midnight_sun",
+    "id": "33023",
+    "illustrator": "Kira L. Nguyen",
+    "position": 23,
+    "printed_is_unique": false,
+    "printed_text": "Run any server. If successful, for each time you passed ice this run, resolve 1 of the following that you have not yet resolved this run:\n - Gain 4[credit].\n - Search your stack for a program. Install it. <em>(Shuffle your stack after searching it.)</em>\n - Charge 1 of your installed cards. <em>(Add 1 power counter to a card that already has one.)</em>",
+    "quantity": 3,
+    "stripped_printed_text": "Run any server. If successful, for each time you passed ice this run, resolve 1 of the following that you have not yet resolved this run:  - Gain 4 credits.  - Search your stack for a program. Install it. (Shuffle your stack after searching it.)  - Charge 1 of your installed cards. (Add 1 power counter to a card that already has one.)"
+  },
+  {
     "card_id": "rigging_up",
     "card_set_id": "midnight_sun",
     "flavor": "Edie doesn't mind the noise. She's happy just being nearby.",
@@ -258,6 +293,18 @@
     "printed_text": "+2[mu]\nWhen you install this hardware, place 3 power counters on it.\nThe first time each turn you make a successful run, place 1 power counter on this hardware.\n<strong>2 hosted power counters:</strong> Break up to 2 subroutines.\nLimit 1 <strong>console</strong> per player.",
     "quantity": 3,
     "stripped_printed_text": "+2mu When you install this hardware, place 3 power counters on it. The first time each turn you make a successful run, place 1 power counter on this hardware. 2 hosted power counters: Break up to 2 subroutines. Limit 1 console per player."
+  },
+  {
+    "card_id": "propeller",
+    "card_set_id": "midnight_sun",
+    "flavor": "Within netspace, tangible space can be manipulated as desired, and fluid dynamics rarely factors into ice development.",
+    "id": "33027",
+    "illustrator": "Cat Shen",
+    "position": 27,
+    "printed_is_unique": false,
+    "printed_text": "When you install this program, place 4 power counters on it.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>Hosted power counter:</strong> +2 strength.",
+    "quantity": 3,
+    "stripped_printed_text": "When you install this program, place 4 power counters on it. Interface -> 1 credit: Break 1 barrier subroutine. Hosted power counter: +2 strength."
   },
   {
     "card_id": "daeg_first_net_cat",
@@ -282,6 +329,18 @@
     "printed_text": "Whenever you install a program or piece of hardware, place 1 power counter on this resource.\nWhen there are 4 or more hosted power counters, trash this resource and gain 9[credit].",
     "quantity": 3,
     "stripped_printed_text": "Whenever you install a program or piece of hardware, place 1 power counter on this resource. When there are 4 or more hosted power counters, trash this resource and gain 9 credits."
+  },
+  {
+    "card_id": "stoneship_chart_room",
+    "card_set_id": "midnight_sun",
+    "flavor": "Every ship is a home, and every home needs a heart.",
+    "id": "33030",
+    "illustrator": "Elizaveta Sokolova",
+    "position": 30,
+    "printed_is_unique": false,
+    "printed_text": "[trash]<strong>:</strong> Draw 2 cards.\n[trash]<strong>:</strong> Charge 1 of your installed cards.",
+    "quantity": 3,
+    "stripped_printed_text": "trash: Draw 2 cards. trash: Charge 1 of your installed cards."
   },
   {
     "card_id": "midnight_3_arcology",
@@ -379,6 +438,18 @@
     "stripped_printed_text": "X is equal to the number of cards in the Runner's grip."
   },
   {
+    "card_id": "regenesis",
+    "card_set_id": "midnight_sun",
+    "flavor": "\"Esteemed guests, by the end of this demonstration you will see that extinction is now only a temporary state of affairs.\"\n–Vientiane Keeling",
+    "id": "33040",
+    "illustrator": "Anthony Hutchings",
+    "position": 40,
+    "printed_is_unique": false,
+    "printed_text": "When you score this agenda, if no Corp cards have been added to Archives this turn, you may reveal 1 facedown agenda in Archives and add it to your score area.",
+    "quantity": 3,
+    "stripped_printed_text": "When you score this agenda, if no Corp cards have been added to Archives this turn, you may reveal 1 facedown agenda in Archives and add it to your score area."
+  },
+  {
     "card_id": "bladderwort",
     "card_set_id": "midnight_sun",
     "flavor": "Prey and seawater sucked in, all in the space of a millisecond.",
@@ -389,6 +460,18 @@
     "printed_text": "When your turn begins, gain 1[credit]. Then, if you have 4[credit] or less, do 1 net damage.",
     "quantity": 3,
     "stripped_printed_text": "When your turn begins, gain 1 credit. Then, if you have 4 credits or less, do 1 net damage."
+  },
+  {
+    "card_id": "moon_pool",
+    "card_set_id": "midnight_sun",
+    "flavor": "<champion>Designed by the Borealis Playtesters</champion>",
+    "id": "33042",
+    "illustrator": "Olie Boldador",
+    "position": 42,
+    "printed_is_unique": false,
+    "printed_text": "<strong>Remove this asset from the game:</strong> Trash up to 2 cards from HQ. Reveal up to 2 facedown cards in Archives and shuffle them into R&D. For each agenda revealed this way, you may place 1 advancement counter on an installed card.",
+    "quantity": 3,
+    "stripped_printed_text": "Remove this asset from the game: Trash up to 2 cards from HQ. Reveal up to 2 facedown cards in Archives and shuffle them into R&D. For each agenda revealed this way, you may place 1 advancement counter on an installed card."
   },
   {
     "card_id": "anemone",
