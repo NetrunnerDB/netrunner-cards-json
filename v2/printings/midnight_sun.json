@@ -204,7 +204,7 @@
   {
     "card_id": "revolver",
     "card_set_id": "midnight_sun",
-    "flavor": "\"Aim with your eye. Shoot with your mind. Break with your soul.\" –Sundog",
+    "flavor": "\"Aim with your eye. Shoot with your mind. Break with your soul.\"\n–Sundog",
     "id": "33018",
     "illustrator": "Bruno Balixa",
     "position": 18,
@@ -295,6 +295,17 @@
     "stripped_printed_text": "+2mu When you install this hardware, place 3 power counters on it. The first time each turn you make a successful run, place 1 power counter on this hardware. 2 hosted power counters: Break up to 2 subroutines. Limit 1 console per player."
   },
   {
+    "card_id": "hyperbaric",
+    "card_set_id": "midnight_sun",
+    "id": "33026",
+    "illustrator": "Cat Shen",
+    "position": 26,
+    "printed_is_unique": false,
+    "printed_text": "When you install this program, place 1 power counter on it.\nThis program gets +1 strength for each hosted power counter.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> Place 1 power counter on this program.",
+    "quantity": 3,
+    "stripped_printed_text": "When you install this program, place 1 power counter on it. This program gets +1 strength for each hosted power counter. Interface -> 1 credit: Break 1 code gate subroutine. 2 credits: Place 1 power counter on this program."
+  },
+  {
     "card_id": "propeller",
     "card_set_id": "midnight_sun",
     "flavor": "Within netspace, tangible space can be manipulated as desired, and fluid dynamics rarely factors into ice development.",
@@ -341,6 +352,18 @@
     "printed_text": "[trash]<strong>:</strong> Draw 2 cards.\n[trash]<strong>:</strong> Charge 1 of your installed cards.",
     "quantity": 3,
     "stripped_printed_text": "trash: Draw 2 cards. trash: Charge 1 of your installed cards."
+  },
+  {
+    "card_id": "elivagar_bifurcation",
+    "card_set_id": "midnight_sun",
+    "flavor": "Ancient paradoxes are children's stories to the greatest minds ever designed.",
+    "id": "33031",
+    "illustrator": "Scott Uminga",
+    "position": 31,
+    "printed_is_unique": false,
+    "printed_text": "When you score this agenda, you may derez 1 installed card.",
+    "quantity": 3,
+    "stripped_printed_text": "When you score this agenda, you may derez 1 installed card."
   },
   {
     "card_id": "midnight_3_arcology",
@@ -428,7 +451,7 @@
   {
     "card_id": "blood_in_the_water",
     "card_set_id": "midnight_sun",
-    "flavor": "Some tests require <strong>specific</strong> conditions.",
+    "flavor": "Some tests require specific conditions.",
     "id": "33039",
     "illustrator": "Scott Uminga",
     "position": 39,
@@ -496,6 +519,18 @@
     "printed_text": "While this ice is protecting Archives, it gets +3 strength.\n[subroutine] Do 3 net damage.",
     "quantity": 3,
     "stripped_printed_text": "While this ice is protecting Archives, it gets +3 strength. Subroutine Do 3 net damage."
+  },
+  {
+    "card_id": "ivik",
+    "card_set_id": "midnight_sun",
+    "flavor": "Keep off the grass.",
+    "id": "33045",
+    "illustrator": "Jack Reeves",
+    "position": 45,
+    "printed_is_unique": false,
+    "printed_text": "The rez cost of this ice is lowered by 1[credit] for each rezzed piece of <strong>code gate</strong> ice.\n[subroutine] Do 2 net damage.\n[subroutine] End the run.",
+    "quantity": 3,
+    "stripped_printed_text": "The rez cost of this ice is lowered by 1 credit for each rezzed piece of code gate ice. Subroutine Do 2 net damage. Subroutine End the run."
   },
   {
     "card_id": "mitosis",
@@ -644,7 +679,7 @@
   {
     "card_id": "azef_protocol",
     "card_set_id": "midnight_sun",
-    "flavor": "\"Don't worry, directors, security is always willing to send agents to assist with radical asset reassignment.\" –Yakov Avdakov",
+    "flavor": "\"Don't worry, directors, security is always willing to send agents to assist with radical asset reassignment.\"\n–Yakov Avdakov",
     "id": "33058",
     "illustrator": "Benjamin Giletti",
     "position": 58,
