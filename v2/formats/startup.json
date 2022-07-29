@@ -9,9 +9,15 @@
     },
     {
       "id": "startup_1",
-      "active": true,
+      "active": false,
       "card_pool_id": "startup_ashes_plus",
       "date_start": "2022-03-04"
+    },
+    {
+      "id": "startup_2",
+      "active": true,
+      "card_pool_id": "startup_midnight_sun",
+      "date_start": "2022-07-22"
     }
   ]
 }

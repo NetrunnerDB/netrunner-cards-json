@@ -2,6 +2,39 @@
   {
     "id": "eternal",
     "name": "Eternal",
-    "format_id": "eternal"
+    "format_id": "eternal",
+    "card_cycle_ids": [
+      "ashes",
+      "borealis",
+      "core_set",
+      "flashpoint",
+      "genesis",
+      "kitara",
+      "lunar",
+      "magnum_opus",
+      "magnum_opus_reprint",
+      "mumbad",
+      "napd_multiplayer",
+      "red_sand",
+      "reign_and_reverie",
+      "revised_core_set",
+      "salvaged_memories",
+      "sansan",
+      "spin",
+      "system_core_2019",
+      "system_gateway",
+      "system_update_2021"
+    ],
+    "card_set_ids": [
+      "creation_and_control",
+      "data_and_destiny",
+      "data_and_destiny",
+      "honor_and_profit",
+      "magnum_opus",
+      "order_and_chaos",
+      "reign_and_reverie",
+      "system_gateway",
+      "terminal_directive_cards"
+    ]
   }
 ]
