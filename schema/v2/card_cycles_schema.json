@@ -10,6 +10,10 @@
         "minLength": 1,
         "type": "string"
       },
+      "legacy_code": {
+        "minLength": 1,
+        "type": "string"
+      },
       "name": {
         "minLength": 1,
         "type": "string"
@@ -18,6 +22,6 @@
         "type": "string"
       }
     },
-    "required": ["id", "name"]
+    "required": ["id", "legacy_code", "name"]
   }
 }
