@@ -323,11 +323,8 @@ describe('Card Pools', () => {
       cardSetsByCycleId.get(set.card_cycle_id)?.add(set.id);
     });
     cardPoolsByFilename.forEach((cardPool, file) => {
-      if (file == 'ram.json') {
-        return;
-      }
-      cardPool.forEach(p => {
-        p.card_cycle_ids.forEach(card_cycle_id => {
+     cardPool.forEach(p => {
+        p.card_cycle_ids?.forEach(card_cycle_id => {
           cardSetsByCycleId.get(card_cycle_id)?.forEach(card_set_id => {
             expect(p.card_set_ids, `card_set_ids for card pool ${p.id} in ${file} should have set ${card_set_id} for cycle ${card_cycle_id}`).includes(card_set_id);
           });
