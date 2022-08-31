@@ -1,5 +1,63 @@
-import { getCardsJson, getCardSetsV2Json, getCardsV2Json, getPacksJson, getPrintingsV2Json, textToId } from "../src/index";
+import { getCardsJson, getCardCyclesV2Json, getCardSetsV2Json, getCardsV2Json, getCyclesJson, getPacksJson, getPrintingsV2Json, textToId } from "../src/index";
 import { expect } from "chai";
+
+describe('Card Cycles v1/v2', () => {
+  // id in v2 is the textToId'd version of the set name, not the same as the NRDB classic code.
+  const cyclesByCode = new Map<string, string>();
+  getCyclesJson().forEach(c => {
+    cyclesByCode.set(c.code, c.name);
+  });
+  const cardCyclesByLegacyCode = new Map<string, string>();
+  getCardCyclesV2Json().forEach(s => {
+    cardCyclesByLegacyCode.set(s.legacy_code, s.name);
+  });
+
+  it('has correct number of cardCycles', () => {
+    expect(cardCyclesByLegacyCode.size).to.equal(cyclesByCode.size); 
+  });
+
+  it('has matching card cycle attributes', () => {
+    cardCyclesByLegacyCode.forEach((name, legacyCode) => {
+      expect(cyclesByCode.has(legacyCode), `legacy_code ${legacyCode} exists in packsByCode map`).to.be.true;
+      expect(name, `name mismatch for card set ${name} with legacy_code ${legacyCode}`).to.equal(cyclesByCode.get(legacyCode));
+    });
+  });
+});
+
+describe('Card Sets v1/v2', () => {
+  const cardCycleIdToLegacyCode = new Map<string, string>();
+  getCardCyclesV2Json().forEach(s => {
+    cardCycleIdToLegacyCode.set(s.id, s.legacy_code);
+  });
+
+  // card_set_id in v2 is the textToId'd version of the set name, not the same as the NRDB classic code.
+  const packsByCode = new Map<string, any>();
+  getPacksJson().forEach(p => {
+    packsByCode.set(p.code, p);
+  });
+  const cardSetsByCode = new Map<string, any>();
+  getCardSetsV2Json().forEach(s => {
+    cardSetsByCode.set(s.legacy_code, s);
+  });
+
+  it('correct number of card cardCycles', () => {
+    expect(cardSetsByCode.size).to.equal(packsByCode.size); 
+  });
+
+  it('card set attributes match', () => {
+    cardSetsByCode.forEach((cardSet, legacyCode) => {
+      expect(cardCycleIdToLegacyCode.get(cardSet.card_cycle_id), `card set ${cardSet.name} has matching cycle id`).to.equal(packsByCode.get(legacyCode).cycle_code);
+      expect(packsByCode.has(legacyCode), `legacy_code ${legacyCode} exists in packsByCode map`).to.be.true;
+      if (legacyCode != 'draft') {
+        // v1 does not have a release date or size set for draft.
+        expect(cardSet.date_release, `date_release mismatch for card set ${cardSet.name} with legacy_code ${legacyCode}`).to.equal(packsByCode.get(legacyCode).date_release);
+        expect(cardSet.size, `size mismatch for card set ${cardSet.name} with legacy_code ${legacyCode}`).to.equal(packsByCode.get(legacyCode).size);
+      }
+      expect(cardSet.name, `name mismatch for card set ${cardSet.name} with legacy_code ${legacyCode}`).to.equal(packsByCode.get(legacyCode).name);
+      expect(cardSet.position, `position mismatch for card set ${cardSet.name} with legacy_code ${legacyCode}`).to.equal(packsByCode.get(legacyCode).position);
+    });
+  });
+});
 
 describe('Cards v1/v2 equality', () => {
   const v1CardsByTitle = new Map<string, any>();

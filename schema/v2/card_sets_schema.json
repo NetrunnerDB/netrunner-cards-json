@@ -22,6 +22,10 @@
         "minLength": 1,
         "type": "string"
       },
+      "legacy_code": {
+        "minLength": 1,
+        "type": "string"
+      },
       "name": {
         "minLength": 1,
         "type": "string"
@@ -40,6 +44,7 @@
       "card_set_type_id",
       "date_release",
       "id",
+      "legacy_code",
       "name",
       "position",
       "size"
