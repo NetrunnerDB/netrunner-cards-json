@@ -201,23 +201,23 @@ describe('Printings v1/v2 equality', () => {
   }
 
   // card_set_id in v2 is the textToId'd version of the set name, not a code.
-  // Validate the ids for cardCycles via the retrieved set, not the name directly.
+  // Validate the ids for sets via the retrieved set, not the name directly.
   const packs = getPacksJson();
   const packsByCode = new Map<string, string>();
   packs.forEach(p => {
     packsByCode.set(p.code, p.name);
   });
-  const cardCycles = getCardSetsV2Json();
-  const cardCyclesById = new Map<string, string>();
-  cardCycles.forEach(s => {
-    cardCyclesById.set(s.id, s.name);
+  const sets = getCardSetsV2Json();
+  const setsById = new Map<string, string>();
+  sets.forEach(s => {
+    setsById.set(s.id, s.name);
   });
 
   it('card set matches pack names.', () => {
     v1CardsByCode.forEach((v1, code) => {
       expect(packsByCode.get(v1.pack_code),
           `Card set mismatch for printing id ${code} for ${v1CardsByCode.get(code).title}`)
-        .to.equal(cardCyclesById.get(printingsById.get(code).card_set_id));
+        .to.equal(setsById.get(printingsById.get(code).card_set_id));
     });
   });
 
