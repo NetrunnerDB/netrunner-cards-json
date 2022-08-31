@@ -35,10 +35,8 @@ describe('Card Sets v1/v2', () => {
   getPacksJson().forEach(p => {
     packsByCode.set(p.code, p);
   });
-  const cardSetsById = new Map<string, string>();
   const cardSetsByCode = new Map<string, any>();
   getCardSetsV2Json().forEach(s => {
-    cardSetsById.set(s.id, s.name);
     cardSetsByCode.set(s.legacy_code, s);
   });
 
