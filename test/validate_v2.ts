@@ -313,6 +313,25 @@ describe('Card Pools', () => {
       });
     });
   });
+
+  it('have all sets for specified cycles explicitly.', () => {
+    const cardSetsByCycleId = new Map<string, Set<string>>();
+    cardSets.forEach(set => {
+      if (!cardSetsByCycleId.has(set.card_cycle_id)) {
+        cardSetsByCycleId.set(set.card_cycle_id, new Set<string>());
+      } 
+      cardSetsByCycleId.get(set.card_cycle_id)?.add(set.id);
+    });
+    cardPoolsByFilename.forEach((cardPool, file) => {
+     cardPool.forEach(p => {
+        p.card_cycle_ids?.forEach(card_cycle_id => {
+          cardSetsByCycleId.get(card_cycle_id)?.forEach(card_set_id => {
+            expect(p.card_set_ids, `card_set_ids for card pool ${p.id} in ${file} should have set ${card_set_id} for cycle ${card_cycle_id}`).includes(card_set_id);
+          });
+        });
+      });
+    });
+  });
 });
 
 describe('Restrictions', () => {
