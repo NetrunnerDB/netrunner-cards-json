@@ -15,8 +15,13 @@
         "description": "Name of the type of set.",
         "minLength": 1,
         "type": "string"
+      },
+      "description": {
+        "description": "A brief explanation of the type of set.",
+        "minLength": 1,
+        "type": "string"
       }
     },
-    "required": ["id", "name"]
+    "required": ["id", "name", "description"]
   }
 }
