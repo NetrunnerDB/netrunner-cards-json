@@ -1,30 +1,42 @@
 [
   {
+    "id": "booster_pack",
+    "name": "Booster Pack",
+    "description": "A booster pack released as a subset of a larger release."
+  },
+  {
     "id": "campaign",
-    "name": "Campaign"
+    "name": "Campaign",
+    "description": "A campaign set not released for legal play."
   },
   {
     "id": "core",
-    "name": "Core"
+    "name": "Core",
+    "description": "A core set, or set that makes up part of the core selection of cards."
   },
   {
     "id": "data_pack",
-    "name": "Data Pack"
+    "name": "Data Pack",
+    "description": "The major releases of each cycle."
   },
   {
     "id": "deluxe",
-    "name": "Deluxe"
+    "name": "Deluxe",
+    "description": "A non-core set released in a big box."
   },
   {
     "id": "draft",
-    "name": "Draft"
+    "name": "Draft",
+    "description": "A draft-exclusive sets."
   },
   {
     "id": "expansion",
-    "name": "Expansion"
+    "name": "Expansion",
+    "description": "A miscellaneous set released for legal play."
   },
   {
     "id": "promo",
-    "name": "Promo"
+    "name": "Promo",
+    "description": "A promotional set not released for legal play."
   }
 ]
