@@ -281,7 +281,7 @@ describe('MWLs v1/v2', () => {
 
   function v1ToBanned(mwl) {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
-    return arr.filter(card => card[1].hasOwnProperty('deck_limit') && card[1].deck_limit == 0)
+    return arr.filter(card => card[1].deck_limit != undefined && card[1].deck_limit == 0)
               .map(card => card[0]);
   }
   function v1ToRestricted(mwl) {
@@ -293,7 +293,7 @@ describe('MWLs v1/v2', () => {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
     const obj = {};
     arr.filter(card => card[1].universal_faction_cost).sort().forEach(function(card) {
-      if (!obj.hasOwnProperty(card[1].universal_faction_cost)) {
+      if (!obj[card[1].universal_faction_cost]) {
         obj[card[1].universal_faction_cost] = [];
       }
       obj[card[1].universal_faction_cost].push(card[0]);
@@ -304,7 +304,7 @@ describe('MWLs v1/v2', () => {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
     const obj = {};
     arr.filter(card => card[1].global_penalty).sort().forEach(function(card) {
-      if (!obj.hasOwnProperty(card[1].global_penalty)) {
+      if (!obj[card[1].global_penalty]) {
         obj[card[1].global_penalty] = [];
       }
       obj[card[1].global_penalty].push(card[0]);
@@ -342,7 +342,7 @@ describe('MWLs v1/v2', () => {
     pairs.forEach(([mwl, restriction]) => {
       const mwlCosts = v1ToUniversalFactionCost(mwl);
       const resCosts = {};
-      if (restriction.hasOwnProperty('universal_faction_cost')) {
+      if (restriction.universal_faction_cost) {
         Object.keys(restriction.universal_faction_cost).forEach(cost => {
           resCosts[cost] = cardsToPrintings(restriction.universal_faction_cost[cost]).sort();
         });
@@ -355,7 +355,7 @@ describe('MWLs v1/v2', () => {
     pairs.forEach(([mwl, restriction]) => {
       const mwlCosts = v1ToGlobalPenalty(mwl);
       const resCosts = {};
-      if (restriction.hasOwnProperty('global_penalty')) {
+      if (restriction.global_penalty) {
         Object.keys(restriction.global_penalty).forEach(cost => {
           resCosts[cost] = cardsToPrintings(restriction.global_penalty[cost]).sort();
         });
