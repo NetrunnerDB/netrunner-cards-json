@@ -328,13 +328,13 @@ describe('MWLs v1/v2', () => {
 
   it('has matching banned cards', () => {
     pairs.forEach(([mwl, restriction]) => {
-      expect(v1ToBanned(mwl), `${mwl.name}'s banned cards are inconsistent between v1 and v2`).to.have.members(cardsToPrintings(restriction.banned).sort());
+      expect(v1ToBanned(mwl), `${mwl.name}'s banned cards in v1 do not match v2`).to.have.members(cardsToPrintings(restriction.banned).sort());
     });
   });
 
   it('has matching restricted cards', () => {
     pairs.forEach(([mwl, restriction]) => {
-      expect(v1ToRestricted(mwl), `${mwl.name}'s restricted cards are inconsistent between v1 and v2`).to.have.members(cardsToPrintings(restriction.restricted).sort());
+      expect(v1ToRestricted(mwl), `${mwl.name}'s restricted cards in v1 do not match v2`).to.have.members(cardsToPrintings(restriction.restricted).sort());
     });
   });
 
@@ -347,7 +347,7 @@ describe('MWLs v1/v2', () => {
           resCosts[cost] = cardsToPrintings(restriction.universal_faction_cost[cost]).sort();
         });
       }
-      expect(mwlCosts, `${mwl.name}'s universal faction costs are inconsistent between v1 and v2`).to.deep.equal(resCosts);
+      expect(mwlCosts, `${mwl.name}'s universal faction costs in v1 do not match v2`).to.deep.equal(resCosts);
     });
   });
 
@@ -360,7 +360,7 @@ describe('MWLs v1/v2', () => {
           resCosts[cost] = cardsToPrintings(restriction.global_penalty[cost]).sort();
         });
       }
-      expect(mwlCosts, `${mwl.name}'s global penalties are inconsistent between v1 and v2`).to.deep.equal(resCosts);
+      expect(mwlCosts, `${mwl.name}'s global penalties in v1 do not match v2`).to.deep.equal(resCosts);
     });
   });
 });
