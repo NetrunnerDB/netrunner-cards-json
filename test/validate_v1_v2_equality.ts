@@ -282,12 +282,12 @@ describe('MWLs v1/v2', () => {
   function v1ToBanned(mwl) {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
     return arr.filter(card => card[1].deck_limit != undefined && card[1].deck_limit == 0)
-              .map(card => card[0]);
+              .map(card => card[0]).sort();
   }
   function v1ToRestricted(mwl) {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
     return arr.filter(card => card[1].is_restricted)
-              .map(card => card[0]);
+              .map(card => card[0]).sort();
   }
   function v1ToUniversalFactionCost(mwl) {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
@@ -328,13 +328,13 @@ describe('MWLs v1/v2', () => {
 
   it('has matching banned cards', () => {
     pairs.forEach(([mwl, restriction]) => {
-      expect(v1ToBanned(mwl), `${mwl.name}'s banned cards are inconsistent between v1 and v2`).to.have.members(cardsToPrintings(restriction.banned));
+      expect(v1ToBanned(mwl), `${mwl.name}'s banned cards are inconsistent between v1 and v2`).to.have.members(cardsToPrintings(restriction.banned).sort());
     });
   });
 
   it('has matching restricted cards', () => {
     pairs.forEach(([mwl, restriction]) => {
-      expect(v1ToRestricted(mwl), `${mwl.name}'s restricted cards are inconsistent between v1 and v2`).to.have.members(cardsToPrintings(restriction.restricted));
+      expect(v1ToRestricted(mwl), `${mwl.name}'s restricted cards are inconsistent between v1 and v2`).to.have.members(cardsToPrintings(restriction.restricted).sort());
     });
   });
 
