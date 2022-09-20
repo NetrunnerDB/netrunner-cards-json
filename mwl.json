@@ -48,6 +48,15 @@
       },
       "29014": {
         "global_penalty": 1
+      },
+      "31038": {
+        "global_penalty": 1
+      },
+      "31043": {
+        "global_penalty": 1
+      },
+      "31069": {
+        "global_penalty": 1
       }
     },
     "code": "NAPD_MWL_1.0",
@@ -115,6 +124,15 @@
         "global_penalty": 1
       },
       "29014": {
+        "global_penalty": 1
+      },
+      "31038": {
+        "global_penalty": 1
+      },
+      "31043": {
+        "global_penalty": 1
+      },
+      "31069": {
         "global_penalty": 1
       }
     },
@@ -192,6 +210,9 @@
         "universal_faction_cost": 1
       },
       "29014": {
+        "universal_faction_cost": 1
+      },
+      "31069": {
         "universal_faction_cost": 1
       }
     },
@@ -290,6 +311,9 @@
         "is_restricted": 1
       },
       "25056": {
+        "is_restricted": 1
+      },
+      "31035": {
         "is_restricted": 1
       }
     },
@@ -403,6 +427,9 @@
         "is_restricted": 1
       },
       "25056": {
+        "is_restricted": 1
+      },
+      "31035": {
         "is_restricted": 1
       }
     },
@@ -540,6 +567,9 @@
         "is_restricted": 1
       },
       "25056": {
+        "is_restricted": 1
+      },
+      "31035": {
         "is_restricted": 1
       }
     },
@@ -680,6 +710,9 @@
         "is_restricted": 1
       },
       "29017": {
+        "is_restricted": 1
+      },
+      "31035": {
         "is_restricted": 1
       }
     },
@@ -829,6 +862,9 @@
         "is_restricted": 1
       },
       "29017": {
+        "is_restricted": 1
+      },
+      "31035": {
         "is_restricted": 1
       }
     },
@@ -984,6 +1020,9 @@
         "is_restricted": 1
       },
       "29017": {
+        "is_restricted": 1
+      },
+      "31035": {
         "is_restricted": 1
       }
     },
@@ -1149,6 +1188,9 @@
       },
       "28002": {
         "deck_limit": 0
+      },
+      "31035": {
+        "is_restricted": 1
       }
     },
     "code": "standard-mwl-3-3",
@@ -1313,6 +1355,9 @@
       },
       "28002": {
         "deck_limit": 0
+      },
+      "31035": {
+        "is_restricted": 1
       }
     },
     "code": "standard-mwl-3-4",
@@ -1465,6 +1510,9 @@
       },
       "28002": {
         "deck_limit": 0
+      },
+      "31035": {
+        "is_restricted": 1
       }
     },
     "code": "standard-mwl-3-4-b",
