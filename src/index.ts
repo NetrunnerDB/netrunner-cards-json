@@ -115,3 +115,30 @@ export function getPrintingsV2Json(): Record<string, any>[] {
   });
   return PRINTINGS_JSON;
 }
+
+export function getRestrictionsV2Json(): Record<string, Record<string, any>> {
+  const RESTRICTIONS_JSON: Record<string, Record<string, any>> = {};
+
+  const restrictionDir = resolve(__dirname, "../v2/restrictions");
+  const restrictionDirs =
+    fs.readdirSync(restrictionDir, { withFileTypes: true })
+      .filter(dirent => dirent.isDirectory())
+      .map(dirent => dirent.name);
+
+  restrictionDirs.forEach(format => {
+    const R_JSON: Record<string, any>[] = [];
+    const dir = resolve(__dirname, "../v2/restrictions/" + format);
+    const restrictionFiles =
+      fs.readdirSync(dir, { withFileTypes: true })
+        .filter(dirent => dirent.isFile() && dirent.name.endsWith('.json'))
+        .map(dirent => dirent.name);
+
+    restrictionFiles.forEach(file => {
+      R_JSON.push(JSON.parse(fs.readFileSync(resolve(dir, file), 'utf-8')));
+    });
+
+    RESTRICTIONS_JSON[format] = R_JSON;
+  });
+
+  return RESTRICTIONS_JSON;
+}

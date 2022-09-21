@@ -1,4 +1,15 @@
-import { getCardsJson, getCardCyclesV2Json, getCardSetsV2Json, getCardsV2Json, getCyclesJson, getPacksJson, getPrintingsV2Json, textToId } from "../src/index";
+import {
+  getCardsJson,
+  getCardCyclesV2Json,
+  getCardSetsV2Json,
+  getCardsV2Json,
+  getRestrictionsV2Json,
+  getCyclesJson,
+  getPacksJson,
+  getPrintingsV2Json,
+  getMwlJson,
+  textToId
+} from "../src/index";
 import { expect } from "chai";
 
 describe('Card Cycles v1/v2', () => {
@@ -13,7 +24,7 @@ describe('Card Cycles v1/v2', () => {
   });
 
   it('has correct number of cardCycles', () => {
-    expect(cardCyclesByLegacyCode.size).to.equal(cyclesByCode.size); 
+    expect(cardCyclesByLegacyCode.size).to.equal(cyclesByCode.size);
   });
 
   it('has matching card cycle attributes', () => {
@@ -41,7 +52,7 @@ describe('Card Sets v1/v2', () => {
   });
 
   it('correct number of card cardCycles', () => {
-    expect(cardSetsByCode.size).to.equal(packsByCode.size); 
+    expect(cardSetsByCode.size).to.equal(packsByCode.size);
   });
 
   it('card set attributes match', () => {
@@ -247,5 +258,115 @@ describe('Printings v1/v2 equality', () => {
 
   it('stripped_printed_text matches', () => {
     validate('stripped_text', 'stripped_printed_text');
+  });
+});
+
+describe('MWLs v1/v2', () => {
+  const standardRestrictions = getRestrictionsV2Json()['standard'];
+  const mwls = getMwlJson();
+  const pairs = mwls.map(mwl => [mwl, standardRestrictions.find(r => r.name == mwl.name)]);
+
+  const printings = getPrintingsV2Json();
+  const printingsById = new Map<string, any>();
+  printings.forEach(p => {
+    printingsById.set(p.id, p);
+  });
+  const printingsByCardId = new Map<string, any>();
+  getCardsV2Json ().forEach(c => {
+    printingsByCardId.set(c.id, []);
+  });
+  printings.forEach(p => {
+    printingsByCardId.get(p.card_id).push(p);
+  });
+
+  // Turns a v1 mwl json entry into an array of printing codes of its banned cards
+  function v1ToBanned(mwl) {
+    const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
+    return arr.filter(card => card[1].deck_limit == 0)
+              .map(card => card[0]).sort();
+  }
+  // Turns a v1 mwl json entry into an array of printing codes of its restricted cards
+  function v1ToRestricted(mwl) {
+    const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
+    return arr.filter(card => card[1].is_restricted)
+              .map(card => card[0]).sort();
+  }
+  // Turns a v1 mwl json entry into an object mapping universal faction costs to the array of printing codes of affected cards
+  function v1ToUniversalFactionCost(mwl) {
+    const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
+    const obj = {};
+    arr.filter(card => card[1].universal_faction_cost).sort().forEach(function(card) {
+      if (!obj[card[1].universal_faction_cost]) {
+        obj[card[1].universal_faction_cost] = [];
+      }
+      obj[card[1].universal_faction_cost].push(card[0]);
+    });
+    return obj;
+  }
+  // Turns a v1 mwl json entry into an object mapping global penalties to the array of printing codes of affected cards
+  function v1ToGlobalPenalty(mwl) {
+    const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
+    const obj = {};
+    arr.filter(card => card[1].global_penalty).sort().forEach(function(card) {
+      if (!obj[card[1].global_penalty]) {
+        obj[card[1].global_penalty] = [];
+      }
+      obj[card[1].global_penalty].push(card[0]);
+    });
+    return obj;
+  }
+
+  // Converts an array of cards into an array of all printing IDs of those cards
+  function cardsToPrintings(cards) {
+    if (!cards) {
+      return []; // Catches the null case to deal with missing fields in the api
+    }
+    return cards.map(card => printingsByCardId.get(card).map(printing => printing.id)).flat();
+  }
+
+  it('has correct number of standard lists', () => {
+    expect(mwls).to.have.lengthOf(standardRestrictions.length);
+  });
+
+  it('has matching names', () => {
+    expect(mwls.map(m => m.name)).to.have.members(standardRestrictions.map(r => r.name));
+  });
+
+  it('has matching banned cards', () => {
+    pairs.forEach(([mwl, restriction]) => {
+      expect(v1ToBanned(mwl), `${mwl.name}'s banned cards in v1 do not match v2`).to.have.members(cardsToPrintings(restriction.banned).sort());
+    });
+  });
+
+  it('has matching restricted cards', () => {
+    pairs.forEach(([mwl, restriction]) => {
+      expect(v1ToRestricted(mwl), `${mwl.name}'s restricted cards in v1 do not match v2`).to.have.members(cardsToPrintings(restriction.restricted).sort());
+    });
+  });
+
+  it('has matching universal faction costs', () => {
+    pairs.forEach(([mwl, restriction]) => {
+      const mwlCosts = v1ToUniversalFactionCost(mwl);
+      const resCosts = {};
+      if (restriction.universal_faction_cost) {
+        Object.keys(restriction.universal_faction_cost).forEach(cost => {
+          resCosts[cost] = cardsToPrintings(restriction.universal_faction_cost[cost]).sort();
+        });
+      }
+      expect(mwlCosts, `${mwl.name}'s universal faction costs in v1 do not match v2`).to.deep.equal(resCosts);
+    });
+  });
+
+  it('has matching global penalties', () => {
+    pairs.forEach(([mwl, restriction]) => {
+      const mwlCosts = v1ToGlobalPenalty(mwl);
+      const resCosts = {};
+      if (restriction.global_penalty) {
+        Object.keys(restriction.global_penalty).forEach(cost => {
+          resCosts[cost] = cardsToPrintings(restriction.global_penalty[cost]).sort();
+        });
+      }
+      expect(mwlCosts, `${mwl.name}'s global penalties in v1 do not match v2`).to.deep.equal(resCosts);
+    });
   });
 });
