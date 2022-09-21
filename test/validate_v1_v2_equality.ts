@@ -266,7 +266,7 @@ describe('MWLs v1/v2', () => {
   const mwls = getMwlJson();
   const pairs = mwls.map(mwl => [mwl, standardRestrictions.find(r => r.name == mwl.name)]);
 
-  const printings = getPrintingsV2Json ();
+  const printings = getPrintingsV2Json();
   const printingsById = new Map<string, any>();
   printings.forEach(p => {
     printingsById.set(p.id, p);
@@ -279,16 +279,19 @@ describe('MWLs v1/v2', () => {
     printingsByCardId.get(p.card_id).push(p);
   });
 
+  // Turns a v1 mwl json entry into an array of printing codes of its banned cards
   function v1ToBanned(mwl) {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
-    return arr.filter(card => card[1].deck_limit != undefined && card[1].deck_limit == 0)
+    return arr.filter(card => card[1].deck_limit == 0)
               .map(card => card[0]).sort();
   }
+  // Turns a v1 mwl json entry into an array of printing codes of its restricted cards
   function v1ToRestricted(mwl) {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
     return arr.filter(card => card[1].is_restricted)
               .map(card => card[0]).sort();
   }
+  // Turns a v1 mwl json entry into an object mapping universal faction costs to the array of printing codes of affected cards
   function v1ToUniversalFactionCost(mwl) {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
     const obj = {};
@@ -300,6 +303,7 @@ describe('MWLs v1/v2', () => {
     });
     return obj;
   }
+  // Turns a v1 mwl json entry into an object mapping global penalties to the array of printing codes of affected cards
   function v1ToGlobalPenalty(mwl) {
     const arr: [string, Record<string, number>][] = Object.entries(mwl.cards);
     const obj = {};
@@ -312,9 +316,11 @@ describe('MWLs v1/v2', () => {
     return obj;
   }
 
+  // Converts an array of cards into an array of all printing IDs of those cards
   function cardsToPrintings(cards) {
-    if (!cards)
-      return [];
+    if (!cards) {
+      return []; // Catches the null case to deal with missing fields in the api
+    }
     return cards.map(card => printingsByCardId.get(card).map(printing => printing.id)).flat();
   }
 
