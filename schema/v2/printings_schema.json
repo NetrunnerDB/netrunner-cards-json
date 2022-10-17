@@ -6,6 +6,10 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {
+      "attribution": {
+        "minLength": 1,
+        "type": "string"
+      },
       "card_id": {
         "minLength": 1,
         "type": "string"
