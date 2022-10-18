@@ -241,7 +241,7 @@ describe('Printings v1/v2 equality', () => {
     v1Cards.forEach(v1 => {
       const v2Printing = printingsById.get(v1.code);
       const v2Card = v2CardsByTitle.get(v1.title)
-      if (v2Card.hasOwnProperty('attribution')) {
+      if ('attribution' in v2Card) {
         expect(v1.flavor, `flavor mismatch for ${v1.title}`).to.equal(`${v2Printing.flavor ? v2Printing.flavor + '\n' : ''}<strong>${v2Card.attribution}</strong>`);
       } else {
         expect(v1.flavor, `flavor mismatch for ${v1.title}`).to.equal(v2Printing.flavor);
