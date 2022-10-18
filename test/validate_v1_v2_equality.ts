@@ -239,11 +239,10 @@ describe('Printings v1/v2 equality', () => {
   it('flavor matches', () => {
     // v1 flavor text includes design attributions, but in v2 that has been separated into the card attribution property.
     v1Cards.forEach(v1 => {
-      let v2Printing = printingsById.get(v1.code);
-      let v2Card = v2CardsByTitle.get(v1.title)
+      const v2Printing = printingsById.get(v1.code);
+      const v2Card = v2CardsByTitle.get(v1.title)
       if (v2Card.hasOwnProperty('attribution')) {
-        let attribution = `${v2Printing.flavor ? v2Printing.flavor + '\n' : ''}<strong>${v2Card.attribution}</strong>`
-        expect(v1.flavor, `flavor mismatch for ${v1.title}`).to.equal(attribution);
+        expect(v1.flavor, `flavor mismatch for ${v1.title}`).to.equal(`${v2Printing.flavor ? v2Printing.flavor + '\n' : ''}<strong>${v2Card.attribution}</strong>`);
       } else {
         expect(v1.flavor, `flavor mismatch for ${v1.title}`).to.equal(v2Printing.flavor);
       }
