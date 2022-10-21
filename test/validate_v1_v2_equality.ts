@@ -194,6 +194,10 @@ describe('Printings v1/v2 equality', () => {
   printings.forEach(p => {
     printingsById.set(p.id, p);
   });
+  const v2CardsByTitle = new Map<string, any>();
+  getCardsV2Json().forEach(c => {
+    v2CardsByTitle.set(c.title, c);
+  });
 
   it('correct number of printings', () => {
     v1CardsByCode.forEach((v, k) => {
@@ -233,7 +237,16 @@ describe('Printings v1/v2 equality', () => {
   });
 
   it('flavor matches', () => {
-    validate('flavor');
+    // v1 flavor text includes design attributions, but in v2 that has been separated into the card attribution property.
+    v1Cards.forEach(v1 => {
+      const v2Printing = printingsById.get(v1.code);
+      const v2Card = v2CardsByTitle.get(v1.title)
+      if ('attribution' in v2Card) {
+        expect(v1.flavor, `flavor mismatch for ${v1.title}`).to.equal(`${v2Printing.flavor ? v2Printing.flavor + '\n' : ''}<strong>${v2Card.attribution}</strong>`);
+      } else {
+        expect(v1.flavor, `flavor mismatch for ${v1.title}`).to.equal(v2Printing.flavor);
+      }
+    });
   });
 
   it('illustrator matches', () => {

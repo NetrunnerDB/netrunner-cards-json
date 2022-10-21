@@ -219,6 +219,10 @@
       "minimum": 0,
       "type": "integer"
     },
+    "attribution": {
+      "minLength": 1,
+      "type": "string"
+    },
     "base_link": {
       "minimum": 0,
       "type": "integer"
