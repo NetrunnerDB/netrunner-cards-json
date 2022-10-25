@@ -155,7 +155,7 @@
     "strength": 3,
     "stripped_text": "When the Runner encounters Troll, trace 2 if successful, the Runner must lose click or end the run.",
     "stripped_title": "Troll",
-    "text": "When the Runner encounters Troll, <trace>trace 2</trace> if successful, the Runner must lose [click] or end the run.",
+    "text": "When the Runner encounters Troll, <trace>2</trace>. If successful, the Runner must lose [click] or end the run.",
     "title": "Troll",
     "type_code": "ice",
     "uniqueness": false
@@ -176,7 +176,7 @@
     "strength": 5,
     "stripped_text": "Subroutine Trace 2 If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.",
     "stripped_title": "Virgo",
-    "text": "[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.",
+    "text": "[subroutine] <trace>2</trace>. If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.",
     "title": "Virgo",
     "type_code": "ice",
     "uniqueness": false
@@ -235,7 +235,7 @@
     "side_code": "corp",
     "stripped_text": "Remote server only. trash: Trash all cards installed in the root of or protecting this server. Trace[X], where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server.",
     "stripped_title": "Self-destruct",
-    "text": "Remote server only.\n<strong>[trash]:</strong> Trash all cards installed in the root of or protecting this server. Trace[X], where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server.",
+    "text": "Remote server only.\n<strong>[trash]:</strong> Trash all cards installed in the root of or protecting this server. <trace>X</trace>, where X is equal to the number of cards trashed. If successful, do 3 net damage. Use this ability only during a run on this server.",
     "title": "Self-destruct",
     "trash_cost": 0,
     "type_code": "upgrade",

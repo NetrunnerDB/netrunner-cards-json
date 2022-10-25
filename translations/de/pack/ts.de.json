@@ -48,14 +48,14 @@
     "code": "06108",
     "flavor": "Wer hier rein will, muss den Troll-Zoll zahlen.",
     "keywords": "Wächter",
-    "text": "Wenn der Runner auf Troll trifft, <trace>Aufspüren 2</trace> Bei Erfolg verliert der Runner [click] oder muss den Run beenden.",
+    "text": "Wenn der Runner auf Troll trifft, <trace>Aufspüren 2</trace>. Bei Erfolg verliert der Runner [click] oder muss den Run beenden.",
     "title": "Troll"
   },
   {
     "code": "06109",
     "flavor": "Virgo versprach Liebe,\nbot aber nur Eifersucht.",
     "keywords": "Wächter - Spürhund",
-    "text": "[subroutine] <trace>Aufspüren 2</trace> Verpasse dem Runner bei Erfolg 1 Markierung. Falls deine Aufspürstärke 5 oder größer ist, verpasse dem Runner 1 Markierung.",
+    "text": "[subroutine] <trace>Aufspüren 2</trace>. Verpasse dem Runner bei Erfolg 1 Markierung. Falls deine Aufspürstärke 5 oder größer ist, verpasse dem Runner 1 Markierung.",
     "title": "Virgo"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "code": "06112",
-    "text": "Kann nur in ein ausgelagertes System installiert werden.\n[trash]: Zerstöre alle Karten, die in diesem System installiert sind, oder es beschützen und <trace>Aufspüren X</trace> Bei Erfolg verursache 3 Netz-Schaden. X ist die Anzahl zerstörter Karten. Verwende diese Fertigkeit nur während eines Runs auf dieses System.",
+    "text": "Kann nur in ein ausgelagertes System installiert werden.\n[trash]: Zerstöre alle Karten, die in diesem System installiert sind, oder es beschützen und <trace>Aufspüren X</trace>. Bei Erfolg verursache 3 Netz-Schaden. X ist die Anzahl zerstörter Karten. Verwende diese Fertigkeit nur während eines Runs auf dieses System.",
     "title": "Selbstzerstörung"
   },
   {

@@ -874,7 +874,7 @@
     "illustrator": "Andreas Zafiratos",
     "position": 75,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] Trace[1]. If successful, give the Runner 1 tag and do 1 brain damage.",
+    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] <trace>1</trace>. If successful, give the Runner 1 tag and do 1 brain damage.",
     "quantity": 2,
     "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace[1]. If successful, give the Runner 1 tag and do 1 brain damage."
   },
@@ -958,7 +958,7 @@
     "illustrator": "Antonio De Luca",
     "position": 82,
     "printed_is_unique": true,
-    "printed_text": "Whenever there is a successful run on this server, <trace>trace 4</trace> if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
+    "printed_text": "Whenever there is a successful run on this server, <trace>4</trace>. If successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
     "quantity": 2,
     "stripped_printed_text": "Whenever there is a successful run on this server, trace 4 if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run."
   },
@@ -1305,7 +1305,7 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 112,
     "printed_is_unique": false,
-    "printed_text": "When the Runner encounters this ice, they must take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] <trace>Trace 3</trace>. If successful, place 1 power counter on this ice.",
+    "printed_text": "When the Runner encounters this ice, they must take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] <trace>3</trace>. If successful, place 1 power counter on this ice.",
     "quantity": 2,
     "stripped_printed_text": "When the Runner encounters this ice, they must take 1 tag or end the run. Hosted power counter: Give the Runner 1 tag. Subroutine Trace 3. If successful, place 1 power counter on this ice."
   },
@@ -1317,7 +1317,7 @@
     "illustrator": "Mike Nesbitt",
     "position": 113,
     "printed_is_unique": false,
-    "printed_text": "[subroutine]<trace>Trace 6</trace> If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.",
+    "printed_text": "[subroutine]<trace>6</trace>. If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.",
     "quantity": 1,
     "stripped_printed_text": "Subroutine Trace 6 If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run."
   },
@@ -1388,7 +1388,7 @@
     "illustrator": "Dmitry Prosvirnin, Atha Kanaani",
     "position": 119,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner made a successful run during their last turn.\n<trace>Trace 3</trace>. If successful, give the Runner 1 tag.",
+    "printed_text": "Play only if the Runner made a successful run during their last turn.\n<trace>3</trace>. If successful, give the Runner 1 tag.",
     "quantity": 2,
     "stripped_printed_text": "Play only if the Runner made a successful run during their last turn. Trace 3. If successful, give the Runner 1 tag."
   },
@@ -1526,7 +1526,7 @@
     "illustrator": "Christina Davis",
     "position": 131,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] <trace>Trace 3</trace> If successful, the Corp gains 3[credit].\n[subroutine] <trace>Trace 2</trace> If successful, end the run.",
+    "printed_text": "[subroutine] <trace>3</trace>. If successful, the Corp gains 3[credit].\n[subroutine] <trace>2</trace>. If successful, end the run.",
     "quantity": 2,
     "stripped_printed_text": "Subroutine Trace 3 If successful, the Corp gains 3 credits. Subroutine Trace 2 If successful, end the run."
   },
@@ -1608,7 +1608,7 @@
     "illustrator": "Lorraine Schleter",
     "position": 138,
     "printed_is_unique": false,
-    "printed_text": "<trace>Trace 5</trace>. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn.",
+    "printed_text": "<trace>5</trace>. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn.",
     "quantity": 2,
     "stripped_printed_text": "Trace 5. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn."
   },
@@ -1631,7 +1631,7 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 140,
     "printed_is_unique": false,
-    "printed_text": "When you score Paper Trail, <trace>trace 6</trace> If successful, trash all <strong>connection</strong> and <strong>job</strong> resources.",
+    "printed_text": "When you score Paper Trail, <trace>6</trace>. If successful, trash all <strong>connection</strong> and <strong>job</strong> resources.",
     "quantity": 2,
     "stripped_printed_text": "When you score Paper Trail, trace 6 If successful, trash all connection and job resources."
   },
@@ -1679,7 +1679,7 @@
     "illustrator": "Christina Davis",
     "position": 144,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
+    "printed_text": "[subroutine] <trace>3</trace>. If successful, give the Runner 1 tag.",
     "quantity": 2,
     "stripped_printed_text": "Subroutine Trace 3 If successful, give the Runner 1 tag."
   },

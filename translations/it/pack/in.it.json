@@ -63,7 +63,7 @@
     "code": "11070",
     "flavor": "\"The Starlight Meditation Booths are available to refugees for free for the duration of the crisis.\"",
     "keywords": "Location",
-    "text": "If you are tagged when your turn ends, force the Corp to \"<trace>Trace 1</trace> If unsuccessful, the Runner removes 1 tag.\"\n[trash],<strong>trash all cards in your grip:</strong> Prevent all meat damage.",
+    "text": "If you are tagged when your turn ends, force the Corp to \"<trace>1</trace>. If unsuccessful, the Runner removes 1 tag.\"\n[trash],<strong>trash all cards in your grip:</strong> Prevent all meat damage.",
     "title": "Citadel Sanctuary"
   },
   {
@@ -101,7 +101,7 @@
   {
     "code": "11076",
     "flavor": "Falstaff-337B; decrypt-ok; loc:0.258500, -79.920791 -ok; auth-ok; msg:KAR kill authority requested y/n?",
-    "text": "If the Runner is tagged, Drone Screen gains \"Whenever the Runner initiates a run on this server, <trace>Trace 3</trace> If successful, do 1 meat damage (cannot be prevented).\"",
+    "text": "If the Runner is tagged, Drone Screen gains \"Whenever the Runner initiates a run on this server, <trace>3</trace>. If successful, do 1 meat damage (cannot be prevented).\"",
     "title": "Drone Screen"
   },
   {

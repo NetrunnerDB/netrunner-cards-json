@@ -85,7 +85,7 @@
     "code": "02013",
     "flavor": "\"Patrzmy do przodu.\"",
     "keywords": "Bioroid",
-    "text": "Zawsze gdy skok na ten serwer jest udany, <trace>Trace 4</trace> jeśli udane, runner nie może do końca tego skoku uzyskać dostępu do żadnej innej karty oprócz Ash 2X3ZB9CY.",
+    "text": "Zawsze gdy skok na ten serwer jest udany, <trace>4</trace>. Jeśli udane, runner nie może do końca tego skoku uzyskać dostępu do żadnej innej karty oprócz Ash 2X3ZB9CY.",
     "title": "Ash 2X3ZB9CY"
   },
   {
@@ -105,14 +105,14 @@
     "code": "02016",
     "flavor": "\"Będziemy potrzebować większego pomieszczenia.\"",
     "keywords": "Inicjatywa",
-    "text": "[click]: <trace>Trace 2</trace> Jeśli udane, daj runnerowi 1 tag.",
+    "text": "[click]: <trace>2</trace>. Jeśli udane, daj runnerowi 1 tag.",
     "title": "Przeorganizowany magazyn danych"
   },
   {
     "code": "02017",
     "flavor": "Zbiór porzuconych cyberśmieci. Ale nie pozostaną śmieciami zbyt długo.",
     "keywords": "Bariera",
-    "text": "Gdy rezujesz Nadmiar szczegółów, <trace>Trace 2</trace> jeśli nieudane, odrezuj Nadmiar szczegółów.\n[subroutine] Zakończ skok.",
+    "text": "Gdy rezujesz Nadmiar szczegółów, <trace>2</trace>. Jeśli nieudane, odrezuj Nadmiar szczegółów.\n[subroutine] Zakończ skok.",
     "title": "Nadmiar szczegółów"
   },
   {
@@ -125,14 +125,14 @@
     "code": "02019",
     "flavor": "Symbol handlu, ale uważaj na jego zęby.",
     "keywords": "Strażnik - Tropiciel",
-    "text": "[subroutine] <trace>Trace 3</trace> Jeśli udane, korp pobiera 3[credit].\n[subroutine] <trace>Trace 2</trace> Jeśli udane, zakończ skok.",
+    "text": "[subroutine] <trace>3</trace>. Jeśli udane, korp pobiera 3[credit].\n[subroutine] <trace>2</trace>. Jeśli udane, zakończ skok.",
     "title": "Kaduceusz"
   },
   {
     "code": "02020",
     "flavor": "Victos dracones numquam deride.",
     "keywords": "Strażnik - Tropiciel",
-    "text": "Gdy rezujesz Dracō, możesz zapłacić X[credit], aby umieścić na nim X znaczników zasilania.\nDracō ma +1 siły za każdy leżący na nim znacznik zasilania.\n[subroutine] <trace>Trace 2</trace> Jeśli jest udane, daj runnerowi 1 tag i zakończ skok.",
+    "text": "Gdy rezujesz Dracō, możesz zapłacić X[credit], aby umieścić na nim X znaczników zasilania.\nDracō ma +1 siły za każdy leżący na nim znacznik zasilania.\n[subroutine] <trace>2</trace>. Jeśli jest udane, daj runnerowi 1 tag i zakończ skok.",
     "title": "Dracō"
   }
 ]

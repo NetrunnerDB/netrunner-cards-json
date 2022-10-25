@@ -101,7 +101,7 @@
   },
   {
     "code": "02116",
-    "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug eine Agenda gestohlen hat.\n<trace>Aufspüren 6</trace> Bei Erfolg verpasse dem Runner Markierungen in Höhe der Differenz zwischen deiner Aufspürstärke und seiner Verbindungsstärke.",
+    "text": "Kann nur gespielt werden, falls der Runner in seinem letzten Zug eine Agenda gestohlen hat.\n<trace>Aufspüren 6</trace>. Bei Erfolg verpasse dem Runner Markierungen in Höhe der Differenz zwischen deiner Aufspürstärke und seiner Verbindungsstärke.",
     "title": "Unerwartete Auswechslung"
   },
   {
@@ -122,7 +122,7 @@
     "code": "02119",
     "flavor": "\"Wenn ich diese Käfer mit einem Wort beschreiben müsste, wäre das wohl sch... nervig.'\" -Whizzard",
     "keywords": "Wächter - Zerstörer",
-    "text": "[subroutine] <trace>Aufspüren 0</trace> Bei Erfolg zerstört der Runner 1 Programm.",
+    "text": "[subroutine] <trace>Aufspüren 0</trace>. Bei Erfolg zerstört der Runner 1 Programm.",
     "title": "Burke-Käfer"
   },
   {

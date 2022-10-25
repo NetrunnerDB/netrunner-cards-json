@@ -191,7 +191,7 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 17,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] Trace[3]. If successful, give the Runner 1 tag and do 1 brain damage.",
+    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] <trace>3</trace>. If successful, give the Runner 1 tag and do 1 brain damage.",
     "quantity": 3,
     "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace[3]. If successful, give the Runner 1 tag and do 1 brain damage."
   },
@@ -214,7 +214,7 @@
     "illustrator": "Daniel Atanasov",
     "position": 19,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n<strong>Hosted power counter:</strong> Do 1 brain damage.\n[subroutine] Trace[2]. If successful, place 1 power counter on this ice.\n[subroutine] End the run.",
+    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n<strong>Hosted power counter:</strong> Do 1 brain damage.\n[subroutine] <trace>2</trace>. If successful, place 1 power counter on this ice.\n[subroutine] End the run.",
     "quantity": 3,
     "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Hosted power counter: Do 1 brain damage. Subroutine Trace[2]. If successful, place 1 power counter on this ice. Subroutine End the run."
   },

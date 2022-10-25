@@ -87,14 +87,14 @@
     "code": "11094",
     "flavor": "//Connection Terminated",
     "keywords": "Barrier - Tracer",
-    "text": "When the Runner encounters IP Block, give him or her 1 tag if there is an installed <strong>AI</strong>.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
+    "text": "When the Runner encounters IP Block, give him or her 1 tag if there is an installed <strong>AI</strong>.\n[subroutine] <trace>3</trace>. If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
     "title": "IP Block"
   },
   {
     "code": "11095",
     "flavor": "Truth like the sunlight shines above all. ",
     "keywords": "Sentry - Tracer",
-    "text": "When the Runner encounters Thoth, give him or her 1 tag.\n[subroutine] <trace>Trace 4</trace> If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, the Runner loses 1[credit] for each tag he or she has.",
+    "text": "When the Runner encounters Thoth, give him or her 1 tag.\n[subroutine] <trace>4</trace>. If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>4</trace>. If successful, the Runner loses 1[credit] for each tag he or she has.",
     "title": "Thoth"
   },
   {

@@ -403,7 +403,7 @@
     "code": "01062",
     "flavor": "Mi reputación me precedería si alguno pudiera hablar de ella.",
     "keywords": "Centinela - Bioroide - Rastreador - Destructor",
-    "text": "El Runner puede gastar [click] para romper cualquier subrutina de Ichi 1.0.\n[subroutine] Destruye 1 programa.\n[subroutine] Destruye 1 programa.\n[subroutine] <trace>Rastreo 1</trace> Si tiene éxito, dale 1 marca al Runner e inflige 1 punto de daño cerebral.",
+    "text": "El Runner puede gastar [click] para romper cualquier subrutina de Ichi 1.0.\n[subroutine] Destruye 1 programa.\n[subroutine] Destruye 1 programa.\n[subroutine] <trace>Rastreo 1</trace>. Si tiene éxito, dale 1 marca al Runner e inflige 1 punto de daño cerebral.",
     "title": "Ichi 1.0"
   },
   {
@@ -557,7 +557,7 @@
   {
     "code": "01086",
     "flavor": "\"La AAE nos advirtió de unos picos de datos sospechosos en el Castillo.\" - Jerome Lock, técnico de guardia",
-    "text": "Juega esta carta sólo si el Runner realizó una incursión con éxito durante su último turno.\n<trace>Rastreo 3</trace> Si tiene éxito, dale 1 marca al Runner.",
+    "text": "Juega esta carta sólo si el Runner realizó una incursión con éxito durante su último turno.\n<trace>Rastreo 3</trace>. Si tiene éxito, dale 1 marca al Runner.",
     "title": "Fuente de la AAE"
   },
   {
@@ -569,14 +569,14 @@
   {
     "code": "01088",
     "keywords": "Centinela - Rastreador - Observador",
-    "text": "Cuando el Runner se enfrente a Cuervo de Datos, debe recibir 1 marca o terminar la incursión.\n<strong>Contador de poder alojado</strong>: Dale 1 marca al Runner.\n[subroutine] <trace>Rastreo 3</trace> Si tiene éxito, coloca 1 contador de poder sobre Cuervo de Datos.",
+    "text": "Cuando el Runner se enfrente a Cuervo de Datos, debe recibir 1 marca o terminar la incursión.\n<strong>Contador de poder alojado</strong>: Dale 1 marca al Runner.\n[subroutine] <trace>Rastreo 3</trace>. Si tiene éxito, coloca 1 contador de poder sobre Cuervo de Datos.",
     "title": "Cuervo de Datos"
   },
   {
     "code": "01089",
     "flavor": "Analizar era genial. Delegar comandos resultó ser incluso mejor.",
     "keywords": "Centinela - Rastreador - Observador",
-    "text": "Cuando el Runner se enfrente a Analizador Matricial, puedes pagar 1[credit] para colocar 1 ficha de Avance sobre una carta que pueda ser avanzada.\n[subroutine] <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner.",
+    "text": "Cuando el Runner se enfrente a Analizador Matricial, puedes pagar 1[credit] para colocar 1 ficha de Avance sobre una carta que pueda ser avanzada.\n[subroutine] <trace>Rastreo 2</trace>. Si tiene éxito, dale 1 marca al Runner.",
     "title": "Analizador Matricial"
   },
   {
@@ -677,7 +677,7 @@
     "code": "01104",
     "flavor": "¿Quién sabe el mal que se esconde en los diamantes de memoria de los hombres? Weyland lo sabe. - cibergrafiti anónimo",
     "keywords": "Centinela - Rastreador",
-    "text": "Sombra puede ser avanzada y tiene +1 punto de fuerza por cada ficha de Avance que haya sobre ella.\n[subroutine] La Corporación gana 2[credit].\n[subroutine] <trace>Rastreo 3</trace> Si tiene éxito, dale 1 marca al Runner.",
+    "text": "Sombra puede ser avanzada y tiene +1 punto de fuerza por cada ficha de Avance que haya sobre ella.\n[subroutine] La Corporación gana 2[credit].\n[subroutine] <trace>Rastreo 3</trace>. Si tiene éxito, dale 1 marca al Runner.",
     "title": "Sombra"
   },
   {
@@ -732,7 +732,7 @@
     "code": "01112",
     "flavor": ".//run/hunter-tr/return=true client/sec2561Pv7->¿confirmar? /s 3926:0HB7:1001:2NB1:1601:7784:ERROR",
     "keywords": "Centinela - Rastreador - Observador",
-    "text": "[subroutine] <trace>Rastreo 3</trace> Si tiene éxito, dale 1 marca al Runner.",
+    "text": "[subroutine] <trace>Rastreo 3</trace>. Si tiene éxito, dale 1 marca al Runner.",
     "title": "Cazador"
   },
   {

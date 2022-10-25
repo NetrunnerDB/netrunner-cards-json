@@ -444,7 +444,7 @@
     "code": "20068",
     "flavor": "Mein Ruf würde mir vorauseilen, wenn es jemanden gäbe, der noch darüber sprechen könnte.",
     "keywords": "Wächter - Bioroid - Spürhund - Zerstörer",
-    "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Ichi 1.0 auszuschalten.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] <trace>Aufspüren 1</trace> Bei Erfolg verpasse dem Runner 1 Markierung und 1 Hirnschaden.",
+    "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Ichi 1.0 auszuschalten.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] <trace>Aufspüren 1</trace>. Bei Erfolg verpasse dem Runner 1 Markierung und 1 Hirnschaden.",
     "title": "Ichi 1.0"
   },
   {
@@ -490,7 +490,7 @@
     "code": "20075",
     "flavor": "\"Augen nach vorn, bitte.\"",
     "keywords": "Bioroid",
-    "text": "Immer, wenn ein Run auf diesen Server erfolgreich ist, <trace>Aufspüren 4</trace> bei Erfolg kann der Runner für den Rest des Runs nicht auf Karten außer Ash 2X3ZB9CY zugreifen.\n<errata>Diese Karte wurde erratiert (Subtyp+Text)</errata>",
+    "text": "Immer, wenn ein Run auf diesen Server erfolgreich ist, <trace>Aufspüren 4</trace>. Bei Erfolg kann der Runner für den Rest des Runs nicht auf Karten außer Ash 2X3ZB9CY zugreifen.\n<errata>Diese Karte wurde erratiert (Subtyp+Text)</errata>",
     "title": "Ash 2X3ZB9CY"
   },
   {
@@ -557,7 +557,7 @@
     "code": "20085",
     "flavor": "Ein Symbol des Handels, aber hüte dich vor seinem Biss.",
     "keywords": "Wächter - Spürhund",
-    "text": "[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg erhält der Kon 3[credit].\n[subroutine] <trace>Aufspüren 2</trace> Beende bei Erfolg den Run.",
+    "text": "[subroutine] <trace>Aufspüren 3</trace>. Bei Erfolg erhält der Kon 3[credit].\n[subroutine] <trace>Aufspüren 2</trace>. Beende bei Erfolg den Run.",
     "title": "Merkurstab"
   },
   {
@@ -584,7 +584,7 @@
     "code": "20089",
     "flavor": "Wer weiß schon, was Böses in den Gedächtnisdiamanten der Menschen lauert? Weyland weiß es.\n-anonymes Cybergraffiti",
     "keywords": "Wächter - Spürhund",
-    "text": "Schatten kann entwickelt werden und hat + 1 Stärke für jeden Entwicklungsmarker auf der Karte.\n[subroutine] Der Kon erhält 2[credit].\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+    "text": "Schatten kann entwickelt werden und hat + 1 Stärke für jeden Entwicklungsmarker auf der Karte.\n[subroutine] Der Kon erhält 2[credit].\n[subroutine] <trace>Aufspüren 3</trace>. Bei Erfolg verpasse dem Runner 1 Markierung.",
     "title": "Schatten"
   },
   {
@@ -598,7 +598,7 @@
     "code": "20091",
     "flavor": "\"ich würde sagen, es ist nicht persönlich, aber auch Konzerne sind eben doch nur Menschen.\"",
     "keywords": "Schwarze Ops",
-    "text": "<trace>Aufspüren 5</trace> Bei Erfolg füge dem Runner Körper-Schaden in Höhe der Agendapunkte auf den Agendas zu, die er in seinem letzten Zug gestohlen hat.",
+    "text": "<trace>Aufspüren 5</trace>. Bei Erfolg füge dem Runner Körper-Schaden in Höhe der Agendapunkte auf den Agendas zu, die er in seinem letzten Zug gestohlen hat.",
     "title": "Vergeltungsmassnahme"
   },
   {
@@ -743,7 +743,7 @@
   {
     "code": "20113",
     "keywords": "Wächter - Spürhund - Beobachter",
-    "text": "Wenn der Runner auf Datenrabe trifft, muss er den Run beenden oder er bekommt eine Markierung verpasst.\n<strong>Gehosteter Wirkungszähler</strong> Verpasse dem Runner 1 Markierung.\n[subroutine] <trace>Aufspüren 3</trace> Wenn du erfolgreich bist, lege 1 Wirkungszähler auf Datenrabe.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+    "text": "Wenn der Runner auf Datenrabe trifft, muss er den Run beenden oder er bekommt eine Markierung verpasst.\n<strong>Gehosteter Wirkungszähler</strong> Verpasse dem Runner 1 Markierung.\n[subroutine] <trace>Aufspüren 3</trace>. Wenn du erfolgreich bist, lege 1 Wirkungszähler auf Datenrabe.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
     "title": "Datenrabe"
   },
   {
@@ -795,7 +795,7 @@
   {
     "code": "20121",
     "flavor": "\"SEA hat uns nen Tipp zu verdächtigen Datenspitzen oben im Castle gegeben.\" - Jerome Lock, diensthabender Techniker.",
-    "text": "Kann nur gespielt werden, wenn der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\n<trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+    "text": "Kann nur gespielt werden, wenn der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\n<trace>Aufspüren 3</trace>. Bei Erfolg verpasse dem Runner 1 Markierung.",
     "title": "SEA-Informant"
   },
   {
@@ -807,7 +807,7 @@
     "code": "20123",
     "flavor": "Die Welt kontrollieren, einen Bildschirm nach dem anderen.",
     "keywords": "Sysop",
-    "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird,<trace>Aufspüren 5</trace> Bei Erfolg verpasse dem Runner 1 Markierung. Bei Misserfolg, zerstöre Bernice Mai.",
+    "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird,<trace>Aufspüren 5</trace>. Bei Erfolg verpasse dem Runner 1 Markierung. Bei Misserfolg, zerstöre Bernice Mai.",
     "title": "Bernice Mai"
   },
   {
@@ -855,7 +855,7 @@
     "code": "20130",
     "flavor": ".//run/hunter-tr/return=true\nclient/sec256IPv7->confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR",
     "keywords": "Wächter - Spürhund - Beobachter",
-    "text": "[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+    "text": "[subroutine] <trace>Aufspüren 3</trace>. Bei Erfolg verpasse dem Runner 1 Markierung.",
     "title": "Jäger"
   },
   {

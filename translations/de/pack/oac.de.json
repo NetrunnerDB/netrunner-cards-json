@@ -111,7 +111,7 @@
     "code": "07017",
     "flavor": "\"Ich bin schon einmal durch einen durchgegangen, scheinbar ohne dass es irgendwelche Auswirkungen hatte. Erst, als ich mich ausstöpselte, bemerkte ich, dass sie schon die Tür zu meiner Wohnung eintraten.\" -Valencia Estevez",
     "keywords": "Code-Zugang - Spürhund - Illegal",
-    "text": "Wenn du Kontrollpunkt lädst, erhältst du 1 negative Publicity.\n[subroutine] <trace>Aufspüren 5</trace> Bei Erfolg verursache 3 Körper-Schaden, wenn dieser Run erfolgreich ist.",
+    "text": "Wenn du Kontrollpunkt lädst, erhältst du 1 negative Publicity.\n[subroutine] <trace>Aufspüren 5</trace>. Bei Erfolg verursache 3 Körper-Schaden, wenn dieser Run erfolgreich ist.",
     "title": "Kontrollpunkt"
   },
   {
@@ -124,7 +124,7 @@
   {
     "code": "07019",
     "keywords": "Wächter - Spürhund - Beobachter",
-    "text": "Suchscheinwerfer kann entwickelt werden. X ist die Anzahl der Entwicklungsmarker auf Suchscheinwerfer.\n[subroutine]<trace>Aufspüren X</trace> Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine]<trace>Aufspüren X</trace> Verpasse dem Runner bei Erfolg 1 Markierung.",
+    "text": "Suchscheinwerfer kann entwickelt werden. X ist die Anzahl der Entwicklungsmarker auf Suchscheinwerfer.\n[subroutine]<trace>Aufspüren X</trace>. Verpasse dem Runner bei Erfolg 1 Markierung.\n[subroutine]<trace>Aufspüren X</trace>. Verpasse dem Runner bei Erfolg 1 Markierung.",
     "title": "Suchscheinwerfer"
   },
   {

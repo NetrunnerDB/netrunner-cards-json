@@ -781,7 +781,7 @@
     "side_code": "corp",
     "stripped_text": "Play only if the Runner made a successful run during their last turn. Trace 7 If successful, remove 1 installed chip or virtual card from the game.",
     "stripped_title": "Scapenet",
-    "text": "Play only if the Runner made a successful run during their last turn.\n<trace>Trace 7</trace> If successful, remove 1 installed <strong>chip</strong> or <strong>virtual</strong> card from the game.",
+    "text": "Play only if the Runner made a successful run during their last turn.\n<trace>7</trace>. If successful, remove 1 installed <strong>chip</strong> or <strong>virtual</strong> card from the game.",
     "title": "Scapenet",
     "type_code": "operation",
     "uniqueness": false
@@ -1207,7 +1207,7 @@
     "strength": 4,
     "stripped_text": "While this ice is protecting HQ, it gains \"Subroutine Trace 3 If successful, end the run.\" after all its other subroutines. Subroutine Trace 4 If successful, trash 1 installed program. Subroutine Trace 3 If successful, trash 1 installed piece of hardware.",
     "stripped_title": "Winchester",
-    "text": "While this ice is protecting HQ, it gains \"[subroutine] <trace>Trace 3</trace> If successful, end the run.\" after all its other subroutines.\n[subroutine] <trace>Trace 4</trace> If successful, trash 1 installed program.\n[subroutine] <trace>Trace 3</trace> If successful, trash 1 installed piece of hardware.",
+    "text": "While this ice is protecting HQ, it gains \"[subroutine] <trace>3</trace>. If successful, end the run.\" after all its other subroutines.\n[subroutine] <trace>4</trace>. If successful, trash 1 installed program.\n[subroutine] <trace>3</trace>. If successful, trash 1 installed piece of hardware.",
     "title": "Winchester",
     "type_code": "ice",
     "uniqueness": false

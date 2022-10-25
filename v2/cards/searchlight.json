@@ -11,6 +11,6 @@
   "stripped_text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight. Subroutine Trace X If successful, give the Runner 1 tag. Subroutine Trace X If successful, give the Runner 1 tag.",
   "stripped_title": "Searchlight",
   "subtypes": ["sentry", "tracer", "observer"],
-  "text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.",
+  "text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight.\n[subroutine]<trace>X</trace>. If successful, give the Runner 1 tag.\n[subroutine]<trace>X</trace>. If successful, give the Runner 1 tag.",
   "title": "Searchlight"
 }

@@ -60,7 +60,7 @@
   {
     "code": "02030",
     "keywords": "Strażnik - Bioroid - Tropiciel",
-    "text": "Runner może wydać [click], aby złamać dowolny podprogram Sherlocka 1.0.\n[subroutine] <trace>Trace 4</trace> Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.\n[subroutine] <trace>Trace 4</trace> Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.",
+    "text": "Runner może wydać [click], aby złamać dowolny podprogram Sherlocka 1.0.\n[subroutine] <trace>4</trace>. Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.\n[subroutine] <trace>4</trace>. Jeśli udane, dodaj 1 zainstalowany program na wierzch stosu runnera.",
     "title": "Sherlock 1.0"
   },
   {
@@ -104,7 +104,7 @@
   },
   {
     "code": "02037",
-    "text": "Zagraj tylko jeśli w swojej ostatniej turze runner przeprowadził udany skok.\n<trace>Trace 2</trace> Jeśli udane, skasuj 1 sprzęt o koszcie instalacji mniejszym bądź równym różnicy siły namierzania i siły połączenia.",
+    "text": "Zagraj tylko jeśli w swojej ostatniej turze runner przeprowadził udany skok.\n<trace>2</trace>. Jeśli udane, skasuj 1 sprzęt o koszcie instalacji mniejszym bądź równym różnicy siły namierzania i siły połączenia.",
     "title": "Przeciążenie sieci energetycznej"
   },
   {

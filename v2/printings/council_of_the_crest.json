@@ -55,7 +55,7 @@
     "illustrator": "Alexandr Elichev",
     "position": 45,
     "printed_is_unique": false,
-    "printed_text": "The first time you would take any number of tags or suffer any amount of net damage each turn, you may trash No One Home to force the Corp to \"<trace>trace 0</trace> If unsuccessful, the Runner avoids any number of tags or prevents any amount of net damage.\"",
+    "printed_text": "The first time you would take any number of tags or suffer any amount of net damage each turn, you may trash No One Home to force the Corp to \"<trace>0</trace>. If unsuccessful, the Runner avoids any number of tags or prevents any amount of net damage.\"",
     "quantity": 3,
     "stripped_printed_text": "The first time you would take any number of tags or suffer any amount of net damage each turn, you may trash No One Home to force the Corp to \"trace 0 If unsuccessful, the Runner avoids any number of tags or prevents any amount of net damage.\""
   },
@@ -89,7 +89,7 @@
     "illustrator": "Ed Mattinian",
     "position": 48,
     "printed_is_unique": false,
-    "printed_text": "Play only if you made a successful run on a central server this turn.\nForce the Corp to \"<trace>trace 3</trace> If unsuccessful, reveal all cards in HQ. The Runner may choose up to 2 of the revealed cards. Shuffle those cards into R&D.\"",
+    "printed_text": "Play only if you made a successful run on a central server this turn.\nForce the Corp to \"<trace>3</trace>. If unsuccessful, reveal all cards in HQ. The Runner may choose up to 2 of the revealed cards. Shuffle those cards into R&D.\"",
     "quantity": 3,
     "stripped_printed_text": "Play only if you made a successful run on a central server this turn. Force the Corp to \"trace 3 If unsuccessful, reveal all cards in HQ. The Runner may choose up to 2 of the revealed cards. Shuffle those cards into R&D.\""
   },
@@ -100,7 +100,7 @@
     "illustrator": "Josh Corpuz",
     "position": 49,
     "printed_is_unique": true,
-    "printed_text": "When your turn begins, you may <trace>trace X</trace> If successful, do 1 brain damage and trash Kuwinda K4H1U3. If unsuccessful, place 1 power counter on Kuwinda K4H1U3.\nX is the number of power counters on Kuwinda K4H1U3.",
+    "printed_text": "When your turn begins, you may <trace>X</trace>. If successful, do 1 brain damage and trash Kuwinda K4H1U3. If unsuccessful, place 1 power counter on Kuwinda K4H1U3.\nX is the number of power counters on Kuwinda K4H1U3.",
     "quantity": 3,
     "stripped_printed_text": "When your turn begins, you may trace X If successful, do 1 brain damage and trash Kuwinda K4H1U3. If unsuccessful, place 1 power counter on Kuwinda K4H1U3. X is the number of power counters on Kuwinda K4H1U3."
   },
@@ -216,7 +216,7 @@
     "illustrator": "Fei F. Ou",
     "position": 59,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner accessed a card during their last turn.\n<trace>Trace 4</trace>. If successful, trash 1 installed program with an install cost of X or less, where X is equal to the amount by which your trace strength exceeded the Runner's link strength.",
+    "printed_text": "Play only if the Runner accessed a card during their last turn.\n<trace>4</trace>. If successful, trash 1 installed program with an install cost of X or less, where X is equal to the amount by which your trace strength exceeded the Runner's link strength.",
     "quantity": 3,
     "stripped_printed_text": "Play only if the Runner accessed a card during their last turn. Trace 4. If successful, trash 1 installed program with an install cost of X or less, where X is equal to the amount by which your trace strength exceeded the Runner's link strength."
   },

@@ -85,7 +85,7 @@
     "code": "02013",
     "flavor": "\"Vista al frente, por favor.\"",
     "keywords": "Bioroide",
-    "text": "Siempre que se realice una incursión con éxito contra este servidor, <trace>Rastreo 4</trace> si tiene éxito, el Runner no puede acceder a ninguna carta excepto a Ash 2X3ZB9CY durante el resto de esta incursión.",
+    "text": "Siempre que se realice una incursión con éxito contra este servidor, <trace>Rastreo 4</trace>. Si tiene éxito, el Runner no puede acceder a ninguna carta excepto a Ash 2X3ZB9CY durante el resto de esta incursión.",
     "title": "Ash 2X3ZB9CY"
   },
   {
@@ -105,14 +105,14 @@
     "code": "02016",
     "flavor": "\"Vamos a necesitar una sala mayor.\"",
     "keywords": "Iniciativa",
-    "text": "[click]: <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner.",
+    "text": "[click]: <trace>Rastreo 2</trace>. Si tiene éxito, dale 1 marca al Runner.",
     "title": "Reserva De Datos Reestructurada"
   },
   {
     "code": "02017",
     "flavor": "Una colección de ciberbasura desechada. Pero deja de ser basura en poco tiempo.",
     "keywords": "Barrera",
-    "text": "Cuando ejectues DMI, <trace>Rastreo 2</trace> si no tiene éxito, suspende DMI.\n[subroutine] Termina la incursión.",
+    "text": "Cuando ejectues DMI, <trace>Rastreo 2</trace>. Si no tiene éxito, suspende DMI.\n[subroutine] Termina la incursión.",
     "title": "DMI"
   },
   {
@@ -125,14 +125,14 @@
     "code": "02019",
     "flavor": "Un símbolo de comercio, pero cuidado con su mordisco.",
     "keywords": "Centinela - Rastreador",
-    "text": "[subroutine]: <trace>Rastreo 3</trace> Si tiene éxito, la Corporación gana 3[credit].\n[subroutine]: <trace>Rastreo 2</trace> Si tiene éxito, termina la incursión.",
+    "text": "[subroutine]: <trace>Rastreo 3</trace>. Si tiene éxito, la Corporación gana 3[credit].\n[subroutine]: <trace>Rastreo 2</trace>. Si tiene éxito, termina la incursión.",
     "title": "Caduceo"
   },
   {
     "code": "02020",
     "flavor": "Victôs draconês numquam deride.",
     "keywords": "Centinela - Rastreador",
-    "text": "Cuando ejectues Dracô, puedes pagar X[credit] para colocar X contadores de poder sobre él.\nDracô tiene +1 punto de fuerza por cada contador de poder que haya sobre él.\n[subroutine] <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner y termina la incursión.",
+    "text": "Cuando ejectues Dracô, puedes pagar X[credit] para colocar X contadores de poder sobre él.\nDracô tiene +1 punto de fuerza por cada contador de poder que haya sobre él.\n[subroutine] <trace>Rastreo 2</trace>. Si tiene éxito, dale 1 marca al Runner y termina la incursión.",
     "title": "Dracô"
   }
 ]

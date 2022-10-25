@@ -30,7 +30,7 @@
     "illustrator": "Matt Zeilinger",
     "position": 3,
     "printed_is_unique": true,
-    "printed_text": "+1[link]\nWhenever the Corp scores an <strong>initiative</strong> or <strong>security</strong> agenda, force the Corp to \"<trace>Trace 1</trace> if unsuccessful, take 1 bad publicity.\"",
+    "printed_text": "+1[link]\nWhenever the Corp scores an <strong>initiative</strong> or <strong>security</strong> agenda, force the Corp to \"<trace>1</trace>. If unsuccessful, take 1 bad publicity.\"",
     "quantity": 3,
     "stripped_printed_text": "+1 link Whenever the Corp scores an initiative or security agenda, force the Corp to \"Trace 1 if unsuccessful, take 1 bad publicity.\""
   },
@@ -169,7 +169,7 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 15,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] Trace[4]. If successful, give the Runner 1 tag.\n[subroutine] Trace[2]. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card.",
+    "printed_text": "[subroutine] <trace>4</trace>. If successful, give the Runner 1 tag.\n[subroutine] <trace>2</trace>. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card.",
     "quantity": 3,
     "stripped_printed_text": "Subroutine Trace[4]. If successful, give the Runner 1 tag. Subroutine Trace[2]. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card."
   },

@@ -232,7 +232,7 @@
     "side_code": "corp",
     "stripped_text": "Whenever you are about to take at least 1 bad publicity, trace 3 if successful, avoid taking the bad publicity.",
     "stripped_title": "Broadcast Square",
-    "text": "Whenever you are about to take at least 1 bad publicity, <trace>trace 3</trace> if successful, avoid taking the bad publicity.",
+    "text": "Whenever you are about to take at least 1 bad publicity, <trace>3</trace>. If successful, avoid taking the bad publicity.",
     "title": "Broadcast Square",
     "trash_cost": 5,
     "type_code": "asset",
@@ -294,7 +294,7 @@
     "strength": 5,
     "stripped_text": "When you rez Shinobi, take 1 bad publicity. Subroutine Trace 1 If successful, do 1 net damage. Subroutine Trace 2 If successful, do 2 net damage. Subroutine Trace 3 If successful, do 3 net damage and end the run.",
     "stripped_title": "Shinobi",
-    "text": "When you rez Shinobi, take 1 bad publicity.\n[subroutine] <trace>Trace 1</trace> If successful, do 1 net damage.\n[subroutine] <trace>Trace 2</trace> If successful, do 2 net damage.\n[subroutine] <trace>Trace 3</trace> If successful, do 3 net damage and end the run.",
+    "text": "When you rez Shinobi, take 1 bad publicity.\n[subroutine] <trace>1</trace>. If successful, do 1 net damage.\n[subroutine] <trace>2</trace>. If successful, do 2 net damage.\n[subroutine] <trace>3</trace>. If successful, do 3 net damage and end the run.",
     "title": "Shinobi",
     "type_code": "ice",
     "uniqueness": false

@@ -11,6 +11,6 @@
   "stripped_text": "When you rez TMI, trace 2 if unsuccessful, derez TMI. Subroutine End the run.",
   "stripped_title": "TMI",
   "subtypes": ["barrier"],
-  "text": "When you rez TMI, <trace>trace 2</trace> if unsuccessful, derez TMI.\n[subroutine] End the run.",
+  "text": "When you rez TMI, <trace>2</trace>. If unsuccessful, derez TMI.\n[subroutine] End the run.",
   "title": "TMI"
 }

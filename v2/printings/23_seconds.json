@@ -74,7 +74,7 @@
     "illustrator": "Caroline Gariba",
     "position": 7,
     "printed_is_unique": false,
-    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhenever you steal an agenda, force the Corp to \"<trace>Trace 0</trace> If unsuccessful, the Runner gains credits equal to the number of agenda points in both players' score areas.\"",
+    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhenever you steal an agenda, force the Corp to \"<trace>0</trace>. If unsuccessful, the Runner gains credits equal to the number of agenda points in both players' score areas.\"",
     "quantity": 3,
     "stripped_printed_text": "This card is not trashed until another current is played or an agenda is scored. Whenever you steal an agenda, force the Corp to \"Trace 0 If unsuccessful, the Runner gains credits equal to the number of agenda points in both players' score areas.\""
   },
@@ -120,7 +120,7 @@
     "illustrator": "Hannah Christenson",
     "position": 11,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine] Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine] Give the Runner 1 tag.",
+    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] <trace>4</trace>. If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine] <trace>4</trace>. If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine] Give the Runner 1 tag.",
     "quantity": 3,
     "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack. Subroutine Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack. Subroutine Give the Runner 1 tag."
   },
@@ -178,7 +178,7 @@
     "illustrator": "Sander Mosk",
     "position": 16,
     "printed_is_unique": false,
-    "printed_text": "After you resolve this operation, your action phase ends.\nPlay only if the Runner made a run during their last turn.\n<trace>Trace 4</trace>. If successful, give the Runner 4 tags.",
+    "printed_text": "After you resolve this operation, your action phase ends.\nPlay only if the Runner made a run during their last turn.\n<trace>4</trace>. If successful, give the Runner 4 tags.",
     "quantity": 3,
     "stripped_printed_text": "After you resolve this operation, your action phase ends. Play only if the Runner made a run during their last turn. Trace 4. If successful, give the Runner 4 tags."
   },
@@ -188,7 +188,7 @@
     "id": "11017",
     "position": 17,
     "printed_is_unique": false,
-    "printed_text": "The first time the Runner trashes an installed Corp card each turn, you may <trace>trace 4</trace> If successful, give the Runner 1 tag (cannot be avoided).",
+    "printed_text": "The first time the Runner trashes an installed Corp card each turn, you may <trace>4</trace>. If successful, give the Runner 1 tag (cannot be avoided).",
     "quantity": 3,
     "stripped_printed_text": "The first time the Runner trashes an installed Corp card each turn, you may trace 4 If successful, give the Runner 1 tag (cannot be avoided)."
   },

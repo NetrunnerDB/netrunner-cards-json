@@ -31,7 +31,7 @@
     "code": "21045",
     "flavor": "\"Geh weg! Ich bin nicht da!\"",
     "keywords": "Virtuell",
-    "text": "Wenn du zum ersten Mal in einem Zug eine beliebige Anzahl Markierungen verpasst bekommen oder eine beliebige Menge Netz-Schaden erleiden würdest, darfst du Niemand zu Hause zerstören, um den Kon zu \"<trace>Aufspüren 0</trace> Bei Misserfolg vermeidet der Runner eine beliebige Anzahl Markierungen oder verhindert eine beliebige Menge Netz-Schaden.\" zu zwingen",
+    "text": "Wenn du zum ersten Mal in einem Zug eine beliebige Anzahl Markierungen verpasst bekommen oder eine beliebige Menge Netz-Schaden erleiden würdest, darfst du Niemand zu Hause zerstören, um den Kon zu \"<trace>Aufspüren 0</trace>. Bei Misserfolg vermeidet der Runner eine beliebige Anzahl Markierungen oder verhindert eine beliebige Menge Netz-Schaden.\" zu zwingen",
     "title": "Niemand zu Hause"
   },
   {
@@ -49,13 +49,13 @@
   },
   {
     "code": "21048",
-    "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nZwinge den Kon zu \"<trace>Aufspüren 3</trace> Bei Misserfolg decke alle Karten von HQ auf. Der Runner darf bis zu 2 Karten der aufgedeckten Karten wählen. Mische diese Karten in F&E.\"",
+    "text": "Kann nur gespielt werden, falls du in diesem Zug einen erfolgreichen Run auf ein zentrales System durchgeführt hast.\nZwinge den Kon zu \"<trace>Aufspüren 3</trace>. Bei Misserfolg decke alle Karten von HQ auf. Der Runner darf bis zu 2 Karten der aufgedeckten Karten wählen. Mische diese Karten in F&E.\"",
     "title": "White-Hat-Angriff"
   },
   {
     "code": "21049",
     "keywords": "Bioroid",
-    "text": "Sobald dein Zug beginnt, darfst du <trace>Aufspüren X</trace> Bei Erfolg verursache 1 Hirn-Schaden und zerstöre Kuwinda K4H1U3. Bei Misserfolg lege 1 Wirkungszähler auf Kuwinda K4H1U3.\nX ist die Anzahl der Wirkungszähler auf Kuwinda K4H1U3.",
+    "text": "Sobald dein Zug beginnt, darfst du <trace>Aufspüren X</trace>. Bei Erfolg verursache 1 Hirn-Schaden und zerstöre Kuwinda K4H1U3. Bei Misserfolg lege 1 Wirkungszähler auf Kuwinda K4H1U3.\nX ist die Anzahl der Wirkungszähler auf Kuwinda K4H1U3.",
     "title": "Kuwinda K4H1U3"
   },
   {
@@ -118,7 +118,7 @@
   {
     "code": "21059",
     "keywords": "Graue Ops",
-    "text": "Kann nur gespielt werden, falls der Runner während seines letztens Zuges auf mindestens 1 Karte zugegriffen hat.\n<trace>Aufspüren 4</trace> Bei Erfolg zerstöre 1 installiertes Programm mit Installationskosten, die höchstens der Differenz zwischen deiner Aufspürstärke und der Verbindungstärke des Runners entsprechen.",
+    "text": "Kann nur gespielt werden, falls der Runner während seines letztens Zuges auf mindestens 1 Karte zugegriffen hat.\n<trace>Aufspüren 4</trace>. Bei Erfolg zerstöre 1 installiertes Programm mit Installationskosten, die höchstens der Differenz zwischen deiner Aufspürstärke und der Verbindungstärke des Runners entsprechen.",
     "title": "Trojanisches Pferd"
   },
   {

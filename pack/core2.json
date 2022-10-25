@@ -1363,7 +1363,7 @@
     "strength": 4,
     "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace[1]. If successful, give the Runner 1 tag and do 1 brain damage.",
     "stripped_title": "Ichi 1.0",
-    "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] Trace[1]. If successful, give the Runner 1 tag and do 1 brain damage.",
+    "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] <trace>1</trace>. If successful, give the Runner 1 tag and do 1 brain damage.",
     "title": "Ichi 1.0",
     "type_code": "ice",
     "uniqueness": false
@@ -1502,7 +1502,7 @@
     "side_code": "corp",
     "stripped_text": "Whenever there is a successful run on this server, trace 4 if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
     "stripped_title": "Ash 2X3ZB9CY",
-    "text": "Whenever there is a successful run on this server, <trace>trace 4</trace> if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
+    "text": "Whenever there is a successful run on this server, <trace>4</trace>. If successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
     "title": "Ash 2X3ZB9CY",
     "trash_cost": 3,
     "type_code": "upgrade",
@@ -1944,7 +1944,7 @@
     "strength": 4,
     "stripped_text": "When the Runner encounters this ice, they must take 1 tag or end the run. Hosted power counter: Give the Runner 1 tag. Subroutine Trace 3. If successful, place 1 power counter on this ice.",
     "stripped_title": "Data Raven",
-    "text": "When the Runner encounters this ice, they must take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] <trace>Trace 3</trace>. If successful, place 1 power counter on this ice.",
+    "text": "When the Runner encounters this ice, they must take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] <trace>3</trace>. If successful, place 1 power counter on this ice.",
     "title": "Data Raven",
     "type_code": "ice",
     "uniqueness": false
@@ -1965,7 +1965,7 @@
     "strength": 6,
     "stripped_text": "Subroutine Trace 6 If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.",
     "stripped_title": "Flare",
-    "text": "[subroutine]<trace>Trace 6</trace> If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.",
+    "text": "[subroutine]<trace>6</trace>. If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run.",
     "title": "Flare",
     "type_code": "ice",
     "uniqueness": false
@@ -2104,7 +2104,7 @@
     "side_code": "corp",
     "stripped_text": "Play only if the Runner made a successful run during their last turn. Trace 3. If successful, give the Runner 1 tag.",
     "stripped_title": "SEA Source",
-    "text": "Play only if the Runner made a successful run during their last turn.\n<trace>Trace 3</trace>. If successful, give the Runner 1 tag.",
+    "text": "Play only if the Runner made a successful run during their last turn.\n<trace>3</trace>. If successful, give the Runner 1 tag.",
     "title": "SEA Source",
     "type_code": "operation",
     "uniqueness": false
@@ -2143,7 +2143,7 @@
     "side_code": "corp",
     "stripped_text": "Whenever there is a successful run on this server, trace 5 if successful, give the Runner 1 tag. If unsuccessful, trash Bernice Mai.",
     "stripped_title": "Bernice Mai",
-    "text": "Whenever there is a successful run on this server, <trace>trace 5</trace> if successful, give the Runner 1 tag. If unsuccessful, trash Bernice Mai.",
+    "text": "Whenever there is a successful run on this server, <trace>5</trace>. If successful, give the Runner 1 tag. If unsuccessful, trash Bernice Mai.",
     "title": "Bernice Mai",
     "trash_cost": 3,
     "type_code": "upgrade",
@@ -2327,7 +2327,7 @@
     "strength": 3,
     "stripped_text": "Subroutine Trace 3 If successful, the Corp gains 3 credits. Subroutine Trace 2 If successful, end the run.",
     "stripped_title": "Caduceus",
-    "text": "[subroutine] <trace>Trace 3</trace> If successful, the Corp gains 3[credit].\n[subroutine] <trace>Trace 2</trace> If successful, end the run.",
+    "text": "[subroutine] <trace>3</trace>. If successful, the Corp gains 3[credit].\n[subroutine] <trace>2</trace>. If successful, end the run.",
     "title": "Caduceus",
     "type_code": "ice",
     "uniqueness": false
@@ -2410,7 +2410,7 @@
     "strength": 1,
     "stripped_text": "Shadow can be advanced and has +1 strength for each advancement token on it. Subroutine The Corp gains 2 credits. Subroutine Trace 3 If successful, give the Runner 1 tag.",
     "stripped_title": "Shadow",
-    "text": "Shadow can be advanced and has +1 strength for each advancement token on it.\n[subroutine] The Corp gains 2[credit].\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
+    "text": "Shadow can be advanced and has +1 strength for each advancement token on it.\n[subroutine] The Corp gains 2[credit].\n[subroutine] <trace>3</trace>. If successful, give the Runner 1 tag.",
     "title": "Shadow",
     "type_code": "ice",
     "uniqueness": false
@@ -2450,7 +2450,7 @@
     "side_code": "corp",
     "stripped_text": "Trace 5. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn.",
     "stripped_title": "Punitive Counterstrike",
-    "text": "<trace>Trace 5</trace>. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn.",
+    "text": "<trace>5</trace>. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn.",
     "title": "Punitive Counterstrike",
     "type_code": "operation",
     "uniqueness": false
@@ -2615,7 +2615,7 @@
     "strength": 4,
     "stripped_text": "Subroutine Trace 3 If successful, give the Runner 1 tag.",
     "stripped_title": "Hunter",
-    "text": "[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
+    "text": "[subroutine] <trace>3</trace>. If successful, give the Runner 1 tag.",
     "title": "Hunter",
     "type_code": "ice",
     "uniqueness": false

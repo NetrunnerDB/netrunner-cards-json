@@ -159,7 +159,7 @@
     "illustrator": "Alexandr Elichev",
     "position": 94,
     "printed_is_unique": false,
-    "printed_text": "When the Runner encounters this ice, give them 1 tag if there is an installed <strong>AI</strong> program.\n[subroutine] <trace>Trace 3</trace>. If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
+    "printed_text": "When the Runner encounters this ice, give them 1 tag if there is an installed <strong>AI</strong> program.\n[subroutine] <trace>3</trace>. If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
     "quantity": 3,
     "stripped_printed_text": "When the Runner encounters this ice, give them 1 tag if there is an installed AI program. Subroutine Trace 3. If successful, give the Runner 1 tag. Subroutine End the run if the Runner is tagged."
   },
@@ -171,7 +171,7 @@
     "illustrator": "Kari Guenther",
     "position": 95,
     "printed_is_unique": true,
-    "printed_text": "When the Runner encounters this ice, give them 1 tag.\n[subroutine] <trace>Trace 4</trace>. If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace>. If successful, the Runner loses 1[credit] for each tag they have.",
+    "printed_text": "When the Runner encounters this ice, give them 1 tag.\n[subroutine] <trace>4</trace>. If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>4</trace>. If successful, the Runner loses 1[credit] for each tag they have.",
     "quantity": 3,
     "stripped_printed_text": "When the Runner encounters this ice, give them 1 tag. Subroutine Trace 4. If successful, do 1 net damage for each tag the Runner has. Subroutine Trace 4. If successful, the Runner loses 1 credit for each tag they have."
   },

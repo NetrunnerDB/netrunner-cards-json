@@ -557,7 +557,7 @@
   {
     "code": "01086",
     "flavor": "\"La SEA ci ha fatto notare alcuni picchi di dati, su al Castello.\" -Jerome Lock, tecnico di servizio",
-    "text": "Giocabile solo se il Runner ha effettuato un'incursione riuscita nel suo ultimo turno.\n<trace>Tracciamento 3</trace> Se riuscito, assegna al Runner 1 tag.",
+    "text": "Giocabile solo se il Runner ha effettuato un'incursione riuscita nel suo ultimo turno.\n<trace>Tracciamento 3</trace>. Se riuscito, assegna al Runner 1 tag.",
     "title": "Fonte SEA"
   },
   {
@@ -569,14 +569,14 @@
   {
     "code": "01088",
     "keywords": "Sentinella - Tracciatore - Osservatore",
-    "text": "Quando il Runner incontra il Corvo di Dati, deve scegliere se ricevere un tag o terminare l'incursione.\n<strong>Segnalino potenza ospitato:</strong> Assegna al Runner 1 tag.\n[subroutine] <trace>Tracciamento 3</trace> Se riuscito, colloca 1 segnalino potenza sul Corvo di Dati.",
+    "text": "Quando il Runner incontra il Corvo di Dati, deve scegliere se ricevere un tag o terminare l'incursione.\n<strong>Segnalino potenza ospitato:</strong> Assegna al Runner 1 tag.\n[subroutine] <trace>Tracciamento 3</trace>. Se riuscito, colloca 1 segnalino potenza sul Corvo di Dati.",
     "title": "Corvo di Dati"
   },
   {
     "code": "01089",
     "flavor": "Analizzare era fantastico. Delegare i comandi si rivelò perfino migliore.",
     "keywords": "Sentinella - Tracciatore - Osservatore",
-    "text": "Quando il Runner incontra l'Analizzatore di Matrice, puoi pagare 1 per collocare 1 segnalino progresso su una carta che è possibile far progredire.\n[subroutine] <trace>Tracciamento 2</trace> Se riuscito, assegna al Runner 1 tag.",
+    "text": "Quando il Runner incontra l'Analizzatore di Matrice, puoi pagare 1 per collocare 1 segnalino progresso su una carta che è possibile far progredire.\n[subroutine] <trace>Tracciamento 2</trace>. Se riuscito, assegna al Runner 1 tag.",
     "title": "Analizzatore di Matrice"
   },
   {
@@ -677,7 +677,7 @@
     "code": "01104",
     "flavor": "Chissà quali malvagità si annidano nella memoria adamantina degli uomini? La Weyland lo sa. -cyber-graffito anonimo",
     "keywords": "Sentinella - Tracciatore",
-    "text": "E' possibile far progredire l'Ombra, che avrà forza +1 per ogni segnalino progresso presente su di essa.\n[subroutine] La Corp ottiene 2[credit].\n[subroutine] <trace>Tracciamento 3</trace> Se riuscito, assegna al Runner 1 tag.",
+    "text": "E' possibile far progredire l'Ombra, che avrà forza +1 per ogni segnalino progresso presente su di essa.\n[subroutine] La Corp ottiene 2[credit].\n[subroutine] <trace>Tracciamento 3</trace>. Se riuscito, assegna al Runner 1 tag.",
     "title": "Ombra"
   },
   {
@@ -732,7 +732,7 @@
     "code": "01112",
     "flavor": ".//run/hunter-tr/return=true\nclient/sec256IPv7->conferma? /y\n3926:0HB7:1001:2NB1:1601:7784:ERRORE",
     "keywords": "Sentinella - Tracciatore - Osservatore",
-    "text": "[subroutine] <trace>Tracciamento 3</trace> Se riuscito, assegna al Runner 1 tag.",
+    "text": "[subroutine] <trace>Tracciamento 3</trace>. Se riuscito, assegna al Runner 1 tag.",
     "title": "Cacciatore"
   },
   {

@@ -381,7 +381,7 @@
     "code": "01062",
     "flavor": "Ma réputation me précéderait, s'il restait quelqu'un pour en parler.",
     "keywords": "Sentinelle - Bioroïde - Traqueur - Destructeur",
-    "text": "Le runner peut dépenser [click] pour neutraliser n'importe quelle routine de Ichi 1.0.\n[subroutine] Effacez 1 programme.\n[subroutine] Effacez 1 programme.\n[subroutine] <trace>Traque 1</trace> Si la traque est réussie, donnez 1 tag au Runner et infligez 1 dégât Neuro.",
+    "text": "Le runner peut dépenser [click] pour neutraliser n'importe quelle routine de Ichi 1.0.\n[subroutine] Effacez 1 programme.\n[subroutine] Effacez 1 programme.\n[subroutine] <trace>Traque 1</trace>. Si la traque est réussie, donnez 1 tag au Runner et infligez 1 dégât Neuro.",
     "title": "Ichi 1.0"
   },
   {
@@ -535,7 +535,7 @@
   {
     "code": "01086",
     "flavor": "\"L'ADAO nous a informé de pics de données suspects là-haut, près du Chatêau.\" - Jérôme Lock, tech de service.",
-    "text": "Jouable uniquement si le Runner a réussi un piratage lors de son dernier tour.\n<trace>Traque 3</trace> Si la traque est réussie, donnez un tag au Runner.",
+    "text": "Jouable uniquement si le Runner a réussi un piratage lors de son dernier tour.\n<trace>Traque 3</trace>. Si la traque est réussie, donnez un tag au Runner.",
     "title": "Source à l'ADAO"
   },
   {
@@ -547,14 +547,14 @@
   {
     "code": "01088",
     "keywords": "Sentinelle - Traqueur - Veilleur",
-    "text": "Lorsque le Runner rencontre le Cyber Corbeau, il doit prendre 1 tag, soit arrêter le piratage.\n<strong>Pion Pouvoir hébergé</strong> : Donnez 1 tag au Runner.\n[subroutine] <trace>Traque 3</trace> Si la traque est réussie, placez 1 pion Pouvoir sur le Cyber Corbeau.",
+    "text": "Lorsque le Runner rencontre le Cyber Corbeau, il doit prendre 1 tag, soit arrêter le piratage.\n<strong>Pion Pouvoir hébergé</strong> : Donnez 1 tag au Runner.\n[subroutine] <trace>Traque 3</trace>. Si la traque est réussie, placez 1 pion Pouvoir sur le Cyber Corbeau.",
     "title": "Cyber Corbeau"
   },
   {
     "code": "01089",
     "flavor": "Analyser était plaisant. Déléguer des commandes s'avéra l'être encore plus.",
     "keywords": "Sentinelle - Traqueur, Veilleur",
-    "text": "Lorsque le Runner rencontre l'Analyste Matriciel, vous pouvez payer 1[credit] pour mettre 1 pion Avancement sur une carte qui peut être avancée.\n[subroutine] <trace>Traque 2</trace> Si la traque est réussie, donnez 1 tag au Runner.",
+    "text": "Lorsque le Runner rencontre l'Analyste Matriciel, vous pouvez payer 1[credit] pour mettre 1 pion Avancement sur une carte qui peut être avancée.\n[subroutine] <trace>Traque 2</trace>. Si la traque est réussie, donnez 1 tag au Runner.",
     "title": "Analyste Matriciel"
   },
   {
@@ -655,7 +655,7 @@
     "code": "01104",
     "flavor": "Qui sait quel mal rôde dans les diamants mémoriels des hommes ? Weyland le sait. - Cyber-graffiti anonyme",
     "keywords": "Sentinelle - Trace",
-    "text": "L'Ombre peut être avancée et a +1 en force pour chaqun de ses pions d'Avancement.\n[subroutine] La Corpo gagne 2[credit].\n[subroutine] <trace>Traque 3</trace> Si la traque est réussi, donnez 1 tag au Runner.",
+    "text": "L'Ombre peut être avancée et a +1 en force pour chaqun de ses pions d'Avancement.\n[subroutine] La Corpo gagne 2[credit].\n[subroutine] <trace>Traque 3</trace>. Si la traque est réussi, donnez 1 tag au Runner.",
     "title": "Ombre"
   },
   {
@@ -710,7 +710,7 @@
     "code": "01112",
     "flavor": ".//piratage/chasseur-tr/retour=vrai client/secIPv7->confirmer? /o 3926:0HB7:1001:2NB1:1601:7784:ERREUR",
     "keywords": "Sentinelle - Traqueur",
-    "text": "[subroutine] <trace>Traque 3</trace> Si la traque est réussi, donnez 1 tag au Runner.",
+    "text": "[subroutine] <trace>Traque 3</trace>. Si la traque est réussi, donnez 1 tag au Runner.",
     "title": "Chasseur"
   },
   {

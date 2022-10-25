@@ -67,7 +67,7 @@
   {
     "code": "04031",
     "keywords": "Illégale",
-    "text": "Jouable uniquement si le Runner a installé une ressource lors de son dernier tour.\n<trace>Traque 2</trace> Si la traque est réussie, mettez 1 ressource installée au sommet de la pile du Runner. Si la traque est ratée, prenez 1 pion Mauvaise Presse.",
+    "text": "Jouable uniquement si le Runner a installé une ressource lors de son dernier tour.\n<trace>Traque 2</trace>. Si la traque est réussie, mettez 1 ressource installée au sommet de la pile du Runner. Si la traque est ratée, prenez 1 pion Mauvaise Presse.",
     "title": "Test Hellion Alpha"
   },
   {
@@ -94,7 +94,7 @@
   {
     "code": "04035",
     "keywords": "Sentinelle - Traqueur - Illicite",
-    "text": "Lorsque vous activez le Fouineur, prenez 1 pion Mauvaise Presse.\n[subroutine] <trace>Traque 1</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] <trace>Traque 2</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] <trace>Traque 3</trace> Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] Arrêtez le piratage si le Runner est tagué.",
+    "text": "Lorsque vous activez le Fouineur, prenez 1 pion Mauvaise Presse.\n[subroutine] <trace>Traque 1</trace>. Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] <trace>Traque 2</trace>. Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] <trace>Traque 3</trace>. Si la traque est réussie, donnez 1 Tag au Runner.\n[subroutine] Arrêtez le piratage si le Runner est tagué.",
     "title": "Fouineur"
   },
   {

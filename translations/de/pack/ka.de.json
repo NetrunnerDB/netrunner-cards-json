@@ -57,7 +57,7 @@
   {
     "code": "21110",
     "flavor": "\"Meiner Meinung nach bringe ich ihnen etwas über die Bedeutung grundlegender Sicherheitsmaßnahmen bei.\" - Sunny Lebeau",
-    "text": "Zwinge den Kon zu \"<trace>Aufspüren 4</trace> Bei Misserfolg greift der Runner bis zum Ende dieses Zuges, immer wenn er auf Karten vom HQ oder F&E zugreift, auf 2 zusätzliche Karten zu.\"",
+    "text": "Zwinge den Kon zu \"<trace>Aufspüren 4</trace>. Bei Misserfolg greift der Runner bis zum Ende dieses Zuges, immer wenn er auf Karten vom HQ oder F&E zugreift, auf 2 zusätzliche Karten zu.\"",
     "title": "Black-Hat-Angriff"
   },
   {
@@ -109,7 +109,7 @@
     "code": "21118",
     "flavor": "EINDRINGLING ENTDECKT!\nEINDRINGLING ENTDECKT!\nEINDRINGLING NEUTRALISIERT!",
     "keywords": "Wächter - Spürhund",
-    "text": "X ist die doppelte Anzahl an Ice, die dieses System schützen.\n[subroutine]<trace>Aufspüren X</trace> Bei Erfolg verpasse dem Runner 2 Markierungen.\n[subroutine]<trace>Aufspüren X</trace> Bei Erfolg beende den Run.",
+    "text": "X ist die doppelte Anzahl an Ice, die dieses System schützen.\n[subroutine]<trace>Aufspüren X</trace>. Bei Erfolg verpasse dem Runner 2 Markierungen.\n[subroutine]<trace>Aufspüren X</trace>. Bei Erfolg beende den Run.",
     "title": "Inspektor"
   },
   {

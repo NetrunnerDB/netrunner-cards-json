@@ -135,7 +135,7 @@
     "illustrator": "Donald Crank",
     "position": 12,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner cannot use programs for the remainder of this run.\n[subroutine] Trace[4]. If successful, do 1 brain damage.\n[subroutine] Trace[4]. If successful, do 1 brain damage.",
+    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner cannot use programs for the remainder of this run.\n[subroutine] <trace>4</trace>. If successful, do 1 brain damage.\n[subroutine] <trace>4</trace>. If successful, do 1 brain damage.",
     "quantity": 3,
     "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Runner cannot use programs for the remainder of this run. Subroutine Trace[4]. If successful, do 1 brain damage. Subroutine Trace[4]. If successful, do 1 brain damage."
   },

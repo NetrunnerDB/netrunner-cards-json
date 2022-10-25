@@ -403,7 +403,7 @@
     "code": "01062",
     "flavor": "Mein Ruf würde mir vorauseilen, wenn es jemanden gäbe, der noch darüber sprechen könnte.",
     "keywords": "Wächter - Bioroid - Spürhund - Zerstörer",
-    "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Ichi 1.0 auszuschalten.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] <trace>Aufspüren 1</trace> Bei Erfolg verpasse dem Runner 1 Markierung und 1 Hirnschaden.",
+    "text": "Der Runner kann [click] ausgeben, um eine beliebige Subroutine auf Ichi 1.0 auszuschalten.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] Zerstöre 1 Programm.\n[subroutine] <trace>Aufspüren 1</trace>. Bei Erfolg verpasse dem Runner 1 Markierung und 1 Hirnschaden.",
     "title": "Ichi 1.0"
   },
   {
@@ -557,7 +557,7 @@
   {
     "code": "01086",
     "flavor": "\"SEA hat uns nen Tipp zu verdächtigen Datenspitzen oben im Castle gegeben.\" - Jerome Lock, diensthabender Techniker.",
-    "text": "Kann nur gespielt werden, wenn der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\n<trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+    "text": "Kann nur gespielt werden, wenn der Runner in seinem letzten Zug einen erfolgreichen Run durchgeführt hat.\n<trace>Aufspüren 3</trace>. Bei Erfolg verpasse dem Runner 1 Markierung.",
     "title": "SEA-Informant"
   },
   {
@@ -569,14 +569,14 @@
   {
     "code": "01088",
     "keywords": "Wächter - Spürhund - Beobachter",
-    "text": "Wenn der Runner auf Datenrabe trifft, muss er den Run beenden oder er bekommt eine Markierung verpasst.\n<strong>Gehosteter Wirkungszähler</strong> Verpasse dem Runner 1 Markierung.\n[subroutine] <trace>Aufspüren 3</trace> Wenn du erfolgreich bist, lege 1 Wirkungszähler auf Datenrabe.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
+    "text": "Wenn der Runner auf Datenrabe trifft, muss er den Run beenden oder er bekommt eine Markierung verpasst.\n<strong>Gehosteter Wirkungszähler</strong> Verpasse dem Runner 1 Markierung.\n[subroutine] <trace>Aufspüren 3</trace>. Wenn du erfolgreich bist, lege 1 Wirkungszähler auf Datenrabe.\n<errata>Diese Karte wurde erratiert (Text)</errata>",
     "title": "Datenrabe"
   },
   {
     "code": "01089",
     "flavor": "Analysieren war schon großartig. Anweisungen zu deligieren stellte sich sogar als noch besser heraus.",
     "keywords": "Wächter - Spürhund - Beobachter",
-    "text": "Wenn der Runner auf Matrixanalyse trifft, kannst du 1[credit] bezahlen, um 1 Entwicklungsmarker auf eine Karte zu legen, die entwickelt werden kann.\n[subroutine] <trace>Aufspüren 2</trace> Wenn du Erfolg hast, verpasse dem Runner 1 Markierung.",
+    "text": "Wenn der Runner auf Matrixanalyse trifft, kannst du 1[credit] bezahlen, um 1 Entwicklungsmarker auf eine Karte zu legen, die entwickelt werden kann.\n[subroutine] <trace>Aufspüren 2</trace>. Wenn du Erfolg hast, verpasse dem Runner 1 Markierung.",
     "title": "Matrixanalyse"
   },
   {
@@ -677,7 +677,7 @@
     "code": "01104",
     "flavor": "Wer weiß schon, was Böses in den Gedächtnisdiamanten der Menschen lauert? Weyland weiß es.\n-anonymes Cybergraffiti",
     "keywords": "Wächter - Spürhund",
-    "text": "Schatten kann entwickelt werden und hat + 1 Stärke für jeden Entwicklungsmarker auf der Karte.\n[subroutine] Der Kon erhält 2[credit].\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+    "text": "Schatten kann entwickelt werden und hat + 1 Stärke für jeden Entwicklungsmarker auf der Karte.\n[subroutine] Der Kon erhält 2[credit].\n[subroutine] <trace>Aufspüren 3</trace>. Bei Erfolg verpasse dem Runner 1 Markierung.",
     "title": "Schatten"
   },
   {
@@ -732,7 +732,7 @@
     "code": "01112",
     "flavor": ".//run/hunter-tr/return=true\nclient/sec256IPv7->confirm? /y\n3926:0HB7:1001:2NB1:1601:7784:ERROR",
     "keywords": "Wächter - Spürhund - Beobachter",
-    "text": "[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.",
+    "text": "[subroutine] <trace>Aufspüren 3</trace>. Bei Erfolg verpasse dem Runner 1 Markierung.",
     "title": "Jäger"
   },
   {

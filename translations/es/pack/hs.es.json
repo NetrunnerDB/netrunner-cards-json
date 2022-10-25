@@ -99,21 +99,21 @@
     "code": "02096",
     "flavor": "Sniff.",
     "keywords": "Centinela - Rastreador - Observador",
-    "text": "[subroutine] <trace>Rastreo 2</trace> Si tiene éxito, mira una cantidad de cartas de la parte superior del Montón del Runner igual a la cantidad en la que tu fuerza de rastreo superaba su fuerza de enlace. Destruye 1 de esas cartas y coloca el resto en cualquier orden. ",
+    "text": "[subroutine] <trace>Rastreo 2</trace>. Si tiene éxito, mira una cantidad de cartas de la parte superior del Montón del Runner igual a la cantidad en la que tu fuerza de rastreo superaba su fuerza de enlace. Destruye 1 de esas cartas y coloca el resto en cualquier orden. ",
     "title": "Sabueso De Datos"
   },
   {
     "code": "02097",
     "flavor": "Siguiéndole el rastro al mundo, pantalla a pantalla.",
     "keywords": "Sysop",
-    "text": "Siempre que haya una incursión con éxito contra este servidor, <trace>Rastreo 5</trace> si tiene éxito, dale 1 marca al Runner. Si no tien éxito, destruye a Bernice Mai.",
+    "text": "Siempre que haya una incursión con éxito contra este servidor, <trace>Rastreo 5</trace>. Si tiene éxito, dale 1 marca al Runner. Si no tien éxito, destruye a Bernice Mai.",
     "title": "Bernice Mai"
   },
   {
     "code": "02098",
     "flavor": "Ya no estás en Kansas.",
     "keywords": "Puerta De Código - Rastreador",
-    "text": "Chatarra puede ser avanzada sólo mientras y esté ejecutada y gana: \"[subroutine] <trace>Rastreo 2</trace> Si tiene éxito, dale 1 marca al Runner.\" por cada ficha de Avance que tenga.",
+    "text": "Chatarra puede ser avanzada sólo mientras y esté ejecutada y gana: \"[subroutine] <trace>Rastreo 2</trace>. Si tiene éxito, dale 1 marca al Runner.\" por cada ficha de Avance que tenga.",
     "title": "Chatarra"
   },
   {
@@ -126,7 +126,7 @@
   {
     "code": "02100",
     "flavor": "\"Es como un anagrama.\" - diseñador Fénix",
-    "text": "<trace>Rastreo 7</trace> Si tiene éxito, destruye 1 recurso <strong>virtual</strong> o 1 <strong>enlace</strong>.",
+    "text": "<trace>Rastreo 7</trace>. Si tiene éxito, destruye 1 recurso <strong>virtual</strong> o 1 <strong>enlace</strong>.",
     "title": "Bioluminiscencia"
   }
 ]

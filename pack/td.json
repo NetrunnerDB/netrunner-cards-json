@@ -700,7 +700,7 @@
     "strength": 1,
     "stripped_text": "Subroutine Trace[4]. If successful, do 1 brain damage.",
     "stripped_title": "Executive Functioning",
-    "text": "[subroutine] Trace[4]. If successful, do 1 brain damage.",
+    "text": "[subroutine] <trace>4</trace>. If successful, do 1 brain damage.",
     "title": "Executive Functioning",
     "type_code": "ice",
     "uniqueness": false
@@ -720,7 +720,7 @@
     "strength": 5,
     "stripped_text": "Subroutine Trace[4]. If successful, the Runner cannot access cards or breach the attacked server for the remainder of this run. Subroutine Trash 1 installed icebreaker.",
     "stripped_title": "Holmegaard",
-    "text": "[subroutine] Trace[4]. If successful, the Runner cannot access cards or breach the attacked server for the remainder of this run.\n[subroutine] Trash 1 installed <strong>icebreaker</strong>.",
+    "text": "[subroutine] <trace>4</trace>. If successful, the Runner cannot access cards or breach the attacked server for the remainder of this run.\n[subroutine] Trash 1 installed <strong>icebreaker</strong>.",
     "title": "Holmegaard",
     "type_code": "ice",
     "uniqueness": false
@@ -1060,7 +1060,7 @@
     "side_code": "corp",
     "stripped_text": "When you score Paper Trail, trace 6 If successful, trash all connection and job resources.",
     "stripped_title": "Paper Trail",
-    "text": "When you score Paper Trail, <trace>trace 6</trace> If successful, trash all <strong>connection</strong> and <strong>job</strong> resources.",
+    "text": "When you score Paper Trail, <trace>6</trace>. If successful, trash all <strong>connection</strong> and <strong>job</strong> resources.",
     "title": "Paper Trail",
     "type_code": "agenda",
     "uniqueness": false

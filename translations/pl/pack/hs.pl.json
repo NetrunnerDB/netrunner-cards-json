@@ -99,21 +99,21 @@
     "code": "02096",
     "flavor": "Niuch.",
     "keywords": "Strażnik - Tropiciel - Obserwator",
-    "text": "[subroutine] <trace>Trace 2</trace> Jeśli udane, obejrzyj karty z wierzchu stosu runnera w liczbie równej różnicy siły namierzania i siły połączenia. Skasuj 1 z tych kart, a resztę uporządkuj dowolnie.",
+    "text": "[subroutine] <trace>2</trace>. Jeśli udane, obejrzyj karty z wierzchu stosu runnera w liczbie równej różnicy siły namierzania i siły połączenia. Skasuj 1 z tych kart, a resztę uporządkuj dowolnie.",
     "title": "Ogar danych"
   },
   {
     "code": "02097",
     "flavor": "Mam świat na oku, ekran za ekranem.",
     "keywords": "Sysop",
-    "text": "Zawsze gdy skok na ten serwer jest udany, <trace>Trace 5</trace> jeśli udane, daj runnerowi 1 tag. Jeśli nieudane, skasuj Bernice Mai.",
+    "text": "Zawsze gdy skok na ten serwer jest udany, <trace>5</trace>. Jeśli udane, daj runnerowi 1 tag. Jeśli nieudane, skasuj Bernice Mai.",
     "title": "Bernice Mai"
   },
   {
     "code": "02098",
     "flavor": "Nie jesteś już w Kansas.",
     "keywords": "Brama kodowa - Tropiciel",
-    "text": "Zrezowana Akcja ratunkowa może być awansowana i zyskuje \"[subroutine] <trace>Trace 2</trace> Jeśli udane, daj runnerowi 1 tag.\" za każdy leżący na nim żeton zaawansowania.",
+    "text": "Zrezowana Akcja ratunkowa może być awansowana i zyskuje \"[subroutine] <trace>2</trace>. Jeśli udane, daj runnerowi 1 tag.\" za każdy leżący na nim żeton zaawansowania.",
     "title": "Akcja ratunkowa"
   },
   {
@@ -126,7 +126,7 @@
   {
     "code": "02100",
     "flavor": "\"To coś jakby anagram.\" - projektant Phoenix",
-    "text": "<trace>Trace 7</trace> Jeśli udane, skasuj 1 zasoby <strong>wirtualne</strong> lub 1 <strong>połączenie</strong>.",
+    "text": "<trace>7</trace>. Jeśli udane, skasuj 1 zasoby <strong>wirtualne</strong> lub 1 <strong>połączenie</strong>.",
     "title": "Lisi ogień"
   }
 ]

@@ -50,12 +50,12 @@ Required properties are in **bold**.
 * advancement_cost - number of advancement tokens required to score the card. Relevant for agendas. Examples: `5` for Priority Requisition, `3` for AstroScript Pilot Program, `2` for Domestic Sleepers.
 * agenda_points - number of agenda points the card gives after scoring. Relevant for agendas. Examples: `3` for Priority Requisition, `2` for AstroScript Pilot Program, `0` for Domestic Sleepers.
 * base_link - base link strength number of the card. Relevant for Runner identities. Examples: `0` for Noise, `2` for Sunny Lebeau.
-* **code** - 5 digit unique card identifier. When assigning a code for a new card, build it from two zero-padded numbers: first two digits are the cycle position, last three are position of the card within the cycle (printed on the card). Once a code has been assigned, it cannot be changed, and some codes (notably from the Revised Core Set) do not adhere to this scheme. Therefore, you should always treat this as an opaque identifier.  
+* **code** - 5 digit unique card identifier. When assigning a code for a new card, build it from two zero-padded numbers: first two digits are the cycle position, last three are position of the card within the cycle (printed on the card). Once a code has been assigned, it cannot be changed, and some codes (notably from the Revised Core Set) do not adhere to this scheme. Therefore, you should always treat this as an opaque identifier.
 Examples: `"01048"` for Sacrificial Construct (48th card in cycle) from Core Set (1st cycle), `"10100"` for The Price of Freedom (100th card in cycle) from Mumbad (10th cycle).
 * cost - Play/rez cost of the card. Relevant for all cards except identities and agendas. May be `null` - this value is used when the card has a special, possibly variable, cost. Examples: `5` for Hedge Fund, `3` for Desperado, `null` for Psychographics.
 * **faction_code** - Faction this cards belongs to. Possible values: `"adam"`, `"anarch"`,
-`"apex"`, `"criminal"`, `"shaper"`, `"sunny-lebeau"`, `"neutral-runner"`, `"haas-bioroid"`, `"jinteki"`, `"nbn"`, `"weyland-consortium"`, `"neutral-corp"` 
-* faction_cost - Influence cost of this card. Relevant for all cards except identities. Examples: `0` for Sure Gamble, `5` for Escher. 
+`"apex"`, `"criminal"`, `"shaper"`, `"sunny-lebeau"`, `"neutral-runner"`, `"haas-bioroid"`, `"jinteki"`, `"nbn"`, `"weyland-consortium"`, `"neutral-corp"`
+* faction_cost - Influence cost of this card. Relevant for all cards except identities. Examples: `0` for Sure Gamble, `5` for Escher.
 * flavor - Flavor text of the card. May be empty.
 * illustrator - Illustrator's name.
 * influence_limit - Maximum number of influence points. Relevant for identities.
@@ -96,7 +96,7 @@ To get the 4-letter hexcode of a UTF-8 symbol (or look up what a particular hexc
 
 To have text spanning multiple lines, use `\n` to separate them. To have quotes as part of the text, use `\"`.  For example, `"flavor": "\"I'm overpowered.\"\n-Whizzard"` results in the following flavor text:
 
-> *"I'm overpowered."*  
+> *"I'm overpowered."*
 > *-Whizzard*
 
 #### Netrunner symbols
@@ -124,7 +124,7 @@ These can be used in a card's `text` section.
 The `text` and `flavor` properties of a card may use custom tags. These are:
 
 * Card with errata use the `<errata>` tag, e.g. `<errata>Errata from FAQ 3.0.1</errata>` for Wireless Net Pavillion.
-* Traces use the `<trace>` tag. For example, `<trace>Trace 2</trace> Do 1 net damage.` results in the following:
- 
-  > **Trace \[2\]**– Do 1 net damage. 
+* Traces use the `<trace>` tag. For example, `<trace>2</trace>. Do 1 net damage.` results in the following:
+
+  > Trace \[2\]. Do 1 net damage.
 

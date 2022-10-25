@@ -87,14 +87,14 @@
     "code": "11094",
     "flavor": "//Verbindung abgebrochen",
     "keywords": "Barriere - Spürhund",
-    "text": "Wenn der Runner auf IP-Block trifft, verpasse ihm 1 Markierung, falls eine <strong>KI</strong> installiert ist.\n[subroutine] <trace>Aufspüren 3</trace> Bei Erfolg verpasse dem Runner 1 Markierung.\n[subroutine] Beende den Run, falls der Runner markiert ist.",
+    "text": "Wenn der Runner auf IP-Block trifft, verpasse ihm 1 Markierung, falls eine <strong>KI</strong> installiert ist.\n[subroutine] <trace>Aufspüren 3</trace>. Bei Erfolg verpasse dem Runner 1 Markierung.\n[subroutine] Beende den Run, falls der Runner markiert ist.",
     "title": ""
   },
   {
     "code": "11095",
     "flavor": "Wie die Sonne scheint die Wahrheit auf alles.",
     "keywords": "Wächter - Spürhund",
-    "text": "Wenn der Runner auf Thot trifft, verpasse ihm 1 Markierung.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verursache 1 Netz-Schaden für jede Markierung, die der Runner hat.\n[subroutine] <trace>Aufspüren 4</trace> Bei Erfolg verliert der Runner 1[credit] für jede Markierung, die er hat.",
+    "text": "Wenn der Runner auf Thot trifft, verpasse ihm 1 Markierung.\n[subroutine] <trace>Aufspüren 4</trace>. Bei Erfolg verursache 1 Netz-Schaden für jede Markierung, die der Runner hat.\n[subroutine] <trace>Aufspüren 4</trace>. Bei Erfolg verliert der Runner 1[credit] für jede Markierung, die er hat.",
     "title": "Thot"
   },
   {

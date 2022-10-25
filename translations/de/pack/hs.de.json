@@ -99,21 +99,21 @@
     "code": "02096",
     "flavor": "Schnüffel",
     "keywords": "Wächter - Spürhund - Beobachter",
-    "text": "[subroutine] <trace>Aufspüren 2</trace> Bei Erfolg sieh dir eine Anzahl Karten oben vom Stapel des Runners an, die der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entspricht. Zerstöre 1 dieser Karten und lege den Rest in beliebniger Reihenfolge zurück.",
+    "text": "[subroutine] <trace>Aufspüren 2</trace>. Bei Erfolg sieh dir eine Anzahl Karten oben vom Stapel des Runners an, die der Differenz zwischen deiner Aufspürstärke und der Verbindungsstärke des Runners entspricht. Zerstöre 1 dieser Karten und lege den Rest in beliebniger Reihenfolge zurück.",
     "title": "Datenspürhund"
   },
   {
     "code": "02097",
     "flavor": "Die Welt kontrollieren, einen Bildschirm nach dem anderen.",
     "keywords": "Sysop",
-    "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird,<trace>Aufspüren 5</trace> Bei Erfolg verpasse dem Runner 1 Markierung. Bei Misserfolg, zerstöre Bernice Mai.",
+    "text": "Immer, wenn ein erfolgreicher Run auf dieses System durchgeführt wird,<trace>Aufspüren 5</trace>. Bei Erfolg verpasse dem Runner 1 Markierung. Bei Misserfolg, zerstöre Bernice Mai.",
     "title": "Bernice Mai"
   },
   {
     "code": "02098",
     "flavor": "Du bist hier nicht mehr in Kansas.",
     "keywords": "Code-Zugang - Spürhund",
-    "text": "Bergung kann nur entwickelt werden, solange es geladen ist, und erhält “[subroutine] <trace>Trace 2</trace> Bei Erfolg verpasse dem Runner 1 Markierung“ für jeden Entwicklungszähler auf ihm.",
+    "text": "Bergung kann nur entwickelt werden, solange es geladen ist, und erhält “[subroutine] <trace>2</trace>. Bei Erfolg verpasse dem Runner 1 Markierung“ für jeden Entwicklungszähler auf ihm.",
     "title": "Bergung"
   },
   {
@@ -126,7 +126,7 @@
   {
     "code": "02100",
     "flavor": "\"Das ist so was ähnliches wie ein Anagramm.\"\n  -Entwickler Phoenix",
-    "text": "<trace>Aufspüren 7</trace> Bei Erfolg zerstöre 1 <strong>virtuelle</strong> Ressource oder 1 <strong>Verbindung</strong>.",
+    "text": "<trace>Aufspüren 7</trace>. Bei Erfolg zerstöre 1 <strong>virtuelle</strong> Ressource oder 1 <strong>Verbindung</strong>.",
     "title": "Foxfire"
   }
 ]

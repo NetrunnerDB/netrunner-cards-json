@@ -11,6 +11,6 @@
   "stripped_text": "Subroutine Trace[4]. If successful, give the Runner 1 tag. Subroutine Trace[2]. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card.",
   "stripped_title": "SYNC BRE",
   "subtypes": ["sentry", "tracer"],
-  "text": "[subroutine] Trace[4]. If successful, give the Runner 1 tag.\n[subroutine] Trace[2]. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card.",
+  "text": "[subroutine] <trace>4</trace>. If successful, give the Runner 1 tag.\n[subroutine] <trace>2</trace>. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card.",
   "title": "SYNC BRE"
 }

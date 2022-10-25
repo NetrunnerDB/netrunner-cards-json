@@ -219,7 +219,7 @@
     "side_code": "corp",
     "stripped_text": "Play only if the Runner trashed a card while accessing it during their last turn. Trace 2. If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
     "stripped_title": "Hellion Beta Test",
-    "text": "Play only if the Runner trashed a card while accessing it during their last turn.\n<trace>Trace 2</trace>. If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
+    "text": "Play only if the Runner trashed a card while accessing it during their last turn.\n<trace>2</trace>. If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
     "title": "Hellion Beta Test",
     "type_code": "operation",
     "uniqueness": false
@@ -378,7 +378,7 @@
     "side_code": "corp",
     "stripped_text": "This card is not trashed until another current is played or an agenda is stolen. When the Runner's turn begins, trace 1 If successful, do 1 meat damage if the Runner is tagged; otherwise, give the Runner 1 tag.",
     "stripped_title": "Door to Door",
-    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhen the Runner's turn begins, <trace>trace 1</trace> If successful, do 1 meat damage if the Runner is tagged; otherwise, give the Runner 1 tag.",
+    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhen the Runner's turn begins, <trace>1</trace>. If successful, do 1 meat damage if the Runner is tagged; otherwise, give the Runner 1 tag.",
     "title": "Door to Door",
     "type_code": "operation",
     "uniqueness": false

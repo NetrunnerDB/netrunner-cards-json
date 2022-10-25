@@ -191,7 +191,7 @@
     "side_code": "runner",
     "stripped_text": "The Corp must trace[4]. If unsuccessful, for the remainder of the turn, access 2 additional cards whenever you breach HQ or R&D.",
     "stripped_title": "Black Hat",
-    "text": "The Corp must trace[4]. If unsuccessful, for the remainder of the turn, access 2 additional cards whenever you breach HQ or R&D.",
+    "text": "The Corp must <trace>4</trace>. If unsuccessful, for the remainder of the turn, access 2 additional cards whenever you breach HQ or R&D.",
     "title": "Black Hat",
     "type_code": "event",
     "uniqueness": false
@@ -350,7 +350,7 @@
     "strength": null,
     "stripped_text": "X is twice the number of ice protecting this server. Subroutine Trace X If successful, give the Runner 2 tags. Subroutine Trace X If successful, end the run.",
     "stripped_title": "Surveyor",
-    "text": "X is twice the number of ice protecting this server.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 2 tags.\n[subroutine]<trace>Trace X</trace> If successful, end the run.",
+    "text": "X is twice the number of ice protecting this server.\n[subroutine]<trace>X</trace>. If successful, give the Runner 2 tags.\n[subroutine]<trace>X</trace>. If successful, end the run.",
     "title": "Surveyor",
     "type_code": "ice",
     "uniqueness": false
