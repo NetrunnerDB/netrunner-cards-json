@@ -1,0 +1,16 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "haas_bioroid",
+  "id": "mr_hendrik",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When the Runner accesses this upgrade while it is installed, you may pay 2 credits to do 1 core damage. If the Runner has any click remaining, they may lose all their click to prevent this damage.",
+  "stripped_title": "Mr. Hendrik",
+  "subtypes": ["ambush", "sysop"],
+  "text": "When the Runner accesses this upgrade while it is installed, you may pay 2[credit] to do 1 core damage. If the Runner has any [click] remaining, they may lose all their [click] to prevent this damage.",
+  "title": "Mr. Hendrik",
+  "trash_cost": 2
+}

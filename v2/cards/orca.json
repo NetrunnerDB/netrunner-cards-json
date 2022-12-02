@@ -1,0 +1,17 @@
+{
+  "card_type_id": "program",
+  "cost": 10,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "orca",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 2,
+  "side_id": "runner",
+  "strength": 3,
+  "stripped_text": "The first time each turn this program fully breaks a piece of ice, you may charge 1 of your installed cards. (Add 1 power counter to a card that already has one.) Interface -> 2 credits: Break any number of sentry subroutines. 2 credits: +3 strength.",
+  "stripped_title": "Orca",
+  "subtypes": ["icebreaker", "killer"],
+  "text": "The first time each turn this program fully breaks a piece of ice, you may charge 1 of your installed cards. <em>(Add 1 power counter to a card that already has one.)</em>\nInterface → <strong>2[credit]:</strong> Break any number of <strong>sentry</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.",
+  "title": "Orca"
+}
