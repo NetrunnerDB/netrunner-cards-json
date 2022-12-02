@@ -289,7 +289,7 @@ describe('MWLs v1/v2', () => {
     printingsByCardId.set(c.id, []);
   });
   printings.forEach(p => {
-    printingsByCardId.get(p.card_id).push(p);
+    printingsByCardId.get(p.card_id)?.push(p);
   });
 
   // Turns a v1 mwl json entry into an array of printing codes of its banned cards

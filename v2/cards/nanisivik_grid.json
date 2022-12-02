@@ -1,0 +1,16 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "id": "nanisivik_grid",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Whenever the Runner approaches this server, you may turn 1 facedown piece of ice in Archives faceup. If you do, resolve 1 subroutine on that ice. Limit 1 region per server.",
+  "stripped_title": "Nanisivik Grid",
+  "subtypes": ["region"],
+  "text": "Whenever the Runner approaches this server, you may turn 1 facedown piece of ice in Archives faceup. If you do, resolve 1 subroutine on that ice.\nLimit 1 <strong>region</strong> per server.",
+  "title": "Nanisivik Grid",
+  "trash_cost": 3
+}
