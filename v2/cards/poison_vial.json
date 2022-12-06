@@ -1,0 +1,15 @@
+{
+  "card_type_id": "hardware",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "poison_vial",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "When you install this hardware, load 3 power counters onto it. When it is empty, trash it. Hosted power counter: Break up to 2 subroutines. Use this ability only if you have already broken a subroutine during this encounter.",
+  "stripped_title": "Poison Vial",
+  "subtypes": ["weapon"],
+  "text": "When you install this hardware, load 3 power counters onto it. When it is empty, trash it.\n<strong>Hosted power counter:</strong> Break up to 2 subroutines. Use this ability only if you have already broken a subroutine during this encounter.",
+  "title": "Poison Vial"
+}
