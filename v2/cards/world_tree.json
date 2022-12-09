@@ -1,0 +1,16 @@
+{
+  "card_type_id": "program",
+  "cost": 6,
+  "deck_limit": 3,
+  "faction_id": "shaper",
+  "id": "world_tree",
+  "influence_cost": 4,
+  "is_unique": false,
+  "memory_cost": 2,
+  "side_id": "runner",
+  "stripped_text": "The first time each turn you make a successful run, you may trash 1 of your other installed cards to search your stack for 1 card of the same type. (Shuffle your stack after searching it.) Install the card you found, paying 3 credits less.",
+  "stripped_title": "World Tree",
+  "subtypes": ["deep_net"],
+  "text": "The first time each turn you make a successful run, you may trash 1 of your other installed cards to search your stack for 1 card of the same type. <em>(Shuffle your stack after searching it.)</em> Install the card you found, paying 3[credit] less.",
+  "title": "World Tree"
+}

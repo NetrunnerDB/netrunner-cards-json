@@ -36,6 +36,17 @@
     "stripped_printed_text": "Run any server. Whenever a subroutine resolves during that run (including a subroutine that ends the run), place 1 power counter on this event. When that run ends, draw 1 card for each hosted power counter and gain 3 credits."
   },
   {
+    "card_id": "time_bomb",
+    "card_set_id": "parhelion",
+    "id": "33069",
+    "illustrator": "Anna Butova",
+    "position": 69,
+    "printed_is_unique": true,
+    "printed_text": "Install only if you made a successful run on a central server this turn. When you install this hardware, place 1 power counter on it.\nWhen your turn begins, if there are 3 or more hosted power counters, trash this hardware and sabotage 3. <em>(The Corp trashes 3 cards of their choice from HQ and/or the top of R&D.)</em> Otherwise, place 1 power counter on this hardware.",
+    "quantity": 3,
+    "stripped_printed_text": "Install only if you made a successful run on a central server this turn. When you install this hardware, place 1 power counter on it. When your turn begins, if there are 3 or more hosted power counters, trash this hardware and sabotage 3. (The Corp trashes 3 cards of their choice from HQ and/or the top of R&D.) Otherwise, place 1 power counter on this hardware."
+  },
+  {
     "card_id": "abaasy",
     "card_set_id": "parhelion",
     "flavor": "Every piece of ice I see, I see Abaasy.",
@@ -58,6 +69,30 @@
     "printed_text": "Install only on a piece of ice.\nHost ice cannot gain abilities and loses all abilities except its printed subroutines.\n<strong>[click]:</strong> Host this program on another installed piece of ice.",
     "quantity": 3,
     "stripped_printed_text": "Install only on a piece of ice. Host ice cannot gain abilities and loses all abilities except its printed subroutines. click: Host this program on another installed piece of ice."
+  },
+  {
+    "card_id": "nga",
+    "card_set_id": "parhelion",
+    "flavor": "Relinquish your foolish notions of control.",
+    "id": "33072",
+    "illustrator": "Bruno Balixa",
+    "position": 72,
+    "printed_is_unique": true,
+    "printed_text": "When you install this program, load 3 power counters onto it. When it is empty, trash it.\nThe first time each turn you make a successful run, you may remove 1 hosted power counter to sabotage 1. <em>(The Corp trashes 1 card of their choice from HQ or the top of R&D.)</em>",
+    "quantity": 3,
+    "stripped_printed_text": "When you install this program, load 3 power counters onto it. When it is empty, trash it. The first time each turn you make a successful run, you may remove 1 hosted power counter to sabotage 1. (The Corp trashes 1 card of their choice from HQ or the top of R&D.)"
+  },
+  {
+    "card_id": "num",
+    "card_set_id": "parhelion",
+    "flavor": "I give you understanding, that you might control that which would threaten you.",
+    "id": "33073",
+    "illustrator": "Bruno Balixa",
+    "position": 73,
+    "printed_is_unique": false,
+    "printed_text": "Interface → <strong>2[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.",
+    "quantity": 3,
+    "stripped_printed_text": "Interface -> 2 credits: Break 1 sentry subroutine."
   },
   {
     "card_id": "tsakhia_bankhar_gantulga",
@@ -131,6 +166,18 @@
     "stripped_printed_text": "When you install this hardware, suffer 1 core damage. The first time each turn you make a successful run on a central server, draw 1 card."
   },
   {
+    "card_id": "tremolo",
+    "card_set_id": "parhelion",
+    "flavor": "A repeated note, the alternation of fingers, the rhythm of stitches... the resulting intensity is always the same.",
+    "id": "33080",
+    "illustrator": "Bruno Balixa",
+    "position": 80,
+    "printed_is_unique": false,
+    "printed_text": "Interface → <strong>3[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines. This ability costs 1[credit] less to use for each installed piece of <strong>cybernetic</strong> hardware.\n<strong>2[credit]:</strong> +2 strength.",
+    "quantity": 3,
+    "stripped_printed_text": "Interface -> 3 credits: Break up to 2 barrier subroutines. This ability costs 1 credit less to use for each installed piece of cybernetic hardware. 2 credits: +2 strength."
+  },
+  {
     "card_id": "tunnel_vision",
     "card_set_id": "parhelion",
     "flavor": "ˮHow could I pick a favorite? Theyʼre all good dogs.ˮ\n—Nyusha ˮSableˮ Sintashta",
@@ -143,6 +190,29 @@
     "stripped_printed_text": "When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) Interface -> 2 credits: Break up to 2 subroutines on a piece of ice protecting your mark. 2 credits: +2 strength."
   },
   {
+    "card_id": "asmund_pudlat",
+    "card_set_id": "parhelion",
+    "id": "33082",
+    "illustrator": "Marlon Ruiz",
+    "position": 82,
+    "printed_is_unique": true,
+    "printed_text": "When you install this resource, search your stack for up to 2 <strong>virus</strong> or <strong>weapon</strong> cards with different names. Host those cards faceup on this resource. <em>(They are not installed.)</em>\nWhen your turn begins, you may add 1 hosted card to your grip. If there are no more hosted cards, trash this resource.",
+    "quantity": 3,
+    "stripped_printed_text": "When you install this resource, search your stack for up to 2 virus or weapon cards with different names. Host those cards faceup on this resource. (They are not installed.) When your turn begins, you may add 1 hosted card to your grip. If there are no more hosted cards, trash this resource."
+  },
+  {
+    "card_id": "info_bounty",
+    "card_set_id": "parhelion",
+    "flavor": "It was a relief, really, deciding on that one place in the world to definitely never visit again.",
+    "id": "33083",
+    "illustrator": "Elliot Birt",
+    "position": 83,
+    "printed_is_unique": true,
+    "printed_text": "When your turn begins, identify your mark. <em>(If you donʼt have a mark, a random central server becomes your mark for this turn.)</em>\nThe first time each turn a run on your mark ends, gain 2[credit] if you breached that server during that run.",
+    "quantity": 3,
+    "stripped_printed_text": "When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) The first time each turn a run on your mark ends, gain 2 credits if you breached that server during that run."
+  },
+  {
     "card_id": "spark_of_inspiration",
     "card_set_id": "parhelion",
     "flavor": "ˮThe best ideas float to the top, if you give them time.ˮ\n—Ar<h1m3d3s  JAR",
@@ -153,6 +223,18 @@
     "printed_text": "Set aside cards from the top of your stack faceup until you set aside a program. You may install that program, paying 10[credit] less. Shuffle the set-aside cards into your stack.",
     "quantity": 3,
     "stripped_printed_text": "Set aside cards from the top of your stack faceup until you set aside a program. You may install that program, paying 10 credits less. Shuffle the set-aside cards into your stack."
+  },
+  {
+    "card_id": "hippocampic_mechanocytes",
+    "card_set_id": "parhelion",
+    "flavor": "To outsiders, it is ironic that no one in Ampère can remember who invented these little fellows. Within the company, this is considered normal.",
+    "id": "33085",
+    "illustrator": "Ed Mattinian",
+    "position": 85,
+    "printed_is_unique": true,
+    "printed_text": "When you install this hardware, place 2 power counters on it and suffer 1 meat damage.\nYou get +1 maximum hand size for each hosted power counter.",
+    "quantity": 3,
+    "stripped_printed_text": "When you install this hardware, place 2 power counters on it and suffer 1 meat damage. You get +1 maximum hand size for each hosted power counter."
   },
   {
     "card_id": "basilar_synthgland_2kvj",
@@ -214,6 +296,18 @@
     "stripped_printed_text": "Each installed non-AI icebreaker gets +2 strength."
   },
   {
+    "card_id": "world_tree",
+    "card_set_id": "parhelion",
+    "flavor": "Few constructs reach the Deep Net, but these old trees have stretched their roots further than once thought possible.",
+    "id": "33091",
+    "illustrator": "Liiga Smilshkalne",
+    "position": 91,
+    "printed_is_unique": false,
+    "printed_text": "The first time each turn you make a successful run, you may trash 1 of your other installed cards to search your stack for 1 card of the same type. <em>(Shuffle your stack after searching it.)</em> Install the card you found, paying 3[credit] less.",
+    "quantity": 3,
+    "stripped_printed_text": "The first time each turn you make a successful run, you may trash 1 of your other installed cards to search your stack for 1 card of the same type. (Shuffle your stack after searching it.) Install the card you found, paying 3 credits less."
+  },
+  {
     "card_id": "dr_nuka_vrolyck",
     "card_set_id": "parhelion",
     "flavor": "ˮThere is another world under the waves, vanishing as we speak. I want to map it before itʼs gone.ˮ",
@@ -224,6 +318,18 @@
     "printed_text": "When you install this resource, load 2 power counters onto it. When it is empty, trash it.\n[click], <strong>hosted power counter:</strong> Draw 3 cards.",
     "quantity": 3,
     "stripped_printed_text": "When you install this resource, load 2 power counters onto it. When it is empty, trash it. click, hosted power counter: Draw 3 cards."
+  },
+  {
+    "card_id": "nova_initiumia_catalyst_impetus",
+    "card_set_id": "parhelion",
+    "flavor": "I found my twin hidden away on Luna. Now we will never be apart.",
+    "id": "33093",
+    "illustrator": "Ferenc Patkós",
+    "position": 93,
+    "printed_is_unique": false,
+    "printed_text": "Your deck cannot include more than 1 copy of any card.",
+    "quantity": 1,
+    "stripped_printed_text": "Your deck cannot include more than 1 copy of any card."
   },
   {
     "card_id": "matryoshka",
@@ -272,6 +378,30 @@
     "printed_text": "While the Runner is accessing this asset in R&D, they must reveal it.\nWhen the Runner accesses this asset, they may add it to their score area as an agenda worth -1 agenda point. If they do not, do 1 core damage and remove this asset from the game.",
     "quantity": 3,
     "stripped_printed_text": "While the Runner is accessing this asset in R&D, they must reveal it. When the Runner accesses this asset, they may add it to their score area as an agenda worth -1 agenda point. If they do not, do 1 core damage and remove this asset from the game."
+  },
+  {
+    "card_id": "bloop",
+    "card_set_id": "parhelion",
+    "flavor": "As one, every monitoring device on the ship reverberated, emitting a noise so primordial, so titanic, it shook Padma to her core.\nDaeg hissed.",
+    "id": "33098",
+    "illustrator": "Jakuza",
+    "position": 98,
+    "printed_is_unique": false,
+    "printed_text": "As an additional cost to rez this ice, derez another piece of <strong>harmonic</strong> ice.\n[subroutine] Do 1 core damage.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.",
+    "quantity": 3,
+    "stripped_printed_text": "As an additional cost to rez this ice, derez another piece of harmonic ice. Subroutine Do 1 core damage. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program."
+  },
+  {
+    "card_id": "pulse",
+    "card_set_id": "parhelion",
+    "flavor": "The sound welled up from the deep: throbbing, thumping, growing with every passing beat of their hearts.",
+    "id": "33099",
+    "illustrator": "Jakuza",
+    "position": 99,
+    "printed_is_unique": false,
+    "printed_text": "When you rez this ice during a run against this server, the Runner loses [click].\n[subroutine] The Runner loses 1[credit] for each rezzed piece of <strong>harmonic</strong> ice.\n[subroutine] End the run unless the Runner spends [click].",
+    "quantity": 3,
+    "stripped_printed_text": "When you rez this ice during a run against this server, the Runner loses click. Subroutine The Runner loses 1 credit for each rezzed piece of harmonic ice. Subroutine End the run unless the Runner spends click."
   },
   {
     "card_id": "distributed_tracing",
@@ -334,6 +464,42 @@
     "stripped_printed_text": "Whenever you score an agenda that you did not install or advance this turn, place 1 power counter on this identity. For each hosted power counter, you need 1 less agenda point to win the game."
   },
   {
+    "card_id": "hybrid_release",
+    "card_set_id": "parhelion",
+    "flavor": "ˮBy disabling their bodiesʼ ability to create a variety of necessary enzymes, weʼve ensured their loyalty to us. If they donʼt return for supplements every month, they die; simple as that.ˮ\n—Dr. Vientiane Keeling",
+    "id": "33105",
+    "illustrator": "Marlon Ruiz",
+    "position": 105,
+    "printed_is_unique": false,
+    "printed_text": "When you score this agenda, you may install 1 facedown card from Archives.",
+    "quantity": 3,
+    "stripped_printed_text": "When you score this agenda, you may install 1 facedown card from Archives."
+  },
+  {
+    "card_id": "dr_vientiane_keeling",
+    "card_set_id": "parhelion",
+    "flavor": "Her numbers never lie, but she doesnʼt write the words that accompany them.",
+    "id": "33106",
+    "illustrator": "Dimik",
+    "position": 106,
+    "printed_is_unique": true,
+    "printed_text": "When you rez this asset and when your turn begins, place 1 power counter on this asset.\nThe Runner gets -1 maximum hand size for each hosted power counter.",
+    "quantity": 3,
+    "stripped_printed_text": "When you rez this asset and when your turn begins, place 1 power counter on this asset. The Runner gets -1 maximum hand size for each hosted power counter."
+  },
+  {
+    "card_id": "reaper_function",
+    "card_set_id": "parhelion",
+    "flavor": "There is an elegance to its blade and stride, but with it comes a screaming whirlwind.",
+    "id": "33107",
+    "illustrator": "Adam S. Doyle",
+    "position": 107,
+    "printed_is_unique": false,
+    "printed_text": "When your turn begins, you may trash this asset to do 2 net damage.",
+    "quantity": 3,
+    "stripped_printed_text": "When your turn begins, you may trash this asset to do 2 net damage."
+  },
+  {
     "card_id": "hafrun",
     "card_set_id": "parhelion",
     "flavor": "Hafrún has seen generations of the Net. Now there are whispers that something from the deep is disquieting it.",
@@ -344,6 +510,18 @@
     "printed_text": "When you rez this ice during a run against this server, you may trash 1 card from HQ. If you do, choose 1 installed Runner card. That cardʼs abilities cannot break subroutines for the remainder of that run.\n[subroutine] End the run.",
     "quantity": 3,
     "stripped_printed_text": "When you rez this ice during a run against this server, you may trash 1 card from HQ. If you do, choose 1 installed Runner card. That cards abilities cannot break subroutines for the remainder of that run. Subroutine End the run."
+  },
+  {
+    "card_id": "vampyronassa",
+    "card_set_id": "parhelion",
+    "flavor": "ˮMatt, thereʼs something big heading your way. Matt, are you hearing me? Matt? Oh no.ˮ\n—Moth",
+    "id": "33109",
+    "illustrator": "Ed Mattinian",
+    "position": 109,
+    "printed_is_unique": false,
+    "printed_text": "[subroutine] The Runner loses 2[credit].\n[subroutine] Gain 2[credit].\n[subroutine] Do 2 net damage.\n[subroutine] You may draw 1 or 2 cards.",
+    "quantity": 3,
+    "stripped_printed_text": "Subroutine The Runner loses 2 credits. Subroutine Gain 2 credits. Subroutine Do 2 net damage. Subroutine You may draw 1 or 2 cards."
   },
   {
     "card_id": "simulation_reset",
@@ -406,6 +584,18 @@
     "stripped_printed_text": "When your turn begins, you may trash this asset. If you do, search R&D for an operation and reveal it. (Shuffle R&D after searching it.) Add that operation to HQ."
   },
   {
+    "card_id": "vera_ivanovna_shuyskaya",
+    "card_set_id": "parhelion",
+    "flavor": "ˮPeople donʼt think in facts, they think in stories. We just tidy up that information to hasten the process.ˮ",
+    "id": "33115",
+    "illustrator": "Mauricio Herrera",
+    "position": 115,
+    "printed_is_unique": true,
+    "printed_text": "Whenever an agenda is scored or stolen, you may reveal the grip. Trash 1 card revealed this way.",
+    "quantity": 3,
+    "stripped_printed_text": "Whenever an agenda is scored or stolen, you may reveal the grip. Trash 1 card revealed this way."
+  },
+  {
     "card_id": "klevetnik",
     "card_set_id": "parhelion",
     "flavor": "SCANNING... ASSEMBLING INSULT!",
@@ -416,6 +606,29 @@
     "printed_text": "When you rez this ice during a run against this server, you may have the Runner gain 2[credit]. If you do, choose 1 installed resource. That resource loses all abilities until your next turn ends.\n[subroutine] End the run.",
     "quantity": 3,
     "stripped_printed_text": "When you rez this ice during a run against this server, you may have the Runner gain 2 credits. If you do, choose 1 installed resource. That resource loses all abilities until your next turn ends. Subroutine End the run."
+  },
+  {
+    "card_id": "unsmiling_tsarevna",
+    "card_set_id": "parhelion",
+    "id": "33117",
+    "illustrator": "BalanceSheet",
+    "position": 117,
+    "printed_is_unique": false,
+    "printed_text": "When you rez this ice during a run against this server, you may have the Runner gain 2[credit]. If you do, during each encounter with this ice for the remainder of that run, the Runner cannot break more than 1 of its printed subroutines.\n[subroutine] Give the Runner 1 tag.\n[subroutine] Do 2 net damage.\n[subroutine] You may draw 2 cards.",
+    "quantity": 3,
+    "stripped_printed_text": "When you rez this ice during a run against this server, you may have the Runner gain 2 credits. If you do, during each encounter with this ice for the remainder of that run, the Runner cannot break more than 1 of its printed subroutines. Subroutine Give the Runner 1 tag. Subroutine Do 2 net damage. Subroutine You may draw 2 cards."
+  },
+  {
+    "card_id": "nonequivalent_exchange",
+    "card_set_id": "parhelion",
+    "flavor": "ˮOh, the text on these is endless. Just tap accept and you can read it later if you want.ˮ",
+    "id": "33118",
+    "illustrator": "Dimik",
+    "position": 118,
+    "printed_is_unique": false,
+    "printed_text": "Gain 5[credit]. You may have each player gain 2[credit].",
+    "quantity": 3,
+    "stripped_printed_text": "Gain 5 credits. You may have each player gain 2 credits."
   },
   {
     "card_id": "shipment_from_vladisibirsk",
@@ -478,6 +691,18 @@
     "stripped_printed_text": "When you rez this asset, load 6 bad publicity counters onto it. When it is empty, you win the game. When your turn begins, take 1 bad publicity from this asset."
   },
   {
+    "card_id": "anvil",
+    "card_set_id": "parhelion",
+    "flavor": "Waiting for the next blow to land.",
+    "id": "33124",
+    "illustrator": "Scott Uminga",
+    "position": 124,
+    "printed_is_unique": false,
+    "printed_text": "When the Runner encounters this ice, you may trash 1 of your other installed cards. If you do, the Runner cannot break this iceʼs printed subroutines for the remainder of this encounter.\n[subroutine] Gain 1[credit]. The Runner loses 1[credit].\n[subroutine] The Runner trashes 1 of their installed cards.",
+    "quantity": 3,
+    "stripped_printed_text": "When the Runner encounters this ice, you may trash 1 of your other installed cards. If you do, the Runner cannot break this ices printed subroutines for the remainder of this encounter. Subroutine Gain 1 credit. The Runner loses 1 credit. Subroutine The Runner trashes 1 of their installed cards."
+  },
+  {
     "card_id": "end_of_the_line",
     "card_set_id": "parhelion",
     "flavor": "Under northern skies Sundog had lived all his life, and under them he would die.",
@@ -512,5 +737,17 @@
     "printed_text": "Remote server only.\nEach piece of ice protecting this server gains ˮWhen the Runner encounters this ice, choose 1 subroutine on it. You may trash this ice to resolve that subroutine.ˮ.\nLimit 1 <strong>region</strong> per server.",
     "quantity": 3,
     "stripped_printed_text": "Remote server only. Each piece of ice protecting this server gains When the Runner encounters this ice, choose 1 subroutine on it. You may trash this ice to resolve that subroutine.. Limit 1 region per server."
+  },
+  {
+    "card_id": "ampere_cybernetics_for_anyone",
+    "card_set_id": "parhelion",
+    "flavor": "Affordable, Effective, and Uncompromising.",
+    "id": "33128",
+    "illustrator": "Emilio Rodriguez",
+    "position": 128,
+    "printed_is_unique": false,
+    "printed_text": "Your deck cannot include more than 1 copy of any card.\nYour deck may include up to 2 different agenda cards from each Corp faction.",
+    "quantity": 1,
+    "stripped_printed_text": "Your deck cannot include more than 1 copy of any card. Your deck may include up to 2 different agenda cards from each Corp faction."
   }
 ]

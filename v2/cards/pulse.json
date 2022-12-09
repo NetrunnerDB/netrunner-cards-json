@@ -1,0 +1,16 @@
+{
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "haas_bioroid",
+  "id": "pulse",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 1,
+  "stripped_text": "When you rez this ice during a run against this server, the Runner loses click. Subroutine The Runner loses 1 credit for each rezzed piece of harmonic ice. Subroutine End the run unless the Runner spends click.",
+  "stripped_title": "Pulse",
+  "subtypes": ["code_gate", "harmonic"],
+  "text": "When you rez this ice during a run against this server, the Runner loses [click].\n[subroutine] The Runner loses 1[credit] for each rezzed piece of <strong>harmonic</strong> ice.\n[subroutine] End the run unless the Runner spends [click].",
+  "title": "Pulse"
+}

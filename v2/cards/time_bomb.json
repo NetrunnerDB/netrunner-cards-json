@@ -1,0 +1,15 @@
+{
+  "card_type_id": "hardware",
+  "cost": 1,
+  "deck_limit": 3,
+  "faction_id": "anarch",
+  "id": "time_bomb",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "Install only if you made a successful run on a central server this turn. When you install this hardware, place 1 power counter on it. When your turn begins, if there are 3 or more hosted power counters, trash this hardware and sabotage 3. (The Corp trashes 3 cards of their choice from HQ and/or the top of R&D.) Otherwise, place 1 power counter on this hardware.",
+  "stripped_title": "Time Bomb",
+  "subtypes": ["weapon"],
+  "text": "Install only if you made a successful run on a central server this turn. When you install this hardware, place 1 power counter on it.\nWhen your turn begins, if there are 3 or more hosted power counters, trash this hardware and sabotage 3. <em>(The Corp trashes 3 cards of their choice from HQ and/or the top of R&D.)</em> Otherwise, place 1 power counter on this hardware.",
+  "title": "Time Bomb"
+}
