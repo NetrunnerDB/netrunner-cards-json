@@ -1,0 +1,16 @@
+{
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "faction_id": "haas_bioroid",
+  "id": "bloop",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "As an additional cost to rez this ice, derez another piece of harmonic ice. Subroutine Do 1 core damage. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program.",
+  "stripped_title": "Bloop",
+  "subtypes": ["sentry", "ap", "destroyer", "harmonic"],
+  "text": "As an additional cost to rez this ice, derez another piece of <strong>harmonic</strong> ice.\n[subroutine] Do 1 core damage.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.",
+  "title": "Bloop"
+}

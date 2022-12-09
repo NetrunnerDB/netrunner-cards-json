@@ -1,0 +1,15 @@
+{
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "info_bounty",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "runner",
+  "stripped_text": "When your turn begins, identify your mark. (If you don't have a mark, a random central server becomes your mark for this turn.) The first time each turn a run on your mark ends, gain 2 credits if you breached that server during that run.",
+  "stripped_title": "Info Bounty",
+  "subtypes": ["job"],
+  "text": "When your turn begins, identify your mark. <em>(If you donʼt have a mark, a random central server becomes your mark for this turn.)</em>\nThe first time each turn a run on your mark ends, gain 2[credit] if you breached that server during that run.",
+  "title": "Info Bounty"
+}
