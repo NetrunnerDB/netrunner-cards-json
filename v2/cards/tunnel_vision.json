@@ -1,0 +1,17 @@
+{
+  "card_type_id": "program",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "id": "tunnel_vision",
+  "influence_cost": 3,
+  "is_unique": false,
+  "memory_cost": 2,
+  "side_id": "runner",
+  "strength": 2,
+  "stripped_text": "When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) Interface -> 2 credits: Break up to 2 subroutines on a piece of ice protecting your mark. 2 credits: +2 strength.",
+  "stripped_title": "Tunnel Vision",
+  "subtypes": ["icebreaker", "ai"],
+  "text": "When your turn begins, identify your mark. <em>(If you donʼt have a mark, a random central server becomes your mark for this turn.)</em>\nInterface → <strong>2[credit]:</strong> Break up to 2 subroutines on a piece of ice protecting your mark.\n<strong>2[credit]:</strong> +2 strength.",
+  "title": "Tunnel Vision"
+}
