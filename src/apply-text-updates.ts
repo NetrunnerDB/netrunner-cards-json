@@ -2,13 +2,17 @@
 // {
 //   "name": "Museum of History",
 //   "stripped_text": "This asset costs 0 influence if you have 50 or more cards in your deck. When your turn begins, you may shuffle 1 card from Archives into R&D.",
-//   "text": "This asset costs 0 influence if you have 50 or more cards in your deck.\nWhen your turn begins, you may shuffle 1 card from Archives into R&D."
+//   "text": "This asset costs 0 influence if you have 50 or more cards in your deck.\nWhen your turn begins, you may shuffle 1 card from Archives into R&D.",
+//   "subtypes": "New - Sub - Type",
+//   "last_change_label": "CTU12.2022"
 // }
+// subtypes is an optional value and last_change_label is purely for debugging.
 // Run npm run format after this script to ensure the files are properly formatted and the diffs are minimal.
 
 import fs from "fs";
 import { resolve } from "path";
 import commandLineArgs = require('command-line-args');
+import { textToId } from "./index";
 
 const optionDefinitions = [
   { name: 'updates_file', description: 'Input file containing the text updates to apply.', alias: 'u', type: String }
@@ -34,11 +38,18 @@ fs.readdirSync(packDir).forEach(file => {
     const path = resolve(packDir, file);
     const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
     json.forEach(c => {
-      if (uppies.has(c.title) && ((c.text != uppies.get(c.title).text) || (c.stripped_text != uppies.get(c.title).stripped_text)) ) {
-        needsUpdates = true;
-        console.log(`V1 Pack: Need to update ${c.title} in ${file}`);
-        c.text = uppies.get(c.title).text;
-        c.stripped_text = uppies.get(c.title).stripped_text;
+      if (uppies.has(c.title)) {
+        const u = uppies.get(c.title); 
+        if (((c.text != u.text) || (c.stripped_text != u.stripped_text) || (u.subtypes && (c.keywords != u.subtypes))) ) {
+          needsUpdates = true;
+          console.log(`V1 Pack: Need to update ${c.title} in ${file}`);
+          c.text = u.text;
+          c.stripped_text = u.stripped_text;
+          if (u.subtypes && (c.keywords != u.subtypes)) {
+            console.log(`  updating subtypes for "${c.title}" to "${u.subtypes}"`)
+            c.keywords = u.subtypes;
+          }
+        }
       }
     });
     if (needsUpdates) {
@@ -60,11 +71,16 @@ fs.readdirSync(cardsDir).forEach(file => {
     const path = resolve(cardsDir, file);
     const card = JSON.parse(fs.readFileSync(path, 'utf-8'));
     cardIdToName.set(card.id, card.title);
-    if (uppies.has(card.title) && ((card.text != uppies.get(card.title).text) || (card.stripped_text != uppies.get(card.title).stripped_text)) ) {
+    const u = uppies.get(card.title);
+    if (uppies.has(card.title) && ((card.text != u.text) || (card.stripped_text != u.stripped_text) || u.subtypes)) {
         needsUpdates = true;
         console.log(`V2 Card: Need to update ${card.title} in ${file}`);
-        card.text = uppies.get(card.title).text;
-        card.stripped_text = uppies.get(card.title).stripped_text;
+        card.text = u.text;
+        card.stripped_text = u.stripped_text;
+        if (u.subtypes) {
+          console.log(`  updating subtypes for "${card.title}" to "${u.subtypes}"`)
+          card.subtypes = u.subtypes.split(' - ').map((s: string) => textToId(s));
+        }
     }
     if (needsUpdates) {
       fs.writeFile(resolve(cardsDir, file), JSON.stringify(card), err => {
