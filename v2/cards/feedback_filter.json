@@ -7,9 +7,9 @@
   "influence_cost": 1,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "3 credits: Prevent 1 net damage. trash: Prevent up to 2 brain damage.",
+  "stripped_text": "Interrupt -> 3 credits: Prevent 1 net damage. Interrupt -> trash: Prevent up to 2 core damage.",
   "stripped_title": "Feedback Filter",
   "subtypes": ["gear"],
-  "text": "3[credit]: Prevent 1 net damage.\n[trash]: Prevent up to 2 brain damage.",
+  "text": "[interrupt] → <strong>3[credit]:</strong> Prevent 1 net damage.\n[interrupt] → <strong>[trash]:</strong> Prevent up to 2 core damage.",
   "title": "Feedback Filter"
 }

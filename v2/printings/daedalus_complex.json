@@ -101,9 +101,9 @@
     "illustrator": "Shawn Ye Zhongyi",
     "position": 9,
     "printed_is_unique": false,
-    "printed_text": "If there is a rezzed piece of <strong>NEXT</strong> ice when you score NEXT Wave 2, you may do 1 brain damage.",
+    "printed_text": "When you score this agenda, if there is a rezzed piece of <strong>NEXT</strong> ice, you may do 1 core damage.",
     "quantity": 3,
-    "stripped_printed_text": "If there is a rezzed piece of NEXT ice when you score NEXT Wave 2, you may do 1 brain damage."
+    "stripped_printed_text": "When you score this agenda, if there is a rezzed piece of NEXT ice, you may do 1 core damage."
   },
   {
     "card_id": "zed_2_0",
@@ -113,9 +113,9 @@
     "illustrator": "Adam S. Doyle",
     "position": 10,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed piece of hardware.\n[subroutine] Trash 1 installed piece of hardware.\n[subroutine] If the Runner has lost a [click] to break a subroutine during this run, do 2 brain damage.",
+    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed piece of hardware.\n[subroutine] Trash 1 installed piece of hardware.\n[subroutine] If the Runner has lost [click] to break a subroutine during this run, do 2 core damage.",
     "quantity": 3,
-    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed piece of hardware. Subroutine Trash 1 installed piece of hardware. Subroutine If the Runner has lost a click to break a subroutine during this run, do 2 brain damage."
+    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed piece of hardware. Subroutine Trash 1 installed piece of hardware. Subroutine If the Runner has lost click to break a subroutine during this run, do 2 core damage."
   },
   {
     "card_id": "defense_construct",
@@ -181,9 +181,9 @@
     "illustrator": "Emilio Rodriguez",
     "position": 16,
     "printed_is_unique": false,
-    "printed_text": "Whenever you forfeit an agenda, place 1 advancement token on a card and 1 additional token for each agenda point the agenda was worth.",
+    "printed_text": "Whenever you forfeit an agenda, place X advancement counters on 1 installed card. X is equal to the agenda point value of the forfeited agenda plus 1.",
     "quantity": 3,
-    "stripped_printed_text": "Whenever you forfeit an agenda, place 1 advancement token on a card and 1 additional token for each agenda point the agenda was worth."
+    "stripped_printed_text": "Whenever you forfeit an agenda, place X advancement counters on 1 installed card. X is equal to the agenda point value of the forfeited agenda plus 1."
   },
   {
     "card_id": "quarantine_system",

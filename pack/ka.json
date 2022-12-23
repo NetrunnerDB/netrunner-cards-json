@@ -229,9 +229,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 6,
-    "stripped_text": "The rez cost of NEXT Diamond is lowered by 1 for each other rezzed piece of NEXT ice. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage. Subroutine Trash 1 installed Runner card.",
+    "stripped_text": "This rez cost of this ice is lowered by 1 credit for each other rezzed piece of NEXT ice. Subroutine Do 1 core damage. Subroutine Do 1 core damage. Subroutine Trash 1 installed Runner card.",
     "stripped_title": "NEXT Diamond",
-    "text": "The rez cost of NEXT Diamond is lowered by 1 for each other rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Trash 1 installed Runner card.",
+    "text": "This rez cost of this ice is lowered by 1[credit] for each other rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] Do 1 core damage.\n[subroutine] Do 1 core damage.\n[subroutine] Trash 1 installed Runner card.",
     "title": "NEXT Diamond",
     "type_code": "ice",
     "uniqueness": false
@@ -248,9 +248,9 @@
     "position": 113,
     "quantity": 3,
     "side_code": "corp",
-    "stripped_text": "Play only if the Runner trashed a Corp card during their last turn. The Runner may suffer 1 brain damage. If they do not, they get -3 allotted click for their next turn. Remove this operation from the game.",
+    "stripped_text": "Play only if the Runner trashed a Corp card during their last turn. The Runner may suffer 1 core damage. If they do not, they get -3 allotted click for their next turn. Remove this operation from the game.",
     "stripped_title": "Riot Suppression",
-    "text": "Play only if the Runner trashed a Corp card during their last turn.\nThe Runner may suffer 1 brain damage. If they do not, they get -3 allotted [click] for their next turn.\nRemove this operation from the game.",
+    "text": "Play only if the Runner trashed a Corp card during their last turn.\nThe Runner may suffer 1 core damage. If they do not, they get -3 allotted [click] for their next turn.\nRemove this operation from the game.",
     "title": "Riot Suppression",
     "type_code": "operation",
     "uniqueness": false

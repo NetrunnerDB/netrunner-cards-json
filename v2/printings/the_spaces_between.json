@@ -53,9 +53,9 @@
     "illustrator": "Lili Ibrahim",
     "position": 25,
     "printed_is_unique": false,
-    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe Runner's identity text box is blank.",
+    "printed_text": "This operation is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe Runner's identity loses its printed abilities.",
     "quantity": 3,
-    "stripped_printed_text": "This card is not trashed until another current is played or an agenda is stolen. The Runner's identity text box is blank."
+    "stripped_printed_text": "This operation is not trashed until another current is played or an agenda is stolen. The Runner's identity loses its printed abilities."
   },
   {
     "card_id": "targeted_marketing",
@@ -133,9 +133,9 @@
     "illustrator": "Adam S. Doyle",
     "position": 32,
     "printed_is_unique": false,
-    "printed_text": "Whenever there is a successful run on this server, you may trash this upgrade. If you do, choose 1 installed <strong>icebreaker</strong> that was used to break at least 1 subroutine during this run. The Runner adds that <strong>icebreaker</strong> to the bottom of the stack.",
+    "printed_text": "Whenever the Runner makes a successful run on this server, you may trash this upgrade. If you do, choose 1 installed <strong>icebreaker</strong> that was used to break at least 1 subroutine during this run. The Runner adds that <strong>icebreaker</strong> to the bottom of the stack.",
     "quantity": 3,
-    "stripped_printed_text": "Whenever there is a successful run on this server, you may trash this upgrade. If you do, choose 1 installed icebreaker that was used to break at least 1 subroutine during this run. The Runner adds that icebreaker to the bottom of the stack."
+    "stripped_printed_text": "Whenever the Runner makes a successful run on this server, you may trash this upgrade. If you do, choose 1 installed icebreaker that was used to break at least 1 subroutine during this run. The Runner adds that icebreaker to the bottom of the stack."
   },
   {
     "card_id": "d4v1d",

@@ -100,9 +100,9 @@
     "illustrator": "Josh Corpuz",
     "position": 49,
     "printed_is_unique": true,
-    "printed_text": "When your turn begins, you may <trace>trace X</trace> If successful, do 1 brain damage and trash Kuwinda K4H1U3. If unsuccessful, place 1 power counter on Kuwinda K4H1U3.\nX is the number of power counters on Kuwinda K4H1U3.",
+    "printed_text": "When your turn begins, you may trace[X], where X is equal to the number of hosted power counters. If successful, do 1 core damage and trash this asset. If unsuccessful, place 1 power counter on this asset.",
     "quantity": 3,
-    "stripped_printed_text": "When your turn begins, you may trace X If successful, do 1 brain damage and trash Kuwinda K4H1U3. If unsuccessful, place 1 power counter on Kuwinda K4H1U3. X is the number of power counters on Kuwinda K4H1U3."
+    "stripped_printed_text": "When your turn begins, you may trace[X], where X is equal to the number of hosted power counters. If successful, do 1 core damage and trash this asset. If unsuccessful, place 1 power counter on this asset."
   },
   {
     "card_id": "next_sapphire",

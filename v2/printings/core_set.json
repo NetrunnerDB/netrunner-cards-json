@@ -42,9 +42,9 @@
     "illustrator": "Rachel Borovic",
     "position": 4,
     "printed_is_unique": false,
-    "printed_text": "Place 9[credit] on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When the run ends, suffer 1 brain damage, which cannot be prevented.",
+    "printed_text": "Place 9[credit] on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When that run ends, suffer 1 core damage. This damage cannot be prevented.",
     "quantity": 3,
-    "stripped_printed_text": "Place 9 credits on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When the run ends, suffer 1 brain damage, which cannot be prevented."
+    "stripped_printed_text": "Place 9 credits on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When that run ends, suffer 1 core damage. This damage cannot be prevented."
   },
   {
     "card_id": "cyberfeeder",
@@ -135,9 +135,9 @@
     "illustrator": "Bruno Balixa",
     "position": 12,
     "printed_is_unique": false,
-    "printed_text": "Install Parasite only on a rezzed piece of ice.\nHost ice has -1 strength for each virus counter on Parasite and is trashed if its strength is 0 or less.\nWhen your turn begins, place 1 virus counter on Parasite.",
+    "printed_text": "Install only on a rezzed piece of ice.\nWhen your turn begins, place 1 virus counter on this program.\nHost ice gets -1 strength for each hosted virus counter.\nWhen the strength of host ice is 0 or less, trash it.",
     "quantity": 3,
-    "stripped_printed_text": "Install Parasite only on a rezzed piece of ice. Host ice has -1 strength for each virus counter on Parasite and is trashed if its strength is 0 or less. When your turn begins, place 1 virus counter on Parasite."
+    "stripped_printed_text": "Install only on a rezzed piece of ice. When your turn begins, place 1 virus counter on this program. Host ice gets -1 strength for each hosted virus counter. When the strength of host ice is 0 or less, trash it."
   },
   {
     "card_id": "wyrm",
@@ -525,9 +525,9 @@
     "illustrator": "Andrew Mar",
     "position": 45,
     "printed_is_unique": false,
-    "printed_text": "[interrupt] → The first time each turn you would take net damage, you may pay 1[credit] to prevent 1 net damage.",
+    "printed_text": "[interrupt] → The first time each turn you would suffer net damage, you may pay 1[credit] to prevent 1 net damage.",
     "quantity": 2,
-    "stripped_printed_text": "Interrupt -> The first time each turn you would take net damage, you may pay 1 credit to prevent 1 net damage."
+    "stripped_printed_text": "Interrupt -> The first time each turn you would suffer net damage, you may pay 1 credit to prevent 1 net damage."
   },
   {
     "card_id": "pipeline",
@@ -711,9 +711,9 @@
     "illustrator": "Gong Studios",
     "position": 61,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.\n[subroutine] End the run.",
+    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] End the run.\n[subroutine] End the run.",
     "quantity": 2,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine End the run. Subroutine End the run."
+    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. Subroutine End the run. Subroutine End the run."
   },
   {
     "card_id": "ichi_1_0",
@@ -723,9 +723,9 @@
     "illustrator": "Gong Studios",
     "position": 62,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] Trace[1]. If successful, give the Runner 1 tag and do 1 brain damage.",
+    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] <trace>Trace 1</trace>. If successful, do 1 core damage and give the Runner 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace[1]. If successful, give the Runner 1 tag and do 1 brain damage."
+    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace 1. If successful, do 1 core damage and give the Runner 1 tag."
   },
   {
     "card_id": "viktor_1_0",
@@ -735,9 +735,9 @@
     "illustrator": "Anna Ignatieva",
     "position": 63,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.",
+    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] End the run.",
     "quantity": 2,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine End the run."
+    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. Subroutine End the run."
   },
   {
     "card_id": "rototurret",
@@ -1059,9 +1059,9 @@
     "illustrator": "Mike Nesbitt",
     "position": 91,
     "printed_is_unique": false,
-    "printed_text": "Persistent → As an additional cost to steal an agenda from this server, the Runner must pay 5[credit]. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
+    "printed_text": "Persistent → As an additional cost to steal an agenda from this server or its root, the Runner must pay 5[credit]. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
     "quantity": 2,
-    "stripped_printed_text": "Persistent -> As an additional cost to steal an agenda from this server, the Runner must pay 5 credits. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
+    "stripped_printed_text": "Persistent -> As an additional cost to steal an agenda from this server or its root, the Runner must pay 5 credits. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
   },
   {
     "card_id": "sansan_city_grid",

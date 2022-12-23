@@ -7,9 +7,9 @@
   "influence_cost": 4,
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "Persistent -> Whenever the Runner trashes a card from this server, you may pay 1 credit to give the Runner 1 tag. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)",
+  "stripped_text": "Persistent -> Whenever the Runner trashes a card from this server or its root, you may pay 1 credit to give the Runner 1 tag. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)",
   "stripped_title": "Overseer Matrix",
-  "text": "Persistent → Whenever the Runner trashes a card from this server, you may pay 1[credit] to give the Runner 1 tag. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
+  "text": "Persistent → Whenever the Runner trashes a card from this server or its root, you may pay 1[credit] to give the Runner 1 tag. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
   "title": "Overseer Matrix",
   "trash_cost": 2
 }

@@ -31,9 +31,9 @@
     "illustrator": "Hannah Christenson",
     "position": 83,
     "printed_is_unique": false,
-    "printed_text": "Place 4[credit] on this event, then run any server. You can spend hosted credits during that run. When that run ends, trash 1 program you used during that run. Trashing a program this way cannot be prevented.",
+    "printed_text": "Place 4[credit] on this event, then run any server. You can spend hosted credits during that run. When that run ends, trash 1 installed program you used during that run. Trashing a program this way cannot be prevented.",
     "quantity": 3,
-    "stripped_printed_text": "Place 4 credits on this event, then run any server. You can spend hosted credits during that run. When that run ends, trash 1 program you used during that run. Trashing a program this way cannot be prevented."
+    "stripped_printed_text": "Place 4 credits on this event, then run any server. You can spend hosted credits during that run. When that run ends, trash 1 installed program you used during that run. Trashing a program this way cannot be prevented."
   },
   {
     "card_id": "equivocation",
@@ -102,9 +102,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 89,
     "printed_is_unique": true,
-    "printed_text": "[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner trashes 1 of their installed cards.\n[subroutine] End the run unless the Runner suffers 1 brain damage.",
+    "printed_text": "[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner pays 4[credit].\n[subroutine] End the run unless the Runner trashes 1 of their installed cards.\n[subroutine] End the run unless the Runner suffers 1 core damage.",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine End the run unless the Runner pays 4 credits. Subroutine End the run unless the Runner pays 4 credits. Subroutine End the run unless the Runner trashes 1 of their installed cards. Subroutine End the run unless the Runner suffers 1 brain damage."
+    "stripped_printed_text": "Subroutine End the run unless the Runner pays 4 credits. Subroutine End the run unless the Runner pays 4 credits. Subroutine End the run unless the Runner trashes 1 of their installed cards. Subroutine End the run unless the Runner suffers 1 core damage."
   },
   {
     "card_id": "friends_in_high_places",
@@ -147,9 +147,9 @@
     "illustrator": "VIKO",
     "position": 93,
     "printed_is_unique": true,
-    "printed_text": "Whenever there is a successful run on this server, if the Runner does not have at least 2 cards in the grip and 6[credit], you may look at the top 5 cards of R&D and swap 1 of those cards with 1 card in HQ.\nLimit 1 <strong>region</strong> per server.",
+    "printed_text": "Whenever the Runner makes a successful run on this server, if they do not have at least 2 cards in the grip and 6[credit], you may look at the top 5 cards of R&D and swap 1 of those cards with 1 card in HQ.\nLimit 1 <strong>region</strong> per server.",
     "quantity": 3,
-    "stripped_printed_text": "Whenever there is a successful run on this server, if the Runner does not have at least 2 cards in the grip and 6 credits, you may look at the top 5 cards of R&D and swap 1 of those cards with 1 card in HQ. Limit 1 region per server."
+    "stripped_printed_text": "Whenever the Runner makes a successful run on this server, if they do not have at least 2 cards in the grip and 6 credits, you may look at the top 5 cards of R&D and swap 1 of those cards with 1 card in HQ. Limit 1 region per server."
   },
   {
     "card_id": "ip_block",
@@ -194,9 +194,9 @@
     "illustrator": "Yog Joshi",
     "position": 97,
     "printed_is_unique": false,
-    "printed_text": "Mausolus can be advanced.\nIf Mausolus has 3 or more advancement tokens on it, do the parenthetical text instead (otherwise, do not resolve it).\n[subroutine] The Corp gains 1[credit]. (The Corp gains 3[credit].)\n[subroutine] Do 1 net damage. (Do 3 net damage.)\n[subroutine] Give the Runner 1 tag. (Give the Runner 1 tag and end the run.)",
+    "printed_text": "You can advance this ice.\n[subroutine] Gain 1[credit]. If there are 3 or more hosted advancement counters, instead gain 3[credit].\n[subroutine] Do 1 net damage. If there are 3 or more hosted advancement counters, instead do 3 net damage.\n[subroutine] Give the Runner 1 tag. If there are 3 or more hosted advancement counters, instead give the Runner 1 tag and end the run.",
     "quantity": 3,
-    "stripped_printed_text": "Mausolus can be advanced. If Mausolus has 3 or more advancement tokens on it, do the parenthetical text instead (otherwise, do not resolve it). Subroutine The Corp gains 1 credit. (The Corp gains 3 credits.) Subroutine Do 1 net damage. (Do 3 net damage.) Subroutine Give the Runner 1 tag. (Give the Runner 1 tag and end the run.)"
+    "stripped_printed_text": "You can advance this ice. Subroutine Gain 1 credit. If there are 3 or more hosted advancement counters, instead gain 3 credits. Subroutine Do 1 net damage. If there are 3 or more hosted advancement counters, instead do 3 net damage. Subroutine Give the Runner 1 tag. If there are 3 or more hosted advancement counters, instead give the Runner 1 tag and end the run."
   },
   {
     "card_id": "sapper",

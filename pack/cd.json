@@ -90,9 +90,9 @@
     "position": 105,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "3 credits: Prevent 1 net or brain damage.",
+    "stripped_text": "Interrupt -> 3 credits: Prevent 1 core damage or 1 net damage.",
     "stripped_title": "Caldera",
-    "text": "3[credit]: Prevent 1 net or brain damage.",
+    "text": "[interrupt] → <strong>3[credit]:</strong> Prevent 1 core damage or 1 net damage.",
     "title": "Caldera",
     "type_code": "resource",
     "uniqueness": false
@@ -265,9 +265,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 5,
-    "stripped_text": "Subroutine Move Sand Storm so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server). Trash Sand Storm.",
+    "stripped_text": "Subroutine If this ice is installed, move it to the outermost position protecting another server. (The run continues from this new position.) Trash this ice.",
     "stripped_title": "Sand Storm",
-    "text": "[subroutine] Move Sand Storm so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server). Trash Sand Storm.",
+    "text": "[subroutine] If this ice is installed, move it to the outermost position protecting another server. <em>(The run continues from this new position.)</em> Trash this ice.",
     "title": "Sand Storm",
     "type_code": "ice",
     "uniqueness": false

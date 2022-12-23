@@ -19,9 +19,9 @@
     "illustrator": "Aaron Agregado",
     "position": 42,
     "printed_is_unique": true,
-    "printed_text": "When you install Skulljack, suffer 1 brain damage.\nThe trash cost of all cards is lowered by 1.",
+    "printed_text": "When you install this hardware, suffer 1 core damage.\nThe trash cost of each Corp card is lowered by 1.",
     "quantity": 3,
-    "stripped_printed_text": "When you install Skulljack, suffer 1 brain damage. The trash cost of all cards is lowered by 1."
+    "stripped_printed_text": "When you install this hardware, suffer 1 core damage. The trash cost of each Corp card is lowered by 1."
   },
   {
     "card_id": "turntable",
@@ -42,9 +42,9 @@
     "illustrator": "James Ives",
     "position": 44,
     "printed_is_unique": false,
-    "printed_text": "Prevent all meat damage and brain damage from installing <strong>cybernetics</strong>.",
+    "printed_text": "[interrupt] → Whenever you would suffer damage from a \"when installed\" ability on a piece of <strong>cybernetic</strong> hardware, prevent all of that damage.",
     "quantity": 3,
-    "stripped_printed_text": "Prevent all meat damage and brain damage from installing cybernetics."
+    "stripped_printed_text": "Interrupt -> Whenever you would suffer damage from a \"when installed\" ability on a piece of cybernetic hardware, prevent all of that damage."
   },
   {
     "card_id": "titanium_ribs",
@@ -99,9 +99,9 @@
     "illustrator": "Mike Nesbitt",
     "position": 49,
     "printed_is_unique": true,
-    "printed_text": "When you install Brain Cage, suffer 1 brain damage.\nYour maximum hand size is increased by 3.",
+    "printed_text": "You get +3 maximum hand size.\nWhen you install this hardware, suffer 1 core damage.",
     "quantity": 3,
-    "stripped_printed_text": "When you install Brain Cage, suffer 1 brain damage. Your maximum hand size is increased by 3."
+    "stripped_printed_text": "You get +3 maximum hand size. When you install this hardware, suffer 1 core damage."
   },
   {
     "card_id": "cybernetics_division_humanity_upgraded",
@@ -159,9 +159,9 @@
     "illustrator": "Roderick Constance",
     "position": 54,
     "printed_is_unique": true,
-    "printed_text": "[trash]: Do 1 brain damage. Use this ability only during a run on this server and only if the Runner has no unspent clicks.",
+    "printed_text": "[trash]: Do 1 core damage. Use this ability only during a run against this server and only if the Runner has no unspent [click].",
     "quantity": 3,
-    "stripped_printed_text": "trash: Do 1 brain damage. Use this ability only during a run on this server and only if the Runner has no unspent clicks."
+    "stripped_printed_text": "trash: Do 1 core damage. Use this ability only during a run against this server and only if the Runner has no unspent click."
   },
   {
     "card_id": "clairvoyant_monitor",

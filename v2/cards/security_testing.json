@@ -7,9 +7,9 @@
   "influence_cost": 3,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "When your turn begins, you may choose a server. The first time this turn you make a successful run on that server, instead of breaching it, gain 2 credits.",
+  "stripped_text": "When your turn begins, you may choose a server. The first time each turn you make a successful run on the chosen server, instead of breaching it, gain 2 credits.",
   "stripped_title": "Security Testing",
   "subtypes": ["job"],
-  "text": "When your turn begins, you may choose a server. The first time this turn you make a successful run on that server, instead of breaching it, gain 2[credit].",
+  "text": "When your turn begins, you may choose a server.\nThe first time each turn you make a successful run on the chosen server, instead of breaching it, gain 2[credit].",
   "title": "Security Testing"
 }

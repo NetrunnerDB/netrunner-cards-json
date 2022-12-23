@@ -8,8 +8,9 @@
   "is_unique": false,
   "memory_cost": 1,
   "side_id": "runner",
-  "stripped_text": "Install Kyuban only on a piece of ice. Gain 2 credits whenever you pass host ice.",
+  "stripped_text": "Install only on a piece of ice. Whenever you pass host ice, gain 2 credits.",
   "stripped_title": "Kyuban",
-  "text": "Install Kyuban only on a piece of ice.\nGain 2[credit] whenever you pass host ice.",
-  "title": "Kyuban"
+  "text": "Install only on a piece of ice.\nWhenever you pass host ice, gain 2[credit].",
+  "title": "Kyuban",
+  "subtypes": ["trojan"]
 }

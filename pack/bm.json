@@ -31,9 +31,9 @@
     "position": 22,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "This card is not trashed until another current is played or an agenda is scored. The text box of each unique non-region asset and upgrade is blank.",
+    "stripped_text": "This card is not trashed until another current is played or an agenda is scored. Each unique () non-region asset and upgrade loses its printed abilities.",
     "stripped_title": "Rumor Mill",
-    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe text box of each unique non-<strong>region</strong> asset and upgrade is blank.",
+    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nEach unique (♦) non-<strong>region</strong> asset and upgrade loses its printed abilities.",
     "title": "Rumor Mill",
     "type_code": "event",
     "uniqueness": false
@@ -217,9 +217,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 3,
-    "stripped_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine The Runner must pay 2 credits or trash 1 of their installed cards. Subroutine The Runner must pay 2 credits or trash 1 of their installed cards. Subroutine Do 1 brain damage.",
+    "stripped_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine The Runner must pay 2 credits or trash 1 of their installed cards. Subroutine The Runner must pay 2 credits or trash 1 of their installed cards. Subroutine Do 1 core damage.",
     "stripped_title": "Fairchild 2.0",
-    "text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] The Runner must pay 2[credit] or trash 1 of their installed cards.\n[subroutine] The Runner must pay 2[credit] or trash 1 of their installed cards.\n[subroutine] Do 1 brain damage.",
+    "text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] The Runner must pay 2[credit] or trash 1 of their installed cards.\n[subroutine] The Runner must pay 2[credit] or trash 1 of their installed cards.\n[subroutine] Do 1 core damage.",
     "title": "Fairchild 2.0",
     "type_code": "ice",
     "uniqueness": false

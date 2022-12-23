@@ -398,9 +398,9 @@
     "illustrator": "Krembler",
     "position": 99,
     "printed_is_unique": false,
-    "printed_text": "You can advance this asset.\nWhen the Runner accesses this asset, you may pay 3[credit]. If you do, do 1 brain damage for each hosted advancement token.",
+    "printed_text": "You can advance this asset.\nWhen the Runner accesses this asset while it is installed, you may pay 3[credit]. If you do, do 1 core damage for each hosted advancement counter.",
     "quantity": 3,
-    "stripped_printed_text": "You can advance this asset. When the Runner accesses this asset, you may pay 3 credits. If you do, do 1 brain damage for each hosted advancement token."
+    "stripped_printed_text": "You can advance this asset. When the Runner accesses this asset while it is installed, you may pay 3 credits. If you do, do 1 core damage for each hosted advancement counter."
   },
   {
     "card_id": "vaporframe_fabricator",
@@ -410,9 +410,9 @@
     "illustrator": "NtscapeNavigator",
     "position": 100,
     "printed_is_unique": false,
-    "printed_text": "<strong>[click]:</strong> Install 1 card from HQ, ignoring all costs. Use this ability only once per turn.\nWhen the Runner trashes this asset, you may install 1 card from HQ, ignoring all costs. You cannot install that card in the root of the server from which this asset was trashed.",
+    "printed_text": "<strong>[click]:</strong> Install 1 card from HQ, ignoring all costs. Use this ability only once per turn.\nWhen the Runner trashes this asset, you may install 1 card from HQ, ignoring all costs. You cannot install that card in the root of this server.",
     "quantity": 3,
-    "stripped_printed_text": "click: Install 1 card from HQ, ignoring all costs. Use this ability only once per turn. When the Runner trashes this asset, you may install 1 card from HQ, ignoring all costs. You cannot install that card in the root of the server from which this asset was trashed."
+    "stripped_printed_text": "click: Install 1 card from HQ, ignoring all costs. Use this ability only once per turn. When the Runner trashes this asset, you may install 1 card from HQ, ignoring all costs. You cannot install that card in the root of this server."
   },
   {
     "card_id": "drafter",
@@ -434,9 +434,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 102,
     "printed_is_unique": true,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. The Corp gets +1 allotted [click] for their next turn. Only the Runner can use this ability.\n[subroutine] Do 2 brain damage.\n[subroutine] Trash 1 installed Runner card. Gain 3[credit].\n[subroutine] End the run.",
+    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. The Corp gets +1 allotted [click] for their next turn. Only the Runner can use this ability.\n[subroutine] Do 2 core damage.\n[subroutine] Trash 1 installed Runner card. Gain 3[credit].\n[subroutine] End the run.",
     "quantity": 3,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. The Corp gets +1 allotted click for their next turn. Only the Runner can use this ability. Subroutine Do 2 brain damage. Subroutine Trash 1 installed Runner card. Gain 3 credits. Subroutine End the run."
+    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. The Corp gets +1 allotted click for their next turn. Only the Runner can use this ability. Subroutine Do 2 core damage. Subroutine Trash 1 installed Runner card. Gain 3 credits. Subroutine End the run."
   },
   {
     "card_id": "next_activation_command",

@@ -31,9 +31,9 @@
     "position": 2,
     "quantity": 6,
     "side_code": "runner",
-    "stripped_text": "trash: Prevent up to X net or brain damage. Trash cards from the top of your stack equal to the amount of damage prevented. X is the number of copies of Ramujan-reliant 550 BMI installed (including the one just trashed). Limit 6 per deck.",
+    "stripped_text": "Interrupt -> trash: Prevent up to X core damage or net damage. Trash cards from the top of your stack equal to the amount of damage prevented. X is equal to the number of other installed copies of Ramujan-reliant 550 BMI plus 1. Limit 6 per deck.",
     "stripped_title": "Ramujan-reliant 550 BMI",
-    "text": "[trash]: Prevent up to X net or brain damage. Trash cards from the top of your stack equal to the amount of damage prevented. X is the number of copies of Ramujan-reliant 550 BMI installed (including the one just trashed).\nLimit 6 per deck.",
+    "text": "[interrupt] → [trash]<strong>:</strong> Prevent up to X core damage or net damage. Trash cards from the top of your stack equal to the amount of damage prevented. X is equal to the number of other installed copies of Ramujan-reliant 550 BMI plus 1.\nLimit 6 per deck.",
     "title": "Ramujan-reliant 550 BMI",
     "type_code": "hardware",
     "uniqueness": false
@@ -232,9 +232,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 5,
-    "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Runner cannot use programs for the remainder of this run. Subroutine Trace[4]. If successful, do 1 brain damage. Subroutine Trace[4]. If successful, do 1 brain damage.",
+    "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Runner cannot use programs for the remainder of this run. Subroutine Trace 4. If successful, do 1 core damage. Subroutine Trace 4. If successful, do 1 core damage.",
     "stripped_title": "Vikram 1.0",
-    "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner cannot use programs for the remainder of this run.\n[subroutine] Trace[4]. If successful, do 1 brain damage.\n[subroutine] Trace[4]. If successful, do 1 brain damage.",
+    "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner cannot use programs for the remainder of this run.\n[subroutine] <trace>Trace 4</trace>. If successful, do 1 core damage.\n[subroutine] <trace>Trace 4</trace>. If successful, do 1 core damage.",
     "title": "Vikram 1.0",
     "type_code": "ice",
     "uniqueness": false

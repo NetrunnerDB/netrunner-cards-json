@@ -134,9 +134,9 @@
     "illustrator": "Ed Mattinian",
     "position": 112,
     "printed_is_unique": false,
-    "printed_text": "The rez cost of NEXT Diamond is lowered by 1 for each other rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Trash 1 installed Runner card.",
+    "printed_text": "This rez cost of this ice is lowered by 1[credit] for each other rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] Do 1 core damage.\n[subroutine] Do 1 core damage.\n[subroutine] Trash 1 installed Runner card.",
     "quantity": 3,
-    "stripped_printed_text": "The rez cost of NEXT Diamond is lowered by 1 for each other rezzed piece of NEXT ice. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage. Subroutine Trash 1 installed Runner card."
+    "stripped_printed_text": "This rez cost of this ice is lowered by 1 credit for each other rezzed piece of NEXT ice. Subroutine Do 1 core damage. Subroutine Do 1 core damage. Subroutine Trash 1 installed Runner card."
   },
   {
     "card_id": "riot_suppression",
@@ -145,9 +145,9 @@
     "illustrator": "Adam Schumpert",
     "position": 113,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner trashed a Corp card during their last turn.\nThe Runner may suffer 1 brain damage. If they do not, they get -3 allotted [click] for their next turn.\nRemove this operation from the game.",
+    "printed_text": "Play only if the Runner trashed a Corp card during their last turn.\nThe Runner may suffer 1 core damage. If they do not, they get -3 allotted [click] for their next turn.\nRemove this operation from the game.",
     "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner trashed a Corp card during their last turn. The Runner may suffer 1 brain damage. If they do not, they get -3 allotted click for their next turn. Remove this operation from the game."
+    "stripped_printed_text": "Play only if the Runner trashed a Corp card during their last turn. The Runner may suffer 1 core damage. If they do not, they get -3 allotted click for their next turn. Remove this operation from the game."
   },
   {
     "card_id": "mti_mwekundu_life_improved",

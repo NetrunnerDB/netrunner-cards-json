@@ -52,9 +52,9 @@
     "illustrator": "Andreas Zafiratos",
     "position": 5,
     "printed_is_unique": false,
-    "printed_text": "Place 9[credit] on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When the run ends, suffer 1 brain damage, which cannot be prevented.",
+    "printed_text": "Place 9[credit] on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When that run ends, suffer 1 core damage. This damage cannot be prevented.",
     "quantity": 1,
-    "stripped_printed_text": "Place 9 credits on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When the run ends, suffer 1 brain damage, which cannot be prevented."
+    "stripped_printed_text": "Place 9 credits on this event, then run any server. During that run, hosted credits are considered to be in your credit pool. When that run ends, suffer 1 core damage. This damage cannot be prevented."
   },
   {
     "card_id": "cyberfeeder",
@@ -75,9 +75,9 @@
     "illustrator": "Gong Studios",
     "position": 7,
     "printed_is_unique": true,
-    "printed_text": "+1[mu], 2[recurring-credit]\nUse these credits to pay for using <strong>icebreakers</strong>.\nWhenever there is a successful trace during a run, suffer 1 brain damage.\nLimit 1 <strong>console</strong> per player.",
+    "printed_text": "+1[mu], 2[recurring-credit]\nYou can spend hosted credits to use <strong>icebreakers</strong>.\nWhenever there is a successful trace during a run, suffer 1 core damage.\nLimit 1 <strong>console</strong> per player.",
     "quantity": 2,
-    "stripped_printed_text": "+1 mu, 2 recurring credits Use these credits to pay for using icebreakers. Whenever there is a successful trace during a run, suffer 1 brain damage. Limit 1 console per player."
+    "stripped_printed_text": "+1 mu, 2 recurring credits You can spend hosted credits to use icebreakers. Whenever there is a successful trace during a run, suffer 1 core damage. Limit 1 console per player."
   },
   {
     "card_id": "darwin",
@@ -769,9 +769,9 @@
     "illustrator": "Andreas Zafiratos",
     "position": 66,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.\n[subroutine] End the run.",
+    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] End the run.\n[subroutine] End the run.",
     "quantity": 1,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine End the run. Subroutine End the run."
+    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. Subroutine End the run. Subroutine End the run."
   },
   {
     "card_id": "hudson_1_0",
@@ -793,9 +793,9 @@
     "illustrator": "Andreas Zafiratos",
     "position": 68,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] Trace[1]. If successful, give the Runner 1 tag and do 1 brain damage.",
+    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] <trace>Trace 1</trace>. If successful, do 1 core damage and give the Runner 1 tag.",
     "quantity": 2,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace[1]. If successful, give the Runner 1 tag and do 1 brain damage."
+    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace 1. If successful, do 1 core damage and give the Runner 1 tag."
   },
   {
     "card_id": "rototurret",
@@ -817,9 +817,9 @@
     "illustrator": "Andreas Zafiratos",
     "position": 70,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] End the run.",
+    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] End the run.",
     "quantity": 3,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine End the run."
+    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. Subroutine End the run."
   },
   {
     "card_id": "archived_memories",
@@ -888,9 +888,9 @@
     "illustrator": "Andreas Zafiratos",
     "position": 76,
     "printed_is_unique": false,
-    "printed_text": "Persistent → As an additional cost to steal an agenda from this server, the Runner must spend [click]. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
+    "printed_text": "Persistent → As an additional cost to steal an agenda from this server or its root, the Runner must spend [click]. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
     "quantity": 1,
-    "stripped_printed_text": "Persistent -> As an additional cost to steal an agenda from this server, the Runner must spend click. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
+    "stripped_printed_text": "Persistent -> As an additional cost to steal an agenda from this server or its root, the Runner must spend click. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
   },
   {
     "card_id": "jinteki_personal_evolution",
@@ -1237,9 +1237,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 106,
     "printed_is_unique": false,
-    "printed_text": "Persistent → As an additional cost to steal an agenda from this server, the Runner must pay 5[credit]. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
+    "printed_text": "Persistent → As an additional cost to steal an agenda from this server or its root, the Runner must pay 5[credit]. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
     "quantity": 1,
-    "stripped_printed_text": "Persistent -> As an additional cost to steal an agenda from this server, the Runner must pay 5 credits. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
+    "stripped_printed_text": "Persistent -> As an additional cost to steal an agenda from this server or its root, the Runner must pay 5 credits. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
   },
   {
     "card_id": "bernice_mai",

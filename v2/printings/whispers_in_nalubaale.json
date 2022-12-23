@@ -18,9 +18,9 @@
     "illustrator": "Ethan Patrick Harris",
     "position": 82,
     "printed_is_unique": false,
-    "printed_text": "Install Trypano only on a piece of ice.\nWhen Trypano has 5 or more virus counters on it, trash host ice.\nWhen your turn begins, you may place 1 virus counter on Trypano.",
+    "printed_text": "Install only on a piece of ice.\nWhen your turn begins, you may place 1 virus counter on this program.\nWhen there are 5 or more hosted virus counters, trash host ice.",
     "quantity": 3,
-    "stripped_printed_text": "Install Trypano only on a piece of ice. When Trypano has 5 or more virus counters on it, trash host ice. When your turn begins, you may place 1 virus counter on Trypano."
+    "stripped_printed_text": "Install only on a piece of ice. When your turn begins, you may place 1 virus counter on this program. When there are 5 or more hosted virus counters, trash host ice."
   },
   {
     "card_id": "contaminate",
@@ -133,9 +133,9 @@
     "illustrator": "Donald Crank",
     "position": 92,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage unless the Runner trashes 1 installed resource.\n[subroutine] Do 1 brain damage unless the Runner trashes 1 installed piece of hardware.\n[subroutine] Do 1 brain damage unless the Runner trashes 1 installed program.",
+    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage unless the Runner trashes 1 installed resource.\n[subroutine] Do 1 core damage unless the Runner trashes 1 installed piece of hardware.\n[subroutine] Do 1 core damage unless the Runner trashes 1 installed program.",
     "quantity": 3,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage unless the Runner trashes 1 installed resource. Subroutine Do 1 brain damage unless the Runner trashes 1 installed piece of hardware. Subroutine Do 1 brain damage unless the Runner trashes 1 installed program."
+    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage unless the Runner trashes 1 installed resource. Subroutine Do 1 core damage unless the Runner trashes 1 installed piece of hardware. Subroutine Do 1 core damage unless the Runner trashes 1 installed program."
   },
   {
     "card_id": "warden_fatuma",
@@ -226,8 +226,8 @@
     "illustrator": "Mariusz Siergiejew",
     "position": 100,
     "printed_is_unique": false,
-    "printed_text": "Persistent → Whenever the Runner trashes a card from this server, you may pay 1[credit] to give the Runner 1 tag. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
+    "printed_text": "Persistent → Whenever the Runner trashes a card from this server or its root, you may pay 1[credit] to give the Runner 1 tag. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
     "quantity": 3,
-    "stripped_printed_text": "Persistent -> Whenever the Runner trashes a card from this server, you may pay 1 credit to give the Runner 1 tag. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
+    "stripped_printed_text": "Persistent -> Whenever the Runner trashes a card from this server or its root, you may pay 1 credit to give the Runner 1 tag. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)"
   }
 ]
