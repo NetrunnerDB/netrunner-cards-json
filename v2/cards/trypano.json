@@ -8,9 +8,9 @@
   "is_unique": false,
   "memory_cost": 1,
   "side_id": "runner",
-  "stripped_text": "Install Trypano only on a piece of ice. When Trypano has 5 or more virus counters on it, trash host ice. When your turn begins, you may place 1 virus counter on Trypano.",
+  "stripped_text": "Install only on a piece of ice. When your turn begins, you may place 1 virus counter on this program. When there are 5 or more hosted virus counters, trash host ice.",
   "stripped_title": "Trypano",
-  "subtypes": ["virus"],
-  "text": "Install Trypano only on a piece of ice.\nWhen Trypano has 5 or more virus counters on it, trash host ice.\nWhen your turn begins, you may place 1 virus counter on Trypano.",
+  "subtypes": ["virus", "trojan"],
+  "text": "Install only on a piece of ice.\nWhen your turn begins, you may place 1 virus counter on this program.\nWhen there are 5 or more hosted virus counters, trash host ice.",
   "title": "Trypano"
 }

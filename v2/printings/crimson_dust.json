@@ -52,9 +52,9 @@
     "illustrator": "Yog Joshi",
     "position": 105,
     "printed_is_unique": false,
-    "printed_text": "3[credit]: Prevent 1 net or brain damage.",
+    "printed_text": "[interrupt] → <strong>3[credit]:</strong> Prevent 1 core damage or 1 net damage.",
     "quantity": 3,
-    "stripped_printed_text": "3 credits: Prevent 1 net or brain damage."
+    "stripped_printed_text": "Interrupt -> 3 credits: Prevent 1 core damage or 1 net damage."
   },
   {
     "card_id": "dianas_hunt",
@@ -156,9 +156,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 114,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] Move Sand Storm so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server). Trash Sand Storm.",
+    "printed_text": "[subroutine] If this ice is installed, move it to the outermost position protecting another server. <em>(The run continues from this new position.)</em> Trash this ice.",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine Move Sand Storm so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server). Trash Sand Storm."
+    "stripped_printed_text": "Subroutine If this ice is installed, move it to the outermost position protecting another server. (The run continues from this new position.) Trash this ice."
   },
   {
     "card_id": "ar_enhanced_security",

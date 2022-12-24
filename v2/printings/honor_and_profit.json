@@ -120,9 +120,9 @@
     "illustrator": "Alexandr Elichev",
     "position": 11,
     "printed_is_unique": false,
-    "printed_text": "When the Runner accesses this asset anywhere except in R&D, you may pay X[credit]. The Runner must either take X net damage or add this asset to their score area as an agenda worth -1 agenda point.",
+    "printed_text": "When the Runner accesses this asset anywhere except in R&D, you may pay X[credit]. The Runner must either suffer X net damage or add this asset to their score area as an agenda worth -1 agenda point.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner accesses this asset anywhere except in R&D, you may pay X credits. The Runner must either take X net damage or add this asset to their score area as an agenda worth -1 agenda point."
+    "stripped_printed_text": "When the Runner accesses this asset anywhere except in R&D, you may pay X credits. The Runner must either suffer X net damage or add this asset to their score area as an agenda worth -1 agenda point."
   },
   {
     "card_id": "tenma_line",
@@ -143,9 +143,9 @@
     "illustrator": "Smirtouille",
     "position": 13,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner made a successful run during their last turn.\nYou and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, they must suffer 1 brain damage or take 1 tag.",
+    "printed_text": "Play only if the Runner made a successful run during their last turn.\nYou and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, they must suffer 1 core damage or take 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner made a successful run during their last turn. You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, they must suffer 1 brain damage or take 1 tag."
+    "stripped_printed_text": "Play only if the Runner made a successful run during their last turn. You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, they must suffer 1 core damage or take 1 tag."
   },
   {
     "card_id": "medical_research_fundraiser",
@@ -189,9 +189,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 17,
     "printed_is_unique": false,
-    "printed_text": "When the Runner encounters Komainu, it gains \"[subroutine] Do 1 net damage.\" for each card in the Runner's grip for the remainder of this run.",
+    "printed_text": "When the Runner encounters this ice, it gains X \"[subroutine] Do 1 net damage.\" subroutines for the remainder of this run. X is equal to the number of cards in the grip.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters Komainu, it gains \"Subroutine Do 1 net damage.\" for each card in the Runner's grip for the remainder of this run."
+    "stripped_printed_text": "When the Runner encounters this ice, it gains X \"Subroutine Do 1 net damage.\" subroutines for the remainder of this run. X is equal to the number of cards in the grip."
   },
   {
     "card_id": "pup",
@@ -249,9 +249,9 @@
     "illustrator": "Smirtouille",
     "position": 22,
     "printed_is_unique": true,
-    "printed_text": "[interrupt] → The first time you would do 1 or more net damage during each run on this server, instead you may pay 2[credit] to do 1 brain damage.",
+    "printed_text": "[interrupt] → The first time you would do 1 or more net damage during each run against this server, instead you may pay 2[credit] to do 1 core damage.",
     "quantity": 3,
-    "stripped_printed_text": "Interrupt -> The first time you would do 1 or more net damage during each run on this server, instead you may pay 2 credits to do 1 brain damage."
+    "stripped_printed_text": "Interrupt -> The first time you would do 1 or more net damage during each run against this server, instead you may pay 2 credits to do 1 core damage."
   },
   {
     "card_id": "plan_b",
@@ -555,9 +555,9 @@
     "illustrator": "Gong Studios",
     "position": 48,
     "printed_is_unique": false,
-    "printed_text": "When your turn begins, you may choose a server. The first time this turn you make a successful run on that server, instead of breaching it, gain 2[credit].",
+    "printed_text": "When your turn begins, you may choose a server.\nThe first time each turn you make a successful run on the chosen server, instead of breaching it, gain 2[credit].",
     "quantity": 3,
-    "stripped_printed_text": "When your turn begins, you may choose a server. The first time this turn you make a successful run on that server, instead of breaching it, gain 2 credits."
+    "stripped_printed_text": "When your turn begins, you may choose a server. The first time each turn you make a successful run on the chosen server, instead of breaching it, gain 2 credits."
   },
   {
     "card_id": "theophilius_bagbiter",

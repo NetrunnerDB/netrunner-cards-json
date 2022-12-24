@@ -18,9 +18,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 2,
     "printed_is_unique": false,
-    "printed_text": "<strong>[click]:</strong> Host this program on the outermost piece of ice protecting a central server.\nWhenever you make a successful run while this program is hosted on a piece of ice, move it to the next inward piece of ice, if able. If you cannot, trash this program and install 1 other <strong>Caïssa</strong> program from your grip or heap, ignoring all costs.",
+    "printed_text": "[click]: Host this program on the outermost piece of ice protecting a central server.\nWhenever you make a successful run while this program is hosted on a piece of ice, host it on the next inward piece of ice. If you cannot, trash this program and install 1 other <strong>Caïssa</strong> program from your grip or heap, ignoring all costs.",
     "quantity": 3,
-    "stripped_printed_text": "click: Host this program on the outermost piece of ice protecting a central server. Whenever you make a successful run while this program is hosted on a piece of ice, move it to the next inward piece of ice, if able. If you cannot, trash this program and install 1 other Caissa program from your grip or heap, ignoring all costs."
+    "stripped_printed_text": "click: Host this program on the outermost piece of ice protecting a central server. Whenever you make a successful run while this program is hosted on a piece of ice, host it on the next inward piece of ice. If you cannot, trash this program and install 1 other Caissa program from your grip or heap, ignoring all costs."
   },
   {
     "card_id": "rook",
@@ -29,9 +29,9 @@
     "illustrator": "Gong Studios",
     "position": 3,
     "printed_is_unique": false,
-    "printed_text": "[click]: Host Rook on a piece of ice not hosting a <strong>Caïssa</strong>. If already hosted, Rook can be hosted only on ice protecting this server or on ice in the same position (counting from the innermost spot) protecting another server.\nThe rez cost of each piece of ice protecting this server is increased by 2.",
+    "printed_text": "While this program is hosted on ice, the rez cost of each piece of ice protecting this server is increased by 2.\n[click]: Host this program on a piece of ice that is not hosting a <strong>Caïssa</strong> program.\nIf this program is hosted on ice, its [click] ability can only be used to host it on ice protecting the same server or in the same position as its current host ice. <em>(Count positions from the innermost ice.)</em>",
     "quantity": 3,
-    "stripped_printed_text": "click: Host Rook on a piece of ice not hosting a Caissa. If already hosted, Rook can be hosted only on ice protecting this server or on ice in the same position (counting from the innermost spot) protecting another server. The rez cost of each piece of ice protecting this server is increased by 2."
+    "stripped_printed_text": "While this program is hosted on ice, the rez cost of each piece of ice protecting this server is increased by 2. click: Host this program on a piece of ice that is not hosting a Caissa program. If this program is hosted on ice, its click ability can only be used to host it on ice protecting the same server or in the same position as its current host ice. (Count positions from the innermost ice.)"
   },
   {
     "card_id": "hostage",

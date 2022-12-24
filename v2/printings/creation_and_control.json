@@ -75,9 +75,9 @@
     "illustrator": "Ed Mattinian",
     "position": 7,
     "printed_is_unique": false,
-    "printed_text": "Whenever the Runner suffers at least 1 brain damage, do 1 net damage.",
+    "printed_text": "Whenever the Runner suffers at least 1 core damage, do 1 net damage.",
     "quantity": 3,
-    "stripped_printed_text": "Whenever the Runner suffers at least 1 brain damage, do 1 net damage."
+    "stripped_printed_text": "Whenever the Runner suffers at least 1 core damage, do 1 net damage."
   },
   {
     "card_id": "alix_t4lb07",
@@ -98,9 +98,9 @@
     "illustrator": "Ed Mattinian",
     "position": 9,
     "printed_is_unique": false,
-    "printed_text": "You can advance this asset.\nWhen the Runner accesses this asset, you may pay 3[credit]. If you do, do 1 brain damage for each hosted advancement token.",
+    "printed_text": "You can advance this asset.\nWhen the Runner accesses this asset while it is installed, you may pay 3[credit]. If you do, do 1 core damage for each hosted advancement counter.",
     "quantity": 3,
-    "stripped_printed_text": "You can advance this asset. When the Runner accesses this asset, you may pay 3 credits. If you do, do 1 brain damage for each hosted advancement token."
+    "stripped_printed_text": "You can advance this asset. When the Runner accesses this asset while it is installed, you may pay 3 credits. If you do, do 1 core damage for each hosted advancement counter."
   },
   {
     "card_id": "director_haas",
@@ -167,9 +167,9 @@
     "illustrator": "John Derek Murphy",
     "position": 15,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage and end the run.\n[subroutine] End the run.",
+    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] Do 1 core damage and end the run.\n[subroutine] End the run.",
     "quantity": 3,
-    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage and end the run. Subroutine End the run."
+    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. Subroutine Do 1 core damage and end the run. Subroutine End the run."
   },
   {
     "card_id": "howler",
@@ -191,9 +191,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 17,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] Trace[3]. If successful, give the Runner 1 tag and do 1 brain damage.",
+    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] <trace>Trace 3</trace>. If successful, do 1 core damage and give the Runner 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace[3]. If successful, give the Runner 1 tag and do 1 brain damage."
+    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace 3. If successful, do 1 core damage and give the Runner 1 tag."
   },
   {
     "card_id": "minelayer",
@@ -214,9 +214,9 @@
     "illustrator": "Daniel Atanasov",
     "position": 19,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n<strong>Hosted power counter:</strong> Do 1 brain damage.\n[subroutine] Trace[2]. If successful, place 1 power counter on this ice.\n[subroutine] End the run.",
+    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n<strong>Hosted power counter:</strong> Do 1 core damage.\n[subroutine] <trace>Trace 2</trace>. If successful, place 1 power counter on this ice.\n[subroutine] End the run.",
     "quantity": 3,
-    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Hosted power counter: Do 1 brain damage. Subroutine Trace[2]. If successful, place 1 power counter on this ice. Subroutine End the run."
+    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Hosted power counter: Do 1 core damage. Subroutine Trace 2. If successful, place 1 power counter on this ice. Subroutine End the run."
   },
   {
     "card_id": "zed_1_0",
@@ -226,9 +226,9 @@
     "illustrator": "Daniel Atanasov",
     "position": 20,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] If the Runner has lost a [click] to break a subroutine during this run, do 1 brain damage.\n[subroutine] If the Runner has lost a [click] to break a subroutine during this run, do 1 brain damage.",
+    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] If the Runner has lost [click] to break a subroutine during this run, do 1 core damage.\n[subroutine] If the Runner has lost [click] to break a subroutine during this run, do 1 core damage.",
     "quantity": 3,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine If the Runner has lost a click to break a subroutine during this run, do 1 brain damage. Subroutine If the Runner has lost a click to break a subroutine during this run, do 1 brain damage."
+    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine If the Runner has lost click to break a subroutine during this run, do 1 core damage. Subroutine If the Runner has lost click to break a subroutine during this run, do 1 core damage."
   },
   {
     "card_id": "awakening_center",
@@ -414,9 +414,9 @@
     "illustrator": "Emilio Rodriguez",
     "position": 36,
     "printed_is_unique": true,
-    "printed_text": "+3[mu]\nWhen you install Monolith, install up to 3 programs from your grip, lowering the install cost of each by 4[credit].\n<strong>Trash a program from your grip:</strong> Prevent 1 brain or net damage.\nLimit 1 <strong>console</strong> per player.",
+    "printed_text": "+3[mu]\nWhen you install this hardware, install up to 3 programs from your grip, paying 4[credit] less for each.\n[interrupt] → <strong>Trash 1 program from your grip:</strong> Prevent 1 core damage or 1 net damage.\nLimit 1 <strong>console</strong> per player.",
     "quantity": 3,
-    "stripped_printed_text": "+3 mu When you install Monolith, install up to 3 programs from your grip, lowering the install cost of each by 4 credits. Trash a program from your grip: Prevent 1 brain or net damage. Limit 1 console per player."
+    "stripped_printed_text": "+3 mu When you install this hardware, install up to 3 programs from your grip, paying 4 credits less for each. Interrupt -> Trash 1 program from your grip: Prevent 1 core damage or 1 net damage. Limit 1 console per player."
   },
   {
     "card_id": "feedback_filter",
@@ -426,9 +426,9 @@
     "illustrator": "Lili Ibrahim",
     "position": 37,
     "printed_is_unique": false,
-    "printed_text": "3[credit]: Prevent 1 net damage.\n[trash]: Prevent up to 2 brain damage.",
+    "printed_text": "[interrupt] → <strong>3[credit]:</strong> Prevent 1 net damage.\n[interrupt] → <strong>[trash]:</strong> Prevent up to 2 core damage.",
     "quantity": 3,
-    "stripped_printed_text": "3 credits: Prevent 1 net damage. trash: Prevent up to 2 brain damage."
+    "stripped_printed_text": "Interrupt -> 3 credits: Prevent 1 net damage. Interrupt -> trash: Prevent up to 2 core damage."
   },
   {
     "card_id": "clone_chip",

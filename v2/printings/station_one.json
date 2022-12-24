@@ -111,9 +111,9 @@
     "illustrator": "Ethan Patrick Harris",
     "position": 30,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage. You may draw 1 card.\n[subroutine] Do 1 brain damage. You may draw 1 card.",
+    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage. You may draw 1 card.\n[subroutine] Do 1 core damage. You may draw 1 card.",
     "quantity": 3,
-    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. You may draw 1 card. Subroutine Do 1 brain damage. You may draw 1 card."
+    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. You may draw 1 card. Subroutine Do 1 core damage. You may draw 1 card."
   },
   {
     "card_id": "load_testing",
@@ -134,9 +134,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 32,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] You may install a piece of ice from HQ protecting another server, ignoring all costs.\n[subroutine] You may install a piece of ice from HQ in the next innermost position, protecting this server, ignoring all costs.",
+    "printed_text": "[subroutine] You may install 1 piece of ice from HQ protecting another server, ignoring all costs.\n[subroutine] You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs.",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine You may install a piece of ice from HQ protecting another server, ignoring all costs. Subroutine You may install a piece of ice from HQ in the next innermost position, protecting this server, ignoring all costs."
+    "stripped_printed_text": "Subroutine You may install 1 piece of ice from HQ protecting another server, ignoring all costs. Subroutine You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs."
   },
   {
     "card_id": "replanting",

@@ -621,9 +621,9 @@
     "position": 31,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "Gain click click click and suffer 1 brain damage (cannot be prevented).",
+    "stripped_text": "Gain click click click and suffer 1 core damage. This damage cannot be prevented.",
     "stripped_title": "Amped Up",
-    "text": "Gain [click][click][click] and suffer 1 brain damage (cannot be prevented).",
+    "text": "Gain [click][click][click] and suffer 1 core damage. This damage cannot be prevented.",
     "title": "Amped Up",
     "type_code": "event",
     "uniqueness": false
@@ -1013,9 +1013,9 @@
     "position": 51,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain click.",
+    "stripped_text": "When your turn begins, if there are 2 or more hosted power counters, remove all of them and suffer 1 core damage. This damage cannot be prevented. Otherwise, place 1 power counter on this resource and gain click.",
     "stripped_title": "Stim Dealer",
-    "text": "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain [click].",
+    "text": "When your turn begins, if there are 2 or more hosted power counters, remove all of them and suffer 1 core damage. This damage cannot be prevented. Otherwise, place 1 power counter on this resource and gain [click].",
     "title": "Stim Dealer",
     "type_code": "resource",
     "uniqueness": false

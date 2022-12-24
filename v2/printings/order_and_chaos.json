@@ -360,9 +360,9 @@
     "illustrator": "Wylie Beckert",
     "position": 31,
     "printed_is_unique": false,
-    "printed_text": "Gain [click][click][click] and suffer 1 brain damage (cannot be prevented).",
+    "printed_text": "Gain [click][click][click] and suffer 1 core damage. This damage cannot be prevented.",
     "quantity": 3,
-    "stripped_printed_text": "Gain click click click and suffer 1 brain damage (cannot be prevented)."
+    "stripped_printed_text": "Gain click click click and suffer 1 core damage. This damage cannot be prevented."
   },
   {
     "card_id": "i_ve_had_worse",
@@ -593,9 +593,9 @@
     "illustrator": "Rovina Cai",
     "position": 51,
     "printed_is_unique": false,
-    "printed_text": "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain [click].",
+    "printed_text": "When your turn begins, if there are 2 or more hosted power counters, remove all of them and suffer 1 core damage. This damage cannot be prevented. Otherwise, place 1 power counter on this resource and gain [click].",
     "quantity": 3,
-    "stripped_printed_text": "When your turn begins, if there are 2 or more power counters on Stim Dealer, remove all power counters from it and suffer 1 brain damage (cannot be prevented); otherwise, place 1 power counter on Stim Dealer and gain click."
+    "stripped_printed_text": "When your turn begins, if there are 2 or more hosted power counters, remove all of them and suffer 1 core damage. This damage cannot be prevented. Otherwise, place 1 power counter on this resource and gain click."
   },
   {
     "card_id": "virus_breeding_ground",

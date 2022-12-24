@@ -32,9 +32,9 @@
     "position": 2,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "+1 mu, 2 recurring credits Use these credits to pay for using icebreakers. Whenever there is a successful trace during a run, suffer 1 brain damage. Limit 1 console per player.",
+    "stripped_text": "+1 mu, 2 recurring credits You can spend hosted credits to use icebreakers. Whenever there is a successful trace during a run, suffer 1 core damage. Limit 1 console per player.",
     "stripped_title": "Spinal Modem",
-    "text": "+1[mu], 2[recurring-credit]\nUse these credits to pay for using <strong>icebreakers</strong>.\nWhenever there is a successful trace during a run, suffer 1 brain damage.\nLimit 1 <strong>console</strong> per player.",
+    "text": "+1[mu], 2[recurring-credit]\nYou can spend hosted credits to use <strong>icebreakers</strong>.\nWhenever there is a successful trace during a run, suffer 1 core damage.\nLimit 1 <strong>console</strong> per player.",
     "title": "Spinal Modem",
     "type_code": "hardware",
     "uniqueness": true
@@ -238,9 +238,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 8,
-    "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage. Subroutine Do 1 brain damage.",
+    "stripped_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. Subroutine Do 1 core damage. Subroutine Do 1 core damage. Subroutine Do 1 core damage.",
     "stripped_title": "Janus 1.0",
-    "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.",
+    "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] Do 1 core damage.\n[subroutine] Do 1 core damage.\n[subroutine] Do 1 core damage.",
     "title": "Janus 1.0",
     "type_code": "ice",
     "uniqueness": false

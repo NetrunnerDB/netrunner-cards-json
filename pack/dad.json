@@ -835,9 +835,9 @@
     "position": 42,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "When your turn begins, choose one of your installed cards. The text box of that card is blank for the remainder of the turn.",
+    "stripped_text": "When your turn begins, choose 1 of your installed cards. That card loses its printed abilities for the remainder of the turn.",
     "stripped_title": "Dr. Lovegood",
-    "text": "When your turn begins, choose one of your installed cards. The text box of that card is blank for the remainder of the turn.",
+    "text": "When your turn begins, choose 1 of your installed cards. That card loses its printed abilities for the remainder of the turn.",
     "title": "Dr. Lovegood",
     "type_code": "resource",
     "uniqueness": true
@@ -1059,9 +1059,9 @@
     "position": 53,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "This card is not trashed until another current is played or an agenda is scored. The Corp's identity text box is blank.",
+    "stripped_text": "This event is not trashed until another current is played or an agenda is scored. The Corp's identity loses its printed abilities.",
     "stripped_title": "Employee Strike",
-    "text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's identity text box is blank.",
+    "text": "This event is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's identity loses its printed abilities.",
     "title": "Employee Strike",
     "type_code": "event",
     "uniqueness": false

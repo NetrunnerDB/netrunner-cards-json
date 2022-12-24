@@ -7,9 +7,9 @@
   "influence_cost": 2,
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "Install Wetwork Refit on a rezzed piece of bioroid ice as a condition counter with the text \"Host ice gains \"Subroutine Do 1 brain damage.\" before all its other subroutines.\"",
+  "stripped_text": "Host this operation on a rezzed piece of bioroid ice as a condition counter with \"Host ice gains 'Subroutine Do 1 core damage.' before all its other subroutines.\"",
   "stripped_title": "Wetwork Refit",
   "subtypes": ["condition"],
-  "text": "Install Wetwork Refit on a rezzed piece of <strong>bioroid</strong> ice as a condition counter with the text \"Host ice gains \"[subroutine] Do 1 brain damage.\" before all its other subroutines.\"",
+  "text": "Host this operation on a rezzed piece of <strong>bioroid</strong> ice as a condition counter with \"Host ice gains '[subroutine] Do 1 core damage.' before all its other subroutines.\"",
   "title": "Wetwork Refit"
 }

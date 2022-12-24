@@ -190,9 +190,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 4,
-    "stripped_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Do 1 brain damage. You may draw 1 card. Subroutine Do 1 brain damage. You may draw 1 card.",
+    "stripped_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. You may draw 1 card. Subroutine Do 1 core damage. You may draw 1 card.",
     "stripped_title": "Nerine 2.0",
-    "text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 brain damage. You may draw 1 card.\n[subroutine] Do 1 brain damage. You may draw 1 card.",
+    "text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage. You may draw 1 card.\n[subroutine] Do 1 core damage. You may draw 1 card.",
     "title": "Nerine 2.0",
     "type_code": "ice",
     "uniqueness": false
@@ -229,9 +229,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 3,
-    "stripped_text": "Subroutine You may install a piece of ice from HQ protecting another server, ignoring all costs. Subroutine You may install a piece of ice from HQ in the next innermost position, protecting this server, ignoring all costs.",
+    "stripped_text": "Subroutine You may install 1 piece of ice from HQ protecting another server, ignoring all costs. Subroutine You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs.",
     "stripped_title": "Bloom",
-    "text": "[subroutine] You may install a piece of ice from HQ protecting another server, ignoring all costs.\n[subroutine] You may install a piece of ice from HQ in the next innermost position, protecting this server, ignoring all costs.",
+    "text": "[subroutine] You may install 1 piece of ice from HQ protecting another server, ignoring all costs.\n[subroutine] You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs.",
     "title": "Bloom",
     "type_code": "ice",
     "uniqueness": false

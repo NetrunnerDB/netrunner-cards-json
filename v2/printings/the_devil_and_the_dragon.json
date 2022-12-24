@@ -101,9 +101,9 @@
     "illustrator": "Nasrul Hakim",
     "position": 69,
     "printed_is_unique": true,
-    "printed_text": "When you rez this asset, choose an installed non-<strong>virtual</strong> resource.\nThe chosen resource loses all printed abilities.",
+    "printed_text": "When you rez this asset, choose 1 installed non-<strong>virtual</strong> resource.\nThe chosen resource loses its printed abilities.",
     "quantity": 3,
-    "stripped_printed_text": "When you rez this asset, choose an installed non-virtual resource. The chosen resource loses all printed abilities."
+    "stripped_printed_text": "When you rez this asset, choose 1 installed non-virtual resource. The chosen resource loses its printed abilities."
   },
   {
     "card_id": "kill_switch",
@@ -113,9 +113,9 @@
     "illustrator": "Martin de Diego Sádaba",
     "position": 70,
     "printed_is_unique": false,
-    "printed_text": "This operation is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhile the Runner is accessing an agenda in R&D, they must reveal it.\nWhenever an agenda is accessed or scored, <trace>trace 3</trace>. If successful, do 1 brain damage.",
+    "printed_text": "This operation is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhile the Runner is accessing an agenda in R&D, they must reveal it.\nWhenever an agenda is accessed or scored, <trace>trace 3</trace>. If successful, do 1 core damage.",
     "quantity": 3,
-    "stripped_printed_text": "This operation is not trashed until another current is played or an agenda is stolen. While the Runner is accessing an agenda in R&D, they must reveal it. Whenever an agenda is accessed or scored, trace 3. If successful, do 1 brain damage."
+    "stripped_printed_text": "This operation is not trashed until another current is played or an agenda is stolen. While the Runner is accessing an agenda in R&D, they must reveal it. Whenever an agenda is accessed or scored, Trace 3. If successful, do 1 core damage."
   },
   {
     "card_id": "tempus",
@@ -124,9 +124,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 71,
     "printed_is_unique": false,
-    "printed_text": "If Tempus is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Tempus, <trace>trace 3</trace> If successful, the Runner must lose [click][click] or suffer 1 brain damage. Ignore this ability if the Runner accesses Tempus from Archives.",
+    "printed_text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade anywhere except in Archives, <trace>trace 3</trace>. If successful, the Runner must lose [click][click] or suffer 1 core damage.",
     "quantity": 3,
-    "stripped_printed_text": "If Tempus is accessed from R&D, the Runner must reveal it. When the Runner accesses Tempus, trace 3 If successful, the Runner must lose click click or suffer 1 brain damage. Ignore this ability if the Runner accesses Tempus from Archives."
+    "stripped_printed_text": "While the Runner is accessing this upgrade in R&D, they must reveal it. When the Runner accesses this upgrade anywhere except in Archives, Trace 3. If successful, the Runner must lose click click or suffer 1 core damage."
   },
   {
     "card_id": "bio_vault",

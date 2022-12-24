@@ -102,9 +102,9 @@
     "illustrator": "Andreas Zafiratos",
     "position": 89,
     "printed_is_unique": false,
-    "printed_text": "As an additional cost to rez this ice, forfeit 1 agenda.\n<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Do 1 brain damage.\n[subroutine] Trash 1 installed <strong>console</strong>.\n[subroutine] Trash all installed <strong>virtual</strong> resources.",
+    "printed_text": "As an additional cost to rez this ice, forfeit 1 agenda.\n<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Do 1 core damage.\n[subroutine] Trash 1 installed <strong>console</strong>.\n[subroutine] Trash all installed <strong>virtual</strong> resources.",
     "quantity": 3,
-    "stripped_printed_text": "As an additional cost to rez this ice, forfeit 1 agenda. Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Do 1 brain damage. Subroutine Trash 1 installed console. Subroutine Trash all installed virtual resources."
+    "stripped_printed_text": "As an additional cost to rez this ice, forfeit 1 agenda. Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Do 1 core damage. Subroutine Trash 1 installed console. Subroutine Trash all installed virtual resources."
   },
   {
     "card_id": "its_a_trap",
@@ -193,9 +193,9 @@
     "illustrator": "David Ogilvie",
     "position": 97,
     "printed_is_unique": false,
-    "printed_text": "Persistent → The Runner cannot steal agendas from this server. Ignore this ability for any agenda the Runner has a copy of in their score area. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>\nLimit 1 <strong>region</strong> per server.",
+    "printed_text": "Persistent → The Runner cannot steal agendas from this server or its root. Ignore this ability for any agenda the Runner has a copy of in their score area. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>\nLimit 1 <strong>region</strong> per server.",
     "quantity": 3,
-    "stripped_printed_text": "Persistent -> The Runner cannot steal agendas from this server. Ignore this ability for any agenda the Runner has a copy of in their score area. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.) Limit 1 region per server."
+    "stripped_printed_text": "Persistent -> The Runner cannot steal agendas from this server or its root. Ignore this ability for any agenda the Runner has a copy of in their score area. (If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.) Limit 1 region per server."
   },
   {
     "card_id": "hollywood_renovation",

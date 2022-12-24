@@ -8,9 +8,9 @@
   "is_unique": false,
   "side_id": "corp",
   "strength": 5,
-  "stripped_text": "Subroutine Move Sand Storm so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server). Trash Sand Storm.",
+  "stripped_text": "Subroutine If this ice is installed, move it to the outermost position protecting another server. (The run continues from this new position.) Trash this ice.",
   "stripped_title": "Sand Storm",
   "subtypes": ["trap", "deflector"],
-  "text": "[subroutine] Move Sand Storm so that it is the outermost piece of ice protecting another server (the Runner continues the run from this new position and is now running on this new server). Trash Sand Storm.",
+  "text": "[subroutine] If this ice is installed, move it to the outermost position protecting another server. <em>(The run continues from this new position.)</em> Trash this ice.",
   "title": "Sand Storm"
 }
