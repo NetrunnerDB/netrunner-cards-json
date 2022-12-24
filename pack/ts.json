@@ -153,9 +153,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 3,
-    "stripped_text": "When the Runner encounters Troll, trace 2 if successful, the Runner must lose click or end the run.",
+    "stripped_text": "When the Runner encounters Troll, Trace[2]. If successful, the Runner must lose click or end the run.",
     "stripped_title": "Troll",
-    "text": "When the Runner encounters Troll, <trace>trace 2</trace> if successful, the Runner must lose [click] or end the run.",
+    "text": "When the Runner encounters Troll, Trace[2]. If successful, the Runner must lose [click] or end the run.",
     "title": "Troll",
     "type_code": "ice",
     "uniqueness": false
@@ -174,9 +174,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 5,
-    "stripped_text": "Subroutine Trace 2 If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.",
+    "stripped_text": "Subroutine Trace[2]. If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.",
     "stripped_title": "Virgo",
-    "text": "[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.",
+    "text": "[subroutine] Trace[2]. If successful, give the Runner 1 tag. If your trace strength is 5 or greater, give the Runner 1 tag.",
     "title": "Virgo",
     "type_code": "ice",
     "uniqueness": false

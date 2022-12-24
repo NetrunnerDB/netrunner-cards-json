@@ -147,9 +147,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 13,
     "printed_is_unique": false,
-    "printed_text": "While the Runner is accessing this ice in R&D, they must reveal it.\nWhen the Runner accesses this ice anywhere except in Archives, you may pay 3[credit]. If you do, they encounter it.\n[subroutine] <trace>Trace 6</trace>. If successful, add 1 installed Runner card to the grip.",
+    "printed_text": "While the Runner is accessing this ice in R&D, they must reveal it.\nWhen the Runner accesses this ice anywhere except in Archives, you may pay 3[credit]. If you do, they encounter it.\n[subroutine] Trace[6]. If successful, add 1 installed Runner card to the grip.",
     "quantity": 3,
-    "stripped_printed_text": "While the Runner is accessing this ice in R&D, they must reveal it. When the Runner accesses this ice anywhere except in Archives, you may pay 3 credits. If you do, they encounter it. Subroutine Trace 6. If successful, add 1 installed Runner card to the grip."
+    "stripped_printed_text": "While the Runner is accessing this ice in R&D, they must reveal it. When the Runner accesses this ice anywhere except in Archives, you may pay 3 credits. If you do, they encounter it. Subroutine Trace[6]. If successful, add 1 installed Runner card to the grip."
   },
   {
     "card_id": "news_hound",
@@ -159,9 +159,9 @@
     "illustrator": "Darren Waud",
     "position": 14,
     "printed_is_unique": false,
-    "printed_text": "If a <strong>current</strong> is active, News Hound gains \"[subroutine] End the run.\" after all its other subroutines.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
+    "printed_text": "If a <strong>current</strong> is active, News Hound gains \"[subroutine] End the run.\" after all its other subroutines.\n[subroutine] Trace[3]. If successful, give the Runner 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "If a current is active, News Hound gains \"Subroutine End the run.\" after all its other subroutines. Subroutine Trace 3 If successful, give the Runner 1 tag."
+    "stripped_printed_text": "If a current is active, News Hound gains \"Subroutine End the run.\" after all its other subroutines. Subroutine Trace[3]. If successful, give the Runner 1 tag."
   },
   {
     "card_id": "resistor",
@@ -171,9 +171,9 @@
     "illustrator": "Mariusz Siergiejew",
     "position": 15,
     "printed_is_unique": false,
-    "printed_text": "Resistor has +1 strength for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, end the run.",
+    "printed_text": "Resistor has +1 strength for each tag the Runner has.\n[subroutine] Trace[4]. If successful, end the run.",
     "quantity": 3,
-    "stripped_printed_text": "Resistor has +1 strength for each tag the Runner has. Subroutine Trace 4 If successful, end the run."
+    "stripped_printed_text": "Resistor has +1 strength for each tag the Runner has. Subroutine Trace[4]. If successful, end the run."
   },
   {
     "card_id": "special_offer",
@@ -207,9 +207,9 @@
     "illustrator": "Donald Crank",
     "position": 18,
     "printed_is_unique": false,
-    "printed_text": "When the Runner encounters this ice, they lose 1[credit].\n[subroutine] <trace>Trace 5</trace>. If successful, give the Runner 1 tag.",
+    "printed_text": "When the Runner encounters this ice, they lose 1[credit].\n[subroutine] Trace[5]. If successful, give the Runner 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters this ice, they lose 1 credit. Subroutine Trace 5. If successful, give the Runner 1 tag."
+    "stripped_printed_text": "When the Runner encounters this ice, they lose 1 credit. Subroutine Trace[5]. If successful, give the Runner 1 tag."
   },
   {
     "card_id": "24_7_news_cycle",
@@ -323,9 +323,9 @@
     "illustrator": "Andreas Zafiratos",
     "position": 28,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] <trace>Trace 5</trace> If successful, do 3 net damage.\n[subroutine] <trace>Trace 4</trace> If successful, trash 1 program.",
+    "printed_text": "[subroutine] Trace[5]. If successful, do 3 net damage.\n[subroutine] Trace[4]. If successful, trash 1 program.",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine Trace 5 If successful, do 3 net damage. Subroutine Trace 4 If successful, trash 1 program."
+    "stripped_printed_text": "Subroutine Trace[5]. If successful, do 3 net damage. Subroutine Trace[4]. If successful, trash 1 program."
   },
   {
     "card_id": "apex_invasive_predator",
@@ -544,9 +544,9 @@
     "illustrator": "Lili Ibrahim",
     "position": 47,
     "printed_is_unique": true,
-    "printed_text": "+1[mu] +1[link]\nOnce per turn, when you encounter a piece of ice, you may force the Corp to \"<trace>trace 5</trace> If successful, give the Runner 1 tag and end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\"\nLimit 1 <strong>console</strong> per player.",
+    "printed_text": "+1[mu] +1[link]\nOnce per turn, when you encounter a piece of ice, you may force the Corp to \"Trace[5]. If successful, give the Runner 1 tag and end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\"\nLimit 1 <strong>console</strong> per player.",
     "quantity": 3,
-    "stripped_printed_text": "+1 mu +1 link Once per turn, when you encounter a piece of ice, you may force the Corp to \"trace 5 If successful, give the Runner 1 tag and end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\" Limit 1 console per player."
+    "stripped_printed_text": "+1 mu +1 link Once per turn, when you encounter a piece of ice, you may force the Corp to \"Trace[5]. If successful, give the Runner 1 tag and end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\" Limit 1 console per player."
   },
   {
     "card_id": "gs_striker_m1",

@@ -124,7 +124,7 @@
     "illustrator": "Isuardi Therianto",
     "position": 31,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner installed a resource during their last turn.\n<trace>Trace 2</trace>. If successful, add 1 installed resource to the top of the stack. If unsuccessful, take 1 bad publicity.",
+    "printed_text": "Play only if the Runner installed a resource during their last turn.\nTrace[2]. If successful, add 1 installed resource to the top of the stack. If unsuccessful, take 1 bad publicity.",
     "quantity": 3,
     "stripped_printed_text": "Play only if the Runner installed a resource during their last turn. Trace 2. If successful, add 1 installed resource to the top of the stack. If unsuccessful, take 1 bad publicity."
   },
@@ -171,9 +171,9 @@
     "illustrator": "Ed Mattinian",
     "position": 35,
     "printed_is_unique": false,
-    "printed_text": "When you rez Muckraker, take 1 bad publicity.\n[subroutine] <trace>Trace 1</trace> If successful, give the Runner 1 tag.\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
+    "printed_text": "When you rez Muckraker, take 1 bad publicity.\n[subroutine] Trace[1]. If successful, give the Runner 1 tag.\n[subroutine] Trace[2]. If successful, give the Runner 1 tag.\n[subroutine] Trace[3]. If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
     "quantity": 3,
-    "stripped_printed_text": "When you rez Muckraker, take 1 bad publicity. Subroutine Trace 1 If successful, give the Runner 1 tag. Subroutine Trace 2 If successful, give the Runner 1 tag. Subroutine Trace 3 If successful, give the Runner 1 tag. Subroutine End the run if the Runner is tagged."
+    "stripped_printed_text": "When you rez Muckraker, take 1 bad publicity. Subroutine Trace[1]. If successful, give the Runner 1 tag. Subroutine Trace[2]. If successful, give the Runner 1 tag. Subroutine Trace[3]. If successful, give the Runner 1 tag. Subroutine End the run if the Runner is tagged."
   },
   {
     "card_id": "the_cleaners",

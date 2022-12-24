@@ -196,9 +196,9 @@
     "illustrator": "Lili Ibrahim",
     "position": 17,
     "printed_is_unique": false,
-    "printed_text": "When you rez Checkpoint, take 1 bad publicity.\n[subroutine] <trace>Trace 5</trace> If successful, do 3 meat damage when this run is successful.",
+    "printed_text": "When you rez Checkpoint, take 1 bad publicity.\n[subroutine] Trace[5]. If successful, do 3 meat damage when this run is successful.",
     "quantity": 3,
-    "stripped_printed_text": "When you rez Checkpoint, take 1 bad publicity. Subroutine Trace 5 If successful, do 3 meat damage when this run is successful."
+    "stripped_printed_text": "When you rez Checkpoint, take 1 bad publicity. Subroutine Trace[5]. If successful, do 3 meat damage when this run is successful."
   },
   {
     "card_id": "fire_wall",
@@ -219,9 +219,9 @@
     "illustrator": "Simon Weaner",
     "position": 19,
     "printed_is_unique": false,
-    "printed_text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 1 tag.",
+    "printed_text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight.\n[subroutine]Trace[X]. If successful, give the Runner 1 tag.\n[subroutine]Trace[X]. If successful, give the Runner 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight. Subroutine Trace X If successful, give the Runner 1 tag. Subroutine Trace X If successful, give the Runner 1 tag."
+    "stripped_printed_text": "Searchlight can be advanced. X is the number of advancement tokens on Searchlight. Subroutine Trace[X]. If successful, give the Runner 1 tag. Subroutine Trace[X]. If successful, give the Runner 1 tag."
   },
   {
     "card_id": "housekeeping",

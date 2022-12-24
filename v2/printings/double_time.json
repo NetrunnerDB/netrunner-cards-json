@@ -136,9 +136,9 @@
     "illustrator": "Henning Ludvigsen",
     "position": 112,
     "printed_is_unique": true,
-    "printed_text": "Whenever you are about to take at least 1 bad publicity, <trace>trace 3</trace> if successful, avoid taking the bad publicity.",
+    "printed_text": "Whenever you are about to take at least 1 bad publicity, Trace[3]. If successful, avoid taking the bad publicity.",
     "quantity": 3,
-    "stripped_printed_text": "Whenever you are about to take at least 1 bad publicity, trace 3 if successful, avoid taking the bad publicity."
+    "stripped_printed_text": "Whenever you are about to take at least 1 bad publicity, Trace[3]. If successful, avoid taking the bad publicity."
   },
   {
     "card_id": "corporate_shuffle",
@@ -171,9 +171,9 @@
     "illustrator": "Chris Newman",
     "position": 115,
     "printed_is_unique": false,
-    "printed_text": "When you rez Shinobi, take 1 bad publicity.\n[subroutine] <trace>Trace 1</trace> If successful, do 1 net damage.\n[subroutine] <trace>Trace 2</trace> If successful, do 2 net damage.\n[subroutine] <trace>Trace 3</trace> If successful, do 3 net damage and end the run.",
+    "printed_text": "When you rez Shinobi, take 1 bad publicity.\n[subroutine] Trace[1]. If successful, do 1 net damage.\n[subroutine] Trace[2]. If successful, do 2 net damage.\n[subroutine] Trace[3]. If successful, do 3 net damage and end the run.",
     "quantity": 3,
-    "stripped_printed_text": "When you rez Shinobi, take 1 bad publicity. Subroutine Trace 1 If successful, do 1 net damage. Subroutine Trace 2 If successful, do 2 net damage. Subroutine Trace 3 If successful, do 3 net damage and end the run."
+    "stripped_printed_text": "When you rez Shinobi, take 1 bad publicity. Subroutine Trace[1]. If successful, do 1 net damage. Subroutine Trace[2]. If successful, do 2 net damage. Subroutine Trace[3]. If successful, do 3 net damage and end the run."
   },
   {
     "card_id": "marker",

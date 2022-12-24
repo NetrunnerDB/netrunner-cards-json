@@ -179,9 +179,9 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 116,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] The Corp gains 2[credit].\n[subroutine] The Runner loses 2[credit].\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
+    "printed_text": "[subroutine] The Corp gains 2[credit].\n[subroutine] The Runner loses 2[credit].\n[subroutine] Trace[2]. If successful, give the Runner 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine The Corp gains 2 credits. Subroutine The Runner loses 2 credits. Subroutine Trace 2 If successful, give the Runner 1 tag."
+    "stripped_printed_text": "Subroutine The Corp gains 2 credits. Subroutine The Runner loses 2 credits. Subroutine Trace[2]. If successful, give the Runner 1 tag."
   },
   {
     "card_id": "bryan_stinson",
@@ -214,9 +214,9 @@
     "illustrator": "Mariusz Siergiejew",
     "position": 119,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] <trace>Trace 4</trace> If successful, purge virus counters.\n[subroutine] <trace>Trace 3</trace> If successful, trash 1 <strong>virus</strong>.\n[subroutine] <trace>Trace 2</trace> If successful, remove a <strong>virus</strong> in the heap from the game.\n[subroutine] <trace>Trace 1</trace> If successful, end the run.",
+    "printed_text": "[subroutine] Trace[4]. If successful, purge virus counters.\n[subroutine] Trace[3]. If successful, trash 1 <strong>virus</strong>.\n[subroutine] Trace[2]. If successful, remove a <strong>virus</strong> in the heap from the game.\n[subroutine] Trace[1]. If successful, end the run.",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine Trace 4 If successful, purge virus counters. Subroutine Trace 3 If successful, trash 1 virus. Subroutine Trace 2 If successful, remove a virus in the heap from the game. Subroutine Trace 1 If successful, end the run."
+    "stripped_printed_text": "Subroutine Trace[4]. If successful, purge virus counters. Subroutine Trace[3]. If successful, trash 1 virus. Subroutine Trace[2]. If successful, remove a virus in the heap from the game. Subroutine Trace[1]. If successful, end the run."
   },
   {
     "card_id": "tribunal",
