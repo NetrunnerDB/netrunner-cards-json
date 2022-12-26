@@ -312,9 +312,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 2,
-    "stripped_text": "Subroutine The Corp gains 2 credits. Subroutine The Runner loses 2 credits. Subroutine Trace 2 If successful, give the Runner 1 tag.",
+    "stripped_text": "Subroutine The Corp gains 2 credits. Subroutine The Runner loses 2 credits. Subroutine Trace[2]. If successful, give the Runner 1 tag.",
     "stripped_title": "Veritas",
-    "text": "[subroutine] The Corp gains 2[credit].\n[subroutine] The Runner loses 2[credit].\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
+    "text": "[subroutine] The Corp gains 2[credit].\n[subroutine] The Runner loses 2[credit].\n[subroutine] Trace[2]. If successful, give the Runner 1 tag.",
     "title": "Veritas",
     "type_code": "ice",
     "uniqueness": false
@@ -373,9 +373,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 7,
-    "stripped_text": "Subroutine Trace 4 If successful, purge virus counters. Subroutine Trace 3 If successful, trash 1 virus. Subroutine Trace 2 If successful, remove a virus in the heap from the game. Subroutine Trace 1 If successful, end the run.",
+    "stripped_text": "Subroutine Trace[4]. If successful, purge virus counters. Subroutine Trace[3]. If successful, trash 1 virus. Subroutine Trace[2]. If successful, remove a virus in the heap from the game. Subroutine Trace[1]. If successful, end the run.",
     "stripped_title": "Macrophage",
-    "text": "[subroutine] <trace>Trace 4</trace> If successful, purge virus counters.\n[subroutine] <trace>Trace 3</trace> If successful, trash 1 <strong>virus</strong>.\n[subroutine] <trace>Trace 2</trace> If successful, remove a <strong>virus</strong> in the heap from the game.\n[subroutine] <trace>Trace 1</trace> If successful, end the run.",
+    "text": "[subroutine] Trace[4]. If successful, purge virus counters.\n[subroutine] Trace[3]. If successful, trash 1 <strong>virus</strong>.\n[subroutine] Trace[2]. If successful, remove a <strong>virus</strong> in the heap from the game.\n[subroutine] Trace[1]. If successful, end the run.",
     "title": "Macrophage",
     "type_code": "ice",
     "uniqueness": false

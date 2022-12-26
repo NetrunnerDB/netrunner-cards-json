@@ -148,9 +148,9 @@
     "illustrator": "Mauricio Herrera",
     "position": 13,
     "printed_is_unique": true,
-    "printed_text": "Whenever there is a successful run on this server, <trace>trace 4</trace> if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
+    "printed_text": "Whenever there is a successful run on this server, Trace[4]. If successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
     "quantity": 3,
-    "stripped_printed_text": "Whenever there is a successful run on this server, trace 4 if successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run."
+    "stripped_printed_text": "Whenever there is a successful run on this server, Trace[4]. If successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run."
   },
   {
     "card_id": "braintrust",
@@ -183,9 +183,9 @@
     "illustrator": "Ed Mattinian",
     "position": 16,
     "printed_is_unique": false,
-    "printed_text": "[click]: <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
+    "printed_text": "[click]: Trace[2]. If successful, give the Runner 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "click: Trace 2 If successful, give the Runner 1 tag."
+    "stripped_printed_text": "click: Trace[2]. If successful, give the Runner 1 tag."
   },
   {
     "card_id": "tmi",
@@ -195,9 +195,9 @@
     "illustrator": "Ed Mattinian",
     "position": 17,
     "printed_is_unique": false,
-    "printed_text": "When you rez TMI, <trace>trace 2</trace> if unsuccessful, derez TMI.\n[subroutine] End the run.",
+    "printed_text": "When you rez TMI, Trace[2]. If unsuccessful, derez TMI.\n[subroutine] End the run.",
     "quantity": 3,
-    "stripped_printed_text": "When you rez TMI, trace 2 if unsuccessful, derez TMI. Subroutine End the run."
+    "stripped_printed_text": "When you rez TMI, Trace[2]. If unsuccessful, derez TMI. Subroutine End the run."
   },
   {
     "card_id": "project_atlas",
@@ -218,9 +218,9 @@
     "illustrator": "Christina Davis",
     "position": 19,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] <trace>Trace 3</trace> If successful, the Corp gains 3[credit].\n[subroutine] <trace>Trace 2</trace> If successful, end the run.",
+    "printed_text": "[subroutine] Trace[3]. If successful, the Corp gains 3[credit].\n[subroutine] Trace[2]. If successful, end the run.",
     "quantity": 3,
-    "stripped_printed_text": "Subroutine Trace 3 If successful, the Corp gains 3 credits. Subroutine Trace 2 If successful, end the run."
+    "stripped_printed_text": "Subroutine Trace[3]. If successful, the Corp gains 3 credits. Subroutine Trace[2]. If successful, end the run."
   },
   {
     "card_id": "draco",
@@ -230,8 +230,8 @@
     "illustrator": "Sandara Tang",
     "position": 20,
     "printed_is_unique": false,
-    "printed_text": "When you rez Dracō, you may pay X[credit] to place X power counters on it.\nDracō has +1 strength for each power counter on it.\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag and end the run.",
+    "printed_text": "When you rez Dracō, you may pay X[credit] to place X power counters on it.\nDracō has +1 strength for each power counter on it.\n[subroutine] Trace[2]. If successful, give the Runner 1 tag and end the run.",
     "quantity": 3,
-    "stripped_printed_text": "When you rez Draco, you may pay X credits to place X power counters on it. Draco has +1 strength for each power counter on it. Subroutine Trace 2 If successful, give the Runner 1 tag and end the run."
+    "stripped_printed_text": "When you rez Draco, you may pay X credits to place X power counters on it. Draco has +1 strength for each power counter on it. Subroutine Trace[2]. If successful, give the Runner 1 tag and end the run."
   }
 ]

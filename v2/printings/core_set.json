@@ -723,9 +723,9 @@
     "illustrator": "Gong Studios",
     "position": 62,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] <trace>Trace 1</trace>. If successful, do 1 core damage and give the Runner 1 tag.",
+    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.\n[subroutine] Trace[1]. If successful, do 1 core damage and give the Runner 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace 1. If successful, do 1 core damage and give the Runner 1 tag."
+    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program. Subroutine Trace[1]. If successful, do 1 core damage and give the Runner 1 tag."
   },
   {
     "card_id": "viktor_1_0",
@@ -1002,9 +1002,9 @@
     "illustrator": "Mauricio Herrera",
     "position": 86,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner made a successful run during their last turn.\n<trace>Trace 3</trace>. If successful, give the Runner 1 tag.",
+    "printed_text": "Play only if the Runner made a successful run during their last turn.\nTrace[3]. If successful, give the Runner 1 tag.",
     "quantity": 2,
-    "stripped_printed_text": "Play only if the Runner made a successful run during their last turn. Trace 3. If successful, give the Runner 1 tag."
+    "stripped_printed_text": "Play only if the Runner made a successful run during their last turn. Trace[3]. If successful, give the Runner 1 tag."
   },
   {
     "card_id": "ghost_branch",
@@ -1024,9 +1024,9 @@
     "illustrator": "Gong Studios",
     "position": 88,
     "printed_is_unique": false,
-    "printed_text": "When the Runner encounters this ice, they must take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] <trace>Trace 3</trace>. If successful, place 1 power counter on this ice.",
+    "printed_text": "When the Runner encounters this ice, they must take 1 tag or end the run.\n<strong>Hosted power counter:</strong> Give the Runner 1 tag.\n[subroutine] Trace[3]. If successful, place 1 power counter on this ice.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters this ice, they must take 1 tag or end the run. Hosted power counter: Give the Runner 1 tag. Subroutine Trace 3. If successful, place 1 power counter on this ice."
+    "stripped_printed_text": "When the Runner encounters this ice, they must take 1 tag or end the run. Hosted power counter: Give the Runner 1 tag. Subroutine Trace[3]. If successful, place 1 power counter on this ice."
   },
   {
     "card_id": "matrix_analyzer",
@@ -1036,9 +1036,9 @@
     "illustrator": "Isuardi Therianto",
     "position": 89,
     "printed_is_unique": false,
-    "printed_text": "When the Runner encounters Matrix Analyzer, you may pay 1[credit] to place 1 advancement token on a card that can be advanced.\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.",
+    "printed_text": "When the Runner encounters Matrix Analyzer, you may pay 1[credit] to place 1 advancement token on a card that can be advanced.\n[subroutine] Trace[2]. If successful, give the Runner 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters Matrix Analyzer, you may pay 1 credit to place 1 advancement token on a card that can be advanced. Subroutine Trace 2 If successful, give the Runner 1 tag."
+    "stripped_printed_text": "When the Runner encounters Matrix Analyzer, you may pay 1 credit to place 1 advancement token on a card that can be advanced. Subroutine Trace[2]. If successful, give the Runner 1 tag."
   },
   {
     "card_id": "tollbooth",
@@ -1214,9 +1214,9 @@
     "illustrator": "Adam S. Doyle",
     "position": 104,
     "printed_is_unique": false,
-    "printed_text": "Shadow can be advanced and has +1 strength for each advancement token on it.\n[subroutine] The Corp gains 2[credit].\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
+    "printed_text": "Shadow can be advanced and has +1 strength for each advancement token on it.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trace[3]. If successful, give the Runner 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "Shadow can be advanced and has +1 strength for each advancement token on it. Subroutine The Corp gains 2 credits. Subroutine Trace 3 If successful, give the Runner 1 tag."
+    "stripped_printed_text": "Shadow can be advanced and has +1 strength for each advancement token on it. Subroutine The Corp gains 2 credits. Subroutine Trace[3]. If successful, give the Runner 1 tag."
   },
   {
     "card_id": "research_station",
@@ -1310,9 +1310,9 @@
     "illustrator": "Christina Davis",
     "position": 112,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.",
+    "printed_text": "[subroutine] Trace[3]. If successful, give the Runner 1 tag.",
     "quantity": 2,
-    "stripped_printed_text": "Subroutine Trace 3 If successful, give the Runner 1 tag."
+    "stripped_printed_text": "Subroutine Trace[3]. If successful, give the Runner 1 tag."
   },
   {
     "card_id": "wall_of_static",

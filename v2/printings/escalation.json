@@ -125,9 +125,9 @@
     "illustrator": "VIKO",
     "position": 51,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner trashed a card while accessing it during their last turn.\n<trace>Trace 2</trace>. If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
+    "printed_text": "Play only if the Runner trashed a card while accessing it during their last turn.\nTrace[2]. If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity.",
     "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner trashed a card while accessing it during their last turn. Trace 2. If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity."
+    "stripped_printed_text": "Play only if the Runner trashed a card while accessing it during their last turn. Trace[2]. If successful, trash 2 installed non-program cards. If unsuccessful, take 1 bad publicity."
   },
   {
     "card_id": "project_kusanagi",
@@ -217,9 +217,9 @@
     "illustrator": "Maciej Rebisz",
     "position": 59,
     "printed_is_unique": false,
-    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhen the Runner's turn begins, <trace>trace 1</trace> If successful, do 1 meat damage if the Runner is tagged; otherwise, give the Runner 1 tag.",
+    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhen the Runner's turn begins, Trace[1]. If successful, do 1 meat damage if the Runner is tagged; otherwise, give the Runner 1 tag.",
     "quantity": 3,
-    "stripped_printed_text": "This card is not trashed until another current is played or an agenda is stolen. When the Runner's turn begins, trace 1 If successful, do 1 meat damage if the Runner is tagged; otherwise, give the Runner 1 tag."
+    "stripped_printed_text": "This card is not trashed until another current is played or an agenda is stolen. When the Runner's turn begins, Trace[1]. If successful, do 1 meat damage if the Runner is tagged; otherwise, give the Runner 1 tag."
   },
   {
     "card_id": "scarcity_of_resources",

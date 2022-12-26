@@ -277,9 +277,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 4,
-    "stripped_text": "When the Runner encounters this ice, give them 1 tag if there is an installed AI program. Subroutine Trace 3. If successful, give the Runner 1 tag. Subroutine End the run if the Runner is tagged.",
+    "stripped_text": "When the Runner encounters this ice, give them 1 tag if there is an installed AI program. Subroutine Trace[3]. If successful, give the Runner 1 tag. Subroutine End the run if the Runner is tagged.",
     "stripped_title": "IP Block",
-    "text": "When the Runner encounters this ice, give them 1 tag if there is an installed <strong>AI</strong> program.\n[subroutine] <trace>Trace 3</trace>. If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
+    "text": "When the Runner encounters this ice, give them 1 tag if there is an installed <strong>AI</strong> program.\n[subroutine] Trace[3]. If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
     "title": "IP Block",
     "type_code": "ice",
     "uniqueness": false
@@ -298,9 +298,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 6,
-    "stripped_text": "When the Runner encounters this ice, give them 1 tag. Subroutine Trace 4. If successful, do 1 net damage for each tag the Runner has. Subroutine Trace 4. If successful, the Runner loses 1 credit for each tag they have.",
+    "stripped_text": "When the Runner encounters this ice, give them 1 tag. Subroutine Trace[4]. If successful, do 1 net damage for each tag the Runner has. Subroutine Trace[4]. If successful, the Runner loses 1 credit for each tag they have.",
     "stripped_title": "Thoth",
-    "text": "When the Runner encounters this ice, give them 1 tag.\n[subroutine] <trace>Trace 4</trace>. If successful, do 1 net damage for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace>. If successful, the Runner loses 1[credit] for each tag they have.",
+    "text": "When the Runner encounters this ice, give them 1 tag.\n[subroutine] Trace[4]. If successful, do 1 net damage for each tag the Runner has.\n[subroutine] Trace[4]. If successful, the Runner loses 1[credit] for each tag they have.",
     "title": "Thoth",
     "type_code": "ice",
     "uniqueness": true

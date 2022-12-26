@@ -212,9 +212,9 @@
     "position": 31,
     "quantity": 3,
     "side_code": "corp",
-    "stripped_text": "Play only if the Runner installed a resource during their last turn. Trace 2. If successful, add 1 installed resource to the top of the stack. If unsuccessful, take 1 bad publicity.",
+    "stripped_text": "Play only if the Runner installed a resource during their last turn. Trace[2]. If successful, add 1 installed resource to the top of the stack. If unsuccessful, take 1 bad publicity.",
     "stripped_title": "Hellion Alpha Test",
-    "text": "Play only if the Runner installed a resource during their last turn.\n<trace>Trace 2</trace>. If successful, add 1 installed resource to the top of the stack. If unsuccessful, take 1 bad publicity.",
+    "text": "Play only if the Runner installed a resource during their last turn.\nTrace[2]. If successful, add 1 installed resource to the top of the stack. If unsuccessful, take 1 bad publicity.",
     "title": "Hellion Alpha Test",
     "type_code": "operation",
     "uniqueness": false
@@ -293,9 +293,9 @@
     "quantity": 3,
     "side_code": "corp",
     "strength": 3,
-    "stripped_text": "When you rez Muckraker, take 1 bad publicity. Subroutine Trace 1 If successful, give the Runner 1 tag. Subroutine Trace 2 If successful, give the Runner 1 tag. Subroutine Trace 3 If successful, give the Runner 1 tag. Subroutine End the run if the Runner is tagged.",
+    "stripped_text": "When you rez Muckraker, take 1 bad publicity. Subroutine Trace[1]. If successful, give the Runner 1 tag. Subroutine Trace[2]. If successful, give the Runner 1 tag. Subroutine Trace[3]. If successful, give the Runner 1 tag. Subroutine End the run if the Runner is tagged.",
     "stripped_title": "Muckraker",
-    "text": "When you rez Muckraker, take 1 bad publicity.\n[subroutine] <trace>Trace 1</trace> If successful, give the Runner 1 tag.\n[subroutine] <trace>Trace 2</trace> If successful, give the Runner 1 tag.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
+    "text": "When you rez Muckraker, take 1 bad publicity.\n[subroutine] Trace[1]. If successful, give the Runner 1 tag.\n[subroutine] Trace[2]. If successful, give the Runner 1 tag.\n[subroutine] Trace[3]. If successful, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged.",
     "title": "Muckraker",
     "type_code": "ice",
     "uniqueness": false

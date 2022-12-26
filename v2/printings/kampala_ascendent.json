@@ -203,9 +203,9 @@
     "illustrator": "Andreas Zafiratos",
     "position": 118,
     "printed_is_unique": false,
-    "printed_text": "X is twice the number of ice protecting this server.\n[subroutine]<trace>Trace X</trace> If successful, give the Runner 2 tags.\n[subroutine]<trace>Trace X</trace> If successful, end the run.",
+    "printed_text": "X is twice the number of ice protecting this server.\n[subroutine]Trace[X]. If successful, give the Runner 2 tags.\n[subroutine]Trace[X]. If successful, end the run.",
     "quantity": 3,
-    "stripped_printed_text": "X is twice the number of ice protecting this server. Subroutine Trace X If successful, give the Runner 2 tags. Subroutine Trace X If successful, end the run."
+    "stripped_printed_text": "X is twice the number of ice protecting this server. Subroutine Trace[X]. If successful, give the Runner 2 tags. Subroutine Trace[X]. If successful, end the run."
   },
   {
     "card_id": "high_profile_target",
