@@ -1390,7 +1390,7 @@
     "printed_is_unique": false,
     "printed_text": "Play only if the Runner made a successful run during their last turn.\nTrace[3]. If successful, give the Runner 1 tag.",
     "quantity": 2,
-    "stripped_printed_text": "Play only if the Runner made a successful run during their last turn. Trace 3. If successful, give the Runner 1 tag."
+    "stripped_printed_text": "Play only if the Runner made a successful run during their last turn. Trace[3]. If successful, give the Runner 1 tag."
   },
   {
     "card_id": "product_placement",
@@ -1610,7 +1610,7 @@
     "printed_is_unique": false,
     "printed_text": "Trace[5]. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn.",
     "quantity": 2,
-    "stripped_printed_text": "Trace 5. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn."
+    "stripped_printed_text": "Trace[5]. If successful, do X meat damage. X is equal to the sum of the printed agenda points on all agendas the Runner stole during their last turn."
   },
   {
     "card_id": "crisium_grid",
