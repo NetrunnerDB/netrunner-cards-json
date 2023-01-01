@@ -7,9 +7,7 @@
     "illustrator": "Matt Zeilinger",
     "position": 61,
     "printed_is_unique": false,
-    "printed_text": "The first time you make a successful run on Archives each turn, the Corp must trash 1 card from HQ.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time you make a successful run on Archives each turn, the Corp must trash 1 card from HQ."
+    "quantity": 3
   },
   {
     "card_id": "jarogniew_mercs",
@@ -18,9 +16,7 @@
     "illustrator": "Aurore Folny",
     "position": 62,
     "printed_is_unique": true,
-    "printed_text": "When you install Jarogniew Mercs, take 1 tag. Place 3 power counters on Jarogniew Mercs, and 1 additional power counter for each tag you have. When there are no power counters left on Jarogniew Mercs, trash it.\nThe Corp cannot trash Jarogniew Mercs while there is another resource installed.\n<strong>Hosted power counter:</strong> Prevent 1 meat damage.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install Jarogniew Mercs, take 1 tag. Place 3 power counters on Jarogniew Mercs, and 1 additional power counter for each tag you have. When there are no power counters left on Jarogniew Mercs, trash it. The Corp cannot trash Jarogniew Mercs while there is another resource installed. Hosted power counter: Prevent 1 meat damage."
+    "quantity": 3
   },
   {
     "card_id": "maui",
@@ -29,9 +25,7 @@
     "illustrator": "Matt Bradbury",
     "position": 63,
     "printed_is_unique": true,
-    "printed_text": "+2[mu]\nX[recurring-credit]\nUse these credits during runs on HQ. X is the number of pieces of ice protecting HQ.\nLimit 1 <strong>console</strong> per player.",
-    "quantity": 3,
-    "stripped_printed_text": "+2 mu X recurring credits Use these credits during runs on HQ. X is the number of pieces of ice protecting HQ. Limit 1 console per player."
+    "quantity": 3
   },
   {
     "card_id": "bug_out_bag",
@@ -41,9 +35,7 @@
     "illustrator": "Del Borovic",
     "position": 64,
     "printed_is_unique": false,
-    "printed_text": "When you install this resource, place X power counters on it.\nWhen your turn ends, if you have no cards in your grip, draw 1 card for each hosted power counter, then trash this resource.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this resource, place X power counters on it. When your turn ends, if you have no cards in your grip, draw 1 card for each hosted power counter, then trash this resource."
+    "quantity": 3
   },
   {
     "card_id": "keros_mcintyre",
@@ -53,9 +45,7 @@
     "illustrator": "Jan-Wah Li",
     "position": 65,
     "printed_is_unique": true,
-    "printed_text": "The first time you derez a piece of ice each turn, gain 2[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "The first time you derez a piece of ice each turn, gain 2 credits."
+    "quantity": 3
   },
   {
     "card_id": "daredevil",
@@ -65,9 +55,7 @@
     "illustrator": "Ed Mattinian",
     "position": 66,
     "printed_is_unique": true,
-    "printed_text": "+2[mu]\nThe first time you initiate a run on a server protected by 2 or more pieces of ice each turn, draw 2 cards.\nLimit 1 <strong>console</strong> per player.",
-    "quantity": 3,
-    "stripped_printed_text": "+2 mu The first time you initiate a run on a server protected by 2 or more pieces of ice each turn, draw 2 cards. Limit 1 console per player."
+    "quantity": 3
   },
   {
     "card_id": "mass_driver",
@@ -76,9 +64,7 @@
     "illustrator": "Alexandr Elichev",
     "position": 67,
     "printed_is_unique": false,
-    "printed_text": "Whenever this program fully breaks a piece of ice, the first 3 subroutines of the next encounter this run do not resolve.\nInterface → <strong>2[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever this program fully breaks a piece of ice, the first 3 subroutines of the next encounter this run do not resolve. Interface -> 2 credits: Break 1 code gate subroutine. 1 credit: +1 strength."
+    "quantity": 3
   },
   {
     "card_id": "warroid_tracker",
@@ -87,9 +73,7 @@
     "illustrator": "Micah Epstein",
     "position": 68,
     "printed_is_unique": false,
-    "printed_text": "Whenever the Runner trashes at least 1 card from this server, from its root, or protecting it, Trace[4]. If successful, the Runner trashes 2 of their installed cards.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever the Runner trashes at least 1 card from this server, from its root, or protecting it, Trace[4]. If successful, the Runner trashes 2 of their installed cards."
+    "quantity": 3
   },
   {
     "card_id": "loki",
@@ -98,9 +82,7 @@
     "illustrator": "Andreas Zafiratos",
     "position": 69,
     "printed_is_unique": true,
-    "printed_text": "When the Runner encounters this ice, choose another rezzed piece of ice. For the remainder of this run, this ice gains the subtypes of the chosen ice and gains the subroutines of that ice in order before all its other subroutines.\n[subroutine] The Runner must either end the run or shuffle all cards from the grip into the stack.",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters this ice, choose another rezzed piece of ice. For the remainder of this run, this ice gains the subtypes of the chosen ice and gains the subroutines of that ice in order before all its other subroutines. Subroutine The Runner must either end the run or shuffle all cards from the grip into the stack."
+    "quantity": 3
   },
   {
     "card_id": "obokata_protocol",
@@ -110,9 +92,7 @@
     "illustrator": "Jan-Wah Li",
     "position": 70,
     "printed_is_unique": false,
-    "printed_text": "As an additional cost to steal Obokata Protocol, the Runner must suffer 4 net damage.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to steal Obokata Protocol, the Runner must suffer 4 net damage."
+    "quantity": 3
   },
   {
     "card_id": "miraju",
@@ -121,9 +101,7 @@
     "illustrator": "Alexander Tooth",
     "position": 71,
     "printed_is_unique": false,
-    "printed_text": "Whenever an encounter with this ice ends, if the Runner broke its printed subroutine, the Runner moves to the outermost position of Archives instead of passing this ice. They may jack out. Derez this ice.\n[subroutine] You may draw 1 card. Then, shuffle 1 card from HQ into R&D.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever an encounter with this ice ends, if the Runner broke its printed subroutine, the Runner moves to the outermost position of Archives instead of passing this ice. They may jack out. Derez this ice. Subroutine You may draw 1 card. Then, shuffle 1 card from HQ into R&D."
+    "quantity": 3
   },
   {
     "card_id": "shipment_from_tennin",
@@ -132,9 +110,7 @@
     "illustrator": "Jan-Wah Li",
     "position": 72,
     "printed_is_unique": false,
-    "printed_text": "Play only if the Runner did not make a successful run during their last turn.\nPlace 2 advancement counters on 1 installed card.",
-    "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner did not make a successful run during their last turn. Place 2 advancement counters on 1 installed card."
+    "quantity": 3
   },
   {
     "card_id": "escalate_vitriol",
@@ -144,9 +120,7 @@
     "illustrator": "Timur Shevtsov",
     "position": 73,
     "printed_is_unique": false,
-    "printed_text": "[click]: Gain 1[credit] for each tag the Runner has. Use this ability only once per turn.",
-    "quantity": 3,
-    "stripped_printed_text": "click: Gain 1 credit for each tag the Runner has. Use this ability only once per turn."
+    "quantity": 3
   },
   {
     "card_id": "reeducation",
@@ -155,9 +129,7 @@
     "illustrator": "Wenjuinn Png",
     "position": 74,
     "printed_is_unique": false,
-    "printed_text": "When you score this agenda, you may add X cards from HQ to the bottom of R&D to draw X cards. The Runner adds X cards from the grip at random to the bottom of the stack, if able.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score this agenda, you may add X cards from HQ to the bottom of R&D to draw X cards. The Runner adds X cards from the grip at random to the bottom of the stack, if able."
+    "quantity": 3
   },
   {
     "card_id": "traffic_analyzer",
@@ -167,9 +139,7 @@
     "illustrator": "Tim Durning",
     "position": 75,
     "printed_is_unique": false,
-    "printed_text": "Whenever you rez a piece of ice protecting this server, Trace[2]. If successful, the Corp gains 1[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever you rez a piece of ice protecting this server, Trace[2]. If successful, the Corp gains 1 credit."
+    "quantity": 3
   },
   {
     "card_id": "meteor_mining",
@@ -179,9 +149,7 @@
     "illustrator": "Mark Molnar",
     "position": 76,
     "printed_is_unique": false,
-    "printed_text": "When you score Meteor Mining, you may gain 7[credit]. If the Runner has at least 2 tags, you may do 7 meat damage instead.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score Meteor Mining, you may gain 7 credits. If the Runner has at least 2 tags, you may do 7 meat damage instead."
+    "quantity": 3
   },
   {
     "card_id": "standoff",
@@ -190,9 +158,7 @@
     "illustrator": "Ed Mattinian",
     "position": 77,
     "printed_is_unique": false,
-    "printed_text": "When you score this agenda, the Runner may trash 1 of their installed cards. If they do not, draw 1 card and gain 5[credit]. Otherwise, you may trash 1 of your installed cards to repeat this process.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score this agenda, the Runner may trash 1 of their installed cards. If they do not, draw 1 card and gain 5 credits. Otherwise, you may trash 1 of your installed cards to repeat this process."
+    "quantity": 3
   },
   {
     "card_id": "success",
@@ -202,9 +168,7 @@
     "illustrator": "Mark Molnar",
     "position": 78,
     "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this operation, forfeit an agenda and spend [click][click].\nAdvance a card X times. X equals the advancement requirement of the agenda just forfeited.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this operation, forfeit an agenda and spend click click. Advance a card X times. X equals the advancement requirement of the agenda just forfeited."
+    "quantity": 3
   },
   {
     "card_id": "whampoa_reclamation",
@@ -214,9 +178,7 @@
     "illustrator": "James Ives",
     "position": 79,
     "printed_is_unique": false,
-    "printed_text": "<strong>Trash 1 card from HQ:</strong> Add 1 card from Archives to the bottom of R&D. Use this ability only once per turn.",
-    "quantity": 3,
-    "stripped_printed_text": "Trash 1 card from HQ: Add 1 card from Archives to the bottom of R&D. Use this ability only once per turn."
+    "quantity": 3
   },
   {
     "card_id": "mass_commercialization",
@@ -225,8 +187,6 @@
     "illustrator": "Mark Molnar",
     "position": 80,
     "printed_is_unique": false,
-    "printed_text": "Gain 2[credit] for each card with at least 1 advancement token on it.",
-    "quantity": 3,
-    "stripped_printed_text": "Gain 2 credits for each card with at least 1 advancement token on it."
+    "quantity": 3
   }
 ]

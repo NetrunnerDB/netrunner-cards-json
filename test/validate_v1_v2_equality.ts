@@ -261,16 +261,8 @@ describe('Printings v1/v2 equality', () => {
     validate('uniqueness', 'printed_is_unique');
   });
 
-  it('printed_text matches', () => {
-    validate('text', 'printed_text');
-  });
-
   it('quantity matches', () => {
     validate('quantity');
-  });
-
-  it('stripped_printed_text matches', () => {
-    validate('stripped_text', 'stripped_printed_text');
   });
 });
 

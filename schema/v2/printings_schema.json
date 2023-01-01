@@ -33,15 +33,9 @@
       "printed_is_unique": {
         "type": "boolean"
       },
-      "printed_text": {
-        "type": "string"
-      },
       "quantity": {
         "minimum": 1,
         "type": "integer"
-      },
-      "stripped_printed_text": {
-        "type": "string"
       }
     },
     "required": [

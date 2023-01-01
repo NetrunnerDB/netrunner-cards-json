@@ -7,9 +7,7 @@
     "illustrator": "Marko Fiedler",
     "position": 61,
     "printed_is_unique": false,
-    "printed_text": "Interface → <strong>Trash a card from your grip:</strong> Break 1 subroutine.\n<strong>Trash a card from your grip:</strong> +2 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "Interface -> Trash a card from your grip: Break 1 subroutine. Trash a card from your grip: +2 strength."
+    "quantity": 3
   },
   {
     "card_id": "street_peddler",
@@ -19,9 +17,7 @@
     "illustrator": "JuanManuel Tumburus",
     "position": 62,
     "printed_is_unique": false,
-    "printed_text": "When you install Street Peddler, host the top 3 cards of your stack facedown on Street Peddler (you may look at these cards at any time).\n[trash]: Install 1 card hosted on Street Peddler, lowering its install cost by 1.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install Street Peddler, host the top 3 cards of your stack facedown on Street Peddler (you may look at these cards at any time). trash: Install 1 card hosted on Street Peddler, lowering its install cost by 1."
+    "quantity": 3
   },
   {
     "card_id": "armand_geist_walker_tech_lord",
@@ -31,9 +27,7 @@
     "illustrator": "Matt Zeilinger",
     "position": 63,
     "printed_is_unique": false,
-    "printed_text": "Whenever you use a [trash] ability, draw 1 card.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever you use a trash ability, draw 1 card."
+    "quantity": 3
   },
   {
     "card_id": "drive_by",
@@ -42,9 +36,7 @@
     "illustrator": "Mitchell Malloy",
     "position": 64,
     "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this event, spend [click].\nExpose 1 card installed in the root of a remote server. If you do and that card is an asset or upgrade, trash it.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this event, spend click. Expose 1 card installed in the root of a remote server. If you do and that card is an asset or upgrade, trash it."
+    "quantity": 3
   },
   {
     "card_id": "forger",
@@ -54,9 +46,7 @@
     "illustrator": "Lili Ibrahim",
     "position": 65,
     "printed_is_unique": false,
-    "printed_text": "+1[link]\n[interrupt] → <strong>[trash]:</strong> Prevent 1 tag.\n<strong>[trash]:</strong> Remove 1 tag.\nLimit 1 <strong>console</strong> per player.",
-    "quantity": 3,
-    "stripped_printed_text": "+1 link Interrupt -> trash: Prevent 1 tag. trash: Remove 1 tag. Limit 1 console per player."
+    "quantity": 3
   },
   {
     "card_id": "shiv",
@@ -65,9 +55,7 @@
     "illustrator": "Adam S. Doyle",
     "position": 66,
     "printed_is_unique": false,
-    "printed_text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nThis program gets +1 strength for each installed <strong>icebreaker</strong>.\nInterface → <strong>[trash]:</strong> Break up to 3 <strong>sentry</strong> subroutines.",
-    "quantity": 3,
-    "stripped_printed_text": "If you have at least 2 link, the memory cost of this program is 0 mu, even if it is not installed. This program gets +1 strength for each installed icebreaker. Interface -> trash: Break up to 3 sentry subroutines."
+    "quantity": 3
   },
   {
     "card_id": "gang_sign",
@@ -77,9 +65,7 @@
     "illustrator": "Adam S. Doyle",
     "position": 67,
     "printed_is_unique": false,
-    "printed_text": "Whenever the Corp scores an agenda, breach HQ. You cannot access cards in the root of HQ during this breach.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever the Corp scores an agenda, breach HQ. You cannot access cards in the root of HQ during this breach."
+    "quantity": 3
   },
   {
     "card_id": "muertos_gang_member",
@@ -89,9 +75,7 @@
     "illustrator": "Matt Zeilinger",
     "position": 68,
     "printed_is_unique": false,
-    "printed_text": "When you install Muertos Gang Member, the Corp must derez a card.\nWhen Muertos Gang Member is uninstalled, the Corp may rez a card, ignoring the rez cost.\n[trash]: Draw 1 card.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install Muertos Gang Member, the Corp must derez a card. When Muertos Gang Member is uninstalled, the Corp may rez a card, ignoring the rez cost. trash: Draw 1 card."
+    "quantity": 3
   },
   {
     "card_id": "chameleon",
@@ -100,9 +84,7 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 69,
     "printed_is_unique": false,
-    "printed_text": "When you install this program, choose <strong>barrier</strong>, <strong>code gate</strong>, or <strong>sentry</strong>.\nWhen your discard phase ends, add this program to your grip.\nInterface → 1[credit]: Break 1 subroutine on a piece of ice that has the chosen subtype.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this program, choose barrier, code gate, or sentry. When your discard phase ends, add this program to your grip. Interface -> 1 credit: Break 1 subroutine on a piece of ice that has the chosen subtype."
+    "quantity": 3
   },
   {
     "card_id": "hyperdriver",
@@ -112,9 +94,7 @@
     "illustrator": "Adam S. Doyle",
     "position": 70,
     "printed_is_unique": false,
-    "printed_text": "When your turn begins, you may remove Hyperdriver from the game and gain [click][click][click].",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, you may remove Hyperdriver from the game and gain click click click."
+    "quantity": 3
   },
   {
     "card_id": "test_ground",
@@ -124,9 +104,7 @@
     "illustrator": "Sam Lamont",
     "position": 71,
     "printed_is_unique": false,
-    "printed_text": "Test Ground can be advanced.\n[trash]: Derez 1 card for each advancement token on Test Ground.",
-    "quantity": 3,
-    "stripped_printed_text": "Test Ground can be advanced. trash: Derez 1 card for each advancement token on Test Ground."
+    "quantity": 3
   },
   {
     "card_id": "defective_brainchips",
@@ -135,9 +113,7 @@
     "illustrator": "Sara K. Diesel",
     "position": 72,
     "printed_is_unique": false,
-    "printed_text": "This operation is not trashed until another <strong>current</strong> is played or an agenda is stolen.\n[interrupt] → The first time each turn the Runner would suffer core damage, increase that damage by 1.",
-    "quantity": 3,
-    "stripped_printed_text": "This operation is not trashed until another current is played or an agenda is stolen. Interrupt -> The first time each turn the Runner would suffer core damage, increase that damage by 1."
+    "quantity": 3
   },
   {
     "card_id": "allele_repression",
@@ -146,9 +122,7 @@
     "illustrator": "JB Casacop",
     "position": 73,
     "printed_is_unique": false,
-    "printed_text": "Allele Repression can be advanced.\n[trash]: Swap 1 card in HQ with 1 card in Archives for each advancement token on Allele Repression.",
-    "quantity": 3,
-    "stripped_printed_text": "Allele Repression can be advanced. trash: Swap 1 card in HQ with 1 card in Archives for each advancement token on Allele Repression."
+    "quantity": 3
   },
   {
     "card_id": "marcus_batty",
@@ -157,9 +131,7 @@
     "illustrator": "Frederic Pinson",
     "position": 74,
     "printed_is_unique": true,
-    "printed_text": "[trash]: You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, resolve 1 subroutine on a rezzed piece of ice protecting this server. Use this ability only during a run on this server.",
-    "quantity": 3,
-    "stripped_printed_text": "trash: You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, resolve 1 subroutine on a rezzed piece of ice protecting this server. Use this ability only during a run on this server."
+    "quantity": 3
   },
   {
     "card_id": "expose",
@@ -169,9 +141,7 @@
     "illustrator": "Sara K. Diesel",
     "position": 75,
     "printed_is_unique": false,
-    "printed_text": "Exposé can be advanced.\n[trash]: Remove 1 bad publicity for each advancement token on Exposé.",
-    "quantity": 3,
-    "stripped_printed_text": "Expose can be advanced. trash: Remove 1 bad publicity for each advancement token on Expose."
+    "quantity": 3
   },
   {
     "card_id": "pachinko",
@@ -181,9 +151,7 @@
     "illustrator": "Donald Crank",
     "position": 76,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] End the run if the Runner is tagged.\n[subroutine] End the run if the Runner is tagged.",
-    "quantity": 3,
-    "stripped_printed_text": "Subroutine End the run if the Runner is tagged. Subroutine End the run if the Runner is tagged."
+    "quantity": 3
   },
   {
     "card_id": "underway_renovation",
@@ -192,9 +160,7 @@
     "illustrator": "Alex Kim",
     "position": 77,
     "printed_is_unique": false,
-    "printed_text": "Install Underway Renovation faceup.\nWhenever you advance Underway Renovation, trash the top card of the Runner's stack (or top 2 cards instead if there are 4 or more advancement tokens on Underway Renovation).",
-    "quantity": 3,
-    "stripped_printed_text": "Install Underway Renovation faceup. Whenever you advance Underway Renovation, trash the top card of the Runner's stack (or top 2 cards instead if there are 4 or more advancement tokens on Underway Renovation)."
+    "quantity": 3
   },
   {
     "card_id": "contract_killer",
@@ -204,9 +170,7 @@
     "illustrator": "Clark Huggins",
     "position": 78,
     "printed_is_unique": false,
-    "printed_text": "Contract Killer can be advanced.\nIf there are at least 2 advancement tokens on Contract Killer, it gains: \"[click], [trash]: Trash a <strong>connection</strong> or do 2 meat damage.\"",
-    "quantity": 3,
-    "stripped_printed_text": "Contract Killer can be advanced. If there are at least 2 advancement tokens on Contract Killer, it gains: \"click, trash: Trash a connection or do 2 meat damage.\""
+    "quantity": 3
   },
   {
     "card_id": "spiderweb",
@@ -216,9 +180,7 @@
     "illustrator": "Laura Wilson",
     "position": 79,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "Subroutine End the run. Subroutine End the run. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "underway_grid",
@@ -227,8 +189,6 @@
     "illustrator": "Alex Kim",
     "position": 80,
     "printed_is_unique": false,
-    "printed_text": "Ice protecting this server cannot be bypassed.\nCards in the root of and/or protecting this server cannot be exposed.\nLimit 1 <strong>region</strong> per server.",
-    "quantity": 3,
-    "stripped_printed_text": "Ice protecting this server cannot be bypassed. Cards in the root of and/or protecting this server cannot be exposed. Limit 1 region per server."
+    "quantity": 3
   }
 ]

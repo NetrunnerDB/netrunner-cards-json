@@ -7,9 +7,7 @@
     "illustrator": "Marius Bota",
     "position": 21,
     "printed_is_unique": false,
-    "printed_text": "<strong>[click]:</strong> Trash 2 or more cards from your grip. Run HQ or R&D. Whenever you breach that server during this run, access 1 additional card for every 2 cards you trashed.",
-    "quantity": 3,
-    "stripped_printed_text": "click: Trash 2 or more cards from your grip. Run HQ or R&D. Whenever you breach that server during this run, access 1 additional card for every 2 cards you trashed."
+    "quantity": 3
   },
   {
     "card_id": "clan_vengeance",
@@ -19,9 +17,7 @@
     "illustrator": "Kate Laird",
     "position": 22,
     "printed_is_unique": false,
-    "printed_text": "Whenever you suffer any amount of damage, place 1 power counter on Clan Vengeance.\n[trash]: Trash 1 card from HQ at random for each power counter on Clan Vengeance.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever you suffer any amount of damage, place 1 power counter on Clan Vengeance. trash: Trash 1 card from HQ at random for each power counter on Clan Vengeance."
+    "quantity": 3
   },
   {
     "card_id": "counter_surveillance",
@@ -31,9 +27,7 @@
     "illustrator": "Nasrul Hakim",
     "position": 23,
     "printed_is_unique": false,
-    "printed_text": "<strong>[click]</strong>, <strong>[trash]:</strong> Run any server. If successful, instead of breaching the attacked server, pay X[credit] if able, where X is equal to the number of tags you have. If you do, choose a number less than or equal to X. Access that many cards in and/or in the root of the attacked server. <em>(If you cannot pay, you will not access anything.)</em>",
-    "quantity": 3,
-    "stripped_printed_text": "click, trash: Run any server. If successful, instead of breaching the attacked server, pay X credits if able, where X is equal to the number of tags you have. If you do, choose a number less than or equal to X. Access that many cards in and/or in the root of the attacked server. (If you cannot pay, you will not access anything.)"
+    "quantity": 3
   },
   {
     "card_id": "mobius",
@@ -42,9 +36,7 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 24,
     "printed_is_unique": false,
-    "printed_text": "Make a run on R&D. If successful, you may make another run on R&D when this run ends. If the second run is successful, gain 4[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "Make a run on R&D. If successful, you may make another run on R&D when this run ends. If the second run is successful, gain 4 credits."
+    "quantity": 3
   },
   {
     "card_id": "los_data_hijacker",
@@ -54,9 +46,7 @@
     "illustrator": "Matt Zeilinger",
     "position": 25,
     "printed_is_unique": false,
-    "printed_text": "The first time the Corp rezzes a piece of ice each turn, gain 2[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "The first time the Corp rezzes a piece of ice each turn, gain 2 credits."
+    "quantity": 3
   },
   {
     "card_id": "system_seizure",
@@ -65,9 +55,7 @@
     "illustrator": "Ethan Patrick Harris",
     "position": 26,
     "printed_is_unique": false,
-    "printed_text": "This event is not trashed until another <strong>current</strong> is played or an agenda is scored.\n[interrupt] → The first time each turn you would increase the strength of an <strong>icebreaker</strong>, for the remainder of the run that <strong>icebreaker</strong> gains \"Abilities that increase this program's strength last for the remainder of the run <em>(instead of any shorter duration)</em>.\"",
-    "quantity": 3,
-    "stripped_printed_text": "This event is not trashed until another current is played or an agenda is scored. Interrupt -> The first time each turn you would increase the strength of an icebreaker, for the remainder of the run that icebreaker gains \"Abilities that increase this program's strength last for the remainder of the run (instead of any shorter duration).\""
+    "quantity": 3
   },
   {
     "card_id": "customized_secretary",
@@ -76,9 +64,7 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 27,
     "printed_is_unique": false,
-    "printed_text": "When you install Customized Secretary reveal the top 5 cards of the stack. You may host any number of revealed programs from your stack on it. Shuffle your stack.\n[click]: Install a hosted program, paying all install costs.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install Customized Secretary reveal the top 5 cards of the stack. You may host any number of revealed programs from your stack on it. Shuffle your stack. click: Install a hosted program, paying all install costs."
+    "quantity": 3
   },
   {
     "card_id": "build_script",
@@ -88,9 +74,7 @@
     "illustrator": "Ed Mattinian",
     "position": 28,
     "printed_is_unique": false,
-    "printed_text": "Gain 1[credit] and draw 2 cards.",
-    "quantity": 3,
-    "stripped_printed_text": "Gain 1 credit and draw 2 cards."
+    "quantity": 3
   },
   {
     "card_id": "seidr_adaptive_barrier",
@@ -99,9 +83,7 @@
     "illustrator": "Michał Miłkowski",
     "position": 29,
     "printed_is_unique": false,
-    "printed_text": "Seidr Adaptive Barrier has +1 strength for each piece of ice protecting this server.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "Seidr Adaptive Barrier has +1 strength for each piece of ice protecting this server. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "nerine_2_0",
@@ -111,9 +93,7 @@
     "illustrator": "Ethan Patrick Harris",
     "position": 30,
     "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage. You may draw 1 card.\n[subroutine] Do 1 core damage. You may draw 1 card.",
-    "quantity": 3,
-    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. You may draw 1 card. Subroutine Do 1 core damage. You may draw 1 card."
+    "quantity": 3
   },
   {
     "card_id": "load_testing",
@@ -123,9 +103,7 @@
     "illustrator": "Ed Mattinian",
     "position": 31,
     "printed_is_unique": false,
-    "printed_text": "When the Runner's next turn begins, they lose [click].",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner's next turn begins, they lose click."
+    "quantity": 3
   },
   {
     "card_id": "bloom",
@@ -134,9 +112,7 @@
     "illustrator": "Liiga Smilshkalne",
     "position": 32,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] You may install 1 piece of ice from HQ protecting another server, ignoring all costs.\n[subroutine] You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs.",
-    "quantity": 3,
-    "stripped_printed_text": "Subroutine You may install 1 piece of ice from HQ protecting another server, ignoring all costs. Subroutine You may install 1 piece of ice from HQ directly inward from this ice, ignoring all costs."
+    "quantity": 3
   },
   {
     "card_id": "replanting",
@@ -145,9 +121,7 @@
     "illustrator": "Mark Molnar",
     "position": 33,
     "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this operation, spend [click].\nAdd one of your installed cards to HQ. Install 2 cards from HQ, ignoring all costs.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this operation, spend click. Add one of your installed cards to HQ. Install 2 cards from HQ, ignoring all costs."
+    "quantity": 3
   },
   {
     "card_id": "cpc_generator",
@@ -157,9 +131,7 @@
     "illustrator": "Andreas Zafiratos",
     "position": 34,
     "printed_is_unique": false,
-    "printed_text": "The first time the Runner spends [click] to gain 1[credit] each turn (not through a card effect), gain 1[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "The first time the Runner spends click to gain 1 credit each turn (not through a card effect), gain 1 credit."
+    "quantity": 3
   },
   {
     "card_id": "free_lunch",
@@ -168,9 +140,7 @@
     "illustrator": "Adam S. Doyle",
     "position": 35,
     "printed_is_unique": false,
-    "printed_text": "<strong>Hosted power counter:</strong> The Runner loses 1[credit].\n[subroutine] Place 1 power counter on Free Lunch.\n[subroutine] Place 1 power counter on Free Lunch.",
-    "quantity": 3,
-    "stripped_printed_text": "Hosted power counter: The Runner loses 1 credit. Subroutine Place 1 power counter on Free Lunch. Subroutine Place 1 power counter on Free Lunch."
+    "quantity": 3
   },
   {
     "card_id": "mca_informant",
@@ -179,9 +149,7 @@
     "illustrator": "Limetown Studios",
     "position": 36,
     "printed_is_unique": false,
-    "printed_text": "After you resolve this operation, your action phase ends.\nHost this operation on an installed <strong>connection</strong> resource as a condition counter with \"The Runner is considered to have 1 additional tag. Host resource gains '<strong>[click]</strong>, <strong>2[credit]:</strong> Trash this resource.'\"",
-    "quantity": 3,
-    "stripped_printed_text": "After you resolve this operation, your action phase ends. Host this operation on an installed connection resource as a condition counter with \"The Runner is considered to have 1 additional tag. Host resource gains 'click, 2 credits: Trash this resource.'\""
+    "quantity": 3
   },
   {
     "card_id": "clyde_van_rite",
@@ -191,9 +159,7 @@
     "illustrator": "Anna Edwards",
     "position": 37,
     "printed_is_unique": true,
-    "printed_text": "When your turn begins, the Runner must pay 1[credit] or trash the top card of the stack.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, the Runner must pay 1 credit or trash the top card of the stack."
+    "quantity": 3
   },
   {
     "card_id": "watchtower",
@@ -203,9 +169,7 @@
     "illustrator": "BalanceSheet",
     "position": 38,
     "printed_is_unique": false,
-    "printed_text": "[subroutine] Search R&D for a card and add it to HQ. Shuffle R&D.",
-    "quantity": 3,
-    "stripped_printed_text": "Subroutine Search R&D for a card and add it to HQ. Shuffle R&D."
+    "quantity": 3
   },
   {
     "card_id": "sacrifice",
@@ -214,9 +178,7 @@
     "illustrator": "Martin de Diego Sádaba",
     "position": 39,
     "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this operation, forfeit an agenda.\nRemove 1 bad publicity per agenda point that the forfeited agenda was worth. Gain 1[credit] for each bad publicity removed.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this operation, forfeit an agenda. Remove 1 bad publicity per agenda point that the forfeited agenda was worth. Gain 1 credit for each bad publicity removed."
+    "quantity": 3
   },
   {
     "card_id": "self_adapting_code_wall",
@@ -226,8 +188,6 @@
     "illustrator": "Shawn Ye Zhongyi",
     "position": 40,
     "printed_is_unique": false,
-    "printed_text": "The strength of Self-Adapting Code Wall cannot be lowered.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "The strength of Self-Adapting Code Wall cannot be lowered. Subroutine End the run."
+    "quantity": 3
   }
 ]
