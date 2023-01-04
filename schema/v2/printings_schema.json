@@ -30,21 +30,11 @@
         "minimum": 1,
         "type": "integer"
       },
-      "printed_is_unique": {
-        "type": "boolean"
-      },
       "quantity": {
         "minimum": 1,
         "type": "integer"
       }
     },
-    "required": [
-      "card_id",
-      "card_set_id",
-      "id",
-      "position",
-      "printed_is_unique",
-      "quantity"
-    ]
+    "required": ["card_id", "card_set_id", "id", "position", "quantity"]
   }
 }

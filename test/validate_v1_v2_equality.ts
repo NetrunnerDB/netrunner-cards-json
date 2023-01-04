@@ -257,10 +257,6 @@ describe('Printings v1/v2 equality', () => {
     validate('position');
   });
 
-  it('printed_is_unique matches', () => {
-    validate('uniqueness', 'printed_is_unique');
-  });
-
   it('quantity matches', () => {
     validate('quantity');
   });
