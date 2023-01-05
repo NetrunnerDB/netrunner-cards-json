@@ -74,7 +74,7 @@
     "side_code": "runner",
     "stripped_text": "trash: Set aside the top 6 cards of your stack. You may install 1 program or virtual resource from among the set aside cards, paying 2 credits less. Shuffle 3 of the remaining cards into your stack, then remove the rest from the game.",
     "stripped_title": "Gachapon",
-    "text": "[trash]: Set aside the top 6 cards of your stack. You may install 1 program or <strong>virtual</strong> resource from among the set aside cards, paying 2[credit] less. Shuffle 3 of the remaining cards into your stack, then remove the rest from the game.",
+    "text": "[trash]<strong>:</strong> Set aside the top 6 cards of your stack. You may install 1 program or <strong>virtual</strong> resource from among the set aside cards, paying 2[credit] less. Shuffle 3 of the remaining cards into your stack, then remove the rest from the game.",
     "title": "Gachapon",
     "type_code": "hardware",
     "uniqueness": false
@@ -195,7 +195,7 @@
     "side_code": "runner",
     "stripped_text": "When you install this hardware, choose an installed piece of ice. Use this hardware only during encounters with that ice. trash: Break up to 2 subroutines. When this run ends, if it is successful, you may shuffle a copy of Boomerang from your heap into your stack.",
     "stripped_title": "Boomerang",
-    "text": "When you install this hardware, choose an installed piece of ice. Use this hardware only during encounters with that ice.\n[trash]: Break up to 2 subroutines. When this run ends, if it is successful, you may shuffle a copy of Boomerang from your heap into your stack.",
+    "text": "When you install this hardware, choose an installed piece of ice. Use this hardware only during encounters with that ice.\n[trash]<strong>:</strong> Break up to 2 subroutines. When this run ends, if it is successful, you may shuffle a copy of Boomerang from your heap into your stack.",
     "title": "Boomerang",
     "type_code": "hardware",
     "uniqueness": true
@@ -233,7 +233,7 @@
     "side_code": "runner",
     "stripped_text": "The first time each turn a run begins, you may look at the top 2 cards of your stack. 1 credit: Reveal the top card of your stack. You may install that card if it is a program or piece of hardware. Use this ability only once per turn.",
     "stripped_title": "Prognostic Q-Loop",
-    "text": "The first time each turn a run begins, you may look at the top 2 cards of your stack.\n1[credit]: Reveal the top card of your stack. You may install that card if it is a program or piece of hardware. Use this ability only once per turn.",
+    "text": "The first time each turn a run begins, you may look at the top 2 cards of your stack.\n<strong>1[credit]:</strong> Reveal the top card of your stack. You may install that card if it is a program or piece of hardware. Use this ability only once per turn.",
     "title": "Prognostic Q-Loop",
     "type_code": "hardware",
     "uniqueness": true
@@ -395,7 +395,7 @@
     "side_code": "runner",
     "stripped_text": "If no installed programs have been trashed this turn, you must trash 1 installed program as an additional cost to use this hardware. trash: Install 1 program from your heap, paying 3 credits less.",
     "stripped_title": "Simulchip",
-    "text": "If no installed programs have been trashed this turn, you must trash 1 installed program as an additional cost to use this hardware.\n[trash]: Install 1 program from your heap, paying 3[credit] less.",
+    "text": "If no installed programs have been trashed this turn, you must trash 1 installed program as an additional cost to use this hardware.\n[trash]<strong>:</strong> Install 1 program from your heap, paying 3[credit] less.",
     "title": "Simulchip",
     "type_code": "hardware",
     "uniqueness": false
@@ -500,7 +500,7 @@
     "side_code": "runner",
     "stripped_text": "2 credits, trash: Search your stack for a program. Install it.",
     "stripped_title": "Self-modifying Code",
-    "text": "2[credit], [trash]: Search your stack for a program. Install it.",
+    "text": "<strong>2[credit]</strong>, [trash]<strong>:</strong> Search your stack for a program. Install it.",
     "title": "Self-modifying Code",
     "type_code": "program",
     "uniqueness": false
@@ -656,7 +656,7 @@
     "side_code": "corp",
     "stripped_text": "click, trash: Gain click click.",
     "stripped_title": "Bass CH1R180G4",
-    "text": "[click], [trash]: Gain [click][click].",
+    "text": "[click], [trash]<strong>:</strong> Gain [click][click].",
     "title": "Bass CH1R180G4",
     "trash_cost": 4,
     "type_code": "asset",
@@ -1004,7 +1004,7 @@
     "strength": 5,
     "stripped_text": "2 credits: Break 1 subroutine on this ice. Only the Runner can use this ability, and only if they are not tagged. Subroutine Add 1 installed Runner card to the grip. Subroutine Give the Runner 1 tag.",
     "stripped_title": "F2P",
-    "text": "2[credit]: Break 1 subroutine on this ice. Only the Runner can use this ability, and only if they are not tagged.\n[subroutine] Add 1 installed Runner card to the grip.\n[subroutine] Give the Runner 1 tag.",
+    "text": "<strong>2[credit]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability, and only if they are not tagged.\n[subroutine] Add 1 installed Runner card to the grip.\n[subroutine] Give the Runner 1 tag.",
     "title": "F2P",
     "type_code": "ice",
     "uniqueness": false
@@ -1105,7 +1105,7 @@
     "side_code": "corp",
     "stripped_text": "Limit 1 remote server. As an additional cost to run HQ, the Runner must pay 1 credit. click: Flip this identity. Flip side: Limit 1 remote server. As an additional cost to run a remote server, the Runner must pay 6 credits. When the Runner makes a successful run on HQ, flip this identity.",
     "stripped_title": "Earth Station: SEA Headquarters",
-    "text": "Limit 1 remote server.\nAs an additional cost to run HQ, the Runner must pay 1[credit].\n[click]: Flip this identity.\nFlip side:\nLimit 1 remote server.\nAs an additional cost to run a remote server, the Runner must pay 6[credit].\nWhen the Runner makes a successful run on HQ, flip this identity.",
+    "text": "Limit 1 remote server.\nAs an additional cost to run HQ, the Runner must pay 1[credit].\n[click]<strong>:</strong> Flip this identity.\nFlip side:\nLimit 1 remote server.\nAs an additional cost to run a remote server, the Runner must pay 6[credit].\nWhen the Runner makes a successful run on HQ, flip this identity.",
     "title": "Earth Station: SEA Headquarters",
     "type_code": "identity",
     "uniqueness": false
