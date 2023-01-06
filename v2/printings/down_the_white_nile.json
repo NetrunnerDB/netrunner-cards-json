@@ -6,10 +6,7 @@
     "id": "21021",
     "illustrator": "Alexandr Elichev",
     "position": 21,
-    "printed_is_unique": false,
-    "printed_text": "Whenever the Corp purges virus counters, you may gain 1[credit] for each virus counter removed and trash Acacia.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever the Corp purges virus counters, you may gain 1 credit for each virus counter removed and trash Acacia."
+    "quantity": 3
   },
   {
     "card_id": "plague",
@@ -18,10 +15,7 @@
     "id": "21022",
     "illustrator": "Ethan Patrick Harris",
     "position": 22,
-    "printed_is_unique": false,
-    "printed_text": "When you install Plague, choose a server.\nWhenever you make a successful run on the chosen server, you may place 2 virus counters on Plague.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install Plague, choose a server. Whenever you make a successful run on the chosen server, you may place 2 virus counters on Plague."
+    "quantity": 3
   },
   {
     "card_id": "credit_kiting",
@@ -30,10 +24,7 @@
     "id": "21023",
     "illustrator": "Caravan Studio",
     "position": 23,
-    "printed_is_unique": false,
-    "printed_text": "Play only if you made a successful run on a central server this turn.\nInstall a card from your grip, lowering its install cost by 8[credit], and take 1 tag.",
-    "quantity": 3,
-    "stripped_printed_text": "Play only if you made a successful run on a central server this turn. Install a card from your grip, lowering its install cost by 8 credits, and take 1 tag."
+    "quantity": 3
   },
   {
     "card_id": "wari",
@@ -42,10 +33,7 @@
     "id": "21024",
     "illustrator": "Adam S. Doyle",
     "position": 24,
-    "printed_is_unique": true,
-    "printed_text": "The first time you make a successful run on HQ each turn, you may trash Wari to name <strong>sentry</strong>, <strong>code gate</strong> or <strong>barrier</strong>. Expose a piece of ice, then add it to HQ if it has the named subtype.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time you make a successful run on HQ each turn, you may trash Wari to name sentry, code gate or barrier. Expose a piece of ice, then add it to HQ if it has the named subtype."
+    "quantity": 3
   },
   {
     "card_id": "kabonesa_wu_netspace_thrillseeker",
@@ -53,10 +41,7 @@
     "id": "21025",
     "illustrator": "Antonio De Luca",
     "position": 25,
-    "printed_is_unique": false,
-    "printed_text": "[click]: Search your stack for a non-<strong>virus</strong> program and install it, lowering its install cost by 1[credit], then shuffle your stack. If that program is still installed when your turn ends, remove it from the game.",
-    "quantity": 3,
-    "stripped_printed_text": "click: Search your stack for a non-virus program and install it, lowering its install cost by 1 credit, then shuffle your stack. If that program is still installed when your turn ends, remove it from the game."
+    "quantity": 3
   },
   {
     "card_id": "takobi",
@@ -65,10 +50,7 @@
     "id": "21026",
     "illustrator": "Andreas Zafiratos",
     "position": 26,
-    "printed_is_unique": true,
-    "printed_text": "Whenever you fully break a piece of ice, you may place 1 power counter on this program.\n<strong>2 hosted power counters:</strong> Choose 1 installed non-<strong>AI</strong> <strong>icebreaker</strong>. That <strong>icebreaker</strong> gets +3 strength for the remainder of the current encounter.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever you fully break a piece of ice, you may place 1 power counter on this program. 2 hosted power counters: Choose 1 installed non-AI icebreaker. That icebreaker gets +3 strength for the remainder of the current encounter."
+    "quantity": 3
   },
   {
     "card_id": "kongamato",
@@ -77,10 +59,7 @@
     "id": "21027",
     "illustrator": "Liiga Smilshkalne",
     "position": 27,
-    "printed_is_unique": false,
-    "printed_text": "[trash]: Break the first subroutine on the encountered piece of ice.",
-    "quantity": 3,
-    "stripped_printed_text": "trash: Break the first subroutine on the encountered piece of ice."
+    "quantity": 3
   },
   {
     "card_id": "emergent_creativity",
@@ -88,10 +67,7 @@
     "id": "21028",
     "illustrator": "Caravan Studio",
     "position": 28,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this event, spend [click].\nTrash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X[credit] less. X is equal to the total install cost of the trashed cards.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this event, spend click. Trash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X credits less. X is equal to the total install cost of the trashed cards."
+    "quantity": 3
   },
   {
     "card_id": "rng_key",
@@ -100,10 +76,7 @@
     "id": "21029",
     "illustrator": "Andreas Zafiratos",
     "position": 29,
-    "printed_is_unique": true,
-    "printed_text": "The first time you make a successful run on HQ or R&D each turn, you may name a number. If you do, reveal the next card that you access this run. If it has a rez cost, play cost, or advancement requirement equal to the named number, either gain 3[credit] or draw 2 cards.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time you make a successful run on HQ or R&D each turn, you may name a number. If you do, reveal the next card that you access this run. If it has a rez cost, play cost, or advancement requirement equal to the named number, either gain 3 credits or draw 2 cards."
+    "quantity": 3
   },
   {
     "card_id": "nightdancer",
@@ -112,10 +85,7 @@
     "id": "21030",
     "illustrator": "Galen Dara",
     "position": 30,
-    "printed_is_unique": false,
-    "printed_text": "[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn.\n[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn.",
-    "quantity": 3,
-    "stripped_printed_text": "Subroutine The Runner loses click, if able. You have an additional click to spend during your next turn. Subroutine The Runner loses click, if able. You have an additional click to spend during your next turn."
+    "quantity": 3
   },
   {
     "card_id": "jinja_city_grid",
@@ -124,10 +94,7 @@
     "id": "21031",
     "illustrator": "Kirsten Zirngibl",
     "position": 31,
-    "printed_is_unique": false,
-    "printed_text": "Whenever you draw a piece of ice, you may reveal it and install it protecting this server, paying 4[credit] less.\nLimit 1 <strong>region</strong> per server.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever you draw a piece of ice, you may reveal it and install it protecting this server, paying 4 credits less. Limit 1 region per server."
+    "quantity": 3
   },
   {
     "card_id": "aimor",
@@ -136,10 +103,7 @@
     "id": "21032",
     "illustrator": "Adam S. Doyle",
     "position": 32,
-    "printed_is_unique": false,
-    "printed_text": "[subroutine] Trash the top 3 cards of the stack. Trash Aimor.",
-    "quantity": 3,
-    "stripped_printed_text": "Subroutine Trash the top 3 cards of the stack. Trash Aimor."
+    "quantity": 3
   },
   {
     "card_id": "bacterial_programming",
@@ -147,10 +111,7 @@
     "id": "21033",
     "illustrator": "Pavel Kolomeyets",
     "position": 33,
-    "printed_is_unique": false,
-    "printed_text": "When Bacterial Programming is scored or stolen, you may look at the top 7 cards of R&D, add any number of them to HQ, trash any number of them, and arrange the rest in any order.",
-    "quantity": 3,
-    "stripped_printed_text": "When Bacterial Programming is scored or stolen, you may look at the top 7 cards of R&D, add any number of them to HQ, trash any number of them, and arrange the rest in any order."
+    "quantity": 3
   },
   {
     "card_id": "jua",
@@ -159,10 +120,7 @@
     "id": "21034",
     "illustrator": "Mariusz Siergiejew",
     "position": 34,
-    "printed_is_unique": false,
-    "printed_text": "When the Runner encounters this ice, they cannot install cards for the remainder of the turn.\n[subroutine] Choose 2 installed Runner cards, if able. The Runner must add 1 of the chosen cards to the top of the stack.",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters this ice, they cannot install cards for the remainder of the turn. Subroutine Choose 2 installed Runner cards, if able. The Runner must add 1 of the chosen cards to the top of the stack."
+    "quantity": 3
   },
   {
     "card_id": "threat_assessment",
@@ -170,10 +128,7 @@
     "id": "21035",
     "illustrator": "Martin de Diego Sádaba",
     "position": 35,
-    "printed_is_unique": false,
-    "printed_text": "Play only if the Runner trashed a Corp card during their last turn.\nChoose 1 installed Runner card. The Runner must take 2 tags or add that card to the top of the stack.\nRemove this operation from the game.",
-    "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner trashed a Corp card during their last turn. Choose 1 installed Runner card. The Runner must take 2 tags or add that card to the top of the stack. Remove this operation from the game."
+    "quantity": 3
   },
   {
     "card_id": "economic_warfare",
@@ -182,10 +137,7 @@
     "id": "21036",
     "illustrator": "Michał Miłkowski",
     "position": 36,
-    "printed_is_unique": false,
-    "printed_text": "Play only if the Runner made a successful run during their last turn.\nIf the Runner has at least 4[credit], they lose 4[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner made a successful run during their last turn. If the Runner has at least 4 credits, they lose 4 credits."
+    "quantity": 3
   },
   {
     "card_id": "forced_connection",
@@ -193,10 +145,7 @@
     "id": "21037",
     "illustrator": "Josh Corpuz",
     "position": 37,
-    "printed_is_unique": false,
-    "printed_text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade anywhere except in Archives, Trace[3]. If successful, give the Runner 2 tags.",
-    "quantity": 3,
-    "stripped_printed_text": "While the Runner is accessing this upgrade in R&D, they must reveal it. When the Runner accesses this upgrade anywhere except in Archives, Trace[3]. If successful, give the Runner 2 tags."
+    "quantity": 3
   },
   {
     "card_id": "ssl_endorsement",
@@ -204,10 +153,7 @@
     "id": "21038",
     "illustrator": "Caravan Studio",
     "position": 38,
-    "printed_is_unique": false,
-    "printed_text": "When this agenda is scored or stolen, place 9[credit] on it.\nWhen the Corp's turn begins, they may take 3[credit] from this agenda. This ability is active even while this agenda is in the Runner's score area.",
-    "quantity": 3,
-    "stripped_printed_text": "When this agenda is scored or stolen, place 9 credits on it. When the Corp's turn begins, they may take 3 credits from this agenda. This ability is active even while this agenda is in the Runner's score area."
+    "quantity": 3
   },
   {
     "card_id": "ngo_front",
@@ -216,10 +162,7 @@
     "id": "21039",
     "illustrator": "Emilio Rodriguez",
     "position": 39,
-    "printed_is_unique": false,
-    "printed_text": "NGO Front can be advanced.\n[trash],<strong>1 hosted advancement token</strong>: Gain 5[credit].\n[trash],<strong>2 hosted advancement tokens</strong>: Gain 8[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "NGO Front can be advanced. trash,1 hosted advancement token: Gain 5 credits. trash,2 hosted advancement tokens: Gain 8 credits."
+    "quantity": 3
   },
   {
     "card_id": "distract_the_masses",
@@ -228,9 +171,6 @@
     "id": "21040",
     "illustrator": "Emilio Rodriguez",
     "position": 40,
-    "printed_is_unique": false,
-    "printed_text": "The Runner gains 2[credit]. Trash up to 2 cards from HQ, then shuffle up to 2 cards from Archives into R&D. Remove Distract the Masses from the game instead of trashing it.",
-    "quantity": 3,
-    "stripped_printed_text": "The Runner gains 2 credits. Trash up to 2 cards from HQ, then shuffle up to 2 cards from Archives into R&D. Remove Distract the Masses from the game instead of trashing it."
+    "quantity": 3
   }
 ]

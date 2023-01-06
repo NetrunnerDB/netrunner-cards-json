@@ -6,10 +6,7 @@
     "id": "02001",
     "illustrator": "Matt Zeilinger",
     "position": 1,
-    "printed_is_unique": false,
-    "printed_text": "3[recurring-credit]\nUse these credits to trash cards.",
-    "quantity": 3,
-    "stripped_printed_text": "3 recurring credits Use these credits to trash cards."
+    "quantity": 3
   },
   {
     "card_id": "spinal_modem",
@@ -17,10 +14,7 @@
     "id": "02002",
     "illustrator": "Gong Studios",
     "position": 2,
-    "printed_is_unique": true,
-    "printed_text": "+1[mu], 2[recurring-credit]\nYou can spend hosted credits to use <strong>icebreakers</strong>.\nWhenever there is a successful trace during a run, suffer 1 core damage.\nLimit 1 <strong>console</strong> per player.",
-    "quantity": 3,
-    "stripped_printed_text": "+1 mu, 2 recurring credits You can spend hosted credits to use icebreakers. Whenever there is a successful trace during a run, suffer 1 core damage. Limit 1 console per player."
+    "quantity": 3
   },
   {
     "card_id": "imp",
@@ -29,10 +23,7 @@
     "id": "02003",
     "illustrator": "Wen Xiaodong",
     "position": 3,
-    "printed_is_unique": false,
-    "printed_text": "When you install this program, place 2 virus counters on it.\nAccess → <strong>Hosted virus counter:</strong> Trash the card you are accessing. Use this ability only once per turn.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this program, place 2 virus counters on it. Access -> Hosted virus counter: Trash the card you are accessing. Use this ability only once per turn."
+    "quantity": 3
   },
   {
     "card_id": "morning_star",
@@ -41,10 +32,7 @@
     "id": "02004",
     "illustrator": "Robert Chew",
     "position": 4,
-    "printed_is_unique": false,
-    "printed_text": "Interface → <strong>1[credit]:</strong> Break any number of <strong>barrier</strong> subroutines.",
-    "quantity": 3,
-    "stripped_printed_text": "Interface -> 1 credit: Break any number of barrier subroutines."
+    "quantity": 3
   },
   {
     "card_id": "cortez_chip",
@@ -53,10 +41,7 @@
     "id": "02005",
     "illustrator": "Mauricio Herrera",
     "position": 5,
-    "printed_is_unique": false,
-    "printed_text": "[trash]: Choose a piece of ice. The Corp must pay 2[credit] as an additional cost to rez that ice until the end of the turn.",
-    "quantity": 3,
-    "stripped_printed_text": "trash: Choose a piece of ice. The Corp must pay 2 credits as an additional cost to rez that ice until the end of the turn."
+    "quantity": 3
   },
   {
     "card_id": "peacock",
@@ -65,10 +50,7 @@
     "id": "02006",
     "illustrator": "Adam S. Doyle",
     "position": 6,
-    "printed_is_unique": false,
-    "printed_text": "Interface → <strong>2[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> +3 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "Interface -> 2 credits: Break 1 code gate subroutine. 2 credits: +3 strength."
+    "quantity": 3
   },
   {
     "card_id": "zu_13_key_master",
@@ -77,10 +59,7 @@
     "id": "02007",
     "illustrator": "Liiga Smilshkalne",
     "position": 7,
-    "printed_is_unique": false,
-    "printed_text": "If you have at least 2[link], the memory cost of this program is 0[mu], even if it is not installed.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "If you have at least 2 link, the memory cost of this program is 0 mu, even if it is not installed. Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength."
+    "quantity": 3
   },
   {
     "card_id": "the_helpful_ai",
@@ -89,10 +68,7 @@
     "id": "02008",
     "illustrator": "Tim Durning",
     "position": 8,
-    "printed_is_unique": true,
-    "printed_text": "+1[link]\n[trash]: Choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong> has +2 strength until the end of the turn.",
-    "quantity": 3,
-    "stripped_printed_text": "+1 link trash: Choose an icebreaker. That icebreaker has +2 strength until the end of the turn."
+    "quantity": 3
   },
   {
     "card_id": "plascrete_carapace",
@@ -100,10 +76,7 @@
     "id": "02009",
     "illustrator": "Ralph Beisner",
     "position": 9,
-    "printed_is_unique": false,
-    "printed_text": "Place 4 power counters on Plascrete Carapace when it is installed. When there are no power counters left on Plascrete Carapace, trash it.\n<strong>Hosted power counter:</strong> Prevent 1 meat damage.",
-    "quantity": 3,
-    "stripped_printed_text": "Place 4 power counters on Plascrete Carapace when it is installed. When there are no power counters left on Plascrete Carapace, trash it. Hosted power counter: Prevent 1 meat damage."
+    "quantity": 3
   },
   {
     "card_id": "haas_bioroid_stronger_together",
@@ -111,10 +84,7 @@
     "flavor": "A Different Breed of Machine.",
     "id": "02010",
     "position": 10,
-    "printed_is_unique": false,
-    "printed_text": "All <strong>bioroid</strong> ice has +1 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "All bioroid ice has +1 strength."
+    "quantity": 3
   },
   {
     "card_id": "mandatory_upgrades",
@@ -123,10 +93,7 @@
     "id": "02011",
     "illustrator": "Mauricio Herrera",
     "position": 11,
-    "printed_is_unique": false,
-    "printed_text": "You have 1 additional [click] to spend each turn.",
-    "quantity": 3,
-    "stripped_printed_text": "You have 1 additional click to spend each turn."
+    "quantity": 3
   },
   {
     "card_id": "janus_1_0",
@@ -135,10 +102,7 @@
     "id": "02012",
     "illustrator": "Tim Durning",
     "position": 12,
-    "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage.\n[subroutine] Do 1 core damage.\n[subroutine] Do 1 core damage.\n[subroutine] Do 1 core damage.",
-    "quantity": 3,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine Do 1 core damage. Subroutine Do 1 core damage. Subroutine Do 1 core damage. Subroutine Do 1 core damage."
+    "quantity": 3
   },
   {
     "card_id": "ash_2x3zb9cy",
@@ -147,10 +111,7 @@
     "id": "02013",
     "illustrator": "Mauricio Herrera",
     "position": 13,
-    "printed_is_unique": true,
-    "printed_text": "Whenever there is a successful run on this server, Trace[4]. If successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever there is a successful run on this server, Trace[4]. If successful, the Runner cannot access any cards other than Ash 2X3ZB9CY for the remainder of this run."
+    "quantity": 3
   },
   {
     "card_id": "braintrust",
@@ -158,10 +119,7 @@
     "id": "02014",
     "illustrator": "Gong Studios",
     "position": 14,
-    "printed_is_unique": false,
-    "printed_text": "When you score Braintrust, place 1 agenda counter on it for every 2 advancement tokens on it over 3.\nThe rez cost of all ice is lowered by 1 for each agenda counter on Braintrust.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score Braintrust, place 1 agenda counter on it for every 2 advancement tokens on it over 3. The rez cost of all ice is lowered by 1 for each agenda counter on Braintrust."
+    "quantity": 3
   },
   {
     "card_id": "snowflake",
@@ -170,10 +128,7 @@
     "id": "02015",
     "illustrator": "Mashuri",
     "position": 15,
-    "printed_is_unique": false,
-    "printed_text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. End the run if you and the Runner spent a different number of credits.",
-    "quantity": 3,
-    "stripped_printed_text": "Subroutine You and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. End the run if you and the Runner spent a different number of credits."
+    "quantity": 3
   },
   {
     "card_id": "restructured_datapool",
@@ -182,10 +137,7 @@
     "id": "02016",
     "illustrator": "Ed Mattinian",
     "position": 16,
-    "printed_is_unique": false,
-    "printed_text": "[click]: Trace[2]. If successful, give the Runner 1 tag.",
-    "quantity": 3,
-    "stripped_printed_text": "click: Trace[2]. If successful, give the Runner 1 tag."
+    "quantity": 3
   },
   {
     "card_id": "tmi",
@@ -194,10 +146,7 @@
     "id": "02017",
     "illustrator": "Ed Mattinian",
     "position": 17,
-    "printed_is_unique": false,
-    "printed_text": "When you rez TMI, Trace[2]. If unsuccessful, derez TMI.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "When you rez TMI, Trace[2]. If unsuccessful, derez TMI. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "project_atlas",
@@ -205,10 +154,7 @@
     "id": "02018",
     "illustrator": "Emilio Rodriguez",
     "position": 18,
-    "printed_is_unique": false,
-    "printed_text": "When you score this agenda, place 1 agenda counter on it for each hosted advancement counter past 3.\n<strong>Hosted agenda counter:</strong> Search R&D for 1 card and reveal it. Add it to HQ.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score this agenda, place 1 agenda counter on it for each hosted advancement counter past 3. Hosted agenda counter: Search R&D for 1 card and reveal it. Add it to HQ."
+    "quantity": 3
   },
   {
     "card_id": "caduceus",
@@ -217,10 +163,7 @@
     "id": "02019",
     "illustrator": "Christina Davis",
     "position": 19,
-    "printed_is_unique": false,
-    "printed_text": "[subroutine] Trace[3]. If successful, the Corp gains 3[credit].\n[subroutine] Trace[2]. If successful, end the run.",
-    "quantity": 3,
-    "stripped_printed_text": "Subroutine Trace[3]. If successful, the Corp gains 3 credits. Subroutine Trace[2]. If successful, end the run."
+    "quantity": 3
   },
   {
     "card_id": "draco",
@@ -229,9 +172,6 @@
     "id": "02020",
     "illustrator": "Sandara Tang",
     "position": 20,
-    "printed_is_unique": false,
-    "printed_text": "When you rez Dracō, you may pay X[credit] to place X power counters on it.\nDracō has +1 strength for each power counter on it.\n[subroutine] Trace[2]. If successful, give the Runner 1 tag and end the run.",
-    "quantity": 3,
-    "stripped_printed_text": "When you rez Draco, you may pay X credits to place X power counters on it. Draco has +1 strength for each power counter on it. Subroutine Trace[2]. If successful, give the Runner 1 tag and end the run."
+    "quantity": 3
   }
 ]

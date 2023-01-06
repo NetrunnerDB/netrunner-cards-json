@@ -6,10 +6,7 @@
     "id": "26001",
     "illustrator": "Photo Tammy Gann/Unsplash & Deep Dream",
     "position": 1,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this event, trash an installed resource.\nGain 7[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this event, trash an installed resource. Gain 7 credits."
+    "quantity": 3
   },
   {
     "card_id": "demolisher",
@@ -18,10 +15,7 @@
     "id": "26002",
     "illustrator": "Olie Boldador",
     "position": 2,
-    "printed_is_unique": true,
-    "printed_text": "+1[mu]\nThe trash cost of each Corp card is lowered by 1.\nThe first time each turn you trash a Corp card, gain 1[credit].\nLimit 1 <strong>console</strong> per player.",
-    "quantity": 3,
-    "stripped_printed_text": "+1 mu The trash cost of each Corp card is lowered by 1. The first time each turn you trash a Corp card, gain 1 credit. Limit 1 console per player."
+    "quantity": 3
   },
   {
     "card_id": "chisel",
@@ -30,10 +24,7 @@
     "id": "26003",
     "illustrator": "Krembler",
     "position": 3,
-    "printed_is_unique": false,
-    "printed_text": "Install only on a piece of ice.\nHost ice gets -1 strength for each hosted virus counter.\nWhen you encounter host ice, if its strength is 0 or less, trash it. Otherwise, place 1 virus counter on this program.",
-    "quantity": 3,
-    "stripped_printed_text": "Install only on a piece of ice. Host ice gets -1 strength for each hosted virus counter. When you encounter host ice, if its strength is 0 or less, trash it. Otherwise, place 1 virus counter on this program."
+    "quantity": 3
   },
   {
     "card_id": "stargate",
@@ -42,10 +33,7 @@
     "id": "26004",
     "illustrator": "Iain Fairclough",
     "position": 4,
-    "printed_is_unique": false,
-    "printed_text": "<strong>[click]:</strong> Run R&D. If successful, instead of breaching R&D, reveal the top 3 cards of R&D. Trash 1 of the revealed cards. Use this ability only once per turn.",
-    "quantity": 3,
-    "stripped_printed_text": "click: Run R&D. If successful, instead of breaching R&D, reveal the top 3 cards of R&D. Trash 1 of the revealed cards. Use this ability only once per turn."
+    "quantity": 3
   },
   {
     "card_id": "utae",
@@ -54,10 +42,7 @@
     "id": "26005",
     "illustrator": "McGregor T. Crowley",
     "position": 5,
-    "printed_is_unique": false,
-    "printed_text": "Interface → <strong>X[credit]:</strong> Break X <strong>code gate</strong> subroutines. Use this ability only once per run.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine. Use this ability only if you have 3 or more installed <strong>virtual</strong> resources.\n<strong>1[credit]:</strong> +1 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "Interface -> X credits: Break X code gate subroutines. Use this ability only once per run. Interface -> 1 credit: Break 1 code gate subroutine. Use this ability only if you have 3 or more installed virtual resources. 1 credit: +1 strength."
+    "quantity": 3
   },
   {
     "card_id": "climactic_showdown",
@@ -65,10 +50,7 @@
     "id": "26006",
     "illustrator": "Diana Simonova (Antheia Vaulor)",
     "position": 6,
-    "printed_is_unique": true,
-    "printed_text": "When your turn begins, remove this resource from the game. Choose a server protected by ice. The Corp may trash 1 piece of ice protecting that server. If they do not, the first time this turn you breach either R&D or HQ, access 2 additional cards.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, remove this resource from the game. Choose a server protected by ice. The Corp may trash 1 piece of ice protecting that server. If they do not, the first time this turn you breach either R&D or HQ, access 2 additional cards."
+    "quantity": 3
   },
   {
     "card_id": "fencer_fueno",
@@ -77,10 +59,7 @@
     "id": "26007",
     "illustrator": "Izzy Pruett",
     "position": 7,
-    "printed_is_unique": true,
-    "printed_text": "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nWhenever you make a successful run, you may spend hosted credits for the remainder of that run.\nWhen your turn ends, if there are 3 or more hosted credits, you must pay 1[credit] or trash this resource.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins or you steal an agenda, place 1 credit on this resource. Whenever you make a successful run, you may spend hosted credits for the remainder of that run. When your turn ends, if there are 3 or more hosted credits, you must pay 1 credit or trash this resource."
+    "quantity": 3
   },
   {
     "card_id": "the_nihilist",
@@ -89,10 +68,7 @@
     "id": "26008",
     "illustrator": "Wyn Lacabra",
     "position": 8,
-    "printed_is_unique": true,
-    "printed_text": "The first time each turn you install a <strong>virus</strong> program, place 2 virus counters on this resource.\nWhen your turn begins, you may remove any 2 virus counters from your installed cards. If you do, draw 2 cards unless the Corp trashes the top card of R&D.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time each turn you install a virus program, place 2 virus counters on this resource. When your turn begins, you may remove any 2 virus counters from your installed cards. If you do, draw 2 cards unless the Corp trashes the top card of R&D."
+    "quantity": 3
   },
   {
     "card_id": "trickster_taka",
@@ -101,10 +77,7 @@
     "id": "26009",
     "illustrator": "Izzy Pruett",
     "position": 9,
-    "printed_is_unique": true,
-    "printed_text": "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nSpend hosted credits to use programs during runs.\nWhen your turn ends, if there are 3 or more hosted credits, you must take 1 tag or trash this resource.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins or you steal an agenda, place 1 credit on this resource. Spend hosted credits to use programs during runs. When your turn ends, if there are 3 or more hosted credits, you must take 1 tag or trash this resource."
+    "quantity": 3
   },
   {
     "card_id": "az_mccaffrey_mechanical_prodigy",
@@ -113,10 +86,7 @@
     "id": "26010",
     "illustrator": "Luminita Pham",
     "position": 10,
-    "printed_is_unique": false,
-    "printed_text": "The first <strong>job</strong> resource, <strong>connection</strong> resource, or piece of hardware you install each turn costs 1[credit] less to install.",
-    "quantity": 1,
-    "stripped_printed_text": "The first job resource, connection resource, or piece of hardware you install each turn costs 1 credit less to install."
+    "quantity": 1
   },
   {
     "card_id": "always_have_a_backup_plan",
@@ -125,10 +95,7 @@
     "id": "26011",
     "illustrator": "Olie Boldador",
     "position": 11,
-    "printed_is_unique": false,
-    "printed_text": "Run any server. When that run ends, if it was unsuccessful, you may run that server again, ignoring any additional costs to run. During the second run, when you encounter the last ice you encountered in the first run, bypass it.",
-    "quantity": 3,
-    "stripped_printed_text": "Run any server. When that run ends, if it was unsuccessful, you may run that server again, ignoring any additional costs to run. During the second run, when you encounter the last ice you encountered in the first run, bypass it."
+    "quantity": 3
   },
   {
     "card_id": "blueberry_diesel",
@@ -137,10 +104,7 @@
     "id": "26012",
     "illustrator": "Patrick Burk",
     "position": 12,
-    "printed_is_unique": false,
-    "printed_text": "Look at the top 2 cards of your stack. You may add 1 of those cards to the bottom of your stack. Draw 2 cards.",
-    "quantity": 3,
-    "stripped_printed_text": "Look at the top 2 cards of your stack. You may add 1 of those cards to the bottom of your stack. Draw 2 cards."
+    "quantity": 3
   },
   {
     "card_id": "flip_switch",
@@ -149,10 +113,7 @@
     "id": "26013",
     "illustrator": "Krembler",
     "position": 13,
-    "printed_is_unique": false,
-    "printed_text": "You cannot use this hardware during the Corp's turn.\n[trash]: Jack out.\n[trash]: Remove 1 tag.\n[interrupt] → [trash]: Reduce the base trace strength of a trace to 0.",
-    "quantity": 3,
-    "stripped_printed_text": "You cannot use this hardware during the Corp's turn. trash: Jack out. trash: Remove 1 tag. Interrupt -> trash: Reduce the base trace strength of a trace to 0."
+    "quantity": 3
   },
   {
     "card_id": "lucky_charm",
@@ -161,10 +122,7 @@
     "id": "26014",
     "illustrator": "Elizaveta Sokolova",
     "position": 14,
-    "printed_is_unique": true,
-    "printed_text": "<strong>Remove this hardware from the game:</strong> Prevent a Corp card ability from ending the run. Use this ability only if you made a successful run on HQ this turn.",
-    "quantity": 3,
-    "stripped_printed_text": "Remove this hardware from the game: Prevent a Corp card ability from ending the run. Use this ability only if you made a successful run on HQ this turn."
+    "quantity": 3
   },
   {
     "card_id": "masterwork_v37",
@@ -173,10 +131,7 @@
     "id": "26015",
     "illustrator": "Olie Boldador",
     "position": 15,
-    "printed_is_unique": true,
-    "printed_text": "+1[mu].\nThe first time each turn you install a piece of hardware, draw 1 card.\nWhenever a run begins, you may install a piece of hardware, paying 1[credit] more.\nLimit 1 <strong>console</strong> per player.",
-    "quantity": 3,
-    "stripped_printed_text": "+1 mu. The first time each turn you install a piece of hardware, draw 1 card. Whenever a run begins, you may install a piece of hardware, paying 1 credit more. Limit 1 console per player."
+    "quantity": 3
   },
   {
     "card_id": "bukhgalter",
@@ -185,10 +140,7 @@
     "id": "26016",
     "illustrator": "Iain Fairclough",
     "position": 16,
-    "printed_is_unique": false,
-    "printed_text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.\nThe first time each turn this program fully breaks a piece of ice, gain 2[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "Interface -> 1 credit: Break 1 sentry subroutine. 1 credit: +1 strength. The first time each turn this program fully breaks a piece of ice, gain 2 credits."
+    "quantity": 3
   },
   {
     "card_id": "baklan_bochkin",
@@ -197,10 +149,7 @@
     "id": "26017",
     "illustrator": "Janet Bruesselbach",
     "position": 17,
-    "printed_is_unique": true,
-    "printed_text": "The first time each run you encounter a piece of ice, place 1 power counter on this resource.\n[trash]: Derez the ice you are encountering if its strength is equal to or less than the number of hosted power counters. Take 1 tag.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time each run you encounter a piece of ice, place 1 power counter on this resource. trash: Derez the ice you are encountering if its strength is equal to or less than the number of hosted power counters. Take 1 tag."
+    "quantity": 3
   },
   {
     "card_id": "the_class_act",
@@ -209,10 +158,7 @@
     "id": "26018",
     "illustrator": "Wyn Lacabra",
     "position": 18,
-    "printed_is_unique": true,
-    "printed_text": "When your discard phase ends, if you installed this resource this turn, draw 4 cards.\n[interrupt] → The first time each turn you would draw any number of cards, look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack. X is equal to the number of cards you will draw plus 1.",
-    "quantity": 3,
-    "stripped_printed_text": "When your discard phase ends, if you installed this resource this turn, draw 4 cards. Interrupt -> The first time each turn you would draw any number of cards, look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack. X is equal to the number of cards you will draw plus 1."
+    "quantity": 3
   },
   {
     "card_id": "lat_ethical_freelancer",
@@ -220,10 +166,7 @@
     "id": "26019",
     "illustrator": "Luminita Pham",
     "position": 19,
-    "printed_is_unique": false,
-    "printed_text": "When your turn ends, if you have the same number of cards in your grip as the Corp has in HQ, you may draw 1 card.",
-    "quantity": 1,
-    "stripped_printed_text": "When your turn ends, if you have the same number of cards in your grip as the Corp has in HQ, you may draw 1 card."
+    "quantity": 1
   },
   {
     "card_id": "in_the_groove",
@@ -232,10 +175,7 @@
     "id": "26020",
     "illustrator": "Olie Boldador",
     "position": 20,
-    "printed_is_unique": false,
-    "printed_text": "Play only as your first [click].\nWhenever you install a card with a printed install cost of 1 or greater this turn, draw 1 card or gain 1[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "Play only as your first click. Whenever you install a card with a printed install cost of 1 or greater this turn, draw 1 card or gain 1 credit."
+    "quantity": 3
   },
   {
     "card_id": "khusyuk",
@@ -243,10 +183,7 @@
     "id": "26021",
     "illustrator": "Iain Fairclough",
     "position": 21,
-    "printed_is_unique": false,
-    "printed_text": "Run R&D. If successful, instead of breaching R&D, choose a number greater than 0. For each installed card you have with a printed install cost matching that number, reveal 1 card from the top of R&D (max 6). Access 1 of the revealed cards, then the Corp shuffles R&D.",
-    "quantity": 3,
-    "stripped_printed_text": "Run R&D. If successful, instead of breaching R&D, choose a number greater than 0. For each installed card you have with a printed install cost matching that number, reveal 1 card from the top of R&D (max 6). Access 1 of the revealed cards, then the Corp shuffles R&D."
+    "quantity": 3
   },
   {
     "card_id": "spec_work",
@@ -255,10 +192,7 @@
     "id": "26022",
     "illustrator": "Krembler",
     "position": 22,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this event, trash an installed program.\nGain 4[credit] and draw 2 cards.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this event, trash an installed program. Gain 4 credits and draw 2 cards."
+    "quantity": 3
   },
   {
     "card_id": "supercorridor",
@@ -267,10 +201,7 @@
     "id": "26023",
     "illustrator": "Elizaveta Sokolova",
     "position": 23,
-    "printed_is_unique": true,
-    "printed_text": "+2[mu]\nYou have +1 maximum hand size.\nWhen your turn ends, if you and the Corp have the same number of credits, you may gain 2[credit].\nLimit 1 <strong>console</strong> per player.",
-    "quantity": 3,
-    "stripped_printed_text": "+2 mu You have +1 maximum hand size. When your turn ends, if you and the Corp have the same number of credits, you may gain 2 credits. Limit 1 console per player."
+    "quantity": 3
   },
   {
     "card_id": "gauss",
@@ -279,10 +210,7 @@
     "id": "26024",
     "illustrator": "Iain Fairclough",
     "position": 24,
-    "printed_is_unique": false,
-    "printed_text": "When you install this program, it gets +3 strength for the remainder of the turn.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>2[credit]:</strong> +2 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this program, it gets +3 strength for the remainder of the turn. Interface -> 1 credit: Break 1 barrier subroutine. 2 credits: +2 strength."
+    "quantity": 3
   },
   {
     "card_id": "pelangi",
@@ -291,10 +219,7 @@
     "id": "26025",
     "illustrator": "Iain Fairclough",
     "position": 25,
-    "printed_is_unique": false,
-    "printed_text": "When you install this program, place 2 virus counters on it.\n<strong>Hosted virus counter</strong>: Choose an ice subtype. The ice you are encountering gains that subtype for the remainder of the encounter. Use this ability only once per turn.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this program, place 2 virus counters on it. Hosted virus counter: Choose an ice subtype. The ice you are encountering gains that subtype for the remainder of the encounter. Use this ability only once per turn."
+    "quantity": 3
   },
   {
     "card_id": "rezeki",
@@ -303,10 +228,7 @@
     "id": "26026",
     "illustrator": "Jakuza",
     "position": 26,
-    "printed_is_unique": false,
-    "printed_text": "When your turn begins, gain 1[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, gain 1 credit."
+    "quantity": 3
   },
   {
     "card_id": "the_artist",
@@ -315,10 +237,7 @@
     "id": "26027",
     "illustrator": "Wyn Lacabra",
     "position": 27,
-    "printed_is_unique": true,
-    "printed_text": "Use each ability on this resource only once per turn.\n[click]: Gain 2[credit].\n[click]: Install a program or piece of hardware, paying 1[credit] less.",
-    "quantity": 3,
-    "stripped_printed_text": "Use each ability on this resource only once per turn. click: Gain 2 credits. click: Install a program or piece of hardware, paying 1 credit less."
+    "quantity": 3
   },
   {
     "card_id": "direct_access",
@@ -327,10 +246,7 @@
     "id": "26028",
     "illustrator": "Olie Boldador",
     "position": 28,
-    "printed_is_unique": false,
-    "printed_text": "While you are resolving this event, each player's identity loses all abilities.\nRun any server. When that run ends, you may shuffle this event into your stack.",
-    "quantity": 3,
-    "stripped_printed_text": "While you are resolving this event, each player's identity loses all abilities. Run any server. When that run ends, you may shuffle this event into your stack."
+    "quantity": 3
   },
   {
     "card_id": "rejig",
@@ -339,10 +255,7 @@
     "id": "26029",
     "illustrator": "Krembler",
     "position": 29,
-    "printed_is_unique": false,
-    "printed_text": "Add an installed program or piece of hardware to your grip. If you do, you may install a program or piece of hardware, paying X[credit] less. X is equal to the printed install cost of the uninstalled card.",
-    "quantity": 3,
-    "stripped_printed_text": "Add an installed program or piece of hardware to your grip. If you do, you may install a program or piece of hardware, paying X credits less. X is equal to the printed install cost of the uninstalled card."
+    "quantity": 3
   },
   {
     "card_id": "whistleblower",
@@ -351,10 +264,7 @@
     "id": "26030",
     "illustrator": "Olie Boldador",
     "position": 30,
-    "printed_is_unique": true,
-    "printed_text": "Whenever you make a successful run, you may trash this resource to name an agenda. The next time this run you access a copy of the named agenda, steal it, ignoring all costs. <em>(You are no longer accessing it.)</em>",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever you make a successful run, you may trash this resource to name an agenda. The next time this run you access a copy of the named agenda, steal it, ignoring all costs. (You are no longer accessing it.)"
+    "quantity": 3
   },
   {
     "card_id": "mirrormorph_endless_iteration",
@@ -362,10 +272,7 @@
     "id": "26031",
     "illustrator": "Kira L. Nguyen",
     "position": 31,
-    "printed_is_unique": false,
-    "printed_text": "If the first, second, and third actions you take on your turn are different from each other, when the third completes, you may gain 1[credit] or take another different action, paying 1[click] less.",
-    "quantity": 1,
-    "stripped_printed_text": "If the first, second, and third actions you take on your turn are different from each other, when the third completes, you may gain 1 credit or take another different action, paying 1click less."
+    "quantity": 1
   },
   {
     "card_id": "architect_deployment_test",
@@ -374,10 +281,7 @@
     "id": "26032",
     "illustrator": "Krembler",
     "position": 32,
-    "printed_is_unique": false,
-    "printed_text": "When you score this agenda, look at the top 5 cards of R&D. You may install and rez 1 of those cards, ignoring all costs.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score this agenda, look at the top 5 cards of R&D. You may install and rez 1 of those cards, ignoring all costs."
+    "quantity": 3
   },
   {
     "card_id": "calvin_b4l3y",
@@ -386,10 +290,7 @@
     "id": "26033",
     "illustrator": "Kira L. Nguyen",
     "position": 33,
-    "printed_is_unique": true,
-    "printed_text": "[click]: Draw 2 cards. Use this ability only once per turn.\nWhen the Runner trashes this asset, you may draw 2 cards.",
-    "quantity": 3,
-    "stripped_printed_text": "click: Draw 2 cards. Use this ability only once per turn. When the Runner trashes this asset, you may draw 2 cards."
+    "quantity": 3
   },
   {
     "card_id": "nanoetching_matrix",
@@ -398,10 +299,7 @@
     "id": "26034",
     "illustrator": "Krembler",
     "position": 34,
-    "printed_is_unique": false,
-    "printed_text": "[click]: Gain 2[credit]. Use this ability only once per turn.\nWhen the Runner trashes this asset, you may gain 2[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "click: Gain 2 credits. Use this ability only once per turn. When the Runner trashes this asset, you may gain 2 credits."
+    "quantity": 3
   },
   {
     "card_id": "hagen",
@@ -410,10 +308,7 @@
     "id": "26035",
     "illustrator": "Krembler",
     "position": 35,
-    "printed_is_unique": false,
-    "printed_text": "This ice has -1 strength for each installed <strong>icebreaker</strong>.\n[subroutine] Trash 1 program that is not a <strong>decoder</strong>, <strong>fracter</strong>, or <strong>killer</strong>.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "This ice has -1 strength for each installed icebreaker. Subroutine Trash 1 program that is not a decoder, fracter, or killer. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "fully_operational",
@@ -422,10 +317,7 @@
     "id": "26036",
     "illustrator": "Krembler",
     "position": 36,
-    "printed_is_unique": false,
-    "printed_text": "Gain 2[credit] or draw 2 cards. Repeat this process for each remote server that has a card in its root and is protected by ice.",
-    "quantity": 3,
-    "stripped_printed_text": "Gain 2 credits or draw 2 cards. Repeat this process for each remote server that has a card in its root and is protected by ice."
+    "quantity": 3
   },
   {
     "card_id": "red_level_clearance",
@@ -434,10 +326,7 @@
     "id": "26037",
     "illustrator": "Krembler",
     "position": 37,
-    "printed_is_unique": false,
-    "printed_text": "Resolve two of the following in any order:<ul><li>Draw 2 cards.</li><li>Gain 2[credit].</li><li>Install up to 1 non-agenda card.</li><li>Gain [click].</li></ul>",
-    "quantity": 3,
-    "stripped_printed_text": "Resolve two of the following in any order: * Draw 2 cards. * Gain 2 credits. * Install up to 1 non-agenda card. * Gain click."
+    "quantity": 3
   },
   {
     "card_id": "cold_site_server",
@@ -446,10 +335,7 @@
     "id": "26038",
     "illustrator": "Krembler",
     "position": 38,
-    "printed_is_unique": false,
-    "printed_text": "[click]: Place 1 power counter on this upgrade.\nAs an additional cost to run this server, the Runner must spend 1[click] and 1[credit] for each hosted power counter.\nWhen your turn begins, remove all hosted power counters.",
-    "quantity": 3,
-    "stripped_printed_text": "click: Place 1 power counter on this upgrade. As an additional cost to run this server, the Runner must spend 1click and 1 credit for each hosted power counter. When your turn begins, remove all hosted power counters."
+    "quantity": 3
   },
   {
     "card_id": "hyoubu_institute_absolute_clarity",
@@ -458,10 +344,7 @@
     "id": "26039",
     "illustrator": "Emilio Rodriguez",
     "position": 39,
-    "printed_is_unique": false,
-    "printed_text": "The first time each turn you reveal a card, gain 1[credit].\n[click]: Reveal a card from the grip at random or the top card of the stack.",
-    "quantity": 1,
-    "stripped_printed_text": "The first time each turn you reveal a card, gain 1 credit. click: Reveal a card from the grip at random or the top card of the stack."
+    "quantity": 1
   },
   {
     "card_id": "project_yagi_uda",
@@ -469,10 +352,7 @@
     "id": "26040",
     "illustrator": "Krembler",
     "position": 40,
-    "printed_is_unique": false,
-    "printed_text": "When you score this agenda, place 1 agenda counter on it for each hosted advancement counter past 3.\n<strong>Hosted agenda counter:</strong> Swap 1 card from HQ with 1 card in the root of or protecting the attacked server. The Runner may jack out. Use this ability only during a run.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score this agenda, place 1 agenda counter on it for each hosted advancement counter past 3. Hosted agenda counter: Swap 1 card from HQ with 1 card in the root of or protecting the attacked server. The Runner may jack out. Use this ability only during a run."
+    "quantity": 3
   },
   {
     "card_id": "sting",
@@ -481,10 +361,7 @@
     "id": "26041",
     "illustrator": "Krembler",
     "position": 41,
-    "printed_is_unique": false,
-    "printed_text": "When a player scores or steals this agenda, do X net damage. X is equal to the number of copies of Sting! in the other player's score area plus 1.",
-    "quantity": 3,
-    "stripped_printed_text": "When a player scores or steals this agenda, do X net damage. X is equal to the number of copies of Sting! in the other player's score area plus 1."
+    "quantity": 3
   },
   {
     "card_id": "public_health_portal",
@@ -493,10 +370,7 @@
     "id": "26042",
     "illustrator": "Krembler, Iain Fairclough",
     "position": 42,
-    "printed_is_unique": false,
-    "printed_text": "When your turn begins, reveal the top card of R&D and gain 2[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, reveal the top card of R&D and gain 2 credits."
+    "quantity": 3
   },
   {
     "card_id": "storgotic_resonator",
@@ -505,10 +379,7 @@
     "id": "26043",
     "illustrator": "Krembler",
     "position": 43,
-    "printed_is_unique": true,
-    "printed_text": "The first time each turn you trash <em>(from any location)</em> a card that matches the faction of the Runner's identity, place 1 power counter on this asset.\n[click]<strong>, hosted power counter:</strong> Do 1 net damage.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time each turn you trash (from any location) a card that matches the faction of the Runner's identity, place 1 power counter on this asset. click, hosted power counter: Do 1 net damage."
+    "quantity": 3
   },
   {
     "card_id": "saisentan",
@@ -516,10 +387,7 @@
     "id": "26044",
     "illustrator": "Krembler",
     "position": 44,
-    "printed_is_unique": false,
-    "printed_text": "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you trash a card of that type with net damage from a subroutine on this ice, do 1 net damage.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.\n[subroutine] Do 1 net damage.",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters this ice, choose a card type. For the remainder of the encounter, whenever you trash a card of that type with net damage from a subroutine on this ice, do 1 net damage. Subroutine Do 1 net damage. Subroutine Do 1 net damage. Subroutine Do 1 net damage."
+    "quantity": 3
   },
   {
     "card_id": "complete_image",
@@ -527,10 +395,7 @@
     "id": "26045",
     "illustrator": "Krembler",
     "position": 45,
-    "printed_is_unique": false,
-    "printed_text": "After you resolve this operation, your action phase ends.\nPlay only if the Runner has 3 or more agenda points and they made a successful run during their last turn.\nName a card, then do 1 net damage. If you trash a copy of the named card, repeat this process.",
-    "quantity": 3,
-    "stripped_printed_text": "After you resolve this operation, your action phase ends. Play only if the Runner has 3 or more agenda points and they made a successful run during their last turn. Name a card, then do 1 net damage. If you trash a copy of the named card, repeat this process."
+    "quantity": 3
   },
   {
     "card_id": "letheia_nisei",
@@ -538,10 +403,7 @@
     "id": "26046",
     "illustrator": "Diana Simonova (Antheia Vaulor)",
     "position": 46,
-    "printed_is_unique": true,
-    "printed_text": "The first time each run the Runner approaches this server, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, you may trash this upgrade. If you do, the Runner moves to the outermost position of this server. The Runner may jack out.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time each run the Runner approaches this server, you and the Runner secretly spend 0 credits, 1 credit, or 2 credits. Reveal spent credits. If you and the Runner spent a different number of credits, you may trash this upgrade. If you do, the Runner moves to the outermost position of this server. The Runner may jack out."
+    "quantity": 3
   },
   {
     "card_id": "remastered_edition",
@@ -550,10 +412,7 @@
     "id": "26047",
     "illustrator": "Deivis Goetten",
     "position": 47,
-    "printed_is_unique": false,
-    "printed_text": "When you score this agenda, place 1 agenda counter on it.\n<strong>Hosted agenda counter</strong>: Place 1 advancement token on an installed card.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score this agenda, place 1 agenda counter on it. Hosted agenda counter: Place 1 advancement token on an installed card."
+    "quantity": 3
   },
   {
     "card_id": "daily_quest",
@@ -561,10 +420,7 @@
     "id": "26048",
     "illustrator": "Krembler",
     "position": 48,
-    "printed_is_unique": false,
-    "printed_text": "Rez only during your action phase.\nWhenever the Runner makes a successful run on this server, they gain 2[credit].\nWhen your turn begins, gain 3[credit] if the Runner did not make any successful runs on this server during their last turn.",
-    "quantity": 3,
-    "stripped_printed_text": "Rez only during your action phase. Whenever the Runner makes a successful run on this server, they gain 2 credits. When your turn begins, gain 3 credits if the Runner did not make any successful runs on this server during their last turn."
+    "quantity": 3
   },
   {
     "card_id": "tiered_subscription",
@@ -573,10 +429,7 @@
     "id": "26049",
     "illustrator": "N. Hopkins",
     "position": 49,
-    "printed_is_unique": false,
-    "printed_text": "The first time each turn a run begins, gain 1[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "The first time each turn a run begins, gain 1 credit."
+    "quantity": 3
   },
   {
     "card_id": "congratulations",
@@ -585,10 +438,7 @@
     "id": "26050",
     "illustrator": "NtscapeNavigator",
     "position": 50,
-    "printed_is_unique": false,
-    "printed_text": "When the Runner passes this ice, gain 1[credit].\n[subroutine]Gain 2[credit]. The Runner gains 1[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner passes this ice, gain 1 credit. Subroutine Gain 2 credits. The Runner gains 1 credit."
+    "quantity": 3
   },
   {
     "card_id": "loot_box",
@@ -597,10 +447,7 @@
     "id": "26051",
     "illustrator": "Krembler",
     "position": 51,
-    "printed_is_unique": false,
-    "printed_text": "[subroutine]End the run unless the Runner pays 2[credit].\n[subroutine]Reveal the top 3 cards of the stack. Add 1 of those cards to the grip and gain credits equal to its install or play cost. The Runner shuffles the stack. Trash this ice.",
-    "quantity": 3,
-    "stripped_printed_text": "Subroutine End the run unless the Runner pays 2 credits. Subroutine Reveal the top 3 cards of the stack. Add 1 of those cards to the grip and gain credits equal to its install or play cost. The Runner shuffles the stack. Trash this ice."
+    "quantity": 3
   },
   {
     "card_id": "focus_group",
@@ -609,10 +456,7 @@
     "id": "26052",
     "illustrator": "Dimik",
     "position": 52,
-    "printed_is_unique": false,
-    "printed_text": "Play only if the Runner made a successful run during their last turn.\nChoose a card type, then reveal the grip. You may pay X[credit] to place X advancement tokens on an installed card. X is equal to or less than the number of revealed cards of the chosen type.",
-    "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner made a successful run during their last turn. Choose a card type, then reveal the grip. You may pay X credits to place X advancement tokens on an installed card. X is equal to or less than the number of revealed cards of the chosen type."
+    "quantity": 3
   },
   {
     "card_id": "game_over",
@@ -621,10 +465,7 @@
     "id": "26053",
     "illustrator": "Krembler",
     "position": 53,
-    "printed_is_unique": false,
-    "printed_text": "Play only if the Runner stole an agenda during their last turn.\nChoose a Runner card type. Trash all installed non-<strong>icebreaker</strong> cards of that type. The Runner may prevent any of those cards from being trashed by paying 3[credit] each. Take 1 bad publicity.",
-    "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner stole an agenda during their last turn. Choose a Runner card type. Trash all installed non-icebreaker cards of that type. The Runner may prevent any of those cards from being trashed by paying 3 credits each. Take 1 bad publicity."
+    "quantity": 3
   },
   {
     "card_id": "increased_drop_rates",
@@ -633,10 +474,7 @@
     "id": "26054",
     "illustrator": "N. Hopkins, Krembler",
     "position": 54,
-    "printed_is_unique": false,
-    "printed_text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade, remove 1 bad publicity unless they take 1 tag.",
-    "quantity": 3,
-    "stripped_printed_text": "While the Runner is accessing this upgrade in R&D, they must reveal it. When the Runner accesses this upgrade, remove 1 bad publicity unless they take 1 tag."
+    "quantity": 3
   },
   {
     "card_id": "divested_trust",
@@ -645,10 +483,7 @@
     "id": "26055",
     "illustrator": "Krembler",
     "position": 55,
-    "printed_is_unique": false,
-    "printed_text": "Whenever the Runner steals another agenda, you may forfeit this agenda to gain 5[credit] and add the stolen agenda to HQ.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever the Runner steals another agenda, you may forfeit this agenda to gain 5 credits and add the stolen agenda to HQ."
+    "quantity": 3
   },
   {
     "card_id": "sds_drone_deployment",
@@ -657,10 +492,7 @@
     "id": "26056",
     "illustrator": "Olie Boldador",
     "position": 56,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to steal this agenda, the Runner must trash an installed program.\nWhen you score this agenda, trash an installed program.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to steal this agenda, the Runner must trash an installed program. When you score this agenda, trash an installed program."
+    "quantity": 3
   },
   {
     "card_id": "roughneck_repair_squad",
@@ -669,10 +501,7 @@
     "id": "26057",
     "illustrator": "Olie Boldador",
     "position": 57,
-    "printed_is_unique": false,
-    "printed_text": "[click], [click], [click]: Gain 6[credit]. You may remove 1 bad publicity.",
-    "quantity": 3,
-    "stripped_printed_text": "click, click, click: Gain 6 credits. You may remove 1 bad publicity."
+    "quantity": 3
   },
   {
     "card_id": "afshar",
@@ -681,10 +510,7 @@
     "id": "26058",
     "illustrator": "Krembler",
     "position": 58,
-    "printed_is_unique": false,
-    "printed_text": "While this ice is protecting HQ, the Runner cannot break more than 1 of its printed subroutines during each encounter.\n[subroutine]The Runner loses 2[credit].\n[subroutine]End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "While this ice is protecting HQ, the Runner cannot break more than 1 of its printed subroutines during each encounter. Subroutine The Runner loses 2 credits. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "sandstone",
@@ -693,10 +519,7 @@
     "id": "26059",
     "illustrator": "Krembler",
     "position": 59,
-    "printed_is_unique": false,
-    "printed_text": "When the Runner encounters this ice, place 1 virus counter on it.\nThis ice has -1 strength for each hosted virus counter.\n[subroutine]End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters this ice, place 1 virus counter on it. This ice has -1 strength for each hosted virus counter. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "trebuchet",
@@ -704,10 +527,7 @@
     "id": "26060",
     "illustrator": "Iain Fairclough",
     "position": 60,
-    "printed_is_unique": false,
-    "printed_text": "When you rez this ice, take 1 bad publicity.\n[subroutine] Trash 1 installed Runner card.\n[subroutine] Trace[6]. If successful, the Runner cannot steal or trash Corp cards for the remainder of the run.",
-    "quantity": 3,
-    "stripped_printed_text": "When you rez this ice, take 1 bad publicity. Subroutine Trash 1 installed Runner card. Subroutine Trace[6]. If successful, the Runner cannot steal or trash Corp cards for the remainder of the run."
+    "quantity": 3
   },
   {
     "card_id": "secure_and_protect",
@@ -716,10 +536,7 @@
     "id": "26061",
     "illustrator": "Krembler",
     "position": 61,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this operation, spend [click].\nSearch R&D for a piece of ice and reveal it. <em>(Shuffle R&D after searching it.)</em> Install that ice protecting a central server, paying 3[credit] less.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this operation, spend click. Search R&D for a piece of ice and reveal it. (Shuffle R&D after searching it.) Install that ice protecting a central server, paying 3 credits less."
+    "quantity": 3
   },
   {
     "card_id": "reduced_service",
@@ -727,10 +544,7 @@
     "id": "26062",
     "illustrator": "Krembler",
     "position": 62,
-    "printed_is_unique": true,
-    "printed_text": "When you rez this upgrade, you may pay up to 4[credit] to place that many power counters on it.\nAs an additional cost to run this server, the Runner must pay 2[credit] for each hosted power counter.\nWhenever the Runner makes a successful run on a central server, remove 1 hosted power counter.",
-    "quantity": 3,
-    "stripped_printed_text": "When you rez this upgrade, you may pay up to 4 credits to place that many power counters on it. As an additional cost to run this server, the Runner must pay 2 credits for each hosted power counter. Whenever the Runner makes a successful run on a central server, remove 1 hosted power counter."
+    "quantity": 3
   },
   {
     "card_id": "vulnerability_audit",
@@ -739,10 +553,7 @@
     "id": "26063",
     "illustrator": "Iain Fairclough",
     "position": 63,
-    "printed_is_unique": false,
-    "printed_text": "You cannot score this agenda if you installed it this turn.",
-    "quantity": 3,
-    "stripped_printed_text": "You cannot score this agenda if you installed it this turn."
+    "quantity": 3
   },
   {
     "card_id": "csr_campaign",
@@ -751,10 +562,7 @@
     "id": "26064",
     "illustrator": "Elizaveta Sokolova",
     "position": 64,
-    "printed_is_unique": false,
-    "printed_text": "When your turn begins, you may draw 1 card.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, you may draw 1 card."
+    "quantity": 3
   },
   {
     "card_id": "rime",
@@ -762,9 +570,6 @@
     "id": "26065",
     "illustrator": "N. Hopkins",
     "position": 65,
-    "printed_is_unique": false,
-    "printed_text": "During runs on this server, you can rez this ice any time you could rez non-ice cards.\nEach piece of ice protecting this server has +1 strength.\n[subroutine] The Runner loses 1[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "During runs on this server, you can rez this ice any time you could rez non-ice cards. Each piece of ice protecting this server has +1 strength. Subroutine The Runner loses 1 credit."
+    "quantity": 3
   }
 ]

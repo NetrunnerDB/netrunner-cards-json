@@ -5,10 +5,7 @@
     "id": "11001",
     "illustrator": "Meg Owenson",
     "position": 1,
-    "printed_is_unique": false,
-    "printed_text": "This event is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhenever the Corp draws 1 or more cards, if it is not the first time they have drawn cards this turn, they lose 1[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "This event is not trashed until another current is played or an agenda is scored. Whenever the Corp draws 1 or more cards, if it is not the first time they have drawn cards this turn, they lose 1 credit."
+    "quantity": 3
   },
   {
     "card_id": "null_whistleblower",
@@ -16,10 +13,7 @@
     "id": "11002",
     "illustrator": "Matt Zeilinger",
     "position": 2,
-    "printed_is_unique": false,
-    "printed_text": "Once per turn, when you encounter a piece of ice, you may trash 1 card from your grip. If you do, that ice has -2 strength for the remainder of this run.",
-    "quantity": 3,
-    "stripped_printed_text": "Once per turn, when you encounter a piece of ice, you may trash 1 card from your grip. If you do, that ice has -2 strength for the remainder of this run."
+    "quantity": 3
   },
   {
     "card_id": "gpi_net_tap",
@@ -28,10 +22,7 @@
     "id": "11003",
     "illustrator": "Alexandr Elichev",
     "position": 3,
-    "printed_is_unique": false,
-    "printed_text": "Whenever you approach a piece of ice, you may expose it. You may then trash GPI Net Tap to jack out.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever you approach a piece of ice, you may expose it. You may then trash GPI Net Tap to jack out."
+    "quantity": 3
   },
   {
     "card_id": "hernando_cortez",
@@ -40,10 +31,7 @@
     "id": "11004",
     "illustrator": "Timur Shevtsov",
     "position": 4,
-    "printed_is_unique": true,
-    "printed_text": "If the Corp has at least 10[credit], as an additional cost to rez each piece of ice, the Corp must spend credits equal to the number of subroutines on that ice.",
-    "quantity": 3,
-    "stripped_printed_text": "If the Corp has at least 10 credits, as an additional cost to rez each piece of ice, the Corp must spend credits equal to the number of subroutines on that ice."
+    "quantity": 3
   },
   {
     "card_id": "mirror",
@@ -51,10 +39,7 @@
     "id": "11005",
     "illustrator": "Kathryn Steele",
     "position": 5,
-    "printed_is_unique": true,
-    "printed_text": "+2[mu]\nWhenever you make a successful run on R&D, you may replace 1 spent recurring credit.\nLimit 1 <strong>console</strong> per player.",
-    "quantity": 3,
-    "stripped_printed_text": "+2 mu Whenever you make a successful run on R&D, you may replace 1 spent recurring credit. Limit 1 console per player."
+    "quantity": 3
   },
   {
     "card_id": "dai_v",
@@ -63,10 +48,7 @@
     "id": "11006",
     "illustrator": "Adam S. Doyle",
     "position": 6,
-    "printed_is_unique": false,
-    "printed_text": "Interface → <strong>2[credit]:</strong> Break all subroutines. Use this ability only by spending credits from <strong>stealth</strong> cards.\n<strong>1[credit]:</strong> +1 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "Interface -> 2 credits: Break all subroutines. Use this ability only by spending credits from stealth cards. 1 credit: +1 strength."
+    "quantity": 3
   },
   {
     "card_id": "another_day_another_paycheck",
@@ -74,10 +56,7 @@
     "id": "11007",
     "illustrator": "Caroline Gariba",
     "position": 7,
-    "printed_is_unique": false,
-    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhenever you steal an agenda, force the Corp to \"Trace[0]. If unsuccessful, the Runner gains credits equal to the number of agenda points in both players' score areas.\"",
-    "quantity": 3,
-    "stripped_printed_text": "This card is not trashed until another current is played or an agenda is scored. Whenever you steal an agenda, force the Corp to \"Trace[0]. If unsuccessful, the Runner gains credits equal to the number of agenda points in both players' score areas.\""
+    "quantity": 3
   },
   {
     "card_id": "deuces_wild",
@@ -85,10 +64,7 @@
     "id": "11008",
     "illustrator": "Marjorie Davis",
     "position": 8,
-    "printed_is_unique": false,
-    "printed_text": "Resolve two of the following in any order:<ul><li>Gain 3[credit].</li><li>Draw 2 cards.</li><li>Remove 1 tag.</li><li>Expose 1 piece of ice, then make a run.</li></ul>",
-    "quantity": 3,
-    "stripped_printed_text": "Resolve two of the following in any order: * Gain 3 credits. * Draw 2 cards. * Remove 1 tag. * Expose 1 piece of ice, then make a run."
+    "quantity": 3
   },
   {
     "card_id": "injection_attack",
@@ -97,10 +73,7 @@
     "id": "11009",
     "illustrator": "Chris Newman",
     "position": 9,
-    "printed_is_unique": false,
-    "printed_text": "Choose 1 installed <strong>icebreaker</strong> and run any server. During that run, the chosen <strong>icebreaker</strong> gets +2 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "Choose 1 installed icebreaker and run any server. During that run, the chosen icebreaker gets +2 strength."
+    "quantity": 3
   },
   {
     "card_id": "fairchild_1_0",
@@ -109,10 +82,7 @@
     "id": "11010",
     "illustrator": "Liiga Smilshkalne",
     "position": 10,
-    "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner must pay 1[credit] or trash 1 of their installed cards.\n[subroutine] The Runner must pay 1[credit] or trash 1 of their installed cards.",
-    "quantity": 3,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Runner must pay 1 credit or trash 1 of their installed cards. Subroutine The Runner must pay 1 credit or trash 1 of their installed cards."
+    "quantity": 3
   },
   {
     "card_id": "sherlock_2_0",
@@ -120,10 +90,7 @@
     "id": "11011",
     "illustrator": "Hannah Christenson",
     "position": 11,
-    "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine] Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack.\n[subroutine] Give the Runner 1 tag.",
-    "quantity": 3,
-    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack. Subroutine Trace[4]. If successful, add 1 installed program to the bottom of the Runner's stack. Subroutine Give the Runner 1 tag."
+    "quantity": 3
   },
   {
     "card_id": "hyoubu_research_facility",
@@ -132,10 +99,7 @@
     "id": "11012",
     "illustrator": "Marya Yartseva",
     "position": 12,
-    "printed_is_unique": true,
-    "printed_text": "The first time each turn you reveal secretly spent credits, gain that many credits.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time each turn you reveal secretly spent credits, gain that many credits."
+    "quantity": 3
   },
   {
     "card_id": "chrysalis",
@@ -143,10 +107,7 @@
     "id": "11013",
     "illustrator": "Donald Crank",
     "position": 13,
-    "printed_is_unique": false,
-    "printed_text": "While the Runner is accessing this ice in R&D, they must reveal it.\nWhen the Runner accesses this ice anywhere except in Archives, they encounter it.\n[subroutine] Do 2 net damage.",
-    "quantity": 3,
-    "stripped_printed_text": "While the Runner is accessing this ice in R&D, they must reveal it. When the Runner accesses this ice anywhere except in Archives, they encounter it. Subroutine Do 2 net damage."
+    "quantity": 3
   },
   {
     "card_id": "georgia_emelyov",
@@ -155,10 +116,7 @@
     "id": "11014",
     "illustrator": "Aurore Folny",
     "position": 14,
-    "printed_is_unique": true,
-    "printed_text": "Whenever the Runner makes an unsuccessful run on this server, do 1 net damage.\n2[credit]: Move Georgia Emelyov to another server.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever the Runner makes an unsuccessful run on this server, do 1 net damage. 2 credits: Move Georgia Emelyov to another server."
+    "quantity": 3
   },
   {
     "card_id": "watchdog",
@@ -167,10 +125,7 @@
     "id": "11015",
     "illustrator": "Sam Guay",
     "position": 15,
-    "printed_is_unique": false,
-    "printed_text": "The rez cost of the first piece of ice you rez each turn is lowered by 1 for each tag the Runner has.",
-    "quantity": 3,
-    "stripped_printed_text": "The rez cost of the first piece of ice you rez each turn is lowered by 1 for each tag the Runner has."
+    "quantity": 3
   },
   {
     "card_id": "hard_hitting_news",
@@ -178,20 +133,14 @@
     "id": "11016",
     "illustrator": "Sander Mosk",
     "position": 16,
-    "printed_is_unique": false,
-    "printed_text": "After you resolve this operation, your action phase ends.\nPlay only if the Runner made a run during their last turn.\nTrace[4]. If successful, give the Runner 4 tags.",
-    "quantity": 3,
-    "stripped_printed_text": "After you resolve this operation, your action phase ends. Play only if the Runner made a run during their last turn. Trace[4]. If successful, give the Runner 4 tags."
+    "quantity": 3
   },
   {
     "card_id": "nbn_controlling_the_message",
     "card_set_id": "23_seconds",
     "id": "11017",
     "position": 17,
-    "printed_is_unique": false,
-    "printed_text": "The first time the Runner trashes an installed Corp card each turn, you may trace[4]. If successful, give the Runner 1 tag (cannot be avoided).",
-    "quantity": 3,
-    "stripped_printed_text": "The first time the Runner trashes an installed Corp card each turn, you may trace[4]. If successful, give the Runner 1 tag (cannot be avoided)."
+    "quantity": 3
   },
   {
     "card_id": "crisis_management",
@@ -200,10 +149,7 @@
     "id": "11018",
     "illustrator": "Natalie Bernard",
     "position": 18,
-    "printed_is_unique": false,
-    "printed_text": "If the Runner is tagged, Crisis Management gains \"When your turn begins, do 1 meat damage.\"",
-    "quantity": 3,
-    "stripped_printed_text": "If the Runner is tagged, Crisis Management gains \"When your turn begins, do 1 meat damage.\""
+    "quantity": 3
   },
   {
     "card_id": "stock_buy_back",
@@ -212,10 +158,7 @@
     "id": "11019",
     "illustrator": "RC Torres",
     "position": 19,
-    "printed_is_unique": false,
-    "printed_text": "After you resolve this operation, end your action phase.\nGain 3[credit] for each agenda in the Runner's score area.",
-    "quantity": 3,
-    "stripped_printed_text": "After you resolve this operation, end your action phase. Gain 3 credits for each agenda in the Runner's score area."
+    "quantity": 3
   },
   {
     "card_id": "sandburg",
@@ -224,9 +167,6 @@
     "id": "11020",
     "illustrator": "Pavel Kolomeyets",
     "position": 20,
-    "printed_is_unique": true,
-    "printed_text": "If you have at least 10[credit], each piece of ice has +1 strength for every 5[credit] in your credit pool.",
-    "quantity": 3,
-    "stripped_printed_text": "If you have at least 10 credits, each piece of ice has +1 strength for every 5 credits in your credit pool."
+    "quantity": 3
   }
 ]
