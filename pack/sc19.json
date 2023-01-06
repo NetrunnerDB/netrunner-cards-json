@@ -36,7 +36,7 @@
     "side_code": "runner",
     "stripped_text": "0 credits: Break 1 barrier subroutine. Use this ability only once per turn.",
     "stripped_title": "Quetzal: Free Spirit",
-    "text": "0[credit]: Break 1 <strong>barrier</strong> subroutine. Use this ability only once per turn.",
+    "text": "<strong>0[credit]:</strong> Break 1 <strong>barrier</strong> subroutine. Use this ability only once per turn.",
     "title": "Quetzal: Free Spirit",
     "type_code": "identity",
     "uniqueness": false
@@ -193,7 +193,7 @@
     "strength": 2,
     "stripped_text": "Interface -> 1 credit: Break 1 barrier subroutine. 1 credit: +1 strength.",
     "stripped_title": "Corroder",
-    "text": "Interface → 1[credit]: Break 1 <strong>barrier</strong> subroutine.\n1[credit]: +1 strength.",
+    "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
     "title": "Corroder",
     "type_code": "program",
     "uniqueness": false
@@ -298,7 +298,7 @@
     "strength": 3,
     "stripped_text": "Interface -> 1 credit: Break 1 sentry subroutine.",
     "stripped_title": "Mimic",
-    "text": "Interface → 1[credit]: Break 1 <strong>sentry</strong> subroutine.",
+    "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.",
     "title": "Mimic",
     "type_code": "program",
     "uniqueness": false
@@ -337,7 +337,7 @@
     "side_code": "runner",
     "stripped_text": "When you install this resource, load 16 credits onto it. When it is empty, trash it. click: Take 4 credits from this resource.",
     "stripped_title": "Liberated Account",
-    "text": "When you install this resource, load 16[credit] onto it. When it is empty, trash it.\n[click]: Take 4[credit] from this resource.",
+    "text": "When you install this resource, load 16[credit] onto it. When it is empty, trash it.\n[click]<strong>:</strong> Take 4[credit] from this resource.",
     "title": "Liberated Account",
     "type_code": "resource",
     "uniqueness": false
@@ -655,7 +655,7 @@
     "strength": 2,
     "stripped_text": "Interface -> 1 credit: Break 1 code gate subroutine. 2 credits: +2 strength. trash: Bypass the code gate you are encountering.",
     "stripped_title": "Abagnale",
-    "text": "Interface → 1[credit]: Break 1 <strong>code gate</strong> subroutine.\n2[credit]: +2 strength.\n[trash]: Bypass the <strong>code gate</strong> you are encountering.",
+    "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> +2 strength.\n[trash]<strong>:</strong> Bypass the <strong>code gate</strong> you are encountering.",
     "title": "Abagnale",
     "type_code": "program",
     "uniqueness": false
@@ -720,7 +720,7 @@
     "strength": 2,
     "stripped_text": "Interface -> 1 credit: Break 1 sentry subroutine. 2 credits: +1 strength. When you install this program, choose 1 installed piece of ice. Whenever you encounter the chosen ice, you may pay 1 credit for each subroutine it has. If you do, bypass that ice.",
     "stripped_title": "Femme Fatale",
-    "text": "Interface → 1[credit]: Break 1 <strong>sentry</strong> subroutine.\n2[credit]: +1 strength.\nWhen you install this program, choose 1 installed piece of ice.\nWhenever you encounter the chosen ice, you may pay 1[credit] for each subroutine it has. If you do, bypass that ice.",
+    "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>2[credit]:</strong> +1 strength.\nWhen you install this program, choose 1 installed piece of ice.\nWhenever you encounter the chosen ice, you may pay 1[credit] for each subroutine it has. If you do, bypass that ice.",
     "title": "Femme Fatale",
     "type_code": "program",
     "uniqueness": false
@@ -740,7 +740,7 @@
     "side_code": "runner",
     "stripped_text": "click: Run Archives. If that run would be declared successful, change the attacked server to HQ for the remainder of that run.",
     "stripped_title": "Sneakdoor Beta",
-    "text": "[click]: Run Archives. If that run would be declared successful, change the attacked server to HQ for the remainder of that run.",
+    "text": "[click]<strong>:</strong> Run Archives. If that run would be declared successful, change the attacked server to HQ for the remainder of that run.",
     "title": "Sneakdoor Beta",
     "type_code": "program",
     "uniqueness": false
@@ -1017,7 +1017,7 @@
     "strength": 0,
     "stripped_text": "When you install this program, you may pay X credits to place X power counters on it. This program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength. Interface -> 1 credit: Break 1 subroutine.",
     "stripped_title": "Atman",
-    "text": "When you install this program, you may pay X[credit] to place X power counters on it.\nThis program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\nInterface → 1[credit]: Break 1 subroutine.",
+    "text": "When you install this program, you may pay X[credit] to place X power counters on it.\nThis program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\nInterface → <strong>1[credit]:</strong> Break 1 subroutine.",
     "title": "Atman",
     "type_code": "program",
     "uniqueness": false
@@ -1083,7 +1083,7 @@
     "strength": 2,
     "stripped_text": "Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength for the remainder of this run.",
     "stripped_title": "Gordian Blade",
-    "text": "Interface → 1[credit]: Break 1 <strong>code gate</strong> subroutine.\n1[credit]: +1 strength for the remainder of this run.",
+    "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength for the remainder of this run.",
     "title": "Gordian Blade",
     "type_code": "program",
     "uniqueness": false
@@ -1164,7 +1164,7 @@
     "side_code": "runner",
     "stripped_text": "click: Gain 1 credit and draw 1 card.",
     "stripped_title": "Professional Contacts",
-    "text": "[click]: Gain 1[credit] and draw 1 card.",
+    "text": "[click]<strong>:</strong> Gain 1[credit] and draw 1 card.",
     "title": "Professional Contacts",
     "type_code": "resource",
     "uniqueness": false
@@ -1800,7 +1800,7 @@
     "side_code": "corp",
     "stripped_text": "You can advance this asset. click, trash: Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters.",
     "stripped_title": "Ronin",
-    "text": "You can advance this asset.\n[click], [trash]: Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters.",
+    "text": "You can advance this asset.\n[click], [trash]<strong>:</strong> Do 3 net damage. Use this ability only if there are 4 or more hosted advancement counters.",
     "title": "Ronin",
     "trash_cost": 2,
     "type_code": "asset",
@@ -2227,7 +2227,7 @@
     "side_code": "corp",
     "stripped_text": "You can advance this asset. click, trash: The Runner loses 4 credits for each hosted advancement counter.",
     "stripped_title": "Reversed Accounts",
-    "text": "You can advance this asset.\n[click], [trash]: The Runner loses 4[credit] for each hosted advancement counter.",
+    "text": "You can advance this asset.\n[click], [trash]<strong>:</strong> The Runner loses 4[credit] for each hosted advancement counter.",
     "title": "Reversed Accounts",
     "trash_cost": 3,
     "type_code": "asset",
