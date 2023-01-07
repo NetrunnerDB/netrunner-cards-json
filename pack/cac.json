@@ -798,7 +798,7 @@
     "strength": 0,
     "stripped_text": "When you install this program, you may pay X credits to place X power counters on it. This program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength. Interface -> 1 credit: Break 1 subroutine.",
     "stripped_title": "Atman",
-    "text": "When you install this program, you may pay X[credit] to place X power counters on it.\nThis program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\nInterface → 1[credit]: Break 1 subroutine.",
+    "text": "When you install this program, you may pay X[credit] to place X power counters on it.\nThis program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\nInterface → <strong>1[credit]:</strong> Break 1 subroutine.",
     "title": "Atman",
     "type_code": "program",
     "uniqueness": false
@@ -922,7 +922,7 @@
     "side_code": "runner",
     "stripped_text": "2 credits, trash: Search your stack for a program. Install it.",
     "stripped_title": "Self-modifying Code",
-    "text": "2[credit], [trash]: Search your stack for a program. Install it.",
+    "text": "<strong>2[credit]</strong>, [trash]<strong>:</strong> Search your stack for a program. Install it.",
     "title": "Self-modifying Code",
     "type_code": "program",
     "uniqueness": false
@@ -984,7 +984,7 @@
     "side_code": "runner",
     "stripped_text": "click: Gain 1 credit and draw 1 card.",
     "stripped_title": "Professional Contacts",
-    "text": "[click]: Gain 1[credit] and draw 1 card.",
+    "text": "[click]<strong>:</strong> Gain 1[credit] and draw 1 card.",
     "title": "Professional Contacts",
     "type_code": "resource",
     "uniqueness": false

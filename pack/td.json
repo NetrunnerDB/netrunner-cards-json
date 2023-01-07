@@ -115,7 +115,7 @@
     "strength": 2,
     "stripped_text": "Interface -> 1 credit: Break 1 code gate subroutine. 2 credits: +2 strength. trash: Bypass the code gate you are encountering.",
     "stripped_title": "Abagnale",
-    "text": "Interface → 1[credit]: Break 1 <strong>code gate</strong> subroutine.\n2[credit]: +2 strength.\n[trash]: Bypass the <strong>code gate</strong> you are encountering.",
+    "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> +2 strength.\n[trash]<strong>:</strong> Bypass the <strong>code gate</strong> you are encountering.",
     "title": "Abagnale",
     "type_code": "program",
     "uniqueness": false
@@ -240,7 +240,7 @@
     "side_code": "runner",
     "stripped_text": "Before drawing your starting hand, set aside the top 6 cards of your stack facedown. (You may look at those cards at any time.) Shuffle 2 of those cards into your stack. click: Add 1 card set aside with this identity to your grip.",
     "stripped_title": "Ayla \"Bios\" Rahim: Simulant Specialist",
-    "text": "Before drawing your starting hand, set aside the top 6 cards of your stack facedown. <em>(You may look at those cards at any time.)</em> Shuffle 2 of those cards into your stack.\n[click]: Add 1 card set aside with this identity to your grip.",
+    "text": "Before drawing your starting hand, set aside the top 6 cards of your stack facedown. <em>(You may look at those cards at any time.)</em> Shuffle 2 of those cards into your stack.\n[click]<strong>:</strong> Add 1 card set aside with this identity to your grip.",
     "title": "Ayla \"Bios\" Rahim: Simulant Specialist",
     "type_code": "identity",
     "uniqueness": false

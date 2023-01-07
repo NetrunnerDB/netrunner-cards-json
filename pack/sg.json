@@ -97,7 +97,7 @@
     "strength": 3,
     "stripped_text": "Interface -> 1 credit: Break up to 2 code gate subroutines. 3 credits: +1 strength.",
     "stripped_title": "Buzzsaw",
-    "text": "Interface → 1[credit]: Break up to 2 <strong>code gate</strong> subroutines.\n3[credit]: +1 strength.",
+    "text": "Interface → <strong>1[credit]:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n<strong>3[credit]:</strong> +1 strength.",
     "title": "Buzzsaw",
     "type_code": "program",
     "uniqueness": false
@@ -119,7 +119,7 @@
     "strength": 3,
     "stripped_text": "Interface -> 1 credit: Break up to 2 barrier subroutines. 2 credits: +1 strength.",
     "stripped_title": "Cleaver",
-    "text": "Interface → 1[credit]: Break up to 2 <strong>barrier</strong> subroutines.\n2[credit]: +1 strength.",
+    "text": "Interface → <strong>1[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +1 strength.",
     "title": "Cleaver",
     "type_code": "program",
     "uniqueness": false
@@ -140,7 +140,7 @@
     "side_code": "runner",
     "stripped_text": "When you install this program and when your turn begins, place 1 virus counter on this program. click, trash: Gain 2 credits for each hosted virus counter.",
     "stripped_title": "Fermenter",
-    "text": "When you install this program and when your turn begins, place 1 virus counter on this program.\n[click], [trash]: Gain 2[credit] for each hosted virus counter.",
+    "text": "When you install this program and when your turn begins, place 1 virus counter on this program.\n[click], [trash]<strong>:</strong> Gain 2[credit] for each hosted virus counter.",
     "title": "Fermenter",
     "type_code": "program",
     "uniqueness": false
@@ -280,7 +280,7 @@
     "side_code": "runner",
     "stripped_text": "+1 mu Whenever you make a successful run, place 1 credit on this hardware. click: Place 1 credit on this hardware, then take all credits from it. Limit 1 console per player.",
     "stripped_title": "Pennyshaver",
-    "text": "+1[mu]\nWhenever you make a successful run, place 1[credit] on this hardware.\n[click]: Place 1[credit] on this hardware, then take all credits from it.\nLimit 1 <strong>console</strong> per player.",
+    "text": "+1[mu]\nWhenever you make a successful run, place 1[credit] on this hardware.\n[click]<strong>:</strong> Place 1[credit] on this hardware, then take all credits from it.\nLimit 1 <strong>console</strong> per player.",
     "title": "Pennyshaver",
     "type_code": "hardware",
     "uniqueness": true
@@ -302,7 +302,7 @@
     "strength": 2,
     "stripped_text": "If you made a successful run this turn, this program costs 2 credits less to install. Interface -> 1 credit: Break 1 sentry subroutine. 2 credits: +3 strength.",
     "stripped_title": "Carmen",
-    "text": "If you made a successful run this turn, this program costs 2[credit] less to install.\nInterface → 1[credit]: Break 1 <strong>sentry</strong> subroutine.\n2[credit]: +3 strength.",
+    "text": "If you made a successful run this turn, this program costs 2[credit] less to install.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>2[credit]:</strong> +3 strength.",
     "title": "Carmen",
     "type_code": "program",
     "uniqueness": false
@@ -324,7 +324,7 @@
     "strength": 1,
     "stripped_text": "Interface -> 2 credits: Break 1 barrier subroutine. If you made a successful run this turn, this ability costs 1 credit less to use. 1 credit: +1 strength.",
     "stripped_title": "Marjanah",
-    "text": "Interface → 2[credit]: Break 1 <strong>barrier</strong> subroutine. If you made a successful run this turn, this ability costs 1[credit] less to use.\n1[credit]: +1 strength.",
+    "text": "Interface → <strong>2[credit]:</strong> Break 1 <strong>barrier</strong> subroutine. If you made a successful run this turn, this ability costs 1[credit] less to use.\n<strong>1[credit]:</strong> +1 strength.",
     "title": "Marjanah",
     "type_code": "program",
     "uniqueness": false
@@ -365,7 +365,7 @@
     "side_code": "runner",
     "stripped_text": "When you install this resource, load 12 credits onto it. When it is empty, trash it. click: Run a central server you have not run this turn. If successful, take 3 credits from this resource.",
     "stripped_title": "Red Team",
-    "text": "When you install this resource, load 12[credit] onto it. When it is empty, trash it.\n[click]: Run a central server you have not run this turn. If successful, take 3[credit] from this resource.",
+    "text": "When you install this resource, load 12[credit] onto it. When it is empty, trash it.\n[click]<strong>:</strong> Run a central server you have not run this turn. If successful, take 3[credit] from this resource.",
     "title": "Red Team",
     "type_code": "resource",
     "uniqueness": false
@@ -484,7 +484,7 @@
     "side_code": "runner",
     "stripped_text": "Whenever a successful run on R&D ends, you may place 1 virus counter on this program. click: Run R&D. If successful, access X additional cards when you breach R&D. X is equal to the number of hosted virus counters.",
     "stripped_title": "Conduit",
-    "text": "Whenever a successful run on R&D ends, you may place 1 virus counter on this program.\n[click]: Run R&D. If successful, access X additional cards when you breach R&D. X is equal to the number of hosted virus counters.",
+    "text": "Whenever a successful run on R&D ends, you may place 1 virus counter on this program.\n[click]<strong>:</strong> Run R&D. If successful, access X additional cards when you breach R&D. X is equal to the number of hosted virus counters.",
     "title": "Conduit",
     "type_code": "program",
     "uniqueness": false
@@ -506,7 +506,7 @@
     "strength": 0,
     "stripped_text": "This program gets +1 strength for each installed icebreaker (including this one). Interface -> 1 credit: Break 1 sentry subroutine. 3 credits: +2 strength.",
     "stripped_title": "Echelon",
-    "text": "This program gets +1 strength for each installed <strong>icebreaker</strong> <em>(including this one)</em>.\nInterface → 1[credit]: Break 1 <strong>sentry</strong> subroutine.\n3[credit]: +2 strength.",
+    "text": "This program gets +1 strength for each installed <strong>icebreaker</strong> <em>(including this one)</em>.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>3[credit]:</strong> +2 strength.",
     "title": "Echelon",
     "type_code": "program",
     "uniqueness": false
@@ -528,7 +528,7 @@
     "strength": 1,
     "stripped_text": "Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength for each installed icebreaker (including this one).",
     "stripped_title": "Unity",
-    "text": "Interface → 1[credit]: Break 1 <strong>code gate</strong> subroutine.\n1[credit]: +1 strength for each installed <strong>icebreaker</strong> <em>(including this one)</em>.",
+    "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength for each installed <strong>icebreaker</strong> <em>(including this one)</em>.",
     "title": "Unity",
     "type_code": "program",
     "uniqueness": false
@@ -548,7 +548,7 @@
     "side_code": "runner",
     "stripped_text": "When you install this resource, load 9 credits onto it. When it is empty, trash it. click: Take 3 credits from this resource. Use this ability only once per turn.",
     "stripped_title": "Telework Contract",
-    "text": "When you install this resource, load 9[credit] onto it. When it is empty, trash it.\n[click]: Take 3[credit] from this resource. Use this ability only once per turn.",
+    "text": "When you install this resource, load 9[credit] onto it. When it is empty, trash it.\n[click]<strong>:</strong> Take 3[credit] from this resource. Use this ability only once per turn.",
     "title": "Telework Contract",
     "type_code": "resource",
     "uniqueness": false
@@ -649,7 +649,7 @@
     "strength": 1,
     "stripped_text": "Interface -> 1 credit: Break 1 subroutine. When this run ends, trash this program. 1 credit: +1 strength.",
     "stripped_title": "Mayfly",
-    "text": "Interface → 1[credit]: Break 1 subroutine. When this run ends, trash this program.\n1[credit]: +1 strength.",
+    "text": "Interface → <strong>1[credit]:</strong> Break 1 subroutine. When this run ends, trash this program.\n<strong>1[credit]:</strong> +1 strength.",
     "title": "Mayfly",
     "type_code": "program",
     "uniqueness": false
@@ -669,7 +669,7 @@
     "side_code": "runner",
     "stripped_text": "click: Place 3 credits on this resource. When your turn begins, take 1 credit from this resource.",
     "stripped_title": "Smartware Distributor",
-    "text": "[click]: Place 3[credit] on this resource.\nWhen your turn begins, take 1[credit] from this resource.",
+    "text": "[click]<strong>:</strong> Place 3[credit] on this resource.\nWhen your turn begins, take 1[credit] from this resource.",
     "title": "Smartware Distributor",
     "type_code": "resource",
     "uniqueness": false
@@ -1441,7 +1441,7 @@
     "side_code": "corp",
     "stripped_text": "When you rez this asset, load 15 credits onto it. When it is empty, trash it. click: Take 3 credits from this asset.",
     "stripped_title": "Regolith Mining License",
-    "text": "When you rez this asset, load 15[credit] onto it. When it is empty, trash it.\n[click]: Take 3[credit] from this asset.",
+    "text": "When you rez this asset, load 15[credit] onto it. When it is empty, trash it.\n[click]<strong>:</strong> Take 3[credit] from this asset.",
     "title": "Regolith Mining License",
     "trash_cost": 3,
     "type_code": "asset",
