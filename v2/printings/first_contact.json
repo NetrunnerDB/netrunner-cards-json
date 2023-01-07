@@ -6,10 +6,7 @@
     "id": "06041",
     "illustrator": "Eko Puteh",
     "position": 41,
-    "printed_is_unique": false,
-    "printed_text": "The rez cost of IQ is increased by 1 for each card in HQ.\nIQ has +1 strength for each card in HQ.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "The rez cost of IQ is increased by 1 for each card in HQ. IQ has +1 strength for each card in HQ. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "elizas_toybox",
@@ -18,10 +15,7 @@
     "id": "06042",
     "illustrator": "Henning Ludvigsen",
     "position": 42,
-    "printed_is_unique": true,
-    "printed_text": "[click],[click],[click]: Rez a card, ignoring all costs.",
-    "quantity": 3,
-    "stripped_printed_text": "click,click,click: Rez a card, ignoring all costs."
+    "quantity": 3
   },
   {
     "card_id": "kitsune",
@@ -30,10 +24,7 @@
     "id": "06043",
     "illustrator": "Smirtouille",
     "position": 43,
-    "printed_is_unique": false,
-    "printed_text": "[subroutine] You may choose 1 card in HQ. If you do, the Runner breaches HQ. During this breach, the Runner cannot access cards in the root of HQ, and the first card they access must be the chosen card. When the breach ends, trash this ice.",
-    "quantity": 3,
-    "stripped_printed_text": "Subroutine You may choose 1 card in HQ. If you do, the Runner breaches HQ. During this breach, the Runner cannot access cards in the root of HQ, and the first card they access must be the chosen card. When the breach ends, trash this ice."
+    "quantity": 3
   },
   {
     "card_id": "port_anson_grid",
@@ -42,10 +33,7 @@
     "id": "06044",
     "illustrator": "Emilio Rodriguez",
     "position": 44,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to jack out during a run on this server, the Runner must trash 1 installed program.\nLimit 1 <strong>region</strong> per server.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to jack out during a run on this server, the Runner must trash 1 installed program. Limit 1 region per server."
+    "quantity": 3
   },
   {
     "card_id": "the_news_now_hour",
@@ -54,10 +42,7 @@
     "id": "06045",
     "illustrator": "Ed Mattinian",
     "position": 45,
-    "printed_is_unique": false,
-    "printed_text": "The Runner cannot play <strong>current</strong> events.",
-    "quantity": 3,
-    "stripped_printed_text": "The Runner cannot play current events."
+    "quantity": 3
   },
   {
     "card_id": "manhunt",
@@ -65,10 +50,7 @@
     "id": "06046",
     "illustrator": "Mauricio Herrera",
     "position": 46,
-    "printed_is_unique": false,
-    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe first time the Runner makes a successful run each turn, Trace[2]. If successful, give the Runner 1 tag.",
-    "quantity": 3,
-    "stripped_printed_text": "This card is not trashed until another current is played or an agenda is stolen. The first time the Runner makes a successful run each turn, Trace[2]. If successful, give the Runner 1 tag."
+    "quantity": 3
   },
   {
     "card_id": "wendigo",
@@ -76,10 +58,7 @@
     "id": "06047",
     "illustrator": "Wylie Beckert",
     "position": 47,
-    "printed_is_unique": false,
-    "printed_text": "Wendigo can be advanced.\nWhile Wendigo has an odd number of advancement tokens on it, it gains <strong>barrier</strong> and loses <strong>code gate</strong>.\n[subroutine] Choose a program. The Runner cannot use the chosen program for the remainder of this run.",
-    "quantity": 3,
-    "stripped_printed_text": "Wendigo can be advanced. While Wendigo has an odd number of advancement tokens on it, it gains barrier and loses code gate. Subroutine Choose a program. The Runner cannot use the chosen program for the remainder of this run."
+    "quantity": 3
   },
   {
     "card_id": "crisium_grid",
@@ -88,10 +67,7 @@
     "id": "06048",
     "illustrator": "Camille Kuo",
     "position": 48,
-    "printed_is_unique": false,
-    "printed_text": "Runs against this server cannot be declared successful. <em>(This effect does not cause runs to become unsuccessful.)</em>\nLimit 1 <strong>region</strong> per server.",
-    "quantity": 3,
-    "stripped_printed_text": "Runs against this server cannot be declared successful. (This effect does not cause runs to become unsuccessful.) Limit 1 region per server."
+    "quantity": 3
   },
   {
     "card_id": "chronos_project",
@@ -100,10 +76,7 @@
     "id": "06049",
     "illustrator": "Adam S. Doyle",
     "position": 49,
-    "printed_is_unique": false,
-    "printed_text": "When you score this agenda, the Runner removes all cards in the heap from the game.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score this agenda, the Runner removes all cards in the heap from the game."
+    "quantity": 3
   },
   {
     "card_id": "shattered_remains",
@@ -111,10 +84,7 @@
     "id": "06050",
     "illustrator": "Matt Zeilinger",
     "position": 50,
-    "printed_is_unique": false,
-    "printed_text": "Shattered Remains can be advanced.\nIf you pay 1[credit] when the Runner accesses Shattered Remains, trash 1 piece of hardware for each advancement token on Shattered Remains.",
-    "quantity": 3,
-    "stripped_printed_text": "Shattered Remains can be advanced. If you pay 1 credit when the Runner accesses Shattered Remains, trash 1 piece of hardware for each advancement token on Shattered Remains."
+    "quantity": 3
   },
   {
     "card_id": "lancelot",
@@ -123,10 +93,7 @@
     "id": "06051",
     "illustrator": "Andreas Zafiratos",
     "position": 51,
-    "printed_is_unique": false,
-    "printed_text": "When the Runner encounters Lancelot, you may reveal up to 2 <strong>grail</strong> ice from HQ. For the remainder of this run, Lancelot gains the subroutines of the revealed ice in the order of your choice.\n[subroutine] Trash 1 program.",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters Lancelot, you may reveal up to 2 grail ice from HQ. For the remainder of this run, Lancelot gains the subroutines of the revealed ice in the order of your choice. Subroutine Trash 1 program."
+    "quantity": 3
   },
   {
     "card_id": "quetzal_free_spirit",
@@ -135,10 +102,7 @@
     "id": "06052",
     "illustrator": "Matt Zeilinger",
     "position": 52,
-    "printed_is_unique": false,
-    "printed_text": "0[credit]: Break 1 <strong>barrier</strong> subroutine. Use this ability only once per turn.",
-    "quantity": 3,
-    "stripped_printed_text": "0 credits: Break 1 barrier subroutine. Use this ability only once per turn."
+    "quantity": 3
   },
   {
     "card_id": "blackat",
@@ -147,10 +111,7 @@
     "id": "06053",
     "illustrator": "Seage",
     "position": 53,
-    "printed_is_unique": false,
-    "printed_text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine. If you spent a credit from a <strong>stealth</strong> card to use this ability, instead break up to 3 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +1 strength. If you spent at least 1 credit from a <strong>stealth</strong> card to use this ability, instead +2 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "Interface -> 1 credit: Break 1 barrier subroutine. If you spent a credit from a stealth card to use this ability, instead break up to 3 barrier subroutines. 2 credits: +1 strength. If you spent at least 1 credit from a stealth card to use this ability, instead +2 strength."
+    "quantity": 3
   },
   {
     "card_id": "duggars",
@@ -159,10 +120,7 @@
     "id": "06054",
     "illustrator": "Gong Studios",
     "position": 54,
-    "printed_is_unique": true,
-    "printed_text": "[click],[click],[click],[click]: Draw 10 cards.",
-    "quantity": 3,
-    "stripped_printed_text": "click,click,click,click: Draw 10 cards."
+    "quantity": 3
   },
   {
     "card_id": "box_e",
@@ -170,10 +128,7 @@
     "id": "06055",
     "illustrator": "Aaron Agregado",
     "position": 55,
-    "printed_is_unique": true,
-    "printed_text": "+2[mu]\nYour maximum hand size is increased by 2.\nLimit 1 <strong>console</strong> per player.",
-    "quantity": 3,
-    "stripped_printed_text": "+2 mu Your maximum hand size is increased by 2. Limit 1 console per player."
+    "quantity": 3
   },
   {
     "card_id": "the_supplier",
@@ -182,10 +137,7 @@
     "id": "06056",
     "illustrator": "Samuel R. Shimota",
     "position": 56,
-    "printed_is_unique": true,
-    "printed_text": "[click]: Host a resource or piece of hardware from your grip on The Supplier.\nWhen your turn begins, you may install a hosted card, lowering the install cost by 2.",
-    "quantity": 3,
-    "stripped_printed_text": "click: Host a resource or piece of hardware from your grip on The Supplier. When your turn begins, you may install a hosted card, lowering the install cost by 2."
+    "quantity": 3
   },
   {
     "card_id": "refractor",
@@ -194,10 +146,7 @@
     "id": "06057",
     "illustrator": "Hannah Christenson",
     "position": 57,
-    "printed_is_unique": false,
-    "printed_text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +3 strength. Use this ability only by spending a credit from a <strong>stealth</strong> card.",
-    "quantity": 3,
-    "stripped_printed_text": "Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +3 strength. Use this ability only by spending a credit from a stealth card."
+    "quantity": 3
   },
   {
     "card_id": "order_of_sol",
@@ -206,10 +155,7 @@
     "id": "06058",
     "illustrator": "Henning Ludvigsen",
     "position": 58,
-    "printed_is_unique": true,
-    "printed_text": "The first time you have no credits in your credit pool each turn, gain 1[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "The first time you have no credits in your credit pool each turn, gain 1 credit."
+    "quantity": 3
   },
   {
     "card_id": "hades_shard",
@@ -217,10 +163,7 @@
     "id": "06059",
     "illustrator": "Seage",
     "position": 59,
-    "printed_is_unique": true,
-    "printed_text": "Whenever you make a successful run on Archives, instead of breaching Archives, you may install this resource from your grip, ignoring all costs.\n<strong>[trash]:</strong> Breach Archives. You cannot access cards in the root of Archives during this breach.\nLimit 1 per deck.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever you make a successful run on Archives, instead of breaching Archives, you may install this resource from your grip, ignoring all costs. trash: Breach Archives. You cannot access cards in the root of Archives during this breach. Limit 1 per deck."
+    "quantity": 3
   },
   {
     "card_id": "rachel_beckman",
@@ -229,9 +172,6 @@
     "id": "06060",
     "illustrator": "Ashley Witter",
     "position": 60,
-    "printed_is_unique": true,
-    "printed_text": "You get +1 allotted [click] for each of your turns.\nIf you are tagged, trash this resource.",
-    "quantity": 3,
-    "stripped_printed_text": "You get +1 allotted click for each of your turns. If you are tagged, trash this resource."
+    "quantity": 3
   }
 ]

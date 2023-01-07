@@ -6,10 +6,7 @@
     "id": "12001",
     "illustrator": "Adam S. Doyle",
     "position": 1,
-    "printed_is_unique": false,
-    "printed_text": "Make a run. If you have 2 or fewer cards in your grip, each installed <strong>icebreaker</strong> has +2 strength until the end of the run.",
-    "quantity": 3,
-    "stripped_printed_text": "Make a run. If you have 2 or fewer cards in your grip, each installed icebreaker has +2 strength until the end of the run."
+    "quantity": 3
   },
   {
     "card_id": "maw",
@@ -17,10 +14,7 @@
     "id": "12002",
     "illustrator": "Martin de Diego Sádaba",
     "position": 2,
-    "printed_is_unique": true,
-    "printed_text": "+2[mu]\nThe first time each turn you access a card not in Archives and do not steal or trash it, the Corp must trash 1 card from HQ at random.\nLimit 1 <strong>console</strong> per player.",
-    "quantity": 3,
-    "stripped_printed_text": "+2 mu The first time each turn you access a card not in Archives and do not steal or trash it, the Corp must trash 1 card from HQ at random. Limit 1 console per player."
+    "quantity": 3
   },
   {
     "card_id": "the_archivist",
@@ -29,10 +23,7 @@
     "id": "12003",
     "illustrator": "Matt Zeilinger",
     "position": 3,
-    "printed_is_unique": true,
-    "printed_text": "+1[link]\nWhenever the Corp scores an <strong>initiative</strong> or <strong>security</strong> agenda, force the Corp to \"Trace[1]. If unsuccessful, take 1 bad publicity.\"",
-    "quantity": 3,
-    "stripped_printed_text": "+1 link Whenever the Corp scores an initiative or security agenda, force the Corp to \"Trace[1]. If unsuccessful, take 1 bad publicity.\""
+    "quantity": 3
   },
   {
     "card_id": "exploit",
@@ -41,10 +32,7 @@
     "id": "12004",
     "illustrator": "Nasrul Hakim",
     "position": 4,
-    "printed_is_unique": false,
-    "printed_text": "Play only if you made a successful run on R&D, HQ, and Archives this turn.\nDerez up to 3 pieces of ice.",
-    "quantity": 3,
-    "stripped_printed_text": "Play only if you made a successful run on R&D, HQ, and Archives this turn. Derez up to 3 pieces of ice."
+    "quantity": 3
   },
   {
     "card_id": "spot_the_prey",
@@ -53,10 +41,7 @@
     "id": "12005",
     "illustrator": "Camille Kuo",
     "position": 5,
-    "printed_is_unique": false,
-    "printed_text": "Expose 1 non-ice card, then make a run.",
-    "quantity": 3,
-    "stripped_printed_text": "Expose 1 non-ice card, then make a run."
+    "quantity": 3
   },
   {
     "card_id": "bio_modeled_network",
@@ -65,10 +50,7 @@
     "id": "12006",
     "illustrator": "Jarreau Wimberly",
     "position": 6,
-    "printed_is_unique": false,
-    "printed_text": "[trash]: Prevent all but 1 net damage.",
-    "quantity": 3,
-    "stripped_printed_text": "trash: Prevent all but 1 net damage."
+    "quantity": 3
   },
   {
     "card_id": "network_exchange",
@@ -77,10 +59,7 @@
     "id": "12007",
     "illustrator": "Alexandr Elichev",
     "position": 7,
-    "printed_is_unique": false,
-    "printed_text": "The install cost of each piece of ice that is not installed in the innermost position is increased by 1.",
-    "quantity": 3,
-    "stripped_printed_text": "The install cost of each piece of ice that is not installed in the innermost position is increased by 1."
+    "quantity": 3
   },
   {
     "card_id": "mad_dash",
@@ -88,10 +67,7 @@
     "id": "12008",
     "illustrator": "Alexandr Elichev",
     "position": 8,
-    "printed_is_unique": false,
-    "printed_text": "Make a run. When this run ends, add Mad Dash to your score area as an agenda worth 1 agenda point if you stole at least 1 agenda during the run; otherwise, suffer 1 meat damage.",
-    "quantity": 3,
-    "stripped_printed_text": "Make a run. When this run ends, add Mad Dash to your score area as an agenda worth 1 agenda point if you stole at least 1 agenda during the run; otherwise, suffer 1 meat damage."
+    "quantity": 3
   },
   {
     "card_id": "next_wave_2",
@@ -100,10 +76,7 @@
     "id": "12009",
     "illustrator": "Shawn Ye Zhongyi",
     "position": 9,
-    "printed_is_unique": false,
-    "printed_text": "When you score this agenda, if there is a rezzed piece of <strong>NEXT</strong> ice, you may do 1 core damage.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score this agenda, if there is a rezzed piece of NEXT ice, you may do 1 core damage."
+    "quantity": 3
   },
   {
     "card_id": "zed_2_0",
@@ -112,10 +85,7 @@
     "id": "12010",
     "illustrator": "Adam S. Doyle",
     "position": 10,
-    "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click][click]:</strong> Break up to 2 subroutines on this ice. Only the Runner can use this ability.\n[subroutine] Trash 1 installed piece of hardware.\n[subroutine] Trash 1 installed piece of hardware.\n[subroutine] If the Runner has lost [click] to break a subroutine during this run, do 2 core damage.",
-    "quantity": 3,
-    "stripped_printed_text": "Lose click click: Break up to 2 subroutines on this ice. Only the Runner can use this ability. Subroutine Trash 1 installed piece of hardware. Subroutine Trash 1 installed piece of hardware. Subroutine If the Runner has lost click to break a subroutine during this run, do 2 core damage."
+    "quantity": 3
   },
   {
     "card_id": "defense_construct",
@@ -123,10 +93,7 @@
     "id": "12011",
     "illustrator": "Pavel Kolomeyets",
     "position": 11,
-    "printed_is_unique": false,
-    "printed_text": "Defense Construct can be advanced.\n[trash]: Add 1 facedown card from Archives to HQ for each advancement token on Defense Construct. Use this ability only during a run on Archives.",
-    "quantity": 3,
-    "stripped_printed_text": "Defense Construct can be advanced. trash: Add 1 facedown card from Archives to HQ for each advancement token on Defense Construct. Use this ability only during a run on Archives."
+    "quantity": 3
   },
   {
     "card_id": "synth_dna_modification",
@@ -134,10 +101,7 @@
     "id": "12012",
     "illustrator": "Liiga Smilshkalne",
     "position": 12,
-    "printed_is_unique": false,
-    "printed_text": "The first time a subroutine on a piece of <strong>AP</strong> ice is broken each turn, do 1 net damage.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time a subroutine on a piece of AP ice is broken each turn, do 1 net damage."
+    "quantity": 3
   },
   {
     "card_id": "kakugo",
@@ -146,10 +110,7 @@
     "id": "12013",
     "illustrator": "Adam S. Doyle",
     "position": 13,
-    "printed_is_unique": false,
-    "printed_text": "When the Runner passes Kakugo, do 1 net damage.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner passes Kakugo, do 1 net damage. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "net_analytics",
@@ -157,10 +118,7 @@
     "id": "12014",
     "illustrator": "Mariusz Siergiejew",
     "position": 14,
-    "printed_is_unique": false,
-    "printed_text": "Whenever the Runner avoids or removes 1 or more tags, you may draw 1 card.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever the Runner avoids or removes 1 or more tags, you may draw 1 card."
+    "quantity": 3
   },
   {
     "card_id": "sync_bre",
@@ -169,10 +127,7 @@
     "id": "12015",
     "illustrator": "Liiga Smilshkalne",
     "position": 15,
-    "printed_is_unique": false,
-    "printed_text": "[subroutine] Trace[4]. If successful, give the Runner 1 tag.\n[subroutine] Trace[2]. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card.",
-    "quantity": 3,
-    "stripped_printed_text": "Subroutine Trace[4]. If successful, give the Runner 1 tag. Subroutine Trace[2]. If successful, whenever the Runner breaches a server for the remainder of this run, they access 1 fewer card."
+    "quantity": 3
   },
   {
     "card_id": "jemison_astronautics_sacrifice_audacity_success",
@@ -180,10 +135,7 @@
     "id": "12016",
     "illustrator": "Emilio Rodriguez",
     "position": 16,
-    "printed_is_unique": false,
-    "printed_text": "Whenever you forfeit an agenda, place X advancement counters on 1 installed card. X is equal to the agenda point value of the forfeited agenda plus 1.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever you forfeit an agenda, place X advancement counters on 1 installed card. X is equal to the agenda point value of the forfeited agenda plus 1."
+    "quantity": 3
   },
   {
     "card_id": "quarantine_system",
@@ -191,10 +143,7 @@
     "id": "12017",
     "illustrator": "Kathryn Steele",
     "position": 17,
-    "printed_is_unique": false,
-    "printed_text": "<strong>Forfeit an agenda</strong>: Rez up to 3 pieces of ice, lowering the cost of each by 2[credit] for each printed agenda point on the forfeited agenda.",
-    "quantity": 3,
-    "stripped_printed_text": "Forfeit an agenda: Rez up to 3 pieces of ice, lowering the cost of each by 2 credits for each printed agenda point on the forfeited agenda."
+    "quantity": 3
   },
   {
     "card_id": "oberth_protocol",
@@ -202,10 +151,7 @@
     "id": "12018",
     "illustrator": "Pavel Kolomeyets",
     "position": 18,
-    "printed_is_unique": true,
-    "printed_text": "As an additional cost to rez this upgrade, forfeit 1 agenda.\nThe first time each turn you advance a card in the root of or protecting this server, place 1 more advancement counter on that card.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to rez this upgrade, forfeit 1 agenda. The first time each turn you advance a card in the root of or protecting this server, place 1 more advancement counter on that card."
+    "quantity": 3
   },
   {
     "card_id": "khondi_plaza",
@@ -214,10 +160,7 @@
     "id": "12019",
     "illustrator": "Maciej Rebisz",
     "position": 19,
-    "printed_is_unique": true,
-    "printed_text": "X[recurring-credit]\nUse these credits to rez ice protecting this server. X is the number of remote servers.",
-    "quantity": 3,
-    "stripped_printed_text": "X recurring credits Use these credits to rez ice protecting this server. X is the number of remote servers."
+    "quantity": 3
   },
   {
     "card_id": "signal_jamming",
@@ -225,9 +168,6 @@
     "id": "12020",
     "illustrator": "JuanManuel Tumburus",
     "position": 20,
-    "printed_is_unique": false,
-    "printed_text": "[trash]: Cards cannot be installed until the end of the run. Use this ability only during a run on this server.",
-    "quantity": 3,
-    "stripped_printed_text": "trash: Cards cannot be installed until the end of the run. Use this ability only during a run on this server."
+    "quantity": 3
   }
 ]

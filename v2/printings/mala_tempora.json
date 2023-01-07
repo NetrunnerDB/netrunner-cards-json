@@ -6,10 +6,7 @@
     "id": "04041",
     "illustrator": "Matt Zeilinger",
     "position": 41,
-    "printed_is_unique": false,
-    "printed_text": "The first piece of ice the Corp rezzes each turn costs 1[credit] more to rez.",
-    "quantity": 3,
-    "stripped_printed_text": "The first piece of ice the Corp rezzes each turn costs 1 credit more to rez."
+    "quantity": 3
   },
   {
     "card_id": "deep_red",
@@ -17,10 +14,7 @@
     "id": "04042",
     "illustrator": "Christina Davis",
     "position": 42,
-    "printed_is_unique": true,
-    "printed_text": "+3[mu]\nUse the MU on Deep Red only for <strong>Caïssa</strong> programs.\nWhenever you install a <strong>Caïssa</strong> program, you may trigger its [click] ability without spending [click].\nLimit 1 <strong>console</strong> per player.",
-    "quantity": 3,
-    "stripped_printed_text": "+3 mu Use the MU on Deep Red only for Caissa programs. Whenever you install a Caissa program, you may trigger its click ability without spending click. Limit 1 console per player."
+    "quantity": 3
   },
   {
     "card_id": "knight",
@@ -29,10 +23,7 @@
     "id": "04043",
     "illustrator": "Christina Davis",
     "position": 43,
-    "printed_is_unique": false,
-    "printed_text": "Interface → <strong>2[credit]:</strong> Break 1 subroutine on host ice.\n<strong>[click]:</strong> Host this program on a piece of ice that is not hosting a <strong>Caïssa</strong> program.\nIf this program is hosted on ice, its [click] ability cannot be used to host it on the next inward or outward piece of ice.",
-    "quantity": 3,
-    "stripped_printed_text": "Interface -> 2 credits: Break 1 subroutine on host ice. click: Host this program on a piece of ice that is not hosting a Caissa program. If this program is hosted on ice, its click ability cannot be used to host it on the next inward or outward piece of ice."
+    "quantity": 3
   },
   {
     "card_id": "running_interference",
@@ -40,10 +31,7 @@
     "id": "04044",
     "illustrator": "Liiga Smilshkalne",
     "position": 44,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this event, spend [click].\nMake a run. During this run, the Corp must pay X[credit] as an additional cost to rez each piece of ice, where X is the rez cost of that ice.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this event, spend click. Make a run. During this run, the Corp must pay X credits as an additional cost to rez each piece of ice, where X is the rez cost of that ice."
+    "quantity": 3
   },
   {
     "card_id": "expert_schedule_analyzer",
@@ -52,10 +40,7 @@
     "id": "04045",
     "illustrator": "Anna Ignatieva",
     "position": 45,
-    "printed_is_unique": false,
-    "printed_text": "<strong>[click]:</strong> Run HQ. If successful, instead of breaching HQ, you may reveal all cards in HQ.",
-    "quantity": 3,
-    "stripped_printed_text": "click: Run HQ. If successful, instead of breaching HQ, you may reveal all cards in HQ."
+    "quantity": 3
   },
   {
     "card_id": "grifter",
@@ -64,10 +49,7 @@
     "id": "04046",
     "illustrator": "Ed Mattinian",
     "position": 46,
-    "printed_is_unique": false,
-    "printed_text": "When your turn ends, gain 1[credit] if you made a successful run this turn; otherwise, trash Grifter.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn ends, gain 1 credit if you made a successful run this turn; otherwise, trash Grifter."
+    "quantity": 3
   },
   {
     "card_id": "torch",
@@ -76,10 +58,7 @@
     "id": "04047",
     "illustrator": "Mike Nesbitt",
     "position": 47,
-    "printed_is_unique": false,
-    "printed_text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength."
+    "quantity": 3
   },
   {
     "card_id": "woman_in_the_red_dress",
@@ -88,10 +67,7 @@
     "id": "04048",
     "illustrator": "Bruno Balixa",
     "position": 48,
-    "printed_is_unique": true,
-    "printed_text": "When your turn begins, reveal the top card of R&D. The Corp may draw that card.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, reveal the top card of R&D. The Corp may draw that card."
+    "quantity": 3
   },
   {
     "card_id": "raymond_flint",
@@ -100,10 +76,7 @@
     "id": "04049",
     "illustrator": "Matt Zeilinger",
     "position": 49,
-    "printed_is_unique": true,
-    "printed_text": "Whenever the Corp takes bad publicity, breach HQ. You cannot access cards in the root of HQ during this breach.\n<strong>[trash]:</strong> Expose 1 card.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever the Corp takes bad publicity, breach HQ. You cannot access cards in the root of HQ during this breach. trash: Expose 1 card."
+    "quantity": 3
   },
   {
     "card_id": "isabel_mcguire",
@@ -112,10 +85,7 @@
     "id": "04050",
     "illustrator": "Matt Zeilinger",
     "position": 50,
-    "printed_is_unique": true,
-    "printed_text": "[click]: Add 1 of your installed cards to HQ.",
-    "quantity": 3,
-    "stripped_printed_text": "click: Add 1 of your installed cards to HQ."
+    "quantity": 3
   },
   {
     "card_id": "hudson_1_0",
@@ -124,10 +94,7 @@
     "id": "04051",
     "illustrator": "Wen Xiaodong",
     "position": 51,
-    "printed_is_unique": false,
-    "printed_text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] The Runner cannot access more than 1 card during this run.\n[subroutine] The Runner cannot access more than 1 card during this run.",
-    "quantity": 3,
-    "stripped_printed_text": "Lose click: Break 1 subroutine on this ice. Only the Runner can use this ability. Subroutine The Runner cannot access more than 1 card during this run. Subroutine The Runner cannot access more than 1 card during this run."
+    "quantity": 3
   },
   {
     "card_id": "accelerated_diagnostics",
@@ -136,10 +103,7 @@
     "id": "04052",
     "illustrator": "Gong Studios",
     "position": 52,
-    "printed_is_unique": false,
-    "printed_text": "Look at the top 3 cards of R&D. If any of those cards are operations, you may play them (paying their play cost), ignoring any additional costs. Trash the rest of the unplayed cards you looked at.",
-    "quantity": 3,
-    "stripped_printed_text": "Look at the top 3 cards of R&D. If any of those cards are operations, you may play them (paying their play cost), ignoring any additional costs. Trash the rest of the unplayed cards you looked at."
+    "quantity": 3
   },
   {
     "card_id": "unorthodox_predictions",
@@ -147,10 +111,7 @@
     "id": "04053",
     "illustrator": "Bruno Balixa",
     "position": 53,
-    "printed_is_unique": false,
-    "printed_text": "When you score Unorthodox Predictions, choose <strong>sentry</strong>, <strong>code gate</strong> or <strong>barrier</strong>. Subroutines on ice of the chosen type cannot be broken until the beginning of your next turn.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score Unorthodox Predictions, choose sentry, code gate or barrier. Subroutines on ice of the chosen type cannot be broken until the beginning of your next turn."
+    "quantity": 3
   },
   {
     "card_id": "sundew",
@@ -159,10 +120,7 @@
     "id": "04054",
     "illustrator": "Anna Ignatieva",
     "position": 54,
-    "printed_is_unique": false,
-    "printed_text": "The first time the Runner spends 1 or more [click] during their turn, gain 2[credit]. If those [click] were spent to take an action, the first time during that action a run on this server begins, pay 2[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "The first time the Runner spends 1 or more click during their turn, gain 2 credits. If those click were spent to take an action, the first time during that action a run on this server begins, pay 2 credits."
+    "quantity": 3
   },
   {
     "card_id": "city_surveillance",
@@ -171,10 +129,7 @@
     "id": "04055",
     "illustrator": "Gong Studios",
     "position": 55,
-    "printed_is_unique": false,
-    "printed_text": "When the Runner's turn begins, give them 1 tag unless they pay 1[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner's turn begins, give them 1 tag unless they pay 1 credit."
+    "quantity": 3
   },
   {
     "card_id": "snoop",
@@ -182,10 +137,7 @@
     "id": "04056",
     "illustrator": "Andreas Zafiratos",
     "position": 56,
-    "printed_is_unique": false,
-    "printed_text": "When the Runner encounters Snoop, reveal all cards in the Runner's grip.\n<strong>Hosted power counter:</strong> Reveal all cards in the Runner's grip. Trash 1 of those cards.\n[subroutine] Trace[3]. If successful, place 1 power counter on Snoop.",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters Snoop, reveal all cards in the Runner's grip. Hosted power counter: Reveal all cards in the Runner's grip. Trash 1 of those cards. Subroutine Trace[3]. If successful, place 1 power counter on Snoop."
+    "quantity": 3
   },
   {
     "card_id": "ireress",
@@ -194,10 +146,7 @@
     "id": "04057",
     "illustrator": "Chris Newman",
     "position": 57,
-    "printed_is_unique": false,
-    "printed_text": "Ireress gains \"[subroutine] The Runner loses 1[credit]\" for each bad publicity you have.",
-    "quantity": 3,
-    "stripped_printed_text": "Ireress gains \"Subroutine The Runner loses 1 credit\" for each bad publicity you have."
+    "quantity": 3
   },
   {
     "card_id": "power_shutdown",
@@ -205,10 +154,7 @@
     "id": "04058",
     "illustrator": "Gong Studios",
     "position": 58,
-    "printed_is_unique": false,
-    "printed_text": "Play only if the Runner made a run during their last turn.\nTrash any number of cards from the top of R&D. The Runner trashes an installed program or piece of hardware with an install cost equal to or less than the number of cards you trashed this way.",
-    "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner made a run during their last turn. Trash any number of cards from the top of R&D. The Runner trashes an installed program or piece of hardware with an install cost equal to or less than the number of cards you trashed this way."
+    "quantity": 3
   },
   {
     "card_id": "paper_wall",
@@ -217,10 +163,7 @@
     "id": "04059",
     "illustrator": "Ed Mattinian",
     "position": 59,
-    "printed_is_unique": false,
-    "printed_text": "When the Runner fully breaks this ice, trash it.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner fully breaks this ice, trash it. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "interns",
@@ -229,9 +172,6 @@
     "id": "04060",
     "illustrator": "Akiko F. Minowa",
     "position": 60,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this operation, spend [click].\nInstall a non-operation card from Archives or HQ, ignoring the install cost.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this operation, spend click. Install a non-operation card from Archives or HQ, ignoring the install cost."
+    "quantity": 3
   }
 ]

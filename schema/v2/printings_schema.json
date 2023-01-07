@@ -30,27 +30,11 @@
         "minimum": 1,
         "type": "integer"
       },
-      "printed_is_unique": {
-        "type": "boolean"
-      },
-      "printed_text": {
-        "type": "string"
-      },
       "quantity": {
         "minimum": 1,
         "type": "integer"
-      },
-      "stripped_printed_text": {
-        "type": "string"
       }
     },
-    "required": [
-      "card_id",
-      "card_set_id",
-      "id",
-      "position",
-      "printed_is_unique",
-      "quantity"
-    ]
+    "required": ["card_id", "card_set_id", "id", "position", "quantity"]
   }
 }

@@ -6,10 +6,7 @@
     "id": "04001",
     "illustrator": "Gong Studios",
     "position": 1,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this event, spend [click].\nForfeit an agenda. If you do, give the Corp 1 bad publicity.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this event, spend click. Forfeit an agenda. If you do, give the Corp 1 bad publicity."
+    "quantity": 3
   },
   {
     "card_id": "pawn",
@@ -17,10 +14,7 @@
     "id": "04002",
     "illustrator": "Liiga Smilshkalne",
     "position": 2,
-    "printed_is_unique": false,
-    "printed_text": "[click]: Host this program on the outermost piece of ice protecting a central server.\nWhenever you make a successful run while this program is hosted on a piece of ice, host it on the next inward piece of ice. If you cannot, trash this program and install 1 other <strong>Caïssa</strong> program from your grip or heap, ignoring all costs.",
-    "quantity": 3,
-    "stripped_printed_text": "click: Host this program on the outermost piece of ice protecting a central server. Whenever you make a successful run while this program is hosted on a piece of ice, host it on the next inward piece of ice. If you cannot, trash this program and install 1 other Caissa program from your grip or heap, ignoring all costs."
+    "quantity": 3
   },
   {
     "card_id": "rook",
@@ -28,10 +22,7 @@
     "id": "04003",
     "illustrator": "Gong Studios",
     "position": 3,
-    "printed_is_unique": false,
-    "printed_text": "While this program is hosted on ice, the rez cost of each piece of ice protecting this server is increased by 2.\n[click]: Host this program on a piece of ice that is not hosting a <strong>Caïssa</strong> program.\nIf this program is hosted on ice, its [click] ability can only be used to host it on ice protecting the same server or in the same position as its current host ice. <em>(Count positions from the innermost ice.)</em>",
-    "quantity": 3,
-    "stripped_printed_text": "While this program is hosted on ice, the rez cost of each piece of ice protecting this server is increased by 2. click: Host this program on a piece of ice that is not hosting a Caissa program. If this program is hosted on ice, its click ability can only be used to host it on ice protecting the same server or in the same position as its current host ice. (Count positions from the innermost ice.)"
+    "quantity": 3
   },
   {
     "card_id": "hostage",
@@ -39,10 +30,7 @@
     "id": "04004",
     "illustrator": "Matt Zeilinger",
     "position": 4,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this event, spend [click].\nSearch your stack for a <strong>connection</strong>, reveal it, and add it to your grip. You may install that <strong>connection</strong> (paying its install cost). Shuffle your stack.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this event, spend click. Search your stack for a connection, reveal it, and add it to your grip. You may install that connection (paying its install cost). Shuffle your stack."
+    "quantity": 3
   },
   {
     "card_id": "gorman_drip_v1",
@@ -51,10 +39,7 @@
     "id": "04005",
     "illustrator": "Shawn Ye Zhongyi",
     "position": 5,
-    "printed_is_unique": false,
-    "printed_text": "Whenever the Corp spends a [click] to draw 1 card or gain 1[credit] (not through a card ability), place 1 virus counter on Gorman Drip v1.\n[click], [trash]: Gain 1[credit] for each virus counter on Gorman Drip v1.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever the Corp spends a click to draw 1 card or gain 1 credit (not through a card ability), place 1 virus counter on Gorman Drip v1. click, trash: Gain 1 credit for each virus counter on Gorman Drip v1."
+    "quantity": 3
   },
   {
     "card_id": "lockpick",
@@ -63,10 +48,7 @@
     "id": "04006",
     "illustrator": "Gong Studios",
     "position": 6,
-    "printed_is_unique": false,
-    "printed_text": "1[recurring-credit]\nUse this credit to pay for using <strong>decoders</strong>.",
-    "quantity": 3,
-    "stripped_printed_text": "1 recurring credit Use this credit to pay for using decoders."
+    "quantity": 3
   },
   {
     "card_id": "false_echo",
@@ -75,10 +57,7 @@
     "id": "04007",
     "illustrator": "Anna Ignatieva",
     "position": 7,
-    "printed_is_unique": false,
-    "printed_text": "Whenever you pass a piece of unrezzed ice, you may trash False Echo. If you do, the Corp must rez that ice or add it to HQ.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever you pass a piece of unrezzed ice, you may trash False Echo. If you do, the Corp must rez that ice or add it to HQ."
+    "quantity": 3
   },
   {
     "card_id": "motivation",
@@ -87,10 +66,7 @@
     "id": "04008",
     "illustrator": "JuanManuel Tumburus",
     "position": 8,
-    "printed_is_unique": false,
-    "printed_text": "When your turn begins, you may look at the top card of your stack.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, you may look at the top card of your stack."
+    "quantity": 3
   },
   {
     "card_id": "john_masanori",
@@ -99,10 +75,7 @@
     "id": "04009",
     "illustrator": "Zefanya Langkan Maega",
     "position": 9,
-    "printed_is_unique": true,
-    "printed_text": "The first time you make a successful run each turn, draw 1 card.\nThe first time you make an unsuccessful run each turn, take 1 tag.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time you make a successful run each turn, draw 1 card. The first time you make an unsuccessful run each turn, take 1 tag."
+    "quantity": 3
   },
   {
     "card_id": "project_ares",
@@ -111,10 +84,7 @@
     "id": "04010",
     "illustrator": "Emilio Rodriguez",
     "position": 10,
-    "printed_is_unique": false,
-    "printed_text": "When you score this agenda, the Runner trashes 1 of their installed cards for each hosted advancement counter past 4. If the Runner trashes at least 1 card this way, take 1 bad publicity.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score this agenda, the Runner trashes 1 of their installed cards for each hosted advancement counter past 4. If the Runner trashes at least 1 card this way, take 1 bad publicity."
+    "quantity": 3
   },
   {
     "card_id": "next_bronze",
@@ -123,10 +93,7 @@
     "id": "04011",
     "illustrator": "Ed Mattinian",
     "position": 11,
-    "printed_is_unique": false,
-    "printed_text": "NEXT Bronze has +1 strength for each rezzed piece of <strong>NEXT</strong> ice.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "NEXT Bronze has +1 strength for each rezzed piece of NEXT ice. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "celebrity_gift",
@@ -135,10 +102,7 @@
     "id": "04012",
     "illustrator": "Matt Zeilinger",
     "position": 12,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this operation, spend [click].\nReveal up to 5 cards in HQ. Gain 2[credit] for each card you revealed this way.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this operation, spend click. Reveal up to 5 cards in HQ. Gain 2 credits for each card you revealed this way."
+    "quantity": 3
   },
   {
     "card_id": "himitsu_bako",
@@ -147,10 +111,7 @@
     "id": "04013",
     "illustrator": "Andrew Mar",
     "position": 13,
-    "printed_is_unique": false,
-    "printed_text": "1[credit]: Add Himitsu-Bako to HQ.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "1 credit: Add Himitsu-Bako to HQ. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "character_assassination",
@@ -159,10 +120,7 @@
     "id": "04014",
     "illustrator": "Mike Nesbitt",
     "position": 14,
-    "printed_is_unique": false,
-    "printed_text": "When you score Character Assassination, trash 1 resource (cannot be prevented).",
-    "quantity": 3,
-    "stripped_printed_text": "When you score Character Assassination, trash 1 resource (cannot be prevented)."
+    "quantity": 3
   },
   {
     "card_id": "jackson_howard",
@@ -171,10 +129,7 @@
     "id": "04015",
     "illustrator": "JuanManuel Tumburus",
     "position": 15,
-    "printed_is_unique": true,
-    "printed_text": "[click]: Draw 2 cards.\n<strong>Remove Jackson Howard from the game:</strong> Shuffle up to 3 cards from Archives into R&D.",
-    "quantity": 3,
-    "stripped_printed_text": "click: Draw 2 cards. Remove Jackson Howard from the game: Shuffle up to 3 cards from Archives into R&D."
+    "quantity": 3
   },
   {
     "card_id": "invasion_of_privacy",
@@ -182,10 +137,7 @@
     "id": "04016",
     "illustrator": "Del Borovic",
     "position": 16,
-    "printed_is_unique": false,
-    "printed_text": "As additional cost to play this operation, spend [click].\nTrace[2]. If successful, reveal the grip. Trash up to X resources and/or events revealed this way, where X is equal to the amount by which your trace strength exceeded the Runner's link strength. If unsuccessful, take 1 bad publicity.",
-    "quantity": 3,
-    "stripped_printed_text": "As additional cost to play this operation, spend click. Trace[2]. If successful, reveal the grip. Trash up to X resources and/or events revealed this way, where X is equal to the amount by which your trace strength exceeded the Runner's link strength. If unsuccessful, take 1 bad publicity."
+    "quantity": 3
   },
   {
     "card_id": "geothermal_fracking",
@@ -194,10 +146,7 @@
     "id": "04017",
     "illustrator": "Mike Nesbitt",
     "position": 17,
-    "printed_is_unique": false,
-    "printed_text": "Place 2 agenda counters on Geothermal Fracking when you score it.\n[click], <strong>hosted agenda counter:</strong> Gain 7[credit] and take 1 bad publicity.",
-    "quantity": 3,
-    "stripped_printed_text": "Place 2 agenda counters on Geothermal Fracking when you score it. click, hosted agenda counter: Gain 7 credits and take 1 bad publicity."
+    "quantity": 3
   },
   {
     "card_id": "swarm",
@@ -205,10 +154,7 @@
     "id": "04018",
     "illustrator": "Ed Mattinian",
     "position": 18,
-    "printed_is_unique": false,
-    "printed_text": "When you rez Swarm, take 1 bad publicity.\nSwarm can be advanced and gains \"[subroutine] Trash 1 program unless the Runner pays 3[credit].\" for each advancement token on it.",
-    "quantity": 3,
-    "stripped_printed_text": "When you rez Swarm, take 1 bad publicity. Swarm can be advanced and gains \"Subroutine Trash 1 program unless the Runner pays 3 credits.\" for each advancement token on it."
+    "quantity": 3
   },
   {
     "card_id": "cyberdex_trial",
@@ -217,10 +163,7 @@
     "id": "04019",
     "illustrator": "J. Zhang",
     "position": 19,
-    "printed_is_unique": false,
-    "printed_text": "Purge virus counters.",
-    "quantity": 3,
-    "stripped_printed_text": "Purge virus counters."
+    "quantity": 3
   },
   {
     "card_id": "grim",
@@ -229,9 +172,6 @@
     "id": "04020",
     "illustrator": "Liiga Smilshkalne",
     "position": 20,
-    "printed_is_unique": false,
-    "printed_text": "When you rez Grim, take 1 bad publicity.\n[subroutine] Trash 1 program.",
-    "quantity": 3,
-    "stripped_printed_text": "When you rez Grim, take 1 bad publicity. Subroutine Trash 1 program."
+    "quantity": 3
   }
 ]

@@ -5,10 +5,7 @@
     "id": "08021",
     "illustrator": "John Ariosa",
     "position": 21,
-    "printed_is_unique": false,
-    "printed_text": "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nAs an additional cost to rez non-ice cards, the Corp must randomly trash a card from HQ.",
-    "quantity": 3,
-    "stripped_printed_text": "This card is not trashed until another current is played or an agenda is scored. As an additional cost to rez non-ice cards, the Corp must randomly trash a card from HQ."
+    "quantity": 3
   },
   {
     "card_id": "off_campus_apartment",
@@ -17,10 +14,7 @@
     "id": "08022",
     "illustrator": "Shawn Ye Zhongyi",
     "position": 22,
-    "printed_is_unique": false,
-    "printed_text": "Off-Campus Apartment can host any number of <strong>connections</strong>.\nWhenever you install a <strong>connection</strong> on Off-Campus Apartment, draw 1 card.",
-    "quantity": 3,
-    "stripped_printed_text": "Off-Campus Apartment can host any number of connections. Whenever you install a connection on Off-Campus Apartment, draw 1 card."
+    "quantity": 3
   },
   {
     "card_id": "career_fair",
@@ -29,10 +23,7 @@
     "id": "08023",
     "illustrator": "Dmitry Prosvirnin",
     "position": 23,
-    "printed_is_unique": false,
-    "printed_text": "Install 1 resource from your grip, paying 3[credit] less.",
-    "quantity": 3,
-    "stripped_printed_text": "Install 1 resource from your grip, paying 3 credits less."
+    "quantity": 3
   },
   {
     "card_id": "dorm_computer",
@@ -40,10 +31,7 @@
     "id": "08024",
     "illustrator": "Lucas Durham",
     "position": 24,
-    "printed_is_unique": false,
-    "printed_text": "Place 4 power counters on Dorm Computer when you install it.\n[click], <strong>hosted power counter:</strong> Make a run. Avoid all tags for the remainder of the run.",
-    "quantity": 3,
-    "stripped_printed_text": "Place 4 power counters on Dorm Computer when you install it. click, hosted power counter: Make a run. Avoid all tags for the remainder of the run."
+    "quantity": 3
   },
   {
     "card_id": "hayley_kaplan_universal_scholar",
@@ -51,10 +39,7 @@
     "id": "08025",
     "illustrator": "Matt Zeilinger",
     "position": 25,
-    "printed_is_unique": false,
-    "printed_text": "The first time you install a card each turn, you may install another card of the same type from your grip (paying its install cost).",
-    "quantity": 3,
-    "stripped_printed_text": "The first time you install a card each turn, you may install another card of the same type from your grip (paying its install cost)."
+    "quantity": 3
   },
   {
     "card_id": "game_day",
@@ -62,10 +47,7 @@
     "id": "08026",
     "illustrator": "Matt Zeilinger",
     "position": 26,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this event, spend [click].\nIf you have fewer cards in your grip than your maximum hand size, draw cards until you have cards in your grip equal to your maximum hand size.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this event, spend click. If you have fewer cards in your grip than your maximum hand size, draw cards until you have cards in your grip equal to your maximum hand size."
+    "quantity": 3
   },
   {
     "card_id": "comet",
@@ -73,10 +55,7 @@
     "id": "08027",
     "illustrator": "Del Borovic",
     "position": 27,
-    "printed_is_unique": true,
-    "printed_text": "+1[mu]\nThe first time you play an event each turn, you may play another event (without spending a click) after the first one resolves.\nLimit 1 <strong>console</strong> per player.",
-    "quantity": 3,
-    "stripped_printed_text": "+1 mu The first time you play an event each turn, you may play another event (without spending a click) after the first one resolves. Limit 1 console per player."
+    "quantity": 3
   },
   {
     "card_id": "study_guide",
@@ -85,10 +64,7 @@
     "id": "08028",
     "illustrator": "Adam S. Doyle",
     "position": 28,
-    "printed_is_unique": false,
-    "printed_text": "This program gets +1 strength for each hosted power counter.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> Place 1 power counter on this program.",
-    "quantity": 3,
-    "stripped_printed_text": "This program gets +1 strength for each hosted power counter. Interface -> 1 credit: Break 1 code gate subroutine. 2 credits: Place 1 power counter on this program."
+    "quantity": 3
   },
   {
     "card_id": "london_library",
@@ -96,10 +72,7 @@
     "id": "08029",
     "illustrator": "James Ives",
     "position": 29,
-    "printed_is_unique": true,
-    "printed_text": "Trash all programs hosted on London Library when your turn ends.\n[click]: Install a non-<strong>virus</strong> program from your grip on London Library, ignoring the install cost.\n[click]: Add a program on London Library to your grip.",
-    "quantity": 3,
-    "stripped_printed_text": "Trash all programs hosted on London Library when your turn ends. click: Install a non-virus program from your grip on London Library, ignoring the install cost. click: Add a program on London Library to your grip."
+    "quantity": 3
   },
   {
     "card_id": "tyson_observatory",
@@ -108,10 +81,7 @@
     "id": "08030",
     "illustrator": "Greg Semkow",
     "position": 30,
-    "printed_is_unique": true,
-    "printed_text": "[click], [click]: Search your stack for a piece of hardware, reveal it, and add it to your grip. Shuffle your stack.",
-    "quantity": 3,
-    "stripped_printed_text": "click, click: Search your stack for a piece of hardware, reveal it, and add it to your grip. Shuffle your stack."
+    "quantity": 3
   },
   {
     "card_id": "beach_party",
@@ -120,10 +90,7 @@
     "id": "08031",
     "illustrator": "Antonio De Luca",
     "position": 31,
-    "printed_is_unique": false,
-    "printed_text": "When your turn begins, lose [click].\nYour maximum hand size is increased by 5.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, lose click. Your maximum hand size is increased by 5."
+    "quantity": 3
   },
   {
     "card_id": "research_grant",
@@ -132,10 +99,7 @@
     "id": "08032",
     "illustrator": "Rebecca Sorge",
     "position": 32,
-    "printed_is_unique": false,
-    "printed_text": "When you score Research Grant, you may score another copy of Research Grant that is installed.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score Research Grant, you may score another copy of Research Grant that is installed."
+    "quantity": 3
   },
   {
     "card_id": "turing",
@@ -144,10 +108,7 @@
     "id": "08033",
     "illustrator": "Adam S. Doyle",
     "position": 33,
-    "printed_is_unique": false,
-    "printed_text": "Turing has +3 strength while protecting a remote server.\nThe Runner cannot use <strong>AI</strong> programs to break subroutines on Turing.\n[subroutine] End the run unless the Runner spends [click][click][click].",
-    "quantity": 3,
-    "stripped_printed_text": "Turing has +3 strength while protecting a remote server. The Runner cannot use AI programs to break subroutines on Turing. Subroutine End the run unless the Runner spends click click click."
+    "quantity": 3
   },
   {
     "card_id": "crick",
@@ -156,10 +117,7 @@
     "id": "08034",
     "illustrator": "Ed Mattinian",
     "position": 34,
-    "printed_is_unique": false,
-    "printed_text": "Crick has +3 strength while protecting Archives.\n[subroutine] Install a card from Archives (paying its install cost).",
-    "quantity": 3,
-    "stripped_printed_text": "Crick has +3 strength while protecting Archives. Subroutine Install a card from Archives (paying its install cost)."
+    "quantity": 3
   },
   {
     "card_id": "recruiting_trip",
@@ -168,10 +126,7 @@
     "id": "08035",
     "illustrator": "Dmitry Prosvirnin",
     "position": 35,
-    "printed_is_unique": false,
-    "printed_text": "Search R&D for up to X different <strong>sysops</strong> (by title), reveal them, and add them to HQ. Shuffle R&D.",
-    "quantity": 3,
-    "stripped_printed_text": "Search R&D for up to X different sysops (by title), reveal them, and add them to HQ. Shuffle R&D."
+    "quantity": 3
   },
   {
     "card_id": "blacklist",
@@ -180,10 +135,7 @@
     "id": "08036",
     "illustrator": "Matthew Szydlik",
     "position": 36,
-    "printed_is_unique": false,
-    "printed_text": "Cards cannot leave the Runner's heap for any reason.",
-    "quantity": 3,
-    "stripped_printed_text": "Cards cannot leave the Runner's heap for any reason."
+    "quantity": 3
   },
   {
     "card_id": "gutenberg",
@@ -192,10 +144,7 @@
     "id": "08037",
     "illustrator": "Adam S. Doyle",
     "position": 37,
-    "printed_is_unique": false,
-    "printed_text": "Gutenberg has +3 strength while protecting R&D.\n[subroutine] Trace[7]. If successful, give the Runner 1 tag.",
-    "quantity": 3,
-    "stripped_printed_text": "Gutenberg has +3 strength while protecting R&D. Subroutine Trace[7]. If successful, give the Runner 1 tag."
+    "quantity": 3
   },
   {
     "card_id": "student_loans",
@@ -204,10 +153,7 @@
     "id": "08038",
     "illustrator": "Mushk Rizvi",
     "position": 38,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play an event, if there is a copy of that event in the heap, the Runner must pay 2[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play an event, if there is a copy of that event in the heap, the Runner must pay 2 credits."
+    "quantity": 3
   },
   {
     "card_id": "meru_mati",
@@ -216,10 +162,7 @@
     "id": "08039",
     "illustrator": "Michał Miłkowski",
     "position": 39,
-    "printed_is_unique": false,
-    "printed_text": "Meru Mati has +3 strength while protecting HQ.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "Meru Mati has +3 strength while protecting HQ. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "breaker_bay_grid",
@@ -228,9 +171,6 @@
     "id": "08040",
     "illustrator": "Sander Mosk",
     "position": 40,
-    "printed_is_unique": false,
-    "printed_text": "The rez cost of each card in the root of this server is lowered by 5.\nLimit 1 <strong>region</strong> per server.",
-    "quantity": 3,
-    "stripped_printed_text": "The rez cost of each card in the root of this server is lowered by 5. Limit 1 region per server."
+    "quantity": 3
   }
 ]

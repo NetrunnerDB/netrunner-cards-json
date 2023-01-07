@@ -6,10 +6,7 @@
     "id": "33066",
     "illustrator": "Ferenc Patkós",
     "position": 66,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this event, suffer 1 core damage.\nRun R&D. If successful, access 3 additional cards when you breach R&D.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this event, suffer 1 core damage. Run R&D. If successful, access 3 additional cards when you breach R&D."
+    "quantity": 3
   },
   {
     "card_id": "katorga_breakout",
@@ -18,10 +15,7 @@
     "id": "33067",
     "illustrator": "Olie Boldador",
     "position": 67,
-    "printed_is_unique": false,
-    "printed_text": "Run any server. If successful, add 1 card from your heap to your grip.",
-    "quantity": 3,
-    "stripped_printed_text": "Run any server. If successful, add 1 card from your heap to your grip."
+    "quantity": 3
   },
   {
     "card_id": "raindrops_cut_stone",
@@ -30,10 +24,7 @@
     "id": "33068",
     "illustrator": "Scott Uminga",
     "position": 68,
-    "printed_is_unique": false,
-    "printed_text": "Run any server. Whenever a subroutine resolves during that run <em>(including a subroutine that ends the run)</em>, place 1 power counter on this event.\nWhen that run ends, draw 1 card for each hosted power counter and gain 3[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "Run any server. Whenever a subroutine resolves during that run (including a subroutine that ends the run), place 1 power counter on this event. When that run ends, draw 1 card for each hosted power counter and gain 3 credits."
+    "quantity": 3
   },
   {
     "card_id": "time_bomb",
@@ -41,10 +32,7 @@
     "id": "33069",
     "illustrator": "Anna Butova",
     "position": 69,
-    "printed_is_unique": true,
-    "printed_text": "Install only if you made a successful run on a central server this turn. When you install this hardware, place 1 power counter on it.\nWhen your turn begins, if there are 3 or more hosted power counters, trash this hardware and sabotage 3. <em>(The Corp trashes 3 cards of their choice from HQ and/or the top of R&D.)</em> Otherwise, place 1 power counter on this hardware.",
-    "quantity": 3,
-    "stripped_printed_text": "Install only if you made a successful run on a central server this turn. When you install this hardware, place 1 power counter on it. When your turn begins, if there are 3 or more hosted power counters, trash this hardware and sabotage 3. (The Corp trashes 3 cards of their choice from HQ and/or the top of R&D.) Otherwise, place 1 power counter on this hardware."
+    "quantity": 3
   },
   {
     "card_id": "abaasy",
@@ -53,10 +41,7 @@
     "id": "33070",
     "illustrator": "Bruno Balixa",
     "position": 70,
-    "printed_is_unique": false,
-    "printed_text": "The first time each turn this program fully breaks a piece of ice, you may trash 1 card from your grip to draw 1 card.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>2[credit]:</strong> +2 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time each turn this program fully breaks a piece of ice, you may trash 1 card from your grip to draw 1 card. Interface -> 1 credit: Break 1 code gate subroutine. 2 credits: +2 strength."
+    "quantity": 3
   },
   {
     "card_id": "hush",
@@ -65,10 +50,7 @@
     "id": "33071",
     "illustrator": "Scott Uminga",
     "position": 71,
-    "printed_is_unique": false,
-    "printed_text": "Install only on a piece of ice.\nHost ice cannot gain abilities and loses all abilities except its printed subroutines.\n<strong>[click]:</strong> Host this program on another installed piece of ice.",
-    "quantity": 3,
-    "stripped_printed_text": "Install only on a piece of ice. Host ice cannot gain abilities and loses all abilities except its printed subroutines. click: Host this program on another installed piece of ice."
+    "quantity": 3
   },
   {
     "card_id": "nga",
@@ -77,10 +59,7 @@
     "id": "33072",
     "illustrator": "Bruno Balixa",
     "position": 72,
-    "printed_is_unique": true,
-    "printed_text": "When you install this program, load 3 power counters onto it. When it is empty, trash it.\nThe first time each turn you make a successful run, you may remove 1 hosted power counter to sabotage 1. <em>(The Corp trashes 1 card of their choice from HQ or the top of R&D.)</em>",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this program, load 3 power counters onto it. When it is empty, trash it. The first time each turn you make a successful run, you may remove 1 hosted power counter to sabotage 1. (The Corp trashes 1 card of their choice from HQ or the top of R&D.)"
+    "quantity": 3
   },
   {
     "card_id": "num",
@@ -89,10 +68,7 @@
     "id": "33073",
     "illustrator": "Bruno Balixa",
     "position": 73,
-    "printed_is_unique": false,
-    "printed_text": "Interface → <strong>2[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.",
-    "quantity": 3,
-    "stripped_printed_text": "Interface -> 2 credits: Break 1 sentry subroutine."
+    "quantity": 3
   },
   {
     "card_id": "tsakhia_bankhar_gantulga",
@@ -101,10 +77,7 @@
     "id": "33074",
     "illustrator": "Dimik",
     "position": 74,
-    "printed_is_unique": true,
-    "printed_text": "When your turn begins, you may choose a server.\nDuring the first encounter each turn with a piece of ice protecting the chosen server, whenever the Corp would resolve a subroutine, instead they resolve \"[subroutine] Do 1 net damage.\".",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, you may choose a server. During the first encounter each turn with a piece of ice protecting the chosen server, whenever the Corp would resolve a subroutine, instead they resolve Subroutine Do 1 net damage.."
+    "quantity": 3
   },
   {
     "card_id": "concerto",
@@ -113,10 +86,7 @@
     "id": "33075",
     "illustrator": "Olie Boldador",
     "position": 75,
-    "printed_is_unique": false,
-    "printed_text": "Reveal the top card of your stack and place credits equal to its printed play or install cost on this event. Add the revealed card to your grip.\nRun any server. You can spend hosted credits during that run.",
-    "quantity": 3,
-    "stripped_printed_text": "Reveal the top card of your stack and place credits equal to its printed play or install cost on this event. Add the revealed card to your grip. Run any server. You can spend hosted credits during that run."
+    "quantity": 3
   },
   {
     "card_id": "reprise",
@@ -125,10 +95,7 @@
     "id": "33076",
     "illustrator": "Ferenc Patkós",
     "position": 76,
-    "printed_is_unique": false,
-    "printed_text": "Play only if you stole an agenda this turn.\nAdd 1 installed Corp card to HQ. You may run any server.",
-    "quantity": 3,
-    "stripped_printed_text": "Play only if you stole an agenda this turn. Add 1 installed Corp card to HQ. You may run any server."
+    "quantity": 3
   },
   {
     "card_id": "poison_vial",
@@ -137,10 +104,7 @@
     "id": "33077",
     "illustrator": "Ed Mattinian",
     "position": 77,
-    "printed_is_unique": false,
-    "printed_text": "When you install this hardware, load 3 power counters onto it. When it is empty, trash it.\n<strong>Hosted power counter:</strong> Break up to 2 subroutines. Use this ability only if you have already broken a subroutine during this encounter.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this hardware, load 3 power counters onto it. When it is empty, trash it. Hosted power counter: Break up to 2 subroutines. Use this ability only if you have already broken a subroutine during this encounter."
+    "quantity": 3
   },
   {
     "card_id": "wake_implant_v2a_jrj",
@@ -148,10 +112,7 @@
     "id": "33078",
     "illustrator": "Zefanya Langkan Maega",
     "position": 78,
-    "printed_is_unique": true,
-    "printed_text": "When you install this hardware, suffer 1 meat damage.\nWhenever you make a successful run on HQ, place 1 power counter on this hardware.\nWhenever you breach R&D, you may remove up to 3 hosted power counters to access that many additional cards.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this hardware, suffer 1 meat damage. Whenever you make a successful run on HQ, place 1 power counter on this hardware. Whenever you breach R&D, you may remove up to 3 hosted power counters to access that many additional cards."
+    "quantity": 3
   },
   {
     "card_id": "zenit_chip_jz_2mj",
@@ -160,10 +121,7 @@
     "id": "33079",
     "illustrator": "Martin de Diego Sádaba",
     "position": 79,
-    "printed_is_unique": true,
-    "printed_text": "When you install this hardware, suffer 1 core damage.\nThe first time each turn you make a successful run on a central server, draw 1 card.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this hardware, suffer 1 core damage. The first time each turn you make a successful run on a central server, draw 1 card."
+    "quantity": 3
   },
   {
     "card_id": "tremolo",
@@ -172,10 +130,7 @@
     "id": "33080",
     "illustrator": "Bruno Balixa",
     "position": 80,
-    "printed_is_unique": false,
-    "printed_text": "Interface → <strong>3[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines. This ability costs 1[credit] less to use for each installed piece of <strong>cybernetic</strong> hardware.\n<strong>2[credit]:</strong> +2 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "Interface -> 3 credits: Break up to 2 barrier subroutines. This ability costs 1 credit less to use for each installed piece of cybernetic hardware. 2 credits: +2 strength."
+    "quantity": 3
   },
   {
     "card_id": "tunnel_vision",
@@ -184,10 +139,7 @@
     "id": "33081",
     "illustrator": "Anthony Hutchings",
     "position": 81,
-    "printed_is_unique": false,
-    "printed_text": "When your turn begins, identify your mark. <em>(If you donʼt have a mark, a random central server becomes your mark for this turn.)</em>\nInterface → <strong>2[credit]:</strong> Break up to 2 subroutines on a piece of ice protecting your mark.\n<strong>2[credit]:</strong> +2 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, identify your mark. (If you dont have a mark, a random central server becomes your mark for this turn.) Interface -> 2 credits: Break up to 2 subroutines on a piece of ice protecting your mark. 2 credits: +2 strength."
+    "quantity": 3
   },
   {
     "card_id": "asmund_pudlat",
@@ -195,10 +147,7 @@
     "id": "33082",
     "illustrator": "Marlon Ruiz",
     "position": 82,
-    "printed_is_unique": true,
-    "printed_text": "When you install this resource, search your stack for up to 2 <strong>virus</strong> or <strong>weapon</strong> cards with different names. Host those cards faceup on this resource. <em>(They are not installed.)</em>\nWhen your turn begins, you may add 1 hosted card to your grip. If there are no more hosted cards, trash this resource.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this resource, search your stack for up to 2 virus or weapon cards with different names. Host those cards faceup on this resource. (They are not installed.) When your turn begins, you may add 1 hosted card to your grip. If there are no more hosted cards, trash this resource."
+    "quantity": 3
   },
   {
     "card_id": "info_bounty",
@@ -207,10 +156,7 @@
     "id": "33083",
     "illustrator": "Elliott Birt",
     "position": 83,
-    "printed_is_unique": true,
-    "printed_text": "When your turn begins, identify your mark. <em>(If you donʼt have a mark, a random central server becomes your mark for this turn.)</em>\nThe first time each turn a run on your mark ends, gain 2[credit] if you breached that server during that run.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, identify your mark. (If you don't have a mark, a random central server becomes your mark for this turn.) The first time each turn a run on your mark ends, gain 2 credits if you breached that server during that run."
+    "quantity": 3
   },
   {
     "card_id": "spark_of_inspiration",
@@ -219,10 +165,7 @@
     "id": "33084",
     "illustrator": "Oliver Morit",
     "position": 84,
-    "printed_is_unique": false,
-    "printed_text": "Set aside cards from the top of your stack faceup until you set aside a program. You may install that program, paying 10[credit] less. Shuffle the set-aside cards into your stack.",
-    "quantity": 3,
-    "stripped_printed_text": "Set aside cards from the top of your stack faceup until you set aside a program. You may install that program, paying 10 credits less. Shuffle the set-aside cards into your stack."
+    "quantity": 3
   },
   {
     "card_id": "hippocampic_mechanocytes",
@@ -231,10 +174,7 @@
     "id": "33085",
     "illustrator": "Ed Mattinian",
     "position": 85,
-    "printed_is_unique": true,
-    "printed_text": "When you install this hardware, place 2 power counters on it and suffer 1 meat damage.\nYou get +1 maximum hand size for each hosted power counter.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this hardware, place 2 power counters on it and suffer 1 meat damage. You get +1 maximum hand size for each hosted power counter."
+    "quantity": 3
   },
   {
     "card_id": "basilar_synthgland_2kvj",
@@ -243,10 +183,7 @@
     "id": "33086",
     "illustrator": "Martin de Diego Sádaba",
     "position": 86,
-    "printed_is_unique": true,
-    "printed_text": "When you install this hardware, suffer 2 core damage.\nYou get +1 allotted [click] for each of your turns.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this hardware, suffer 2 core damage. You get +1 allotted click for each of your turns."
+    "quantity": 3
   },
   {
     "card_id": "flux_capacitor",
@@ -255,10 +192,7 @@
     "id": "33087",
     "illustrator": "Ed Mattinian",
     "position": 87,
-    "printed_is_unique": true,
-    "printed_text": "Install only on a piece of ice.\nThe first time you break a subroutine during each encounter with host ice, you may charge 1 of your installed cards. <em>(Add 1 power counter to a card that already has one.)</em>",
-    "quantity": 3,
-    "stripped_printed_text": "Install only on a piece of ice. The first time you break a subroutine during each encounter with host ice, you may charge 1 of your installed cards. (Add 1 power counter to a card that already has one.)"
+    "quantity": 3
   },
   {
     "card_id": "nanuq",
@@ -267,10 +201,7 @@
     "id": "33088",
     "illustrator": "Adam S. Doyle",
     "position": 88,
-    "printed_is_unique": false,
-    "printed_text": "When this program is uninstalled, remove it from the game.\nWhen an agenda is scored or stolen, remove this program from the game.\nInterface → <strong>2[credit]:</strong> Break up to 2 subroutines.\n1[credit]: +1 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "When this program is uninstalled, remove it from the game. When an agenda is scored or stolen, remove this program from the game. Interface -> 2 credits: Break up to 2 subroutines. 1 credit: +1 strength."
+    "quantity": 3
   },
   {
     "card_id": "orca",
@@ -278,10 +209,7 @@
     "id": "33089",
     "illustrator": "Jakuza",
     "position": 89,
-    "printed_is_unique": false,
-    "printed_text": "The first time each turn this program fully breaks a piece of ice, you may charge 1 of your installed cards. <em>(Add 1 power counter to a card that already has one.)</em>\nInterface → <strong>2[credit]:</strong> Break any number of <strong>sentry</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time each turn this program fully breaks a piece of ice, you may charge 1 of your installed cards. (Add 1 power counter to a card that already has one.) Interface -> 2 credits: Break any number of sentry subroutines. 2 credits: +3 strength."
+    "quantity": 3
   },
   {
     "card_id": "k2cp_turbine",
@@ -290,10 +218,7 @@
     "id": "33090",
     "illustrator": "Ed Mattinian",
     "position": 90,
-    "printed_is_unique": false,
-    "printed_text": "Each installed non-<strong>AI</strong> <strong>icebreaker</strong> gets +2 strength.",
-    "quantity": 3,
-    "stripped_printed_text": "Each installed non-AI icebreaker gets +2 strength."
+    "quantity": 3
   },
   {
     "card_id": "world_tree",
@@ -302,10 +227,7 @@
     "id": "33091",
     "illustrator": "Liiga Smilshkalne",
     "position": 91,
-    "printed_is_unique": false,
-    "printed_text": "The first time each turn you make a successful run, you may trash 1 of your other installed cards to search your stack for 1 card of the same type. <em>(Shuffle your stack after searching it.)</em> Install the card you found, paying 3[credit] less.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time each turn you make a successful run, you may trash 1 of your other installed cards to search your stack for 1 card of the same type. (Shuffle your stack after searching it.) Install the card you found, paying 3 credits less."
+    "quantity": 3
   },
   {
     "card_id": "dr_nuka_vrolyck",
@@ -314,10 +236,7 @@
     "id": "33092",
     "illustrator": "Dave Lee",
     "position": 92,
-    "printed_is_unique": true,
-    "printed_text": "When you install this resource, load 2 power counters onto it. When it is empty, trash it.\n[click], <strong>hosted power counter:</strong> Draw 3 cards.",
-    "quantity": 3,
-    "stripped_printed_text": "When you install this resource, load 2 power counters onto it. When it is empty, trash it. click, hosted power counter: Draw 3 cards."
+    "quantity": 3
   },
   {
     "card_id": "nova_initiumia_catalyst_impetus",
@@ -326,10 +245,7 @@
     "id": "33093",
     "illustrator": "Ferenc Patkós",
     "position": 93,
-    "printed_is_unique": false,
-    "printed_text": "Your deck cannot include more than 1 copy of any card.",
-    "quantity": 1,
-    "stripped_printed_text": "Your deck cannot include more than 1 copy of any card."
+    "quantity": 1
   },
   {
     "card_id": "matryoshka",
@@ -338,10 +254,7 @@
     "id": "33094",
     "illustrator": "Ed Mattinian",
     "position": 94,
-    "printed_is_unique": false,
-    "printed_text": "When your turn begins, turn each hosted card faceup.\n[click]<strong>:</strong> Host a copy of Matryoshka from your grip faceup on this program. <em>(It is not installed.)</em>\nInterface → <strong>X[credit]</strong>, <strong>turn 1 hosted copy of Matryoshka facedown:</strong> Break X subroutines.\n<strong>1[credit]:</strong> +1 strength.\nLimit 6 per deck.",
-    "quantity": 6,
-    "stripped_printed_text": "When your turn begins, turn each hosted card faceup. click: Host a copy of Matryoshka from your grip faceup on this program. (It is not installed.) Interface -> X{c}, turn 1 hosted copy of Matryoshka facedown: Break X subroutines. 1 credit: +1 strength. Limit 6 per deck."
+    "quantity": 6
   },
   {
     "card_id": "thule_subsea_safety_below",
@@ -350,10 +263,7 @@
     "id": "33095",
     "illustrator": "Kira L. Nguyen",
     "position": 95,
-    "printed_is_unique": false,
-    "printed_text": "Whenever the Runner steals an agenda, do 1 core damage unless they spend [click] and 2[credit].",
-    "quantity": 1,
-    "stripped_printed_text": "Whenever the Runner steals an agenda, do 1 core damage unless they spend click and 2 credits."
+    "quantity": 1
   },
   {
     "card_id": "ontological_dependence",
@@ -362,10 +272,7 @@
     "id": "33096",
     "illustrator": "Oliver Morit",
     "position": 96,
-    "printed_is_unique": false,
-    "printed_text": "This agenda gets -1 advancement requirement for each core damage the Runner has taken this game.",
-    "quantity": 3,
-    "stripped_printed_text": "This agenda gets -1 advancement requirement for each core damage the Runner has taken this game."
+    "quantity": 3
   },
   {
     "card_id": "nightmare_archive",
@@ -374,10 +281,7 @@
     "id": "33097",
     "illustrator": "Kira L. Nguyen",
     "position": 97,
-    "printed_is_unique": false,
-    "printed_text": "While the Runner is accessing this asset in R&D, they must reveal it.\nWhen the Runner accesses this asset, they may add it to their score area as an agenda worth -1 agenda point. If they do not, do 1 core damage and remove this asset from the game.",
-    "quantity": 3,
-    "stripped_printed_text": "While the Runner is accessing this asset in R&D, they must reveal it. When the Runner accesses this asset, they may add it to their score area as an agenda worth -1 agenda point. If they do not, do 1 core damage and remove this asset from the game."
+    "quantity": 3
   },
   {
     "card_id": "bloop",
@@ -386,10 +290,7 @@
     "id": "33098",
     "illustrator": "Jakuza",
     "position": 98,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to rez this ice, derez another piece of <strong>harmonic</strong> ice.\n[subroutine] Do 1 core damage.\n[subroutine] Trash 1 installed program.\n[subroutine] Trash 1 installed program.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to rez this ice, derez another piece of harmonic ice. Subroutine Do 1 core damage. Subroutine Trash 1 installed program. Subroutine Trash 1 installed program."
+    "quantity": 3
   },
   {
     "card_id": "pulse",
@@ -398,10 +299,7 @@
     "id": "33099",
     "illustrator": "Jakuza",
     "position": 99,
-    "printed_is_unique": false,
-    "printed_text": "When you rez this ice during a run against this server, the Runner loses [click].\n[subroutine] The Runner loses 1[credit] for each rezzed piece of <strong>harmonic</strong> ice.\n[subroutine] End the run unless the Runner spends [click].",
-    "quantity": 3,
-    "stripped_printed_text": "When you rez this ice during a run against this server, the Runner loses click. Subroutine The Runner loses 1 credit for each rezzed piece of harmonic ice. Subroutine End the run unless the Runner spends click."
+    "quantity": 3
   },
   {
     "card_id": "distributed_tracing",
@@ -410,10 +308,7 @@
     "id": "33100",
     "illustrator": "Kira L. Nguyen",
     "position": 100,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this operation, spend [click].\nPlay only if the Runner stole an agenda during their last turn.\nGive the Runner 1 tag.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this operation, spend click. Play only if the Runner stole an agenda during their last turn. Give the Runner 1 tag."
+    "quantity": 3
   },
   {
     "card_id": "hypoxia",
@@ -422,10 +317,7 @@
     "id": "33101",
     "illustrator": "Ed Mattinian",
     "position": 101,
-    "printed_is_unique": false,
-    "printed_text": "Play only if the Runner is tagged.\nDo 1 core damage. The Runner gets -1 allotted [click] for their next turn.\nRemove this operation from the game.",
-    "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner is tagged. Do 1 core damage. The Runner gets -1 allotted click for their next turn. Remove this operation from the game."
+    "quantity": 3
   },
   {
     "card_id": "djupstad_grid",
@@ -434,10 +326,7 @@
     "id": "33102",
     "illustrator": "Kira L. Nguyen",
     "position": 102,
-    "printed_is_unique": false,
-    "printed_text": "Whenever you score an agenda from the root of this server, do 1 core damage.\nLimit 1 <strong>region</strong> per server.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever you score an agenda from the root of this server, do 1 core damage. Limit 1 region per server."
+    "quantity": 3
   },
   {
     "card_id": "mr_hendrik",
@@ -446,10 +335,7 @@
     "id": "33103",
     "illustrator": "Ferenc Patkós",
     "position": 103,
-    "printed_is_unique": false,
-    "printed_text": "When the Runner accesses this upgrade while it is installed, you may pay 2[credit] to do 1 core damage. If the Runner has any [click] remaining, they may lose all their [click] to prevent this damage.",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner accesses this upgrade while it is installed, you may pay 2 credits to do 1 core damage. If the Runner has any click remaining, they may lose all their click to prevent this damage."
+    "quantity": 3
   },
   {
     "card_id": "issuaq_adaptics_sustaining_diversity",
@@ -458,10 +344,7 @@
     "id": "33104",
     "illustrator": "Emilio Rodriguez",
     "position": 104,
-    "printed_is_unique": false,
-    "printed_text": "Whenever you score an agenda that you did not install or advance this turn, place 1 power counter on this identity.\nFor each hosted power counter, you need 1 less agenda point to win the game.",
-    "quantity": 1,
-    "stripped_printed_text": "Whenever you score an agenda that you did not install or advance this turn, place 1 power counter on this identity. For each hosted power counter, you need 1 less agenda point to win the game."
+    "quantity": 1
   },
   {
     "card_id": "hybrid_release",
@@ -470,10 +353,7 @@
     "id": "33105",
     "illustrator": "Marlon Ruiz",
     "position": 105,
-    "printed_is_unique": false,
-    "printed_text": "When you score this agenda, you may install 1 facedown card from Archives.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score this agenda, you may install 1 facedown card from Archives."
+    "quantity": 3
   },
   {
     "card_id": "dr_vientiane_keeling",
@@ -482,10 +362,7 @@
     "id": "33106",
     "illustrator": "Dimik",
     "position": 106,
-    "printed_is_unique": true,
-    "printed_text": "When you rez this asset and when your turn begins, place 1 power counter on this asset.\nThe Runner gets -1 maximum hand size for each hosted power counter.",
-    "quantity": 3,
-    "stripped_printed_text": "When you rez this asset and when your turn begins, place 1 power counter on this asset. The Runner gets -1 maximum hand size for each hosted power counter."
+    "quantity": 3
   },
   {
     "card_id": "reaper_function",
@@ -494,10 +371,7 @@
     "id": "33107",
     "illustrator": "Adam S. Doyle",
     "position": 107,
-    "printed_is_unique": false,
-    "printed_text": "When your turn begins, you may trash this asset to do 2 net damage.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, you may trash this asset to do 2 net damage."
+    "quantity": 3
   },
   {
     "card_id": "hafrun",
@@ -506,10 +380,7 @@
     "id": "33108",
     "illustrator": "Jack Reeves",
     "position": 108,
-    "printed_is_unique": false,
-    "printed_text": "When you rez this ice during a run against this server, you may trash 1 card from HQ. If you do, choose 1 installed Runner card. That cardʼs abilities cannot break subroutines for the remainder of that run.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "When you rez this ice during a run against this server, you may trash 1 card from HQ. If you do, choose 1 installed Runner card. That cards abilities cannot break subroutines for the remainder of that run. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "vampyronassa",
@@ -518,10 +389,7 @@
     "id": "33109",
     "illustrator": "Ed Mattinian",
     "position": 109,
-    "printed_is_unique": false,
-    "printed_text": "[subroutine] The Runner loses 2[credit].\n[subroutine] Gain 2[credit].\n[subroutine] Do 2 net damage.\n[subroutine] You may draw 1 or 2 cards.",
-    "quantity": 3,
-    "stripped_printed_text": "Subroutine The Runner loses 2 credits. Subroutine Gain 2 credits. Subroutine Do 2 net damage. Subroutine You may draw 1 or 2 cards."
+    "quantity": 3
   },
   {
     "card_id": "simulation_reset",
@@ -530,10 +398,7 @@
     "id": "33110",
     "illustrator": "Anthony Hutchings",
     "position": 110,
-    "printed_is_unique": false,
-    "printed_text": "Trash up to 5 cards from HQ. Shuffle that many cards from Archives into R&D. Draw that many cards.\nRemove this operation from the game.",
-    "quantity": 3,
-    "stripped_printed_text": "Trash up to 5 cards from HQ. Shuffle that many cards from Archives into R&D. Draw that many cards. Remove this operation from the game."
+    "quantity": 3
   },
   {
     "card_id": "nanisivik_grid",
@@ -542,10 +407,7 @@
     "id": "33111",
     "illustrator": "Emilio Rodriguez",
     "position": 111,
-    "printed_is_unique": false,
-    "printed_text": "Whenever the Runner approaches this server, you may turn 1 facedown piece of ice in Archives faceup. If you do, resolve 1 subroutine on that ice.\nLimit 1 <strong>region</strong> per server.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever the Runner approaches this server, you may turn 1 facedown piece of ice in Archives faceup. If you do, resolve 1 subroutine on that ice. Limit 1 region per server."
+    "quantity": 3
   },
   {
     "card_id": "freedom_of_information",
@@ -554,10 +416,7 @@
     "id": "33112",
     "illustrator": "Zefanya Langkan Maega",
     "position": 112,
-    "printed_is_unique": false,
-    "printed_text": "This agenda gets -1 advancement requirement for each tag the Runner has.",
-    "quantity": 3,
-    "stripped_printed_text": "This agenda gets -1 advancement requirement for each tag the Runner has."
+    "quantity": 3
   },
   {
     "card_id": "post_truth_dividend",
@@ -566,10 +425,7 @@
     "id": "33113",
     "illustrator": "Wyn Lacabra",
     "position": 113,
-    "printed_is_unique": false,
-    "printed_text": "When you score this agenda, you may draw 1 card.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score this agenda, you may draw 1 card."
+    "quantity": 3
   },
   {
     "card_id": "gaslight",
@@ -578,10 +434,7 @@
     "id": "33114",
     "illustrator": "Olie Boldador",
     "position": 114,
-    "printed_is_unique": false,
-    "printed_text": "When your turn begins, you may trash this asset. If you do, search R&D for an operation and reveal it. <em>(Shuffle R&D after searching it.)</em> Add that operation to HQ.",
-    "quantity": 3,
-    "stripped_printed_text": "When your turn begins, you may trash this asset. If you do, search R&D for an operation and reveal it. (Shuffle R&D after searching it.) Add that operation to HQ."
+    "quantity": 3
   },
   {
     "card_id": "vera_ivanovna_shuyskaya",
@@ -590,10 +443,7 @@
     "id": "33115",
     "illustrator": "Mauricio Herrera",
     "position": 115,
-    "printed_is_unique": true,
-    "printed_text": "Whenever an agenda is scored or stolen, you may reveal the grip. Trash 1 card revealed this way.",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever an agenda is scored or stolen, you may reveal the grip. Trash 1 card revealed this way."
+    "quantity": 3
   },
   {
     "card_id": "klevetnik",
@@ -602,10 +452,7 @@
     "id": "33116",
     "illustrator": "Bruno Balixa",
     "position": 116,
-    "printed_is_unique": false,
-    "printed_text": "When you rez this ice during a run against this server, you may have the Runner gain 2[credit]. If you do, choose 1 installed resource. That resource loses all abilities until your next turn ends.\n[subroutine] End the run.",
-    "quantity": 3,
-    "stripped_printed_text": "When you rez this ice during a run against this server, you may have the Runner gain 2 credits. If you do, choose 1 installed resource. That resource loses all abilities until your next turn ends. Subroutine End the run."
+    "quantity": 3
   },
   {
     "card_id": "unsmiling_tsarevna",
@@ -613,10 +460,7 @@
     "id": "33117",
     "illustrator": "BalanceSheet",
     "position": 117,
-    "printed_is_unique": false,
-    "printed_text": "When you rez this ice during a run against this server, you may have the Runner gain 2[credit]. If you do, during each encounter with this ice for the remainder of that run, the Runner cannot break more than 1 of its printed subroutines.\n[subroutine] Give the Runner 1 tag.\n[subroutine] Do 2 net damage.\n[subroutine] You may draw 2 cards.",
-    "quantity": 3,
-    "stripped_printed_text": "When you rez this ice during a run against this server, you may have the Runner gain 2 credits. If you do, during each encounter with this ice for the remainder of that run, the Runner cannot break more than 1 of its printed subroutines. Subroutine Give the Runner 1 tag. Subroutine Do 2 net damage. Subroutine You may draw 2 cards."
+    "quantity": 3
   },
   {
     "card_id": "nonequivalent_exchange",
@@ -625,10 +469,7 @@
     "id": "33118",
     "illustrator": "Dimik",
     "position": 118,
-    "printed_is_unique": false,
-    "printed_text": "Gain 5[credit]. You may have each player gain 2[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "Gain 5 credits. You may have each player gain 2 credits."
+    "quantity": 3
   },
   {
     "card_id": "shipment_from_vladisibirsk",
@@ -637,10 +478,7 @@
     "id": "33119",
     "illustrator": "Ferenc Patkós",
     "position": 119,
-    "printed_is_unique": false,
-    "printed_text": "Play only if the Runner has at least 2 tags.\nPlace a total of 4 advancement counters on installed cards you can advance.",
-    "quantity": 3,
-    "stripped_printed_text": "Play only if the Runner has at least 2 tags. Place a total of 4 advancement counters on installed cards you can advance."
+    "quantity": 3
   },
   {
     "card_id": "regulatory_capture",
@@ -649,10 +487,7 @@
     "id": "33120",
     "illustrator": "Wyn Lacabra",
     "position": 120,
-    "printed_is_unique": false,
-    "printed_text": "For each bad publicity you have up to 4, this agenda gets -1 advancement requirement.",
-    "quantity": 3,
-    "stripped_printed_text": "For each bad publicity you have up to 4, this agenda gets -1 advancement requirement."
+    "quantity": 3
   },
   {
     "card_id": "kimberlite_field",
@@ -661,10 +496,7 @@
     "id": "33121",
     "illustrator": "Vitalii Ostaschenko",
     "position": 121,
-    "printed_is_unique": false,
-    "printed_text": "When you score this agenda, you may trash 1 of your rezzed cards. If you do, trash 1 installed Runner card with a printed install cost equal to or less than the printed rez cost of the Corp card you trashed.",
-    "quantity": 3,
-    "stripped_printed_text": "When you score this agenda, you may trash 1 of your rezzed cards. If you do, trash 1 installed Runner card with a printed install cost equal to or less than the printed rez cost of the Corp card you trashed."
+    "quantity": 3
   },
   {
     "card_id": "hostile_architecture",
@@ -673,10 +505,7 @@
     "id": "33122",
     "illustrator": "Dimik",
     "position": 122,
-    "printed_is_unique": true,
-    "printed_text": "The first time each turn the Runner trashes any of your installed cards <em>(including this asset)</em>, do 2 meat damage.",
-    "quantity": 3,
-    "stripped_printed_text": "The first time each turn the Runner trashes any of your installed cards (including this asset), do 2 meat damage."
+    "quantity": 3
   },
   {
     "card_id": "superdeep_borehole",
@@ -685,10 +514,7 @@
     "id": "33123",
     "illustrator": "Vitalii Ostaschenko",
     "position": 123,
-    "printed_is_unique": false,
-    "printed_text": "When you rez this asset, load 6 bad publicity counters onto it. When it is empty, you win the game.\nWhen your turn begins, take 1 bad publicity from this asset.",
-    "quantity": 3,
-    "stripped_printed_text": "When you rez this asset, load 6 bad publicity counters onto it. When it is empty, you win the game. When your turn begins, take 1 bad publicity from this asset."
+    "quantity": 3
   },
   {
     "card_id": "anvil",
@@ -697,10 +523,7 @@
     "id": "33124",
     "illustrator": "Scott Uminga",
     "position": 124,
-    "printed_is_unique": false,
-    "printed_text": "When the Runner encounters this ice, you may trash 1 of your other installed cards. If you do, the Runner cannot break this iceʼs printed subroutines for the remainder of this encounter.\n[subroutine] Gain 1[credit]. The Runner loses 1[credit].\n[subroutine] The Runner trashes 1 of their installed cards.",
-    "quantity": 3,
-    "stripped_printed_text": "When the Runner encounters this ice, you may trash 1 of your other installed cards. If you do, the Runner cannot break this ice's printed subroutines for the remainder of this encounter. Subroutine Gain 1 credit. The Runner loses 1 credit. Subroutine The Runner trashes 1 of their installed cards."
+    "quantity": 3
   },
   {
     "card_id": "end_of_the_line",
@@ -709,10 +532,7 @@
     "id": "33125",
     "illustrator": "Olie Boldador",
     "position": 125,
-    "printed_is_unique": false,
-    "printed_text": "As an additional cost to play this operation, remove 1 tag.\nDo 4 meat damage.",
-    "quantity": 3,
-    "stripped_printed_text": "As an additional cost to play this operation, remove 1 tag. Do 4 meat damage."
+    "quantity": 3
   },
   {
     "card_id": "yakov_erikovich_avdakov",
@@ -721,10 +541,7 @@
     "id": "33126",
     "illustrator": "Dave Lee",
     "position": 126,
-    "printed_is_unique": true,
-    "printed_text": "Whenever a player trashes a card <em>(including this upgrade)</em> from the root of this server or protecting it, except during installation, gain 2[credit].",
-    "quantity": 3,
-    "stripped_printed_text": "Whenever a player trashes a card (including this upgrade) from the root of this server or protecting it, except during installation, gain 2 credits."
+    "quantity": 3
   },
   {
     "card_id": "zato_city_grid",
@@ -733,10 +550,7 @@
     "id": "33127",
     "illustrator": "Vitalii Ostaschenko",
     "position": 127,
-    "printed_is_unique": false,
-    "printed_text": "Remote server only.\nEach piece of ice protecting this server gains \"When the Runner encounters this ice, choose 1 subroutine on it. You may trash this ice to resolve that subroutine.\".\nLimit 1 <strong>region</strong> per server.",
-    "quantity": 3,
-    "stripped_printed_text": "Remote server only. Each piece of ice protecting this server gains When the Runner encounters this ice, choose 1 subroutine on it. You may trash this ice to resolve that subroutine.. Limit 1 region per server."
+    "quantity": 3
   },
   {
     "card_id": "ampere_cybernetics_for_anyone",
@@ -745,9 +559,6 @@
     "id": "33128",
     "illustrator": "Emilio Rodriguez",
     "position": 128,
-    "printed_is_unique": false,
-    "printed_text": "Your deck cannot include more than 1 copy of any card.\nYour deck may include up to 2 different agenda cards from each Corp faction.",
-    "quantity": 1,
-    "stripped_printed_text": "Your deck cannot include more than 1 copy of any card. Your deck may include up to 2 different agenda cards from each Corp faction."
+    "quantity": 1
   }
 ]
