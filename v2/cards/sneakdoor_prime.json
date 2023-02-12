@@ -11,5 +11,12 @@
   "stripped_text": "click,click: Make a run on a remote server. If successful, instead treat it as a successful run on a central server.",
   "stripped_title": "Sneakdoor Prime A",
   "text": "[click],[click]: Make a run on a remote server. If successful, instead treat it as a successful run on a central server.",
-  "title": "Sneakdoor Prime A"
+  "title": "Sneakdoor Prime A",
+  "layout_id": "copy",
+  "sides": [
+    {
+      "stripped_text": "click,click: Make a run on a central server. If successful, instead treat it as a successful run on a remote server.",
+      "text": "[click],[click]: Make a run on a central server. If successful, instead treat it as a successful run on a remote server."
+    }
+  ]
 }

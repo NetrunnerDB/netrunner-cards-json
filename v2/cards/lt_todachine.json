@@ -12,5 +12,12 @@
   "subtypes": ["character"],
   "text": "Whenever you rez a piece of ice, give the Runner 1 tag.",
   "title": "Lt. Todachine",
-  "trash_cost": 5
+  "trash_cost": 5,
+  "layout_id": "progression",
+  "sides": [
+    {
+      "stripped_text": "Whenever you rez a piece of ice, give the Runner 1 tag. Whenever the Runner accesses cards, he or she accesses 1 fewer card if he or she is tagged (to a minimum of 1 card).",
+      "text": "Whenever you rez a piece of ice, give the Runner 1 tag.\nWhenever the Runner accesses cards, he or she accesses 1 fewer card if he or she is tagged (to a minimum of 1 card)."
+    }
+  ]
 }

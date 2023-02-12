@@ -4,13 +4,20 @@
   "card_type_id": "agenda",
   "deck_limit": 3,
   "faction_id": "neutral_corp",
-  "id": "corporate_oversight_a",
+  "id": "corporate_oversight",
   "influence_cost": 0,
   "is_unique": false,
   "side_id": "corp",
   "stripped_text": "When you score Corporate Oversight, you may search R&D for a piece of ice. Install and rez it protecting a remote server, ignoring all costs. Shuffle R&D. If you win a game with Corporate Oversight in your score area, destroy it.",
-  "stripped_title": "Corporate Oversight A",
+  "stripped_title": "Corporate Oversight",
   "subtypes": ["initiative"],
   "text": "When you score Corporate Oversight, you may search R&D for a piece of ice. Install and rez it protecting a remote server, ignoring all costs. Shuffle R&D.\nIf you win a game with Corporate Oversight in your score area, destroy it.",
-  "title": "Corporate Oversight A"
+  "title": "Corporate Oversight",
+  "layout_id": "copy",
+  "sides": [
+    {
+      "stripped_text": "When you score Corporate Oversight, you may search R&D for a piece of ice. Install and rez it protecting a central server, ignoring all costs. Shuffle R&D. If you win a game with Corporate Oversight in your score area, destroy it.",
+      "text": "When you score Corporate Oversight, you may search R&D for a piece of ice. Install and rez it protecting a central server, ignoring all costs. Shuffle R&D.\nIf you win a game with Corporate Oversight in your score area, destroy it."
+    }
+  ]
 }
