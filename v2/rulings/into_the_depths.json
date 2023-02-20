@@ -1,0 +1,34 @@
+[
+  {
+    "card_id": "into_the_depths",
+    "date_creation": "2022-09-10 22:09:01",
+    "date_update": "2022-09-10 22:09:01",
+    "question": "Can a player charge cards that have 2 or more power counters? ",
+    "answer": "Yes, a card that has 2 power counters qualifies as having at least 1 power counter.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "into_the_depths",
+    "date_creation": "2022-09-10 22:09:56",
+    "date_update": "2022-09-10 22:09:56",
+    "question": "If the Runner passes an unrezzed piece of ice, does it count toward how many modes they can use for [Into the Depths](/en/card/33023)?",
+    "answer": "Yes. The Runner does not encounter unrezzed ice, but they still pass it.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "into_the_depths",
+    "date_creation": "2022-09-10 22:11:01",
+    "date_update": "2022-09-10 22:11:01",
+    "question": "What happens if a piece of ice is uninstalled during a run made with [Into the Depths](/en/card/33023)?",
+    "answer": "If the Runner already passed the uninstalled piece of ice, [Into the Depths](/en/card/33023) will remember that it was passed and count that toward the number of modes the Runner can resolve when the run is declared successful. If the ice is uninstalled while it is being encountered, the encounter immediately ends. The Runner passes that ice's former position, but since the ice is no longer there it does not count as the Runner passing a piece of ice.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "into_the_depths",
+    "date_creation": "2022-09-10 22:11:36",
+    "date_update": "2022-09-10 22:11:36",
+    "question": "If the Runner passes the same ice more than once during a single [Into the Depths](/en/card/33023) run, does that ice count multiple times for the payout?",
+    "answer": "Yes.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

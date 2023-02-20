@@ -1,0 +1,18 @@
+[
+  {
+    "card_id": "bladderwort",
+    "date_creation": "2022-10-22 16:54:36",
+    "date_update": "2022-10-22 16:54:36",
+    "question": "When does [Bladderwort](https://netrunnerdb.com/en/card/33041) check the Corp’s credits?",
+    "answer": "[Bladderwort](https://netrunnerdb.com/en/card/33041) checks the Corp’s credits when its second instruction resolves, after the Corp gains 1<span class=\"icon icon-credit\"></span> from its first instruction.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "bladderwort",
+    "date_creation": "2022-10-22 16:56:39",
+    "date_update": "2022-10-22 16:56:39",
+    "question": "How do multiple rezzed copies of [Bladderwort](https://netrunnerdb.com/en/card/33041) interact with each other?",
+    "answer": "The Corp resolves 1 copy of the ability at a time in full before moving on to the next copy. If a chain reaction or other “when your turn begins” ability resolves in the middle of this process and causes the Corp to lose or spend credits, it is possible that a copy resolved later could do net damage even though the Corp had too many credits to meet the requirement on a previously-resolved copy.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

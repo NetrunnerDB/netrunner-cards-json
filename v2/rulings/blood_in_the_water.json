@@ -1,0 +1,18 @@
+[
+  {
+    "card_id": "blood_in_the_water",
+    "date_creation": "2022-10-22 16:36:39",
+    "date_update": "2022-10-22 16:36:39",
+    "question": "What is the base trace strength for [Amani Senai](https://netrunnerdb.com/en/card/21076)’s ability if Blood in the Water is scored or stolen?",
+    "answer": "[Amani Senai](https://netrunnerdb.com/en/card/21076)’s base trace strength will be equal to the number of cards in the Runner’s grip.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "blood_in_the_water",
+    "date_creation": "2022-10-22 16:38:13",
+    "date_update": "2022-10-22 16:38:13",
+    "question": "What choice does the Runner need to make with [RNG Key](https://netrunnerdb.com/en/card/21029) to gain credits or draw cards if the next card they access is [Blood in the Water](https://netrunnerdb.com/en/card/33039)?",
+    "answer": "The chosen number must be equal to the number of cards in the Runner’s grip at the time [RNG Key](https://netrunnerdb.com/en/card/21029)’s last sentence resolves during the access of [Blood in the Water](https://netrunnerdb.com/en/card/33039). This is not necessarily the same as the number of cards in the Runner’s grip when the choice is made. For example, if the Runner has 4 cards in their grip when the run is declared successful, but suffers 1 net damage from [Hokusai Grid](https://netrunnerdb.com/en/card/31059) before breaching the server, they will need to have chosen the number 3 in order to draw cards or gain credits with [RNG Key](https://netrunnerdb.com/en/card/21029).",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

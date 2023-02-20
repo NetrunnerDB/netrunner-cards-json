@@ -1,0 +1,33 @@
+[
+  {
+    "card_id": "carnivore",
+    "date_creation": "2021-10-09 23:03:10",
+    "date_update": "2021-10-11 23:45:06",
+    "question": "If the Runner chooses to use [Carnivore](/en/card/30003), can they draw with [René “Loup” Arcemont](/en/card/30001) before trashing cards from their grip?",
+    "answer": "No. The Runner must fully resolve [Carnivore](/en/card/30003)’s ability before the trigger condition on *Loup*’s ability is met.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "carnivore",
+    "date_creation": "2021-10-09 23:03:59",
+    "date_update": "2021-10-11 23:46:31",
+    "question": "Can the Runner use [Carnivore](/en/card/30003) to trash an operation or piece of ice?",
+    "answer": "Yes. [Carnivore](/en/card/30003) does not care whether a card you access has a trash cost.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "carnivore",
+    "date_creation": "2021-10-09 23:06:11",
+    "date_update": "2021-10-11 23:46:39",
+    "question": "Can the Runner use [Carnivore](/en/card/30003) to trash an agenda they don’t want to steal?",
+    "answer": "Yes. Once the agenda is trashed, the access ends. The Runner will not steal it.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "carnivore",
+    "date_creation": "2021-10-09 23:08:03",
+    "date_update": "2021-10-11 23:45:24",
+    "text_ruling": "Can the Runner use [Carnivore](/en/card/30003) if the last subroutine on [Ansel 1.0](/en/card/30038) resolved earlier in the run?\n>No. That subroutine prohibits the Runner from trashing cards they access in any way, not just by using the basic trash ability.\n",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

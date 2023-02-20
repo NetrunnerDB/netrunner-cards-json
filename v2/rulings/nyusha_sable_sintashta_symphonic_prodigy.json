@@ -1,0 +1,34 @@
+[
+  {
+    "card_id": "nyusha_sable_sintashta_symphonic_prodigy",
+    "date_creation": "2022-09-10 20:23:46",
+    "date_update": "2022-09-10 20:23:46",
+    "question": "Does the Runner’s mark stay if all mark cards leave play, or does it leave and return when a new mark card comes into play?",
+    "answer": "When you identify your mark, that server becomes your mark for the turn, even if the card that instructed you to identify your mark leaves play. If an event instructs you to identify your mark, that server continues to be your mark for the remainder of the turn after that event resolves.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "nyusha_sable_sintashta_symphonic_prodigy",
+    "date_creation": "2022-09-10 20:24:03",
+    "date_update": "2022-09-10 20:24:03",
+    "question": "If the Runner does not have a mark, and they install a card that says “When your turn begins, identify your mark.”, do they get a mark for the current turn?",
+    "answer": "No. The Runner only identifies a mark when an ability instructs them to.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "nyusha_sable_sintashta_symphonic_prodigy",
+    "date_creation": "2022-09-10 20:24:22",
+    "date_update": "2022-09-10 20:24:22",
+    "question": "If the Runner has multiple “mark” cards, how do they identify their mark?",
+    "answer": "The first time each turn the Runner resolves an instruction to identify their mark, they will randomly choose a central server. That server becomes their mark for the entire turn. Resolving another instruction to identify their mark will have no effect.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "nyusha_sable_sintashta_symphonic_prodigy",
+    "date_creation": "2022-09-10 20:24:57",
+    "date_update": "2022-09-10 20:24:57",
+    "question": "Can the Runner gain a click with [Nyusha “Sable” Sintashta](/en/card/33011) if they are somehow able to make a successful run on the Corp’s turn?",
+    "answer": "No. The mark only lasts for the Runner’s turn.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

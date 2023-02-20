@@ -1,0 +1,25 @@
+[
+  {
+    "card_id": "mitosis",
+    "date_creation": "2022-10-22 16:58:44",
+    "date_update": "2022-10-22 16:58:44",
+    "question": "Can the Corp play [Mitosis](https://netrunnerdb.com/en/card/33046) but install 0 cards?",
+    "answer": "Yes. The Corp must have at least 1 card in HQ that could be installed in order to play [Mitosis](https://netrunnerdb.com/en/card/33046), but once they are resolving the operation, they can choose not to install any cards.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "mitosis",
+    "date_creation": "2022-10-22 16:58:58",
+    "date_update": "2022-10-22 16:58:58",
+    "text_ruling": "Can the Corp rez cards installed with [Mitosis](https://netrunnerdb.com/en/card/33046) on the Runner’s immediately following turn?\nYes.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "mitosis",
+    "date_creation": "2022-10-22 16:59:15",
+    "date_update": "2022-10-22 16:59:15",
+    "question": "What does “creating a new remote server each time” mean?",
+    "answer": "Each card installed with [Mitosis](https://netrunnerdb.com/en/card/33046) must create a new server. The two cards cannot be installed to the same server as each other or to any other server that already exists.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

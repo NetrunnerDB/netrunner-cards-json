@@ -1,0 +1,9 @@
+[
+  {
+    "card_id": "cookbook",
+    "date_creation": "2021-10-09 23:40:19",
+    "date_update": "2021-10-11 23:50:13",
+    "text_ruling": "Suppose the Runner has [Cookbook](/en/card/30009) and [Hivemind](/en/card/07042) installed, with 1 virus counter on [Hivemind](/en/card/07042). If they then install [Tranquilizer](/en/card/30017), is the host ice derezzed immediately? Or does it wait for the next check at the beginning of the Runner's next turn?\n>By managing their abilities carefully, the Runner can choose whether to derez the ice right away or not. [Hivemind](/en/card/07042)’s second ability is a static ability, so it always applies as soon as [Tranquilizer](/en/card/30017) is installed. But the conditional abilities on [Cookbook](/en/card/30009) and [Tranquilizer](/en/card/30017) meet their trigger conditions at the same time, so the Runner can choose the order to resolve them. If they resolve [Tranquilizer](/en/card/30017) first, it will only have 2 hosted virus counters (including the one shared from [Hivemind](/en/card/07042)) at the time that the number of counters is checked. If they resolve [Cookbook](/en/card/30009) first, then by the time [Tranquilizer](/en/card/30017) resolves, it will have 3 hosted virus counters and will derez the ice.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

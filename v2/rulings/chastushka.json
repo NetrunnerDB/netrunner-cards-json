@@ -1,0 +1,41 @@
+[
+  {
+    "card_id": "chastushka",
+    "date_creation": "2022-09-10 19:28:48",
+    "date_update": "2022-09-10 19:42:11",
+    "question": "Can the Corp look at the cards that are being trashed while resolving sabotage?\n",
+    "answer": "No, the Corp must choose which cards to trash first, and then all cards are trashed simultaneously. The Corp can look at the trashed cards from R&D in Archives after all trashes from sabotage have been resolved.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "chastushka",
+    "date_creation": "2022-09-10 19:38:40",
+    "date_update": "2022-09-10 19:47:47",
+    "question": "If the Corp has only 1 card in HQ and must sabotage 2, can they choose to “trash 2 cards from HQ” in order to only trash the 1 card in HQ?",
+    "answer": "No, the Corp must trash 2 cards if possible. The Corp must trash the remaining card from R&D.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "chastushka",
+    "date_creation": "2022-09-10 19:44:34",
+    "date_update": "2022-09-10 19:48:06",
+    "question": "If the Corp has only 1 card in R&D and must sabotage 2, can they choose to “trash 2 cards from R&D” in order to only trash the 1 card in R&D?",
+    "answer": "No, the Corp must trash 2 cards if possible. The Corp must trash the remaining card from HQ.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "chastushka",
+    "date_creation": "2022-09-10 19:45:04",
+    "date_update": "2022-09-10 19:45:04",
+    "question": "What if the Corp has only 1 card total in HQ and R&D and must sabotage 2?",
+    "answer": "The Corp trashes all cards from HQ and R&D.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "chastushka",
+    "date_creation": "2022-09-10 19:45:30",
+    "date_update": "2022-09-10 19:46:27",
+    "text_ruling": "Does the Runner gain a credit when they sabotage and have [Demolisher](/en/card/26002) installed?\n>No, the Corp is trashing the cards when resolving a sabotage effect.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

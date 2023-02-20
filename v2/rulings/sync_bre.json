@@ -1,0 +1,10 @@
+[
+  {
+    "card_id": "sync_bre",
+    "date_creation": "2017-04-11 21:56:30",
+    "date_update": "2017-04-11 22:25:18",
+    "question": "####UFAQ [Michael Boggs]\nHow long does the effect of the second trace on SYNC BRE last?\n>*Designer's Note: Technically, as SYNC BRE is written this effect lasts until the end of the game, but it should read: \"**Trace2** - if successful, the Runner accesses 1 fewer card whenever he or she accesses cards **for the remainder of the run**.\"*\n\nIf SYNC BRE’s second trace resolves during a run on Archives, how will the access step be affected?",
+    "answer": "Just like normal, the Corp flips all facedown cards in Archives faceup, then the Runner accesses cards in the order of their choice. The Runner will not be able to access the last card, so in practice this means the Runner chooses a card to not access.\n\nIf SYNC BRE’s second trace resolves during a run on a remote server, how will the access step be affected? What if there are multiple cards installed in the server?",
+    "ruling_source_id": "michael_boggs"
+  }
+]

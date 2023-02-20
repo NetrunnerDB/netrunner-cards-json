@@ -1,0 +1,26 @@
+[
+  {
+    "card_id": "rigging_up",
+    "date_creation": "2022-09-10 22:13:32",
+    "date_update": "2022-09-10 22:13:32",
+    "question": "Can the Runner use [Rigging Up](/en/card/33024) to put an extra counter on [Hyperbaric](/en/card/33026)?",
+    "answer": "Yes. [Hyperbaric](/en/card/33026)’s “when you install” ability resolves in between the instruction from [Rigging Up](/en/card/33024) that installs it and the instruction that gives the option to charge it. By the time the latter instruction resolves, [Hyperbaric](/en/card/33026) has a hosted power counter and is legal to charge.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "rigging_up",
+    "date_creation": "2022-09-10 22:14:21",
+    "date_update": "2022-09-10 22:14:21",
+    "question": "Why does [Rigging Up](/en/card/33024) say “if able”?",
+    "answer": "This text is included to clarify that the “you may charge that card” effect is still subject to the requirement that a card can only be charged if it has a hosted power counter.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "rigging_up",
+    "date_creation": "2022-09-10 22:14:36",
+    "date_update": "2022-09-10 22:14:36",
+    "question": "Can a player charge cards that have 2 or more power counters? ",
+    "answer": "Yes, a card that has 2 power counters qualifies as having at least 1 power counter.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

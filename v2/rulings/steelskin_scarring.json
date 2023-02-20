@@ -1,0 +1,34 @@
+[
+  {
+    "card_id": "steelskin_scarring",
+    "date_creation": "2022-09-10 19:48:45",
+    "date_update": "2022-09-10 19:48:45",
+    "question": "When the Runner plays [Steelskin Scarring](/en/card/33004), is it trashed from their grip?",
+    "answer": "No, it is trashed from the play area. When the Runner plays [Steelskin Scarring](/en/card/33004), they will only resolve its first ability, drawing 3 cards.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "steelskin_scarring",
+    "date_creation": "2022-09-10 19:53:13",
+    "date_update": "2022-09-10 19:53:13",
+    "question": "Does the Runner draw cards from [Steelskin Scarring](/en/card/33004) when it is discarded to meet their maximum hand size?",
+    "answer": "No, discarded cards are not considered trashed.\n",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "steelskin_scarring",
+    "date_creation": "2022-09-10 19:55:11",
+    "date_update": "2022-09-10 19:55:11",
+    "question": "How does [Buffer Drive](/en/card/26093) interact with [Steelskin Scarring](/en/card/33004)?",
+    "answer": "Both cards' conditional abilities meet their trigger conditions at the same time, and the Runner can choose to resolve either one first. If they choose to resolve [Buffer Drive](/en/card/26093)'s ability first and put [Steelskin Scarring](/en/card/33004) on the bottom of the stack, they will not be able to resolve [Steelskin Scarring](/en/card/33004)’s ability because that ability is no longer active once its source leaves the heap. If they choose to resolve [Steelskin Scarring](/en/card/33004)’s ability first, they will still be able to use [Buffer Drive](/en/card/26093)’s ability after drawing 2 cards.\n",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "steelskin_scarring",
+    "date_creation": "2022-09-28 00:03:41",
+    "date_update": "2022-09-28 00:03:41",
+    "question": "What exactly happens if [Steelskin Scarring](/en/card/33004) is on top of the Runner's stack and they play [Labor Rights](/en/card/28001)?",
+    "answer": "Each sentence on Labor Rights is an instruction, and other abilities that meet their trigger conditions have the opportunity to resolve between instructions. So [Labor Rights](/en/card/28001) will trash 3 cards including [Steelskin Scarring](/en/card/33004), then [Steelskin Scarring](/en/card/33004)'s ability will trigger and the Runner may draw 2 cards. Then, the Runner shuffles cards (which could include the same copy of [Steelskin Scarring](/en/card/33004)) from their heap into their stack, and finally, they draw 1 more card and remove [Labor Rights](/en/card/28001) from the game.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

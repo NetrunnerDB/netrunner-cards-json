@@ -1,0 +1,18 @@
+[
+  {
+    "card_id": "chisel",
+    "date_creation": "2019-04-26 23:58:01",
+    "date_update": "2019-04-27 00:08:44",
+    "question": "####[Null Signal](https://nullsignal.games) [Downfall Release Notes](https://nullsignal.games/products/Downfall/DFReleaseNotes#QandAforDownfall) [Null Signal Rules Team]\nCan the Runner use Datasucker to help trash ice faster with Chisel? What about cards like Null: Whistleblower?",
+    "answer": "No, Datasucker can only reduce the strength of ice during the paid ability window of an encounter, which is after Chisel’s ability will already have resolved and either trashed the ice or added a virus counter to itself. Null, on the other hand, has a conditional ability with the same trigger condition as Chisel, so the Runner can choose the order to trigger and resolve those abilities. Chisel looks at the strength of the ice at the time its ability resolves, which will include Null’s effect if that was resolved first.\n\nIf the Runner encounters a Tollbooth hosting a Chisel with 5 virus counters, do they still have to pay 3<span class=\"icon icon-credit\"></span>?",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "chisel",
+    "date_creation": "2022-04-24 06:54:59",
+    "date_update": "2022-04-24 06:54:59",
+    "question": "Does [Ice Carver](https://netrunnerdb.com/en/card/31009) apply its -1 strength before or after [Chisel](https://netrunnerdb.com/en/card/26003)’s ability resolves?",
+    "answer": "Before. [Ice Carver](https://netrunnerdb.com/en/card/31009) has a static ability, which means it applies as soon as the encounter begins. The Runner doesn’t have to trigger the ability explicitly or wait for conditional abilities to resolve before it takes effect.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

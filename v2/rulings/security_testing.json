@@ -1,0 +1,18 @@
+[
+  {
+    "card_id": "security_testing",
+    "date_creation": "2017-04-09 12:00:16",
+    "date_update": "2022-04-24 06:13:29",
+    "question": "If [Security Testing](https://netrunnerdb.com/en/card/31024) is trashed while running the chosen server, does the Runner still apply its replacement effect (gain 2<span class=\"icon icon-credit\"></span> instead of breaching)?",
+    "answer": "No. The second ability on [Security Testing](https://netrunnerdb.com/en/card/31024) is a separate ability, not a lingering effect. If [Security Testing](https://netrunnerdb.com/en/card/31024) is trashed during the run, it is not active at the time it would meet its trigger condition, so the Runner does not apply the replacement effect to gain 2<span class=\"icon icon-credit\"></span>.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "security_testing",
+    "date_creation": "2021-10-09 23:35:01",
+    "date_update": "2022-04-24 06:15:17",
+    "question": "If breaching HQ is replaced with another effect, such as gaining 2<span class=\"icon icon-credit\"></span> with [Security Testing](https://netrunnerdb.com/en/card/31024), will the Runner get the additional access with [Docklands Pass](https://netrunnerdb.com/en/card/30013) if they make a successful run on HQ again later in the turn?",
+    "answer": "Yes. “The first time you breach HQ” refers to a breach actually taking place, not just reaching the “Breach the attacked server.” step of the run.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

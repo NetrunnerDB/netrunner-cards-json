@@ -1,0 +1,16 @@
+[
+  {
+    "card_id": "it_department",
+    "date_creation": "2017-04-09 12:46:46",
+    "date_update": "2017-04-09 12:46:46",
+    "text_ruling": "Once triggered, IT Department results in a constant ability that\ncontinually tracks how many power counters are on the card. [Official FAQ]",
+    "ruling_source_id": "official_faq"
+  },
+  {
+    "card_id": "it_department",
+    "date_creation": "2017-04-09 12:47:31",
+    "date_update": "2017-04-09 12:47:31",
+    "text_ruling": "IT Department always gives a piece of ice +1 strength due to the\ntoken spent to activate the card ability, even if there are no other\ncounters left on the card or IT Department is no longer installed.\n\n*Example: There are 5 tokens on IT Department. If the Corp\nspends 1 token, the ice has +5 strength (1 for the initial token\n+ 4 for the token still on IT Department). If the Corp spends\nanother token, now the ice has +8 strength (2 for the initial\ntokens + 3 for each of the two instances of the ability). If the\nCorp spent a third token, now the ice has only +9 strength (3\nfor the initial tokens + 2 for each of the three instances of the\nability).* [Official FAQ]",
+    "ruling_source_id": "official_faq"
+  }
+]

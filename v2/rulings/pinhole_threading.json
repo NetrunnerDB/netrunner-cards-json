@@ -1,0 +1,42 @@
+[
+  {
+    "card_id": "pinhole_threading",
+    "date_creation": "2022-09-10 21:17:31",
+    "date_update": "2022-09-10 21:17:31",
+    "question": "Can the Runner trigger [Aumakua](/en/card/12104)’s ability with the access from [Pinhole Threading](/en/card/33013)?",
+    "answer": "No. [Pinhole Threading](/en/card/33013) replaces breaching the attacked server, and the access it grants is not a breach, so it does not meet [Aumakua](/en/card/12104)’s trigger condition regardless of whether the accessed card is trashed.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "pinhole_threading",
+    "date_creation": "2022-09-10 21:19:38",
+    "date_update": "2022-09-10 21:19:38",
+    "question": "Can the Runner trigger [Kasi String](/en/card/21111) with the access from [Pinhole Threading](/en/card/33013) by running Archives?",
+    "answer": "No. [Pinhole Threading](/en/card/33013) replaces breaching the attacked server, and the access it grants is not a breach, so it does not meet [Kasi String](/en/card/21111)’s trigger condition regardless of whether the accessed card is stolen.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "pinhole_threading",
+    "date_creation": "2022-09-10 21:22:54",
+    "date_update": "2022-09-10 21:22:54",
+    "question": "The Runner uses [Pinhole Threading](/en/card/33013) to access [Ganked!](/en/card/26119) and is forced to encounter ice. Both the attacked server and the accessed server are protected by [Border Control](/en/card/28005). Which paid ability among the [Border Control](/en/card/28005)s can the Corp use to end the run?",
+    "answer": "The access from [Pinhole Threading](/en/card/33013) doesn't change the attacked server, so the Corp can only use the [Border Control](/en/card/28005) protecting the server where the run was made, not the server where [Ganked!](/en/card/26119) was accessed. ",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "pinhole_threading",
+    "date_creation": "2022-09-10 21:26:25",
+    "date_update": "2022-09-10 21:26:25",
+    "question": "The Runner uses [Pinhole Threading](/en/card/33013) to access [Ganked!](/en/card/26119) and is forced to encounter ice. If the Runner is tagged, can the Corp gain credits from [Henry Phillips](/en/card/12056) during that encounter? Where would [Henry Phillips](/en/card/12056) need to be installed for this to work?",
+    "answer": "The access from [Pinhole Threading](/en/card/33013) doesn't change the attacked server, so abilities like [Henry Phillips](/en/card/12056) that apply “during a run on this server” only apply for cards in the root of or protecting the server where the run was made. The ability would be able to resolve successfully even though the subroutines being broken are on ice protecting a different server. Conversely, a copy of [Henry Phillips](/en/card/12056) in the root of the server where [Ganked!](/en/card/26119) was accessed would not be able to meet its trigger condition.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "pinhole_threading",
+    "date_creation": "2022-09-10 21:28:24",
+    "date_update": "2022-09-10 21:28:24",
+    "question": "If the Runner uses [Pinhole Threading](/en/card/33013) to run a central server, can they use credits hosted on [Cezve](/en/card/33017) to trash an asset in the root of a remote server?",
+    "answer": "Yes. The run is still on a central server.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

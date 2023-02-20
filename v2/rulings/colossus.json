@@ -1,0 +1,9 @@
+[
+  {
+    "card_id": "colossus",
+    "date_creation": "2020-04-23 21:29:49",
+    "date_update": "2020-04-23 21:29:49",
+    "text_ruling": "####[Null Signal](https://nullsignal.games) [Uprising Release Notes](https://nullsignal.games/files/Uprising_Release_Notes.pdf) [Null Signal Rules Team]\nThis card is a reprint. Has anything changed about how Colossus works?\n>Yes. The wording of Colossus's subroutines has been updated to remove the parentheses. Each subroutine now uses a conditional replacement effect, which in most cases achieves the same result. But effects such as Loki that refer to subroutines on Colossus now interact with it differently. If Loki gains a subroutine from Colossus, it will now check the number of advancement tokens on itself (Loki) to determine the effect the subroutine should have. Previously, it was unclear how to interpret the two different instructions in the subroutine without the linked ability explaining the parenthetical text.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]

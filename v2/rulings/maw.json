@@ -1,0 +1,18 @@
+[
+  {
+    "card_id": "maw",
+    "date_creation": "2017-04-11 20:53:14",
+    "date_update": "2018-02-13 20:35:59",
+    "question": "####[UFAQ 19](https://ancur.wikia.com/wiki/Sovereign_Sight_UFAQ) [Michael Boggs]\n**Updated** Does Maw trigger if the Runner uses [Salsette Slums](/en/card/10059) to remove an accessed card from the game?",
+    "answer": "Yes. The Runner accessed a card but did not steal or trash it.",
+    "ruling_source_id": "ufaq_19"
+  },
+  {
+    "card_id": "maw",
+    "date_creation": "2018-02-13 20:36:06",
+    "date_update": "2018-02-13 20:36:06",
+    "question": "####[UFAQ 13](https://ancur.wikia.com/wiki/Daedalus_Complex_UFAQ) [Michael Boggs]\nIf the first card the Runner accesses not in Archives that they do not steal or trash is an agenda that they host on [Film Critic](/en/card/08086), does Maw trigger?",
+    "answer": "Yes. The Runner accessed a card and did not steal or trash it. Maw's trigger condition can only ever be met after an access ends, so it isn't a condition met by entering the \"accessing a card\" timing structure. Ending the access prematurely with Film Critic won't invalidate its trigger condition.\n\nIf the Runner does not steal or trash the first card they access in HQ, and that card is then randomly selected for Maw's trigger, is the card trashed to Archives faceup or facedown?",
+    "ruling_source_id": "ufaq_13"
+  }
+]

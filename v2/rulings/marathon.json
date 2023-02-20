@@ -1,0 +1,10 @@
+[
+  {
+    "card_id": "marathon",
+    "date_creation": "2018-03-02 19:40:14",
+    "date_update": "2018-03-02 19:40:14",
+    "question": "####[UFAQ 21](https://ancur.wikia.com/wiki/Council_of_the_Crest_UFAQ) [Michael Boggs]\nIf the run initiated with Marathon is unsuccessful, is the Runner still prohibited from running that server again?\n>Yes. The restriction on running the server again is independent of the \"if successful\" ability.\n\nIf the Runner is redirected to a different remote server during a Marathon run, do they still gain <span class=\"icon icon-click\"></span> and add Marathon to their grip if the run is successful against the new server? Which server are they prohibited from running again during that turn?",
+    "answer": "Yes. \"If successful\" effects work as long as the server the run is against is a server the run could have been initiated against. So if the Runner is moved to a different remote server, they can still continue the marathon. The restriction on future runs in the turn applies to the server that the Runner was redirected to.\n\nWhat if the new server is a central server?\n>The \"if successful\" ability cannot resolve on a central server, so the marathon ends. The Runner is prohibited from running that central server for the remainder of the turn.",
+    "ruling_source_id": "ufaq_21"
+  }
+]

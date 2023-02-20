@@ -1,0 +1,24 @@
+[
+  {
+    "card_id": "funhouse",
+    "date_creation": "2021-10-11 01:57:37",
+    "date_update": "2021-10-11 23:35:28",
+    "text_ruling": "Can the Runner stop [Funhouse](/en/card/30054) from ending the run by choosing to take the tag and then preventing it?\n>No. The “unless” in [Funhouse](/en/card/30054)’s ability indicates a nested cost. If the Runner does not take a tag, the cost is not paid and [Funhouse](/en/card/30054) will end the run.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "funhouse",
+    "date_creation": "2021-10-11 01:57:59",
+    "date_update": "2021-10-11 23:36:14",
+    "text_ruling": "What happens if the Runner has a mandatory ability that would prevent the tag from [Funhouse](/en/card/30054), such as the ability on [Jesminder Sareen: Girl Behind the Curtain](/en/card/10006)?\n>Players cannot attempt to pay a cost that would be prevented. If *Jesminder*’s ability is applicable, the Runner must choose to end the run.",
+    "ruling_source_id": "nsg_rules_team"
+  },
+  {
+    "card_id": "funhouse",
+    "date_creation": "2022-04-24 06:52:39",
+    "date_update": "2022-04-24 06:52:39",
+    "question": "If the Runner plays [Inside Job](https://netrunnerdb.com/en/card/31018) and bypasses [Funhouse](https://netrunnerdb.com/en/card/30054) or [Tollbooth](https://netrunnerdb.com/en/card/31066), do the non-subroutine abilities on those cards resolve?",
+    "answer": "No. An ability that meets its trigger condition due to an encounter beginning can only resolve if the encounter is still taking place. [Inside Job](https://netrunnerdb.com/en/card/31018)’s bypass ability meets its trigger condition at the same time as [Funhouse](https://netrunnerdb.com/en/card/30054) or [Tollbooth](https://netrunnerdb.com/en/card/31066)’s ability, and as it’s the Runner’s turn, they will resolve the ability they control first. Bypassing a piece of ice immediately ends the encounter, stopping the Corp from resolving their ability before they can tag the Runner or charge a toll.",
+    "ruling_source_id": "nsg_rules_team"
+  }
+]
