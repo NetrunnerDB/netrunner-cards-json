@@ -8,30 +8,6 @@
     "quantity": 3
   },
   {
-    "card_id": "evidence_collection_2",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14001",
-    "illustrator": "Dmitry Burmak",
-    "position": 2,
-    "quantity": 3
-  },
-  {
-    "card_id": "evidence_collection_3",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14002",
-    "illustrator": "Dmitry Burmak",
-    "position": 3,
-    "quantity": 3
-  },
-  {
-    "card_id": "evidence_collection_4",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14003",
-    "illustrator": "Dmitry Burmak",
-    "position": 4,
-    "quantity": 3
-  },
-  {
     "card_id": "investigator_inez_delgado_a",
     "card_set_id": "terminal_directive_campaign",
     "id": "14004",
@@ -40,27 +16,11 @@
     "quantity": 3
   },
   {
-    "card_id": "investigator_inez_delgado_a_2",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14005",
-    "illustrator": "PxelSlayer",
-    "position": 6,
-    "quantity": 3
-  },
-  {
     "card_id": "lt_todachine",
     "card_set_id": "terminal_directive_campaign",
     "id": "14006",
     "illustrator": "Antonio José Manzanedo",
     "position": 7,
-    "quantity": 3
-  },
-  {
-    "card_id": "lt_todachine_2",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14007",
-    "illustrator": "Antonio José Manzanedo",
-    "position": 8,
     "quantity": 3
   },
   {
@@ -80,36 +40,34 @@
     "quantity": 1
   },
   {
-    "card_id": "machicolation_a",
+    "card_id": "machicolation",
     "card_set_id": "terminal_directive_campaign",
     "id": "14010",
     "illustrator": "Ed Mattinian",
     "position": 11,
-    "quantity": 3
+    "quantity": 6,
+    "layout_id": "copy",
+    "copy_quantity": 3,
+    "sides": [
+      {
+        "copy_quantity": 3
+      }
+    ]
   },
   {
-    "card_id": "machicolation_b",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14011",
-    "illustrator": "Ed Mattinian",
-    "position": 12,
-    "quantity": 3
-  },
-  {
-    "card_id": "corporate_oversight_a",
+    "card_id": "corporate_oversight",
     "card_set_id": "terminal_directive_campaign",
     "id": "14012",
     "illustrator": "Matt Zeilinger",
     "position": 13,
-    "quantity": 3
-  },
-  {
-    "card_id": "corporate_oversight_b",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14013",
-    "illustrator": "Matt Zeilinger",
-    "position": 14,
-    "quantity": 3
+    "quantity": 6,
+    "layout_id": "copy",
+    "copy_quantity": 3,
+    "sides": [
+      {
+        "copy_quantity": 3
+      }
+    ]
   },
   {
     "card_id": "investigator_inez_delgado",
@@ -117,30 +75,6 @@
     "id": "14014",
     "illustrator": "Matt Zeilinger",
     "position": 15,
-    "quantity": 3
-  },
-  {
-    "card_id": "investigator_inez_delgado_2",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14015",
-    "illustrator": "Matt Zeilinger",
-    "position": 16,
-    "quantity": 3
-  },
-  {
-    "card_id": "investigator_inez_delgado_3",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14016",
-    "illustrator": "Matt Zeilinger",
-    "position": 17,
-    "quantity": 3
-  },
-  {
-    "card_id": "investigator_inez_delgado_4",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14017",
-    "illustrator": "Matt Zeilinger",
-    "position": 18,
     "quantity": 3
   },
   {
@@ -152,27 +86,11 @@
     "quantity": 3
   },
   {
-    "card_id": "surveillance_network_key_2",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14019",
-    "illustrator": "Michał Miłkowski",
-    "position": 20,
-    "quantity": 3
-  },
-  {
     "card_id": "bmi_buffer",
     "card_set_id": "terminal_directive_campaign",
     "id": "14020",
     "illustrator": "Timur Shevtsov",
     "position": 21,
-    "quantity": 3
-  },
-  {
-    "card_id": "bmi_buffer_2",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14021",
-    "illustrator": "Timur Shevtsov",
-    "position": 22,
     "quantity": 3
   },
   {
@@ -192,35 +110,33 @@
     "quantity": 1
   },
   {
-    "card_id": "the_masque_a",
+    "card_id": "the_masque",
     "card_set_id": "terminal_directive_campaign",
     "id": "14024",
     "illustrator": "PxelSlayer",
     "position": 25,
-    "quantity": 3
+    "quantity": 6,
+    "layout_id": "copy",
+    "copy_quantity": 3,
+    "sides": [
+      {
+        "copy_quantity": 3
+      }
+    ]
   },
   {
-    "card_id": "the_masque_b",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14025",
-    "illustrator": "PxelSlayer",
-    "position": 26,
-    "quantity": 3
-  },
-  {
-    "card_id": "sneakdoor_prime_a",
+    "card_id": "sneakdoor_prime",
     "card_set_id": "terminal_directive_campaign",
     "id": "14026",
     "illustrator": "Dmitry Prosvirnin",
     "position": 27,
-    "quantity": 3
-  },
-  {
-    "card_id": "sneakdoor_prime_b",
-    "card_set_id": "terminal_directive_campaign",
-    "id": "14027",
-    "illustrator": "Dmitry Prosvirnin",
-    "position": 28,
-    "quantity": 3
+    "quantity": 6,
+    "layout_id": "copy",
+    "copy_quantity": 3,
+    "sides": [
+      {
+        "copy_quantity": 3
+      }
+    ]
   }
 ]
