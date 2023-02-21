@@ -1,7 +1,7 @@
 import fs from "fs";
 import { basename, resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCardCyclesV2Json, getCardsV2Json, getCardSetsV2Json, getCardSetTypesV2Json, getCardSubtypesV2Json, getCardTypesV2Json, getFactionsV2Json, getSidesV2Json, textToId } from "../src/index";
+import { getCardCyclesV2Json, getCardsV2Json, getCardSetsV2Json, getCardSetTypesV2Json, getCardSubtypesV2Json, getCardTypesV2Json, getCardLayoutsV2Json, getFactionsV2Json, getSidesV2Json, textToId } from "../src/index";
 import { expect } from "chai";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
@@ -25,11 +25,12 @@ const subtypes = getCardSubtypesV2Json();
 const subtypeIds = new Set<string>(subtypes.map(c => c.id));
 const cardSetTypes = getCardSetTypesV2Json();
 const cardTypes = getCardTypesV2Json();
+const cardLayouts = getCardLayoutsV2Json();
 const cardSets = getCardSetsV2Json();
 const cardSetIds = new Set<string>(cardSets.map(s => s.id));
 const cards = getCardsV2Json();
 const cardIds = new Set<string>(getCardsV2Json().map(c => c.id));
- 
+
 const formatPoolDir = resolve(__dirname, "../v2/formats");
 const formatPoolFiles =
   fs.readdirSync(formatPoolDir, { withFileTypes: true })
@@ -82,7 +83,7 @@ restrictionFiles.forEach(file => {
   const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
   restrictionIds.add(restriction.id);
 });
- 
+
 describe('Sides', () => {
   it('sides.json passes schema validation', () => {
     validateAgainstSchema('sides_schema.json', sides);
@@ -143,6 +144,13 @@ describe('Card Subtypes', () => {
     subtypes.forEach(function(s) {
       expect(s.id).to.equal(textToId(s.name));
     });
+  });
+});
+
+describe('Card Layouts', () => {
+
+  it('card_layouts.json passes schema validation', () => {
+    validateAgainstSchema('card_layouts_schema.json', cardLayouts);
   });
 });
 
@@ -319,7 +327,7 @@ describe('Card Pools', () => {
     cardSets.forEach(set => {
       if (!cardSetsByCycleId.has(set.card_cycle_id)) {
         cardSetsByCycleId.set(set.card_cycle_id, new Set<string>());
-      } 
+      }
       cardSetsByCycleId.get(set.card_cycle_id)?.add(set.id);
     });
     cardPoolsByFilename.forEach((cardPool, file) => {
@@ -408,36 +416,36 @@ describe('Restrictions', () => {
     restrictionsByFilename.forEach((restriction, file) => {
       // banned
       if ('banned' in restriction) {
-        expect(restriction.banned, `banned list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.banned.map((e) => e).sort()); 
+        expect(restriction.banned, `banned list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.banned.map((e) => e).sort());
       }
       // subtypes.banned
       if ('subtype' in restriction && 'banned' in restriction.subtype) {
-        expect(restriction.subtype.banned, `subtype.banned list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.subtype.banned.map((e) => e).sort()); 
+        expect(restriction.subtype.banned, `subtype.banned list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.subtype.banned.map((e) => e).sort());
       }
       // global_penalty.1
       if ('global_penalty' in restriction && '1' in restriction.global_penalty) {
-        expect(restriction.global_penalty['1'], `global_penalty['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.global_penalty['1'].map((e) => e).sort()); 
+        expect(restriction.global_penalty['1'], `global_penalty['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.global_penalty['1'].map((e) => e).sort());
       }
       // universal_faction_cost.{1,3}
       if ('universal_faction_cost' in restriction && '1' in restriction.universal_faction_cost) {
-        expect(restriction.universal_faction_cost['1'], `universal_faction_cost['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.universal_faction_cost['1'].map((e) => e).sort()); 
+        expect(restriction.universal_faction_cost['1'], `universal_faction_cost['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.universal_faction_cost['1'].map((e) => e).sort());
       }
       if ('universal_faction_cost' in restriction && '3' in restriction.universal_faction_cost) {
-        expect(restriction.universal_faction_cost['3'], `universal_faction_cost['3'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.universal_faction_cost['3'].map((e) => e).sort()); 
+        expect(restriction.universal_faction_cost['3'], `universal_faction_cost['3'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.universal_faction_cost['3'].map((e) => e).sort());
       }
       // points.{1,2,3}
       if ('points' in restriction && '1' in restriction.points) {
-        expect(restriction.points['1'], `points['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['1'].map((e) => e).sort()); 
+        expect(restriction.points['1'], `points['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['1'].map((e) => e).sort());
       }
       if ('points' in restriction && '2' in restriction.points) {
-        expect(restriction.points['2'], `points['2'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['2'].map((e) => e).sort()); 
+        expect(restriction.points['2'], `points['2'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['2'].map((e) => e).sort());
       }
       if ('points' in restriction && '3' in restriction.points) {
-        expect(restriction.points['3'], `points['3'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['3'].map((e) => e).sort()); 
+        expect(restriction.points['3'], `points['3'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['3'].map((e) => e).sort());
       }
       // restricted
       if ('restricted' in restriction) {
-        expect(restriction.restricted, `restricted list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.restricted.map((e) => e).sort()); 
+        expect(restriction.restricted, `restricted list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.restricted.map((e) => e).sort());
       }
      });
   });
