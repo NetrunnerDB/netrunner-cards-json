@@ -265,6 +265,17 @@
         }
       ]
     },
+    "layout_id": {
+      "oneOf": [
+        {
+          "type": "string",
+          "enum": ["normal", "flip", "copy", "facade", "progression"]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
     "memory_cost": {
       "minimum": 0,
       "type": "integer"
@@ -277,6 +288,16 @@
       "minLength": 1,
       "type": "string",
       "enum": ["corp", "runner"]
+    },
+    "sides": {
+      "oneOf": [
+        {
+          "type": "array"
+        },
+        {
+          "type": "null"
+        }
+      ]
     },
     "strength": {
       "oneOf": [
@@ -330,5 +351,89 @@
     "title",
     "card_type_id",
     "is_unique"
-  ]
+  ],
+  "dependentSchemas": {
+    "layout_id": {
+      "oneOf": [
+        {
+          "properties": {
+            "layout_id": {
+              "oneOf": [
+                {
+                  "const": "normal"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "sides": {
+              "type": "null"
+            }
+          }
+        },
+        {
+          "properties": {
+            "layout_id": {
+              "const": "flip"
+            },
+            "sides": {
+              "type": "array",
+              "minItems": 1,
+              "maxItems": 1,
+              "items": {
+                "type": "object"
+              }
+            }
+          },
+          "required": ["sides"]
+        },
+        {
+          "properties": {
+            "layout_id": {
+              "const": "copy"
+            },
+            "sides": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object"
+              }
+            }
+          },
+          "required": ["sides"]
+        },
+        {
+          "properties": {
+            "layout_id": {
+              "const": "facade"
+            },
+            "sides": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object"
+              }
+            }
+          },
+          "required": ["sides"]
+        },
+        {
+          "properties": {
+            "layout_id": {
+              "const": "progression"
+            },
+            "sides": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object"
+              }
+            }
+          },
+          "required": ["sides"]
+        }
+      ]
+    }
+  }
 }
