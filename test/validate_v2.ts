@@ -200,6 +200,10 @@ describe('Printings', () => {
     const printing = JSON.parse(fs.readFileSync(resolve(printingDir, file), 'utf-8'));
     printingsByFilename.set(file, printing);
   });
+  const cardsById = new Map<string, any>();
+  getCardsV2Json().forEach(c => {
+    cardsById.set(c.id, c);
+  });
 
   const schema_path = resolve(__dirname, "../schema/v2/printings_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
@@ -246,6 +250,18 @@ describe('Printings', () => {
     printingsByFilename.forEach((printing, file) => {
       printing.filter(p => p.layout_id && p.layout_id == 'copy').forEach(p => {
         expect(p.copy_quantity + p.sides.reduce((count, s) => count + s.copy_quantity, 0), `copy_quantity properties of printing ${p.id} do not sum to its quantity property`).to.equal(p.quantity);
+      });
+    });
+  });
+
+  // if a layout_id is present in a card or printing, the other must either have the same layout_id or no layout_id
+  it('printing files do not have conflicting layout_id with cards', () => {
+    printingsByFilename.forEach((printing, file) => {
+      printing.forEach(p => {
+        const card = cardsById.get(p.card_id);
+        if ('layout_id' in p && 'layout_id' in card) {
+          expect(p.layout_id, `layout_id ${p.layout_id} for ${p.card_id} / ${p.id} does not match card layout_id ${card.layout_id} for ${p.card_id}`).to.equal(card.layout_id);
+        }
       });
     });
   });
