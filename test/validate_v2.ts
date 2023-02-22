@@ -244,7 +244,6 @@ describe('Printings', () => {
 
   it('printing files have valid copy_quantity attributes', () => {
     printingsByFilename.forEach((printing, file) => {
-      const cardSetIdFromFile = basename(file).replace('.json', '');
       printing.filter(p => p.layout_id && p.layout_id == 'copy').forEach(p => {
         expect(p.copy_quantity + p.sides.reduce((count, s) => count + s.copy_quantity, 0), `copy_quantity properties of printing ${p.id} do not sum to its quantity property`).to.equal(p.quantity);
       });
