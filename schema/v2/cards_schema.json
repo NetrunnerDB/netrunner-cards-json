@@ -269,7 +269,7 @@
       "oneOf": [
         {
           "type": "string",
-          "enum": ["normal", "flip", "copy", "facade", "progression"]
+          "enum": ["single_sided", "flip", "copy", "facade", "progression"]
         },
         {
           "type": "null"
@@ -360,7 +360,7 @@
             "layout_id": {
               "oneOf": [
                 {
-                  "const": "normal"
+                  "const": "single_sided"
                 },
                 {
                   "type": "null"
