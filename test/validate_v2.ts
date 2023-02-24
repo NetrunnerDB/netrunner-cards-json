@@ -247,7 +247,7 @@ describe('Printings', () => {
   });
 
   it('printing files have valid copy_quantity attributes', () => {
-    printingsByFilename.forEach((printing, file) => {
+    printingsByFilename.forEach(printing => {
       printing.filter(p => p.layout_id && p.layout_id == 'copy').forEach(p => {
         expect(p.copy_quantity + p.sides.reduce((count, s) => count + s.copy_quantity, 0), `copy_quantity properties of printing ${p.id} do not sum to its quantity property`).to.equal(p.quantity);
       });
@@ -256,7 +256,7 @@ describe('Printings', () => {
 
   // if a layout_id is present in a card or printing, the other must either have the same layout_id or no layout_id
   it('printing files do not have conflicting layout_id with cards', () => {
-    printingsByFilename.forEach((printing, file) => {
+    printingsByFilename.forEach(printing => {
       printing.forEach(p => {
         const card = cardsById.get(p.card_id);
         if ('layout_id' in p && 'layout_id' in card) {
