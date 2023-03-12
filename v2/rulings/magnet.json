@@ -1,18 +1,16 @@
 [
   {
     "card_id": "magnet",
-    "date_creation": "2017-05-02 03:09:35",
-    "date_update": "2022-04-24 06:30:33",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": false,
     "question": "If a [Parasite](https://netrunnerdb.com/en/card/01012) with 3 hosted virus counters is moved to a [Magnet](https://netrunnerdb.com/en/card/31044) when it is rezzed, is [Magnet](https://netrunnerdb.com/en/card/31044) trashed?",
-    "answer": "No, the static ability on [Magnet](https://netrunnerdb.com/en/card/31044) is already active before the conditional ability on [Parasite](https://netrunnerdb.com/en/card/01012) can meet its trigger condition.",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "No, the static ability on [Magnet](https://netrunnerdb.com/en/card/31044) is already active before the conditional ability on [Parasite](https://netrunnerdb.com/en/card/01012) can meet its trigger condition."
   },
   {
     "card_id": "magnet",
-    "date_creation": "2022-04-24 06:31:15",
-    "date_update": "2022-04-24 06:31:37",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": false,
     "question": "Can the Runner host a Caïssa program on a [Magnet](https://netrunnerdb.com/en/card/31044) that is already hosting another Caïssa program?",
-    "answer": "No. Subtypes are not abilities and are not lost because of [Magnet](https://netrunnerdb.com/en/card/31044). All the Caïssa programs require themselves to move to ice not already hosting Caïssa, so the Runner cannot move them to [Magnet](https://netrunnerdb.com/en/card/31044) if one is already hosted.\n",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "No. Subtypes are not abilities and are not lost because of [Magnet](https://netrunnerdb.com/en/card/31044). All the Caïssa programs require themselves to move to ice not already hosting Caïssa, so the Runner cannot move them to [Magnet](https://netrunnerdb.com/en/card/31044) if one is already hosted."
   }
 ]

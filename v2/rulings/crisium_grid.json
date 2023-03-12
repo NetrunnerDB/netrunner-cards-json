@@ -1,41 +1,37 @@
 [
   {
     "card_id": "crisium_grid",
-    "date_creation": "2017-04-09 12:09:46",
-    "date_update": "2022-04-24 06:45:34",
+    "date_update": "2021-10-10",
+    "nsg_rules_team_verified": true,
+    "question": "If the Runner uses [Jailbreak](/en/card/30028) to run a server with a rezzed [Crisium Grid](/en/card/31079), will they access an additional card?",
+    "answer": "No. [Jailbreak](/en/card/30028)’s ability that gives an additional access is a delayed conditional ability created by its “If successful” ability. Since [Crisium Grid](/en/card/31079) stops the run from being declared successful, that ability is never resolved."
+  },
+  {
+    "card_id": "crisium_grid",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
     "question": "Can the Runner play [Emergency Shutdown](https://netrunnerdb.com/en/card/31016) on their second click after they ran HQ with an active [Crisium Grid](https://netrunnerdb.com/en/card/31079) that was trashed during the breach?",
-    "answer": "No, the Runner did not make a successful run on HQ due to [Crisium Grid](https://netrunnerdb.com/en/card/31079)’s ability. Trashing [Crisium Grid](https://netrunnerdb.com/en/card/31079) does not retroactively make the run successful.",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "No, the Runner did not make a successful run on HQ due to [Crisium Grid](https://netrunnerdb.com/en/card/31079)’s ability. Trashing [Crisium Grid](https://netrunnerdb.com/en/card/31079) does not retroactively make the run successful."
   },
   {
     "card_id": "crisium_grid",
-    "date_creation": "2021-10-10 21:26:49",
-    "date_update": "2021-10-10 21:26:49",
-    "text_ruling": "If the Runner uses [Jailbreak](/en/card/30028) to run a server with a rezzed [Crisium Grid](/en/card/31079), will they access an additional card?\n>No. [Jailbreak](/en/card/30028)’s ability that gives an additional access is a delayed conditional ability created by its “If successful” ability. Since [Crisium Grid](/en/card/31079) stops the run from being declared successful, that ability is never resolved.",
-    "ruling_source_id": "nsg_rules_team"
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
+    "question": "If the Runner breaches a server that has a rezzed [Crisium Grid](https://netrunnerdb.com/en/card/31079), do they access cards as normal?",
+    "answer": "Yes. Preventing the run from being declared successful only affects abilities that require a successful run, such as the restriction on playing [Emergency Shutdown](https://netrunnerdb.com/en/card/31016)."
   },
   {
     "card_id": "crisium_grid",
-    "date_creation": "2022-04-24 06:46:30",
-    "date_update": "2022-04-24 06:46:30",
-    "question": "If the Runner breaches a server that has a rezzed [Crisium Grid](https://netrunnerdb.com/en/card/31079), do they access cards as normal? ",
-    "answer": "Yes. Preventing the run from being declared successful only affects abilities that require a successful run, such as the restriction on playing [Emergency Shutdown](https://netrunnerdb.com/en/card/31016). ",
-    "ruling_source_id": "nsg_rules_team"
-  },
-  {
-    "card_id": "crisium_grid",
-    "date_creation": "2022-04-24 06:49:48",
-    "date_update": "2022-04-24 06:49:48",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
     "question": "If [Crisium Grid](https://netrunnerdb.com/en/card/31079) is active in the root of HQ and the Runner uses [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023), is the run successful on either Archives or HQ?",
-    "answer": "No, [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023) changes the attacked server while step 6.9.5a of the run is imminent, because the expected effects of that step include the trigger condition of [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023)’s delayed conditional ability, which is that the run on Archives would be declared successful. However, once the attacked server is changed to HQ, the imminent step cannot declare the run successful after all because of [Crisium Grid](https://netrunnerdb.com/en/card/31079)’s ability. The Runner will still breach HQ.",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "No, [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023) changes the attacked server while step 6.9.5a of the run is imminent, because the expected effects of that step include the trigger condition of [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023)’s delayed conditional ability, which is that the run on Archives would be declared successful. However, once the attacked server is changed to HQ, the imminent step cannot declare the run successful after all because of [Crisium Grid](https://netrunnerdb.com/en/card/31079)’s ability. The Runner will still breach HQ."
   },
   {
     "card_id": "crisium_grid",
-    "date_creation": "2022-04-24 06:49:56",
-    "date_update": "2022-04-24 06:49:56",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
     "question": "If [Crisium Grid](https://netrunnerdb.com/en/card/31079) is active in the root of Archives and the Runner uses [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023), what server does the Runner breach and is the run successful?",
-    "answer": "The Runner breaches Archives and the run is not declared successful. Since [Crisium Grid](https://netrunnerdb.com/en/card/31079)’s ability is a static ability and applies immediately, declaring the run successful is never part of the expected effects of step 6.9.5a of the run, so the trigger condition of [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023)’s delayed conditional ability is never met and the ability never resolves.",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "The Runner breaches Archives and the run is not declared successful. Since [Crisium Grid](https://netrunnerdb.com/en/card/31079)’s ability is a static ability and applies immediately, declaring the run successful is never part of the expected effects of step 6.9.5a of the run, so the trigger condition of [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023)’s delayed conditional ability is never met and the ability never resolves."
   }
 ]

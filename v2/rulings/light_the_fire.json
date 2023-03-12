@@ -1,50 +1,44 @@
 [
   {
     "card_id": "light_the_fire",
-    "date_creation": "2022-09-10 20:01:35",
-    "date_update": "2022-09-10 20:01:35",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
     "question": "What happens to agendas during a run made with [Light the Fire!](/en/card/33009)?",
-    "answer": "Any agenda in the root of the attacked server is trashed along with any other cards in that root. There will be no cards of any type left in the root to access when the Runner breaches the attacked server.\n",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "Any agenda in the root of the attacked server is trashed along with any other cards in that root. There will be no cards of any type left in the root to access when the Runner breaches the attacked server."
   },
   {
     "card_id": "light_the_fire",
-    "date_creation": "2022-09-10 20:03:40",
-    "date_update": "2022-09-10 20:03:40",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
     "question": "Does [Aumakua](/en/card/12104) gain a virus counter when successfully running a server with [Light the Fire!](/en/card/33009)?",
-    "answer": "As long as the server is protected by ice, yes. You still breach the server when using [Light the Fire!](/en/card/33009), unless the server itself ceases to exist. Usually, there will be no cards to access during that breach, but [Aumakua](/en/card/12104)’s trigger condition is still met.",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "As long as the server is protected by ice, yes. You still breach the server when using [Light the Fire!](/en/card/33009), unless the server itself ceases to exist. Usually, there will be no cards to access during that breach, but [Aumakua](/en/card/12104)’s trigger condition is still met."
   },
   {
     "card_id": "light_the_fire",
-    "date_creation": "2022-09-10 20:05:33",
-    "date_update": "2022-09-11 03:35:28",
-    "question": "Can the Runner gain credits from [Security Testing](/en/card/31024) and trash the cards due to [Light the Fire!](/en/card/33009)?",
-    "answer": "Yes, you still breach the server when using [Light the Fire!](/en/card/33009). You can combine the breach replacement effect and the [Light the Fire!](/en/card/33009) trash effect.",
-    "ruling_source_id": "nsg_rules_team"
-  },
-  {
-    "card_id": "light_the_fire",
-    "date_creation": "2022-09-10 20:07:44",
-    "date_update": "2022-09-10 20:11:51",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
     "question": "If the Runner uses [Light the Fire!](/en/card/33009) to run a server that has a [Full Immersion RecStudio](/en/card/10108) in the root, hosting two cards, do the hosted cards lose their abilities? What happens to the hosted cards once [Full Immersion RecStudio](/en/card/10108) is trashed?",
-    "answer": "Cards hosted on [Full Immersion RecStudio](/en/card/10108) are in the root of the server, and lose their abilities.  All cards in the root of the attacked server, including the hosted cards, will be trashed by [Light the Fire!](/en/card/33009).",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "Cards hosted on [Full Immersion RecStudio](/en/card/10108) are in the root of the server, and lose their abilities.  All cards in the root of the attacked server, including the hosted cards, will be trashed by [Light the Fire!](/en/card/33009)."
   },
   {
     "card_id": "light_the_fire",
-    "date_creation": "2022-09-10 20:08:27",
-    "date_update": "2022-09-10 20:08:27",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
     "question": "If the attacked server changes to a central server during a run made with [Light the Fire!](/en/card/33009), what happens?",
-    "answer": "When the run is declared successful, the Runner will trash all upgrades in the root of the new attacked server. They will breach and access cards in the server’s corresponding zone normally.",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "When the run is declared successful, the Runner will trash all upgrades in the root of the new attacked server. They will breach and access cards in the server’s corresponding zone normally."
   },
   {
     "card_id": "light_the_fire",
-    "date_creation": "2022-09-10 20:11:03",
-    "date_update": "2022-09-10 20:11:03",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
     "question": "How does [Light the Fire!](/en/card/33009) affect a remote server with an advanced [NGO Front](/en/card/21039)?",
-    "answer": "Once the Runner triggers [Light the Fire!](/en/card/33009)’s ability, there is no opportunity for the Corp to use [NGO Front](/en/card/21039) before the ability begins to resolve. If the run is made against the server with [NGO Front](/en/card/21039) in its root, the Corp will not be able to use that [NGO Front](/en/card/21039) until after the run ends, and then only if it is still installed. However, the Corp does have the opportunity to use [NGO Front](/en/card/21039) in the paid ability window before the Runner takes the action on [Light the Fire!](/en/card/33009). The Runner cannot use [Light the Fire!](/en/card/33009) immediately after installing it without giving the Corp an opportunity to trigger paid abilities. ",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "Once the Runner triggers [Light the Fire!](/en/card/33009)’s ability, there is no opportunity for the Corp to use [NGO Front](/en/card/21039) before the ability begins to resolve. If the run is made against the server with [NGO Front](/en/card/21039) in its root, the Corp will not be able to use that [NGO Front](/en/card/21039) until after the run ends, and then only if it is still installed. However, the Corp does have the opportunity to use [NGO Front](/en/card/21039) in the paid ability window before the Runner takes the action on [Light the Fire!](/en/card/33009). The Runner cannot use [Light the Fire!](/en/card/33009) immediately after installing it without giving the Corp an opportunity to trigger paid abilities."
+  },
+  {
+    "card_id": "light_the_fire",
+    "date_update": "2022-09-11",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Runner gain credits from [Security Testing](/en/card/31024) and trash the cards due to [Light the Fire!](/en/card/33009)?",
+    "answer": "Yes, you still breach the server when using [Light the Fire!](/en/card/33009). You can combine the breach replacement effect and the [Light the Fire!](/en/card/33009) trash effect."
   }
 ]

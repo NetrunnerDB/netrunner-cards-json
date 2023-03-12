@@ -1,9 +1,9 @@
 [
   {
     "card_id": "asteroid_belt",
-    "date_creation": "2021-10-09 23:31:22",
-    "date_update": "2021-10-09 23:31:22",
-    "text_ruling": "If an [Asteroid Belt](07012) has 4 hosted advancement counters, how much does it cost to rez it during a run made with [Tread Lightly](30012)?\n>It would cost 0[c]. To determine what a cost is when effects are modifying its value, start with the default value for that cost ([Asteroid Belt](07012)’s printed rez cost is 9[c]), apply each effect that increases the cost ([Tread Lightly](30012) adds 3[c]), and then apply each effect that lowers the cost ([Asteroid Belt](07012)’s ability subtracts 3[c] for each hosted advancement counter).\n\n>9[c] + 3[c] – (3[c] ✕ 4) = 12[c] – 12[c] = 0[c].\n",
-    "ruling_source_id": "nsg_rules_team"
+    "date_update": "2021-10-09",
+    "nsg_rules_team_verified": false,
+    "question": "If an [Asteroid Belt](07012) has 4 hosted advancement counters, how much does it cost to rez it during a run made with [Tread Lightly](30012)?",
+    "answer": "It would cost 0[c]. To determine what a cost is when effects are modifying its value, start with the default value for that cost ([Asteroid Belt](07012)’s printed rez cost is 9[c]), apply each effect that increases the cost ([Tread Lightly](30012) adds 3[c]), and then apply each effect that lowers the cost ([Asteroid Belt](07012)’s ability subtracts 3[c] for each hosted advancement counter)."
   }
 ]

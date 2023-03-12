@@ -1,34 +1,30 @@
 [
   {
     "card_id": "sneakdoor_beta",
-    "date_creation": "2022-04-24 18:47:07",
-    "date_update": "2022-04-24 18:47:07",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
     "question": "If [Crisium Grid](https://netrunnerdb.com/en/card/31079) is active in the root of HQ and the Runner uses [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023), is the run successful on either Archives or HQ?",
-    "answer": "No, [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023) changes the attacked server while step 6.9.5a of the run is imminent, because the expected effects of that step include the trigger condition of [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023)’s delayed conditional ability, which is that the run on Archives would be declared successful. However, once the attacked server is changed to HQ, the imminent step cannot declare the run successful after all because of [Crisium Grid](https://netrunnerdb.com/en/card/31079)’s ability. The Runner will still breach HQ.",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "No, [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023) changes the attacked server while step 6.9.5a of the run is imminent, because the expected effects of that step include the trigger condition of [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023)’s delayed conditional ability, which is that the run on Archives would be declared successful. However, once the attacked server is changed to HQ, the imminent step cannot declare the run successful after all because of [Crisium Grid](https://netrunnerdb.com/en/card/31079)’s ability. The Runner will still breach HQ."
   },
   {
     "card_id": "sneakdoor_beta",
-    "date_creation": "2022-04-24 18:47:16",
-    "date_update": "2022-04-24 18:47:16",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
     "question": "If [Crisium Grid](https://netrunnerdb.com/en/card/31079) is active in the root of Archives and the Runner uses [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023), what server does the Runner breach and is the run successful?",
-    "answer": "The Runner breaches Archives and the run is not declared successful. Since [Crisium Grid](https://netrunnerdb.com/en/card/31079)’s ability is a static ability and applies immediately, declaring the run successful is never part of the expected effects of step 6.9.5a of the run, so the trigger condition of [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023)’s delayed conditional ability is never met and the ability never resolves.",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "The Runner breaches Archives and the run is not declared successful. Since [Crisium Grid](https://netrunnerdb.com/en/card/31079)’s ability is a static ability and applies immediately, declaring the run successful is never part of the expected effects of step 6.9.5a of the run, so the trigger condition of [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023)’s delayed conditional ability is never met and the ability never resolves."
   },
   {
     "card_id": "sneakdoor_beta",
-    "date_creation": "2022-04-24 18:47:26",
-    "date_update": "2022-04-24 18:47:26",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
     "question": "If [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023) is trashed during a run it initiated, is the attacked server still changed to HQ?",
-    "answer": "Yes, once the ability is initiated, resolving its effects becomes independent from the source card.",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "Yes, once the ability is initiated, resolving its effects becomes independent from the source card."
   },
   {
     "card_id": "sneakdoor_beta",
-    "date_creation": "2022-04-24 18:47:35",
-    "date_update": "2022-04-24 18:47:35",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
     "question": "If the Runner uses [Sneakdoor Beta](/en/card/31023) to run Archives and then switch to HQ, does [Red Team](/en/card/30018) count that as a run on Archives or HQ?",
-    "answer": "Archives. [Red Team](/en/card/30018) cares about the server the Runner declared to be the attacked server at the beginning of the run. Therefore, it will always count a run made with [Sneakdoor Beta](/en/card/31023) as a run against Archives.",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "Archives. [Red Team](/en/card/30018) cares about the server the Runner declared to be the attacked server at the beginning of the run. Therefore, it will always count a run made with [Sneakdoor Beta](/en/card/31023) as a run against Archives."
   }
 ]

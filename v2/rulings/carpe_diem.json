@@ -1,26 +1,23 @@
 [
   {
     "card_id": "carpe_diem",
-    "date_creation": "2022-09-10 20:28:59",
-    "date_update": "2022-09-10 20:28:59",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
     "question": "Does the Runner’s mark stay if all mark cards leave play, or does it leave and return when a new mark card comes into play?",
-    "answer": "When you identify your mark, that server becomes your mark for the turn, even if the card that instructed you to identify your mark leaves play. If an event instructs you to identify your mark, that server continues to be your mark for the remainder of the turn after that event resolves.",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "When you identify your mark, that server becomes your mark for the turn, even if the card that instructed you to identify your mark leaves play. If an event instructs you to identify your mark, that server continues to be your mark for the remainder of the turn after that event resolves."
   },
   {
     "card_id": "carpe_diem",
-    "date_creation": "2022-09-10 20:29:11",
-    "date_update": "2022-09-10 20:29:11",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
     "question": "If the Runner has multiple “mark” cards, how do they identify their mark?",
-    "answer": "The first time each turn the Runner resolves an instruction to identify their mark, they will randomly choose a central server. That server becomes their mark for the entire turn. Resolving another instruction to identify their mark will have no effect.",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "The first time each turn the Runner resolves an instruction to identify their mark, they will randomly choose a central server. That server becomes their mark for the entire turn. Resolving another instruction to identify their mark will have no effect."
   },
   {
     "card_id": "carpe_diem",
-    "date_creation": "2022-09-10 20:30:20",
-    "date_update": "2022-09-10 20:30:20",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
     "question": "If the Runner makes a successful run on a server that later becomes their mark with [Carpe Diem](/en/card/33012), will “the first time each turn you make a successful run on your mark” abilities resolve?",
-    "answer": "No. To meet these abilities’ trigger conditions, the Runner must make a successful run on a server while that server is their mark. A previous successful run made before the attacked server became the Runner’s mark will not retroactively become a run on their mark. The Runner can still trigger these abilities by running the server again after it becomes their mark. ",
-    "ruling_source_id": "nsg_rules_team"
+    "answer": "No. To meet these abilities’ trigger conditions, the Runner must make a successful run on a server while that server is their mark. A previous successful run made before the attacked server became the Runner’s mark will not retroactively become a run on their mark. The Runner can still trigger these abilities by running the server again after it becomes their mark."
   }
 ]

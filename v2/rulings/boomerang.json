@@ -1,9 +1,9 @@
 [
   {
     "card_id": "boomerang",
-    "date_creation": "2020-02-21 22:06:58",
-    "date_update": "2020-03-20 21:20:29",
-    "text_ruling": "####[Null Signal](https://nullsignal.games) [Uprising Release Notes](https://nullsignal.games/files/Uprising_Release_Notes.pdf) [Null Signal Rules Team]\nIf the ice chosen for Boomerang is derezzed or moved, can Boomerang still be used?\n>Yes. Boomerang can keep track of which piece of ice was chosen as long as both Boomerang and the ice remain installed.\n\nIf the ice chosen for Boomerang is uninstalled and then reinstalled, can Boomerang still be used?\n>No. Once a card is uninstalled, it is considered a new card. Boomerang cannot tell that ice installed later is the same piece of ice as it chose.\n\nIf Boomerang is installed facedown and then turned faceup with Assimilator, does the Runner have to choose a piece of ice?\n>No. The ice restriction is created as part of the \"when installed\" ability. Turning a card faceup does not change its installed status, so in this case the ability never meets its trigger condition and Boomerang can be used during any encounter.\n\nIf Boomerang is used and the run is successful, but that Boomerang is not in the heap when the run ends, can the Runner shuffle another Boomerang from their heap into their stack?\n>Yes. The phrase \"a copy of Boomerang\" refers to any card named Boomerang. The game does not distinguish between the copy used to create the ability and any other copy that might be in the heap.\n\nIf Boomerang is used and the run is successful, and Doppelganger is used to make another run, when is Boomerang shuffled into the stack?\n>Both Doppelganger's ability and the ability shuffling a Boomerang into the stack meet their trigger conditions at the same time. The Runner can trigger the Boomerang ability first and shuffle before making the second run. However, if the Runner triggers Doppelganger first, the entire additional run is resolved before returning to the reaction window where the Boomerang ability is pending, at which point the Runner is able to trigger that ability and shuffle a copy of Boomerang from their heap into their stack.",
-    "ruling_source_id": "nsg_rules_team"
+    "date_update": "2020-03-20",
+    "nsg_rules_team_verified": false,
+    "question": "####[NISEI](https://nisei.net) [Uprising Release Notes](https://nisei.net/files/Uprising_Release_Notes.pdf) [NISEI Rules Team]\nIf the ice chosen for Boomerang is derezzed or moved, can Boomerang still be used?",
+    "answer": "Yes. Boomerang can keep track of which piece of ice was chosen as long as both Boomerang and the ice remain installed.\n\nIf the ice chosen for Boomerang is uninstalled and then reinstalled, can Boomerang still be used?"
   }
 ]

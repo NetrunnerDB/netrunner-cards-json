@@ -1,16 +1,15 @@
 [
   {
     "card_id": "aniccam",
-    "date_creation": "2020-03-09 20:31:06",
-    "date_update": "2020-03-09 20:38:54",
-    "ruling_source_id": "nsg_rules_team",
-    "text_ruling": "####[Null Signal](https://nullsignal.games) [Uprising Release Notes](https://nullsignal.games/files/Uprising_Release_Notes.pdf) [Null Signal Rules Team]\nCan Aniccam cause the Runner to draw a card after playing an event?\n>Yes, unless the event removes itself from the game or otherwise does not follow normal procedure. Normally, events are trashed after resolving.\n\nCan Aniccam cause the Runner to draw a card after an event is hit by damage?\n>Yes. Damage causes the Runner to trash cards.\n\nIf an event is installed facedown and then is trashed, can Aniccam cause the Runner to draw a card?\n>No. Runner cards installed facedown don't have a card type or any other properties, and they are not turned faceup until after being trashed.\n\nIf a Street Peddler is trashed, and 1 or more of the hosted cards is an event, can Aniccam cause the Runner to draw a card?\n>Yes. The cards hosted on Street Peddler are not installed, so the rules for Runner cards installed facedown don't apply. Note also that if Street Peddler is trashed due to its own ability, cards hosted on it are set aside until that ability finishes resolving. The Runner must choose which card to install (and complete the installation) before trashing the other cards and drawing from Aniccam.\n\nIf the Runner plays Modded and uses it to install Aniccam, can Aniccam cause the Runner to draw a card?\n>Yes. The installation completes and Aniccam becomes active as part of resolving Modded's play abilities in step 8.6.6 of playing an event. Modded is trashed after this, in step 8.6.7, so Aniccam sees its trigger condition being met.\n\nDoes Aniccam cause the Runner to draw a card when they use the [trash] ability from On the Lam?\n>No. On the Lam is a condition counter while it is hosted on a resource, so it is trashed as a condition counter and doesn't return to being an event until after it enters the heap."
+    "date_update": "2020-03-09",
+    "nsg_rules_team_verified": false,
+    "question": "####[NISEI](https://nisei.net) [Uprising Release Notes](https://nisei.net/files/Uprising_Release_Notes.pdf) [NISEI Rules Team]\nCan Aniccam cause the Runner to draw a card after playing an event?",
+    "answer": "Yes, unless the event removes itself from the game or otherwise does not follow normal procedure. Normally, events are trashed after resolving.\n\nCan Aniccam cause the Runner to draw a card after an event is hit by damage?"
   },
   {
     "card_id": "aniccam",
-    "date_creation": "2022-04-24 06:51:30",
-    "date_update": "2022-04-24 06:51:30",
-    "ruling_source_id": "nsg_rules_team",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": false,
     "question": "If you play [Networking](https://netrunnerdb.com/en/card/31020) and choose to add it to your grip, do you draw 1 card with [Aniccam](https://netrunnerdb.com/en/card/26084)?",
     "answer": "No, [Networking](https://netrunnerdb.com/en/card/31020) adding itself to HQ prevents the default trashing of a resolved event."
   }
