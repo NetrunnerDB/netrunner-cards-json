@@ -7,12 +7,10 @@ console.log('Fetching rulings data from NRDB v2 API...');
 const res = fetch("https://netrunnerdb.com/api/2.0/public/rulings").json();
 
 const rulings = res.data;
-console.log(rulings);
 
 const rulings_by_id = new Map<string, Array<any>>();
 
 rulings.forEach(r => {
-  console.log(`${r.title} => ${textToId(r.title)}`);
   const id = textToId(r.title);
   if (!rulings_by_id.has(id)) {
     rulings_by_id.set(id, []);
@@ -30,17 +28,14 @@ rulings.forEach(r => {
   rulings_by_id.get(id)?.push(ruling);
 });
 
-console.log('Writing rulings to disk')
+console.log('Writing rulings to disk...')
 const rulingsDir = resolve(__dirname, '..', 'v2', 'rulings');
-console.log(rulingsDir);
-console.log(rulings_by_id.size);
 rulings_by_id.forEach((rulings, id) => {
   const filename = resolve(rulingsDir, `${id}.json`);
-  console.log(`Writing ${rulings.length} rulings for ${id} to ${filename}`);
   rulings = rulings.sort((a, b) => a.date_update.localeCompare(b.date_update) || a.nsg_rules_team_verified > b.nsg_rules_team_verified);
   fs.writeFile(filename, JSON.stringify(rulings), err => {
     if (err) {
-      console.error(err);
+      console.error(`Error writing ${rulings.length} rulings for ${id} to ${filename}: ${err}`);
     }
   });
 });
