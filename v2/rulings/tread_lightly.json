@@ -1,0 +1,9 @@
+[
+  {
+    "card_id": "tread_lightly",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "If an [Asteroid Belt](/en/card/07012) has 4 hosted advancement counters, how much does it cost to rez it during a run made with [Tread Lightly](/en/card/30012)?",
+    "answer": "It would cost 0<span class=\"icon icon-credit\"></span>. To determine what a cost is when effects are modifying its value, start with the default value for that cost ([Asteroid Belt](/en/card/07012)’s printed rez cost is 9<span class=\"icon icon-credit\"></span>), apply each effect that increases the cost ([Tread Lightly](/en/card/30012) adds 3<span class=\"icon icon-credit\"></span>), and then apply each effect that lowers the cost ([Asteroid Belt](/en/card/07012)’s ability subtracts 3<span class=\"icon icon-credit\"></span> for each hosted advancement counter)."
+  }
+]

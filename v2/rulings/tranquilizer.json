@@ -1,0 +1,30 @@
+[
+  {
+    "card_id": "tranquilizer",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "What happens to [Tranquilizer](/en/card/30017) after it derezzes its host ice?",
+    "answer": "[Tranquilizer](/en/card/30017) remains installed and hosted on the derezzed ice and keeps its virus counters. If that ice is later rezzed again, [Tranquilizer](/en/card/30017) could potentially derez it again."
+  },
+  {
+    "card_id": "tranquilizer",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "If [Tranquilizer](/en/card/30017) gets to 3 virus counters in the middle of the turn, does the ice derez?",
+    "answer": "No. [Tranquilizer](/en/card/30017) can only derez ice when its ability resolves: when it is installed and when the Runner’s turn begins."
+  },
+  {
+    "card_id": "tranquilizer",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "Suppose the Runner has [Cookbook](/en/card/30009) and [Hivemind](/en/card/07042) installed, with 1 virus counter on [Hivemind](/en/card/07042). If they then install [Tranquilizer](/en/card/30017), is the host ice derezzed immediately? Or does it wait for the next check at the beginning of the Runner's next turn?",
+    "answer": "By managing their abilities carefully, the Runner can choose whether to derez the ice right away or not. [Hivemind](/en/card/07042)’s second ability is a static ability, so it always applies as soon as [Tranquilizer](/en/card/30017) is installed. But the conditional abilities on [Cookbook](/en/card/30009) and [Tranquilizer](/en/card/30017) meet their trigger conditions at the same time, so the Runner can choose the order to resolve them. If they resolve [Tranquilizer](/en/card/30017) first, it will only have 2 hosted virus counters (including the one shared from [Hivemind](/en/card/07042)) at the time that the number of counters is checked. If they resolve [Cookbook](/en/card/30009) first, then by the time [Tranquilizer](/en/card/30017) resolves, it will have 3 hosted virus counters and will derez the ice."
+  },
+  {
+    "card_id": "tranquilizer",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "What happens if the Corp rezzes ice that is hosting a [Tranquilizer](/en/card/30017) with 3 virus counters?",
+    "answer": "The ice remains rezzed. If [Tranquilizer](/en/card/30017) still has 3 or more virus counters at the start of the Runner’s turn, then it will become derezzed again."
+  }
+]

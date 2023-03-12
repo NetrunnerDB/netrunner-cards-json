@@ -1,0 +1,23 @@
+[
+  {
+    "card_id": "weyland_consortium_built_to_last",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "What does “if it had no advancement counters” mean?",
+    "answer": "Usually, it simply refers to the first time you advance a card."
+  },
+  {
+    "card_id": "weyland_consortium_built_to_last",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp is playing [Weyland Consortium: Built to Last](/en/card/30059) and uses [Seamless Launch](/en/card/30040) to place 2 advancement counters at the same time, how many credits do they gain?",
+    "answer": "None. Placing or moving advancement counters directly does not count as advancing a card."
+  },
+  {
+    "card_id": "weyland_consortium_built_to_last",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp is playing [Weyland Consortium: Built to Last](/en/card/30059) and uses [Success](/en/card/12078) to advance a card multiple times at once, how many credits do they gain?",
+    "answer": "Success advances its target multiple times in sequence, not simultaneously. Only the first advancement can meet [Weyland Consortium: Built to Last](/en/card/30059)'s trigger condition, so the Corp can gain 2<span class=\"icon icon-credit\"></span>."
+  }
+]

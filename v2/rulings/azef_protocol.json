@@ -1,0 +1,23 @@
+[
+  {
+    "card_id": "azef_protocol",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp trashes a card with a printed rez cost of 2 to pay the additional cost to score [Azef Protocol](/en/card/33058), can they use [Ob Superheavy Logistics](/en/card/33057) to install [Malapert Data Vault](/en/card/30066) into the root of the same server as the [Azef Protocol](/en/card/33058)? Can they then resolve [Malapert Data Vault](/en/card/30066)’s ability?",
+    "answer": "Yes and yes. When the Corp pays the additional cost to score [Azef Protocol](/en/card/33058), a checkpoint occurs before the score effect itself is resolved.  [Ob Superheavy Logistics](/en/card/33057) triggers at this checkpoint and resolves in time for [Malapert Data Vault](/en/card/30066) to be active when its trigger condition is met."
+  },
+  {
+    "card_id": "azef_protocol",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Corp use [Ob Superheavy Logistics](/en/card/33057) while resolving the additional cost on [Azef Protocol](/en/card/33058) to install an asset in the root of the same server as [Azef Protocol](/en/card/33058)?",
+    "answer": "It is not possible to do this and still score the [Azef Protocol](/en/card/33058). When the Corp pays the additional cost to score [Azef Protocol](/en/card/33058), a checkpoint occurs before the score effect itself is resolved.  [Ob Superheavy Logistics](/en/card/33057) triggers at this checkpoint and resolves fully before the game continues attempting to resolve scoring. If the Corp chooses to install an asset in the root of the server that currently contains [Azef Protocol](/en/card/33058), they must trash [Azef Protocol](/en/card/33058) as part of installing the asset. This is legal, but when the reaction window closes and the game proceeds, the score effect won't be able to find [Azef Protocol](/en/card/33058) because it is no longer installed."
+  },
+  {
+    "card_id": "azef_protocol",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp has [Azef Protocol](/en/card/33058) with 2 advancement counters in the root of a server with a rezzed [SanSan City Grid](/en/card/31069), can they trash the [SanSan City Grid](/en/card/31069) to score the [Azef Protocol](/en/card/33058)?",
+    "answer": "No, trashing the [SanSan City Grid](/en/card/31069) would result in no longer meeting the requirement for scoring the [Azef Protocol](/en/card/33058)."
+  }
+]

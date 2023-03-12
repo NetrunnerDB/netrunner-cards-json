@@ -1,0 +1,9 @@
+[
+  {
+    "card_id": "colossus",
+    "date_update": "2020-04-23",
+    "nsg_rules_team_verified": false,
+    "question": "####[NISEI](https://nisei.net) [Uprising Release Notes](https://nisei.net/files/Uprising_Release_Notes.pdf) [NISEI Rules Team]\nThis card is a reprint. Has anything changed about how Colossus works?",
+    "answer": "Yes. The wording of Colossus's subroutines has been updated to remove the parentheses. Each subroutine now uses a conditional replacement effect, which in most cases achieves the same result. But effects such as Loki that refer to subroutines on Colossus now interact with it differently. If Loki gains a subroutine from Colossus, it will now check the number of advancement tokens on itself (Loki) to determine the effect the subroutine should have. Previously, it was unclear how to interpret the two different instructions in the subroutine without the linked ability explaining the parenthetical text."
+  }
+]

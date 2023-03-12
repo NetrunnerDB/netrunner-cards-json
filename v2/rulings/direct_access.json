@@ -1,0 +1,16 @@
+[
+  {
+    "card_id": "direct_access",
+    "date_update": "2019-04-27",
+    "nsg_rules_team_verified": false,
+    "question": "####[NISEI](http://nisei.net) [Downfall Release Notes](http://nisei.net/products/Downfall/DFReleaseNotes#QandAforDownfall) [NISEI Rules Team]\nPlaying against Replicating Perfection, can the Runner use Direct Access to run on a remote server if they have not run on any central servers yet that turn?",
+    "answer": "Yes. The identities lose their abilities as soon as Direct Access becomes active, before the run begins and the attacked server is declared.\n\nPlaying as Apex, can the Runner use DaVinci to install a non-virtual resource during a Direct Access run?"
+  },
+  {
+    "card_id": "direct_access",
+    "date_update": "2019-12-27",
+    "nsg_rules_team_verified": false,
+    "question": "If the Runner uses Direct Access to run a remote server against Replicating Perfection, do they have to run a central server to run another remote server?",
+    "answer": "Yes. Replicating Perfection must register a central server run when they regain their ability, before a remote server can be attacked."
+  }
+]

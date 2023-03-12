@@ -1,0 +1,9 @@
+[
+  {
+    "card_id": "algo_trading",
+    "date_update": "2017-04-12",
+    "nsg_rules_team_verified": false,
+    "question": "####UFAQ [Michael Boggs]\nDoes Algo Trading start getting 2<span class=\"icon icon-credit\"></span> from the bank on the second or third turn after it is installed?",
+    "answer": "Algo Trading’s second ability can start putting 2<span class=\"icon icon-credit\"></span> on it the second turn after it is installed. Both abilities meet their trigger condition at the same time each turn, so the Runner can choose the order in which they trigger. The second ability does not check how many credits are on Algo Trading until it resolves, so if the Runner chooses to trigger the first ability before the second ability and this brings the number of credits on it up to 6, then the second ability will be able to resolve."
+  }
+]

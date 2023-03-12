@@ -1,0 +1,30 @@
+[
+  {
+    "card_id": "femme_fatale",
+    "date_update": "2022-04-23",
+    "nsg_rules_team_verified": false,
+    "question": "Does [Femme Fatale](https://netrunnerdb.com/en/card/31022) need to match strength to use its bypass ability?",
+    "answer": "No, the bypass ability does not have an interface flag, so there is no prerequisite of matching the strength of the encountered ice in order to use that ability."
+  },
+  {
+    "card_id": "femme_fatale",
+    "date_update": "2022-04-23",
+    "nsg_rules_team_verified": false,
+    "question": "Can you use the credits hosted on [Cyberfeeder](https://netrunnerdb.com/en/card/25008) to pay for [Femme Fatale](https://netrunnerdb.com/en/card/31022)’s bypass ability?",
+    "answer": "Yes. Since the bypass ability is an optional ability, you are considered to be using the ability. The credits from [Cyberfeeder](https://netrunnerdb.com/en/card/25008) can be spent to pay for the use of that ability."
+  },
+  {
+    "card_id": "femme_fatale",
+    "date_update": "2022-04-23",
+    "nsg_rules_team_verified": false,
+    "question": "When [Femme Fatale](https://netrunnerdb.com/en/card/31022) is reinstalled, can the ice chosen when [Femme Fatale](https://netrunnerdb.com/en/card/31022) was first installed be bypassed with [Femme Fatale](31022)’s ability?",
+    "answer": "No, the choice of ice is only retained for as long as [Femme Fatale](https://netrunnerdb.com/en/card/31022) is installed. When it is uninstalled, the choice is forgotten. When you reinstall [Femme Fatale](https://netrunnerdb.com/en/card/31022), it can only bypass the ice chosen during its most recent installation."
+  },
+  {
+    "card_id": "femme_fatale",
+    "date_update": "2022-04-23",
+    "nsg_rules_team_verified": false,
+    "question": "When an ice chosen for [Femme Fatale](https://netrunnerdb.com/en/card/31022)'s ability is uninstalled, can it be bypassed with [Femme Fatale](https://netrunnerdb.com/en/card/31022)'s ability after it has been reinstalled later in the game?",
+    "answer": "No. The newly installed ice is a different game object than the originally installed ice. The chosen ice in [Femme Fatale](https://netrunnerdb.com/en/card/31022)’s ability only applies to the original object, which doesn’t exist anymore."
+  }
+]

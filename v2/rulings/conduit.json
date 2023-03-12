@@ -1,0 +1,23 @@
+[
+  {
+    "card_id": "conduit",
+    "date_update": "2021-10-10",
+    "nsg_rules_team_verified": true,
+    "question": "If the Runner uses [Conduit](/en/card/30024)'s paid ability and makes a successful run on R&D, do they put a virus counter on [Conduit](/en/card/30024) before or after they breach R&D?",
+    "answer": "After. A run is still in progress while the attacked server is being breached, and [Conduit](/en/card/30024)’s first ability waits for the run to end."
+  },
+  {
+    "card_id": "conduit",
+    "date_update": "2021-10-10",
+    "nsg_rules_team_verified": true,
+    "question": "If the Runner uses [Conduit](/en/card/30024)’s action ability to run R&D, but [Conduit](/en/card/30024) is trashed before R&D is breached, how many additional cards does the Runner access?",
+    "answer": "[Conduit](/en/card/30024)’s action ability checks the number of hosted counters at the time its nested “when you breach R&D” ability resolves. If [Conduit](/en/card/30024) is trashed before this, there are no longer any hosted counters, so the Runner will not access any additional cards."
+  },
+  {
+    "card_id": "conduit",
+    "date_update": "2021-10-10",
+    "nsg_rules_team_verified": true,
+    "question": "The Runner uses [Conduit](/en/card/30024)'s action ability while there are 2 virus counters on [Conduit](/en/card/30024). The second card the Runner accesses is Cyberdex Virus Suite and the Corp purges virus counters. Does the Runner access a third card in R&D?",
+    "answer": "Yes. The limit to how many cards the Runner can access from R&D is determined at the beginning of breaching R&D. Once accessing cards begins, changing the number of virus counters on [Conduit](/en/card/30024) will have no effect on the breach already in progress."
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "card_id": "mayfly",
+    "date_update": "2021-10-10",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Runner use [Mayfly](/en/card/30032) to break more than one subroutine in a run?",
+    "answer": "Yes. Each time [Mayfly](/en/card/30032)’s interface ability resolves, it creates a delayed conditional ability that will wait until the end of the run to trash [Mayfly](/en/card/30032), but extra copies of this ability that try to resolve after [Mayfly](/en/card/30032) is already trashed will simply do nothing."
+  }
+]

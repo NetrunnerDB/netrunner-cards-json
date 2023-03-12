@@ -1,0 +1,9 @@
+[
+  {
+    "card_id": "en_passant",
+    "date_update": "2022-04-22",
+    "nsg_rules_team_verified": false,
+    "question": "Can the Runner play [En Passant](https://netrunnerdb.com/en/card/31003) to trash a piece of ice that was passed while rezzed and then subsequently derezzed, such as by playing [Emergency Shutdown](https://netrunnerdb.com/en/card/31016)?",
+    "answer": "Yes. [En Passant](https://netrunnerdb.com/en/card/31003) only cares about the current rezzed or unrezzed status of its target and whether it was passed during the Runner’s last run, not whether it happened to be rezzed at any point during that run."
+  }
+]

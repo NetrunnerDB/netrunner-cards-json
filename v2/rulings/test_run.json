@@ -1,0 +1,9 @@
+[
+  {
+    "card_id": "test_run",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
+    "question": "Why does [Test Run](https://netrunnerdb.com/en/card/31028) now say \"has not been uninstalled\"?",
+    "answer": "The lingering effect to place the program on top of the stack only affects the object installed with this event, not the program as a whole. If the Runner reinstalls that program, for example with [Rejig](https://netrunnerdb.com/en/card/26029), then the lingering effect does not apply to the newly installed object anymore. This wording was chosen to clarify this interaction; this is not a change in the functionality of the card."
+  }
+]

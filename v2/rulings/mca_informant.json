@@ -1,0 +1,16 @@
+[
+  {
+    "card_id": "mca_informant",
+    "date_update": "2017-04-12",
+    "nsg_rules_team_verified": false,
+    "question": "####UFAQ [Damon Stone]\nHow does \"After you resolve this operation, end your action phase.\" on terminal operations like MCA Informant work?",
+    "answer": "Immediately after the operation resolves and is trashed from playing it, \"after you resolve this operation\" triggers meet their trigger condition. Ending the action phase then advances the game to the discard phase. This skips the paid ability window that would normally follow the end of an action, ceases the resolution of any other pending abilities or effects, and invalidates any conditional abilities. If the operation was played as part of a card ability, any remaining effects from that card ability immediately stop resolving as well.\n\nIf the Corp plays MCA Informant as the first operation for [Subcontract](/en/card/10113), what happens?"
+  },
+  {
+    "card_id": "mca_informant",
+    "date_update": "2023-01-09",
+    "nsg_rules_team_verified": false,
+    "question": "####UFAQ [Michael Boggs]\nWhile MCA Informant is installed as a condition counter, can the tag be removed if the Runner has no tag tokens?",
+    "answer": "No. The Runner is considered to have an additional tag, but it cannot be manipulated by card abilities."
+  }
+]

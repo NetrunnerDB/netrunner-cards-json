@@ -1,0 +1,149 @@
+[
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp trashes a [Border Control](/en/card/23054) to end the run and then uses [Ob Superheavy Logistics](/en/card/33057) to search for an [Anemone](/en/card/33043), can they also trigger [Anemone](/en/card/33043)'s rez ability?",
+    "answer": "Yes, as long as the [Anemone](/en/card/33043) is installed protecting the attacked server. The search effect from [Ob Superheavy Logistics](/en/card/33057) and any resulting chain reactions are resolved immediately after paying the cost of [Border Control](/en/card/23054)'s ability, before the \"End the run.\" instruction resolves, so the condition on [Anemone](/en/card/33043)'s ability can still be met."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Corp use [Ob Superheavy Logistics](/en/card/33057) to search R&D for a card when they trash a card with rez cost 0?",
+    "answer": "Yes, but since there are no cards with a printed rez cost less than 0, they will fail to find any cards and simply shuffle R&D. Note that the ability was still used, even if no card was installed, so it cannot be used again that turn."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp trashes [Rashida Jaheem](/en/card/21080) and triggers [Ob Superheavy Logistics](/en/card/33057) to shuffle R&D, does the shuffle happen before or after they draw 3 cards?",
+    "answer": "The shuffle happens before drawing cards. Trashing [Rashida Jaheem](/en/card/21080) is a nested cost, which requires a checkpoint to occur after it is paid. [Ob Superheavy Logistics](/en/card/33057) triggers at this checkpoint and resolves before the rest of [Rashida Jaheem](/en/card/21080)’s ability resolves."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Corp use [Ob Superheavy Logistics](/en/card/33057) to search for [Daily Quest](/en/card/26048) when not in their action phase? What happens if the Corp tries to install and rez a card that cannot be rezzed?",
+    "answer": "The Corp can search for and install [Daily Quest](/en/card/26048), but if it is not their action phase, it will remain unrezzed. The Corp must reveal the card to show that it cannot be rezzed."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp trashes a card with a printed rez cost of 2 to pay the additional cost to score [Azef Protocol](/en/card/33058), can they use [Ob Superheavy Logistics](/en/card/33057) to install [Malapert Data Vault](/en/card/30066) into the root of the same server as the [Azef Protocol](/en/card/33058)? Can they then resolve [Malapert Data Vault](/en/card/30066)’s ability?",
+    "answer": "Yes and yes. When the Corp pays the additional cost to score [Azef Protocol](/en/card/33058), a checkpoint occurs before the score effect itself is resolved.  [Ob Superheavy Logistics](/en/card/33057) triggers at this checkpoint and resolves in time for [Malapert Data Vault](/en/card/30066) to be active when its trigger condition is met."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp uses [Ob Superheavy Logistics](/en/card/33057) to install a piece of ice, do they pay the install cost of that ice?",
+    "answer": "No. [Ob Superheavy Logistics](/en/card/33057) directs the Corp to ignore credit costs, and this includes install costs."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "Does rezzing a piece of ice with [Ob Superheavy Logistics](/en/card/33057) ignore effects like [Tread Lightly](/en/card/30012) and [Hernando Cortez](/en/card/11004)?",
+    "answer": "Yes. “Ignoring credit costs” includes both increases to rez costs like the one imposed by [Tread Lightly](/en/card/30012) and additional costs consisting of credits like the one imposed by [Hernando Cortez](/en/card/11004)."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "What does “except during installation” mean?",
+    "answer": "The Corp has the opportunity to trash other cards as part of the process of installing a new card. This clause excludes this type of trashing from the trigger condition of [Ob Superheavy Logistics](/en/card/33057). You cannot use its ability while in the process of installing a card."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Corp use [Ob Superheavy Logistics](/en/card/33057) to install an agenda?",
+    "answer": "No. Since agendas do not have rez costs, they can never meet the requirements of the search."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp has two rezzed copies of a unique (♦) card, the older copy will be trashed. Can the Corp use [Ob Superheavy Logistics](/en/card/33057) due to this trashing?",
+    "answer": "No. The trigger condition on [Ob Superheavy Logistics](/en/card/33057) only looks for cards trashed by the Corp, and cards trashed because of uniqueness are trashed by the game rules, not by a player."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp uses [Ob Superheavy Logistics](/en/card/33057) to install a card that has an additional cost to rez, can they decline to pay the additional cost?",
+    "answer": "If the additional cost is paying credits, that cost is already being ignored, so the Corp cannot decline to pay it. If the additional cost is anything other than credits, such as the additional cost on [Archer](/en/card/31075), the Corp can decline to pay it. If they decline, the card will not be rezzed, but they must reveal the card to show why it was not rezzed."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp trashes a piece of ice (such as [Envelopment](/en/card/33060)) while the Runner is encountering it, then installs a new piece of ice protecting the same server with [Ob Superheavy Logistics](/en/card/33057), where is the Runner’s position relative to the newly installed ice?",
+    "answer": "The Runner is inward from the new ice, so they will not approach it. When ice is uninstalled during a run, the Runner and all ice protecting the server immediately “collapse” their positions toward the root of the server. Ice cannot “jump in front of ” the Runner by trashing and installing midrun."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp trashes [Alexa Belsky](/en/card/11055) with her ability, can they use [Ob Superheavy Logistics](/en/card/33057) to install a card shuffled from HQ into R&D by that ability?",
+    "answer": "No. The Corp’s opportunity to use [Ob Superheavy Logistics](/en/card/33057) is immediately after the cost of [Alexa Belsky](/en/card/11055)’s ability is paid, before the ability resolves. No cards will have been shuffled from HQ into R&D yet."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Corp trash [Daruma](/en/card/22041) to use its ability, install a card with [Ob Superheavy Logistics](/en/card/33057), and then choose the newly installed card to swap when resolving [Daruma](/en/card/22041)’s ability?",
+    "answer": "Yes. Trashing [Daruma](/en/card/22041) is paying a nested cost, so it is immediately followed by a checkpoint. The ability on [Ob Superheavy Logistics](/en/card/33057) resolves in full before the game continues to the instruction to swap cards in [Daruma](/en/card/22041)’s ability, so the newly installed card is available as a possible target for that instruction."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Corp use [Ob Superheavy Logistics](/en/card/33057) while resolving the additional cost on [Azef Protocol](/en/card/33058) to install an asset in the root of the same server as [Azef Protocol](/en/card/33058)?",
+    "answer": "It is not possible to do this and still score the [Azef Protocol](/en/card/33058). When the Corp pays the additional cost to score [Azef Protocol](/en/card/33058), a checkpoint occurs before the score effect itself is resolved.  [Ob Superheavy Logistics](/en/card/33057) triggers at this checkpoint and resolves fully before the game continues attempting to resolve scoring. If the Corp chooses to install an asset in the root of the server that currently contains [Azef Protocol](/en/card/33058), they must trash [Azef Protocol](/en/card/33058) as part of installing the asset. This is legal, but when the reaction window closes and the game proceeds, the score effect won't be able to find [Azef Protocol](/en/card/33058) because it is no longer installed."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Corp trash [Reconstruction Contract](/en/card/21020) to use its paid ability, install a card with [Ob Superheavy Logistics](/en/card/33057), and then resolve the ability to place an advancement counter on the card that was just installed?",
+    "answer": "Yes, but there must be a card the Corp can advance installed before they begin this process. If there are no installed cards the Corp can advance, the game does not consider [Reconstruction Contract](/en/card/21020)’s ability to have the potential to change the game state."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Corp trash [Calibration Testing](/en/card/21017) to use its ability, install a card with [Ob Superheavy Logistics](/en/card/33057), and then resolve the ability to place an advancement counter on the card that was just installed? Does it matter what other cards are in the root of the server with [Calibration Testing](/en/card/21017) when they begin this process?",
+    "answer": "Yes, the Corp can do this, as long as the new card is installed in the root of the same server from which [Calibration Testing](/en/card/21017) is trashed. It is not relevant whether other cards are installed in the root of the server. The game checks if [Calibration Testing](/en/card/21017)’s ability has the potential to change the game state before the card is trashed, so it sees [Calibration Testing](/en/card/21017) itself as a potential target and allows the Corp to use the ability."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "During a run, if the attacked server has [Reconstruction Contract](/en/card/21020) and no other cards in its root and no ice protecting it, can the Corp trash [Reconstruction Contract](/en/card/21020) to use its ability and then use [Ob Superheavy Logistics](/en/card/33057) to install a new card in the root of the same server?",
+    "answer": "No. The attacked server ceases to exist in the checkpoint immediately after [Reconstruction Contract](/en/card/21020) is trashed, before the ability on [Ob Superheavy Logistics](/en/card/33057) resolves. The non-existent server is not a valid destination for installing a card after this point."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "The Corp trashes a card with [Svyatogor Excavator](/en/card/33059) and uses [Ob Superheavy Logistics](/en/card/33057) to install [Rashida Jaheem](/en/card/21080). Can the Corp immediately use [Rashida Jaheem](/en/card/21080)’s ability?",
+    "answer": "No, [Rashida Jaheem](/en/card/21080) has the same trigger condition as [Svyatogor Excavator](/en/card/33059), and was not active when that trigger condition was met. Once a reaction window opens to handle pending conditional abilities for a particular trigger condition, new abilities cannot become pending for that trigger condition."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-20",
+    "nsg_rules_team_verified": true,
+    "question": "How big is *[Endurance](/en/card/33025)* compared to the ships depicted on [Ob Superheavy Logistics](/en/card/33057)?",
+    "answer": "There are two tanker ships in the foreground of [Ob Superheavy Logistics](/en/card/33057) with large white cylindrical tanks. *[Endurance](/en/card/33025)* is about one-twelfth the length of those ships, smaller than the radius of one of the tanks."
+  },
+  {
+    "card_id": "ob_superheavy_logistics_extract_export_excel",
+    "date_update": "2022-11-22",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp uses [Ob Superheavy Logistics](/en/card/33057) to search for [Spin Doctor](/en/card/30053), do they shuffle R&D before or after drawing cards with [Spin Doctor](/en/card/30053)’s first ability?",
+    "answer": "The shuffle happens before drawing cards. When searching their deck, players set aside any cards found by the search and shuffle immediately, before resolving further instructions that act on the found cards. In particular, in this case the Corp shuffles before [Spin Doctor](/en/card/30053) is installed and rezzed."
+  }
+]

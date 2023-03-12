@@ -1,0 +1,9 @@
+[
+  {
+    "card_id": "transport_monopoly",
+    "date_update": "2020-04-16",
+    "nsg_rules_team_verified": false,
+    "question": "####[NISEI](https://nisei.net) [Uprising Release Notes](https://nisei.net/files/Uprising_Release_Notes.pdf) [NISEI Rules Team]\nWhat happens at the time a run is supposed to become successful if the run \"cannot be declared successful\"?",
+    "answer": "Step 6.9.5e of the run will do nothing, and abilities that look for a successful run will never see this run. The run proceeds through the remaining steps of the Approach Server Phase and the Run Ends Phase normally, including the Runner accessing cards from the attacked server. The run will not be declared unsuccessful either."
+  }
+]

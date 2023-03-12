@@ -1,0 +1,37 @@
+[
+  {
+    "card_id": "esa_afontov_eco_insurrectionist",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Corp look at the cards that are being trashed while resolving sabotage?",
+    "answer": "No, the Corp must choose which cards to trash first, and then all cards are trashed simultaneously. The Corp can look at the trashed cards from R&D in Archives after all trashes from sabotage have been resolved."
+  },
+  {
+    "card_id": "esa_afontov_eco_insurrectionist",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp has only 1 card in HQ and must sabotage 2, can they choose to “trash 2 cards from HQ” in order to only trash the 1 card in HQ?",
+    "answer": "No, the Corp must trash 2 cards if possible. The Corp must trash the remaining card from R&D."
+  },
+  {
+    "card_id": "esa_afontov_eco_insurrectionist",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "If the Corp has only 1 card in R&D and must sabotage 2, can they choose to “trash 2 cards from R&D” in order to only trash the 1 card in R&D?",
+    "answer": "No, the Corp must trash 2 cards if possible. The Corp must trash the remaining card from HQ."
+  },
+  {
+    "card_id": "esa_afontov_eco_insurrectionist",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "What if the Corp has only 1 card total in HQ and R&D and must sabotage 2?",
+    "answer": "The Corp trashes all cards from HQ and R&D."
+  },
+  {
+    "card_id": "esa_afontov_eco_insurrectionist",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "Does the Runner gain a credit when they sabotage and have [Demolisher](/en/card/26002) installed?",
+    "answer": "No, the Corp is trashing the cards when resolving a sabotage effect."
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "card_id": "funhouse",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Runner stop [Funhouse](/en/card/30054) from ending the run by choosing to take the tag and then preventing it?",
+    "answer": "No. The “unless” in [Funhouse](/en/card/30054)’s ability indicates a nested cost. If the Runner does not take a tag, the cost is not paid and [Funhouse](/en/card/30054) will end the run."
+  },
+  {
+    "card_id": "funhouse",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "What happens if the Runner has a mandatory ability that would prevent the tag from [Funhouse](/en/card/30054), such as the ability on [Jesminder Sareen: Girl Behind the Curtain](/en/card/10006)?",
+    "answer": "Players cannot attempt to pay a cost that would be prevented. If *Jesminder*’s ability is applicable, the Runner must choose to end the run."
+  },
+  {
+    "card_id": "funhouse",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
+    "question": "If the Runner plays [Inside Job](https://netrunnerdb.com/en/card/31018) and bypasses [Funhouse](https://netrunnerdb.com/en/card/30054) or [Tollbooth](https://netrunnerdb.com/en/card/31066), do the non-subroutine abilities on those cards resolve?",
+    "answer": "No. An ability that meets its trigger condition due to an encounter beginning can only resolve if the encounter is still taking place. [Inside Job](https://netrunnerdb.com/en/card/31018)’s bypass ability meets its trigger condition at the same time as [Funhouse](https://netrunnerdb.com/en/card/30054) or [Tollbooth](https://netrunnerdb.com/en/card/31066)’s ability, and as it’s the Runner’s turn, they will resolve the ability they control first. Bypassing a piece of ice immediately ends the encounter, stopping the Corp from resolving their ability before they can tag the Runner or charge a toll."
+  }
+]
