@@ -12,5 +12,12 @@
   "subtypes": ["character"],
   "text": "Whenever you score an agenda, you may swap it with an agenda in the Runner's score area worth at least 1 point, then resolve the \"when scored\" ability on that agenda.",
   "title": "Investigator Inez Delgado A",
-  "trash_cost": 5
+  "trash_cost": 5,
+  "layout_id": "progression",
+  "sides": [
+    {
+      "stripped_text": "Whenever the Runner steals an agenda, you may resolve the \"when scored\" ability on that agenda, then swap it with an agenda in your scored area.",
+      "text": "Whenever the Runner steals an agenda, you may resolve the \"when scored\" ability on that agenda, then swap it with an agenda in your scored area."
+    }
+  ]
 }

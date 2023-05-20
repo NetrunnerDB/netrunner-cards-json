@@ -12,5 +12,20 @@
   "stripped_title": "Evidence Collection",
   "subtypes": ["research"],
   "text": "When you win a game with Evidence Collection in your score area, reveal set 2.",
-  "title": "Evidence Collection"
+  "title": "Evidence Collection",
+  "layout_id": "progression",
+  "sides": [
+    {
+      "stripped_text": "When you win a game with Evidence Collection in your score area, reveal set 5.",
+      "text": "When you win a game with Evidence Collection in your score area, reveal set 5."
+    },
+    {
+      "stripped_text": "When you win a game with Evidence Collection in your score area, reveal set 8.",
+      "text": "When you win a game with Evidence Collection in your score area, reveal set 8."
+    },
+    {
+      "stripped_text": "Evidence Collection is worth 1 fewer agenda point while in the Runner's score area.",
+      "text": "Evidence Collection is worth 1 fewer agenda point while in the Runner's score area."
+    }
+  ]
 }

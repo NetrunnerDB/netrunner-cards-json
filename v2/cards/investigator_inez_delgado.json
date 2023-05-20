@@ -11,5 +11,20 @@
   "stripped_title": "Investigator Inez Delgado",
   "subtypes": ["connection"],
   "text": "When you win a game with Investigator Inez Delgado in your score area, reveal set 2.\n<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Expose all cards in a remote server. Use this only if you have stolean an agenda this turn.",
-  "title": "Investigator Inez Delgado"
+  "title": "Investigator Inez Delgado",
+  "layout_id": "progression",
+  "sides": [
+    {
+      "stripped_text": "When you win a game with Investigator Inez Delgado in your score area, reveal set 5. Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points: Reveal the top 3 cards in R&D. Use this only if you have stolean an agenda this turn.",
+      "text": "When you win a game with Investigator Inez Delgado in your score area, reveal set 5.\n<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Reveal the top 3 cards in R&D. Use this only if you have stolean an agenda this turn."
+    },
+    {
+      "stripped_text": "When you win a game with Investigator Inez Delgado in your score area, reveal set 8. Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points: Reveal each card in HQ. Use this only if you have stolean an agenda this turn.",
+      "text": "When you win a game with Investigator Inez Delgado in your score area, reveal set 8.\n<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Reveal each card in HQ. Use this only if you have stolean an agenda this turn."
+    },
+    {
+      "stripped_text": "Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points: Reveal each card in HQ and the top card of R&D. Use this only if you have stolean an agenda this turn.",
+      "text": "<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Reveal each card in HQ and the top card of R&D. Use this only if you have stolean an agenda this turn."
+    }
+  ]
 }

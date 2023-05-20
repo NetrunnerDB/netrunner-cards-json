@@ -2,11 +2,16 @@
   {
     "card_id": "hoshiko_shiro_untold_protagonist",
     "card_set_id": "uprising",
-    "flavor": "Please, let me have this dream.\nFlip side:\nI'm going to be my own kind of hero.",
+    "flavor": "Please, let me have this dream.",
     "id": "26066",
     "illustrator": "Luminita Pham",
     "position": 66,
-    "quantity": 3
+    "quantity": 3,
+    "sides": [
+      {
+        "flavor": "I'm going to be my own kind of hero."
+      }
+    ]
   },
   {
     "card_id": "moshing",
@@ -480,11 +485,16 @@
   {
     "card_id": "earth_station_sea_headquarters",
     "card_set_id": "uprising",
-    "flavor": "The First Step...\nFlip side:\n...Further Beyond",
+    "flavor": "The First Step...",
     "id": "26120",
     "illustrator": "Kira L. Nguyen",
     "position": 120,
-    "quantity": 3
+    "quantity": 3,
+    "sides": [
+      {
+        "flavor": "...Further Beyond"
+      }
+    ]
   },
   {
     "card_id": "transport_monopoly",

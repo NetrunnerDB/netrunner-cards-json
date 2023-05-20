@@ -250,11 +250,35 @@
   {
     "card_id": "matryoshka",
     "card_set_id": "parhelion",
-    "flavor": "{Card 6} Look at the little baby, even she helps!\n{Card 5} Sheʼs little—but fierce.\n{Card 4} Just as brave as his sisters.\n{Card 3} Sheʼs a typical middle child, really.\n{Card 2} Always there to back up her big sister.\n{Card 1} She leads and they all follow.",
+    "flavor": "She leads and they all follow.",
     "id": "33094",
     "illustrator": "Ed Mattinian",
     "position": 94,
-    "quantity": 6
+    "quantity": 6,
+    "layout_id": "copy",
+    "copy_quantity": 1,
+    "sides": [
+      {
+        "copy_quantity": 1,
+        "flavor": "Always there to back up her big sister."
+      },
+      {
+        "copy_quantity": 1,
+        "flavor": "Sheʼs a typical middle child, really."
+      },
+      {
+        "copy_quantity": 1,
+        "flavor": "Just as brave as his sisters."
+      },
+      {
+        "copy_quantity": 1,
+        "flavor": "Sheʼs little—but fierce."
+      },
+      {
+        "copy_quantity": 1,
+        "flavor": "Look at the little baby, even she helps!"
+      }
+    ]
   },
   {
     "card_id": "thule_subsea_safety_below",

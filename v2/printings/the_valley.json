@@ -101,7 +101,18 @@
     "id": "08012",
     "illustrator": "Emilio Rodriguez",
     "position": 12,
-    "quantity": 3
+    "quantity": 3,
+    "sides": [
+      {
+        "flavor": "The vats in Building C can create-and destroy-life itself."
+      },
+      {
+        "flavor": "The best and brightest genengineers spends their days in the Tank dreaming up a better world."
+      },
+      {
+        "flavor": "The Greenhouse was built to enhance natural beauty."
+      }
+    ]
   },
   {
     "card_id": "genetic_resequencing",
