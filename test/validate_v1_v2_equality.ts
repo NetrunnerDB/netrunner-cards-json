@@ -273,14 +273,14 @@ describe('Printings v1/v2 equality', () => {
   function validate(v1Field: string, maybeV2Field?: string) {
     const v2Field = maybeV2Field == undefined ? v1Field : maybeV2Field;
     v1CardsByCode.forEach((c, code) => {
-      if (checkTdc(c, code)) {
+      if (checkTdc(c)) {
         return;
       }
       expect(c[v1Field], `${v2Field} mismatch for ${code}`).to.equal(printingsById.get(code)[v2Field]);
     });
   }
 
-  function checkTdc(v1: any, code: string): boolean {
+  function checkTdc(v1: any): boolean {
     return !v2CardsByTitle.get(v1.title) && v1.pack_code == 'tdc';
   }
 
@@ -299,7 +299,7 @@ describe('Printings v1/v2 equality', () => {
 
   it('card set matches pack names.', () => {
     v1CardsByCode.forEach((v1, code) => {
-      if (checkTdc(v1, code)) {
+      if (checkTdc(v1)) {
         return;
       }
       expect(packsByCode.get(v1.pack_code),
@@ -311,7 +311,7 @@ describe('Printings v1/v2 equality', () => {
   // v1 flavor text includes design attributions, but in v2 that has been separated into the card attribution property.
   it('flavor matches', () => {
     v1Cards.forEach(v1 => {
-      if (checkTdc(v1, v1.code)) {
+      if (checkTdc(v1)) {
         return;
       }
       const v2Printing = printingsById.get(v1.code);
@@ -345,7 +345,7 @@ describe('Printings v1/v2 equality', () => {
   // copy cards have inconsistent printing representation so are excluded.
   it('quantity matches', () => {
     v1CardsByCode.forEach((c, code) => {
-      if (checkTdc(c, code)) {
+      if (checkTdc(c)) {
         return;
       }
       const p = printingsById.get(code);
