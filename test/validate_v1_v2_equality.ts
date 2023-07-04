@@ -84,7 +84,7 @@ describe('Cards v1/v2 equality', () => {
   it('correct number of cards', () => {
     const cardCopies: number = Array.from(v2CardsByTitle.values())
         .filter(c => c.layout_id && (c.layout_id == 'copy' || c.layout_id == 'progression')) // TODO - remove c.layout_id &&
-        .reduce((count, c) => count + c.sides.length, 0);
+        .reduce((count, c) => count + c.faces.length, 0);
     expect(v1CardsByTitle.size).to.equal(v2CardsByTitle.size + cardCopies);
   });
 
@@ -137,10 +137,10 @@ describe('Cards v1/v2 equality', () => {
       let v2Text;
       switch(v2.layout_id) {
         case 'flip':
-          v2Text = v2.text + (v2.sides[0].text ? '\nFlip side:\n' + v2.sides[0].text : '');
+          v2Text = v2.text + (v2.faces[0].text ? '\nFlip side:\n' + v2.faces[0].text : '');
           break;
         case 'facade':
-          v2Text = v2.text + v2.sides.map((s, i) => s.text ? `\nSide ${i+1}: ${s.text}` : '').join('');
+          v2Text = v2.text + v2.faces.map((s, i) => s.text ? `\nSide ${i+1}: ${s.text}` : '').join('');
           break;
         default:
           v2Text = v2.text;
@@ -160,10 +160,10 @@ describe('Cards v1/v2 equality', () => {
       let v2SText;
       switch(v2.layout_id) {
         case 'flip':
-          v2SText = v2.stripped_text + (v2.sides[0].stripped_text ? ' Flip side: ' + v2.sides[0].stripped_text : '');
+          v2SText = v2.stripped_text + (v2.faces[0].stripped_text ? ' Flip side: ' + v2.faces[0].stripped_text : '');
           break;
         case 'facade':
-          v2SText = v2.stripped_text + v2.sides.map((s, i) => s.stripped_text ? ` Side ${i+1}: ${s.stripped_text}` : '').join('');
+          v2SText = v2.stripped_text + v2.faces.map((s, i) => s.stripped_text ? ` Side ${i+1}: ${s.stripped_text}` : '').join('');
           break;
         default:
           v2SText = v2.stripped_text;
@@ -316,7 +316,7 @@ describe('Printings v1/v2 equality', () => {
       }
       const v2Printing = printingsById.get(v1.code);
       const v2Card = v2CardsByTitle.get(v1.title);
-      let v2Flavor = v2Printing.sides ? [v2Printing.flavor].concat(v2Printing.sides.map(s => s.flavor)).filter(f => !!f).join('\n') : v2Printing.flavor;
+      let v2Flavor = v2Printing.faces ? [v2Printing.flavor].concat(v2Printing.faces.map(s => s.flavor)).filter(f => !!f).join('\n') : v2Printing.flavor;
       if (!v2Flavor) {
         v2Flavor = v2Printing.flavor;
       }

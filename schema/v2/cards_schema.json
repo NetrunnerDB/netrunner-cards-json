@@ -269,7 +269,7 @@
       "oneOf": [
         {
           "type": "string",
-          "enum": ["single_sided", "flip", "copy", "facade", "progression"]
+          "enum": ["normal", "flip", "copy", "facade", "progression"]
         },
         {
           "type": "null"
@@ -289,7 +289,7 @@
       "type": "string",
       "enum": ["corp", "runner"]
     },
-    "sides": {
+    "faces": {
       "oneOf": [
         {
           "type": "array"
@@ -360,14 +360,14 @@
             "layout_id": {
               "oneOf": [
                 {
-                  "const": "single_sided"
+                  "const": "normal"
                 },
                 {
                   "type": "null"
                 }
               ]
             },
-            "sides": {
+            "faces": {
               "type": "null"
             }
           }
@@ -377,7 +377,7 @@
             "layout_id": {
               "const": "flip"
             },
-            "sides": {
+            "faces": {
               "type": "array",
               "minItems": 1,
               "maxItems": 1,
@@ -386,14 +386,14 @@
               }
             }
           },
-          "required": ["sides"]
+          "required": ["faces"]
         },
         {
           "properties": {
             "layout_id": {
               "const": "copy"
             },
-            "sides": {
+            "faces": {
               "type": "array",
               "minItems": 1,
               "items": {
@@ -401,14 +401,14 @@
               }
             }
           },
-          "required": ["sides"]
+          "required": ["faces"]
         },
         {
           "properties": {
             "layout_id": {
               "const": "facade"
             },
-            "sides": {
+            "faces": {
               "type": "array",
               "minItems": 1,
               "items": {
@@ -416,14 +416,14 @@
               }
             }
           },
-          "required": ["sides"]
+          "required": ["faces"]
         },
         {
           "properties": {
             "layout_id": {
               "const": "progression"
             },
-            "sides": {
+            "faces": {
               "type": "array",
               "minItems": 1,
               "items": {
@@ -431,7 +431,7 @@
               }
             }
           },
-          "required": ["sides"]
+          "required": ["faces"]
         }
       ]
     }
