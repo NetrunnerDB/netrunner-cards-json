@@ -1,0 +1,15 @@
+{
+  "id": "s_dobrado",
+  "card_type_id": "event",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "criminal",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Run a central server. The first time you encounter a piece of ice during that run, bypass it. Threat 4  The second time you encounter a piece of ice during that run, you may spend [click] to bypass it. <em>(This ability is active if any player has 4 or more agenda points.)</em>",
+  "stripped_title": "S-Dobrado",
+  "subtypes": ["run"],
+  "text": "Run a central server. The first time you encounter a piece of ice during that run, bypass it.\nThreat 4 → The second time you encounter a piece of ice during that run, you may spend [click] to bypass it. <em>(This ability is active if any player has 4 or more agenda points.)</em>",
+  "title": "S-Dobrado"
+}
