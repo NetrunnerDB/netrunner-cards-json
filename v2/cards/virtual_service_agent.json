@@ -1,0 +1,16 @@
+{
+  "id": "virtual_service_agent",
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 2,
+  "stripped_text": "Whenever the Runner passes this ice after encountering it, if they did not break its printed subroutine with a decoder during that encounter, give them 1 tag. Subroutine The Runner loses 1 credit.",
+  "stripped_title": "Virtual Service Agent",
+  "subtypes": ["code_gate", "observer"],
+  "text": "Whenever the Runner passes this ice after encountering it, if they did not break its printed subroutine with a <strong>decoder</strong> during that encounter, give them 1 tag.\n[subroutine] The Runner loses 1[credit].",
+  "title": "Virtual Service Agent"
+}

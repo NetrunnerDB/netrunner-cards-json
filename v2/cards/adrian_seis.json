@@ -1,0 +1,16 @@
+{
+  "id": "adrian_seis",
+  "card_type_id": "upgrade",
+  "cost": 0,
+  "deck_limit": 3,
+  "faction_id": "jinteki",
+  "influence_cost": 4,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "Whenever the Runner makes a successful run on this server, play a Psi Game. (Players secretly bid 0-2 credits. Then each player reveals and spends their bid.) If the bids differ, the Runner cannot access cards other than this upgrade for the remainder of that run. If the bids match, the Runner cannot access this upgrade for the remainder of that run. When your turn ends, you may move this upgrade to the root of another server.",
+  "stripped_title": "Adrian Seis",
+  "subtypes": ["psi", "clone", "sysop"],
+  "text": "Whenever the Runner makes a successful run on this server, play a Psi Game. <em>(Players secretly bid 0–2[credit]. Then each player reveals and spends their bid.)</em> If the bids differ, the Runner cannot access cards other than this upgrade for the remainder of that run. If the bids match, the Runner cannot access this upgrade for the remainder of that run.\nWhen your turn ends, you may move this upgrade to the root of another server.",
+  "title": "Adrian Seis",
+  "trash_cost": 2
+}

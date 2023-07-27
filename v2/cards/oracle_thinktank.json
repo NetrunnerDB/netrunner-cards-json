@@ -1,0 +1,15 @@
+{
+  "id": "oracle_thinktank",
+  "advancement_requirement": 3,
+  "agenda_points": 1,
+  "card_type_id": "agenda",
+  "deck_limit": 3,
+  "faction_id": "nbn",
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When the Runner steals this agenda, give them 1 tag. click, remove 1 tag: Shuffle this agenda into R&D. The Corp can use this ability only if this agenda is in the Runner's score area.",
+  "stripped_title": "Oracle Thinktank",
+  "subtypes": ["research"],
+  "text": "When the Runner steals this agenda, give them 1 tag.\n[click], <strong>remove 1 tag:</strong> Shuffle this agenda into R&D. The Corp can use this ability only if this agenda is in the Runner's score area.",
+  "title": "Oracle Thinktank"
+}
