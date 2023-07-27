@@ -1,5 +1,25 @@
 [
   {
+    "code": "34007",
+    "cost": 2,
+    "deck_limit": 3,
+    "faction_code": "anarch",
+    "faction_cost": 3,
+    "flavor": "Luciana loved it when mamãe and papai finished work early, so they could all go home together.",
+    "illustrator": "Dimik",
+    "keywords": "Connection - Clone",
+    "pack_code": "tai",
+    "position": 7,
+    "quantity": 3,
+    "side_code": "runner",
+    "stripped_text": "click, take 1 tag: Run Archives. If successful, instead of breaching Archives, breach R&D. Use this ability only once per turn. Threat 3 -> Whenever you breach R&D during a run on Archives, access 1 additional card. (This ability is active if any player has 3 or more agenda points.)",
+    "stripped_title": "Eru Ayase-Pessoa",
+    "text": "[click],<strong> take 1 tag:</strong> Run Archives. If successful, instead of breaching Archives, breach R&D. Use this ability only once per turn.\nThreat 3 → Whenever you breach R&D during a run on Archives, access 1 additional card. <em>(This ability is active if any player has 3 or more agenda points.)</em>",
+    "title": "Eru Ayase-Pessoa",
+    "type_code": "resource",
+    "uniqueness": true
+  },
+  {
     "code": "34008",
     "cost": 2,
     "deck_limit": 3,
@@ -218,6 +238,26 @@
     "title": "Bahia Bands",
     "type_code": "event",
     "uniqueness": false
+  },
+  {
+    "code": "34038",
+    "cost": 1,
+    "deck_limit": 3,
+    "faction_code": "haas-bioroid",
+    "faction_cost": 2,
+    "illustrator": "João Queiroz",
+    "keywords": "Sysop",
+    "pack_code": "tai",
+    "position": 38,
+    "quantity": 3,
+    "side_code": "corp",
+    "stripped_text": "The rez cost of each piece of ice protecting this server is lowered by 2 credits. Threat 4 -> The rez cost of each card in the root of this server is lowered by 2 credits. (This ability is active if any player has 4 or more agenda points.) When your turn ends, you may move this upgrade to the root of another server.",
+    "stripped_title": " Vovo Ozetti",
+    "text": "The rez cost of each piece of ice protecting this server is lowered by 2[credit].\nThreat 4 → The rez cost of each card in the root of this server is lowered by 2[credit]. <em>(This ability is active if any player has 4 or more agenda points.)</em>\nWhen your turn ends, you may move this upgrade to the root of another server.",
+    "title": "️ Vovô Ozetti",
+    "trash_cost": 2,
+    "type_code": "upgrade",
+    "uniqueness": true
   },
   {
     "base_link": 0,
