@@ -135,16 +135,22 @@
     },
     {
       "id": "standard_22",
-      "active": true,
       "card_pool_id": "rotation_2022",
       "date_start": "2022-09-23",
       "restriction_id": "standard_ban_list_22_09"
     },
     {
       "id": "standard_23",
+      "active": true,
       "card_pool_id": "rotation_2022",
       "date_start": "2023-03-03",
       "restriction_id": "standard_ban_list_23_03"
+    },
+    {
+      "id": "standard_24",
+      "card_pool_id": "rotation_2023",
+      "date_start": "2023-07-31",
+      "restriction_id": "standard_ban_list_23_08"
     }
   ]
 }
