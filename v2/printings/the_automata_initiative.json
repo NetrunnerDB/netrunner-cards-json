@@ -1,11 +1,29 @@
 [
   {
+    "card_id": "strike_fund",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "\"If you want to put your money where your mouth is, there are some picketers who could use your support.\"",
+    "id": "34001",
+    "illustrator": "Phill Simpson",
+    "position": 1,
+    "quantity": 3
+  },
+  {
     "card_id": "the_price",
     "card_set_id": "the_automata_initiative",
     "flavor": "\"You ask how we can even try to stop them? A simple answer: not alone.\"\n—Sebastião Souza Pessoa",
     "id": "34002",
     "illustrator": "Phill Simpson",
     "position": 2,
+    "quantity": 3
+  },
+  {
+    "card_id": "solidarity_badge",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "It is hard, once free, to learn when to call for help.",
+    "id": "34003",
+    "illustrator": "Anna Butova",
+    "position": 3,
     "quantity": 3
   },
   {
@@ -27,6 +45,15 @@
     "quantity": 3
   },
   {
+    "card_id": "monkeywrench",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "Random sabotage accomplishes little; better to strike their weakest points again and again.",
+    "id": "34006",
+    "illustrator": "Ed Mattinian",
+    "position": 6,
+    "quantity": 3
+  },
+  {
     "card_id": "eru_ayase_pessoa",
     "card_set_id": "the_automata_initiative",
     "flavor": "Luciana loved it when mamãe and papai finished work early, so they could all go home together.",
@@ -42,6 +69,15 @@
     "id": "34008",
     "illustrator": "Olie Boldador",
     "position": 8,
+    "quantity": 3
+  },
+  {
+    "card_id": "lago_paranoa_shelter",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "\"Animals, tea, meetings, dead drops. Paranoá has you covered, so we keep them covered.\"\n—Sebastião Souza Pessoa",
+    "id": "34009",
+    "illustrator": "Dimik",
+    "position": 9,
     "quantity": 3
   },
   {
@@ -89,6 +125,15 @@
     "quantity": 3
   },
   {
+    "card_id": "curupira",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "Take only what you need.",
+    "id": "34015",
+    "illustrator": "Júlio Roca",
+    "position": 15,
+    "quantity": 3
+  },
+  {
     "card_id": "laser_pointer",
     "card_set_id": "the_automata_initiative",
     "flavor": "Dazzle. Disorient. Disappear.",
@@ -107,6 +152,23 @@
     "quantity": 3
   },
   {
+    "card_id": "shibboleth",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "\"Corporate security regards me as merely another Nico, and that shall ever be their mistake.\"\n—Mercury",
+    "id": "34018",
+    "illustrator": "Ed Mattinian",
+    "position": 18,
+    "quantity": 3
+  },
+  {
+    "card_id": "debbie_downtown_moreira",
+    "card_set_id": "the_automata_initiative",
+    "id": "34019",
+    "illustrator": "Wyn Lacabra",
+    "position": 19,
+    "quantity": 3
+  },
+  {
     "card_id": "arissana_rocha_nahu_street_artist",
     "card_set_id": "the_automata_initiative",
     "flavor": "Art knows no borders.",
@@ -114,6 +176,22 @@
     "illustrator": "Matheus Calza",
     "position": 20,
     "quantity": 1
+  },
+  {
+    "card_id": "joy_ride",
+    "card_set_id": "the_automata_initiative",
+    "id": "34021",
+    "illustrator": "João Queiroz",
+    "position": 21,
+    "quantity": 3
+  },
+  {
+    "card_id": "airbladex_jsrf_ed",
+    "card_set_id": "the_automata_initiative",
+    "id": "34022",
+    "illustrator": "Martin de Diego Sádaba",
+    "position": 22,
+    "quantity": 3
   },
   {
     "card_id": "lilypad",
@@ -130,6 +208,15 @@
     "id": "34024",
     "illustrator": "Adam S. Doyle",
     "position": 24,
+    "quantity": 3
+  },
+  {
+    "card_id": "pichacao",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "\"From up here, I can see everything. And from down there, everyone can see this.\" \n—Víbora",
+    "id": "34025",
+    "illustrator": "Adam S. Doyle",
+    "position": 25,
     "quantity": 3
   },
   {
@@ -151,6 +238,15 @@
     "quantity": 3
   },
   {
+    "card_id": "beatriz_friere_gonzalez",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "\"And who can tell me what sort of practical applications this has?\"",
+    "id": "34028",
+    "illustrator": "Wyn Lacabra",
+    "position": 28,
+    "quantity": 3
+  },
+  {
     "card_id": "urban_art_vernissage",
     "card_set_id": "the_automata_initiative",
     "flavor": "\"...and here, we can see an excellent example of meta neo-Gemeosianism.\"",
@@ -168,12 +264,38 @@
     "quantity": 3
   },
   {
+    "card_id": "salvo_testing",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "\"Yes, that explosion was quite loud. May I pour you another drink?\"",
+    "id": "34031",
+    "illustrator": "Kira L. Nguyen",
+    "position": 31,
+    "quantity": 3
+  },
+  {
+    "card_id": "stegodon_mk_iv",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "Exceeding expectations for armor superiority.",
+    "id": "34032",
+    "illustrator": "Vitalii Ostaschenko",
+    "position": 32,
+    "quantity": 3
+  },
+  {
     "card_id": "wage_workers",
     "card_set_id": "the_automata_initiative",
     "flavor": "\"Free\" as in markets, \"cheap\" as in beer.",
     "id": "34033",
     "illustrator": "Oliver Morit",
     "position": 33,
+    "quantity": 3
+  },
+  {
+    "card_id": "ablative_barrier",
+    "card_set_id": "the_automata_initiative",
+    "id": "34034",
+    "illustrator": "Ed Mattinian",
+    "position": 34,
     "quantity": 3
   },
   {
@@ -247,6 +369,24 @@
     "quantity": 3
   },
   {
+    "card_id": "phoneutria",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "The construct turns to you, eyes wild. \"Beloved,\" it asks, \"is that you?\"",
+    "id": "34043",
+    "illustrator": "Marlon Ruiz",
+    "position": 43,
+    "quantity": 3
+  },
+  {
+    "card_id": "tatu_bola",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "Next!",
+    "id": "34044",
+    "illustrator": "Cat Shen",
+    "position": 44,
+    "quantity": 3
+  },
+  {
     "card_id": "mindscaping",
     "card_set_id": "the_automata_initiative",
     "flavor": "\"When you stretch a mind it expands, sometimes until it snaps.\" \n—Adrian Seis",
@@ -261,6 +401,15 @@
     "id": "34046",
     "illustrator": "João Queiroz",
     "position": 46,
+    "quantity": 3
+  },
+  {
+    "card_id": "daniela_jorge_inacio",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "\"They call me turncoat. I call them broke.\"",
+    "id": "34047",
+    "illustrator": "Clara Kaufmann",
+    "position": 47,
     "quantity": 3
   },
   {
@@ -306,6 +455,15 @@
     "id": "34052",
     "illustrator": "Anna Butova",
     "position": 52,
+    "quantity": 3
+  },
+  {
+    "card_id": "starlit_knight",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "An exemplar of Starlightʼs hubris, it stands vigil over secrets of hypocrisy.",
+    "id": "34053",
+    "illustrator": "Jakuza",
+    "position": 53,
     "quantity": 3
   },
   {
@@ -368,6 +526,41 @@
     "id": "34060",
     "illustrator": "Scott Uminga",
     "position": 60,
+    "quantity": 3
+  },
+  {
+    "card_id": "armed_asset_protection",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "\"Nuvem pays us to guard this land, and thatʼs all there is to it.\" \n—Angelique Garza Correa",
+    "id": "34061",
+    "illustrator": "Olie Boldador",
+    "position": 61,
+    "quantity": 3
+  },
+  {
+    "card_id": "pivot",
+    "card_set_id": "the_automata_initiative",
+    "id": "34062",
+    "illustrator": "Mauricio Herrera",
+    "position": 62,
+    "quantity": 3
+  },
+  {
+    "card_id": "angelique_garza_correa",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "\"Shoot!\"",
+    "id": "34063",
+    "illustrator": "Olie Boldador",
+    "position": 63,
+    "quantity": 3
+  },
+  {
+    "card_id": "tucana",
+    "card_set_id": "the_automata_initiative",
+    "flavor": "Their mouths are ever open, blaring sirens never to cease.",
+    "id": "34064",
+    "illustrator": "Liiga Smilshkalne",
+    "position": 64,
     "quantity": 3
   },
   {
