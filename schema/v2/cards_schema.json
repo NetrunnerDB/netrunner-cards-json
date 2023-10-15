@@ -341,6 +341,10 @@
       "items": {
         "type": "string"
       }
+    },
+    "designed_by": {
+      "type": "string",
+      "enum": ["fantasy_flight_games", "null_signal_games"]
     }
   },
   "required": [
