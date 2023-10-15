@@ -37,6 +37,11 @@
       "size": {
         "minimum": 1,
         "type": "integer"
+      },
+      "released_by": {
+        "minLength": 1,
+        "type": "string",
+        "enum": ["fantasy_flight_games", "null_signal_games"]
       }
     },
     "required": [
@@ -47,6 +52,7 @@
       "legacy_code",
       "name",
       "position",
+      "released_by",
       "size"
     ]
   }

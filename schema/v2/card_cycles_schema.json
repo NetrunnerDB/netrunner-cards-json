@@ -20,8 +20,13 @@
       },
       "description": {
         "type": "string"
+      },
+      "released_by": {
+        "minLength": 1,
+        "type": "string",
+        "enum": ["fantasy_flight_games", "null_signal_games"]
       }
     },
-    "required": ["id", "legacy_code", "name"]
+    "required": ["id", "legacy_code", "name", "designed_by"]
   }
 }
