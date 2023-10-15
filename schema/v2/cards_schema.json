@@ -343,18 +343,20 @@
       }
     },
     "designed_by": {
+      "minLength": 1,
       "type": "string",
       "enum": ["fantasy_flight_games", "null_signal_games"]
     }
   },
   "required": [
-    "id",
-    "faction_id",
-    "deck_limit",
-    "side_id",
-    "title",
     "card_type_id",
-    "is_unique"
+    "deck_limit",
+    "designed_by",
+    "faction_id",
+    "id",
+    "is_unique",
+    "side_id",
+    "title"
   ],
   "dependentSchemas": {
     "layout_id": {
