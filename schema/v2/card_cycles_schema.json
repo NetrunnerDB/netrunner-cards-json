@@ -27,6 +27,6 @@
         "enum": ["fantasy_flight_games", "null_signal_games"]
       }
     },
-    "required": ["id", "legacy_code", "name", "designed_by"]
+    "required": ["id", "legacy_code", "name", "released_by"]
   }
 }
