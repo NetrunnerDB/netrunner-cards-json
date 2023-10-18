@@ -49,6 +49,11 @@
         "minimum": 1,
         "type": "integer"
       },
+      "released_by": {
+        "minLength": 1,
+        "type": "string",
+        "enum": ["fantasy_flight_games", "null_signal_games"]
+      },
       "faces": {
         "oneOf": [
           {
@@ -60,7 +65,14 @@
         ]
       }
     },
-    "required": ["card_id", "card_set_id", "id", "position", "quantity"],
+    "required": [
+      "card_id",
+      "card_set_id",
+      "id",
+      "position",
+      "quantity",
+      "released_by"
+    ],
     "dependentSchemas": {
       "layout_id": {
         "oneOf": [
