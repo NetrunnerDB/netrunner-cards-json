@@ -1,0 +1,36 @@
+name: docker-cicd
+
+on:
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  build_and_push:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: Checkout the repo 
+        uses: actions/checkout@v2
+        
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+        
+      - name: Build image 
+        run: docker build -t nsgcr/netrunner-cards-json .
+        
+      - name: Install doctl 
+        uses: digitalocean/action-doctl@v2
+        with:
+          token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
+          
+      - name: Log in to DO Container Registry 
+        run: doctl registry login --expiry-seconds 600
+        
+      - name: Tag image 
+        run:
+          docker tag nsgcr/netrunner-cards-json \
+          registry.digitalocean.com/nsgcr/netrunner-cards-json:${{ github.run_id }}
+          
+      - name: Push image to DO Container Registry 
+        run: docker push registry.digitalocean.com/nsgcr/netrunner-cards-json:${{ github.run_id }}
