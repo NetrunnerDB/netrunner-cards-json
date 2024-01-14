@@ -3,6 +3,8 @@ name: CI
 # This action works with pull requests and pushes
 on:
   pull_request:
+    branches:
+      - main
 
 env:  
   # We do not need Husky hooks installed for this workflow.
