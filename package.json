@@ -6,8 +6,8 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "format": "prettier --plugin=prettier-plugin-sort-json --no-color --json-recursive-sort --write '{{**,.}/*.json,.*.json,*.json}'",
-    "format-check": "prettier --plugin=prettier-plugin-sort-json --no-color --json-recursive-sort --check '{{**,.}/*.json,.*.json,*.json}'",
+    "format": "prettier --no-color --write '{{**,.}/*.json,.*.json,*.json}'",
+    "format-check": "prettier --no-color --check '{{**,.}/*.json,.*.json,*.json}'",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "prepare": "husky install",
     "test": "mocha -R list -r ts-node/register test/*.ts test/**/*.ts",
@@ -42,5 +42,11 @@
   },
   "lint-staged": {
     "{{**,.}/*.json,.*.json,*.json}": "prettier --write"
+  },
+  "prettier": {
+    "jsonRecursiveSort": true,
+    "plugins": [
+      "prettier-plugin-sort-json"
+    ]
   }
 }
