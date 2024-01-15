@@ -1,7 +1,6 @@
 {
   "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/formats_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "type": "object",
   "additionalProperties": false,
   "properties": {
     "id": {
@@ -13,14 +12,11 @@
       "type": "string"
     },
     "snapshots": {
-      "type": "array",
       "items": {
-        "type": "object",
         "additionalProperties": false,
         "properties": {
-          "id": {
-            "minLength": 1,
-            "type": "string"
+          "active": {
+            "type": "boolean"
           },
           "card_pool_id": {
             "minLength": 1,
@@ -30,17 +26,21 @@
             "minLength": 1,
             "type": "string"
           },
-          "active": {
-            "type": "boolean"
+          "id": {
+            "minLength": 1,
+            "type": "string"
           },
           "restriction_id": {
             "minLength": 1,
             "type": "string"
           }
         },
-        "required": ["card_pool_id", "date_start"]
-      }
+        "required": ["card_pool_id", "date_start"],
+        "type": "object"
+      },
+      "type": "array"
     }
   },
-  "required": ["id", "name"]
+  "required": ["id", "name"],
+  "type": "object"
 }

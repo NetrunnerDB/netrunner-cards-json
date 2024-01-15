@@ -1,16 +1,14 @@
 {
   "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v1/card_layouts_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "type": "array",
   "items": {
-    "type": "object",
     "additionalProperties": false,
     "properties": {
-      "id": {
+      "description": {
         "minLength": 1,
         "type": "string"
       },
-      "description": {
+      "id": {
         "minLength": 1,
         "type": "string"
       },
@@ -19,6 +17,8 @@
         "type": "string"
       }
     },
-    "required": ["id", "description", "name"]
-  }
+    "required": ["id", "description", "name"],
+    "type": "object"
+  },
+  "type": "array"
 }

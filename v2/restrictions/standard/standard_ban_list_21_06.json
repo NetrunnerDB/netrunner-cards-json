@@ -1,11 +1,4 @@
 {
-  "id": "standard_ban_list_21_06",
-  "name": "Standard Ban List 21.06",
-  "date_start": "2021-06-19",
-  "format_id": "standard",
-  "subtypes": {
-    "banned": ["current"]
-  },
   "banned": [
     "24_7_news_cycle",
     "aaron_marron",
@@ -85,5 +78,12 @@
     "watch_the_world_burn",
     "whampoa_reclamation",
     "zealous_judge"
-  ]
+  ],
+  "date_start": "2021-06-19",
+  "format_id": "standard",
+  "id": "standard_ban_list_21_06",
+  "name": "Standard Ban List 21.06",
+  "subtypes": {
+    "banned": ["current"]
+  }
 }

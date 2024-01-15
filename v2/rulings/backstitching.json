@@ -1,30 +1,30 @@
 [
   {
+    "answer": "When you identify your mark, that server becomes your mark for the turn, even if the card that instructed you to identify your mark leaves play. If an event instructs you to identify your mark, that server continues to be your mark for the remainder of the turn after that event resolves.",
     "card_id": "backstitching",
     "date_update": "2022-09-10",
     "nsg_rules_team_verified": true,
-    "question": "Does the Runner’s mark stay if all mark cards leave play, or does it leave and return when a new mark card comes into play?",
-    "answer": "When you identify your mark, that server becomes your mark for the turn, even if the card that instructed you to identify your mark leaves play. If an event instructs you to identify your mark, that server continues to be your mark for the remainder of the turn after that event resolves."
+    "question": "Does the Runner’s mark stay if all mark cards leave play, or does it leave and return when a new mark card comes into play?"
   },
   {
+    "answer": "No. The Runner only identifies a mark when an ability instructs them to.",
     "card_id": "backstitching",
     "date_update": "2022-09-10",
     "nsg_rules_team_verified": true,
-    "question": "If the Runner does not have a mark, and they install a card that says “When your turn begins, identify your mark.”, do they get a mark for the current turn?",
-    "answer": "No. The Runner only identifies a mark when an ability instructs them to."
+    "question": "If the Runner does not have a mark, and they install a card that says “When your turn begins, identify your mark.”, do they get a mark for the current turn?"
   },
   {
+    "answer": "The first time each turn the Runner resolves an instruction to identify their mark, they will randomly choose a central server. That server becomes their mark for the entire turn. Resolving another instruction to identify their mark will have no effect.",
     "card_id": "backstitching",
     "date_update": "2022-09-10",
     "nsg_rules_team_verified": true,
-    "question": "If the Runner has multiple “mark” cards, how do they identify their mark?",
-    "answer": "The first time each turn the Runner resolves an instruction to identify their mark, they will randomly choose a central server. That server becomes their mark for the entire turn. Resolving another instruction to identify their mark will have no effect."
+    "question": "If the Runner has multiple “mark” cards, how do they identify their mark?"
   },
   {
+    "answer": "Yes. The attacked server is still the Runner’s mark, so the forced encounter from [Konjin](/en/card/26109) still meets [Backstitching](/en/card/33019)’s trigger condition.",
     "card_id": "backstitching",
     "date_update": "2022-09-10",
     "nsg_rules_team_verified": true,
-    "question": "If the Runner encounters [Konjin](/en/card/26109) protecting their mark, and they are forced to encounter ice protecting a different server, can they trash [Backstitching](/en/card/33019) to bypass the ice that [Konjin](/en/card/26109) forced them to encounter?",
-    "answer": "Yes. The attacked server is still the Runner’s mark, so the forced encounter from [Konjin](/en/card/26109) still meets [Backstitching](/en/card/33019)’s trigger condition."
+    "question": "If the Runner encounters [Konjin](/en/card/26109) protecting their mark, and they are forced to encounter ice protecting a different server, can they trash [Backstitching](/en/card/33019) to bypass the ice that [Konjin](/en/card/26109) forced them to encounter?"
   }
 ]

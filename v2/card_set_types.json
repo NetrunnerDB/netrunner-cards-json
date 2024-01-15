@@ -1,42 +1,42 @@
 [
   {
+    "description": "A booster pack released as a subset of a larger release.",
     "id": "booster_pack",
-    "name": "Booster Pack",
-    "description": "A booster pack released as a subset of a larger release."
+    "name": "Booster Pack"
   },
   {
+    "description": "A campaign set not released for legal play.",
     "id": "campaign",
-    "name": "Campaign",
-    "description": "A campaign set not released for legal play."
+    "name": "Campaign"
   },
   {
+    "description": "A core set, or set that makes up part of the core selection of cards.",
     "id": "core",
-    "name": "Core",
-    "description": "A core set, or set that makes up part of the core selection of cards."
+    "name": "Core"
   },
   {
+    "description": "The major releases of each cycle.",
     "id": "data_pack",
-    "name": "Data Pack",
-    "description": "The major releases of each cycle."
+    "name": "Data Pack"
   },
   {
+    "description": "A non-core set released in a big box.",
     "id": "deluxe",
-    "name": "Deluxe",
-    "description": "A non-core set released in a big box."
+    "name": "Deluxe"
   },
   {
+    "description": "A draft-exclusive sets.",
     "id": "draft",
-    "name": "Draft",
-    "description": "A draft-exclusive sets."
+    "name": "Draft"
   },
   {
+    "description": "A miscellaneous set released for legal play.",
     "id": "expansion",
-    "name": "Expansion",
-    "description": "A miscellaneous set released for legal play."
+    "name": "Expansion"
   },
   {
+    "description": "A promotional set not released for legal play.",
     "id": "promo",
-    "name": "Promo",
-    "description": "A promotional set not released for legal play."
+    "name": "Promo"
   }
 ]

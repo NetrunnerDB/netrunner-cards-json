@@ -1,16 +1,16 @@
 [
   {
+    "answer": "No. The limit to how many cards the Runner can access from R&D is determined at the beginning of breaching R&D. If an ability that would modify a breach, such as [eXer](/en/card/21041)’s ability, becomes active after the Runner has accessed a card, then it is too late to affect that breach.",
     "card_id": "pantograph",
     "date_update": "2021-10-10",
     "nsg_rules_team_verified": true,
-    "question": "If the Runner steals an agenda with their first R&D access and uses [Pantograph](/en/card/30023) to install [eXer](/en/card/21041), can they access another card?",
-    "answer": "No. The limit to how many cards the Runner can access from R&D is determined at the beginning of breaching R&D. If an ability that would modify a breach, such as [eXer](/en/card/21041)’s ability, becomes active after the Runner has accessed a card, then it is too late to affect that breach."
+    "question": "If the Runner steals an agenda with their first R&D access and uses [Pantograph](/en/card/30023) to install [eXer](/en/card/21041), can they access another card?"
   },
   {
+    "answer": "No. Conditional abilities must be active at the time their trigger condition is met in order to resolve. [Mystic Maemi](/en/card/26072) was not installed until after the agenda was stolen, so the Runner cannot trigger its ability at that time.",
     "card_id": "pantograph",
     "date_update": "2021-10-10",
     "nsg_rules_team_verified": true,
-    "question": "If the Corp scores an agenda, and the Runner uses [Pantograph](/en/card/30023) to install [Mystic Maemi](/en/card/26072), does the Runner put a credit on [Mystic Maemi](/en/card/26072)?",
-    "answer": "No. Conditional abilities must be active at the time their trigger condition is met in order to resolve. [Mystic Maemi](/en/card/26072) was not installed until after the agenda was stolen, so the Runner cannot trigger its ability at that time."
+    "question": "If the Corp scores an agenda, and the Runner uses [Pantograph](/en/card/30023) to install [Mystic Maemi](/en/card/26072), does the Runner put a credit on [Mystic Maemi](/en/card/26072)?"
   }
 ]

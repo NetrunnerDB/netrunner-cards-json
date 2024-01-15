@@ -1,20 +1,13 @@
 {
   "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v1/card_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "type": "array",
   "items": {
-    "type": "object",
     "additionalProperties": false,
     "allOf": [
       {
-        "title": "Faction codes must be valid for the side.",
-        "type": "object",
         "oneOf": [
           {
             "properties": {
-              "side_code": {
-                "const": "corp"
-              },
               "faction_code": {
                 "enum": [
                   "haas-bioroid",
@@ -23,14 +16,14 @@
                   "neutral-corp",
                   "weyland-consortium"
                 ]
+              },
+              "side_code": {
+                "const": "corp"
               }
             }
           },
           {
             "properties": {
-              "side_code": {
-                "const": "runner"
-              },
               "faction_code": {
                 "enum": [
                   "adam",
@@ -41,14 +34,17 @@
                   "shaper",
                   "sunny-lebeau"
                 ]
+              },
+              "side_code": {
+                "const": "runner"
               }
             }
           }
-        ]
+        ],
+        "title": "Faction codes must be valid for the side.",
+        "type": "object"
       },
       {
-        "title": "Type codes must be valid for the side.",
-        "type": "object",
         "oneOf": [
           {
             "properties": {
@@ -77,7 +73,9 @@
               }
             }
           }
-        ]
+        ],
+        "title": "Type codes must be valid for the side.",
+        "type": "object"
       }
     ],
     "oneOf": [
@@ -291,9 +289,9 @@
         "type": "integer"
       },
       "side_code": {
+        "enum": ["corp", "runner"],
         "minLength": 1,
-        "type": "string",
-        "enum": ["corp", "runner"]
+        "type": "string"
       },
       "strength": {
         "oneOf": [
@@ -344,6 +342,8 @@
       "title",
       "type_code",
       "uniqueness"
-    ]
-  }
+    ],
+    "type": "object"
+  },
+  "type": "array"
 }

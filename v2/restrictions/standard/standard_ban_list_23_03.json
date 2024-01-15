@@ -1,11 +1,4 @@
 {
-  "id": "standard_ban_list_23_03",
-  "name": "Standard Ban List 23.03",
-  "date_start": "2023-03-03",
-  "format_id": "standard",
-  "subtypes": {
-    "banned": ["current"]
-  },
   "banned": [
     "24_7_news_cycle",
     "aaron_marron",
@@ -65,5 +58,12 @@
     "violet_level_clearance",
     "watch_the_world_burn",
     "whampoa_reclamation"
-  ]
+  ],
+  "date_start": "2023-03-03",
+  "format_id": "standard",
+  "id": "standard_ban_list_23_03",
+  "name": "Standard Ban List 23.03",
+  "subtypes": {
+    "banned": ["current"]
+  }
 }

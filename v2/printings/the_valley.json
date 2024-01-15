@@ -109,11 +109,6 @@
   {
     "card_id": "jinteki_biotech_life_imagined",
     "card_set_id": "the_valley",
-    "id": "08012",
-    "illustrator": "Emilio Rodríguez",
-    "position": 12,
-    "quantity": 3,
-    "released_by": "fantasy_flight_games",
     "faces": [
       {
         "flavor": "The vats in Building C can create-and destroy-life itself."
@@ -124,7 +119,12 @@
       {
         "flavor": "The Greenhouse was built to enhance natural beauty."
       }
-    ]
+    ],
+    "id": "08012",
+    "illustrator": "Emilio Rodríguez",
+    "position": 12,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
   },
   {
     "card_id": "genetic_resequencing",

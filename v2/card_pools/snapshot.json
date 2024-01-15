@@ -1,8 +1,5 @@
 [
   {
-    "id": "snapshot",
-    "format_id": "snapshot",
-    "name": "Snapshot",
     "card_cycle_ids": [
       "creation_and_control",
       "data_and_destiny",
@@ -61,6 +58,9 @@
       "up_and_over",
       "upstalk",
       "whispers_in_nalubaale"
-    ]
+    ],
+    "format_id": "snapshot",
+    "id": "snapshot",
+    "name": "Snapshot"
   }
 ]

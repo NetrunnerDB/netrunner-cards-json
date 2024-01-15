@@ -1,11 +1,4 @@
 {
-  "id": "standard_ban_list_23_09",
-  "name": "Standard Ban List 23.09",
-  "date_start": "2023-09-22",
-  "format_id": "standard",
-  "subtypes": {
-    "banned": ["current"]
-  },
   "banned": [
     "another_day_another_paycheck",
     "archived_memories",
@@ -59,5 +52,12 @@
     "tithonium",
     "watch_the_world_burn",
     "whampoa_reclamation"
-  ]
+  ],
+  "date_start": "2023-09-22",
+  "format_id": "standard",
+  "id": "standard_ban_list_23_09",
+  "name": "Standard Ban List 23.09",
+  "subtypes": {
+    "banned": ["current"]
+  }
 }

@@ -2,18 +2,6 @@
   "card_type_id": "corp_identity",
   "deck_limit": 1,
   "designed_by": "null_signal_games",
-  "faction_id": "weyland_consortium",
-  "id": "earth_station_sea_headquarters",
-  "influence_limit": 15,
-  "is_unique": false,
-  "minimum_deck_size": 45,
-  "side_id": "corp",
-  "stripped_text": "Limit 1 remote server. As an additional cost to run HQ, the Runner must pay 1 credit. click: Flip this identity.",
-  "stripped_title": "Earth Station: SEA Headquarters",
-  "subtypes": ["division"],
-  "text": "Limit 1 remote server.\nAs an additional cost to run HQ, the Runner must pay 1[credit].\n[click]<strong>:</strong> Flip this identity.",
-  "title": "Earth Station: SEA Headquarters",
-  "layout_id": "flip",
   "faces": [
     {
       "stripped_text": "Limit 1 remote server. As an additional cost to run a remote server, the Runner must pay 6 credits. When the Runner makes a successful run on HQ, flip this identity.",
@@ -21,5 +9,17 @@
       "text": "Limit 1 remote server.\nAs an additional cost to run a remote server, the Runner must pay 6[credit].\nWhen the Runner makes a successful run on HQ, flip this identity.",
       "title": "Earth Station: Ascending to Orbit"
     }
-  ]
+  ],
+  "faction_id": "weyland_consortium",
+  "id": "earth_station_sea_headquarters",
+  "influence_limit": 15,
+  "is_unique": false,
+  "layout_id": "flip",
+  "minimum_deck_size": 45,
+  "side_id": "corp",
+  "stripped_text": "Limit 1 remote server. As an additional cost to run HQ, the Runner must pay 1 credit. click: Flip this identity.",
+  "stripped_title": "Earth Station: SEA Headquarters",
+  "subtypes": ["division"],
+  "text": "Limit 1 remote server.\nAs an additional cost to run HQ, the Runner must pay 1[credit].\n[click]<strong>:</strong> Flip this identity.",
+  "title": "Earth Station: SEA Headquarters"
 }
