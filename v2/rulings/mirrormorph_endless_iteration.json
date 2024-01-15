@@ -1,9 +1,9 @@
 [
   {
+    "answer": "Yes. Playing an operation is not normally considered complete until step 8.6.11, after the “after you resolve” ability from the Terminal ends the action phase. If Mirrormorph were already pending at that time, it would be cancelled as per rule 5.4.3b, but it only meets its trigger condition at the next checkpoint after that (5.4.3d). Therefore Mirrormorph’s ability is the very next thing to happen after the action phase is ended.",
     "card_id": "mirrormorph_endless_iteration",
     "date_update": "2019-04-27",
     "nsg_rules_team_verified": false,
-    "question": "####[NISEI](http://nisei.net) [Downfall Release Notes](http://nisei.net/products/Downfall/DFReleaseNotes#QandAforDownfall) [NISEI Rules Team]\nIf the Corp is playing Mirrormorph and the third action they take on their turn is to play a Terminal operation, do they get a bonus action?",
-    "answer": "Yes. Playing an operation is not normally considered complete until step 8.6.11, after the “after you resolve” ability from the Terminal ends the action phase. If Mirrormorph were already pending at that time, it would be cancelled as per rule 5.4.3b, but it only meets its trigger condition at the next checkpoint after that (5.4.3d). Therefore Mirrormorph’s ability is the very next thing to happen after the action phase is ended."
+    "question": "####[NISEI](http://nisei.net) [Downfall Release Notes](http://nisei.net/products/Downfall/DFReleaseNotes#QandAforDownfall) [NISEI Rules Team]\nIf the Corp is playing Mirrormorph and the third action they take on their turn is to play a Terminal operation, do they get a bonus action?"
   }
 ]

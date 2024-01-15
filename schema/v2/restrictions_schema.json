@@ -1,95 +1,16 @@
 {
   "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/restrictions_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "type": "object",
   "additionalProperties": false,
   "properties": {
-    "id": {
-      "minLength": 1,
-      "type": "string"
-    },
     "banned": {
-      "type": "array",
       "items": {
         "minLength": 1,
         "type": "string"
-      }
+      },
+      "type": "array"
     },
     "date_start": {
-      "minLength": 1,
-      "type": "string"
-    },
-    "subtypes": {
-      "type": "object",
-      "properties": {
-        "banned": {
-          "type": "array",
-          "items": {
-            "minLength": 1,
-            "type": "string"
-          }
-        }
-      }
-    },
-    "global_penalty": {
-      "type": "object",
-      "properties": {
-        "1": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        }
-      }
-    },
-    "universal_faction_cost": {
-      "type": "object",
-      "properties": {
-        "1": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        },
-        "3": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        }
-      }
-    },
-    "points": {
-      "type": "object",
-      "properties": {
-        "1": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        },
-        "2": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        },
-        "3": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        }
-      }
-    },
-    "restricted": {
-      "type": "array",
-      "items": {
-        "minLength": 1,
-        "type": "string"
-      }
-    },
-    "name": {
       "minLength": 1,
       "type": "string"
     },
@@ -97,10 +18,89 @@
       "minLength": 1,
       "type": "string"
     },
+    "global_penalty": {
+      "properties": {
+        "1": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        }
+      },
+      "type": "object"
+    },
+    "id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "name": {
+      "minLength": 1,
+      "type": "string"
+    },
     "point_limit": {
       "minimum": 1,
       "type": "integer"
+    },
+    "points": {
+      "properties": {
+        "1": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "2": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "3": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        }
+      },
+      "type": "object"
+    },
+    "restricted": {
+      "items": {
+        "minLength": 1,
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "subtypes": {
+      "properties": {
+        "banned": {
+          "items": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "type": "array"
+        }
+      },
+      "type": "object"
+    },
+    "universal_faction_cost": {
+      "properties": {
+        "1": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "3": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        }
+      },
+      "type": "object"
     }
   },
-  "required": ["id", "name", "date_start", "format_id"]
+  "required": ["id", "name", "date_start", "format_id"],
+  "type": "object"
 }

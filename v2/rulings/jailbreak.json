@@ -1,23 +1,23 @@
 [
   {
+    "answer": "When the run is declared successful at step 5a.",
     "card_id": "jailbreak",
     "date_update": "2021-10-10",
     "nsg_rules_team_verified": true,
-    "question": "When does the Runner draw 1 card with [Jailbreak](/en/card/30028)?",
-    "answer": "When the run is declared successful at step 5a."
+    "question": "When does the Runner draw 1 card with [Jailbreak](/en/card/30028)?"
   },
   {
+    "answer": "No. [Jailbreak](/en/card/30028)’s ability that gives an additional access is a delayed conditional ability created by its “If successful” ability. Since [Crisium Grid](/en/card/31079) stops the run from being declared successful, that ability is never resolved.",
     "card_id": "jailbreak",
     "date_update": "2021-10-10",
     "nsg_rules_team_verified": true,
-    "question": "If the Runner uses [Jailbreak](/en/card/30028) to run a server with a rezzed [Crisium Grid](/en/card/31079), will they access an additional card?",
-    "answer": "No. [Jailbreak](/en/card/30028)’s ability that gives an additional access is a delayed conditional ability created by its “If successful” ability. Since [Crisium Grid](/en/card/31079) stops the run from being declared successful, that ability is never resolved."
+    "question": "If the Runner uses [Jailbreak](/en/card/30028) to run a server with a rezzed [Crisium Grid](/en/card/31079), will they access an additional card?"
   },
   {
+    "answer": "No. An event that initiates a run is not fully resolved until that run is complete, and thus is in the play area, not the heap, at the time [Steve Cambridge](https://netrunnerdb.com/en/card/13001)’s ability resolves.",
     "card_id": "jailbreak",
     "date_update": "2022-04-24",
     "nsg_rules_team_verified": true,
-    "question": "If the Runner plays [Jailbreak](https://netrunnerdb.com/en/card/30028) or another run event to make a successful run on HQ, can they choose that event as one of the cards for [Steve Cambridge](https://netrunnerdb.com/en/card/13001)’s ability?",
-    "answer": "No. An event that initiates a run is not fully resolved until that run is complete, and thus is in the play area, not the heap, at the time [Steve Cambridge](https://netrunnerdb.com/en/card/13001)’s ability resolves."
+    "question": "If the Runner plays [Jailbreak](https://netrunnerdb.com/en/card/30028) or another run event to make a successful run on HQ, can they choose that event as one of the cards for [Steve Cambridge](https://netrunnerdb.com/en/card/13001)’s ability?"
   }
 ]

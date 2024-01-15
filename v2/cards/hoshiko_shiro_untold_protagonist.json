@@ -3,18 +3,6 @@
   "card_type_id": "runner_identity",
   "deck_limit": 1,
   "designed_by": "null_signal_games",
-  "faction_id": "anarch",
-  "id": "hoshiko_shiro_untold_protagonist",
-  "influence_limit": 15,
-  "is_unique": false,
-  "minimum_deck_size": 45,
-  "side_id": "runner",
-  "stripped_text": "When your turn ends, if you accessed at least 1 card this turn, gain 2 credits and flip this identity.",
-  "stripped_title": "Hoshiko Shiro: Untold Protagonist",
-  "subtypes": ["natural"],
-  "text": "When your turn ends, if you accessed at least 1 card this turn, gain 2[credit] and flip this identity.",
-  "title": "Hoshiko Shiro: Untold Protagonist",
-  "layout_id": "flip",
   "faces": [
     {
       "base_link": 1,
@@ -24,5 +12,17 @@
       "text": "When your turn begins, draw 1 card and lose 1[credit].\nWhen your turn ends, if you did not access at least 1 card this turn, flip this identity.",
       "title": "Hoshiko Shiro: Mahou Shouju"
     }
-  ]
+  ],
+  "faction_id": "anarch",
+  "id": "hoshiko_shiro_untold_protagonist",
+  "influence_limit": 15,
+  "is_unique": false,
+  "layout_id": "flip",
+  "minimum_deck_size": 45,
+  "side_id": "runner",
+  "stripped_text": "When your turn ends, if you accessed at least 1 card this turn, gain 2 credits and flip this identity.",
+  "stripped_title": "Hoshiko Shiro: Untold Protagonist",
+  "subtypes": ["natural"],
+  "text": "When your turn ends, if you accessed at least 1 card this turn, gain 2[credit] and flip this identity.",
+  "title": "Hoshiko Shiro: Untold Protagonist"
 }

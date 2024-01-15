@@ -2,18 +2,6 @@
   "card_type_id": "corp_identity",
   "deck_limit": 1,
   "designed_by": "fantasy_flight_games",
-  "faction_id": "jinteki",
-  "id": "jinteki_biotech_life_imagined",
-  "influence_limit": 15,
-  "is_unique": false,
-  "minimum_deck_size": 45,
-  "side_id": "corp",
-  "stripped_text": "Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech. click click click: Flip this identity.",
-  "stripped_title": "Jinteki Biotech: Life Imagined",
-  "subtypes": ["division"],
-  "text": "Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech.\n<strong>[click][click][click]:</strong> Flip this identity.",
-  "title": "Jinteki Biotech: Life Imagined",
-  "layout_id": "facade",
   "faces": [
     {
       "stripped_text": "When you flip this identity, do 2 net damage.",
@@ -36,5 +24,17 @@
       "text": "When you flip this identity, place 4 advancement counters on 1 installed card that you can advance.",
       "title": "The Greenhouse: Jinteki Biotech"
     }
-  ]
+  ],
+  "faction_id": "jinteki",
+  "id": "jinteki_biotech_life_imagined",
+  "influence_limit": 15,
+  "is_unique": false,
+  "layout_id": "facade",
+  "minimum_deck_size": 45,
+  "side_id": "corp",
+  "stripped_text": "Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech. click click click: Flip this identity.",
+  "stripped_title": "Jinteki Biotech: Life Imagined",
+  "subtypes": ["division"],
+  "text": "Before taking your first turn, you may switch this identity with any copy of Jinteki Biotech.\n<strong>[click][click][click]:</strong> Flip this identity.",
+  "title": "Jinteki Biotech: Life Imagined"
 }

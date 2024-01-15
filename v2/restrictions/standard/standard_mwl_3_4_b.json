@@ -1,27 +1,4 @@
 {
-  "id": "standard_mwl_3_4_b",
-  "name": "Standard MWL 3.4b",
-  "date_start": "2019-12-31",
-  "format_id": "standard",
-  "restricted": [
-    "aesops_pawnshop",
-    "bio_ethics_association",
-    "corporate_grant",
-    "dorm_computer",
-    "engolo",
-    "film_critic",
-    "gang_sign",
-    "global_food_initiative",
-    "inversificator",
-    "labor_rights",
-    "mad_dash",
-    "mumba_temple",
-    "obokata_protocol",
-    "paperclip",
-    "rumor_mill",
-    "tech_trader",
-    "whampoa_reclamation"
-  ],
   "banned": [
     "24_7_news_cycle",
     "aaron_marron",
@@ -50,5 +27,28 @@
     "watch_the_world_burn",
     "zealous_judge",
     "zer0"
+  ],
+  "date_start": "2019-12-31",
+  "format_id": "standard",
+  "id": "standard_mwl_3_4_b",
+  "name": "Standard MWL 3.4b",
+  "restricted": [
+    "aesops_pawnshop",
+    "bio_ethics_association",
+    "corporate_grant",
+    "dorm_computer",
+    "engolo",
+    "film_critic",
+    "gang_sign",
+    "global_food_initiative",
+    "inversificator",
+    "labor_rights",
+    "mad_dash",
+    "mumba_temple",
+    "obokata_protocol",
+    "paperclip",
+    "rumor_mill",
+    "tech_trader",
+    "whampoa_reclamation"
   ]
 }
