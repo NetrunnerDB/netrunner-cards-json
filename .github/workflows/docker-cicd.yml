@@ -60,13 +60,11 @@ jobs:
         
       - name: Tag image with run id
         run:
-          docker tag nsgcr/netrunner-cards-json \
-          registry.digitalocean.com/nsgcr/netrunner-cards-json:${{ github.run_id }}
+          docker tag nsgcr/netrunner-cards-json registry.digitalocean.com/nsgcr/netrunner-cards-json:${{ github.run_id }}
 
       - name: Tag image with latest
         run:
-          docker tag nsgcr/netrunner-cards-json \
-          registry.digitalocean.com/nsgcr/netrunner-cards-json:latest
+          docker tag nsgcr/netrunner-cards-json registry.digitalocean.com/nsgcr/netrunner-cards-json:latest
           
       - name: Push run id tag to DO Container Registry 
         run: docker push registry.digitalocean.com/nsgcr/netrunner-cards-json:${{ github.run_id }}
