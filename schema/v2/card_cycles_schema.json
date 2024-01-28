@@ -19,6 +19,10 @@
         "minLength": 1,
         "type": "string"
       },
+      "position": {
+        "minimum": 0,
+        "type": "integer"
+      },
       "released_by": {
         "enum": ["fantasy_flight_games", "null_signal_games"],
         "minLength": 1,

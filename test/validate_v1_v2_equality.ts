@@ -15,12 +15,16 @@ import { expect } from "chai";
 describe('Card Cycles v1/v2', () => {
   // id in v2 is the textToId'd version of the set name, not the same as the NRDB classic code.
   const cyclesByCode = new Map<string, string>();
+  const positionByLegacyCycleCode = new Map<string, number>();
   getCyclesJson().forEach(c => {
     cyclesByCode.set(c.code, c.name);
+    positionByLegacyCycleCode.set(c.code, c.position);
   });
   const cardCyclesByLegacyCode = new Map<string, string>();
+  const v2PositionByLegacyCycleCode = new Map<string, number>();
   getCardCyclesV2Json().forEach(s => {
     cardCyclesByLegacyCode.set(s.legacy_code, s.name);
+    v2PositionByLegacyCycleCode.set(s.legacy_code, s.position);
   });
 
   it('has correct number of cardCycles', () => {
@@ -31,6 +35,9 @@ describe('Card Cycles v1/v2', () => {
     cardCyclesByLegacyCode.forEach((name, legacyCode) => {
       expect(cyclesByCode.has(legacyCode), `legacy_code ${legacyCode} exists in packsByCode map`).to.be.true;
       expect(name, `name mismatch for card set ${name} with legacy_code ${legacyCode}`).to.equal(cyclesByCode.get(legacyCode));
+      expect(v2PositionByLegacyCycleCode.get(legacyCode),
+        `position mismatch for card set ${name} with position ${v2PositionByLegacyCycleCode.get(legacyCode)}`)
+        .to.equal(positionByLegacyCycleCode.get(legacyCode));
     });
   });
 });
