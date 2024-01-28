@@ -35,7 +35,8 @@ describe('Card Cycles v1/v2', () => {
     cardCyclesByLegacyCode.forEach((name, legacyCode) => {
       expect(cyclesByCode.has(legacyCode), `legacy_code ${legacyCode} exists in packsByCode map`).to.be.true;
       expect(name, `name mismatch for card set ${name} with legacy_code ${legacyCode}`).to.equal(cyclesByCode.get(legacyCode));
-      expect(v2PositionByLegacyCycleCode.get(legacyCode), `position mismatch for card set ${name} with position ${v2PositionByLegacyCycleCode.get(legacyCode)}`)
+      expect(v2PositionByLegacyCycleCode.get(legacyCode),
+        `position mismatch for card set ${name} with position ${v2PositionByLegacyCycleCode.get(legacyCode)}`)
         .to.equal(positionByLegacyCycleCode.get(legacyCode));
     });
   });
