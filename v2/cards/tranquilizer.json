@@ -9,9 +9,9 @@
   "is_unique": false,
   "memory_cost": 1,
   "side_id": "runner",
-  "stripped_text": "Install only on a piece of ice. When you install this program and when your turn begins, place 1 virus counter on this program. Then, if there are 3 or more hosted virus counters, derez host ice.",
+  "stripped_text": "Install only on a piece of ice. (If the host ice is uninstalled, this program is trashed.) When you install this program and when your turn begins, place 1 virus counter on this program. Then, if there are 3 or more hosted virus counters, derez host ice.",
   "stripped_title": "Tranquilizer",
   "subtypes": ["virus", "trojan"],
-  "text": "Install only on a piece of ice.\nWhen you install this program and when your turn begins, place 1 virus counter on this program. Then, if there are 3 or more hosted virus counters, derez host ice.",
+  "text": "Install only on a piece of ice. <em>(If the host ice is uninstalled, this program is trashed.)</em>\nWhen you install this program and when your turn begins, place 1 virus counter on this program. Then, if there are 3 or more hosted virus counters, derez host ice.",
   "title": "Tranquilizer"
 }
