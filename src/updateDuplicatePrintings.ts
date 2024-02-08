@@ -1,5 +1,7 @@
 // Given a v1 pack, update all other printings of cards in that pack to the
 // values in the specified pack.
+// Quiet a lint warning up since we know our data exists.
+/* eslint-disable @typescript-eslint/no-non-null-assertion */
 
 import fs from "fs";
 import { resolve } from "path";
@@ -96,13 +98,12 @@ fs.readdirSync(packsDir).forEach(file => {
 
 packsNeedingUpdates.forEach(p => {
     console.log(`Need to update pack file ${p}`);
-    let v1 = new Array<any>();
+    const v1 = new Array<any>();
     const json = JSON.parse(fs.readFileSync(resolve(p), 'utf-8'));
-    json.forEach(printing => {
+    json.forEach((printing: any) => {
         if (cardIds.has(printingIdToCardId.get(printing.code)!)) {
             console.log(`Need to update printing ${printing.code} (${printing.title})`);
-            // let newPrinting = deepCopy(printing);
-            let newCard = v2CardsById.get(printingIdToCardId.get(printing.code)!);
+            const newCard = v2CardsById.get(printingIdToCardId.get(printing.code)!);
             printing.title = newCard.title;
             printing.stripped_title = newCard.stripped_title;
             printing.text = newCard.text;
