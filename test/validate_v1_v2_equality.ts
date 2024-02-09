@@ -322,7 +322,10 @@ describe('Printings v1/v2 equality', () => {
         return;
       }
       const v2Printing = printingsById.get(v1.code);
+      expect(v2Printing, `Could not find v2 printing with code ${v1.code}`);
       const v2Card = v2CardsByTitle.get(v1.title);
+      expect(v2Card !== undefined, `Could not find v2 card with title ${v1.title}`);
+
       let v2Flavor = v2Printing.faces ? [v2Printing.flavor].concat(v2Printing.faces.map(s => s.flavor)).filter(f => !!f).join('\n') : v2Printing.flavor;
       if (!v2Flavor) {
         v2Flavor = v2Printing.flavor;
