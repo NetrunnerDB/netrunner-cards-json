@@ -108,6 +108,11 @@ packsNeedingUpdates.forEach(p => {
             printing.stripped_title = newCard.stripped_title;
             printing.text = newCard.text;
             printing.stripped_text = newCard.stripped_text;
+            // Note: this only handles single flip cards, not cards with more than 2 faces.
+            if ('faces' in newCard) {
+              printing.text  = `${printing.text}\nFlip side:\n${newCard.faces[0].text}`;
+              printing.stripped_text  = `${printing.stripped_text} Flip side: ${newCard.faces[0].stripped_text}`;
+            }
         }
         v1.push(printing);
     });
