@@ -8,9 +8,9 @@
   "influence_cost": 3,
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "Rez only during your action phase. Whenever the Runner makes a successful run on this server, they gain 2 credits. When your turn begins, gain 3 credits if the Runner did not make any successful runs on this server during their last turn.",
+  "stripped_text": "Rez only during your action phase. Whenever the Runner makes a successful run on this server, they gain 2 credits. When your turn begins, if the Runner did not make a successful run on this server during their last turn, gain 3 credits.",
   "stripped_title": "Daily Quest",
-  "text": "Rez only during your action phase.\nWhenever the Runner makes a successful run on this server, they gain 2[credit].\nWhen your turn begins, gain 3[credit] if the Runner did not make any successful runs on this server during their last turn.",
+  "text": "Rez only during your action phase.\nWhenever the Runner makes a successful run on this server, they gain 2[credit].\nWhen your turn begins, if the Runner did not make a successful run on this server during their last turn, gain 3[credit].",
   "title": "Daily Quest",
   "trash_cost": 3
 }

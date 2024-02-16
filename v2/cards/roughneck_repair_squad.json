@@ -8,9 +8,10 @@
   "influence_cost": 1,
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "click, click, click: Gain 6 credits. You may remove 1 bad publicity.",
+  "stripped_text": "click click click: Gain 6 credits. You may remove 1 bad publicity.",
   "stripped_title": "Roughneck Repair Squad",
-  "text": "[click], [click], [click]<strong>:</strong> Gain 6[credit]. You may remove 1 bad publicity.",
+  "subtypes": ["industrial"],
+  "text": "[click][click][click]<strong>:</strong> Gain 6[credit]. You may remove 1 bad publicity.",
   "title": "Roughneck Repair Squad",
   "trash_cost": 3
 }

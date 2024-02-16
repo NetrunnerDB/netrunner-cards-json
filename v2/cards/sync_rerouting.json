@@ -8,10 +8,10 @@
   "influence_cost": 3,
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "Play only if there is no active lockdown. This operation is not trashed until your next turn begins. Whenever a run begins, the Runner must pay 4 credits or take 1 tag.",
+  "stripped_text": "Play only if there is no active lockdown. This operation is not trashed until your next turn begins. Whenever a run begins, give the Runner 1 tag unless they pay 4 credits.",
   "stripped_title": "SYNC Rerouting",
   "subtypes": ["lockdown"],
-  "text": "Play only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nWhenever a run begins, the Runner must pay 4[credit] or take 1 tag.",
+  "text": "Play only if there is no active <strong>lockdown</strong>. This operation is not trashed until your next turn begins.\nWhenever a run begins, give the Runner 1 tag unless they pay 4[credit].",
   "title": "SYNC Rerouting",
   "trash_cost": 3
 }

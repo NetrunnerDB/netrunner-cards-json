@@ -10,9 +10,9 @@
   "memory_cost": 1,
   "side_id": "runner",
   "strength": 2,
-  "stripped_text": "When you install this program, for the remainder of the turn it gains \"Interface -> 0 credits: Break 1 code gate subroutine.\" Interface -> 2 credits: Break up to 2 code gate subroutines. 1 credit: +1 strength.",
+  "stripped_text": "Interface -> 0 credits: Break 1 code gate subroutine. Use this ability only if this program was installed this turn. Interface -> 2 credits: Break up to 2 code gate subroutines. 1 credit: +1 strength.",
   "stripped_title": "Euler",
   "subtypes": ["icebreaker", "decoder"],
-  "text": "When you install this program, for the remainder of the turn it gains \"Interface → <strong>0[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\"\nInterface → <strong>2[credit]:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength.",
+  "text": "Interface → <strong>0[credit]:</strong> Break 1 <strong>code gate</strong> subroutine. Use this ability only if this program was installed this turn.\nInterface → <strong>2[credit]:</strong> Break up to 2 <strong>code gate</strong> subroutines.\n<strong>1[credit]:</strong> +1 strength.",
   "title": "Euler"
 }
