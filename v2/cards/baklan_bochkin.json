@@ -8,9 +8,9 @@
   "influence_cost": 3,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "The first time each run you encounter a piece of ice, place 1 power counter on this resource. trash: Derez the ice you are encountering if its strength is equal to or less than the number of hosted power counters. Take 1 tag.",
+  "stripped_text": "The first time you encounter a piece of ice during each run, place 1 power counter on this resource. trash, X hosted power counters: Derez the ice you are encountering if its strength is X or less. Take 1 tag.",
   "stripped_title": "\"Baklan\" Bochkin",
   "subtypes": ["connection"],
-  "text": "The first time each run you encounter a piece of ice, place 1 power counter on this resource.\n[trash]<strong>:</strong> Derez the ice you are encountering if its strength is equal to or less than the number of hosted power counters. Take 1 tag.",
-  "title": "\"Baklan\" Bochkin"
+  "text": "The first time you encounter a piece of ice during each run, place 1 power counter on this resource.\n<strong>[trash], X hosted power counters:</strong> Derez the ice you are encountering if its strength is X or less. Take 1 tag.",
+  "title": "“Baklan” Bochkin"
 }

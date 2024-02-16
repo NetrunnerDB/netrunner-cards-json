@@ -8,10 +8,10 @@
   "influence_cost": 4,
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "After you resolve this operation, your action phase ends. Play only if the Runner has 3 or more agenda points and they made a successful run during their last turn. Name a card, then do 1 net damage. If you trash a copy of the named card, repeat this process.",
+  "stripped_text": "Play only if the Runner has 3 or more agenda points and they made a successful run during their last turn. After you resolve this operation, your action phase ends. Choose a card name, then do 1 net damage. If you trash a card with the chosen name this way, repeat this process.",
   "stripped_title": "Complete Image",
   "subtypes": ["terminal", "gray_ops"],
-  "text": "After you resolve this operation, your action phase ends.\nPlay only if the Runner has 3 or more agenda points and they made a successful run during their last turn.\nName a card, then do 1 net damage. If you trash a copy of the named card, repeat this process.",
+  "text": "Play only if the Runner has 3 or more agenda points and they made a successful run during their last turn.\nAfter you resolve this operation, your action phase ends.\nChoose a card name, then do 1 net damage. If you trash a card with the chosen name this way, repeat this process.",
   "title": "Complete Image",
   "trash_cost": 2
 }
