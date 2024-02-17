@@ -292,9 +292,9 @@
     "position": 35,
     "quantity": 3,
     "side_code": "corp",
-    "stripped_text": "Play only if the Runner trashed a Corp card during their last turn. Choose 1 installed Runner card. The Runner must take 2 tags or add that card to the top of the stack. Remove this operation from the game.",
+    "stripped_text": "Play only if the Runner trashed a Corp card during their last turn and the Runner has at least 1 installed card. Choose 1 installed Runner card. The Runner must take 2 tags or add that card to the top of the stack. Remove this operation from the game.",
     "stripped_title": "Threat Assessment",
-    "text": "Play only if the Runner trashed a Corp card during their last turn.\nChoose 1 installed Runner card. The Runner must take 2 tags or add that card to the top of the stack.\nRemove this operation from the game.",
+    "text": "Play only if the Runner trashed a Corp card during their last turn and the Runner has at least 1 installed card.\nChoose 1 installed Runner card. The Runner must take 2 tags or add that card to the top of the stack.\nRemove this operation from the game.",
     "title": "Threat Assessment",
     "type_code": "operation",
     "uniqueness": false
