@@ -115,7 +115,7 @@ describe('SetTypes', () => {
   });
 
   it('cardSetTypes have proper name/id format', () => {
-    cardSetTypes.forEach(function(st) {
+    cardSetTypes.forEach(function (st) {
       expect(st.id).to.equal(st.name.toLowerCase().replaceAll(' ', '_'));
     });
   });
@@ -128,7 +128,7 @@ describe('Types', () => {
   });
 
   it('cardTypes have proper name/id format', () => {
-    cardTypes.forEach(function(t) {
+    cardTypes.forEach(function (t) {
       expect(t.id).to.equal(textToId(t.name));
     });
   });
@@ -141,7 +141,7 @@ describe('Card Subtypes', () => {
   });
 
   it('subtypes have proper name/id format', () => {
-    subtypes.forEach(function(s) {
+    subtypes.forEach(function (s) {
       expect(s.id).to.equal(textToId(s.name));
     });
   });
@@ -161,7 +161,7 @@ describe('Card Sets', () => {
 
   it('has valid cycle ids', () => {
     cardSets.forEach(s => {
-     expect(cardCycleIds, `Card set ${s.name} has invalid card_cycle_id ${s.card_cycle_id}`).to.include(s.card_cycle_id);
+      expect(cardCycleIds, `Card set ${s.name} has invalid card_cycle_id ${s.card_cycle_id}`).to.include(s.card_cycle_id);
     });
   });
 });
@@ -218,7 +218,7 @@ describe('Printings', () => {
   });
 
   it('printing files have valid ids', () => {
-   const printingIds = new Set<string>();
+    const printingIds = new Set<string>();
     printingsByFilename.forEach((printing, file) => {
       const positions = new Set<number>();
 
@@ -355,7 +355,7 @@ describe('Card Pools', () => {
       cardSetsByCycleId.get(set.card_cycle_id)?.add(set.id);
     });
     cardPoolsByFilename.forEach((cardPool, file) => {
-     cardPool.forEach(p => {
+      cardPool.forEach(p => {
         p.card_cycle_ids?.forEach(card_cycle_id => {
           cardSetsByCycleId.get(card_cycle_id)?.forEach(card_set_id => {
             expect(p.card_set_ids, `card_set_ids for card pool ${p.id} in ${file} should have set ${card_set_id} for cycle ${card_cycle_id}`).includes(card_set_id);
@@ -471,7 +471,7 @@ describe('Restrictions', () => {
       if ('restricted' in restriction) {
         expect(restriction.restricted, `restricted list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.restricted.map((e) => e).sort());
       }
-     });
+    });
   });
 });
 
@@ -504,8 +504,8 @@ describe('Formats', () => {
     for (const format of formatsByFilename.values()) {
       const dateStart = new Set<string>();
       format.snapshots.forEach(s => {
-          expect(dateStart, `Format ${format.name} has a snapshot with a duplicate date_start: ${s.date_start}.`).to.not.include(s.date_start);
-          dateStart.add(s.date_start);
+        expect(dateStart, `Format ${format.name} has a snapshot with a duplicate date_start: ${s.date_start}.`).to.not.include(s.date_start);
+        dateStart.add(s.date_start);
       });
     }
   });

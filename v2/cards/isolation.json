@@ -2,13 +2,14 @@
   "card_type_id": "event",
   "cost": 2,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "anarch",
   "id": "isolation",
   "influence_cost": 1,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "As an additional cost to play this event, trash an installed resource. Gain 7 credits.",
+  "stripped_text": "As an additional cost to play this event, trash 1 installed resource. Gain 7 credits.",
   "stripped_title": "Isolation",
-  "text": "As an additional cost to play this event, trash an installed resource.\nGain 7[credit].",
+  "text": "As an additional cost to play this event, trash 1 installed resource.\nGain 7[credit].",
   "title": "Isolation"
 }

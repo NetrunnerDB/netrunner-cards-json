@@ -2,15 +2,16 @@
   "card_type_id": "asset",
   "cost": 0,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "haas_bioroid",
   "id": "cerebral_overwriter",
   "influence_cost": 2,
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "You can advance this asset. When the Runner accesses this asset while it is installed, you may pay 3 credits. If you do, do 1 core damage for each hosted advancement counter.",
+  "stripped_text": "You can advance this asset. When the Runner accesses this asset while it is installed, you may pay 3 credits to do X core damage. X is equal to the number of hosted advancement counters.",
   "stripped_title": "Cerebral Overwriter",
   "subtypes": ["ambush"],
-  "text": "You can advance this asset.\nWhen the Runner accesses this asset while it is installed, you may pay 3[credit]. If you do, do 1 core damage for each hosted advancement counter.",
+  "text": "You can advance this asset.\nWhen the Runner accesses this asset while it is installed, you may pay 3[credit] to do X core damage. X is equal to the number of hosted advancement counters.",
   "title": "Cerebral Overwriter",
   "trash_cost": 0
 }

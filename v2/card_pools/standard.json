@@ -1,8 +1,5 @@
 [
   {
-    "id": "pre_rotation",
-    "format_id": "standard",
-    "name": "Pre Rotation",
     "card_cycle_ids": [
       "core_set",
       "creation_and_control",
@@ -66,12 +63,12 @@
       "up_and_over",
       "upstalk",
       "what_lies_ahead"
-    ]
+    ],
+    "format_id": "standard",
+    "id": "pre_rotation",
+    "name": "Pre Rotation"
   },
   {
-    "id": "rotation_2017",
-    "format_id": "standard",
-    "name": "First Rotation",
     "card_cycle_ids": [
       "creation_and_control",
       "data_and_destiny",
@@ -130,12 +127,12 @@
       "up_and_over",
       "upstalk",
       "whispers_in_nalubaale"
-    ]
+    ],
+    "format_id": "standard",
+    "id": "rotation_2017",
+    "name": "First Rotation"
   },
   {
-    "id": "rotation_2018",
-    "format_id": "standard",
-    "name": "Second Rotation",
     "card_cycle_ids": [
       "creation_and_control",
       "data_and_destiny",
@@ -197,12 +194,74 @@
       "up_and_over",
       "upstalk",
       "whispers_in_nalubaale"
-    ]
+    ],
+    "format_id": "standard",
+    "id": "rotation_2018",
+    "name": "Second Rotation"
   },
   {
+    "card_cycle_ids": [
+      "ashes",
+      "data_and_destiny",
+      "flashpoint",
+      "honor_and_profit",
+      "kitara",
+      "magnum_opus",
+      "magnum_opus_reprint",
+      "mumbad",
+      "order_and_chaos",
+      "red_sand",
+      "reign_and_reverie",
+      "sansan",
+      "system_core_2019"
+    ],
+    "card_set_ids": [
+      "23_seconds",
+      "blood_and_water",
+      "blood_money",
+      "breaker_bay",
+      "business_first",
+      "chrome_city",
+      "council_of_the_crest",
+      "crimson_dust",
+      "daedalus_complex",
+      "data_and_destiny",
+      "democracy_and_dogma",
+      "down_the_white_nile",
+      "downfall",
+      "earths_scion",
+      "escalation",
+      "fear_the_masses",
+      "free_mars",
+      "honor_and_profit",
+      "intervention",
+      "kala_ghoda",
+      "kampala_ascendent",
+      "magnum_opus",
+      "magnum_opus_reprint",
+      "martial_law",
+      "old_hollywood",
+      "order_and_chaos",
+      "quorum",
+      "reign_and_reverie",
+      "salsette_island",
+      "sovereign_sight",
+      "station_one",
+      "system_core_2019",
+      "the_devil_and_the_dragon",
+      "the_liberated_mind",
+      "the_underway",
+      "the_universe_of_tomorrow",
+      "the_valley",
+      "uprising",
+      "uprising_booster_pack",
+      "whispers_in_nalubaale"
+    ],
+    "format_id": "standard",
     "id": "rotation_2019",
-    "format_id": "standard",
-    "name": "Third Rotation",
+    "name": "Third Rotation"
+  },
+  {
     "card_cycle_ids": [
       "ashes",
       "data_and_destiny",
@@ -215,6 +274,7 @@
       "order_and_chaos",
       "red_sand",
       "reign_and_reverie",
+      "salvaged_memories",
       "sansan",
       "system_core_2019"
     ],
@@ -248,6 +308,7 @@
       "quorum",
       "reign_and_reverie",
       "salsette_island",
+      "salvaged_memories",
       "sovereign_sight",
       "station_one",
       "system_core_2019",
@@ -259,76 +320,12 @@
       "uprising",
       "uprising_booster_pack",
       "whispers_in_nalubaale"
-    ]
-  },
-  {
+    ],
+    "format_id": "standard",
     "id": "rotation_2020",
-    "format_id": "standard",
-    "name": "Salvaged Memories",
-    "card_cycle_ids": [
-      "ashes",
-      "data_and_destiny",
-      "flashpoint",
-      "honor_and_profit",
-      "kitara",
-      "magnum_opus",
-      "magnum_opus_reprint",
-      "mumbad",
-      "order_and_chaos",
-      "red_sand",
-      "reign_and_reverie",
-      "salvaged_memories",
-      "sansan",
-      "system_core_2019"
-    ],
-    "card_set_ids": [
-      "23_seconds",
-      "blood_and_water",
-      "blood_money",
-      "breaker_bay",
-      "business_first",
-      "chrome_city",
-      "council_of_the_crest",
-      "crimson_dust",
-      "daedalus_complex",
-      "data_and_destiny",
-      "democracy_and_dogma",
-      "down_the_white_nile",
-      "downfall",
-      "earths_scion",
-      "escalation",
-      "fear_the_masses",
-      "free_mars",
-      "honor_and_profit",
-      "intervention",
-      "kala_ghoda",
-      "kampala_ascendent",
-      "magnum_opus",
-      "magnum_opus_reprint",
-      "martial_law",
-      "old_hollywood",
-      "order_and_chaos",
-      "quorum",
-      "reign_and_reverie",
-      "salsette_island",
-      "salvaged_memories",
-      "sovereign_sight",
-      "station_one",
-      "system_core_2019",
-      "the_devil_and_the_dragon",
-      "the_liberated_mind",
-      "the_underway",
-      "the_universe_of_tomorrow",
-      "the_valley",
-      "uprising",
-      "uprising_booster_pack",
-      "whispers_in_nalubaale"
-    ]
+    "name": "Salvaged Memories"
   },
   {
-    "id": "rotation_2021",
-    "format_id": "standard",
-    "name": "Fourth Rotation",
     "card_cycle_ids": [
       "ashes",
       "data_and_destiny",
@@ -378,12 +375,12 @@
       "uprising",
       "uprising_booster_pack",
       "whispers_in_nalubaale"
-    ]
+    ],
+    "format_id": "standard",
+    "id": "rotation_2021",
+    "name": "Fourth Rotation"
   },
   {
-    "id": "rotation_2022",
-    "format_id": "standard",
-    "name": "Fifth Rotation",
     "card_cycle_ids": [
       "ashes",
       "borealis",
@@ -428,6 +425,52 @@
       "uprising",
       "uprising_booster_pack",
       "whispers_in_nalubaale"
-    ]
+    ],
+    "format_id": "standard",
+    "id": "rotation_2022",
+    "name": "Fifth Rotation"
+  },
+  {
+    "card_cycle_ids": [
+      "ashes",
+      "borealis",
+      "kitara",
+      "liberation",
+      "magnum_opus",
+      "magnum_opus_reprint",
+      "red_sand",
+      "reign_and_reverie",
+      "system_gateway",
+      "system_update_2021"
+    ],
+    "card_set_ids": [
+      "blood_and_water",
+      "council_of_the_crest",
+      "crimson_dust",
+      "daedalus_complex",
+      "down_the_white_nile",
+      "downfall",
+      "earths_scion",
+      "free_mars",
+      "kampala_ascendent",
+      "magnum_opus",
+      "magnum_opus_reprint",
+      "midnight_sun",
+      "midnight_sun_booster_pack",
+      "parhelion",
+      "reign_and_reverie",
+      "sovereign_sight",
+      "station_one",
+      "system_gateway",
+      "system_update_2021",
+      "the_automata_initiative",
+      "the_devil_and_the_dragon",
+      "uprising",
+      "uprising_booster_pack",
+      "whispers_in_nalubaale"
+    ],
+    "format_id": "standard",
+    "id": "rotation_2023",
+    "name": "Sixth Rotation"
   }
 ]

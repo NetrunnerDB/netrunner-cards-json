@@ -1,8 +1,5 @@
 [
   {
-    "id": "startup_ashes",
-    "format_id": "startup",
-    "name": "Startup (Ashes)",
     "card_cycle_ids": ["ashes", "system_gateway", "system_update_2021"],
     "card_set_ids": [
       "downfall",
@@ -10,12 +7,12 @@
       "system_update_2021",
       "uprising",
       "uprising_booster_pack"
-    ]
+    ],
+    "format_id": "startup",
+    "id": "startup_ashes",
+    "name": "Startup (Ashes)"
   },
   {
-    "id": "startup_ashes_plus",
-    "format_id": "startup",
-    "name": "Startup (Ashes+)",
     "card_cycle_ids": ["ashes", "system_gateway", "system_update_2021"],
     "card_set_ids": [
       "downfall",
@@ -24,12 +21,12 @@
       "system_update_2021",
       "uprising",
       "uprising_booster_pack"
-    ]
+    ],
+    "format_id": "startup",
+    "id": "startup_ashes_plus",
+    "name": "Startup (Ashes+)"
   },
   {
-    "id": "startup_ashes_plus_midnight_sun",
-    "format_id": "startup",
-    "name": "Startup (Ashes + Midnight Sun)",
     "card_cycle_ids": ["ashes", "system_gateway", "system_update_2021"],
     "card_set_ids": [
       "downfall",
@@ -39,12 +36,12 @@
       "system_update_2021",
       "uprising",
       "uprising_booster_pack"
-    ]
+    ],
+    "format_id": "startup",
+    "id": "startup_ashes_plus_midnight_sun",
+    "name": "Startup (Ashes + Midnight Sun)"
   },
   {
-    "id": "startup_borealis",
-    "format_id": "startup",
-    "name": "Startup (Borealis)",
     "card_cycle_ids": ["borealis", "system_gateway", "system_update_2021"],
     "card_set_ids": [
       "midnight_sun",
@@ -52,6 +49,23 @@
       "parhelion",
       "system_gateway",
       "system_update_2021"
-    ]
+    ],
+    "format_id": "startup",
+    "id": "startup_borealis",
+    "name": "Startup (Borealis)"
+  },
+  {
+    "card_cycle_ids": ["borealis", "system_gateway", "system_update_2021"],
+    "card_set_ids": [
+      "midnight_sun",
+      "midnight_sun_booster_pack",
+      "parhelion",
+      "system_gateway",
+      "system_update_2021",
+      "the_automata_initiative"
+    ],
+    "format_id": "startup",
+    "id": "startup_borealis_plus_the_automata_initiative",
+    "name": "Startup (The Automata Initiative)"
   }
 ]

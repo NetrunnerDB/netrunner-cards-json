@@ -3,17 +3,7 @@
   "agenda_points": 2,
   "card_type_id": "agenda",
   "deck_limit": 3,
-  "faction_id": "neutral_corp",
-  "id": "evidence_collection",
-  "influence_cost": 0,
-  "is_unique": false,
-  "side_id": "corp",
-  "stripped_text": "When you win a game with Evidence Collection in your score area, reveal set 2.",
-  "stripped_title": "Evidence Collection",
-  "subtypes": ["research"],
-  "text": "When you win a game with Evidence Collection in your score area, reveal set 2.",
-  "title": "Evidence Collection",
-  "layout_id": "progression",
+  "designed_by": "fantasy_flight_games",
   "faces": [
     {
       "stripped_text": "When you win a game with Evidence Collection in your score area, reveal set 5.",
@@ -27,5 +17,16 @@
       "stripped_text": "Evidence Collection is worth 1 fewer agenda point while in the Runner's score area.",
       "text": "Evidence Collection is worth 1 fewer agenda point while in the Runner's score area."
     }
-  ]
+  ],
+  "faction_id": "neutral_corp",
+  "id": "evidence_collection",
+  "influence_cost": 0,
+  "is_unique": false,
+  "layout_id": "progression",
+  "side_id": "corp",
+  "stripped_text": "When you win a game with Evidence Collection in your score area, reveal set 2.",
+  "stripped_title": "Evidence Collection",
+  "subtypes": ["research"],
+  "text": "When you win a game with Evidence Collection in your score area, reveal set 2.",
+  "title": "Evidence Collection"
 }

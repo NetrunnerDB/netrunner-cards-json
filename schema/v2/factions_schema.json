@@ -1,20 +1,13 @@
 {
   "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/factions_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "type": "array",
   "items": {
-    "type": "object",
     "additionalProperties": false,
     "allOf": [
       {
-        "title": "Faction ids must be valid for the side.",
-        "type": "object",
         "oneOf": [
           {
             "properties": {
-              "side_id": {
-                "const": "corp"
-              },
               "id": {
                 "enum": [
                   "haas_bioroid",
@@ -23,14 +16,14 @@
                   "neutral_corp",
                   "weyland_consortium"
                 ]
+              },
+              "side_id": {
+                "const": "corp"
               }
             }
           },
           {
             "properties": {
-              "side_id": {
-                "const": "runner"
-              },
               "id": {
                 "enum": [
                   "adam",
@@ -41,17 +34,18 @@
                   "shaper",
                   "sunny_lebeau"
                 ]
+              },
+              "side_id": {
+                "const": "runner"
               }
             }
           }
-        ]
+        ],
+        "title": "Faction ids must be valid for the side.",
+        "type": "object"
       }
     ],
     "properties": {
-      "id": {
-        "minLength": 1,
-        "type": "string"
-      },
       "color": {
         "description": "Faction color in hex triplet format. This can be used to display faction-specific information in the appropriate color on an HTML webpage.",
         "maxLength": 6,
@@ -59,6 +53,10 @@
         "type": "string"
       },
       "description": {
+        "type": "string"
+      },
+      "id": {
+        "minLength": 1,
         "type": "string"
       },
       "is_mini": {
@@ -73,6 +71,8 @@
         "type": "string"
       }
     },
-    "required": ["id", "name"]
-  }
+    "required": ["id", "name"],
+    "type": "object"
+  },
+  "type": "array"
 }

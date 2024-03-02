@@ -2,22 +2,23 @@
   "card_type_id": "asset",
   "cost": 3,
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
+  "faces": [
+    {
+      "stripped_text": "Whenever you rez a piece of ice, give the Runner 1 tag. Whenever the Runner accesses cards, he or she accesses 1 fewer card if he or she is tagged (to a minimum of 1 card).",
+      "text": "Whenever you rez a piece of ice, give the Runner 1 tag.\nWhenever the Runner accesses cards, he or she accesses 1 fewer card if he or she is tagged (to a minimum of 1 card)."
+    }
+  ],
   "faction_id": "neutral_corp",
   "id": "lt_todachine",
   "influence_cost": 0,
   "is_unique": true,
+  "layout_id": "progression",
   "side_id": "corp",
   "stripped_text": "Whenever you rez a piece of ice, give the Runner 1 tag.",
   "stripped_title": "Lt. Todachine",
   "subtypes": ["character"],
   "text": "Whenever you rez a piece of ice, give the Runner 1 tag.",
   "title": "Lt. Todachine",
-  "trash_cost": 5,
-  "layout_id": "progression",
-  "faces": [
-    {
-      "stripped_text": "Whenever you rez a piece of ice, give the Runner 1 tag. Whenever the Runner accesses cards, he or she accesses 1 fewer card if he or she is tagged (to a minimum of 1 card).",
-      "text": "Whenever you rez a piece of ice, give the Runner 1 tag.\nWhenever the Runner accesses cards, he or she accesses 1 fewer card if he or she is tagged (to a minimum of 1 card)."
-    }
-  ]
+  "trash_cost": 5
 }

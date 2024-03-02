@@ -50,7 +50,7 @@ describe('Packs', () => {
   it('packs have valid cycle codes', () => {
     const cycleCodes = new Set<string>(getCyclesJson().map(a => a.code));
     packs.forEach(pack => {
-      expect(cycleCodes).to.include(pack.cycle_code, `Pack ${pack.name} has bad cycle ${pack.cycle_code}`); 
+      expect(cycleCodes).to.include(pack.cycle_code, `Pack ${pack.name} has bad cycle ${pack.cycle_code}`);
     });
   });
 });
@@ -74,7 +74,7 @@ describe('Rotations', () => {
     const cycleCodes = new Set<string>(getCyclesJson().map(a => a.code));
     rotations.forEach(rotation => {
       rotation.rotated.forEach(cycle_code => {
-        expect(cycleCodes).to.include(cycle_code, `Rotation ${rotation.name} has bad cycle ${cycle_code}`); 
+        expect(cycleCodes).to.include(cycle_code, `Rotation ${rotation.name} has bad cycle ${cycle_code}`);
       });
     });
   });
@@ -99,7 +99,7 @@ describe('Cards', () => {
   it('cards have valid pack codes', () => {
     const packCodes = new Set<string>(getPacksJson().map(a => a.code));
     cards.forEach(card => {
-      expect(packCodes).to.include(card.pack_code, `Card ${card.title} has bad pack ${card.pack_code}`); 
+      expect(packCodes).to.include(card.pack_code, `Card ${card.title} has bad pack ${card.pack_code}`);
     });
   });
 
@@ -113,40 +113,42 @@ describe('Cards', () => {
       }
       set.add(getter(card));
     });
-  
+
     map.forEach((set, title) => {
-      expect(set.size).to.equal(1, `card ${title} has varying ${attribute} across printings:\n\t${Array.from(set).join('\n\t')}`);
+      if (set.size > 1) {
+        expect.fail(`card ${title} has varying ${attribute} across printings:\n\t${Array.from(set).join('\n\t')}`)
+      }
     });
   }
 
   it('cards with multiple printings have identical required attributes', () => {
-    validateAttributeAcrossPrintings(cards, 'advancement_cost', function(card) { return card.advancement_cost });
-    validateAttributeAcrossPrintings(cards, 'agenda_points', function(card) { return card.agenda_points });
-    validateAttributeAcrossPrintings(cards, 'base_link', function(card) { return card.base_link });
-    validateAttributeAcrossPrintings(cards, 'cost', function(card) { return card.cost });
-    validateAttributeAcrossPrintings(cards, 'deck_limit', function(card) { return card.deck_limit });
-    validateAttributeAcrossPrintings(cards, 'faction_code', function(card) { return card.faction_code });
-    validateAttributeAcrossPrintings(cards, 'faction_cost', function(card) { return card.faction_cost });
-    validateAttributeAcrossPrintings(cards, 'influence_limit', function(card) { return card.influence_limit });
-    validateAttributeAcrossPrintings(cards, 'keywords', function(card) { return card.keywords });
-    validateAttributeAcrossPrintings(cards, 'memory_cost', function(card) { return card.memory_cost });
-    validateAttributeAcrossPrintings(cards, 'minimum_deck_size', function(card) { return card.minimum_deck_size });
-    validateAttributeAcrossPrintings(cards, 'side_code', function(card) { return card.side_code });
-    validateAttributeAcrossPrintings(cards, 'strength', function(card) { return card.strength });
-    validateAttributeAcrossPrintings(cards, 'stripped_text', function(card) { return card.stripped_text });
-    validateAttributeAcrossPrintings(cards, 'stripped_title', function(card) { return card.stripped_title });
-    validateAttributeAcrossPrintings(cards, 'text', function(card) { return card.text });
-    validateAttributeAcrossPrintings(cards, 'trash_cost', function(card) { return card.trash_cost });
-    validateAttributeAcrossPrintings(cards, 'type_code', function(card) { return card.type_code });
-    validateAttributeAcrossPrintings(cards, 'type_uniqueness', function(card) { return card.type_uniqueness });
+    validateAttributeAcrossPrintings(cards, 'advancement_cost', function (card) { return card.advancement_cost });
+    validateAttributeAcrossPrintings(cards, 'agenda_points', function (card) { return card.agenda_points });
+    validateAttributeAcrossPrintings(cards, 'base_link', function (card) { return card.base_link });
+    validateAttributeAcrossPrintings(cards, 'cost', function (card) { return card.cost });
+    validateAttributeAcrossPrintings(cards, 'deck_limit', function (card) { return card.deck_limit });
+    validateAttributeAcrossPrintings(cards, 'faction_code', function (card) { return card.faction_code });
+    validateAttributeAcrossPrintings(cards, 'faction_cost', function (card) { return card.faction_cost });
+    validateAttributeAcrossPrintings(cards, 'influence_limit', function (card) { return card.influence_limit });
+    validateAttributeAcrossPrintings(cards, 'keywords', function (card) { return card.keywords });
+    validateAttributeAcrossPrintings(cards, 'memory_cost', function (card) { return card.memory_cost });
+    validateAttributeAcrossPrintings(cards, 'minimum_deck_size', function (card) { return card.minimum_deck_size });
+    validateAttributeAcrossPrintings(cards, 'side_code', function (card) { return card.side_code });
+    validateAttributeAcrossPrintings(cards, 'strength', function (card) { return card.strength });
+    validateAttributeAcrossPrintings(cards, 'stripped_text', function (card) { return card.stripped_text });
+    validateAttributeAcrossPrintings(cards, 'stripped_title', function (card) { return card.stripped_title });
+    validateAttributeAcrossPrintings(cards, 'text', function (card) { return card.text });
+    validateAttributeAcrossPrintings(cards, 'trash_cost', function (card) { return card.trash_cost });
+    validateAttributeAcrossPrintings(cards, 'type_code', function (card) { return card.type_code });
+    validateAttributeAcrossPrintings(cards, 'type_uniqueness', function (card) { return card.type_uniqueness });
   });
 
   it('stripped text and title are ascii only', () => {
     cards.forEach(card => {
       if (card.text) {
-        expect(card.stripped_text, `${card.title} stripped_text missing`).to.exist; 
+        expect(card.stripped_text, `${card.title} stripped_text missing`).to.exist;
         expect(card.stripped_text, `${card.title} stripped_text should be ascii only`).to.equal(
-            Buffer.from(card.stripped_text.toString()).toString("ascii"));
+          Buffer.from(card.stripped_text.toString()).toString("ascii"));
       }
       expect(card.stripped_title, `${card.title} stripped_title should be ascii only`).to.equal(
         Buffer.from(card.stripped_title.toString()).toString("ascii"));
@@ -159,12 +161,12 @@ describe('Cards', () => {
         const textMatches = card.text.match(/Interface(..)?/g);
         for (const m in textMatches) {
           expect(textMatches[m], `${card.title} has incorrect interface formatting in text`)
-              .to.equal('Interface →');
+            .to.equal('Interface →');
         }
         const strippedTextMatches = card.stripped_text.match(/Interface(...)?/g);
         for (const m in strippedTextMatches) {
           expect(strippedTextMatches[m], `${card.title} has incorrect interface formatting in stripped_text`)
-              .to.equal('Interface ->');
+            .to.equal('Interface ->');
         }
       }
     });
@@ -176,12 +178,12 @@ describe('Cards', () => {
         const textMatches = card.text.match(/\[interrupt\](..)?/g);
         for (const m in textMatches) {
           expect(textMatches[m], `${card.title} has incorrect interrupt formatting in text`)
-              .to.equal('[interrupt] →');
+            .to.equal('[interrupt] →');
         }
         const strippedTextMatches = card.stripped_text.match(/Interrupt(...)?/gi);
         for (const m in strippedTextMatches) {
           expect(strippedTextMatches[m], `${card.title} has incorrect interrupt formatting in stripped_text`)
-              .to.equal('Interrupt ->');
+            .to.equal('Interrupt ->');
         }
       }
     });
@@ -225,13 +227,13 @@ describe('Translations', () => {
 describe('Prebuilts', () => {
   it('prebuilts.json is correct JSON', () => {
     const prebuilts = getPrebuiltsJson();
-    expect(prebuilts).to.exist; 
+    expect(prebuilts).to.exist;
   });
 });
 
 describe('Mwl', () => {
   it('mwl.json is correct JSON', () => {
     const mwl = getMwlJson();
-    expect(mwl).to.exist; 
+    expect(mwl).to.exist;
   });
 });

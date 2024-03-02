@@ -2,14 +2,15 @@
   "card_type_id": "hardware",
   "cost": 3,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "anarch",
   "id": "keiko",
   "influence_cost": 3,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "+2 mu The first time each turn you spend credits from or install a companion, gain 1 credit. Limit 1 console per player.",
+  "stripped_text": "+2 mu The first time each turn you install a companion card or spend credits from an installed companion card, gain 1 credit. Limit 1 console per player.",
   "stripped_title": "Keiko",
   "subtypes": ["console", "companion"],
-  "text": "+2[mu]\nThe first time each turn you spend credits from or install a <strong>companion</strong>, gain 1[credit].\nLimit 1 <strong>console</strong> per player.",
+  "text": "+2[mu]\nThe first time each turn you install a <strong>companion</strong> card or spend credits from an installed <strong>companion</strong> card, gain 1[credit].\nLimit 1 <strong>console</strong> per player.",
   "title": "Keiko"
 }

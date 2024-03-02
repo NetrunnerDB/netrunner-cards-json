@@ -2,14 +2,15 @@
   "card_type_id": "event",
   "cost": 3,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "shaper",
   "id": "khusyuk",
   "influence_cost": 2,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "Run R&D. If successful, instead of breaching R&D, choose a number greater than 0. For each installed card you have with a printed install cost matching that number, reveal 1 card from the top of R&D (max 6). Access 1 of the revealed cards, then the Corp shuffles R&D.",
+  "stripped_text": "Run R&D. If successful, instead of breaching R&D, choose an install cost greater than 0 credits. The Corp sets aside the top X cards of R&D faceup, where X is equal to the number of your installed cards with that printed install cost, up to 6. Access 1 of the set-aside cards. The Corp shuffles the set-aside cards into R&D.",
   "stripped_title": "Khusyuk",
   "subtypes": ["run"],
-  "text": "Run R&D. If successful, instead of breaching R&D, choose a number greater than 0. For each installed card you have with a printed install cost matching that number, reveal 1 card from the top of R&D (max 6). Access 1 of the revealed cards, then the Corp shuffles R&D.",
+  "text": "Run R&D. If successful, instead of breaching R&D, choose an install cost greater than 0[credit]. The Corp sets aside the top X cards of R&D faceup, where X is equal to the number of your installed cards with that printed install cost, up to 6. Access 1 of the set-aside cards. The Corp shuffles the set-aside cards into R&D.",
   "title": "Khusyuk"
 }

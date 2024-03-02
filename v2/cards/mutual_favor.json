@@ -2,13 +2,14 @@
   "card_type_id": "event",
   "cost": 0,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "criminal",
   "id": "mutual_favor",
   "influence_cost": 3,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "Search your stack for 1 icebreaker program and reveal it. (Shuffle your stack after searching it.) If you made a successful run this turn, you may install it. If you do not, add it to your grip.",
+  "stripped_text": "Search your stack for 1 icebreaker and reveal it. (Shuffle your stack after searching it.) If you made a successful run this turn, you may install that program. If you do not, add it to your grip.",
   "stripped_title": "Mutual Favor",
-  "text": "Search your stack for 1 <strong>icebreaker</strong> program and reveal it. <em>(Shuffle your stack after searching it.)</em> If you made a successful run this turn, you may install it. If you do not, add it to your grip.",
+  "text": "Search your stack for 1 <strong>icebreaker</strong> and reveal it. <em>(Shuffle your stack after searching it.)</em> If you made a successful run this turn, you may install that program. If you do not, add it to your grip.",
   "title": "Mutual Favor"
 }

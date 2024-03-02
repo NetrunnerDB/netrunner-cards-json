@@ -31,7 +31,7 @@ export function textToId(text: string): string {
     // Unicode Canonical Decomposition - switching single code points to multiple code points.
     .normalize('NFD')
     // remove non-ASCII
-    .replace(/\P{ASCII}/u, '')
+    .replace(/\P{ASCII}/gu, '')
     // replace 's followed by a space or end-of-line with s and the space/end match.
     .replace(/'s(\s|$)/gu, 's$1')
     // split along space or punction.

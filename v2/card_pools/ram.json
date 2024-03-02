@@ -1,8 +1,5 @@
 [
   {
-    "id": "ram_0",
-    "name": "RAM 0",
-    "format_id": "ram",
     "card_set_ids": [
       "business_first",
       "chrome_city",
@@ -18,12 +15,12 @@
       "system_gateway",
       "up_and_over",
       "upstalk"
-    ]
+    ],
+    "format_id": "ram",
+    "id": "ram_0",
+    "name": "RAM 0"
   },
   {
-    "id": "ram_1",
-    "format_id": "ram",
-    "name": "RAM 1",
     "card_set_ids": [
       "creation_and_control",
       "daedalus_complex",
@@ -39,12 +36,12 @@
       "up_and_over",
       "what_lies_ahead",
       "whispers_in_nalubaale"
-    ]
+    ],
+    "format_id": "ram",
+    "id": "ram_1",
+    "name": "RAM 1"
   },
   {
-    "id": "ram_2",
-    "format_id": "ram",
-    "name": "RAM 2",
     "card_set_ids": [
       "all_that_remains",
       "blood_and_water",
@@ -60,12 +57,12 @@
       "the_universe_of_tomorrow",
       "trace_amount",
       "uprising"
-    ]
+    ],
+    "format_id": "ram",
+    "id": "ram_2",
+    "name": "RAM 2"
   },
   {
-    "id": "ram_3",
-    "format_id": "ram",
-    "name": "RAM 3",
     "card_set_ids": [
       "a_study_in_static",
       "business_first",
@@ -81,12 +78,12 @@
       "the_liberated_mind",
       "true_colors",
       "upstalk"
-    ]
+    ],
+    "format_id": "ram",
+    "id": "ram_3",
+    "name": "RAM 3"
   },
   {
-    "id": "ram_4",
-    "format_id": "ram",
-    "name": "RAM 4",
     "card_set_ids": [
       "blood_and_water",
       "council_of_the_crest",
@@ -102,12 +99,12 @@
       "second_thoughts",
       "the_valley",
       "up_and_over"
-    ]
+    ],
+    "format_id": "ram",
+    "id": "ram_4",
+    "name": "RAM 4"
   },
   {
-    "id": "ram_5",
-    "format_id": "ram",
-    "name": "RAM 5",
     "card_set_ids": [
       "23_seconds",
       "all_that_remains",
@@ -123,12 +120,12 @@
       "the_underway",
       "upstalk",
       "what_lies_ahead"
-    ]
+    ],
+    "format_id": "ram",
+    "id": "ram_5",
+    "name": "RAM 5"
   },
   {
-    "id": "ram_6",
-    "format_id": "ram",
-    "name": "RAM 6",
     "card_set_ids": [
       "chrome_city",
       "data_and_destiny",
@@ -144,12 +141,12 @@
       "system_gateway",
       "up_and_over",
       "whispers_in_nalubaale"
-    ]
+    ],
+    "format_id": "ram",
+    "id": "ram_6",
+    "name": "RAM 6"
   },
   {
-    "id": "ram_7",
-    "format_id": "ram",
-    "name": "RAM 7",
     "card_set_ids": [
       "all_that_remains",
       "creation_and_control",
@@ -165,6 +162,9 @@
       "the_liberated_mind",
       "up_and_over",
       "upstalk"
-    ]
+    ],
+    "format_id": "ram",
+    "id": "ram_7",
+    "name": "RAM 7"
   }
 ]

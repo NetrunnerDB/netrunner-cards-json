@@ -15,12 +15,16 @@ import { expect } from "chai";
 describe('Card Cycles v1/v2', () => {
   // id in v2 is the textToId'd version of the set name, not the same as the NRDB classic code.
   const cyclesByCode = new Map<string, string>();
+  const positionByLegacyCycleCode = new Map<string, number>();
   getCyclesJson().forEach(c => {
     cyclesByCode.set(c.code, c.name);
+    positionByLegacyCycleCode.set(c.code, c.position);
   });
   const cardCyclesByLegacyCode = new Map<string, string>();
+  const v2PositionByLegacyCycleCode = new Map<string, number>();
   getCardCyclesV2Json().forEach(s => {
     cardCyclesByLegacyCode.set(s.legacy_code, s.name);
+    v2PositionByLegacyCycleCode.set(s.legacy_code, s.position);
   });
 
   it('has correct number of cardCycles', () => {
@@ -31,6 +35,9 @@ describe('Card Cycles v1/v2', () => {
     cardCyclesByLegacyCode.forEach((name, legacyCode) => {
       expect(cyclesByCode.has(legacyCode), `legacy_code ${legacyCode} exists in packsByCode map`).to.be.true;
       expect(name, `name mismatch for card set ${name} with legacy_code ${legacyCode}`).to.equal(cyclesByCode.get(legacyCode));
+      expect(v2PositionByLegacyCycleCode.get(legacyCode),
+        `position mismatch for card set ${name} with position ${v2PositionByLegacyCycleCode.get(legacyCode)}`)
+        .to.equal(positionByLegacyCycleCode.get(legacyCode));
     });
   });
 });
@@ -277,14 +284,14 @@ describe('Printings v1/v2 equality', () => {
   function validate(v1Field: string, maybeV2Field?: string) {
     const v2Field = maybeV2Field == undefined ? v1Field : maybeV2Field;
     v1CardsByCode.forEach((c, code) => {
-      if (checkTdc(c, code)) {
+      if (checkTdc(c)) {
         return;
       }
       expect(c[v1Field], `${v2Field} mismatch for ${code}`).to.equal(printingsById.get(code)[v2Field]);
     });
   }
 
-  function checkTdc(v1: any, code: string): boolean {
+  function checkTdc(v1: any): boolean {
     return !v2CardsByTitle.get(v1.title) && v1.pack_code == 'tdc';
   }
 
@@ -303,7 +310,7 @@ describe('Printings v1/v2 equality', () => {
 
   it('card set matches pack names.', () => {
     v1CardsByCode.forEach((v1, code) => {
-      if (checkTdc(v1, code)) {
+      if (checkTdc(v1)) {
         return;
       }
       expect(packsByCode.get(v1.pack_code),
@@ -315,11 +322,14 @@ describe('Printings v1/v2 equality', () => {
   // v1 flavor text includes design attributions, but in v2 that has been separated into the card attribution property.
   it('flavor matches', () => {
     v1Cards.forEach(v1 => {
-      if (checkTdc(v1, v1.code)) {
+      if (checkTdc(v1)) {
         return;
       }
       const v2Printing = printingsById.get(v1.code);
+      expect(v2Printing, `Could not find v2 printing with code ${v1.code}`);
       const v2Card = v2CardsByTitle.get(v1.title);
+      expect(v2Card !== undefined, `Could not find v2 card with title ${v1.title}`);
+
       let v2Flavor = v2Printing.faces ? [v2Printing.flavor].concat(v2Printing.faces.map(s => s.flavor)).filter(f => !!f).join('\n') : v2Printing.flavor;
       if (!v2Flavor) {
         v2Flavor = v2Printing.flavor;
@@ -349,7 +359,7 @@ describe('Printings v1/v2 equality', () => {
   // copy cards have inconsistent printing representation so are excluded.
   it('quantity matches', () => {
     v1CardsByCode.forEach((c, code) => {
-      if (checkTdc(c, code)) {
+      if (checkTdc(c)) {
         return;
       }
       const p = printingsById.get(code);

@@ -1,18 +1,12 @@
 {
   "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v2/cards_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "type": "object",
   "additionalProperties": false,
   "allOf": [
     {
-      "title": "Faction id must be valid for the side.",
-      "type": "object",
       "oneOf": [
         {
           "properties": {
-            "side_id": {
-              "const": "corp"
-            },
             "faction_id": {
               "enum": [
                 "haas_bioroid",
@@ -21,14 +15,14 @@
                 "neutral_corp",
                 "weyland_consortium"
               ]
+            },
+            "side_id": {
+              "const": "corp"
             }
           }
         },
         {
           "properties": {
-            "side_id": {
-              "const": "runner"
-            },
             "faction_id": {
               "enum": [
                 "adam",
@@ -39,20 +33,20 @@
                 "shaper",
                 "sunny_lebeau"
               ]
+            },
+            "side_id": {
+              "const": "runner"
             }
           }
         }
-      ]
+      ],
+      "title": "Faction id must be valid for the side.",
+      "type": "object"
     },
     {
-      "title": "Type ids must be valid for the side.",
-      "type": "object",
       "oneOf": [
         {
           "properties": {
-            "side_id": {
-              "const": "corp"
-            },
             "card_type_id": {
               "enum": [
                 "agenda",
@@ -62,14 +56,14 @@
                 "operation",
                 "upgrade"
               ]
+            },
+            "side_id": {
+              "const": "corp"
             }
           }
         },
         {
           "properties": {
-            "side_id": {
-              "const": "runner"
-            },
             "card_type_id": {
               "enum": [
                 "event",
@@ -78,12 +72,101 @@
                 "resource",
                 "runner_identity"
               ]
+            },
+            "side_id": {
+              "const": "runner"
             }
           }
         }
-      ]
+      ],
+      "title": "Type ids must be valid for the side.",
+      "type": "object"
     }
   ],
+  "dependentSchemas": {
+    "layout_id": {
+      "oneOf": [
+        {
+          "properties": {
+            "faces": {
+              "type": "null"
+            },
+            "layout_id": {
+              "oneOf": [
+                {
+                  "const": "normal"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "properties": {
+            "faces": {
+              "items": {
+                "type": "object"
+              },
+              "maxItems": 1,
+              "minItems": 1,
+              "type": "array"
+            },
+            "layout_id": {
+              "const": "flip"
+            }
+          },
+          "required": ["faces"]
+        },
+        {
+          "properties": {
+            "faces": {
+              "items": {
+                "type": "object"
+              },
+              "minItems": 1,
+              "type": "array"
+            },
+            "layout_id": {
+              "const": "copy"
+            }
+          },
+          "required": ["faces"]
+        },
+        {
+          "properties": {
+            "faces": {
+              "items": {
+                "type": "object"
+              },
+              "minItems": 1,
+              "type": "array"
+            },
+            "layout_id": {
+              "const": "facade"
+            }
+          },
+          "required": ["faces"]
+        },
+        {
+          "properties": {
+            "faces": {
+              "items": {
+                "type": "object"
+              },
+              "minItems": 1,
+              "type": "array"
+            },
+            "layout_id": {
+              "const": "progression"
+            }
+          },
+          "required": ["faces"]
+        }
+      ]
+    }
+  },
   "oneOf": [
     {
       "properties": {
@@ -110,6 +193,9 @@
     },
     {
       "properties": {
+        "card_type_id": {
+          "enum": ["asset", "upgrade"]
+        },
         "cost": {
           "oneOf": [
             {
@@ -124,15 +210,15 @@
         "trash_cost": {
           "minimum": 0,
           "type": "integer"
-        },
-        "card_type_id": {
-          "enum": ["asset", "upgrade"]
         }
       },
       "required": ["cost", "trash_cost"]
     },
     {
       "properties": {
+        "card_type_id": {
+          "enum": ["ice"]
+        },
         "cost": {
           "oneOf": [
             {
@@ -153,15 +239,15 @@
               "type": "null"
             }
           ]
-        },
-        "card_type_id": {
-          "enum": ["ice"]
         }
       },
       "required": ["cost", "strength"]
     },
     {
       "properties": {
+        "card_type_id": {
+          "enum": ["event", "hardware", "operation", "program", "resource"]
+        },
         "cost": {
           "oneOf": [
             {
@@ -172,15 +258,15 @@
               "type": "null"
             }
           ]
-        },
-        "card_type_id": {
-          "enum": ["event", "hardware", "operation", "program", "resource"]
         }
       },
       "required": ["cost"]
     },
     {
       "properties": {
+        "card_type_id": {
+          "enum": ["corp_identity", "runner_identity"]
+        },
         "influence_limit": {
           "oneOf": [
             {
@@ -195,9 +281,6 @@
         "minimum_deck_size": {
           "minimum": 0,
           "type": "integer"
-        },
-        "card_type_id": {
-          "enum": ["corp_identity", "runner_identity"]
         }
       },
       "required": ["influence_limit", "minimum_deck_size"]
@@ -227,7 +310,7 @@
       "minimum": 0,
       "type": "integer"
     },
-    "id": {
+    "card_type_id": {
       "minLength": 1,
       "type": "string"
     },
@@ -246,7 +329,26 @@
       "minimum": 1,
       "type": "integer"
     },
+    "designed_by": {
+      "enum": ["fantasy_flight_games", "null_signal_games"],
+      "minLength": 1,
+      "type": "string"
+    },
+    "faces": {
+      "oneOf": [
+        {
+          "type": "array"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
     "faction_id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "id": {
       "minLength": 1,
       "type": "string"
     },
@@ -265,11 +367,14 @@
         }
       ]
     },
+    "is_unique": {
+      "type": "boolean"
+    },
     "layout_id": {
       "oneOf": [
         {
-          "type": "string",
-          "enum": ["normal", "flip", "copy", "facade", "progression"]
+          "enum": ["normal", "flip", "copy", "facade", "progression"],
+          "type": "string"
         },
         {
           "type": "null"
@@ -289,19 +394,9 @@
       "type": "string"
     },
     "side_id": {
+      "enum": ["corp", "runner"],
       "minLength": 1,
-      "type": "string",
-      "enum": ["corp", "runner"]
-    },
-    "faces": {
-      "oneOf": [
-        {
-          "type": "array"
-        },
-        {
-          "type": "null"
-        }
-      ]
+      "type": "string"
     },
     "strength": {
       "oneOf": [
@@ -321,6 +416,12 @@
       "minLength": 1,
       "type": "string"
     },
+    "subtypes": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
     "text": {
       "minLength": 1,
       "type": "string"
@@ -332,112 +433,17 @@
     "trash_cost": {
       "minimum": 0,
       "type": "integer"
-    },
-    "card_type_id": {
-      "minLength": 1,
-      "type": "string"
-    },
-    "is_unique": {
-      "type": "boolean"
-    },
-    "subtypes": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
     }
   },
   "required": [
-    "id",
-    "faction_id",
-    "deck_limit",
-    "side_id",
-    "title",
     "card_type_id",
-    "is_unique"
+    "deck_limit",
+    "designed_by",
+    "faction_id",
+    "id",
+    "is_unique",
+    "side_id",
+    "title"
   ],
-  "dependentSchemas": {
-    "layout_id": {
-      "oneOf": [
-        {
-          "properties": {
-            "layout_id": {
-              "oneOf": [
-                {
-                  "const": "normal"
-                },
-                {
-                  "type": "null"
-                }
-              ]
-            },
-            "faces": {
-              "type": "null"
-            }
-          }
-        },
-        {
-          "properties": {
-            "layout_id": {
-              "const": "flip"
-            },
-            "faces": {
-              "type": "array",
-              "minItems": 1,
-              "maxItems": 1,
-              "items": {
-                "type": "object"
-              }
-            }
-          },
-          "required": ["faces"]
-        },
-        {
-          "properties": {
-            "layout_id": {
-              "const": "copy"
-            },
-            "faces": {
-              "type": "array",
-              "minItems": 1,
-              "items": {
-                "type": "object"
-              }
-            }
-          },
-          "required": ["faces"]
-        },
-        {
-          "properties": {
-            "layout_id": {
-              "const": "facade"
-            },
-            "faces": {
-              "type": "array",
-              "minItems": 1,
-              "items": {
-                "type": "object"
-              }
-            }
-          },
-          "required": ["faces"]
-        },
-        {
-          "properties": {
-            "layout_id": {
-              "const": "progression"
-            },
-            "faces": {
-              "type": "array",
-              "minItems": 1,
-              "items": {
-                "type": "object"
-              }
-            }
-          },
-          "required": ["faces"]
-        }
-      ]
-    }
-  }
+  "type": "object"
 }

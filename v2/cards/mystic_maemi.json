@@ -2,14 +2,15 @@
   "card_type_id": "resource",
   "cost": 1,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "anarch",
   "id": "mystic_maemi",
   "influence_cost": 2,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "When your turn begins or you steal an agenda, place 1 credit on this resource. Spend hosted credits to play events. When your turn ends, if there are 3 or more hosted credits, you must trash 1 card from your grip at random or trash this resource.",
+  "stripped_text": "When your turn begins and whenever you steal an agenda, place 1 credit on this resource. You can spend hosted credits to play events. When your turn ends, if there are 3 or more hosted credits, you must trash 1 card from your grip at random or trash this resource.",
   "stripped_title": "Mystic Maemi",
   "subtypes": ["companion", "virtual"],
-  "text": "When your turn begins or you steal an agenda, place 1[credit] on this resource.\nSpend hosted credits to play events.\nWhen your turn ends, if there are 3 or more hosted credits, you must trash 1 card from your grip at random or trash this resource.",
+  "text": "When your turn begins and whenever you steal an agenda, place 1[credit] on this resource.\nYou can spend hosted credits to play events.\nWhen your turn ends, if there are 3 or more hosted credits, you must trash 1 card from your grip at random or trash this resource.",
   "title": "Mystic Maemi"
 }

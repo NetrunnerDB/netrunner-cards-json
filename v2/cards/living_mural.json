@@ -1,0 +1,18 @@
+{
+  "card_type_id": "program",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "shaper",
+  "id": "living_mural",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 1,
+  "stripped_text": "Install only on a piece of ice. Threat 4 -> When you install this program, it gets +3 strength for the remainder of the turn. (This ability is active if any player has 4 or more agenda points.) Interface -> 1 credit: Break 1 subroutine on a sentry protecting this server. 1 credit: +2 strength.",
+  "stripped_title": "Living Mural",
+  "subtypes": ["icebreaker", "killer", "trojan"],
+  "text": "Install only on a piece of ice.\nThreat 4 → When you install this program, it gets +3 strength for the remainder of the turn. <em>(This ability is active if any player has 4 or more agenda points.)</em>\nInterface → <strong>1[credit]:</strong> Break 1 subroutine on a <strong>sentry</strong> protecting this server.\n<strong>1[credit]:</strong> +2 strength.",
+  "title": "Living Mural"
+}

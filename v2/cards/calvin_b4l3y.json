@@ -2,6 +2,7 @@
   "card_type_id": "asset",
   "cost": 0,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "haas_bioroid",
   "id": "calvin_b4l3y",
   "influence_cost": 1,
@@ -10,7 +11,7 @@
   "stripped_text": "click: Draw 2 cards. Use this ability only once per turn. When the Runner trashes this asset, you may draw 2 cards.",
   "stripped_title": "Calvin B4L3Y",
   "subtypes": ["bioroid"],
-  "text": "[click]<strong>:</strong> Draw 2 cards. Use this ability only once per turn.\nWhen the Runner trashes this asset, you may draw 2 cards.",
+  "text": "<strong>[click]:</strong> Draw 2 cards. Use this ability only once per turn.\nWhen the Runner trashes this asset, you may draw 2 cards.",
   "title": "Calvin B4L3Y",
   "trash_cost": 3
 }
