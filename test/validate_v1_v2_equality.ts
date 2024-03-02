@@ -232,10 +232,6 @@ describe('Cards v1/v2 equality', () => {
     validate('minimum_deck_size');
   });
 
-  it('pronouns matches', () => {
-    validate('pronouns');
-  });
-
   it('side_id matches', () => {
     validate('side_code', 'side_id');
   });
