@@ -1,0 +1,23 @@
+[
+  {
+    "answer": "If the Runner cannot pay 3<span class=\"icon icon-credit\"></span> when encountering [Tollbooth](https://netrunnerdb.com/en/card/31066), then the run ends without the Runner paying any credits.",
+    "card_id": "tollbooth",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
+    "question": "What happens if the Runner cannot pay 3<span class=\"icon icon-credit\"></span> when encountering [Tollbooth](https://netrunnerdb.com/en/card/31066)?"
+  },
+  {
+    "answer": "No, the encounter ability from [Tollbooth](https://netrunnerdb.com/en/card/31066) says that the Runner must pay 3<span class=\"icon icon-credit\"></span> if they are able.",
+    "card_id": "tollbooth",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Runner choose not to pay 3<span class=\"icon icon-credit\"></span> and let the run end when encountering [Tollbooth](https://netrunnerdb.com/en/card/31066)?"
+  },
+  {
+    "answer": "No. An ability that meets its trigger condition due to an encounter beginning can only resolve if the encounter is still taking place. [Inside Job](https://netrunnerdb.com/en/card/31018)’s bypass ability meets its trigger condition at the same time as [Funhouse](https://netrunnerdb.com/en/card/30054) or [Tollbooth](https://netrunnerdb.com/en/card/31066)’s ability, and as it’s the Runner’s turn, they will resolve the ability they control first. Bypassing a piece of ice immediately ends the encounter, stopping the Corp from resolving their ability before they can tag the Runner or charge a toll.",
+    "card_id": "tollbooth",
+    "date_update": "2022-04-24",
+    "nsg_rules_team_verified": true,
+    "question": "If the Runner plays [Inside Job](https://netrunnerdb.com/en/card/31018) and bypasses [Funhouse](https://netrunnerdb.com/en/card/30054) or [Tollbooth](https://netrunnerdb.com/en/card/31066), do the non-subroutine abilities on those cards resolve?"
+  }
+]

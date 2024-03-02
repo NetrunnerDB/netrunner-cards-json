@@ -1,0 +1,16 @@
+[
+  {
+    "answer": "Yes, as long as there are at least 2 cards in the stack that can be shuffled.",
+    "card_id": "loki",
+    "date_update": "2018-08-01",
+    "nsg_rules_team_verified": false,
+    "question": "####[ANCUR](https://twitter.com/anr_ruleswiki) [UFAQ 24](http://ancur.wikia.com/wiki/Reign_and_Reverie_UFAQ) [Michael Boggs]\nIf the Runner has zero cards in grip, can they still choose to shuffle their grip into the stack in order to keep Loki from ending the run?"
+  },
+  {
+    "answer": "Everything in the subroutine resolves as normal, except for any effect with a self-reference in it. The reference does not refer to Loki, so it cannot resolve.\n\nIf Loki gains a subroutine from a [Mausolus](/en/card/11097) with 3 advancement tokens on it, does the regular text resolve or does the parenthetical text resolve?",
+    "card_id": "loki",
+    "date_update": "2018-08-01",
+    "nsg_rules_team_verified": false,
+    "question": "####[ANCUR](https://twitter.com/anr_ruleswiki) UFAQ [Michael Boggs]\nIf Loki gains a subroutine with a self-reference from another piece of ice, such as a trap like [Kitsune](/en/card/06043), what happens?"
+  }
+]

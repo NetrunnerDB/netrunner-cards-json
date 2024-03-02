@@ -2,14 +2,15 @@
   "card_type_id": "operation",
   "cost": 1,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "weyland_consortium",
   "id": "secure_and_protect",
   "influence_cost": 3,
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "As an additional cost to play this operation, spend click. Search R&D for a piece of ice and reveal it. (Shuffle R&D after searching it.) Install that ice protecting a central server, paying 3 credits less.",
+  "stripped_text": "As an additional cost to play this operation, spend click. Search R&D for 1 piece of ice and reveal it. (Shuffle R&D after searching it.) Install that ice protecting a central server, paying 3 credits less.",
   "stripped_title": "Secure and Protect",
   "subtypes": ["double"],
-  "text": "As an additional cost to play this operation, spend [click].\nSearch R&D for a piece of ice and reveal it. <em>(Shuffle R&D after searching it.)</em> Install that ice protecting a central server, paying 3[credit] less.",
+  "text": "As an additional cost to play this operation, spend [click].\nSearch R&D for 1 piece of ice and reveal it. <em>(Shuffle R&D after searching it.)</em> Install that ice protecting a central server, paying 3[credit] less.",
   "title": "Secure and Protect"
 }

@@ -1,0 +1,79 @@
+[
+  {
+    "answer": "When you identify your mark, that server becomes your mark for the turn, even if the card that instructed you to identify your mark leaves play. If an event instructs you to identify your mark, that server continues to be your mark for the remainder of the turn after that event resolves.",
+    "card_id": "virtuoso",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "Does the Runner’s mark stay if all mark cards leave play, or does it leave and return when a new mark card comes into play?"
+  },
+  {
+    "answer": "No. The Runner only identifies a mark when an ability instructs them to.",
+    "card_id": "virtuoso",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "If the Runner does not have a mark, and they install a card that says “When your turn begins, identify your mark.”, do they get a mark for the current turn?"
+  },
+  {
+    "answer": "The first time each turn the Runner resolves an instruction to identify their mark, they will randomly choose a central server. That server becomes their mark for the entire turn. Resolving another instruction to identify their mark will have no effect.",
+    "card_id": "virtuoso",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "If the Runner has multiple “mark” cards, how do they identify their mark?"
+  },
+  {
+    "answer": "No. When you make a run on R&D with [Jailbreak](/en/card/30028) and breach HQ afterwards due to [Virtuoso](/en/card/33015), HQ is not the attacked server. You will only access an additional card in R&D.",
+    "card_id": "virtuoso",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "If R&D is identified as the Runner's mark, and they run R&D with [Jailbreak](/en/card/30028), can the Runner access 1 additional card in HQ when they breach it with [Virtuoso](/en/card/33015)’s ability?"
+  },
+  {
+    "answer": "No. The additional breach occurs after the run ends.",
+    "card_id": "virtuoso",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "Does breaching HQ with [Virtuoso](/en/card/33015) after breaching a non-HQ mark allow [Zahya Sadeghi: Versatile Smuggler](/en/card/30010) to gain credits from the additional breach?"
+  },
+  {
+    "answer": "No. “Otherwise” in [Virtuoso](/en/card/33015)’s ability means “If that server is not HQ”.",
+    "card_id": "virtuoso",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "Does the \"otherwise\" in [Virtuoso](/en/card/33015)’s ability mean it triggers if the run is unsuccessful?"
+  },
+  {
+    "answer": "No. The next successful run on the Runner’s mark is not the first run, even if different cards are installed.",
+    "card_id": "virtuoso",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Runner over-install [Virtuoso](/en/card/33015) and trigger the “first time you make a successful run on your mark” ability a second time?"
+  },
+  {
+    "answer": "If the same server was identified as the Runner’s mark and chosen with [Security Testing](/en/card/31024), the Runner will gain 2<span class=\"icon icon-credit\"></span> instead of breaching that server. They will then breach HQ after the run ends.",
+    "card_id": "virtuoso",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "How does [Virtuoso](/en/card/33015) interact with [Security Testing](/en/card/31024) if the Runner’s mark is not HQ?"
+  },
+  {
+    "answer": "Since this breach is not happening during a run, an “End the run.” instruction ends the forced encounter that was in progress, but otherwise does not affect the breach. If the Runner still has cards to access, they continue doing so.",
+    "card_id": "virtuoso",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "Suppose the Corp has a copy of [Ganked!](/en/card/26119) in HQ. What happens if an “End the run.” subroutine resolves during a breach made with [Virtuoso](/en/card/33015)?"
+  },
+  {
+    "answer": "The Runner resolves a separate instance of [The Twinning](/en/card/33010)’s second ability for each breach: the normal breach of R&D as part of the Success Phase of the run, and the breach of HQ at the end of the run from [Virtuoso](/en/card/33015)’s ability. If [The Twinning](/en/card/33010) has enough hosted power counters, the Runner can spend 2 counters each time and access a total of 4 additional cards.",
+    "card_id": "virtuoso",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "If [Virtuoso](/en/card/33015) is installed and the Runner’s mark is R&D, how many additional cards can they access with [The Twinning](/en/card/33010) when they make a successful run on R&D?"
+  },
+  {
+    "answer": "Yes. If the Runner has not previously breached HQ this turn, they will access 1 additional card during the breach from [Virtuoso](/en/card/33015).",
+    "card_id": "virtuoso",
+    "date_update": "2022-09-10",
+    "nsg_rules_team_verified": true,
+    "question": "Does [Virtuoso](/en/card/33015) work with [Docklands Pass](/en/card/30013)?"
+  }
+]

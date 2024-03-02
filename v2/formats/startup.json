@@ -3,25 +3,36 @@
   "name": "Startup",
   "snapshots": [
     {
-      "id": "startup_0",
       "card_pool_id": "startup_ashes",
-      "date_start": "2019-03-18"
+      "date_start": "2019-03-18",
+      "id": "startup_0"
     },
     {
-      "id": "startup_1",
       "card_pool_id": "startup_ashes_plus",
-      "date_start": "2022-03-04"
+      "date_start": "2022-03-04",
+      "id": "startup_1"
     },
     {
-      "id": "startup_2",
       "card_pool_id": "startup_ashes_plus_midnight_sun",
-      "date_start": "2022-07-22"
+      "date_start": "2022-07-22",
+      "id": "startup_2"
     },
     {
-      "id": "startup_3",
-      "active": true,
       "card_pool_id": "startup_borealis",
-      "date_start": "2022-12-09"
+      "date_start": "2022-12-09",
+      "id": "startup_3"
+    },
+    {
+      "card_pool_id": "startup_borealis_plus_the_automata_initiative",
+      "date_start": "2023-08-11",
+      "id": "startup_4"
+    },
+    {
+      "active": true,
+      "card_pool_id": "startup_borealis_plus_the_automata_initiative",
+      "date_start": "2024-01-19",
+      "id": "startup_5",
+      "restriction_id": "startup_ban_list_24_01"
     }
   ]
 }

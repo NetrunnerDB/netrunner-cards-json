@@ -3,13 +3,14 @@
   "agenda_points": 1,
   "card_type_id": "agenda",
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "jinteki",
   "id": "sting",
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "When a player scores or steals this agenda, do X net damage. X is equal to the number of copies of Sting! in the other player's score area plus 1.",
+  "stripped_text": "When a player scores or steals this agenda, do X net damage. X is equal to 1 plus the number of copies of Sting! in the other player's score area.",
   "stripped_title": "Sting!",
   "subtypes": ["ambush"],
-  "text": "When a player scores or steals this agenda, do X net damage. X is equal to the number of copies of Sting! in the other player's score area plus 1.",
+  "text": "When a player scores or steals this agenda, do X net damage. X is equal to 1 plus the number of copies of Sting! in the other playerʼs score area.",
   "title": "Sting!"
 }

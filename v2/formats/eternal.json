@@ -3,28 +3,40 @@
   "name": "Eternal",
   "snapshots": [
     {
-      "id": "eternal_0",
       "card_pool_id": "eternal",
-      "date_start": "2017-10-01"
+      "date_start": "2017-10-01",
+      "id": "eternal_0"
     },
     {
-      "id": "eternal_1",
       "card_pool_id": "eternal",
       "date_start": "2021-07-10",
+      "id": "eternal_1",
       "restriction_id": "eternal_points_list_1_0"
     },
     {
-      "id": "eternal_2",
       "card_pool_id": "eternal",
       "date_start": "2021-11-12",
+      "id": "eternal_2",
       "restriction_id": "eternal_points_list_21_11"
     },
     {
-      "id": "eternal_3",
-      "active": true,
       "card_pool_id": "eternal",
       "date_start": "2022-09-26",
+      "id": "eternal_3",
       "restriction_id": "eternal_points_list_22_09"
+    },
+    {
+      "card_pool_id": "eternal",
+      "date_start": "2023-03-31",
+      "id": "eternal_4",
+      "restriction_id": "eternal_points_list_23_03"
+    },
+    {
+      "active": true,
+      "card_pool_id": "eternal",
+      "date_start": "2023-12-08",
+      "id": "eternal_5",
+      "restriction_id": "eternal_points_list_23_11"
     }
   ]
 }

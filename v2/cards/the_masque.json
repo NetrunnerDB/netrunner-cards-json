@@ -2,21 +2,22 @@
   "card_type_id": "resource",
   "cost": 1,
   "deck_limit": 3,
-  "faction_id": "neutral_runner",
-  "id": "the_masque",
-  "influence_cost": 0,
-  "is_unique": true,
-  "side_id": "runner",
-  "stripped_text": "click,trash: Make a run and gain click. If successful, draw 1 card.",
-  "stripped_title": "The Masque",
-  "subtypes": ["connection"],
-  "text": "[click],[trash]: Make a run and gain [click]. If successful, draw 1 card.",
-  "title": "The Masque",
-  "layout_id": "copy",
+  "designed_by": "fantasy_flight_games",
   "faces": [
     {
       "stripped_text": "click,trash: Make a run and gain click. If that run is successful when it ends, you may immediately make another run on another server.",
       "text": "[click],[trash]: Make a run and gain [click]. If that run is successful when it ends, you may immediately make another run on another server."
     }
-  ]
+  ],
+  "faction_id": "neutral_runner",
+  "id": "the_masque",
+  "influence_cost": 0,
+  "is_unique": true,
+  "layout_id": "copy",
+  "side_id": "runner",
+  "stripped_text": "click,trash: Make a run and gain click. If successful, draw 1 card.",
+  "stripped_title": "The Masque",
+  "subtypes": ["connection"],
+  "text": "[click],[trash]: Make a run and gain [click]. If successful, draw 1 card.",
+  "title": "The Masque"
 }

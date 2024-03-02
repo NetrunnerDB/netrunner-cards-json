@@ -2,14 +2,15 @@
   "card_type_id": "program",
   "cost": 0,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "shaper",
   "id": "self_modifying_code",
   "influence_cost": 3,
   "is_unique": false,
   "memory_cost": 2,
   "side_id": "runner",
-  "stripped_text": "2 credits, trash: Search your stack for a program. Install it.",
+  "stripped_text": "2 credits, trash: Search your stack for 1 program. Install it. (Shuffle your stack after searching it.)",
   "stripped_title": "Self-modifying Code",
-  "text": "<strong>2[credit]</strong>, [trash]<strong>:</strong> Search your stack for a program. Install it.",
+  "text": "<strong>2[credit]</strong>, <strong>[trash]:</strong> Search your stack for 1 program. Install it. <em>(Shuffle your stack after searching it.)</em>",
   "title": "Self-modifying Code"
 }

@@ -1,10 +1,10 @@
 {
-  "id": "eternal_points_list_1_0",
-  "name": "Eternal Points List, Version 1.0",
+  "banned": ["salvaged_vanadis_armory"],
   "date_start": "2021-07-10",
   "format_id": "eternal",
+  "id": "eternal_points_list_1_0",
+  "name": "Eternal Points List, Version 1.0",
   "point_limit": 7,
-  "banned": ["salvaged_vanadis_armory"],
   "points": {
     "1": [
       "24_7_news_cycle",

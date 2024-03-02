@@ -2,6 +2,7 @@
   "card_type_id": "program",
   "cost": 3,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "shaper",
   "id": "unity",
   "influence_cost": 2,
@@ -9,9 +10,9 @@
   "memory_cost": 1,
   "side_id": "runner",
   "strength": 1,
-  "stripped_text": "Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +1 strength for each installed icebreaker (including this one).",
+  "stripped_text": "Interface -> 1 credit: Break 1 code gate subroutine. 1 credit: +X strength. X is equal to the number of installed icebreakers (including this one).",
   "stripped_title": "Unity",
   "subtypes": ["icebreaker", "decoder"],
-  "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength for each installed <strong>icebreaker</strong> <em>(including this one)</em>.",
+  "text": "Interface → <strong>1[credit]:</strong> Break 1 <strong>code gate</strong> subroutine.\n<strong>1[credit]:</strong> +X strength. X is equal to the number of installed <strong>icebreakers</strong> <em>(including this one)</em>.",
   "title": "Unity"
 }

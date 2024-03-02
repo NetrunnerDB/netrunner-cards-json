@@ -2,14 +2,15 @@
   "card_type_id": "event",
   "cost": 1,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "shaper",
   "id": "spec_work",
   "influence_cost": 1,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "As an additional cost to play this event, trash an installed program. Gain 4 credits and draw 2 cards.",
+  "stripped_text": "As an additional cost to play this event, trash 1 installed program. Gain 4 credits and draw 2 cards.",
   "stripped_title": "Spec Work",
   "subtypes": ["job"],
-  "text": "As an additional cost to play this event, trash an installed program.\nGain 4[credit] and draw 2 cards.",
+  "text": "As an additional cost to play this event, trash 1 installed program.\nGain 4[credit] and draw 2 cards.",
   "title": "Spec Work"
 }

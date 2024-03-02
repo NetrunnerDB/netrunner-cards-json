@@ -1,11 +1,4 @@
 {
-  "id": "standard_ban_list_22_08",
-  "name": "Standard Ban List 22.08",
-  "date_start": "2022-08-05",
-  "format_id": "standard",
-  "subtypes": {
-    "banned": ["current"]
-  },
   "banned": [
     "24_7_news_cycle",
     "419_amoral_scammer",
@@ -58,5 +51,12 @@
     "violet_level_clearance",
     "watch_the_world_burn",
     "whampoa_reclamation"
-  ]
+  ],
+  "date_start": "2022-08-05",
+  "format_id": "standard",
+  "id": "standard_ban_list_22_08",
+  "name": "Standard Ban List 22.08",
+  "subtypes": {
+    "banned": ["current"]
+  }
 }

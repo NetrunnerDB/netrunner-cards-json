@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 5,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "nbn",
+  "id": "starlit_knight",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 2,
+  "stripped_text": "Threat 4 -> When the Runner encounters this ice, it gains X \"Subroutine End the run.\" subroutines for the remainder of this run, after its other subroutines. X is equal to the number of tags the Runner has. Subroutine Give the Runner 1 tag. Subroutine Give the Runner 1 tag.",
+  "stripped_title": "Starlit Knight",
+  "subtypes": ["sentry", "observer"],
+  "text": "Threat 4 → When the Runner encounters this ice, it gains X \"[subroutine] End the run.\" subroutines for the remainder of this run, after its other subroutines. X is equal to the number of tags the Runner has.\n[subroutine] Give the Runner 1 tag.\n[subroutine] Give the Runner 1 tag.",
+  "title": "Starlit Knight"
+}

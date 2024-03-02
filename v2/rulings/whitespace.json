@@ -1,0 +1,23 @@
+[
+  {
+    "answer": "After. Resolve each subroutine 1 at a time, in the order they appear on the card.",
+    "card_id": "whitespace",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "Does [Whitespace](/en/card/30074) check for the Runner having 6<span class=\"icon icon-credit\"></span> or less before or after the Runner loses 3<span class=\"icon icon-credit\"></span>?"
+  },
+  {
+    "answer": "No. Those credits are only available to be spent. “Losing” credits always drains the Runner’s credit pool.",
+    "card_id": "whitespace",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "Can the Runner lose credits hosted on [Overclock](/en/card/30029) or [Penumbral Toolkit](/en/card/26081) for the first subroutine on [Whitespace](/en/card/30074)?"
+  },
+  {
+    "answer": "No. The Runner only “has” credits in their credit pool. The abilities on these cards only allow players to spend their hosted credits.",
+    "card_id": "whitespace",
+    "date_update": "2021-10-11",
+    "nsg_rules_team_verified": true,
+    "question": "Do credits hosted on cards like [Overclock](/en/card/30029) and [Penumbral Toolkit](/en/card/26081) count toward whether the Runner has more than 6<span class=\"icon icon-credit\"></span>?"
+  }
+]

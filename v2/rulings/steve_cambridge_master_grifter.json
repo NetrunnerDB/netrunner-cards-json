@@ -1,0 +1,30 @@
+[
+  {
+    "answer": "No. Choosing 2 cards in the heap is a nested cost because it is followed by “If you do”. If the Runner cannot pay the cost in full, the rest of the ability does not resolve.",
+    "card_id": "steve_cambridge_master_grifter",
+    "date_update": "2022-04-23",
+    "nsg_rules_team_verified": false,
+    "question": "Does [Steve Cambridge](https://netrunnerdb.com/en/card/31014)’s ability do anything if there are fewer than 2 cards in the heap?"
+  },
+  {
+    "answer": "No. An event that initiates a run is not fully resolved until that run is complete, and thus is in the play area, not the heap, at the time [Steve Cambridge](https://netrunnerdb.com/en/card/13001)’s ability resolves.",
+    "card_id": "steve_cambridge_master_grifter",
+    "date_update": "2022-04-23",
+    "nsg_rules_team_verified": false,
+    "question": "If the Runner plays [Jailbreak](https://netrunnerdb.com/en/card/30028) or another run event to make a successful run on HQ, can they choose that event as one of the cards for [Steve Cambridge](https://netrunnerdb.com/en/card/13001)’s ability?"
+  },
+  {
+    "answer": "Yes. Both abilities meet their trigger conditions at the same time, so the Runner chooses the order to resolve them.",
+    "card_id": "steve_cambridge_master_grifter",
+    "date_update": "2022-04-23",
+    "nsg_rules_team_verified": false,
+    "question": "Can the Runner choose to look at the top card of R&D with [Find the Truth](https://netrunnerdb.com/en/card/11047) before using [Steve Cambridge](https://netrunnerdb.com/en/card/13001)?"
+  },
+  {
+    "answer": "No. In order for [Utopia Shard](https://netrunnerdb.com/en/card/06100) to install itself with its ability, it must already be in the Runner’s grip at the time the ability would meet its trigger condition.",
+    "card_id": "steve_cambridge_master_grifter",
+    "date_update": "2022-04-23",
+    "nsg_rules_team_verified": false,
+    "question": "If the Runner returns [Utopia Shard](https://netrunnerdb.com/en/card/06100) to their grip with [Steve Cambridge](https://netrunnerdb.com/en/card/13001), can they then install [Utopia Shard](https://netrunnerdb.com/en/card/06100)?"
+  }
+]
