@@ -284,6 +284,10 @@
       "minimum": 0,
       "type": "integer"
     },
+    "pronouns": {
+      "minLength": 0,
+      "type": "string"
+    },
     "side_id": {
       "minLength": 1,
       "type": "string",
