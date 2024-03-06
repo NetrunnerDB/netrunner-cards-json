@@ -284,10 +284,6 @@
         "minimum": 1,
         "type": "integer"
       },
-      "pronouns": {
-        "minLength": 0,
-        "type": "string"
-      },
       "quantity": {
         "minimum": 1,
         "type": "integer"
