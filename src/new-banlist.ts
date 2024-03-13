@@ -158,7 +158,7 @@ srcRestriction.id = textToId(options.new_code);
 srcRestriction.banned.push(...addCards);
 srcRestriction.banned = srcRestriction.banned.filter((c: string) => !removeCards.includes(c));
 // TODO(plural): Remove this when prettier's jsonRecursiveSort is fixed.
-srcRestriction.banned = srcRestriction.banned.sort();
+srcRestriction.banned.sort();
 
 const output_restriction = `v2/restrictions/standard/${textToId(options.new_code)}.json`;
 formatJSON(srcRestriction).then((content) => {
