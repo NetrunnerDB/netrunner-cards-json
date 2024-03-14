@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "haas_bioroid",
+  "id": "lycian_multi_munition",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "corp",
+  "strength": 1,
+  "stripped_text": "When you rez this ice, choose 1 or more subtypes among barrier, code gate, and sentry. This ice gains the chosen subtypes while it remains rezzed. When a turn ends, derez this ice. Subroutine If this ice is a code gate, the Runner loses click and 1 credit. Subroutine If this ice is a sentry, trash 1 installed program. Subroutine If this ice is a barrier, gain 1 credit and end the run.",
+  "stripped_title": "Lycian Multi-Munition",
+  "subtypes": ["mythic", "destroyer"],
+  "text": "When you rez this ice, choose 1 or more subtypes among <strong>barrier</strong>, <strong>code gate</strong>, and <strong>sentry</strong>. This ice gains the chosen subtypes while it remains rezzed.\nWhen a turn ends, derez this ice.\n[subroutine] If this ice is a <strong>code gate</strong>, the Runner loses [click] and 1[credit].\n[subroutine] If this ice is a <strong>sentry</strong>, trash 1 installed program.\n[subroutine] If this ice is a <strong>barrier</strong>, gain 1[credit] and end the run.",
+  "title": "Lycian Multi-Munition"
+}

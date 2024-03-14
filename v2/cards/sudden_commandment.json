@@ -1,0 +1,17 @@
+{
+  "card_type_id": "operation",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "nbn",
+  "id": "sudden_commandment",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Draw 2 cards. You may play 1 non-terminal operation from HQ. Threat 3 -> If this operation is the first mandate you played this turn, you may pay 3 credits to gain click. (This ability is active if any player has 3 or more agenda points.)",
+  "stripped_title": "Sudden Commandment",
+  "subtypes": ["mandate"],
+  "text": "Draw 2 cards. You may play 1 non-<strong>terminal</strong> operation from HQ.\nThreat 3 → If this operation is the first <strong>mandate</strong> you played this turn, you may pay 3[credit] to gain [click]. <em>(This ability is active if any player has 3 or more agenda points.)</em>",
+  "title": "Sudden Commandment",
+  "trash_cost": 2
+}
