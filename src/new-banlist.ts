@@ -129,21 +129,21 @@ function getRestrictionById(restrictions: any, id: string) {
 validateArgs(options);
 const cardsToPrintings = buildCardsToPrintings();
 
-let addCards = options.add_cards.split(',');
+const addCards = options.add_cards.split(',');
 
 const addPrintings = new Array<string>();
 addCards.forEach(c => {
   addPrintings.push(...(cardsToPrintings.get(c) || []));
 });
 
-let removeCards = options.remove_cards.split(',');
+const removeCards = options.remove_cards.split(',');
 const removePrintings = new Array<string>();
 removeCards.forEach(c => {
   removePrintings.push(...(cardsToPrintings.get(c) || []));
 });
 
 const mwls = getMwlJson();
-let srcMwl = findMwlByCode(mwls, options.source_code);
+const srcMwl = findMwlByCode(mwls, options.source_code);
 
 console.log(`Found mwl ${JSON.stringify(srcMwl)}`);
 
@@ -166,7 +166,7 @@ writeJsonToFile(mwls, 'mwl.json');
 const restrictions = getRestrictionsV2Json();
 const standardRestrictions = restrictions['standard'];
 
-let restriction: any = getRestrictionById(standardRestrictions, textToId(options.source_code));
+const restriction: any = getRestrictionById(standardRestrictions, textToId(options.source_code));
 restriction.date_start = options.effective_date;
 restriction.name = options.name;
 restriction.id = textToId(options.new_code);
