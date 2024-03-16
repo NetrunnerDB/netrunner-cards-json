@@ -1,0 +1,17 @@
+{
+  "card_type_id": "program",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "shaper",
+  "id": "muse",
+  "influence_cost": 4,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "stripped_text": "When you install this program, search your stack, heap, or grip for 1 non-daemon program. (Shuffle your stack after searching it.) If that program is a trojan, install it on a piece of ice. Otherwise, install it on this program.",
+  "stripped_title": "Muse",
+  "subtypes": ["daemon"],
+  "text": "When you install this program, search your stack, heap, or grip for 1 non-<strong>daemon</strong> program. <em>(Shuffle your stack after searching it.)</em> If that program is a <strong>trojan</strong>, install it on a piece of ice. Otherwise, install it on this program.",
+  "title": "Muse"
+}
