@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 6,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "weyland_consortium",
+  "id": "hammer",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 4,
+  "stripped_text": "During each encounter with this ice, the Runner cannot break more than 1 of its printed subroutines except using killers. Subroutine Give the Runner 1 tag. Subroutine Trash 1 installed resource or piece of hardware. Subroutine Trash 1 installed program that is not a decoder, fracter, or killer.",
+  "stripped_title": "Hammer",
+  "subtypes": ["sentry", "destroyer", "observer"],
+  "text": "During each encounter with this ice, the Runner cannot break more than 1 of its printed subroutines except using <strong>killers</strong>.\n[subroutine] Give the Runner 1 tag.\n[subroutine] Trash 1 installed resource or piece of hardware.\n[subroutine] Trash 1 installed program that is not a <strong>decoder</strong>, <strong>fracter</strong>, or <strong>killer</strong>.",
+  "title": "Hammer"
+}

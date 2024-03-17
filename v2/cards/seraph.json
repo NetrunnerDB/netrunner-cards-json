@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 10,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "nbn",
+  "id": "seraph",
+  "influence_cost": 3,
+  "is_unique": true,
+  "side_id": "corp",
+  "strength": 5,
+  "stripped_text": "When the Runner encounters this ice, they lose 3 credits unless they suffer 2 net damage or take 1 tag. Subroutine The Runner loses 3 credits. Subroutine Do 2 net damage. Subroutine Give the Runner 1 tag.",
+  "stripped_title": "Seraph",
+  "subtypes": ["sentry", "ap", "observer", "deep_net"],
+  "text": "When the Runner encounters this ice, they lose 3[credit] unless they suffer 2 net damage or take 1 tag.\n[subroutine] The Runner loses 3[credit].\n[subroutine] Do 2 net damage.\n[subroutine] Give the Runner 1 tag.",
+  "title": "Seraph"
+}
