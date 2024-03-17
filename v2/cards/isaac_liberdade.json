@@ -1,0 +1,17 @@
+{
+  "card_type_id": "upgrade",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "weyland_consortium",
+  "id": "isaac_liberdade",
+  "influence_cost": 2,
+  "is_unique": true,
+  "side_id": "corp",
+  "stripped_text": "Each advanced piece of ice protecting this server gets +2 strength. Whenever this upgrade moves to the root of a server, you may place 1 advancement counter on a piece of ice protecting that server that has no advancement counters. When your turn ends, you may move this upgrade to the root of another server.",
+  "stripped_title": "Isaac Liberdade",
+  "subtypes": ["bioroid", "sysop"],
+  "text": "Each advanced piece of ice protecting this server gets +2 strength.\nWhenever this upgrade moves to the root of a server, you may place 1 advancement counter on a piece of ice protecting that server that has no advancement counters.\nWhen your turn ends, you may move this upgrade to the root of another server.",
+  "title": "Isaac Liberdade",
+  "trash_cost": 2
+}
