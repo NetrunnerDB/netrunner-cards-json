@@ -159,8 +159,15 @@
       "restriction_id": "standard_ban_list_23_09"
     },
     {
+      "active": false,
       "card_pool_id": "rotation_2023",
-      "date_start": "2077-01-01",
+      "date_start": "2024-03-30",
+      "id": "standard_26",
+      "restriction_id": "standard_ban_list_24_03"
+    },
+    {
+      "card_pool_id": "rotation_2023",
+      "date_start": "2023-09-21",
       "id": "sunset_01",
       "restriction_id": "sunset_ban_list_24_01"
     }
