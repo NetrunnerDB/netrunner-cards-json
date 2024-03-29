@@ -5,4 +5,4 @@ COPY ./translations/ /netrunner-cards-json/translations/
 COPY ./pack/ /netrunner-cards-json/pack/
 COPY ./cycles.json ./factions.json ./mwl.json ./packs.json ./prebuilts.json ./rotations.json ./sides.json ./types.json /netrunner-cards-json/ 
 
-ENTRYPOINT ["/bin/sh", "-c", "rm -rf /mnt/netrunner-cards-json/* && cp -r /netrunner-cards-json/* /mnt/netrunner-cards-json/ && exit"]
+ENTRYPOINT ["/bin/sh", "-c", "cp -r /netrunner-cards-json/* /mnt/netrunner-cards-json/ && exit"]
