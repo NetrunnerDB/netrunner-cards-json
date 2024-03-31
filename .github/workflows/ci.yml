@@ -18,11 +18,11 @@ jobs:
   format_and_lint_and_test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Use Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with: 
-          node-version: "18.x"
+          node-version: 20
 
       - name: Install dependencies
         run: npm install
@@ -43,7 +43,7 @@ jobs:
     steps:
 
       - name: Checkout the repo 
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
