@@ -393,6 +393,14 @@
       "minLength": 0,
       "type": "string"
     },
+    "pronunciation_approx": {
+      "minLength": 0,
+      "type": "string"
+    },
+    "pronunciation_ipa": {
+      "minLength": 0,
+      "type": "string"
+    },
     "side_id": {
       "enum": ["corp", "runner"],
       "minLength": 1,
