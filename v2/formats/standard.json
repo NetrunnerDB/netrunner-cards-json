@@ -152,7 +152,7 @@
       "restriction_id": "standard_ban_list_23_08"
     },
     {
-      "active": true,
+      "active": false,
       "card_pool_id": "rotation_2023",
       "date_start": "2023-09-22",
       "id": "standard_25",
@@ -164,6 +164,20 @@
       "date_start": "2024-03-30",
       "id": "standard_26",
       "restriction_id": "standard_ban_list_24_03"
+    },
+    {
+      "active": true,
+      "card_pool_id": "rotation_2023",
+      "date_start": "2024-05-31",
+      "id": "standard_27",
+      "restriction_id": "standard_ban_list_24_05"
+    },
+    {
+      "active": false,
+      "card_pool_id": "rotation_2023",
+      "date_start": "2024-09-13",
+      "id": "standard_28",
+      "restriction_id": "standard_ban_list_24_09"
     },
     {
       "card_pool_id": "rotation_2023",
