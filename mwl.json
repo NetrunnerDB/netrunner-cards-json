@@ -1711,5 +1711,26 @@
     "date_start": "2024-09-13",
     "name": "Standard Banlist 24.09",
     "subtypes": { "current": { "deck_limit": 0 } }
+  },
+  {
+    "cards": {
+      "30020": {
+        "deck_limit": 0
+      },
+      "30063": {
+        "deck_limit": 0
+      },
+      "34111": {
+        "deck_limit": 0
+      }
+    },
+    "code": "startup-ban-list-24-09-for-classic-only",
+    "date_start": "2024-09-01",
+    "name": "Startup Ban List 24.09 (ignore active date)",
+    "subtypes": {
+      "current": {
+        "deck_limit": 0
+      }
+    }
   }
 ]
