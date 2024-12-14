@@ -1714,23 +1714,76 @@
   },
   {
     "cards": {
-      "30020": {
-        "deck_limit": 0
-      },
-      "30063": {
-        "deck_limit": 0
-      },
-      "34111": {
-        "deck_limit": 0
-      }
+      "30020": { "deck_limit": 0 },
+      "30063": { "deck_limit": 0 },
+      "34111": { "deck_limit": 0 }
     },
     "code": "startup-ban-list-24-09-for-classic-only",
     "date_start": "2024-09-01",
     "name": "Startup Ban List 24.09 (ignore active date)",
-    "subtypes": {
-      "current": {
-        "deck_limit": 0
-      }
-    }
+    "subtypes": { "current": { "deck_limit": 0 } }
+  },
+  {
+    "cards": {
+      "01058": { "deck_limit": 0 },
+      "12013": { "deck_limit": 0 },
+      "12022": { "deck_limit": 0 },
+      "12026": { "deck_limit": 0 },
+      "12070": { "deck_limit": 0 },
+      "12072": { "deck_limit": 0 },
+      "12079": { "deck_limit": 0 },
+      "12080": { "deck_limit": 0 },
+      "12081": { "deck_limit": 0 },
+      "12089": { "deck_limit": 0 },
+      "12098": { "deck_limit": 0 },
+      "12103": { "deck_limit": 0 },
+      "12113": { "deck_limit": 0 },
+      "12116": { "deck_limit": 0 },
+      "20071": { "deck_limit": 0 },
+      "21020": { "deck_limit": 0 },
+      "21025": { "deck_limit": 0 },
+      "21038": { "deck_limit": 0 },
+      "21044": { "deck_limit": 0 },
+      "21058": { "deck_limit": 0 },
+      "21062": { "deck_limit": 0 },
+      "21070": { "deck_limit": 0 },
+      "21106": { "deck_limit": 0 },
+      "21114": { "deck_limit": 0 },
+      "21119": { "deck_limit": 0 },
+      "22008": { "deck_limit": 0 },
+      "22032": { "deck_limit": 0 },
+      "22054": { "deck_limit": 0 },
+      "23013": { "deck_limit": 0 },
+      "23045": { "deck_limit": 0 },
+      "23100": { "deck_limit": 0 },
+      "23101": { "deck_limit": 0 },
+      "25079": { "deck_limit": 0 },
+      "26016": { "deck_limit": 0 },
+      "26026": { "deck_limit": 0 },
+      "26095": { "deck_limit": 0 },
+      "26097": { "deck_limit": 0 },
+      "26108": { "deck_limit": 0 },
+      "26114": { "deck_limit": 0 },
+      "26116": { "deck_limit": 0 },
+      "26127": { "deck_limit": 0 },
+      "26128": { "deck_limit": 0 },
+      "27007": { "deck_limit": 0 },
+      "28002": { "deck_limit": 0 },
+      "28004": { "deck_limit": 0 },
+      "30036": { "deck_limit": 0 },
+      "30051": { "deck_limit": 0 },
+      "31047": { "deck_limit": 0 },
+      "33025": { "deck_limit": 0 },
+      "33051": { "deck_limit": 0 },
+      "33091": { "deck_limit": 0 },
+      "33106": { "deck_limit": 0 },
+      "33111": { "deck_limit": 0 },
+      "34087": { "deck_limit": 0 },
+      "34111": { "deck_limit": 0 }
+    },
+    "code": "standard-ban-list-24-12",
+    "date_start": "2024-12-26",
+    "name": "Standard Ban List 24.12",
+    "subtypes": { "current": { "deck_limit": 0 } }
   }
 ]
