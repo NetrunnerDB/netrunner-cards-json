@@ -473,6 +473,31 @@ describe('Restrictions', () => {
       }
     });
   });
+
+  it('are present in format files', () => {
+    const restrictionIdsFromFormats = new Set<string>();
+
+    // Get all formats and their listed snapshots.
+    formatsByFilename.forEach((format) => {
+      format.snapshots.forEach(snapshot => {
+        if ('restriction_id' in snapshot) {
+          restrictionIdsFromFormats.add(snapshot.restriction_id);
+        }
+      });
+    });
+
+    // Put any startup banlists for NRDB Classic in here.
+    const ignoreRestrictions = new Set<string>(
+      ['startup_ban_list_24_01_for_classic_only', 'startup_ban_list_24_09_for_classic_only']);
+
+    restrictionIds.forEach((restrictionId) => {
+      if (ignoreRestrictions.has(restrictionId)) {
+        return;
+      }
+
+      expect(restrictionIdsFromFormats, `Restriction ${restrictionId} is not specified in any format snapshots.`).to.include(restrictionId);
+    });
+  });
 });
 
 describe('Formats', () => {
