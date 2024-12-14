@@ -475,10 +475,10 @@ describe('Restrictions', () => {
   });
 
   it('are present in format files', () => {
-    let restrictionIdsFromFormats = new Set<string>();
+    const restrictionIdsFromFormats = new Set<string>();
 
     // Get all formats and their listed snapshots.
-    formatsByFilename.forEach((format, file) => {
+    formatsByFilename.forEach((format) => {
       format.snapshots.forEach(snapshot => {
         if ('restriction_id' in snapshot) {
           restrictionIdsFromFormats.add(snapshot.restriction_id);
