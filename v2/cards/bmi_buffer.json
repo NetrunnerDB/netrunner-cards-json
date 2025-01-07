@@ -3,17 +3,11 @@
   "cost": 3,
   "deck_limit": 3,
   "designed_by": "fantasy_flight_games",
-  "faces": [
-    {
-      "stripped_text": "Whenever a program is trashed from your grip, host it on BMI Buffer instead of adding it to your heap. click click: Install 1 hosted program, ignoring all costs.",
-      "text": "Whenever a program is trashed from your grip, host it on BMI Buffer instead of adding it to your heap.\n[click][click]: Install 1 hosted program, ignoring all costs."
-    }
-  ],
   "faction_id": "neutral_runner",
   "id": "bmi_buffer",
   "influence_cost": 0,
   "is_unique": false,
-  "layout_id": "progression",
+  "layout_id": "normal",
   "side_id": "runner",
   "stripped_text": "Whenever a program is trashed from your grip, host it on BMI Buffer instead of adding it to your heap. click click: Install 1 hosted program (paying all costs).",
   "stripped_title": "BMI Buffer",

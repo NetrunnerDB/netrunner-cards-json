@@ -3,25 +3,11 @@
   "cost": 0,
   "deck_limit": 3,
   "designed_by": "fantasy_flight_games",
-  "faces": [
-    {
-      "stripped_text": "When you win a game with Investigator Inez Delgado in your score area, reveal set 5. Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points: Reveal the top 3 cards in R&D. Use this only if you have stolean an agenda this turn.",
-      "text": "When you win a game with Investigator Inez Delgado in your score area, reveal set 5.\n<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Reveal the top 3 cards in R&D. Use this only if you have stolean an agenda this turn."
-    },
-    {
-      "stripped_text": "When you win a game with Investigator Inez Delgado in your score area, reveal set 8. Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points: Reveal each card in HQ. Use this only if you have stolean an agenda this turn.",
-      "text": "When you win a game with Investigator Inez Delgado in your score area, reveal set 8.\n<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Reveal each card in HQ. Use this only if you have stolean an agenda this turn."
-    },
-    {
-      "stripped_text": "Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points: Reveal each card in HQ and the top card of R&D. Use this only if you have stolean an agenda this turn.",
-      "text": "<strong>Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points:</strong> Reveal each card in HQ and the top card of R&D. Use this only if you have stolean an agenda this turn."
-    }
-  ],
   "faction_id": "neutral_runner",
   "id": "investigator_inez_delgado",
   "influence_cost": 0,
   "is_unique": true,
-  "layout_id": "progression",
+  "layout_id": "normal",
   "side_id": "runner",
   "stripped_text": "When you win a game with Investigator Inez Delgado in your score area, reveal set 2. Add Investigator Inez Delgado to your score area as an agenda worth 0 agenda points: Expose all cards in a remote server. Use this only if you have stolean an agenda this turn.",
   "stripped_title": "Investigator Inez Delgado",
