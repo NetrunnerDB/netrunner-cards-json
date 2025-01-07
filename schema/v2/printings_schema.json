@@ -68,21 +68,6 @@
               }
             },
             "required": ["faces"]
-          },
-          {
-            "properties": {
-              "faces": {
-                "items": {
-                  "type": "object"
-                },
-                "minItems": 1,
-                "type": "array"
-              },
-              "layout_id": {
-                "const": "progression"
-              }
-            },
-            "required": ["faces"]
           }
         ]
       }

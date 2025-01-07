@@ -9,11 +9,47 @@
     "released_by": "fantasy_flight_games"
   },
   {
+    "card_id": "evidence_collection_2",
+    "card_set_id": "terminal_directive_campaign",
+    "id": "14001",
+    "illustrator": "Dmitry Burmak",
+    "position": 2,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "evidence_collection_3",
+    "card_set_id": "terminal_directive_campaign",
+    "id": "14002",
+    "illustrator": "Dmitry Burmak",
+    "position": 3,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "evidence_collection_4",
+    "card_set_id": "terminal_directive_campaign",
+    "id": "14003",
+    "illustrator": "Dmitry Burmak",
+    "position": 4,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
     "card_id": "investigator_inez_delgado_a",
     "card_set_id": "terminal_directive_campaign",
     "id": "14004",
     "illustrator": "PxelSlayer",
-    "position": 2,
+    "position": 5,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "investigator_inez_delgado_a_2",
+    "card_set_id": "terminal_directive_campaign",
+    "id": "14005",
+    "illustrator": "PxelSlayer",
+    "position": 6,
     "quantity": 3,
     "released_by": "fantasy_flight_games"
   },
@@ -22,7 +58,16 @@
     "card_set_id": "terminal_directive_campaign",
     "id": "14006",
     "illustrator": "Antonio José Manzanedo",
-    "position": 3,
+    "position": 7,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "lt_todachine_2",
+    "card_set_id": "terminal_directive_campaign",
+    "id": "14007",
+    "illustrator": "Antonio José Manzanedo",
+    "position": 8,
     "quantity": 3,
     "released_by": "fantasy_flight_games"
   },
@@ -31,7 +76,7 @@
     "card_set_id": "terminal_directive_campaign",
     "id": "14008",
     "illustrator": "Ethan Patrick Harris",
-    "position": 4,
+    "position": 9,
     "quantity": 3,
     "released_by": "fantasy_flight_games"
   },
@@ -40,40 +85,48 @@
     "card_set_id": "terminal_directive_campaign",
     "id": "14023",
     "illustrator": "Adam S. Doyle",
-    "position": 5,
+    "position": 10,
     "quantity": 1,
     "released_by": "fantasy_flight_games"
   },
   {
-    "card_id": "machicolation",
+    "card_id": "machicolation_a",
     "card_set_id": "terminal_directive_campaign",
     "copy_quantity": 3,
-    "faces": [
-      {
-        "copy_quantity": 3
-      }
-    ],
     "id": "14010",
     "illustrator": "Ed Mattinian",
-    "layout_id": "copy",
-    "position": 6,
-    "quantity": 6,
+    "position": 11,
+    "quantity": 3,
     "released_by": "fantasy_flight_games"
   },
   {
-    "card_id": "corporate_oversight",
+    "card_id": "machicolation_b",
     "card_set_id": "terminal_directive_campaign",
     "copy_quantity": 3,
-    "faces": [
-      {
-        "copy_quantity": 3
-      }
-    ],
+    "id": "14011",
+    "illustrator": "Ed Mattinian",
+    "position": 12,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "corporate_oversight_a",
+    "card_set_id": "terminal_directive_campaign",
+    "copy_quantity": 3,
     "id": "14012",
     "illustrator": "Matt Zeilinger",
-    "layout_id": "copy",
-    "position": 7,
-    "quantity": 6,
+    "position": 13,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "corporate_oversight_b",
+    "card_set_id": "terminal_directive_campaign",
+    "copy_quantity": 3,
+    "id": "14013",
+    "illustrator": "Matt Zeilinger",
+    "position": 14,
+    "quantity": 3,
     "released_by": "fantasy_flight_games"
   },
   {
@@ -81,7 +134,34 @@
     "card_set_id": "terminal_directive_campaign",
     "id": "14014",
     "illustrator": "Matt Zeilinger",
-    "position": 8,
+    "position": 15,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "investigator_inez_delgado_2",
+    "card_set_id": "terminal_directive_campaign",
+    "id": "14015",
+    "illustrator": "Matt Zeilinger",
+    "position": 16,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "investigator_inez_delgado_3",
+    "card_set_id": "terminal_directive_campaign",
+    "id": "14016",
+    "illustrator": "Matt Zeilinger",
+    "position": 17,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "investigator_inez_delgado_4",
+    "card_set_id": "terminal_directive_campaign",
+    "id": "14017",
+    "illustrator": "Matt Zeilinger",
+    "position": 18,
     "quantity": 3,
     "released_by": "fantasy_flight_games"
   },
@@ -90,7 +170,16 @@
     "card_set_id": "terminal_directive_campaign",
     "id": "14018",
     "illustrator": "Michał Miłkowski",
-    "position": 9,
+    "position": 19,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "surveillance_network_key_2",
+    "card_set_id": "terminal_directive_campaign",
+    "id": "14019",
+    "illustrator": "Michał Miłkowski",
+    "position": 20,
     "quantity": 3,
     "released_by": "fantasy_flight_games"
   },
@@ -99,7 +188,16 @@
     "card_set_id": "terminal_directive_campaign",
     "id": "14020",
     "illustrator": "Timur Shevtsov",
-    "position": 10,
+    "position": 21,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "bmi_buffer_2",
+    "card_set_id": "terminal_directive_campaign",
+    "id": "14021",
+    "illustrator": "Timur Shevtsov",
+    "position": 22,
     "quantity": 3,
     "released_by": "fantasy_flight_games"
   },
@@ -108,7 +206,7 @@
     "card_set_id": "terminal_directive_campaign",
     "id": "14022",
     "illustrator": "Adam Schumpert",
-    "position": 11,
+    "position": 23,
     "quantity": 3,
     "released_by": "fantasy_flight_games"
   },
@@ -117,40 +215,48 @@
     "card_set_id": "terminal_directive_campaign",
     "id": "14009",
     "illustrator": "Jason Juta",
-    "position": 12,
+    "position": 24,
     "quantity": 1,
     "released_by": "fantasy_flight_games"
   },
   {
-    "card_id": "the_masque",
+    "card_id": "the_masque_a",
     "card_set_id": "terminal_directive_campaign",
     "copy_quantity": 3,
-    "faces": [
-      {
-        "copy_quantity": 3
-      }
-    ],
     "id": "14024",
     "illustrator": "PxelSlayer",
-    "layout_id": "copy",
-    "position": 13,
-    "quantity": 6,
+    "position": 25,
+    "quantity": 3,
     "released_by": "fantasy_flight_games"
   },
   {
-    "card_id": "sneakdoor_prime",
+    "card_id": "the_masque_b",
     "card_set_id": "terminal_directive_campaign",
     "copy_quantity": 3,
-    "faces": [
-      {
-        "copy_quantity": 3
-      }
-    ],
+    "id": "14025",
+    "illustrator": "PxelSlayer",
+    "position": 26,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "sneakdoor_prime_a",
+    "card_set_id": "terminal_directive_campaign",
+    "copy_quantity": 3,
     "id": "14026",
     "illustrator": "Dmitry Prosvirnin",
-    "layout_id": "copy",
-    "position": 14,
-    "quantity": 6,
+    "position": 27,
+    "quantity": 3,
+    "released_by": "fantasy_flight_games"
+  },
+  {
+    "card_id": "sneakdoor_prime_b",
+    "card_set_id": "terminal_directive_campaign",
+    "copy_quantity": 3,
+    "id": "14027",
+    "illustrator": "Dmitry Prosvirnin",
+    "position": 28,
+    "quantity": 3,
     "released_by": "fantasy_flight_games"
   }
 ]
