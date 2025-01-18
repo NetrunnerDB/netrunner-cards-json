@@ -58,7 +58,7 @@ describe('Card Sets v1/v2', () => {
     cardSetsByCode.set(s.legacy_code, s);
   });
 
-  it('correct number of card cardCycles', () => {
+  it('correct number of cardSets', () => {
     expect(cardSetsByCode.size).to.equal(packsByCode.size);
   });
 
