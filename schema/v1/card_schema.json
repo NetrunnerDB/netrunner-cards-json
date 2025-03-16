@@ -217,6 +217,10 @@
         "minimum": 0,
         "type": "integer"
       },
+      "bio_text": {
+        "minimum": 0,
+        "type": "string"
+      },
       "code": {
         "pattern": "^[0-9]{5}$",
         "type": "string"
