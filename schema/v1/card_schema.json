@@ -218,7 +218,7 @@
         "type": "integer"
       },
       "bio_text": {
-        "minimum": 0,
+        "minLength": 0,
         "type": "string"
       },
       "code": {
