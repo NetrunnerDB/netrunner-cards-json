@@ -280,6 +280,10 @@
       "minimum": 0,
       "type": "integer"
     },
+    "bio_text": {
+      "minimum": 0,
+      "type": "string"
+    },
     "card_type_id": {
       "minLength": 1,
       "type": "string"
