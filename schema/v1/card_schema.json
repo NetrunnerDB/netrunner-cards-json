@@ -217,10 +217,6 @@
         "minimum": 0,
         "type": "integer"
       },
-      "bio_text": {
-        "minLength": 0,
-        "type": "string"
-      },
       "code": {
         "pattern": "^[0-9]{5}$",
         "type": "string"
@@ -278,6 +274,10 @@
       "minimum_deck_size": {
         "minimum": 0,
         "type": "integer"
+      },
+      "narrative_text": {
+        "minLength": 0,
+        "type": "string"
       },
       "pack_code": {
         "maxLength": 5,
