@@ -1,0 +1,18 @@
+{
+  "card_type_id": "program",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "anarch",
+  "id": "rising_tide",
+  "influence_cost": 2,
+  "is_unique": false,
+  "memory_cost": 1,
+  "side_id": "runner",
+  "strength": 1,
+  "stripped_text": "This program gets +1 strength for each fracter in your heap. Interface -> 1 credit: Break 1 barrier subroutine. 1 credit: +1 strength.",
+  "stripped_title": "Rising Tide",
+  "subtypes": ["icebreaker", "fracter"],
+  "text": "This program gets +1 strength for each <strong>fracter</strong> in your heap.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>1[credit]:</strong> +1 strength.",
+  "title": "Rising Tide"
+}

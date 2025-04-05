@@ -1,0 +1,17 @@
+{
+  "card_type_id": "asset",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "weyland_consortium",
+  "id": "anthill_excavation_contract",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you rez this asset, load 8 credits onto it. When it is empty, trash it. When your turn begins, take 4 credits from this asset and draw 1 card.",
+  "stripped_title": "Anthill Excavation Contract",
+  "subtypes": ["industrial"],
+  "text": "When you rez this asset, load 8[credit] onto it. When it is empty, trash it.\nWhen your turn begins, take 4[credit] from this asset and draw 1 card.",
+  "title": "Anthill Excavation Contract",
+  "trash_cost": 1
+}
