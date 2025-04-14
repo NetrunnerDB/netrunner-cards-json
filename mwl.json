@@ -1785,5 +1785,49 @@
     "date_start": "2024-12-26",
     "name": "Standard Ban List 24.12",
     "subtypes": { "current": { "deck_limit": 0 } }
+  },
+  {
+    "cards": {
+      "30006": { "deck_limit": 0 },
+      "30051": { "deck_limit": 0 },
+      "30063": { "deck_limit": 0 },
+      "34111": { "deck_limit": 0 }
+    },
+    "code": "startup-balance-update-25-04-for-classic-only",
+    "date_start": "2025-04-23",
+    "name": "Startup Balance Update 25.04 (ignore active date)",
+    "subtypes": { "current": { "deck_limit": 0 } }
+  },
+  {
+    "cards": {
+      "03053": { "deck_limit": 0 },
+      "26016": { "deck_limit": 0 },
+      "26026": { "deck_limit": 0 },
+      "26067": { "deck_limit": 0 },
+      "26094": { "deck_limit": 0 },
+      "26095": { "deck_limit": 0 },
+      "26097": { "deck_limit": 0 },
+      "26108": { "deck_limit": 0 },
+      "26114": { "deck_limit": 0 },
+      "26116": { "deck_limit": 0 },
+      "26127": { "deck_limit": 0 },
+      "26128": { "deck_limit": 0 },
+      "27007": { "deck_limit": 0 },
+      "30006": { "deck_limit": 0 },
+      "30020": { "deck_limit": 0 },
+      "30036": { "deck_limit": 0 },
+      "30051": { "deck_limit": 0 },
+      "33025": { "deck_limit": 0 },
+      "33051": { "deck_limit": 0 },
+      "33090": { "deck_limit": 0 },
+      "33091": { "deck_limit": 0 },
+      "33106": { "deck_limit": 0 },
+      "33111": { "deck_limit": 0 },
+      "34087": { "deck_limit": 0 },
+      "34111": { "deck_limit": 0 }
+    },
+    "code": "standard-ban-list-25-04",
+    "date_start": "2025-04-24",
+    "name": "Standard Ban List 25.04"
   }
 ]

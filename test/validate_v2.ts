@@ -488,7 +488,7 @@ describe('Restrictions', () => {
 
     // Put any startup banlists for NRDB Classic in here.
     const ignoreRestrictions = new Set<string>(
-      ['startup_ban_list_24_01_for_classic_only', 'startup_ban_list_24_09_for_classic_only']);
+      ['startup_ban_list_24_01_for_classic_only', 'startup_ban_list_24_09_for_classic_only', 'startup_balance_update_25_04_for_classic_only']);
 
     restrictionIds.forEach((restrictionId) => {
       if (ignoreRestrictions.has(restrictionId)) {
