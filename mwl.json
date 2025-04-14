@@ -1785,5 +1785,17 @@
     "date_start": "2024-12-26",
     "name": "Standard Ban List 24.12",
     "subtypes": { "current": { "deck_limit": 0 } }
+  },
+  {
+    "cards": {
+      "30006": { "deck_limit": 0 },
+      "30051": { "deck_limit": 0 },
+      "30063": { "deck_limit": 0 },
+      "34111": { "deck_limit": 0 }
+    },
+    "code": "startup-balance-update-25-04-for-classic-only",
+    "date_start": "2025-04-23",
+    "name": "Startup Balance Update 25.04 (ignore active date)",
+    "subtypes": { "current": { "deck_limit": 0 } }
   }
 ]

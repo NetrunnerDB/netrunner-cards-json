@@ -79,5 +79,17 @@
     "format_id": "startup",
     "id": "startup_liberation",
     "name": "Startup (Liberation)"
+  },
+  {
+    "card_cycle_ids": ["elevation", "liberation", "system_gateway"],
+    "card_set_ids": [
+      "elevation",
+      "rebellion_without_rehearsal",
+      "system_gateway",
+      "the_automata_initiative"
+    ],
+    "format_id": "startup",
+    "id": "startup_elevation",
+    "name": "Startup (Elevation)"
   }
 ]
