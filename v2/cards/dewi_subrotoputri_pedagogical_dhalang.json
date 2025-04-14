@@ -1,0 +1,27 @@
+{
+  "base_link": 0,
+  "card_type_id": "runner_identity",
+  "deck_limit": 1,
+  "designed_by": "null_signal_games",
+  "faces": [
+    {
+      "stripped_text": "Whenever you make a successful run, if you have at least 1 unused  mu, you may flip this identity and draw 1 card.",
+      "stripped_title": "Dewi Subrotoputri: Shadow Guide",
+      "text": "Whenever you make a successful run, if you have at least 1 unused [mu], you may flip this identity and draw 1 card.",
+      "title": "Dewi Subrotoputri: Shadow Guide"
+    }
+  ],
+  "faction_id": "shaper",
+  "id": "dewi_subrotoputri_pedagogical_dhalang",
+  "influence_limit": 15,
+  "is_unique": false,
+  "layout_id": "flip",
+  "minimum_deck_size": 45,
+  "pronouns": "she/her",
+  "side_id": "runner",
+  "stripped_text": "Whenever you make a successful run, if your  mu is full, you may flip this identity and gain 1 credit.",
+  "stripped_title": "Dewi Subrotoputri: Pedagogical Dhalang",
+  "subtypes": ["natural"],
+  "text": "Whenever you make a successful run, if your [mu] is full, you may flip this identity and gain 1[credit].",
+  "title": "Dewi Subrotoputri: Pedagogical Dhalang"
+}

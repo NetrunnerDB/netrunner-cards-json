@@ -1,0 +1,16 @@
+{
+  "card_type_id": "event",
+  "cost": 1,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "anarch",
+  "id": "shred",
+  "influence_cost": 1,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "Run any server. The first time the Corp would end that run, prevent the run from ending unless the Corp reveals and trashes X cards from HQ at random. X is equal to the number of cards in the root of the attacked server.",
+  "stripped_title": "Shred",
+  "subtypes": ["run"],
+  "text": "Run any server. The first time the Corp would end that run, prevent the run from ending unless the Corp reveals and trashes X cards from HQ at random. X is equal to the number of cards in the root of the attacked server.",
+  "title": "Shred"
+}
