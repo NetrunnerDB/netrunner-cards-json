@@ -1,0 +1,16 @@
+{
+  "card_type_id": "resource",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "criminal",
+  "id": "open_market",
+  "influence_cost": 2,
+  "is_unique": false,
+  "side_id": "runner",
+  "stripped_text": "When you install this resource, load 6 credits onto it. When it is empty, trash it. You can spend hosted credits to install connection and job resources. When your turn begins, take 1 credit from this resource.",
+  "stripped_title": "Open Market",
+  "subtypes": ["job", "location"],
+  "text": "When you install this resource, load 6[credit] onto it. When it is empty, trash it.\nYou can spend hosted credits to install <strong>connection</strong> and <strong>job</strong> resources.\nWhen your turn begins, take 1[credit] from this resource.",
+  "title": "Open Market"
+}
