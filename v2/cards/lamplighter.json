@@ -1,0 +1,17 @@
+{
+  "card_type_id": "ice",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "neutral_corp",
+  "id": "lamplighter",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "strength": 3,
+  "stripped_text": "When an agenda is scored or stolen from this server or its root, trash this ice. Subroutine Give the Runner 1 tag unless they pay 3 credits. Subroutine End the run if the Runner is tagged.",
+  "stripped_title": "Lamplighter",
+  "subtypes": ["sentry", "observer"],
+  "text": "When an agenda is scored or stolen from this server or its root, trash this ice.\n[subroutine] Give the Runner 1 tag unless they pay 3[credit].\n[subroutine] End the run if the Runner is tagged.",
+  "title": "Lamplighter"
+}
