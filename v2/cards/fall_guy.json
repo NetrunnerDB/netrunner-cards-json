@@ -8,9 +8,9 @@
   "influence_cost": 1,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "trash: Prevent another installed resource from being trashed. trash: Gain 2 credits.",
+  "stripped_text": "Interrupt -> trash: Prevent a player from trashing another installed resource. trash: Gain 2[credit].",
   "stripped_title": "Fall Guy",
   "subtypes": ["connection"],
-  "text": "[trash]: Prevent another installed resource from being trashed.\n[trash]: Gain 2[credit].",
+  "text": "[interrupt] → [trash]<strong>:</strong> Prevent a player from trashing another installed resource.\n[trash]<strong>:</strong> Gain 2[credit].",
   "title": "Fall Guy"
 }

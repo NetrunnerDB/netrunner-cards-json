@@ -8,9 +8,9 @@
   "influence_cost": 2,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "When you install Jarogniew Mercs, take 1 tag. Place 3 power counters on Jarogniew Mercs, and 1 additional power counter for each tag you have. When there are no power counters left on Jarogniew Mercs, trash it. The Corp cannot trash Jarogniew Mercs while there is another resource installed. Hosted power counter: Prevent 1 meat damage.",
+  "stripped_text": "When you install this resource, take 1 tag. Load X power counters onto this resource, where X is equal to the number of tags you have plus 3. When this resource is empty, trash it. The Corp cannot trash this resource while there is another resource installed. Interrupt -> Hosted power counter: Prevent 1 meat damage.",
   "stripped_title": "Jarogniew Mercs",
   "subtypes": ["clan", "connection"],
-  "text": "When you install Jarogniew Mercs, take 1 tag. Place 3 power counters on Jarogniew Mercs, and 1 additional power counter for each tag you have. When there are no power counters left on Jarogniew Mercs, trash it.\nThe Corp cannot trash Jarogniew Mercs while there is another resource installed.\n<strong>Hosted power counter:</strong> Prevent 1 meat damage.",
+  "text": "When you install this resource, take 1 tag. Load X power counters onto this resource, where X is equal to the number of tags you have plus 3. When this resource is empty, trash it.\nThe Corp cannot trash this resource while there is another resource installed.\n[interrupt] → <strong>Hosted power counter:</strong> Prevent 1 meat damage.",
   "title": "Jarogniew Mercs"
 }

@@ -194,9 +194,9 @@
     "position": 70,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "If you are tagged when your turn ends, force the Corp to \"Trace[1]. If unsuccessful, the Runner removes 1 tag.\" trash,trash all cards in your grip: Prevent all meat damage.",
+    "stripped_text": "When your discard phase ends while you are tagged, the Corp must trace[1]. If unsuccessful, remove 1 tag. Interrupt -> trash, trash all cards from your grip: Prevent all meat damage.",
     "stripped_title": "Citadel Sanctuary",
-    "text": "If you are tagged when your turn ends, force the Corp to \"Trace[1]. If unsuccessful, the Runner removes 1 tag.\"\n[trash],<strong>trash all cards in your grip:</strong> Prevent all meat damage.",
+    "text": "When your discard phase ends while you are tagged, the Corp must trace[1]. If unsuccessful, remove 1 tag.\n[interrupt] → [trash], <strong>trash all cards from your grip:</strong> Prevent all meat damage.",
     "title": "Citadel Sanctuary",
     "type_code": "resource",
     "uniqueness": true

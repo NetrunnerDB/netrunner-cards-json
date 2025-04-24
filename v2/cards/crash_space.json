@@ -8,9 +8,9 @@
   "influence_cost": 2,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "2 recurring credits Use these credits to pay for removing tags. trash: Prevent up to 3 meat damage.",
+  "stripped_text": "2[recurring-credit] You can spend hosted credits to take the basic action to remove 1 tag. Interrupt -> trash: Prevent up to 3 meat damage.",
   "stripped_title": "Crash Space",
   "subtypes": ["location"],
-  "text": "2[recurring-credit]\nUse these credits to pay for removing tags.\n[trash]: Prevent up to 3 meat damage.",
+  "text": "2[recurring-credit]\nYou can spend hosted credits to take the basic action to remove 1 tag.\n[interrupt] → [trash]<strong>:</strong> Prevent up to 3 meat damage.",
   "title": "Crash Space"
 }

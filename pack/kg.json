@@ -132,9 +132,9 @@
     "position": 7,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "+2 mu Once per turn, immediately after you access a card from R&D, you may add that card to the bottom of R&D. If you do, take 1 tag. Limit 1 console per player.",
+    "stripped_text": "+2 mu Once per turn -> When you finish accessing a card in R&D, you may add that card to the bottom of R&D. If you do, take 1 tag. Limit 1 console per player.",
     "stripped_title": "Maya",
-    "text": " +2[mu]\nOnce per turn, immediately after you access a card from R&D, you may add that card to the bottom of R&D. If you do, take 1 tag.\nLimit 1 <strong>console</strong> per player.",
+    "text": "+2[mu]\nOnce per turn → When you finish accessing a card in R&D, you may add that card to the bottom of R&D. If you do, take 1 tag.\nLimit 1 <strong>console</strong> per player.",
     "title": "Maya",
     "type_code": "hardware",
     "uniqueness": true
@@ -152,9 +152,9 @@
     "position": 8,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "Once per turn, when you encounter a piece of ice, you may have it gain 1 subtype of your choice that is not sentry, code gate, or barrier for the remainder of this run.",
+    "stripped_text": "Once per turn -> When you encounter a piece of ice, you may choose 1 subtype that is not barrier, code gate, or sentry. That ice gains the chosen subtype for the remainder of this run.",
     "stripped_title": "Panchatantra",
-    "text": "Once per turn, when you encounter a piece of ice, you may have it gain 1 subtype of your choice that is not <strong>sentry</strong>, <strong>code gate</strong>, or <strong>barrier</strong> for the remainder of this run.",
+    "text": "Once per turn → When you encounter a piece of ice, you may choose 1 subtype that is not <strong>barrier</strong>, <strong>code gate</strong>, or <strong>sentry</strong>. That ice gains the chosen subtype for the remainder of this run.",
     "title": "Panchatantra",
     "type_code": "program",
     "uniqueness": false
