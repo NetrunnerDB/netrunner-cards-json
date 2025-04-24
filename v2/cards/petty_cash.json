@@ -1,0 +1,16 @@
+{
+  "card_type_id": "operation",
+  "cost": 3,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "neutral_corp",
+  "id": "petty_cash",
+  "influence_cost": 0,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "Play only if you have not finished an action yet this turn. Gain 5 credits. If you played this operation from anywhere except HQ, gain click. click: Play this operation from Archives. After it resolves, remove it from the game.",
+  "stripped_title": "Petty Cash",
+  "subtypes": ["transaction"],
+  "text": "Play only if you have not finished an action yet this turn.\nGain 5[credit]. If you played this operation from anywhere except HQ, gain [click].\n[click]<strong>:</strong> Play this operation from Archives. After it resolves, remove it from the game.",
+  "title": "Petty Cash"
+}
