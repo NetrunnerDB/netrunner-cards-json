@@ -8,9 +8,9 @@
   "influence_cost": 1,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "trash: Prevent an installed program or an installed piece of hardware from being trashed.",
+  "stripped_text": "Interrupt -> trash: Prevent a player from trashing 1 installed program or piece of hardware.",
   "stripped_title": "Sacrificial Construct",
   "subtypes": ["remote"],
-  "text": "[trash]: Prevent an installed program or an installed piece of hardware from being trashed.",
+  "text": "[interrupt] → [trash]<strong>:</strong> Prevent a player from trashing 1 installed program or piece of hardware.",
   "title": "Sacrificial Construct"
 }

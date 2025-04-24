@@ -8,9 +8,9 @@
   "influence_cost": 3,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "+1 mu Trash an installed card: Prevent 1 damage. Limit 1 console per player.",
+  "stripped_text": "+1 mu Interrupt -> Trash 1 of your installed cards: Prevent 1 damage. Limit 1 console per player.",
   "stripped_title": "Heartbeat",
   "subtypes": ["console"],
-  "text": "+1[mu]\n<strong>Trash an installed card:</strong> Prevent 1 damage.\nLimit 1 <strong>console</strong> per player.",
+  "text": "+1[mu]\n[interrupt] → <strong>Trash 1 of your installed cards:</strong> Prevent 1 damage.\nLimit 1 <strong>console</strong> per player.",
   "title": "Heartbeat"
 }

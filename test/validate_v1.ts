@@ -175,15 +175,15 @@ describe('Cards', () => {
   it('interrupt formatting is correct', () => {
     cards.forEach(card => {
       if (card.text) {
-        const textMatches = card.text.match(/\[interrupt\](..)?/g);
+        const textMatches = card.text.match(/\[interrupt\](, once per turn)?(..)?/g);
         for (const m in textMatches) {
           expect(textMatches[m], `${card.title} has incorrect interrupt formatting in text`)
-            .to.equal('[interrupt] →');
+            .to.equal(textMatches[m].match('once per turn') ? '[interrupt], once per turn →' : '[interrupt] →');
         }
-        const strippedTextMatches = card.stripped_text.match(/Interrupt(...)?/gi);
+        const strippedTextMatches = card.stripped_text.match(/Interrupt(, once per turn)?(...)?/gi);
         for (const m in strippedTextMatches) {
           expect(strippedTextMatches[m], `${card.title} has incorrect interrupt formatting in stripped_text`)
-            .to.equal('Interrupt ->');
+            .to.equal(textMatches[m].match('once per turn') ? 'Interrupt, once per turn ->' : 'Interrupt ->');
         }
       }
     });

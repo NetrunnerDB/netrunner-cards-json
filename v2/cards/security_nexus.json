@@ -8,9 +8,9 @@
   "influence_cost": 3,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "+1 mu +1 link Once per turn, when you encounter a piece of ice, you may force the Corp to \"Trace[5]. If successful, give the Runner 1 tag and end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\" Limit 1 console per player.",
+  "stripped_text": "+1 mu, +1 link Once per turn -> When you encounter a piece of ice, you may have the Corp trace[5]. If successful, they give you 1 tag and end the run. If unsuccesful, bypass the encountered ice. Limit 1 console per player.",
   "stripped_title": "Security Nexus",
   "subtypes": ["console"],
-  "text": "+1[mu] +1[link]\nOnce per turn, when you encounter a piece of ice, you may force the Corp to \"Trace[5]. If successful, give the Runner 1 tag and end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\"\nLimit 1 <strong>console</strong> per player.",
+  "text": "+1[mu], +1[link]\nOnce per turn → When you encounter a piece of ice, you may have the Corp trace[5]. If successful, they give you 1 tag and end the run. If unsuccesful, bypass the encountered ice.\nLimit 1 <strong>console</strong> per player.",
   "title": "Security Nexus"
 }

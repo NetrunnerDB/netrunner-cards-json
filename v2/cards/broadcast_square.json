@@ -8,10 +8,10 @@
   "influence_cost": 3,
   "is_unique": true,
   "side_id": "corp",
-  "stripped_text": "Whenever you are about to take at least 1 bad publicity, Trace[3]. If successful, avoid taking the bad publicity.",
+  "stripped_text": "Interrupt -> Whenever you would take bad publicity, trace[3]. If successful, prevent all of that bad publicity.",
   "stripped_title": "Broadcast Square",
   "subtypes": ["facility"],
-  "text": "Whenever you are about to take at least 1 bad publicity, Trace[3]. If successful, avoid taking the bad publicity.",
+  "text": "[interrupt] → Whenever you would take bad publicity, trace[3]. If successful, prevent all of that bad publicity.",
   "title": "Broadcast Square",
   "trash_cost": 5
 }

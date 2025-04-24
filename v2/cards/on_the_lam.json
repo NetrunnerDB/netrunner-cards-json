@@ -8,9 +8,9 @@
   "influence_cost": 2,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "Install On the Lam on a resource as a hosted condition counter with the text \"trash: Avoid up to 3 tags or prevent up to 3 damage.\"",
+  "stripped_text": "Host this event on an installed resource as a condition counter with \"Interrupt -> trash: Prevent up to 3 tags or up to 3 damage.\"",
   "stripped_title": "On the Lam",
   "subtypes": ["condition"],
-  "text": "Install On the Lam on a resource as a hosted condition counter with the text \"[trash]: Avoid up to 3 tags or prevent up to 3 damage.\"",
+  "text": "Host this event on an installed resource as a condition counter with \"[interrupt] → [trash]<strong>:</strong> Prevent up to 3 tags or up to 3 damage.\"",
   "title": "On the Lam"
 }

@@ -131,9 +131,9 @@
     "position": 87,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "You are tagged. Prevent all meat damage.",
+    "stripped_text": "You are tagged. Interrupt -> Whenever you would take meat damage, prevent all of that damage.",
     "stripped_title": "Paparazzi",
-    "text": "You are tagged.\nPrevent all meat damage.",
+    "text": "You are tagged.\n[interrupt] → Whenever you would take meat damage, prevent all of that damage.",
     "title": "Paparazzi",
     "type_code": "resource",
     "uniqueness": false
