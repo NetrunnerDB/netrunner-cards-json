@@ -87,7 +87,7 @@
     "code": "red-sand",
     "name": "Red Sand",
     "position": 12,
-    "rotated": false,
+    "rotated": true,
     "size": 6
   },
   {
@@ -108,28 +108,28 @@
     "code": "kitara",
     "name": "Kitara",
     "position": 21,
-    "rotated": false,
+    "rotated": true,
     "size": 6
   },
   {
     "code": "reign-and-reverie",
     "name": "Reign and Reverie",
     "position": 22,
-    "rotated": false,
+    "rotated": true,
     "size": 1
   },
   {
     "code": "magnum-opus",
     "name": "Magnum Opus",
     "position": 23,
-    "rotated": false,
+    "rotated": true,
     "size": 1
   },
   {
     "code": "napd",
     "name": "NAPD Multiplayer",
     "position": 24,
-    "rotated": false,
+    "rotated": true,
     "size": 1
   },
   {
@@ -150,7 +150,7 @@
     "code": "magnum-opus-reprint",
     "name": "Magnum Opus Reprint",
     "position": 28,
-    "rotated": false,
+    "rotated": true,
     "size": 1
   },
   {
@@ -192,7 +192,7 @@
     "code": "elevation",
     "name": "Elevation",
     "position": 34,
-    "rotated": true,
+    "rotated": false,
     "size": 1
   }
 ]
