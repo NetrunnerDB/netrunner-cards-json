@@ -8,10 +8,10 @@
   "influence_cost": 3,
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "Whenever you rez a piece of ice during a run against this server, you may derez another installed piece of ice. If you do, the rezzed ice gets +3 strength for the remainder of that run. Use this ability only once per turn. Limit 1 region per server.",
+  "stripped_text": "Once per turn -> When you rez a piece of ice during a run against this server, you may derez another installed piece of ice. If you do, the rezzed ice gets +3 strength for the remainder of that run. Limit 1 region per server.",
   "stripped_title": "Brasilia Government Grid",
   "subtypes": ["region"],
-  "text": "Whenever you rez a piece of ice during a run against this server, you may derez another installed piece of ice. If you do, the rezzed ice gets +3 strength for the remainder of that run. Use this ability only once per turn.\nLimit 1 <strong>region</strong> per server.",
+  "text": "Once per turn → When you rez a piece of ice during a run against this server, you may derez another installed piece of ice. If you do, the rezzed ice gets +3 strength for the remainder of that run.\nLimit 1 <strong>region</strong> per server.",
   "title": "Brasília Government Grid",
   "trash_cost": 3
 }

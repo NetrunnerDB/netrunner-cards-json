@@ -8,9 +8,9 @@
   "influence_cost": 3,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "The first click you spend each turn must be spent to play a run event or take the basic action to run a server. Lose click click: Break 1 subroutine. Use this ability only once per turn.",
+  "stripped_text": "The first click you spend each turn must be spent to take the basic action to play an event or the basic action to run a server. You cannot take the action to play an event this way except if you play a run event. Once per turn -> Lose click click: Break 1 subroutine.",
   "stripped_title": "Always Be Running",
   "subtypes": ["directive", "virtual"],
-  "text": "The first [click] you spend each turn must be spent to play a <strong>run</strong> event or take the basic action to run a server.\n<strong>Lose [click][click]:</strong> Break 1 subroutine. Use this ability only once per turn.",
+  "text": "The first [click] you spend each turn must be spent to take the basic action to play an event or the basic action to run a server. You cannot take the action to play an event this way except if you play a <strong>run</strong> event.\nOnce per turn → <strong>Lose [click][click]:</strong> Break 1 subroutine.",
   "title": "Always Be Running"
 }

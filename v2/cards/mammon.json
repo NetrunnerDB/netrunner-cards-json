@@ -10,9 +10,9 @@
   "memory_cost": 1,
   "side_id": "runner",
   "strength": 0,
-  "stripped_text": "Interface -> Hosted power counter: Break 1 subroutine. 2 credits: +2 strength. When your turn begins, you may pay X credits to place X power counters on this program. When your turn ends, remove all hosted power counters.",
+  "stripped_text": "When your turn begins, you may spend any number of credits to place that many power counters on this program. When your discard phase ends, remove all hosted power counters. Interface -> Hosted power counter: Break 1 subroutine. 2[credit]: +2 strength.",
   "stripped_title": "Mammon",
   "subtypes": ["icebreaker", "ai"],
-  "text": "Interface → <strong>Hosted power counter:</strong> Break 1 subroutine.\n<strong>2[credit]:</strong> +2 strength.\nWhen your turn begins, you may pay X[credit] to place X power counters on this program.\nWhen your turn ends, remove all hosted power counters.",
+  "text": "When your turn begins, you may spend any number of credits to place that many power counters on this program.\nWhen your discard phase ends, remove all hosted power counters.\nInterface → <strong>Hosted power counter:</strong> Break 1 subroutine.\n<strong>2[credit]:</strong> +2 strength.",
   "title": "Mammon"
 }

@@ -209,9 +209,9 @@
     "position": 91,
     "quantity": 3,
     "side_code": "runner",
-    "stripped_text": "You cannot use Kati Jones more than once per turn. click: Place 3 credits from the bank on Kati Jones. click: Take all credits from Kati Jones.",
+    "stripped_text": "You cannot use this resource more than once per turn. click: Place 3[credit] on this resource. click: Take all credits from this resource.",
     "stripped_title": "Kati Jones",
-    "text": "You cannot use Kati Jones more than once per turn.\n[click]: Place 3[credit] from the bank on Kati Jones.\n[click]: Take all credits from Kati Jones.",
+    "text": "You cannot use this resource more than once per turn.\n[click]<strong>:</strong> Place 3[credit] on this resource.\n[click]<strong>:</strong> Take all credits from this resource.",
     "title": "Kati Jones",
     "type_code": "resource",
     "uniqueness": true
