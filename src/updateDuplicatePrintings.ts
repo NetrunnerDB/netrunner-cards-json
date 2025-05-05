@@ -1,11 +1,10 @@
 // Given a v1 pack, update all other printings of cards in that pack to the
 // values in the specified pack.
 // Quiet a lint warning up since we know our data exists.
-/* eslint-disable @typescript-eslint/no-non-null-assertion */
 
 import fs from "fs";
 import { resolve } from "path";
-import commandLineArgs = require('command-line-args');
+import * as commandLineArgs from 'command-line-args';
 import prettier from "prettier";
 
 const optionDefinitions = [

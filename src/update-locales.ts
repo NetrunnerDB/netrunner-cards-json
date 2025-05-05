@@ -27,7 +27,7 @@ function loadThings(root: string, code?: string) {
 			const json = JSON.parse(readFileSync(filepath, 'utf-8'));
 			result[file] = stripProps(json, ["code", "name"]);
 		} catch (e) {
-			// no-op
+			console.error(`Error loading ${filepath}: ${e}`);
 		}
 	}
 	return result;
@@ -39,7 +39,7 @@ function loadCards(root: string) {
 	try {
 		mkdirSync(localeRoot);
 	} catch (e) {
-		// no-op
+		console.error(`Error creating directory ${localeRoot}: ${e}`);
 	}
 	const files = readdirSync(localeRoot);
 	for (const file of files) {
