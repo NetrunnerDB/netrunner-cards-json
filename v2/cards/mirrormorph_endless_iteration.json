@@ -1,15 +1,16 @@
 {
   "card_type_id": "corp_identity",
   "deck_limit": 1,
+  "designed_by": "null_signal_games",
   "faction_id": "haas_bioroid",
   "id": "mirrormorph_endless_iteration",
   "influence_limit": 15,
   "is_unique": false,
   "minimum_deck_size": 45,
   "side_id": "corp",
-  "stripped_text": "If the first, second, and third actions you take on your turn are different from each other, when the third completes, you may gain 1 credit or take another different action, paying 1click less.",
+  "stripped_text": "If the first, second, and third actions you take on your turn are each different from one another, when the third action completes, you may gain 1 credit or take another different action, paying click less.",
   "stripped_title": "MirrorMorph: Endless Iteration",
   "subtypes": ["division"],
-  "text": "If the first, second, and third actions you take on your turn are different from each other, when the third completes, you may gain 1[credit] or take another different action, paying 1[click] less.",
+  "text": "If the first, second, and third actions you take on your turn are each different from one another, when the third action completes, you may gain 1[credit] or take another different action, paying [click] less.",
   "title": "MirrorMorph: Endless Iteration"
 }

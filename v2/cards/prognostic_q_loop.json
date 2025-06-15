@@ -2,14 +2,15 @@
   "card_type_id": "hardware",
   "cost": 1,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "criminal",
   "id": "prognostic_q_loop",
   "influence_cost": 3,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "The first time each turn a run begins, you may look at the top 2 cards of your stack. 1 credit: Reveal the top card of your stack. You may install that card if it is a program or piece of hardware. Use this ability only once per turn.",
+  "stripped_text": "The first time each turn a run begins, you may look at the top 2 cards of your stack. Once per turn -> 1[credit]: Reveal the top card of your stack. If that card is a program or piece of hardware, you may install it.",
   "stripped_title": "Prognostic Q-Loop",
   "subtypes": ["chip"],
-  "text": "The first time each turn a run begins, you may look at the top 2 cards of your stack.\n<strong>1[credit]:</strong> Reveal the top card of your stack. You may install that card if it is a program or piece of hardware. Use this ability only once per turn.",
+  "text": "The first time each turn a run begins, you may look at the top 2 cards of your stack.\nOnce per turn → <strong>1[credit]:</strong> Reveal the top card of your stack. If that card is a program or piece of hardware, you may install it.",
   "title": "Prognostic Q-Loop"
 }

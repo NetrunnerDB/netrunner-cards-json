@@ -3,12 +3,13 @@
   "agenda_points": 1,
   "card_type_id": "agenda",
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "nbn",
   "id": "breaking_news",
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "When you score Breaking News, give the Runner 2 tags. When the turn on which you scored Breaking News ends, the Runner loses 2 tags.",
+  "stripped_text": "When you score this agenda, give the Runner 2 tags. When a discard phase ends, if you scored this agenda this turn, the Runner removes 2 tags.",
   "stripped_title": "Breaking News",
-  "text": "When you score Breaking News, give the Runner 2 tags.\nWhen the turn on which you scored Breaking News ends, the Runner loses 2 tags.",
+  "text": "When you score this agenda, give the Runner 2 tags.\nWhen a discard phase ends, if you scored this agenda this turn, the Runner removes 2 tags.",
   "title": "Breaking News"
 }

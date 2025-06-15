@@ -1,8 +1,21 @@
 {
-  "id": "napd_mwl_2_0",
-  "name": "NAPD MWL 2.0",
+  "banned": [
+    "aaron_marron",
+    "bloo_moose",
+    "clone_suffrage_movement",
+    "faust",
+    "friends_in_high_places",
+    "mumbad_city_hall",
+    "rumor_mill",
+    "salvaged_vanadis_armory",
+    "sensie_actors_union",
+    "sifr",
+    "temujin_contract"
+  ],
   "date_start": "2017-10-01",
   "format_id": "standard",
+  "id": "napd_mwl_2_0",
+  "name": "NAPD MWL 2.0",
   "restricted": [
     "aesops_pawnshop",
     "bio_ethics_association",
@@ -20,18 +33,5 @@
     "mumba_temple",
     "museum_of_history",
     "obokata_protocol"
-  ],
-  "banned": [
-    "aaron_marron",
-    "bloo_moose",
-    "clone_suffrage_movement",
-    "faust",
-    "friends_in_high_places",
-    "mumbad_city_hall",
-    "rumor_mill",
-    "salvaged_vanadis_armory",
-    "sensie_actors_union",
-    "sifr",
-    "temujin_contract"
   ]
 }

@@ -3,13 +3,14 @@
   "agenda_points": 1,
   "card_type_id": "agenda",
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "haas_bioroid",
   "id": "brain_rewiring",
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "When you score this agenda, you may pay X credits. If you do, the Runner adds X cards from the grip at random to the bottom of the stack, then draws 1 card.",
+  "stripped_text": "When you score this agenda, you may spend any number of credits. If you do, the Runner adds that many cards from the grip to the bottom of the stack at random, then draws 1 card.",
   "stripped_title": "Brain Rewiring",
   "subtypes": ["security"],
-  "text": "When you score this agenda, you may pay X[credit]. If you do, the Runner adds X cards from the grip at random to the bottom of the stack, then draws 1 card.",
+  "text": "When you score this agenda, you may spend any number of credits. If you do, the Runner adds that many cards from the grip to the bottom of the stack at random, then draws 1 card.",
   "title": "Brain Rewiring"
 }

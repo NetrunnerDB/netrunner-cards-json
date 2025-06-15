@@ -2,13 +2,14 @@
   "card_type_id": "hardware",
   "cost": 3,
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "criminal",
   "id": "rubicon_switch",
   "influence_cost": 3,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "click, X credits: Derez 1 piece of ice with printed rez cost X credits that was rezzed this turn. Use this ability only once per turn.",
+  "stripped_text": "Once per turn -> click, X[credit]: Derez 1 piece of ice with a printed rez cost of X[credit] that was rezzed this turn.",
   "stripped_title": "Rubicon Switch",
-  "text": "<strong>[click]</strong>, <strong>X[credit]:</strong> Derez 1 piece of ice with printed rez cost X[credit] that was rezzed this turn. Use this ability only once per turn.",
+  "text": "Once per turn → [click], <strong>X[credit]:</strong> Derez 1 piece of ice with a printed rez cost of X[credit] that was rezzed this turn.",
   "title": "Rubicon Switch"
 }

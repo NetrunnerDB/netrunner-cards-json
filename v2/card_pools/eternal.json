@@ -1,14 +1,12 @@
 [
   {
-    "id": "eternal",
-    "name": "Eternal",
-    "format_id": "eternal",
     "card_cycle_ids": [
       "ashes",
       "borealis",
       "core_set",
       "creation_and_control",
       "data_and_destiny",
+      "elevation",
       "flashpoint",
       "genesis",
       "honor_and_profit",
@@ -50,6 +48,7 @@
       "down_the_white_nile",
       "downfall",
       "earths_scion",
+      "elevation",
       "escalation",
       "fear_and_loathing",
       "fear_the_masses",
@@ -99,6 +98,9 @@
       "upstalk",
       "what_lies_ahead",
       "whispers_in_nalubaale"
-    ]
+    ],
+    "format_id": "eternal",
+    "id": "eternal",
+    "name": "Eternal"
   }
 ]

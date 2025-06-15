@@ -1,8 +1,20 @@
 {
-  "id": "napd_mwl_2_1",
-  "name": "NAPD MWL 2.1",
+  "banned": [
+    "aaron_marron",
+    "bloo_moose",
+    "clone_suffrage_movement",
+    "faust",
+    "friends_in_high_places",
+    "salvaged_vanadis_armory",
+    "sensie_actors_union",
+    "sifr",
+    "temujin_contract",
+    "violet_level_clearance"
+  ],
   "date_start": "2018-02-26",
   "format_id": "standard",
+  "id": "napd_mwl_2_1",
+  "name": "NAPD MWL 2.1",
   "restricted": [
     "aesops_pawnshop",
     "bio_ethics_association",
@@ -26,17 +38,5 @@
     "rumor_mill",
     "tapwrm",
     "whampoa_reclamation"
-  ],
-  "banned": [
-    "aaron_marron",
-    "bloo_moose",
-    "clone_suffrage_movement",
-    "faust",
-    "friends_in_high_places",
-    "salvaged_vanadis_armory",
-    "sensie_actors_union",
-    "sifr",
-    "temujin_contract",
-    "violet_level_clearance"
   ]
 }

@@ -3,6 +3,8 @@ name: CI
 # This action works with pull requests and pushes
 on:
   pull_request:
+    branches:
+      - main
   push:
     branches:
       - main
@@ -10,16 +12,17 @@ on:
 env:  
   # We do not need Husky hooks installed for this workflow.
   HUSKY: 0
+  IMAGENAME: registry.digitalocean.com/nsgcr/netrunner-cards-json
 
 jobs:
   format_and_lint_and_test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Use Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with: 
-          node-version: "18.x"
+          node-version: 20
 
       - name: Install dependencies
         run: npm install
@@ -32,3 +35,37 @@ jobs:
         
       - name: Test
         run: npm run test
+
+  build_and_push:
+    name: Build docker image
+    needs: [format_and_lint_and_test]
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout the repo 
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build image 
+        run: docker build -t $IMAGENAME:latest .
+
+      - name: Install doctl 
+        if: github.ref == 'refs/heads/main'
+        uses: digitalocean/action-doctl@v2
+        with:
+          token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
+
+      - name: Log in to DO Container Registry 
+        if: github.ref == 'refs/heads/main'
+        run: doctl registry login --expiry-seconds 600
+
+      - name: Tag image with run id
+        if: github.ref == 'refs/heads/main'
+        run:
+          docker tag $IMAGENAME:latest $IMAGENAME:${{ github.run_id }}
+
+      - name: Push image to DO Container Registry
+        if: github.ref == 'refs/heads/main'
+        run: docker push $IMAGENAME:${{ github.run_id }} && docker push $IMAGENAME:latest

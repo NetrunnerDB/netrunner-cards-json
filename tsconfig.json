@@ -1,19 +1,19 @@
 {
-  "extends": "@tsconfig/recommended/tsconfig.json",
   "compilerOptions": {
-    "module": "commonjs",
-    "outDir": "dist",
-    "target": "es2017",
-    "noImplicitAny": false,
-    "moduleResolution": "node",
-    "strictNullChecks": true,
-    "sourceMap": true,
-    "removeComments": true,
+    "declaration": true,
     "esModuleInterop": true,
     "incremental": true,
-    "declaration": true,
-    "types": ["mocha", "node"],
-    "typeRoots": ["node_modules/@types", "src/types"]
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "outDir": "dist",
+    "removeComments": true,
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "target": "es2017",
+    "typeRoots": ["node_modules/@types", "src/types"],
+    "types": ["mocha", "node"]
   },
+  "extends": "@tsconfig/recommended/tsconfig.json",
   "include": ["src/**/*"]
 }

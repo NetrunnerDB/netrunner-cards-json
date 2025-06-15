@@ -2,6 +2,7 @@
   "card_type_id": "program",
   "cost": 3,
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "shaper",
   "id": "atman",
   "influence_cost": 3,
@@ -9,9 +10,9 @@
   "memory_cost": 1,
   "side_id": "runner",
   "strength": 0,
-  "stripped_text": "When you install this program, you may pay X credits to place X power counters on it. This program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength. Interface -> 1 credit: Break 1 subroutine.",
+  "stripped_text": "When you install this program, you may spend any number of credits to place that many power counters on it. This program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength. Interface -> 1[credit]: Break 1 subroutine.",
   "stripped_title": "Atman",
   "subtypes": ["icebreaker", "ai"],
-  "text": "When you install this program, you may pay X[credit] to place X power counters on it.\nThis program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\nInterface → <strong>1[credit]:</strong> Break 1 subroutine.",
+  "text": "When you install this program, you may spend any number of credits to place that many power counters on it.\nThis program gets +1 strength for each hosted power counter, and it can only interface with ice of exactly equal strength.\nInterface → <strong>1[credit]:</strong> Break 1 subroutine.",
   "title": "Atman"
 }

@@ -2,14 +2,15 @@
   "card_type_id": "resource",
   "cost": 4,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "criminal",
   "id": "the_class_act",
   "influence_cost": 5,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "When your discard phase ends, if you installed this resource this turn, draw 4 cards. Interrupt -> The first time each turn you would draw any number of cards, look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack. X is equal to the number of cards you will draw plus 1.",
+  "stripped_text": "When a discard phase ends, if you installed this resource this turn, draw 4 cards. Interrupt -> The first time each turn you would draw any number of cards, look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack. X is equal to the number of cards you would draw plus 1.",
   "stripped_title": "The Class Act",
   "subtypes": ["connection", "ritzy"],
-  "text": "When your discard phase ends, if you installed this resource this turn, draw 4 cards.\n[interrupt] → The first time each turn you would draw any number of cards, look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack. X is equal to the number of cards you will draw plus 1.",
+  "text": "When a discard phase ends, if you installed this resource this turn, draw 4 cards.\n[interrupt] → The first time each turn you would draw any number of cards, look at the top X cards of your stack. Add 1 of those cards to the bottom of your stack. X is equal to the number of cards you would draw plus 1.",
   "title": "The Class Act"
 }

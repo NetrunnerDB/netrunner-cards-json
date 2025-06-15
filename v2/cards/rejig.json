@@ -2,13 +2,15 @@
   "card_type_id": "event",
   "cost": 0,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "neutral_runner",
   "id": "rejig",
   "influence_cost": 0,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "Add an installed program or piece of hardware to your grip. If you do, you may install a program or piece of hardware, paying X credits less. X is equal to the printed install cost of the uninstalled card.",
+  "stripped_text": "As an additional cost to play this event, add 1 installed program or piece of hardware to your grip. Install 1 program or piece of hardware from your grip, paying X credits less. X is equal to the printed install cost of the card you added to your grip.",
   "stripped_title": "Rejig",
-  "text": "Add an installed program or piece of hardware to your grip. If you do, you may install a program or piece of hardware, paying X[credit] less. X is equal to the printed install cost of the uninstalled card.",
+  "subtypes": ["mod"],
+  "text": "As an additional cost to play this event, add 1 installed program or piece of hardware to your grip.\nInstall 1 program or piece of hardware from your grip, paying X[credit] less. X is equal to the printed install cost of the card you added to your grip.",
   "title": "Rejig"
 }

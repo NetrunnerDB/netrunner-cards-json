@@ -1,11 +1,4 @@
 {
-  "id": "standard_ban_list_21_10",
-  "name": "Standard Ban List 21.10",
-  "date_start": "2021-10-29",
-  "format_id": "standard",
-  "subtypes": {
-    "banned": ["current"]
-  },
   "banned": [
     "24_7_news_cycle",
     "419_amoral_scammer",
@@ -81,5 +74,12 @@
     "watch_the_world_burn",
     "whampoa_reclamation",
     "zealous_judge"
-  ]
+  ],
+  "date_start": "2021-10-29",
+  "format_id": "standard",
+  "id": "standard_ban_list_21_10",
+  "name": "Standard Ban List 21.10",
+  "subtypes": {
+    "banned": ["current"]
+  }
 }

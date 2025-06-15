@@ -1,0 +1,17 @@
+{
+  "card_type_id": "asset",
+  "cost": 2,
+  "deck_limit": 3,
+  "designed_by": "null_signal_games",
+  "faction_id": "haas_bioroid",
+  "id": "otto_campaign",
+  "influence_cost": 3,
+  "is_unique": false,
+  "side_id": "corp",
+  "stripped_text": "When you rez this asset, load 6 credits onto it. When it is empty, trash it and gain click click. When your turn begins, take 2 credits from this asset.",
+  "stripped_title": "Otto Campaign",
+  "subtypes": ["advertisement"],
+  "text": "When you rez this asset, load 6[credit] onto it. When it is empty, trash it and gain [click][click].\nWhen your turn begins, take 2[credit] from this asset.",
+  "title": "Otto Campaign",
+  "trash_cost": 2
+}

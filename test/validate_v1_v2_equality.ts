@@ -15,12 +15,16 @@ import { expect } from "chai";
 describe('Card Cycles v1/v2', () => {
   // id in v2 is the textToId'd version of the set name, not the same as the NRDB classic code.
   const cyclesByCode = new Map<string, string>();
+  const positionByLegacyCycleCode = new Map<string, number>();
   getCyclesJson().forEach(c => {
     cyclesByCode.set(c.code, c.name);
+    positionByLegacyCycleCode.set(c.code, c.position);
   });
   const cardCyclesByLegacyCode = new Map<string, string>();
+  const v2PositionByLegacyCycleCode = new Map<string, number>();
   getCardCyclesV2Json().forEach(s => {
     cardCyclesByLegacyCode.set(s.legacy_code, s.name);
+    v2PositionByLegacyCycleCode.set(s.legacy_code, s.position);
   });
 
   it('has correct number of cardCycles', () => {
@@ -31,6 +35,9 @@ describe('Card Cycles v1/v2', () => {
     cardCyclesByLegacyCode.forEach((name, legacyCode) => {
       expect(cyclesByCode.has(legacyCode), `legacy_code ${legacyCode} exists in packsByCode map`).to.be.true;
       expect(name, `name mismatch for card set ${name} with legacy_code ${legacyCode}`).to.equal(cyclesByCode.get(legacyCode));
+      expect(v2PositionByLegacyCycleCode.get(legacyCode),
+        `position mismatch for card set ${name} with position ${v2PositionByLegacyCycleCode.get(legacyCode)}`)
+        .to.equal(positionByLegacyCycleCode.get(legacyCode));
     });
   });
 });
@@ -51,7 +58,7 @@ describe('Card Sets v1/v2', () => {
     cardSetsByCode.set(s.legacy_code, s);
   });
 
-  it('correct number of card cardCycles', () => {
+  it('correct number of cardSets', () => {
     expect(cardSetsByCode.size).to.equal(packsByCode.size);
   });
 
@@ -80,13 +87,20 @@ describe('Cards v1/v2 equality', () => {
     v2CardsByTitle.set(c.title, c);
   });
 
+  // cards with copies or progressions are considered distinct cards in v1 but not v2.
   it('correct number of cards', () => {
-    expect(v1CardsByTitle.size).to.equal(v2CardsByTitle.size);
+    const cardCopies: number = Array.from(v2CardsByTitle.values())
+        .filter(c => c.layout_id && (c.layout_id == 'copy' || c.layout_id == 'progression')) // TODO - remove c.layout_id &&
+        .reduce((count, c) => count + c.faces.length, 0);
+    expect(v1CardsByTitle.size).to.equal(v2CardsByTitle.size + cardCopies);
   });
 
   // v2 card_type_id has {corp,runner}_identity instead of just identity.
   it('card_type_id matches', () => {
     v1CardsByTitle.forEach((c, title) => {
+      if (checkTdc(title)) {
+        return;
+      }
       expect(v1CardsByTitle.get(title).type_code, `card_type_id mismatch for ${title}`)
           .to.equal(v2CardsByTitle.get(title).card_type_id.replace(v2CardsByTitle.get(title).side_id + '_', ''));
     });
@@ -95,6 +109,9 @@ describe('Cards v1/v2 equality', () => {
   // v2 subtypes is a lower case list of card_subtype_ids, not the display version of subtypes.
   it('subtypes match', () => {
     v1CardsByTitle.forEach((c, title) => {
+      if (checkTdc(title)) {
+        return;
+      }
       const v1 = v1CardsByTitle.get(title);
       const v2 = v2CardsByTitle.get(title);
       const v1Keywords = v1.keywords ? v1.keywords.split(' - ').map(x => textToId(x)) : [];
@@ -106,16 +123,61 @@ describe('Cards v1/v2 equality', () => {
   function validate(v1Field: string, maybeV2Field?: string) {
     const v2Field = maybeV2Field == undefined ? v1Field : maybeV2Field;
     v1CardsByTitle.forEach((c, title) => {
+      if (checkTdc(title)) {
+        return;
+      }
       expect(v1CardsByTitle.get(title)[v1Field], `${v2Field} mismatch for ${title}`).to.equal(v2CardsByTitle.get(title)[v2Field]);
     });
   }
 
+  function checkTdc(title: string): boolean {
+    return !v2CardsByTitle.get(title) && v1CardsByTitle.get(title).pack_code == "tdc";
+  }
+
   it('text matches', () => {
-    validate('text');
+    v1CardsByTitle.forEach((c, title) => {
+      if (checkTdc(title)) {
+        return;
+      }
+      const v1 = v1CardsByTitle.get(title);
+      const v2 = v2CardsByTitle.get(title);
+      let v2Text;
+      switch(v2.layout_id) {
+        case 'flip':
+          v2Text = v2.text + (v2.faces[0].text ? '\nFlip side:\n' + v2.faces[0].text : '');
+          break;
+        case 'facade':
+          v2Text = v2.text + v2.faces.map((s, i) => s.text ? `\nSide ${i+1}: ${s.text}` : '').join('');
+          break;
+        default:
+          v2Text = v2.text;
+          break;
+      }
+      expect(v1.text, `text mismatch for ${title}`).to.equal(v2Text);
+    });
   });
 
   it('stripped_text matches', () => {
-    validate('stripped_text');
+    v1CardsByTitle.forEach((c, title) => {
+      if (checkTdc(title)) {
+        return;
+      }
+      const v1 = v1CardsByTitle.get(title);
+      const v2 = v2CardsByTitle.get(title);
+      let v2SText;
+      switch(v2.layout_id) {
+        case 'flip':
+          v2SText = v2.stripped_text + (v2.faces[0].stripped_text ? ' Flip side: ' + v2.faces[0].stripped_text : '');
+          break;
+        case 'facade':
+          v2SText = v2.stripped_text + v2.faces.map((s, i) => s.stripped_text ? ` Side ${i+1}: ${s.stripped_text}` : '').join('');
+          break;
+        default:
+          v2SText = v2.stripped_text;
+          break;
+      }
+      expect(v1.stripped_text, `text mismatch for ${title}`).to.equal(v2SText);
+    });
   });
 
   it('stripped_title matches', () => {
@@ -145,7 +207,11 @@ describe('Cards v1/v2 equality', () => {
   it('faction_id matches', () => {
     // We have standardized on underscore separators for v2, but are leaving v1 with dashes.
     v1CardsByTitle.forEach((c, title) => {
-      expect(v1CardsByTitle.get(title).faction_code, `faction_id mismatch for ${title}`).to.equal(v2CardsByTitle.get(title).faction_id.replace('_', '-'));
+      if (checkTdc(title)) {
+        return;
+      }
+      expect(v1CardsByTitle.get(title).faction_code, `faction_id mismatch for ${title}`)
+          .to.equal(v2CardsByTitle.get(title).faction_id.replace('_', '-'));
     });
 
   });
@@ -199,9 +265,12 @@ describe('Printings v1/v2 equality', () => {
     v2CardsByTitle.set(c.title, c);
   });
 
+  // tdc is inconsistent between versions and is ignored in the v1->v2 check.
   it('correct number of printings', () => {
     v1CardsByCode.forEach((v, k) => {
-      expect(printingsById.has(k), `v1 code ${k} exists in printings id map`).to.be.true;
+      if (v.pack_code != 'tdc') {
+        expect(printingsById.has(k), `v1 code ${k} exists in printings id map`).to.be.true;
+      }
     });
     printingsById.forEach((v, k) => {
       expect(v1CardsByCode.has(k), `printing code ${k} exists in v1 map`).to.be.true;
@@ -211,8 +280,15 @@ describe('Printings v1/v2 equality', () => {
   function validate(v1Field: string, maybeV2Field?: string) {
     const v2Field = maybeV2Field == undefined ? v1Field : maybeV2Field;
     v1CardsByCode.forEach((c, code) => {
+      if (checkTdc(c)) {
+        return;
+      }
       expect(c[v1Field], `${v2Field} mismatch for ${code}`).to.equal(printingsById.get(code)[v2Field]);
     });
+  }
+
+  function checkTdc(v1: any): boolean {
+    return !v2CardsByTitle.get(v1.title) && v1.pack_code == 'tdc';
   }
 
   // card_set_id in v2 is the textToId'd version of the set name, not a code.
@@ -230,21 +306,34 @@ describe('Printings v1/v2 equality', () => {
 
   it('card set matches pack names.', () => {
     v1CardsByCode.forEach((v1, code) => {
+      if (checkTdc(v1)) {
+        return;
+      }
       expect(packsByCode.get(v1.pack_code),
           `Card set mismatch for printing id ${code} for ${v1CardsByCode.get(code).title}`)
         .to.equal(setsById.get(printingsById.get(code).card_set_id));
     });
   });
 
+  // v1 flavor text includes design attributions, but in v2 that has been separated into the card attribution property.
   it('flavor matches', () => {
-    // v1 flavor text includes design attributions, but in v2 that has been separated into the card attribution property.
     v1Cards.forEach(v1 => {
+      if (checkTdc(v1)) {
+        return;
+      }
       const v2Printing = printingsById.get(v1.code);
-      const v2Card = v2CardsByTitle.get(v1.title)
+      expect(v2Printing, `Could not find v2 printing with code ${v1.code}`);
+      const v2Card = v2CardsByTitle.get(v1.title);
+      expect(v2Card !== undefined, `Could not find v2 card with title ${v1.title}`);
+
+      let v2Flavor = v2Printing.faces ? [v2Printing.flavor].concat(v2Printing.faces.map(s => s.flavor)).filter(f => !!f).join('\n') : v2Printing.flavor;
+      if (!v2Flavor) {
+        v2Flavor = v2Printing.flavor;
+      }
       if ('attribution' in v2Card) {
-        expect(v1.flavor, `flavor mismatch for ${v1.title}`).to.equal(`${v2Printing.flavor ? v2Printing.flavor + '\n' : ''}<strong>${v2Card.attribution}</strong>`);
+        expect(v1.flavor, `flavor mismatch for ${v1.title}`).to.equal(`${v2Flavor ? v2Flavor + '\n' : ''}<strong>${v2Card.attribution}</strong>`);
       } else {
-        expect(v1.flavor, `flavor mismatch for ${v1.title}`).to.equal(v2Printing.flavor);
+        expect(v1.flavor, `flavor mismatch for ${v1.title}`).to.equal(v2Flavor);
       }
     });
   });
@@ -253,12 +342,28 @@ describe('Printings v1/v2 equality', () => {
     validate('illustrator');
   });
 
+  // Terminal Directive Campaign is inconsistent between versions and is ignored.
   it('position matches', () => {
-    validate('position');
+    v1CardsByCode.forEach((c, code) => {
+      if (c.pack_code == 'tdc') {
+        return;
+      }
+      expect(c.position, `position mismatch for ${code}`).to.equal(printingsById.get(code).position);
+    });
   });
 
+  // copy cards have inconsistent printing representation so are excluded.
   it('quantity matches', () => {
-    validate('quantity');
+    v1CardsByCode.forEach((c, code) => {
+      if (checkTdc(c)) {
+        return;
+      }
+      const p = printingsById.get(code);
+      if (p.layout_id == 'copy') {
+        return;
+      }
+      expect(c.quantity, `quantity mismatch for ${code}`).to.equal(p.quantity);
+    });
   });
 });
 

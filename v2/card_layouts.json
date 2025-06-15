@@ -1,0 +1,27 @@
+[
+  {
+    "description": "A regular one-sided card.",
+    "id": "normal",
+    "name": "Normal"
+  },
+  {
+    "description": "A card with a front and back side.",
+    "id": "flip",
+    "name": "Flip"
+  },
+  {
+    "description": "A card that is made up of multiple distinct cards with the same name.",
+    "id": "copy",
+    "name": "Copy"
+  },
+  {
+    "description": "A card that is made up of multiple cards with the same front face, but distinct flip sides.",
+    "id": "facade",
+    "name": "Facade"
+  },
+  {
+    "description": "A card with iterations on its values.",
+    "id": "progression",
+    "name": "Progression"
+  }
+]

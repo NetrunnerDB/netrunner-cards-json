@@ -2,13 +2,14 @@
   "card_type_id": "resource",
   "cost": 2,
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "neutral_runner",
   "id": "biometric_spoofing",
   "influence_cost": 0,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "trash: Prevent 2 damage.",
+  "stripped_text": "Interrupt -> trash: Prevent 2 damage.",
   "stripped_title": "Biometric Spoofing",
-  "text": "[trash]: Prevent 2 damage.",
+  "text": "[interrupt] → [trash]<strong>:</strong> Prevent 2 damage.",
   "title": "Biometric Spoofing"
 }

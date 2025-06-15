@@ -2,15 +2,16 @@
   "card_type_id": "program",
   "cost": 2,
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "anarch",
   "id": "imp",
   "influence_cost": 3,
   "is_unique": false,
   "memory_cost": 1,
   "side_id": "runner",
-  "stripped_text": "When you install this program, place 2 virus counters on it. Access -> Hosted virus counter: Trash the card you are accessing. Use this ability only once per turn.",
+  "stripped_text": "When you install this program, place 2 virus counters on it. Access, once per turn -> Hosted virus counter: Trash the card you are accessing.",
   "stripped_title": "Imp",
   "subtypes": ["virus"],
-  "text": "When you install this program, place 2 virus counters on it.\nAccess → <strong>Hosted virus counter:</strong> Trash the card you are accessing. Use this ability only once per turn.",
+  "text": "When you install this program, place 2 virus counters on it.\nAccess, once per turn → <strong>Hosted virus counter:</strong> Trash the card you are accessing.",
   "title": "Imp"
 }

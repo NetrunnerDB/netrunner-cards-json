@@ -1,7 +1,7 @@
 import fs from "fs";
 import { basename, resolve } from "path";
 import Ajv2020 from "ajv/dist/2020"
-import { getCardCyclesV2Json, getCardsV2Json, getCardSetsV2Json, getCardSetTypesV2Json, getCardSubtypesV2Json, getCardTypesV2Json, getFactionsV2Json, getSidesV2Json, textToId } from "../src/index";
+import { getCardCyclesV2Json, getCardsV2Json, getCardSetsV2Json, getCardSetTypesV2Json, getCardSubtypesV2Json, getCardTypesV2Json, getCardLayoutsV2Json, getFactionsV2Json, getSidesV2Json, textToId } from "../src/index";
 import { expect } from "chai";
 
 const ajv = new Ajv2020({ strict: true, allErrors: true });
@@ -25,11 +25,12 @@ const subtypes = getCardSubtypesV2Json();
 const subtypeIds = new Set<string>(subtypes.map(c => c.id));
 const cardSetTypes = getCardSetTypesV2Json();
 const cardTypes = getCardTypesV2Json();
+const cardLayouts = getCardLayoutsV2Json();
 const cardSets = getCardSetsV2Json();
 const cardSetIds = new Set<string>(cardSets.map(s => s.id));
 const cards = getCardsV2Json();
 const cardIds = new Set<string>(getCardsV2Json().map(c => c.id));
- 
+
 const formatPoolDir = resolve(__dirname, "../v2/formats");
 const formatPoolFiles =
   fs.readdirSync(formatPoolDir, { withFileTypes: true })
@@ -82,7 +83,7 @@ restrictionFiles.forEach(file => {
   const restriction = JSON.parse(fs.readFileSync(file, 'utf-8'));
   restrictionIds.add(restriction.id);
 });
- 
+
 describe('Sides', () => {
   it('sides.json passes schema validation', () => {
     validateAgainstSchema('sides_schema.json', sides);
@@ -114,7 +115,7 @@ describe('SetTypes', () => {
   });
 
   it('cardSetTypes have proper name/id format', () => {
-    cardSetTypes.forEach(function(st) {
+    cardSetTypes.forEach(function (st) {
       expect(st.id).to.equal(st.name.toLowerCase().replaceAll(' ', '_'));
     });
   });
@@ -127,7 +128,7 @@ describe('Types', () => {
   });
 
   it('cardTypes have proper name/id format', () => {
-    cardTypes.forEach(function(t) {
+    cardTypes.forEach(function (t) {
       expect(t.id).to.equal(textToId(t.name));
     });
   });
@@ -140,9 +141,16 @@ describe('Card Subtypes', () => {
   });
 
   it('subtypes have proper name/id format', () => {
-    subtypes.forEach(function(s) {
+    subtypes.forEach(function (s) {
       expect(s.id).to.equal(textToId(s.name));
     });
+  });
+});
+
+describe('Card Layouts', () => {
+
+  it('card_layouts.json passes schema validation', () => {
+    validateAgainstSchema('card_layouts_schema.json', cardLayouts);
   });
 });
 
@@ -153,7 +161,7 @@ describe('Card Sets', () => {
 
   it('has valid cycle ids', () => {
     cardSets.forEach(s => {
-     expect(cardCycleIds, `Card set ${s.name} has invalid card_cycle_id ${s.card_cycle_id}`).to.include(s.card_cycle_id);
+      expect(cardCycleIds, `Card set ${s.name} has invalid card_cycle_id ${s.card_cycle_id}`).to.include(s.card_cycle_id);
     });
   });
 });
@@ -192,6 +200,10 @@ describe('Printings', () => {
     const printing = JSON.parse(fs.readFileSync(resolve(printingDir, file), 'utf-8'));
     printingsByFilename.set(file, printing);
   });
+  const cardsById = new Map<string, any>();
+  getCardsV2Json().forEach(c => {
+    cardsById.set(c.id, c);
+  });
 
   const schema_path = resolve(__dirname, "../schema/v2/printings_schema.json");
   const schema = JSON.parse(fs.readFileSync(schema_path, "utf-8"));
@@ -206,7 +218,7 @@ describe('Printings', () => {
   });
 
   it('printing files have valid ids', () => {
-   const printingIds = new Set<string>();
+    const printingIds = new Set<string>();
     printingsByFilename.forEach((printing, file) => {
       const positions = new Set<number>();
 
@@ -230,6 +242,26 @@ describe('Printings', () => {
       const cardSetIdFromFile = basename(file).replace('.json', '');
       printing.forEach(p => {
         expect(cardSetIdFromFile, `card_set_id ${p.card_set_id} for ${p.card_id} / ${p.id} does not match file name of ${cardSetIdFromFile}`).to.equal(p.card_set_id);
+      });
+    });
+  });
+
+  it('printing files have valid copy_quantity attributes', () => {
+    printingsByFilename.forEach(printing => {
+      printing.filter(p => p.layout_id && p.layout_id == 'copy').forEach(p => {
+        expect(p.copy_quantity + p.faces.reduce((count, s) => count + s.copy_quantity, 0), `copy_quantity properties of printing ${p.id} do not sum to its quantity property`).to.equal(p.quantity);
+      });
+    });
+  });
+
+  // if a layout_id is present in a card or printing, the other must either have the same layout_id or no layout_id
+  it('printing files do not have conflicting layout_id with cards', () => {
+    printingsByFilename.forEach(printing => {
+      printing.forEach(p => {
+        const card = cardsById.get(p.card_id);
+        if ('layout_id' in p && 'layout_id' in card) {
+          expect(p.layout_id, `layout_id ${p.layout_id} for ${p.card_id} / ${p.id} does not match card layout_id ${card.layout_id} for ${p.card_id}`).to.equal(card.layout_id);
+        }
       });
     });
   });
@@ -319,11 +351,11 @@ describe('Card Pools', () => {
     cardSets.forEach(set => {
       if (!cardSetsByCycleId.has(set.card_cycle_id)) {
         cardSetsByCycleId.set(set.card_cycle_id, new Set<string>());
-      } 
+      }
       cardSetsByCycleId.get(set.card_cycle_id)?.add(set.id);
     });
     cardPoolsByFilename.forEach((cardPool, file) => {
-     cardPool.forEach(p => {
+      cardPool.forEach(p => {
         p.card_cycle_ids?.forEach(card_cycle_id => {
           cardSetsByCycleId.get(card_cycle_id)?.forEach(card_set_id => {
             expect(p.card_set_ids, `card_set_ids for card pool ${p.id} in ${file} should have set ${card_set_id} for cycle ${card_cycle_id}`).includes(card_set_id);
@@ -408,38 +440,63 @@ describe('Restrictions', () => {
     restrictionsByFilename.forEach((restriction, file) => {
       // banned
       if ('banned' in restriction) {
-        expect(restriction.banned, `banned list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.banned.map((e) => e).sort()); 
+        expect(restriction.banned, `banned list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.banned.map((e) => e).sort());
       }
       // subtypes.banned
       if ('subtype' in restriction && 'banned' in restriction.subtype) {
-        expect(restriction.subtype.banned, `subtype.banned list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.subtype.banned.map((e) => e).sort()); 
+        expect(restriction.subtype.banned, `subtype.banned list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.subtype.banned.map((e) => e).sort());
       }
       // global_penalty.1
       if ('global_penalty' in restriction && '1' in restriction.global_penalty) {
-        expect(restriction.global_penalty['1'], `global_penalty['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.global_penalty['1'].map((e) => e).sort()); 
+        expect(restriction.global_penalty['1'], `global_penalty['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.global_penalty['1'].map((e) => e).sort());
       }
       // universal_faction_cost.{1,3}
       if ('universal_faction_cost' in restriction && '1' in restriction.universal_faction_cost) {
-        expect(restriction.universal_faction_cost['1'], `universal_faction_cost['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.universal_faction_cost['1'].map((e) => e).sort()); 
+        expect(restriction.universal_faction_cost['1'], `universal_faction_cost['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.universal_faction_cost['1'].map((e) => e).sort());
       }
       if ('universal_faction_cost' in restriction && '3' in restriction.universal_faction_cost) {
-        expect(restriction.universal_faction_cost['3'], `universal_faction_cost['3'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.universal_faction_cost['3'].map((e) => e).sort()); 
+        expect(restriction.universal_faction_cost['3'], `universal_faction_cost['3'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.universal_faction_cost['3'].map((e) => e).sort());
       }
       // points.{1,2,3}
       if ('points' in restriction && '1' in restriction.points) {
-        expect(restriction.points['1'], `points['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['1'].map((e) => e).sort()); 
+        expect(restriction.points['1'], `points['1'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['1'].map((e) => e).sort());
       }
       if ('points' in restriction && '2' in restriction.points) {
-        expect(restriction.points['2'], `points['2'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['2'].map((e) => e).sort()); 
+        expect(restriction.points['2'], `points['2'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['2'].map((e) => e).sort());
       }
       if ('points' in restriction && '3' in restriction.points) {
-        expect(restriction.points['3'], `points['3'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['3'].map((e) => e).sort()); 
+        expect(restriction.points['3'], `points['3'] list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.points['3'].map((e) => e).sort());
       }
       // restricted
       if ('restricted' in restriction) {
-        expect(restriction.restricted, `restricted list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.restricted.map((e) => e).sort()); 
+        expect(restriction.restricted, `restricted list should be sorted for restriction ${restriction.name} in ${file}`).to.deep.equal(restriction.restricted.map((e) => e).sort());
       }
-     });
+    });
+  });
+
+  it('are present in format files', () => {
+    const restrictionIdsFromFormats = new Set<string>();
+
+    // Get all formats and their listed snapshots.
+    formatsByFilename.forEach((format) => {
+      format.snapshots.forEach(snapshot => {
+        if ('restriction_id' in snapshot) {
+          restrictionIdsFromFormats.add(snapshot.restriction_id);
+        }
+      });
+    });
+
+    // Put any startup banlists for NRDB Classic in here.
+    const ignoreRestrictions = new Set<string>(
+      ['startup_ban_list_24_01_for_classic_only', 'startup_ban_list_24_09_for_classic_only', 'startup_balance_update_25_04_for_classic_only']);
+
+    restrictionIds.forEach((restrictionId) => {
+      if (ignoreRestrictions.has(restrictionId)) {
+        return;
+      }
+
+      expect(restrictionIdsFromFormats, `Restriction ${restrictionId} is not specified in any format snapshots.`).to.include(restrictionId);
+    });
   });
 });
 
@@ -472,8 +529,8 @@ describe('Formats', () => {
     for (const format of formatsByFilename.values()) {
       const dateStart = new Set<string>();
       format.snapshots.forEach(s => {
-          expect(dateStart, `Format ${format.name} has a snapshot with a duplicate date_start: ${s.date_start}.`).to.not.include(s.date_start);
-          dateStart.add(s.date_start);
+        expect(dateStart, `Format ${format.name} has a snapshot with a duplicate date_start: ${s.date_start}.`).to.not.include(s.date_start);
+        dateStart.add(s.date_start);
       });
     }
   });

@@ -1,8 +1,27 @@
 {
-  "id": "snapshot_ban_list_1_0",
-  "name": "Snapshot Ban List 1.0",
+  "banned": [
+    "24_7_news_cycle",
+    "aaron_marron",
+    "bloo_moose",
+    "cerebral_imaging_infinite_frontiers",
+    "clone_suffrage_movement",
+    "estelle_moon",
+    "faust",
+    "friends_in_high_places",
+    "hyperdriver",
+    "mars_for_martians",
+    "museum_of_history",
+    "salvaged_vanadis_armory",
+    "sensie_actors_union",
+    "sifr",
+    "tapwrm",
+    "temujin_contract",
+    "zer0"
+  ],
   "date_start": "2018-09-06",
   "format_id": "snapshot",
+  "id": "snapshot_ban_list_1_0",
+  "name": "Snapshot Ban List 1.0",
   "restricted": [
     "aesops_pawnshop",
     "bio_ethics_association",
@@ -27,24 +46,5 @@
     "surveyor",
     "violet_level_clearance",
     "whampoa_reclamation"
-  ],
-  "banned": [
-    "24_7_news_cycle",
-    "aaron_marron",
-    "bloo_moose",
-    "cerebral_imaging_infinite_frontiers",
-    "clone_suffrage_movement",
-    "estelle_moon",
-    "faust",
-    "friends_in_high_places",
-    "hyperdriver",
-    "mars_for_martians",
-    "museum_of_history",
-    "salvaged_vanadis_armory",
-    "sensie_actors_union",
-    "sifr",
-    "tapwrm",
-    "temujin_contract",
-    "zer0"
   ]
 }

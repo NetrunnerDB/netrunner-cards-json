@@ -1,21 +1,21 @@
 {
   "$id": "https://github.com/netrunnerdb/netrunner-cards-json/blob/master/schema/v1/sides_schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "type": "array",
   "items": {
-    "type": "object",
     "additionalProperties": false,
     "properties": {
       "id": {
+        "enum": ["corp", "runner"],
         "minLength": 1,
-        "type": "string",
-        "enum": ["corp", "runner"]
+        "type": "string"
       },
       "name": {
         "minLength": 1,
         "type": "string"
       }
     },
-    "required": ["id", "name"]
-  }
+    "required": ["id", "name"],
+    "type": "object"
+  },
+  "type": "array"
 }

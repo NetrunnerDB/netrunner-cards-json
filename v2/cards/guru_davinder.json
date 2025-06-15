@@ -2,14 +2,15 @@
   "card_type_id": "resource",
   "cost": 1,
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "neutral_runner",
   "id": "guru_davinder",
   "influence_cost": 1,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "Prevent all net and meat damage. Whenever Guru Davinder prevents at least 1 net or meat damage, trash him unless you pay 4 credits.",
+  "stripped_text": "Interrupt -> Whenever you would take net or meat damage, prevent all of that damage. Whenever this resource prevents 1 or more damage, trash it unless you pay 4[credit].",
   "stripped_title": "Guru Davinder",
   "subtypes": ["connection"],
-  "text": "Prevent all net and meat damage.\nWhenever Guru Davinder prevents at least 1 net or meat damage, trash him unless you pay 4[credit].",
+  "text": "[interrupt] → Whenever you would take net or meat damage, prevent all of that damage.\nWhenever this resource prevents 1 or more damage, trash it unless you pay 4[credit].",
   "title": "Guru Davinder"
 }

@@ -2,15 +2,16 @@
   "card_type_id": "program",
   "cost": 3,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "shaper",
   "id": "cordyceps",
   "influence_cost": 4,
   "is_unique": false,
   "memory_cost": 1,
   "side_id": "runner",
-  "stripped_text": "When you install this program, place 2 virus counters on it. Whenever you make a successful run on a central server, you may remove 1 hosted virus counter to swap a piece of ice protecting that server with another installed piece of ice. Use this ability only once per turn.",
+  "stripped_text": "When you install this program, place 2 virus counters on it. Once per turn -> When you make a successful run on a central server, you may remove 1 hosted virus counter to swap 1 piece of ice protecting that server with another installed piece of ice.",
   "stripped_title": "Cordyceps",
   "subtypes": ["virus"],
-  "text": "When you install this program, place 2 virus counters on it.\nWhenever you make a successful run on a central server, you may remove 1 hosted virus counter to swap a piece of ice protecting that server with another installed piece of ice. Use this ability only once per turn.",
+  "text": "When you install this program, place 2 virus counters on it.\nOnce per turn → When you make a successful run on a central server, you may remove 1 hosted virus counter to swap 1 piece of ice protecting that server with another installed piece of ice.",
   "title": "Cordyceps"
 }

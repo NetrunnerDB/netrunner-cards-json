@@ -32,8 +32,8 @@ export function textToId(text: string): string {
     .normalize('NFD')
     // remove non-ASCII
     .replace(/\P{ASCII}/gu, '')
-    // replace 's followed by a space or end-of-line with s and the space/end match.
-    .replace(/'s(\s|$)/gu, 's$1')
+    // replace '\w followed by a space or end-of-line with \w and the space/end match.
+    .replace(/'(\w)(\s|$)/gu, '$1$2')
     // split along space or punction.
     .split(/[\s\p{P}]+/u)
     // exclude any elements that are empty when trimmed to avoid trailing _ for the join.
@@ -47,6 +47,7 @@ export const getCardSetTypesV2Json = makeV2Reader('card_set_types');
 export const getCardSetsV2Json = makeV2Reader('card_sets');
 export const getCardSubtypesV2Json = makeV2Reader('card_subtypes');
 export const getCardTypesV2Json = makeV2Reader('card_types');
+export const getCardLayoutsV2Json = makeV2Reader('card_layouts');
 export const getCyclesJson = makeV1Reader('cycles');
 export const getFactionsJson = makeV1Reader('factions');
 export const getFactionsV2Json = makeV2Reader('factions');

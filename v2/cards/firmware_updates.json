@@ -3,13 +3,14 @@
   "agenda_points": 1,
   "card_type_id": "agenda",
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "weyland_consortium",
   "id": "firmware_updates",
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "Place 3 agenda counters on Firmware Updates when you score it. Hosted agenda counter: Place 1 advancement token on a piece of ice that can be advanced. Use this ability only once per turn.",
+  "stripped_text": "When you score this agenda, place 3 agenda counters on it. Once per turn -> Hosted agenda counter: Place 1 advancement counter on an installed piece of ice you can advance.",
   "stripped_title": "Firmware Updates",
   "subtypes": ["security"],
-  "text": "Place 3 agenda counters on Firmware Updates when you score it.\n<strong>Hosted agenda counter:</strong> Place 1 advancement token on a piece of ice that can be advanced. Use this ability only once per turn.",
+  "text": "When you score this agenda, place 3 agenda counters on it.\nOnce per turn → <strong>Hosted agenda counter:</strong> Place 1 advancement counter on an installed piece of ice you can advance.",
   "title": "Firmware Updates"
 }

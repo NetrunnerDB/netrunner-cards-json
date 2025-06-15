@@ -2,14 +2,15 @@
   "card_type_id": "hardware",
   "cost": 2,
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "neutral_runner",
   "id": "qianju_pt",
   "influence_cost": 0,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "When your turn begins, you may lose click. If you do, prevent the first tag you would take until your next turn begins.",
+  "stripped_text": "When your turn begins, you may lose click. If you do, the first time you would take tags from now until your next turn begins, prevent 1 tag.",
   "stripped_title": "Qianju PT",
   "subtypes": ["vehicle"],
-  "text": "When your turn begins, you may lose [click]. If you do, prevent the first tag you would take until your next turn begins.",
+  "text": "When your turn begins, you may lose [click]. If you do, the first time you would take tags from now until your next turn begins, prevent 1 tag.",
   "title": "Qianju PT"
 }

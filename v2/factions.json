@@ -1,92 +1,92 @@
 [
   {
-    "id": "adam",
     "color": "A79C59",
     "description": "",
+    "id": "adam",
     "is_mini": true,
     "name": "Adam",
     "side_id": "runner"
   },
   {
-    "id": "anarch",
     "color": "FF4500",
     "description": "It doesn’t have to be this way.\nAfter centuries of corporate control, the laws of the market seem as real and unbreakable as the laws of physics. When you can’t bear living “sensibly” anymore, there is no choice but to attempt the impossible. And sometimes, it works. It works because we’re desperate, it works because we’ve been lied to. It works because anything is possible.\nThe passions that drive Anarchs are as diverse as the disruptive tactics they employ. To the corp, they are the enemy no plan survives contact with. Anarchs are unpredictable, pushing their limits, they run for a better future.",
+    "id": "anarch",
     "is_mini": false,
     "name": "Anarch",
     "side_id": "runner"
   },
   {
-    "id": "apex",
     "color": "8C4847",
+    "id": "apex",
     "is_mini": true,
     "name": "Apex",
     "side_id": "runner"
   },
   {
-    "id": "criminal",
     "color": "4169E1",
     "description": "Some runners have learned that the only way to get ahead in the system is to step outside it.\nThese Criminals know better than to draw attention to their exploits, and so they work in the shadows, sneaking their way into corporate accounts, or they blend in, pretending to be a trusted friend in order to obtain credentials that they definitely should not have. Crims run because it is profitable, whether it be by siphoning funds or selling corporate secrets to the highest bidder.\nAs long as there is a profit to be made from running, Criminals will continue to run.",
+    "id": "criminal",
     "is_mini": false,
     "name": "Criminal",
     "side_id": "runner"
   },
   {
-    "id": "haas_bioroid",
     "color": "8A2BE2",
     "description": "The world leader in cybernetics and artificial intelligence, Haas-Bioroid is most recognized for their eponymous bioroids, cybernetic androids powered by brain-taping technology. The process has become so advanced that these anthropomorphic “labor solutions” almost seem human. Almost.\nThe availability of bioroids has changed the worlds forever. Corporations and the wealthy race to replace their workers, leaving the lower classes fighting for scraps. But bioroids also exceed human capabilities: they can work in conditions that no human can withstand. The synthetic athletes from HB’s Sportsmetal division showcase their faster reflexes, agility, and strength for a popular audience. Brain scans also work in the digital realm. Using the same software as bioroid brains, HB has created ice that can learn, adapt, and outsmart intruders.\nBeyond bioroids, HB’s patents on neural channeling and cybernetics grant them dominance in the fields of prosthetic design and industrial manufacturing. They undercut the competition with inhuman efficiency and precision engineering on both Earth and Luna.",
+    "id": "haas_bioroid",
     "is_mini": false,
     "name": "Haas-Bioroid",
     "side_id": "corp"
   },
   {
-    "id": "jinteki",
     "color": "DC143C",
     "description": "Life is code, and code is mutable. Jinteki’s biotech empire demonstrates this in everything from medtech to bioweapons. They are best known for their monopoly on clone production, competing with Haas-Bioroid by pushing aggressively into labor markets with specialized, gengineered clones. Rumor has it that they take desired traits from animal genetics, but Jinteki has refused to reveal their trade secrets.\nAnd Jinteki takes their secrets very seriously. Although they seldom deign to dirty their hands with wetwork operations, they have no problem setting up traps for an unsuspecting Runner and rezzing dangerous ice. Another criminal fried by their own rig is a tragedy, but not a liability.\nRunners tell stories about their runs against Jinteki, being thwarted at every turn, as if someone could anticipate their every move. It is alleged that Jinteki uses their clone projects to research the potential of human psionic ability, but serious scientists dismiss these claims.\nJinteki remains silent on the matter.",
+    "id": "jinteki",
     "is_mini": false,
     "name": "Jinteki",
     "side_id": "corp"
   },
   {
-    "id": "nbn",
     "color": "FF8C00",
     "description": "NBN is the world’s largest news and entertainment conglomerate. No matter what you do, you do it through NBN. It’s where you get your news from, where you find information. It’s how you talk to your friends. It’s what you watch, what you play. NBN’s Augmented Reality spaces are all that stand between you and the harsh reality of lunar living. It even educates your children. This generates vast amounts of data, which is sold to generate vast amounts of revenue. Through these platforms NBN has rendered itself indispensable for life not only on Earth, but beyond it.\nBut NBN’s greatest claim to power is so ubiquitous it becomes invisible: all public network traffic goes through them. Meddling with their media stranglehold is a dangerous game – you may find your bank account emptied, your healthcare void, your level 73 Warlock suddenly deleted. But that’s fine, right? After all, how could you live without them?",
+    "id": "nbn",
     "is_mini": false,
     "name": "NBN",
     "side_id": "corp"
   },
   {
-    "id": "neutral_corp",
     "color": "808080",
+    "id": "neutral_corp",
     "is_mini": false,
     "name": "Neutral Corp",
     "side_id": "corp"
   },
   {
-    "id": "neutral_runner",
     "color": "808080",
+    "id": "neutral_runner",
     "is_mini": false,
     "name": "Neutral Runner",
     "side_id": "runner"
   },
   {
-    "id": "shaper",
     "color": "32CD32",
     "description": "Shapers run.\nThey don’t run for money, they don’t run for change. They run because they can. They run for fame, for notoriety, for fun. They run because, to them, it is the purest form of self-expression. It’s a challenge, to tinker together the perfect program, to find the most efficient solution to their problems. Though it may take some time for them to find the correct solution, once they do they can crack any server. The contents of the server don’t matter.\nAll that matters is the run.",
+    "id": "shaper",
     "is_mini": false,
     "name": "Shaper",
     "side_id": "runner"
   },
   {
-    "id": "sunny_lebeau",
     "color": "786196",
+    "id": "sunny_lebeau",
     "is_mini": true,
     "name": "Sunny Lebeau",
     "side_id": "runner"
   },
   {
-    "id": "weyland_consortium",
     "color": "006400",
     "description": "Money is power. Power is money. Nobody knows the extent of Weyland Consortium’s control, but they always make a profit. The world’s largest conglomerate, they own—visibly, and invisibly—hundreds of megacorps. Banking, security, arms, mining, construction—all are within their remit. No matter the situation, Weyland comes out on top.\nRising beyond the Earth’s atmosphere, the Space Elevator known as “The Beanstalk” has enabled Weyland’s influence to extend beyond the global, to the orbital, the lunar. The future of humanity is in the stars and Weyland will stop at nothing to get there.\nEnemies of the Consortium, and there are many, rarely last long. Buildings collapse. Drone strikes go awry. Bodies are found with bullets in their heads. Yet the blame is never theirs, because they were never there. Black ops agents and PR teams ensure that. They exist in the shadows, pulling the strings to ensure their vision of the world is never compromised.",
+    "id": "weyland_consortium",
     "is_mini": false,
     "name": "Weyland Consortium",
     "side_id": "corp"

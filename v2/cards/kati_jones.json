@@ -2,14 +2,15 @@
   "card_type_id": "resource",
   "cost": 2,
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "neutral_runner",
   "id": "kati_jones",
   "influence_cost": 0,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "You cannot use Kati Jones more than once per turn. click: Place 3 credits from the bank on Kati Jones. click: Take all credits from Kati Jones.",
+  "stripped_text": "You cannot use this resource more than once per turn. click: Place 3[credit] on this resource. click: Take all credits from this resource.",
   "stripped_title": "Kati Jones",
   "subtypes": ["connection"],
-  "text": "You cannot use Kati Jones more than once per turn.\n[click]: Place 3[credit] from the bank on Kati Jones.\n[click]: Take all credits from Kati Jones.",
+  "text": "You cannot use this resource more than once per turn.\n[click]<strong>:</strong> Place 3[credit] on this resource.\n[click]<strong>:</strong> Take all credits from this resource.",
   "title": "Kati Jones"
 }

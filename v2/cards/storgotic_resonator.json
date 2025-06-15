@@ -2,15 +2,16 @@
   "card_type_id": "asset",
   "cost": 2,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "jinteki",
   "id": "storgotic_resonator",
   "influence_cost": 2,
   "is_unique": true,
   "side_id": "corp",
-  "stripped_text": "The first time each turn you trash (from any location) a card that matches the faction of the Runner's identity, place 1 power counter on this asset. click, hosted power counter: Do 1 net damage.",
+  "stripped_text": "The first time each turn you trash a card that matches the faction of the Runner's identity (from any location), place 1 power counter on this asset. click, hosted power counter: Do 1 net damage.",
   "stripped_title": "Storgotic Resonator",
   "subtypes": ["hostile"],
-  "text": "The first time each turn you trash <em>(from any location)</em> a card that matches the faction of the Runner's identity, place 1 power counter on this asset.\n[click]<strong>, hosted power counter:</strong> Do 1 net damage.",
+  "text": "The first time each turn you trash a card that matches the faction of the Runnerʼs identity <em>(from any location)</em>, place 1 power counter on this asset.\n[click], <strong>hosted power counter:</strong> Do 1 net damage. ",
   "title": "Storgotic Resonator",
   "trash_cost": 2
 }

@@ -2,14 +2,15 @@
   "card_type_id": "resource",
   "cost": 3,
   "deck_limit": 3,
+  "designed_by": "null_signal_games",
   "faction_id": "neutral_runner",
   "id": "dreamnet",
   "influence_cost": 0,
   "is_unique": true,
   "side_id": "runner",
-  "stripped_text": "The first time each turn you make a successful run, draw 1 card. If you have at least 2 link or your identity is digital, also gain 1 credit.",
+  "stripped_text": "The first time each turn you make a successful run, draw 1 card. If your identity is digital or you have at least 2 link, also gain 1 credit.",
   "stripped_title": "DreamNet",
   "subtypes": ["virtual"],
-  "text": "The first time each turn you make a successful run, draw 1 card. If you have at least 2[link] or your identity is <strong>digital</strong>, also gain 1[credit].",
+  "text": "The first time each turn you make a successful run, draw 1 card. If your identity is <strong>digital</strong> or you have at least 2[link], also gain 1[credit].",
   "title": "DreamNet"
 }

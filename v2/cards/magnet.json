@@ -2,15 +2,16 @@
   "card_type_id": "ice",
   "cost": 3,
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "haas_bioroid",
   "id": "magnet",
   "influence_cost": 1,
   "is_unique": false,
   "side_id": "corp",
   "strength": 3,
-  "stripped_text": "When you rez this ice, choose 1 installed program hosted on a piece of ice. Move that program onto this ice. Each hosted program loses all abilities. Subroutine End the run.",
+  "stripped_text": "When you rez this ice, choose 1 installed program hosted on a piece of ice. Host that program on this ice. Each hosted program loses all abilities and cannot gain abilities. Subroutine End the run.",
   "stripped_title": "Magnet",
   "subtypes": ["code_gate"],
-  "text": "When you rez this ice, choose 1 installed program hosted on a piece of ice. Move that program onto this ice.\nEach hosted program loses all abilities.\n[subroutine] End the run.",
+  "text": "When you rez this ice, choose 1 installed program hosted on a piece of ice. Host that program on this ice.\nEach hosted program loses all abilities and cannot gain abilities.\n[subroutine] End the run.",
   "title": "Magnet"
 }

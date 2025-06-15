@@ -3,13 +3,14 @@
   "agenda_points": 3,
   "card_type_id": "agenda",
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "haas_bioroid",
   "id": "elective_upgrade",
   "is_unique": false,
   "side_id": "corp",
-  "stripped_text": "Place 2 agenda counters on Elective Upgrade when you score it. click, hosted agenda counter: Gain click click. Use this ability only once per turn.",
+  "stripped_text": "When you score this agenda, place 2 agenda counters on it. Once per turn -> click, hosted agenda counter: Gain click click.",
   "stripped_title": "Elective Upgrade",
   "subtypes": ["initiative"],
-  "text": "Place 2 agenda counters on Elective Upgrade when you score it.\n[click], <strong>hosted agenda counter</strong>: Gain [click][click]. Use this ability only once per turn.",
+  "text": "When you score this agenda, place 2 agenda counters on it.\nOnce per turn → [click], <strong>hosted agenda counter:</strong> Gain [click][click].",
   "title": "Elective Upgrade"
 }

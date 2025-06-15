@@ -2,14 +2,15 @@
   "card_type_id": "resource",
   "cost": 2,
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "apex",
   "id": "hunting_grounds",
   "influence_cost": 1,
   "is_unique": false,
   "side_id": "runner",
-  "stripped_text": "Once per turn, prevent a \"when encountered\" ability on a piece of ice. trash: Install the top 3 cards of your stack facedown.",
+  "stripped_text": "Interrupt, once per turn -> 0[credit]: Prevent a \"when encountered\" ability on a piece of ice. trash: Install the top 3 cards of your stack facedown.",
   "stripped_title": "Hunting Grounds",
   "subtypes": ["location", "virtual"],
-  "text": "Once per turn, prevent a \"when encountered\" ability on a piece of ice.\n[trash]: Install the top 3 cards of your stack facedown.",
+  "text": "[interrupt], once per turn → <strong>0[credit]:</strong> Prevent a \"when encountered\" ability on a piece of ice.\n[trash]<strong>:</strong> Install the top 3 cards of your stack facedown.",
   "title": "Hunting Grounds"
 }

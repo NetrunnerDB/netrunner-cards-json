@@ -11,7 +11,7 @@
 
 import fs from "fs";
 import { resolve } from "path";
-import commandLineArgs = require('command-line-args');
+import * as commandLineArgs from 'command-line-args';
 import { textToId } from "./index";
 
 const optionDefinitions = [
@@ -25,7 +25,7 @@ if (!options.updates_file) {
 }
 const updates = JSON.parse(fs.readFileSync(options.updates_file, "utf-8"));
 
-const uppies = new Map<string, any>(); 
+const uppies = new Map<string, any>();
 updates.forEach(u => {
   uppies.set(u.name, u);
 });
@@ -39,7 +39,7 @@ fs.readdirSync(packDir).forEach(file => {
     const json = JSON.parse(fs.readFileSync(path, 'utf-8'));
     json.forEach(c => {
       if (uppies.has(c.title)) {
-        const u = uppies.get(c.title); 
+        const u = uppies.get(c.title);
         if (((c.text != u.text) || (c.stripped_text != u.stripped_text) || (u.subtypes && (c.keywords != u.subtypes))) ) {
           needsUpdates = true;
           console.log(`V1 Pack: Need to update ${c.title} in ${file}`);

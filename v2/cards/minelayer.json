@@ -2,15 +2,16 @@
   "card_type_id": "ice",
   "cost": 1,
   "deck_limit": 3,
+  "designed_by": "fantasy_flight_games",
   "faction_id": "haas_bioroid",
   "id": "minelayer",
   "influence_cost": 1,
   "is_unique": false,
   "side_id": "corp",
   "strength": 4,
-  "stripped_text": "Subroutine You may install a piece of ice from HQ as the outermost piece of ice protecting this server, ignoring all install costs.",
+  "stripped_text": "Subroutine You may install 1 piece of ice from HQ protecting this server, ignoring the install cost.",
   "stripped_title": "Minelayer",
   "subtypes": ["code_gate"],
-  "text": "[subroutine] You may install a piece of ice from HQ as the outermost piece of ice protecting this server, ignoring all install costs.",
+  "text": "[subroutine] You may install 1 piece of ice from HQ protecting this server, ignoring the install cost.",
   "title": "Minelayer"
 }
