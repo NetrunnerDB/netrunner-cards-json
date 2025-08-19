@@ -292,6 +292,11 @@
         "minimum": 1,
         "type": "integer"
       },
+      "released_by": {
+        "enum": ["fantasy_flight_games", "null_signal_games"],
+        "minLength": 1,
+        "type": "string"
+      },
       "side_code": {
         "enum": ["corp", "runner"],
         "minLength": 1,
@@ -345,7 +350,8 @@
       "side_code",
       "title",
       "type_code",
-      "uniqueness"
+      "uniqueness",
+      "released_by"
     ],
     "type": "object"
   },
